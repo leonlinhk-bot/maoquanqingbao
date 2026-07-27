@@ -42,8 +42,8 @@ window.HKII_DATA = {
       "posterFree": true,
       "mdItemFree": true,
       "note": {
-        "sc": "浏览与单条/打包下载长期倾向免费；周月年打包可走积分或 Pro。当前对内关闭付费锁。",
-        "tc": "瀏覽與單條/打包下載長期傾向免費；週月年打包可走積分或 Pro。當前對內關閉付費鎖。"
+        "sc": "",
+        "tc": ""
       }
     },
     "positioning": {
