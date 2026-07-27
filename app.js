@@ -5895,8 +5895,7 @@ window.HKII_DATA = {
       foot: "专业参考 · 非销售/投资建议 · 数字请回原文", menu: "菜单",
       roles: [{id:"front",label:"前线IFA"},{id:"midback",label:"中后台合规"},{id:"lead",label:"团队管理"},{id:"cross",label:"跨境架构"}],
       nav: [
-        {id:"pulse",label:"今日脉搏",ico:"◈"},{id:"all",label:"全部动态",ico:"☰"},{id:"daily",label:"角色日报",ico:"▣"},{id:"download",label:"数据下载",ico:"⬇"},
-        {id:"themes",label:"主题雷达",ico:"◎"},{id:"calendar",label:"监管日历",ico:"◷"},{id:"fav",label:"收藏",ico:"☆"},{id:"about",label:"关于",ico:"ⓘ"}
+        {id:"pulse",label:"今日脉搏",ico:"◈"},{id:"all",label:"全部动态",ico:"☰"},{id:"daily",label:"角色日报",ico:"▣"},{id:"themes",label:"主题雷达",ico:"◎"},{id:"calendar",label:"监管日历",ico:"◷"},{id:"download",label:"数据下载",ico:"⬇"},{id:"fav",label:"收藏",ico:"☆"},{id:"about",label:"关于",ico:"ⓘ"}
       ],
       sec:{c:"内容",a:"接入",m:"更多"},
       views:{
@@ -5984,8 +5983,7 @@ window.HKII_DATA = {
       foot: "專業參考 · 非銷售/投資建議 · 數字請回原文", menu: "選單",
       roles: [{id:"front",label:"前線IFA"},{id:"midback",label:"中後台合規"},{id:"lead",label:"團隊管理"},{id:"cross",label:"跨境架構"}],
       nav: [
-        {id:"pulse",label:"今日脈搏",ico:"◈"},{id:"all",label:"全部動態",ico:"☰"},{id:"daily",label:"角色日報",ico:"▣"},{id:"download",label:"數據下載",ico:"⬇"},
-        {id:"themes",label:"主題雷達",ico:"◎"},{id:"calendar",label:"監管日曆",ico:"◷"},{id:"fav",label:"收藏",ico:"☆"},{id:"about",label:"關於",ico:"ⓘ"}
+        {id:"pulse",label:"今日脈搏",ico:"◈"},{id:"all",label:"全部動態",ico:"☰"},{id:"daily",label:"角色日報",ico:"▣"},{id:"themes",label:"主題雷達",ico:"◎"},{id:"calendar",label:"監管日曆",ico:"◷"},{id:"download",label:"數據下載",ico:"⬇"},{id:"fav",label:"收藏",ico:"☆"},{id:"about",label:"關於",ico:"ⓘ"}
       ],
       sec:{c:"內容",a:"接入",m:"更多"},
       views:{
@@ -6139,9 +6137,8 @@ window.HKII_DATA = {
       arr = arr.filter(i => (i.themes || []).includes(state.themeFilter) || (i.boards || []).includes(state.themeFilter));
     }
     arr = arr.filter(matches);
-    // 全部动态 / 显式要求：严格发布时间降序（筛选不改变排序键）
-    // 其他视图：角色加权优先，时间次之
-    if (forceTime || state.view === "all" || state.view === "fav" || state.view === "download") {
+    // 所有视图：严格发布时间降序；筛选不改变排序键
+    if (forceTime || true) {
       arr.sort((a,b)=> (b.publishedAt||"").localeCompare(a.publishedAt||"") || (b.score||0)-(a.score||0));
     } else {
       arr.sort((a,b)=> roleScore(b)-roleScore(a) || (b.publishedAt||"").localeCompare(a.publishedAt||""));
@@ -6229,7 +6226,7 @@ window.HKII_DATA = {
     const t=T();
     const items=(DATA.hot||[]).map(byId).filter(Boolean);
     if(!items.length) return "";
-    return `<section class="hot"><div class="hot-label">${t.hot}</div><ol>${items.map((it,i)=>`<li><button type="button" data-open="${it.id}">${i+1}. ${esc(tx(it.title))}</button></li>`).join("")}</ol></section>`;
+    return `<section class="hot"><div class="hot-label">${t.hot}</div><ol>${items.map((it,i)=>`<li><button type="button" data-open="${it.id}">${esc(tx(it.title))}</button></li>`).join("")}</ol></section>`;
   }
 
   function render(){
@@ -6245,7 +6242,7 @@ window.HKII_DATA = {
       // evergreen
       const eg=(DATA.evergreen||[]).map(byId).filter(Boolean).filter(matches);
       if(eg.length){
-        html+=`<div class="evergreen-banner-wrapper"><h3>${t.evergreen}</h3><p class="evergreen-hint">← 左右滑动查看 · 驻点标准：持续有效的监管规则与长期适用的披露要求 →</p><div class="evergreen-banner">${eg.map(it=>`<div class="banner-card" data-open="${it.id}" onclick="document.querySelector('[data-open=\\'${it.id}\\']')?.click()"><div class="banner-tag">常驻</div><h4>${esc(tx(it.title))}</h4><p>${esc(tx(it.summary))}</p></div>`).join("")}</div></div>`;
+        html+=`<div class="evergreen-banner-wrapper"><h3>${t.evergreen}</h3><p class="evergreen-hint">← 滑动查看 · 驻点：持续有效的监管规则与长期适用的披露要求 →</p><div class="evergreen-scroll"><button class="evergreen-scroll-btn" onclick="this.nextElementSibling.scrollBy({left:-300,behavior:'smooth'})">‹</button><div class="evergreen-banner">${eg.map(it=>`<div class="banner-card" data-open="${it.id}"><div class="banner-tag">常驻</div><h4>${esc(tx(it.title))}</h4><p>${esc(tx(it.summary))}</p></div>`).join("")}</div><button class="evergreen-scroll-btn" onclick="this.previousElementSibling.scrollBy({left:300,behavior:'smooth'})">›</button></div></div>`;
       }
       html+=hot()+chips(state.themeFilter)+feed(list({featuredOnly:true}));
     }

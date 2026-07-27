@@ -209,3 +209,9 @@ button,input{font:inherit;color:inherit}a{color:inherit;text-decoration:none}.ap
 .evergreen-banner .banner-tag{display:inline-block;font-size:10px;letter-spacing:.5px;color:var(--accent,#e8a54b);background:rgba(232,165,75,.12);padding:2px 8px;border-radius:6px;margin-bottom:6px}
 .evergreen-banner .banner-card h4{font-size:13px;margin:0 0 4px;line-height:1.35}
 .evergreen-banner .banner-card p{font-size:12px;color:var(--text-dim);margin:0;line-height:1.4;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+
+/* Banner 滚动按钮 */
+.evergreen-scroll{display:flex;align-items:center;gap:4px}
+.evergreen-scroll-btn{flex-shrink:0;width:28px;height:28px;border:1px solid var(--border);border-radius:8px;background:var(--bg-card);color:var(--text-muted);cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:14px;transition:all .12s}
+.evergreen-scroll-btn:hover{border-color:var(--accent,#e8a54b);color:var(--accent,#e8a54b)}
+.evergreen-scroll-btn:active{background:rgba(232,165,75,.1)}
