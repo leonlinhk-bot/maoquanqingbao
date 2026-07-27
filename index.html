@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>猫圈儿港险情报站</title>
+<link rel="icon" href="assets/logo-cat-64.jpg" />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<div class="app">
+  <aside class="sidebar" id="sidebar">
+    <div class="brand">
+      <div class="brand-mark">
+        <img class="logo-img" src="assets/logo-cat-256.jpg" alt="猫圈儿" width="42" height="42" />
+        <div>
+          <h1 id="brandName">猫圈儿港险情报站</h1>
+          <p id="brandSub">维港猫圈儿 · 持牌人情报台</p>
+        </div>
+      </div>
+      <div class="wechat-pill" id="wechatPill">公众号：维港猫圈儿</div>
+    </div>
+    <nav class="nav" id="nav"></nav>
+    <div class="sidebar-foot">
+      <div class="toggle-row">
+        <button type="button" data-lang="sc" class="on">简体</button>
+        <button type="button" data-lang="tc">繁體</button>
+      </div>
+      <div class="toggle-row">
+        <button type="button" data-theme-btn="dark" class="on">深色</button>
+        <button type="button" data-theme-btn="light">浅色</button>
+      </div>
+      <div id="pointsBar" class="points-bar"></div>
+      <div id="footNote">专业参考 · 非销售/投资建议</div>
+    </div>
+  </aside>
+  <div class="main">
+    <header class="topbar">
+      <div class="topbar-row">
+        <div class="page-title">
+          <h2 id="viewTitle">今日脉搏</h2>
+          <div class="sub" id="viewSub"></div>
+        </div>
+        <div class="controls">
+          <div class="role-pills" id="rolePills"></div>
+          <div class="search-box">
+            <span style="color:var(--text-dim)">⌕</span>
+            <input id="q" type="search" />
+          </div>
+        </div>
+      </div>
+    </header>
+    <main class="content" id="content"></main>
+  </div>
+</div>
+<button class="mobile-toggle" id="menuBtn" type="button">菜单</button>
+<div class="drawer-backdrop" id="backdrop"></div>
+<aside class="drawer" id="drawer" aria-hidden="true">
+  <div class="drawer-head">
+    <h3 id="dTitle"></h3>
+    <button class="drawer-close" id="dClose" type="button">✕</button>
+  </div>
+  <div class="drawer-body" id="dBody"></div>
+</aside>
+
+<!-- 朋友圈海报 -->
+<div class="modal-backdrop" id="posterModal" hidden>
+  <div class="modal-sheet" role="dialog" aria-label="poster">
+    <div class="modal-head">
+      <strong id="posterModalTitle">朋友圈海报</strong>
+      <button type="button" class="drawer-close" id="posterClose">✕</button>
+    </div>
+    <div class="modal-body">
+      <p class="modal-tip" id="posterTip"></p>
+      <div class="poster-stage">
+        <canvas id="posterCanvas" width="1080" height="1350"></canvas>
+      </div>
+      <div class="modal-actions">
+        <button type="button" class="btn primary" id="posterDownload">下载 PNG</button>
+        <button type="button" class="btn" id="posterCopyMd">复制文案</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
