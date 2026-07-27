@@ -5896,8 +5896,7 @@ window.HKII_DATA = {
       roles: [{id:"front",label:"前线IFA"},{id:"midback",label:"中后台合规"},{id:"lead",label:"团队管理"},{id:"cross",label:"跨境架构"}],
       nav: [
         {id:"pulse",label:"今日脉搏",ico:"◈"},{id:"all",label:"全部动态",ico:"☰"},{id:"daily",label:"角色日报",ico:"▣"},{id:"download",label:"数据下载",ico:"⬇"},
-        {id:"themes",label:"主题雷达",ico:"◎"},{id:"calendar",label:"监管日历",ico:"◷"},{id:"fav",label:"收藏",ico:"☆"},
-        {id:"agent",label:"Agent 接入",ico:"⌘"},{id:"about",label:"关于",ico:"ⓘ"}
+        {id:"themes",label:"主题雷达",ico:"◎"},{id:"calendar",label:"监管日历",ico:"◷"},{id:"fav",label:"收藏",ico:"☆"},{id:"about",label:"关于",ico:"ⓘ"}
       ],
       sec:{c:"内容",a:"接入",m:"更多"},
       views:{
@@ -5907,7 +5906,6 @@ window.HKII_DATA = {
         themes:{t:"主题雷达",s:"六大业务板块地图 · 战略导航，不是信息流细筛"},
         calendar:{t:"监管日历",s:"生效日与关键窗口"},
         fav:{t:"收藏",s:"保存在本机"},
-        agent:{t:"Agent 接入",s:"接入方式 · 使用说明 · 免责（对标 AI HOT）"},
         about:{t:"关于",s:"定位、原则与免责"}
       },
       themes:{reg:"监管",product:"产品",channel:"渠道人力",macro:"宏观资产",par:"分红实现率",uw:"核保理赔",compliance:"合规实操",offshore:"跨境离岸",firm:"机构竞争",tech:"科技运营",career:"职业CPD",intl:"国际对标"},
@@ -5918,6 +5916,7 @@ window.HKII_DATA = {
       original:"打开原文", note:"核对提示", dayUnit:"条", roleNow:"当前角色", window:"数据窗口",
       about1:"猫圈儿港险情报站=港险相关官方/一手资讯的高效汇聚台：监管、保司官网披露、机构研究与媒体线索，导读可追溯原文。不做分红实现率数据库（公司另有专业工具）。",
       about2:"与微信公众号「维港猫圈儿」同一品牌人格：专业、好懂、有温度。站点偏工具与检索；公众号偏解读与陪伴。",
+      qrTip:"微信扫码关注，获取每日港险解读与陪伴。",
       principles:"原则", p1:"监管与保司官网资讯优先；媒体/研究作线索，必须可回原文", p2:"同一矿山，按角色切片", p3:"每条精选带「今日动作」", p4:"摘要必须可回原文",
       disclaimer:"免责声明", disc:"内容供香港持牌保险中介及专业人士参考，不构成销售建议、投资建议或法律意见。请以监管与保司原文为准。",
       agentH:"如何接入", agentSub:"三条路径规划与 AI HOT 对齐：网页人读 + RSS/API + Agent Skill。当前原型以网页为准，接口形态如下。",
@@ -5946,6 +5945,7 @@ window.HKII_DATA = {
       guideLabel:"本站导读（非原文）",
       originalAuthority:"权威原文",
       sourceKey:"来源指纹",
+      positionH:"定位",
       fidelity:"内容纪律",
       fidelityText:"我们只做资讯聚合与导读索引：不篡改原文，不建分红实现率数仓。摘要/动作卡为二次整理；数字与规则以原文链接为准。",
       itemsInPeriod:"本期条目",
@@ -5985,8 +5985,7 @@ window.HKII_DATA = {
       roles: [{id:"front",label:"前線IFA"},{id:"midback",label:"中後台合規"},{id:"lead",label:"團隊管理"},{id:"cross",label:"跨境架構"}],
       nav: [
         {id:"pulse",label:"今日脈搏",ico:"◈"},{id:"all",label:"全部動態",ico:"☰"},{id:"daily",label:"角色日報",ico:"▣"},{id:"download",label:"數據下載",ico:"⬇"},
-        {id:"themes",label:"主題雷達",ico:"◎"},{id:"calendar",label:"監管日曆",ico:"◷"},{id:"fav",label:"收藏",ico:"☆"},
-        {id:"agent",label:"Agent 接入",ico:"⌘"},{id:"about",label:"關於",ico:"ⓘ"}
+        {id:"themes",label:"主題雷達",ico:"◎"},{id:"calendar",label:"監管日曆",ico:"◷"},{id:"fav",label:"收藏",ico:"☆"},{id:"about",label:"關於",ico:"ⓘ"}
       ],
       sec:{c:"內容",a:"接入",m:"更多"},
       views:{
@@ -5996,7 +5995,6 @@ window.HKII_DATA = {
         themes:{t:"主題雷達",s:"六大業務板塊地圖 · 戰略導航，不是資訊流細篩"},
         calendar:{t:"監管日曆",s:"生效日與關鍵窗口"},
         fav:{t:"收藏",s:"保存在本機"},
-        agent:{t:"Agent 接入",s:"接入方式 · 使用說明 · 免責（對標 AI HOT）"},
         about:{t:"關於",s:"定位、原則與免責"}
       },
       themes:{reg:"監管",product:"產品",channel:"渠道人力",macro:"宏觀資產",par:"分紅實現率",uw:"核保理賠",compliance:"合規實操",offshore:"跨境離岸",firm:"機構競爭",tech:"科技運營",career:"職業CPD",intl:"國際對標"},
@@ -6007,6 +6005,7 @@ window.HKII_DATA = {
       original:"打開原文", note:"核對提示", dayUnit:"條", roleNow:"當前角色", window:"數據窗口",
       about1:"貓圈兒港險情報站=港險相關官方/一手資訊的高效匯聚台：監管、保司官網披露、機構研究與媒體線索，導讀可追溯原文。不做分紅實現率數據庫（公司另有專業工具）。",
       about2:"與微信公眾號「維港貓圈兒」同一品牌人格：專業、好懂、有溫度。站點偏工具與檢索；公眾號偏解讀與陪伴。",
+      qrTip:"微信掃碼關注，獲取每日港險解讀與陪伴。",
       principles:"原則", p1:"監管與保司官網資訊優先；媒體/研究作線索，必須可回原文", p2:"同一礦山，按角色切片", p3:"每條精選帶「今日動作」", p4:"摘要必須可回原文",
       disclaimer:"免責聲明", disc:"內容供香港持牌保險中介及專業人士參考，不構成銷售建議、投資建議或法律意見。請以監管與保司原文為準。",
       agentH:"如何接入", agentSub:"三條路徑規劃與 AI HOT 對齊：網頁人讀 + RSS/API + Agent Skill。當前原型以網頁為準，接口形態如下。",
@@ -6035,6 +6034,7 @@ window.HKII_DATA = {
       guideLabel:"本站導讀（非原文）",
       originalAuthority:"權威原文",
       sourceKey:"來源指紋",
+      positionH:"定位",
       fidelity:"內容紀律",
       fidelityText:"我們只做資訊聚合與導讀索引：不篡改原文，不建分紅實現率數倉。摘要/動作卡為二次整理；數字與規則以原文連結為準。",
       itemsInPeriod:"本期條目",
@@ -6363,36 +6363,24 @@ window.HKII_DATA = {
       }
     }
 
-    else if(state.view==="agent"){
-      html+=`<div class="panel agent-hero"><h3>${t.agentH}</h3><p>${esc(t.agentSub||"")}</p>
-        <div class="agent-paths">
-          <div class="agent-path"><div class="agent-path-n">01</div><div><strong>Web</strong><p>${esc(t.a1)}</p></div></div>
-          <div class="agent-path"><div class="agent-path-n">02</div><div><strong>RSS / API</strong><p>${esc(t.a2)}</p></div></div>
-          <div class="agent-path"><div class="agent-path-n">03</div><div><strong>Agent Skill</strong><p>${esc(t.a3)}</p></div></div>
+    else if(state.view==="about"){
+      html+=`<div class="panel about-hero">
+        <h3>${t.brandName}</h3>
+        <p class="sub">${t.brandSub}</p>
+        <p>${esc(t.about1)}</p>
+        <p>${esc(t.about2)}</p>
+      </div>
+      <div class="panel about-qr">
+        <div class="qr-area">
+          <div class="qr-placeholder" id="qrCode">[公众号二维码]</div>
+          <p><strong>${t.wechat}</strong></p>
+          <p class="qr-tip">${t.qrTip}</p>
         </div>
       </div>
-      <div class="panel"><h3>${t.agentUseH||"接入后怎么用"}</h3>
-        <ul class="agent-list">
-          <li>${esc(t.agentUse1||"")}</li>
-          <li>${esc(t.agentUse2||"")}</li>
-          <li>${esc(t.agentUse3||"")}</li>
-          <li>${esc(t.agentUse4||"")}</li>
-        </ul>
-      </div>
-      <div class="panel"><h3>${t.agentEx}</h3><div class="code">${esc(t.agentCode)}</div>
-        <p class="agent-tip">成功的样子：回答注明时间窗、给出有限条中文摘要，并附站内或原文链接。</p>
-      </div>
-      <div class="panel agent-disc"><h3>${t.agentDiscH||t.disclaimer}</h3>
-        <ol class="agent-list">
-          <li>${esc(t.agentDisc1||"")}</li>
-          <li>${esc(t.agentDisc2||"")}</li>
-          <li>${esc(t.agentDisc3||"")}</li>
-          <li>${esc(t.agentDisc4||"")}</li>
-          <li>${esc(t.agentDisc5||"")}</li>
-        </ol>
-        <p class="lock-note">${esc(t.disc)}</p>
-      </div>`;
-    } else if(state.view==="about"){
+      <div class="panel"><h3>${t.fidelity}</h3><p>${esc(t.fidelityText)}</p></div>
+      <div class="panel"><h3>${t.principles}</h3><ul><li>${esc(t.p1)}</li><li>${esc(t.p2)}</li><li>${esc(t.p3)}</li><li>${esc(t.p4)}</li></ul></div>
+      <div class="panel"><h3>${t.positioningH}</h3><p>${esc(tx((DATA.meta&&DATA.meta.positioning)||{}))}</p></div>
+      <div class="panel"><h3>${t.disclaimer}</h3><p>${esc(t.disc)}</p></div>`;
       html+=`<div class="panel"><h3>${t.brandName}</h3><p>${t.about1}</p><p>${t.about2}</p><p>${esc(tx((DATA.meta&&DATA.meta.positioning)||{}))}</p></div><div class="panel"><h3>${t.fidelity}</h3><p>${t.fidelityText}</p><p>${t.downloadHint||t.archiveHint||""}</p></div><div class="panel"><h3>${t.principles}</h3><ul><li>${t.p1}</li><li>${t.p2}</li><li>${t.p3}</li><li>${t.p4}</li></ul></div><div class="panel"><h3>Pro / 积分（规划）</h3>
       <p>${esc(tx((mon().note)||{}))}</p>
       <p>免费：浏览、收藏、单条 MD、海报、日报导出。周/月/年打包下载可积分或 Pro（当前锁：${mon().enabled?"开":"关-对内全免费"}）。</p>
