@@ -6372,20 +6372,21 @@ window.HKII_DATA = {
       </div>
       <div class="panel about-qr">
         <div class="qr-area">
-          <div class="qr-placeholder" id="qrCode">[公众号二维码]</div>
+          <img src="assets/qr-wechat.jpg" alt="维港猫圈儿" width="120" height="120" />
           <p><strong>${t.wechat}</strong></p>
           <p class="qr-tip">${t.qrTip}</p>
         </div>
       </div>
-      <div class="panel"><h3>${t.fidelity}</h3><p>${esc(t.fidelityText)}</p></div>
-      <div class="panel"><h3>${t.principles}</h3><ul><li>${esc(t.p1)}</li><li>${esc(t.p2)}</li><li>${esc(t.p3)}</li><li>${esc(t.p4)}</li></ul></div>
-      <div class="panel"><h3>${t.positioningH}</h3><p>${esc(tx((DATA.meta&&DATA.meta.positioning)||{}))}</p></div>
-      <div class="panel"><h3>${t.disclaimer}</h3><p>${esc(t.disc)}</p></div>`;
-      html+=`<div class="panel"><h3>${t.brandName}</h3><p>${t.about1}</p><p>${t.about2}</p><p>${esc(tx((DATA.meta&&DATA.meta.positioning)||{}))}</p></div><div class="panel"><h3>${t.fidelity}</h3><p>${t.fidelityText}</p><p>${t.downloadHint||t.archiveHint||""}</p></div><div class="panel"><h3>${t.principles}</h3><ul><li>${t.p1}</li><li>${t.p2}</li><li>${t.p3}</li><li>${t.p4}</li></ul></div><div class="panel"><h3>Pro / 积分（规划）</h3>
-      <p>${esc(tx((mon().note)||{}))}</p>
-      <p>免费：浏览、收藏、单条 MD、海报、日报导出。周/月/年打包下载可积分或 Pro（当前锁：${mon().enabled?"开":"关-对内全免费"}）。</p>
+      <div class="panel about-notice">
+        <h4>使用须知</h4>
+        <ul>
+          <li>本站为资讯聚合与导读索引。摘要与动作卡由人工/AI二次整理，数字与规则以原文链接为准。</li>
+          <li>内容供香港持牌保险中介及专业人士参考，不构成销售建议、投资建议或法律意见。</li>
+          <li>常驻信息的驻点标准：持续有效的监管规则、长期适用的披露要求、行业基础框架性文件。</li>
+          <li>英文原文已标注语种标记；翻译内容仅供参考，以原文为准。</li>
+        </ul>
       </div>
-      <div class="panel"><h3>${t.disclaimer}</h3><p>${t.disc}</p></div>`;
+      <div class="panel"><h3>${t.disclaimer}</h3><p>${esc(t.disc)}</p></div>`;
     }
     $("#content").innerHTML=html;
   }
