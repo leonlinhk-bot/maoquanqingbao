@@ -179,13 +179,33 @@ button,input{font:inherit;color:inherit}a{color:inherit;text-decoration:none}.ap
 .sources-layer-note{font-size:12px;color:var(--text-dim);line-height:1.5}
 
 /* 关于页面 */
-.about-hero{text-align:center;padding:8px 0 20px}
-.about-hero .sub{font-size:13px;color:var(--text-dim);margin:-6px 0 12px}
-.about-qr{text-align:center;padding:8px 0}
-.about-qr img{width:120px;height:120px;border-radius:10px;margin-bottom:8px}
-.about-qr .label{font-size:13px;font-weight:600;margin:4px 0}
-.about-qr .tip{font-size:12px;color:var(--text-dim);margin-top:2px}
-.about-notice h4{font-size:13px;margin-bottom:6px;color:var(--accent,#e8a54b)}
+.about-page{max-width:640px;margin:0 auto;padding:16px 0}
+.about-hero{text-align:center;padding:24px 0 0}
+.about-hero h3{font-size:20px;margin:0 0 6px}
+.about-hero .sub{font-size:13px;color:var(--text-dim)}
+.about-body{display:flex;gap:32px;align-items:center;justify-content:center;padding:20px 0;flex-wrap:wrap}
+.about-desc{flex:1;min-width:260px;max-width:380px}
+.about-desc p{font-size:13px;color:var(--text-muted);line-height:1.65;margin:0 0 10px}
+.about-qr-large{text-align:center;flex-shrink:0}
+.about-qr-large img{width:200px;height:200px;border-radius:12px;box-shadow:0 2px 12px rgba(0,0,0,.1);margin-bottom:8px}
+.about-qr-large .label{font-size:14px;font-weight:600;margin:4px 0 0}
+.about-qr-large .tip{font-size:12px;color:var(--text-dim);margin-top:4px}
+.about-notice{margin:24px 0;padding:16px 20px;background:var(--bg-card);border:1px solid var(--border);border-radius:12px}
+.about-notice h4{font-size:14px;margin:0 0 10px;color:var(--accent,#e8a54b)}
 .about-notice ul{list-style:none;padding:0;margin:0}
-.about-notice li{position:relative;padding:4px 0 4px 18px;font-size:12.5px;color:var(--text-muted);line-height:1.55}
+.about-notice li{position:relative;padding:5px 0 5px 20px;font-size:12.5px;color:var(--text-muted);line-height:1.6}
 .about-notice li::before{content:"·";position:absolute;left:4px;color:var(--accent,#e8a54b)}
+.about-disclaimer{padding:16px 20px;border-top:1px solid var(--border);margin-top:8px}
+.about-disclaimer p{font-size:11.5px;color:var(--text-dim);line-height:1.5;margin:0}
+
+/* 常驻信息Banner */
+.evergreen-banner-wrapper{margin:0 0 16px}
+.evergreen-banner-wrapper h3{font-size:14px;margin:0 0 4px;padding:0 4px}
+.evergreen-hint{font-size:11px;color:var(--text-dim);padding:0 6px 8px;margin:0}
+.evergreen-banner{display:flex;gap:10px;overflow-x:auto;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;padding:0 4px 12px;scrollbar-width:none}
+.evergreen-banner::-webkit-scrollbar{display:none}
+.evergreen-banner .banner-card{flex:0 0 260px;scroll-snap-align:start;background:var(--bg-card);border:1px solid var(--border);border-radius:10px;padding:12px 14px;cursor:pointer;transition:border-color .15s}
+.evergreen-banner .banner-card:hover{border-color:var(--accent,#e8a54b)}
+.evergreen-banner .banner-tag{display:inline-block;font-size:10px;letter-spacing:.5px;color:var(--accent,#e8a54b);background:rgba(232,165,75,.12);padding:2px 8px;border-radius:6px;margin-bottom:6px}
+.evergreen-banner .banner-card h4{font-size:13px;margin:0 0 4px;line-height:1.35}
+.evergreen-banner .banner-card p{font-size:12px;color:var(--text-dim);margin:0;line-height:1.4;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}

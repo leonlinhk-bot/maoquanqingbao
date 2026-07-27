@@ -1,0 +1,21 @@
+# 关于页面
+.about-hero{text-align:center;padding:8px 0 20px}
+.about-hero .sub{font-size:13px;color:var(--text-dim);margin:-6px 0 12px}
+.about-qr{text-align:center;padding:8px 0}
+.about-qr img{width:120px;height:120px;border-radius:10px;margin-bottom:8px}
+.about-qr .label{font-size:13px;font-weight:600;margin:4px 0}
+.about-qr .tip{font-size:12px;color:var(--text-dim);margin-top:2px}
+.about-notice h4{font-size:13px;margin-bottom:6px;color:var(--accent,#e8a54b)}
+.about-notice ul{list-style:none;padding:0;margin:0}
+.about-notice li{position:relative;padding:4px 0 4px 18px;font-size:12.5px;color:var(--text-muted);line-height:1.55}
+.about-notice li::before{content:"·";position:absolute;left:4px;color:var(--accent,#e8a54b)}
+
+/* 常驻Banner */
+.evergreen-banner{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;padding:8px 0 12px;scrollbar-width:none}
+.evergreen-banner::-webkit-scrollbar{display:none}
+.evergreen-banner .banner-card{flex:0 0 280px;scroll-snap-align:start;background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:14px 16px;cursor:pointer;transition:border-color .15s}
+.evergreen-banner .banner-card:hover{border-color:var(--accent,#e8a54b)}
+.evergreen-banner .banner-card .banner-tag{display:inline-block;font-size:10px;letter-spacing:.5px;text-transform:uppercase;color:var(--accent,#e8a54b);background:rgba(232,165,75,.1);padding:2px 8px;border-radius:6px;margin-bottom:8px}
+.evergreen-banner .banner-card h4{font-size:13px;margin:0 0 4px;line-height:1.35}
+.evergreen-banner .banner-card p{font-size:12px;color:var(--text-dim);margin:0;line-height:1.4;-webkit-line-clamp:2;display:-webkit-box;-webkit-box-orient:vertical;overflow:hidden}
+.evergreen-hint{font-size:11px;color:var(--text-dim);text-align:right;padding:0 4px 12px}

@@ -6245,7 +6245,7 @@ window.HKII_DATA = {
       // evergreen
       const eg=(DATA.evergreen||[]).map(byId).filter(Boolean).filter(matches);
       if(eg.length){
-        html+=`<div class="panel evergreen"><h3>${t.evergreen}</h3><p style="margin:0 0 8px;font-size:12px;color:var(--text-dim)">${t.fidelityText}</p>${eg.map(card).join("")}</div>`;
+        html+=`<div class="evergreen-banner-wrapper"><h3>${t.evergreen}</h3><p class="evergreen-hint">← 左右滑动查看 · 驻点标准：持续有效的监管规则与长期适用的披露要求 →</p><div class="evergreen-banner">${eg.map(it=>`<div class="banner-card" data-open="${it.id}" onclick="document.querySelector('[data-open=\\'${it.id}\\']')?.click()"><div class="banner-tag">常驻</div><h4>${esc(tx(it.title))}</h4><p>${esc(tx(it.summary))}</p></div>`).join("")}</div></div>`;
       }
       html+=hot()+chips(state.themeFilter)+feed(list({featuredOnly:true}));
     }
