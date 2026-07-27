@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-07-26T23:59:00+08:00",
-    "itemCount": 45,
+    "generatedAt": "2026-07-27T14:00:00+08:00",
+    "itemCount": 46,
     "windowNote": {
-      "sc": "本库 45 条导读，数据窗口截至 2026-07-26。信源：监管+保司官网+机构研究+媒体线索。全部动态默认按发布时间降序。导读≠原文。",
-      "tc": "本庫 45 條導讀，數據窗口截至 2026-07-26。信源：監管+保司官網+機構研究+媒體線索。全部動態默認按發布時間降序。導讀≠原文。"
+      "sc": "本库 46 条导读，数据窗口截至 2026-07-27。信源：监管+保司官网+机构研究+媒体线索。全部动态默认按发布时间降序。导读≠原文。",
+      "tc": "本庫 46 條導讀，數據窗口截至 2026-07-27。信源：監管+保司官網+機構研究+媒體線索。全部動態默認按發布時間降序。導讀≠原文。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -51,8 +51,8 @@
       "tc": "定位=港險相關官方/一手資訊的高效匯聚與可追溯導讀。不替代保司原文，不做分紅實現率數據庫（另有公司工具）。"
     },
     "sourcesCatalog": {
-      "version": "0.3.1",
-      "updatedAt": "2026-07-26",
+      "version": "0.3.2",
+      "updatedAt": "2026-07-27",
       "principle": {
         "sc": "一手官方资讯优先；保司侧抓「官网披露/通告/新闻」作信息差打通，不深挖实现率表格。",
         "tc": "一手官方資訊優先；保司側抓「官網披露/通告/新聞」作信息差打通，不深挖實現率表格。"
@@ -167,6 +167,46 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "clusterCount": 1,
+      "score": 100,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": false,
+      "ingestedAt": "2026-07-27T14:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读（非原文）",
+        "tc": "本站導讀（非原文）"
+      },
+      "id": "deploy-test-20260727",
+      "title": {
+        "sc": "🚀 猫圈儿港险情报站部署测试 — 2026-07-27",
+        "tc": "🚀 貓圈兒港險情報站部署測試 — 2026-07-27"
+      },
+      "summary": {
+        "sc": "本次部署测试验证全链路：GitHub Pages + Cloudflare DNS (DNS-only) + 自定义域名 hkmaoquanqingbao.com。站点已成功上线，支持简繁切换/深色模式/四档角色筛选。",
+        "tc": "本次部署測試驗證全鏈路：GitHub Pages + Cloudflare DNS (DNS-only) + 自定義域名 hkmaoquanqingbao.com。站點已成功上線，支援簡繁切換/深色模式/四檔角色篩選。"
+      },
+      "why": {
+        "sc": "验证持续部署 Pipeline：更新 live-items.json → git push → GitHub Actions 自动构建 → 站点即时更新。",
+        "tc": "驗證持續部署 Pipeline：更新 live-items.json → git push → GitHub Actions 自動構建 → 站點即時更新。"
+      },
+      "actions": {
+        "front": {"sc": "正常查看本站内容，测试四档角色筛选与搜索功能", "tc": "正常查看本站內容，測試四檔角色篩選與搜索功能"},
+        "midback": {"sc": "内容管理已建立：数据更新 → 推送 → 自动上线", "tc": "內容管理已建立：數據更新 → 推送 → 自動上線"},
+        "lead": {"sc": "本部署方案可作为团队内部信息分发基础设施", "tc": "本部署方案可作為團隊內部信息分發基礎設施"},
+        "cross": {"sc": "同时可作为面向跨境客户的合规资讯门户", "tc": "可同時作為面向跨境客戶的合規資訊門戶"}
+      },
+      "source": {
+        "sc": "Hermes Agent · 部署验证",
+        "tc": "Hermes Agent · 部署驗證"
+      },
+      "boards": ["market", "regulatory"],
+      "contentKind": "notice",
+      "publishedAt": "2026-07-27T14:00:00+08:00",
+      "originalUrl": "https://hkmaoquanqingbao.com",
+      "sourceKey": "deploy:test-2026-07-27"
+    },
     {
       "clusterCount": 1,
       "score": 70,
