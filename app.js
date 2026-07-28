@@ -1,11 +1,11 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-07-28T20:00:00+08:00",
-    "itemCount": 152,
+    "generatedAt": "2026-07-28T21:00:00+08:00",
+    "itemCount": 159,
     "windowNote": {
-      "sc": "本库152条导读。导读≠原文。",
-      "tc": "本庫152條導讀。導讀≠原文。"
+      "sc": "本库159条导读。",
+      "tc": "本庫159條導讀。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -167,6 +167,482 @@ window.HKII_DATA = {
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "ia-2024-annual-stats",
+      "clusterCount": 1,
+      "score": 90,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T21:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "保监局发布2024年香港保险业年报：毛保费6352亿 全球渗透率第一",
+        "tc": "保監局發布2024年香港保險業年報：毛保費6352億 全球滲透率第一"
+      },
+      "summary": {
+        "sc": "保监局2025年12月5日发布2024年保险业年报：毛保费总额6352亿港元。保险密度10043美元(全球第2)，保险渗透率18.2%(全球第1)。内地访客新造保费628亿占个人业务28.6%。157家授权保险人，118406名持牌中介。",
+        "tc": "2024年報:毛保費6352億,滲透率全球第一"
+      },
+      "why": {
+        "sc": "年度最权威的市场全景数据=所有IFA的基础知识储备",
+        "tc": "年度最權威市場全景數據"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解市场规模和结构",
+          "tc": "了解市場規模結構"
+        },
+        "midback": {
+          "sc": "归档年度核心数据",
+          "tc": "歸檔年度數據"
+        },
+        "lead": {
+          "sc": "年度数据=年度战略基础",
+          "tc": "年度數據=戰略基礎"
+        },
+        "cross": {
+          "sc": "渗透率全球第一=对跨境客户最强有力的信任背书",
+          "tc": "滲透率全球第一=跨境信任背書"
+        }
+      },
+      "source": {
+        "sc": "IA 保监局",
+        "tc": "IA 保監局",
+        "lang": "zh"
+      },
+      "boards": [
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "年报",
+          "保费",
+          "渗透率",
+          "2024"
+        ],
+        "tc": [
+          "年報",
+          "保費",
+          "滲透率",
+          "2024"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-12-05T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20251205.html",
+      "sourceKey": "ia:annual-stats-2024"
+    },
+    {
+      "id": "ia-2025-complaints",
+      "clusterCount": 1,
+      "score": 80,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T21:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "保监局2025年投诉统计：全年接获1173宗 同比+19.9%",
+        "tc": "保監局2025年投訴統計：全年接獲1173宗 同比+19.9%"
+      },
+      "summary": {
+        "sc": "保监局2026年3月公布2025年全年投诉统计：共接获1173宗投诉较2024年978宗上升19.9%。上半年按年升幅达33%下半年回落。中介人操守和合规事宜占投诉重要部分。全年纪律行动50项罚款约2360万港元。",
+        "tc": "2025投訴1173宗+19.9%,中介操守佔重要部分"
+      },
+      "why": {
+        "sc": "投诉数据=行业服务质量的温度计，操守类投诉上升值得警惕",
+        "tc": "投訴數據=服務質量溫度計"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解投诉热点避免同类问题",
+          "tc": "了解投訴熱點"
+        },
+        "midback": {
+          "sc": "归档投诉数据作合规培训素材",
+          "tc": "歸檔投訴數據"
+        },
+        "lead": {
+          "sc": "操守类投诉上升=团队培训优先级提高",
+          "tc": "團隊培訓優先級提高"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "IA 监管通讯",
+        "tc": "IA 監管通訊",
+        "lang": "zh"
+      },
+      "boards": [
+        "compliance"
+      ],
+      "tags": {
+        "sc": [
+          "投诉",
+          "统计",
+          "操守",
+          "2025"
+        ],
+        "tc": [
+          "投訴",
+          "統計",
+          "操守",
+          "2025"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-03-27T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/tc/legislative_framework/Conduct_in_Focus_Issue_12_01.html",
+      "sourceKey": "ia:complaints-2025"
+    },
+    {
+      "id": "ia-2025-full-year",
+      "clusterCount": 1,
+      "score": 92,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T21:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "保监局公布2025全年业绩：个人新单保费3309亿港元 +50.6%再创新高",
+        "tc": "保監局公布2025全年業績：個人新單保費3309億港元 +50.6%再創新高"
+      },
+      "summary": {
+        "sc": "保监局2026年4月公布2025全年数据：个人新造保单保费3309亿港元同比+50.6%刷新纪录。分红业务贡献核心增长。全年毛保费827亿(+29.7%)。件均保费普遍上涨，大额保单激增。2025年是香港保险史上增长最快的一年。",
+        "tc": "2025新單保費3309億+50.6%創歷史新高"
+      },
+      "why": {
+        "sc": "2025=香港保险史上增长最快的一年，数据刷新2001年以来所有纪录",
+        "tc": "2025=香港保險史上增長最快一年"
+      },
+      "actions": {
+        "front": {
+          "sc": "最强市场增长数据,客户沟通首选",
+          "tc": "最強市場數據"
+        },
+        "midback": {
+          "sc": "归档2025年度数据",
+          "tc": "歸檔年度數據"
+        },
+        "lead": {
+          "sc": "历史性增长=行业信心最强佐证",
+          "tc": "歷史性增長=行業信心"
+        },
+        "cross": {
+          "sc": "内地客户贡献+大额保单=跨境业务黄金期",
+          "tc": "內地客戶+大額保單=跨境黃金期"
+        }
+      },
+      "source": {
+        "sc": "IA 保监局",
+        "tc": "IA 保監局",
+        "lang": "zh"
+      },
+      "boards": [
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "全年",
+          "保费",
+          "3309亿",
+          "2025"
+        ],
+        "tc": [
+          "全年",
+          "保費",
+          "3309億",
+          "2025"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-04-25T10:00:00+08:00",
+      "originalUrl": "https://www.hkinsu.com/zhuanlan/chris/36397.html",
+      "sourceKey": "ia:full-year-2025"
+    },
+    {
+      "id": "ia-2024-25-annual-report",
+      "clusterCount": 1,
+      "score": 83,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T21:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "保监局2024-25年报：监管157家保司+11.8万中介 罚款2300万",
+        "tc": "保監局2024-25年報：監管157家保司+11.8萬中介 罰款2300萬"
+      },
+      "summary": {
+        "sc": "保监局2024-25年报(截至2025年3月)：监管157间获授权保险公司和118406名持牌中介。处理约23400宗新牌照申请。2024年9月起征收牌照费。与廉政公署首次联合打击跨境无牌销售。50项纪律行动罚款2368万港元。",
+        "tc": "年報:157家保司+11.8萬中介+50項紀律行動"
+      },
+      "why": {
+        "sc": "监管年报=行业合规现状的最权威综述",
+        "tc": "監管年報=合規現狀最權威綜述"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解监管执法重点和趋势",
+          "tc": "了解監管重點"
+        },
+        "midback": {
+          "sc": "归档年报核心数据",
+          "tc": "歸檔年報數據"
+        },
+        "lead": {
+          "sc": "罚款金额和频次=合规风险地图",
+          "tc": "罰款=合規風險地圖"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "IA 保监局年报",
+        "tc": "IA 保監局年報",
+        "lang": "zh"
+      },
+      "boards": [
+        "regulatory",
+        "compliance"
+      ],
+      "tags": {
+        "sc": [
+          "年报",
+          "持牌",
+          "罚款",
+          "2024-25"
+        ],
+        "tc": [
+          "年報",
+          "持牌",
+          "罰款",
+          "2024-25"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-08-22T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/tc/infocenter/files/IA_AR24-25_Synopsis_TC.pdf",
+      "sourceKey": "ia:annual-report-2024-25"
+    },
+    {
+      "id": "fstb-2024-density",
+      "clusterCount": 1,
+      "score": 86,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": true,
+      "ingestedAt": "2026-07-28T21:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "香港保险密度0043全球第二 渗透率18.2%全球第一",
+        "tc": "香港保險密度0043全球第二 滲透率18.2%全球第一"
+      },
+      "summary": {
+        "sc": "财经事务及库务局公布2024年香港保险市场数据：保险密度约10043美元全球第二，保险渗透率18.2%全球第一。毛保费总额814亿美元。香港汇聚超150家国际保险公司，逾10万名持牌中介。",
+        "tc": "密度0043全球第二 滲透率18.2%全球第一"
+      },
+      "why": {
+        "sc": "全球排名=香港保险市场的国际地位不容置疑",
+        "tc": "全球排名=香港國際地位"
+      },
+      "actions": {
+        "front": {
+          "sc": "客户问为什么香港保险好?用这两个数据回答",
+          "tc": "客戶問為什麼香港保險好?用數據回答"
+        },
+        "midback": {
+          "sc": "归档市场地位数据",
+          "tc": "歸檔市場數據"
+        },
+        "lead": {
+          "sc": "全球第一的渗透率=市场深度和成熟度",
+          "tc": "市場深度和成熟度"
+        },
+        "cross": {
+          "sc": "渗透率全球第一=对内地客户的最强背书",
+          "tc": "最強背書"
+        }
+      },
+      "source": {
+        "sc": "财库局",
+        "tc": "財庫局",
+        "lang": "zh"
+      },
+      "boards": [
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "密度",
+          "渗透率",
+          "国际排名"
+        ],
+        "tc": [
+          "密度",
+          "滲透率",
+          "國際排名"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-06-01T10:00:00+08:00",
+      "originalUrl": "https://www.fstb.gov.hk/tc/financial_ser/insurance-industry.htm",
+      "sourceKey": "fstb:density-2024"
+    },
+    {
+      "id": "ebact-2025-hk-market",
+      "clusterCount": 1,
+      "score": 76,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T21:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "香港一般保险市场分析：2025年9亿→2029年09亿 CAGR 5.1%",
+        "tc": "香港一般保險市場分析：2025年9億→2029年09億 CAGR 5.1%"
+      },
+      "summary": {
+        "sc": "行业精算分析显示香港一般保险市场2025年规模89亿美元，预计2029年增至109亿美元(CAGR 5.1%)。个人意外及健康险占比34.7%为最大板块，财产险22.2%受气候事件推动增长7.5%。网络保险需求上升。[EN原文]",
+        "tc": "一般保險市場CAGR5.1% 健康險佔35%"
+      },
+      "why": {
+        "sc": "一般保险的细分市场数据=行业结构理解的基础",
+        "tc": "一般保險細分市場數據"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解市场细分结构",
+          "tc": "了解市場結構"
+        },
+        "midback": {
+          "sc": "归档一般保险市场数据",
+          "tc": "歸檔市場數據"
+        },
+        "lead": {
+          "sc": "一般保险增长机会评估",
+          "tc": "一般保險增長機會"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "EB Actuary",
+        "tc": "EB Actuary",
+        "lang": "en"
+      },
+      "boards": [
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "一般保险",
+          "市场",
+          "预测",
+          "CAGR"
+        ],
+        "tc": [
+          "一般保險",
+          "市場",
+          "預測",
+          "CAGR"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-01-10T10:00:00+08:00",
+      "originalUrl": "https://www.ebactuary.com/post/hong-kong-general-insurance-market-analysis-2025-2029-and-global-comparison",
+      "sourceKey": "ebact:hk-market-2025"
+    },
+    {
+      "id": "fsdc-2025-insurance-hub",
+      "clusterCount": 1,
+      "score": 77,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T21:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "金发局报告：巩固香港全球保险枢纽 2024年经济增加值1084亿",
+        "tc": "金發局報告：鞏固香港全球保險樞紐 2024年經濟增加值1084億"
+      },
+      "summary": {
+        "sc": "金融发展局报告指出2024年香港保险业经济增加值达1084亿港元。保险渗透率全球最高。报告呼吁培育新一代保险专业人才、推动可持续发展和创新、巩固香港全球保险枢纽地位。一般保险市场预计2024-25年增长5.5%。",
+        "tc": "金發局:保險經濟增加值1084億,滲透率全球最高"
+      },
+      "why": {
+        "sc": "金发局=香港官方智库，保险业对GDP贡献的权威数据",
+        "tc": "金發局=官方智庫權威數據"
+      },
+      "actions": {
+        "front": {
+          "sc": "保险业对香港经济的贡献=客户信心",
+          "tc": "保險業對經濟貢獻=客戶信心"
+        },
+        "midback": {
+          "sc": "归档行业经济数据",
+          "tc": "歸檔經濟數據"
+        },
+        "lead": {
+          "sc": "官方智库的行业定位=战略方向",
+          "tc": "官方智庫行業定位"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "金发局",
+        "tc": "金發局",
+        "lang": "zh"
+      },
+      "boards": [
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "金发局",
+          "经济增加值",
+          "保险枢纽"
+        ],
+        "tc": [
+          "金發局",
+          "經濟增加值",
+          "保險樞紐"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2025-03-27T10:00:00+08:00",
+      "originalUrl": "https://www.fsdc.org.hk/en/media/",
+      "sourceKey": "fsdc:insurance-hub-2025"
+    },
     {
       "id": "dlapiper-202602-gl16",
       "clusterCount": 1,
@@ -13558,6 +14034,7 @@ window.HKII_DATA = {
     ]
   }
 };
+
 
 
 
