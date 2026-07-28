@@ -1,5 +1,5 @@
-:root{--bg:#0a0e14;--bg-elev:#111822;--bg-soft:#161d28;--border:#243041;--border-soft:#1a2332;--text:#e8edf5;--text-muted:#8b97a8;--text-dim:#5c6b7e;--accent:#e8a54b;--accent-dim:rgba(232,165,75,.14);--accent-2:#6cb6ff;--ok:#3ecf8e;--warn:#e6a23c;--official:#e8a54b;--insurer:#6cb6ff;--pro:#9ece6a;--media:#7a8699;--sidebar-w:248px;--radius:10px;--font:"SF Pro Text","PingFang SC","Noto Sans SC","Microsoft YaHei",sans-serif;--mono:ui-monospace,Menlo,monospace;--shadow:0 8px 30px rgba(0,0,0,.35)}
-[data-theme="light"]{--bg:#f6f3ee;--bg-elev:#fffdf9;--bg-soft:#f0ebe3;--border:#e2d6c6;--border-soft:#ebe3d8;--text:#1c140c;--text-muted:#6a5a48;--text-dim:#9a8770;--accent:#d4892a;--accent-dim:rgba(212,137,42,.14);--shadow:0 8px 24px rgba(40,24,8,.08)}
+:root{--bg:#0a0e14;--bg-elev:#111822;--bg-soft:#161d28;--border:#243041;--border-soft:#1a2332;--text:#e8edf5;--text-muted:#8b97a8;--text-dim:#6b7a8f;--accent:#e8a54b;--accent-dim:rgba(232,165,75,.14);--accent-2:#6cb6ff;--ok:#3ecf8e;--warn:#e6a23c;--official:#e8a54b;--insurer:#6cb6ff;--pro:#9ece6a;--media:#7a8699;--sidebar-w:248px;--radius:10px;--font:"SF Pro Text","PingFang SC","Noto Sans SC","Microsoft YaHei",sans-serif;--font-serif:"Noto Serif SC","Songti SC","SimSun",serif;--mono:ui-monospace,Menlo,monospace;--shadow:0 8px 30px rgba(0,0,0,.35)}
+[data-theme="light"]{--bg:#f6f3ee;--bg-elev:#fffdf9;--bg-soft:#f0ebe3;--border:#e2d6c6;--border-soft:#ebe3d8;--text:#1c140c;--text-muted:#6a5a48;--text-dim:#a8927a;--accent:#d4892a;--accent-dim:rgba(212,137,42,.14);--shadow:0 8px 24px rgba(40,24,8,.08)}
 *{box-sizing:border-box}html,body{height:100%}body{margin:0;font-family:var(--font);background:var(--bg);color:var(--text);line-height:1.55;-webkit-font-smoothing:antialiased}
 button,input{font:inherit;color:inherit}a{color:inherit;text-decoration:none}.app{display:flex;min-height:100%}
 .sidebar{width:var(--sidebar-w);flex-shrink:0;border-right:1px solid var(--border-soft);background:var(--bg-elev);display:flex;flex-direction:column;position:sticky;top:0;height:100vh;z-index:20}
@@ -250,3 +250,25 @@ button,input{font:inherit;color:inherit}a{color:inherit;text-decoration:none}.ap
 .taxon-hero h3{font-size:20px;margin:14px 0 4px}
 .taxon-hero p{color:var(--text-muted);font-size:13.5px;margin:0 0 10px}
 .chip-sub{border-color:var(--border-soft)!important;font-size:11px!important;padding:3px 8px!important;cursor:default}
+
+/* 下载页迷你统计条 */
+.arch-bar-wrap{display:inline-block;width:40px;height:4px;background:var(--bg-soft);border-radius:2px;margin-right:6px;vertical-align:middle;overflow:hidden}
+.arch-bar{height:100%;background:var(--accent);border-radius:2px;transition:width .2s}
+.arch-count{display:flex;align-items:center;gap:4px;justify-content:flex-end}
+
+/* 衬线字体变体（标题/品牌区） */
+.brand h1,.page-title h2,.taxon-name,.day-head h3{font-family:var(--font-serif)}
+
+/* 移动端优化 */
+@media(max-width:480px){
+  .content{padding:12px 10px 60px}
+  .card{grid-template-columns:1fr;gap:6px}
+  .card-time{font-size:11px}
+  .card-title{font-size:14px}
+  .search-box{min-width:100%}
+  .role-pills{overflow-x:auto;flex-wrap:nowrap;-webkit-overflow-scrolling:touch}
+  .role-pills .pill{flex-shrink:0;white-space:nowrap}
+  .taxon-grid{grid-template-columns:1fr}
+  .arch-row{grid-template-columns:1fr}
+  .arch-count{justify-content:flex-start}
+}

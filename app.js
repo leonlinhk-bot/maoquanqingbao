@@ -17217,7 +17217,7 @@ window.HKII_DATA = {
       foot: "专业参考 · 非销售/投资建议 · 数字请回原文", menu: "菜单",
       roles: [{id:"front",label:"前线IFA"},{id:"midback",label:"中后台合规"},{id:"lead",label:"团队管理"},{id:"cross",label:"跨境架构"}],
       nav: [
-        {id:"pulse",label:"今日脉搏",ico:"◈"},{id:"all",label:"全部动态",ico:"☰"},{id:"daily",label:"角色日报",ico:"▣"},{id:"themes",label:"主题雷达",ico:"◎"},{id:"calendar",label:"监管日历",ico:"◷"},{id:"download",label:"数据下载",ico:"⬇"},{id:"fav",label:"收藏",ico:"☆"},{id:"agent",label:"Agent 接入",ico:"⌘"},{id:"about",label:"关于",ico:"ⓘ"}
+        {id:"pulse",label:"今日脉搏",ico:"◈"},{id:"all",label:"全部动态",ico:"☰"},{id:"daily",label:"角色日报",ico:"▣"},{id:"themes",label:"主题雷达",ico:"◎"},{id:"calendar",label:"监管日历",ico:"◷"},{id:"download",label:"数据下载",ico:"⬇"},{id:"fav",label:"收藏",ico:"☆"},{id:"agent",label:"Agent 接入",ico:"⌘"},{id:"changelog",label:"更新日志",ico:"◌"},{id:"about",label:"关于",ico:"ⓘ"}
       ],
       sec:{c:"内容",a:"接入",m:"更多"},
       views:{
@@ -17227,7 +17227,7 @@ window.HKII_DATA = {
         themes:{t:"主题雷达",s:"六大业务板块地图 · 战略导航，不是信息流细筛"},
         calendar:{t:"监管日历",s:"生效日与关键窗口"},
         fav:{t:"收藏",s:"保存在本机"},
-        agent:{t:"Agent 接入",s:"JSON Feed · RSS · llms.txt"},about:{t:"关于",s:"定位、原则与免责"}
+        agent:{t:"Agent 接入",s:"JSON Feed · RSS · llms.txt"},changelog:{t:"更新日志",s:"功能与数据变更记录"},about:{t:"关于",s:"定位、原则与免责"}
       },
       themes:{reg:"监管",product:"产品",channel:"渠道人力",macro:"宏观资产",par:"分红实现率",uw:"核保理赔",compliance:"合规实操",offshore:"跨境离岸",firm:"机构竞争",tech:"科技运营",career:"职业CPD",intl:"国际对标"},
       tier:{official:"一手监管",insurer:"保司官方",pro:"专业解读",media:"媒体"},
@@ -17266,7 +17266,7 @@ window.HKII_DATA = {
       archiveTabs:{daily:"日报",weekly:"周报",monthly:"月报",yearly:"年报"},
       downloadHint:"日报、周报可下载 Markdown。月报、年报仅可在线查阅，不提供下载。也可发送到邮箱。数字与规则以原文链接为准。",
       openDigest:"查看该期条目",
-      backDownload:"返回列表",emailTo:"发送到邮箱",emailSent:"已发送",emailHint:"输入接收邮箱，发送本期导读清单",monthlyYearlyReadOnly:"月报与年报仅可在线查阅，不提供下载。",
+      backDownload:"返回列表",emailTo:"发送到邮箱（规划中）",emailSent:"已发送",emailHint:"功能规划中，暂不支持",monthlyYearlyReadOnly:"月报与年报仅可在线查阅，不提供下载。",
       guideLabel:"本站导读（非原文）",
       originalAuthority:"权威原文",
       sourceKey:"来源指纹",
@@ -17309,7 +17309,7 @@ window.HKII_DATA = {
       foot: "專業參考 · 非銷售/投資建議 · 數字請回原文", menu: "選單",
       roles: [{id:"front",label:"前線IFA"},{id:"midback",label:"中後台合規"},{id:"lead",label:"團隊管理"},{id:"cross",label:"跨境架構"}],
       nav: [
-        {id:"pulse",label:"今日脈搏",ico:"◈"},{id:"all",label:"全部動態",ico:"☰"},{id:"daily",label:"角色日報",ico:"▣"},{id:"themes",label:"主題雷達",ico:"◎"},{id:"calendar",label:"監管日曆",ico:"◷"},{id:"download",label:"數據下載",ico:"⬇"},{id:"fav",label:"收藏",ico:"☆"},{id:"agent",label:"Agent 接入",ico:"⌘"},{id:"about",label:"關於",ico:"ⓘ"}
+        {id:"pulse",label:"今日脈搏",ico:"◈"},{id:"all",label:"全部動態",ico:"☰"},{id:"daily",label:"角色日報",ico:"▣"},{id:"themes",label:"主題雷達",ico:"◎"},{id:"calendar",label:"監管日曆",ico:"◷"},{id:"download",label:"數據下載",ico:"⬇"},{id:"fav",label:"收藏",ico:"☆"},{id:"agent",label:"Agent 接入",ico:"⌘"},{id:"changelog",label:"更新日誌",ico:"◌"},{id:"about",label:"關於",ico:"ⓘ"}
       ],
       sec:{c:"內容",a:"接入",m:"更多"},
       views:{
@@ -17319,7 +17319,7 @@ window.HKII_DATA = {
         themes:{t:"主題雷達",s:"六大業務板塊地圖 · 戰略導航，不是資訊流細篩"},
         calendar:{t:"監管日曆",s:"生效日與關鍵窗口"},
         fav:{t:"收藏",s:"保存在本機"},
-        agent:{t:"Agent 接入",s:"JSON Feed · RSS · llms.txt"},about:{t:"關於",s:"定位、原則與免責"}
+        agent:{t:"Agent 接入",s:"JSON Feed · RSS · llms.txt"},changelog:{t:"更新日誌",s:"功能與數據變更記錄"},about:{t:"關於",s:"定位、原則與免責"}
       },
       themes:{reg:"監管",product:"產品",channel:"渠道人力",macro:"宏觀資產",par:"分紅實現率",uw:"核保理賠",compliance:"合規實操",offshore:"跨境離岸",firm:"機構競爭",tech:"科技運營",career:"職業CPD",intl:"國際對標"},
       tier:{official:"一手監管",insurer:"保司官方",pro:"專業解讀",media:"媒體"},
@@ -17358,7 +17358,7 @@ window.HKII_DATA = {
       archiveTabs:{daily:"日報",weekly:"週報",monthly:"月報",yearly:"年報"},
       downloadHint:"日報、週報可下載 Markdown。月報、年報僅可在線查閱，不提供下載。也可發送到郵箱。數字與規則以原文鏈接為準。",
       openDigest:"查看該期條目",
-      backDownload:"返回列表",emailTo:"發送到郵箱",emailSent:"已發送",emailHint:"輸入接收郵箱，發送本期導讀清單",monthlyYearlyReadOnly:"月報與年報僅可在線查閱，不提供下載。",
+      backDownload:"返回列表",emailTo:"發送到郵箱（規劃中）",emailSent:"已發送",emailHint:"功能規劃中，暫不支持",monthlyYearlyReadOnly:"月報與年報僅可在線查閱，不提供下載。",
       guideLabel:"本站導讀（非原文）",
       originalAuthority:"權威原文",
       sourceKey:"來源指紋",
@@ -17401,9 +17401,9 @@ window.HKII_DATA = {
   const state = {
     view: "pulse",
     role: (function(){ let r=localStorage.getItem("hkii_role")||"front"; if(r==="mid"||r==="back") r="midback"; if(r==="manage") r="lead"; return r; })(),
-    theme: localStorage.getItem("hkii_theme") || "dark",
+    theme: localStorage.getItem("hkii_theme") || "auto",
     lang: localStorage.getItem("hkii_lang") || "sc",
-    q: "", themeFilter: "all", feedTier: "all", feedKind: "all", selectedId: null, archivePeriod: "daily", archiveKey: null, archiveQ: "", archivePage: 1, themeBoard: null, points: Number(localStorage.getItem("hkii_points")||"20"), pro: localStorage.getItem("hkii_pro")==="1",
+    q: localStorage.getItem("hkii_q")||"", themeFilter: localStorage.getItem("hkii_themeFilter")||"all", feedTier: localStorage.getItem("hkii_feedTier")||"all", feedKind: localStorage.getItem("hkii_feedKind")||"all", selectedId: null, archivePeriod: "daily", archiveKey: null, archiveQ: "", archivePage: 1, themeBoard: null, points: Number(localStorage.getItem("hkii_points")||"20"), pro: localStorage.getItem("hkii_pro")==="1",
     fav: new Set(JSON.parse(localStorage.getItem("hkii_fav") || "[]"))
   };
 
@@ -17413,10 +17413,20 @@ window.HKII_DATA = {
   const tx = (o) => !o ? "" : (typeof o === "string" ? o : (o[state.lang] || o.sc || o.tc || ""));
   const esc = (s) => String(s??"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
 
+  // Auto theme listener
+  if(!window._themeListenerAdded){
+    window._themeListenerAdded = true;
+    window.matchMedia("(prefers-color-scheme: light)").addEventListener("change", () => {
+      if(state.theme === "auto") applyChrome();
+    });
+  }
   function applyChrome() {
     const t = T();
     document.documentElement.lang = state.lang === "tc" ? "zh-Hant" : "zh-Hans";
-    document.documentElement.setAttribute("data-theme", state.theme === "light" ? "light" : "dark");
+    const effectiveTheme = state.theme === "auto" 
+      ? (window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark")
+      : state.theme;
+    document.documentElement.setAttribute("data-theme", effectiveTheme);
     document.title = t.brandName;
     $("#brandName").textContent = t.brandName;
     $("#brandSub").textContent = t.brandSub;
@@ -17441,7 +17451,7 @@ window.HKII_DATA = {
     $$("[data-lang]").forEach(b => b.classList.toggle("on", b.dataset.lang === state.lang));
     $$("[data-theme-btn]").forEach(b => {
       b.classList.toggle("on", b.dataset.themeBtn === state.theme);
-      b.textContent = b.dataset.themeBtn === "dark" ? t.dark : t.light;
+      b.textContent = b.dataset.themeBtn === "dark" ? t.dark : (b.dataset.themeBtn === "light" ? t.light : "跟随系统");
     });
     const n = t.nav;
     $("#nav").innerHTML = `
@@ -17527,10 +17537,8 @@ function fmtDay(iso){
         <p class="card-sum">${esc(tx(it.summary))}</p>
         <div class="meta-row">
           <span class="badge ${it.sourceTier}">${t.tier[it.sourceTier]||it.sourceTier}</span>
-          <span class="badge">${t.score} ${it.score}</span>
           <span class="badge verify-${it.verifyStatus}">${it.verifyStatus==='verified'?t.verified:t.pending}</span>
-          ${it.clusterCount?`<span class="badge">${it.clusterCount} ${t.cluster}</span>`:''}
-          ${tags}
+          ${tags.slice(0,1)}
         </div>
       </div>
       <div class="card-side">
@@ -17539,17 +17547,28 @@ function fmtDay(iso){
       </div>
     </article>`;
   }
+  const _dayCollapsed = {};
   function feed(items){
     const t=T();
     if(!items.length) return `<div class="empty">${t.empty}</div>`;
-    // 先按时间降序，再按日分组，日组也降序，组内再保时间降序
     const sorted = items.slice().sort(byPublishedDesc);
     const map=new Map();
     sorted.forEach(it=>{const d=fmtDay(it.publishedAt); if(!map.has(d.key)) map.set(d.key,{meta:d,items:[]}); map.get(d.key).items.push(it);});
     const groups = [...map.values()].sort((a,b)=> (b.meta.key||"").localeCompare(a.meta.key||""));
     groups.forEach(g=> g.items.sort(byPublishedDesc));
-    return groups.map(g=>`<div class="day-head"><h3>${g.meta.label}</h3><span>${g.meta.week} · ${g.items.length} ${t.dayUnit}</span></div>${g.items.map(card).join("")}`).join("");
+    return groups.map(g=>{
+      const collapsed = _dayCollapsed[g.meta.key];
+      return `<div class="day-head" data-day-toggle="${g.meta.key}" style="cursor:pointer">
+        <h3>${g.meta.label}</h3>
+        <span>${g.meta.week} · ${g.items.length} ${t.dayUnit} ${collapsed?"▸":"▾"}</span>
+      </div>${collapsed?"":g.items.map(card).join("")}`;
+    }).join("");
   }
+  // Day collapse handler
+  document.addEventListener("click", function(e){
+    const dt=e.target.closest("[data-day-toggle]");
+    if(dt){ const k=dt.dataset.dayToggle; _dayCollapsed[k]=!_dayCollapsed[k]; render(); }
+  });
   function chips(active){
     const t=T();
     // 全部动态：信源 × 文种（与主题雷达六大板块刻意分离）
@@ -17557,12 +17576,14 @@ function fmtDay(iso){
       const facets = DATA.feedFacets || {};
       const tiers = facets.sourceTiers || [];
       const kinds = facets.contentKinds || [];
+      // Primary: source tiers only (most common filter)
       const tierRow = tiers.map(f=>`<button type="button" class="chip ${state.feedTier===f.id?'on':''}" data-feed-tier="${f.id}">${f.icon||""} ${esc(tx(f.title))}</button>`).join("");
-      const kindRow = kinds.map(f=>`<button type="button" class="chip ${state.feedKind===f.id?'on':''}" data-feed-kind="${f.id}">${f.icon||""} ${esc(tx(f.title))}</button>`).join("");
+      // Secondary: content kinds (collapsed by default)
+      const kindRow = kinds.map(f=>`<button type="button" class="chip chip-secondary ${state.feedKind===f.id?'on':''}" data-feed-kind="${f.id}">${f.icon||""} ${esc(tx(f.title))}</button>`).join("");
       return `<div class="facet-stack">
-        <div class="facet-hint">${esc(t.facetHint||"")}</div>
-        <div class="facet-row"><span class="facet-label">${esc(t.facetSource||"信源")}</span><div class="chips">${tierRow}</div></div>
-        <div class="facet-row"><span class="facet-label">${esc(t.facetKind||"文种")}</span><div class="chips">${kindRow}</div></div>
+        <div class="chips facet-main">${tierRow}</div>
+        <div class="facet-more" id="facetMore" style="display:none"><div class="chips">${kindRow}</div></div>
+        <button type="button" class="chip chip-toggle-more" id="facetToggle">文种 ▾</button>
       </div>`;
     }
     // 脉搏等：用 12 主题细码（仍不等于六大板块地图）
@@ -17672,7 +17693,7 @@ function fmtDay(iso){
             <p>${t.itemsInPeriod}：${dig.itemCount} · ${esc(tx(dig.note||{}))}</p>
             ${gate.reason==="readonly"?`<p class="lock-note" style="margin:8px 0">📖 ${t.monthlyYearlyReadOnly||"月报与年报仅可在线查阅，不提供下载。"}</p>`:
             `<div class="action-bar">
-              <button type="button" class="btn primary" data-export-digest="1">${t.digestExport} · MD</button>
+              <button type="button" class="btn primary" data-export-digest="1" disabled style="opacity:.4" title="规划中">${t.digestExport} · MD</button>
               <button type="button" class="btn" data-email-digest="1">📧 ${t.emailTo}</button>
             </div>
             <div class="email-box" style="display:none;margin:8px 0">
@@ -17697,12 +17718,17 @@ function fmtDay(iso){
         html+=`<div style="font-size:12px;color:var(--text-dim);margin-bottom:8px">共 ${total} 期，第 ${state.archivePage}/${pages} 页</div>`;
         if(!paged.length) html+=`<div class="empty">${t.noDigest}</div>`;
         else {
+          const maxCount = Math.max(...paged.map(d=>d.itemCount||1));
           html+=`<div class="arch-list">`+paged.map(dig=>{
             const lead=tx(dig.leadTitle||{})||"";
+            const barW = Math.min(100, (dig.itemCount/maxCount)*100);
             return `<button type="button" class="arch-row" data-arch-key="${esc(dig.key)}">
               <div class="arch-date">${esc(tx(dig.label))}</div>
               <div class="arch-lead">${esc(lead)}</div>
-              <div class="arch-count">${dig.itemCount}</div>
+              <div class="arch-count">
+                <div class="arch-bar-wrap"><div class="arch-bar" style="width:${barW}%"></div></div>
+                ${dig.itemCount}
+              </div>
             </button>`;
           }).join("")+`</div>`;
         if(pages>1){
@@ -17717,6 +17743,17 @@ function fmtDay(iso){
     }
 
     else if(state.view==="agent"){ window.location.href="agent.html"; return; }
+    else if(state.view==="changelog"){
+      const logs = DATA.meta.changelog || [
+        {date:"2026-07-28", items:["RSS/API 骨架上线","Agent 接入页面","主题雷达改版","下载页分页+统计条","热搜下拉","卡片时间统一","日分组收起"]},
+        {date:"2026-07-27", items:["初始部署上线","首批 171 条资讯","四角色切片","简繁切换","深色模式"]}
+      ];
+      html+=`<div class="panel"><h3>${meta.t}</h3><p>${meta.s}</p></div>`;
+      logs.forEach(log=>{
+        html+=`<div class="day-head"><h3>${log.date}</h3><span>${log.items.length} 项</span></div>`;
+        html+=`<div class="panel" style="margin-bottom:12px"><ul style="margin:0;padding-left:18px">${log.items.map(i=>`<li style="margin:4px 0;font-size:13px;color:var(--text-muted)">${i}</li>`).join("")}</ul></div>`;
+      });
+    }
     else if(state.view==="about"){
       html+=`<div class="panel about-hero">
         <h3>${t.brandName}</h3>
@@ -17953,6 +17990,11 @@ ${t.brandName} · ${t.disc}
       <h4>${t.themesH}</h4><p>${esc((it.themes||[]).map(x=>t.themes[x]||x).join(" · "))}</p>
       <h4>${t.originalAuthority}</h4>
       <div class="links">${it.originalUrl?`<a class="btn-original" href="${it.originalUrl}" target="_blank" rel="noopener">${t.original} ↗</a>`:`<span class="badge">无原文链接</span>`}
+      ${it.originalUrl?`<div class="thumb-preview" style="margin-top:8px;border:1px solid var(--border-soft);border-radius:8px;overflow:hidden;max-height:200px;background:var(--bg-soft)">
+        <div style="padding:16px;text-align:center;color:var(--text-dim);font-size:12px">
+          <a href="${it.originalUrl}" target="_blank" rel="noopener" style="color:var(--accent-2)">查看原文截图 →</a>
+        </div>
+      </div>`:""}
       ${it.sourceKey?`<span class="badge">${t.sourceKey} ${it.sourceKey}</span>`:""}</div>
       <div class="action-bar">
         <button type="button" class="btn primary" data-export-md="${it.id}">${t.exportMd}</button>
@@ -17965,8 +18007,9 @@ ${t.brandName} · ${t.disc}
 
   $("#nav").addEventListener("click", e=>{ const b=e.target.closest("[data-view]"); if(!b) return; state.view=b.dataset.view; state.themeFilter="all"; state.feedTier="all"; state.feedKind="all"; if(b.dataset.view!=="themes") state.themeBoard=null; $("#sidebar").classList.remove("open"); render(); });
   $("#rolePills").addEventListener("click", e=>{ const b=e.target.closest("[data-role]"); if(!b) return; state.role=b.dataset.role; localStorage.setItem("hkii_role", state.role); render(); });
-  $("#q").addEventListener("input", e=>{ state.q=e.target.value; render(); });
-  $("#content").addEventListener("click", e=>{const hs=e.target.closest("[data-hotsearch]"); if(hs){ state.q=hs.dataset.hotsearch; document.getElementById("q").value=state.q; document.getElementById("hotsearchDropdown").style.display="none"; render(); return; }const hc=e.target.closest("[data-hot]"); if(hc){ state.q=hc.dataset.hot; document.getElementById("q").value=state.q; render(); return; }
+  $("#q").addEventListener("input", e=>{ state.q=e.target.value; localStorage.setItem("hkii_q",state.q); render(); });
+  $("#content").addEventListener("click", e=>{
+    const ft2=e.target.closest("#facetToggle"); if(ft2){ const fm=document.getElementById("facetMore"); if(fm) fm.style.display=fm.style.display==="none"?"":"none"; ft2.textContent=fm.style.display==="none"?"文种 ▾":"文种 ▴"; return; }const hs=e.target.closest("[data-hotsearch]"); if(hs){ state.q=hs.dataset.hotsearch; document.getElementById("q").value=state.q; document.getElementById("hotsearchDropdown").style.display="none"; render(); return; }const hc=e.target.closest("[data-hot]"); if(hc){ state.q=hc.dataset.hot; document.getElementById("q").value=state.q; render(); return; }
     const email=e.target.closest("[data-email-digest]"); if(email){ e.stopPropagation(); const box=email.parentElement.nextElementSibling; box.style.display=box.style.display==="none"?"block":"none"; return; }
     const fav=e.target.closest("[data-fav]"); if(fav){ e.stopPropagation(); const id=fav.dataset.fav; state.fav.has(id)?state.fav.delete(id):state.fav.add(id); localStorage.setItem("hkii_fav", JSON.stringify([...state.fav])); render(); return; }
     const o=e.target.closest("[data-open]"); if(o){ openDrawer(o.dataset.open); return; }
