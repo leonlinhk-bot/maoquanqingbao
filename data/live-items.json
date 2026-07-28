@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-07-28T14:30:00+08:00",
-    "itemCount": 106,
+    "generatedAt": "2026-07-28T16:00:00+08:00",
+    "itemCount": 120,
     "windowNote": {
-      "sc": "本库 106 条导读，数据窗口截至 2026-07-28。导读\neq原文。",
-      "tc": "本庫 106 條導讀，數據窗口截至 2026-07-28。導讀\neq原文。"
+      "sc": "本库 120 条导读，数据窗口截至 2026-07-28。导读≠原文。",
+      "tc": "本庫 120 條導讀，數據窗口截至 2026-07-28。導讀≠原文。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -167,6 +167,971 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "aia-20260716-hyrox",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T16:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "友邦香港与HYROX香港宣布策略合作推动健康生活",
+        "tc": "友邦香港與HYROX香港宣布策略合作推動健康生活"
+      },
+      "summary": {
+        "sc": "友邦香港2026年7月16日宣布与HYROX香港成为策略合作伙伴，共同推动健康生活理念。合作涵盖品牌联乘、客户专属运动体验及健康管理增值服务。",
+        "tc": "友邦與HYROX香港策略合作推動健康"
+      },
+      "why": {
+        "sc": "品牌跨界合作提升客户健康管理体验，差异化竞争",
+        "tc": "品牌合作提升客戶體驗"
+      },
+      "actions": {
+        "front": {
+          "sc": "可向关注健康生活方式的客户提及",
+          "tc": "向關注健康的客戶提及"
+        },
+        "midback": {
+          "sc": "更新友邦品牌合作档案",
+          "tc": "更新品牌檔案"
+        },
+        "lead": {
+          "sc": "品牌合作=客户活动策划的素材",
+          "tc": "客戶活動素材"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "AIA 新闻稿",
+        "tc": "AIA 新聞稿",
+        "lang": "zh"
+      },
+      "boards": [
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "AIA",
+          "HYROX",
+          "品牌合作",
+          "2026"
+        ],
+        "tc": [
+          "AIA",
+          "HYROX",
+          "品牌合作",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-07-16T10:00:00+08:00",
+      "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2026/aia-press-release-20260716",
+      "sourceKey": "aia:hyrox-20260716"
+    },
+    {
+      "id": "aia-20260608-prosperlife",
+      "clusterCount": 1,
+      "score": 82,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T16:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "友邦推出「财富盈活储蓄保险计划」瞄准高净值家庭传承",
+        "tc": "友邦推出「財富盈活儲蓄保險計劃」瞄準高淨值家庭傳承"
+      },
+      "summary": {
+        "sc": "友邦香港2026年6月8日推出「财富盈活储蓄保险计划」(ProsperLife)，专为高净值家庭设计，涵盖跨代传承、灵活资金配置及动态财富规划功能。",
+        "tc": "友邦6月8日推出高淨值家庭傳承計劃"
+      },
+      "why": {
+        "sc": "高净值市场新产品，与保诚/宏利形成三强竞争",
+        "tc": "高淨值新產品"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解ProsperLife与竞品对比，更新产品手册",
+          "tc": "更新產品手冊"
+        },
+        "midback": {
+          "sc": "收集产品费率与条款",
+          "tc": "收集產品資料"
+        },
+        "lead": {
+          "sc": "评估在高净值客户组合中的定位",
+          "tc": "評估產品定位"
+        },
+        "cross": {
+          "sc": "跨境高净值客户的传承方案对比",
+          "tc": "跨境傳承方案對比"
+        }
+      },
+      "source": {
+        "sc": "AIA 新闻稿",
+        "tc": "AIA 新聞稿",
+        "lang": "zh"
+      },
+      "boards": [
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "AIA",
+          "财富盈活",
+          "高净值",
+          "传承"
+        ],
+        "tc": [
+          "AIA",
+          "財富盈活",
+          "高淨值",
+          "傳承"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-06-08T10:00:00+08:00",
+      "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2026/aia-press-release-20260608",
+      "sourceKey": "aia:prosperlife-20260608"
+    },
+    {
+      "id": "aia-20260430-q1-vonb",
+      "clusterCount": 1,
+      "score": 80,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T16:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "AIA 2026年Q1新业务价值增长13% 香港表现强劲",
+        "tc": "AIA 2026年Q1新業務價值增長13% 香港表現強勁"
+      },
+      "summary": {
+        "sc": "友邦保险2026年4月30日公布Q1业绩：新业务价值(VONB)按固定汇率增长13%，其中香港业务增长21%，由本地及内地访客双轮驱动。[EN原文]",
+        "tc": "友邦Q1 VONB +13% 香港+21%"
+      },
+      "why": {
+        "sc": "AIA香港业绩持续强劲=市场信心指标",
+        "tc": "AIA業績=市場信心指標"
+      },
+      "actions": {
+        "front": {
+          "sc": "可用业绩数据增加客户信心",
+          "tc": "用業績增加客戶信心"
+        },
+        "midback": {
+          "sc": "更新友邦评估档案",
+          "tc": "更新評估檔案"
+        },
+        "lead": {
+          "sc": "关注AIA产品策略变化",
+          "tc": "關注產品策略"
+        },
+        "cross": {
+          "sc": "内地访客数据支持跨境业务",
+          "tc": "內地訪客數據支持跨境"
+        }
+      },
+      "source": {
+        "sc": "AIA 业绩公告",
+        "tc": "AIA 業績公告",
+        "lang": "en"
+      },
+      "boards": [
+        "product",
+        "firm",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "AIA",
+          "VONB",
+          "Q1",
+          "2026"
+        ],
+        "tc": [
+          "AIA",
+          "VONB",
+          "Q1",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-04-30T09:00:00+08:00",
+      "originalUrl": "https://www.aia.com/content/dam/group-wise/en/docs/press-release/2026/AIA%20Group%20Press%20Release_ENG_30%20April%202026.pdf",
+      "sourceKey": "aia:q1-vonb-20260430"
+    },
+    {
+      "id": "prudential-20260317-youth",
+      "clusterCount": 1,
+      "score": 76,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T16:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "保诚推出「动感守护宝」专为18-30岁年轻一代设计",
+        "tc": "保誠推出「動感守護寶」專為18-30歲年輕一代設計"
+      },
+      "summary": {
+        "sc": "保诚2026年3月17日推出「动感守护宝」保障计划，专为18至30岁、生活方式多元的年轻世代设计，保障灵活可调。",
+        "tc": "保誠3月17日推出年輕世代保障計劃"
+      },
+      "why": {
+        "sc": "年轻客户细分产品=保诚差异化策略，IFA可拓展客群",
+        "tc": "年輕客戶細分產品"
+      },
+      "actions": {
+        "front": {
+          "sc": "年轻客户拓客新工具",
+          "tc": "年輕客戶拓客工具"
+        },
+        "midback": {
+          "sc": "更新产品库",
+          "tc": "更新產品庫"
+        },
+        "lead": {
+          "sc": "年轻客群团队策略调整",
+          "tc": "年輕客群策略"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "保诚新闻稿",
+        "tc": "保誠新聞稿",
+        "lang": "zh"
+      },
+      "boards": [
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "保诚",
+          "年轻",
+          "保障",
+          "新产品"
+        ],
+        "tc": [
+          "保誠",
+          "年輕",
+          "保障",
+          "新產品"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-03-17T10:00:00+08:00",
+      "originalUrl": "https://www.prudential.com.hk/tc/about-us/newsroom/prudential-launches-pruchoice-power-up-go-insurance/",
+      "sourceKey": "prudential:youth-20260317"
+    },
+    {
+      "id": "prudential-20260429-self-future",
+      "clusterCount": 1,
+      "score": 78,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T16:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "保诚推出「自主未来」保险计划II 产品发布会",
+        "tc": "保誠推出「自主未來」保險計劃II 產品發佈會"
+      },
+      "summary": {
+        "sc": "保诚2026年4月29日举办「自主未来」保险计划II产品发布会，新产品进一步增强灵活性与保障范围。",
+        "tc": "保誠4月29日發布自主未來II"
+      },
+      "why": {
+        "sc": "保诚核心产品线更新，需跟进对比",
+        "tc": "保誠核心產品更新"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解新产品与旧版差异",
+          "tc": "了解新舊版差異"
+        },
+        "midback": {
+          "sc": "更新产品对比表",
+          "tc": "更新產品對比表"
+        },
+        "lead": {
+          "sc": "评估替换策略",
+          "tc": "評估替換策略"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "保诚新闻稿",
+        "tc": "保誠新聞稿",
+        "lang": "zh"
+      },
+      "boards": [
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "保诚",
+          "自主未来",
+          "产品更新"
+        ],
+        "tc": [
+          "保誠",
+          "自主未來",
+          "產品更新"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-04-29T14:00:00+08:00",
+      "originalUrl": "https://www.prudential.com.hk/tc/",
+      "sourceKey": "prudential:self-future-ii-20260429"
+    },
+    {
+      "id": "manulife-20260105-two-plans",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T16:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "宏利推出「宏挚家传承」及「财挚宏耀」两款分红寿险储蓄计划",
+        "tc": "宏利推出「宏摯家傳承」及「財摯宏耀」兩款分紅壽險儲蓄計劃"
+      },
+      "summary": {
+        "sc": "宏利香港2026年1月5日推出两款全新分红寿险储蓄计划——「宏挚家传承」与「财挚宏耀」，帮助客户实现长远财务目标，提供灵活选择应对不同人生阶段需求。",
+        "tc": "宏利1月5日推出兩款分紅儲蓄計劃"
+      },
+      "why": {
+        "sc": "宏利2026年首发=全年产品策略风向标",
+        "tc": "宏利2026首發=產品風向標"
+      },
+      "actions": {
+        "front": {
+          "sc": "两款新品加入产品对比表",
+          "tc": "加入產品對比表"
+        },
+        "midback": {
+          "sc": "收集产品费率与条款",
+          "tc": "收集產品資料"
+        },
+        "lead": {
+          "sc": "评估宏利产品线的竞争力",
+          "tc": "評估產品線競爭力"
+        },
+        "cross": {
+          "sc": "跨境高净值客户适配性分析",
+          "tc": "跨境高淨值客戶分析"
+        }
+      },
+      "source": {
+        "sc": "宏利新闻稿",
+        "tc": "宏利新聞稿",
+        "lang": "zh"
+      },
+      "boards": [
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "宏利",
+          "分红险",
+          "新产品",
+          "2026"
+        ],
+        "tc": [
+          "宏利",
+          "分紅險",
+          "新產品",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-01-05T10:00:00+08:00",
+      "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html",
+      "sourceKey": "manulife:two-plans-20260105"
+    },
+    {
+      "id": "manulife-20260420-annuity-accident",
+      "clusterCount": 1,
+      "score": 83,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T16:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "宏利推出全新年金及意外保险：宏瑞终身即期年金+相伴无忧个人意外",
+        "tc": "宏利推出全新年金及意外保險：宏瑞終身即期年金+相伴無憂個人意外"
+      },
+      "summary": {
+        "sc": "宏利2026年4月20日推出两项全新方案：「宏瑞终身即期年金」提供稳定退休收入，「相伴无忧个人意外」提升日常财务应变能力。反映宏利在退休与保障领域的持续创新。",
+        "tc": "宏利4月20日推出年金及意外新產品"
+      },
+      "why": {
+        "sc": "年金产品在香港市场稀缺，宏利此举填补退休收入空白",
+        "tc": "年金產品在香港稀缺"
+      },
+      "actions": {
+        "front": {
+          "sc": "退休规划客户新选择",
+          "tc": "退休規劃新選擇"
+        },
+        "midback": {
+          "sc": "更新退休产品对比",
+          "tc": "更新退休產品對比"
+        },
+        "lead": {
+          "sc": "年金+意外组合=银发市场切入点",
+          "tc": "銀髮市場切入點"
+        },
+        "cross": {
+          "sc": "内地客户退休规划方案",
+          "tc": "內地客戶退休規劃"
+        }
+      },
+      "source": {
+        "sc": "宏利新闻稿",
+        "tc": "宏利新聞稿",
+        "lang": "zh"
+      },
+      "boards": [
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "宏利",
+          "年金",
+          "意外险",
+          "退休"
+        ],
+        "tc": [
+          "宏利",
+          "年金",
+          "意外險",
+          "退休"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-04-20T10:00:00+08:00",
+      "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom/manulife-launches-new-annuity-and-accident-protection-solutions.html",
+      "sourceKey": "manulife:annuity-accident-20260420"
+    },
+    {
+      "id": "manulife-20260625-board",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T16:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "宏利委任吴立贤为独立非执行董事",
+        "tc": "宏利委任吳立賢為獨立非執行董事"
+      },
+      "summary": {
+        "sc": "宏利人寿保险2026年6月25日宣布委任吴立贤女士为独立非执行董事，强化公司治理结构。",
+        "tc": "宏利6月25日委任新獨立非執董"
+      },
+      "why": {
+        "sc": "公司治理升级=長期稳健信号",
+        "tc": "公司治理升級"
+      },
+      "actions": {
+        "front": {
+          "sc": "知识储备",
+          "tc": "知識儲備"
+        },
+        "midback": {
+          "sc": "更新宏利管理层档案",
+          "tc": "更新管理層檔案"
+        },
+        "lead": {
+          "sc": ""
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "宏利新闻稿",
+        "tc": "宏利新聞稿",
+        "lang": "zh"
+      },
+      "boards": [
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "宏利",
+          "董事",
+          "治理"
+        ],
+        "tc": [
+          "宏利",
+          "董事",
+          "治理"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-06-25T10:00:00+08:00",
+      "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html",
+      "sourceKey": "manulife:board-20260625"
+    },
+    {
+      "id": "axa-20260126-redomicile",
+      "clusterCount": 1,
+      "score": 86,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": true,
+      "ingestedAt": "2026-07-28T16:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "AXA安盛成功由百慕达迁册至香港",
+        "tc": "AXA安盛成功由百慕達遷冊至香港"
+      },
+      "summary": {
+        "sc": "AXA安盛2026年1月26日宣布成功将注册地由百慕达迁册至香港，正式更名为「安盛金融保险（香港）有限公司」。迁册标志着AXA对香港市场的长期承诺，巩固其亚太业务枢纽地位。",
+        "tc": "AXA安盛1月26日成功遷冊回港"
+      },
+      "why": {
+        "sc": "AXA是香港首家完成迁册的国际保险巨头，监管与市场意义重大",
+        "tc": "首家完成遷冊的國際保險巨頭"
+      },
+      "actions": {
+        "front": {
+          "sc": "可向客户提及AXA迁册=香港市场信心",
+          "tc": "提及遷冊=市場信心"
+        },
+        "midback": {
+          "sc": "更新AXA法律实体档案",
+          "tc": "更新法律實體檔案"
+        },
+        "lead": {
+          "sc": "迁册后AXA产品策略可能调整",
+          "tc": "關注產品策略調整"
+        },
+        "cross": {
+          "sc": "迁册对跨境保单的潜在影响评估",
+          "tc": "遷冊對跨境保單影響"
+        }
+      },
+      "source": {
+        "sc": "AXA 新闻稿",
+        "tc": "AXA 新聞稿",
+        "lang": "zh"
+      },
+      "boards": [
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "AXA",
+          "迁册",
+          "百慕达",
+          "2026"
+        ],
+        "tc": [
+          "AXA",
+          "遷冊",
+          "百慕達",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-01-26T09:00:00+08:00",
+      "originalUrl": "https://hk.finance.yahoo.com/news/axa成功遷冊回港-015300166.html",
+      "sourceKey": "axa:redomicile-20260126"
+    },
+    {
+      "id": "axa-2026-bloomberg-awards",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T16:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "AXA安盛于《彭博商业周刊》「金融机构2026」获七项殊荣",
+        "tc": "AXA安盛於《彭博商業周刊》「金融機構2026」獲七項殊榮"
+      },
+      "summary": {
+        "sc": "AXA安盛在《彭博商业周刊》「金融机构2026」评选中荣获七项殊荣，涵盖自愿医保、危疾、储蓄、客户服务等领域，反映其产品与服务的综合实力。",
+        "tc": "AXA安盛獲彭博七項殊榮"
+      },
+      "why": {
+        "sc": "独立第三方评选=产品竞争力的客观验证",
+        "tc": "第三方評選=競爭力驗證"
+      },
+      "actions": {
+        "front": {
+          "sc": "客户品牌对比时可用",
+          "tc": "品牌對比時可用"
+        },
+        "midback": {
+          "sc": "更新AXA品牌评估",
+          "tc": "更新品牌評估"
+        },
+        "lead": {
+          "sc": ""
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "AXA/彭博",
+        "tc": "AXA/彭博",
+        "lang": "zh"
+      },
+      "boards": [
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "AXA",
+          "彭博",
+          "奖项",
+          "2026"
+        ],
+        "tc": [
+          "AXA",
+          "彭博",
+          "獎項",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-06-15T10:00:00+08:00",
+      "originalUrl": "https://www.prnewswire.com/apac/zh/news-releases/axa2026-302811776.html",
+      "sourceKey": "axa:bloomberg-awards-2026"
+    },
+    {
+      "id": "sunlife-2026-10life-awards",
+      "clusterCount": 1,
+      "score": 77,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T16:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "Sun Life永明连续4年获10Life 5星保险大奖",
+        "tc": "Sun Life永明連續4年獲10Life 5星保險大獎"
+      },
+      "summary": {
+        "sc": "Sun Life永明2026年连续第四年荣获10Life 5星保险大奖，获奖产品涵盖医疗、危疾及储蓄保险等多个类别。",
+        "tc": "永明連續4年獲10Life五星大獎"
+      },
+      "why": {
+        "sc": "连续获奖=产品品质的持续验证",
+        "tc": "連續獲獎=品質驗證"
+      },
+      "actions": {
+        "front": {
+          "sc": "客户品牌对比可用",
+          "tc": "品牌對比可用"
+        },
+        "midback": {
+          "sc": "更新永明品牌档案",
+          "tc": "更新品牌檔案"
+        },
+        "lead": {
+          "sc": ""
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "10Life/永明",
+        "tc": "10Life/永明",
+        "lang": "zh"
+      },
+      "boards": [
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "永明",
+          "10Life",
+          "奖项",
+          "2026"
+        ],
+        "tc": [
+          "永明",
+          "10Life",
+          "獎項",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-05-15T10:00:00+08:00",
+      "originalUrl": "https://www.10life.com/zh-HK/5star-products-2026/insurer-sunlife",
+      "sourceKey": "sunlife:10life-2026"
+    },
+    {
+      "id": "ctflife-20260422-artisan-leap",
+      "clusterCount": 1,
+      "score": 79,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T16:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "周大福人寿推出「匠心·飞越」储蓄保险计划",
+        "tc": "周大福人壽推出「匠心·飛越」儲蓄保險計劃"
+      },
+      "summary": {
+        "sc": "周大福人寿2026年4月22日举办「匠心·飞越」储蓄保险计划产品发布会，以「飞越未知、稳创未来」为主题，强化储蓄型产品的灵活性。",
+        "tc": "周大福人壽4月22日推出匠心飛越儲蓄計劃"
+      },
+      "why": {
+        "sc": "周大福人寿持续强化产品线，与三大保司差异化竞争",
+        "tc": "周大福強化產品線"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解新品特点",
+          "tc": "了解新品特點"
+        },
+        "midback": {
+          "sc": "更新产品库",
+          "tc": "更新產品庫"
+        },
+        "lead": {
+          "sc": "评估周大福产品在组合中的角色",
+          "tc": "評估產品角色"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "周大福/富昌金融",
+        "tc": "周大福/富昌金融",
+        "lang": "zh"
+      },
+      "boards": [
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "周大福",
+          "匠心飞越",
+          "储蓄",
+          "新产品"
+        ],
+        "tc": [
+          "周大福",
+          "匠心飛越",
+          "儲蓄",
+          "新產品"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-04-22T14:00:00+08:00",
+      "originalUrl": "https://www.ffg.com.hk/news/csr/w5jo28lfkyonusn0iidrp960",
+      "sourceKey": "ctflife:artisan-leap-20260422"
+    },
+    {
+      "id": "ctflife-2026-diamond-iul",
+      "clusterCount": 1,
+      "score": 84,
+      "verifyStatus": "pending",
+      "featured": true,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T16:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "周大福人寿推出全港首只法国巴黎银行指数挂钩IUL计划「钻裕」",
+        "tc": "周大福人壽推出全港首隻法國巴黎銀行指數掛鈎IUL計劃「鑽裕」"
+      },
+      "summary": {
+        "sc": "周大福人寿推出「钻裕」指数型万用保险计划(IUL)，专为专业投资者设计，首次将法国巴黎银行指数引入香港IUL市场。",
+        "tc": "周大福推出法國巴黎銀行指數掛鈎IUL"
+      },
+      "why": {
+        "sc": "IUL市场创新者=周大福的差异化武器",
+        "tc": "IUL市場創新"
+      },
+      "actions": {
+        "front": {
+          "sc": "专业投资者客户可了解IUL新产品",
+          "tc": "專業投資者了解IUL"
+        },
+        "midback": {
+          "sc": "更新IUL产品对比",
+          "tc": "更新IUL對比"
+        },
+        "lead": {
+          "sc": "IUL产品线扩充策略",
+          "tc": "IUL產品策略"
+        },
+        "cross": {
+          "sc": "跨境专业投资者的IUL方案",
+          "tc": "跨境專業投資者IUL"
+        }
+      },
+      "source": {
+        "sc": "周大福/ACN",
+        "tc": "周大福/ACN",
+        "lang": "zh"
+      },
+      "boards": [
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "周大福",
+          "IUL",
+          "钻裕",
+          "法国巴黎银行"
+        ],
+        "tc": [
+          "周大福",
+          "IUL",
+          "鑽裕",
+          "法國巴黎銀行"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-06-10T10:00:00+08:00",
+      "originalUrl": "https://www.acnnewswire.com/press-release/traditionalchinese/107208/",
+      "sourceKey": "ctflife:diamond-iul-2026"
+    },
+    {
+      "id": "boclife-20260427-retirement",
+      "clusterCount": 1,
+      "score": 80,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T16:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "中银人寿联乘中银香港推出「退优·新活」综合养老方案",
+        "tc": "中銀人壽聯乘中銀香港推出「退優·新活」綜合養老方案"
+      },
+      "summary": {
+        "sc": "中银人寿与中银香港2026年4月27日联合推出「退优·新活」综合养老方案，涵盖保险保障、退休储蓄及银行理财，一站式解决养老需求。",
+        "tc": "中銀4月27日推出一站式養老方案"
+      },
+      "why": {
+        "sc": "银保跨界养老方案=中银体系独特优势",
+        "tc": "銀保跨界養老方案"
+      },
+      "actions": {
+        "front": {
+          "sc": "退休规划客户的新选择",
+          "tc": "退休規劃新選擇"
+        },
+        "midback": {
+          "sc": "更新养老产品对比",
+          "tc": "更新養老產品對比"
+        },
+        "lead": {
+          "sc": "中银养老方案=差异化切入点",
+          "tc": "養老方案差異化"
+        },
+        "cross": {
+          "sc": "内地养老客户适配性",
+          "tc": "內地養老客戶適配性"
+        }
+      },
+      "source": {
+        "sc": "中银香港新闻稿",
+        "tc": "中銀香港新聞稿",
+        "lang": "zh"
+      },
+      "boards": [
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "中银人寿",
+          "养老",
+          "退休",
+          "银保"
+        ],
+        "tc": [
+          "中銀人壽",
+          "養老",
+          "退休",
+          "銀保"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-04-27T10:00:00+08:00",
+      "originalUrl": "https://www.bochk.com/dam/bochk/desktop/top/aboutus/pressrelease2/2026/260427021_Press_Release_TC.pdf",
+      "sourceKey": "boclife:retirement-20260427"
+    },
     {
       "id": "ia-20240701-rbc-live",
       "clusterCount": 1,
