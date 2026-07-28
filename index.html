@@ -43,9 +43,13 @@
         </div>
         <div class="controls">
           <div class="role-pills" id="rolePills"></div>
-          <div class="search-box">
+          <div class="search-box" id="searchBox">
             <span style="color:var(--text-dim)">⌕</span>
-            <input id="q" type="search" />
+            <input id="q" type="search" placeholder="搜索标题/摘要/标签…" />
+            <div class="hotsearch-dropdown" id="hotsearchDropdown" style="display:none">
+              <div class="hotsearch-title">大家都在搜</div>
+              <div class="hotsearch-list" id="hotsearchList"></div>
+            </div>
           </div>
         </div>
       </div>
