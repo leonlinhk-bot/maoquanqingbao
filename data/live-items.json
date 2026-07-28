@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-07-28T11:00:00+08:00",
-    "itemCount": 51,
+    "generatedAt": "2026-07-28T12:30:00+08:00",
+    "itemCount": 76,
     "windowNote": {
-      "sc": "本库 51 条导读，数据窗口截至 2026-07-28。信源：监管+保司官网+机构研究+媒体线索。全部动态默认按发布时间降序。导读≠原文。",
-      "tc": "本庫 51 條導讀，數據窗口截至 2026-07-28。信源：監管+保司官網+機構研究+媒體線索。全部動態默認按發布時間降序。導讀≠原文。"
+      "sc": "本库 76 条导读，数据窗口截至 2026-07-28。信源：监管+保司官网+机构研究+媒体线索。全部动态默认按发布时间降序。导读≠原文。",
+      "tc": "本庫 76 條導讀，數據窗口截至 2026-07-28。信源：監管+保司官網+機構研究+媒體線索。全部動態默認按發布時間降序。導讀≠原文。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -168,6 +168,61 @@
   ],
   "items": [
     {
+      "clusterCount": 1,
+      "score": 100,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": false,
+      "ingestedAt": "2026-07-27T14:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读（非原文）",
+        "tc": "本站導讀（非原文）"
+      },
+      "id": "deploy-test-20260727",
+      "title": {
+        "sc": "🚀 猫圈儿港险情报站部署测试 — 2026-07-27",
+        "tc": "🚀 貓圈兒港險情報站部署測試 — 2026-07-27"
+      },
+      "summary": {
+        "sc": "本次部署测试验证全链路：GitHub Pages + Cloudflare DNS (DNS-only) + 自定义域名 hkmaoquanqingbao.com。站点已成功上线，支持简繁切换/深色模式/四档角色筛选。",
+        "tc": "本次部署測試驗證全鏈路：GitHub Pages + Cloudflare DNS (DNS-only) + 自定義域名 hkmaoquanqingbao.com。站點已成功上線，支援簡繁切換/深色模式/四檔角色篩選。"
+      },
+      "why": {
+        "sc": "验证持续部署 Pipeline：更新 live-items.json → git push → GitHub Actions 自动构建 → 站点即时更新。",
+        "tc": "驗證持續部署 Pipeline：更新 live-items.json → git push → GitHub Actions 自動構建 → 站點即時更新。"
+      },
+      "actions": {
+        "front": {
+          "sc": "正常查看本站内容，测试四档角色筛选与搜索功能",
+          "tc": "正常查看本站內容，測試四檔角色篩選與搜索功能"
+        },
+        "midback": {
+          "sc": "内容管理已建立：数据更新 → 推送 → 自动上线",
+          "tc": "內容管理已建立：數據更新 → 推送 → 自動上線"
+        },
+        "lead": {
+          "sc": "本部署方案可作为团队内部信息分发基础设施",
+          "tc": "本部署方案可作為團隊內部信息分發基礎設施"
+        },
+        "cross": {
+          "sc": "同时可作为面向跨境客户的合规资讯门户",
+          "tc": "可同時作為面向跨境客戶的合規資訊門戶"
+        }
+      },
+      "source": {
+        "sc": "Hermes Agent · 部署验证",
+        "tc": "Hermes Agent · 部署驗證"
+      },
+      "boards": [
+        "market",
+        "regulatory"
+      ],
+      "contentKind": "notice",
+      "publishedAt": "2026-07-27T14:00:00+08:00",
+      "originalUrl": "https://hkmaoquanqingbao.com",
+      "sourceKey": "deploy:test-2026-07-27"
+    },
+    {
       "id": "hkma-20260727-3",
       "clusterCount": 1,
       "score": 88,
@@ -232,338 +287,6 @@
       "publishedAt": "2026-07-27T10:00:00+08:00",
       "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/07/",
       "sourceKey": "hkma:premfin-20260727"
-    },
-    {
-      "id": "ia-20260712-speech",
-      "clusterCount": 1,
-      "score": 95,
-      "verifyStatus": "verified",
-      "featured": true,
-      "evergreen": false,
-      "ingestedAt": "2026-07-28T11:00:00+08:00",
-      "contentRole": {
-        "sc": "本站导读（非原文）",
-        "tc": "本站導讀（非原文）"
-      },
-      "title": {
-        "sc": "保监局刘中健演辞：以前瞻性监管及执法维护市场健康发展",
-        "tc": "保監局劉中健演辭：以前瞻性監管及執法維護市場健康發展"
-      },
-      "summary": {
-        "sc": "保监局2026年7月12日发表演辞，回顾分红保单销售三项措施——演示利率上限(2025年7月)、经纪转介费基准(2025年10月)、佣金分摊(2026年1月)。并说明与金管局推动的跨行业背景查核安排已于7月生效，覆盖约11万名长期业务中介。",
-        "tc": "保監局7月12日演辭回顧分紅保單三項銷售措施及跨行業背景查核"
-      },
-      "why": {
-        "sc": "监管最高层发声，确认三大措施已全部落地，行业合规的官方定调",
-        "tc": "監管最高層發聲，確認三大措施已全部落地"
-      },
-      "actions": {
-        "front": {
-          "sc": "用监管原话向客户解释三项措施=对消费者的保护升级",
-          "tc": "用監管原話解釋措施=對消費者保護"
-        },
-        "midback": {
-          "sc": "更新销售合规手册中三项措施的引用来源",
-          "tc": "更新銷售合規手冊引用來源"
-        },
-        "lead": {
-          "sc": "组织团队学习演讲全文，作为Q3合规培训核心材料",
-          "tc": "組織團隊學習演講全文"
-        },
-        "cross": {
-          "sc": "跨境客户沟通时引用保监局官方口径增加公信力",
-          "tc": "引用官方口徑增加公信力"
-        }
-      },
-      "source": {
-        "sc": "IA 保监局官方演辞",
-        "tc": "IA 保監局官方演辭",
-        "lang": "zh"
-      },
-      "boards": [
-        "regulatory",
-        "compliance"
-      ],
-      "tags": {
-        "sc": [
-          "保监局",
-          "分红保单",
-          "演辞",
-          "2026"
-        ],
-        "tc": [
-          "保監局",
-          "分紅保單",
-          "演辭",
-          "2026"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2026-07-12T10:00:00+08:00",
-      "originalUrl": "https://www.ia.org.hk/tc/infocenter/speeches_articles/20260712.html",
-      "sourceKey": "ia:speech-20260712"
-    },
-    {
-      "id": "ia-20260710-illustration",
-      "clusterCount": 1,
-      "score": 91,
-      "verifyStatus": "verified",
-      "featured": false,
-      "evergreen": false,
-      "ingestedAt": "2026-07-28T11:00:00+08:00",
-      "contentRole": {
-        "sc": "本站导读（非原文）",
-        "tc": "本站導讀（非原文）"
-      },
-      "title": {
-        "sc": "保监局就分红保单演示回报率上限发出释义文件",
-        "tc": "保監局就分紅保單演示回報率上限發出釋義文件"
-      },
-      "summary": {
-        "sc": "保监局2026年7月10日发出通函，就分红保单利益说明文件的演示回报率上限提供释义文件（英文版），进一步明确2025年7月生效的演示利率上限应用范围与执行细则 [EN原文]",
-        "tc": "保監局7月10日通函提供演示利率上限釋義文件（英文版）"
-      },
-      "why": {
-        "sc": "佣金分摊+演示利率上限=双重约束，高演示产品稀缺加速",
-        "tc": "雙重約束下高演示產品稀缺加速"
-      },
-      "actions": {
-        "front": {
-          "sc": "更新产品对比表，标注演示利率上限的官方文件编号",
-          "tc": "更新產品對比表"
-        },
-        "midback": {
-          "sc": "合规文档区新增该通函及释义文件",
-          "tc": "合規文檔區新增通函"
-        },
-        "lead": {
-          "sc": "团队培训演示利率章节引用此通函",
-          "tc": "團隊培訓引用此通函"
-        },
-        "cross": {
-          "sc": "向内地客户解释演示上限时引用该通函",
-          "tc": "解釋演示上限時引用通函"
-        }
-      },
-      "source": {
-        "sc": "IA 保监局通函",
-        "tc": "IA 保監局通函",
-        "lang": "en"
-      },
-      "boards": [
-        "regulatory",
-        "product"
-      ],
-      "tags": {
-        "sc": [
-          "演示利率",
-          "通函",
-          "收益率上限"
-        ],
-        "tc": [
-          "演示利率",
-          "通函",
-          "收益率上限"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2026-07-10T15:00:00+08:00",
-      "originalUrl": "https://brdr.hkma.gov.hk/gb_chi/doc-ldg/docId/20260708-2-TC",
-      "sourceKey": "ia:circular-20260710"
-    },
-    {
-      "id": "fstb-20260708-captive",
-      "clusterCount": 1,
-      "score": 78,
-      "verifyStatus": "pending",
-      "featured": false,
-      "evergreen": false,
-      "ingestedAt": "2026-07-28T11:00:00+08:00",
-      "contentRole": {
-        "sc": "本站导读（非原文）",
-        "tc": "本站導讀（非原文）"
-      },
-      "title": {
-        "sc": "财库局欢迎保监局批准两间新专属自保保险公司",
-        "tc": "財庫局歡迎保監局批准兩間新專屬自保保險公司"
-      },
-      "summary": {
-        "sc": "财经事务及库务局2026年7月8日欢迎保监局批准香港上海大酒店有限公司及顺丰控股设立专属自保保险公司，巩固香港作为自保保险枢纽的地位。",
-        "tc": "財庫局7月8日歡迎保監局批准兩家新自保公司"
-      },
-      "why": {
-        "sc": "自保牌照增加=香港保险市场深度持续提升，企业风险管理能力增强",
-        "tc": "自保牌照增加=市場深度提升"
-      },
-      "actions": {
-        "front": {
-          "sc": "一般知识储备",
-          "tc": "知識儲備"
-        },
-        "midback": {
-          "sc": "更新香港授权保险人最新名单",
-          "tc": "更新授權保險人名單"
-        },
-        "lead": {
-          "sc": "关注自保保险对再保险市场的连带影响",
-          "tc": "關注自保保險對再保市場的影響"
-        },
-        "cross": {
-          "sc": "顺丰案例可作为跨境企业风险管理的参考标杆",
-          "tc": "順豐案例可作參考"
-        }
-      },
-      "source": {
-        "sc": "财库局新闻稿",
-        "tc": "財庫局新聞稿",
-        "lang": "zh"
-      },
-      "boards": [
-        "regulatory",
-        "firm"
-      ],
-      "tags": {
-        "sc": [
-          "自保保险",
-          "财库局",
-          "顺丰"
-        ],
-        "tc": [
-          "自保保險",
-          "財庫局",
-          "順豐"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2026-07-08T14:00:00+08:00",
-      "originalUrl": "https://www.fstb.gov.hk/fsb/tc/business/policy_highlights/insurance-industry.html",
-      "sourceKey": "fstb:captives-20260708"
-    },
-    {
-      "id": "ia-crossref-20260701",
-      "clusterCount": 2,
-      "score": 93,
-      "verifyStatus": "verified",
-      "featured": true,
-      "evergreen": true,
-      "ingestedAt": "2026-07-28T11:00:00+08:00",
-      "contentRole": {
-        "sc": "本站导读（非原文）",
-        "tc": "本站導讀（非原文）"
-      },
-      "title": {
-        "sc": "银行与保险跨行业背景查核安排：2026年7月1日起分阶段实施",
-        "tc": "銀行與保險跨行業背景查核安排：2026年7月1日起分階段實施"
-      },
-      "summary": {
-        "sc": "金管局与保监局联合推出跨行业背景查核/操守参考安排，2026年7月1日起生效。首阶段覆盖银行及保险机构的寿险从业员，准员工过去七年操守记录可在两行业间共享，覆盖约11万人。",
-        "tc": "金管局與保監局聯合推出跨行業背景查核安排7月生效"
-      },
-      "why": {
-        "sc": "跳槽成本剧增、行业透明度升级，合规瑕疵在银行与保险间一票否决",
-        "tc": "跳槽成本劇增、行業透明度升級"
-      },
-      "actions": {
-        "front": {
-          "sc": "跳槽前主动向新雇主披露操守记录",
-          "tc": "跳槽前主動披露操守記錄"
-        },
-        "midback": {
-          "sc": "招聘流程新增背景查核环节，对接查核机制",
-          "tc": "招聘流程新增背景查核"
-        },
-        "lead": {
-          "sc": "建立团队操守档案，提前梳理潜在风险",
-          "tc": "建立團隊操守檔案"
-        },
-        "cross": {
-          "sc": "跨境业务人员需同步满足两地合规查核",
-          "tc": "跨境人員需滿足兩地合規"
-        }
-      },
-      "source": {
-        "sc": "HKMA+IA 联合通函",
-        "tc": "HKMA+IA 聯合通函",
-        "lang": "zh"
-      },
-      "boards": [
-        "regulatory",
-        "compliance",
-        "channel"
-      ],
-      "tags": {
-        "sc": [
-          "背景查核",
-          "跨行业",
-          "金管局",
-          "2026"
-        ],
-        "tc": [
-          "背景查核",
-          "跨行業",
-          "金管局",
-          "2026"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2026-07-01T09:00:00+08:00",
-      "originalUrl": "https://xhcins.com/posts/hongkong-insurance-intermediary-reference-checking-2026-07/",
-      "sourceKey": "ia:crossref-20260701"
-    },
-    {
-      "clusterCount": 1,
-      "score": 100,
-      "verifyStatus": "verified",
-      "featured": true,
-      "evergreen": false,
-      "ingestedAt": "2026-07-27T14:00:00+08:00",
-      "contentRole": {
-        "sc": "本站导读（非原文）",
-        "tc": "本站導讀（非原文）"
-      },
-      "id": "deploy-test-20260727",
-      "title": {
-        "sc": "🚀 猫圈儿港险情报站部署测试 — 2026-07-27",
-        "tc": "🚀 貓圈兒港險情報站部署測試 — 2026-07-27"
-      },
-      "summary": {
-        "sc": "本次部署测试验证全链路：GitHub Pages + Cloudflare DNS (DNS-only) + 自定义域名 hkmaoquanqingbao.com。站点已成功上线，支持简繁切换/深色模式/四档角色筛选。",
-        "tc": "本次部署測試驗證全鏈路：GitHub Pages + Cloudflare DNS (DNS-only) + 自定義域名 hkmaoquanqingbao.com。站點已成功上線，支援簡繁切換/深色模式/四檔角色篩選。"
-      },
-      "why": {
-        "sc": "验证持续部署 Pipeline：更新 live-items.json → git push → GitHub Actions 自动构建 → 站点即时更新。",
-        "tc": "驗證持續部署 Pipeline：更新 live-items.json → git push → GitHub Actions 自動構建 → 站點即時更新。"
-      },
-      "actions": {
-        "front": {
-          "sc": "正常查看本站内容，测试四档角色筛选与搜索功能",
-          "tc": "正常查看本站內容，測試四檔角色篩選與搜索功能"
-        },
-        "midback": {
-          "sc": "内容管理已建立：数据更新 → 推送 → 自动上线",
-          "tc": "內容管理已建立：數據更新 → 推送 → 自動上線"
-        },
-        "lead": {
-          "sc": "本部署方案可作为团队内部信息分发基础设施",
-          "tc": "本部署方案可作為團隊內部信息分發基礎設施"
-        },
-        "cross": {
-          "sc": "同时可作为面向跨境客户的合规资讯门户",
-          "tc": "可同時作為面向跨境客戶的合規資訊門戶"
-        }
-      },
-      "source": {
-        "sc": "Hermes Agent · 部署验证",
-        "tc": "Hermes Agent · 部署驗證"
-      },
-      "boards": [
-        "market",
-        "regulatory"
-      ],
-      "contentKind": "notice",
-      "publishedAt": "2026-07-27T14:00:00+08:00",
-      "originalUrl": "https://hkmaoquanqingbao.com",
-      "sourceKey": "deploy:test-2026-07-27"
     },
     {
       "clusterCount": 1,
@@ -1118,6 +841,76 @@
     },
     {
       "id": "ia-20260712-speech",
+      "clusterCount": 1,
+      "score": 95,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T11:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读（非原文）",
+        "tc": "本站導讀（非原文）"
+      },
+      "title": {
+        "sc": "保监局刘中健演辞：以前瞻性监管及执法维护市场健康发展",
+        "tc": "保監局劉中健演辭：以前瞻性監管及執法維護市場健康發展"
+      },
+      "summary": {
+        "sc": "保监局2026年7月12日发表演辞，回顾分红保单销售三项措施——演示利率上限(2025年7月)、经纪转介费基准(2025年10月)、佣金分摊(2026年1月)。并说明与金管局推动的跨行业背景查核安排已于7月生效，覆盖约11万名长期业务中介。",
+        "tc": "保監局7月12日演辭回顧分紅保單三項銷售措施及跨行業背景查核"
+      },
+      "why": {
+        "sc": "监管最高层发声，确认三大措施已全部落地，行业合规的官方定调",
+        "tc": "監管最高層發聲，確認三大措施已全部落地"
+      },
+      "actions": {
+        "front": {
+          "sc": "用监管原话向客户解释三项措施=对消费者的保护升级",
+          "tc": "用監管原話解釋措施=對消費者保護"
+        },
+        "midback": {
+          "sc": "更新销售合规手册中三项措施的引用来源",
+          "tc": "更新銷售合規手冊引用來源"
+        },
+        "lead": {
+          "sc": "组织团队学习演讲全文，作为Q3合规培训核心材料",
+          "tc": "組織團隊學習演講全文"
+        },
+        "cross": {
+          "sc": "跨境客户沟通时引用保监局官方口径增加公信力",
+          "tc": "引用官方口徑增加公信力"
+        }
+      },
+      "source": {
+        "sc": "IA 保监局官方演辞",
+        "tc": "IA 保監局官方演辭",
+        "lang": "zh"
+      },
+      "boards": [
+        "regulatory",
+        "compliance"
+      ],
+      "tags": {
+        "sc": [
+          "保监局",
+          "分红保单",
+          "演辞",
+          "2026"
+        ],
+        "tc": [
+          "保監局",
+          "分紅保單",
+          "演辭",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-07-12T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/tc/infocenter/speeches_articles/20260712.html",
+      "sourceKey": "ia:speech-20260712"
+    },
+    {
+      "id": "ia-20260712-speech",
       "title": {
         "sc": "保监局：分红保单三项监管措施落地回顾与「跨行业背景查核」推进",
         "tc": "保監局：分紅保單三項監管措施落地回顧與「跨行業背景查核」推進"
@@ -1199,6 +992,74 @@
       "contentKind": "speech"
     },
     {
+      "id": "ia-20260710-illustration",
+      "clusterCount": 1,
+      "score": 91,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T11:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读（非原文）",
+        "tc": "本站導讀（非原文）"
+      },
+      "title": {
+        "sc": "保监局就分红保单演示回报率上限发出释义文件",
+        "tc": "保監局就分紅保單演示回報率上限發出釋義文件"
+      },
+      "summary": {
+        "sc": "保监局2026年7月10日发出通函，就分红保单利益说明文件的演示回报率上限提供释义文件（英文版），进一步明确2025年7月生效的演示利率上限应用范围与执行细则 [EN原文]",
+        "tc": "保監局7月10日通函提供演示利率上限釋義文件（英文版）"
+      },
+      "why": {
+        "sc": "佣金分摊+演示利率上限=双重约束，高演示产品稀缺加速",
+        "tc": "雙重約束下高演示產品稀缺加速"
+      },
+      "actions": {
+        "front": {
+          "sc": "更新产品对比表，标注演示利率上限的官方文件编号",
+          "tc": "更新產品對比表"
+        },
+        "midback": {
+          "sc": "合规文档区新增该通函及释义文件",
+          "tc": "合規文檔區新增通函"
+        },
+        "lead": {
+          "sc": "团队培训演示利率章节引用此通函",
+          "tc": "團隊培訓引用此通函"
+        },
+        "cross": {
+          "sc": "向内地客户解释演示上限时引用该通函",
+          "tc": "解釋演示上限時引用通函"
+        }
+      },
+      "source": {
+        "sc": "IA 保监局通函",
+        "tc": "IA 保監局通函",
+        "lang": "en"
+      },
+      "boards": [
+        "regulatory",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "演示利率",
+          "通函",
+          "收益率上限"
+        ],
+        "tc": [
+          "演示利率",
+          "通函",
+          "收益率上限"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-07-10T15:00:00+08:00",
+      "originalUrl": "https://brdr.hkma.gov.hk/gb_chi/doc-ldg/docId/20260708-2-TC",
+      "sourceKey": "ia:circular-20260710"
+    },
+    {
       "id": "ia-20260710-illustration-review",
       "title": {
         "sc": "演示利率上限检讨机制：保监局发布释义说明（2026-07-10）",
@@ -1276,6 +1137,74 @@
         "reg"
       ],
       "contentKind": "circular"
+    },
+    {
+      "id": "fstb-20260708-captive",
+      "clusterCount": 1,
+      "score": 78,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T11:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读（非原文）",
+        "tc": "本站導讀（非原文）"
+      },
+      "title": {
+        "sc": "财库局欢迎保监局批准两间新专属自保保险公司",
+        "tc": "財庫局歡迎保監局批准兩間新專屬自保保險公司"
+      },
+      "summary": {
+        "sc": "财经事务及库务局2026年7月8日欢迎保监局批准香港上海大酒店有限公司及顺丰控股设立专属自保保险公司，巩固香港作为自保保险枢纽的地位。",
+        "tc": "財庫局7月8日歡迎保監局批准兩家新自保公司"
+      },
+      "why": {
+        "sc": "自保牌照增加=香港保险市场深度持续提升，企业风险管理能力增强",
+        "tc": "自保牌照增加=市場深度提升"
+      },
+      "actions": {
+        "front": {
+          "sc": "一般知识储备",
+          "tc": "知識儲備"
+        },
+        "midback": {
+          "sc": "更新香港授权保险人最新名单",
+          "tc": "更新授權保險人名單"
+        },
+        "lead": {
+          "sc": "关注自保保险对再保险市场的连带影响",
+          "tc": "關注自保保險對再保市場的影響"
+        },
+        "cross": {
+          "sc": "顺丰案例可作为跨境企业风险管理的参考标杆",
+          "tc": "順豐案例可作參考"
+        }
+      },
+      "source": {
+        "sc": "财库局新闻稿",
+        "tc": "財庫局新聞稿",
+        "lang": "zh"
+      },
+      "boards": [
+        "regulatory",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "自保保险",
+          "财库局",
+          "顺丰"
+        ],
+        "tc": [
+          "自保保險",
+          "財庫局",
+          "順豐"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-07-08T14:00:00+08:00",
+      "originalUrl": "https://www.fstb.gov.hk/fsb/tc/business/policy_highlights/insurance-industry.html",
+      "sourceKey": "fstb:captives-20260708"
     },
     {
       "id": "ia-20260708-captive",
@@ -1433,6 +1362,1185 @@
       "contentKind": "other"
     },
     {
+      "id": "ia-crossref-20260701",
+      "clusterCount": 2,
+      "score": 93,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": true,
+      "ingestedAt": "2026-07-28T11:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读（非原文）",
+        "tc": "本站導讀（非原文）"
+      },
+      "title": {
+        "sc": "银行与保险跨行业背景查核安排：2026年7月1日起分阶段实施",
+        "tc": "銀行與保險跨行業背景查核安排：2026年7月1日起分階段實施"
+      },
+      "summary": {
+        "sc": "金管局与保监局联合推出跨行业背景查核/操守参考安排，2026年7月1日起生效。首阶段覆盖银行及保险机构的寿险从业员，准员工过去七年操守记录可在两行业间共享，覆盖约11万人。",
+        "tc": "金管局與保監局聯合推出跨行業背景查核安排7月生效"
+      },
+      "why": {
+        "sc": "跳槽成本剧增、行业透明度升级，合规瑕疵在银行与保险间一票否决",
+        "tc": "跳槽成本劇增、行業透明度升級"
+      },
+      "actions": {
+        "front": {
+          "sc": "跳槽前主动向新雇主披露操守记录",
+          "tc": "跳槽前主動披露操守記錄"
+        },
+        "midback": {
+          "sc": "招聘流程新增背景查核环节，对接查核机制",
+          "tc": "招聘流程新增背景查核"
+        },
+        "lead": {
+          "sc": "建立团队操守档案，提前梳理潜在风险",
+          "tc": "建立團隊操守檔案"
+        },
+        "cross": {
+          "sc": "跨境业务人员需同步满足两地合规查核",
+          "tc": "跨境人員需滿足兩地合規"
+        }
+      },
+      "source": {
+        "sc": "HKMA+IA 联合通函",
+        "tc": "HKMA+IA 聯合通函",
+        "lang": "zh"
+      },
+      "boards": [
+        "regulatory",
+        "compliance",
+        "channel"
+      ],
+      "tags": {
+        "sc": [
+          "背景查核",
+          "跨行业",
+          "金管局",
+          "2026"
+        ],
+        "tc": [
+          "背景查核",
+          "跨行業",
+          "金管局",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-07-01T09:00:00+08:00",
+      "originalUrl": "https://xhcins.com/posts/hongkong-insurance-intermediary-reference-checking-2026-07/",
+      "sourceKey": "ia:crossref-20260701"
+    },
+    {
+      "id": "ia-20260630-swissre-sigma",
+      "clusterCount": 1,
+      "score": 80,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:00:00+08:00",
+      "contentRole": {
+        "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
+        "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
+      },
+      "title": {
+        "sc": "瑞再研究院sigma报告：全球保险在碎片化世界中扮演「减震器」，AI投资颠覆行业格局",
+        "tc": "瑞再研究院sigma報告：全球保險在碎片化世界中扮演「減震器」，AI投資顛覆行業格局"
+      },
+      "summary": {
+        "sc": "2026年6月30日，瑞士再保险研究院发布sigma 2/2026报告《World Insurance in 2026: Shock Absorbers in a Fragmenting World》。预测2026年全球保费实际增长1.3%（从2025年3.9%放缓），寿险增长2.3%强劲，非寿险0.6%。AI投资将达7,500亿美元，推动保险需求向财产、工程、网络和业务中断险延展。",
+        "tc": "2026年6月30日，瑞士再保險研究院發布sigma 2/2026報告《World Insurance in 2026: Shock Absorbers in a Fragmenting World》。預測2026年全球保費實際增長1.3%（從2025年3.9%放緩），壽險增長2.3%強勁，非壽險0.6%。AI投資將達7,500億美元，推動保險需求向財產、工程、網絡和業務中斷險延展。"
+      },
+      "why": {
+        "sc": "全球最权威再保险研究机构明确指出AI基建带来的新风险池，保险业面临结构性增长机遇。",
+        "tc": "全球最權威再保險研究機構明確指出AI基建帶來的新風險池，保險業面臨結構性增長機遇。"
+      },
+      "actions": {
+        "front": {
+          "sc": "对客叙事：全球顶级机构认为保险是碎片化世界中的「减震器」。",
+          "tc": "對客敘事：全球頂級機構認為保險是碎片化世界中的「減震器」。"
+        },
+        "midback": {
+          "sc": "将瑞再增长预测纳入公司年度市场分析报告。",
+          "tc": "將瑞再增長預測納入公司年度市場分析報告。"
+        },
+        "lead": {
+          "sc": "战略层面：AI基建保险需求是未来3-5年的蓝海市场。",
+          "tc": "戰略層面：AI基建保險需求是未來3-5年的藍海市場。"
+        },
+        "cross": {
+          "sc": "地缘碎片化趋势意味着离岸保险需求将持续增长。",
+          "tc": "地緣碎片化趨勢意味著離岸保險需求將持續增長。"
+        }
+      },
+      "source": {
+        "sc": "瑞再研究院 · sigma 2/2026 2026-06-30 [EN原文]",
+        "tc": "瑞再研究院 · sigma 2/2026 2026-06-30 [EN原文]",
+        "lang": "zh"
+      },
+      "sourceTier": "research",
+      "tags": {
+        "sc": [
+          "瑞再",
+          "sigma",
+          "AI投资"
+        ],
+        "tc": [
+          "瑞再",
+          "sigma",
+          "AI投資"
+        ]
+      },
+      "themes": [
+        "macro",
+        "market",
+        "tech"
+      ],
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 2,
+        "cross": 2
+      },
+      "publishedAt": "2026-06-30T14:00:00+08:00",
+      "originalUrl": "https://www.swissre.com/institute/research/sigma-research/sigma-2026-07-world-insurance.html",
+      "sourceKey": "80c32beb155c",
+      "boards": [
+        "market",
+        "tech"
+      ],
+      "contentKind": "research"
+    },
+    {
+      "id": "ia-20260630-allianz-report",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:00:00+08:00",
+      "contentRole": {
+        "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
+        "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
+      },
+      "title": {
+        "sc": "安联全球保险报告2026：碎片化世界中的保险未来 — 亚洲仍是增长引擎",
+        "tc": "安聯全球保險報告2026：碎片化世界中的保險未來 — 亞洲仍是增長引擎"
+      },
+      "summary": {
+        "sc": "2026年6月30日，安联研究发布《全球保险报告2026：碎片化世界中的保险未来》。报告预测2026-2036年香港寿险市场年均增长5.2%，产险增长4.1%。亚洲（除中日）仍是全球保险增长引擎，受益于人口老龄化、高储蓄率和养老金体系不足的结构性推动力。",
+        "tc": "2026年6月30日，安聯研究發布《全球保險報告2026：碎片化世界中的保險未來》。報告預測2026-2036年香港壽險市場年均增長5.2%，產險增長4.1%。亞洲（除中日）仍是全球保險增長引擎，受益於人口老齡化、高儲蓄率和養老金體系不足的結構性推動力。"
+      },
+      "why": {
+        "sc": "安联对香港保险的十年增长预测为中介行业提供了坚实的市场信心论据。",
+        "tc": "安聯對香港保險的十年增長預測為中介行業提供了堅實的市場信心論據。"
+      },
+      "actions": {
+        "front": {
+          "sc": "对客可用安联增长预测说明保险行业的长期配置价值。",
+          "tc": "對客可用安聯增長預測說明保險行業的長期配置價值。"
+        },
+        "midback": {
+          "sc": "将市场增长预测纳入年度业务规划与目标设定。",
+          "tc": "將市場增長預測納入年度業務規劃與目標設定。"
+        },
+        "lead": {
+          "sc": "行业年均5.2%增长意味着人才和渠道扩张空间巨大。",
+          "tc": "行業年均5.2%增長意味著人才和渠道擴張空間巨大。"
+        },
+        "cross": {
+          "sc": "亚洲保险渗透率仍低，跨境需求将持续增长。",
+          "tc": "亞洲保險滲透率仍低，跨境需求將持續增長。"
+        }
+      },
+      "source": {
+        "sc": "安联研究 · 全球保险报告 2026-06-30 [EN原文]",
+        "tc": "安联研究 · 全球保险报告 2026-06-30 [EN原文]",
+        "lang": "zh"
+      },
+      "sourceTier": "research",
+      "tags": {
+        "sc": [
+          "安联",
+          "市场预测",
+          "亚洲增长"
+        ],
+        "tc": [
+          "安聯",
+          "市場預測",
+          "亞洲增長"
+        ]
+      },
+      "themes": [
+        "macro",
+        "market"
+      ],
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 2,
+        "cross": 2
+      },
+      "publishedAt": "2026-06-30T10:00:00+08:00",
+      "originalUrl": "https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/economic-research/publications/specials/en/2026/may/28-05-2026-Global-Insurance-report-AZ.pdf",
+      "sourceKey": "62897ec5353f",
+      "boards": [
+        "market"
+      ],
+      "contentKind": "research"
+    },
+    {
+      "id": "ia-20260629-sunlife-notes",
+      "clusterCount": 1,
+      "score": 65,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:00:00+08:00",
+      "contentRole": {
+        "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
+        "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
+      },
+      "title": {
+        "sc": "永明金融宣布10亿美元有限追索资本票据利率重置",
+        "tc": "永明金融宣布10億美元有限追索資本票據利率重置"
+      },
+      "summary": {
+        "sc": "2026年6月29日，永明金融（Sun Life Financial Inc.）宣布其10亿美元本金、票息3.60%的Series 2021-1有限追索资本票据利率重置。永明亚洲业务持续强劲，Q1亚洲区基本净收入同比增长17%至2.16亿加元，香港市场在全部渠道均录得增长。",
+        "tc": "2026年6月29日，永明金融（Sun Life Financial Inc.）宣布其10億美元本金、票息3.60%的Series 2021-1有限追索資本票據利率重置。永明亞洲業務持續強勁，Q1亞洲區基本淨收入同比增長17%至2.16億加元，香港市場在全部渠道均錄得增長。"
+      },
+      "why": {
+        "sc": "永明资本运作稳健，亚洲业务增长强劲，为合作中介提供正向背书。",
+        "tc": "永明資本運作穩健，亞洲業務增長強勁，為合作中介提供正向背書。"
+      },
+      "actions": {
+        "front": {
+          "sc": "对客可用永明财务实力和亚洲增长数据增强信心。",
+          "tc": "對客可用永明財務實力和亞洲增長數據增強信心。"
+        },
+        "midback": {
+          "sc": "将永明最新财务数据纳入保司评估体系。",
+          "tc": "將永明最新財務數據納入保司評估體系。"
+        },
+        "lead": {
+          "sc": "永明亚洲增长数据可作为团队业绩对标的行业参照。",
+          "tc": "永明亞洲增長數據可作為團隊業績對標的行業參照。"
+        },
+        "cross": {
+          "sc": "永明的多市场布局为跨境客户提供更多选择。",
+          "tc": "永明的多市場布局為跨境客戶提供更多選擇。"
+        }
+      },
+      "source": {
+        "sc": "永明金融 · 公告 2026-06-29 [EN原文]",
+        "tc": "永明金融 · 公告 2026-06-29 [EN原文]",
+        "lang": "zh"
+      },
+      "sourceTier": "insurer",
+      "tags": {
+        "sc": [
+          "永明",
+          "资本票据",
+          "亚洲增长"
+        ],
+        "tc": [
+          "永明",
+          "資本票據",
+          "亞洲增長"
+        ]
+      },
+      "themes": [
+        "firm",
+        "market"
+      ],
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "publishedAt": "2026-06-29T16:00:00+08:00",
+      "originalUrl": "https://www.sunlife.com/en/newsroom/news-releases/announcement/sun-life-announces-interest-rate-reset-on-limited-recourse-capital-notes-series/124106/",
+      "sourceKey": "d9b5ade1f959",
+      "boards": [
+        "insurer",
+        "market"
+      ],
+      "contentKind": "other"
+    },
+    {
+      "id": "ia-20260629-hkma-bulletin",
+      "clusterCount": 1,
+      "score": 71,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:00:00+08:00",
+      "contentRole": {
+        "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
+        "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
+      },
+      "title": {
+        "sc": "金管局发布2026年第二期季报：涵盖银保监管协作与运营韧性",
+        "tc": "金管局發布2026年第二期季報：涵蓋銀保監管協作與運營韌性"
+      },
+      "summary": {
+        "sc": "2026年6月29日，香港金管局发布2026年第2期季报，涵盖银保监管协作进展、银行运营韧性框架以及跨境金融业务合规指引。报告强调了金管局与保监局在银保渠道报酬结构方面的协调监管成果。",
+        "tc": "2026年6月29日，香港金管局發布2026年第2期季報，涵蓋銀保監管協作進展、銀行運營韌性框架以及跨境金融業務合規指引。報告強調了金管局與保監局在銀保渠道報酬結構方面的協調監管成果。"
+      },
+      "why": {
+        "sc": "金管局与保监局监管协同走向制度化；银保渠道规则更清晰。",
+        "tc": "金管局與保監局監管協同走向制度化；銀保渠道規則更清晰。"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解银保渠道最新规则以避免合规风险。",
+          "tc": "了解銀保渠道最新規則以避免合規風險。"
+        },
+        "midback": {
+          "sc": "将季报中的银保合规要求纳入公司操作指引。",
+          "tc": "將季報中的銀保合規要求納入公司操作指引。"
+        },
+        "lead": {
+          "sc": "了解监管协同对银保渠道战略定位的影响。",
+          "tc": "了解監管協同對銀保渠道戰略定位的影響。"
+        },
+        "cross": {
+          "sc": "跨境金融业务合规要求与银保监管框架同步升级。",
+          "tc": "跨境金融業務合規要求與銀保監管框架同步升級。"
+        }
+      },
+      "source": {
+        "sc": "金管局 · 季报 2026-06-29",
+        "tc": "金管局 · 季报 2026-06-29",
+        "lang": "zh"
+      },
+      "sourceTier": "official",
+      "tags": {
+        "sc": [
+          "金管局",
+          "银保",
+          "运营韧性"
+        ],
+        "tc": [
+          "金管局",
+          "銀保",
+          "運營韌性"
+        ]
+      },
+      "themes": [
+        "reg",
+        "compliance",
+        "channel"
+      ],
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "publishedAt": "2026-06-29T12:00:00+08:00",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202606/29/P2026062900459.htm",
+      "sourceKey": "39a0671bd7bb",
+      "boards": [
+        "reg",
+        "market"
+      ],
+      "contentKind": "press"
+    },
+    {
+      "id": "ia-20260628-fsdc-talent",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:00:00+08:00",
+      "contentRole": {
+        "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
+        "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
+      },
+      "title": {
+        "sc": "金发局发布保险业人才培育报告：呼吁建设新一代保险专才",
+        "tc": "金發局發布保險業人才培育報告：呼籲建設新一代保險專才"
+      },
+      "summary": {
+        "sc": "2026年6月，香港金融发展局（FSDC）发布《培育新一代保险专才》研究报告。报告审视了保险业人才格局的变化，识别了关键技能缺口，并为建设可持续的人才管道绘制了战略路径，特别关注AI、跨境合规和HNW服务等新兴领域的人才需求。",
+        "tc": "2026年6月，香港金融發展局（FSDC）發布《培育新一代保險專才》研究報告。報告審視了保險業人才格局的變化，識別了關鍵技能缺口，並為建設可持續的人才管道繪製了戰略路徑，特別關注AI、跨境合規和HNW服務等新興領域的人才需求。"
+      },
+      "why": {
+        "sc": "人才短缺是行业增长的隐性瓶颈；报告为团队招聘和培训提供方向参考。",
+        "tc": "人才短缺是行業增長的隱性瓶頸；報告為團隊招聘和培訓提供方向參考。"
+      },
+      "actions": {
+        "front": {
+          "sc": "持续提升AI、合规和HNW服务方面的专业能力。",
+          "tc": "持續提升AI、合規和HNW服務方面的專業能力。"
+        },
+        "midback": {
+          "sc": "将报告所列技能缺口纳入招聘和培训计划。｜关注行业人才竞争对薪酬结构的影响。",
+          "tc": "將報告所列技能缺口納入招聘和培訓計劃。｜關注行業人才競爭對薪酬結構的影響。"
+        },
+        "lead": {
+          "sc": "团队建设中注意AI+合规+HNW复合型人才的储备。",
+          "tc": "團隊建設中注意AI+合規+HNW複合型人才的儲備。"
+        },
+        "cross": {
+          "sc": "跨境业务对多法域合规人才的需求更为迫切。",
+          "tc": "跨境業務對多法域合規人才的需求更為迫切。"
+        }
+      },
+      "source": {
+        "sc": "金发局 · 研究报告 2026-06",
+        "tc": "金发局 · 研究报告 2026-06",
+        "lang": "zh"
+      },
+      "sourceTier": "research",
+      "tags": {
+        "sc": [
+          "人才",
+          "金发局",
+          "技能缺口"
+        ],
+        "tc": [
+          "人才",
+          "金發局",
+          "技能缺口"
+        ]
+      },
+      "themes": [
+        "career",
+        "market",
+        "tech"
+      ],
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 3,
+        "cross": 1
+      },
+      "publishedAt": "2026-06-28T10:00:00+08:00",
+      "originalUrl": "https://www.fsdc.org.hk/en/media/fsdc-releases-report-fostering-a-new-generation-of-insurance-professionals-in-hong-kong-to-support-the-thriving-development",
+      "sourceKey": "bc17ef77b7fd",
+      "boards": [
+        "market",
+        "insurer"
+      ],
+      "contentKind": "research"
+    },
+    {
+      "id": "ia-20260626-morganstanley",
+      "clusterCount": 1,
+      "score": 66,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:00:00+08:00",
+      "contentRole": {
+        "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
+        "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
+      },
+      "title": {
+        "sc": "摩根士丹利2026年6月股市评论：关注亚洲保险板块防御价值",
+        "tc": "摩根士丹利2026年6月股市評論：關注亞洲保險板塊防禦價值"
+      },
+      "summary": {
+        "sc": "2026年6月，摩根士丹利研究部发布月度股市评论，在全球不确定性上升的背景下，强调亚洲保险板块的防御价值。报告指出寿险公司受益于高利率环境和亚洲中产阶层扩张，建议投资者超配优质保险股。",
+        "tc": "2026年6月，摩根士丹利研究部發布月度股市評論，在全球不確定性上升的背景下，強調亞洲保險板塊的防禦價值。報告指出壽險公司受益於高利率環境和亞洲中產階層擴張，建議投資者超配優質保險股。"
+      },
+      "why": {
+        "sc": "华尔街顶级投行在不确定性中推荐保险板块，强化保险作为防御资产的叙事。",
+        "tc": "華爾街頂級投行在不確定性中推薦保險板塊，強化保險作為防禦資產的敘事。"
+      },
+      "actions": {
+        "front": {
+          "sc": "对客沟通可用摩根士丹利的防御资产推荐来增强保险配置的说服力。",
+          "tc": "對客溝通可用摩根士丹利的防禦資產推薦來增強保險配置的說服力。"
+        },
+        "midback": {
+          "sc": "将机构研报纳入公司市场研判资料库。",
+          "tc": "將機構研報納入公司市場研判資料庫。"
+        },
+        "lead": {
+          "sc": "投资型保险产品的市场叙事支持。",
+          "tc": "投資型保險產品的市場敘事支持。"
+        },
+        "cross": {
+          "sc": "全球保险板块的防御属性与香港离岸保险市场形成互补。",
+          "tc": "全球保險板塊的防禦屬性與香港離岸保險市場形成互補。"
+        }
+      },
+      "source": {
+        "sc": "摩根士丹利研究 · 月度评论 2026-06 [EN原文]",
+        "tc": "摩根士丹利研究 · 月度评论 2026-06 [EN原文]",
+        "lang": "zh"
+      },
+      "sourceTier": "research",
+      "tags": {
+        "sc": [
+          "摩根士丹利",
+          "防御资产",
+          "保险板块"
+        ],
+        "tc": [
+          "摩根士丹利",
+          "防禦資產",
+          "保險板塊"
+        ]
+      },
+      "themes": [
+        "macro",
+        "market"
+      ],
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "publishedAt": "2026-06-26T15:00:00+08:00",
+      "originalUrl": "https://www.morganstanley.com/im/en-hk/intermediary-investor/insights/slimmons-take/equity-market-commentary-june-2026.html",
+      "sourceKey": "5c5ae70a7fcf",
+      "boards": [
+        "market"
+      ],
+      "contentKind": "research"
+    },
+    {
+      "id": "ia-20260626-pimco-asia",
+      "clusterCount": 1,
+      "score": 68,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:00:00+08:00",
+      "contentRole": {
+        "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
+        "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
+      },
+      "title": {
+        "sc": "PIMCO 2026年Q2亚洲交易室更新：亚太分化加剧，看好保险资产配置价值",
+        "tc": "PIMCO 2026年Q2亞洲交易室更新：亞太分化加劇，看好保險資產配置價值"
+      },
+      "summary": {
+        "sc": "2026年6月，PIMCO发布Q2亚洲交易室更新。在地缘风险上升和亚太分化加剧的背景下，PIMCO强调保险资产在高利率环境下的配置价值，尤其在亚洲高储蓄率和人口老龄化推动下，寿险资产作为长期配置工具的地位进一步巩固。",
+        "tc": "2026年6月，PIMCO發布Q2亞洲交易室更新。在地緣風險上升和亞太分化加劇的背景下，PIMCO強調保險資產在高利率環境下的配置價值，尤其在亞洲高儲蓄率和人口老齡化推動下，壽險資產作為長期配置工具的地位進一步鞏固。"
+      },
+      "why": {
+        "sc": "全球最大固定收益管理人对保险资产的背书，为客户配置美元保单提供专业论据。",
+        "tc": "全球最大固定收益管理人對保險資產的背書，為客戶配置美元保單提供專業論據。"
+      },
+      "actions": {
+        "front": {
+          "sc": "对客可用PIMCO观点说明分红保单在当前利率环境下的配置价值。",
+          "tc": "對客可用PIMCO觀點說明分紅保單在當前利率環境下的配置價值。"
+        },
+        "midback": {
+          "sc": "投资策略团队可参考PIMCO对亚洲固收市场的判断。",
+          "tc": "投資策略團隊可參考PIMCO對亞洲固收市場的判斷。"
+        },
+        "lead": {
+          "sc": "市场叙事：全球顶级资管机构看好保险资产。",
+          "tc": "市場敘事：全球頂級資管機構看好保險資產。"
+        },
+        "cross": {
+          "sc": "跨境配置需关注不同市场的利率与汇率风险。",
+          "tc": "跨境配置需關注不同市場的利率與匯率風險。"
+        }
+      },
+      "source": {
+        "sc": "PIMCO · Q2亚洲更新 2026-06 [EN原文]",
+        "tc": "PIMCO · Q2亚洲更新 2026-06 [EN原文]",
+        "lang": "zh"
+      },
+      "sourceTier": "research",
+      "tags": {
+        "sc": [
+          "PIMCO",
+          "固定收益",
+          "保险资产"
+        ],
+        "tc": [
+          "PIMCO",
+          "固定收益",
+          "保險資產"
+        ]
+      },
+      "themes": [
+        "macro",
+        "market"
+      ],
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "publishedAt": "2026-06-26T11:00:00+08:00",
+      "originalUrl": "https://www.pimco.com/hk/en/resources/video-library/media/q3-2026-update-from-the-asia-trade-floor",
+      "sourceKey": "29b2cf32243c",
+      "boards": [
+        "market"
+      ],
+      "contentKind": "research"
+    },
+    {
+      "id": "ia-20260625-manulife-convention",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:00:00+08:00",
+      "contentRole": {
+        "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
+        "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
+      },
+      "title": {
+        "sc": "宏利2026年度大会在香港举行：聚焦退休未来与AI驱动转型",
+        "tc": "宏利2026年度大會在香港舉行：聚焦退休未來與AI驅動轉型"
+      },
+      "summary": {
+        "sc": "2026年6月25日，宏利在香港举办年度大会（Manulife Annual Convention 2026），主题包括「退休未来」、AI在保险业的规模化应用、以及代理人渠道数字化转型。大会展示了宏利在亚洲市场的最新战略方向和科技投入成果。",
+        "tc": "2026年6月25日，宏利在香港舉辦年度大會（Manulife Annual Convention 2026），主題包括「退休未來」、AI在保險業的規模化應用、以及代理人渠道數字化轉型。大會展示了宏利在亞洲市場的最新戰略方向和科技投入成果。"
+      },
+      "why": {
+        "sc": "宏利战略方向明确：退休+科技双轮驱动，对同业有参照意义。",
+        "tc": "宏利戰略方向明確：退休+科技雙輪驅動，對同業有參照意義。"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解宏利新产品/服务方向以优化客户方案。",
+          "tc": "了解宏利新產品/服務方向以優化客戶方案。"
+        },
+        "midback": {
+          "sc": "宏利战略方向可作为公司年度规划的竞品对标。",
+          "tc": "宏利戰略方向可作為公司年度規劃的競品對標。"
+        },
+        "lead": {
+          "sc": "团队战略沟通：关注行业领导者的投入方向。",
+          "tc": "團隊戰略溝通：關注行業領導者的投入方向。"
+        },
+        "cross": {
+          "sc": "退休产品与跨境养老方案结合的市场机会。",
+          "tc": "退休產品與跨境養老方案結合的市場機會。"
+        }
+      },
+      "source": {
+        "sc": "宏利 · 年度大会 2026-06-25",
+        "tc": "宏利 · 年度大会 2026-06-25",
+        "lang": "zh"
+      },
+      "sourceTier": "insurer",
+      "tags": {
+        "sc": [
+          "宏利",
+          "退休",
+          "数字化转型"
+        ],
+        "tc": [
+          "宏利",
+          "退休",
+          "數字化轉型"
+        ]
+      },
+      "themes": [
+        "firm",
+        "tech",
+        "market"
+      ],
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "publishedAt": "2026-06-25T18:00:00+08:00",
+      "originalUrl": "https://www.instagram.com/reel/DYS1bksR7gR/",
+      "sourceKey": "7f278f52d5a0",
+      "boards": [
+        "insurer",
+        "tech"
+      ],
+      "contentKind": "event"
+    },
+    {
+      "id": "ia-20260624-rga-trends",
+      "clusterCount": 1,
+      "score": 65,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:00:00+08:00",
+      "contentRole": {
+        "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
+        "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
+      },
+      "title": {
+        "sc": "RGA发布2026年Q2产品趋势报告：AIA财富灵活储蓄保、AXA私人平台被列为重点新品",
+        "tc": "RGA發布2026年Q2產品趨勢報告：AIA財富靈活儲蓄保、AXA私人平台被列為重點新品"
+      },
+      "summary": {
+        "sc": "2026年6月，RGA（美国再保险集团）发布2026年Q2产品趋势报告，涵盖亚太区主要市场新品动态。报告将AIA Wealth Flexi储蓄保和AXA Global Private平台列为当季香港市场重点创新，同时关注多货币、传承功能和HNW定制化成为行业趋势。",
+        "tc": "2026年6月，RGA（美國再保險集團）發布2026年Q2產品趨勢報告，涵蓋亞太區主要市場新品動態。報告將AIA Wealth Flexi儲蓄保和AXA Global Private平台列為當季香港市場重點創新，同時關注多貨幣、傳承功能和HNW定製化成為行業趨勢。"
+      },
+      "why": {
+        "sc": "再保视角的产品趋势报告，为前线提供行业创新风向标。",
+        "tc": "再保視角的產品趨勢報告，為前線提供行業創新風向標。"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解行业产品创新趋势，把握对客沟通的差异化卖点。",
+          "tc": "了解行業產品創新趨勢，把握對客溝通的差異化賣點。"
+        },
+        "midback": {
+          "sc": "产品策略可参考RGA趋势报告中的行业方向。",
+          "tc": "產品策略可參考RGA趨勢報告中的行業方向。"
+        },
+        "lead": {
+          "sc": "产品创新驱动是新业务增长的关键引擎。",
+          "tc": "產品創新驅動是新業務增長的關鍵引擎。"
+        },
+        "cross": {
+          "sc": "跨境高净值产品趋势与本地零售差异化明显。",
+          "tc": "跨境高淨值產品趨勢與本地零售差異化明顯。"
+        }
+      },
+      "source": {
+        "sc": "RGA · 产品趋势报告 2026-Q2 [EN原文]",
+        "tc": "RGA · 产品趋势报告 2026-Q2 [EN原文]",
+        "lang": "zh"
+      },
+      "sourceTier": "research",
+      "tags": {
+        "sc": [
+          "产品趋势",
+          "再保险",
+          "创新"
+        ],
+        "tc": [
+          "產品趨勢",
+          "再保險",
+          "創新"
+        ]
+      },
+      "themes": [
+        "product",
+        "market"
+      ],
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "publishedAt": "2026-06-24T14:00:00+08:00",
+      "originalUrl": "http://experience.rgare.com/product-trends-2026-q2",
+      "sourceKey": "463dfaad9ace",
+      "boards": [
+        "product",
+        "market"
+      ],
+      "contentKind": "research"
+    },
+    {
+      "id": "ia-20260620-goldman-outlook",
+      "clusterCount": 1,
+      "score": 68,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:00:00+08:00",
+      "contentRole": {
+        "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
+        "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
+      },
+      "title": {
+        "sc": "高盛重申2026年美股乐观展望：盈利增长驱动，保险金融板块受益",
+        "tc": "高盛重申2026年美股樂觀展望：盈利增長驅動，保險金融板塊受益"
+      },
+      "summary": {
+        "sc": "2026年6月底，高盛研究部重申对2026年美股的乐观立场，预测标普500指数目标8,000点，核心驱动为盈利增长而非估值扩张。金融和保险板块在高利率环境下持续受益；AI基础设施投资预计达7,500亿美元。",
+        "tc": "2026年6月底，高盛研究部重申對2026年美股的樂觀立場，預測標普500指數目標8,000點，核心驅動為盈利增長而非估值擴張。金融和保險板塊在高利率環境下持續受益；AI基礎設施投資預計達7,500億美元。"
+      },
+      "why": {
+        "sc": "高盛对金融/保险板块的持续看好为行业提供正向宏观叙事。",
+        "tc": "高盛對金融/保險板塊的持續看好為行業提供正向宏觀敘事。"
+      },
+      "actions": {
+        "front": {
+          "sc": "对客可引用高盛观点增强投资型保险产品的说服力。",
+          "tc": "對客可引用高盛觀點增強投資型保險產品的說服力。"
+        },
+        "midback": {
+          "sc": "机构研究观点纳入公司投研简报。",
+          "tc": "機構研究觀點納入公司投研簡報。"
+        },
+        "lead": {
+          "sc": "理解全球资金流向与板块轮动，为团队投资策略提供依据。",
+          "tc": "理解全球資金流向與板塊輪動，為團隊投資策略提供依據。"
+        },
+        "cross": {
+          "sc": "高利率环境对跨境美元保单有利。",
+          "tc": "高利率環境對跨境美元保單有利。"
+        }
+      },
+      "source": {
+        "sc": "高盛研究 · 市场展望 2026-06 [EN原文]",
+        "tc": "高盛研究 · 市场展望 2026-06 [EN原文]",
+        "lang": "zh"
+      },
+      "sourceTier": "research",
+      "tags": {
+        "sc": [
+          "高盛",
+          "美股",
+          "金融板块"
+        ],
+        "tc": [
+          "高盛",
+          "美股",
+          "金融板塊"
+        ]
+      },
+      "themes": [
+        "macro",
+        "market"
+      ],
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "publishedAt": "2026-06-20T16:00:00+08:00",
+      "originalUrl": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-doubles-down-stock-210300868.html",
+      "sourceKey": "3b71f432cf00",
+      "boards": [
+        "market"
+      ],
+      "contentKind": "research"
+    },
+    {
+      "id": "ia-20260618-blackrock-outlook",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:00:00+08:00",
+      "contentRole": {
+        "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
+        "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
+      },
+      "title": {
+        "sc": "贝莱德2026年中全球投资展望：呼吁投资组合重思，关注保险板块的稳定器角色",
+        "tc": "貝萊德2026年中全球投資展望：呼籲投資組合重思，關注保險板塊的穩定器角色"
+      },
+      "summary": {
+        "sc": "2026年6月，贝莱德投资研究院发布2026年中全球投资展望报告。核心观点是在地缘分裂与AI投资巨潮下，投资者需要更精细的投资组合构建。保险业被视为在经济波动中的重要稳定器，寿险板块受益于高利率环境。",
+        "tc": "2026年6月，貝萊德投資研究院發布2026年中全球投資展望報告。核心觀點是在地緣分裂與AI投資巨潮下，投資者需要更精細的投資組合構建。保險業被視為在經濟波動中的重要穩定器，壽險板塊受益於高利率環境。"
+      },
+      "why": {
+        "sc": "全球最大资管机构将保险定位为稳定器；对港险的资产配置逻辑提供宏观背书。",
+        "tc": "全球最大資管機構將保險定位為穩定器；對港險的資產配置邏輯提供宏觀背書。"
+      },
+      "actions": {
+        "front": {
+          "sc": "对客可用「机构投资者视保险为稳定器」的叙事。",
+          "tc": "對客可用「機構投資者視保險為穩定器」的敘事。"
+        },
+        "midback": {
+          "sc": "了解宏观资产配置趋势以优化产品推荐策略。",
+          "tc": "了解宏觀資產配置趨勢以優化產品推薦策略。"
+        },
+        "lead": {
+          "sc": "团队投资策略培训可参考BlackRock宏观框架。",
+          "tc": "團隊投資策略培訓可參考BlackRock宏觀框架。"
+        },
+        "cross": {
+          "sc": "跨境配置：香港作为离岸中心的角色在报告中得到间接背书。",
+          "tc": "跨境配置：香港作為離岸中心的角色在報告中得到間接背書。"
+        }
+      },
+      "source": {
+        "sc": "贝莱德投资研究院 · 2026年中展望 [EN原文]",
+        "tc": "贝莱德投资研究院 · 2026年中展望 [EN原文]",
+        "lang": "zh"
+      },
+      "sourceTier": "research",
+      "tags": {
+        "sc": [
+          "投资展望",
+          "贝莱德",
+          "资产配置"
+        ],
+        "tc": [
+          "投資展望",
+          "貝萊德",
+          "資產配置"
+        ]
+      },
+      "themes": [
+        "macro",
+        "market"
+      ],
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 2,
+        "cross": 2
+      },
+      "publishedAt": "2026-06-18T09:00:00+08:00",
+      "originalUrl": "https://www.blackrock.com/corporate/insights/blackrock-investment-institute/publications/outlook",
+      "sourceKey": "a81c39c44878",
+      "boards": [
+        "market"
+      ],
+      "contentKind": "research"
+    },
+    {
+      "id": "ia-20260617-manulife-ai",
+      "clusterCount": 1,
+      "score": 77,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:00:00+08:00",
+      "contentRole": {
+        "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
+        "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
+      },
+      "title": {
+        "sc": "宏利香港加入保监局AI促进计划：AI已覆盖核保、分销与客服三线",
+        "tc": "宏利香港加入保監局AI促進計劃：AI已覆蓋核保、分銷與客服三線"
+      },
+      "summary": {
+        "sc": "2026年6月15日，宏利（国际）有限公司作为三家新加入保监局AI Cohort Programme的重点参与者之一，披露已在核保、分销、客户服务及理赔等领域部署多款AI工具，包括24/7双语AI客服、代理人数据驱动销售工具及核保辅助AI。公司亦披露与阿里云合作开发AI应用，并考虑共建AI中心。",
+        "tc": "2026年6月15日，宏利（國際）有限公司作為三家新加入保監局AI Cohort Programme的重點參與者之一，披露已在核保、分銷、客戶服務及理賠等領域部署多款AI工具，包括24/7雙語AI客服、代理人數據驅動銷售工具及核保輔助AI。公司亦披露與阿里雲合作開發AI應用，並考慮共建AI中心。"
+      },
+      "why": {
+        "sc": "宏利AI布局在港险行业领先，功能覆盖广度超过多数同业公开披露水平。",
+        "tc": "宏利AI佈局在港險行業領先，功能覆蓋廣度超過多數同業公開披露水平。"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解宏利核保AI对出单时效的改善；销售端可用公司核准AI工具。",
+          "tc": "了解宏利核保AI對出單時效的改善；銷售端可用公司核准AI工具。"
+        },
+        "midback": {
+          "sc": "跟踪保司AI服务接口与核保数字化进度。｜评估AI工具对合规流程的影响。",
+          "tc": "跟蹤保司AI服務接口與核保數字化進度。｜評估AI工具對合規流程的影響。"
+        },
+        "lead": {
+          "sc": "科技投入对标：宏利的AI投入规模与功能覆盖面可作为行业参照。",
+          "tc": "科技投入對標：宏利的AI投入規模與功能覆蓋面可作為行業參照。"
+        },
+        "cross": {
+          "sc": "跨境业务中AI数据隐私与本地化需额外关注。",
+          "tc": "跨境業務中AI數據隱私與本地化需額外關注。"
+        }
+      },
+      "source": {
+        "sc": "Insurance Business Mag / 保监局 2026-06-17 [EN原文]",
+        "tc": "Insurance Business Mag / 保监局 2026-06-17 [EN原文]",
+        "lang": "zh"
+      },
+      "sourceTier": "insurer",
+      "tags": {
+        "sc": [
+          "宏利",
+          "人工智能",
+          "保险科技"
+        ],
+        "tc": [
+          "宏利",
+          "人工智能",
+          "保險科技"
+        ]
+      },
+      "themes": [
+        "tech",
+        "firm"
+      ],
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "publishedAt": "2026-06-17T10:00:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/insurance-authority-adds-three-insurers-to-ai-cohort-programme-579133.aspx",
+      "sourceKey": "5d6b2c5f7488",
+      "boards": [
+        "insurer",
+        "tech"
+      ],
+      "contentKind": "industry_news"
+    },
+    {
+      "id": "ia-20260616-aia-prudential-roles",
+      "clusterCount": 1,
+      "score": 76,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:00:00+08:00",
+      "contentRole": {
+        "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
+        "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
+      },
+      "title": {
+        "sc": "友邦及保诚在港增设高净值客户高级职位，抢占亚洲财富管理市场",
+        "tc": "友邦及保誠在港增設高淨值客戶高級職位，搶佔亞洲財富管理市場"
+      },
+      "summary": {
+        "sc": "2026年6月16日，据Bloomberg报道，友邦保险与保诚集团均在香港设立新的高级职位，专门服务亚洲超高净值客户。此举正值香港超越瑞士成为全球最大离岸财富管理中心之际，BCG预计2030年将有约4.6万亿美元资金流入香港。",
+        "tc": "2026年6月16日，據Bloomberg報道，友邦保險與保誠集團均在香港設立新的高級職位，專門服務亞洲超高淨值客戶。此舉正值香港超越瑞士成為全球最大離岸財富管理中心之際，BCG預計2030年將有約4.6萬億美元資金流入香港。"
+      },
+      "why": {
+        "sc": "两大国际保险巨头同步加码HNW赛道，香港离岸保险枢纽地位进一步巩固。",
+        "tc": "兩大國際保險巨頭同步加碼HNW賽道，香港離岸保險樞紐地位進一步鞏固。"
+      },
+      "actions": {
+        "front": {
+          "sc": "HNW客户获取可从这两家保司的新服务切入。",
+          "tc": "HNW客戶獲取可從這兩家保司的新服務切入。"
+        },
+        "midback": {
+          "sc": "关注头部保司HNW战略对行业人才竞争和佣金结构的影响。",
+          "tc": "關注頭部保司HNW戰略對行業人才競爭和佣金結構的影響。"
+        },
+        "lead": {
+          "sc": "团队定位：HNW服务升级将成下一阶段竞争焦点。",
+          "tc": "團隊定位：HNW服務升級將成下一階段競爭焦點。"
+        },
+        "cross": {
+          "sc": "HNW跨境业务是未来增长极。",
+          "tc": "HNW跨境業務是未來增長極。"
+        }
+      },
+      "source": {
+        "sc": "Bloomberg · 新闻报道 2026-06-16 [EN原文]",
+        "tc": "Bloomberg · 新闻报道 2026-06-16 [EN原文]",
+        "lang": "zh"
+      },
+      "sourceTier": "media",
+      "tags": {
+        "sc": [
+          "高净值",
+          "友邦",
+          "保诚"
+        ],
+        "tc": [
+          "高淨值",
+          "友邦",
+          "保誠"
+        ]
+      },
+      "themes": [
+        "firm",
+        "market",
+        "channel"
+      ],
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 3,
+        "cross": 2
+      },
+      "publishedAt": "2026-06-16T15:00:00+08:00",
+      "originalUrl": "https://sg.finance.yahoo.com/news/aia-prudential-create-senior-roles-221640747.html",
+      "sourceKey": "950097c1fdf3",
+      "boards": [
+        "insurer",
+        "market",
+        "family"
+      ],
+      "contentKind": "industry_news"
+    },
+    {
+      "id": "ia-20260616-cheung-enforcement",
+      "clusterCount": 1,
+      "score": 92,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:00:00+08:00",
+      "contentRole": {
+        "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
+        "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
+      },
+      "title": {
+        "sc": "保监CEO张云正公开警告：行业规避新报酬规则的跨境架构将被适时介入",
+        "tc": "保監CEO張雲正公開警告：行業規避新報酬規則的跨境架構將被適時介入"
+      },
+      "summary": {
+        "sc": "2026年6月16日，保监局行政总监张云正在公开讲话中警告，已观察到市场参与者试图通过间接方式规避佣金分攤及转介费上限等新报酬措施。保监局将适时介入并对外公布。同时重申确保保险资金经合法合规渠道进入香港的立场。",
+        "tc": "2026年6月16日，保監局行政總監張雲正在公開講話中警告，已觀察到市場參與者試圖通過間接方式規避佣金分攤及轉介費上限等新報酬措施。保監局將適時介入並對外公布。同時重申確保保險資金經合法合規渠道進入香港的立場。"
+      },
+      "why": {
+        "sc": "这是监管对行业「猫鼠游戏」的正式回应；企图规避者将被公开执法，威慑力极强。",
+        "tc": "這是監管對行業「貓鼠遊戲」的正式回應；企圖規避者將被公開執法，威懾力極強。"
+      },
+      "actions": {
+        "front": {
+          "sc": "对客勿参与任何规避佣金规则的结构安排。",
+          "tc": "對客勿參與任何規避佣金規則的結構安排。"
+        },
+        "midback": {
+          "sc": "立即检查所有佣金支付、奖金、转介结构是否符合新规。｜有跨境业务者需强化内控与文件留存。",
+          "tc": "立即檢查所有佣金支付、獎金、轉介結構是否符合新規。｜有跨境業務者需強化內控與文件留存。"
+        },
+        "lead": {
+          "sc": "确保团队无规避行为；违规可能导致续牌甚至刑事风险。",
+          "tc": "確保團隊無規避行為；違規可能導致續牌甚至刑事風險。"
+        },
+        "cross": {
+          "sc": "跨境架构的合规审查优先级提到最高。",
+          "tc": "跨境架構的合規審查優先級提到最高。"
+        }
+      },
+      "source": {
+        "sc": "保监局 · Bloomberg/信报 2026-06-16 [部分EN原文]",
+        "tc": "保监局 · Bloomberg/信报 2026-06-16 [部分EN原文]",
+        "lang": "zh"
+      },
+      "sourceTier": "official",
+      "tags": {
+        "sc": [
+          "执法",
+          "跨境架构",
+          "报酬规则"
+        ],
+        "tc": [
+          "執法",
+          "跨境架構",
+          "報酬規則"
+        ]
+      },
+      "themes": [
+        "reg",
+        "compliance",
+        "offshore"
+      ],
+      "rolesImpact": {
+        "front": 2,
+        "midback": 3,
+        "lead": 3,
+        "cross": 3
+      },
+      "publishedAt": "2026-06-16T12:00:00+08:00",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2026-06-15/hong-kong-insurance-regulator-vows-crackdown-on-rule-breakers",
+      "sourceKey": "71c330b3ad7f",
+      "boards": [
+        "reg",
+        "market"
+      ],
+      "contentKind": "enforcement"
+    },
+    {
       "id": "ia-ai-seminar-20260615",
       "title": {
         "sc": "保监局举办「人工智能促进计划」研讨会，新增强点参与保司",
@@ -1507,6 +2615,647 @@
         "tech"
       ],
       "contentKind": "press"
+    },
+    {
+      "id": "ia-20260615-bloomberg-crackdown",
+      "clusterCount": 1,
+      "score": 88,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:00:00+08:00",
+      "contentRole": {
+        "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
+        "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
+      },
+      "title": {
+        "sc": "Bloomberg：香港保险监管机构誓言打击违规者 — 跨境架构规避新规被点名警告",
+        "tc": "Bloomberg：香港保險監管機構誓言打擊違規者 — 跨境架構規避新規被點名警告"
+      },
+      "summary": {
+        "sc": "2026年6月15日，Bloomberg报道香港保险监管机构誓言打击违规行为。保监局行政总监张云正表示已观察到市场参与者试图规避佣金分摊和转介费上限等新规，将通过前瞻性监控适时介入。该报道引发业界广泛关注，被视为监管从规则制定转向严格执法的转折点。",
+        "tc": "2026年6月15日，Bloomberg報道香港保險監管機構誓言打擊違規行為。保監局行政總監張雲正表示已觀察到市場參與者試圖規避佣金分攤和轉介費上限等新規，將通過前瞻性監控適時介入。該報道引發業界廣泛關注，被視為監管從規則制定轉向嚴格執法的轉折點。"
+      },
+      "why": {
+        "sc": "国际主流财经媒体首次大规模报道香港保险监管执法转向，标志着监管公信力和威慑力的国际化。",
+        "tc": "國際主流財經媒體首次大規模報道香港保險監管執法轉向，標誌著監管公信力和威懾力的國際化。"
+      },
+      "actions": {
+        "front": {
+          "sc": "理解监管执法趋势，避免参与任何灰色地带的业务安排。",
+          "tc": "理解監管執法趨勢，避免參與任何灰色地帶的業務安排。"
+        },
+        "midback": {
+          "sc": "将Bloomberg报道纳入合规培训素材。｜评估跨境业务是否存在规避风险。",
+          "tc": "將Bloomberg報道納入合規培訓素材。｜評估跨境業務是否存在規避風險。"
+        },
+        "lead": {
+          "sc": "监管执法强度升级将重塑行业竞争格局。",
+          "tc": "監管執法強度升級將重塑行業競爭格局。"
+        },
+        "cross": {
+          "sc": "跨境架构的合规审查优先级提至最高；准备应对可能的监管查询。",
+          "tc": "跨境架構的合規審查優先級提至最高；準備應對可能的監管查詢。"
+        }
+      },
+      "source": {
+        "sc": "Bloomberg · 独家报道 2026-06-15 [EN原文]",
+        "tc": "Bloomberg · 独家报道 2026-06-15 [EN原文]",
+        "lang": "zh"
+      },
+      "sourceTier": "media",
+      "tags": {
+        "sc": [
+          "Bloomberg",
+          "执法",
+          "跨境"
+        ],
+        "tc": [
+          "Bloomberg",
+          "執法",
+          "跨境"
+        ]
+      },
+      "themes": [
+        "reg",
+        "compliance",
+        "offshore"
+      ],
+      "rolesImpact": {
+        "front": 2,
+        "midback": 3,
+        "lead": 3,
+        "cross": 3
+      },
+      "publishedAt": "2026-06-15T08:41:00+08:00",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2026-06-15/hong-kong-insurance-regulator-vows-crackdown-on-rule-breakers",
+      "sourceKey": "57e7e795548d",
+      "boards": [
+        "reg",
+        "market"
+      ],
+      "contentKind": "press"
+    },
+    {
+      "id": "ia-20260612-manulife-plans",
+      "clusterCount": 1,
+      "score": 73,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:00:00+08:00",
+      "contentRole": {
+        "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
+        "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
+      },
+      "title": {
+        "sc": "宏利香港推出两款新分红终身寿险储蓄计划",
+        "tc": "宏利香港推出兩款新分紅終身壽險儲蓄計劃"
+      },
+      "summary": {
+        "sc": "2026年6月，宏利香港推出两款新的分红终身寿险储蓄计划，旨在满足客户对财务保障和长期储蓄的多元化需求。新产品主打灵活缴费选项及多货币配置功能，配合公司正在推进的AI驱动分销与客户服务升级。",
+        "tc": "2026年6月，宏利香港推出兩款新的分紅終身壽險儲蓄計劃，旨在滿足客戶對財務保障和長期儲蓄的多元化需求。新產品主打靈活繳費選項及多貨幣配置功能，配合公司正在推進的AI驅動分銷與客戶服務升級。"
+      },
+      "why": {
+        "sc": "宏利在产品与AI两端同时发力；产品线更新有助前线获客竞争力。",
+        "tc": "宏利在產品與AI兩端同時發力；產品線更新有助前線獲客競爭力。"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解新产品亮点并与现有竞品做对比分析。",
+          "tc": "了解新產品亮點並與現有競品做對比分析。"
+        },
+        "midback": {
+          "sc": "产品比较表更新宏利新产品参数。｜关注宏利AI工具对中介侧核保效率的影响。",
+          "tc": "產品比較表更新宏利新產品參數。｜關注宏利AI工具對中介側核保效率的影響。"
+        },
+        "lead": {
+          "sc": "团队培训需覆盖宏利新产品以保持市场敏感度。",
+          "tc": "團隊培訓需覆蓋宏利新產品以保持市場敏感度。"
+        },
+        "cross": {
+          "sc": "多货币选项适合跨境客户资产配置。",
+          "tc": "多貨幣選項適合跨境客戶資產配置。"
+        }
+      },
+      "source": {
+        "sc": "宏利香港 · 产品发布 2026-06",
+        "tc": "宏利香港 · 产品发布 2026-06",
+        "lang": "zh"
+      },
+      "sourceTier": "insurer",
+      "tags": {
+        "sc": [
+          "宏利",
+          "分红险",
+          "新产品"
+        ],
+        "tc": [
+          "宏利",
+          "分紅險",
+          "新產品"
+        ]
+      },
+      "themes": [
+        "product",
+        "firm"
+      ],
+      "rolesImpact": {
+        "front": 2,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "publishedAt": "2026-06-12T11:00:00+08:00",
+      "originalUrl": "https://www.manulife.com.hk/en/individual.html",
+      "sourceKey": "4a69a7fb69e3",
+      "boards": [
+        "insurer",
+        "product"
+      ],
+      "contentKind": "product_notice"
+    },
+    {
+      "id": "ia-20260610-manulife-leverage",
+      "clusterCount": 1,
+      "score": 78,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:00:00+08:00",
+      "contentRole": {
+        "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
+        "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
+      },
+      "title": {
+        "sc": "宏利香港据报暂停杠杆融资保单产品：监管关注与产品合规调整",
+        "tc": "宏利香港據報暫停槓桿融資保單產品：監管關注與產品合規調整"
+      },
+      "summary": {
+        "sc": "2026年6月，据Hubbis等媒体报道，宏利金融已暂停为香港高净值客户提供杠杆融资支持的保险产品。消息称该产品引起了监管机构和竞争对手的关注。宏利发言人表示公司定期审视保单服务并作为常规运营进行调适。",
+        "tc": "2026年6月，據Hubbis等媒體報道，宏利金融已暫停為香港高淨值客戶提供槓桿融資支持的保險產品。消息稱該產品引起了監管機構和競爭對手的關注。宏利發言人表示公司定期審視保單服務並作為常規運營進行調適。"
+      },
+      "why": {
+        "sc": "保费融资合规边界仍在收紧；保司主动调适产品以避免监管风险。",
+        "tc": "保費融資合規邊界仍在收緊；保司主動調適產品以避免監管風險。"
+      },
+      "actions": {
+        "front": {
+          "sc": "对客勿主动推介杠杆融资方案；了解保费融资合规风险。",
+          "tc": "對客勿主動推介槓桿融資方案；了解保費融資合規風險。"
+        },
+        "midback": {
+          "sc": "审查公司保费融资/杠杆产品的合规性。｜更新客户沟通话术，避免误导。",
+          "tc": "審查公司保費融資/槓桿產品的合規性。｜更新客戶溝通話術，避免誤導。"
+        },
+        "lead": {
+          "sc": "杠杆产品销售策略需重新评估；关注竞品动向。",
+          "tc": "槓桿產品銷售策略需重新評估；關注競品動向。"
+        },
+        "cross": {
+          "sc": "跨境保费融资涉及多法域合规，风险更高。",
+          "tc": "跨境保費融資涉及多法域合規，風險更高。"
+        }
+      },
+      "source": {
+        "sc": "Hubbis / 媒体报道 2026-06 [EN原文]",
+        "tc": "Hubbis / 媒体报道 2026-06 [EN原文]",
+        "lang": "zh"
+      },
+      "sourceTier": "media",
+      "tags": {
+        "sc": [
+          "保费融资",
+          "宏利",
+          "产品合规"
+        ],
+        "tc": [
+          "保費融資",
+          "宏利",
+          "產品合規"
+        ]
+      },
+      "themes": [
+        "product",
+        "compliance",
+        "firm"
+      ],
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "publishedAt": "2026-06-10T14:00:00+08:00",
+      "originalUrl": "https://www.hubbis.com/news/manulife-pulls-leveraged-insurance-loan-product-for-wealthy-hong-kong-clients",
+      "sourceKey": "0fff799ebdd0",
+      "boards": [
+        "insurer",
+        "product",
+        "reg"
+      ],
+      "contentKind": "market_data"
+    },
+    {
+      "id": "ia-20260610-chowtaifook-life",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:00:00+08:00",
+      "contentRole": {
+        "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
+        "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
+      },
+      "title": {
+        "sc": "周大福人寿品牌升级：CTFS半年报金融板块AOP同比增19%",
+        "tc": "周大福人壽品牌升級：CTFS半年報金融板塊AOP同比增19%"
+      },
+      "summary": {
+        "sc": "2026年6月，周大福人寿（原富通保险FTLife）品牌升级持续推进。母公司CTFS发布FY2026半年报，金融板块调整后营运利润同比增19%至7.288亿港元，市场占有率提升至2.7%。Fitch评级指出周大福品牌协同效应对香港保险市场份额扩展有正面作用。",
+        "tc": "2026年6月，周大福人壽（原富通保險FTLife）品牌升級持續推進。母公司CTFS發布FY2026半年報，金融板塊調整後營運利潤同比增19%至7.288億港元，市場佔有率提升至2.7%。Fitch評級指出周大福品牌協同效應對香港保險市場份額擴展有正面作用。"
+      },
+      "why": {
+        "sc": "周大福品牌赋能下保险板块业绩亮眼；中型保司在港险市场的差异化竞争值得关注。",
+        "tc": "周大福品牌賦能下保險板塊業績亮眼；中型保司在港險市場的差異化競爭值得關注。"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解周大福人寿产品线与品牌定位的变化。",
+          "tc": "了解周大福人壽產品線與品牌定位的變化。"
+        },
+        "midback": {
+          "sc": "更新保司评估中周大福人寿的财务数据与品牌认知。",
+          "tc": "更新保司評估中周大福人壽的財務數據與品牌認知。"
+        },
+        "lead": {
+          "sc": "中型保司品牌升级为团队提供差异化获客角度。",
+          "tc": "中型保司品牌升級為團隊提供差異化獲客角度。"
+        },
+        "cross": {
+          "sc": "周大福内地品牌认知度可助力跨境客户获取。",
+          "tc": "周大福內地品牌認知度可助力跨境客戶獲取。"
+        }
+      },
+      "source": {
+        "sc": "CTFS · 半年报 / Fitch 2026-06",
+        "tc": "CTFS · 半年报 / Fitch 2026-06",
+        "lang": "zh"
+      },
+      "sourceTier": "insurer",
+      "tags": {
+        "sc": [
+          "周大福",
+          "品牌升级",
+          "市场占有率"
+        ],
+        "tc": [
+          "周大福",
+          "品牌升級",
+          "市場佔有率"
+        ]
+      },
+      "themes": [
+        "firm",
+        "market"
+      ],
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 2,
+        "cross": 2
+      },
+      "publishedAt": "2026-06-10T12:00:00+08:00",
+      "originalUrl": "https://www.ctfs.com.hk/media-hub/press-releases/2026/FY2026_Interim_Results",
+      "sourceKey": "449a66631b2e",
+      "boards": [
+        "insurer",
+        "market"
+      ],
+      "contentKind": "industry_news"
+    },
+    {
+      "id": "ia-20260609-fitch-apac",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:00:00+08:00",
+      "contentRole": {
+        "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
+        "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
+      },
+      "title": {
+        "sc": "惠誉：亚太保险展望维持「中性」，监管与市场压力并存",
+        "tc": "惠譽：亞太保險展望維持「中性」，監管與市場壓力並存"
+      },
+      "summary": {
+        "sc": "2026年6月9日，惠誉评级发布亚太保险业展望报告，维持「中性」评级。指出香港市场受佣金分摊新规、转介费上限及演示利率上限等监管措施影响，短期内对保费增长和渠道盈利构成压力；但长期有利于行业健康度与客户公平待对。",
+        "tc": "2026年6月9日，惠譽評級發布亞太保險業展望報告，維持「中性」評級。指出香港市場受佣金分攤新規、轉介費上限及演示利率上限等監管措施影響，短期內對保費增長和渠道盈利構成壓力；但長期有利於行業健康度與客戶公平待對。"
+      },
+      "why": {
+        "sc": "国际评级机构首次正面评价香港佣金改革长期影响；中介应视合规为护城河而非负担。",
+        "tc": "國際評級機構首次正面評價香港佣金改革長期影響；中介應視合規為護城河而非負擔。"
+      },
+      "actions": {
+        "front": {
+          "sc": "对客可引用评级机构观点说明行业正走向更可持续。",
+          "tc": "對客可引用評級機構觀點說明行業正走向更可持續。"
+        },
+        "midback": {
+          "sc": "将评级报告纳入公司年度合规与战略文件。｜佣金模式转型期注意现金流规划。",
+          "tc": "將評級報告納入公司年度合規與戰略文件。｜佣金模式轉型期注意現金流規劃。"
+        },
+        "lead": {
+          "sc": "行业转型信号：短期阵痛换取长期健康市场。",
+          "tc": "行業轉型信號：短期陣痛換取長期健康市場。"
+        },
+        "cross": {
+          "sc": "国际评级有助于跨境业务可信度。",
+          "tc": "國際評級有助於跨境業務可信度。"
+        }
+      },
+      "source": {
+        "sc": "惠誉评级 · 行业展望 2026-06-09 [EN原文]",
+        "tc": "惠誉评级 · 行业展望 2026-06-09 [EN原文]",
+        "lang": "zh"
+      },
+      "sourceTier": "research",
+      "tags": {
+        "sc": [
+          "评级",
+          "行业展望",
+          "监管影响"
+        ],
+        "tc": [
+          "評級",
+          "行業展望",
+          "監管影響"
+        ]
+      },
+      "themes": [
+        "reg",
+        "market",
+        "macro"
+      ],
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "publishedAt": "2026-06-09T15:00:00+08:00",
+      "originalUrl": "https://www.fitchratings.com/research/insurance/apac-insurance-outlook-stays-neutral-amid-regulatory-market-pressure-09-06-2026",
+      "sourceKey": "3c6555c2829d",
+      "boards": [
+        "market",
+        "reg"
+      ],
+      "contentKind": "research"
+    },
+    {
+      "id": "ia-20260608-axa-global-private",
+      "clusterCount": 1,
+      "score": 82,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:00:00+08:00",
+      "contentRole": {
+        "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
+        "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
+      },
+      "title": {
+        "sc": "AXA安盛推出「AXA Global Private」高净值统一平台，落户香港及百慕达",
+        "tc": "AXA安盛推出「AXA Global Private」高淨值統一平台，落戶香港及百慕達"
+      },
+      "summary": {
+        "sc": "2026年6月8日，AXA集团宣布推出AXA Global Private高净值统一平台，以香港及百慕达为双枢纽，整合寿险、财富管理、传承规划及艺术品/绑架赎金等特殊险种，服务亚洲HNW/UHNW家庭。行政总裁Thomas Buberl出席香港发布会。",
+        "tc": "2026年6月8日，AXA集團宣布推出AXA Global Private高淨值統一平台，以香港及百慕達為雙樞紐，整合壽險、財富管理、傳承規劃及藝術品/綁架贖金等特殊險種，服務亞洲HNW/UHNW家庭。行政總裁Thomas Buberl出席香港發布會。"
+      },
+      "why": {
+        "sc": "全球保险巨头加码香港HNW赛道；香港超越瑞士成最大离岸财富中心背景下，平台差异化价值突出。",
+        "tc": "全球保險巨頭加碼香港HNW賽道；香港超越瑞士成最大離岸財富中心背景下，平台差異化價值突出。"
+      },
+      "actions": {
+        "front": {
+          "sc": "高净值客户可关注AXA多司法管辖区保单方案。",
+          "tc": "高淨值客戶可關注AXA多司法管轄區保單方案。"
+        },
+        "midback": {
+          "sc": "了解AXA平台产品线与自家产品定位差异。｜跨境保单涉及香港/百慕达双法域合规。",
+          "tc": "了解AXA平台產品線與自家產品定位差異。｜跨境保單涉及香港/百慕達雙法域合規。"
+        },
+        "lead": {
+          "sc": "高净值团队可将此作为竞品研究和市场定位参考。",
+          "tc": "高淨值團隊可將此作為競品研究和市場定位參考。"
+        },
+        "cross": {
+          "sc": "百慕达保单架构为跨境客户提供多一选择。",
+          "tc": "百慕達保單架構為跨境客戶提供多一選擇。"
+        }
+      },
+      "source": {
+        "sc": "AXA安盛 · 新闻稿 2026-06-08",
+        "tc": "AXA安盛 · 新闻稿 2026-06-08",
+        "lang": "zh"
+      },
+      "sourceTier": "insurer",
+      "tags": {
+        "sc": [
+          "高净值",
+          "AXA",
+          "财富管理"
+        ],
+        "tc": [
+          "高淨值",
+          "AXA",
+          "財富管理"
+        ]
+      },
+      "themes": [
+        "product",
+        "offshore",
+        "firm"
+      ],
+      "rolesImpact": {
+        "front": 2,
+        "midback": 1,
+        "lead": 2,
+        "cross": 3
+      },
+      "publishedAt": "2026-06-08T17:00:00+08:00",
+      "originalUrl": "https://fortune.com/2026/06/08/axa-launches-global-private-hong-kong-china-hnwi-insurance/",
+      "sourceKey": "8f2e7b7f87f2",
+      "boards": [
+        "insurer",
+        "family",
+        "product"
+      ],
+      "contentKind": "product_notice"
+    },
+    {
+      "id": "ia-20260608-aia-wealth-flexi",
+      "clusterCount": 1,
+      "score": 80,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:00:00+08:00",
+      "contentRole": {
+        "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
+        "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
+      },
+      "title": {
+        "sc": "友邦推出「 Wealth Flexi 灵活储蓄保」：首创未来心愿安排服务高净值家庭传承",
+        "tc": "友邦推出「 Wealth Flexi 靈活儲蓄保」：首創未來心願安排服務高淨值家庭傳承"
+      },
+      "summary": {
+        "sc": "2026年6月8日，友邦香港推出Wealth Flexi灵活储蓄保（分红终身寿险），首创「未来心愿安排」增值服务，允许保单持有人在身故或健康受损等事件发生时预先设定保单管理指令，涵盖拥有权继承、利益分配及受益人指定等，配合货币转换、红利锁定/解锁等灵活功能。",
+        "tc": "2026年6月8日，友邦香港推出Wealth Flexi靈活儲蓄保（分紅終身壽險），首創「未來心願安排」增值服務，允許保單持有人在身故或健康受損等事件發生時預先設定保單管理指令，涵蓋擁有權繼承、利益分配及受益人指定等，配合貨幣轉換、紅利鎖定/解鎖等靈活功能。"
+      },
+      "why": {
+        "sc": "友邦AIHOT数据显示仅25%HNW家庭已做传承安排；产品精准切入信任与结构化传承空缺。",
+        "tc": "友邦AIHOT數據顯示僅25%HNW家庭已做傳承安排；產品精準切入信任與結構化傳承空缺。"
+      },
+      "actions": {
+        "front": {
+          "sc": "高净值客户做传承规划时可推荐此产品作为结构化方案。",
+          "tc": "高淨值客戶做傳承規劃時可推薦此產品作為結構化方案。"
+        },
+        "midback": {
+          "sc": "产品比较时注意传承功能的差异化。｜了解受益人安排与信托衔接可行性。",
+          "tc": "產品比較時注意傳承功能的差異化。｜了解受益人安排與信託銜接可行性。"
+        },
+        "lead": {
+          "sc": "高净值团队的竞品对标与新业务增长机会。",
+          "tc": "高淨值團隊的競品對標與新增長機會。"
+        },
+        "cross": {
+          "sc": "跨境传承架构可配合信托+保单方案。",
+          "tc": "跨境傳承架構可配合信託+保單方案。"
+        }
+      },
+      "source": {
+        "sc": "友邦香港 · 新闻稿 2026-06-08",
+        "tc": "友邦香港 · 新闻稿 2026-06-08",
+        "lang": "zh"
+      },
+      "sourceTier": "insurer",
+      "tags": {
+        "sc": [
+          "高净值",
+          "传承",
+          "友邦"
+        ],
+        "tc": [
+          "高淨值",
+          "傳承",
+          "友邦"
+        ]
+      },
+      "themes": [
+        "product",
+        "offshore",
+        "family"
+      ],
+      "rolesImpact": {
+        "front": 2,
+        "midback": 1,
+        "lead": 2,
+        "cross": 3
+      },
+      "publishedAt": "2026-06-08T10:00:00+08:00",
+      "originalUrl": "https://www.aia.com.hk/en/about-aia/about-us/media-centre/press-releases/2026/aia-press-release-20260608",
+      "sourceKey": "cf6228d86dbc",
+      "boards": [
+        "insurer",
+        "product",
+        "family"
+      ],
+      "contentKind": "product_notice"
+    },
+    {
+      "id": "ia-20260605-hkma-remuneration-circ",
+      "clusterCount": 1,
+      "score": 86,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:00:00+08:00",
+      "contentRole": {
+        "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
+        "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
+      },
+      "title": {
+        "sc": "金管局发布银行保险中介分红报酬结构通函（平行通函）",
+        "tc": "金管局發布銀行保險中介分紅報酬結構通函（平行通函）"
+      },
+      "summary": {
+        "sc": "2026年6月5日，金管局发布《持牌保险中介人（属认可机构）就具定期缴款条款的分红保单的报酬结构》通函，与保监局同日通函平行发布。要求银行作为持牌保险中介销售分红保单时，须采用与保监局实务指引一致的佣金分摊安排。",
+        "tc": "2026年6月5日，金管局發布《持牌保險中介人（屬認可機構）就具定期繳款條款的分紅保單的報酬結構》通函，與保監局同日通函平行發布。要求銀行作為持牌保險中介銷售分紅保單時，須採用與保監局實務指引一致的佣金分攤安排。"
+      },
+      "why": {
+        "sc": "这是金管局首次单独发布保险报酬结构通函，银保与经纪规则趋同已成定局。",
+        "tc": "這是金管局首次單獨發布保險報酬結構通函，銀保與經紀規則趨同已成定局。"
+      },
+      "actions": {
+        "front": {
+          "sc": "对客比较时勿用「银行佣金更高/更低」等未经核实说法。",
+          "tc": "對客比較時勿用「銀行佣金更高/更低」等未經核實說法。"
+        },
+        "midback": {
+          "sc": "立即检查与银行渠道的合作协议是否与新通函冲突。",
+          "tc": "立即檢查與銀行渠道的合作協議是否與新通函衝突。"
+        },
+        "lead": {
+          "sc": "银保与经纪激励规则趋同后，竞争回到专业服务。",
+          "tc": "銀保與經紀激勵規則趨同後，競爭回到專業服務。"
+        },
+        "cross": {
+          "sc": "私行协作注意机构侧报酬披露要求。",
+          "tc": "私行協作注意機構側報酬披露要求。"
+        }
+      },
+      "source": {
+        "sc": "金管局 · 通函 2026-06-05 [EN原文]",
+        "tc": "金管局 · 通函 2026-06-05 [EN原文]",
+        "lang": "zh"
+      },
+      "sourceTier": "official",
+      "tags": {
+        "sc": [
+          "金管局",
+          "银保",
+          "报酬结构"
+        ],
+        "tc": [
+          "金管局",
+          "銀保",
+          "報酬結構"
+        ]
+      },
+      "themes": [
+        "reg",
+        "channel",
+        "compliance"
+      ],
+      "rolesImpact": {
+        "front": 2,
+        "midback": 3,
+        "lead": 3,
+        "cross": 2
+      },
+      "publishedAt": "2026-06-05T16:00:00+08:00",
+      "originalUrl": "https://brdr.hkma.gov.hk/eng/doc-ldg/docId/getPdf/20260602-4-EN/Remuneration%20structures%20for%20licensed%20insurance%20intermediaries%20which%20are%20AIs.pdf",
+      "sourceKey": "ee9769642cba",
+      "boards": [
+        "reg",
+        "market"
+      ],
+      "contentKind": "circular"
     },
     {
       "id": "ia-hkma-remuneration-20260605",
@@ -1585,6 +3334,245 @@
         "reg"
       ],
       "contentKind": "circular"
+    },
+    {
+      "id": "ia-20260611-chubb-life",
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:00:00+08:00",
+      "contentRole": {
+        "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
+        "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
+      },
+      "title": {
+        "sc": "安达人寿香港增强旗舰储蓄计划：新增3年缴付选项",
+        "tc": "安達人壽香港增強旗艦儲蓄計劃：新增3年繳付選項"
+      },
+      "summary": {
+        "sc": "2026年6月初，安达人寿（Chubb Life）香港增强其旗舰储蓄保险计划，新增3年缴付选项以满足客户对短年期缴费的需求。此举是保司在分红险市场竞争加剧背景下，通过产品灵活性争夺市场份额的策略。",
+        "tc": "2026年6月初，安達人壽（Chubb Life）香港增強其旗艦儲蓄保險計劃，新增3年繳付選項以滿足客戶對短年期繳費的需求。此舉是保司在分紅險市場競爭加劇背景下，通過產品靈活性爭奪市場份額的策略。"
+      },
+      "why": {
+        "sc": "短年期缴费选项成为分红险产品差异化新方向；安达的灵活策略有借鉴意义。",
+        "tc": "短年期繳費選項成為分紅險產品差異化新方向；安達的靈活策略有借鑑意義。"
+      },
+      "actions": {
+        "front": {
+          "sc": "客户偏好短年期时可推荐安达新产品作为选项。",
+          "tc": "客戶偏好短年期時可推薦安達新產品作為選項。"
+        },
+        "midback": {
+          "sc": "产品比较表中更新安达新产品参数。",
+          "tc": "產品比較表中更新安達新產品參數。"
+        },
+        "lead": {
+          "sc": "了解竞品产品策略以优化自有产品组合。",
+          "tc": "了解競品產品策略以優化自有產品組合。"
+        },
+        "cross": {
+          "sc": "短年期产品更适合有资金出境时限的跨境客户。",
+          "tc": "短年期產品更適合有資金出境時限的跨境客戶。"
+        }
+      },
+      "source": {
+        "sc": "亚洲保险评论 · 产品新闻 2026-06-04 [EN原文]",
+        "tc": "亚洲保险评论 · 产品新闻 2026-06-04 [EN原文]",
+        "lang": "zh"
+      },
+      "sourceTier": "insurer",
+      "tags": {
+        "sc": [
+          "安达人寿",
+          "储蓄险",
+          "短年期"
+        ],
+        "tc": [
+          "安達人壽",
+          "儲蓄險",
+          "短年期"
+        ]
+      },
+      "themes": [
+        "product",
+        "firm"
+      ],
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "publishedAt": "2026-06-04T14:00:00+08:00",
+      "originalUrl": "https://www.asiainsurancereview.com/Search?search_key=News",
+      "sourceKey": "cefa86411782",
+      "boards": [
+        "insurer",
+        "product"
+      ],
+      "contentKind": "product_notice"
+    },
+    {
+      "id": "ia-20260603-broker-referral",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:00:00+08:00",
+      "contentRole": {
+        "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
+        "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
+      },
+      "title": {
+        "sc": "保监局对两间经纪公司施加续牌条件：暂停接收转介客户",
+        "tc": "保監局對兩間經紀公司施加續牌條件：暫停接收轉介客戶"
+      },
+      "summary": {
+        "sc": "2026年6月初，保监局对两间未能有效管控转介活动的保险经纪公司施加续牌条件，要求暂停接收转介业务。这是转介费50%上限规定自2025年10月生效后首次公开执法。",
+        "tc": "2026年6月初，保監局對兩間未能有效管控轉介活動的保險經紀公司施加續牌條件，要求暫停接收轉介業務。這是轉介費50%上限規定自2025年10月生效後首次公開執法。"
+      },
+      "why": {
+        "sc": "中介转介合规进入执法阶段；监管零容忍信号明确。",
+        "tc": "中介轉介合規進入執法階段；監管零容忍信號明確。"
+      },
+      "actions": {
+        "front": {
+          "sc": "检查自有转介安排是否合规；勿超50%上限。",
+          "tc": "檢查自有轉介安排是否合規；勿超50%上限。"
+        },
+        "midback": {
+          "sc": "立即审查公司转介协议与费用比例。｜更新转介业务SOP以匹配新规。",
+          "tc": "立即審查公司轉介協議與費用比例。｜更新轉介業務SOP以匹配新規。"
+        },
+        "lead": {
+          "sc": "转介业务为团队主要获客渠道时需重新评估可持续性。",
+          "tc": "轉介業務為團隊主要獲客渠道時需重新評估可持續性。"
+        },
+        "cross": {
+          "sc": "跨境转介需额外注意两地监管合规。",
+          "tc": "跨境轉介需額外注意兩地監管合規。"
+        }
+      },
+      "source": {
+        "sc": "保监局 · 执法行动 2026-06",
+        "tc": "保监局 · 执法行动 2026-06",
+        "lang": "zh"
+      },
+      "sourceTier": "official",
+      "tags": {
+        "sc": [
+          "转介费",
+          "经纪合规",
+          "执法"
+        ],
+        "tc": [
+          "轉介費",
+          "經紀合規",
+          "執法"
+        ]
+      },
+      "themes": [
+        "reg",
+        "channel",
+        "compliance"
+      ],
+      "rolesImpact": {
+        "front": 2,
+        "midback": 3,
+        "lead": 3,
+        "cross": 2
+      },
+      "publishedAt": "2026-06-03T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/en/infocenter/speeches_articles/20260712.html",
+      "sourceKey": "ae929e69d230",
+      "boards": [
+        "reg",
+        "market"
+      ],
+      "contentKind": "enforcement"
+    },
+    {
+      "id": "ia-20260602-hkma-crossborder",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:00:00+08:00",
+      "contentRole": {
+        "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
+        "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
+      },
+      "title": {
+        "sc": "金管局举办银保跨境业务简报会：促进银行与保险业界合作",
+        "tc": "金管局舉辦銀保跨境業務簡報會：促進銀行與保險業界合作"
+      },
+      "summary": {
+        "sc": "2026年6月2日，金管局与香港银行公会联合举办跨境银行与保险业务简报会，覆盖约3,500名高管。重点讨论银保渠道跨境合规、客户保护及行业协作框架。",
+        "tc": "2026年6月2日，金管局與香港銀行公會聯合舉辦跨境銀行與保險業務簡報會，覆蓋約3,500名高管。重點討論銀保渠道跨境合規、客戶保護及行業協作框架。"
+      },
+      "why": {
+        "sc": "银保渠道在跨境保单中的角色日益重要，监管前移协作信号明确。",
+        "tc": "銀保渠道在跨境保單中的角色日益重要，監管前移協作信號明確。"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解银保合规框架，避免在银行转介场景踩线。",
+          "tc": "了解銀保合規框架，避免在銀行轉介場景踩線。"
+        },
+        "midback": {
+          "sc": "梳理与银行合作/转介流程是否合规。｜检查银行渠道佣金披露与新通函对齐。",
+          "tc": "梳理與銀行合作/轉介流程是否合規。｜檢查銀行渠道佣金披露與新通函對齊。"
+        },
+        "lead": {
+          "sc": "评估银保渠道作为增长引擎的战略定位。",
+          "tc": "評估銀保渠道作為增長引擎的戰略定位。"
+        },
+        "cross": {
+          "sc": "私行协作需确保机构侧合规披露到位。",
+          "tc": "私行協作需確保機構側合規披露到位。"
+        }
+      },
+      "source": {
+        "sc": "金管局 · 简报会 2026-06-02",
+        "tc": "金管局 · 简报会 2026-06-02",
+        "lang": "zh"
+      },
+      "sourceTier": "official",
+      "tags": {
+        "sc": [
+          "银保",
+          "跨境合规",
+          "金管局"
+        ],
+        "tc": [
+          "銀保",
+          "跨境合規",
+          "金管局"
+        ]
+      },
+      "themes": [
+        "reg",
+        "channel",
+        "compliance"
+      ],
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 2,
+        "cross": 2
+      },
+      "publishedAt": "2026-06-02T16:00:00+08:00",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/speeches/2026/06/20260602-1/",
+      "sourceKey": "a52ee65d5d91",
+      "boards": [
+        "reg",
+        "market"
+      ],
+      "contentKind": "speech"
     },
     {
       "id": "ia-20260529-onsite-findings",
