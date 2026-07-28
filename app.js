@@ -5938,9 +5938,9 @@ window.HKII_DATA = {
       themesIntro:"点击主题进入全部动态并筛选。", calH:"关键节点", dailyLead:"按区块聚合的专业早报。排序随角色变化。",
       evergreen:"生效中 · 常驻",
       archiveTabs:{daily:"日报",weekly:"周报",monthly:"月报",yearly:"年报"},
-      downloadHint:"按时间打包下载导读清单（日/周/月/年）。点进某期可预览条目并导出 Markdown；数字与规则以原文链接为准。",
+      downloadHint:"日报、周报可下载 Markdown。月报、年报仅可在线查阅，不提供下载。也可发送到邮箱。数字与规则以原文链接为准。",
       openDigest:"查看该期条目",
-      backDownload:"返回下载列表",
+      backDownload:"返回列表",emailTo:"发送到邮箱",emailSent:"已发送",emailHint:"输入接收邮箱，发送本期导读清单",monthlyYearlyReadOnly:"月报与年报仅可在线查阅，不提供下载。",
       guideLabel:"本站导读（非原文）",
       originalAuthority:"权威原文",
       sourceKey:"来源指纹",
@@ -6026,9 +6026,9 @@ window.HKII_DATA = {
       themesIntro:"點擊主題進入全部動態並篩選。", calH:"關鍵節點", dailyLead:"按區塊聚合的專業早報。排序隨角色變化。",
       evergreen:"生效中 · 常駐",
       archiveTabs:{daily:"日報",weekly:"週報",monthly:"月報",yearly:"年報"},
-      downloadHint:"按時間打包下載導讀清單（日/週/月/年）。點進某期可預覽條目並導出 Markdown；數字與規則以原文連結為準。",
+      downloadHint:"日報、週報可下載 Markdown。月報、年報僅可在線查閱，不提供下載。也可發送到郵箱。數字與規則以原文鏈接為準。",
       openDigest:"查看該期條目",
-      backDownload:"返回下載列表",
+      backDownload:"返回列表",emailTo:"發送到郵箱",emailSent:"已發送",emailHint:"輸入接收郵箱，發送本期導讀清單",monthlyYearlyReadOnly:"月報與年報僅可在線查閱，不提供下載。",
       guideLabel:"本站導讀（非原文）",
       originalAuthority:"權威原文",
       sourceKey:"來源指紋",
@@ -6328,13 +6328,18 @@ window.HKII_DATA = {
           const gate=canExportDigest(state.archivePeriod);
           const price=(mon().prices&&mon().prices[state.archivePeriod])||0;
           const exportLabel = (!mon().enabled || gate.free) ? t.digestExport : (gate.ok? `${t.digestExport}` : `${t.digestExport} · ${t.proLock}`);
-          html+=`<div class="panel"><button type="button" class="pill" data-arch-back="1">← ${t.backDownload||t.backArchive||"返回"}</button>
+          html+=`<div class="panel"><button type="button" class="pill" data-arch-back="1">← ${t.backDownload}</button>
             <h3 style="margin-top:12px">${esc(tx(dig.label))}</h3>
             <p>${t.itemsInPeriod}：${dig.itemCount} · ${esc(tx(dig.note||{}))}</p>
-            <div class="action-bar">
-              <button type="button" class="btn primary" data-export-digest="1">${exportLabel}${(!mon().enabled||price===0)?"":` <span class="pro-tag">${price?price+"pts":t.proFree}</span>`}</button>
+            ${gate.reason==="readonly"?`<p class="lock-note" style="margin:8px 0">📖 ${t.monthlyYearlyReadOnly||"月报与年报仅可在线查阅，不提供下载。"}</p>`:
+            `<div class="action-bar">
+              <button type="button" class="btn primary" data-export-digest="1">${t.digestExport} · MD</button>
+              <button type="button" class="btn" data-email-digest="1">📧 ${t.emailTo}</button>
             </div>
-            <p class="lock-note">${mon().enabled? (gate.ok? (gate.free?t.proFree:t.unlocked) : t.proNeed.replace("{n}", String(price))) : (tx(mon().note)||"")}</p>
+            <div class="email-box" style="display:none;margin:8px 0">
+              <input type="email" class="email-input" placeholder="${t.emailHint}" />
+              <button type="button" class="btn" data-email-send="1">${t.emailSent}</button>
+            </div>`}
             </div>`;
           const ids=dig.itemIds||[];
           const its=ids.map(byId).filter(Boolean).filter(matches);
@@ -6393,6 +6398,8 @@ window.HKII_DATA = {
   function mon(){ return (DATA.meta && DATA.meta.monetization) || {enabled:false,prices:{}}; }
   function canExportDigest(period){
     const m=mon();
+    // 月报/年报仅可阅读，不可下载
+    if(period==="monthly"||period==="yearly") return {ok:false, reason:"readonly"};
     if(!m.enabled) return {ok:true, free:true};
     const price=(m.prices&&m.prices[period])||0;
     if(price<=0) return {ok:true, free:true};
@@ -6607,6 +6614,7 @@ ${t.brandName} · ${t.disc}
   $("#rolePills").addEventListener("click", e=>{ const b=e.target.closest("[data-role]"); if(!b) return; state.role=b.dataset.role; localStorage.setItem("hkii_role", state.role); render(); });
   $("#q").addEventListener("input", e=>{ state.q=e.target.value; render(); });
   $("#content").addEventListener("click", e=>{
+    const email=e.target.closest("[data-email-digest]"); if(email){ e.stopPropagation(); const box=email.parentElement.nextElementSibling; box.style.display=box.style.display==="none"?"block":"none"; return; }
     const fav=e.target.closest("[data-fav]"); if(fav){ e.stopPropagation(); const id=fav.dataset.fav; state.fav.has(id)?state.fav.delete(id):state.fav.add(id); localStorage.setItem("hkii_fav", JSON.stringify([...state.fav])); render(); return; }
     const o=e.target.closest("[data-open]"); if(o){ openDrawer(o.dataset.open); return; }
     // 主题雷达：进板块页（不跳全部动态）
