@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-07-28T12:15:31Z",
-  "itemCount": 175,
+  "generatedAt": "2026-07-28T17:38:37Z",
+  "itemCount": 182,
   "items": [
     {
       "id": "ratings-2026-consolidated",
@@ -1964,6 +1964,32 @@
       "originalUrl": "https://www.axa.com.hk/zh/news-room/2025"
     },
     {
+      "id": "ia-20241205-annual-2024",
+      "title": "2024全年港险统计：总毛保费$635.2B，新造$219.8B，MCV$62.8B",
+      "sourceTier": "official",
+      "themes": [
+        "macro",
+        "reg"
+      ],
+      "publishedAt": "2024-12-05T16:00:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20241205-annual-2024",
+      "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20251205.html"
+    },
+    {
+      "id": "ia-20240923-license-fee",
+      "title": "保险中介人牌照费征缴启动：五年豁免期届满",
+      "sourceTier": "official",
+      "themes": [
+        "compliance",
+        "career"
+      ],
+      "publishedAt": "2024-09-23T10:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20240923-license-fee",
+      "originalUrl": "https://www.ia.org.hk/sc/legislative_framework/overview/gazette_notices.html"
+    },
+    {
       "id": "ia-20240923-refcheck",
       "title": "保监局参考查核计划生效：中介人背景审查启动。",
       "sourceTier": "",
@@ -1994,6 +2020,19 @@
       "originalUrl": "https://www.prnewswire.com/news-releases/sun-life-financial-to-acquire-pension-business-of-fwd-hong-kong-589039111.html"
     },
     {
+      "id": "ia-20240830-h1-2024-stats",
+      "title": "2024上半年港险统计：长期业务新造保费$115.6B，内地访客$29.7B",
+      "sourceTier": "official",
+      "themes": [
+        "macro",
+        "reg"
+      ],
+      "publishedAt": "2024-08-30T16:00:00+08:00",
+      "score": 83,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20240830-h1-2024-stats",
+      "originalUrl": "https://www.ia.org.hk/sc/infocenter/press_releases/20240830.html"
+    },
+    {
       "id": "ia-2024-crossborder",
       "title": "保监局与廉政公署联合打击跨境无牌销售保单。",
       "sourceTier": "",
@@ -2014,6 +2053,19 @@
       "originalUrl": "http://paper.people.com.cn/zgjjzk/pc/content/202411/15/content_30046103.html"
     },
     {
+      "id": "ia-20240726-tahoe-life",
+      "title": "保监局委任经理全面接管泰禾人寿——香港保险史上首次",
+      "sourceTier": "official",
+      "themes": [
+        "compliance",
+        "firm"
+      ],
+      "publishedAt": "2024-07-26T18:00:00+08:00",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20240726-tahoe-life",
+      "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20240726.html"
+    },
+    {
       "id": "ctflife-20240723-rebrand",
       "title": "FTLife正式更名为周大福人寿(CTF Life)。",
       "sourceTier": "",
@@ -2032,6 +2084,45 @@
       "score": 98,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20240701-rbc-live",
       "originalUrl": "https://www.fstb.gov.hk/fsb/en/business/policy_highlights/insurance-industry.html"
+    },
+    {
+      "id": "ia-20240614-gl34-segregation",
+      "title": "GL34《就分红业务设立与维持基金的指引》宪报刊登",
+      "sourceTier": "official",
+      "themes": [
+        "compliance",
+        "par"
+      ],
+      "publishedAt": "2024-06-14T10:00:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20240614-gl34-segregation",
+      "originalUrl": "https://www.ia.org.hk/sc/legislative_framework/overview/gazette_notices.html"
+    },
+    {
+      "id": "ia-20240612-unlicensed-mcv",
+      "title": "保监局发通函：打击向内地访客无牌销售长期保单的不合规模式",
+      "sourceTier": "official",
+      "themes": [
+        "compliance",
+        "offshore"
+      ],
+      "publishedAt": "2024-06-12T10:00:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20240612-unlicensed-mcv",
+      "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/20240612_Circular.pdf"
+    },
+    {
+      "id": "ia-20240531-q1-2024-stats",
+      "title": "2024年Q1临时统计：长期业务新造保费$79.1B，同比+14.6%",
+      "sourceTier": "official",
+      "themes": [
+        "macro",
+        "reg"
+      ],
+      "publishedAt": "2024-05-31T16:00:00+08:00",
+      "score": 82,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20240531-q1-2024-stats",
+      "originalUrl": "https://www.ia.org.hk/sc/infocenter/press_releases/20240531_1.html"
     }
   ]
 }

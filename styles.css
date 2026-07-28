@@ -303,3 +303,9 @@ button,input{font:inherit;color:inherit}a{color:inherit;text-decoration:none}.ap
 .btn-original{display:inline-flex;align-items:center;gap:4px;padding:8px 14px;border:1px solid color-mix(in srgb,var(--accent-2) 40%,transparent);border-radius:8px;background:color-mix(in srgb,var(--accent-2) 10%,transparent);color:var(--accent-2);font-size:13px;text-decoration:none;cursor:pointer}
 .btn-original:hover{background:color-mix(in srgb,var(--accent-2) 18%,transparent)}
 .action-bar{display:flex;gap:10px;margin:14px 0 8px}
+
+.feedback-link{display:block;font-size:12px;color:var(--text-dim);text-decoration:none;padding:8px 0;text-align:center;border-top:1px solid var(--border-soft);margin-bottom:8px}
+.feedback-link:hover{color:var(--accent)}
+
+.copyright{font-size:11px;color:var(--text-dim);padding:8px 18px;margin-top:auto;border-top:1px solid var(--border-soft);text-align:center}
+.chip-sm{font-size:11px!important;padding:4px 10px!important}
