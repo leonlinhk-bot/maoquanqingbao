@@ -61,4 +61,39 @@ FEED.joinpath('featured.xml').write_text(f"""<?xml version="1.0" encoding="UTF-8
 {chr(10).join(rss_body)}
   </channel>
 </rss>""",encoding='utf-8')
-print(f"OK featured={len(feat)} all={len(items)}")
+
+# --- Auto-sync: update meta.windowNote + app.js embedded DATA ---
+n = len(items)
+data['meta']['windowNote'] = {'sc': f'本库{n}条。', 'tc': f'本庫{n}條。'}
+data['meta']['itemCount'] = n
+LIVE.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding='utf-8')
+
+app_path = ROOT / 'app.js'
+app = app_path.read_text(encoding='utf-8')
+start = app.find('window.HKII_DATA = ')
+if start >= 0:
+    obj_start = start + len('window.HKII_DATA = ')
+    while app[obj_start] in ' \n\r\t': obj_start += 1
+    depth = 0; in_str = False; esc2 = False; quote = ''
+    j = obj_start
+    while j < len(app):
+        ch = app[j]
+        if in_str:
+            if esc2: esc2 = False
+            elif ch == '\\': esc2 = True
+            elif ch == quote: in_str = False
+            j += 1; continue
+        if ch in '"\'':
+            in_str = True; quote = ch; j += 1; continue
+        if ch == '{': depth += 1
+        elif ch == '}':
+            depth -= 1
+            if depth == 0: j += 1; break
+        j += 1
+    end_j = j
+    while end_j < len(app) and app[end_j] in '; \n\r\t': end_j += 1
+    new_block = 'window.HKII_DATA = ' + json.dumps(data, ensure_ascii=False, indent=2) + ';\n'
+    app = app[:start] + new_block + app[end_j:]
+    app_path.write_text(app, encoding='utf-8')
+
+print(f"OK featured={len(feat)} all={n} windowNote=synced app.js=rebuilt")

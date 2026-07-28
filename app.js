@@ -4,8 +4,8 @@ window.HKII_DATA = {
     "generatedAt": "2026-07-28T20:05:22+08:00",
     "itemCount": 175,
     "windowNote": {
-      "sc": "本库171条。",
-      "tc": "本庫171條。"
+      "sc": "本库175条。",
+      "tc": "本庫175條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -18290,8 +18290,8 @@ function fmtDay(iso){
     else if(state.view==="agent"){ window.location.href="agent.html"; return; }
     else if(state.view==="changelog"){
       const logs = DATA.meta.changelog || [
-        {date:"2026-07-28", items:["RSS/API 骨架上线","Agent 接入页面","主题雷达改版","下载页分页+统计条","热搜下拉","卡片时间统一","日分组收起"]},
-        {date:"2026-07-27", items:["初始部署上线","首批 171 条资讯","四角色切片","简繁切换","深色模式"]}
+        {date:"2026-07-28", items:["每日采集 +6条(经纪/欺诈/高净值) → 累计 175","UI升级 P0-P2","RSS/API 骨架上线","Agent 接入页面","主题雷达改版","下载页分页+统计条","热搜下拉","卡片时间统一","日分组收起"]},
+        {date:"2026-07-27", items:["初始部署上线","首批 175 条资讯","四角色切片","简繁切换","深色模式"]}
       ];
       html+=`<div class="panel"><h3>${meta.t}</h3><p>${meta.s}</p></div>`;
       logs.forEach(log=>{
