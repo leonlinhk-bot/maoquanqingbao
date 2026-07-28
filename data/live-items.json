@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-07-28T13:00:00+08:00",
-    "itemCount": 97,
+    "generatedAt": "2026-07-28T14:00:00+08:00",
+    "itemCount": 102,
     "windowNote": {
-      "sc": "本库 97 条导读，数据窗口截至 2026-07-28。信源：监管+保司官网+机构研究+媒体线索。全部动态默认按发布时间降序。导读≠原文。",
-      "tc": "本庫 97 條導讀，數據窗口截至 2026-07-28。信源：監管+保司官網+機構研究+媒體線索。全部動態默認按發布時間降序。導讀≠原文。"
+      "sc": "本库 102 条导读，数据窗口截至 2026-07-28。信源：监管+保司官网+机构研究+媒体线索。全部动态默认按发布时间降序。导读≠原文。",
+      "tc": "本庫 102 條導讀，數據窗口截至 2026-07-28。信源：監管+保司官網+機構研究+媒體線索。全部動態默認按發布時間降序。導讀≠原文。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -167,6 +167,358 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "ia-20250228-illustration-note",
+      "clusterCount": 1,
+      "score": 96,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": true,
+      "ingestedAt": "2026-07-28T14:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "保监局就分红保单演示利率上限发出实务说明：港元6%/非港元6.5%",
+        "tc": "保監局就分紅保單演示利率上限發出實務說明：港元6%/非港元6.5%"
+      },
+      "summary": {
+        "sc": "保监局2025年2月28日发出实务说明(Practice Note)，确立分红保单利益说明中的演示利率上限框架：自2025年7月1日起，港元保单演示上限6.0%，非港元保单(美元/人民币等)6.5%。此为分红保单销售三项措施的第一环。",
+        "tc": "演示利率上限2月28日發布，7月1日生效"
+      },
+      "why": {
+        "sc": "演示利率上限=分红险行业20年来最重要的销售规则变革",
+        "tc": "演示利率上限是分紅險最重要的銷售規則變革"
+      },
+      "actions": {
+        "front": {
+          "sc": "所有客户沟通必须使用合规演示利率",
+          "tc": "所有溝通使用合規演示利率"
+        },
+        "midback": {
+          "sc": "更新全部产品手册中的演示数据",
+          "tc": "更新全部產品手冊"
+        },
+        "lead": {
+          "sc": "团队全面培训演示利率新规",
+          "tc": "團隊培訓演示利率新規"
+        },
+        "cross": {
+          "sc": "跨境客户需清楚解释演示vs保证利率区别",
+          "tc": "解釋演示vs保證利率區別"
+        }
+      },
+      "source": {
+        "sc": "IA 保监局实务说明",
+        "tc": "IA 保監局實務說明",
+        "lang": "en"
+      },
+      "boards": [
+        "regulatory",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "演示利率",
+          "上限",
+          "6.5%",
+          "实务说明",
+          "2025"
+        ],
+        "tc": [
+          "演示利率",
+          "上限",
+          "6.5%",
+          "實務說明",
+          "2025"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-02-28T09:00:00+08:00",
+      "originalUrl": "https://brdr.hkma.gov.hk/eng/doc-ldg/docId/20250228-3-EN",
+      "sourceKey": "ia:illustration-note-20250228"
+    },
+    {
+      "id": "ia-20250313-iul-circular",
+      "clusterCount": 1,
+      "score": 90,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": true,
+      "ingestedAt": "2026-07-28T14:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "保监局与金管局联合发布IUL产品监管通函",
+        "tc": "保監局與金管局聯合發布IUL產品監管通函"
+      },
+      "summary": {
+        "sc": "保监局与金管局2025年3月13日联合发出通函，就面向专业投资者的指数型万用寿险(IUL)产品提出监管期望，包括适合性评估、重要事实声明、申请人声明模板等。截至2025年8月已有43个IUL产品进入市场。",
+        "tc": "保監局與金管局3月13日聯合發布IUL監管通函"
+      },
+      "why": {
+        "sc": "IUL监管框架正式确立，为IUL产品的合规销售提供法律依据",
+        "tc": "IUL監管框架正式確立"
+      },
+      "actions": {
+        "front": {
+          "sc": "IUL销售须使用官方模板进行适合性评估",
+          "tc": "IUL銷售須使用官方模板"
+        },
+        "midback": {
+          "sc": "建立IUL产品合规销售流程",
+          "tc": "建立IUL合規銷售流程"
+        },
+        "lead": {
+          "sc": "评估IUL产品进入团队产品组合的可行性",
+          "tc": "評估IUL產品可行性"
+        },
+        "cross": {
+          "sc": "跨境客户IUL销售须满足两地监管要求",
+          "tc": "跨境IUL需滿足兩地監管"
+        }
+      },
+      "source": {
+        "sc": "IA+HKMA 联合通函",
+        "tc": "IA+HKMA 聯合通函",
+        "lang": "zh"
+      },
+      "boards": [
+        "regulatory",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "IUL",
+          "联合通函",
+          "金管局",
+          "专业投资者"
+        ],
+        "tc": [
+          "IUL",
+          "聯合通函",
+          "金管局",
+          "專業投資者"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-03-13T09:00:00+08:00",
+      "originalUrl": "https://brdr.hkma.gov.hk/chi/doc-ldg/docId/20250313-10-TC",
+      "sourceKey": "ia:hkma-iul-circular-20250313"
+    },
+    {
+      "id": "ia-20251024-h1stats",
+      "clusterCount": 1,
+      "score": 84,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T14:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "保监局公布2025年上半年临时统计：毛保费4234亿，新造保费1737亿",
+        "tc": "保監局公布2025年上半年臨時統計：毛保費4234億，新造保費1737億"
+      },
+      "summary": {
+        "sc": "保监局2025年10月24日公布2025年上半年临时统计：毛保费总额4234亿港元，长期业务新造保费1737亿港元。分红业务持续领跑，内地访客贡献显著增长。",
+        "tc": "保監局公布H1統計，毛保費4234億"
+      },
+      "why": {
+        "sc": "上半年数据反映演示利率上限前抢购潮的峰值",
+        "tc": "反映演示利率上限前搶購潮峰值"
+      },
+      "actions": {
+        "front": {
+          "sc": "用官方数据展示香港保险市场增长动能",
+          "tc": "展示市場增長動能"
+        },
+        "midback": {
+          "sc": "更新行业数据库",
+          "tc": "更新行業數據庫"
+        },
+        "lead": {
+          "sc": "数据驱动业务策略",
+          "tc": "數據驅動業務策略"
+        },
+        "cross": {
+          "sc": "内地访客数据辅助跨境营销定位",
+          "tc": "內地訪客數據輔助營銷"
+        }
+      },
+      "source": {
+        "sc": "IA 保监局统计",
+        "tc": "IA 保監局統計",
+        "lang": "zh"
+      },
+      "boards": [
+        "regulatory",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "H1统计",
+          "保费",
+          "4234亿",
+          "2025"
+        ],
+        "tc": [
+          "H1統計",
+          "保費",
+          "4234億",
+          "2025"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-10-24T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/en/infocenter/statistics/",
+      "sourceKey": "ia:h1stats-20251024"
+    },
+    {
+      "id": "ia-2025q1-stats-934",
+      "clusterCount": 1,
+      "score": 86,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T14:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "2025年Q1香港长期业务新单保费934亿同比+43.1%创新高",
+        "tc": "2025年Q1香港長期業務新單保費934億同比+43.1%創新高"
+      },
+      "summary": {
+        "sc": "保监局公布2025年首季临时统计：长期业务新单保费934亿港元同比+43.1%，创历史新高。全年保费同比+51%，新单保费+50.6%。内地访客贡献显著，终身寿险占比超80%。",
+        "tc": "2025年Q1新單保費934億創新高"
+      },
+      "why": {
+        "sc": "演示利率上限前的抢购潮=行业历史性节点，数据可用于市场分析",
+        "tc": "演示利率上限前搶購潮=行業歷史性節點"
+      },
+      "actions": {
+        "front": {
+          "sc": "用数据向客户展示港险热度与合规趋势",
+          "tc": "展示港險熱度與合規趨勢"
+        },
+        "midback": {
+          "sc": "归档Q1数据，做年度对比分析",
+          "tc": "歸檔Q1數據對比分析"
+        },
+        "lead": {
+          "sc": "基于市场数据调整团队策略",
+          "tc": "基於數據調整策略"
+        },
+        "cross": {
+          "sc": "内地访客数据=跨境营销核心参考",
+          "tc": "內地訪客數據=核心參考"
+        }
+      },
+      "source": {
+        "sc": "IA 保监局统计",
+        "tc": "IA 保監局統計",
+        "lang": "zh"
+      },
+      "boards": [
+        "regulatory",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "Q1统计",
+          "保费",
+          "934亿",
+          "2025"
+        ],
+        "tc": [
+          "Q1統計",
+          "保費",
+          "934億",
+          "2025"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-06-15T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/en/infocenter/statistics/",
+      "sourceKey": "ia:q1stats-2025"
+    },
+    {
+      "id": "ia-2025-d-sii-designation",
+      "clusterCount": 1,
+      "score": 83,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": true,
+      "ingestedAt": "2026-07-28T14:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "保监局指定AIA及保诚亚洲为具系统重要性保险机构(D-SII)",
+        "tc": "保監局指定AIA及保誠亞洲為具系統重要性保險機構(D-SII)"
+      },
+      "summary": {
+        "sc": "保监局2025年正式指定AIA集团及保诚亚洲为香港境内具系统重要性保险机构(Domestic Systemically Important Insurers)，实施额外监管要求，包括更高的资本缓冲和恢复与处置规划。",
+        "tc": "保監局指定AIA及保誠為D-SII，實施額外監管"
+      },
+      "why": {
+        "sc": "D-SII=大而不能倒，AIA和保诚的安全性获监管背书",
+        "tc": "D-SII=安全性獲監管背書"
+      },
+      "actions": {
+        "front": {
+          "sc": "客户问'哪家最安全'时可用D-SII认证加分",
+          "tc": "客戶問安全性時引用D-SII"
+        },
+        "midback": {
+          "sc": "更新保司评估档案中D-SII状态",
+          "tc": "更新D-SII狀態"
+        },
+        "lead": {
+          "sc": "D-SII保司=合作首选，尽调简化",
+          "tc": "D-SII保司=合作首選"
+        },
+        "cross": {
+          "sc": "D-SII认定对跨境再保险安排的影响评估",
+          "tc": "D-SII對跨境再保影響"
+        }
+      },
+      "source": {
+        "sc": "IA 保监局",
+        "tc": "IA 保監局",
+        "lang": "en"
+      },
+      "boards": [
+        "regulatory",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "D-SII",
+          "AIA",
+          "保诚",
+          "系统重要性"
+        ],
+        "tc": [
+          "D-SII",
+          "AIA",
+          "保誠",
+          "系統重要性"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-04-15T10:00:00+08:00",
+      "originalUrl": "https://beinsure.com/news/hong-kong-names-aia-prudential-asia/",
+      "sourceKey": "ia:d-sii-2025"
+    },
     {
       "id": "ia-20260123-q3stats",
       "clusterCount": 1,
