@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-07-28T12:00:00+08:00",
-    "itemCount": 83,
+    "generatedAt": "2026-07-28T12:30:00+08:00",
+    "itemCount": 91,
     "windowNote": {
-      "sc": "本库 83 条导读，数据窗口截至 2026-07-28。信源：监管+保司官网+机构研究+媒体线索。全部动态默认按发布时间降序。导读≠原文。",
-      "tc": "本庫 83 條導讀，數據窗口截至 2026-07-28。信源：監管+保司官網+機構研究+媒體線索。全部動態默認按發布時間降序。導讀≠原文。"
+      "sc": "本库 91 条导读，数据窗口截至 2026-07-28。信源：监管+保司官网+机构研究+媒体线索。全部动态默认按发布时间降序。导读≠原文。",
+      "tc": "本庫 91 條導讀，數據窗口截至 2026-07-28。信源：監管+保司官網+機構研究+媒體線索。全部動態默認按發布時間降序。導讀≠原文。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -167,6 +167,566 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "ia-20260331-gn16-revised",
+      "clusterCount": 1,
+      "score": 94,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": true,
+      "ingestedAt": "2026-07-28T12:30:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "保监局修订GN16指引：2026年3月31日正式生效",
+        "tc": "保監局修訂GN16指引：2026年3月31日正式生效"
+      },
+      "summary": {
+        "sc": "保监局发布修订版《承保长期保险业务指引》(GN16)，自2026年3月31日起生效(GN34第4节除外)。核心升级：分红实现率披露回溯期从5年延长、统一披露格式、禁止误导性表述、每年6月30日前完成披露。同步修订GL34分红业务管治指引。",
+        "tc": "保監局修訂GN16指引3月31日生效，分紅實現率披露全面升級"
+      },
+      "why": {
+        "sc": "GN16新版是分红险销售规范的基础文件，直接影响所有IFA的客户沟通方式",
+        "tc": "GN16新版是分紅險銷售規範基礎文件"
+      },
+      "actions": {
+        "front": {
+          "sc": "每年6/30后查阅保司最新分红实现率数据",
+          "tc": "查閱保司分紅實現率數據"
+        },
+        "midback": {
+          "sc": "更新销售合规手册，纳入GN16新要求",
+          "tc": "更新銷售合規手冊"
+        },
+        "lead": {
+          "sc": "团队培训：GN16核心变化与客户沟通要点",
+          "tc": "團隊培訓GN16核心變化"
+        },
+        "cross": {
+          "sc": "跨境客户：GN16数据可辅助购买决策",
+          "tc": "跨境客戶可用GN16數據輔助決策"
+        }
+      },
+      "source": {
+        "sc": "IA 保监局指引",
+        "tc": "IA 保監局指引",
+        "lang": "zh"
+      },
+      "boards": [
+        "regulatory",
+        "product",
+        "par"
+      ],
+      "tags": {
+        "sc": [
+          "GN16",
+          "分红实现率",
+          "披露",
+          "指引",
+          "2026"
+        ],
+        "tc": [
+          "GN16",
+          "分紅實現率",
+          "披露",
+          "指引",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-03-31T09:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/gn16.html",
+      "sourceKey": "ia:gn16-20260331"
+    },
+    {
+      "id": "ia-20260310-rbc-consult-close",
+      "clusterCount": 1,
+      "score": 84,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:30:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "保监局RBC制度修订咨询截止：3月10日公众意见提交结束",
+        "tc": "保監局RBC制度修訂諮詢截止：3月10日公眾意見提交結束"
+      },
+      "summary": {
+        "sc": "保监局就《保险业（估值及资本）规则》拟议修订进行公众咨询，咨询期自2026年2月11日起至3月10日结束。修订旨在改善香港作为全球风险管理中心的竞争力、激励基建投资。",
+        "tc": "保監局RBC修訂諮詢3月10日截止"
+      },
+      "why": {
+        "sc": "RBC首次大规模修订，储蓄险资本要求可能翻倍，影响未来产品供给",
+        "tc": "RBC首次大規模修訂，影響產品供給"
+      },
+      "actions": {
+        "front": {
+          "sc": "关注RBC修订对高演示产品的影响",
+          "tc": "關注RBC修訂對高演示產品的影響"
+        },
+        "midback": {
+          "sc": "跟踪RBC修订进度，更新合规评估",
+          "tc": "更新合規評估"
+        },
+        "lead": {
+          "sc": "评估RBC修订对团队产品策略的影响",
+          "tc": "評估對團隊產品策略的影響"
+        },
+        "cross": {
+          "sc": "RBC修订可能影响跨境再保险安排",
+          "tc": "RBC修訂可能影響跨境再保"
+        }
+      },
+      "source": {
+        "sc": "IA 保监局咨询文件",
+        "tc": "IA 保監局諮詢文件",
+        "lang": "en"
+      },
+      "boards": [
+        "regulatory"
+      ],
+      "tags": {
+        "sc": [
+          "RBC",
+          "咨询",
+          "资本规则",
+          "修订"
+        ],
+        "tc": [
+          "RBC",
+          "諮詢",
+          "資本規則",
+          "修訂"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-03-10T18:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260211.html",
+      "sourceKey": "ia:rbc-consult-close-20260310"
+    },
+    {
+      "id": "manulife-202603-new-products",
+      "clusterCount": 1,
+      "score": 76,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:30:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "宏利香港推出两款新分红人寿保险储蓄计划",
+        "tc": "宏利香港推出兩款新分紅人壽保險儲蓄計劃"
+      },
+      "summary": {
+        "sc": "宏利香港于2026年3月推出两款新分红人寿保险储蓄计划，以满足客户对财务保障和财富增值的多元化需求。[EN原文]",
+        "tc": "宏利香港3月推出兩款新分紅儲蓄計劃"
+      },
+      "why": {
+        "sc": "宏利新产品矩阵扩展，为IFA提供更多分红险选择",
+        "tc": "宏利產品矩陣擴展"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解新产品特点，更新产品对比表",
+          "tc": "了解新產品特點"
+        },
+        "midback": {
+          "sc": "收集新产品资料和保费费率",
+          "tc": "收集新產品資料"
+        },
+        "lead": {
+          "sc": "评估新产品在团队产品组合中的定位",
+          "tc": "評估新產品定位"
+        },
+        "cross": {
+          "sc": "新产品是否适合跨境高净值客户",
+          "tc": "評估對跨境客戶的適合性"
+        }
+      },
+      "source": {
+        "sc": "Manulife HK 新闻稿",
+        "tc": "Manulife HK 新聞稿",
+        "lang": "en"
+      },
+      "boards": [
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "宏利",
+          "分红险",
+          "新产品"
+        ],
+        "tc": [
+          "宏利",
+          "分紅險",
+          "新產品"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-03-15T10:00:00+08:00",
+      "originalUrl": "https://www.linkedin.com/posts/manulife-hong-kong-and-macau",
+      "sourceKey": "manulife:new-products-202603"
+    },
+    {
+      "id": "ia-20260211-rbc-consult-launch",
+      "clusterCount": 1,
+      "score": 88,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:30:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "保监局就RBC资本规则修订启动公众咨询",
+        "tc": "保監局就RBC資本規則修訂啟動公眾諮詢"
+      },
+      "summary": {
+        "sc": "保监局2026年2月11日启动《保险业（估值及资本）规则》拟议修订的公众咨询。修订涵盖基建投资优惠资本待遇(下调20-30%)、离岸再保险排除机制、IUL匹配调整、加密资产资本处理等7大领域。咨询期至3月10日。",
+        "tc": "保監局2月11日啟動RBC修訂公眾諮詢，涵蓋7大領域"
+      },
+      "why": {
+        "sc": "RBC首次大修，直接影响所有保司资本结构和产品策略",
+        "tc": "RBC首次大修影響保司資本結構"
+      },
+      "actions": {
+        "front": {
+          "sc": "高保证产品窗口期，主动向客户说明",
+          "tc": "主動向客戶說明窗口期"
+        },
+        "midback": {
+          "sc": "跟踪咨询进展，准备合规影响评估",
+          "tc": "準備合規影響評估"
+        },
+        "lead": {
+          "sc": "评估基建优惠对保司底层资产配置的影响",
+          "tc": "評估基建優惠對保司資產配置影響"
+        },
+        "cross": {
+          "sc": "IUL调整对跨境高净值客户的影响评估",
+          "tc": "IUL調整對跨境高淨值客戶影響"
+        }
+      },
+      "source": {
+        "sc": "IA 保监局新闻稿",
+        "tc": "IA 保監局新聞稿",
+        "lang": "en"
+      },
+      "boards": [
+        "regulatory",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "RBC",
+          "咨询",
+          "资本规则",
+          "基建",
+          "2026"
+        ],
+        "tc": [
+          "RBC",
+          "諮詢",
+          "資本規則",
+          "基建",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-02-11T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260211.html",
+      "sourceKey": "ia:rbc-consult-launch-20260211"
+    },
+    {
+      "id": "circ-20260201-crossborder",
+      "clusterCount": 1,
+      "score": 82,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:30:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "金融监管总局回复跨境保险通提案：与现行《保险法》冲突",
+        "tc": "金融監管總局回覆跨境保險通提案：與現行《保險法》衝突"
+      },
+      "summary": {
+        "sc": "2026年2月1日，金融监管总局回复关于推进'跨境保险通'的提案时表示，该建议与《保险法》关于保险业务须在境内开展的要求存在冲突。港澳的保险监管政策、产品费率等与内地差异较大，现阶段不具备试点条件。",
+        "tc": "金融監管總局2月1日回覆跨境保險通提案，稱暫不具備試點條件"
+      },
+      "why": {
+        "sc": "跨境保险通短期难落地，香港保险销售须严格在港完成",
+        "tc": "跨境保險通短期難落地"
+      },
+      "actions": {
+        "front": {
+          "sc": "所有销售流程必须100%在香港境内完成",
+          "tc": "銷售流程須100%在港完成"
+        },
+        "midback": {
+          "sc": "更新跨境销售合规红线：严禁内地招揽",
+          "tc": "更新跨境銷售合規紅線"
+        },
+        "lead": {
+          "sc": "团队重申跨境销售合规底线",
+          "tc": "團隊重申跨境銷售底線"
+        },
+        "cross": {
+          "sc": "跨境客户：合法签单流程不可跳步",
+          "tc": "跨境客戶簽單不可跳步"
+        }
+      },
+      "source": {
+        "sc": "证券时报/金融监管总局",
+        "tc": "證券時報/金融監管總局",
+        "lang": "zh"
+      },
+      "boards": [
+        "regulatory",
+        "compliance",
+        "cross"
+      ],
+      "tags": {
+        "sc": [
+          "跨境保险通",
+          "金融监管总局",
+          "合规"
+        ],
+        "tc": [
+          "跨境保險通",
+          "金融監管總局",
+          "合規"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-02-01T14:00:00+08:00",
+      "originalUrl": "https://www.stcn.com/article/detail/1228440.html",
+      "sourceKey": "circ:crossborder-20260201"
+    },
+    {
+      "id": "aia-20260424-top-insurer",
+      "clusterCount": 1,
+      "score": 79,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:30:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "AIA连续获评为香港首选保险公司",
+        "tc": "AIA連續獲評為香港首選保險公司"
+      },
+      "summary": {
+        "sc": "AIA香港于2026年再度获评为香港首选保险公司(No.1 Insurer of Choice)，体现了其在品牌、产品和服务方面持续领先的市场地位。[EN原文]",
+        "tc": "AIA香港再度獲評為香港首選保險公司"
+      },
+      "why": {
+        "sc": "品牌排名数据可作为客户沟通中的客观参考",
+        "tc": "品牌排名可作客戶溝通參考"
+      },
+      "actions": {
+        "front": {
+          "sc": "可在客户品牌对比时引用",
+          "tc": "可在品牌對比時引用"
+        },
+        "midback": {
+          "sc": "更新保司品牌档案",
+          "tc": "更新保司品牌檔案"
+        },
+        "lead": {
+          "sc": "AIA的产品与服务策略值得团队学习",
+          "tc": "AIA策略值得學習"
+        },
+        "cross": {
+          "sc": "AIA品牌认知度在跨境客户中较高",
+          "tc": "AIA品牌在跨境客戶中認知度高"
+        }
+      },
+      "source": {
+        "sc": "PRNewswire",
+        "tc": "PRNewswire",
+        "lang": "en"
+      },
+      "boards": [
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "AIA",
+          "品牌",
+          "首选"
+        ],
+        "tc": [
+          "AIA",
+          "品牌",
+          "首選"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-04-24T10:00:00+08:00",
+      "originalUrl": "https://finance.yahoo.com/sectors/healthcare/articles/aia-hong-kong-leads-industry-135200472.html",
+      "sourceKey": "aia:top-insurer-20260424"
+    },
+    {
+      "id": "ia-20260605-hkma-commission",
+      "clusterCount": 1,
+      "score": 86,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:30:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "金管局就银行保险中介佣金分摊发出通函",
+        "tc": "金管局就銀行保險中介佣金分攤發出通函"
+      },
+      "summary": {
+        "sc": "金管局2026年6月5日发出通函，就银行在保险中介角色中的佣金分摊安排提出监管期望。银行须确保分红保单佣金在不少于5年内均匀分摊，首年不超过总额70%。[EN原文]",
+        "tc": "金管局6月5日就銀行保險佣金分攤發出通函"
+      },
+      "why": {
+        "sc": "银保渠道佣金分摊规则与经纪渠道趋同，行业合规标准进一步统一",
+        "tc": "銀保佣金分攤與經紀渠道趨同"
+      },
+      "actions": {
+        "front": {
+          "sc": "银行渠道分红保单签单时提示佣金分摊政策",
+          "tc": "簽單時提示佣金分攤政策"
+        },
+        "midback": {
+          "sc": "更新银保渠道合规清单",
+          "tc": "更新銀保渠道合規清單"
+        },
+        "lead": {
+          "sc": "银保与经纪渠道佣金规则对比分析",
+          "tc": "銀保與經紀佣金規則對比"
+        },
+        "cross": {
+          "sc": "跨境客户的银保产品需满足两地分摊要求",
+          "tc": "跨境銀保產品需滿足兩地要求"
+        }
+      },
+      "source": {
+        "sc": "HKMA 通函",
+        "tc": "HKMA 通函",
+        "lang": "en"
+      },
+      "boards": [
+        "regulatory",
+        "compliance",
+        "channel"
+      ],
+      "tags": {
+        "sc": [
+          "金管局",
+          "佣金分摊",
+          "银保",
+          "通函"
+        ],
+        "tc": [
+          "金管局",
+          "佣金分攤",
+          "銀保",
+          "通函"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-06-05T10:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-insurance-authority-tightens-commission-rules-hkma-raises-pressure",
+      "sourceKey": "hkma:commission-circular-20260605"
+    },
+    {
+      "id": "ia-ai-cohort-202606",
+      "clusterCount": 1,
+      "score": 81,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T12:30:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "保监局AI促进计划再扩容：新增宏利等三家保司",
+        "tc": "保監局AI促進計劃再擴容：新增宏利等三家保司"
+      },
+      "summary": {
+        "sc": "保监局AI促进计划2026年6月新增3家保险公司。宏利香港部署AI涵盖分销、核保、理赔和客户服务全链条，含双语AI助手和数据驱动销售工具。中银人寿签署《人工智能承诺》。",
+        "tc": "保監局AI促進計劃新增宏利等三家保司"
+      },
+      "why": {
+        "sc": "AI在保险业的应用从实验转向生产级部署，行业效率拐点",
+        "tc": "AI在保險業從實驗轉向生產級"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解AI核保对客户投保流程的影响",
+          "tc": "了解AI核保對投保流程影響"
+        },
+        "midback": {
+          "sc": "关注AI在合规监控中的应用",
+          "tc": "關注AI合規應用"
+        },
+        "lead": {
+          "sc": "评估AI工具对团队效率的提升潜力",
+          "tc": "評估AI工具對團隊效率提升"
+        },
+        "cross": {
+          "sc": "跨境业务中AI工具的合规边界",
+          "tc": "跨境業務中AI合規邊界"
+        }
+      },
+      "source": {
+        "sc": "Insurance Business Mag",
+        "tc": "Insurance Business Mag",
+        "lang": "en"
+      },
+      "boards": [
+        "tech",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "AI",
+          "宏利",
+          "中银人寿",
+          "保险科技"
+        ],
+        "tc": [
+          "AI",
+          "宏利",
+          "中銀人壽",
+          "保險科技"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-06-18T12:00:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/insurance-authority-adds-three-insurers-to-ai-cohort-programme-579133.aspx",
+      "sourceKey": "ia:ai-cohort-20260618"
+    },
     {
       "id": "ia-20260508-rbc-conclusion",
       "clusterCount": 1,
