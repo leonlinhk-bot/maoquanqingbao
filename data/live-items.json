@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-07-28T18:00:00+08:00",
-    "itemCount": 137,
+    "generatedAt": "2026-07-28T18:30:00+08:00",
+    "itemCount": 140,
     "windowNote": {
-      "sc": "本库 137 条导读。导读≠原文。",
-      "tc": "本庫 137 條導讀。導讀≠原文。"
+      "sc": "本库140条导读。导读≠原文。",
+      "tc": "本庫140條導讀。導讀≠原文。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -167,6 +167,214 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "aia-2024-annual",
+      "clusterCount": 1,
+      "score": 90,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T18:30:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "AIA 2024年全年业绩：香港VONB+23% 内地客+22% 创纪录",
+        "tc": "AIA 2024年全年業績：香港VONB+23% 內地客+22% 創紀錄"
+      },
+      "summary": {
+        "sc": "友邦2024年全年VONB增长20%至47亿美元创纪录，OPAT每股+12%至66亿美元。香港VONB+23%(本地+24%/内地访客+22%)，代理渠道MCV VONB创2018年以来最高。[EN原文]",
+        "tc": "AIA全年VONB +20%創紀錄"
+      },
+      "why": {
+        "sc": "疫后全面复苏+跨境需求爆发=AIA的黄金年",
+        "tc": "疫後復甦+跨境需求爆發"
+      },
+      "actions": {
+        "front": {
+          "sc": "2024数据=客户问AIA表现时的强力佐证",
+          "tc": "客戶佐證"
+        },
+        "midback": {
+          "sc": "归档2024年度关键数据",
+          "tc": "歸檔關鍵數據"
+        },
+        "lead": {
+          "sc": ""
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "AIA 年报",
+        "tc": "AIA 年報",
+        "lang": "en"
+      },
+      "boards": [
+        "firm",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "AIA",
+          "VONB",
+          "全年",
+          "2024"
+        ],
+        "tc": [
+          "AIA",
+          "VONB",
+          "全年",
+          "2024"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-03-14T09:00:00+08:00",
+      "originalUrl": "https://www.aia.com/en/investor-relations/",
+      "sourceKey": "aia:annual-2024"
+    },
+    {
+      "id": "ctflife-20240723-rebrand",
+      "clusterCount": 1,
+      "score": 87,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": true,
+      "ingestedAt": "2026-07-28T18:30:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "FTLife正式更名为周大福人寿(CTF Life)",
+        "tc": "FTLife正式更名為周大福人壽(CTF Life)"
+      },
+      "summary": {
+        "sc": "FTLife保险2024年7月23日正式更名为周大福人寿保险有限公司(CTF Life)。全新品牌「CTF Life · Circle」同步推出。RBC资本比率升至289%远超监管要求。",
+        "tc": "FTLife 7月23日正式更名為周大福人壽"
+      },
+      "why": {
+        "sc": "周大福品牌进入保险业=市场格局重塑，原九鼎/富通翻篇",
+        "tc": "周大福品牌進入保險業=市場重塑"
+      },
+      "actions": {
+        "front": {
+          "sc": "向客户说明CTF Life背景与周大福品牌实力",
+          "tc": "向客戶說明品牌背景"
+        },
+        "midback": {
+          "sc": "更新保司档案：FTLife变为CTF Life",
+          "tc": "更新保司檔案"
+        },
+        "lead": {
+          "sc": "周大福品牌背书=合作信心提升",
+          "tc": "品牌背書=合作信心"
+        },
+        "cross": {
+          "sc": "周大福品牌在内地客户中认知度优势",
+          "tc": "內地品牌認知度"
+        }
+      },
+      "source": {
+        "sc": "CTF Life/ACN",
+        "tc": "CTF Life/ACN",
+        "lang": "zh"
+      },
+      "boards": [
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "周大福",
+          "CTF",
+          "更名",
+          "品牌",
+          "2024"
+        ],
+        "tc": [
+          "周大福",
+          "CTF",
+          "更名",
+          "品牌",
+          "2024"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2024-07-23T10:00:00+08:00",
+      "originalUrl": "https://www.acnnewswire.com/press-release/english/91884/",
+      "sourceKey": "ctflife:rebrand-20240723"
+    },
+    {
+      "id": "sunlife-2024-fwd-pension",
+      "clusterCount": 1,
+      "score": 82,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": true,
+      "ingestedAt": "2026-07-28T18:30:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "Sun Life永明收购FWD香港养老金业务 强积金+46亿港元",
+        "tc": "Sun Life永明收購FWD香港養老金業務 強積金+46億港元"
+      },
+      "summary": {
+        "sc": "Sun Life 2024年收购FWD香港养老金业务及施罗德退休金业务，合计新增46亿港元强积金规模，巩固其香港第三大强积金服务商地位。[EN原文]",
+        "tc": "永明收購FWD養老金業務"
+      },
+      "why": {
+        "sc": "永明强积金规模跃升=退休市场话语权增强",
+        "tc": "永明強積金規模躍升"
+      },
+      "actions": {
+        "front": {
+          "sc": "在职客户强积金选择增多",
+          "tc": "強積金選擇增多"
+        },
+        "midback": {
+          "sc": "更新永明强积金数据",
+          "tc": "更新強積金數據"
+        },
+        "lead": {
+          "sc": ""
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "Sun Life新闻稿",
+        "tc": "Sun Life新聞稿",
+        "lang": "en"
+      },
+      "boards": [
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "永明",
+          "FWD",
+          "养老金",
+          "收购",
+          "2024"
+        ],
+        "tc": [
+          "永明",
+          "FWD",
+          "養老金",
+          "收購",
+          "2024"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2024-09-10T10:00:00+08:00",
+      "originalUrl": "https://www.prnewswire.com/news-releases/sun-life-financial-to-acquire-pension-business-of-fwd-hong-kong-589039111.html",
+      "sourceKey": "sunlife:fwd-pension-2024"
+    },
     {
       "id": "aia-2025-annual-results",
       "clusterCount": 1,
