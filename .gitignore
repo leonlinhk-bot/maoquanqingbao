@@ -1,4 +1,5 @@
+node_modules
 node_modules/
-assets/thumbs/_manifest.json
+assets/thumbs/
 data/live-items-bak-*.json
 design-v1.css
