@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Agent 接入 · 猫圈儿港险情报站</title>
+<link rel="icon" href="assets/logo-cat-64.jpg" />
+<link rel="stylesheet" href="styles.css" />
+<style>
+/* Agent page overrides */
+body{background:var(--bg);color:var(--text);font-family:var(--font);margin:0;padding:0;line-height:1.55}
+.agent-page{max-width:920px;margin:0 auto;padding:32px 22px 80px}
+
+/* Hero */
+.agent-hero{margin-bottom:40px;padding:32px 0 0}
+.agent-hero h1{font-size:28px;font-weight:700;margin:0 0 8px;letter-spacing:-0.02em}
+.agent-hero .sub{font-size:14px;color:var(--text-muted);margin-bottom:20px}
+.agent-badges{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px}
+.agent-badges span{padding:4px 10px;border-radius:999px;font-size:11px;font-weight:600;border:1px solid}
+.agent-badges .b-status{color:var(--ok);border-color:color-mix(in srgb,var(--ok) 40%,transparent);background:color-mix(in srgb,var(--ok) 10%,transparent)}
+.agent-badges .b-version{color:var(--accent);border-color:color-mix(in srgb,var(--accent) 40%,transparent);background:var(--accent-dim)}
+.agent-badges .b-tag{color:var(--text-dim);border-color:var(--border);background:var(--bg-elev)}
+
+/* Resources row */
+.resources-row{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:14px}
+.res-item{display:inline-flex;align-items:center;gap:6px;padding:8px 14px;border:1px solid var(--border);border-radius:8px;font-size:13px;color:var(--text);text-decoration:none;transition:border-color .15s}
+.res-item:hover{border-color:color-mix(in srgb,var(--accent) 35%,var(--border))}
+.res-item .res-ico{font-size:16px}
+
+/* Migration banner */
+.migration-banner{padding:12px 16px;border:1px solid color-mix(in srgb,var(--warn) 35%,var(--border));border-radius:8px;background:color-mix(in srgb,var(--warn) 8%,transparent);font-size:13px;color:var(--text-muted);margin-bottom:28px}
+.migration-banner strong{color:var(--warn)}
+
+/* Tabs */
+.agent-tabs{display:flex;gap:0;margin-bottom:0}
+.agent-tab{padding:10px 20px;border:1px solid var(--border-soft);border-bottom:0;border-radius:8px 8px 0 0;background:var(--bg-soft);color:var(--text-muted);cursor:pointer;font-size:14px;font-weight:500}
+.agent-tab.active{background:var(--bg-elev);color:var(--accent);font-weight:650;border-color:var(--border)}
+.agent-tab:hover:not(.active){color:var(--text)}
+
+/* Tab panel */
+.agent-panel{border:1px solid var(--border);border-radius:0 8px 8px 8px;background:var(--bg-elev);padding:28px;margin-bottom:32px}
+.agent-panel h3{font-size:18px;margin:0 0 8px;letter-spacing:-0.01em}
+.agent-panel .desc{font-size:13px;color:var(--text-muted);margin:0 0 20px;line-height:1.6}
+
+/* Steps */
+.agent-steps{list-style:none;padding:0;margin:0 0 24px}
+.agent-steps li{display:flex;gap:14px;padding:12px 0;border-bottom:1px solid var(--border-soft)}
+.agent-steps li:last-child{border-bottom:0}
+.agent-steps .step-n{flex:0 0 32px;height:32px;border-radius:8px;display:grid;place-items:center;font-weight:700;font-size:14px;color:var(--accent);background:var(--accent-dim)}
+.agent-steps .step-body strong{display:block;font-size:14px;margin-bottom:4px}
+.agent-steps .step-body p{font-size:13px;color:var(--text-muted);margin:0;line-height:1.55}
+
+/* Code block */
+.code-block{background:rgba(0,0,0,.28);border:1px solid var(--border);border-radius:8px;padding:14px 16px;font-family:var(--mono);font-size:12.5px;color:var(--text-muted);white-space:pre-wrap;overflow:auto;position:relative;margin:12px 0}
+.code-block .copy-btn{position:absolute;top:8px;right:8px;padding:4px 10px;border:1px solid var(--border);border-radius:6px;background:var(--bg-elev);color:var(--text-dim);cursor:pointer;font-size:11px;font-family:var(--font)}
+.code-block .copy-btn:hover{color:var(--text);border-color:var(--text-dim)}
+.code-block .hl{color:var(--accent)}
+
+/* Success state */
+.success-sample{padding:14px 16px;border:1px solid color-mix(in srgb,var(--ok) 30%,var(--border));border-radius:8px;background:color-mix(in srgb,var(--ok) 6%,transparent);font-size:13px;color:var(--text-muted);margin-top:16px}
+.success-sample strong{color:var(--ok)}
+
+/* Expand group */
+.expand{font-size:13px;color:var(--text-dim);cursor:pointer;padding:8px 0}
+.expand:hover{color:var(--text)}
+
+/* API table */
+.api-table{width:100%;border-collapse:collapse;font-size:13px;margin:16px 0}
+.api-table th,.api-table td{padding:8px 12px;text-align:left;border-bottom:1px solid var(--border-soft)}
+.api-table th{color:var(--text-dim);font-weight:600;font-size:11px;letter-spacing:.04em}
+.api-table td{color:var(--text-muted)}
+.api-table td.field{font-family:var(--mono);font-size:12px;color:var(--accent)}
+.cap{color:var(--text-dim);font-size:13px;margin:0}
+
+/* Q&A samples */
+.qa-grid{display:grid;gap:10px;margin:12px 0}
+.qa-item{display:flex;align-items:center;gap:10px;padding:10px 14px;border:1px solid var(--border-soft);border-radius:8px;background:var(--bg-soft);font-size:13px;color:var(--text-muted)}
+.qa-item .qa-ico{font-size:16px;flex-shrink:0}
+.qa-item .qa-q{color:var(--text)}
+
+/* Disclaimer section */
+.agent-disc{border-color:color-mix(in srgb,var(--accent) 30%,var(--border))!important;margin-top:24px}
+.agent-disc ol{margin:8px 0 0 1.1em;padding:0;line-height:1.65;color:var(--text-dim);font-size:13px}
+.agent-disc ol li{margin:6px 0}
+
+/* Back link */
+.back-link{display:inline-flex;align-items:center;gap:6px;color:var(--text-dim);font-size:13px;text-decoration:none;margin-bottom:24px}
+.back-link:hover{color:var(--accent)}
+
+@media(max-width:640px){
+  .agent-page{padding:16px 12px 48px}
+  .agent-hero h1{font-size:22px}
+  .agent-panel{padding:16px}
+}
+</style>
+</head>
+<body>
+<div class="agent-page">
+
+<a class="back-link" href="/">← 返回情报站</a>
+
+<!-- Hero -->
+<section class="agent-hero">
+  <h1>让 Agent 直接使用猫圈儿情报站</h1>
+  <p class="sub">四条路径都是匿名只读、无需 API Key：JSON Feed · RSS · 网页 · llms.txt</p>
+  <div class="agent-badges">
+    <span class="b-status">● 服务正常</span>
+    <span class="b-version">API v1</span>
+    <span class="b-tag">匿名只读</span>
+    <span class="b-tag">171 条</span>
+  </div>
+</section>
+
+<!-- Resources -->
+<div class="resources-row">
+  <a class="res-item" href="llms.txt"><span class="res-ico">📄</span> llms.txt</a>
+  <a class="res-item" href="feed/featured.json"><span class="res-ico">{}</span> featured.json</a>
+  <a class="res-item" href="feed/featured.xml"><span class="res-ico">⊞</span> RSS Feed</a>
+  <a class="res-item" href="api.md"><span class="res-ico">📖</span> 接入文档</a>
+</div>
+
+<!-- Migration -->
+<div class="migration-banner">
+  <strong>数据窗口</strong>：本库截至 2026-07-28 共 171 条导读。每日 18:00 自动更新，feed 同步刷新。
+</div>
+
+<!-- Tabs -->
+<div class="agent-tabs">
+  <button class="agent-tab active" data-tab="skill">Agent Skill</button>
+  <button class="agent-tab" data-tab="json">JSON Feed</button>
+  <button class="agent-tab" data-tab="rss">RSS</button>
+</div>
+
+<!-- Panel: Agent Skill -->
+<div class="agent-panel" id="panel-skill">
+  <h3>装一次，之后直接用中文问</h3>
+  <p class="desc">适合 Claude Code、Codex、Hermes 等支持 Agent Skills 的工具。</p>
+
+  <ol class="agent-steps">
+    <li>
+      <div class="step-n">01</div>
+      <div class="step-body">
+        <strong>审阅并安装</strong>
+        <p>让 Agent 先说明来源和目标目录，再写入。完整包包含<code>SKILL.md</code>、<code>manifest.sha256</code>。</p>
+      </div>
+    </li>
+    <li>
+      <div class="step-n">02</div>
+      <div class="step-body">
+        <strong>开个新会话</strong>
+        <p>多数 Agent 只在会话开始时扫描 Skill。装好后开新窗或重启。</p>
+      </div>
+    </li>
+    <li>
+      <div class="step-n">03</div>
+      <div class="step-body">
+        <strong>问一句验证</strong>
+        <p>看到时间窗、中文摘要和站内链接，就算接上了。</p>
+      </div>
+    </li>
+  </ol>
+
+  <div class="code-block">
+    <button class="copy-btn" onclick="copyCode(this)">复制</button>
+<!-- Skill install prompt -->
+请先检查并安装 猫圈儿港险情报站 Skill：
+https://hkmaoquanqingbao.com/api.md
+
+要求：
+1. 先读取 api.md 了解接口契约；
+2. 告诉我你准备写入的目录和文件清单；
+3. 不使用 sudo，不覆盖其他 Skill；
+4. 安装完成后开新会话，问以下问题验证。
+  </div>
+
+  <div class="code-block">
+    <button class="copy-btn" onclick="copyCode(this)">复制</button>
+过去 24 小时港险监管与产品最重要的 5 件事？
+  </div>
+
+  <div class="success-sample">
+    <strong>成功的样子</strong>　回答注明"过去 24 小时"、给出 5 条中文摘要（当天不足就如实说明），标题链接到情报站阅读页。
+  </div>
+
+  <h4 style="margin-top:28px">装好后能直接这样问</h4>
+  <div class="qa-grid">
+    <div class="qa-item"><span class="qa-ico">◈</span><span class="qa-q">最近一周最值得关注的 5 条港险资讯是什么？</span></div>
+    <div class="qa-item"><span class="qa-ico">◎</span><span class="qa-q">现在港险圈最热的监管事件是什么？</span></div>
+    <div class="qa-item"><span class="qa-ico">◆</span><span class="qa-q">给我今天的港险精选，只看中后台合规视角。</span></div>
+    <div class="qa-item"><span class="qa-ico">⬡</span><span class="qa-q">把当前全部精选同步到本地，以后只接收变化。</span></div>
+  </div>
+  <p class="cap">原生支持过去 24 小时 / 最近 7 天 / 角色过滤 / 首次 snapshot + 增量 changes</p>
+</div>
+
+<!-- Panel: JSON Feed -->
+<div class="agent-panel" id="panel-json" style="display:none">
+  <h3>REST API · 无需注册</h3>
+  <p class="desc">两个端点，返回结构化 JSON。适合 Agent、脚本或前端直接调用。</p>
+
+  <table class="api-table">
+    <tr><th>端点</th><th>说明</th><th>条数</th></tr>
+    <tr>
+      <td style="font-family:var(--mono);font-size:13px"><a href="feed/featured.json" style="color:var(--accent-2)">/feed/featured.json</a></td>
+      <td>精选条目（含摘要、理由、角色动作、原文链接）</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td style="font-family:var(--mono);font-size:13px"><a href="feed/all.json" style="color:var(--accent-2)">/feed/all.json</a></td>
+      <td>全量索引（id、标题、日期、信源、链接）</td>
+      <td>171</td>
+    </tr>
+  </table>
+
+  <h4 style="margin-top:24px">字段速查（featured.json）</h4>
+  <table class="api-table">
+    <tr><th>字段</th><th>类型</th><th>示例</th></tr>
+    <tr><td class="field">id</td><td>string</td><td>ia-q1-2026-stats</td></tr>
+    <tr><td class="field">title</td><td>string</td><td>2026年Q1临时统计：长期业务新造保费...</td></tr>
+    <tr><td class="field">summary</td><td>string</td><td>导读摘要 120-200 字</td></tr>
+    <tr><td class="field">why</td><td>string</td><td>推荐理由</td></tr>
+    <tr><td class="field">sourceTier</td><td>enum</td><td>official / insurer / pro / media</td></tr>
+    <tr><td class="field">themes</td><td>string[]</td><td>reg, product, compliance, offshore...</td></tr>
+    <tr><td class="field">rolesImpact</td><td>object</td><td>{front:3, midback:2, lead:1, cross:0}</td></tr>
+    <tr><td class="field">originalUrl</td><td>string</td><td>权威原文链接</td></tr>
+    <tr><td class="field">canonicalUrl</td><td>string</td><td>本站阅读页</td></tr>
+  </table>
+</div>
+
+<!-- Panel: RSS -->
+<div class="agent-panel" id="panel-rss" style="display:none">
+  <h3>RSS 2.0 · 标准订阅</h3>
+  <p class="desc">兼容所有 RSS 阅读器（Feedly、Inoreader、Slack/RSS 机器人等）。</p>
+
+  <table class="api-table">
+    <tr><th>端点</th><th>格式</th><th>条数</th></tr>
+    <tr>
+      <td style="font-family:var(--mono);font-size:13px"><a href="feed/featured.xml" style="color:var(--accent-2)">/feed/featured.xml</a></td>
+      <td>RSS 2.0 + Atom link</td>
+      <td>20</td>
+    </tr>
+  </table>
+
+  <p class="cap" style="margin-top:16px">订阅地址直接填入 RSS 阅读器即可。推荐刷新频率 ≥30 分钟。收到 429 按 Retry-After 退避。</p>
+</div>
+
+<!-- Disclaimer -->
+<div class="agent-panel agent-disc">
+  <h3>公开可读，不等于可以忽略来源</h3>
+  <ol>
+    <li><strong>重要事实回原文核对</strong> — 摘要和翻译由人工/AI 生成。引用数字、政策或原话前，请使用返回的原文 URL 复核。</li>
+    <li><strong>保留来源和 canonical</strong> — 对外发布请保留返回的 attribution/canonical。</li>
+    <li><strong>按频率合同调用</strong> — API 轮询至少间隔 60 秒，RSS 建议 30 分钟或更慢；收到 429 后按 Retry-After 退避。</li>
+    <li><strong>稳定契约，不承诺 SLA</strong> — v1 不删除、改名或改变既有字段类型；关键链路请自行设置缓存、重试和降级。</li>
+    <li><strong>角色切片仅改变排序与动作卡</strong> — 不改变事实本身。</li>
+  </ol>
+</div>
+
+</div>
+
+<script>
+// Tab switching
+document.querySelectorAll('.agent-tab').forEach(tab => {
+  tab.addEventListener('click', () => {
+    document.querySelectorAll('.agent-tab').forEach(t => t.classList.remove('active'));
+    tab.classList.add('active');
+    const id = tab.dataset.tab;
+    document.getElementById('panel-skill').style.display = id === 'skill' ? '' : 'none';
+    document.getElementById('panel-json').style.display = id === 'json' ? '' : 'none';
+    document.getElementById('panel-rss').style.display = id === 'rss' ? '' : 'none';
+  });
+});
+
+// Copy button
+function copyCode(btn) {
+  const code = btn.parentElement.textContent.replace(/复制\n?/, '').trim();
+  navigator.clipboard.writeText(code).then(() => {
+    btn.textContent = '已复制';
+    btn.style.color = 'var(--ok)';
+    setTimeout(() => { btn.textContent = '复制'; btn.style.color = ''; }, 2000);
+  }).catch(() => alert('复制失败，请手动复制'));
+}
+</script>
+</body>
+</html>

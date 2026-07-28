@@ -14887,7 +14887,7 @@ window.HKII_DATA = {
       foot: "专业参考 · 非销售/投资建议 · 数字请回原文", menu: "菜单",
       roles: [{id:"front",label:"前线IFA"},{id:"midback",label:"中后台合规"},{id:"lead",label:"团队管理"},{id:"cross",label:"跨境架构"}],
       nav: [
-        {id:"pulse",label:"今日脉搏",ico:"◈"},{id:"all",label:"全部动态",ico:"☰"},{id:"daily",label:"角色日报",ico:"▣"},{id:"themes",label:"主题雷达",ico:"◎"},{id:"calendar",label:"监管日历",ico:"◷"},{id:"download",label:"数据下载",ico:"⬇"},{id:"fav",label:"收藏",ico:"☆"},{id:"about",label:"关于",ico:"ⓘ"}
+        {id:"pulse",label:"今日脉搏",ico:"◈"},{id:"all",label:"全部动态",ico:"☰"},{id:"daily",label:"角色日报",ico:"▣"},{id:"themes",label:"主题雷达",ico:"◎"},{id:"calendar",label:"监管日历",ico:"◷"},{id:"download",label:"数据下载",ico:"⬇"},{id:"fav",label:"收藏",ico:"☆"},{id:"agent",label:"Agent 接入",ico:"⌘"},{id:"about",label:"关于",ico:"ⓘ"}
       ],
       sec:{c:"内容",a:"接入",m:"更多"},
       views:{
@@ -14897,7 +14897,7 @@ window.HKII_DATA = {
         themes:{t:"主题雷达",s:"六大业务板块地图 · 战略导航，不是信息流细筛"},
         calendar:{t:"监管日历",s:"生效日与关键窗口"},
         fav:{t:"收藏",s:"保存在本机"},
-        about:{t:"关于",s:"定位、原则与免责"}
+        agent:{t:"Agent 接入",s:"JSON Feed · RSS · llms.txt"},about:{t:"关于",s:"定位、原则与免责"}
       },
       themes:{reg:"监管",product:"产品",channel:"渠道人力",macro:"宏观资产",par:"分红实现率",uw:"核保理赔",compliance:"合规实操",offshore:"跨境离岸",firm:"机构竞争",tech:"科技运营",career:"职业CPD",intl:"国际对标"},
       tier:{official:"一手监管",insurer:"保司官方",pro:"专业解读",media:"媒体"},
@@ -14975,7 +14975,7 @@ window.HKII_DATA = {
       foot: "專業參考 · 非銷售/投資建議 · 數字請回原文", menu: "選單",
       roles: [{id:"front",label:"前線IFA"},{id:"midback",label:"中後台合規"},{id:"lead",label:"團隊管理"},{id:"cross",label:"跨境架構"}],
       nav: [
-        {id:"pulse",label:"今日脈搏",ico:"◈"},{id:"all",label:"全部動態",ico:"☰"},{id:"daily",label:"角色日報",ico:"▣"},{id:"themes",label:"主題雷達",ico:"◎"},{id:"calendar",label:"監管日曆",ico:"◷"},{id:"download",label:"數據下載",ico:"⬇"},{id:"fav",label:"收藏",ico:"☆"},{id:"about",label:"關於",ico:"ⓘ"}
+        {id:"pulse",label:"今日脈搏",ico:"◈"},{id:"all",label:"全部動態",ico:"☰"},{id:"daily",label:"角色日報",ico:"▣"},{id:"themes",label:"主題雷達",ico:"◎"},{id:"calendar",label:"監管日曆",ico:"◷"},{id:"download",label:"數據下載",ico:"⬇"},{id:"fav",label:"收藏",ico:"☆"},{id:"agent",label:"Agent 接入",ico:"⌘"},{id:"about",label:"關於",ico:"ⓘ"}
       ],
       sec:{c:"內容",a:"接入",m:"更多"},
       views:{
@@ -14985,7 +14985,7 @@ window.HKII_DATA = {
         themes:{t:"主題雷達",s:"六大業務板塊地圖 · 戰略導航，不是資訊流細篩"},
         calendar:{t:"監管日曆",s:"生效日與關鍵窗口"},
         fav:{t:"收藏",s:"保存在本機"},
-        about:{t:"關於",s:"定位、原則與免責"}
+        agent:{t:"Agent 接入",s:"JSON Feed · RSS · llms.txt"},about:{t:"關於",s:"定位、原則與免責"}
       },
       themes:{reg:"監管",product:"產品",channel:"渠道人力",macro:"宏觀資產",par:"分紅實現率",uw:"核保理賠",compliance:"合規實操",offshore:"跨境離岸",firm:"機構競爭",tech:"科技運營",career:"職業CPD",intl:"國際對標"},
       tier:{official:"一手監管",insurer:"保司官方",pro:"專業解讀",media:"媒體"},
@@ -15100,11 +15100,11 @@ window.HKII_DATA = {
     const n = t.nav;
     $("#nav").innerHTML = `
       <div class="nav-section">${t.sec.c}</div>
-      ${n.slice(0,7).map(x=>`<button class="nav-item ${state.view===x.id?'active':''}" data-view="${x.id}"><span class="ico">${x.ico}</span>${x.label}</button>`).join("")}
+      ${n.slice(0,8).map(x=>`<button class="nav-item ${state.view===x.id?'active':''}" data-view="${x.id}"><span class="ico">${x.ico}</span>${x.label}</button>`).join("")}
       <div class="nav-section">${t.sec.a}</div>
-      ${n.slice(7,8).map(x=>`<button class="nav-item ${state.view===x.id?'active':''}" data-view="${x.id}"><span class="ico">${x.ico}</span>${x.label}</button>`).join("")}
+      ${n.slice(8,9).map(x=>`<button class="nav-item ${state.view===x.id?'active':''}" data-view="${x.id}"><span class="ico">${x.ico}</span>${x.label}</button>`).join("")}
       <div class="nav-section">${t.sec.m}</div>
-      ${n.slice(8).map(x=>`<button class="nav-item ${state.view===x.id?'active':''}" data-view="${x.id}"><span class="ico">${x.ico}</span>${x.label}</button>`).join("")}`;
+      ${n.slice(9).map(x=>`<button class="nav-item ${state.view===x.id?'active':''}" data-view="${x.id}"><span class="ico">${x.ico}</span>${x.label}</button>`).join("")}`;
     $("#rolePills").innerHTML = t.roles.map(r => `<button type="button" class="pill ${state.role===r.id?'on':''}" data-role="${r.id}">${r.label}</button>`).join("");
   }
 
@@ -15357,6 +15357,7 @@ window.HKII_DATA = {
       }
     }
 
+    else if(state.view==="agent"){ window.location.href="agent.html"; return; }
     else if(state.view==="about"){
       html+=`<div class="panel about-hero">
         <h3>${t.brandName}</h3>
