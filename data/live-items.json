@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-07-28T23:00:00+08:00",
-    "itemCount": 165,
+    "generatedAt": "2026-07-29T00:00:00+08:00",
+    "itemCount": 171,
     "windowNote": {
-      "sc": "本库165条。",
-      "tc": "本庫165條。"
+      "sc": "本库171条。",
+      "tc": "本庫171條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -167,6 +167,423 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "fstb-20260210-fo-3384",
+      "clusterCount": 1,
+      "score": 92,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": false,
+      "ingestedAt": "2026-07-29T00:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "香港家族办公室达3384间 两年增25% 过半财富超5100万美元",
+        "tc": "香港家族辦公室達3384間 兩年增25% 過半財富超5100萬美元"
+      },
+      "summary": {
+        "sc": "财库局2026年2月公布研究：截至2025年底香港单一家族办公室达3384间，较2023年底净增681间(+25%)。过半管理财富超5100万美元。60%计划未来三年增配香港资产。新资本投资者入境计划已收到超3000宗申请，预计带来超900亿港元投资。",
+        "tc": "香港家族辦公室達3384間+25% 60%計劃增配香港"
+      },
+      "why": {
+        "sc": "家族办公室=超高净值客户的聚集地=跨境保险的最大买单方",
+        "tc": "家族辦公室=超高淨值客戶=跨境保險最大買單方"
+      },
+      "actions": {
+        "front": {
+          "sc": "家办客户是分红大额保单的核心客群",
+          "tc": "家辦客戶=大額保單核心客群"
+        },
+        "midback": {
+          "sc": "归档家办市场数据",
+          "tc": "歸檔家辦數據"
+        },
+        "lead": {
+          "sc": "家办市场=团队高净值战略的基石",
+          "tc": "家辦市場=高淨值戰略基石"
+        },
+        "cross": {
+          "sc": "家办跨境资产配置=保险+信托+传承的综合方案",
+          "tc": "保險+信託+傳承綜合方案"
+        }
+      },
+      "source": {
+        "sc": "财库局/Deloitte",
+        "tc": "財庫局/Deloitte",
+        "lang": "zh"
+      },
+      "boards": [
+        "cross",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "家族办公室",
+          "3384",
+          "家办",
+          "2026"
+        ],
+        "tc": [
+          "家族辦公室",
+          "3384",
+          "家辦",
+          "2026"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-02-10T10:00:00+08:00",
+      "originalUrl": "https://www.fstb.gov.hk/en/blog/blog100226.htm",
+      "sourceKey": "fstb:fo-3384-202602"
+    },
+    {
+      "id": "hk-20260612-fo-tax",
+      "clusterCount": 1,
+      "score": 87,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": true,
+      "ingestedAt": "2026-07-29T00:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "港府2026年优化家族办公室税制：扩大免税范围至数字资产",
+        "tc": "港府2026年優化家族辦公室稅制：擴大免稅範圍至數字資產"
+      },
+      "summary": {
+        "sc": "港府2026年6月12日刊宪《2026年税务(修订)条例草案》，优化统一基金豁免制度。扩大合资格投资范围至贵金属、贷款、私募信贷及数字资产。强化经济实质要求，并引入税务申报机制。草案追溯至2025/26课税年度适用。[EN原文]",
+        "tc": "港府優化家辦稅制:擴大至數字資產"
+      },
+      "why": {
+        "sc": "家办税制升级=香港与新加坡竞争的关键一役",
+        "tc": "家辦稅制升級=港新競爭關鍵"
+      },
+      "actions": {
+        "front": {
+          "sc": "家办客户可享0%利得税=税务筹划亮点",
+          "tc": "家辦客戶享0%利得稅"
+        },
+        "midback": {
+          "sc": "更新家办税务档案",
+          "tc": "更新家辦稅務檔案"
+        },
+        "lead": {
+          "sc": "税制优化=家办业务增量的政策基础",
+          "tc": "稅制優化=家辦增量基礎"
+        },
+        "cross": {
+          "sc": "跨境家办:香港税务+内地资产=最优解",
+          "tc": "跨境家辦:香港稅務+內地資產=最優解"
+        }
+      },
+      "source": {
+        "sc": "港府宪报/China Briefing",
+        "tc": "港府憲報/China Briefing",
+        "lang": "en"
+      },
+      "boards": [
+        "cross",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "家族办公室",
+          "税制",
+          "数字资产",
+          "2026"
+        ],
+        "tc": [
+          "家族辦公室",
+          "稅制",
+          "數位資產",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-06-12T10:00:00+08:00",
+      "originalUrl": "https://www.china-briefing.com/news/hong-kong-fund-family-office-tax-reform-ufe-2026/",
+      "sourceKey": "hk:fo-tax-20260612"
+    },
+    {
+      "id": "hk-2026-newcies-3000",
+      "clusterCount": 1,
+      "score": 84,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-29T00:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "新资本投资者入境计划收逾3000宗申请 预计带来900亿投资",
+        "tc": "新資本投資者入境計劃收逾3000宗申請 預計帶來900億投資"
+      },
+      "summary": {
+        "sc": "财库局2026年2月公布：新资本投资者入境计划(New CIES)自推出以来已收到逾3000宗申请，若全部获批将带来超900亿港元投资。计划门槛为3000万港元，允许投资保险相关产品。2025年初放宽资产门槛后申请量加速增长。",
+        "tc": "新CIES收逾3000宗申請 預計900億投資"
+      },
+      "why": {
+        "sc": "CIES=超高净值内地客户获取香港身份的合规路径=保险需求入口",
+        "tc": "CIES=內地超高淨值客戶獲取香港身份路徑"
+      },
+      "actions": {
+        "front": {
+          "sc": "CIES客户可配置保险产品满足投资要求",
+          "tc": "CIES客戶可配置保險"
+        },
+        "midback": {
+          "sc": "更新CIES规则和保险产品适配清单",
+          "tc": "更新CIES適配清單"
+        },
+        "lead": {
+          "sc": "CIES=高净值客户规模化获客渠道",
+          "tc": "CIES=高淨值獲客渠道"
+        },
+        "cross": {
+          "sc": "CIES+保险+家办=跨境财富管理铁三角",
+          "tc": "CIES+保險+家辦=跨境鐵三角"
+        }
+      },
+      "source": {
+        "sc": "财库局",
+        "tc": "財庫局",
+        "lang": "zh"
+      },
+      "boards": [
+        "cross",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "CIES",
+          "投资移民",
+          "3000宗",
+          "900亿"
+        ],
+        "tc": [
+          "CIES",
+          "投資移民",
+          "3000宗",
+          "900億"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-02-10T10:00:00+08:00",
+      "originalUrl": "https://www.fstb.gov.hk/en/blog/blog100226.htm",
+      "sourceKey": "hk:newcies-3000-2026"
+    },
+    {
+      "id": "ia-2025-insurtech-initiatives",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": false,
+      "ingestedAt": "2026-07-29T00:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "保监局2025年InsurTech蓝图：AI对保险业价值9.5-15.4万亿美元",
+        "tc": "保監局2025年InsurTech藍圖：AI對保險業價值9.5-15.4萬億美元"
+      },
+      "summary": {
+        "sc": "保监局2025年3月发布InsurTech举措报告：预测AI对全球保险业贡献9.5-15.4万亿美元，其中核保与定价约4000亿美元、AI客服与个性化约3000亿美元。GenAI在内部流程应用已达14%采用率。[EN原文]",
+        "tc": "保監局:AI對保險業價值9.5-15.4萬億美元"
+      },
+      "why": {
+        "sc": "官方对AI价值的量化=保险科技投资的权威背书",
+        "tc": "官方對AI價值的量化=權威背書"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解AI在核保和客户服务中的应用进展",
+          "tc": "了解AI應用進展"
+        },
+        "midback": {
+          "sc": "关注AI对合规流程的改造",
+          "tc": "關注AI合規改造"
+        },
+        "lead": {
+          "sc": "AI=行业效率的下一个十年核心",
+          "tc": "AI=行業效率核心"
+        },
+        "cross": {
+          "sc": "AI跨境应用=监管沙盒需两地协调",
+          "tc": "AI跨境需兩地協調"
+        }
+      },
+      "source": {
+        "sc": "IA 保监局",
+        "tc": "IA 保監局",
+        "lang": "en"
+      },
+      "boards": [
+        "tech"
+      ],
+      "tags": {
+        "sc": [
+          "InsurTech",
+          "AI",
+          "蓝图",
+          "2025"
+        ],
+        "tc": [
+          "InsurTech",
+          "AI",
+          "藍圖",
+          "2025"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2025-03-26T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/en/aboutus/task_force/activities_meetings/files/IA_presentation_final.pdf",
+      "sourceKey": "ia:insurtech-2025"
+    },
+    {
+      "id": "hkma-ia-2026-genai-sandbox",
+      "clusterCount": 1,
+      "score": 87,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": false,
+      "ingestedAt": "2026-07-29T00:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "香港金融监管联合推出GenAI Sandbox++：用AI监管AI风险",
+        "tc": "香港金融監管聯合推出GenAI Sandbox++：用AI監管AI風險"
+      },
+      "summary": {
+        "sc": "香港保监局、金管局、证监会联合推出GenAI Sandbox++(2026年3月)，在2024年GenAI沙盒基础上扩展至银行、证券、资管全金融领域。聚焦三大场景：风险管理、反欺诈、客户体验。标志AI监管从'安全测试'升级为'生产级监管'。[EN原文]",
+        "tc": "GenAI Sandbox++升級:用AI監管AI"
+      },
+      "why": {
+        "sc": "金融监管联合推出AI沙盒=全行业AI合规框架的雏形",
+        "tc": "金融監管聯合AI沙盒=行業AI合規雛形"
+      },
+      "actions": {
+        "front": {
+          "sc": "关注AI核保/理赔对客户体验的提升",
+          "tc": "關注AI核保/理賠"
+        },
+        "midback": {
+          "sc": "评估AI工具在合规监控中的适用性",
+          "tc": "評估AI合規工具"
+        },
+        "lead": {
+          "sc": "AI沙盒=团队数字化升级的窗口期",
+          "tc": "AI沙盒=數字化窗口期"
+        },
+        "cross": {
+          "sc": "AI跨境监管=未来业务合规的新维度",
+          "tc": "AI跨境監管=新維度"
+        }
+      },
+      "source": {
+        "sc": "IA/HKMA/SFC",
+        "tc": "IA/HKMA/SFC",
+        "lang": "en"
+      },
+      "boards": [
+        "tech",
+        "regulatory"
+      ],
+      "tags": {
+        "sc": [
+          "GenAI",
+          "沙盒",
+          "监管",
+          "2026"
+        ],
+        "tc": [
+          "GenAI",
+          "沙盒",
+          "監管",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-03-15T10:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-finance-regulators-push-ai-police-ai-risks",
+      "sourceKey": "hkma:genai-sandbox-2026"
+    },
+    {
+      "id": "evident-2026-insurance-ai",
+      "clusterCount": 1,
+      "score": 78,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-29T00:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "Evident报告：68%保险AI部署已转向生成式/代理式AI",
+        "tc": "Evident報告：68%保險AI部署已轉向生成式/代理式AI"
+      },
+      "summary": {
+        "sc": "Evident 2025 Q4 Insurance AI Use Case Tracker显示：68%公开披露的保险AI部署已是生成式或代理式AI，其中代理式AI占21%。2026年核心问题是保险AI如何从试点走向规模化生产。[EN原文]",
+        "tc": "68%保險AI已轉向生成式/代理式AI"
+      },
+      "why": {
+        "sc": "AI从辅助工具变成独立执行者=保险工作流的根本变革",
+        "tc": "AI從輔助變執行者=工作流變革"
+      },
+      "actions": {
+        "front": {
+          "sc": "Agentic AI=保险销售流程的重构者",
+          "tc": "Agentic AI=銷售流程重構"
+        },
+        "midback": {
+          "sc": "评估代理式AI对合规流程的影响",
+          "tc": "評估代理式AI影響"
+        },
+        "lead": {
+          "sc": "AI部署速度=团队信息竞争力",
+          "tc": "AI部署=信息競爭力"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "Evident",
+        "tc": "Evident",
+        "lang": "en"
+      },
+      "boards": [
+        "tech"
+      ],
+      "tags": {
+        "sc": [
+          "Agentic AI",
+          "GenAI",
+          "保险科技",
+          "2026"
+        ],
+        "tc": [
+          "Agentic AI",
+          "GenAI",
+          "保險科技",
+          "2026"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-01-15T10:00:00+08:00",
+      "originalUrl": "https://events.newton.media/Agentic-and-Generative-AI-for-Insurance-USA",
+      "sourceKey": "evident:ai-tracker-2026"
+    },
     {
       "id": "empf-2026-fee-reduction",
       "clusterCount": 1,
