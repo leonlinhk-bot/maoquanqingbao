@@ -17625,42 +17625,29 @@ function fmtDay(iso){
         .sort((a,b)=> (b.publishedAt||"").localeCompare(a.publishedAt||"") || (b.score||0)-(a.score||0));
 
       if(state.themeBoard){
-        const b = boards.find(x=>x.id===state.themeBoard) || {id:state.themeBoard,title:{sc:state.themeBoard},icon:"◎",desc:{sc:""}};
+        const b = boards.find(x=>x.id===state.themeBoard) || {id:state.themeBoard,title:{sc:state.themeBoard},desc:{sc:""},subs:[]};
         const its = byBoard(state.themeBoard);
-        html += `<div class="panel board-hero">
+        html += `<div class="taxon-hero">
           <button type="button" class="pill" data-board-back="1">← ${t.boardBack||"返回"}</button>
-          <div class="board-hero-row">
-            <div class="board-hero-ico">${b.icon||"◎"}</div>
-            <div>
-              <h3 style="margin:0 0 6px;font-size:22px">${esc(tx(b.title))}</h3>
-              <p style="margin:0;color:var(--text-muted)">${esc(tx(b.desc))}</p>
-              <p style="margin:8px 0 0;font-size:12px;color:var(--text-dim)">${its.length} ${t.boardCount||"条"}</p>
-            </div>
-          </div>
+          <h3>${esc(tx(b.title))}</h3>
+          <p>${esc(tx(b.desc)||"")}</p>
+          <div class="taxon-subs">${(b.subs||[]).map(s=>`<span class="chip chip-sub">#${s}</span>`).join(" ")}</div>
+          <p style="font-size:12px;color:var(--text-dim);margin-top:8px">${its.length} ${t.boardCount||"条导读"}</p>
         </div>`;
         html += its.length ? feed(its) : `<div class="empty">${t.empty}</div>`;
       } else {
-        html += `<div class="topics-head">
-          <div class="topics-kicker">TOPICS · ${t.boardMap||"主题地图"}</div>
-          <h3 class="topics-title">${meta.t}</h3>
-          <p class="topics-sub">${t.boardHint||""}</p>
+        html += `<div class="taxon-head">
+          <h3>${meta.t}</h3>
+          <p>${meta.s}</p>
+          <p class="taxon-hint">${t.boardHint||""}</p>
         </div>`;
-        html += `<div class="board-grid">` + boards.map(b=>{
-          const its = byBoard(b.id);
-          const top = its.slice(0,3);
-          const headlines = top.map(it=>`<li>${esc(tx(it.title))}</li>`).join("") || `<li class="muted">—</li>`;
-          return `<button type="button" class="board-card" data-board="${b.id}">
-            <div class="board-card-top">
-              <div class="board-ico">${b.icon||"◎"}</div>
-              <div class="board-meta">
-                <div class="board-name">${esc(tx(b.title))}</div>
-                <div class="board-n">${its.length} ${t.boardCount||""}</div>
-              </div>
-            </div>
-            <p class="board-desc">${esc(tx(b.desc))}</p>
-            <div class="board-latest-label">${t.boardLatest||"最新"}</div>
-            <ul class="board-headlines">${headlines}</ul>
-            <div class="board-cta">${t.boardViewAll||"进入板块"} →</div>
+        html += `<div class="taxon-grid">` + boards.map(b=>{
+          const n = byBoard(b.id).length;
+          return `<button type="button" class="taxon-card" data-board="${b.id}">
+            <div class="taxon-name">${esc(tx(b.title))}</div>
+            <div class="taxon-n">${n} 条</div>
+            <p class="taxon-desc">${esc(tx(b.desc)||"")}</p>
+            <div class="taxon-subs">${(b.subs||[]).slice(0,5).map(s=>`<span class="tag">${s}</span>`).join(" ")}</div>
           </button>`;
         }).join("") + `</div>`;
       }
