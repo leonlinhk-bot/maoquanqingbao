@@ -309,3 +309,25 @@ button,input{font:inherit;color:inherit}a{color:inherit;text-decoration:none}.ap
 
 .copyright{font-size:11px;color:var(--text-dim);padding:8px 18px;margin-top:auto;border-top:1px solid var(--border-soft);text-align:center}
 .chip-sm{font-size:11px!important;padding:4px 10px!important}
+
+/* 监管深度卡 */
+.deep-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
+.deep-card{display:block;width:100%;padding:20px;border:1px solid var(--border-soft);border-radius:12px;cursor:pointer;text-align:left;font:inherit;color:inherit;background:var(--bg-elev);transition:border-color .15s}
+.deep-card:hover{border-color:color-mix(in srgb,var(--accent) 45%,var(--border))}
+.deep-card-title{font-size:17px;font-weight:700;margin-bottom:4px;color:var(--accent)}
+.deep-card-sub{font-size:12px;color:var(--text-dim);margin:0 0 10px}
+.deep-card-summary{font-size:13px;color:var(--text-muted);margin:0 0 12px;line-height:1.55}
+.deep-card-meta{display:flex;gap:16px;font-size:12px;color:var(--text-dim)}
+.deep-hero{padding:0 0 20px}
+.deep-hero h3{font-size:22px;margin:14px 0 0}
+.deep-subtitle{font-size:14px;color:var(--accent);margin:4px 0 12px}
+.deep-summary{font-size:14px;color:var(--text-muted);margin:0 0 20px;line-height:1.65}
+.deep-impact{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:10px;margin-bottom:24px}
+.deep-role{padding:14px 16px;border:1px solid var(--border-soft);border-radius:10px;background:var(--bg-soft)}
+.deep-role strong{display:block;font-size:13px;color:var(--accent);margin-bottom:6px}
+.deep-role p{font-size:13px;color:var(--text-muted);margin:0;line-height:1.55}
+.deep-faq details{padding:10px 0;border-bottom:1px solid var(--border-soft)}
+.deep-faq details:last-child{border-bottom:0}
+.deep-faq summary{font-size:14px;font-weight:600;cursor:pointer;color:var(--text)}
+.deep-faq summary:hover{color:var(--accent)}
+.deep-faq p{font-size:13px;color:var(--text-muted);margin:8px 0 0;line-height:1.55;padding-left:8px;border-left:2px solid var(--accent)}

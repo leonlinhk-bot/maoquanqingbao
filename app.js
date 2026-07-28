@@ -17326,7 +17326,351 @@ window.HKII_DATA = {
         }
       }
     ]
-  }
+  },
+  "deepCards": [
+    {
+      "id": "deep-commission-reform",
+      "title": {
+        "sc": "佣金改革三件套",
+        "tc": "佣金改革三件套"
+      },
+      "subtitle": {
+        "sc": "转介费上限 → 首年佣金 70% → 递延 5 年",
+        "tc": "轉介費上限 → 首年佣金 70% → 遞延 5 年"
+      },
+      "summary": {
+        "sc": "2024-2026 年，香港保监局以「三件套」组合拳重塑分红保单佣金结构：第一步限制转介费不超过佣金的 50%，第二步将首年佣金封顶在总额的 70%，第三步强制剩余佣金至少按 5 年递延支付。这是 IFA 收入结构 20 年来最大的结构性变革。",
+        "tc": "2024-2026 年，香港保監局以「三件套」組合拳重塑分紅保單佣金結構：第一步限制轉介費不超過佣金的 50%，第二步將首年佣金封頂在總額的 70%，第三步強制剩餘佣金至少按 5 年遞延支付。這是 IFA 收入結構 20 年來最大的結構性變革。"
+      },
+      "timeline": [
+        {
+          "date": "2024-05-22",
+          "text": {
+            "sc": "保监局发转介费通函，首设 50% 监管基准",
+            "tc": "保監局發轉介費通函，首設 50% 監管基準"
+          },
+          "itemId": "ia-20240522-referral-fee-circular"
+        },
+        {
+          "date": "2025-08",
+          "text": {
+            "sc": "德普律师事务所分析佣金改革法律框架",
+            "tc": "德普律師事務所分析佣金改革法律框架"
+          },
+          "itemId": "dlapiper-202508-commission"
+        },
+        {
+          "date": "2025-09-01",
+          "text": {
+            "sc": "转介费 ≤50% 上限规则正式生效",
+            "tc": "轉介費 ≤50% 上限規則正式生效"
+          },
+          "itemId": "ia-20250901-referral-fee"
+        },
+        {
+          "date": "2026-01-01",
+          "text": {
+            "sc": "首年佣金 ≤70% 生效，剩余佣金至少 5 年递延支付",
+            "tc": "首年佣金 ≤70% 生效，剩餘佣金至少 5 年遞延支付"
+          },
+          "itemId": "ia-commission-20260101"
+        },
+        {
+          "date": "2026-06-05",
+          "text": {
+            "sc": "金管局联合发函规范薪酬制度",
+            "tc": "金管局聯合發函規範薪酬制度"
+          },
+          "itemId": "ia-20260605-hkma-remuneration-circ"
+        },
+        {
+          "date": "2026-06-03",
+          "text": {
+            "sc": "保监局明确经纪转介安排底线",
+            "tc": "保監局明確經紀轉介安排底線"
+          },
+          "itemId": "ia-20260603-broker-referral"
+        }
+      ],
+      "impact": {
+        "front": {
+          "sc": "首年收入天花板已降。正向看：续期复利效应增强；旧单佣金不受影响。关键转型：从「首年爆量」到「长期服务」。",
+          "tc": "首年收入天花板已降。正向看：續期複利效應增強；舊單佣金不受影響。關鍵轉型：從「首年爆量」到「長期服務」。"
+        },
+        "midback": {
+          "sc": "佣金架构调整需要更新合同模板、合规审查流程和支付系统。转介协议全文需重新起草。",
+          "tc": "佣金架構調整需要更新合同模板、合規審查流程和支付系統。轉介協議全文需重新起草。"
+        },
+        "lead": {
+          "sc": "编制和分成模型需要重构。递延 5 年意味着「代理人留存率」从 nice-to-have 变成 survival factor。",
+          "tc": "編制和分成模型需要重構。遞延 5 年意味著「代理人留存率」從 nice-to-have 變成 survival factor。"
+        },
+        "cross": {
+          "sc": "离岸架构的支付合规同步收紧，跨境佣金安排需重新评估",
+          "tc": "離岸架構的支付合規同步收緊，跨境佣金安排需重新評估"
+        }
+      },
+      "faq": [
+        {
+          "q": {
+            "sc": "旧单受影响吗？",
+            "tc": "舊單受影響嗎？"
+          },
+          "a": {
+            "sc": "不受影响。新规仅适用于 2026 年 1 月 1 日之后签署的新保单。但有保险公司已自主提前执行。",
+            "tc": "不受影響。新規僅適用於 2026 年 1 月 1 日之後簽署的新保單。但有保險公司已自主提前執行。"
+          }
+        },
+        {
+          "q": {
+            "sc": "递延的佣金能提前拿吗？",
+            "tc": "遞延的佣金能提前拿嗎？"
+          },
+          "a": {
+            "sc": "不能。剩余 30% 佣金必须分至少 5 年均摊支付。离职不影响已递延部分的归属（视合同条款）。",
+            "tc": "不能。剩餘 30% 佣金必須分至少 5 年均攤支付。離職不影響已遞延部分的歸屬（視合同條款）。"
+          }
+        },
+        {
+          "q": {
+            "sc": "转介费 50% 上限怎么算？",
+            "tc": "轉介費 50% 上限怎麼算？"
+          },
+          "a": {
+            "sc": "以持牌经纪公司从保险公司获得的相关佣金总额为基数。转介人（非持牌）收取的费用不得超过此基数的 50%。",
+            "tc": "以持牌經紀公司從保險公司獲得的相關佣金總額為基數。轉介人（非持牌）收取的費用不得超過此基數的 50%。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "deep-rbc-implementation",
+      "title": {
+        "sc": "RBC 制度全程",
+        "tc": "RBC 制度全程"
+      },
+      "subtitle": {
+        "sc": "风险为本资本制度从咨询到实战",
+        "tc": "風險為本資本制度從諮詢到實戰"
+      },
+      "summary": {
+        "sc": "2024 年 7 月 1 日，香港保险业正式实施风险为本资本制度（RBC）。不到一个月，泰禾人寿因资本问题被接管——RBC 的牙齿第一次亮出来。其后 GL34（分红基金隔离）、RBC 咨询和评估持续深化，标的从「保司会不会倒」升级到「每家公司承受了多少风险」。",
+        "tc": "2024 年 7 月 1 日，香港保險業正式實施風險為本資本制度（RBC）。不到一個月，泰禾人壽因資本問題被接管——RBC 的牙齒第一次亮出來。其後 GL34（分紅基金隔離）、RBC 諮詢和評估持續深化，標的從「保司會不會倒」升級到「每家公司承受了多少風險」。"
+      },
+      "timeline": [
+        {
+          "date": "2024-06-14",
+          "text": {
+            "sc": "GL34 宪报刊登：分红业务须设独立基金",
+            "tc": "GL34 憲報刊登：分紅業務須設獨立基金"
+          },
+          "itemId": "ia-20240614-gl34-segregation"
+        },
+        {
+          "date": "2024-07-01",
+          "text": {
+            "sc": "RBC 风险为本资本制度正式实施",
+            "tc": "RBC 風險為本資本制度正式實施"
+          },
+          "itemId": "ia-20240701-rbc-live"
+        },
+        {
+          "date": "2024-07-26",
+          "text": {
+            "sc": "泰禾人寿被监管接管——香港保险史上首次",
+            "tc": "泰禾人壽被監管接管——香港保險史上首次"
+          },
+          "itemId": "ia-20240726-tahoe-life"
+        },
+        {
+          "date": "2025-08-08",
+          "text": {
+            "sc": "RBC 公开披露框架发布",
+            "tc": "RBC 公開披露框架發布"
+          },
+          "itemId": "ia-20250808-rbc-disclosure"
+        },
+        {
+          "date": "2026-02-11",
+          "text": {
+            "sc": "保监局启动 RBC 规则修订咨询",
+            "tc": "保監局啟動 RBC 規則修訂諮詢"
+          },
+          "itemId": "ia-20260211-rbc-consult"
+        },
+        {
+          "date": "2026-05-08",
+          "text": {
+            "sc": "RBC 咨询结论发布",
+            "tc": "RBC 諮詢結論發布"
+          },
+          "itemId": "ia-20260508-rbc-conclusions"
+        }
+      ],
+      "impact": {
+        "front": {
+          "sc": "保司财务稳健性不再靠「大而不倒」的信誉背书，而是有可量化的资本充足率。选保司时多了一个硬指标。",
+          "tc": "保司財務穩健性不再靠「大而不倒」的信譽背書，而是有可量化的資本充足率。選保司時多了一個硬指標。"
+        },
+        "midback": {
+          "sc": "RBC 下的偿付能力报告是新的合规参考文件，需纳入尽调流程。泰禾事件表明监管会动真格。",
+          "tc": "RBC 下的償付能力報告是新的合規參考文件，需納入盡調流程。泰禾事件表明監管會動真格。"
+        },
+        "lead": {
+          "sc": "客户会开始问「这家公司 RBC 评分多少」。提前准备好答案，而不是临时 Google。",
+          "tc": "客戶會開始問「這家公司 RBC 評分多少」。提前準備好答案，而不是臨時 Google。"
+        },
+        "cross": {}
+      },
+      "faq": [
+        {
+          "q": {
+            "sc": "RBC 是什么？",
+            "tc": "RBC 是什麼？"
+          },
+          "a": {
+            "sc": "风险为本资本制度（Risk-Based Capital），要求保险公司持有的资本金与其承担的风险相匹配。风险越高，要求资本越多。替代原来的「一刀切」偿付准备金模式。",
+            "tc": "風險為本資本制度（Risk-Based Capital），要求保險公司持有的資本金與其承擔的風險相匹配。風險越高，要求資本越多。替代原來的「一刀切」償付準備金模式。"
+          }
+        },
+        {
+          "q": {
+            "sc": "泰禾事件对保单持有人有影响吗？",
+            "tc": "泰禾事件對保單持有人有影響嗎？"
+          },
+          "a": {
+            "sc": "接管经理已接管运营。根据 IA 公告，现有保单继续有效，理赔不受影响。但长期看，泰禾可能被出售或整合。",
+            "tc": "接管經理已接管運營。根據 IA 公告，現有保單繼續有效，理賠不受影響。但長期看，泰禾可能被出售或整合。"
+          }
+        },
+        {
+          "q": {
+            "sc": "哪家公司 RBC 评分最高？",
+            "tc": "哪家公司 RBC 評分最高？"
+          },
+          "a": {
+            "sc": "RBC 评分不公开排名，但公开披露框架（2025.08）要求保司披露关键资本指标。可查看各保司年度报告中的偿付能力章节。",
+            "tc": "RBC 評分不公開排名，但公開披露框架（2025.08）要求保司披露關鍵資本指標。可查看各保司年度報告中的償付能力章節。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "deep-par-transparency",
+      "title": {
+        "sc": "分红透明度升级",
+        "tc": "分紅透明度升級"
+      },
+      "subtitle": {
+        "sc": "GL34 独立基金 → GN16 标准化披露 → 演示利率上限",
+        "tc": "GL34 獨立基金 → GN16 標準化披露 → 演示利率上限"
+      },
+      "summary": {
+        "sc": "分红保单是港险的核心品类。2024-2026 年，监管以三层架构重塑分红透明度：底层用 GL34 要求资金隔离，中层用 GN16 标准化披露实现率，顶层用演示利率上限防止销售误导。三层落地后，不同保司的分红产品第一次站在可比较的平台上。",
+        "tc": "分紅保單是港險的核心品類。2024-2026 年，監管以三層架構重塑分紅透明度：底層用 GL34 要求資金隔離，中層用 GN16 標準化披露實現率，頂層用演示利率上限防止銷售誤導。三層落地後，不同保司的分紅產品第一次站在可比較的平台上。"
+      },
+      "timeline": [
+        {
+          "date": "2024-06-14",
+          "text": {
+            "sc": "GL34：分红业务须设独立基金，资产隔离",
+            "tc": "GL34：分紅業務須設獨立基金，資產隔離"
+          },
+          "itemId": "ia-20240614-gl34-segregation"
+        },
+        {
+          "date": "2024-11-20",
+          "text": {
+            "sc": "GN16 修订咨询：推动分红实现率标准化披露",
+            "tc": "GN16 修訂諮詢：推動分紅實現率標準化披露"
+          },
+          "itemId": "ia-2024-revised-gn16-consult"
+        },
+        {
+          "date": "2025-02-28",
+          "text": {
+            "sc": "分红演示利率上限通函发布（港元 6.0%/非港元 6.5%）",
+            "tc": "分紅演示利率上限通函發布（港元 6.0%/非港元 6.5%）"
+          },
+          "itemId": "ia-20250228-illustration-cap-pn"
+        },
+        {
+          "date": "2025-07-01",
+          "text": {
+            "sc": "分红保单演示利率上限正式生效",
+            "tc": "分紅保單演示利率上限正式生效"
+          },
+          "itemId": "ia-20250701-illustration-cap"
+        },
+        {
+          "date": "2026-03-31",
+          "text": {
+            "sc": "GN16 修订版正式生效",
+            "tc": "GN16 修訂版正式生效"
+          },
+          "itemId": "ia-20260331-gn16-revised"
+        },
+        {
+          "date": "2026-07-10",
+          "text": {
+            "sc": "演示利率上限释义通函发布",
+            "tc": "演示利率上限釋義通函發布"
+          },
+          "itemId": "ia-20260710-illustration-review"
+        }
+      ],
+      "impact": {
+        "front": {
+          "sc": "客户沟通的核心武器升级：从「这家公司分红不错」升级到「这里有一张标准化的行业对比表」。演示上限也帮你挡住了过度承诺的风险。",
+          "tc": "客戶溝通的核心武器升級：從「這家公司分紅不錯」升級到「這裡有一張標準化的行業對比表」。演示上限也幫你擋住了過度承諾的風險。"
+        },
+        "midback": {
+          "sc": "需更新产品对比流程和客户教育物料。GL34 要求影响产品结构和资产管理策略。",
+          "tc": "需更新產品對比流程和客戶教育物料。GL34 要求影響產品結構和資產管理策略。"
+        },
+        "lead": {
+          "sc": "团队培训需要将分红知识体系化——不是背数字，是理解三层架构的逻辑。",
+          "tc": "團隊培訓需要將分紅知識體系化——不是背數字，是理解三層架構的邏輯。"
+        },
+        "cross": {
+          "sc": "分红产品的跨境适配性受演示上限影响，离岸客户场景需重点说明",
+          "tc": "分紅產品的跨境適配性受演示上限影響，離岸客戶場景需重點說明"
+        }
+      },
+      "faq": [
+        {
+          "q": {
+            "sc": "演示利率下调意味着分红会变少吗？",
+            "tc": "演示利率下調意味著分紅會變少嗎？"
+          },
+          "a": {
+            "sc": "不。演示利率是销售时用的「假设投资回报率」，下调只是让演示数字更保守、更真实。实际分红由基金表现决定。下调反而减少了客户因为演示过高而失望的风险。",
+            "tc": "不。演示利率是銷售時用的「假設投資回報率」，下調只是讓演示數字更保守、更真實。實際分紅由基金表現決定。下調反而減少了客戶因為演示過高而失望的風險。"
+          }
+        },
+        {
+          "q": {
+            "sc": "GL34 对我的客户有什么实际影响？",
+            "tc": "GL34 對我的客戶有什麼實際影響？"
+          },
+          "a": {
+            "sc": "GL34 要求保司将分红业务的资产与其他业务隔离。简单说：你的钱不会被动用于补贴其他业务线。安全性提升。",
+            "tc": "GL34 要求保司將分紅業務的資產與其他業務隔離。簡單說：你的錢不會被動用於補貼其他業務線。安全性提升。"
+          }
+        },
+        {
+          "q": {
+            "sc": "怎么比较不同公司的分红表现？",
+            "tc": "怎麼比較不同公司的分紅表現？"
+          },
+          "a": {
+            "sc": "GN16 修订后，所有保司必须用统一格式在官网披露分红实现率。建议查看 5 年以上的实现率趋势而非单一年份。",
+            "tc": "GN16 修訂後，所有保司必須用統一的格式在官網披露分紅實現率。建議查看 5 年以上的實現率趨勢而非單一年份。"
+          }
+        }
+      ]
+    }
+  ]
 };
 (function () {
   const DATA = window.HKII_DATA;
@@ -17336,7 +17680,7 @@ window.HKII_DATA = {
       foot: "专业参考 · 非销售/投资建议 · 数字请回原文", menu: "菜单",
       roles: [{id:"front",label:"前线IFA"},{id:"midback",label:"中后台合规"},{id:"lead",label:"团队管理"},{id:"cross",label:"跨境架构"}],
       nav: [
-        {id:"pulse",label:"今日脉搏",ico:"◈"},{id:"all",label:"全部动态",ico:"☰"},{id:"daily",label:"角色日报",ico:"▣"},{id:"themes",label:"主题雷达",ico:"◎"},{id:"calendar",label:"事件日历",ico:"◷"},{id:"download",label:"数据下载",ico:"⬇"},{id:"fav",label:"收藏",ico:"☆"},{id:"agent",label:"Agent 接入",ico:"⌘"},{id:"changelog",label:"更新日志",ico:"◌"},{id:"about",label:"关于",ico:"ⓘ"}
+        {id:"pulse",label:"今日脉搏",ico:"◈"},{id:"all",label:"全部动态",ico:"☰"},{id:"daily",label:"角色日报",ico:"▣"},{id:"themes",label:"主题雷达",ico:"◎"},{id:"deeps",label:"监管深度",ico:"◆"},{id:"calendar",label:"事件日历",ico:"◷"},{id:"download",label:"数据下载",ico:"⬇"},{id:"fav",label:"收藏",ico:"☆"},{id:"agent",label:"Agent 接入",ico:"⌘"},{id:"changelog",label:"更新日志",ico:"◌"},{id:"about",label:"关于",ico:"ⓘ"}
       ],
       sec:{c:"内容",a:"接入",m:"更多"},
       views:{
@@ -17344,7 +17688,7 @@ window.HKII_DATA = {
         all:{t:"全部动态",s:"全量信息流 · 按信源/文种细筛（≠主题雷达）"},
         daily:{t:"角色日报",s:"固定节奏的专业早报"},download:{t:"数据下载",s:"按日/周/月/年打包导出 Markdown · 原文可溯"},
         themes:{t:"主题雷达",s:"六大业务板块地图 · 战略导航，不是信息流细筛"},
-        calendar:{t:"事件日历",s:"关键事件 · 生效日 · 行业节点"},
+        deeps:{t:"监管深度",s:"重大事件完整画像 · 时间线 · 影响矩阵 · FAQ · 关联条目"},calendar:{t:"事件日历",s:"关键事件 · 生效日 · 行业节点"},
         fav:{t:"收藏",s:"保存在本机"},
         agent:{t:"Agent 接入",s:"JSON Feed · RSS · llms.txt"},changelog:{t:"更新日志",s:"功能与数据变更记录"},about:{t:"关于",s:"定位、原则与免责"}
       },
@@ -17428,7 +17772,7 @@ window.HKII_DATA = {
       foot: "專業參考 · 非銷售/投資建議 · 數字請回原文", menu: "選單",
       roles: [{id:"front",label:"前線IFA"},{id:"midback",label:"中後台合規"},{id:"lead",label:"團隊管理"},{id:"cross",label:"跨境架構"}],
       nav: [
-        {id:"pulse",label:"今日脈搏",ico:"◈"},{id:"all",label:"全部動態",ico:"☰"},{id:"daily",label:"角色日報",ico:"▣"},{id:"themes",label:"主題雷達",ico:"◎"},{id:"calendar",label:"事件日曆",ico:"◷"},{id:"download",label:"數據下載",ico:"⬇"},{id:"fav",label:"收藏",ico:"☆"},{id:"agent",label:"Agent 接入",ico:"⌘"},{id:"changelog",label:"更新日誌",ico:"◌"},{id:"about",label:"關於",ico:"ⓘ"}
+        {id:"pulse",label:"今日脈搏",ico:"◈"},{id:"all",label:"全部動態",ico:"☰"},{id:"daily",label:"角色日報",ico:"▣"},{id:"themes",label:"主題雷達",ico:"◎"},{id:"deeps",label:"監管深度",ico:"◆"},{id:"calendar",label:"事件日曆",ico:"◷"},{id:"download",label:"數據下載",ico:"⬇"},{id:"fav",label:"收藏",ico:"☆"},{id:"agent",label:"Agent 接入",ico:"⌘"},{id:"changelog",label:"更新日誌",ico:"◌"},{id:"about",label:"關於",ico:"ⓘ"}
       ],
       sec:{c:"內容",a:"接入",m:"更多"},
       views:{
@@ -17436,7 +17780,7 @@ window.HKII_DATA = {
         all:{t:"全部動態",s:"全量資訊流 · 按信源/文種細篩（≠主題雷達）"},
         daily:{t:"角色日報",s:"固定節奏的專業早報"},download:{t:"數據下載",s:"按日/週/月/年打包導出 Markdown · 原文可溯"},
         themes:{t:"主題雷達",s:"六大業務板塊地圖 · 戰略導航，不是資訊流細篩"},
-        calendar:{t:"事件日曆",s:"關鍵事件 · 生效日 · 行業節點"},
+        deeps:{t:"監管深度",s:"重大事件完整畫像 · 時間線 · 影響矩陣 · FAQ · 關聯條目"},calendar:{t:"事件日曆",s:"關鍵事件 · 生效日 · 行業節點"},
         fav:{t:"收藏",s:"保存在本機"},
         agent:{t:"Agent 接入",s:"JSON Feed · RSS · llms.txt"},changelog:{t:"更新日誌",s:"功能與數據變更記錄"},about:{t:"關於",s:"定位、原則與免責"}
       },
@@ -17761,7 +18105,49 @@ function fmtDay(iso){
         const items=(sec.itemIds||[]).map(byId).filter(Boolean).filter(matches);
         html+=`<div class="day-head"><h3>${esc(tx(sec.title))}</h3><span>${items.length} ${t.dayUnit}</span></div>${items.map(card).join("")||`<div class="empty">${t.empty}</div>`}`;
       });
-    } else if(state.view==="themes"){
+    } else if(state.view==="deeps"){
+      const cards = DATA.deepCards || [];
+      if(state.themeBoard){
+        const dc = cards.find(x=>x.id===state.themeBoard);
+        if(!dc){ html+=`<div class="empty">未找到深度卡</div>`; }
+        else {
+          const items = (dc.timeline||[]).map(t=>byId(t.itemId)).filter(Boolean);
+          html+=`<div class="deep-hero">
+            <button type="button" class="pill" data-board-back="1">← 返回</button>
+            <h3>${esc(tx(dc.title))}</h3>
+            <p class="deep-subtitle">${esc(tx(dc.subtitle))}</p>
+            <p class="deep-summary">${esc(tx(dc.summary))}</p>
+            <div class="deep-impact">
+              ${['front','midback','lead','cross'].map(r=>{
+                const label=((t.roles||[]).find(x=>x.id===r)||{}).label||r;
+                const txt=tx((dc.impact||{})[r]);
+                if(!txt) return '';
+                return `<div class="deep-role"><strong>${label}</strong><p>${esc(txt)}</p></div>`;
+              }).join('')}
+            </div>
+            <h4>FAQ</h4>
+            <div class="deep-faq">${(dc.faq||[]).map(f=>`<details><summary>${esc(tx(f.q))}</summary><p>${esc(tx(f.a))}</p></details>`).join('')}</div>
+          </div>`;
+          html+=`<div class="day-head"><h3>关联条目</h3><span>${items.length} 条</span></div>`;
+          html+=items.length ? feed(items) : `<div class="empty">暂无</div>`;
+        }
+      } else {
+        html+=`<div class="taxon-head">
+          <h3 style="font-size:20px">监管深度</h3>
+          <p>重大监管事件的完整画像：时间线、影响矩阵、FAQ、关联条目</p>
+        </div>`;
+        html+=`<div class="deep-grid">`+cards.map(dc=>{
+          const count=(dc.timeline||[]).filter(t=>byId(t.itemId)).length;
+          return `<button type="button" class="deep-card" data-board="${dc.id}">
+            <div class="deep-card-title">${esc(tx(dc.title))}</div>
+            <p class="deep-card-sub">${esc(tx(dc.subtitle))}</p>
+            <p class="deep-card-summary">${esc(tx(dc.summary)).slice(0,120)}</p>
+            <div class="deep-card-meta"><span>${count} 条关联</span><span>${(dc.faq||[]).length} 条 FAQ</span></div>
+          </button>`;
+        }).join("")+`</div>`;
+      }
+    }
+    else if(state.view==="themes"){
       const boards = DATA.boards || [];
       const byBoard = (bid) => DATA.items.filter(it => (it.boards||[]).includes(bid)).filter(matches)
         .sort((a,b)=> (b.publishedAt||"").localeCompare(a.publishedAt||"") || (b.score||0)-(a.score||0));
