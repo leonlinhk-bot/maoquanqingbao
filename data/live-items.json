@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-07-28T17:30:00+08:00",
-    "itemCount": 128,
+    "generatedAt": "2026-07-28T18:00:00+08:00",
+    "itemCount": 137,
     "windowNote": {
-      "sc": "本库 128 条导读。导读≠原文。",
-      "tc": "本庫 128 條導讀。導讀≠原文。"
+      "sc": "本库 137 条导读。导读≠原文。",
+      "tc": "本庫 137 條導讀。導讀≠原文。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -167,6 +167,623 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "aia-2025-annual-results",
+      "clusterCount": 1,
+      "score": 88,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T18:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "AIA 2025年全年业绩创新高：香港VONB+28% 每股股息+10%",
+        "tc": "AIA 2025年全年業績創新高：香港VONB+28% 每股股息+10%"
+      },
+      "summary": {
+        "sc": "友邦保险2025年全年业绩创新高，香港业务VONB增长28%，全年每股股息增加10%。同步宣布新一轮17亿美元股份回购。Q1 VONB达15亿美元同比+13%。[EN原文]",
+        "tc": "AIA全年VONB創新高，香港+28%"
+      },
+      "why": {
+        "sc": "AIA香港业绩持续领跑=市场信心的最直接量化指标",
+        "tc": "AIA業績=市場信心量化指標"
+      },
+      "actions": {
+        "front": {
+          "sc": "客户问AIA业绩时可直接引用",
+          "tc": "客戶問業績時引用"
+        },
+        "midback": {
+          "sc": "更新AIA年度KPI档案",
+          "tc": "更新KPI檔案"
+        },
+        "lead": {
+          "sc": "AIA业绩趋势=团队产品策略参考",
+          "tc": "團隊策略參考"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "AIA 业绩公告",
+        "tc": "AIA 業績公告",
+        "lang": "en"
+      },
+      "boards": [
+        "firm",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "AIA",
+          "VONB",
+          "全年业绩",
+          "2025"
+        ],
+        "tc": [
+          "AIA",
+          "VONB",
+          "全年業績",
+          "2025"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-03-19T09:00:00+08:00",
+      "originalUrl": "https://www.aia.com/zh-hk/media-centre/press-releases/2026/aia-group-press-release-20260319",
+      "sourceKey": "aia:annual-2025"
+    },
+    {
+      "id": "aia-20250708-global-prosper",
+      "clusterCount": 1,
+      "score": 80,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T18:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "AIA推出「环宇盈活储蓄保险计划」",
+        "tc": "AIA推出「環宇盈活儲蓄保險計劃」"
+      },
+      "summary": {
+        "sc": "AIA 2025年7月8日推出「环宇盈活储蓄保险计划」，为高净值客户提供跨货币、跨市场的灵活财富配置方案。",
+        "tc": "AIA 7月8日推出高净值環球儲蓄計劃"
+      },
+      "why": {
+        "sc": "AIA在高净值市场的产品布局持续深化",
+        "tc": "AIA高净值產品佈局"
+      },
+      "actions": {
+        "front": {
+          "sc": "加入产品对比表",
+          "tc": "加入產品對比"
+        },
+        "midback": {
+          "sc": "收集产品费率",
+          "tc": "收集產品資料"
+        },
+        "lead": {
+          "sc": ""
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "AIA 新闻稿",
+        "tc": "AIA 新聞稿",
+        "lang": "zh"
+      },
+      "boards": [
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "AIA",
+          "储蓄",
+          "高净值",
+          "2025"
+        ],
+        "tc": [
+          "AIA",
+          "儲蓄",
+          "高淨值",
+          "2025"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-07-08T10:00:00+08:00",
+      "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2025/aia-press-release-20250708",
+      "sourceKey": "aia:global-prosper-20250708"
+    },
+    {
+      "id": "aia-20251121-aisan",
+      "clusterCount": 1,
+      "score": 78,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T18:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "AIA推出全新「爱伴航」危疾保障系列产品",
+        "tc": "AIA推出全新「愛伴航」危疾保障系列產品"
+      },
+      "summary": {
+        "sc": "AIA 2025年11月21日推出全新「爱伴航」危疾保障系列，以多项市场首创方案照顾客户不同人生阶段健康需求。",
+        "tc": "AIA 11月推出愛伴航危疾系列"
+      },
+      "why": {
+        "sc": "AIA危疾产品线重大更新=保障型产品策略加强",
+        "tc": "AIA危疾產品重大更新"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解新产品保障范围",
+          "tc": "了解保障範圍"
+        },
+        "midback": {
+          "sc": "更新危疾产品对比",
+          "tc": "更新危疾產品對比"
+        },
+        "lead": {
+          "sc": ""
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "AIA 新闻稿",
+        "tc": "AIA 新聞稿",
+        "lang": "zh"
+      },
+      "boards": [
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "AIA",
+          "危疾",
+          "爱伴航",
+          "2025"
+        ],
+        "tc": [
+          "AIA",
+          "危疾",
+          "愛伴航",
+          "2025"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-11-21T10:00:00+08:00",
+      "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2025/aia-press-release-20251121",
+      "sourceKey": "aia:aisan-20251121"
+    },
+    {
+      "id": "manulife-20250428-ci",
+      "clusterCount": 1,
+      "score": 82,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T18:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "宏利推出两款全新危疾计划：宏健守护+宏伴护航危疾入息保障",
+        "tc": "宏利推出兩款全新危疾計劃：宏健守護+宏伴護航危疾入息保障"
+      },
+      "summary": {
+        "sc": "宏利香港2025年4月28日推出「宏健守护危疾入息保障」及「宏伴护航危疾入息保障」两款全新危疾保险计划，以行业领先的年度危疾赔偿帮助客户应对长期治疗收入损失。",
+        "tc": "宏利4月28日推出兩款全新危疾計劃"
+      },
+      "why": {
+        "sc": "宏利危疾线的创新：年度赔偿而非一次性赔款=差异化",
+        "tc": "宏利危疾創新=年度賠償"
+      },
+      "actions": {
+        "front": {
+          "sc": "危疾客户的新选择",
+          "tc": "危疾客戶新選擇"
+        },
+        "midback": {
+          "sc": "更新危疾产品对比",
+          "tc": "更新危疾產品對比"
+        },
+        "lead": {
+          "sc": ""
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "宏利新闻稿",
+        "tc": "宏利新聞稿",
+        "lang": "zh"
+      },
+      "boards": [
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "宏利",
+          "危疾",
+          "入息保障",
+          "2025"
+        ],
+        "tc": [
+          "宏利",
+          "危疾",
+          "入息保障",
+          "2025"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-04-28T10:00:00+08:00",
+      "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html",
+      "sourceKey": "manulife:ci-20250428"
+    },
+    {
+      "id": "manulife-20250902-hospitals",
+      "clusterCount": 1,
+      "score": 76,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T18:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "宏利医疗网络扩展至内地38000+间医院",
+        "tc": "宏利醫療網絡擴展至內地38000+間醫院"
+      },
+      "summary": {
+        "sc": "宏利香港2025年9月2日将内地医院覆盖扩大至超过38000间公立及私立医院，客户可根据个人需要在内地任何医院接受医疗服务。",
+        "tc": "宏利9月2日擴展內地醫療網絡至38000+間"
+      },
+      "why": {
+        "sc": "医疗网络覆盖=跨境客户选择宏利的重要考量",
+        "tc": "醫療網絡=跨境客戶考量"
+      },
+      "actions": {
+        "front": {
+          "sc": "内地有就医需求的客户优选项",
+          "tc": "內地就醫客戶優選"
+        },
+        "midback": {
+          "sc": "更新保司医疗网络对比",
+          "tc": "更新醫療網絡對比"
+        },
+        "lead": {
+          "sc": ""
+        },
+        "cross": {
+          "sc": "跨境客户医疗覆盖优势突出",
+          "tc": "跨境醫療覆蓋優勢"
+        }
+      },
+      "source": {
+        "sc": "宏利新闻稿",
+        "tc": "宏利新聞稿",
+        "lang": "zh"
+      },
+      "boards": [
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "宏利",
+          "医疗网络",
+          "内地",
+          "2025"
+        ],
+        "tc": [
+          "宏利",
+          "醫療網絡",
+          "內地",
+          "2025"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-09-02T10:00:00+08:00",
+      "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html",
+      "sourceKey": "manulife:hospitals-20250902"
+    },
+    {
+      "id": "axa-20250110-shengli",
+      "clusterCount": 1,
+      "score": 79,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T18:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "AXA安盛推出全新「盛利储蓄计划」",
+        "tc": "AXA安盛推出全新「盛利儲蓄計劃」"
+      },
+      "summary": {
+        "sc": "AXA安盛2025年1月10日推出全新「盛利储蓄计划」，为后续「盛利II」系列（2025年10月发布）奠定基础。",
+        "tc": "AXA 1月推出盛利儲蓄計劃"
+      },
+      "why": {
+        "sc": "AXA储蓄产品线年度更新起点",
+        "tc": "AXA儲蓄產品年度更新"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解产品线更新",
+          "tc": "了解產品更新"
+        },
+        "midback": {
+          "sc": "更新AXA产品库",
+          "tc": "更新產品庫"
+        },
+        "lead": {
+          "sc": ""
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "AXA 新闻稿",
+        "tc": "AXA 新聞稿",
+        "lang": "zh"
+      },
+      "boards": [
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "AXA",
+          "盛利",
+          "储蓄",
+          "2025"
+        ],
+        "tc": [
+          "AXA",
+          "盛利",
+          "儲蓄",
+          "2025"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-01-10T10:00:00+08:00",
+      "originalUrl": "https://www.axa.com.hk/zh/news-room/2025",
+      "sourceKey": "axa:shengli-20250110"
+    },
+    {
+      "id": "axa-20250409-gba-med",
+      "clusterCount": 1,
+      "score": 81,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T18:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "AXA安盛全面升级大湾区跨境医疗专属服务网络",
+        "tc": "AXA安盛全面升級大灣區跨境醫療專屬服務網絡"
+      },
+      "summary": {
+        "sc": "AXA安盛2025年4月9日全面升级粤港澳大湾区跨境医疗专属服务网络，强化跨境医疗保障能力。",
+        "tc": "AXA 4月升級大灣區跨境醫療網絡"
+      },
+      "why": {
+        "sc": "跨境医疗=粤港澳客户选择保司的关键差异化因素",
+        "tc": "跨境醫療=關鍵差異化"
+      },
+      "actions": {
+        "front": {
+          "sc": "大湾区客户医疗覆盖优选项",
+          "tc": "大灣區客戶優選"
+        },
+        "midback": {
+          "sc": "更新跨境医疗网络对比",
+          "tc": "更新跨境醫療對比"
+        },
+        "lead": {
+          "sc": ""
+        },
+        "cross": {
+          "sc": "大湾区客户核心卖点",
+          "tc": "大灣區客戶核心賣點"
+        }
+      },
+      "source": {
+        "sc": "AXA 新闻稿",
+        "tc": "AXA 新聞稿",
+        "lang": "zh"
+      },
+      "boards": [
+        "product",
+        "firm",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "AXA",
+          "大湾区",
+          "跨境医疗",
+          "2025"
+        ],
+        "tc": [
+          "AXA",
+          "大灣區",
+          "跨境醫療",
+          "2025"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-04-09T10:00:00+08:00",
+      "originalUrl": "https://www.axa.com.hk/zh/news-room/2025",
+      "sourceKey": "axa:gba-med-20250409"
+    },
+    {
+      "id": "sunlife-2025-ape-118",
+      "clusterCount": 1,
+      "score": 83,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T18:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "Sun Life永明2025年APE突破118亿港元创新高",
+        "tc": "Sun Life永明2025年APE突破118億港元創新高"
+      },
+      "summary": {
+        "sc": "Sun Life永明2025全年新造业务年度化标准保费(APE)达118亿港元，创历史新高。凭借多元化分销渠道策略在银保、经纪、代理三线同步增长。",
+        "tc": "永明APE突破118億港元創歷史新高"
+      },
+      "why": {
+        "sc": "永明进入百亿俱乐部=市场地位质变",
+        "tc": "永明進入百億俱樂部"
+      },
+      "actions": {
+        "front": {
+          "sc": "永明业绩=客户品牌信心加分",
+          "tc": "品牌信心加分"
+        },
+        "midback": {
+          "sc": "更新永明KPI档案",
+          "tc": "更新KPI檔案"
+        },
+        "lead": {
+          "sc": "永明市场地位跃升对团队策略的影响",
+          "tc": "永明市場地位躍升"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "永明/保监局统计",
+        "tc": "永明/保監局統計",
+        "lang": "zh"
+      },
+      "boards": [
+        "firm",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "永明",
+          "APE",
+          "118亿",
+          "2025"
+        ],
+        "tc": [
+          "永明",
+          "APE",
+          "118億",
+          "2025"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-02-15T10:00:00+08:00",
+      "originalUrl": "https://hk.finance.yahoo.com/news/sun-life永明2025全年新造業務年度化標準保費達118億港元-104538638.html",
+      "sourceKey": "sunlife:ape-2025"
+    },
+    {
+      "id": "sunlife-2025-enhanced-savings",
+      "clusterCount": 1,
+      "score": 77,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T18:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "Sun Life永明推出升级版储蓄保险计划系列（永越多元货币II）",
+        "tc": "Sun Life永明推出升級版儲蓄保險計劃系列（永越多元貨幣II）"
+      },
+      "summary": {
+        "sc": "Sun Life永明2025年推出升级版储蓄保险计划系列，包括永越多元货币计划II。延长保障至终身，提供学术成就奖赏等差异化功能。",
+        "tc": "永明推出永越多元貨幣II儲蓄計劃"
+      },
+      "why": {
+        "sc": "永明储蓄产品线重大升级=市场份额扩张基础",
+        "tc": "永明儲蓄產品重大升級"
+      },
+      "actions": {
+        "front": {
+          "sc": "加入产品对比表",
+          "tc": "加入產品對比"
+        },
+        "midback": {
+          "sc": "更新产品库",
+          "tc": "更新產品庫"
+        },
+        "lead": {
+          "sc": ""
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "永明新闻稿",
+        "tc": "永明新聞稿",
+        "lang": "zh"
+      },
+      "boards": [
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "永明",
+          "永越",
+          "多元货币",
+          "2025"
+        ],
+        "tc": [
+          "永明",
+          "永越",
+          "多元貨幣",
+          "2025"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-06-15T10:00:00+08:00",
+      "originalUrl": "https://www.sunlife.com.hk/zh-hant/about-us/newsroom/news-releases/2025/sun-life-unveils-suite-of-enhanced-savings-insurance-plans/",
+      "sourceKey": "sunlife:enhanced-savings-2025"
+    },
     {
       "id": "chubb-20260601-mylegacy",
       "clusterCount": 1,
