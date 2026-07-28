@@ -1,4 +1,3 @@
-
 :root{--bg:#0a0e14;--bg-elev:#111822;--bg-soft:#161d28;--border:#243041;--border-soft:#1a2332;--text:#e8edf5;--text-muted:#8b97a8;--text-dim:#5c6b7e;--accent:#e8a54b;--accent-dim:rgba(232,165,75,.14);--accent-2:#6cb6ff;--ok:#3ecf8e;--warn:#e6a23c;--official:#e8a54b;--insurer:#6cb6ff;--pro:#9ece6a;--media:#7a8699;--sidebar-w:248px;--radius:10px;--font:"SF Pro Text","PingFang SC","Noto Sans SC","Microsoft YaHei",sans-serif;--mono:ui-monospace,Menlo,monospace;--shadow:0 8px 30px rgba(0,0,0,.35)}
 [data-theme="light"]{--bg:#f6f3ee;--bg-elev:#fffdf9;--bg-soft:#f0ebe3;--border:#e2d6c6;--border-soft:#ebe3d8;--text:#1c140c;--text-muted:#6a5a48;--text-dim:#9a8770;--accent:#d4892a;--accent-dim:rgba(212,137,42,.14);--shadow:0 8px 24px rgba(40,24,8,.08)}
 *{box-sizing:border-box}html,body{height:100%}body{margin:0;font-family:var(--font);background:var(--bg);color:var(--text);line-height:1.55;-webkit-font-smoothing:antialiased}
@@ -221,3 +220,107 @@ button,input{font:inherit;color:inherit}a{color:inherit;text-decoration:none}.ap
 .email-input{flex:1;padding:6px 10px;border:1px solid var(--border);border-radius:8px;font-size:13px;background:var(--bg-card);color:var(--text)}
 .email-input::placeholder{color:var(--text-dim)}
 .lock-note{font-size:12px;color:var(--text-muted);padding:4px 0}
+
+/* === 设计微调 v1 — Linear/Vercel/Stripe 启发 === */
+
+/* 卡片 hover：琥珀金微光边框（Stripe 的 branded border + Linear 表面提亮） */
+.card:hover {
+  background: var(--bg-elev);
+  border-color: color-mix(in srgb, var(--accent) 28%, var(--border));
+  box-shadow: 0 0 0 1px color-mix(in srgb, var(--accent) 12%, transparent);
+}
+.card.selected {
+  background: var(--bg-elev);
+  border-color: color-mix(in srgb, var(--accent) 50%, var(--border));
+  box-shadow: 0 0 0 1px color-mix(in srgb, var(--accent) 18%, transparent);
+}
+
+/* 标题收紧字距（Linear 风格：显示字号微负 tracking） */
+.page-title h2 {
+  letter-spacing: -0.025em;
+}
+.card-title {
+  letter-spacing: -0.01em;
+}
+.day-head h3 {
+  letter-spacing: -0.015em;
+}
+
+/* 卡片说明文本略暗一点，增加层次（Vercel: 二级文本明度差） */
+.card-sum {
+  color: var(--text-dim);
+}
+
+/* 热点区：金色微边框 + 微高表面 */
+.hot {
+  border-color: color-mix(in srgb, var(--accent) 22%, var(--border-soft));
+  box-shadow: 0 2px 12px rgba(0,0,0,.18);
+}
+
+/* 面板：更明显的边框 + 微内光（Stripe 的 layered shadow 替代方案） */
+.panel {
+  border-color: color-mix(in srgb, var(--accent) 8%, var(--border-soft));
+}
+
+/* 芯片 hover 态更柔和 */
+.chip:hover {
+  border-color: var(--text-dim);
+  background: var(--bg-soft);
+}
+
+/* Action box 加微弱 accent 左边线 */
+.action-box {
+  border-left: 3px solid color-mix(in srgb, var(--accent) 35%, transparent);
+  padding-left: 10px;
+}
+
+/* 代码块改为更深底 + 金色关键字暗示 */
+.code {
+  background: rgba(0,0,0,.25);
+  border-color: var(--border);
+  color: var(--text-muted);
+}
+
+/* 数据下载行间距更紧凑 */
+.arch-row {
+  padding: 12px 14px;
+  border: 1px solid var(--border-soft);
+  border-radius: 8px;
+  margin-bottom: 6px;
+  cursor: pointer;
+  background: var(--bg-elev);
+  display: grid;
+  grid-template-columns: 120px 1fr 48px;
+  gap: 10px;
+  align-items: center;
+}
+.arch-row:hover {
+  border-color: color-mix(in srgb, var(--accent) 30%, var(--border));
+  background: var(--bg-soft);
+}
+.arch-date {
+  font-size: 13px;
+  font-weight: 650;
+  color: var(--accent);
+}
+.arch-lead {
+  font-size: 13px;
+  color: var(--text);
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.arch-count {
+  font-size: 13px;
+  color: var(--text-dim);
+  text-align: right;
+}
+
+/* 关于页二维码区更居中 */
+.about-qr {
+  text-align: center;
+  padding: 20px 0;
+}
+.about-qr img {
+  box-shadow: 0 4px 24px rgba(0,0,0,.25);
+}
