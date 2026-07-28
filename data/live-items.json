@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-07-29T01:38:37+08:00",
-    "itemCount": 182,
+    "generatedAt": "2026-07-29T01:42:21+08:00",
+    "itemCount": 188,
     "windowNote": {
-      "sc": "本库182条。",
-      "tc": "本庫182條。"
+      "sc": "本库188条。",
+      "tc": "本庫188條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -12523,6 +12523,208 @@
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20251205.html"
     },
     {
+      "id": "ia-2024-re-domiciliation",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "pending",
+      "sourceTier": "official",
+      "sourceKey": "保监局 IA",
+      "title": {
+        "sc": "香港引入保险公司迁册（Re-domiciliation）制度",
+        "tc": "香港引入保險公司遷冊（Re-domiciliation）制度"
+      },
+      "summary": {
+        "sc": "香港正式实施保险公司迁册制度，允许在海外注册的保险公司将其注册地迁移至香港。此举旨在吸引更多国际保险公司将区域总部设在香港，巩固香港国际保险枢纽地位。",
+        "tc": "香港正式實施保險公司遷冊制度，允許在海外註冊的保險公司將其註冊地遷移至香港。此舉旨在吸引更多國際保險公司將區域總部設在香港，鞏固香港國際保險樞紐地位。"
+      },
+      "why": {
+        "sc": "迁册制度是香港与百慕达/新加坡竞争保险注册地的关键政策工具。对从业者来说，更多保司选择香港为注册地=更直接的监管访问=更透明的信息披露。",
+        "tc": "遷冊制度是香港與百慕達/新加坡競爭保險註冊地的關鍵政策工具。對從業者來說，更多保司選擇香港為註冊地=更直接的監管訪問=更透明的信息披露。"
+      },
+      "actions": {
+        "front": {
+          "sc": "更多保司可能迁册至香港，带来新的产品和渠道机会",
+          "tc": "更多保司可能遷冊至香港，帶來新的產品和渠道機會"
+        },
+        "midback": {
+          "sc": "迁册公司的监管要求可能与本地公司不同",
+          "tc": "遷冊公司的監管要求可能與本地公司不同"
+        },
+        "lead": {
+          "sc": "迁册制度将增强香港保险市场的国际竞争力",
+          "tc": "遷冊制度將增強香港保險市場的國際競爭力"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 3,
+        "lead": 3,
+        "cross": 1
+      },
+      "source": {
+        "sc": "保监局 / 财经事务及库务局",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg",
+        "market"
+      ],
+      "themes": [
+        "reg",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "迁册",
+          "制度"
+        ],
+        "tc": [
+          "遷冊",
+          "制度"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2024-12-01T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases.html"
+    },
+    {
+      "id": "ia-2024-revised-gn16-consult",
+      "clusterCount": 1,
+      "score": 79,
+      "verifyStatus": "pending",
+      "sourceTier": "official",
+      "sourceKey": "保监局 IA",
+      "title": {
+        "sc": "保监局就修订 GN16（分红实现率披露）展开咨询",
+        "tc": "保監局就修訂 GN16（分紅實現率披露）展開諮詢"
+      },
+      "summary": {
+        "sc": "保监局就修订《承保长期保险业务指引》（GN16）展开行业咨询，拟要求保险公司以更标准化格式披露分红实现率，并扩大披露范围至更多产品类型，提升信息透明度。",
+        "tc": "保監局就修訂《承保長期保險業務指引》（GN16）展開行業諮詢，擬要求保險公司以更標準化格式披露分紅實現率，並擴大披露範圍至更多產品類型，提升信息透明度。"
+      },
+      "why": {
+        "sc": "GN16 修订是分红透明化的关键一步——将「分红实现率」从自愿披露升级到强制标准化披露，是后续演示利率上限的配套措施。客户从此可以用同类标准比较不同保司的分红表现。",
+        "tc": "GN16 修訂是分紅透明化的關鍵一步——將「分紅實現率」從自願披露升級到強制標準化披露，是後續演示利率上限的配套措施。客戶從此可以用同類標準比較不同保司的分紅表現。"
+      },
+      "actions": {
+        "front": {
+          "sc": "分红实现率数据将成为客户沟通的核心工具",
+          "tc": "分紅實現率數據將成為客戶溝通的核心工具"
+        },
+        "midback": {
+          "sc": "需关注 GN16 披露格式变化对产品对比的影响",
+          "tc": "需關注 GN16 披露格式變化對產品對比的影響"
+        },
+        "lead": {
+          "sc": "分红透明度升级将淘汰低表现产品",
+          "tc": "分紅透明度升級將淘汰低表現產品"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 3,
+        "lead": 3,
+        "cross": 0
+      },
+      "source": {
+        "sc": "保监局 · IA",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg",
+        "product"
+      ],
+      "themes": [
+        "compliance",
+        "par"
+      ],
+      "tags": {
+        "sc": [
+          "GN16",
+          "分红实现率",
+          "披露"
+        ],
+        "tc": [
+          "GN16",
+          "分紅實現率",
+          "披露"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2024-11-20T15:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases.html"
+    },
+    {
+      "id": "manulife-hiv-coverage-2024",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "pending",
+      "sourceTier": "insurer",
+      "sourceKey": "Manulife",
+      "title": {
+        "sc": "宏利香港将 HIV 阳性人士纳入个人寿险承保范围",
+        "tc": "宏利香港將 HIV 陽性人士納入個人壽險承保範圍"
+      },
+      "summary": {
+        "sc": "宏利香港宣布扩展基本个人寿险承保范围，将 HIV 阳性诊断客户纳入受保范围。这一举措是香港保险市场包容性承保的重要突破。",
+        "tc": "宏利香港宣佈擴展基本個人壽險承保範圍，將 HIV 陽性診斷客戶納入受保範圍。這一舉措是香港保險市場包容性承保的重要突破。"
+      },
+      "why": {
+        "sc": "HIV承保突破是ESG视角下的行业进步——从「拒保」到「有条件承保」的转变，意味着核保科技和医疗数据让保险公司更有信心管理风险。也代表了香港保险业的包容性标准在提升。",
+        "tc": "HIV承保突破是ESG視角下的行業進步——從「拒保」到「有條件承保」的轉變，意味著核保科技和醫療數據讓保險公司更有信心管理風險。也代表了香港保險業的包容性標準在提升。"
+      },
+      "actions": {
+        "front": {
+          "sc": "新客户群体：HIV阳性人士首次可购寿险",
+          "tc": "新客戶群體：HIV陽性人士首次可購壽險"
+        },
+        "midback": {
+          "sc": "核保模型更新：需了解HIV相关承保条件",
+          "tc": "核保模型更新：需了解HIV相關承保條件"
+        },
+        "lead": {
+          "sc": "行业领先者姿态：品牌差异化价值",
+          "tc": "行業領先者姿態：品牌差異化價值"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 3,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Manulife HK · 新闻稿",
+        "lang": "zh"
+      },
+      "boards": [
+        "product",
+        "insurer"
+      ],
+      "themes": [
+        "product",
+        "uw"
+      ],
+      "tags": {
+        "sc": [
+          "HIV",
+          "核保",
+          "宏利"
+        ],
+        "tc": [
+          "HIV",
+          "核保",
+          "宏利"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2024-10-15T10:00:00+08:00",
+      "originalUrl": "https://www.manulife.com.hk/en/about-us/newsroom.html"
+    },
+    {
       "id": "ia-20240923-license-fee",
       "clusterCount": 1,
       "score": 72,
@@ -12586,6 +12788,73 @@
       "contentKind": "press",
       "publishedAt": "2024-09-23T10:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/sc/legislative_framework/overview/gazette_notices.html"
+    },
+    {
+      "id": "ia-2024-h1-refcheck-cross-sector",
+      "clusterCount": 1,
+      "score": 76,
+      "verifyStatus": "pending",
+      "sourceTier": "official",
+      "sourceKey": "保监局 IA",
+      "title": {
+        "sc": "保监局与金管局联手推动跨行业背景查核（2025年7月实施）",
+        "tc": "保監局與金管局聯手推動跨行業背景查核（2025年7月實施）"
+      },
+      "summary": {
+        "sc": "保监局与香港金管局（HKMA）联合宣布将于2025年7月起实施跨行业背景查核安排，覆盖保险业和银行业的持牌人员。该安排旨在防止不适任人员在金融行业内部流动规避监管。",
+        "tc": "保監局與香港金管局（HKMA）聯合宣佈將於2025年7月起實施跨行業背景查核安排，覆蓋保險業和銀行業的持牌人員。該安排旨在防止不適任人員在金融行業內部流動規避監管。"
+      },
+      "why": {
+        "sc": "跨行业查核是监管「打组合拳」的典型——保险×银行联合查核意味着「在这边被罚了去那边上班」的漏洞将被堵死。对持牌人员的合规记录要求从行业级别提升到金融体系级别。",
+        "tc": "跨行業查核是監管「打組合拳」的典型——保險×銀行聯合查核意味著「在這邊被罰了去那邊上班」的漏洞將被堵死。對持牌人員的合規記錄要求從行業級別提升到金融體系級別。"
+      },
+      "actions": {
+        "front": {
+          "sc": "持牌人员需确保跨行业无合规问题",
+          "tc": "持牌人員需確保跨行業無合規問題"
+        },
+        "midback": {
+          "sc": "招聘和背景调查流程需升级",
+          "tc": "招聘和背景調查流程需升級"
+        },
+        "lead": {
+          "sc": "团队招聘不能只看保险行业履历",
+          "tc": "團隊招聘不能只看保險行業履歷"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 4,
+        "lead": 4,
+        "cross": 0
+      },
+      "source": {
+        "sc": "保监局 · IA / HKMA",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "compliance",
+        "career"
+      ],
+      "tags": {
+        "sc": [
+          "背景查核",
+          "HKMA",
+          "跨行业"
+        ],
+        "tc": [
+          "背景查核",
+          "HKMA",
+          "跨行業"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2024-09-23T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20240923.html"
     },
     {
       "id": "ia-20240923-refcheck",
@@ -13414,6 +13683,145 @@
       "contentKind": "stats",
       "publishedAt": "2024-05-31T16:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/sc/infocenter/press_releases/20240531_1.html"
+    },
+    {
+      "id": "ia-20240522-referral-fee-circular",
+      "clusterCount": 1,
+      "score": 87,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "保监局 IA",
+      "title": {
+        "sc": "保监局发通函：对转介费设立监管基准（不超佣金总额 50%）",
+        "tc": "保監局發通函：對轉介費設立監管基準（不超佣金總額 50%）"
+      },
+      "summary": {
+        "sc": "保监局发布通函，首次对保险经纪转介费设定监管基准：转介人收取的费用不应超过持牌经纪公司从保险公司获得的相关佣金总额的50%。同时要求保险公司加强转介安排的管控和书面披露。",
+        "tc": "保監局發布通函，首次對保險經紀轉介費設定監管基準：轉介人收取的費用不應超過持牌經紀公司從保險公司獲得的相關佣金總額的50%。同時要求保險公司加強轉介安排的管控和書面披露。"
+      },
+      "why": {
+        "sc": "这是「佣金三件套」（转介上限+首年70%+递延5年）的第一件——2024年5月吹风、2025年9月正式生效。它直接改变了经纪渠道的商业模式：靠转介费堆量的模式将难以为继，专业价值成为唯一护城河。",
+        "tc": "這是「佣金三件套」（轉介上限+首年70%+遞延5年）的第一件——2024年5月吹風、2025年9月正式生效。它直接改變了經紀渠道的商業模式：靠轉介費堆量的模式將難以為繼，專業價值成為唯一護城河。"
+      },
+      "actions": {
+        "front": {
+          "sc": "高转介费模式的经纪面临最大冲击",
+          "tc": "高轉介費模式的經紀面臨最大衝擊"
+        },
+        "midback": {
+          "sc": "需更新转介协议模板和披露流程",
+          "tc": "需更新轉介協議模板和披露流程"
+        },
+        "lead": {
+          "sc": "渠道商业模式将被迫升级",
+          "tc": "渠道商業模式將被迫升級"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 5,
+        "lead": 4,
+        "cross": 0
+      },
+      "source": {
+        "sc": "保监局 · IA",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg",
+        "market"
+      ],
+      "themes": [
+        "compliance",
+        "channel"
+      ],
+      "tags": {
+        "sc": [
+          "转介费",
+          "通函",
+          "佣金改革"
+        ],
+        "tc": [
+          "轉介費",
+          "通函",
+          "佣金改革"
+        ]
+      },
+      "contentKind": "circular",
+      "publishedAt": "2024-05-22T14:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/20240522_Circular.pdf"
+    },
+    {
+      "id": "hsbc-life-250m-record-20240228",
+      "clusterCount": 1,
+      "score": 80,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "HSBC Life",
+      "title": {
+        "sc": "HSBC Life 签出 $2.5 亿美元保单，创吉尼斯世界纪录",
+        "tc": "HSBC Life 簽出 $2.5 億美元保單，創健力士世界紀錄"
+      },
+      "summary": {
+        "sc": "HSBC Life 在香港签发一张 2.5 亿美元终身寿险保单，获吉尼斯世界纪录认证为史上最高价值寿险保单。保单由个人客户购买，全额承保。被视为香港作为亚洲财富管理中心的重要里程碑。",
+        "tc": "HSBC Life 在香港簽發一張 2.5 億美元終身壽險保單，獲健力士世界紀錄認證為史上最高價值壽險保單。保單由個人客戶購買，全額承保。被視為香港作為亞洲財富管理中心的重要里程碑。"
+      },
+      "why": {
+        "sc": "2.5亿美金一张保单——这不只是新闻，是香港超高净值保险市场成熟的实证。2026年宏利以3亿美元打破此纪录，但HSBC 2024年先开的这条赛道，证明了「保险=传承工具」在亚洲已被最富有的客户用真金白银投票。",
+        "tc": "2.5億美金一張保單——這不只是新聞，是香港超高淨值保險市場成熟的實證。2026年宏利以3億美元打破此紀錄，但HSBC 2024年先開的這條賽道，證明了「保險=傳承工具」在亞洲已被最富有的客戶用真金白銀投票。"
+      },
+      "actions": {
+        "front": {
+          "sc": "高净值客户用保单做传承的标杆案例，可用于客户对话",
+          "tc": "高淨值客戶用保單做傳承的標桿案例，可用於客戶對話"
+        },
+        "midback": {
+          "sc": "超高额保单的反洗钱和KYC流程值得参考",
+          "tc": "超高額保單的反洗錢和KYC流程值得參考"
+        },
+        "lead": {
+          "sc": "香港作为亚洲财富传承中心的品牌价值提升",
+          "tc": "香港作為亞洲財富傳承中心的品牌價值提升"
+        },
+        "cross": {
+          "sc": "2.5亿保单本身就是跨境资产配置的最强广告",
+          "tc": "2.5億保單本身就是跨境資產配置的最強廣告"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 2,
+        "lead": 3,
+        "cross": 4
+      },
+      "source": {
+        "sc": "HSBC / Guinness / SCMP",
+        "lang": "zh"
+      },
+      "boards": [
+        "product",
+        "family"
+      ],
+      "themes": [
+        "product",
+        "family-office"
+      ],
+      "tags": {
+        "sc": [
+          "吉尼斯纪录",
+          "超高净值",
+          "终身寿"
+        ],
+        "tc": [
+          "健力士紀錄",
+          "超高淨值",
+          "終身壽"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2024-02-28T10:00:00+08:00",
+      "originalUrl": "https://www.hsbc.com/news-and-views/news/hsbc-news-archive/our-record-breaking-life-insurance-policy"
     }
   ],
   "calendar": [
@@ -14921,14 +15329,48 @@
         ]
       },
       {
+        "key": "2024-12-01",
+        "label": {
+          "sc": "2024-12-01",
+          "tc": "2024-12-01"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-2024-re-domiciliation"
+        ]
+      },
+      {
+        "key": "2024-11-20",
+        "label": {
+          "sc": "2024-11-20",
+          "tc": "2024-11-20"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-2024-revised-gn16-consult"
+        ]
+      },
+      {
+        "key": "2024-10-15",
+        "label": {
+          "sc": "2024-10-15",
+          "tc": "2024-10-15"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "manulife-hiv-coverage-2024"
+        ]
+      },
+      {
         "key": "2024-09-23",
         "label": {
           "sc": "2024-09-23",
           "tc": "2024-09-23"
         },
-        "itemCount": 2,
+        "itemCount": 3,
         "itemIds": [
           "ia-20240923-license-fee",
+          "ia-2024-h1-refcheck-cross-sector",
           "ia-20240923-refcheck"
         ]
       },
@@ -15051,6 +15493,28 @@
         "itemCount": 1,
         "itemIds": [
           "ia-20240531-q1-2024-stats"
+        ]
+      },
+      {
+        "key": "2024-05-22",
+        "label": {
+          "sc": "2024-05-22",
+          "tc": "2024-05-22"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-20240522-referral-fee-circular"
+        ]
+      },
+      {
+        "key": "2024-02-28",
+        "label": {
+          "sc": "2024-02-28",
+          "tc": "2024-02-28"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "hsbc-life-250m-record-20240228"
         ]
       }
     ],
@@ -15785,14 +16249,48 @@
         ]
       },
       {
+        "key": "2024-W48",
+        "label": {
+          "sc": "2024-W48",
+          "tc": "2024-W48"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-2024-re-domiciliation"
+        ]
+      },
+      {
+        "key": "2024-W47",
+        "label": {
+          "sc": "2024-W47",
+          "tc": "2024-W47"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-2024-revised-gn16-consult"
+        ]
+      },
+      {
+        "key": "2024-W42",
+        "label": {
+          "sc": "2024-W42",
+          "tc": "2024-W42"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "manulife-hiv-coverage-2024"
+        ]
+      },
+      {
         "key": "2024-W39",
         "label": {
           "sc": "2024-W39",
           "tc": "2024-W39"
         },
-        "itemCount": 2,
+        "itemCount": 3,
         "itemIds": [
           "ia-20240923-license-fee",
+          "ia-2024-h1-refcheck-cross-sector",
           "ia-20240923-refcheck"
         ]
       },
@@ -15885,6 +16383,28 @@
         "itemCount": 1,
         "itemIds": [
           "ia-20240531-q1-2024-stats"
+        ]
+      },
+      {
+        "key": "2024-W21",
+        "label": {
+          "sc": "2024-W21",
+          "tc": "2024-W21"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-20240522-referral-fee-circular"
+        ]
+      },
+      {
+        "key": "2024-W09",
+        "label": {
+          "sc": "2024-W09",
+          "tc": "2024-W09"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "hsbc-life-250m-record-20240228"
         ]
       }
     ],
@@ -16243,9 +16763,32 @@
           "sc": "2024-12",
           "tc": "2024-12"
         },
+        "itemCount": 2,
+        "itemIds": [
+          "ia-20241205-annual-2024",
+          "ia-2024-re-domiciliation"
+        ]
+      },
+      {
+        "key": "2024-11",
+        "label": {
+          "sc": "2024-11",
+          "tc": "2024-11"
+        },
         "itemCount": 1,
         "itemIds": [
-          "ia-20241205-annual-2024"
+          "ia-2024-revised-gn16-consult"
+        ]
+      },
+      {
+        "key": "2024-10",
+        "label": {
+          "sc": "2024-10",
+          "tc": "2024-10"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "manulife-hiv-coverage-2024"
         ]
       },
       {
@@ -16254,9 +16797,10 @@
           "sc": "2024-09",
           "tc": "2024-09"
         },
-        "itemCount": 4,
+        "itemCount": 5,
         "itemIds": [
           "ia-20240923-license-fee",
+          "ia-2024-h1-refcheck-cross-sector",
           "ia-20240923-refcheck",
           "ia-2024h1-stats",
           "sunlife-2024-fwd-pension"
@@ -16306,9 +16850,21 @@
           "sc": "2024-05",
           "tc": "2024-05"
         },
+        "itemCount": 2,
+        "itemIds": [
+          "ia-20240531-q1-2024-stats",
+          "ia-20240522-referral-fee-circular"
+        ]
+      },
+      {
+        "key": "2024-02",
+        "label": {
+          "sc": "2024-02",
+          "tc": "2024-02"
+        },
         "itemCount": 1,
         "itemIds": [
-          "ia-20240531-q1-2024-stats"
+          "hsbc-life-250m-record-20240228"
         ]
       }
     ],
@@ -16507,10 +17063,14 @@
           "sc": "2024 年",
           "tc": "2024 年"
         },
-        "itemCount": 14,
+        "itemCount": 20,
         "itemIds": [
           "ia-20241205-annual-2024",
+          "ia-2024-re-domiciliation",
+          "ia-2024-revised-gn16-consult",
+          "manulife-hiv-coverage-2024",
           "ia-20240923-license-fee",
+          "ia-2024-h1-refcheck-cross-sector",
           "ia-20240923-refcheck",
           "ia-2024h1-stats",
           "sunlife-2024-fwd-pension",
@@ -16522,7 +17082,9 @@
           "ia-20240701-rbc-live",
           "ia-20240614-gl34-segregation",
           "ia-20240612-unlicensed-mcv",
-          "ia-20240531-q1-2024-stats"
+          "ia-20240531-q1-2024-stats",
+          "ia-20240522-referral-fee-circular",
+          "hsbc-life-250m-record-20240228"
         ]
       }
     ]

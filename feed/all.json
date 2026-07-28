@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-07-28T17:38:37Z",
-  "itemCount": 182,
+  "generatedAt": "2026-07-28T17:42:21Z",
+  "itemCount": 188,
   "items": [
     {
       "id": "ratings-2026-consolidated",
@@ -1977,6 +1977,45 @@
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20251205.html"
     },
     {
+      "id": "ia-2024-re-domiciliation",
+      "title": "香港引入保险公司迁册（Re-domiciliation）制度",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "offshore"
+      ],
+      "publishedAt": "2024-12-01T10:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2024-re-domiciliation",
+      "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases.html"
+    },
+    {
+      "id": "ia-2024-revised-gn16-consult",
+      "title": "保监局就修订 GN16（分红实现率披露）展开咨询",
+      "sourceTier": "official",
+      "themes": [
+        "compliance",
+        "par"
+      ],
+      "publishedAt": "2024-11-20T15:00:00+08:00",
+      "score": 79,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2024-revised-gn16-consult",
+      "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases.html"
+    },
+    {
+      "id": "manulife-hiv-coverage-2024",
+      "title": "宏利香港将 HIV 阳性人士纳入个人寿险承保范围",
+      "sourceTier": "insurer",
+      "themes": [
+        "product",
+        "uw"
+      ],
+      "publishedAt": "2024-10-15T10:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-hiv-coverage-2024",
+      "originalUrl": "https://www.manulife.com.hk/en/about-us/newsroom.html"
+    },
+    {
       "id": "ia-20240923-license-fee",
       "title": "保险中介人牌照费征缴启动：五年豁免期届满",
       "sourceTier": "official",
@@ -1988,6 +2027,19 @@
       "score": 72,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20240923-license-fee",
       "originalUrl": "https://www.ia.org.hk/sc/legislative_framework/overview/gazette_notices.html"
+    },
+    {
+      "id": "ia-2024-h1-refcheck-cross-sector",
+      "title": "保监局与金管局联手推动跨行业背景查核（2025年7月实施）",
+      "sourceTier": "official",
+      "themes": [
+        "compliance",
+        "career"
+      ],
+      "publishedAt": "2024-09-23T10:00:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2024-h1-refcheck-cross-sector",
+      "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20240923.html"
     },
     {
       "id": "ia-20240923-refcheck",
@@ -2123,6 +2175,32 @@
       "score": 82,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20240531-q1-2024-stats",
       "originalUrl": "https://www.ia.org.hk/sc/infocenter/press_releases/20240531_1.html"
+    },
+    {
+      "id": "ia-20240522-referral-fee-circular",
+      "title": "保监局发通函：对转介费设立监管基准（不超佣金总额 50%）",
+      "sourceTier": "official",
+      "themes": [
+        "compliance",
+        "channel"
+      ],
+      "publishedAt": "2024-05-22T14:00:00+08:00",
+      "score": 87,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20240522-referral-fee-circular",
+      "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/20240522_Circular.pdf"
+    },
+    {
+      "id": "hsbc-life-250m-record-20240228",
+      "title": "HSBC Life 签出 $2.5 亿美元保单，创吉尼斯世界纪录",
+      "sourceTier": "insurer",
+      "themes": [
+        "product",
+        "family-office"
+      ],
+      "publishedAt": "2024-02-28T10:00:00+08:00",
+      "score": 80,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hsbc-life-250m-record-20240228",
+      "originalUrl": "https://www.hsbc.com/news-and-views/news/hsbc-news-archive/our-record-breaking-life-insurance-policy"
     }
   ]
 }
