@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-07-28T22:00:00+08:00",
-    "itemCount": 162,
+    "generatedAt": "2026-07-28T23:00:00+08:00",
+    "itemCount": 165,
     "windowNote": {
-      "sc": "本库162条。",
-      "tc": "本庫162條。"
+      "sc": "本库165条。",
+      "tc": "本庫165條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -167,6 +167,215 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "empf-2026-fee-reduction",
+      "clusterCount": 1,
+      "score": 80,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": true,
+      "ingestedAt": "2026-07-28T23:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "积金易平台降费：236只基金行政费降至0.37% 惠及千万账户",
+        "tc": "積金易平台降費：236隻基金行政費降至0.37% 惠及千萬賬戶"
+      },
+      "summary": {
+        "sc": "积金局旗下积金易平台(eMPF)全面运作后，378个强积金基金中236个基金的行政费须降至不高于0.37%。覆盖18个强积金计划，惠及超过1000万个计划成员账户，占整体账户逾九成。强积金总资产已增至1.5万亿港元(2025年)。",
+        "tc": "積金易降費至0.37% 覆蓋逾千萬賬戶"
+      },
+      "why": {
+        "sc": "强积金降费直接影响香港打工仔退休储蓄效率=保险产品销售环境",
+        "tc": "強積金降費影響退休儲蓄效率"
+      },
+      "actions": {
+        "front": {
+          "sc": "向客户解释MPF降费对退休规划的影响",
+          "tc": "解釋MPF降費對退休規劃影響"
+        },
+        "midback": {
+          "sc": "归档强积金数据",
+          "tc": "歸檔強積金數據"
+        },
+        "lead": {
+          "sc": "降费=自愿性供款空间增大=保险需求提升",
+          "tc": "保險需求提升"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "积金局/eMPF",
+        "tc": "積金局/eMPF",
+        "lang": "zh"
+      },
+      "boards": [
+        "macro",
+        "compliance"
+      ],
+      "tags": {
+        "sc": [
+          "积金易",
+          "强积金",
+          "降费",
+          "0.37%"
+        ],
+        "tc": [
+          "積金易",
+          "強積金",
+          "降費",
+          "0.37%"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-06-25T10:00:00+08:00",
+      "originalUrl": "https://www.empf.org.hk/",
+      "sourceKey": "empf:fee-reduction-2026"
+    },
+    {
+      "id": "nfra-2024-crossborder-no",
+      "clusterCount": 1,
+      "score": 88,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": true,
+      "ingestedAt": "2026-07-28T23:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "金融监管总局：现阶段跨境保险通试点时机尚不成熟",
+        "tc": "金融監管總局：現階段跨境保險通試點時機尚不成熟"
+      },
+      "summary": {
+        "sc": "金融监管总局2024年8月公开答复：由于内地与港澳保险市场在法律体系、监管制度、产品设计等方面存在较大差异，市场风险易交叉传染，现阶段直接开展跨境保险通试点的时机尚不成熟。同时表示正推进大湾区保险服务中心建设。",
+        "tc": "金融監管總局:跨境保險通試點時機不成熟"
+      },
+      "why": {
+        "sc": "这是内地对跨境保险的最高级别官方表态=所有IFA必须知道的合规底线",
+        "tc": "內地對跨境保險最高級別官方表態"
+      },
+      "actions": {
+        "front": {
+          "sc": "所有销售流程必须100%在香港境内完成",
+          "tc": "銷售流程100%在港完成"
+        },
+        "midback": {
+          "sc": "归档跨境政策信号",
+          "tc": "歸檔跨境政策信號"
+        },
+        "lead": {
+          "sc": "跨境保险通=无时限搁置，团队策略勿押注",
+          "tc": "團隊策略勿押注"
+        },
+        "cross": {
+          "sc": "大湾区保险服务中心=可能的合规突破口",
+          "tc": "大灣區服務中心=可能突破口"
+        }
+      },
+      "source": {
+        "sc": "NFRA/人民日报",
+        "tc": "NFRA/人民日報",
+        "lang": "zh"
+      },
+      "boards": [
+        "regulatory",
+        "cross"
+      ],
+      "tags": {
+        "sc": [
+          "跨境保险通",
+          "金融监管总局",
+          "粤港澳",
+          "2024"
+        ],
+        "tc": [
+          "跨境保險通",
+          "金融監管總局",
+          "粵港澳",
+          "2024"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2024-08-01T10:00:00+08:00",
+      "originalUrl": "http://paper.people.com.cn/zgjjzk/pc/content/202411/15/content_30046103.html",
+      "sourceKey": "nfra:crossborder-no-202408"
+    },
+    {
+      "id": "nfra-202502-hkmo-insurance",
+      "clusterCount": 1,
+      "score": 78,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T23:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "金融监管总局放宽港澳金融机构入股保险公司门槛",
+        "tc": "金融監管總局放寬港澳金融機構入股保險公司門檻"
+      },
+      "summary": {
+        "sc": "金融监管总局2025年2月发布通知：自2025年3月1日起，香港、澳门金融机构入股保险公司，不再执行'最近一年末总资产不低于二十亿美元'的要求。此举进一步便利港澳资本参与内地保险市场。",
+        "tc": "放寬港澳金融機構入股保險公司門檻"
+      },
+      "why": {
+        "sc": "港澳资本进入内地保险市场的通道变宽=双向融合信号",
+        "tc": "港澳資本入內地保險市場通道變寬"
+      },
+      "actions": {
+        "front": {
+          "sc": "知识储备",
+          "tc": "知識儲備"
+        },
+        "midback": {
+          "sc": "关注港澳保司内地参股动态",
+          "tc": "關注港澳保司參股動態"
+        },
+        "lead": {
+          "sc": "双向融合=行业长期利好",
+          "tc": "雙向融合=長期利好"
+        },
+        "cross": {
+          "sc": "港澳保司内地布局=跨境业务的战略意义",
+          "tc": "跨境業務戰略意義"
+        }
+      },
+      "source": {
+        "sc": "NFRA",
+        "tc": "NFRA",
+        "lang": "zh"
+      },
+      "boards": [
+        "regulatory",
+        "cross"
+      ],
+      "tags": {
+        "sc": [
+          "金融监管总局",
+          "港澳",
+          "入股",
+          "放宽"
+        ],
+        "tc": [
+          "金融監管總局",
+          "港澳",
+          "入股",
+          "放寬"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-02-28T10:00:00+08:00",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/governmentDetail.html?docId=1199748&itemId=861&generaltype=1",
+      "sourceKey": "nfra:hkmo-insurance-202502"
+    },
     {
       "id": "ratings-2026-consolidated",
       "clusterCount": 1,
