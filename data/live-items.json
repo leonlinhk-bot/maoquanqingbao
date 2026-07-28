@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-07-28T21:00:00+08:00",
-    "itemCount": 159,
+    "generatedAt": "2026-07-28T22:00:00+08:00",
+    "itemCount": 162,
     "windowNote": {
-      "sc": "本库159条导读。",
-      "tc": "本庫159條導讀。"
+      "sc": "本库162条。",
+      "tc": "本庫162條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -167,6 +167,217 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "ratings-2026-consolidated",
+      "clusterCount": 1,
+      "score": 95,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": true,
+      "ingestedAt": "2026-07-28T22:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "香港主要保险公司信评一览(2026更新)",
+        "tc": "香港主要保險公司信評一覽(2026更新)"
+      },
+      "summary": {
+        "sc": "2026年最新信评汇总:S&P-宏利AA-/友邦AA/保诚AA/永明AA(3月上调)/汇丰AA-/太保A+/太平A/Chubb A+。Moody's-友邦Aa2/保诚A2。Fitch-友邦AA/保诚AA-/太平A。评级上调最显著:永明(3月AA-->AA)。评级下调:太平(4月A+-->A)。[EN原文]",
+        "tc": "2026信评:S&P永明上调至AA,太平下调至A"
+      },
+      "why": {
+        "sc": "客户问哪家最安全?信评是最客观的第三方答案",
+        "tc": "客戶問哪家最安全?"
+      },
+      "actions": {
+        "front": {
+          "sc": "客户品牌对比时的核心参考工具",
+          "tc": "客戶品牌對比核心參考"
+        },
+        "midback": {
+          "sc": "归档保司信评数据",
+          "tc": "歸檔信評數據"
+        },
+        "lead": {
+          "sc": "信评变化=合作保司优先级调整信号",
+          "tc": "信評變化=優先級調整"
+        },
+        "cross": {
+          "sc": "跨境客户特别关注国际评级",
+          "tc": "跨境客戶關注國際評級"
+        }
+      },
+      "source": {
+        "sc": "S&P/Moody's/Fitch",
+        "tc": "S&P/Moody's/Fitch",
+        "lang": "en"
+      },
+      "boards": [
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "信评",
+          "S&P",
+          "Moody's",
+          "Fitch",
+          "2026"
+        ],
+        "tc": [
+          "信評",
+          "S&P",
+          "Moody's",
+          "Fitch",
+          "2026"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-07-28T10:00:00+08:00",
+      "originalUrl": "https://www.spglobal.com/ratings/en/regulatory/article/asia-pacific-insurance-ratings-list-s101683009",
+      "sourceKey": "ratings:consolidated-2026"
+    },
+    {
+      "id": "sunlife-202603-sp-upgrade",
+      "clusterCount": 1,
+      "score": 86,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T22:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "标普上调Sun Life永明香港评级至AA 展望稳定",
+        "tc": "標普上調Sun Life永明香港評級至AA 展望穩定"
+      },
+      "summary": {
+        "sc": "S&P于2026年3月16日将Sun Life香港的财务实力和发行人信用评级从AA-上调至AA，展望稳定。永明表示此为重要里程碑，肯定其稳健财务实力和业务增长。APE于2025年破100亿港元。",
+        "tc": "S&P將永明香港評級從AA-上調至AA"
+      },
+      "why": {
+        "sc": "永明是近期唯一获上调的保司=市场对其财务实力的最高认可",
+        "tc": "永明近期唯一獲上調保司"
+      },
+      "actions": {
+        "front": {
+          "sc": "永明客户=评级背书",
+          "tc": "永明客戶評級背書"
+        },
+        "midback": {
+          "sc": "归档评级变化",
+          "tc": "歸檔評級變化"
+        },
+        "lead": {
+          "sc": "评级上调=合作优先级提升",
+          "tc": "合作優先級提升"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "S&P/永明",
+        "tc": "S&P/永明",
+        "lang": "zh"
+      },
+      "boards": [
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "永明",
+          "标普",
+          "评级上调",
+          "AA",
+          "2026"
+        ],
+        "tc": [
+          "永明",
+          "標普",
+          "評級上調",
+          "AA",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-03-16T10:00:00+08:00",
+      "originalUrl": "https://www.sunlife.com.hk/zh-hant/about-us/newsroom/news-releases/2026/sun-life-hong-kong-upgraded-to-aa-rating-by-sp/",
+      "sourceKey": "sunlife:sp-upgrade-202603"
+    },
+    {
+      "id": "sfc-2025-wmc-insurance",
+      "clusterCount": 1,
+      "score": 83,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T22:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "证监会探讨保险产品纳入跨境理财通南向通",
+        "tc": "證監會探討保險產品納入跨境理財通南向通"
+      },
+      "summary": {
+        "sc": "证监会2025年11月公布跨境理财通升级方案，首次探讨将保险产品纳入南向通合资格投资范围。此举如落地将开辟内地客户合法购买香港保险的新通道。目前尚处研究阶段。[EN原文]",
+        "tc": "證監會探討保險產品納入跨境理財通南向通"
+      },
+      "why": {
+        "sc": "跨境理财通=内地客户合法投保的最大政策变量",
+        "tc": "跨境理財通=最大政策變量"
+      },
+      "actions": {
+        "front": {
+          "sc": "关注政策进展，提前准备",
+          "tc": "關注政策進展"
+        },
+        "midback": {
+          "sc": "跟踪SFC政策更新",
+          "tc": "跟蹤SFC政策"
+        },
+        "lead": {
+          "sc": "跨境理财通=渠道战略级机会",
+          "tc": "渠道戰略級機會"
+        },
+        "cross": {
+          "sc": "一旦落地=跨境业务模式重构",
+          "tc": "跨境業務模式重構"
+        }
+      },
+      "source": {
+        "sc": "SFC 证监会",
+        "tc": "SFC 證監會",
+        "lang": "zh"
+      },
+      "boards": [
+        "regulatory",
+        "cross"
+      ],
+      "tags": {
+        "sc": [
+          "证监会",
+          "跨境理财通",
+          "保险",
+          "南向通"
+        ],
+        "tc": [
+          "證監會",
+          "跨境理財通",
+          "保險",
+          "南向通"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-11-13T10:00:00+08:00",
+      "originalUrl": "https://www.sfc.hk/en/Regulatory-functions/Intermediaries/Supervision/Cross-boundary-WMC",
+      "sourceKey": "sfc:wmc-202511"
+    },
     {
       "id": "ia-2024-annual-stats",
       "clusterCount": 1,
