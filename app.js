@@ -1,11 +1,11 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-07-28T18:30:00+08:00",
-    "itemCount": 140,
+    "generatedAt": "2026-07-28T19:00:00+08:00",
+    "itemCount": 146,
     "windowNote": {
-      "sc": "本库140条导读。导读≠原文。",
-      "tc": "本庫140條導讀。導讀≠原文。"
+      "sc": "本库146条导读。导读≠原文。",
+      "tc": "本庫146條導讀。導讀≠原文。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -167,6 +167,429 @@ window.HKII_DATA = {
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "swissre-202607-wis",
+      "clusterCount": 1,
+      "score": 92,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T19:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "Swiss Re sigma报告：2026全球保险成为碎片化世界中的减震器",
+        "tc": "Swiss Re sigma報告：2026全球保險成為碎片化世界中的減震器"
+      },
+      "summary": {
+        "sc": "Swiss Re Institute 2026年7月发布sigma报告「World Insurance in 2026」。全球保费增长放缓至1.3%(实物)，低于2025年的3.9%。地缘碎片化+AI基建投资创造新型风险池。保险从风险转移升级为「经济稳定器」。[EN原文]",
+        "tc": "Swiss Re:全球保費增長放緩至1.3%，保險成經濟穩定器"
+      },
+      "why": {
+        "sc": "全球再保险领袖的年度定调=行业风向标",
+        "tc": "全球再保領袖年度定調=行業風向標"
+      },
+      "actions": {
+        "front": {
+          "sc": "客户沟通中引用瑞士再保的行业趋势判断",
+          "tc": "引用行業趨勢判斷"
+        },
+        "midback": {
+          "sc": "归档年度sigma核心结论",
+          "tc": "歸檔sigma結論"
+        },
+        "lead": {
+          "sc": "碎片化+AI基建=新风险新机遇",
+          "tc": "新風險新機遇"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "Swiss Re Institute",
+        "tc": "Swiss Re Institute",
+        "lang": "en"
+      },
+      "boards": [
+        "intl",
+        "regulatory"
+      ],
+      "tags": {
+        "sc": [
+          "Swiss Re",
+          "sigma",
+          "全球保险",
+          "2026"
+        ],
+        "tc": [
+          "Swiss Re",
+          "sigma",
+          "全球保險",
+          "2026"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-07-08T10:00:00+08:00",
+      "originalUrl": "https://www.swissre.com/institute/research/sigma-research/sigma-2026-07-world-insurance.html",
+      "sourceKey": "swissre:sigma-202607"
+    },
+    {
+      "id": "allianz-20260528-global-report",
+      "clusterCount": 1,
+      "score": 94,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T19:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "安联全球保险报告2026：全球保费+7.1%至6.9万亿欧元 亚洲领跑",
+        "tc": "安聯全球保險報告2026：全球保費+7.1%至6.9萬億歐元 亞洲領跑"
+      },
+      "summary": {
+        "sc": "安联2026年5月发布全球保险报告：2025年全球保费+7.1%至EUR6.9万亿。亚洲生命保险+9.9%重新成为增长引擎(中国+11.4%)。健康险+12.3%创十年新高。未来十年全球保费池将新增EUR5.26万亿，超半来自亚洲。[EN原文]",
+        "tc": "安聯：2025全球保費+7.1%，亞洲佔未來增長一半以上"
+      },
+      "why": {
+        "sc": "年度最全面的全球保险市场数据，涵盖80+市场",
+        "tc": "年度最全面全球保險數據"
+      },
+      "actions": {
+        "front": {
+          "sc": "客户沟通中用权威全球数据增强说服力",
+          "tc": "用權威數據增強說服力"
+        },
+        "midback": {
+          "sc": "归档年度全球市场数据",
+          "tc": "歸檔全球數據"
+        },
+        "lead": {
+          "sc": "亚洲成长=香港市场的天然顺风",
+          "tc": "亞洲成長=香港順風"
+        },
+        "cross": {
+          "sc": "亚洲跨境保险需求的结构性增长依据",
+          "tc": "跨境需求結構性增長"
+        }
+      },
+      "source": {
+        "sc": "Allianz Research",
+        "tc": "Allianz Research",
+        "lang": "en"
+      },
+      "boards": [
+        "intl",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "安联",
+          "全球保险",
+          "报告",
+          "2026"
+        ],
+        "tc": [
+          "安聯",
+          "全球保險",
+          "報告",
+          "2026"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-05-28T10:00:00+08:00",
+      "originalUrl": "https://www.allianz.com/en/economic_research/insights/publications/specials_fmo/260528-global-insurance-report.html",
+      "sourceKey": "allianz:global-report-20260528"
+    },
+    {
+      "id": "goldman-2026-macro-outlook",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T19:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "高盛2026宏观展望：全球GDP 2.8% 牛市扩散 科技主导",
+        "tc": "高盛2026宏觀展望：全球GDP 2.8% 牛市擴散 科技主導"
+      },
+      "summary": {
+        "sc": "高盛研究2026年宏观展望：全球GDP增长2.8%(高于共识2.5%)。看好权益市场，预期牛市由科技股扩散至更广泛板块。商品：看好电力需求竞赛与供给浪潮。[EN原文]",
+        "tc": "高盛：全球GDP 2.8%，牛市擴散"
+      },
+      "why": {
+        "sc": "高盛的宏观判断=全球资产配置的风向标",
+        "tc": "高盛宏觀=資產配置風向標"
+      },
+      "actions": {
+        "front": {
+          "sc": "客户资产配置沟通中引用权威宏观判断",
+          "tc": "引用宏觀判斷"
+        },
+        "midback": {
+          "sc": "归档年度宏观数据",
+          "tc": "歸檔宏觀數據"
+        },
+        "lead": {
+          "sc": "宏观环境对保险需求的影响分析",
+          "tc": "宏觀對保險需求影響"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "Goldman Sachs Research",
+        "tc": "Goldman Sachs Research",
+        "lang": "en"
+      },
+      "boards": [
+        "intl",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "高盛",
+          "宏观",
+          "GDP",
+          "2026"
+        ],
+        "tc": [
+          "高盛",
+          "宏觀",
+          "GDP",
+          "2026"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2025-11-20T10:00:00+08:00",
+      "originalUrl": "https://www.goldmansachs.com/insights/outlooks/2026-outlooks",
+      "sourceKey": "goldman:macro-2026"
+    },
+    {
+      "id": "rga-2026-hk-market",
+      "clusterCount": 1,
+      "score": 86,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T19:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "RGA分析：2026年香港保险市场机遇与挑战——跨境需求+监管转型+AI",
+        "tc": "RGA分析：2026年香港保險市場機遇與挑戰——跨境需求+監管轉型+AI"
+      },
+      "summary": {
+        "sc": "RGA 2026年分析文章指出香港新造保费2024年+21%。三大驱动力：内地访客对分红储蓄+危疾需求、HKRBC全面实施推动资本优化、AI核保与数字工具提升效率。[EN原文]",
+        "tc": "RGA:香港新造保費+21%，三大驅動力"
+      },
+      "why": {
+        "sc": "专业再保险人的香港市场分析=客观第三方视角",
+        "tc": "專業再保人客觀分析"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解HKRBC对产品供给的影响",
+          "tc": "了解HKRBC影響"
+        },
+        "midback": {
+          "sc": "更新市场分析数据",
+          "tc": "更新市場數據"
+        },
+        "lead": {
+          "sc": "跨境+AI+监管三重驱动的战略判断",
+          "tc": "三重驅動戰略判斷"
+        },
+        "cross": {
+          "sc": "内地访客需求=跨境业务核心驱动",
+          "tc": "內地訪客=跨境核心"
+        }
+      },
+      "source": {
+        "sc": "RGA/Asia Insurance Review",
+        "tc": "RGA/Asia Insurance Review",
+        "lang": "en"
+      },
+      "boards": [
+        "intl",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "RGA",
+          "香港",
+          "跨境",
+          "HKRBC",
+          "2026"
+        ],
+        "tc": [
+          "RGA",
+          "香港",
+          "跨境",
+          "HKRBC",
+          "2026"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-07-01T10:00:00+08:00",
+      "originalUrl": "https://www.rgare.com/knowledge-center/article/hong-kong-insurance-market--navigating-opportunities-and-challenges-in-2026",
+      "sourceKey": "rga:hk-market-2026"
+    },
+    {
+      "id": "deloitte-2026-insurance-outlook",
+      "clusterCount": 1,
+      "score": 84,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T19:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "德勤2026全球保险展望：AI落地加速 香港保监局推AI促进计划",
+        "tc": "德勤2026全球保險展望：AI落地加速 香港保監局推AI促進計劃"
+      },
+      "summary": {
+        "sc": "德勤2026年全球保险展望报告指出，AI成功依赖数据质量与系统现代化。香港保监局推出AI加速器与沙盒促进计划，新加坡金管局也提供AI资助。保险公司在AI客服和理赔自动分类上已有多项落地。[EN原文]",
+        "tc": "德勤：AI落地加速，香港推AI促進計劃"
+      },
+      "why": {
+        "sc": "四大咨询的行业技术趋势=保险科技投资方向",
+        "tc": "四大諮詢行業技術趨勢"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解AI在核保中的应用进展",
+          "tc": "了解AI核保進展"
+        },
+        "midback": {
+          "sc": "关注AI对合规流程的影响",
+          "tc": "關注AI合規影響"
+        },
+        "lead": {
+          "sc": "AI技术投资优先级判断",
+          "tc": "AI投資優先級"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "Deloitte Insights",
+        "tc": "Deloitte Insights",
+        "lang": "en"
+      },
+      "boards": [
+        "intl",
+        "tech"
+      ],
+      "tags": {
+        "sc": [
+          "德勤",
+          "AI",
+          "保险科技",
+          "展望",
+          "2026"
+        ],
+        "tc": [
+          "德勤",
+          "AI",
+          "保險科技",
+          "展望",
+          "2026"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-06-01T10:00:00+08:00",
+      "originalUrl": "https://www.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-outlooks/insurance-industry-outlook.html",
+      "sourceKey": "deloitte:insurance-outlook-2026"
+    },
+    {
+      "id": "jpmorgan-2026-outlook",
+      "clusterCount": 1,
+      "score": 83,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T19:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "摩根大通2026展望：看好全球权益+双位数增长 黄金目标价$5000",
+        "tc": "摩根大通2026展望：看好全球權益+雙位數增長 黃金目標價$5000"
+      },
+      "summary": {
+        "sc": "摩根大通2026年展望：看好全球权益市场双位数增长，AI超周期驱动企业盈利。预测美国衰退概率35%，通胀保持粘性。黄金目标价$5000/盎司。美元看空，欧元看多。[EN原文]",
+        "tc": "摩根大通：權益看好，黃金$5000，衰退概率35%"
+      },
+      "why": {
+        "sc": "顶级投行的资产配置判断=高净值客户的参考框架",
+        "tc": "頂級投行資產配置判斷"
+      },
+      "actions": {
+        "front": {
+          "sc": "高净值客户资产配置讨论中引用",
+          "tc": "高淨值客戶引用"
+        },
+        "midback": {
+          "sc": "归档年度投行展望",
+          "tc": "歸檔投行展望"
+        },
+        "lead": {
+          "sc": "通胀粘性+AI周期的业务影响",
+          "tc": "通脹+AI業務影響"
+        },
+        "cross": {
+          "sc": "黄金/美元=跨境客户的资产关切",
+          "tc": "黃金/美元=跨境關切"
+        }
+      },
+      "source": {
+        "sc": "JPMorgan Research",
+        "tc": "JPMorgan Research",
+        "lang": "en"
+      },
+      "boards": [
+        "intl",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "摩根大通",
+          "权益",
+          "黄金",
+          "展望",
+          "2026"
+        ],
+        "tc": [
+          "摩根大通",
+          "權益",
+          "黃金",
+          "展望",
+          "2026"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2025-12-10T10:00:00+08:00",
+      "originalUrl": "https://www.jpmorgan.com/insights/global-research/outlook/market-outlook",
+      "sourceKey": "jpmorgan:outlook-2026"
+    },
     {
       "id": "aia-2024-annual",
       "clusterCount": 1,
@@ -12713,6 +13136,7 @@ window.HKII_DATA = {
     ]
   }
 };
+
 
 
 (function () {
