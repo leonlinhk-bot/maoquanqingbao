@@ -1,7 +1,7 @@
 {
   "feed": "featured",
   "title": "猫圈儿港险情报站 · 精选",
-  "generatedAt": "2026-07-28T17:46:43Z",
+  "generatedAt": "2026-07-28T17:49:12Z",
   "itemCount": 20,
   "items": [
     {
@@ -10,7 +10,7 @@
       "summary": "2026年最新信评汇总:S&P-宏利AA-/友邦AA/保诚AA/永明AA(3月上调)/汇丰AA-/太保A+/太平A/Chubb A+。Moody's-友邦Aa2/保诚A2。Fitch-友邦AA/保诚AA-/太平A。评级上调最显著:永明(3月AA-->AA)。评级下调:太平(4月A+-->A)。[EN原文]",
       "why": "客户问哪家最安全?信评是最客观的第三方答案。",
       "sourceLabel": "S&P/Moody's/Fitch",
-      "sourceTier": "",
+      "sourceTier": "media",
       "tags": [
         "信评",
         "S&P",
@@ -33,7 +33,7 @@
       "summary": "行业报道称保监局将推进保险人公开披露规则，适用于本地成立及海外在港分公司等（具体以宪报/规则文本为准）。对持牌人意味着：保司偿付能力、风险与业务信息的可比性提升，但解读仍须回到官方文本。",
       "why": "中后台与管理侧应用：尽调保司、内部培训材料更新；前线避免把未核披露数字写成承诺。",
       "sourceLabel": "行业媒体 · Insurance Asia 等",
-      "sourceTier": "media",
+      "sourceTier": "pro",
       "tags": [
         "公开披露",
         "偿付能力",
@@ -48,7 +48,7 @@
       "score": 76,
       "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-ia-proceed-public-disclosure-rules-insurers-2026",
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-public-disclosure-2026",
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "rolesImpact": {
         "front": 1,
         "midback": 3,
@@ -180,7 +180,7 @@
       "summary": "保监局2026年7月12日发表演辞，回顾分红保单销售三项措施——演示利率上限(2025年7月)、经纪转介费基准(2025年10月)、佣金分摊(2026年1月)。并说明与金管局推动的跨行业背景查核安排已于7月生效，覆盖约11万名长期业务中介。",
       "why": "监管最高层发声，确认三大措施已全部落地，行业合规的官方定调。",
       "sourceLabel": "IA 保监局官方演辞",
-      "sourceTier": "",
+      "sourceTier": "official",
       "tags": [
         "保监局",
         "分红保单",
@@ -263,7 +263,7 @@
       "summary": "Swiss Re Institute 2026年7月发布sigma报告「World Insurance in 2026」。全球保费增长放缓至1.3%(实物)，低于2025年的3.9%。地缘碎片化+AI基建投资创造新型风险池。保险从风险转移升级为「经济稳定器」。[EN原文]",
       "why": "全球再保险领袖的年度定调，也是行业风向标。",
       "sourceLabel": "Swiss Re Institute",
-      "sourceTier": "",
+      "sourceTier": "insurer",
       "tags": [
         "Swiss Re",
         "sigma",
@@ -285,7 +285,7 @@
       "summary": "金管局与保监局联合推出跨行业背景查核/操守参考安排，2026年7月1日起生效。首阶段覆盖银行及保险机构的寿险从业员，准员工过去七年操守记录可在两行业间共享，覆盖约11万人。",
       "why": "跳槽成本剧增、行业透明度升级，合规瑕疵在银行与保险间一票否决。",
       "sourceLabel": "HKMA+IA 联合通函",
-      "sourceTier": "",
+      "sourceTier": "media",
       "tags": [
         "背景查核",
         "跨行业",
@@ -307,7 +307,7 @@
       "summary": "2026年6月16日，保监局行政总监张云正在公开讲话中警告，已观察到市场参与者试图通过间接方式规避佣金分攤及转介费上限等新报酬措施。保监局将适时介入并对外公布。同时重申确保保险资金经合法合规渠道进入香港的立场。",
       "why": "这是监管对行业「猫鼠游戏」的正式回应；企图规避者将被公开执法，威慑力极强。",
       "sourceLabel": "保监局 · Bloomberg/信报 2026-06-16 [部分EN原文]",
-      "sourceTier": "official",
+      "sourceTier": "media",
       "tags": [
         "执法",
         "跨境架构",
@@ -337,7 +337,7 @@
       "summary": "周大福人寿推出「钻裕」指数型万用保险计划(IUL)，专为专业投资者设计，首次将法国巴黎银行指数引入香港IUL市场。",
       "why": "IUL市场创新者，也是周大福的差异化武器。",
       "sourceLabel": "周大福/ACN",
-      "sourceTier": "",
+      "sourceTier": "media",
       "tags": [
         "周大福",
         "IUL",
@@ -418,7 +418,7 @@
       "summary": "安联2026年5月发布全球保险报告：2025年全球保费+7.1%至EUR6.9万亿。亚洲生命保险+9.9%重新成为增长引擎(中国+11.4%)。健康险+12.3%创十年新高。未来十年全球保费池将新增EUR5.26万亿，超半来自亚洲。[EN原文]",
       "why": "年度最全面的全球保险市场数据，涵盖80+市场。",
       "sourceLabel": "Allianz Research",
-      "sourceTier": "",
+      "sourceTier": "insurer",
       "tags": [
         "安联",
         "全球保险",
@@ -470,7 +470,7 @@
       "summary": "保监局2026年5月8日公布对《保险业（估值及资本）规则》拟议修订的咨询结论。目标在维持审慎的同时，激励保险人投资基建、增强香港作为全球风险管理中心的竞争力。修订涵盖基建投资优惠、离岸再保险宽免、IUL匹配调整等7项。",
       "why": "RBC首次大修，储蓄险资本翻倍、IUL权重上调50%+，直接影响产品供给。",
       "sourceLabel": "IA 保监局新闻稿",
-      "sourceTier": "",
+      "sourceTier": "official",
       "tags": [
         "RBC",
         "咨询结论",
@@ -522,7 +522,7 @@
       "summary": "中国太保寿险香港2026年5月4日（太保成立35周年）推出「世代悦享3储蓄保险计划」。以国资实控、836%偿付能力充足率、全线100%分红兑现（新品116%超预期）为核心卖点，定位安全稳健。",
       "why": "中资保险在港最亮眼产品之一，国资背景+高兑现率，也是差异化竞争力。",
       "sourceLabel": "太保/界面新闻/东方财富",
-      "sourceTier": "",
+      "sourceTier": "media",
       "tags": [
         "太保",
         "世代悦享3",

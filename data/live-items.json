@@ -1,7 +1,7 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-07-29T01:42:21+08:00",
+    "generatedAt": "2026-07-29T01:49:12+08:00",
     "itemCount": 188,
     "windowNote": {
       "sc": "本库188条。",
@@ -237,13 +237,14 @@
       "contentKind": "report",
       "publishedAt": "2026-07-28T10:00:00+08:00",
       "originalUrl": "https://www.spglobal.com/ratings/en/regulatory/article/asia-pacific-insurance-ratings-list-s101683009",
-      "sourceKey": "ratings:consolidated-2026"
+      "sourceKey": "ratings:consolidated-2026",
+      "sourceTier": "media"
     },
     {
       "id": "continuum-hk-gm-202607",
       "clusterCount": 1,
       "score": 68,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "sourceTier": "pro",
       "sourceKey": "InsuranceAsia",
       "title": {
@@ -440,7 +441,7 @@
       "clusterCount": 1,
       "score": 76,
       "verifyStatus": "verified",
-      "sourceTier": "insurer",
+      "sourceTier": "pro",
       "sourceKey": "Prudential plc",
       "title": {
         "sc": "保诚推出 50 万美元级遗产传承产品，瞄准超高净值客群",
@@ -579,7 +580,7 @@
       "clusterCount": 1,
       "score": 74,
       "verifyStatus": "verified",
-      "sourceTier": "insurer",
+      "sourceTier": "pro",
       "sourceKey": "永明 Sun Life",
       "title": {
         "sc": "永明推出私人财富平台，切入高净值综合服务",
@@ -649,7 +650,7 @@
     {
       "clusterCount": 1,
       "score": 70,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-26T23:59:00+08:00",
@@ -792,12 +793,13 @@
       "contentKind": "news",
       "publishedAt": "2026-07-25T10:00:00+08:00",
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/hong-kong-insurance-market-extends-growth-run-as-data-gap-widens-583673.aspx",
-      "sourceKey": "insbus:hk-growth-20260725"
+      "sourceKey": "insbus:hk-growth-20260725",
+      "sourceTier": "media"
     },
     {
       "clusterCount": 1,
       "score": 76,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": true,
       "evergreen": false,
       "ingestedAt": "2026-07-26T23:59:00+08:00",
@@ -840,7 +842,7 @@
         "sc": "行业媒体 · Insurance Asia 等",
         "tc": "行業媒體 · Insurance Asia 等"
       },
-      "sourceTier": "media",
+      "sourceTier": "pro",
       "tags": {
         "sc": [
           "公开披露",
@@ -1035,7 +1037,7 @@
       "id": "aia-20260716-hyrox",
       "clusterCount": 1,
       "score": 75,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T16:00:00+08:00",
@@ -1098,7 +1100,8 @@
       "contentKind": "news",
       "publishedAt": "2026-07-16T10:00:00+08:00",
       "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2026/aia-press-release-20260716",
-      "sourceKey": "aia:hyrox-20260716"
+      "sourceKey": "aia:hyrox-20260716",
+      "sourceTier": "insurer"
     },
     {
       "id": "ia-20260716-ashk-ifoa",
@@ -1265,7 +1268,7 @@
       "id": "creditsights-2026-2h",
       "clusterCount": 1,
       "score": 78,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T20:00:00+08:00",
@@ -1331,7 +1334,8 @@
       "contentKind": "news",
       "publishedAt": "2026-07-15T10:00:00+08:00",
       "originalUrl": "https://insuranceasia.com/insurance/news/asian-insurer-gains-face-regulatory-pressure-in-second-half-2026",
-      "sourceKey": "creditsights:2h26-outlook"
+      "sourceKey": "creditsights:2h26-outlook",
+      "sourceTier": "pro"
     },
     {
       "id": "ia-licence-20260630",
@@ -1478,7 +1482,8 @@
       "contentKind": "news",
       "publishedAt": "2026-07-12T10:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/speeches_articles/20260712.html",
-      "sourceKey": "ia:speech-20260712"
+      "sourceKey": "ia:speech-20260712",
+      "sourceTier": "official"
     },
     {
       "id": "ia-20260712-speech",
@@ -1628,7 +1633,8 @@
       "contentKind": "news",
       "publishedAt": "2026-07-10T15:00:00+08:00",
       "originalUrl": "https://brdr.hkma.gov.hk/gb_chi/doc-ldg/docId/20260708-2-TC",
-      "sourceKey": "ia:circular-20260710"
+      "sourceKey": "ia:circular-20260710",
+      "sourceTier": "official"
     },
     {
       "id": "ia-20260710-illustration-review",
@@ -1775,7 +1781,8 @@
       "contentKind": "news",
       "publishedAt": "2026-07-08T14:00:00+08:00",
       "originalUrl": "https://www.fstb.gov.hk/fsb/tc/business/policy_highlights/insurance-industry.html",
-      "sourceKey": "fstb:captives-20260708"
+      "sourceKey": "fstb:captives-20260708",
+      "sourceTier": "media"
     },
     {
       "id": "ia-20260708-captive",
@@ -1921,7 +1928,8 @@
       "contentKind": "report",
       "publishedAt": "2026-07-08T10:00:00+08:00",
       "originalUrl": "https://www.swissre.com/institute/research/sigma-research/sigma-2026-07-world-insurance.html",
-      "sourceKey": "swissre:sigma-202607"
+      "sourceKey": "swissre:sigma-202607",
+      "sourceTier": "insurer"
     },
     {
       "id": "ia-20260703-rfyc",
@@ -2071,7 +2079,8 @@
       "contentKind": "report",
       "publishedAt": "2026-07-01T10:00:00+08:00",
       "originalUrl": "https://www.rgare.com/knowledge-center/article/hong-kong-insurance-market--navigating-opportunities-and-challenges-in-2026",
-      "sourceKey": "rga:hk-market-2026"
+      "sourceKey": "rga:hk-market-2026",
+      "sourceTier": "media"
     },
     {
       "id": "ia-crossref-20260701",
@@ -2142,7 +2151,8 @@
       "contentKind": "news",
       "publishedAt": "2026-07-01T09:00:00+08:00",
       "originalUrl": "https://xhcins.com/posts/hongkong-insurance-intermediary-reference-checking-2026-07/",
-      "sourceKey": "ia:crossref-20260701"
+      "sourceKey": "ia:crossref-20260701",
+      "sourceTier": "media"
     },
     {
       "id": "ia-20260630-swissre-sigma",
@@ -2191,7 +2201,7 @@
         "tc": "瑞再研究院 · sigma 2/2026 2026-06-30 [EN原文]",
         "lang": "zh"
       },
-      "sourceTier": "research",
+      "sourceTier": "insurer",
       "tags": {
         "sc": [
           "瑞再",
@@ -2271,7 +2281,7 @@
         "tc": "安联研究 · 全球保险报告 2026-06-30 [EN原文]",
         "lang": "zh"
       },
-      "sourceTier": "research",
+      "sourceTier": "insurer",
       "tags": {
         "sc": [
           "安联",
@@ -2306,7 +2316,7 @@
       "id": "ia-20260629-sunlife-notes",
       "clusterCount": 1,
       "score": 65,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T12:00:00+08:00",
@@ -2588,7 +2598,7 @@
         "tc": "摩根士丹利研究 · 月度评论 2026-06 [EN原文]",
         "lang": "zh"
       },
-      "sourceTier": "research",
+      "sourceTier": "insurer",
       "tags": {
         "sc": [
           "摩根士丹利",
@@ -2666,7 +2676,7 @@
         "tc": "PIMCO · Q2亚洲更新 2026-06 [EN原文]",
         "lang": "zh"
       },
-      "sourceTier": "research",
+      "sourceTier": "insurer",
       "tags": {
         "sc": [
           "PIMCO",
@@ -2762,13 +2772,14 @@
       "contentKind": "news",
       "publishedAt": "2026-06-26T10:00:00+08:00",
       "originalUrl": "https://www.cntaiping.com/news/123435.html",
-      "sourceKey": "taiping:rating-20260626"
+      "sourceKey": "taiping:rating-20260626",
+      "sourceTier": "media"
     },
     {
       "id": "ia-20260625-manulife-convention",
       "clusterCount": 1,
       "score": 70,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T12:00:00+08:00",
@@ -2911,13 +2922,14 @@
       "contentKind": "news",
       "publishedAt": "2026-06-25T10:00:00+08:00",
       "originalUrl": "https://www.empf.org.hk/",
-      "sourceKey": "empf:fee-reduction-2026"
+      "sourceKey": "empf:fee-reduction-2026",
+      "sourceTier": "media"
     },
     {
       "id": "manulife-20260625-board",
       "clusterCount": 1,
       "score": 72,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T16:00:00+08:00",
@@ -2976,7 +2988,8 @@
       "contentKind": "news",
       "publishedAt": "2026-06-25T10:00:00+08:00",
       "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html",
-      "sourceKey": "manulife:board-20260625"
+      "sourceKey": "manulife:board-20260625",
+      "sourceTier": "insurer"
     },
     {
       "id": "ia-20260624-rga-trends",
@@ -3104,7 +3117,7 @@
         "tc": "高盛研究 · 市场展望 2026-06 [EN原文]",
         "lang": "zh"
       },
-      "sourceTier": "research",
+      "sourceTier": "insurer",
       "tags": {
         "sc": [
           "高盛",
@@ -3200,7 +3213,8 @@
       "contentKind": "news",
       "publishedAt": "2026-06-20T10:00:00+08:00",
       "originalUrl": "https://www.youtube.com/watch?v=2Kei5uxrEfU",
-      "sourceKey": "fwd:brand-2026"
+      "sourceKey": "fwd:brand-2026",
+      "sourceTier": "media"
     },
     {
       "id": "ia-ai-cohort-202606",
@@ -3270,7 +3284,8 @@
       "contentKind": "news",
       "publishedAt": "2026-06-18T12:00:00+08:00",
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/insurance-authority-adds-three-insurers-to-ai-cohort-programme-579133.aspx",
-      "sourceKey": "ia:ai-cohort-20260618"
+      "sourceKey": "ia:ai-cohort-20260618",
+      "sourceTier": "media"
     },
     {
       "id": "ia-20260618-blackrock-outlook",
@@ -3319,7 +3334,7 @@
         "tc": "贝莱德投资研究院 · 2026年中展望 [EN原文]",
         "lang": "zh"
       },
-      "sourceTier": "research",
+      "sourceTier": "insurer",
       "tags": {
         "sc": [
           "投资展望",
@@ -3354,7 +3369,7 @@
       "id": "ia-20260617-manulife-ai",
       "clusterCount": 1,
       "score": 77,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T12:00:00+08:00",
@@ -3433,7 +3448,7 @@
       "id": "ia-20260616-aia-prudential-roles",
       "clusterCount": 1,
       "score": 76,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T12:00:00+08:00",
@@ -3476,7 +3491,7 @@
         "tc": "Bloomberg · 新闻报道 2026-06-16 [EN原文]",
         "lang": "zh"
       },
-      "sourceTier": "media",
+      "sourceTier": "insurer",
       "tags": {
         "sc": [
           "高净值",
@@ -3557,7 +3572,7 @@
         "tc": "保监局 · Bloomberg/信报 2026-06-16 [部分EN原文]",
         "lang": "zh"
       },
-      "sourceTier": "official",
+      "sourceTier": "media",
       "tags": {
         "sc": [
           "执法",
@@ -3649,7 +3664,7 @@
       },
       "publishedAt": "2026-06-15T15:00:00+08:00",
       "score": 78,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "originalUrl": "https://www.ia.org.hk/sc/infocenter/press_releases/20260615.html",
       "featured": false,
       "contentRole": {
@@ -3670,7 +3685,7 @@
       "id": "axa-2026-bloomberg-awards",
       "clusterCount": 1,
       "score": 74,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T16:00:00+08:00",
@@ -3732,7 +3747,8 @@
       "contentKind": "news",
       "publishedAt": "2026-06-15T10:00:00+08:00",
       "originalUrl": "https://www.prnewswire.com/apac/zh/news-releases/axa2026-302811776.html",
-      "sourceKey": "axa:bloomberg-awards-2026"
+      "sourceKey": "axa:bloomberg-awards-2026",
+      "sourceTier": "insurer"
     },
     {
       "id": "ia-20260615-bloomberg-crackdown",
@@ -3818,7 +3834,7 @@
       "id": "ia-20260612-manulife-plans",
       "clusterCount": 1,
       "score": 73,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T12:00:00+08:00",
@@ -3961,13 +3977,14 @@
       "contentKind": "news",
       "publishedAt": "2026-06-12T10:00:00+08:00",
       "originalUrl": "https://www.china-briefing.com/news/hong-kong-fund-family-office-tax-reform-ufe-2026/",
-      "sourceKey": "hk:fo-tax-20260612"
+      "sourceKey": "hk:fo-tax-20260612",
+      "sourceTier": "media"
     },
     {
       "id": "ia-20260610-manulife-leverage",
       "clusterCount": 1,
       "score": 78,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T12:00:00+08:00",
@@ -4010,7 +4027,7 @@
         "tc": "Hubbis / 媒体报道 2026-06 [EN原文]",
         "lang": "zh"
       },
-      "sourceTier": "media",
+      "sourceTier": "insurer",
       "tags": {
         "sc": [
           "保费融资",
@@ -4048,7 +4065,7 @@
       "id": "ia-20260610-chowtaifook-life",
       "clusterCount": 1,
       "score": 72,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T12:00:00+08:00",
@@ -4191,7 +4208,8 @@
       "contentKind": "news",
       "publishedAt": "2026-06-10T10:00:00+08:00",
       "originalUrl": "https://www.acnnewswire.com/press-release/traditionalchinese/107208/",
-      "sourceKey": "ctflife:diamond-iul-2026"
+      "sourceKey": "ctflife:diamond-iul-2026",
+      "sourceTier": "media"
     },
     {
       "id": "ia-20260609-fitch-apac",
@@ -4277,7 +4295,7 @@
       "id": "ia-20260608-axa-global-private",
       "clusterCount": 1,
       "score": 82,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T12:00:00+08:00",
@@ -4358,7 +4376,7 @@
       "id": "aia-20260608-prosperlife",
       "clusterCount": 1,
       "score": 82,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T16:00:00+08:00",
@@ -4422,13 +4440,14 @@
       "contentKind": "news",
       "publishedAt": "2026-06-08T10:00:00+08:00",
       "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2026/aia-press-release-20260608",
-      "sourceKey": "aia:prosperlife-20260608"
+      "sourceKey": "aia:prosperlife-20260608",
+      "sourceTier": "insurer"
     },
     {
       "id": "ia-20260608-aia-wealth-flexi",
       "clusterCount": 1,
       "score": 80,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T12:00:00+08:00",
@@ -4732,13 +4751,14 @@
       "contentKind": "news",
       "publishedAt": "2026-06-05T10:00:00+08:00",
       "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-insurance-authority-tightens-commission-rules-hkma-raises-pressure",
-      "sourceKey": "hkma:commission-circular-20260605"
+      "sourceKey": "hkma:commission-circular-20260605",
+      "sourceTier": "pro"
     },
     {
       "id": "ia-20260611-chubb-life",
       "clusterCount": 1,
       "score": 62,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T12:00:00+08:00",
@@ -4897,7 +4917,7 @@
       "id": "ia-20260602-hkma-crossborder",
       "clusterCount": 1,
       "score": 72,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T12:00:00+08:00",
@@ -5042,13 +5062,14 @@
       "contentKind": "report",
       "publishedAt": "2026-06-01T10:00:00+08:00",
       "originalUrl": "https://www.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-outlooks/insurance-industry-outlook.html",
-      "sourceKey": "deloitte:insurance-outlook-2026"
+      "sourceKey": "deloitte:insurance-outlook-2026",
+      "sourceTier": "media"
     },
     {
       "id": "chubb-20260601-mylegacy",
       "clusterCount": 1,
       "score": 80,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T17:30:00+08:00",
@@ -5111,7 +5132,8 @@
       "contentKind": "news",
       "publishedAt": "2026-06-01T10:00:00+08:00",
       "originalUrl": "https://www.chubb.com/hk-en/media-center/life-insurance-news-releases.html",
-      "sourceKey": "chubb:mylegacy-20260601"
+      "sourceKey": "chubb:mylegacy-20260601",
+      "sourceTier": "insurer"
     },
     {
       "id": "ia-20260529-onsite-findings",
@@ -5258,7 +5280,8 @@
       "contentKind": "report",
       "publishedAt": "2026-05-28T10:00:00+08:00",
       "originalUrl": "https://www.allianz.com/en/economic_research/insights/publications/specials_fmo/260528-global-insurance-report.html",
-      "sourceKey": "allianz:global-report-20260528"
+      "sourceKey": "allianz:global-report-20260528",
+      "sourceTier": "insurer"
     },
     {
       "id": "ia-20260520-gl34-corp",
@@ -5326,13 +5349,14 @@
       "contentKind": "news",
       "publishedAt": "2026-05-20T16:00:00+08:00",
       "originalUrl": "https://www.legco.gov.hk/yr2026/chinese/brief/ins216c_20260520-c.pdf",
-      "sourceKey": "legco:disclosure-20260520"
+      "sourceKey": "legco:disclosure-20260520",
+      "sourceTier": "media"
     },
     {
       "id": "fwd-2026-q1-update",
       "clusterCount": 1,
       "score": 80,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T17:00:00+08:00",
@@ -5395,13 +5419,14 @@
       "contentKind": "news",
       "publishedAt": "2026-05-20T10:00:00+08:00",
       "originalUrl": "https://www.fwd.com/zh/newsroom/press-releases/FWD-Group-reports-strong-first-quarter-new-business-update/",
-      "sourceKey": "fwd:q1-2026"
+      "sourceKey": "fwd:q1-2026",
+      "sourceTier": "insurer"
     },
     {
       "id": "ia-20260519-disclosure-consult",
       "clusterCount": 1,
       "score": 85,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T12:00:00+08:00",
@@ -5463,13 +5488,14 @@
       "contentKind": "news",
       "publishedAt": "2026-05-19T15:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/",
-      "sourceKey": "ia:disclosure-consult-20260519"
+      "sourceKey": "ia:disclosure-consult-20260519",
+      "sourceTier": "official"
     },
     {
       "id": "sunlife-2026-10life-awards",
       "clusterCount": 1,
       "score": 77,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T16:00:00+08:00",
@@ -5531,7 +5557,8 @@
       "contentKind": "news",
       "publishedAt": "2026-05-15T10:00:00+08:00",
       "originalUrl": "https://www.10life.com/zh-HK/5star-products-2026/insurer-sunlife",
-      "sourceKey": "sunlife:10life-2026"
+      "sourceKey": "sunlife:10life-2026",
+      "sourceTier": "insurer"
     },
     {
       "id": "ia-20260513-cross-ref",
@@ -5602,7 +5629,8 @@
       "contentKind": "news",
       "publishedAt": "2026-05-13T09:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
-      "sourceKey": "ia:cross-ref-circular-20260513"
+      "sourceKey": "ia:cross-ref-circular-20260513",
+      "sourceTier": "official"
     },
     {
       "id": "ia-20260513-cross-refcheck",
@@ -5751,7 +5779,8 @@
       "contentKind": "news",
       "publishedAt": "2026-05-08T12:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260508.html",
-      "sourceKey": "ia:rbc-consultation-conclusion-20260508"
+      "sourceKey": "ia:rbc-consultation-conclusion-20260508",
+      "sourceTier": "official"
     },
     {
       "id": "ia-20260508-rbc-conclusions",
@@ -5901,7 +5930,8 @@
       "contentKind": "news",
       "publishedAt": "2026-05-04T10:00:00+08:00",
       "originalUrl": "https://www.cpiclifehk.com.hk/sc/company/lastestNews",
-      "sourceKey": "cpic:gen3-20260504"
+      "sourceKey": "cpic:gen3-20260504",
+      "sourceTier": "media"
     },
     {
       "id": "aia-20260430-q1-vonb",
@@ -5972,13 +6002,14 @@
       "contentKind": "news",
       "publishedAt": "2026-04-30T09:00:00+08:00",
       "originalUrl": "https://www.aia.com/content/dam/group-wise/en/docs/press-release/2026/AIA%20Group%20Press%20Release_ENG_30%20April%202026.pdf",
-      "sourceKey": "aia:q1-vonb-20260430"
+      "sourceKey": "aia:q1-vonb-20260430",
+      "sourceTier": "insurer"
     },
     {
       "id": "prudential-20260429-self-future",
       "clusterCount": 1,
       "score": 78,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T16:00:00+08:00",
@@ -6039,7 +6070,8 @@
       "contentKind": "news",
       "publishedAt": "2026-04-29T14:00:00+08:00",
       "originalUrl": "https://www.prudential.com.hk/tc/",
-      "sourceKey": "prudential:self-future-ii-20260429"
+      "sourceKey": "prudential:self-future-ii-20260429",
+      "sourceTier": "insurer"
     },
     {
       "id": "boclife-20260427-retirement",
@@ -6109,7 +6141,8 @@
       "contentKind": "news",
       "publishedAt": "2026-04-27T10:00:00+08:00",
       "originalUrl": "https://www.bochk.com/dam/bochk/desktop/top/aboutus/pressrelease2/2026/260427021_Press_Release_TC.pdf",
-      "sourceKey": "boclife:retirement-20260427"
+      "sourceKey": "boclife:retirement-20260427",
+      "sourceTier": "media"
     },
     {
       "id": "ia-2025-full-year",
@@ -6178,7 +6211,8 @@
       "contentKind": "news",
       "publishedAt": "2026-04-25T10:00:00+08:00",
       "originalUrl": "https://www.hkinsu.com/zhuanlan/chris/36397.html",
-      "sourceKey": "ia:full-year-2025"
+      "sourceKey": "ia:full-year-2025",
+      "sourceTier": "media"
     },
     {
       "id": "ia-20260424-stats-2025",
@@ -6246,7 +6280,7 @@
         "sc": "请打开新闻稿核对表格数字后再对外引用。",
         "tc": "請打開新聞稿核對表格數字後再對外引用。"
       },
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "contentRole": {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
@@ -6327,7 +6361,8 @@
       "contentKind": "news",
       "publishedAt": "2026-04-24T10:00:00+08:00",
       "originalUrl": "https://finance.yahoo.com/sectors/healthcare/articles/aia-hong-kong-leads-industry-135200472.html",
-      "sourceKey": "aia:top-insurer-20260424"
+      "sourceKey": "aia:top-insurer-20260424",
+      "sourceTier": "media"
     },
     {
       "id": "ctflife-20260422-artisan-leap",
@@ -6396,7 +6431,8 @@
       "contentKind": "news",
       "publishedAt": "2026-04-22T14:00:00+08:00",
       "originalUrl": "https://www.ffg.com.hk/news/csr/w5jo28lfkyonusn0iidrp960",
-      "sourceKey": "ctflife:artisan-leap-20260422"
+      "sourceKey": "ctflife:artisan-leap-20260422",
+      "sourceTier": "media"
     },
     {
       "id": "ia-20260422-ils",
@@ -6546,7 +6582,8 @@
       "contentKind": "news",
       "publishedAt": "2026-04-20T10:00:00+08:00",
       "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom/manulife-launches-new-annuity-and-accident-protection-solutions.html",
-      "sourceKey": "manulife:annuity-accident-20260420"
+      "sourceKey": "manulife:annuity-accident-20260420",
+      "sourceTier": "insurer"
     },
     {
       "id": "ia-20260416-cyber",
@@ -6693,7 +6730,8 @@
       "contentKind": "news",
       "publishedAt": "2026-04-15T10:00:00+08:00",
       "originalUrl": "https://www.fsdc.org.hk/zh/media/",
-      "sourceKey": "fsdc:insurance-hub-report-202604"
+      "sourceKey": "fsdc:insurance-hub-report-202604",
+      "sourceTier": "media"
     },
     {
       "id": "chinlife-2026-hk-digital",
@@ -6763,7 +6801,8 @@
       "contentKind": "news",
       "publishedAt": "2026-04-10T10:00:00+08:00",
       "originalUrl": "https://www.chinalife.com.hk/",
-      "sourceKey": "chinlife:digital-2026"
+      "sourceKey": "chinlife:digital-2026",
+      "sourceTier": "media"
     },
     {
       "id": "legco-20260410-fa-disclosure",
@@ -6831,7 +6870,8 @@
       "contentKind": "news",
       "publishedAt": "2026-04-10T10:00:00+08:00",
       "originalUrl": "https://www.legco.gov.hk/yr2026/english/panels/fa/papers/fa20260410cb1-309-8-e.pdf",
-      "sourceKey": "legco:fa-disclosure-20260410"
+      "sourceKey": "legco:fa-disclosure-20260410",
+      "sourceTier": "media"
     },
     {
       "id": "ia-20260409-captive-beijing",
@@ -6984,7 +7024,8 @@
       "contentKind": "news",
       "publishedAt": "2026-03-31T09:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/gn16.html",
-      "sourceKey": "ia:gn16-20260331"
+      "sourceKey": "ia:gn16-20260331",
+      "sourceTier": "official"
     },
     {
       "id": "gn16-revised-20260331",
@@ -7055,7 +7096,8 @@
       "contentKind": "news",
       "publishedAt": "2026-03-31T09:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/gn16.html",
-      "sourceKey": "ia:gn16-revised-20260331"
+      "sourceKey": "ia:gn16-revised-20260331",
+      "sourceTier": "official"
     },
     {
       "id": "ia-20260331-cpd-reporting",
@@ -7198,7 +7240,8 @@
       "contentKind": "news",
       "publishedAt": "2026-03-27T10:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/tc/legislative_framework/Conduct_in_Focus_Issue_12_01.html",
-      "sourceKey": "ia:complaints-2025"
+      "sourceKey": "ia:complaints-2025",
+      "sourceTier": "official"
     },
     {
       "id": "ia-20260327-cif12",
@@ -7436,7 +7479,7 @@
       "id": "chubb-2026-dementia",
       "clusterCount": 1,
       "score": 81,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T17:30:00+08:00",
@@ -7499,7 +7542,8 @@
       "contentKind": "news",
       "publishedAt": "2026-03-24T10:00:00+08:00",
       "originalUrl": "https://hk.linkedin.com/company/chubb-life-hong-kong",
-      "sourceKey": "chubb:dementia-2026"
+      "sourceKey": "chubb:dementia-2026",
+      "sourceTier": "insurer"
     },
     {
       "id": "aia-2025-annual-results",
@@ -7568,13 +7612,14 @@
       "contentKind": "news",
       "publishedAt": "2026-03-19T09:00:00+08:00",
       "originalUrl": "https://www.aia.com/zh-hk/media-centre/press-releases/2026/aia-group-press-release-20260319",
-      "sourceKey": "aia:annual-2025"
+      "sourceKey": "aia:annual-2025",
+      "sourceTier": "insurer"
     },
     {
       "id": "hsbc-life-2026-hnw-pitchbook",
       "clusterCount": 1,
       "score": 82,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T17:00:00+08:00",
@@ -7638,13 +7683,14 @@
       "contentKind": "news",
       "publishedAt": "2026-03-17T10:00:00+08:00",
       "originalUrl": "https://www.life.hsbc.com/-/media/life/pdfs/260317-hsbc-life-hnw-pitchbook-sc.pdf",
-      "sourceKey": "hsbc:hnw-pitchbook-20260317"
+      "sourceKey": "hsbc:hnw-pitchbook-20260317",
+      "sourceTier": "insurer"
     },
     {
       "id": "prudential-20260317-youth",
       "clusterCount": 1,
       "score": 76,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T16:00:00+08:00",
@@ -7707,7 +7753,8 @@
       "contentKind": "news",
       "publishedAt": "2026-03-17T10:00:00+08:00",
       "originalUrl": "https://www.prudential.com.hk/tc/about-us/newsroom/prudential-launches-pruchoice-power-up-go-insurance/",
-      "sourceKey": "prudential:youth-20260317"
+      "sourceKey": "prudential:youth-20260317",
+      "sourceTier": "insurer"
     },
     {
       "id": "sunlife-202603-sp-upgrade",
@@ -7777,7 +7824,8 @@
       "contentKind": "news",
       "publishedAt": "2026-03-16T10:00:00+08:00",
       "originalUrl": "https://www.sunlife.com.hk/zh-hant/about-us/newsroom/news-releases/2026/sun-life-hong-kong-upgraded-to-aa-rating-by-sp/",
-      "sourceKey": "sunlife:sp-upgrade-202603"
+      "sourceKey": "sunlife:sp-upgrade-202603",
+      "sourceTier": "insurer"
     },
     {
       "id": "hkma-ia-2026-genai-sandbox",
@@ -7847,13 +7895,14 @@
       "contentKind": "news",
       "publishedAt": "2026-03-15T10:00:00+08:00",
       "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-finance-regulators-push-ai-police-ai-risks",
-      "sourceKey": "hkma:genai-sandbox-2026"
+      "sourceKey": "hkma:genai-sandbox-2026",
+      "sourceTier": "pro"
     },
     {
       "id": "manulife-202603-new-products",
       "clusterCount": 1,
       "score": 76,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T12:30:00+08:00",
@@ -7915,7 +7964,8 @@
       "contentKind": "news",
       "publishedAt": "2026-03-15T10:00:00+08:00",
       "originalUrl": "https://www.linkedin.com/posts/manulife-hong-kong-and-macau",
-      "sourceKey": "manulife:new-products-202603"
+      "sourceKey": "manulife:new-products-202603",
+      "sourceTier": "insurer"
     },
     {
       "id": "ia-20260310-rbc-consult-close",
@@ -7984,7 +8034,8 @@
       "contentKind": "news",
       "publishedAt": "2026-03-10T18:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260211.html",
-      "sourceKey": "ia:rbc-consult-close-20260310"
+      "sourceKey": "ia:rbc-consult-close-20260310",
+      "sourceTier": "official"
     },
     {
       "id": "ia-20260305-genai-sandbox",
@@ -8123,7 +8174,7 @@
       },
       "publishedAt": "2026-02-25T12:00:00+08:00",
       "score": 76,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/press_releases/20260225.html",
       "featured": false,
       "contentRole": {
@@ -8283,7 +8334,8 @@
       "contentKind": "news",
       "publishedAt": "2026-02-15T10:00:00+08:00",
       "originalUrl": "https://hk.finance.yahoo.com/news/sun-life永明2025全年新造業務年度化標準保費達118億港元-104538638.html",
-      "sourceKey": "sunlife:ape-2025"
+      "sourceKey": "sunlife:ape-2025",
+      "sourceTier": "media"
     },
     {
       "id": "ia-20260213-low-altitude",
@@ -8510,7 +8562,8 @@
       "contentKind": "news",
       "publishedAt": "2026-02-11T10:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260211.html",
-      "sourceKey": "ia:rbc-consult-launch-20260211"
+      "sourceKey": "ia:rbc-consult-launch-20260211",
+      "sourceTier": "official"
     },
     {
       "id": "fstb-20260210-fo-3384",
@@ -8580,7 +8633,8 @@
       "contentKind": "report",
       "publishedAt": "2026-02-10T10:00:00+08:00",
       "originalUrl": "https://www.fstb.gov.hk/en/blog/blog100226.htm",
-      "sourceKey": "fstb:fo-3384-202602"
+      "sourceKey": "fstb:fo-3384-202602",
+      "sourceTier": "media"
     },
     {
       "id": "hk-2026-newcies-3000",
@@ -8650,7 +8704,8 @@
       "contentKind": "news",
       "publishedAt": "2026-02-10T10:00:00+08:00",
       "originalUrl": "https://www.fstb.gov.hk/en/blog/blog100226.htm",
-      "sourceKey": "hk:newcies-3000-2026"
+      "sourceKey": "hk:newcies-3000-2026",
+      "sourceTier": "media"
     },
     {
       "id": "dlapiper-202602-gl16",
@@ -8719,7 +8774,8 @@
       "contentKind": "news",
       "publishedAt": "2026-02-10T10:00:00+08:00",
       "originalUrl": "https://www.dlapiper.com/en-us/insights/publications/2026/03/insurance-authority-of-hong-kong-issues-revised-guideline",
-      "sourceKey": "dlapiper:gl16-202602"
+      "sourceKey": "dlapiper:gl16-202602",
+      "sourceTier": "pro"
     },
     {
       "id": "ia-20260206-gl16-gl34",
@@ -8868,7 +8924,8 @@
       "contentKind": "news",
       "publishedAt": "2026-02-01T14:00:00+08:00",
       "originalUrl": "https://www.stcn.com/article/detail/1228440.html",
-      "sourceKey": "circ:crossborder-20260201"
+      "sourceKey": "circ:crossborder-20260201",
+      "sourceTier": "media"
     },
     {
       "id": "ia-20260126-aff",
@@ -9015,7 +9072,8 @@
       "contentKind": "news",
       "publishedAt": "2026-01-26T09:00:00+08:00",
       "originalUrl": "https://hk.finance.yahoo.com/news/axa成功遷冊回港-015300166.html",
-      "sourceKey": "axa:redomicile-20260126"
+      "sourceKey": "axa:redomicile-20260126",
+      "sourceTier": "insurer"
     },
     {
       "id": "ia-20260123-stats-3q2025",
@@ -9083,7 +9141,7 @@
         "sc": "数字请回新闻稿表格核对。",
         "tc": "數字請回新聞稿表格核對。"
       },
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "contentRole": {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
@@ -9166,7 +9224,8 @@
       "contentKind": "news",
       "publishedAt": "2026-01-23T10:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260123.html",
-      "sourceKey": "ia:q3stats-20260123"
+      "sourceKey": "ia:q3stats-20260123",
+      "sourceTier": "official"
     },
     {
       "id": "evident-2026-insurance-ai",
@@ -9234,7 +9293,8 @@
       "contentKind": "report",
       "publishedAt": "2026-01-15T10:00:00+08:00",
       "originalUrl": "https://events.newton.media/Agentic-and-Generative-AI-for-Insurance-USA",
-      "sourceKey": "evident:ai-tracker-2026"
+      "sourceKey": "evident:ai-tracker-2026",
+      "sourceTier": "media"
     },
     {
       "id": "ia-gl34-20260331",
@@ -9299,7 +9359,7 @@
       "publishedAt": "2026-01-15T10:00:00+08:00",
       "effectiveAt": "2026-03-31",
       "score": 88,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "originalUrl": "https://www.jdsupra.com/legalnews/hong-kong-insurance-authority-issues-8765538/",
       "featured": true,
       "contentRole": {
@@ -9381,7 +9441,8 @@
       "contentKind": "news",
       "publishedAt": "2026-01-10T10:00:00+08:00",
       "originalUrl": "https://www.ebactuary.com/post/hong-kong-general-insurance-market-analysis-2025-2029-and-global-comparison",
-      "sourceKey": "ebact:hk-market-2025"
+      "sourceKey": "ebact:hk-market-2025",
+      "sourceTier": "media"
     },
     {
       "id": "manulife-20260105-two-plans",
@@ -9451,7 +9512,8 @@
       "contentKind": "news",
       "publishedAt": "2026-01-05T10:00:00+08:00",
       "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html",
-      "sourceKey": "manulife:two-plans-20260105"
+      "sourceKey": "manulife:two-plans-20260105",
+      "sourceTier": "insurer"
     },
     {
       "id": "zhihu-2025-top10",
@@ -9520,7 +9582,8 @@
       "contentKind": "news",
       "publishedAt": "2025-12-30T10:00:00+08:00",
       "originalUrl": "https://zhuanlan.zhihu.com/p/1996682970564694535",
-      "sourceKey": "zhihu:top10-2025"
+      "sourceKey": "zhihu:top10-2025",
+      "sourceTier": "media"
     },
     {
       "id": "jpmorgan-2026-outlook",
@@ -9592,7 +9655,8 @@
       "contentKind": "report",
       "publishedAt": "2025-12-10T10:00:00+08:00",
       "originalUrl": "https://www.jpmorgan.com/insights/global-research/outlook/market-outlook",
-      "sourceKey": "jpmorgan:outlook-2026"
+      "sourceKey": "jpmorgan:outlook-2026",
+      "sourceTier": "insurer"
     },
     {
       "id": "ia-2024-annual-stats",
@@ -9661,13 +9725,14 @@
       "contentKind": "news",
       "publishedAt": "2025-12-05T10:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20251205.html",
-      "sourceKey": "ia:annual-stats-2024"
+      "sourceKey": "ia:annual-stats-2024",
+      "sourceTier": "official"
     },
     {
       "id": "aia-20251121-aisan",
       "clusterCount": 1,
       "score": 78,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T18:00:00+08:00",
@@ -9729,7 +9794,8 @@
       "contentKind": "news",
       "publishedAt": "2025-11-21T10:00:00+08:00",
       "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2025/aia-press-release-20251121",
-      "sourceKey": "aia:aisan-20251121"
+      "sourceKey": "aia:aisan-20251121",
+      "sourceTier": "insurer"
     },
     {
       "id": "goldman-2026-macro-outlook",
@@ -9798,7 +9864,8 @@
       "contentKind": "report",
       "publishedAt": "2025-11-20T10:00:00+08:00",
       "originalUrl": "https://www.goldmansachs.com/insights/outlooks/2026-outlooks",
-      "sourceKey": "goldman:macro-2026"
+      "sourceKey": "goldman:macro-2026",
+      "sourceTier": "insurer"
     },
     {
       "id": "ia-20251120-refcheck-scheme",
@@ -9943,7 +10010,8 @@
       "contentKind": "news",
       "publishedAt": "2025-11-13T10:00:00+08:00",
       "originalUrl": "https://www.sfc.hk/en/Regulatory-functions/Intermediaries/Supervision/Cross-boundary-WMC",
-      "sourceKey": "sfc:wmc-202511"
+      "sourceKey": "sfc:wmc-202511",
+      "sourceTier": "media"
     },
     {
       "id": "ia-20251024-1h2025-stats",
@@ -10089,7 +10157,8 @@
       "contentKind": "news",
       "publishedAt": "2025-10-24T10:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/statistics/",
-      "sourceKey": "ia:h1stats-20251024"
+      "sourceKey": "ia:h1stats-20251024",
+      "sourceTier": "official"
     },
     {
       "id": "ia-ro-cpd-20251014",
@@ -10170,7 +10239,7 @@
       "id": "ia-202508-iul-sandbox",
       "clusterCount": 1,
       "score": 80,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T13:00:00+08:00",
@@ -10234,7 +10303,8 @@
       "contentKind": "news",
       "publishedAt": "2025-09-19T14:00:00+08:00",
       "originalUrl": "https://brdr.hkma.gov.hk/chi/doc-ldg/docId/20250313-10-TC",
-      "sourceKey": "ia:iul-sandbox-20250919"
+      "sourceKey": "ia:iul-sandbox-20250919",
+      "sourceTier": "official"
     },
     {
       "id": "ia-20250919-product-naming",
@@ -10380,13 +10450,14 @@
       "contentKind": "news",
       "publishedAt": "2025-09-17T14:00:00+08:00",
       "originalUrl": "https://brdr.hkma.gov.hk/eng/doc-ldg/docId/getPdf/20250917-4-EN/20250917-4-EN.pdf",
-      "sourceKey": "ia:hkma-product-naming-20250917"
+      "sourceKey": "ia:hkma-product-naming-20250917",
+      "sourceTier": "official"
     },
     {
       "id": "manulife-20250902-hospitals",
       "clusterCount": 1,
       "score": 76,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T18:00:00+08:00",
@@ -10449,7 +10520,8 @@
       "contentKind": "news",
       "publishedAt": "2025-09-02T10:00:00+08:00",
       "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html",
-      "sourceKey": "manulife:hospitals-20250902"
+      "sourceKey": "manulife:hospitals-20250902",
+      "sourceTier": "insurer"
     },
     {
       "id": "ia-20250901-referral50",
@@ -10520,7 +10592,8 @@
       "contentKind": "news",
       "publishedAt": "2025-09-01T09:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_01092025_Referral_Fees_Eng.pdf",
-      "sourceKey": "ia:referral-50-20250901"
+      "sourceKey": "ia:referral-50-20250901",
+      "sourceTier": "official"
     },
     {
       "id": "ia-20250901-referral-fee",
@@ -10669,7 +10742,8 @@
       "contentKind": "news",
       "publishedAt": "2025-08-22T10:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/files/IA_AR24-25_Synopsis_TC.pdf",
-      "sourceKey": "ia:annual-report-2024-25"
+      "sourceKey": "ia:annual-report-2024-25",
+      "sourceTier": "official"
     },
     {
       "id": "dlapiper-202508-commission",
@@ -10739,7 +10813,8 @@
       "contentKind": "news",
       "publishedAt": "2025-08-15T10:00:00+08:00",
       "originalUrl": "https://www.dlapiper.com/en-us/insights/publications/2025/08/hong-kong-insurance-authority-issues-practice-note",
-      "sourceKey": "dlapiper:commission-202508"
+      "sourceKey": "dlapiper:commission-202508",
+      "sourceTier": "pro"
     },
     {
       "id": "ia-commission-20260101",
@@ -10966,7 +11041,8 @@
       "contentKind": "news",
       "publishedAt": "2025-07-15T14:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/commission_spreading.html",
-      "sourceKey": "ia:commission-spread-20250715"
+      "sourceKey": "ia:commission-spread-20250715",
+      "sourceTier": "official"
     },
     {
       "id": "ia-20250711-ro-cpd-compulsory",
@@ -11048,7 +11124,7 @@
       "id": "aia-20250708-global-prosper",
       "clusterCount": 1,
       "score": 80,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T18:00:00+08:00",
@@ -11110,7 +11186,8 @@
       "contentKind": "news",
       "publishedAt": "2025-07-08T10:00:00+08:00",
       "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2025/aia-press-release-20250708",
-      "sourceKey": "aia:global-prosper-20250708"
+      "sourceKey": "aia:global-prosper-20250708",
+      "sourceTier": "insurer"
     },
     {
       "id": "ia-20250701-illustration-cap",
@@ -11182,13 +11259,14 @@
       "contentKind": "news",
       "publishedAt": "2025-07-01T09:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/illustration_cap.html",
-      "sourceKey": "ia:illustration-cap-20250701"
+      "sourceKey": "ia:illustration-cap-20250701",
+      "sourceTier": "official"
     },
     {
       "id": "sunlife-2025-enhanced-savings",
       "clusterCount": 1,
       "score": 77,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T18:00:00+08:00",
@@ -11250,7 +11328,8 @@
       "contentKind": "news",
       "publishedAt": "2025-06-15T10:00:00+08:00",
       "originalUrl": "https://www.sunlife.com.hk/zh-hant/about-us/newsroom/news-releases/2025/sun-life-unveils-suite-of-enhanced-savings-insurance-plans/",
-      "sourceKey": "sunlife:enhanced-savings-2025"
+      "sourceKey": "sunlife:enhanced-savings-2025",
+      "sourceTier": "insurer"
     },
     {
       "id": "ia-2025q1-stats-934",
@@ -11320,7 +11399,8 @@
       "contentKind": "news",
       "publishedAt": "2025-06-15T10:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/statistics/",
-      "sourceKey": "ia:q1stats-2025"
+      "sourceKey": "ia:q1stats-2025",
+      "sourceTier": "official"
     },
     {
       "id": "fstb-2024-density",
@@ -11387,7 +11467,8 @@
       "contentKind": "news",
       "publishedAt": "2025-06-01T10:00:00+08:00",
       "originalUrl": "https://www.fstb.gov.hk/tc/financial_ser/insurance-industry.htm",
-      "sourceKey": "fstb:density-2024"
+      "sourceKey": "fstb:density-2024",
+      "sourceTier": "media"
     },
     {
       "id": "manulife-20250428-ci",
@@ -11455,7 +11536,8 @@
       "contentKind": "news",
       "publishedAt": "2025-04-28T10:00:00+08:00",
       "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html",
-      "sourceKey": "manulife:ci-20250428"
+      "sourceKey": "manulife:ci-20250428",
+      "sourceTier": "insurer"
     },
     {
       "id": "ia-2025-d-sii-designation",
@@ -11525,13 +11607,14 @@
       "contentKind": "news",
       "publishedAt": "2025-04-15T10:00:00+08:00",
       "originalUrl": "https://beinsure.com/news/hong-kong-names-aia-prudential-asia/",
-      "sourceKey": "ia:d-sii-2025"
+      "sourceKey": "ia:d-sii-2025",
+      "sourceTier": "insurer"
     },
     {
       "id": "axa-20250409-gba-med",
       "clusterCount": 1,
       "score": 81,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T18:00:00+08:00",
@@ -11595,7 +11678,8 @@
       "contentKind": "news",
       "publishedAt": "2025-04-09T10:00:00+08:00",
       "originalUrl": "https://www.axa.com.hk/zh/news-room/2025",
-      "sourceKey": "axa:gba-med-20250409"
+      "sourceKey": "axa:gba-med-20250409",
+      "sourceTier": "insurer"
     },
     {
       "id": "ia-20250330-illustration-article",
@@ -11736,7 +11820,8 @@
       "contentKind": "report",
       "publishedAt": "2025-03-27T10:00:00+08:00",
       "originalUrl": "https://www.fsdc.org.hk/en/media/",
-      "sourceKey": "fsdc:insurance-hub-2025"
+      "sourceKey": "fsdc:insurance-hub-2025",
+      "sourceTier": "media"
     },
     {
       "id": "ia-2025-insurtech-initiatives",
@@ -11805,7 +11890,8 @@
       "contentKind": "report",
       "publishedAt": "2025-03-26T10:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/aboutus/task_force/activities_meetings/files/IA_presentation_final.pdf",
-      "sourceKey": "ia:insurtech-2025"
+      "sourceKey": "ia:insurtech-2025",
+      "sourceTier": "official"
     },
     {
       "id": "aia-2024-annual",
@@ -11873,7 +11959,8 @@
       "contentKind": "news",
       "publishedAt": "2025-03-14T09:00:00+08:00",
       "originalUrl": "https://www.aia.com/en/investor-relations/",
-      "sourceKey": "aia:annual-2024"
+      "sourceKey": "aia:annual-2024",
+      "sourceTier": "insurer"
     },
     {
       "id": "ia-20250313-iul-circular",
@@ -11943,7 +12030,8 @@
       "contentKind": "news",
       "publishedAt": "2025-03-13T09:00:00+08:00",
       "originalUrl": "https://brdr.hkma.gov.hk/chi/doc-ldg/docId/20250313-10-TC",
-      "sourceKey": "ia:hkma-iul-circular-20250313"
+      "sourceKey": "ia:hkma-iul-circular-20250313",
+      "sourceTier": "official"
     },
     {
       "id": "ia-20250313-iul-pi",
@@ -12091,7 +12179,8 @@
       "contentKind": "news",
       "publishedAt": "2025-02-28T10:00:00+08:00",
       "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/governmentDetail.html?docId=1199748&itemId=861&generaltype=1",
-      "sourceKey": "nfra:hkmo-insurance-202502"
+      "sourceKey": "nfra:hkmo-insurance-202502",
+      "sourceTier": "media"
     },
     {
       "id": "ia-20250228-illustration-note",
@@ -12163,7 +12252,8 @@
       "contentKind": "news",
       "publishedAt": "2025-02-28T09:00:00+08:00",
       "originalUrl": "https://brdr.hkma.gov.hk/eng/doc-ldg/docId/20250228-3-EN",
-      "sourceKey": "ia:illustration-note-20250228"
+      "sourceKey": "ia:illustration-note-20250228",
+      "sourceTier": "official"
     },
     {
       "id": "ia-20250228-illustration-cap-pn",
@@ -12387,13 +12477,14 @@
       "contentKind": "news",
       "publishedAt": "2025-01-15T10:00:00+08:00",
       "originalUrl": "https://www.linkedin.com/pulse/reviewing-key-trends-hong-kongs-insurance-industry-2024-demi-poon-b4lkc",
-      "sourceKey": "linkedin:hk-trends-2024"
+      "sourceKey": "linkedin:hk-trends-2024",
+      "sourceTier": "media"
     },
     {
       "id": "axa-20250110-shengli",
       "clusterCount": 1,
       "score": 79,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T18:00:00+08:00",
@@ -12455,7 +12546,8 @@
       "contentKind": "news",
       "publishedAt": "2025-01-10T10:00:00+08:00",
       "originalUrl": "https://www.axa.com.hk/zh/news-room/2025",
-      "sourceKey": "axa:shengli-20250110"
+      "sourceKey": "axa:shengli-20250110",
+      "sourceTier": "insurer"
     },
     {
       "id": "ia-20241205-annual-2024",
@@ -12526,7 +12618,7 @@
       "id": "ia-2024-re-domiciliation",
       "clusterCount": 1,
       "score": 70,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "sourceTier": "official",
       "sourceKey": "保监局 IA",
       "title": {
@@ -12592,7 +12684,7 @@
       "id": "ia-2024-revised-gn16-consult",
       "clusterCount": 1,
       "score": 79,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "sourceTier": "official",
       "sourceKey": "保监局 IA",
       "title": {
@@ -12660,7 +12752,7 @@
       "id": "manulife-hiv-coverage-2024",
       "clusterCount": 1,
       "score": 70,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "sourceTier": "insurer",
       "sourceKey": "Manulife",
       "title": {
@@ -12793,7 +12885,7 @@
       "id": "ia-2024-h1-refcheck-cross-sector",
       "clusterCount": 1,
       "score": 76,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "sourceTier": "official",
       "sourceKey": "保监局 IA",
       "title": {
@@ -12924,7 +13016,8 @@
       "contentKind": "news",
       "publishedAt": "2024-09-23T09:00:00+08:00",
       "originalUrl": "https://www.kennedyslaw.com/en/thought-leadership/article/2024/hong-kong-regulatory-insurance-update-september-2024/",
-      "sourceKey": "ia:refcheck-20240923"
+      "sourceKey": "ia:refcheck-20240923",
+      "sourceTier": "media"
     },
     {
       "id": "ia-2024h1-stats",
@@ -12994,7 +13087,8 @@
       "contentKind": "news",
       "publishedAt": "2024-09-15T10:00:00+08:00",
       "originalUrl": "http://paper.people.com.cn/",
-      "sourceKey": "ia:h1stats-2024"
+      "sourceKey": "ia:h1stats-2024",
+      "sourceTier": "media"
     },
     {
       "id": "sunlife-2024-fwd-pension",
@@ -13063,7 +13157,8 @@
       "contentKind": "news",
       "publishedAt": "2024-09-10T10:00:00+08:00",
       "originalUrl": "https://www.prnewswire.com/news-releases/sun-life-financial-to-acquire-pension-business-of-fwd-hong-kong-589039111.html",
-      "sourceKey": "sunlife:fwd-pension-2024"
+      "sourceKey": "sunlife:fwd-pension-2024",
+      "sourceTier": "insurer"
     },
     {
       "id": "ia-20240830-h1-2024-stats",
@@ -13199,7 +13294,8 @@
       "contentKind": "news",
       "publishedAt": "2024-08-20T14:00:00+08:00",
       "originalUrl": "https://www.xincai.com/article/nhzqptf9387534",
-      "sourceKey": "ia:crossborder-2024"
+      "sourceKey": "ia:crossborder-2024",
+      "sourceTier": "media"
     },
     {
       "id": "nfra-2024-crossborder-no",
@@ -13269,7 +13365,8 @@
       "contentKind": "news",
       "publishedAt": "2024-08-01T10:00:00+08:00",
       "originalUrl": "http://paper.people.com.cn/zgjjzk/pc/content/202411/15/content_30046103.html",
-      "sourceKey": "nfra:crossborder-no-202408"
+      "sourceKey": "nfra:crossborder-no-202408",
+      "sourceTier": "media"
     },
     {
       "id": "ia-20240726-tahoe-life",
@@ -13408,7 +13505,8 @@
       "contentKind": "news",
       "publishedAt": "2024-07-23T10:00:00+08:00",
       "originalUrl": "https://www.acnnewswire.com/press-release/english/91884/",
-      "sourceKey": "ctflife:rebrand-20240723"
+      "sourceKey": "ctflife:rebrand-20240723",
+      "sourceTier": "media"
     },
     {
       "id": "ia-20240701-rbc-live",
@@ -13477,7 +13575,8 @@
       "contentKind": "news",
       "publishedAt": "2024-07-01T09:00:00+08:00",
       "originalUrl": "https://www.fstb.gov.hk/fsb/en/business/policy_highlights/insurance-industry.html",
-      "sourceKey": "ia:rbc-live-20240701"
+      "sourceKey": "ia:rbc-live-20240701",
+      "sourceTier": "media"
     },
     {
       "id": "ia-20240614-gl34-segregation",
