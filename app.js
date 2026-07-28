@@ -12607,6 +12607,14 @@ window.HKII_DATA = {
       "theme": "compliance"
     },
     {
+      "date": "2025-09-01",
+      "title": {
+        "sc": "转介费上限规则生效（不超过佣金总额 50%）",
+        "tc": "轉介費上限規則生效（不超過佣金總額 50%）"
+      },
+      "theme": "compliance"
+    },
+    {
       "date": "2025-08-01",
       "title": {
         "sc": "经纪公司RO强制CPD生效",
@@ -12621,6 +12629,70 @@ window.HKII_DATA = {
         "tc": "演示利率上限生效"
       },
       "theme": "par"
+    },
+    {
+      "date": "2025-02-28",
+      "title": {
+        "sc": "分红演示利率上限通函发布（2025.07 生效）",
+        "tc": "分紅演示利率上限通函發布（2025.07 生效）"
+      },
+      "theme": "par"
+    },
+    {
+      "date": "2024-09-23",
+      "title": {
+        "sc": "跨行业背景查核安排方案咨询",
+        "tc": "跨行業背景查核安排方案諮詢"
+      },
+      "theme": "compliance"
+    },
+    {
+      "date": "2024-09-15",
+      "title": {
+        "sc": "2024上半年香港保险市场统计发布",
+        "tc": "2024上半年香港保險市場統計發布"
+      },
+      "theme": "macro"
+    },
+    {
+      "date": "2024-09-10",
+      "title": {
+        "sc": "永明金融收购富卫香港公积金业务",
+        "tc": "永明金融收購富衛香港公積金業務"
+      },
+      "theme": "firm"
+    },
+    {
+      "date": "2024-08-20",
+      "title": {
+        "sc": "跨境保险销售红线明确（内地居民赴港投保合规框架）",
+        "tc": "跨境保險銷售紅線明確（內地居民赴港投保合規框架）"
+      },
+      "theme": "compliance"
+    },
+    {
+      "date": "2024-08-01",
+      "title": {
+        "sc": "金融监管总局答复跨境保险通：时机尚不成熟",
+        "tc": "金融監管總局答覆跨境保險通：時機尚不成熟"
+      },
+      "theme": "offshore"
+    },
+    {
+      "date": "2024-07-23",
+      "title": {
+        "sc": "周大福人寿更名（原富通保险）",
+        "tc": "周大福人壽更名（原富通保險）"
+      },
+      "theme": "firm"
+    },
+    {
+      "date": "2024-07-01",
+      "title": {
+        "sc": "RBC 风险为本资本制度正式实施",
+        "tc": "RBC 風險為本資本制度正式實施"
+      },
+      "theme": "reg"
     }
   ],
   "daily": {
@@ -17456,9 +17528,9 @@ window.HKII_DATA = {
     const n = t.nav;
     $("#nav").innerHTML = `
       <div class="nav-section">${t.sec.c}</div>
-      ${n.slice(0,8).map(x=>`<button class="nav-item ${state.view===x.id?'active':''}" data-view="${x.id}"><span class="ico">${x.ico}</span>${x.label}</button>`).join("")}
+      ${n.slice(0,7).map(x=>`<button class="nav-item ${state.view===x.id?'active':''}" data-view="${x.id}"><span class="ico">${x.ico}</span>${x.label}</button>`).join("")}
       <div class="nav-section">${t.sec.a}</div>
-      ${n.slice(8,9).map(x=>`<button class="nav-item ${state.view===x.id?'active':''}" data-view="${x.id}"><span class="ico">${x.ico}</span>${x.label}</button>`).join("")}
+      ${n.slice(7,9).map(x=>`<button class="nav-item ${state.view===x.id?'active':''}" data-view="${x.id}"><span class="ico">${x.ico}</span>${x.label}</button>`).join("")}
       <div class="nav-section">${t.sec.m}</div>
       ${n.slice(9).map(x=>`<button class="nav-item ${state.view===x.id?'active':''}" data-view="${x.id}"><span class="ico">${x.ico}</span>${x.label}</button>`).join("")}`;
     $("#rolePills").innerHTML = t.roles.map(r => `<button type="button" class="pill ${state.role===r.id?'on':''}" data-role="${r.id}">${r.label}</button>`).join("");
@@ -17536,6 +17608,7 @@ function fmtDay(iso){
         <h3 class="card-title">${esc(tx(it.title))}</h3>
         <p class="card-sum">${esc(tx(it.summary))}</p>
         <div class="meta-row">
+          <span class="badge badge-score">${it.score}</span>
           <span class="badge ${it.sourceTier}">${t.tier[it.sourceTier]||it.sourceTier}</span>
           <span class="badge verify-${it.verifyStatus}">${it.verifyStatus==='verified'?t.verified:t.pending}</span>
           ${tags.slice(0,1)}
@@ -17990,9 +18063,14 @@ ${t.brandName} · ${t.disc}
       <h4>${t.themesH}</h4><p>${esc((it.themes||[]).map(x=>t.themes[x]||x).join(" · "))}</p>
       <h4>${t.originalAuthority}</h4>
       <div class="links">${it.originalUrl?`<a class="btn-original" href="${it.originalUrl}" target="_blank" rel="noopener">${t.original} ↗</a>`:`<span class="badge">无原文链接</span>`}
-      ${it.originalUrl?`<div class="thumb-preview" style="margin-top:8px;border:1px solid var(--border-soft);border-radius:8px;overflow:hidden;max-height:200px;background:var(--bg-soft)">
-        <div style="padding:16px;text-align:center;color:var(--text-dim);font-size:12px">
-          <a href="${it.originalUrl}" target="_blank" rel="noopener" style="color:var(--accent-2)">查看原文截图 →</a>
+      ${it.originalUrl?`<div class="thumb-wrap" data-thumb-id="${it.id}">
+        <div class="thumb-loading">原文截图加载中…</div>
+        <img class="thumb-img" src="assets/thumbs/${it.id}.png" alt="原文截图" 
+             onload="this.parentElement.classList.add('thumb-ready')"
+             onerror="this.parentElement.classList.add('thumb-missing');this.remove()" />
+        <div class="thumb-actions">
+          <a class="thumb-dl" href="assets/thumbs/${it.id}.png" download="${it.id}-原文截图.png">⬇ 下载截图</a>
+          <a class="thumb-open" href="${it.originalUrl}" target="_blank" rel="noopener">打开原文 ↗</a>
         </div>
       </div>`:""}
       ${it.sourceKey?`<span class="badge">${t.sourceKey} ${it.sourceKey}</span>`:""}</div>
