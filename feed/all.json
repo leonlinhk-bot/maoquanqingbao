@@ -1,9 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "description": "全量条目元数据索引，按发布时间降序。",
-  "generatedAt": "2026-07-28T05:10:28Z",
-  "itemCount": 171,
+  "generatedAt": "2026-07-28T06:46:04Z",
+  "itemCount": 169,
   "items": [
     {
       "id": "fstb-20260210-fo-3384",
@@ -11,7 +10,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-02-10T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 92,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fstb-20260210-fo-3384",
       "originalUrl": "https://www.fstb.gov.hk/en/blog/blog100226.htm"
@@ -22,7 +20,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-06-12T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 87,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hk-20260612-fo-tax",
       "originalUrl": "https://www.china-briefing.com/news/hong-kong-fund-family-office-tax-reform-ufe-2026/"
@@ -33,7 +30,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-02-10T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 84,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hk-2026-newcies-3000",
       "originalUrl": "https://www.fstb.gov.hk/en/blog/blog100226.htm"
@@ -44,7 +40,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-03-26T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 85,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2025-insurtech-initiatives",
       "originalUrl": "https://www.ia.org.hk/en/aboutus/task_force/activities_meetings/files/IA_presentation_final.pdf"
@@ -55,7 +50,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-03-15T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 87,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-ia-2026-genai-sandbox",
       "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-finance-regulators-push-ai-police-ai-risks"
@@ -66,7 +60,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-01-15T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 78,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=evident-2026-insurance-ai",
       "originalUrl": "https://events.newton.media/Agentic-and-Generative-AI-for-Insurance-USA"
@@ -77,7 +70,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-06-25T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=empf-2026-fee-reduction",
       "originalUrl": "https://www.empf.org.hk/"
@@ -88,7 +80,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2024-08-01T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 88,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-2024-crossborder-no",
       "originalUrl": "http://paper.people.com.cn/zgjjzk/pc/content/202411/15/content_30046103.html"
@@ -99,7 +90,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-02-28T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 78,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-202502-hkmo-insurance",
       "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/governmentDetail.html?docId=1199748&itemId=861&generaltype=1"
@@ -110,7 +100,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-07-28T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 95,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ratings-2026-consolidated",
       "originalUrl": "https://www.spglobal.com/ratings/en/regulatory/article/asia-pacific-insurance-ratings-list-s101683009"
@@ -121,7 +110,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-03-16T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 86,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sunlife-202603-sp-upgrade",
       "originalUrl": "https://www.sunlife.com.hk/zh-hant/about-us/newsroom/news-releases/2026/sun-life-hong-kong-upgraded-to-aa-rating-by-sp/"
@@ -132,7 +120,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-11-13T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 83,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sfc-2025-wmc-insurance",
       "originalUrl": "https://www.sfc.hk/en/Regulatory-functions/Intermediaries/Supervision/Cross-boundary-WMC"
@@ -143,7 +130,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-12-05T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 90,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2024-annual-stats",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20251205.html"
@@ -154,7 +140,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-03-27T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2025-complaints",
       "originalUrl": "https://www.ia.org.hk/tc/legislative_framework/Conduct_in_Focus_Issue_12_01.html"
@@ -165,7 +150,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-04-25T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 92,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2025-full-year",
       "originalUrl": "https://www.hkinsu.com/zhuanlan/chris/36397.html"
@@ -176,7 +160,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-08-22T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 83,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2024-25-annual-report",
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/files/IA_AR24-25_Synopsis_TC.pdf"
@@ -187,7 +170,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-06-01T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 86,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fstb-2024-density",
       "originalUrl": "https://www.fstb.gov.hk/tc/financial_ser/insurance-industry.htm"
@@ -198,7 +180,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-01-10T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 76,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ebact-2025-hk-market",
       "originalUrl": "https://www.ebactuary.com/post/hong-kong-general-insurance-market-analysis-2025-2029-and-global-comparison"
@@ -209,7 +190,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-03-27T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 77,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fsdc-2025-insurance-hub",
       "originalUrl": "https://www.fsdc.org.hk/en/media/"
@@ -220,7 +200,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-02-10T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 84,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=dlapiper-202602-gl16",
       "originalUrl": "https://www.dlapiper.com/en-us/insights/publications/2026/03/insurance-authority-of-hong-kong-issues-revised-guideline"
@@ -231,7 +210,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-08-15T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 82,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=dlapiper-202508-commission",
       "originalUrl": "https://www.dlapiper.com/en-us/insights/publications/2025/08/hong-kong-insurance-authority-issues-practice-note"
@@ -242,7 +220,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-07-25T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 81,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insbus-202607-hk-growth",
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/hong-kong-insurance-market-extends-growth-run-as-data-gap-widens-583673.aspx"
@@ -253,7 +230,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-07-15T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 78,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=creditsights-2026-2h",
       "originalUrl": "https://insuranceasia.com/insurance/news/asian-insurer-gains-face-regulatory-pressure-in-second-half-2026"
@@ -264,7 +240,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-12-30T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 75,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=zhihu-2025-top10",
       "originalUrl": "https://zhuanlan.zhihu.com/p/1996682970564694535"
@@ -275,7 +250,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-01-15T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 73,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=linkedin-2024-trends",
       "originalUrl": "https://www.linkedin.com/pulse/reviewing-key-trends-hong-kongs-insurance-industry-2024-demi-poon-b4lkc"
@@ -286,7 +260,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-07-08T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 92,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=swissre-202607-wis",
       "originalUrl": "https://www.swissre.com/institute/research/sigma-research/sigma-2026-07-world-insurance.html"
@@ -297,7 +270,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-05-28T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 94,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=allianz-20260528-global-report",
       "originalUrl": "https://www.allianz.com/en/economic_research/insights/publications/specials_fmo/260528-global-insurance-report.html"
@@ -308,7 +280,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-11-20T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 85,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=goldman-2026-macro-outlook",
       "originalUrl": "https://www.goldmansachs.com/insights/outlooks/2026-outlooks"
@@ -319,7 +290,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-07-01T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 86,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rga-2026-hk-market",
       "originalUrl": "https://www.rgare.com/knowledge-center/article/hong-kong-insurance-market--navigating-opportunities-and-challenges-in-2026"
@@ -330,7 +300,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-06-01T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 84,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=deloitte-2026-insurance-outlook",
       "originalUrl": "https://www.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-outlooks/insurance-industry-outlook.html"
@@ -341,7 +310,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-12-10T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 83,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=jpmorgan-2026-outlook",
       "originalUrl": "https://www.jpmorgan.com/insights/global-research/outlook/market-outlook"
@@ -352,7 +320,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-03-14T09:00:00+08:00",
-      "effectiveAt": "",
       "score": 90,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-2024-annual",
       "originalUrl": "https://www.aia.com/en/investor-relations/"
@@ -363,7 +330,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2024-07-23T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 87,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ctflife-20240723-rebrand",
       "originalUrl": "https://www.acnnewswire.com/press-release/english/91884/"
@@ -374,7 +340,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2024-09-10T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 82,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sunlife-2024-fwd-pension",
       "originalUrl": "https://www.prnewswire.com/news-releases/sun-life-financial-to-acquire-pension-business-of-fwd-hong-kong-589039111.html"
@@ -385,7 +350,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-03-19T09:00:00+08:00",
-      "effectiveAt": "",
       "score": 88,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-2025-annual-results",
       "originalUrl": "https://www.aia.com/zh-hk/media-centre/press-releases/2026/aia-group-press-release-20260319"
@@ -396,7 +360,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-07-08T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-20250708-global-prosper",
       "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2025/aia-press-release-20250708"
@@ -407,7 +370,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-11-21T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 78,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-20251121-aisan",
       "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2025/aia-press-release-20251121"
@@ -418,7 +380,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-04-28T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 82,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-20250428-ci",
       "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html"
@@ -429,7 +390,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-09-02T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 76,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-20250902-hospitals",
       "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html"
@@ -440,7 +400,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-01-10T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 79,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=axa-20250110-shengli",
       "originalUrl": "https://www.axa.com.hk/zh/news-room/2025"
@@ -451,7 +410,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-04-09T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 81,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=axa-20250409-gba-med",
       "originalUrl": "https://www.axa.com.hk/zh/news-room/2025"
@@ -462,7 +420,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-02-15T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 83,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sunlife-2025-ape-118",
       "originalUrl": "https://hk.finance.yahoo.com/news/sun-life永明2025全年新造業務年度化標準保費達118億港元-104538638.html"
@@ -473,7 +430,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-06-15T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 77,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sunlife-2025-enhanced-savings",
       "originalUrl": "https://www.sunlife.com.hk/zh-hant/about-us/newsroom/news-releases/2025/sun-life-unveils-suite-of-enhanced-savings-insurance-plans/"
@@ -484,7 +440,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-06-01T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=chubb-20260601-mylegacy",
       "originalUrl": "https://www.chubb.com/hk-en/media-center/life-insurance-news-releases.html"
@@ -495,7 +450,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-03-24T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 81,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=chubb-2026-dementia",
       "originalUrl": "https://hk.linkedin.com/company/chubb-life-hong-kong"
@@ -506,7 +460,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-06-26T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 74,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=taiping-202606-rating",
       "originalUrl": "https://www.cntaiping.com/news/123435.html"
@@ -517,7 +470,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-05-04T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 84,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=cpic-20260504-gen3",
       "originalUrl": "https://www.cpiclifehk.com.hk/sc/company/lastestNews"
@@ -528,7 +480,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-05-20T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fwd-2026-q1-update",
       "originalUrl": "https://www.fwd.com/zh/newsroom/press-releases/FWD-Group-reports-strong-first-quarter-new-business-update/"
@@ -539,7 +490,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-06-20T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 73,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fwd-2026-brand-victoria",
       "originalUrl": "https://www.youtube.com/watch?v=2Kei5uxrEfU"
@@ -550,7 +500,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-03-17T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 82,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hsbc-life-2026-hnw-pitchbook",
       "originalUrl": "https://www.life.hsbc.com/-/media/life/pdfs/260317-hsbc-life-hnw-pitchbook-sc.pdf"
@@ -561,7 +510,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-04-10T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 76,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=chinlife-2026-hk-digital",
       "originalUrl": "https://www.chinalife.com.hk/"
@@ -572,7 +520,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-07-16T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 75,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-20260716-hyrox",
       "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2026/aia-press-release-20260716"
@@ -583,7 +530,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-06-08T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 82,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-20260608-prosperlife",
       "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2026/aia-press-release-20260608"
@@ -594,7 +540,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-04-30T09:00:00+08:00",
-      "effectiveAt": "",
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-20260430-q1-vonb",
       "originalUrl": "https://www.aia.com/content/dam/group-wise/en/docs/press-release/2026/AIA%20Group%20Press%20Release_ENG_30%20April%202026.pdf"
@@ -605,7 +550,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-03-17T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 76,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=prudential-20260317-youth",
       "originalUrl": "https://www.prudential.com.hk/tc/about-us/newsroom/prudential-launches-pruchoice-power-up-go-insurance/"
@@ -616,7 +560,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-04-29T14:00:00+08:00",
-      "effectiveAt": "",
       "score": 78,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=prudential-20260429-self-future",
       "originalUrl": "https://www.prudential.com.hk/tc/"
@@ -627,7 +570,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-01-05T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 85,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-20260105-two-plans",
       "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html"
@@ -638,7 +580,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-04-20T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 83,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-20260420-annuity-accident",
       "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom/manulife-launches-new-annuity-and-accident-protection-solutions.html"
@@ -649,7 +590,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-06-25T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 72,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-20260625-board",
       "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html"
@@ -660,7 +600,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-01-26T09:00:00+08:00",
-      "effectiveAt": "",
       "score": 86,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=axa-20260126-redomicile",
       "originalUrl": "https://hk.finance.yahoo.com/news/axa成功遷冊回港-015300166.html"
@@ -671,7 +610,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-06-15T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 74,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=axa-2026-bloomberg-awards",
       "originalUrl": "https://www.prnewswire.com/apac/zh/news-releases/axa2026-302811776.html"
@@ -682,7 +620,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-05-15T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 77,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sunlife-2026-10life-awards",
       "originalUrl": "https://www.10life.com/zh-HK/5star-products-2026/insurer-sunlife"
@@ -693,7 +630,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-04-22T14:00:00+08:00",
-      "effectiveAt": "",
       "score": 79,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ctflife-20260422-artisan-leap",
       "originalUrl": "https://www.ffg.com.hk/news/csr/w5jo28lfkyonusn0iidrp960"
@@ -704,7 +640,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-06-10T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 84,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ctflife-2026-diamond-iul",
       "originalUrl": "https://www.acnnewswire.com/press-release/traditionalchinese/107208/"
@@ -715,7 +650,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-04-27T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=boclife-20260427-retirement",
       "originalUrl": "https://www.bochk.com/dam/bochk/desktop/top/aboutus/pressrelease2/2026/260427021_Press_Release_TC.pdf"
@@ -726,7 +660,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2024-07-01T09:00:00+08:00",
-      "effectiveAt": "",
       "score": 98,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20240701-rbc-live",
       "originalUrl": "https://www.fstb.gov.hk/fsb/en/business/policy_highlights/insurance-industry.html"
@@ -737,7 +670,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2024-09-23T09:00:00+08:00",
-      "effectiveAt": "",
       "score": 82,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20240923-refcheck",
       "originalUrl": "https://www.kennedyslaw.com/en/thought-leadership/article/2024/hong-kong-regulatory-insurance-update-september-2024/"
@@ -748,7 +680,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2024-09-15T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 84,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2024h1-stats",
       "originalUrl": "http://paper.people.com.cn/"
@@ -759,7 +690,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2024-08-20T14:00:00+08:00",
-      "effectiveAt": "",
       "score": 87,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2024-crossborder",
       "originalUrl": "https://www.xincai.com/article/nhzqptf9387534"
@@ -770,7 +700,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-02-28T09:00:00+08:00",
-      "effectiveAt": "",
       "score": 96,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20250228-illustration-note",
       "originalUrl": "https://brdr.hkma.gov.hk/eng/doc-ldg/docId/20250228-3-EN"
@@ -781,7 +710,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-03-13T09:00:00+08:00",
-      "effectiveAt": "",
       "score": 90,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20250313-iul-circular",
       "originalUrl": "https://brdr.hkma.gov.hk/chi/doc-ldg/docId/20250313-10-TC"
@@ -792,7 +720,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-10-24T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 84,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20251024-h1stats",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/statistics/"
@@ -803,7 +730,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-06-15T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 86,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2025q1-stats-934",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/statistics/"
@@ -814,7 +740,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-04-15T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 83,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2025-d-sii-designation",
       "originalUrl": "https://beinsure.com/news/hong-kong-names-aia-prudential-asia/"
@@ -825,7 +750,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-01-23T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 85,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260123-q3stats",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260123.html"
@@ -836,7 +760,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-09-01T09:00:00+08:00",
-      "effectiveAt": "",
       "score": 95,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20250901-referral50",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_01092025_Referral_Fees_Eng.pdf"
@@ -847,7 +770,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-09-17T14:00:00+08:00",
-      "effectiveAt": "",
       "score": 82,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20250917-product-naming",
       "originalUrl": "https://brdr.hkma.gov.hk/eng/doc-ldg/docId/getPdf/20250917-4-EN/20250917-4-EN.pdf"
@@ -858,7 +780,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-07-01T09:00:00+08:00",
-      "effectiveAt": "",
       "score": 97,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20250701-illustration-cap",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/illustration_cap.html"
@@ -869,7 +790,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-09-19T14:00:00+08:00",
-      "effectiveAt": "",
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-202508-iul-sandbox",
       "originalUrl": "https://brdr.hkma.gov.hk/chi/doc-ldg/docId/20250313-10-TC"
@@ -880,7 +800,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2025-07-15T14:00:00+08:00",
-      "effectiveAt": "",
       "score": 93,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-202507-commission-spread",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/commission_spreading.html"
@@ -891,7 +810,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-03-31T09:00:00+08:00",
-      "effectiveAt": "",
       "score": 94,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260331-gn16-revised",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/gn16.html"
@@ -902,7 +820,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-03-10T18:00:00+08:00",
-      "effectiveAt": "",
       "score": 84,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260310-rbc-consult-close",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260211.html"
@@ -913,7 +830,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-03-15T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 76,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-202603-new-products",
       "originalUrl": "https://www.linkedin.com/posts/manulife-hong-kong-and-macau"
@@ -924,7 +840,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-02-11T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 88,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260211-rbc-consult-launch",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260211.html"
@@ -935,7 +850,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-02-01T14:00:00+08:00",
-      "effectiveAt": "",
       "score": 82,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=circ-20260201-crossborder",
       "originalUrl": "https://www.stcn.com/article/detail/1228440.html"
@@ -946,7 +860,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-04-24T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 79,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-20260424-top-insurer",
       "originalUrl": "https://finance.yahoo.com/sectors/healthcare/articles/aia-hong-kong-leads-industry-135200472.html"
@@ -957,7 +870,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-06-05T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 86,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260605-hkma-commission",
       "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-insurance-authority-tightens-commission-rules-hkma-raises-pressure"
@@ -968,7 +880,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-06-18T12:00:00+08:00",
-      "effectiveAt": "",
       "score": 81,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-ai-cohort-202606",
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/insurance-authority-adds-three-insurers-to-ai-cohort-programme-579133.aspx"
@@ -979,7 +890,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-05-08T12:00:00+08:00",
-      "effectiveAt": "",
       "score": 96,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260508-rbc-conclusion",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260508.html"
@@ -990,7 +900,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-05-13T09:00:00+08:00",
-      "effectiveAt": "",
       "score": 90,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260513-cross-ref",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html"
@@ -1001,7 +910,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-05-19T15:00:00+08:00",
-      "effectiveAt": "",
       "score": 85,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260519-disclosure-consult",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/"
@@ -1012,7 +920,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-05-20T16:00:00+08:00",
-      "effectiveAt": "",
       "score": 83,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260520-gl34-corp",
       "originalUrl": "https://www.legco.gov.hk/yr2026/chinese/brief/ins216c_20260520-c.pdf"
@@ -1023,7 +930,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-03-31T09:00:00+08:00",
-      "effectiveAt": "",
       "score": 92,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=gn16-revised-20260331",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/gn16.html"
@@ -1034,7 +940,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-04-10T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=legco-20260410-fa-disclosure",
       "originalUrl": "https://www.legco.gov.hk/yr2026/english/panels/fa/papers/fa20260410cb1-309-8-e.pdf"
@@ -1045,32 +950,9 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-04-15T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 78,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-202604-fsi-survey",
       "originalUrl": "https://www.fsdc.org.hk/zh/media/"
-    },
-    {
-      "id": "deploy-test-20260727",
-      "title": "🚀 猫圈儿港险情报站部署测试 — 2026-07-27。",
-      "sourceTier": "",
-      "themes": [],
-      "publishedAt": "2026-07-27T14:00:00+08:00",
-      "effectiveAt": "",
-      "score": 100,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=deploy-test-20260727",
-      "originalUrl": "https://hkmaoquanqingbao.com"
-    },
-    {
-      "id": "hkma-20260727-3",
-      "title": "金管局与保监局保费融资保障措施落地回顾。",
-      "sourceTier": "",
-      "themes": [],
-      "publishedAt": "2026-07-27T10:00:00+08:00",
-      "effectiveAt": "",
-      "score": 88,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-20260727-3",
-      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/07/"
     },
     {
       "id": "aif-2026-save-the-date",
@@ -1081,7 +963,6 @@
         "career"
       ],
       "publishedAt": "2026-07-26T09:00:00+08:00",
-      "effectiveAt": "2026-11-13",
       "score": 70,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aif-2026-save-the-date",
       "originalUrl": "https://www.mehongkong.com/eng/home/planning/events/detail/2026-11-13-85862-Asian-Insurance-Forum-2026.html"
@@ -1095,7 +976,6 @@
         "firm"
       ],
       "publishedAt": "2026-07-25T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 76,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-public-disclosure-2026",
       "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-ia-proceed-public-disclosure-rules-insurers-2026"
@@ -1110,7 +990,6 @@
         "firm"
       ],
       "publishedAt": "2026-07-24T18:00:00+08:00",
-      "effectiveAt": "",
       "score": 92,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-q1-2026-stats",
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/hong-kong-insurance-market-extends-growth-run-as-data-gap-widens-583673.aspx"
@@ -1124,7 +1003,6 @@
         "channel"
       ],
       "publishedAt": "2026-07-24T16:00:00+08:00",
-      "effectiveAt": "",
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-complaints-20260724",
       "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/07/20260724-3/"
@@ -1139,7 +1017,6 @@
         "firm"
       ],
       "publishedAt": "2026-07-16T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 84,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260716-ashk-ifoa",
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/files/Keynote_Speech_Mr_Clement_Lau_ASHK_IFoA_Conference_CN.pdf"
@@ -1153,7 +1030,6 @@
         "reg"
       ],
       "publishedAt": "2026-07-15T12:00:00+08:00",
-      "effectiveAt": "",
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260715-sales-practices",
       "originalUrl": "https://www.asiainsurancereview.com/News/ViewNewsLetterArticle/id/96190/Type/eDaily/Hong-Kong-IA-initiates-crackdown-on-sales-practices"
@@ -1167,7 +1043,6 @@
         "career"
       ],
       "publishedAt": "2026-07-14T12:00:00+08:00",
-      "effectiveAt": "",
       "score": 90,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-licence-20260630",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/statistics/statistics.html"
@@ -1178,7 +1053,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-07-12T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 95,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260712-speech",
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/speeches_articles/20260712.html"
@@ -1193,7 +1067,6 @@
         "channel"
       ],
       "publishedAt": "2026-07-12T10:00:00+08:00",
-      "effectiveAt": "2026-07-01",
       "score": 96,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260712-speech",
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/speeches_articles/20260712.html"
@@ -1204,7 +1077,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-07-10T15:00:00+08:00",
-      "effectiveAt": "",
       "score": 91,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260710-illustration",
       "originalUrl": "https://brdr.hkma.gov.hk/gb_chi/doc-ldg/docId/20260708-2-TC"
@@ -1219,7 +1091,6 @@
         "product"
       ],
       "publishedAt": "2026-07-10T09:00:00+08:00",
-      "effectiveAt": "",
       "score": 93,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260710-illustration-review",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_10072026.pdf"
@@ -1230,7 +1101,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-07-08T14:00:00+08:00",
-      "effectiveAt": "",
       "score": 78,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fstb-20260708-captive",
       "originalUrl": "https://www.fstb.gov.hk/fsb/tc/business/policy_highlights/insurance-industry.html"
@@ -1245,7 +1115,6 @@
         "reg"
       ],
       "publishedAt": "2026-07-08T12:00:00+08:00",
-      "effectiveAt": "",
       "score": 81,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260708-captive",
       "originalUrl": "https://www.ia.org.hk/sc/infocenter/press_releases/20260708.html"
@@ -1260,7 +1129,6 @@
         "par"
       ],
       "publishedAt": "2026-07-03T12:00:00+08:00",
-      "effectiveAt": "",
       "score": 76,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260703-rfyc",
       "originalUrl": "https://www.ia.org.hk/en/supervision/reg_insurers_lloyd/an_overview_of_the_risk_based_capital_regime.html"
@@ -1271,7 +1139,6 @@
       "sourceTier": "",
       "themes": [],
       "publishedAt": "2026-07-01T09:00:00+08:00",
-      "effectiveAt": "",
       "score": 93,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-crossref-20260701",
       "originalUrl": "https://xhcins.com/posts/hongkong-insurance-intermediary-reference-checking-2026-07/"
@@ -1286,7 +1153,6 @@
         "tech"
       ],
       "publishedAt": "2026-06-30T14:00:00+08:00",
-      "effectiveAt": "",
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260630-swissre-sigma",
       "originalUrl": "https://www.swissre.com/institute/research/sigma-research/sigma-2026-07-world-insurance.html"
@@ -1300,7 +1166,6 @@
         "market"
       ],
       "publishedAt": "2026-06-30T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 74,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260630-allianz-report",
       "originalUrl": "https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/economic-research/publications/specials/en/2026/may/28-05-2026-Global-Insurance-report-AZ.pdf"
@@ -1314,7 +1179,6 @@
         "market"
       ],
       "publishedAt": "2026-06-29T16:00:00+08:00",
-      "effectiveAt": "",
       "score": 65,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260629-sunlife-notes",
       "originalUrl": "https://www.sunlife.com/en/newsroom/news-releases/announcement/sun-life-announces-interest-rate-reset-on-limited-recourse-capital-notes-series/124106/"
@@ -1329,7 +1193,6 @@
         "channel"
       ],
       "publishedAt": "2026-06-29T12:00:00+08:00",
-      "effectiveAt": "",
       "score": 71,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260629-hkma-bulletin",
       "originalUrl": "https://www.info.gov.hk/gia/general/202606/29/P2026062900459.htm"
@@ -1344,7 +1207,6 @@
         "tech"
       ],
       "publishedAt": "2026-06-28T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 70,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260628-fsdc-talent",
       "originalUrl": "https://www.fsdc.org.hk/en/media/fsdc-releases-report-fostering-a-new-generation-of-insurance-professionals-in-hong-kong-to-support-the-thriving-development"
@@ -1358,7 +1220,6 @@
         "market"
       ],
       "publishedAt": "2026-06-26T15:00:00+08:00",
-      "effectiveAt": "",
       "score": 66,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260626-morganstanley",
       "originalUrl": "https://www.morganstanley.com/im/en-hk/intermediary-investor/insights/slimmons-take/equity-market-commentary-june-2026.html"
@@ -1372,7 +1233,6 @@
         "market"
       ],
       "publishedAt": "2026-06-26T11:00:00+08:00",
-      "effectiveAt": "",
       "score": 68,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260626-pimco-asia",
       "originalUrl": "https://www.pimco.com/hk/en/resources/video-library/media/q3-2026-update-from-the-asia-trade-floor"
@@ -1387,7 +1247,6 @@
         "market"
       ],
       "publishedAt": "2026-06-25T18:00:00+08:00",
-      "effectiveAt": "",
       "score": 70,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260625-manulife-convention",
       "originalUrl": "https://www.instagram.com/reel/DYS1bksR7gR/"
@@ -1401,7 +1260,6 @@
         "market"
       ],
       "publishedAt": "2026-06-24T14:00:00+08:00",
-      "effectiveAt": "",
       "score": 65,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260624-rga-trends",
       "originalUrl": "http://experience.rgare.com/product-trends-2026-q2"
@@ -1415,7 +1273,6 @@
         "market"
       ],
       "publishedAt": "2026-06-20T16:00:00+08:00",
-      "effectiveAt": "",
       "score": 68,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260620-goldman-outlook",
       "originalUrl": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-doubles-down-stock-210300868.html"
@@ -1429,7 +1286,6 @@
         "market"
       ],
       "publishedAt": "2026-06-18T09:00:00+08:00",
-      "effectiveAt": "",
       "score": 70,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260618-blackrock-outlook",
       "originalUrl": "https://www.blackrock.com/corporate/insights/blackrock-investment-institute/publications/outlook"
@@ -1443,7 +1299,6 @@
         "firm"
       ],
       "publishedAt": "2026-06-17T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 77,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260617-manulife-ai",
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/insurance-authority-adds-three-insurers-to-ai-cohort-programme-579133.aspx"
@@ -1458,7 +1313,6 @@
         "channel"
       ],
       "publishedAt": "2026-06-16T15:00:00+08:00",
-      "effectiveAt": "",
       "score": 76,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260616-aia-prudential-roles",
       "originalUrl": "https://sg.finance.yahoo.com/news/aia-prudential-create-senior-roles-221640747.html"
@@ -1473,7 +1327,6 @@
         "offshore"
       ],
       "publishedAt": "2026-06-16T12:00:00+08:00",
-      "effectiveAt": "",
       "score": 92,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260616-cheung-enforcement",
       "originalUrl": "https://www.bloomberg.com/news/articles/2026-06-15/hong-kong-insurance-regulator-vows-crackdown-on-rule-breakers"
@@ -1487,7 +1340,6 @@
         "reg"
       ],
       "publishedAt": "2026-06-15T15:00:00+08:00",
-      "effectiveAt": "",
       "score": 78,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-ai-seminar-20260615",
       "originalUrl": "https://www.ia.org.hk/sc/infocenter/press_releases/20260615.html"
@@ -1502,7 +1354,6 @@
         "offshore"
       ],
       "publishedAt": "2026-06-15T08:41:00+08:00",
-      "effectiveAt": "",
       "score": 88,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260615-bloomberg-crackdown",
       "originalUrl": "https://www.bloomberg.com/news/articles/2026-06-15/hong-kong-insurance-regulator-vows-crackdown-on-rule-breakers"
@@ -1516,7 +1367,6 @@
         "firm"
       ],
       "publishedAt": "2026-06-12T11:00:00+08:00",
-      "effectiveAt": "",
       "score": 73,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260612-manulife-plans",
       "originalUrl": "https://www.manulife.com.hk/en/individual.html"
@@ -1531,7 +1381,6 @@
         "firm"
       ],
       "publishedAt": "2026-06-10T14:00:00+08:00",
-      "effectiveAt": "",
       "score": 78,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260610-manulife-leverage",
       "originalUrl": "https://www.hubbis.com/news/manulife-pulls-leveraged-insurance-loan-product-for-wealthy-hong-kong-clients"
@@ -1545,7 +1394,6 @@
         "market"
       ],
       "publishedAt": "2026-06-10T12:00:00+08:00",
-      "effectiveAt": "",
       "score": 72,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260610-chowtaifook-life",
       "originalUrl": "https://www.ctfs.com.hk/media-hub/press-releases/2026/FY2026_Interim_Results"
@@ -1560,7 +1408,6 @@
         "macro"
       ],
       "publishedAt": "2026-06-09T15:00:00+08:00",
-      "effectiveAt": "",
       "score": 75,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260609-fitch-apac",
       "originalUrl": "https://www.fitchratings.com/research/insurance/apac-insurance-outlook-stays-neutral-amid-regulatory-market-pressure-09-06-2026"
@@ -1575,7 +1422,6 @@
         "firm"
       ],
       "publishedAt": "2026-06-08T17:00:00+08:00",
-      "effectiveAt": "",
       "score": 82,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260608-axa-global-private",
       "originalUrl": "https://fortune.com/2026/06/08/axa-launches-global-private-hong-kong-china-hnwi-insurance/"
@@ -1590,7 +1436,6 @@
         "family"
       ],
       "publishedAt": "2026-06-08T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260608-aia-wealth-flexi",
       "originalUrl": "https://www.aia.com.hk/en/about-aia/about-us/media-centre/press-releases/2026/aia-press-release-20260608"
@@ -1605,7 +1450,6 @@
         "compliance"
       ],
       "publishedAt": "2026-06-05T16:00:00+08:00",
-      "effectiveAt": "",
       "score": 86,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260605-hkma-remuneration-circ",
       "originalUrl": "https://brdr.hkma.gov.hk/eng/doc-ldg/docId/getPdf/20260602-4-EN/Remuneration%20structures%20for%20licensed%20insurance%20intermediaries%20which%20are%20AIs.pdf"
@@ -1620,7 +1464,6 @@
         "compliance"
       ],
       "publishedAt": "2026-06-05T12:00:00+08:00",
-      "effectiveAt": "",
       "score": 89,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-hkma-remuneration-20260605",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_05.06.2026_Circular_on_HKMA_Circular_on_Remuneration_Structures_for_AIs.pdf"
@@ -1634,7 +1477,6 @@
         "firm"
       ],
       "publishedAt": "2026-06-04T14:00:00+08:00",
-      "effectiveAt": "",
       "score": 62,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260611-chubb-life",
       "originalUrl": "https://www.asiainsurancereview.com/Search?search_key=News"
@@ -1649,7 +1491,6 @@
         "compliance"
       ],
       "publishedAt": "2026-06-03T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 85,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260603-broker-referral",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/speeches_articles/20260712.html"
@@ -1664,7 +1505,6 @@
         "compliance"
       ],
       "publishedAt": "2026-06-02T16:00:00+08:00",
-      "effectiveAt": "",
       "score": 72,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260602-hkma-crossborder",
       "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/speeches/2026/06/20260602-1/"
@@ -1678,7 +1518,6 @@
         "reg"
       ],
       "publishedAt": "2026-05-29T09:00:00+08:00",
-      "effectiveAt": "",
       "score": 88,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260529-onsite-findings",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_29.05.2026.pdf"
@@ -1693,7 +1532,6 @@
         "reg"
       ],
       "publishedAt": "2026-05-13T09:00:00+08:00",
-      "effectiveAt": "2026-07-01",
       "score": 94,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260513-cross-refcheck",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_13.05.2026_Cross-sector_Reference_Checking_Arrangement_Between_the_Banking_and_Insurance_Sectors_Eng.pdf"
@@ -1708,7 +1546,6 @@
         "macro"
       ],
       "publishedAt": "2026-05-08T12:00:00+08:00",
-      "effectiveAt": "",
       "score": 91,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260508-rbc-conclusions",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260508.html"
@@ -1723,7 +1560,6 @@
         "firm"
       ],
       "publishedAt": "2026-04-24T12:00:00+08:00",
-      "effectiveAt": "",
       "score": 93,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260424-stats-2025",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260424.html"
@@ -1738,7 +1574,6 @@
         "reg"
       ],
       "publishedAt": "2026-04-22T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260422-ils",
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/files/ILS_Conference_2026_Opening_Remarks_Mr_Stephen_Yiu.pdf"
@@ -1753,7 +1588,6 @@
         "macro"
       ],
       "publishedAt": "2026-04-16T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 77,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260416-cyber",
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/files/APAC_Cyber_Risk_and_Insurance_Summit_2026.pdf"
@@ -1768,7 +1602,6 @@
         "macro"
       ],
       "publishedAt": "2026-04-09T12:00:00+08:00",
-      "effectiveAt": "",
       "score": 83,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260409-captive-beijing",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260409.html"
@@ -1783,7 +1616,6 @@
         "reg"
       ],
       "publishedAt": "2026-03-31T09:00:00+08:00",
-      "effectiveAt": "",
       "score": 86,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260331-cpd-reporting",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_31032026_CPD_Reporting_Procedures_for_2025-2026_onwards_Eng.pdf"
@@ -1798,7 +1630,6 @@
         "reg"
       ],
       "publishedAt": "2026-03-27T09:00:00+08:00",
-      "effectiveAt": "",
       "score": 91,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260327-cif12",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/20260327_Circular_Conduct_In_Focus_Issue_12_Eng.pdf"
@@ -1813,7 +1644,6 @@
         "reg"
       ],
       "publishedAt": "2026-03-26T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 81,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260326-health-conf",
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/files/21st_Asia_Conference_on_Healthcare_and_Health_Insurance_2026_Keynote_Mr_Clement_Lau_TC.pdf"
@@ -1827,7 +1657,6 @@
         "offshore"
       ],
       "publishedAt": "2026-03-25T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 79,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260325-captive-forum-speech",
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/files/Captive_Forum_2026_Speech_Mr_Clement_Lau_CN.pdf"
@@ -1841,7 +1670,6 @@
         "reg"
       ],
       "publishedAt": "2026-03-05T12:00:00+08:00",
-      "effectiveAt": "",
       "score": 82,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260305-genai-sandbox",
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/press_releases/20260305.html"
@@ -1856,7 +1684,6 @@
         "reg"
       ],
       "publishedAt": "2026-02-25T12:00:00+08:00",
-      "effectiveAt": "",
       "score": 76,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-budget-20260225",
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/press_releases/20260225.html"
@@ -1871,7 +1698,6 @@
         "channel"
       ],
       "publishedAt": "2026-02-24T09:00:00+08:00",
-      "effectiveAt": "",
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260224-kpim-handbook",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/20260224_KPIM_Handbook_Circular.pdf"
@@ -1886,7 +1712,6 @@
         "tech"
       ],
       "publishedAt": "2026-02-13T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 78,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260213-low-altitude",
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/speeches_articles/20260213.html"
@@ -1900,7 +1725,6 @@
         "firm"
       ],
       "publishedAt": "2026-02-11T12:00:00+08:00",
-      "effectiveAt": "",
       "score": 83,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260211-rbc-consult",
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/consultation_rbc_20260211.html"
@@ -1916,7 +1740,6 @@
         "uw"
       ],
       "publishedAt": "2026-02-06T09:00:00+08:00",
-      "effectiveAt": "",
       "score": 90,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260206-gl16-gl34",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_20260206_GL16_and_GL34.pdf"
@@ -1931,7 +1754,6 @@
         "reg"
       ],
       "publishedAt": "2026-01-26T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260126-aff",
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/files/Asian_Financial_Forum_2026_CHI.pdf"
@@ -1946,7 +1768,6 @@
         "firm"
       ],
       "publishedAt": "2026-01-23T12:00:00+08:00",
-      "effectiveAt": "",
       "score": 92,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260123-stats-3q2025",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260123.html"
@@ -1961,7 +1782,6 @@
         "product"
       ],
       "publishedAt": "2026-01-15T10:00:00+08:00",
-      "effectiveAt": "2026-03-31",
       "score": 88,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-gl34-20260331",
       "originalUrl": "https://www.jdsupra.com/legalnews/hong-kong-insurance-authority-issues-8765538/"
@@ -1976,7 +1796,6 @@
         "reg"
       ],
       "publishedAt": "2025-11-20T09:00:00+08:00",
-      "effectiveAt": "",
       "score": 87,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20251120-refcheck-scheme",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_20.11.2025_Reference_Checking_Schemes_for_Licensed_Insurance_Intermediaries_Eng.pdf"
@@ -1991,7 +1810,6 @@
         "firm"
       ],
       "publishedAt": "2025-10-24T12:00:00+08:00",
-      "effectiveAt": "",
       "score": 90,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20251024-1h2025-stats",
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/press_releases/20251024.html"
@@ -2006,7 +1824,6 @@
         "reg"
       ],
       "publishedAt": "2025-10-14T09:00:00+08:00",
-      "effectiveAt": "",
       "score": 84,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-ro-cpd-20251014",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2025.html"
@@ -2021,7 +1838,6 @@
         "compliance"
       ],
       "publishedAt": "2025-09-19T09:00:00+08:00",
-      "effectiveAt": "",
       "score": 83,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20250919-product-naming",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_19092025.pdf"
@@ -2036,7 +1852,6 @@
         "channel"
       ],
       "publishedAt": "2025-09-01T09:00:00+08:00",
-      "effectiveAt": "2025-10-01",
       "score": 96,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20250901-referral-fee",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_01092025_Regulatory_Expectations_on_Referral_Fees_Eng.pdf"
@@ -2051,7 +1866,6 @@
         "product"
       ],
       "publishedAt": "2025-08-08T09:00:00+08:00",
-      "effectiveAt": "2026-01-01",
       "score": 95,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-commission-20260101",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_30.7.2025_Practice_Note_for_Commission_Spreading_Eng.pdf"
@@ -2065,7 +1879,6 @@
         "firm"
       ],
       "publishedAt": "2025-08-08T09:00:00+08:00",
-      "effectiveAt": "",
       "score": 84,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20250808-rbc-disclosure",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_20250808_First_Year_Public_Disclosure.pdf"
@@ -2080,7 +1893,6 @@
         "reg"
       ],
       "publishedAt": "2025-07-11T09:00:00+08:00",
-      "effectiveAt": "2025-08-01",
       "score": 85,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20250711-ro-cpd-compulsory",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_ROCPD_20250711.pdf"
@@ -2094,7 +1906,6 @@
         "par"
       ],
       "publishedAt": "2025-03-30T10:00:00+08:00",
-      "effectiveAt": "",
       "score": 84,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20250330-illustration-article",
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/speeches_articles/20250330.html"
@@ -2110,7 +1921,6 @@
         "offshore"
       ],
       "publishedAt": "2025-03-13T09:00:00+08:00",
-      "effectiveAt": "",
       "score": 88,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20250313-iul-pi",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_20250313_IUL.pdf"
@@ -2125,7 +1935,6 @@
         "product"
       ],
       "publishedAt": "2025-02-28T09:00:00+08:00",
-      "effectiveAt": "2025-07-01",
       "score": 95,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20250228-illustration-cap-pn",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Practice_Note_28022025.pdf"
@@ -2140,7 +1949,6 @@
         "reg"
       ],
       "publishedAt": "2025-02-06T09:00:00+08:00",
-      "effectiveAt": "",
       "score": 79,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20250206-claims-mgmt",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_20250206.pdf"

@@ -18,7 +18,7 @@
           <p id="brandSub">维港猫圈儿 · 持牌人情报台</p>
         </div>
       </div>
-      <div class="wechat-pill" id="wechatPill">公众号：维港猫圈儿</div>
+      <div class="wechat-pill" id="wechatPill" style="cursor:pointer" title="点击查看公众号二维码">公众号：维港猫圈儿</div>
     </div>
     <nav class="nav" id="nav"></nav>
     <div class="sidebar-foot">
@@ -84,5 +84,24 @@
 </div>
 
 <script src="app.js"></script>
+
+<div class="qr-backdrop" id="qrBackdrop" onclick="document.getElementById('qrPopup').classList.remove('show');document.getElementById('qrBackdrop').classList.remove('show')"></div>
+<div class="qr-popup" id="qrPopup">
+  <span class="qr-close" onclick="document.getElementById('qrPopup').classList.remove('show');document.getElementById('qrBackdrop').classList.remove('show')">✕</span>
+  <img src="assets/qr-wechat.jpg" alt="维港猫圈儿" />
+  <p><strong>公众号：维港猫圈儿</strong></p>
+  <p style="font-size:12px;margin-top:4px">微信扫码关注，获取每日港险解读与陪伴。</p>
+</div>
+<script>
+(function(){
+  var p=document.getElementById("wechatPill");
+  if(p) p.addEventListener("click",function(e){
+    e.stopPropagation();
+    document.getElementById("qrPopup").classList.add("show");
+    document.getElementById("qrBackdrop").classList.add("show");
+  });
+})();
+</script>
+
 </body>
 </html>

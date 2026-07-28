@@ -1,8 +1,8 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-07-28T15:15:00+08:00",
-    "itemCount": 171,
+    "generatedAt": "2026-07-28T13:45:00+08:00",
+    "itemCount": 169,
     "windowNote": {
       "sc": "本库171条。",
       "tc": "本庫171條。"
@@ -6766,127 +6766,6 @@
       "publishedAt": "2026-04-15T10:00:00+08:00",
       "originalUrl": "https://www.fsdc.org.hk/zh/media/",
       "sourceKey": "fsdc:insurance-hub-report-202604"
-    },
-    {
-      "clusterCount": 1,
-      "score": 100,
-      "verifyStatus": "verified",
-      "featured": true,
-      "evergreen": false,
-      "ingestedAt": "2026-07-27T14:00:00+08:00",
-      "contentRole": {
-        "sc": "本站导读（非原文）",
-        "tc": "本站導讀（非原文）"
-      },
-      "id": "deploy-test-20260727",
-      "title": {
-        "sc": "🚀 猫圈儿港险情报站部署测试 — 2026-07-27。",
-        "tc": "🚀 貓圈兒港險情報站部署測試 — 2026-07-27。"
-      },
-      "summary": {
-        "sc": "本次部署测试验证全链路：GitHub Pages + Cloudflare DNS (DNS-only) + 自定义域名 hkmaoquanqingbao.com。站点已成功上线，支持简繁切换/深色模式/四档角色筛选。",
-        "tc": "本次部署測試驗證全鏈路：GitHub Pages + Cloudflare DNS (DNS-only) + 自定義域名 hkmaoquanqingbao.com。站點已成功上線，支援簡繁切換/深色模式/四檔角色篩選。"
-      },
-      "why": {
-        "sc": "验证持续部署 Pipeline：更新 live-items.json → git push → GitHub Actions 自动构建 → 站点即时更新。",
-        "tc": "驗證持續部署 Pipeline：更新 live-items.json → git push → GitHub Actions 自動構建 → 站點即時更新。"
-      },
-      "actions": {
-        "front": {
-          "sc": "正常查看本站内容，测试四档角色筛选与搜索功能",
-          "tc": "正常查看本站內容，測試四檔角色篩選與搜索功能"
-        },
-        "midback": {
-          "sc": "内容管理已建立：数据更新 → 推送 → 自动上线",
-          "tc": "內容管理已建立：數據更新 → 推送 → 自動上線"
-        },
-        "lead": {
-          "sc": "本部署方案可作为团队内部信息分发基础设施",
-          "tc": "本部署方案可作為團隊內部信息分發基礎設施"
-        },
-        "cross": {
-          "sc": "同时可作为面向跨境客户的合规资讯门户",
-          "tc": "可同時作為面向跨境客戶的合規資訊門戶"
-        }
-      },
-      "source": {
-        "sc": "Hermes Agent · 部署验证",
-        "tc": "Hermes Agent · 部署驗證"
-      },
-      "boards": [
-        "market",
-        "regulatory"
-      ],
-      "contentKind": "notice",
-      "publishedAt": "2026-07-27T14:00:00+08:00",
-      "originalUrl": "https://hkmaoquanqingbao.com",
-      "sourceKey": "deploy:test-2026-07-27"
-    },
-    {
-      "id": "hkma-20260727-3",
-      "clusterCount": 1,
-      "score": 88,
-      "verifyStatus": "verified",
-      "featured": true,
-      "evergreen": false,
-      "ingestedAt": "2026-07-28T11:00:00+08:00",
-      "contentRole": {
-        "sc": "本站导读（非原文）",
-        "tc": "本站導讀（非原文）"
-      },
-      "title": {
-        "sc": "金管局与保监局保费融资保障措施落地回顾。",
-        "tc": "金管局與保監局保費融資保障措施落地回顧。"
-      },
-      "summary": {
-        "sc": "金管局2026年7月回顾保费融资三项措施落地效果，涵盖提高披露标准、加强申请人还款能力评估和利率变动缓冲。全文重申投保人须在对港销售全流程中获充分保护 [EN原文]",
-        "tc": "金管局2026年7月回顧保費融資三項措施落地效果"
-      },
-      "why": {
-        "sc": "保费融资合规红线进一步明确，前线营销须确保客户签署风险确认书。",
-        "tc": "保費融資合規紅線進一步明確。"
-      },
-      "actions": {
-        "front": {
-          "sc": "保费融资签单前必须与客户共同完成4档压力测试",
-          "tc": "保費融資簽單前必須與客戶共同完成4檔壓力測試"
-        },
-        "midback": {
-          "sc": "更新内部保费融资合规清单",
-          "tc": "更新內部保費融資合規清單"
-        },
-        "lead": {
-          "sc": "团队培训：融资利差转负时的客户沟通话术",
-          "tc": "團隊培訓：融資利差轉負時的客戶溝通話術"
-        },
-        "cross": {
-          "sc": "跨境客户保费融资方案需同时满足两地监管",
-          "tc": "跨境客戶保費融資方案需同時滿足兩地監管"
-        }
-      },
-      "source": {
-        "sc": "HKMA 新闻稿",
-        "tc": "HKMA 新聞稿",
-        "lang": "en"
-      },
-      "boards": [
-        "regulatory",
-        "compliance"
-      ],
-      "tags": {
-        "sc": [
-          "保费融资",
-          "金管局"
-        ],
-        "tc": [
-          "保費融資",
-          "金管局"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2026-07-27T10:00:00+08:00",
-      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/07/",
-      "sourceKey": "hkma:premfin-20260727"
     },
     {
       "clusterCount": 1,
