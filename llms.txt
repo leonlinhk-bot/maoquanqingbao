@@ -1,0 +1,21 @@
+# 猫圈儿港险情报站
+> 香港保险监管与行业资讯聚合导读平台 · 持牌人情报台
+
+## 定位
+专注港险相关官方/一手资讯的高效汇聚与可追溯导读。每条可回追原文。
+不做分红实现率数仓。数据来源：保监局(IA)、金管局(HKMA)、保司官网、国际机构研究与媒体。
+
+## 角色视图
+- 前线 IFA：产品窗口、优惠、异议、宏观利率
+- 中后台合规：条款、核保、分红、培训 + IA/SFC、转介佣金、AML、执法
+- 团队管理：渠道份额、竞品、政策冲击、激励与编制
+- 跨境架构：信托家办、CRS、身份计划、美元
+
+## API
+- 精选 JSON：https://hkmaoquanqingbao.com/feed/featured.json
+- 全量索引：https://hkmaoquanqingbao.com/feed/all.json
+- RSS：https://hkmaoquanqingbao.com/feed/featured.xml
+- 接入说明：https://hkmaoquanqingbao.com/api.md
+
+## 免责
+内容供香港持牌保险中介及专业人士参考，不构成销售建议、投资建议或法律意见。请以监管与保司原文为准。
