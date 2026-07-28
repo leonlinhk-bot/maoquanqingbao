@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-07-28T16:00:00+08:00",
-    "itemCount": 120,
+    "generatedAt": "2026-07-28T17:00:00+08:00",
+    "itemCount": 125,
     "windowNote": {
-      "sc": "本库 120 条导读，数据窗口截至 2026-07-28。导读≠原文。",
-      "tc": "本庫 120 條導讀，數據窗口截至 2026-07-28。導讀≠原文。"
+      "sc": "本库 125 条导读，数据窗口截至 2026-07-28。导读≠原文。",
+      "tc": "本庫 125 條導讀，數據窗口截至 2026-07-28。導讀≠原文。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -167,6 +167,352 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "cpic-20260504-gen3",
+      "clusterCount": 1,
+      "score": 84,
+      "verifyStatus": "pending",
+      "featured": true,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T17:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "太保寿险香港推出「世代悦享3」储蓄保险计划——35周年献礼",
+        "tc": "太保壽險香港推出「世代悅享3」儲蓄保險計劃——35周年獻禮"
+      },
+      "summary": {
+        "sc": "中国太保寿险香港2026年5月4日（太保成立35周年）推出「世代悦享3储蓄保险计划」。以国资实控、836%偿付能力充足率、全线100%分红兑现（新品116%超预期）为核心卖点，定位安全稳健。",
+        "tc": "太保推出世代悅享3，國資背景+836%償付率"
+      },
+      "why": {
+        "sc": "中资保险在港最亮眼产品之一，国资背景+高兑现率=差异化竞争力",
+        "tc": "中資保險在港亮眼產品"
+      },
+      "actions": {
+        "front": {
+          "sc": "中资保司偏好客户的首选推荐",
+          "tc": "中資保司客戶首選"
+        },
+        "midback": {
+          "sc": "更新产品对比，纳入太保",
+          "tc": "更新產品對比"
+        },
+        "lead": {
+          "sc": "太保作为中资保司的差异化定位评估",
+          "tc": "中資保司差異化評估"
+        },
+        "cross": {
+          "sc": "内地客户对太保品牌天然的信任感",
+          "tc": "內地客戶對太保信任感"
+        }
+      },
+      "source": {
+        "sc": "太保/界面新闻/东方财富",
+        "tc": "太保/界面新聞/東方財富",
+        "lang": "zh"
+      },
+      "boards": [
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "太保",
+          "世代悦享3",
+          "国资",
+          "2026"
+        ],
+        "tc": [
+          "太保",
+          "世代悅享3",
+          "國資",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-05-04T10:00:00+08:00",
+      "originalUrl": "https://www.cpiclifehk.com.hk/sc/company/lastestNews",
+      "sourceKey": "cpic:gen3-20260504"
+    },
+    {
+      "id": "fwd-2026-q1-update",
+      "clusterCount": 1,
+      "score": 80,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T17:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "富卫集团2026年Q1新业务强劲：年化新保费+4%至7.2亿美元",
+        "tc": "富衛集團2026年Q1新業務強勁：年化新保費+4%至7.2億美元"
+      },
+      "summary": {
+        "sc": "富卫集团2026年Q1新增业务销售额（年化新保费）按年上升4%至7.2亿美元。新业务合约服务边际达5.56亿美元，按年增幅18%。泛亚地区推出11款新产品。[EN原文]",
+        "tc": "富衛Q1新保費+4%，合約邊際+18%"
+      },
+      "why": {
+        "sc": "富卫IPO后首份季度成绩单=市场关注",
+        "tc": "富衛IPO後首季成績"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解富卫新产品线",
+          "tc": "了解富衛新產品"
+        },
+        "midback": {
+          "sc": "更新富卫品牌档案",
+          "tc": "更新品牌檔案"
+        },
+        "lead": {
+          "sc": "关注富卫在泛亚市场的扩张",
+          "tc": "關注泛亞擴張"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "FWD 新闻稿",
+        "tc": "FWD 新聞稿",
+        "lang": "en"
+      },
+      "boards": [
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "富卫",
+          "Q1",
+          "保费",
+          "2026"
+        ],
+        "tc": [
+          "富衛",
+          "Q1",
+          "保費",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-05-20T10:00:00+08:00",
+      "originalUrl": "https://www.fwd.com/zh/newsroom/press-releases/FWD-Group-reports-strong-first-quarter-new-business-update/",
+      "sourceKey": "fwd:q1-2026"
+    },
+    {
+      "id": "fwd-2026-brand-victoria",
+      "clusterCount": 1,
+      "score": 73,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T17:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "富卫香港2026品牌升级：维港双岸招牌同时亮灯",
+        "tc": "富衛香港2026品牌升級：維港雙岸招牌同時亮燈"
+      },
+      "summary": {
+        "sc": "富卫保险2026年品牌升级，从1881 Heritage延伸至尖沙咀The ONE，维港两岸招牌同时亮灯。品牌影片以「创造保险新体验」为主题，彰显深耕香港的决心。",
+        "tc": "富衛維港雙岸招牌亮燈品牌升級"
+      },
+      "why": {
+        "sc": "品牌投入=市占率竞争信号，富卫持续加大对港布局",
+        "tc": "品牌投入=市佔率競爭"
+      },
+      "actions": {
+        "front": {
+          "sc": "品牌知名度提升可辅助客户沟通",
+          "tc": "品牌知名度輔助溝通"
+        },
+        "midback": {
+          "sc": ""
+        },
+        "lead": {
+          "sc": "关注富卫品牌投入后的市场份额变化",
+          "tc": "關注市佔率變化"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "FWD/YouTube",
+        "tc": "FWD/YouTube",
+        "lang": "zh"
+      },
+      "boards": [
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "富卫",
+          "品牌",
+          "维港",
+          "2026"
+        ],
+        "tc": [
+          "富衛",
+          "品牌",
+          "維港",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-06-20T10:00:00+08:00",
+      "originalUrl": "https://www.youtube.com/watch?v=2Kei5uxrEfU",
+      "sourceKey": "fwd:brand-2026"
+    },
+    {
+      "id": "hsbc-life-2026-hnw-pitchbook",
+      "clusterCount": 1,
+      "score": 82,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T17:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "汇丰保险发布2026高净值财富传承规划报告",
+        "tc": "滙豐保險發布2026高淨值財富傳承規劃報告"
+      },
+      "summary": {
+        "sc": "汇丰保险2026年3月发布高净值财富传承规划报告，显示仅41%高净值人士制定完整传承计划。汇丰已发行10份单张超5000万美元的大额保单，彰显市场领先地位。[EN原文]",
+        "tc": "滙豐發布高淨值傳承報告，已發10張超5000萬美元保單"
+      },
+      "why": {
+        "sc": "汇丰在高净值市场的话语权=银保渠道最大优势",
+        "tc": "滙豐高淨值市場話語權"
+      },
+      "actions": {
+        "front": {
+          "sc": "高净值客户沟通中引用汇丰数据",
+          "tc": "高淨值客戶溝通"
+        },
+        "midback": {
+          "sc": "更新高净值市场数据",
+          "tc": "更新市場數據"
+        },
+        "lead": {
+          "sc": "银保渠道高净值客群策略",
+          "tc": "銀保渠道策略"
+        },
+        "cross": {
+          "sc": "跨境高净值解决方案",
+          "tc": "跨境高淨值方案"
+        }
+      },
+      "source": {
+        "sc": "汇丰保险",
+        "tc": "滙豐保險",
+        "lang": "zh"
+      },
+      "boards": [
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "汇丰",
+          "高净值",
+          "传承",
+          "大额保单"
+        ],
+        "tc": [
+          "滙豐",
+          "高淨值",
+          "傳承",
+          "大額保單"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-03-17T10:00:00+08:00",
+      "originalUrl": "https://www.life.hsbc.com/-/media/life/pdfs/260317-hsbc-life-hnw-pitchbook-sc.pdf",
+      "sourceKey": "hsbc:hnw-pitchbook-20260317"
+    },
+    {
+      "id": "chinlife-2026-hk-digital",
+      "clusterCount": 1,
+      "score": 76,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T17:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "中国人寿海外2026年加速数字化转型：线上理赔+智能客服",
+        "tc": "中國人壽海外2026年加速數位轉型：線上理賠+智能客服"
+      },
+      "summary": {
+        "sc": "中国人寿(海外)2026年持续加速数字化转型，推出线上理赔平台与智能客服系统。目标将理赔时效缩短至3个工作日内，提升客户体验。[EN原文]",
+        "tc": "國壽海外加速數位轉型"
+      },
+      "why": {
+        "sc": "中资保司科技升级=与港资/外资差异化竞争的新维度",
+        "tc": "中資保司科技升級"
+      },
+      "actions": {
+        "front": {
+          "sc": "理赔速度可作客户沟通卖点",
+          "tc": "理賠速度可作賣點"
+        },
+        "midback": {
+          "sc": "更新保司科技能力档案",
+          "tc": "更新科技檔案"
+        },
+        "lead": {
+          "sc": "关注中资保司的数字化能力",
+          "tc": "關注數位化能力"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "中国人寿海外",
+        "tc": "中國人壽海外",
+        "lang": "zh"
+      },
+      "boards": [
+        "product",
+        "firm",
+        "tech"
+      ],
+      "tags": {
+        "sc": [
+          "中国人寿",
+          "数字化",
+          "理赔",
+          "2026"
+        ],
+        "tc": [
+          "中國人壽",
+          "數位化",
+          "理賠",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-04-10T10:00:00+08:00",
+      "originalUrl": "https://www.chinalife.com.hk/",
+      "sourceKey": "chinlife:digital-2026"
+    },
     {
       "id": "aia-20260716-hyrox",
       "clusterCount": 1,
