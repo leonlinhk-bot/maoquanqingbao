@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-07-28T12:30:00+08:00",
-    "itemCount": 91,
+    "generatedAt": "2026-07-28T13:00:00+08:00",
+    "itemCount": 97,
     "windowNote": {
-      "sc": "本库 91 条导读，数据窗口截至 2026-07-28。信源：监管+保司官网+机构研究+媒体线索。全部动态默认按发布时间降序。导读≠原文。",
-      "tc": "本庫 91 條導讀，數據窗口截至 2026-07-28。信源：監管+保司官網+機構研究+媒體線索。全部動態默認按發布時間降序。導讀≠原文。"
+      "sc": "本库 97 条导读，数据窗口截至 2026-07-28。信源：监管+保司官网+机构研究+媒体线索。全部动态默认按发布时间降序。导读≠原文。",
+      "tc": "本庫 97 條導讀，數據窗口截至 2026-07-28。信源：監管+保司官網+機構研究+媒體線索。全部動態默認按發布時間降序。導讀≠原文。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -167,6 +167,429 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "ia-20260123-q3stats",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T13:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "保监局公布2025年前三季临时统计：新造保费2644亿港元同比+55.9%",
+        "tc": "保監局公布2025年前三季臨時統計：新造保費2644億港元同比+55.9%"
+      },
+      "summary": {
+        "sc": "保监局2026年1月23日公布2025年前三季临时统计：长期业务新造保费2644.52亿港元同比+55.9%，其中分红业务新保单保费2262.75亿港元同比+60.1%。终身寿险占比80.5%，储蓄寿险10.6%。",
+        "tc": "保監局公布2025前三季統計，分紅保費同比+60%"
+      },
+      "why": {
+        "sc": "分红险贡献绝对主力，演示利率上限前抢购潮效应明显",
+        "tc": "分紅險貢獻絕對主力"
+      },
+      "actions": {
+        "front": {
+          "sc": "用官方数据向客户展示香港保险市场增长趋势",
+          "tc": "用官方數據展示市場趨勢"
+        },
+        "midback": {
+          "sc": "更新行业数据手册",
+          "tc": "更新行業數據手冊"
+        },
+        "lead": {
+          "sc": "数据驱动团队业务策略调整",
+          "tc": "數據驅動業務策略"
+        },
+        "cross": {
+          "sc": "内地访客保费数据辅助跨境营销",
+          "tc": "內地訪客數據輔助跨境營銷"
+        }
+      },
+      "source": {
+        "sc": "IA 保监局统计",
+        "tc": "IA 保監局統計",
+        "lang": "zh"
+      },
+      "boards": [
+        "regulatory",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "Q3统计",
+          "保费",
+          "分红",
+          "2025"
+        ],
+        "tc": [
+          "Q3統計",
+          "保費",
+          "分紅",
+          "2025"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-01-23T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260123.html",
+      "sourceKey": "ia:q3stats-20260123"
+    },
+    {
+      "id": "ia-20250901-referral50",
+      "clusterCount": 1,
+      "score": 95,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": true,
+      "ingestedAt": "2026-07-28T13:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "保监局就转介费监管期望发出通函：50%基准 10月1日起遵从",
+        "tc": "保監局就轉介費監管期望發出通函：50%基準 10月1日起遵從"
+      },
+      "summary": {
+        "sc": "保监局2025年9月1日发出通函，就持牌经纪公司支付分红保单转介费提出监管期望：转介费以佣金总额50%为基准。超基准须加强披露，并可能面对巡查与续牌审视。市场预期自2025年10月1日起遵从。",
+        "tc": "保監局9月1日發出轉介費通函，50%基準10月1日起遵從"
+      },
+      "why": {
+        "sc": "转介费规则=分红保单销售的合规红线，超线后果严重",
+        "tc": "轉介費規則=分紅保單合規紅線"
+      },
+      "actions": {
+        "front": {
+          "sc": "计算每笔分红保单转介费是否在50%以内",
+          "tc": "計算轉介費是否在50%以內"
+        },
+        "midback": {
+          "sc": "建立转介费台账，每季度自查",
+          "tc": "建立轉介費台賬定期自查"
+        },
+        "lead": {
+          "sc": "团队培训：转介费合规红线不可触碰",
+          "tc": "團隊培訓轉介費紅線"
+        },
+        "cross": {
+          "sc": "跨境转介协议需符合两地监管要求",
+          "tc": "跨境轉介需符合兩地監管"
+        }
+      },
+      "source": {
+        "sc": "IA 保监局通函",
+        "tc": "IA 保監局通函",
+        "lang": "zh"
+      },
+      "boards": [
+        "regulatory",
+        "compliance",
+        "channel"
+      ],
+      "tags": {
+        "sc": [
+          "转介费",
+          "50%",
+          "通函",
+          "合规"
+        ],
+        "tc": [
+          "轉介費",
+          "50%",
+          "通函",
+          "合規"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-09-01T09:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_01092025_Referral_Fees_Eng.pdf",
+      "sourceKey": "ia:referral-50-20250901"
+    },
+    {
+      "id": "ia-20250917-product-naming",
+      "clusterCount": 1,
+      "score": 82,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": true,
+      "ingestedAt": "2026-07-28T13:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "保监局与金管局联合发布保险产品命名要求通函",
+        "tc": "保監局與金管局聯合發布保險產品命名要求通函"
+      },
+      "summary": {
+        "sc": "保监局与金管局2025年9月联合发出通函，就保险产品名称的适当性提出监管要求。分两阶段实施：第一阶段自2026年1月1日起适用于新上市产品，避免产品名称误导消费者。",
+        "tc": "保監局與金管局9月聯合發布產品命名通函"
+      },
+      "why": {
+        "sc": "产品命名规范化=消费者保护升级，误导性名称将被禁止",
+        "tc": "產品命名規範化=消費者保護"
+      },
+      "actions": {
+        "front": {
+          "sc": "向客户解释产品名称的含义，不夸大宣传",
+          "tc": "向客戶解釋產品名稱含義"
+        },
+        "midback": {
+          "sc": "更新产品宣传材料中的产品名称",
+          "tc": "更新產品宣傳材料"
+        },
+        "lead": {
+          "sc": "团队培训：产品命名合规要求",
+          "tc": "團隊培訓產品命名合規"
+        },
+        "cross": {
+          "sc": "跨境客户可能遇到两岸产品名称差异",
+          "tc": "跨境產品名稱差異說明"
+        }
+      },
+      "source": {
+        "sc": "IA+HKMA 联合通函",
+        "tc": "IA+HKMA 聯合通函",
+        "lang": "en"
+      },
+      "boards": [
+        "regulatory",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "产品命名",
+          "金管局",
+          "通函",
+          "2026"
+        ],
+        "tc": [
+          "產品命名",
+          "金管局",
+          "通函",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-09-17T14:00:00+08:00",
+      "originalUrl": "https://brdr.hkma.gov.hk/eng/doc-ldg/docId/getPdf/20250917-4-EN/20250917-4-EN.pdf",
+      "sourceKey": "ia:hkma-product-naming-20250917"
+    },
+    {
+      "id": "ia-20250701-illustration-cap",
+      "clusterCount": 1,
+      "score": 97,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": true,
+      "ingestedAt": "2026-07-28T13:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "分红保单演示利率上限正式生效：非港元6.5%/港元6.0%",
+        "tc": "分紅保單演示利率上限正式生效：非港元6.5%/港元6.0%"
+      },
+      "summary": {
+        "sc": "保监局2024年2月发布的演示利率上限框架于2025年7月1日生效。非港元保单演示IRR上限6.5%，港元保单6.0%。新规为分红保单销售三项措施的第一环，后续包括转介费基准(10月)和佣金分摊(2026年1月)。",
+        "tc": "演示利率上限2025年7月1日生效"
+      },
+      "why": {
+        "sc": "演示利率上限是分红险监管的里程碑，彻底改变产品展示方式",
+        "tc": "演示利率上限是分紅險監管里程碑"
+      },
+      "actions": {
+        "front": {
+          "sc": "所有客户沟通中使用合规演示利率",
+          "tc": "所有溝通使用合規演示利率"
+        },
+        "midback": {
+          "sc": "更新产品手册中的演示利率数据",
+          "tc": "更新產品手冊演示利率"
+        },
+        "lead": {
+          "sc": "团队培训：演示利率上限的三项措施全貌",
+          "tc": "團隊培訓演示利率全貌"
+        },
+        "cross": {
+          "sc": "跨境客户需要解释演示利率与保证利率的区别",
+          "tc": "解釋演示與保證利率區別"
+        }
+      },
+      "source": {
+        "sc": "IA 保监局通函",
+        "tc": "IA 保監局通函",
+        "lang": "zh"
+      },
+      "boards": [
+        "regulatory",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "演示利率",
+          "上限",
+          "6.5%",
+          "分红",
+          "2025"
+        ],
+        "tc": [
+          "演示利率",
+          "上限",
+          "6.5%",
+          "分紅",
+          "2025"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-07-01T09:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/illustration_cap.html",
+      "sourceKey": "ia:illustration-cap-20250701"
+    },
+    {
+      "id": "ia-202508-iul-sandbox",
+      "clusterCount": 1,
+      "score": 80,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T13:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "保监局批准IUL产品沙盒申请：视频会议销售纳入监管框架",
+        "tc": "保監局批准IUL產品沙盒申請：視頻會議銷售納入監管框架"
+      },
+      "summary": {
+        "sc": "保监局2025年9月发出通函，批准IUL产品通过视频会议销售的沙盒申请，明确远程销售长期保单的合规要求与保障措施。自2025年3月IUL联合通函以来，已有43个IUL产品进入市场。",
+        "tc": "保監局批准IUL視頻銷售沙盒，43個IUL產品已入市"
+      },
+      "why": {
+        "sc": "IUL产品渠道进一步拓展，视频销售=新的客户触达方式",
+        "tc": "IUL視頻銷售=新客戶觸達方式"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解IUL视频销售流程和合规要求",
+          "tc": "了解IUL視頻銷售流程"
+        },
+        "midback": {
+          "sc": "更新远程销售合规清单",
+          "tc": "更新遠程銷售合規清單"
+        },
+        "lead": {
+          "sc": "评估IUL产品在团队产品矩阵中的定位",
+          "tc": "評估IUL產品定位"
+        },
+        "cross": {
+          "sc": "视频销售是否适用于跨境客户？严格合规评估",
+          "tc": "視頻銷售是否適用跨境客戶"
+        }
+      },
+      "source": {
+        "sc": "IA 保监局通函",
+        "tc": "IA 保監局通函",
+        "lang": "en"
+      },
+      "boards": [
+        "regulatory",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "IUL",
+          "沙盒",
+          "视频销售",
+          "远程"
+        ],
+        "tc": [
+          "IUL",
+          "沙盒",
+          "視頻銷售",
+          "遠程"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-09-19T14:00:00+08:00",
+      "originalUrl": "https://brdr.hkma.gov.hk/chi/doc-ldg/docId/20250313-10-TC",
+      "sourceKey": "ia:iul-sandbox-20250919"
+    },
+    {
+      "id": "ia-202507-commission-spread",
+      "clusterCount": 1,
+      "score": 93,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": true,
+      "ingestedAt": "2026-07-28T13:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "保监局发布分红保单佣金分摊指引：2026年1月1日起实施",
+        "tc": "保監局發布分紅保單佣金分攤指引：2026年1月1日起實施"
+      },
+      "summary": {
+        "sc": "保监局2025年7月发布应用说明，正式调整分红保单佣金结构：自2026年1月1日起，首年佣金不超过总佣金70%，其余至少30%在随后5年均匀摊付。此为分红保单销售三项措施的第三环。",
+        "tc": "保監局发布佣金分摊指引，2026年1月實施"
+      },
+      "why": {
+        "sc": "佣金分摊=经纪人收入模式根本改变，从量转向质",
+        "tc": "佣金分攤=經紀收入模式根本改變"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解佣金分摊对个人收入的影响",
+          "tc": "了解佣金分攤對個人收入影響"
+        },
+        "midback": {
+          "sc": "更新佣金计算模板",
+          "tc": "更新佣金計算模板"
+        },
+        "lead": {
+          "sc": "重新设计团队激励方案，适应分年收取模式",
+          "tc": "重新設計團隊激勵方案"
+        },
+        "cross": {
+          "sc": "跨境客户的佣金分摊是否符合两地规则",
+          "tc": "跨境佣金分攤合規評估"
+        }
+      },
+      "source": {
+        "sc": "IA 保监局应用说明",
+        "tc": "IA 保監局應用說明",
+        "lang": "zh"
+      },
+      "boards": [
+        "regulatory",
+        "channel"
+      ],
+      "tags": {
+        "sc": [
+          "佣金分摊",
+          "70%",
+          "首年",
+          "2026"
+        ],
+        "tc": [
+          "佣金分攤",
+          "70%",
+          "首年",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-07-15T14:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/commission_spreading.html",
+      "sourceKey": "ia:commission-spread-20250715"
+    },
     {
       "id": "ia-20260331-gn16-revised",
       "clusterCount": 1,
