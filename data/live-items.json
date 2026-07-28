@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-07-28T14:00:00+08:00",
-    "itemCount": 102,
+    "generatedAt": "2026-07-28T14:30:00+08:00",
+    "itemCount": 106,
     "windowNote": {
-      "sc": "本库 102 条导读，数据窗口截至 2026-07-28。信源：监管+保司官网+机构研究+媒体线索。全部动态默认按发布时间降序。导读≠原文。",
-      "tc": "本庫 102 條導讀，數據窗口截至 2026-07-28。信源：監管+保司官網+機構研究+媒體線索。全部動態默認按發布時間降序。導讀≠原文。"
+      "sc": "本库 106 条导读，数据窗口截至 2026-07-28。导读\neq原文。",
+      "tc": "本庫 106 條導讀，數據窗口截至 2026-07-28。導讀\neq原文。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -167,6 +167,286 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "ia-20240701-rbc-live",
+      "clusterCount": 1,
+      "score": 98,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": true,
+      "ingestedAt": "2026-07-28T14:30:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "香港风险为本资本制度(RBC)正式生效",
+        "tc": "香港風險為本資本制度(RBC)正式生效"
+      },
+      "summary": {
+        "sc": "2024年7月1日，香港保险业风险为本资本制度正式生效。标志性里程碑：以模块化方式评估保司风险，与国际标准(IAIS)对齐。涵盖三大支柱：定量资本要求、管治与风险管理、公开披露。",
+        "tc": "2024年7月1日RBC制度正式生效"
+      },
+      "why": {
+        "sc": "RBC=香港保险监管体系最大单次升级，影响所有保司资本管理",
+        "tc": "RBC=香港保險監管史上最大升級"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解RBC对保司偿付能力的提升含义",
+          "tc": "了解RBC對保司影響"
+        },
+        "midback": {
+          "sc": "更新保司评估框架纳入RBC指标",
+          "tc": "更新評估框架"
+        },
+        "lead": {
+          "sc": "RBC合规=保司合作基本门槛",
+          "tc": "RBC合規=合作門檻"
+        },
+        "cross": {
+          "sc": "RBC与国际标准对齐=跨境合作更顺畅",
+          "tc": "RBC與國際對齊"
+        }
+      },
+      "source": {
+        "sc": "财库局/IA",
+        "tc": "財庫局/IA",
+        "lang": "zh"
+      },
+      "boards": [
+        "regulatory"
+      ],
+      "tags": {
+        "sc": [
+          "RBC",
+          "风险为本",
+          "资本制度",
+          "2024"
+        ],
+        "tc": [
+          "RBC",
+          "風險為本",
+          "資本制度",
+          "2024"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2024-07-01T09:00:00+08:00",
+      "originalUrl": "https://www.fstb.gov.hk/fsb/en/business/policy_highlights/insurance-industry.html",
+      "sourceKey": "ia:rbc-live-20240701"
+    },
+    {
+      "id": "ia-20240923-refcheck",
+      "clusterCount": 1,
+      "score": 82,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T14:30:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "保监局参考查核计划生效：中介人背景审查启动",
+        "tc": "保監局參考查核計劃生效：中介人背景審查啟動"
+      },
+      "summary": {
+        "sc": "保监局2024年9月23日启动参考查核计划。五年豁免期届满后开始征收牌照费，标志着中介人监管从过渡期进入常态化运营。",
+        "tc": "保監局參考查核計劃9月23日生效"
+      },
+      "why": {
+        "sc": "中介人合规进入新阶段，牌照管理常态化",
+        "tc": "中介人合規進入新階段"
+      },
+      "actions": {
+        "front": {
+          "sc": "确保个人牌照信息更新",
+          "tc": "確保個人牌照更新"
+        },
+        "midback": {
+          "sc": "更新持牌人员档案",
+          "tc": "更新持牌人員檔案"
+        },
+        "lead": {
+          "sc": "团队牌照合规检查",
+          "tc": "團隊牌照合規檢查"
+        },
+        "cross": {
+          "sc": "跨境中介需满足两地牌照要求",
+          "tc": "跨境中介需滿足兩地牌照"
+        }
+      },
+      "source": {
+        "sc": "IA 保监局",
+        "tc": "IA 保監局",
+        "lang": "zh"
+      },
+      "boards": [
+        "regulatory",
+        "compliance"
+      ],
+      "tags": {
+        "sc": [
+          "参考查核",
+          "中介人",
+          "牌照",
+          "2024"
+        ],
+        "tc": [
+          "參考查核",
+          "中介人",
+          "牌照",
+          "2024"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2024-09-23T09:00:00+08:00",
+      "originalUrl": "https://www.kennedyslaw.com/en/thought-leadership/article/2024/hong-kong-regulatory-insurance-update-september-2024/",
+      "sourceKey": "ia:refcheck-20240923"
+    },
+    {
+      "id": "ia-2024h1-stats",
+      "clusterCount": 1,
+      "score": 84,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T14:30:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "2024上半年香港保险毛保费3109亿同比+5.1% 内地访客297亿",
+        "tc": "2024上半年香港保險毛保費3109億同比+5.1% 內地訪客297億"
+      },
+      "summary": {
+        "sc": "保监局公布2024上半年统计：毛保费总额3109亿港元同比+5.1%，内地访客新造保费297亿港元。保险密度亚洲第一、全球第二。",
+        "tc": "2024上半年毛保費3109億，內地訪客297億"
+      },
+      "why": {
+        "sc": "疫后复苏官方验证，内地需求持续强劲",
+        "tc": "疫後復甦官方驗證"
+      },
+      "actions": {
+        "front": {
+          "sc": "市场数据可用于客户沟通",
+          "tc": "市場數據可用於溝通"
+        },
+        "midback": {
+          "sc": "归档历史数据做年度对比",
+          "tc": "歸檔歷史數據"
+        },
+        "lead": {
+          "sc": "数据驱动团队策略",
+          "tc": "數據驅動策略"
+        },
+        "cross": {
+          "sc": "内地访客数据=跨境营销基础",
+          "tc": "內地訪客數據=跨境基礎"
+        }
+      },
+      "source": {
+        "sc": "IA/人民日报",
+        "tc": "IA/人民日報",
+        "lang": "zh"
+      },
+      "boards": [
+        "regulatory",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "H1统计",
+          "保费",
+          "3109亿",
+          "2024"
+        ],
+        "tc": [
+          "H1統計",
+          "保費",
+          "3109億",
+          "2024"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2024-09-15T10:00:00+08:00",
+      "originalUrl": "http://paper.people.com.cn/",
+      "sourceKey": "ia:h1stats-2024"
+    },
+    {
+      "id": "ia-2024-crossborder",
+      "clusterCount": 1,
+      "score": 87,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": true,
+      "ingestedAt": "2026-07-28T14:30:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "保监局与廉政公署联合打击跨境无牌销售保单",
+        "tc": "保監局與廉政公署聯合打擊跨境無牌銷售保單"
+      },
+      "summary": {
+        "sc": "保监局与廉政公署2024年联合行动打击向内地客户跨境无牌销售保单，拘捕一名保险经纪。标志着两地监管对地下保单零容忍。香港保险销售全流程须在港完成。",
+        "tc": "保監局與廉政公署聯合打擊跨境無牌銷售"
+      },
+      "why": {
+        "sc": "跨境销售合规红线明确：全流程须在港完成，违规可被刑事追究",
+        "tc": "跨境銷售紅線明確"
+      },
+      "actions": {
+        "front": {
+          "sc": "100%确保签单流程在港完成",
+          "tc": "簽單流程100%在港完成"
+        },
+        "midback": {
+          "sc": "更新跨境销售合规手册",
+          "tc": "更新跨境合規手冊"
+        },
+        "lead": {
+          "sc": "团队重申跨境合规底线",
+          "tc": "重申跨境合規底線"
+        },
+        "cross": {
+          "sc": "跨境客户合规签单全流程",
+          "tc": "跨境客戶合規流程"
+        }
+      },
+      "source": {
+        "sc": "IA/廉政公署",
+        "tc": "IA/廉政公署",
+        "lang": "zh"
+      },
+      "boards": [
+        "regulatory",
+        "compliance",
+        "cross"
+      ],
+      "tags": {
+        "sc": [
+          "跨境",
+          "无牌销售",
+          "廉政公署",
+          "地下保单"
+        ],
+        "tc": [
+          "跨境",
+          "無牌銷售",
+          "廉政公署",
+          "地下保單"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2024-08-20T14:00:00+08:00",
+      "originalUrl": "https://www.xincai.com/article/nhzqptf9387534",
+      "sourceKey": "ia:crossborder-2024"
+    },
     {
       "id": "ia-20250228-illustration-note",
       "clusterCount": 1,
