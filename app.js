@@ -12548,7 +12548,8 @@ window.HKII_DATA = {
         "sc": "Asian Insurance Forum 2026",
         "tc": "Asian Insurance Forum 2026"
       },
-      "theme": "firm"
+      "theme": "firm",
+      "itemId": "aif-2026-save-the-date"
     },
     {
       "date": "2026-07-31",
@@ -12556,7 +12557,8 @@ window.HKII_DATA = {
         "sc": "CPD 2025/26 学时完成截止（评核期）",
         "tc": "CPD 2025/26 學時完成截止（評核期）"
       },
-      "theme": "career"
+      "theme": "career",
+      "itemId": "ia-20260331-cpd-reporting"
     },
     {
       "date": "2026-07-10",
@@ -12564,7 +12566,8 @@ window.HKII_DATA = {
         "sc": "演示上限检讨机制释义",
         "tc": "演示上限檢討機制釋義"
       },
-      "theme": "par"
+      "theme": "par",
+      "itemId": "ia-20260710-illustration-review"
     },
     {
       "date": "2026-07-01",
@@ -12572,7 +12575,8 @@ window.HKII_DATA = {
         "sc": "跨行业背景查核安排生效（保监局叙述）",
         "tc": "跨行業背景查核安排生效（保監局敘述）"
       },
-      "theme": "compliance"
+      "theme": "compliance",
+      "itemId": "ia-20260513-cross-refcheck"
     },
     {
       "date": "2026-06-30",
@@ -12580,7 +12584,8 @@ window.HKII_DATA = {
         "sc": "GL34 公司政策节生效",
         "tc": "GL34 公司政策節生效"
       },
-      "theme": "reg"
+      "theme": "reg",
+      "itemId": "ia-gl34-20260331"
     },
     {
       "date": "2026-03-31",
@@ -12588,7 +12593,8 @@ window.HKII_DATA = {
         "sc": "GL34 修订主体生效",
         "tc": "GL34 修訂主體生效"
       },
-      "theme": "reg"
+      "theme": "reg",
+      "itemId": "ia-20260331-gn16-revised"
     },
     {
       "date": "2026-01-01",
@@ -12596,7 +12602,8 @@ window.HKII_DATA = {
         "sc": "分红保单佣金分摊要求生效",
         "tc": "分紅保單佣金分攤要求生效"
       },
-      "theme": "compliance"
+      "theme": "compliance",
+      "itemId": "ia-commission-20260101"
     },
     {
       "date": "2025-10-01",
@@ -12604,7 +12611,8 @@ window.HKII_DATA = {
         "sc": "转介费50%基准遵从",
         "tc": "轉介費50%基準遵從"
       },
-      "theme": "compliance"
+      "theme": "compliance",
+      "itemId": "ia-20250901-referral-fee"
     },
     {
       "date": "2025-09-01",
@@ -12612,7 +12620,8 @@ window.HKII_DATA = {
         "sc": "转介费上限规则生效（不超过佣金总额 50%）",
         "tc": "轉介費上限規則生效（不超過佣金總額 50%）"
       },
-      "theme": "compliance"
+      "theme": "compliance",
+      "itemId": "ia-20250901-referral-fee"
     },
     {
       "date": "2025-08-01",
@@ -12628,7 +12637,8 @@ window.HKII_DATA = {
         "sc": "演示利率上限生效",
         "tc": "演示利率上限生效"
       },
-      "theme": "par"
+      "theme": "par",
+      "itemId": "ia-20250228-illustration-cap-pn"
     },
     {
       "date": "2025-02-28",
@@ -12636,7 +12646,8 @@ window.HKII_DATA = {
         "sc": "分红演示利率上限通函发布（2025.07 生效）",
         "tc": "分紅演示利率上限通函發布（2025.07 生效）"
       },
-      "theme": "par"
+      "theme": "par",
+      "itemId": "ia-20250228-illustration-cap-pn"
     },
     {
       "date": "2024-09-23",
@@ -12644,7 +12655,8 @@ window.HKII_DATA = {
         "sc": "跨行业背景查核安排方案咨询",
         "tc": "跨行業背景查核安排方案諮詢"
       },
-      "theme": "compliance"
+      "theme": "compliance",
+      "itemId": "ia-20240923-refcheck"
     },
     {
       "date": "2024-09-15",
@@ -12652,7 +12664,8 @@ window.HKII_DATA = {
         "sc": "2024上半年香港保险市场统计发布",
         "tc": "2024上半年香港保險市場統計發布"
       },
-      "theme": "macro"
+      "theme": "macro",
+      "itemId": "ia-2024h1-stats"
     },
     {
       "date": "2024-09-10",
@@ -12660,7 +12673,8 @@ window.HKII_DATA = {
         "sc": "永明金融收购富卫香港公积金业务",
         "tc": "永明金融收購富衛香港公積金業務"
       },
-      "theme": "firm"
+      "theme": "firm",
+      "itemId": "sunlife-2024-fwd-pension"
     },
     {
       "date": "2024-08-20",
@@ -12668,7 +12682,8 @@ window.HKII_DATA = {
         "sc": "跨境保险销售红线明确（内地居民赴港投保合规框架）",
         "tc": "跨境保險銷售紅線明確（內地居民赴港投保合規框架）"
       },
-      "theme": "compliance"
+      "theme": "compliance",
+      "itemId": "ia-2024-crossborder"
     },
     {
       "date": "2024-08-01",
@@ -12676,7 +12691,8 @@ window.HKII_DATA = {
         "sc": "金融监管总局答复跨境保险通：时机尚不成熟",
         "tc": "金融監管總局答覆跨境保險通：時機尚不成熟"
       },
-      "theme": "offshore"
+      "theme": "offshore",
+      "itemId": "nfra-2024-crossborder-no"
     },
     {
       "date": "2024-07-23",
@@ -12684,7 +12700,8 @@ window.HKII_DATA = {
         "sc": "周大福人寿更名（原富通保险）",
         "tc": "周大福人壽更名（原富通保險）"
       },
-      "theme": "firm"
+      "theme": "firm",
+      "itemId": "ctflife-20240723-rebrand"
     },
     {
       "date": "2024-07-01",
@@ -12692,7 +12709,8 @@ window.HKII_DATA = {
         "sc": "RBC 风险为本资本制度正式实施",
         "tc": "RBC 風險為本資本制度正式實施"
       },
-      "theme": "reg"
+      "theme": "reg",
+      "itemId": "ia-20240701-rbc-live"
     }
   ],
   "daily": {
@@ -17289,7 +17307,7 @@ window.HKII_DATA = {
       foot: "专业参考 · 非销售/投资建议 · 数字请回原文", menu: "菜单",
       roles: [{id:"front",label:"前线IFA"},{id:"midback",label:"中后台合规"},{id:"lead",label:"团队管理"},{id:"cross",label:"跨境架构"}],
       nav: [
-        {id:"pulse",label:"今日脉搏",ico:"◈"},{id:"all",label:"全部动态",ico:"☰"},{id:"daily",label:"角色日报",ico:"▣"},{id:"themes",label:"主题雷达",ico:"◎"},{id:"calendar",label:"监管日历",ico:"◷"},{id:"download",label:"数据下载",ico:"⬇"},{id:"fav",label:"收藏",ico:"☆"},{id:"agent",label:"Agent 接入",ico:"⌘"},{id:"changelog",label:"更新日志",ico:"◌"},{id:"about",label:"关于",ico:"ⓘ"}
+        {id:"pulse",label:"今日脉搏",ico:"◈"},{id:"all",label:"全部动态",ico:"☰"},{id:"daily",label:"角色日报",ico:"▣"},{id:"themes",label:"主题雷达",ico:"◎"},{id:"calendar",label:"事件日历",ico:"◷"},{id:"download",label:"数据下载",ico:"⬇"},{id:"fav",label:"收藏",ico:"☆"},{id:"agent",label:"Agent 接入",ico:"⌘"},{id:"changelog",label:"更新日志",ico:"◌"},{id:"about",label:"关于",ico:"ⓘ"}
       ],
       sec:{c:"内容",a:"接入",m:"更多"},
       views:{
@@ -17297,7 +17315,7 @@ window.HKII_DATA = {
         all:{t:"全部动态",s:"全量信息流 · 按信源/文种细筛（≠主题雷达）"},
         daily:{t:"角色日报",s:"固定节奏的专业早报"},download:{t:"数据下载",s:"按日/周/月/年打包导出 Markdown · 原文可溯"},
         themes:{t:"主题雷达",s:"六大业务板块地图 · 战略导航，不是信息流细筛"},
-        calendar:{t:"监管日历",s:"生效日与关键窗口"},
+        calendar:{t:"事件日历",s:"关键事件 · 生效日 · 行业节点"},
         fav:{t:"收藏",s:"保存在本机"},
         agent:{t:"Agent 接入",s:"JSON Feed · RSS · llms.txt"},changelog:{t:"更新日志",s:"功能与数据变更记录"},about:{t:"关于",s:"定位、原则与免责"}
       },
@@ -17381,7 +17399,7 @@ window.HKII_DATA = {
       foot: "專業參考 · 非銷售/投資建議 · 數字請回原文", menu: "選單",
       roles: [{id:"front",label:"前線IFA"},{id:"midback",label:"中後台合規"},{id:"lead",label:"團隊管理"},{id:"cross",label:"跨境架構"}],
       nav: [
-        {id:"pulse",label:"今日脈搏",ico:"◈"},{id:"all",label:"全部動態",ico:"☰"},{id:"daily",label:"角色日報",ico:"▣"},{id:"themes",label:"主題雷達",ico:"◎"},{id:"calendar",label:"監管日曆",ico:"◷"},{id:"download",label:"數據下載",ico:"⬇"},{id:"fav",label:"收藏",ico:"☆"},{id:"agent",label:"Agent 接入",ico:"⌘"},{id:"changelog",label:"更新日誌",ico:"◌"},{id:"about",label:"關於",ico:"ⓘ"}
+        {id:"pulse",label:"今日脈搏",ico:"◈"},{id:"all",label:"全部動態",ico:"☰"},{id:"daily",label:"角色日報",ico:"▣"},{id:"themes",label:"主題雷達",ico:"◎"},{id:"calendar",label:"事件日曆",ico:"◷"},{id:"download",label:"數據下載",ico:"⬇"},{id:"fav",label:"收藏",ico:"☆"},{id:"agent",label:"Agent 接入",ico:"⌘"},{id:"changelog",label:"更新日誌",ico:"◌"},{id:"about",label:"關於",ico:"ⓘ"}
       ],
       sec:{c:"內容",a:"接入",m:"更多"},
       views:{
@@ -17389,7 +17407,7 @@ window.HKII_DATA = {
         all:{t:"全部動態",s:"全量資訊流 · 按信源/文種細篩（≠主題雷達）"},
         daily:{t:"角色日報",s:"固定節奏的專業早報"},download:{t:"數據下載",s:"按日/週/月/年打包導出 Markdown · 原文可溯"},
         themes:{t:"主題雷達",s:"六大業務板塊地圖 · 戰略導航，不是資訊流細篩"},
-        calendar:{t:"監管日曆",s:"生效日與關鍵窗口"},
+        calendar:{t:"事件日曆",s:"關鍵事件 · 生效日 · 行業節點"},
         fav:{t:"收藏",s:"保存在本機"},
         agent:{t:"Agent 接入",s:"JSON Feed · RSS · llms.txt"},changelog:{t:"更新日誌",s:"功能與數據變更記錄"},about:{t:"關於",s:"定位、原則與免責"}
       },
@@ -17746,7 +17764,12 @@ function fmtDay(iso){
         }).join("") + `</div>`;
       }
     } else if(state.view==="calendar"){
-      html+=`<div class="panel"><h3>${t.calH}</h3>${(DATA.calendar||[]).map(c=>`<div class="cal-item"><div class="cal-date">${esc(c.date)}</div><div>${esc(tx(c.title))} <span class="tag">${esc(t.themes[c.theme]||"")}</span></div></div>`).join("")}</div>`;
+      html+=`<div class="panel"><h3>${t.calH}</h3>${(DATA.calendar||[]).map(c=>{
+        const linked=c.itemId&&byId(c.itemId);
+        return linked
+          ? `<div class="cal-item cal-link" data-open="${c.itemId}" title="点击查看关联资讯"><div class="cal-date">${esc(c.date)}</div><div>${esc(tx(c.title))} <span class="tag">${esc(t.themes[c.theme]||"")}</span> <span class="cal-jump">↗</span></div></div>`
+          : `<div class="cal-item"><div class="cal-date">${esc(c.date)}</div><div>${esc(tx(c.title))} <span class="tag">${esc(t.themes[c.theme]||"")}</span></div></div>`;
+      }).join("")}</div>`;
     } 
     else if(state.view==="download"){
       const periods=["daily","weekly","monthly","yearly"];
@@ -17932,18 +17955,22 @@ ${t.brandName} · ${t.disc}
     lines.push(`${t.brandName} · ${t.disc}`);
     return lines.join("\n");
   }
+  function posterSummary(it){
+    // 一句话精准总结：优先 why，压缩到 ≤42 字
+    const cut=(s,n)=>{s=(s||"").replace(/\s+/g," ").trim(); return s.length>n?s.slice(0,n-1)+"…":s;};
+    const soft=s=>(s||"").replace(/不超过总额\d+%/g,"结构已调整").replace(/不超過總額\d+%/g,"結構已調整");
+    const w=soft(tx(it.why));
+    if(w) return cut(w,42);
+    return cut(soft(tx(it.summary)),42);
+  }
   function posterBullets(it){
-    // extract short sharable bullets - no commission numbers heavy detail
     const sum=tx(it.summary)||"";
-    const why=tx(it.why)||"";
     const act=tx(it.actions&&it.actions[state.role])||"";
     const cut=(s,n)=>{s=(s||"").replace(/\s+/g," ").trim(); return s.length>n?s.slice(0,n-1)+"…":s;};
-    // avoid posting raw commission if user might share externally - soften
-    const soft=s=>s.replace(/不超过总额\d+%/g,"结构已调整").replace(/不超過總額\d+%/g,"結構已調整").replace(/\d+%/g, (m)=>m); 
-    return [cut(soft(sum),72), cut(soft(why),56), cut(soft(act),48)].filter(Boolean);
+    const soft=s=>(s||"").replace(/不超过总额\d+%/g,"结构已调整").replace(/不超過總額\d+%/g,"結構已調整");
+    return [cut(soft(sum),64), cut(soft(act),48)].filter(Boolean);
   }
   function isMomentsFriendly(it){
-    // internal-heavy: RO CPD details etc still ok but mark
     const blob=(tx(it.title)+tx(it.summary));
     if(/巡查常见|汇報安排|匯報安排|KPIM|申报表/.test(blob)) return false;
     return true;
@@ -17953,45 +17980,76 @@ ${t.brandName} · ${t.disc}
     const ctx=canvas.getContext("2d");
     const W=1080,H=1350; canvas.width=W; canvas.height=H;
     const t=T();
-    // background warm dark + gold
+    // ===== 背景：与网站同色系 深蓝墨 + 顶部金色信号线 =====
     const g=ctx.createLinearGradient(0,0,0,H);
-    g.addColorStop(0,"#1a140c"); g.addColorStop(0.55,"#0f1218"); g.addColorStop(1,"#0a0e14");
+    g.addColorStop(0,"#0d1420"); g.addColorStop(0.6,"#0a0e14"); g.addColorStop(1,"#080b10");
     ctx.fillStyle=g; ctx.fillRect(0,0,W,H);
-    // gold frame
-    ctx.strokeStyle="rgba(232,165,75,0.45)"; ctx.lineWidth=4;
-    ctx.strokeRect(48,48,W-96,H-96);
-    // brand
-    ctx.fillStyle="#e8a54b"; ctx.font="700 36px sans-serif";
-    ctx.fillText("猫圈儿 · 港险情报", 90, 130);
-    ctx.fillStyle="rgba(232,237,245,0.55)"; ctx.font="400 26px sans-serif";
-    ctx.fillText(tx(it.source).slice(0,42), 90, 175);
-    // board badge
+    // 顶部金色信号线
+    ctx.fillStyle="#e8a54b"; ctx.fillRect(0,0,W,8);
+    // 细金框（内嵌，克制）
+    ctx.strokeStyle="rgba(232,165,75,0.28)"; ctx.lineWidth=2;
+    ctx.strokeRect(40,40,W-80,H-80);
+
+    // ===== 品牌行 =====
+    ctx.fillStyle="#e8a54b"; ctx.font="700 30px sans-serif";
+    ctx.fillText("猫圈儿港险情报站", 80, 116);
+    ctx.fillStyle="rgba(232,237,245,0.42)"; ctx.font="400 24px sans-serif";
+    const dateStr=(it.publishedAt||"").slice(0,10);
+    ctx.fillText(dateStr, 80, 152);
+
+    // ===== 板块标签（纯文字，无图标） =====
     const bid=(it.boards&&it.boards[0])||"reg";
     const board=(DATA.boards||[]).find(b=>b.id===bid);
-    ctx.fillStyle="rgba(232,165,75,0.16)";
-    roundRect(ctx,90,210,320,56,28); ctx.fill();
-    ctx.fillStyle="#e8a54b"; ctx.font="600 28px sans-serif";
-    ctx.fillText(`${board?board.icon:""} ${board?tx(board.title):""}`.trim().slice(0,14), 115, 248);
-    // title
-    ctx.fillStyle="#e8edf5";
-    wrapText(ctx, tx(it.title), 90, 340, W-180, 52, "700 44px sans-serif", 4);
-    // divider
-    ctx.strokeStyle="rgba(232,165,75,0.35)"; ctx.beginPath(); ctx.moveTo(90,560); ctx.lineTo(W-90,560); ctx.stroke();
-    // bullets
+    const boardName=board?tx(board.title):"港险资讯";
+    const bw=ctx.measureText(boardName).width;
+    ctx.fillStyle="rgba(232,165,75,0.14)";
+    roundRect(ctx,80,188,bw+56,52,10); ctx.fill();
+    ctx.fillStyle="#e8a54b"; ctx.font="600 26px sans-serif";
+    ctx.fillText(boardName, 108, 222);
+
+    // ===== 标题（大字，衬线感） =====
+    ctx.fillStyle="#eef2f8";
+    wrapText(ctx, tx(it.title), 80, 320, W-160, 62, "700 48px 'Songti SC','Noto Serif SC',serif", 4);
+
+    // ===== 一句话精准总结（高亮条） =====
+    const sum1=posterSummary(it);
+    const sumY=560;
+    ctx.fillStyle="rgba(232,165,75,0.12)";
+    roundRect(ctx,80,sumY-46,W-160,96,14); ctx.fill();
+    ctx.fillStyle="#e8a54b"; ctx.fillRect(80,sumY-46,6,96);
+    ctx.fillStyle="rgba(238,242,248,0.95)"; ctx.font="500 32px sans-serif";
+    wrapText(ctx, sum1, 110, sumY-8, W-220, 44, "500 32px sans-serif", 2);
+
+    // ===== 分隔线 =====
+    ctx.strokeStyle="rgba(232,165,75,0.25)"; ctx.beginPath();
+    ctx.moveTo(80,sumY+86); ctx.lineTo(W-80,sumY+86); ctx.stroke();
+
+    // ===== 要点（最多2条） =====
     const bullets=posterBullets(it);
-    let y=620;
+    let y=sumY+140;
     bullets.forEach((b,i)=>{
-      ctx.fillStyle="#e8a54b"; ctx.font="700 28px sans-serif"; ctx.fillText(["①","②","③"][i]||"•", 90, y);
-      ctx.fillStyle="rgba(232,237,245,0.88)";
-      y = wrapText(ctx, b, 150, y-8, W-240, 40, "400 30px sans-serif", 3) + 36;
+      ctx.fillStyle="#e8a54b"; ctx.font="700 26px sans-serif";
+      ctx.fillText("◆", 80, y);
+      ctx.fillStyle="rgba(232,237,245,0.82)";
+      y = wrapText(ctx, b, 124, y-6, W-204, 42, "400 29px sans-serif", 3) + 40;
     });
-    // footer
-    ctx.fillStyle="rgba(232,165,75,0.9)"; ctx.font="600 24px sans-serif";
-    ctx.fillText("专业分享 · 非销售邀约 · 详情以监管/保司原文为准", 90, H-160);
+
+    // ===== 评分角标 =====
+    ctx.fillStyle="rgba(232,165,75,0.9)"; ctx.font="700 60px sans-serif";
+    ctx.textAlign="right";
+    ctx.fillText(String(it.score||""), W-90, 130);
+    ctx.font="400 20px sans-serif"; ctx.fillStyle="rgba(232,237,245,0.4)";
+    ctx.fillText("评分", W-90, 160);
+    ctx.textAlign="left";
+
+    // ===== 底部 =====
     ctx.fillStyle="rgba(232,237,245,0.45)"; ctx.font="400 22px sans-serif";
-    const url=(it.originalUrl||"").replace(/^https?:\/\//,"").slice(0,52);
-    ctx.fillText(url ? ("原文："+url) : "请在情报站打开原文核对", 90, H-115);
-    ctx.fillText("维港猫圈儿", 90, H-70);
+    const url=(it.originalUrl||"").replace(/^https?:\/\//,"").slice(0,46);
+    ctx.fillText(url?("原文："+url):"请在情报站打开原文核对", 80, H-140);
+    ctx.fillStyle="rgba(232,165,75,0.85)"; ctx.font="600 24px sans-serif";
+    ctx.fillText("专业分享 · 非销售邀约 · 以监管/保司原文为准", 80, H-96);
+    ctx.fillStyle="rgba(232,237,245,0.5)"; ctx.font="400 22px sans-serif";
+    ctx.fillText("维港猫圈儿 · hkmaoquanqingbao.com", 80, H-56);
   }
   function roundRect(ctx,x,y,w,h,r){
     ctx.beginPath(); ctx.moveTo(x+r,y); ctx.arcTo(x+w,y,x+w,y+h,r); ctx.arcTo(x+w,y+h,x,y+h,r);
@@ -18004,7 +18062,7 @@ ${t.brandName} · ${t.disc}
       const test=line+chars[i];
       if(ctx.measureText(test).width>maxW && line){
         ctx.fillText(line,x,cy); cy+=lineH; line=chars[i]; lines++;
-        if(lines>=maxLines-1){ // rest
+        if(lines>=maxLines-1){
           let rest=chars.slice(i).join("");
           while(ctx.measureText(rest+"…").width>maxW && rest.length>1) rest=rest.slice(0,-1);
           ctx.fillText(rest+"…",x,cy); return cy+lineH;
@@ -18023,14 +18081,18 @@ ${t.brandName} · ${t.disc}
     $("#posterModal").hidden=false;
     drawPoster(it);
     $("#posterDownload").onclick=()=>{
-      const a=document.createElement("a");
-      a.href=$("#posterCanvas").toDataURL("image/png");
-      a.download=`猫圈儿-海报-${it.id}.png`; a.click();
-      state.points+=5; savePoints(); applyChrome();
+      try{
+        const a=document.createElement("a");
+        a.href=$("#posterCanvas").toDataURL("image/png");
+        a.download=`猫圈儿-海报-${it.id}.png`;
+        document.body.appendChild(a); a.click(); a.remove();
+        toast(t.posterDl+" ✓");
+      }catch(err){ toast("下载失败，请长按图片保存"); }
     };
     $("#posterCopy").onclick=async()=>{
-      const bullets=posterBullets(it).map((b,i)=>`${i+1}. ${b}`).join("\n");
-      const text=`【${tx(it.title)}】\n\n${bullets}\n\n原文：${it.originalUrl||""}\n——猫圈儿港险情报站 · 专业分享非销售邀约`;
+      // 朋友圈文案：标题 + 一句话总结 + 来源提示
+      const sum1=posterSummary(it);
+      const text=`【港险快讯】${tx(it.title)}\n\n${sum1}\n\n来源：${tx(it.source)}\nvia 猫圈儿港险情报站（hkmaoquanqingbao.com）\n——专业分享，非销售邀约，以监管/保司原文为准`;
       try{ await navigator.clipboard.writeText(text); toast(t.copyDone);}catch(e){ prompt("Copy", text); }
     };
   }
@@ -18063,16 +18125,7 @@ ${t.brandName} · ${t.disc}
       <h4>${t.themesH}</h4><p>${esc((it.themes||[]).map(x=>t.themes[x]||x).join(" · "))}</p>
       <h4>${t.originalAuthority}</h4>
       <div class="links">${it.originalUrl?`<a class="btn-original" href="${it.originalUrl}" target="_blank" rel="noopener">${t.original} ↗</a>`:`<span class="badge">无原文链接</span>`}
-      ${it.originalUrl?`<div class="thumb-wrap" data-thumb-id="${it.id}">
-        <div class="thumb-loading">原文截图加载中…</div>
-        <img class="thumb-img" src="assets/thumbs/${it.id}.png" alt="原文截图" 
-             onload="this.parentElement.classList.add('thumb-ready')"
-             onerror="this.parentElement.classList.add('thumb-missing');this.remove()" />
-        <div class="thumb-actions">
-          <a class="thumb-dl" href="assets/thumbs/${it.id}.png" download="${it.id}-原文截图.png">⬇ 下载截图</a>
-          <a class="thumb-open" href="${it.originalUrl}" target="_blank" rel="noopener">打开原文 ↗</a>
-        </div>
-      </div>`:""}
+      ""
       ${it.sourceKey?`<span class="badge">${t.sourceKey} ${it.sourceKey}</span>`:""}</div>
       <div class="action-bar">
         <button type="button" class="btn primary" data-export-md="${it.id}">${t.exportMd}</button>

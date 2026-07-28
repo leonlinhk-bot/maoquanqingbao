@@ -12548,7 +12548,8 @@
         "sc": "Asian Insurance Forum 2026",
         "tc": "Asian Insurance Forum 2026"
       },
-      "theme": "firm"
+      "theme": "firm",
+      "itemId": "aif-2026-save-the-date"
     },
     {
       "date": "2026-07-31",
@@ -12556,7 +12557,8 @@
         "sc": "CPD 2025/26 学时完成截止（评核期）",
         "tc": "CPD 2025/26 學時完成截止（評核期）"
       },
-      "theme": "career"
+      "theme": "career",
+      "itemId": "ia-20260331-cpd-reporting"
     },
     {
       "date": "2026-07-10",
@@ -12564,7 +12566,8 @@
         "sc": "演示上限检讨机制释义",
         "tc": "演示上限檢討機制釋義"
       },
-      "theme": "par"
+      "theme": "par",
+      "itemId": "ia-20260710-illustration-review"
     },
     {
       "date": "2026-07-01",
@@ -12572,7 +12575,8 @@
         "sc": "跨行业背景查核安排生效（保监局叙述）",
         "tc": "跨行業背景查核安排生效（保監局敘述）"
       },
-      "theme": "compliance"
+      "theme": "compliance",
+      "itemId": "ia-20260513-cross-refcheck"
     },
     {
       "date": "2026-06-30",
@@ -12580,7 +12584,8 @@
         "sc": "GL34 公司政策节生效",
         "tc": "GL34 公司政策節生效"
       },
-      "theme": "reg"
+      "theme": "reg",
+      "itemId": "ia-gl34-20260331"
     },
     {
       "date": "2026-03-31",
@@ -12588,7 +12593,8 @@
         "sc": "GL34 修订主体生效",
         "tc": "GL34 修訂主體生效"
       },
-      "theme": "reg"
+      "theme": "reg",
+      "itemId": "ia-20260331-gn16-revised"
     },
     {
       "date": "2026-01-01",
@@ -12596,7 +12602,8 @@
         "sc": "分红保单佣金分摊要求生效",
         "tc": "分紅保單佣金分攤要求生效"
       },
-      "theme": "compliance"
+      "theme": "compliance",
+      "itemId": "ia-commission-20260101"
     },
     {
       "date": "2025-10-01",
@@ -12604,7 +12611,8 @@
         "sc": "转介费50%基准遵从",
         "tc": "轉介費50%基準遵從"
       },
-      "theme": "compliance"
+      "theme": "compliance",
+      "itemId": "ia-20250901-referral-fee"
     },
     {
       "date": "2025-09-01",
@@ -12612,7 +12620,8 @@
         "sc": "转介费上限规则生效（不超过佣金总额 50%）",
         "tc": "轉介費上限規則生效（不超過佣金總額 50%）"
       },
-      "theme": "compliance"
+      "theme": "compliance",
+      "itemId": "ia-20250901-referral-fee"
     },
     {
       "date": "2025-08-01",
@@ -12628,7 +12637,8 @@
         "sc": "演示利率上限生效",
         "tc": "演示利率上限生效"
       },
-      "theme": "par"
+      "theme": "par",
+      "itemId": "ia-20250228-illustration-cap-pn"
     },
     {
       "date": "2025-02-28",
@@ -12636,7 +12646,8 @@
         "sc": "分红演示利率上限通函发布（2025.07 生效）",
         "tc": "分紅演示利率上限通函發布（2025.07 生效）"
       },
-      "theme": "par"
+      "theme": "par",
+      "itemId": "ia-20250228-illustration-cap-pn"
     },
     {
       "date": "2024-09-23",
@@ -12644,7 +12655,8 @@
         "sc": "跨行业背景查核安排方案咨询",
         "tc": "跨行業背景查核安排方案諮詢"
       },
-      "theme": "compliance"
+      "theme": "compliance",
+      "itemId": "ia-20240923-refcheck"
     },
     {
       "date": "2024-09-15",
@@ -12652,7 +12664,8 @@
         "sc": "2024上半年香港保险市场统计发布",
         "tc": "2024上半年香港保險市場統計發布"
       },
-      "theme": "macro"
+      "theme": "macro",
+      "itemId": "ia-2024h1-stats"
     },
     {
       "date": "2024-09-10",
@@ -12660,7 +12673,8 @@
         "sc": "永明金融收购富卫香港公积金业务",
         "tc": "永明金融收購富衛香港公積金業務"
       },
-      "theme": "firm"
+      "theme": "firm",
+      "itemId": "sunlife-2024-fwd-pension"
     },
     {
       "date": "2024-08-20",
@@ -12668,7 +12682,8 @@
         "sc": "跨境保险销售红线明确（内地居民赴港投保合规框架）",
         "tc": "跨境保險銷售紅線明確（內地居民赴港投保合規框架）"
       },
-      "theme": "compliance"
+      "theme": "compliance",
+      "itemId": "ia-2024-crossborder"
     },
     {
       "date": "2024-08-01",
@@ -12676,7 +12691,8 @@
         "sc": "金融监管总局答复跨境保险通：时机尚不成熟",
         "tc": "金融監管總局答覆跨境保險通：時機尚不成熟"
       },
-      "theme": "offshore"
+      "theme": "offshore",
+      "itemId": "nfra-2024-crossborder-no"
     },
     {
       "date": "2024-07-23",
@@ -12684,7 +12700,8 @@
         "sc": "周大福人寿更名（原富通保险）",
         "tc": "周大福人壽更名（原富通保險）"
       },
-      "theme": "firm"
+      "theme": "firm",
+      "itemId": "ctflife-20240723-rebrand"
     },
     {
       "date": "2024-07-01",
@@ -12692,7 +12709,8 @@
         "sc": "RBC 风险为本资本制度正式实施",
         "tc": "RBC 風險為本資本制度正式實施"
       },
-      "theme": "reg"
+      "theme": "reg",
+      "itemId": "ia-20240701-rbc-live"
     }
   ],
   "daily": {
