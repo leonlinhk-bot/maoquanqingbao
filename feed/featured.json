@@ -1,97 +1,9 @@
 {
   "feed": "featured",
   "title": "猫圈儿港险情报站 · 精选",
-  "generatedAt": "2026-07-28T11:22:45Z",
+  "generatedAt": "2026-07-28T12:05:22Z",
   "itemCount": 20,
   "items": [
-    {
-      "id": "fstb-20260210-fo-3384",
-      "title": "香港家族办公室达3384间 两年增25% 过半财富超5100万美元。",
-      "summary": "财库局2026年2月公布研究：截至2025年底香港单一家族办公室达3384间，较2023年底净增681间(+25%)。过半管理财富超5100万美元。60%计划未来三年增配香港资产。新资本投资者入境计划已收到超3000宗申请，预计带来超900亿港元投资。",
-      "why": "家族办公室，超高净值客户的聚集地，跨境保险的最大买单方。",
-      "sourceLabel": "财库局/Deloitte",
-      "sourceTier": "",
-      "tags": [
-        "家族办公室",
-        "3384",
-        "家办",
-        "2026"
-      ],
-      "themes": [],
-      "publishedAt": "2026-02-10T10:00:00+08:00",
-      "effectiveAt": "",
-      "score": 92,
-      "originalUrl": "https://www.fstb.gov.hk/en/blog/blog100226.htm",
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fstb-20260210-fo-3384",
-      "verifyStatus": "verified",
-      "rolesImpact": {}
-    },
-    {
-      "id": "ia-2025-insurtech-initiatives",
-      "title": "保监局2025年InsurTech蓝图：AI对保险业价值9.5-15.4万亿美元。",
-      "summary": "保监局2025年3月发布InsurTech举措报告：预测AI对全球保险业贡献9.5-15.4万亿美元，其中核保与定价约4000亿美元、AI客服与个性化约3000亿美元。GenAI在内部流程应用已达14%采用率。[EN原文]",
-      "why": "官方对AI价值的量化，也是保险科技投资的权威背书。",
-      "sourceLabel": "IA 保监局",
-      "sourceTier": "",
-      "tags": [
-        "InsurTech",
-        "AI",
-        "蓝图",
-        "2025"
-      ],
-      "themes": [],
-      "publishedAt": "2025-03-26T10:00:00+08:00",
-      "effectiveAt": "",
-      "score": 85,
-      "originalUrl": "https://www.ia.org.hk/en/aboutus/task_force/activities_meetings/files/IA_presentation_final.pdf",
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2025-insurtech-initiatives",
-      "verifyStatus": "verified",
-      "rolesImpact": {}
-    },
-    {
-      "id": "hkma-ia-2026-genai-sandbox",
-      "title": "香港金融监管联合推出GenAI Sandbox++：用AI监管AI风险。",
-      "summary": "香港保监局、金管局、证监会联合推出GenAI Sandbox++(2026年3月)，在2024年GenAI沙盒基础上扩展至银行、证券、资管全金融领域。聚焦三大场景：风险管理、反欺诈、客户体验。标志AI监管从'安全测试'升级为'生产级监管'。[EN原文]",
-      "why": "金融监管联合推出AI沙盒，也是全行业AI合规框架的雏形。",
-      "sourceLabel": "IA/HKMA/SFC",
-      "sourceTier": "",
-      "tags": [
-        "GenAI",
-        "沙盒",
-        "监管",
-        "2026"
-      ],
-      "themes": [],
-      "publishedAt": "2026-03-15T10:00:00+08:00",
-      "effectiveAt": "",
-      "score": 87,
-      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-finance-regulators-push-ai-police-ai-risks",
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-ia-2026-genai-sandbox",
-      "verifyStatus": "verified",
-      "rolesImpact": {}
-    },
-    {
-      "id": "nfra-2024-crossborder-no",
-      "title": "金融监管总局：现阶段跨境保险通试点时机尚不成熟。",
-      "summary": "金融监管总局2024年8月公开答复：由于内地与港澳保险市场在法律体系、监管制度、产品设计等方面存在较大差异，市场风险易交叉传染，现阶段直接开展跨境保险通试点的时机尚不成熟。同时表示正推进大湾区保险服务中心建设。",
-      "why": "这是内地对跨境保险的最高级别官方表态，也是所有IFA必须知道的合规底线。",
-      "sourceLabel": "NFRA/人民日报",
-      "sourceTier": "",
-      "tags": [
-        "跨境保险通",
-        "金融监管总局",
-        "粤港澳",
-        "2024"
-      ],
-      "themes": [],
-      "publishedAt": "2024-08-01T10:00:00+08:00",
-      "effectiveAt": "",
-      "score": 88,
-      "originalUrl": "http://paper.people.com.cn/zgjjzk/pc/content/202411/15/content_30046103.html",
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-2024-crossborder-no",
-      "verifyStatus": "verified",
-      "rolesImpact": {}
-    },
     {
       "id": "ratings-2026-consolidated",
       "title": "香港主要保险公司信评一览(2026更新)。",
@@ -116,71 +28,234 @@
       "rolesImpact": {}
     },
     {
-      "id": "sunlife-202603-sp-upgrade",
-      "title": "标普上调Sun Life永明香港评级至AA 展望稳定。",
-      "summary": "S&P于2026年3月16日将Sun Life香港的财务实力和发行人信用评级从AA-上调至AA，展望稳定。永明表示此为重要里程碑，肯定其稳健财务实力和业务增长。APE于2025年破100亿港元。",
-      "why": "永明是近期唯一获上调的保司，也是市场对其财务实力的最高认可。",
-      "sourceLabel": "S&P/永明",
+      "id": "ia-public-disclosure-2026",
+      "title": "公开披露规则推进：获授权保险人公众披露要求（2026 落地语境）。",
+      "summary": "行业报道称保监局将推进保险人公开披露规则，适用于本地成立及海外在港分公司等（具体以宪报/规则文本为准）。对持牌人意味着：保司偿付能力、风险与业务信息的可比性提升，但解读仍须回到官方文本。",
+      "why": "中后台与管理侧应用：尽调保司、内部培训材料更新；前线避免把未核披露数字写成承诺。",
+      "sourceLabel": "行业媒体 · Insurance Asia 等",
+      "sourceTier": "media",
+      "tags": [
+        "公开披露",
+        "偿付能力",
+        "保司"
+      ],
+      "themes": [
+        "reg",
+        "firm"
+      ],
+      "publishedAt": "2026-07-25T10:00:00+08:00",
+      "effectiveAt": "",
+      "score": 76,
+      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-ia-proceed-public-disclosure-rules-insurers-2026",
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-public-disclosure-2026",
+      "verifyStatus": "pending",
+      "rolesImpact": {
+        "front": 1,
+        "midback": 3,
+        "lead": 3,
+        "cross": 2
+      }
+    },
+    {
+      "id": "ia-q1-2026-stats",
+      "title": "2026年Q1临时统计：长期业务新造保费约1411亿港元，同比约+51.1%。",
+      "summary": "据行业报道援引保监局2026年7月24日发布的临时统计：2026年第一季度全港毛保费约2916亿港元，同比+32.3%。长期业务新造保费（不含退休计划）约1411亿，同比+51.1%；其中分红业务约1257亿，同比+53.7%。2025年全年长期新造保费约3309亿，同比+50.6%。",
+      "why": "确认市场仍在高速扩张，但监管同步收紧——产能叙事必须与合规成本一起看。",
+      "sourceLabel": "行业媒体报道 · 援引保监局临时统计（2026-07-24）",
+      "sourceTier": "media",
+      "tags": [
+        "市场数据",
+        "新单保费",
+        "Q1"
+      ],
+      "themes": [
+        "channel",
+        "macro",
+        "firm"
+      ],
+      "publishedAt": "2026-07-24T18:00:00+08:00",
+      "effectiveAt": "",
+      "score": 92,
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/hong-kong-insurance-market-extends-growth-run-as-data-gap-widens-583673.aspx",
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-q1-2026-stats",
+      "verifyStatus": "pending",
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 3,
+        "cross": 2
+      }
+    },
+    {
+      "id": "ia-20260716-ashk-ifoa",
+      "title": "保监局刘中健：香港精算学会与英国精算师协会联合会议主题演讲（2026-07-16）。",
+      "summary": "保监局执行董事（政策及法规）刘中健先生于2026年7月16日在香港精算学会与英国精算师协会联合会议上发表主题演讲，内容通常覆盖资本制度、分红治理与风险管理中心定位等政策方向。",
+      "why": "近期政策沟通窗口，有助把握局方对精算与产品治理的公开口径。",
+      "sourceLabel": "保监局演辞/文章 2026-07-16",
+      "sourceTier": "official",
+      "tags": [
+        "演讲",
+        "精算",
+        "政策"
+      ],
+      "themes": [
+        "reg",
+        "par",
+        "firm"
+      ],
+      "publishedAt": "2026-07-16T10:00:00+08:00",
+      "effectiveAt": "",
+      "score": 84,
+      "originalUrl": "https://www.ia.org.hk/tc/infocenter/files/Keynote_Speech_Mr_Clement_Lau_ASHK_IFoA_Conference_CN.pdf",
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260716-ashk-ifoa",
+      "verifyStatus": "verified",
+      "rolesImpact": {
+        "front": 1,
+        "midback": 3,
+        "lead": 3,
+        "cross": 1
+      }
+    },
+    {
+      "id": "ia-20260715-sales-practices",
+      "title": "行业观察：保监局强化销售行为监管（误导/适当性/录音录像相关叙事升温）。",
+      "summary": "2026年7月中旬多家行业媒体报道，保监局持续推进销售行为整治，聚焦误导销售、适当性评估与过程留痕等。公开通函层面仍以既有操守守则、巡查发现与指引为准；本条作线索收录，执行细节请回一手原文。",
+      "why": "前线话术与中后台质检清单需同步升温：不是新“口号”，而是巡查与续牌条件的现实压力。",
+      "sourceLabel": "行业媒体线索 · 待核一手",
+      "sourceTier": "media",
+      "tags": [
+        "销售行为",
+        "适当性",
+        "巡查"
+      ],
+      "themes": [
+        "compliance",
+        "reg"
+      ],
+      "publishedAt": "2026-07-15T12:00:00+08:00",
+      "effectiveAt": "",
+      "score": 80,
+      "originalUrl": "https://www.asiainsurancereview.com/News/ViewNewsLetterArticle/id/96190/Type/eDaily/Hong-Kong-IA-initiates-crackdown-on-sales-practices",
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260715-sales-practices",
+      "verifyStatus": "pending",
+      "rolesImpact": {
+        "front": 3,
+        "midback": 3,
+        "lead": 3,
+        "cross": 2
+      }
+    },
+    {
+      "id": "ia-licence-20260630",
+      "title": "持牌中介统计（截至2026-06-30）：个人持牌约12.25万，经纪公司810家。",
+      "summary": "保监局公布截至2026年6月30日保险中介牌照统计：个人持牌人合计122,481人（其中经纪业务代表15,026）；持牌经纪公司810家；持牌代理机构1,470家；中介总数124,761。",
+      "why": "人力供给侧的官方底数；结合业务量可判断「人海 vs 专业密度」分化。",
+      "sourceLabel": "保险业监管局 · 保险中介牌照统计",
+      "sourceTier": "official",
+      "tags": [
+        "持牌人数",
+        "经纪公司",
+        "统计"
+      ],
+      "themes": [
+        "channel",
+        "career"
+      ],
+      "publishedAt": "2026-07-14T12:00:00+08:00",
+      "effectiveAt": "",
+      "score": 90,
+      "originalUrl": "https://www.ia.org.hk/en/infocenter/statistics/statistics.html",
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-licence-20260630",
+      "verifyStatus": "verified",
+      "rolesImpact": {
+        "front": 2,
+        "midback": 3,
+        "lead": 3,
+        "cross": 1
+      }
+    },
+    {
+      "id": "ia-20260712-speech",
+      "title": "保监局刘中健演辞：以前瞻性监管及执法维护市场健康发展。",
+      "summary": "保监局2026年7月12日发表演辞，回顾分红保单销售三项措施——演示利率上限(2025年7月)、经纪转介费基准(2025年10月)、佣金分摊(2026年1月)。并说明与金管局推动的跨行业背景查核安排已于7月生效，覆盖约11万名长期业务中介。",
+      "why": "监管最高层发声，确认三大措施已全部落地，行业合规的官方定调。",
+      "sourceLabel": "IA 保监局官方演辞",
       "sourceTier": "",
       "tags": [
-        "永明",
-        "标普",
-        "评级上调",
-        "AA",
+        "保监局",
+        "分红保单",
+        "演辞",
         "2026"
       ],
       "themes": [],
-      "publishedAt": "2026-03-16T10:00:00+08:00",
+      "publishedAt": "2026-07-12T10:00:00+08:00",
       "effectiveAt": "",
-      "score": 86,
-      "originalUrl": "https://www.sunlife.com.hk/zh-hant/about-us/newsroom/news-releases/2026/sun-life-hong-kong-upgraded-to-aa-rating-by-sp/",
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sunlife-202603-sp-upgrade",
+      "score": 95,
+      "originalUrl": "https://www.ia.org.hk/tc/infocenter/speeches_articles/20260712.html",
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260712-speech",
       "verifyStatus": "verified",
       "rolesImpact": {}
     },
     {
-      "id": "ia-2024-annual-stats",
-      "title": "保监局发布2024年香港保险业年报：毛保费6352亿 全球渗透率第一。",
-      "summary": "保监局2025年12月5日发布2024年保险业年报：毛保费总额6352亿港元。保险密度10043美元(全球第2)，保险渗透率18.2%(全球第1)。内地访客新造保费628亿占个人业务28.6%。157家授权保险人，118406名持牌中介。",
-      "why": "年度最权威的市场全景数据，也是所有IFA的基础知识储备。",
-      "sourceLabel": "IA 保监局",
-      "sourceTier": "",
+      "id": "ia-20260712-speech",
+      "title": "保监局：分红保单三项监管措施落地回顾与「跨行业背景查核」推进。",
+      "summary": "保监局2026年7月12日文章回顾自2025年起分阶段推出的分红保单销售三项措施：2025年7月演示利率上限、2025年10月经纪转介费基准、2026年1月中介佣金分摊。文中并说明与金管局推动的跨行业背景查核安排已于2026年7月生效，覆盖约11万名长期业务中介。",
+      "why": "这是当前港险前线与合规的总纲领：三项费用/演示规则改变激励与话术，背景查核改变跳槽与聘用尽调。",
+      "sourceLabel": "保险业监管局 · 演辞/文章 2026-07-12",
+      "sourceTier": "official",
       "tags": [
-        "年报",
-        "保费",
-        "渗透率",
-        "2024"
+        "分红",
+        "佣金分摊",
+        "转介",
+        "背景查核"
       ],
-      "themes": [],
-      "publishedAt": "2025-12-05T10:00:00+08:00",
-      "effectiveAt": "",
-      "score": 90,
-      "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20251205.html",
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2024-annual-stats",
+      "themes": [
+        "reg",
+        "compliance",
+        "channel"
+      ],
+      "publishedAt": "2026-07-12T10:00:00+08:00",
+      "effectiveAt": "2026-07-01",
+      "score": 96,
+      "originalUrl": "https://www.ia.org.hk/tc/infocenter/speeches_articles/20260712.html",
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260712-speech",
       "verifyStatus": "verified",
-      "rolesImpact": {}
+      "rolesImpact": {
+        "front": 3,
+        "midback": 3,
+        "lead": 3,
+        "cross": 2
+      }
     },
     {
-      "id": "ia-2025-full-year",
-      "title": "保监局公布2025全年业绩：个人新单保费3309亿港元 +50.6%再创新高。",
-      "summary": "保监局2026年4月公布2025全年数据：个人新造保单保费3309亿港元同比+50.6%刷新纪录。分红业务贡献核心增长。全年毛保费827亿(+29.7%)。件均保费普遍上涨，大额保单激增。2025年是香港保险史上增长最快的一年。",
-      "why": "2025，也是香港保险史上增长最快的一年，数据刷新2001年以来所有纪录。",
-      "sourceLabel": "IA 保监局",
-      "sourceTier": "",
+      "id": "ia-20260710-illustration-review",
+      "title": "演示利率上限检讨机制：保监局发布释义说明（2026-07-10）。",
+      "summary": "保监局2026年7月10日通函发布《分红保单利益说明中演示利率上限的检讨机制》释义说明，明确上限检讨如何进行、适用对象与披露期望，直接影响计划书假设更新节奏。",
+      "why": "演示数字是客户第一眼；检讨机制决定保司何时调整演示、前线何时换物料。",
+      "sourceLabel": "保监局规管通函 2026-07-10",
+      "sourceTier": "official",
       "tags": [
-        "全年",
-        "保费",
-        "3309亿",
-        "2025"
+        "演示利率",
+        "分红",
+        "释义说明"
       ],
-      "themes": [],
-      "publishedAt": "2026-04-25T10:00:00+08:00",
+      "themes": [
+        "reg",
+        "par",
+        "product"
+      ],
+      "publishedAt": "2026-07-10T09:00:00+08:00",
       "effectiveAt": "",
-      "score": 92,
-      "originalUrl": "https://www.hkinsu.com/zhuanlan/chris/36397.html",
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2025-full-year",
+      "score": 93,
+      "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_10072026.pdf",
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260710-illustration-review",
       "verifyStatus": "verified",
-      "rolesImpact": {}
+      "rolesImpact": {
+        "front": 3,
+        "midback": 3,
+        "lead": 2,
+        "cross": 2
+      }
     },
     {
       "id": "swissre-202607-wis",
@@ -205,181 +280,56 @@
       "rolesImpact": {}
     },
     {
-      "id": "allianz-20260528-global-report",
-      "title": "安联全球保险报告2026：全球保费+7.1%至6.9万亿欧元 亚洲领跑。",
-      "summary": "安联2026年5月发布全球保险报告：2025年全球保费+7.1%至EUR6.9万亿。亚洲生命保险+9.9%重新成为增长引擎(中国+11.4%)。健康险+12.3%创十年新高。未来十年全球保费池将新增EUR5.26万亿，超半来自亚洲。[EN原文]",
-      "why": "年度最全面的全球保险市场数据，涵盖80+市场。",
-      "sourceLabel": "Allianz Research",
+      "id": "ia-crossref-20260701",
+      "title": "银行与保险跨行业背景查核安排：2026年7月1日起分阶段实施。",
+      "summary": "金管局与保监局联合推出跨行业背景查核/操守参考安排，2026年7月1日起生效。首阶段覆盖银行及保险机构的寿险从业员，准员工过去七年操守记录可在两行业间共享，覆盖约11万人。",
+      "why": "跳槽成本剧增、行业透明度升级，合规瑕疵在银行与保险间一票否决。",
+      "sourceLabel": "HKMA+IA 联合通函",
       "sourceTier": "",
       "tags": [
-        "安联",
-        "全球保险",
-        "报告",
+        "背景查核",
+        "跨行业",
+        "金管局",
         "2026"
       ],
       "themes": [],
-      "publishedAt": "2026-05-28T10:00:00+08:00",
+      "publishedAt": "2026-07-01T09:00:00+08:00",
       "effectiveAt": "",
-      "score": 94,
-      "originalUrl": "https://www.allianz.com/en/economic_research/insights/publications/specials_fmo/260528-global-insurance-report.html",
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=allianz-20260528-global-report",
+      "score": 93,
+      "originalUrl": "https://xhcins.com/posts/hongkong-insurance-intermediary-reference-checking-2026-07/",
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-crossref-20260701",
       "verifyStatus": "verified",
       "rolesImpact": {}
     },
     {
-      "id": "aia-2024-annual",
-      "title": "AIA 2024年全年业绩：香港VONB+23% 内地客+22% 创纪录。",
-      "summary": "友邦2024年全年VONB增长20%至47亿美元创纪录，OPAT每股+12%至66亿美元。香港VONB+23%(本地+24%/内地访客+22%)，代理渠道MCV VONB创2018年以来最高。[EN原文]",
-      "why": "疫后全面复苏+跨境需求爆发，也是AIA的黄金年。",
-      "sourceLabel": "AIA 年报",
-      "sourceTier": "",
+      "id": "ia-20260616-cheung-enforcement",
+      "title": "保监CEO张云正公开警告：行业规避新报酬规则的跨境架构将被适时介入。",
+      "summary": "2026年6月16日，保监局行政总监张云正在公开讲话中警告，已观察到市场参与者试图通过间接方式规避佣金分攤及转介费上限等新报酬措施。保监局将适时介入并对外公布。同时重申确保保险资金经合法合规渠道进入香港的立场。",
+      "why": "这是监管对行业「猫鼠游戏」的正式回应；企图规避者将被公开执法，威慑力极强。",
+      "sourceLabel": "保监局 · Bloomberg/信报 2026-06-16 [部分EN原文]",
+      "sourceTier": "official",
       "tags": [
-        "AIA",
-        "VONB",
-        "全年",
-        "2024"
+        "执法",
+        "跨境架构",
+        "报酬规则"
       ],
-      "themes": [],
-      "publishedAt": "2025-03-14T09:00:00+08:00",
+      "themes": [
+        "reg",
+        "compliance",
+        "offshore"
+      ],
+      "publishedAt": "2026-06-16T12:00:00+08:00",
       "effectiveAt": "",
-      "score": 90,
-      "originalUrl": "https://www.aia.com/en/investor-relations/",
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-2024-annual",
+      "score": 92,
+      "originalUrl": "https://www.bloomberg.com/news/articles/2026-06-15/hong-kong-insurance-regulator-vows-crackdown-on-rule-breakers",
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260616-cheung-enforcement",
       "verifyStatus": "verified",
-      "rolesImpact": {}
-    },
-    {
-      "id": "ctflife-20240723-rebrand",
-      "title": "FTLife正式更名为周大福人寿(CTF Life)。",
-      "summary": "FTLife保险2024年7月23日正式更名为周大福人寿保险有限公司(CTF Life)。全新品牌「CTF Life · Circle」同步推出。RBC资本比率升至289%远超监管要求。",
-      "why": "周大福品牌进入保险业，也是市场格局重塑，原九鼎/富通翻篇。",
-      "sourceLabel": "CTF Life/ACN",
-      "sourceTier": "",
-      "tags": [
-        "周大福",
-        "CTF",
-        "更名",
-        "品牌",
-        "2024"
-      ],
-      "themes": [],
-      "publishedAt": "2024-07-23T10:00:00+08:00",
-      "effectiveAt": "",
-      "score": 87,
-      "originalUrl": "https://www.acnnewswire.com/press-release/english/91884/",
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ctflife-20240723-rebrand",
-      "verifyStatus": "verified",
-      "rolesImpact": {}
-    },
-    {
-      "id": "aia-2025-annual-results",
-      "title": "AIA 2025年全年业绩创新高：香港VONB+28% 每股股息+10%。",
-      "summary": "友邦保险2025年全年业绩创新高，香港业务VONB增长28%，全年每股股息增加10%。同步宣布新一轮17亿美元股份回购。Q1 VONB达15亿美元同比+13%。[EN原文]",
-      "why": "AIA香港业绩持续领跑，也是市场信心的最直接量化指标。",
-      "sourceLabel": "AIA 业绩公告",
-      "sourceTier": "",
-      "tags": [
-        "AIA",
-        "VONB",
-        "全年业绩",
-        "2025"
-      ],
-      "themes": [],
-      "publishedAt": "2026-03-19T09:00:00+08:00",
-      "effectiveAt": "",
-      "score": 88,
-      "originalUrl": "https://www.aia.com/zh-hk/media-centre/press-releases/2026/aia-group-press-release-20260319",
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-2025-annual-results",
-      "verifyStatus": "verified",
-      "rolesImpact": {}
-    },
-    {
-      "id": "sunlife-2025-ape-118",
-      "title": "Sun Life永明2025年APE突破118亿港元创新高。",
-      "summary": "Sun Life永明2025全年新造业务年度化标准保费(APE)达118亿港元，创历史新高。凭借多元化分销渠道策略在银保、经纪、代理三线同步增长。",
-      "why": "永明进入百亿俱乐部，也是市场地位质变。",
-      "sourceLabel": "永明/保监局统计",
-      "sourceTier": "",
-      "tags": [
-        "永明",
-        "APE",
-        "118亿",
-        "2025"
-      ],
-      "themes": [],
-      "publishedAt": "2026-02-15T10:00:00+08:00",
-      "effectiveAt": "",
-      "score": 83,
-      "originalUrl": "https://hk.finance.yahoo.com/news/sun-life永明2025全年新造業務年度化標準保費達118億港元-104538638.html",
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sunlife-2025-ape-118",
-      "verifyStatus": "verified",
-      "rolesImpact": {}
-    },
-    {
-      "id": "cpic-20260504-gen3",
-      "title": "太保寿险香港推出「世代悦享3」储蓄保险计划——35周年献礼。",
-      "summary": "中国太保寿险香港2026年5月4日（太保成立35周年）推出「世代悦享3储蓄保险计划」。以国资实控、836%偿付能力充足率、全线100%分红兑现（新品116%超预期）为核心卖点，定位安全稳健。",
-      "why": "中资保险在港最亮眼产品之一，国资背景+高兑现率，也是差异化竞争力。",
-      "sourceLabel": "太保/界面新闻/东方财富",
-      "sourceTier": "",
-      "tags": [
-        "太保",
-        "世代悦享3",
-        "国资",
-        "2026"
-      ],
-      "themes": [],
-      "publishedAt": "2026-05-04T10:00:00+08:00",
-      "effectiveAt": "",
-      "score": 84,
-      "originalUrl": "https://www.cpiclifehk.com.hk/sc/company/lastestNews",
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=cpic-20260504-gen3",
-      "verifyStatus": "pending",
-      "rolesImpact": {}
-    },
-    {
-      "id": "manulife-20260105-two-plans",
-      "title": "宏利推出「宏挚家传承」及「财挚宏耀」两款分红寿险储蓄计划。",
-      "summary": "宏利香港2026年1月5日推出两款全新分红寿险储蓄计划——「宏挚家传承」与「财挚宏耀」，帮助客户实现长远财务目标，提供灵活选择应对不同人生阶段需求。",
-      "why": "宏利2026年首发，也是全年产品策略风向标。",
-      "sourceLabel": "宏利新闻稿",
-      "sourceTier": "",
-      "tags": [
-        "宏利",
-        "分红险",
-        "新产品",
-        "2026"
-      ],
-      "themes": [],
-      "publishedAt": "2026-01-05T10:00:00+08:00",
-      "effectiveAt": "",
-      "score": 85,
-      "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html",
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-20260105-two-plans",
-      "verifyStatus": "verified",
-      "rolesImpact": {}
-    },
-    {
-      "id": "axa-20260126-redomicile",
-      "title": "AXA安盛成功由百慕达迁册至香港。",
-      "summary": "AXA安盛2026年1月26日宣布成功将注册地由百慕达迁册至香港，正式更名为「安盛金融保险（香港）有限公司」。迁册标志着AXA对香港市场的长期承诺，巩固其亚太业务枢纽地位。",
-      "why": "AXA是香港首家完成迁册的国际保险巨头，监管与市场意义重大。",
-      "sourceLabel": "AXA 新闻稿",
-      "sourceTier": "",
-      "tags": [
-        "AXA",
-        "迁册",
-        "百慕达",
-        "2026"
-      ],
-      "themes": [],
-      "publishedAt": "2026-01-26T09:00:00+08:00",
-      "effectiveAt": "",
-      "score": 86,
-      "originalUrl": "https://hk.finance.yahoo.com/news/axa成功遷冊回港-015300166.html",
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=axa-20260126-redomicile",
-      "verifyStatus": "verified",
-      "rolesImpact": {}
+      "rolesImpact": {
+        "front": 2,
+        "midback": 3,
+        "lead": 3,
+        "cross": 3
+      }
     },
     {
       "id": "ctflife-2026-diamond-iul",
@@ -404,48 +354,188 @@
       "rolesImpact": {}
     },
     {
-      "id": "ia-20240701-rbc-live",
-      "title": "香港风险为本资本制度(RBC)正式生效。",
-      "summary": "2024年7月1日，香港保险业风险为本资本制度正式生效。标志性里程碑：以模块化方式评估保司风险，与国际标准(IAIS)对齐。涵盖三大支柱：定量资本要求、管治与风险管理、公开披露。",
-      "why": "RBC，也是香港保险监管体系最大单次升级，影响所有保司资本管理。",
-      "sourceLabel": "财库局/IA",
+      "id": "ia-hkma-remuneration-20260605",
+      "title": "保监局提请业界注意：金管局关于银行保险中介分红报酬结构通函。",
+      "summary": "2026年6月5日，保监局发通函提请业界注意金管局同日通函《持牌保险中介人（属认可机构）就具定期缴款条款的分红保单的报酬结构》。银行渠道的分红报酬亦纳入与「公平待客」一致的分摊逻辑。",
+      "why": "银保与经纪激励规则趋同，竞争会更多回到专业服务与产品适配。",
+      "sourceLabel": "保监局通函 2026-06-05 / 金管局平行通函",
+      "sourceTier": "official",
+      "tags": [
+        "银保",
+        "报酬结构",
+        "金管局"
+      ],
+      "themes": [
+        "reg",
+        "channel",
+        "compliance"
+      ],
+      "publishedAt": "2026-06-05T12:00:00+08:00",
+      "effectiveAt": "",
+      "score": 89,
+      "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_05.06.2026_Circular_on_HKMA_Circular_on_Remuneration_Structures_for_AIs.pdf",
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-hkma-remuneration-20260605",
+      "verifyStatus": "verified",
+      "rolesImpact": {
+        "front": 2,
+        "midback": 3,
+        "lead": 3,
+        "cross": 2
+      }
+    },
+    {
+      "id": "ia-20260529-onsite-findings",
+      "title": "保司现场操守巡查常见问题与最佳实务（2026-05-29）。",
+      "summary": "保监局2026年5月29日通函汇总对保险公司现场操守巡查的常见发现，并给出建议最佳实务。主题通常覆盖销售过程管控、记录留存、投诉处理与内控。",
+      "why": "保司内控加严会传导到经纪出单补件与质检标准。",
+      "sourceLabel": "保监局规管通函 2026-05-29",
+      "sourceTier": "official",
+      "tags": [
+        "现场巡查",
+        "操守",
+        "最佳实务"
+      ],
+      "themes": [
+        "compliance",
+        "reg"
+      ],
+      "publishedAt": "2026-05-29T09:00:00+08:00",
+      "effectiveAt": "",
+      "score": 88,
+      "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_29.05.2026.pdf",
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260529-onsite-findings",
+      "verifyStatus": "verified",
+      "rolesImpact": {
+        "front": 2,
+        "midback": 3,
+        "lead": 2,
+        "cross": 1
+      }
+    },
+    {
+      "id": "allianz-20260528-global-report",
+      "title": "安联全球保险报告2026：全球保费+7.1%至6.9万亿欧元 亚洲领跑。",
+      "summary": "安联2026年5月发布全球保险报告：2025年全球保费+7.1%至EUR6.9万亿。亚洲生命保险+9.9%重新成为增长引擎(中国+11.4%)。健康险+12.3%创十年新高。未来十年全球保费池将新增EUR5.26万亿，超半来自亚洲。[EN原文]",
+      "why": "年度最全面的全球保险市场数据，涵盖80+市场。",
+      "sourceLabel": "Allianz Research",
       "sourceTier": "",
       "tags": [
-        "RBC",
-        "风险为本",
-        "资本制度",
-        "2024"
+        "安联",
+        "全球保险",
+        "报告",
+        "2026"
       ],
       "themes": [],
-      "publishedAt": "2024-07-01T09:00:00+08:00",
+      "publishedAt": "2026-05-28T10:00:00+08:00",
       "effectiveAt": "",
-      "score": 98,
-      "originalUrl": "https://www.fstb.gov.hk/fsb/en/business/policy_highlights/insurance-industry.html",
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20240701-rbc-live",
+      "score": 94,
+      "originalUrl": "https://www.allianz.com/en/economic_research/insights/publications/specials_fmo/260528-global-insurance-report.html",
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=allianz-20260528-global-report",
       "verifyStatus": "verified",
       "rolesImpact": {}
     },
     {
-      "id": "ia-20250228-illustration-note",
-      "title": "保监局就分红保单演示利率上限发出实务说明：港元6%/非港元6.5%。",
-      "summary": "保监局2025年2月28日发出实务说明(Practice Note)，确立分红保单利益说明中的演示利率上限框架：自2025年7月1日起，港元保单演示上限6.0%，非港元保单(美元/人民币等)6.5%。此为分红保单销售三项措施的第一环。",
-      "why": "演示利率上限，也是分红险行业20年来最重要的销售规则变革。",
-      "sourceLabel": "IA 保监局实务说明",
+      "id": "ia-20260513-cross-refcheck",
+      "title": "银行与保险跨行业背景查核安排通函（2026-05-13）。",
+      "summary": "保监局2026年5月13日发出《银行业与保险业之间的跨行业背景查核安排》通函，与金管局衔接，覆盖长期业务中介在银行与保险机构间跳槽时的主事人查核。",
+      "why": "聘用与跳槽尽调成为牌照与声誉风险的硬门槛。",
+      "sourceLabel": "保监局规管通函 2026-05-13",
+      "sourceTier": "official",
+      "tags": [
+        "背景查核",
+        "跨行业",
+        "金管局"
+      ],
+      "themes": [
+        "compliance",
+        "career",
+        "reg"
+      ],
+      "publishedAt": "2026-05-13T09:00:00+08:00",
+      "effectiveAt": "2026-07-01",
+      "score": 94,
+      "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_13.05.2026_Cross-sector_Reference_Checking_Arrangement_Between_the_Banking_and_Insurance_Sectors_Eng.pdf",
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260513-cross-refcheck",
+      "verifyStatus": "verified",
+      "rolesImpact": {
+        "front": 2,
+        "midback": 3,
+        "lead": 3,
+        "cross": 0
+      }
+    },
+    {
+      "id": "ia-20260508-rbc-conclusion",
+      "title": "保监局公布RBC制度优化咨询结论：鼓励基建投资、巩固风险管理中心。",
+      "summary": "保监局2026年5月8日公布对《保险业（估值及资本）规则》拟议修订的咨询结论。目标在维持审慎的同时，激励保险人投资基建、增强香港作为全球风险管理中心的竞争力。修订涵盖基建投资优惠、离岸再保险宽免、IUL匹配调整等7项。",
+      "why": "RBC首次大修，储蓄险资本翻倍、IUL权重上调50%+，直接影响产品供给。",
+      "sourceLabel": "IA 保监局新闻稿",
       "sourceTier": "",
       "tags": [
-        "演示利率",
-        "上限",
-        "6.5%",
-        "实务说明",
-        "2025"
+        "RBC",
+        "咨询结论",
+        "基建",
+        "资本规则"
       ],
       "themes": [],
-      "publishedAt": "2025-02-28T09:00:00+08:00",
+      "publishedAt": "2026-05-08T12:00:00+08:00",
       "effectiveAt": "",
       "score": 96,
-      "originalUrl": "https://brdr.hkma.gov.hk/eng/doc-ldg/docId/20250228-3-EN",
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20250228-illustration-note",
+      "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260508.html",
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260508-rbc-conclusion",
       "verifyStatus": "verified",
+      "rolesImpact": {}
+    },
+    {
+      "id": "ia-20260508-rbc-conclusions",
+      "title": "RBC 制度优化咨询结论发布：鼓励基建投资、巩固风险管理中心（2026-05-08）。",
+      "summary": "保监局2026年5月8日公布对《保险业（估值及资本）规则》拟议修订的咨询结论，目标在维持审慎的同时，激励保险人投资基建、增强香港作为全球风险管理中心的竞争力。",
+      "why": "资本规则影响保司长期资产配置与产品供给，是机构与高净值叙事的底层。",
+      "sourceLabel": "保监局新闻稿 2026-05-08",
+      "sourceTier": "official",
+      "tags": [
+        "RBC",
+        "咨询结论",
+        "基建"
+      ],
+      "themes": [
+        "reg",
+        "firm",
+        "macro"
+      ],
+      "publishedAt": "2026-05-08T12:00:00+08:00",
+      "effectiveAt": "",
+      "score": 91,
+      "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260508.html",
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260508-rbc-conclusions",
+      "verifyStatus": "verified",
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 3,
+        "cross": 2
+      }
+    },
+    {
+      "id": "cpic-20260504-gen3",
+      "title": "太保寿险香港推出「世代悦享3」储蓄保险计划——35周年献礼。",
+      "summary": "中国太保寿险香港2026年5月4日（太保成立35周年）推出「世代悦享3储蓄保险计划」。以国资实控、836%偿付能力充足率、全线100%分红兑现（新品116%超预期）为核心卖点，定位安全稳健。",
+      "why": "中资保险在港最亮眼产品之一，国资背景+高兑现率，也是差异化竞争力。",
+      "sourceLabel": "太保/界面新闻/东方财富",
+      "sourceTier": "",
+      "tags": [
+        "太保",
+        "世代悦享3",
+        "国资",
+        "2026"
+      ],
+      "themes": [],
+      "publishedAt": "2026-05-04T10:00:00+08:00",
+      "effectiveAt": "",
+      "score": 84,
+      "originalUrl": "https://www.cpiclifehk.com.hk/sc/company/lastestNews",
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=cpic-20260504-gen3",
+      "verifyStatus": "pending",
       "rolesImpact": {}
     }
   ]
