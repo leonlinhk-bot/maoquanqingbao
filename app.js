@@ -1,11 +1,11 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-07-28T19:00:00+08:00",
-    "itemCount": 146,
+    "generatedAt": "2026-07-28T20:00:00+08:00",
+    "itemCount": 152,
     "windowNote": {
-      "sc": "本库146条导读。导读≠原文。",
-      "tc": "本庫146條導讀。導讀≠原文。"
+      "sc": "本库152条导读。导读≠原文。",
+      "tc": "本庫152條導讀。導讀≠原文。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -167,6 +167,428 @@ window.HKII_DATA = {
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "dlapiper-202602-gl16",
+      "clusterCount": 1,
+      "score": 84,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T20:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "DLA Piper法律解读：保监局修订GL16——产品治理、销售与薪酬全面升级",
+        "tc": "DLA Piper法律解讀：保監局修訂GL16——產品治理、銷售與薪酬全面升級"
+      },
+      "summary": {
+        "sc": "DLA Piper 2026年2月发布法律解读：保监局修订GL16（长期业务承保指引），3月31日生效。核心变化：加强产品治理委员会职责、销售流程适当性评估升级、薪酬结构须与公平待客对齐、售后管控常态化。任何规避行为将被视为恶意违规。[EN原文]",
+        "tc": "DLA Piper:GL16修訂加強產品治理與公平待客"
+      },
+      "why": {
+        "sc": "国际律所的法律解读=合规操作的实务指南",
+        "tc": "國際律所法律解讀=合規實務指南"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解GL16对销售流程的具体影响",
+          "tc": "了解GL16對銷售影響"
+        },
+        "midback": {
+          "sc": "以DLA解读为框架更新合规手册",
+          "tc": "以DLA框架更新合規手冊"
+        },
+        "lead": {
+          "sc": "GL16合规=团队运营底线",
+          "tc": "GL16合規=運營底線"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "DLA Piper",
+        "tc": "DLA Piper",
+        "lang": "en"
+      },
+      "boards": [
+        "compliance",
+        "regulatory"
+      ],
+      "tags": {
+        "sc": [
+          "DLA Piper",
+          "GL16",
+          "法律解读",
+          "2026"
+        ],
+        "tc": [
+          "DLA Piper",
+          "GL16",
+          "法律解讀",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-02-10T10:00:00+08:00",
+      "originalUrl": "https://www.dlapiper.com/en-us/insights/publications/2026/03/insurance-authority-of-hong-kong-issues-revised-guideline",
+      "sourceKey": "dlapiper:gl16-202602"
+    },
+    {
+      "id": "dlapiper-202508-commission",
+      "clusterCount": 1,
+      "score": 82,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T20:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "DLA Piper解读：保监局佣金分摊实务说明——2026年1月1日起实施",
+        "tc": "DLA Piper解讀：保監局佣金分攤實務說明——2026年1月1日起實施"
+      },
+      "summary": {
+        "sc": "DLA Piper 2025年8月发布法律解读：保监局佣金分摊实务说明2026年1月生效。首年佣金不超过总佣金70%，剩余30%至少5年均摊。新规同时覆盖代理人渠道和经纪渠道。[EN原文]",
+        "tc": "DLA Piper:佣金分攤實務說明，首年≤70%"
+      },
+      "why": {
+        "sc": "国际律所拆解佣金规则的实操含义=IFA收入模式变革指南",
+        "tc": "佣金規則的實操含義=收入模式變革"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解佣金分摊对个人收入的长期影响",
+          "tc": "了解佣金分攤對收入影響"
+        },
+        "midback": {
+          "sc": "更新薪酬计算与合规框架",
+          "tc": "更新薪酬框架"
+        },
+        "lead": {
+          "sc": "团队薪酬结构需适配分摊要求",
+          "tc": "團隊薪酬需適配"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "DLA Piper",
+        "tc": "DLA Piper",
+        "lang": "en"
+      },
+      "boards": [
+        "compliance",
+        "regulatory",
+        "channel"
+      ],
+      "tags": {
+        "sc": [
+          "DLA Piper",
+          "佣金分摊",
+          "法律解读",
+          "2025"
+        ],
+        "tc": [
+          "DLA Piper",
+          "佣金分攤",
+          "法律解讀",
+          "2025"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-08-15T10:00:00+08:00",
+      "originalUrl": "https://www.dlapiper.com/en-us/insights/publications/2025/08/hong-kong-insurance-authority-issues-practice-note",
+      "sourceKey": "dlapiper:commission-202508"
+    },
+    {
+      "id": "insbus-202607-hk-growth",
+      "clusterCount": 1,
+      "score": 81,
+      "verifyStatus": "verified",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T20:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "Insurance Business深度分析：Q1毛保费2916亿+32% 跨境数据连5季缺失",
+        "tc": "Insurance Business深度分析：Q1毛保費2916億+32% 跨境數據連5季缺失"
+      },
+      "summary": {
+        "sc": "Insurance Business 2026年7月25日深度分析：Q1毛保费2916亿同比+32.3%，新造保费1411亿。但内地访客数据自2025年Q1起已连五个季度未披露。分红新造1411亿已占2025全年43%，呈加速态势。[EN原文]",
+        "tc": "Q1保費+32.3%，內地訪客數據連5季未披露"
+      },
+      "why": {
+        "sc": "跨境数据黑箱=行业透明度隐忧，但增长趋势明确",
+        "tc": "跨境數據黑箱=透明度隱憂"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解行业透明度现状",
+          "tc": "了解透明度現狀"
+        },
+        "midback": {
+          "sc": "归档Q1详细分析数据",
+          "tc": "歸檔Q1數據"
+        },
+        "lead": {
+          "sc": "数据缺口下的业务判断风险",
+          "tc": "數據缺口風險"
+        },
+        "cross": {
+          "sc": "跨境数据缺失对业务判断的影响",
+          "tc": "跨境數據影響"
+        }
+      },
+      "source": {
+        "sc": "Insurance Business Mag",
+        "tc": "Insurance Business Mag",
+        "lang": "en"
+      },
+      "boards": [
+        "macro",
+        "compliance"
+      ],
+      "tags": {
+        "sc": [
+          "保险",
+          "保费",
+          "跨境",
+          "数据缺口",
+          "2026"
+        ],
+        "tc": [
+          "保險",
+          "保費",
+          "跨境",
+          "數據缺口",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-07-25T10:00:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/hong-kong-insurance-market-extends-growth-run-as-data-gap-widens-583673.aspx",
+      "sourceKey": "insbus:hk-growth-20260725"
+    },
+    {
+      "id": "creditsights-2026-2h",
+      "clusterCount": 1,
+      "score": 78,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T20:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "CreditSights展望：2026下半年中港跨境资金规则或进一步收紧",
+        "tc": "CreditSights展望：2026下半年中港跨境資金規則或進一步收緊"
+      },
+      "summary": {
+        "sc": "CreditSights 7月发布亚太金融业2H26展望：亚洲保险盈利向好但面临多重压力。最值得警惕的是中港跨境资金流动规则可能进一步收紧。香港保险公司VNB增长持续，日本寿险受惠加息。[EN原文]",
+        "tc": "CreditSights:中港跨境資金流動或進一步收緊"
+      },
+      "why": {
+        "sc": "独立研究机构的跨境风险预警=提前准备的参考",
+        "tc": "獨立機構的跨境風險預警"
+      },
+      "actions": {
+        "front": {
+          "sc": "关注跨境资金流动政策变化",
+          "tc": "關注跨境資金政策"
+        },
+        "midback": {
+          "sc": "准备跨境业务应急预案",
+          "tc": "準備跨境應急預案"
+        },
+        "lead": {
+          "sc": "跨境收紧=客源多元化紧迫性",
+          "tc": "客源多元化緊迫性"
+        },
+        "cross": {
+          "sc": "跨境资金的合规路径需要提前规划",
+          "tc": "跨境資金合規路徑"
+        }
+      },
+      "source": {
+        "sc": "CreditSights",
+        "tc": "CreditSights",
+        "lang": "en"
+      },
+      "boards": [
+        "macro",
+        "cross"
+      ],
+      "tags": {
+        "sc": [
+          "CreditSights",
+          "跨境",
+          "资金",
+          "展望",
+          "2026"
+        ],
+        "tc": [
+          "CreditSights",
+          "跨境",
+          "資金",
+          "展望",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-07-15T10:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/asian-insurer-gains-face-regulatory-pressure-in-second-half-2026",
+      "sourceKey": "creditsights:2h26-outlook"
+    },
+    {
+      "id": "zhihu-2025-top10",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T20:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "知乎盘点2025香港保险十大事件：演示上限/佣金分摊/IUL/跨境打擊",
+        "tc": "知乎盤點2025香港保險十大事件：演示上限/佣金分攤/IUL/跨境打擊"
+      },
+      "summary": {
+        "sc": "知乎专栏2025年终盘点梳理香港保险十大事件：演示利率上限生效、佣金分摊指引、IUL联合通函、跨境销售专项打击、GN16修订、RBC制度优化咨询、中资保司崛起、大额保单创新高、保司迁册潮、AI促进计划。",
+        "tc": "知乎盤點2025香港保險十大事件"
+      },
+      "why": {
+        "sc": "中文社区最全面的年度复盘=理解行业全景图的最佳入口",
+        "tc": "中文社區年度復盤=行業全景圖"
+      },
+      "actions": {
+        "front": {
+          "sc": "年度事件一图读懂，客户沟通可用",
+          "tc": "年度事件一圖讀懂"
+        },
+        "midback": {
+          "sc": "归档年度十大事件",
+          "tc": "歸檔年度事件"
+        },
+        "lead": {
+          "sc": "团队年度培训材料",
+          "tc": "團隊年度培訓"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "知乎专栏",
+        "tc": "知乎專欄",
+        "lang": "zh"
+      },
+      "boards": [
+        "regulatory",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "知乎",
+          "盘点",
+          "十大事件",
+          "2025"
+        ],
+        "tc": [
+          "知乎",
+          "盤點",
+          "十大事件",
+          "2025"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-12-30T10:00:00+08:00",
+      "originalUrl": "https://zhuanlan.zhihu.com/p/1996682970564694535",
+      "sourceKey": "zhihu:top10-2025"
+    },
+    {
+      "id": "linkedin-2024-trends",
+      "clusterCount": 1,
+      "score": 73,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T20:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "业界回顾2024香港保险关键趋势：RBC生效/GN16修订/跨境复苏",
+        "tc": "業界回顧2024香港保險關鍵趨勢：RBC生效/GN16修訂/跨境復甦"
+      },
+      "summary": {
+        "sc": "LinkedIn行业分析2024年香港保险三大趋势：RBC制度7月生效(范式转换)、GN16修订启动(分红实现率披露升级)、内地访客需求全面复苏(新造保费628亿占28.6%)。[EN原文]",
+        "tc": "2024三大趨勢：RBC生效/GN16修訂/跨境復甦"
+      },
+      "why": {
+        "sc": "RBC是香港保险监管史上最大变革，2024年为起点",
+        "tc": "RBC=香港保險監管史上最大變革"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解RBC对产品供给的长期影响",
+          "tc": "了解RBC對產品影響"
+        },
+        "midback": {
+          "sc": "归档2024行业趋势",
+          "tc": "歸檔2024趨勢"
+        },
+        "lead": {
+          "sc": "RBC后时代的团队策略",
+          "tc": "RBC後時代策略"
+        },
+        "cross": {
+          "sc": "RBC=与国际标准对齐=跨境合作更顺畅",
+          "tc": "RBC與國際對齊"
+        }
+      },
+      "source": {
+        "sc": "LinkedIn",
+        "tc": "LinkedIn",
+        "lang": "en"
+      },
+      "boards": [
+        "regulatory",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "RBC",
+          "GN16",
+          "跨境",
+          "2024"
+        ],
+        "tc": [
+          "RBC",
+          "GN16",
+          "跨境",
+          "2024"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-01-15T10:00:00+08:00",
+      "originalUrl": "https://www.linkedin.com/pulse/reviewing-key-trends-hong-kongs-insurance-industry-2024-demi-poon-b4lkc",
+      "sourceKey": "linkedin:hk-trends-2024"
+    },
     {
       "id": "swissre-202607-wis",
       "clusterCount": 1,
@@ -13136,6 +13558,7 @@ window.HKII_DATA = {
     ]
   }
 };
+
 
 
 
