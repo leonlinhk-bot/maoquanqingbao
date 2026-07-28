@@ -18089,7 +18089,7 @@ ${t.brandName} · ${t.disc}
         toast(t.posterDl+" ✓");
       }catch(err){ toast("下载失败，请长按图片保存"); }
     };
-    $("#posterCopy").onclick=async()=>{
+    $("#posterCopyMd").onclick=async()=>{
       // 朋友圈文案：标题 + 一句话总结 + 来源提示
       const sum1=posterSummary(it);
       const text=`【港险快讯】${tx(it.title)}\n\n${sum1}\n\n来源：${tx(it.source)}\nvia 猫圈儿港险情报站（hkmaoquanqingbao.com）\n——专业分享，非销售邀约，以监管/保司原文为准`;
