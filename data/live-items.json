@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-07-28T17:00:00+08:00",
-    "itemCount": 125,
+    "generatedAt": "2026-07-28T17:30:00+08:00",
+    "itemCount": 128,
     "windowNote": {
-      "sc": "本库 125 条导读，数据窗口截至 2026-07-28。导读≠原文。",
-      "tc": "本庫 125 條導讀，數據窗口截至 2026-07-28。導讀≠原文。"
+      "sc": "本库 128 条导读。导读≠原文。",
+      "tc": "本庫 128 條導讀。導讀≠原文。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -167,6 +167,211 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "chubb-20260601-mylegacy",
+      "clusterCount": 1,
+      "score": 80,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T17:30:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "Chubb Life香港增强旗舰产品MyLegacy V——缩短回本期",
+        "tc": "Chubb Life香港增強旗艦產品MyLegacy V——縮短回本期"
+      },
+      "summary": {
+        "sc": "Chubb Life香港2026年6月1日增强旗舰产品MyLegacy V保险计划，缩短保单回本期，提升产品竞争力。同时Bloomberg金融机构2026评选获五项大奖。[EN原文]",
+        "tc": "Chubb增強MyLegacy V，縮短回本期"
+      },
+      "why": {
+        "sc": "Chubb在香港寿险市场持续加码，产品竞争力提升",
+        "tc": "Chubb香港壽險持續加碼"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解MyLegacy V与竞品对比",
+          "tc": "了解產品對比"
+        },
+        "midback": {
+          "sc": "更新Chubb产品库",
+          "tc": "更新產品庫"
+        },
+        "lead": {
+          "sc": "关注Chubb市场份额变化",
+          "tc": "關注市佔率變化"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "Chubb新闻稿",
+        "tc": "Chubb新聞稿",
+        "lang": "en"
+      },
+      "boards": [
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "Chubb",
+          "MyLegacy",
+          "产品更新",
+          "2026"
+        ],
+        "tc": [
+          "Chubb",
+          "MyLegacy",
+          "產品更新",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-06-01T10:00:00+08:00",
+      "originalUrl": "https://www.chubb.com/hk-en/media-center/life-insurance-news-releases.html",
+      "sourceKey": "chubb:mylegacy-20260601"
+    },
+    {
+      "id": "chubb-2026-dementia",
+      "clusterCount": 1,
+      "score": 81,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T17:30:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "Chubb Life香港推出创新「Side by Side」认知障碍症保险计划",
+        "tc": "Chubb Life香港推出創新「Side by Side」認知障礙症保險計劃"
+      },
+      "summary": {
+        "sc": "Chubb Life香港推出创新「Side by Side」认知障碍症保险计划，获评Products & Services Excellence 2026。该产品填补了香港市场对认知障碍专项保障的空白。[EN原文]",
+        "tc": "Chubb推出認知障礙症專項保險"
+      },
+      "why": {
+        "sc": "认知障碍保障=香港老龄化社会刚需，产品差异化明显",
+        "tc": "認知障礙保障=老齡化剛需"
+      },
+      "actions": {
+        "front": {
+          "sc": "50+客户认知障碍保障新选择",
+          "tc": "50+客戶新選擇"
+        },
+        "midback": {
+          "sc": "更新老龄保障产品对比",
+          "tc": "更新老齡保障對比"
+        },
+        "lead": {
+          "sc": "银发市场差异化产品策略",
+          "tc": "銀髮市場差異化"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "Chubb/LinkedIn",
+        "tc": "Chubb/LinkedIn",
+        "lang": "en"
+      },
+      "boards": [
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "Chubb",
+          "认知障碍",
+          "创新",
+          "2026"
+        ],
+        "tc": [
+          "Chubb",
+          "認知障礙",
+          "創新",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-03-24T10:00:00+08:00",
+      "originalUrl": "https://hk.linkedin.com/company/chubb-life-hong-kong",
+      "sourceKey": "chubb:dementia-2026"
+    },
+    {
+      "id": "taiping-202606-rating",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-28T17:30:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "中国太平再保险连续17年获惠誉A评级",
+        "tc": "中國太平再保險連續17年獲惠譽A評級"
+      },
+      "summary": {
+        "sc": "惠誉2026年6月确认太平再保险财务实力A评级（强劲），展望稳定。这是太平再保险连续第17年获得惠誉A评级。太平集团在港经营超80年。[EN原文]",
+        "tc": "太平再保連續17年獲惠譽A評級"
+      },
+      "why": {
+        "sc": "评级=中资保司在港信用背书的重要指标",
+        "tc": "評級=中資保司信用背書"
+      },
+      "actions": {
+        "front": {
+          "sc": "中资保司偏好客户可引述评级",
+          "tc": "中資客戶可引述評級"
+        },
+        "midback": {
+          "sc": "更新太平品牌档案",
+          "tc": "更新品牌檔案"
+        },
+        "lead": {
+          "sc": ""
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "中国太平/惠誉",
+        "tc": "中國太平/惠譽",
+        "lang": "zh"
+      },
+      "boards": [
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "太平",
+          "惠誉",
+          "评级",
+          "A级"
+        ],
+        "tc": [
+          "太平",
+          "惠譽",
+          "評級",
+          "A級"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-06-26T10:00:00+08:00",
+      "originalUrl": "https://www.cntaiping.com/news/123435.html",
+      "sourceKey": "taiping:rating-20260626"
+    },
     {
       "id": "cpic-20260504-gen3",
       "clusterCount": 1,
