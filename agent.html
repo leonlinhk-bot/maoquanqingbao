@@ -121,7 +121,7 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);margin:0;pad
 
 <!-- Migration -->
 <div class="migration-banner">
-  <strong>数据窗口</strong>：本库截至 2026-07-28 共 171 条导读。每日 18:00 自动更新，feed 同步刷新。
+  <strong>数据窗口</strong>：本库截至 <span id="agentDate">—</span> 共 <span id="agentCount">加载中…</span> 条导读。每日 18:00 自动更新，feed 同步刷新。
 </div>
 
 <!-- Tabs -->
@@ -207,7 +207,7 @@ https://hkmaoquanqingbao.com/api.md
     <tr>
       <td style="font-family:var(--mono);font-size:13px"><a href="feed/all.json" style="color:var(--accent-2)">/feed/all.json</a></td>
       <td>全量索引（id、标题、日期、信源、链接）</td>
-      <td>171</td>
+      <td id="agentAllCount">加载中…</td>
     </tr>
   </table>
 
@@ -280,5 +280,25 @@ function copyCode(btn) {
   }).catch(() => alert('复制失败，请手动复制'));
 }
 </script>
+
+<!-- Auto-sync stats from feed -->
+<script>
+(function(){
+  var ids=['agentItemCount','agentCount','agentAllCount','agentDate'];
+  fetch('/feed/all.json').then(function(r){return r.json()}).then(function(d){
+    var n=d.itemCount||0;
+    ids.forEach(function(id){
+      var el=document.getElementById(id);
+      if(el) el.textContent=n+' 条';
+    });
+    var dateEl=document.getElementById('agentDate');
+    if(dateEl) dateEl.textContent=(d.generatedAt||'').slice(0,10);
+    // Also update the migration banner text if it still has old number
+    var mb=document.querySelector('.migration-banner');
+    if(mb) mb.innerHTML=mb.innerHTML.replace(/\d+ 条/g, n+' 条');
+  }).catch(function(e){console.log('stats fetch failed',e)});
+})();
+</script>
+
 </body>
 </html>
