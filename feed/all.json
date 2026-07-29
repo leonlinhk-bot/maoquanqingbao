@@ -1,9 +1,59 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-07-28T17:49:12Z",
-  "itemCount": 188,
+  "generatedAt": "2026-07-29T16:38:23Z",
+  "itemCount": 194,
   "items": [
+    {
+      "id": "bowtie-202607-100m",
+      "title": "香港首家虚拟保险公司Bowtie营收突破1亿美元 剑指东南亚",
+      "sourceTier": "",
+      "themes": [],
+      "publishedAt": "2026-07-29T16:00:00+08:00",
+      "score": 77,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=bowtie-202607-100m",
+      "originalUrl": "https://insuranceasianews.com/hong-kongs-first-virtual-insurer-eyes-malaysia-led-southeast-asia-push-after-hitting-critical-us100m-revenue-milestone/"
+    },
+    {
+      "id": "hk-202607-mainland-scrutiny",
+      "title": "监管关注香港保险公司内地资金合规问题",
+      "sourceTier": "",
+      "themes": [],
+      "publishedAt": "2026-07-29T14:00:00+08:00",
+      "score": 83,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hk-202607-mainland-scrutiny",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-insurers-risk-scrutiny-over-mainland-funds"
+    },
+    {
+      "id": "ia-20260730-sales-misconduct",
+      "title": "保监局收紧销售行为规则：高管对全流程合规直接负责",
+      "sourceTier": "",
+      "themes": [],
+      "publishedAt": "2026-07-29T10:00:00+08:00",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260730-sales-misconduct",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-ia-tightens-sales-rules-misconduct-scrutiny-grows"
+    },
+    {
+      "id": "picc-202607-re",
+      "title": "人保香港积极拓展再保险转入业务",
+      "sourceTier": "",
+      "themes": [],
+      "publishedAt": "2026-07-28T12:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=picc-202607-re",
+      "originalUrl": "https://insuranceasia.com/insurance/news/picc-hk-chases-inward-reinsurance-growth"
+    },
+    {
+      "id": "cgs-202607-hk-crackdown",
+      "title": "CGS International: 香港保险公司不惧监管收紧 增长前景稳健",
+      "sourceTier": "",
+      "themes": [],
+      "publishedAt": "2026-07-28T10:00:00+08:00",
+      "score": 82,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=cgs-202607-hk-crackdown",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-insurers-shrug-off-crackdown-fears-cgs-international"
+    },
     {
       "id": "ratings-2026-consolidated",
       "title": "香港主要保险公司信评一览(2026更新)。",
@@ -156,6 +206,20 @@
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-complaints-20260724",
       "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/07/20260724-3/"
+    },
+    {
+      "id": "ziyu-ceo-letter-20260724",
+      "title": "资遇经纪 CEO 年度公开信：信任，是时间留下的凭证",
+      "sourceTier": "pro",
+      "themes": [
+        "channel",
+        "compliance",
+        "career"
+      ],
+      "publishedAt": "2026-07-24T10:00:00+08:00",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ziyu-ceo-letter-20260724",
+      "originalUrl": "https://mp.weixin.qq.com/s/nYovc-7UW75pt-560SjWGw"
     },
     {
       "id": "aia-20260716-hyrox",

@@ -1,9 +1,31 @@
 {
   "feed": "featured",
   "title": "猫圈儿港险情报站 · 精选",
-  "generatedAt": "2026-07-28T17:49:12Z",
+  "generatedAt": "2026-07-29T16:38:23Z",
   "itemCount": 20,
   "items": [
+    {
+      "id": "ia-20260730-sales-misconduct",
+      "title": "保监局收紧销售行为规则：高管对全流程合规直接负责",
+      "summary": "Insurance Asia 2026年7月报道：保监局进一步收紧保险销售行为监管。新规要求高级管理层对销售全流程的合规性承担直接责任。随着不当销售行为审查持续升温，机构须强化内部管控机制。[EN原文]",
+      "why": "高管个人问责=合规压力从操作层上升到决策层",
+      "sourceLabel": "Insurance Asia",
+      "sourceTier": "",
+      "tags": [
+        "销售行为",
+        "高管",
+        "问责",
+        "2026"
+      ],
+      "themes": [],
+      "publishedAt": "2026-07-29T10:00:00+08:00",
+      "effectiveAt": "",
+      "score": 88,
+      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-ia-tightens-sales-rules-misconduct-scrutiny-grows",
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260730-sales-misconduct",
+      "verifyStatus": "verified",
+      "rolesImpact": {}
+    },
     {
       "id": "ratings-2026-consolidated",
       "title": "香港主要保险公司信评一览(2026更新)。",
@@ -515,28 +537,6 @@
         "lead": 3,
         "cross": 2
       }
-    },
-    {
-      "id": "cpic-20260504-gen3",
-      "title": "太保寿险香港推出「世代悦享3」储蓄保险计划——35周年献礼。",
-      "summary": "中国太保寿险香港2026年5月4日（太保成立35周年）推出「世代悦享3储蓄保险计划」。以国资实控、836%偿付能力充足率、全线100%分红兑现（新品116%超预期）为核心卖点，定位安全稳健。",
-      "why": "中资保险在港最亮眼产品之一，国资背景+高兑现率，也是差异化竞争力。",
-      "sourceLabel": "太保/界面新闻/东方财富",
-      "sourceTier": "media",
-      "tags": [
-        "太保",
-        "世代悦享3",
-        "国资",
-        "2026"
-      ],
-      "themes": [],
-      "publishedAt": "2026-05-04T10:00:00+08:00",
-      "effectiveAt": "",
-      "score": 84,
-      "originalUrl": "https://www.cpiclifehk.com.hk/sc/company/lastestNews",
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=cpic-20260504-gen3",
-      "verifyStatus": "pending",
-      "rolesImpact": {}
     }
   ]
 }

@@ -2,10 +2,10 @@ window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-07-30T01:00:00+08:00",
-    "itemCount": 193,
+    "itemCount": 194,
     "windowNote": {
-      "sc": "本库193条。",
-      "tc": "本庫193條。"
+      "sc": "本库194条。",
+      "tc": "本庫194條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -169,78 +169,9 @@ window.HKII_DATA = {
   ],
   "items": [
     {
-      "id": "ia-20260730-sales-misconduct",
+      "id": "bowtie-202607-100m",
       "clusterCount": 1,
-      "score": 88,
-      "verifyStatus": "verified",
-      "featured": true,
-      "evergreen": false,
-      "ingestedAt": "2026-07-30T01:00:00+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "title": {
-        "sc": "保监局收紧销售行为规则：高管对全流程合规直接负责",
-        "tc": "保監局收緊銷售行為規則：高管對全流程合規直接負責"
-      },
-      "summary": {
-        "sc": "Insurance Asia 2026年7月报道：保监局进一步收紧保险销售行为监管。新规要求高级管理层对销售全流程的合规性承担直接责任。随着不当销售行为审查持续升温，机构须强化内部管控机制。[EN原文]",
-        "tc": "保監局收緊銷售規則,高管直接負責全流程合規"
-      },
-      "why": {
-        "sc": "高管个人问责=合规压力从操作层上升到决策层",
-        "tc": "高管個人問責=合規壓力上升"
-      },
-      "actions": {
-        "front": {
-          "sc": "确保销售流程每个环节有据可查",
-          "tc": "確保銷售流程有據可查"
-        },
-        "midback": {
-          "sc": "更新销售合规手册",
-          "tc": "更新銷售合規手冊"
-        },
-        "lead": {
-          "sc": "高管个人问责=团队合规不容有失",
-          "tc": "團隊合規不容有失"
-        },
-        "cross": {
-          "sc": ""
-        }
-      },
-      "source": {
-        "sc": "Insurance Asia",
-        "tc": "Insurance Asia",
-        "lang": "en"
-      },
-      "boards": [
-        "regulatory",
-        "compliance"
-      ],
-      "tags": {
-        "sc": [
-          "销售行为",
-          "高管",
-          "问责",
-          "2026"
-        ],
-        "tc": [
-          "銷售行為",
-          "高管",
-          "問責",
-          "2026"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2026-07-29T10:00:00+08:00",
-      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-ia-tightens-sales-rules-misconduct-scrutiny-grows",
-      "sourceKey": "ia:sales-misconduct-20260729"
-    },
-    {
-      "id": "cgs-202607-hk-crackdown",
-      "clusterCount": 1,
-      "score": 82,
+      "score": 77,
       "verifyStatus": "pending",
       "featured": false,
       "evergreen": false,
@@ -250,63 +181,61 @@ window.HKII_DATA = {
         "tc": "本站導讀"
       },
       "title": {
-        "sc": "CGS International: 香港保险公司不惧监管收紧 增长前景稳健",
-        "tc": "CGS International: 香港保險公司不懼監管收緊 增長前景穩健"
+        "sc": "香港首家虚拟保险公司Bowtie营收突破1亿美元 剑指东南亚",
+        "tc": "香港首家虛擬保險公司Bowtie營收突破1億美元 劍指東南亞"
       },
       "summary": {
-        "sc": "CGS International 2026年7月报告指出，尽管内地对跨境资金流动的审查持续收紧，香港保险公司凭借多元化客源和强劲的本地需求，增长前景依然稳健。市场对监管打压的担忧可能过度。[EN原文]",
-        "tc": "CGS:港險不懼監管收緊,增長前景穩健"
+        "sc": "InsuranceAsia News 2026年7月报道：香港首家虚拟保险公司Bowtie实现营收突破1亿美元里程碑,客户留存率达93%。联合创始人Fred Ngan表示公司有望较快实现盈亏平衡,并计划进军马来西亚等东南亚市场。[EN原文]",
+        "tc": "Bowtie營收破$1億,客戶留存93%,進軍東南亞"
       },
       "why": {
-        "sc": "投行第三方视角=对市场过度担忧的理性修正",
-        "tc": "投行視角=市場擔憂修正"
+        "sc": "虚拟保险的规模化验证=数字保险的商业模式正式跑通",
+        "tc": "虛擬保險規模化驗證=商業模式正式跑通"
       },
       "actions": {
         "front": {
-          "sc": "向客户说明监管收紧≠行业萎缩",
-          "tc": "向客戶說明監管≠萎縮"
+          "sc": "了解Bowtie产品线与传统保司的差异",
+          "tc": "了解Bowtie與傳統差異"
         },
         "midback": {
-          "sc": "归档投行行业观点",
-          "tc": "歸檔投行觀點"
+          "sc": "关注虚拟保险对传统渠道的冲击",
+          "tc": "關注虛擬保險衝擊"
         },
         "lead": {
-          "sc": "多元化客源=抗风险能力的核心",
-          "tc": "多元化客源=抗風險核心"
+          "sc": "数字保险=行业未来方向",
+          "tc": "數字保險=行業方向"
         },
         "cross": {
           "sc": ""
         }
       },
       "source": {
-        "sc": "CGS International",
-        "tc": "CGS International",
+        "sc": "InsuranceAsia News",
+        "tc": "InsuranceAsia News",
         "lang": "en"
       },
       "boards": [
-        "macro",
-        "cross"
+        "tech",
+        "firm"
       ],
       "tags": {
         "sc": [
-          "CGS",
-          "监管",
-          "跨境",
-          "前景",
-          "2026"
+          "Bowtie",
+          "虚拟保险",
+          "InsurTech",
+          "东南亚"
         ],
         "tc": [
-          "CGS",
-          "監管",
-          "跨境",
-          "前景",
-          "2026"
+          "Bowtie",
+          "虛擬保險",
+          "InsurTech",
+          "東南亞"
         ]
       },
       "contentKind": "news",
-      "publishedAt": "2026-07-28T10:00:00+08:00",
-      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-insurers-shrug-off-crackdown-fears-cgs-international",
-      "sourceKey": "cgs:hk-crackdown-202607"
+      "publishedAt": "2026-07-29T16:00:00+08:00",
+      "originalUrl": "https://insuranceasianews.com/hong-kongs-first-virtual-insurer-eyes-malaysia-led-southeast-asia-push-after-hitting-critical-us100m-revenue-milestone/",
+      "sourceKey": "bowtie:100m-202607"
     },
     {
       "id": "hk-202607-mainland-scrutiny",
@@ -379,6 +308,75 @@ window.HKII_DATA = {
       "sourceKey": "hk:mainland-scrutiny-202607"
     },
     {
+      "id": "ia-20260730-sales-misconduct",
+      "clusterCount": 1,
+      "score": 88,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": false,
+      "ingestedAt": "2026-07-30T01:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "保监局收紧销售行为规则：高管对全流程合规直接负责",
+        "tc": "保監局收緊銷售行為規則：高管對全流程合規直接負責"
+      },
+      "summary": {
+        "sc": "Insurance Asia 2026年7月报道：保监局进一步收紧保险销售行为监管。新规要求高级管理层对销售全流程的合规性承担直接责任。随着不当销售行为审查持续升温，机构须强化内部管控机制。[EN原文]",
+        "tc": "保監局收緊銷售規則,高管直接負責全流程合規"
+      },
+      "why": {
+        "sc": "高管个人问责=合规压力从操作层上升到决策层",
+        "tc": "高管個人問責=合規壓力上升"
+      },
+      "actions": {
+        "front": {
+          "sc": "确保销售流程每个环节有据可查",
+          "tc": "確保銷售流程有據可查"
+        },
+        "midback": {
+          "sc": "更新销售合规手册",
+          "tc": "更新銷售合規手冊"
+        },
+        "lead": {
+          "sc": "高管个人问责=团队合规不容有失",
+          "tc": "團隊合規不容有失"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "tc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "regulatory",
+        "compliance"
+      ],
+      "tags": {
+        "sc": [
+          "销售行为",
+          "高管",
+          "问责",
+          "2026"
+        ],
+        "tc": [
+          "銷售行為",
+          "高管",
+          "問責",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-07-29T10:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-ia-tightens-sales-rules-misconduct-scrutiny-grows",
+      "sourceKey": "ia:sales-misconduct-20260729"
+    },
+    {
       "id": "picc-202607-re",
       "clusterCount": 1,
       "score": 74,
@@ -446,9 +444,9 @@ window.HKII_DATA = {
       "sourceKey": "picc:re-202607"
     },
     {
-      "id": "bowtie-202607-100m",
+      "id": "cgs-202607-hk-crackdown",
       "clusterCount": 1,
-      "score": 77,
+      "score": 82,
       "verifyStatus": "pending",
       "featured": false,
       "evergreen": false,
@@ -458,61 +456,63 @@ window.HKII_DATA = {
         "tc": "本站導讀"
       },
       "title": {
-        "sc": "香港首家虚拟保险公司Bowtie营收突破1亿美元 剑指东南亚",
-        "tc": "香港首家虛擬保險公司Bowtie營收突破1億美元 劍指東南亞"
+        "sc": "CGS International: 香港保险公司不惧监管收紧 增长前景稳健",
+        "tc": "CGS International: 香港保險公司不懼監管收緊 增長前景穩健"
       },
       "summary": {
-        "sc": "InsuranceAsia News 2026年7月报道：香港首家虚拟保险公司Bowtie实现营收突破1亿美元里程碑,客户留存率达93%。联合创始人Fred Ngan表示公司有望较快实现盈亏平衡,并计划进军马来西亚等东南亚市场。[EN原文]",
-        "tc": "Bowtie營收破$1億,客戶留存93%,進軍東南亞"
+        "sc": "CGS International 2026年7月报告指出，尽管内地对跨境资金流动的审查持续收紧，香港保险公司凭借多元化客源和强劲的本地需求，增长前景依然稳健。市场对监管打压的担忧可能过度。[EN原文]",
+        "tc": "CGS:港險不懼監管收緊,增長前景穩健"
       },
       "why": {
-        "sc": "虚拟保险的规模化验证=数字保险的商业模式正式跑通",
-        "tc": "虛擬保險規模化驗證=商業模式正式跑通"
+        "sc": "投行第三方视角=对市场过度担忧的理性修正",
+        "tc": "投行視角=市場擔憂修正"
       },
       "actions": {
         "front": {
-          "sc": "了解Bowtie产品线与传统保司的差异",
-          "tc": "了解Bowtie與傳統差異"
+          "sc": "向客户说明监管收紧≠行业萎缩",
+          "tc": "向客戶說明監管≠萎縮"
         },
         "midback": {
-          "sc": "关注虚拟保险对传统渠道的冲击",
-          "tc": "關注虛擬保險衝擊"
+          "sc": "归档投行行业观点",
+          "tc": "歸檔投行觀點"
         },
         "lead": {
-          "sc": "数字保险=行业未来方向",
-          "tc": "數字保險=行業方向"
+          "sc": "多元化客源=抗风险能力的核心",
+          "tc": "多元化客源=抗風險核心"
         },
         "cross": {
           "sc": ""
         }
       },
       "source": {
-        "sc": "InsuranceAsia News",
-        "tc": "InsuranceAsia News",
+        "sc": "CGS International",
+        "tc": "CGS International",
         "lang": "en"
       },
       "boards": [
-        "tech",
-        "firm"
+        "macro",
+        "cross"
       ],
       "tags": {
         "sc": [
-          "Bowtie",
-          "虚拟保险",
-          "InsurTech",
-          "东南亚"
+          "CGS",
+          "监管",
+          "跨境",
+          "前景",
+          "2026"
         ],
         "tc": [
-          "Bowtie",
-          "虛擬保險",
-          "InsurTech",
-          "東南亞"
+          "CGS",
+          "監管",
+          "跨境",
+          "前景",
+          "2026"
         ]
       },
       "contentKind": "news",
-      "publishedAt": "2026-07-29T16:00:00+08:00",
-      "originalUrl": "https://insuranceasianews.com/hong-kongs-first-virtual-insurer-eyes-malaysia-led-southeast-asia-push-after-hitting-critical-us100m-revenue-milestone/",
-      "sourceKey": "bowtie:100m-202607"
+      "publishedAt": "2026-07-28T10:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-insurers-shrug-off-crackdown-fears-cgs-international",
+      "sourceKey": "cgs:hk-crackdown-202607"
     },
     {
       "id": "ratings-2026-consolidated",
@@ -1378,6 +1378,80 @@ window.HKII_DATA = {
         "reg"
       ],
       "contentKind": "press"
+    },
+    {
+      "id": "ziyu-ceo-letter-20260724",
+      "clusterCount": 1,
+      "score": 86,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "资遇保险经纪 资遇财富管理",
+      "title": {
+        "sc": "资遇经纪 CEO 年度公开信：信任，是时间留下的凭证",
+        "tc": "資遇經紀 CEO 年度公開信：信任，是時間留下的憑證"
+      },
+      "summary": {
+        "sc": "资遇保险经纪 CEO 刘日昌博士发表首封年度公开信（2026.07.24），提出「从价值分配走向价值创造」的核心命题。将保险市场的消费者/从业者/保司三方博弈定义为「不可能三角」，并给出解法：将衡量单位从单笔交易延伸至客户全服务周期。截至7月，资遇 IFA 规模近 600 人，新签约系统已覆盖 500 人，2026 年目标推动 60% 合作保司 API 上线。",
+        "tc": "資遇保險經紀 CEO 劉日昌博士發表首封年度公開信（2026.07.24），提出「從價值分配走向價值創造」的核心命題。將保險市場的消費者/從業者/保司三方博弈定義為「不可能三角」，並給出解法：將衡量單位從單筆交易延伸至客戶全服務周期。截至7月，資遇 IFA 規模近 600 人，新簽約系統已覆蓋 500 人，2026 年目標推動 60% 合作保司 API 上線。"
+      },
+      "why": {
+        "sc": "资遇是香港经纪渠道的重要玩家（与ZUU同赛道）。这封公开信有三层价值：①「不可能三角」模型是对佣金改革后行业困境的理论化回应，适用于所有经纪公司；②「合规不是刹车而是轨道」的提法，与 ZUU 的「合规前置」第一性原理高度同构；③首次披露的 IFA 600 人规模+API 对接计划，是经纪赛道数字化竞争的重要信号。",
+        "tc": "資遇是香港經紀渠道的重要玩家（與ZUU同賽道）。這封公開信有三層價值：①「不可能三角」模型是對佣金改革後行業困境的理論化回應，適用於所有經紀公司；②「合規不是煞車而是軌道」的提法，與 ZUU 的「合規前置」第一性原理高度同構；③首次披露的 IFA 600 人規模+API 對接計劃，是經紀賽道數字化競爭的重要信號。"
+      },
+      "actions": {
+        "front": {
+          "sc": "「不可能三角」模型可用于客户沟通：解释为什么好产品+好服务需要可持续的商业模式支撑",
+          "tc": "「不可能三角」模型可用於客戶溝通：解釋為什麼好產品+好服務需要可持續的商業模式支撐"
+        },
+        "midback": {
+          "sc": "资遇的合规体系（外部律师月会+案例研讨+边界培训）可供参考",
+          "tc": "資遇的合規體系（外部律師月會+案例研討+邊界培訓）可供參考"
+        },
+        "lead": {
+          "sc": "经纪人规模600人+API对接是行业标杆数据，可用于团队战略对标",
+          "tc": "經紀人規模600人+API對接是行業標桿數據，可用於團隊戰略對標"
+        },
+        "cross": {
+          "sc": "资遇获跨境保险服务+移民身份规划双奖，跨境布局信号明确",
+          "tc": "資遇獲跨境保險服務+移民身份規劃雙獎，跨境佈局信號明確"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 4,
+        "lead": 5,
+        "cross": 3
+      },
+      "source": {
+        "sc": "资遇财富管理 · 公众号",
+        "lang": "zh"
+      },
+      "boards": [
+        "market",
+        "insurer"
+      ],
+      "themes": [
+        "channel",
+        "compliance",
+        "career"
+      ],
+      "tags": {
+        "sc": [
+          "CEO公开信",
+          "经纪",
+          "资遇",
+          "行业思想"
+        ],
+        "tc": [
+          "CEO公開信",
+          "經紀",
+          "資遇",
+          "行業思想"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-07-24T10:00:00+08:00",
+      "originalUrl": "https://mp.weixin.qq.com/s/nYovc-7UW75pt-560SjWGw"
     },
     {
       "id": "aia-20260716-hyrox",
@@ -14505,13 +14579,28 @@ window.HKII_DATA = {
   "digests": {
     "daily": [
       {
+        "key": "2026-07-29",
+        "label": {
+          "sc": "2026-07-29",
+          "tc": "2026-07-29"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "bowtie-202607-100m",
+          "hk-202607-mainland-scrutiny",
+          "ia-20260730-sales-misconduct"
+        ]
+      },
+      {
         "key": "2026-07-28",
         "label": {
           "sc": "2026-07-28",
           "tc": "2026-07-28"
         },
-        "itemCount": 4,
+        "itemCount": 6,
         "itemIds": [
+          "picc-202607-re",
+          "cgs-202607-hk-crackdown",
           "ratings-2026-consolidated",
           "continuum-hk-gm-202607",
           "hk-fraud-payments-lag-202607",
@@ -14560,10 +14649,11 @@ window.HKII_DATA = {
           "sc": "2026-07-24",
           "tc": "2026-07-24"
         },
-        "itemCount": 2,
+        "itemCount": 3,
         "itemIds": [
           "ia-q1-2026-stats",
-          "hkma-complaints-20260724"
+          "hkma-complaints-20260724",
+          "ziyu-ceo-letter-20260724"
         ]
       },
       {
@@ -15970,8 +16060,13 @@ window.HKII_DATA = {
           "sc": "2026-W31",
           "tc": "2026-W31"
         },
-        "itemCount": 6,
+        "itemCount": 11,
         "itemIds": [
+          "bowtie-202607-100m",
+          "hk-202607-mainland-scrutiny",
+          "ia-20260730-sales-misconduct",
+          "picc-202607-re",
+          "cgs-202607-hk-crackdown",
           "ratings-2026-consolidated",
           "continuum-hk-gm-202607",
           "hk-fraud-payments-lag-202607",
@@ -15986,14 +16081,15 @@ window.HKII_DATA = {
           "sc": "2026-W30",
           "tc": "2026-W30"
         },
-        "itemCount": 6,
+        "itemCount": 7,
         "itemIds": [
           "sunlife-privatewealth-202607",
           "aif-2026-save-the-date",
           "insbus-202607-hk-growth",
           "ia-public-disclosure-2026",
           "ia-q1-2026-stats",
-          "hkma-complaints-20260724"
+          "hkma-complaints-20260724",
+          "ziyu-ceo-letter-20260724"
         ]
       },
       {
@@ -16860,8 +16956,13 @@ window.HKII_DATA = {
           "sc": "2026-07",
           "tc": "2026-07"
         },
-        "itemCount": 27,
+        "itemCount": 33,
         "itemIds": [
+          "bowtie-202607-100m",
+          "hk-202607-mainland-scrutiny",
+          "ia-20260730-sales-misconduct",
+          "picc-202607-re",
+          "cgs-202607-hk-crackdown",
           "ratings-2026-consolidated",
           "continuum-hk-gm-202607",
           "hk-fraud-payments-lag-202607",
@@ -16874,6 +16975,7 @@ window.HKII_DATA = {
           "ia-public-disclosure-2026",
           "ia-q1-2026-stats",
           "hkma-complaints-20260724",
+          "ziyu-ceo-letter-20260724",
           "aia-20260716-hyrox",
           "ia-20260716-ashk-ifoa",
           "ia-20260715-sales-practices",
@@ -17320,8 +17422,13 @@ window.HKII_DATA = {
           "sc": "2026 年",
           "tc": "2026 年"
         },
-        "itemCount": 126,
+        "itemCount": 132,
         "itemIds": [
+          "bowtie-202607-100m",
+          "hk-202607-mainland-scrutiny",
+          "ia-20260730-sales-misconduct",
+          "picc-202607-re",
+          "cgs-202607-hk-crackdown",
           "ratings-2026-consolidated",
           "continuum-hk-gm-202607",
           "hk-fraud-payments-lag-202607",
@@ -17334,6 +17441,7 @@ window.HKII_DATA = {
           "ia-public-disclosure-2026",
           "ia-q1-2026-stats",
           "hkma-complaints-20260724",
+          "ziyu-ceo-letter-20260724",
           "aia-20260716-hyrox",
           "ia-20260716-ashk-ifoa",
           "ia-20260715-sales-practices",
@@ -18117,7 +18225,6 @@ window.HKII_DATA = {
     }
   ]
 };
-
 (function () {
   const DATA = window.HKII_DATA;
   const L = {
