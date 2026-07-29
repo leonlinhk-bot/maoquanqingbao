@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-07-29T01:49:12+08:00",
-    "itemCount": 188,
+    "generatedAt": "2026-07-30T01:00:00+08:00",
+    "itemCount": 193,
     "windowNote": {
-      "sc": "本库188条。",
-      "tc": "本庫188條。"
+      "sc": "本库193条。",
+      "tc": "本庫193條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -168,6 +168,352 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "ia-20260730-sales-misconduct",
+      "clusterCount": 1,
+      "score": 88,
+      "verifyStatus": "verified",
+      "featured": true,
+      "evergreen": false,
+      "ingestedAt": "2026-07-30T01:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "保监局收紧销售行为规则：高管对全流程合规直接负责",
+        "tc": "保監局收緊銷售行為規則：高管對全流程合規直接負責"
+      },
+      "summary": {
+        "sc": "Insurance Asia 2026年7月报道：保监局进一步收紧保险销售行为监管。新规要求高级管理层对销售全流程的合规性承担直接责任。随着不当销售行为审查持续升温，机构须强化内部管控机制。[EN原文]",
+        "tc": "保監局收緊銷售規則,高管直接負責全流程合規"
+      },
+      "why": {
+        "sc": "高管个人问责=合规压力从操作层上升到决策层",
+        "tc": "高管個人問責=合規壓力上升"
+      },
+      "actions": {
+        "front": {
+          "sc": "确保销售流程每个环节有据可查",
+          "tc": "確保銷售流程有據可查"
+        },
+        "midback": {
+          "sc": "更新销售合规手册",
+          "tc": "更新銷售合規手冊"
+        },
+        "lead": {
+          "sc": "高管个人问责=团队合规不容有失",
+          "tc": "團隊合規不容有失"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "tc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "regulatory",
+        "compliance"
+      ],
+      "tags": {
+        "sc": [
+          "销售行为",
+          "高管",
+          "问责",
+          "2026"
+        ],
+        "tc": [
+          "銷售行為",
+          "高管",
+          "問責",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-07-29T10:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-ia-tightens-sales-rules-misconduct-scrutiny-grows",
+      "sourceKey": "ia:sales-misconduct-20260729"
+    },
+    {
+      "id": "cgs-202607-hk-crackdown",
+      "clusterCount": 1,
+      "score": 82,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-30T01:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "CGS International: 香港保险公司不惧监管收紧 增长前景稳健",
+        "tc": "CGS International: 香港保險公司不懼監管收緊 增長前景穩健"
+      },
+      "summary": {
+        "sc": "CGS International 2026年7月报告指出，尽管内地对跨境资金流动的审查持续收紧，香港保险公司凭借多元化客源和强劲的本地需求，增长前景依然稳健。市场对监管打压的担忧可能过度。[EN原文]",
+        "tc": "CGS:港險不懼監管收緊,增長前景穩健"
+      },
+      "why": {
+        "sc": "投行第三方视角=对市场过度担忧的理性修正",
+        "tc": "投行視角=市場擔憂修正"
+      },
+      "actions": {
+        "front": {
+          "sc": "向客户说明监管收紧≠行业萎缩",
+          "tc": "向客戶說明監管≠萎縮"
+        },
+        "midback": {
+          "sc": "归档投行行业观点",
+          "tc": "歸檔投行觀點"
+        },
+        "lead": {
+          "sc": "多元化客源=抗风险能力的核心",
+          "tc": "多元化客源=抗風險核心"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "CGS International",
+        "tc": "CGS International",
+        "lang": "en"
+      },
+      "boards": [
+        "macro",
+        "cross"
+      ],
+      "tags": {
+        "sc": [
+          "CGS",
+          "监管",
+          "跨境",
+          "前景",
+          "2026"
+        ],
+        "tc": [
+          "CGS",
+          "監管",
+          "跨境",
+          "前景",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-07-28T10:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-insurers-shrug-off-crackdown-fears-cgs-international",
+      "sourceKey": "cgs:hk-crackdown-202607"
+    },
+    {
+      "id": "hk-202607-mainland-scrutiny",
+      "clusterCount": 1,
+      "score": 83,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-30T01:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "监管关注香港保险公司内地资金合规问题",
+        "tc": "監管關注香港保險公司內地資金合規問題"
+      },
+      "summary": {
+        "sc": "Insurance Asia 2026年7月报道：监管机构对香港保险公司涉及内地资金流动的商业模式提出关切，担忧部分业务模式可能助长非合规资本外流。保险公司面临更严的资金来源审查。[EN原文]",
+        "tc": "監管關注港險涉內地資金合規問題"
+      },
+      "why": {
+        "sc": "跨境资金合规审查趋严=大额保单的资金来源将成为重点",
+        "tc": "跨境資金審查趨嚴=大額保單資金來源重點"
+      },
+      "actions": {
+        "front": {
+          "sc": "大额保单须确保客户资金来源合规",
+          "tc": "大額保單確保資金來源合規"
+        },
+        "midback": {
+          "sc": "更新反洗钱和资金来源审查流程",
+          "tc": "更新反洗錢審查流程"
+        },
+        "lead": {
+          "sc": "资金来源合规=团队不可触碰的红线",
+          "tc": "資金來源合規=紅線"
+        },
+        "cross": {
+          "sc": "跨境资金合规=内地客户投保的前提条件",
+          "tc": "跨境資金合規=前提條件"
+        }
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "tc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "compliance",
+        "cross"
+      ],
+      "tags": {
+        "sc": [
+          "跨境资金",
+          "合规",
+          "反洗钱",
+          "2026"
+        ],
+        "tc": [
+          "跨境資金",
+          "合規",
+          "反洗錢",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-07-29T14:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-insurers-risk-scrutiny-over-mainland-funds",
+      "sourceKey": "hk:mainland-scrutiny-202607"
+    },
+    {
+      "id": "picc-202607-re",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-30T01:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "人保香港积极拓展再保险转入业务",
+        "tc": "人保香港積極拓展再保險轉入業務"
+      },
+      "summary": {
+        "sc": "Insurance Asia 2026年7月报道：人保香港(PICC HK)积极拓展再保险转入(inward reinsurance)业务，尽管核心承保利润仍然偏薄，投资收益支撑整体盈利增长。[EN原文]",
+        "tc": "人保香港拓展再保轉入業務"
+      },
+      "why": {
+        "sc": "中资保司在再保市场的扩张=香港作为再保险中心的地位强化",
+        "tc": "中資保司再保擴張=香港再保中心強化"
+      },
+      "actions": {
+        "front": {
+          "sc": "知识储备",
+          "tc": "知識儲備"
+        },
+        "midback": {
+          "sc": "关注中资再保市场动态",
+          "tc": "關注中資再保動態"
+        },
+        "lead": {
+          "sc": ""
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "tc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "人保",
+          "再保险",
+          "中资",
+          "2026"
+        ],
+        "tc": [
+          "人保",
+          "再保險",
+          "中資",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-07-28T12:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/picc-hk-chases-inward-reinsurance-growth",
+      "sourceKey": "picc:re-202607"
+    },
+    {
+      "id": "bowtie-202607-100m",
+      "clusterCount": 1,
+      "score": 77,
+      "verifyStatus": "pending",
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-07-30T01:00:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "title": {
+        "sc": "香港首家虚拟保险公司Bowtie营收突破1亿美元 剑指东南亚",
+        "tc": "香港首家虛擬保險公司Bowtie營收突破1億美元 劍指東南亞"
+      },
+      "summary": {
+        "sc": "InsuranceAsia News 2026年7月报道：香港首家虚拟保险公司Bowtie实现营收突破1亿美元里程碑,客户留存率达93%。联合创始人Fred Ngan表示公司有望较快实现盈亏平衡,并计划进军马来西亚等东南亚市场。[EN原文]",
+        "tc": "Bowtie營收破$1億,客戶留存93%,進軍東南亞"
+      },
+      "why": {
+        "sc": "虚拟保险的规模化验证=数字保险的商业模式正式跑通",
+        "tc": "虛擬保險規模化驗證=商業模式正式跑通"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解Bowtie产品线与传统保司的差异",
+          "tc": "了解Bowtie與傳統差異"
+        },
+        "midback": {
+          "sc": "关注虚拟保险对传统渠道的冲击",
+          "tc": "關注虛擬保險衝擊"
+        },
+        "lead": {
+          "sc": "数字保险=行业未来方向",
+          "tc": "數字保險=行業方向"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "source": {
+        "sc": "InsuranceAsia News",
+        "tc": "InsuranceAsia News",
+        "lang": "en"
+      },
+      "boards": [
+        "tech",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "Bowtie",
+          "虚拟保险",
+          "InsurTech",
+          "东南亚"
+        ],
+        "tc": [
+          "Bowtie",
+          "虛擬保險",
+          "InsurTech",
+          "東南亞"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-07-29T16:00:00+08:00",
+      "originalUrl": "https://insuranceasianews.com/hong-kongs-first-virtual-insurer-eyes-malaysia-led-southeast-asia-push-after-hitting-critical-us100m-revenue-milestone/",
+      "sourceKey": "bowtie:100m-202607"
+    },
     {
       "id": "ratings-2026-consolidated",
       "clusterCount": 1,
