@@ -97,3 +97,59 @@ if start >= 0:
     app_path.write_text(app, encoding='utf-8')
 
 print(f"OK featured={len(feat)} all={n} windowNote=synced app.js=rebuilt")
+# --- Closure check ---
+checks = []
+try:
+    import json
+    # 1. live-items.json
+    live = json.loads(LIVE.read_text(encoding='utf-8'))
+    live_n = len(live.get('items',[]))
+    checks.append(f"live-items: {live_n}")
+    # 2. feed/all.json
+    allf = json.loads(FEED.joinpath('all.json').read_text(encoding='utf-8'))
+    checks.append(f"feed/all: {allf.get('itemCount','?')}")
+    # 3. feed/featured.json
+    featf = json.loads(FEED.joinpath('featured.json').read_text(encoding='utf-8'))
+    checks.append(f"feed/featured: {featf.get('itemCount','?')}") 
+    # 4. app.js embedded DATA (brace-match extract)
+    app_data = (ROOT/"app.js").read_text(encoding='utf-8')
+    dstart = app_data.find('window.HKII_DATA = ')
+    if dstart >= 0:
+        dop = dstart + len('window.HKII_DATA = ')
+        while app_data[dop] in ' \n\r\t': dop += 1
+        ddepth = 0; din = False; desc = False; dq = ''
+        dj = dop
+        while dj < len(app_data):
+            dc = app_data[dj]
+            if din:
+                if desc: desc = False
+                elif dc == '\\': desc = True
+                elif dc == dq: din = False
+                dj += 1; continue
+            if dc in '"\'':
+                din = True; dq = dc; dj += 1; continue
+            if dc == '{': ddepth += 1
+            elif dc == '}':
+                ddepth -= 1
+                if ddepth == 0: dj += 1; break
+            dj += 1
+        if ddepth == 0 and dj > dop:
+            try:
+                embedded = json.loads(app_data[dop:dj])
+                checks.append(f"app.js DATA: {len(embedded.get('items',[]))}")
+            except: checks.append("app.js DATA: parse error")
+    # 5. digests
+    dig = live.get('digests',{})
+    for p in ['daily','weekly','monthly','yearly']:
+        checks.append(f"digests-{p}: {len(dig.get(p,[]))}")
+    # 6. windowNote
+    wn = live.get('meta',{}).get('windowNote',{})
+    checks.append(f"windowNote: {wn.get('sc','?')}")
+    # 7. agent.html (check if item count is embedded)
+    agent_path = ROOT / 'agent.html'
+    if agent_path.exists():
+        agent_content = agent_path.read_text(encoding='utf-8')
+        checks.append("agent.html: exists")
+    print("  closure: " + " | ".join(checks))
+except Exception as e:
+    print(f"  closure check failed: {e}")
