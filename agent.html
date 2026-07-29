@@ -113,7 +113,7 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);margin:0;pad
 
 <!-- Resources -->
 <div class="resources-row">
-  <a class="res-item" href="llms.txt"><span class="res-ico">📄</span> llms.txt</a>
+  <a class="res-item" href="llms.txt" style="border-color:color-mix(in srgb,var(--accent) 50%,var(--border));background:var(--accent-dim)"><span class="res-ico">📄</span> llms.txt <button onclick="navigator.clipboard.writeText('https://hkmaoquanqingbao.com/llms.txt');this.textContent='已复制';setTimeout(()=>this.textContent='llms.txt',1500)" style="font-size:10px;padding:2px 6px;border:1px solid var(--border);border-radius:4px;background:0;color:var(--text-dim);cursor:pointer;margin-left:4px">复制链接</button></a>
   <a class="res-item" href="feed/featured.json"><span class="res-ico">{}</span> featured.json</a>
   <a class="res-item" href="feed/featured.xml"><span class="res-ico">⊞</span> RSS Feed</a>
   <a class="res-item" href="api.md"><span class="res-ico">📖</span> 接入文档</a>

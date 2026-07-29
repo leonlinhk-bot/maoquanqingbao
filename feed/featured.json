@@ -1,7 +1,7 @@
 {
   "feed": "featured",
   "title": "猫圈儿港险情报站 · 精选",
-  "generatedAt": "2026-07-29T16:38:23Z",
+  "generatedAt": "2026-07-29T16:47:58Z",
   "itemCount": 20,
   "items": [
     {
@@ -17,14 +17,21 @@
         "问责",
         "2026"
       ],
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-07-29T10:00:00+08:00",
       "effectiveAt": "",
       "score": 88,
       "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-ia-tightens-sales-rules-misconduct-scrutiny-grows",
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260730-sales-misconduct",
       "verifyStatus": "verified",
-      "rolesImpact": {}
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 0,
+        "cross": 0
+      }
     },
     {
       "id": "ratings-2026-consolidated",
@@ -40,14 +47,21 @@
         "Fitch",
         "2026"
       ],
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-07-28T10:00:00+08:00",
       "effectiveAt": "",
       "score": 95,
       "originalUrl": "https://www.spglobal.com/ratings/en/regulatory/article/asia-pacific-insurance-ratings-list-s101683009",
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ratings-2026-consolidated",
       "verifyStatus": "verified",
-      "rolesImpact": {}
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 0,
+        "cross": 0
+      }
     },
     {
       "id": "ia-public-disclosure-2026",
@@ -209,14 +223,21 @@
         "演辞",
         "2026"
       ],
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-07-12T10:00:00+08:00",
       "effectiveAt": "",
       "score": 95,
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/speeches_articles/20260712.html",
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260712-speech",
       "verifyStatus": "verified",
-      "rolesImpact": {}
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 0,
+        "cross": 0
+      }
     },
     {
       "id": "ia-20260712-speech",
@@ -292,14 +313,21 @@
         "全球保险",
         "2026"
       ],
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-07-08T10:00:00+08:00",
       "effectiveAt": "",
       "score": 92,
       "originalUrl": "https://www.swissre.com/institute/research/sigma-research/sigma-2026-07-world-insurance.html",
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=swissre-202607-wis",
       "verifyStatus": "verified",
-      "rolesImpact": {}
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 0,
+        "cross": 0
+      }
     },
     {
       "id": "ia-crossref-20260701",
@@ -314,14 +342,21 @@
         "金管局",
         "2026"
       ],
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-07-01T09:00:00+08:00",
       "effectiveAt": "",
       "score": 93,
       "originalUrl": "https://xhcins.com/posts/hongkong-insurance-intermediary-reference-checking-2026-07/",
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-crossref-20260701",
       "verifyStatus": "verified",
-      "rolesImpact": {}
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 0,
+        "cross": 0
+      }
     },
     {
       "id": "ia-20260616-cheung-enforcement",
@@ -366,14 +401,21 @@
         "钻裕",
         "法国巴黎银行"
       ],
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-06-10T10:00:00+08:00",
       "effectiveAt": "",
       "score": 84,
       "originalUrl": "https://www.acnnewswire.com/press-release/traditionalchinese/107208/",
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ctflife-2026-diamond-iul",
       "verifyStatus": "pending",
-      "rolesImpact": {}
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 0,
+        "cross": 0
+      }
     },
     {
       "id": "ia-hkma-remuneration-20260605",
@@ -447,14 +489,21 @@
         "报告",
         "2026"
       ],
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-05-28T10:00:00+08:00",
       "effectiveAt": "",
       "score": 94,
       "originalUrl": "https://www.allianz.com/en/economic_research/insights/publications/specials_fmo/260528-global-insurance-report.html",
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=allianz-20260528-global-report",
       "verifyStatus": "verified",
-      "rolesImpact": {}
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 0,
+        "cross": 0
+      }
     },
     {
       "id": "ia-20260513-cross-refcheck",
@@ -499,14 +548,21 @@
         "基建",
         "资本规则"
       ],
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-05-08T12:00:00+08:00",
       "effectiveAt": "",
       "score": 96,
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260508.html",
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260508-rbc-conclusion",
       "verifyStatus": "verified",
-      "rolesImpact": {}
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 0,
+        "cross": 0
+      }
     },
     {
       "id": "ia-20260508-rbc-conclusions",

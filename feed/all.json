@@ -1,14 +1,16 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-07-29T16:38:23Z",
+  "generatedAt": "2026-07-29T16:47:58Z",
   "itemCount": 194,
   "items": [
     {
       "id": "bowtie-202607-100m",
       "title": "香港首家虚拟保险公司Bowtie营收突破1亿美元 剑指东南亚",
       "sourceTier": "",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-07-29T16:00:00+08:00",
       "score": 77,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=bowtie-202607-100m",
@@ -18,7 +20,9 @@
       "id": "hk-202607-mainland-scrutiny",
       "title": "监管关注香港保险公司内地资金合规问题",
       "sourceTier": "",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-07-29T14:00:00+08:00",
       "score": 83,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hk-202607-mainland-scrutiny",
@@ -28,7 +32,9 @@
       "id": "ia-20260730-sales-misconduct",
       "title": "保监局收紧销售行为规则：高管对全流程合规直接负责",
       "sourceTier": "",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-07-29T10:00:00+08:00",
       "score": 88,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260730-sales-misconduct",
@@ -38,7 +44,9 @@
       "id": "picc-202607-re",
       "title": "人保香港积极拓展再保险转入业务",
       "sourceTier": "",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-07-28T12:00:00+08:00",
       "score": 74,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=picc-202607-re",
@@ -48,7 +56,9 @@
       "id": "cgs-202607-hk-crackdown",
       "title": "CGS International: 香港保险公司不惧监管收紧 增长前景稳健",
       "sourceTier": "",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-07-28T10:00:00+08:00",
       "score": 82,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=cgs-202607-hk-crackdown",
@@ -58,7 +68,9 @@
       "id": "ratings-2026-consolidated",
       "title": "香港主要保险公司信评一览(2026更新)。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-07-28T10:00:00+08:00",
       "score": 95,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ratings-2026-consolidated",
@@ -161,7 +173,9 @@
       "id": "insbus-202607-hk-growth",
       "title": "Insurance Business深度分析：Q1毛保费2916亿+32% 跨境数据连5季缺失。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-07-25T10:00:00+08:00",
       "score": 81,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insbus-202607-hk-growth",
@@ -225,7 +239,9 @@
       "id": "aia-20260716-hyrox",
       "title": "友邦香港与HYROX香港宣布策略合作推动健康生活。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-07-16T10:00:00+08:00",
       "score": 75,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-20260716-hyrox",
@@ -262,7 +278,9 @@
       "id": "creditsights-2026-2h",
       "title": "CreditSights展望：2026下半年中港跨境资金规则或进一步收紧。",
       "sourceTier": "pro",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-07-15T10:00:00+08:00",
       "score": 78,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=creditsights-2026-2h",
@@ -285,7 +303,9 @@
       "id": "ia-20260712-speech",
       "title": "保监局刘中健演辞：以前瞻性监管及执法维护市场健康发展。",
       "sourceTier": "official",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-07-12T10:00:00+08:00",
       "score": 95,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260712-speech",
@@ -309,7 +329,9 @@
       "id": "ia-20260710-illustration",
       "title": "保监局就分红保单演示回报率上限发出释义文件。",
       "sourceTier": "official",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-07-10T15:00:00+08:00",
       "score": 91,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260710-illustration",
@@ -333,7 +355,9 @@
       "id": "fstb-20260708-captive",
       "title": "财库局欢迎保监局批准两间新专属自保保险公司。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-07-08T14:00:00+08:00",
       "score": 78,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fstb-20260708-captive",
@@ -357,7 +381,9 @@
       "id": "swissre-202607-wis",
       "title": "Swiss Re sigma报告：2026全球保险成为碎片化世界中的减震器。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-07-08T10:00:00+08:00",
       "score": 92,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=swissre-202607-wis",
@@ -381,7 +407,9 @@
       "id": "rga-2026-hk-market",
       "title": "RGA分析：2026年香港保险市场机遇与挑战——跨境需求+监管转型+AI。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-07-01T10:00:00+08:00",
       "score": 86,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rga-2026-hk-market",
@@ -391,7 +419,9 @@
       "id": "ia-crossref-20260701",
       "title": "银行与保险跨行业背景查核安排：2026年7月1日起分阶段实施。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-07-01T09:00:00+08:00",
       "score": 93,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-crossref-20260701",
@@ -495,7 +525,9 @@
       "id": "taiping-202606-rating",
       "title": "中国太平再保险连续17年获惠誉A评级。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-06-26T10:00:00+08:00",
       "score": 74,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=taiping-202606-rating",
@@ -519,7 +551,9 @@
       "id": "empf-2026-fee-reduction",
       "title": "积金易平台降费：236只基金行政费降至0.37% 惠及千万账户。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-06-25T10:00:00+08:00",
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=empf-2026-fee-reduction",
@@ -529,7 +563,9 @@
       "id": "manulife-20260625-board",
       "title": "宏利委任吴立贤为独立非执行董事。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-06-25T10:00:00+08:00",
       "score": 72,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-20260625-board",
@@ -565,7 +601,9 @@
       "id": "fwd-2026-brand-victoria",
       "title": "富卫香港2026品牌升级：维港双岸招牌同时亮灯。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-06-20T10:00:00+08:00",
       "score": 73,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fwd-2026-brand-victoria",
@@ -575,7 +613,9 @@
       "id": "ia-ai-cohort-202606",
       "title": "保监局AI促进计划再扩容：新增宏利等三家保司。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-06-18T12:00:00+08:00",
       "score": 81,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-ai-cohort-202606",
@@ -652,7 +692,9 @@
       "id": "axa-2026-bloomberg-awards",
       "title": "AXA安盛于《彭博商业周刊》「金融机构2026」获七项殊荣。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-06-15T10:00:00+08:00",
       "score": 74,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=axa-2026-bloomberg-awards",
@@ -689,7 +731,9 @@
       "id": "hk-20260612-fo-tax",
       "title": "港府2026年优化家族办公室税制：扩大免税范围至数字资产。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-06-12T10:00:00+08:00",
       "score": 87,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hk-20260612-fo-tax",
@@ -726,7 +770,9 @@
       "id": "ctflife-2026-diamond-iul",
       "title": "周大福人寿推出全港首只法国巴黎银行指数挂钩IUL计划「钻裕」",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-06-10T10:00:00+08:00",
       "score": 84,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ctflife-2026-diamond-iul",
@@ -764,7 +810,9 @@
       "id": "aia-20260608-prosperlife",
       "title": "友邦推出「财富盈活储蓄保险计划」瞄准高净值家庭传承。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-06-08T10:00:00+08:00",
       "score": 82,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-20260608-prosperlife",
@@ -816,7 +864,9 @@
       "id": "ia-20260605-hkma-commission",
       "title": "金管局就银行保险中介佣金分摊发出通函。",
       "sourceTier": "pro",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-06-05T10:00:00+08:00",
       "score": 86,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260605-hkma-commission",
@@ -867,7 +917,9 @@
       "id": "deloitte-2026-insurance-outlook",
       "title": "德勤2026全球保险展望：AI落地加速 香港保监局推AI促进计划。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-06-01T10:00:00+08:00",
       "score": 84,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=deloitte-2026-insurance-outlook",
@@ -877,7 +929,9 @@
       "id": "chubb-20260601-mylegacy",
       "title": "Chubb Life香港增强旗舰产品MyLegacy V——缩短回本期。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-06-01T10:00:00+08:00",
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=chubb-20260601-mylegacy",
@@ -900,7 +954,9 @@
       "id": "allianz-20260528-global-report",
       "title": "安联全球保险报告2026：全球保费+7.1%至6.9万亿欧元 亚洲领跑。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-05-28T10:00:00+08:00",
       "score": 94,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=allianz-20260528-global-report",
@@ -910,7 +966,9 @@
       "id": "ia-20260520-gl34-corp",
       "title": "立法会审议《保险业(公众披露)规则》附属法例。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-05-20T16:00:00+08:00",
       "score": 83,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260520-gl34-corp",
@@ -920,7 +978,9 @@
       "id": "fwd-2026-q1-update",
       "title": "富卫集团2026年Q1新业务强劲：年化新保费+4%至7.2亿美元。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-05-20T10:00:00+08:00",
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fwd-2026-q1-update",
@@ -930,7 +990,9 @@
       "id": "ia-20260519-disclosure-consult",
       "title": "保监局就保险人公开披露规则咨询市场。",
       "sourceTier": "official",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-05-19T15:00:00+08:00",
       "score": 85,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260519-disclosure-consult",
@@ -940,7 +1002,9 @@
       "id": "sunlife-2026-10life-awards",
       "title": "Sun Life永明连续4年获10Life 5星保险大奖。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-05-15T10:00:00+08:00",
       "score": 77,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sunlife-2026-10life-awards",
@@ -950,7 +1014,9 @@
       "id": "ia-20260513-cross-ref",
       "title": "银行与保险跨行业背景查核安排通函发布。",
       "sourceTier": "official",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-05-13T09:00:00+08:00",
       "score": 90,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260513-cross-ref",
@@ -974,7 +1040,9 @@
       "id": "ia-20260508-rbc-conclusion",
       "title": "保监局公布RBC制度优化咨询结论：鼓励基建投资、巩固风险管理中心。",
       "sourceTier": "official",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-05-08T12:00:00+08:00",
       "score": 96,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260508-rbc-conclusion",
@@ -998,7 +1066,9 @@
       "id": "cpic-20260504-gen3",
       "title": "太保寿险香港推出「世代悦享3」储蓄保险计划——35周年献礼。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-05-04T10:00:00+08:00",
       "score": 84,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=cpic-20260504-gen3",
@@ -1008,7 +1078,9 @@
       "id": "aia-20260430-q1-vonb",
       "title": "AIA 2026年Q1新业务价值增长13% 香港表现强劲。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-04-30T09:00:00+08:00",
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-20260430-q1-vonb",
@@ -1018,7 +1090,9 @@
       "id": "prudential-20260429-self-future",
       "title": "保诚推出「自主未来」保险计划II 产品发布会。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-04-29T14:00:00+08:00",
       "score": 78,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=prudential-20260429-self-future",
@@ -1028,7 +1102,9 @@
       "id": "boclife-20260427-retirement",
       "title": "中银人寿联乘中银香港推出「退优·新活」综合养老方案。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-04-27T10:00:00+08:00",
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=boclife-20260427-retirement",
@@ -1038,7 +1114,9 @@
       "id": "ia-2025-full-year",
       "title": "保监局公布2025全年业绩：个人新单保费3309亿港元 +50.6%再创新高。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-04-25T10:00:00+08:00",
       "score": 92,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2025-full-year",
@@ -1062,7 +1140,9 @@
       "id": "aia-20260424-top-insurer",
       "title": "AIA连续获评为香港首选保险公司。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-04-24T10:00:00+08:00",
       "score": 79,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-20260424-top-insurer",
@@ -1072,7 +1152,9 @@
       "id": "ctflife-20260422-artisan-leap",
       "title": "周大福人寿推出「匠心·飞越」储蓄保险计划。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-04-22T14:00:00+08:00",
       "score": 79,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ctflife-20260422-artisan-leap",
@@ -1096,7 +1178,9 @@
       "id": "manulife-20260420-annuity-accident",
       "title": "宏利推出全新年金及意外保险：宏瑞终身即期年金+相伴无忧个人意外。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-04-20T10:00:00+08:00",
       "score": 83,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-20260420-annuity-accident",
@@ -1120,7 +1204,9 @@
       "id": "ia-202604-fsi-survey",
       "title": "金发局发表报告：巩固香港作为全球重要保险枢纽的地位。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-04-15T10:00:00+08:00",
       "score": 78,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-202604-fsi-survey",
@@ -1130,7 +1216,9 @@
       "id": "chinlife-2026-hk-digital",
       "title": "中国人寿海外2026年加速数字化转型：线上理赔+智能客服。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-04-10T10:00:00+08:00",
       "score": 76,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=chinlife-2026-hk-digital",
@@ -1140,7 +1228,9 @@
       "id": "legco-20260410-fa-disclosure",
       "title": "立法会财经事务委员会讨论保险公开披露立法建议。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-04-10T10:00:00+08:00",
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=legco-20260410-fa-disclosure",
@@ -1164,7 +1254,9 @@
       "id": "ia-20260331-gn16-revised",
       "title": "保监局修订GN16指引：2026年3月31日正式生效。",
       "sourceTier": "official",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-03-31T09:00:00+08:00",
       "score": 94,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260331-gn16-revised",
@@ -1174,7 +1266,9 @@
       "id": "gn16-revised-20260331",
       "title": "修订版GN16指引：2026年3月31日起正式生效。",
       "sourceTier": "official",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-03-31T09:00:00+08:00",
       "score": 92,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=gn16-revised-20260331",
@@ -1198,7 +1292,9 @@
       "id": "ia-2025-complaints",
       "title": "保监局2025年投诉统计：全年接获1173宗 同比+19.9%。",
       "sourceTier": "official",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-03-27T10:00:00+08:00",
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2025-complaints",
@@ -1249,7 +1345,9 @@
       "id": "chubb-2026-dementia",
       "title": "Chubb Life香港推出创新「Side by Side」认知障碍症保险计划。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-03-24T10:00:00+08:00",
       "score": 81,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=chubb-2026-dementia",
@@ -1259,7 +1357,9 @@
       "id": "aia-2025-annual-results",
       "title": "AIA 2025年全年业绩创新高：香港VONB+28% 每股股息+10%。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-03-19T09:00:00+08:00",
       "score": 88,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-2025-annual-results",
@@ -1269,7 +1369,9 @@
       "id": "hsbc-life-2026-hnw-pitchbook",
       "title": "汇丰保险发布2026高净值财富传承规划报告。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-03-17T10:00:00+08:00",
       "score": 82,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hsbc-life-2026-hnw-pitchbook",
@@ -1279,7 +1381,9 @@
       "id": "prudential-20260317-youth",
       "title": "保诚推出「动感守护宝」专为18-30岁年轻一代设计。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-03-17T10:00:00+08:00",
       "score": 76,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=prudential-20260317-youth",
@@ -1289,7 +1393,9 @@
       "id": "sunlife-202603-sp-upgrade",
       "title": "标普上调Sun Life永明香港评级至AA 展望稳定。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-03-16T10:00:00+08:00",
       "score": 86,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sunlife-202603-sp-upgrade",
@@ -1299,7 +1405,9 @@
       "id": "hkma-ia-2026-genai-sandbox",
       "title": "香港金融监管联合推出GenAI Sandbox++：用AI监管AI风险。",
       "sourceTier": "pro",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-03-15T10:00:00+08:00",
       "score": 87,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-ia-2026-genai-sandbox",
@@ -1309,7 +1417,9 @@
       "id": "manulife-202603-new-products",
       "title": "宏利香港推出两款新分红人寿保险储蓄计划。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-03-15T10:00:00+08:00",
       "score": 76,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-202603-new-products",
@@ -1319,7 +1429,9 @@
       "id": "ia-20260310-rbc-consult-close",
       "title": "保监局RBC制度修订咨询截止：3月10日公众意见提交结束。",
       "sourceTier": "official",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-03-10T18:00:00+08:00",
       "score": 84,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260310-rbc-consult-close",
@@ -1370,7 +1482,9 @@
       "id": "sunlife-2025-ape-118",
       "title": "Sun Life永明2025年APE突破118亿港元创新高。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-02-15T10:00:00+08:00",
       "score": 83,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sunlife-2025-ape-118",
@@ -1407,7 +1521,9 @@
       "id": "ia-20260211-rbc-consult-launch",
       "title": "保监局就RBC资本规则修订启动公众咨询。",
       "sourceTier": "official",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-02-11T10:00:00+08:00",
       "score": 88,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260211-rbc-consult-launch",
@@ -1417,7 +1533,9 @@
       "id": "fstb-20260210-fo-3384",
       "title": "香港家族办公室达3384间 两年增25% 过半财富超5100万美元。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-02-10T10:00:00+08:00",
       "score": 92,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fstb-20260210-fo-3384",
@@ -1427,7 +1545,9 @@
       "id": "hk-2026-newcies-3000",
       "title": "新资本投资者入境计划收逾3000宗申请 预计带来900亿投资。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-02-10T10:00:00+08:00",
       "score": 84,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hk-2026-newcies-3000",
@@ -1437,7 +1557,9 @@
       "id": "dlapiper-202602-gl16",
       "title": "DLA Piper法律解读：保监局修订GL16——产品治理、销售与薪酬全面升级。",
       "sourceTier": "pro",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-02-10T10:00:00+08:00",
       "score": 84,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=dlapiper-202602-gl16",
@@ -1462,7 +1584,9 @@
       "id": "circ-20260201-crossborder",
       "title": "金融监管总局回复跨境保险通提案：与现行《保险法》冲突。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-02-01T14:00:00+08:00",
       "score": 82,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=circ-20260201-crossborder",
@@ -1486,7 +1610,9 @@
       "id": "axa-20260126-redomicile",
       "title": "AXA安盛成功由百慕达迁册至香港。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-01-26T09:00:00+08:00",
       "score": 86,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=axa-20260126-redomicile",
@@ -1510,7 +1636,9 @@
       "id": "ia-20260123-q3stats",
       "title": "保监局公布2025年前三季临时统计：新造保费2644亿港元同比+55.9%。",
       "sourceTier": "official",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-01-23T10:00:00+08:00",
       "score": 85,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260123-q3stats",
@@ -1520,7 +1648,9 @@
       "id": "evident-2026-insurance-ai",
       "title": "Evident报告：68%保险AI部署已转向生成式/代理式AI。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-01-15T10:00:00+08:00",
       "score": 78,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=evident-2026-insurance-ai",
@@ -1544,7 +1674,9 @@
       "id": "ebact-2025-hk-market",
       "title": "香港一般保险市场分析：2025年9亿→2029年09亿 CAGR 5.1%。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-01-10T10:00:00+08:00",
       "score": 76,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ebact-2025-hk-market",
@@ -1554,7 +1686,9 @@
       "id": "manulife-20260105-two-plans",
       "title": "宏利推出「宏挚家传承」及「财挚宏耀」两款分红寿险储蓄计划。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2026-01-05T10:00:00+08:00",
       "score": 85,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-20260105-two-plans",
@@ -1564,7 +1698,9 @@
       "id": "zhihu-2025-top10",
       "title": "知乎盘点2025香港保险十大事件：演示上限/佣金分摊/IUL/跨境打擊。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-12-30T10:00:00+08:00",
       "score": 75,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=zhihu-2025-top10",
@@ -1574,7 +1710,9 @@
       "id": "jpmorgan-2026-outlook",
       "title": "摩根大通2026展望：看好全球权益+双位数增长 黄金目标价$5000。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-12-10T10:00:00+08:00",
       "score": 83,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=jpmorgan-2026-outlook",
@@ -1584,7 +1722,9 @@
       "id": "ia-2024-annual-stats",
       "title": "保监局发布2024年香港保险业年报：毛保费6352亿 全球渗透率第一。",
       "sourceTier": "official",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-12-05T10:00:00+08:00",
       "score": 90,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2024-annual-stats",
@@ -1594,7 +1734,9 @@
       "id": "aia-20251121-aisan",
       "title": "AIA推出全新「爱伴航」危疾保障系列产品。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-11-21T10:00:00+08:00",
       "score": 78,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-20251121-aisan",
@@ -1604,7 +1746,9 @@
       "id": "goldman-2026-macro-outlook",
       "title": "高盛2026宏观展望：全球GDP 2.8% 牛市扩散 科技主导。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-11-20T10:00:00+08:00",
       "score": 85,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=goldman-2026-macro-outlook",
@@ -1628,7 +1772,9 @@
       "id": "sfc-2025-wmc-insurance",
       "title": "证监会探讨保险产品纳入跨境理财通南向通。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-11-13T10:00:00+08:00",
       "score": 83,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sfc-2025-wmc-insurance",
@@ -1652,7 +1798,9 @@
       "id": "ia-20251024-h1stats",
       "title": "保监局公布2025年上半年临时统计：毛保费4234亿，新造保费1737亿。",
       "sourceTier": "official",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-10-24T10:00:00+08:00",
       "score": 84,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20251024-h1stats",
@@ -1676,7 +1824,9 @@
       "id": "ia-202508-iul-sandbox",
       "title": "保监局批准IUL产品沙盒申请：视频会议销售纳入监管框架。",
       "sourceTier": "official",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-09-19T14:00:00+08:00",
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-202508-iul-sandbox",
@@ -1700,7 +1850,9 @@
       "id": "ia-20250917-product-naming",
       "title": "保监局与金管局联合发布保险产品命名要求通函。",
       "sourceTier": "official",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-09-17T14:00:00+08:00",
       "score": 82,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20250917-product-naming",
@@ -1710,7 +1862,9 @@
       "id": "manulife-20250902-hospitals",
       "title": "宏利医疗网络扩展至内地38000+间医院。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-09-02T10:00:00+08:00",
       "score": 76,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-20250902-hospitals",
@@ -1720,7 +1874,9 @@
       "id": "ia-20250901-referral50",
       "title": "保监局就转介费监管期望发出通函：50%基准 10月1日起遵从。",
       "sourceTier": "official",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-09-01T09:00:00+08:00",
       "score": 95,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20250901-referral50",
@@ -1744,7 +1900,9 @@
       "id": "ia-2024-25-annual-report",
       "title": "保监局2024-25年报：监管157家保司+11.8万中介 罚款2300万。",
       "sourceTier": "official",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-08-22T10:00:00+08:00",
       "score": 83,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2024-25-annual-report",
@@ -1754,7 +1912,9 @@
       "id": "dlapiper-202508-commission",
       "title": "DLA Piper解读：保监局佣金分摊实务说明——2026年1月1日起实施。",
       "sourceTier": "pro",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-08-15T10:00:00+08:00",
       "score": 82,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=dlapiper-202508-commission",
@@ -1791,7 +1951,9 @@
       "id": "ia-202507-commission-spread",
       "title": "保监局发布分红保单佣金分摊指引：2026年1月1日起实施。",
       "sourceTier": "official",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-07-15T14:00:00+08:00",
       "score": 93,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-202507-commission-spread",
@@ -1815,7 +1977,9 @@
       "id": "aia-20250708-global-prosper",
       "title": "AIA推出「环宇盈活储蓄保险计划」",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-07-08T10:00:00+08:00",
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-20250708-global-prosper",
@@ -1825,7 +1989,9 @@
       "id": "ia-20250701-illustration-cap",
       "title": "分红保单演示利率上限正式生效：非港元6.5%/港元6.0%。",
       "sourceTier": "official",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-07-01T09:00:00+08:00",
       "score": 97,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20250701-illustration-cap",
@@ -1835,7 +2001,9 @@
       "id": "sunlife-2025-enhanced-savings",
       "title": "Sun Life永明推出升级版储蓄保险计划系列（永越多元货币II）。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-06-15T10:00:00+08:00",
       "score": 77,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sunlife-2025-enhanced-savings",
@@ -1845,7 +2013,9 @@
       "id": "ia-2025q1-stats-934",
       "title": "2025年Q1香港长期业务新单保费934亿同比+43.1%创新高。",
       "sourceTier": "official",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-06-15T10:00:00+08:00",
       "score": 86,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2025q1-stats-934",
@@ -1855,7 +2025,9 @@
       "id": "fstb-2024-density",
       "title": "香港保险密度0043全球第二 渗透率18.2%全球第一。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-06-01T10:00:00+08:00",
       "score": 86,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fstb-2024-density",
@@ -1865,7 +2037,9 @@
       "id": "manulife-20250428-ci",
       "title": "宏利推出两款全新危疾计划：宏健守护+宏伴护航危疾入息保障。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-04-28T10:00:00+08:00",
       "score": 82,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-20250428-ci",
@@ -1875,7 +2049,9 @@
       "id": "ia-2025-d-sii-designation",
       "title": "保监局指定AIA及保诚亚洲为具系统重要性保险机构(D-SII)。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-04-15T10:00:00+08:00",
       "score": 83,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2025-d-sii-designation",
@@ -1885,7 +2061,9 @@
       "id": "axa-20250409-gba-med",
       "title": "AXA安盛全面升级大湾区跨境医疗专属服务网络。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-04-09T10:00:00+08:00",
       "score": 81,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=axa-20250409-gba-med",
@@ -1908,7 +2086,9 @@
       "id": "fsdc-2025-insurance-hub",
       "title": "金发局报告：巩固香港全球保险枢纽 2024年经济增加值1084亿。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-03-27T10:00:00+08:00",
       "score": 77,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fsdc-2025-insurance-hub",
@@ -1918,7 +2098,9 @@
       "id": "ia-2025-insurtech-initiatives",
       "title": "保监局2025年InsurTech蓝图：AI对保险业价值9.5-15.4万亿美元。",
       "sourceTier": "official",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-03-26T10:00:00+08:00",
       "score": 85,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2025-insurtech-initiatives",
@@ -1928,7 +2110,9 @@
       "id": "aia-2024-annual",
       "title": "AIA 2024年全年业绩：香港VONB+23% 内地客+22% 创纪录。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-03-14T09:00:00+08:00",
       "score": 90,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-2024-annual",
@@ -1938,7 +2122,9 @@
       "id": "ia-20250313-iul-circular",
       "title": "保监局与金管局联合发布IUL产品监管通函。",
       "sourceTier": "official",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-03-13T09:00:00+08:00",
       "score": 90,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20250313-iul-circular",
@@ -1963,7 +2149,9 @@
       "id": "nfra-202502-hkmo-insurance",
       "title": "金融监管总局放宽港澳金融机构入股保险公司门槛。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-02-28T10:00:00+08:00",
       "score": 78,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-202502-hkmo-insurance",
@@ -1973,7 +2161,9 @@
       "id": "ia-20250228-illustration-note",
       "title": "保监局就分红保单演示利率上限发出实务说明：港元6%/非港元6.5%。",
       "sourceTier": "official",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-02-28T09:00:00+08:00",
       "score": 96,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20250228-illustration-note",
@@ -2011,7 +2201,9 @@
       "id": "linkedin-2024-trends",
       "title": "业界回顾2024香港保险关键趋势：RBC生效/GN16修订/跨境复苏。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-01-15T10:00:00+08:00",
       "score": 73,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=linkedin-2024-trends",
@@ -2021,7 +2213,9 @@
       "id": "axa-20250110-shengli",
       "title": "AXA安盛推出全新「盛利储蓄计划」",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2025-01-10T10:00:00+08:00",
       "score": 79,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=axa-20250110-shengli",
@@ -2109,7 +2303,9 @@
       "id": "ia-20240923-refcheck",
       "title": "保监局参考查核计划生效：中介人背景审查启动。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2024-09-23T09:00:00+08:00",
       "score": 82,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20240923-refcheck",
@@ -2119,7 +2315,9 @@
       "id": "ia-2024h1-stats",
       "title": "2024上半年香港保险毛保费3109亿同比+5.1% 内地访客297亿。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2024-09-15T10:00:00+08:00",
       "score": 84,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2024h1-stats",
@@ -2129,7 +2327,9 @@
       "id": "sunlife-2024-fwd-pension",
       "title": "Sun Life永明收购FWD香港养老金业务 强积金+46亿港元。",
       "sourceTier": "insurer",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2024-09-10T10:00:00+08:00",
       "score": 82,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sunlife-2024-fwd-pension",
@@ -2152,7 +2352,9 @@
       "id": "ia-2024-crossborder",
       "title": "保监局与廉政公署联合打击跨境无牌销售保单。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2024-08-20T14:00:00+08:00",
       "score": 87,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2024-crossborder",
@@ -2162,7 +2364,9 @@
       "id": "nfra-2024-crossborder-no",
       "title": "金融监管总局：现阶段跨境保险通试点时机尚不成熟。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2024-08-01T10:00:00+08:00",
       "score": 88,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-2024-crossborder-no",
@@ -2185,7 +2389,9 @@
       "id": "ctflife-20240723-rebrand",
       "title": "FTLife正式更名为周大福人寿(CTF Life)。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2024-07-23T10:00:00+08:00",
       "score": 87,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ctflife-20240723-rebrand",
@@ -2195,7 +2401,9 @@
       "id": "ia-20240701-rbc-live",
       "title": "香港风险为本资本制度(RBC)正式生效。",
       "sourceTier": "media",
-      "themes": [],
+      "themes": [
+        "market"
+      ],
       "publishedAt": "2024-07-01T09:00:00+08:00",
       "score": 98,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20240701-rbc-live",
