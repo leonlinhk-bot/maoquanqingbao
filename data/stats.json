@@ -1,134 +1,437 @@
 {
   "generatedAt": "2026-07-30T00:00:00+08:00",
   "marketPulse": {
-    "title": {"sc": "市场脉搏", "tc": "市場脈搏"},
+    "title": {
+      "sc": "市场脉搏",
+      "tc": "市場脈搏"
+    },
     "items": [
       {
         "key": "annual-nbp",
-        "label": {"sc": "2025 年度新造保费", "tc": "2025 年度新造保費"},
+        "label": {
+          "sc": "2025 年度新造保费",
+          "tc": "2025 年度新造保費"
+        },
         "value": "3,309",
-        "unit": {"sc": "亿港元", "tc": "億港元"},
+        "unit": {
+          "sc": "亿港元",
+          "tc": "億港元"
+        },
         "trend": "up",
         "change": "+50.6%",
-        "changeLabel": {"sc": "同比增幅", "tc": "同比增幅"},
-        "note": {"sc": "长期业务新造保费（不含退休计划），创历史新高", "tc": "長期業務新造保費（不含退休計劃），創歷史新高"},
+        "changeLabel": {
+          "sc": "同比增幅",
+          "tc": "同比增幅"
+        },
+        "note": {
+          "sc": "长期业务新造保费（不含退休计划），创历史新高",
+          "tc": "長期業務新造保費（不含退休計劃），創歷史新高"
+        },
         "source": "IA Annual Statistics 2025 · 2025年12月5日发布",
         "sourceUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20251205.html",
-        "asOf": {"sc": "截至 2025 年 12 月", "tc": "截至 2025 年 12 月"}
+        "asOf": {
+          "sc": "截至 2025 年 12 月",
+          "tc": "截至 2025 年 12 月"
+        }
       },
       {
         "key": "q1-nbp",
-        "label": {"sc": "2026 Q1 新造保费", "tc": "2026 Q1 新造保費"},
+        "label": {
+          "sc": "2026 Q1 新造保费",
+          "tc": "2026 Q1 新造保費"
+        },
         "value": "1,411",
-        "unit": {"sc": "亿港元", "tc": "億港元"},
+        "unit": {
+          "sc": "亿港元",
+          "tc": "億港元"
+        },
         "trend": "up",
         "change": "+51.1%",
-        "changeLabel": {"sc": "同比增幅", "tc": "同比增幅"},
-        "note": {"sc": "Q1 增速未因佣金改革放缓，分红业务领涨 53.7%", "tc": "Q1 增速未因佣金改革放緩，分紅業務領漲 53.7%"},
+        "changeLabel": {
+          "sc": "同比增幅",
+          "tc": "同比增幅"
+        },
+        "note": {
+          "sc": "Q1 增速未因佣金改革放缓，分红业务领涨 53.7%",
+          "tc": "Q1 增速未因佣金改革放緩，分紅業務領漲 53.7%"
+        },
         "source": "IA Q1 2026 Provisional · InsuranceAsia",
         "sourceUrl": "https://insuranceasia.com/insurance/in-focus/hong-kong-insurance-premiums-jump-323-38b-in-q1-2026",
-        "asOf": {"sc": "截至 2026 年 Q1", "tc": "截至 2026 年 Q1"}
+        "asOf": {
+          "sc": "截至 2026 年 Q1",
+          "tc": "截至 2026 年 Q1"
+        }
       },
       {
         "key": "mcv-share",
-        "label": {"sc": "内地访客保费占比", "tc": "內地訪客保費佔比"},
+        "label": {
+          "sc": "内地访客保费占比",
+          "tc": "內地訪客保費佔比"
+        },
         "value": "28.6",
-        "unit": {"sc": "%", "tc": "%"},
+        "unit": {
+          "sc": "%",
+          "tc": "%"
+        },
         "trend": "up",
         "change": "+6.5%",
-        "changeLabel": {"sc": "同比增幅", "tc": "同比增幅"},
-        "note": {"sc": "占个人业务总新造的 28.6%，628 亿港元", "tc": "佔個人業務總新造的 28.6%，628 億港元"},
+        "changeLabel": {
+          "sc": "同比增幅",
+          "tc": "同比增幅"
+        },
+        "note": {
+          "sc": "占个人业务总新造的 28.6%，628 亿港元",
+          "tc": "佔個人業務總新造的 28.6%，628 億港元"
+        },
         "source": "IA Annual Statistics 2024 · 2025年4月25日发布",
         "sourceUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20250425.html",
-        "asOf": {"sc": "截至 2024 年 12 月", "tc": "截至 2024 年 12 月"}
+        "asOf": {
+          "sc": "截至 2024 年 12 月",
+          "tc": "截至 2024 年 12 月"
+        }
       }
     ]
   },
   "familyOffice": {
-    "title": {"sc": "家办与跨境财富", "tc": "家辦與跨境財富"},
+    "title": {
+      "sc": "家办与跨境财富",
+      "tc": "家辦與跨境財富"
+    },
     "items": [
       {
         "key": "fo-count",
-        "label": {"sc": "香港家办数量", "tc": "香港家辦數量"},
+        "label": {
+          "sc": "香港家办数量",
+          "tc": "香港家辦數量"
+        },
         "value": "3,384",
-        "unit": {"sc": "间", "tc": "間"},
+        "unit": {
+          "sc": "间",
+          "tc": "間"
+        },
         "trend": "up",
         "change": "+25%",
-        "changeLabel": {"sc": "两年增幅", "tc": "兩年增幅"},
-        "note": {"sc": "过半财富超 5,100 万美元，年底有望突破 3,000 间", "tc": "過半財富超 5,100 萬美元，年底有望突破 3,000 間"},
+        "changeLabel": {
+          "sc": "两年增幅",
+          "tc": "兩年增幅"
+        },
+        "note": {
+          "sc": "过半财富超 5,100 万美元，年底有望突破 3,000 间",
+          "tc": "過半財富超 5,100 萬美元，年底有望突破 3,000 間"
+        },
         "source": "投资推广署 · FamilyOfficeHK",
         "sourceUrl": "https://www.investhk.gov.hk/zh-hk/news/two-year-milestone-new-capital-investment-entrant-scheme-attracts-nearly-3-200-applications-with-expected-investment-of-about-hk-95-billion-reflecting-global-confidence-in-hong-kong/",
-        "asOf": {"sc": "截至 2026 年 7 月", "tc": "截至 2026 年 7 月"}
+        "asOf": {
+          "sc": "截至 2026 年 7 月",
+          "tc": "截至 2026 年 7 月"
+        }
       },
       {
         "key": "cross-border-wealth",
-        "label": {"sc": "跨境财富管理规模", "tc": "跨境財富管理規模"},
+        "label": {
+          "sc": "跨境财富管理规模",
+          "tc": "跨境財富管理規模"
+        },
         "value": "2.9",
-        "unit": {"sc": "万亿美元", "tc": "萬億美元"},
+        "unit": {
+          "sc": "万亿美元",
+          "tc": "萬億美元"
+        },
         "trend": "up",
         "change": "全球第一",
-        "changeLabel": {"sc": "全球排名", "tc": "全球排名"},
-        "note": {"sc": "2026 年 BCG 报告：港超越瑞士成全球最大跨境财富中心", "tc": "2026 年 BCG 報告：港超越瑞士成全球最大跨境財富中心"},
+        "changeLabel": {
+          "sc": "全球排名",
+          "tc": "全球排名"
+        },
+        "note": {
+          "sc": "2026 年 BCG 报告：港超越瑞士成全球最大跨境财富中心",
+          "tc": "2026 年 BCG 報告：港超越瑞士成全球最大跨境財富中心"
+        },
         "source": "BCG Global Wealth Report 2026 · 2026年5月27日",
         "sourceUrl": "https://www.bcg.com/press/27may2026-hong-kong-surpasses-switzerland-largest-cross-border-wealth-hub",
-        "asOf": {"sc": "截至 2025 年 12 月", "tc": "截至 2025 年 12 月"}
+        "asOf": {
+          "sc": "截至 2025 年 12 月",
+          "tc": "截至 2025 年 12 月"
+        }
       },
       {
         "key": "cies-investment",
-        "label": {"sc": "新 CIES 吸资规模", "tc": "新 CIES 吸資規模"},
+        "label": {
+          "sc": "新 CIES 吸资规模",
+          "tc": "新 CIES 吸資規模"
+        },
         "value": "950",
-        "unit": {"sc": "亿港元", "tc": "億港元"},
+        "unit": {
+          "sc": "亿港元",
+          "tc": "億港元"
+        },
         "trend": "up",
         "change": "3,166 宗申请",
-        "changeLabel": {"sc": "累计申请", "tc": "累計申請"},
-        "note": {"sc": "2024 年 3 月启动，9.9% 资金投向投连险", "tc": "2024 年 3 月啟動，9.9% 資金投向投連險"},
+        "changeLabel": {
+          "sc": "累计申请",
+          "tc": "累計申請"
+        },
+        "note": {
+          "sc": "2024 年 3 月启动，9.9% 资金投向投连险",
+          "tc": "2024 年 3 月啟動，9.9% 資金投向投連險"
+        },
         "source": "投资推广署 · 2026年3月公告",
         "sourceUrl": "https://www.investhk.gov.hk/zh-hk/news/two-year-milestone-new-capital-investment-entrant-scheme-attracts-nearly-3-200-applications-with-expected-investment-of-about-hk-95-billion-reflecting-global-confidence-in-hong-kong/",
-        "asOf": {"sc": "截至 2026 年 3 月", "tc": "截至 2026 年 3 月"}
+        "asOf": {
+          "sc": "截至 2026 年 3 月",
+          "tc": "截至 2026 年 3 月"
+        }
       }
     ]
   },
   "channelLandscape": {
-    "title": {"sc": "渠道格局", "tc": "渠道格局"},
+    "title": {
+      "sc": "渠道格局",
+      "tc": "渠道格局"
+    },
     "items": [
       {
         "key": "broker",
-        "label": {"sc": "经纪渠道", "tc": "經紀渠道"},
+        "label": {
+          "sc": "经纪渠道",
+          "tc": "經紀渠道"
+        },
         "value": "35.5",
-        "unit": {"sc": "%", "tc": "%"},
+        "unit": {
+          "sc": "%",
+          "tc": "%"
+        },
         "trend": "up",
         "change": "人力 +37.1%",
-        "changeLabel": {"sc": "3年净增", "tc": "3年淨增"},
-        "note": {"sc": "2022 年首次超越代理渠道，2025 年与银保基本持平", "tc": "2022 年首次超越代理渠道，2025 年與銀保基本持平"},
+        "changeLabel": {
+          "sc": "3年净增",
+          "tc": "3年淨增"
+        },
+        "note": {
+          "sc": "2022 年首次超越代理渠道，2025 年与银保基本持平",
+          "tc": "2022 年首次超越代理渠道，2025 年與銀保基本持平"
+        },
         "source": "IA 年报 + Intermediary Licence Statistics",
         "sourceUrl": "https://www.ia.org.hk/en/infocenter/statistics/statistics.html",
-        "asOf": {"sc": "截至 2025 年", "tc": "截至 2025 年"}
+        "asOf": {
+          "sc": "截至 2025 年",
+          "tc": "截至 2025 年"
+        }
       },
       {
         "key": "agent",
-        "label": {"sc": "代理渠道", "tc": "代理渠道"},
+        "label": {
+          "sc": "代理渠道",
+          "tc": "代理渠道"
+        },
         "value": "23.5",
-        "unit": {"sc": "%", "tc": "%"},
+        "unit": {
+          "sc": "%",
+          "tc": "%"
+        },
         "trend": "down",
         "change": "63% 人仅贡献 23% 量",
-        "changeLabel": {"sc": "产能分化", "tc": "產能分化"},
-        "note": {"sc": "人海退场，12% 精锐约占 35% 份额，大分化加速", "tc": "人海退場，12% 精銳約佔 35% 份額，大分化加速"},
+        "changeLabel": {
+          "sc": "产能分化",
+          "tc": "產能分化"
+        },
+        "note": {
+          "sc": "人海退场，12% 精锐约占 35% 份额，大分化加速",
+          "tc": "人海退場，12% 精銳約佔 35% 份額，大分化加速"
+        },
         "source": "IA 年报 / Richard 培训 PPT",
         "sourceUrl": "https://www.ia.org.hk/en/infocenter/statistics/market.html",
-        "asOf": {"sc": "截至 2025 年", "tc": "截至 2025 年"}
+        "asOf": {
+          "sc": "截至 2025 年",
+          "tc": "截至 2025 年"
+        }
       },
       {
         "key": "bancassurance",
-        "label": {"sc": "银保渠道", "tc": "銀保渠道"},
+        "label": {
+          "sc": "银保渠道",
+          "tc": "銀保渠道"
+        },
         "value": "35.5",
-        "unit": {"sc": "%", "tc": "%"},
+        "unit": {
+          "sc": "%",
+          "tc": "%"
+        },
         "trend": "flat",
         "change": "HSBC Life 26.6% NBP",
-        "changeLabel": {"sc": "市占率第一", "tc": "市佔率第一"},
-        "note": {"sc": "银行保险与经纪渠道并驾齐驱，HSBC Life 稳居榜首", "tc": "銀行保險與經紀渠道並駕齊驅，HSBC Life 穩居榜首"},
+        "changeLabel": {
+          "sc": "市占率第一",
+          "tc": "市佔率第一"
+        },
+        "note": {
+          "sc": "银行保险与经纪渠道并驾齐驱，HSBC Life 稳居榜首",
+          "tc": "銀行保險與經紀渠道並駕齊驅，HSBC Life 穩居榜首"
+        },
         "source": "IA 年报 / InsuranceAsia Q1 2026",
         "sourceUrl": "https://insuranceasia.com/insurance/in-focus/hong-kong-insurance-premiums-jump-323-38b-in-q1-2026",
-        "asOf": {"sc": "截至 2025 年", "tc": "截至 2025 年"}
+        "asOf": {
+          "sc": "截至 2025 年",
+          "tc": "截至 2025 年"
+        }
+      }
+    ]
+  },
+  "regulatoryClock": {
+    "title": {
+      "sc": "监管时钟",
+      "tc": "監管時鐘"
+    },
+    "subtitle": {
+      "sc": "佣金三件套 + RBC + 分红透明度 · 2024-2026 关键节点",
+      "tc": "佣金三件套 + RBC + 分紅透明度 · 2024-2026 關鍵節點"
+    },
+    "events": [
+      {
+        "date": "2024-07-01",
+        "title": {
+          "sc": "RBC 风险为本资本制度实施",
+          "tc": "RBC 風險為本資本制度實施"
+        },
+        "impact": 4,
+        "desc": {
+          "sc": "香港保险监管从「一刀切」向「与风险匹配」转型的基座制度",
+          "tc": "香港保險監管從「一刀切」向「與風險匹配」轉型的基座制度"
+        },
+        "itemId": "ia-20240701-rbc-live",
+        "category": {
+          "sc": "制度基础",
+          "tc": "制度基礎"
+        }
+      },
+      {
+        "date": "2024-07-26",
+        "title": {
+          "sc": "泰禾人寿被监管接管",
+          "tc": "泰禾人壽被監管接管"
+        },
+        "impact": 4,
+        "desc": {
+          "sc": "RBC 首战：香港保险史上首次监管直接接管，信号意义压倒一切",
+          "tc": "RBC 首戰：香港保險史上首次監管直接接管，信號意義壓倒一切"
+        },
+        "itemId": "ia-20240726-tahoe-life",
+        "category": {
+          "sc": "监管执法",
+          "tc": "監管執法"
+        }
+      },
+      {
+        "date": "2024-06-14",
+        "title": {
+          "sc": "GL34：分红业务须设独立基金",
+          "tc": "GL34：分紅業務須設獨立基金"
+        },
+        "impact": 3,
+        "desc": {
+          "sc": "分红透明度的底座：要求资产隔离，是后续 GN16+演示上限的前提",
+          "tc": "分紅透明度的底座：要求資產隔離，是後續 GN16+演示上限的前提"
+        },
+        "itemId": "ia-20240614-gl34-segregation",
+        "category": {
+          "sc": "分红透明度",
+          "tc": "分紅透明度"
+        }
+      },
+      {
+        "date": "2025-07-01",
+        "title": {
+          "sc": "分红演示利率上限生效",
+          "tc": "分紅演示利率上限生效"
+        },
+        "impact": 3,
+        "desc": {
+          "sc": "港元 6.0% / 非港元 6.5%，销售演示必须保守化",
+          "tc": "港元 6.0% / 非港元 6.5%，銷售演示必須保守化"
+        },
+        "itemId": "ia-20250701-illustration-cap",
+        "category": {
+          "sc": "分红透明度",
+          "tc": "分紅透明度"
+        }
+      },
+      {
+        "date": "2025-09-01",
+        "title": {
+          "sc": "转介费 ≤ 佣金总额 50%",
+          "tc": "轉介費 ≤ 佣金總額 50%"
+        },
+        "impact": 5,
+        "desc": {
+          "sc": "「佣金三件套」第一件：封堵无牌转介代签模式",
+          "tc": "「佣金三件套」第一件：封堵無牌轉介代簽模式"
+        },
+        "itemId": "ia-20250901-referral-fee",
+        "category": {
+          "sc": "佣金改革",
+          "tc": "佣金改革"
+        }
+      },
+      {
+        "date": "2026-01-01",
+        "title": {
+          "sc": "首年佣金 ≤70% + 递延 ≥5 年",
+          "tc": "首年佣金 ≤70% + 遞延 ≥5 年"
+        },
+        "impact": 5,
+        "desc": {
+          "sc": "「佣金三件套」第二件：中国保司报行合一精神在香港的落实。IFA 收入结构天花板已降",
+          "tc": "「佣金三件套」第二件：中國保司報行合一精神在香港的落實。IFA 收入結構天花板已降"
+        },
+        "itemId": "ia-commission-20260101",
+        "category": {
+          "sc": "佣金改革",
+          "tc": "佣金改革"
+        }
+      },
+      {
+        "date": "2026-03-31",
+        "title": {
+          "sc": "GN16 修订版正式生效",
+          "tc": "GN16 修訂版正式生效"
+        },
+        "impact": 3,
+        "desc": {
+          "sc": "分红实现率披露标准化：从此客户可以用同一把尺子比较不同保司",
+          "tc": "分紅實現率披露標準化：從此客戶可以用同一把尺子比較不同保司"
+        },
+        "itemId": "ia-20260331-gn16-revised",
+        "category": {
+          "sc": "分红透明度",
+          "tc": "分紅透明度"
+        }
+      }
+    ]
+  },
+  "dataSummary": {
+    "title": {
+      "sc": "数据来源与更新",
+      "tc": "數據來源與更新"
+    },
+    "notes": [
+      {
+        "sc": "所有数值均来自公开权威来源，每条卡片底部标注源头 URL",
+        "tc": "所有數值均來自公開權威來源，每條卡片底部標註源頭 URL"
+      },
+      {
+        "sc": "IA 季度统计按 Q1(5月)/H1(8月)/Q3(10月)/全年(12月)发布，看板数据在 IA 新闻稿发布后 48 小时内更新",
+        "tc": "IA 季度統計按 Q1(5月)/H1(8月)/Q3(10月)/全年(12月)發佈，看板數據在 IA 新聞稿發佈後 48 小時內更新"
+      },
+      {
+        "sc": "BCG/Henley 年度报告按各自发布周期更新",
+        "tc": "BCG/Henley 年度報告按各自發佈周期更新"
+      },
+      {
+        "sc": "家办/CIES数据来自 InvestHK 官方公告",
+        "tc": "家辦/CIES數據來自 InvestHK 官方公告"
+      },
+      {
+        "sc": "情报站不做数据生产，只做权威数据的聚合与搬运",
+        "tc": "情報站不做數據生產，只做權威數據的聚合與搬運"
       }
     ]
   }
