@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-07-30T16:05:43Z",
-  "itemCount": 209,
+  "generatedAt": "2026-07-30T17:25:12Z",
+  "itemCount": 214,
   "items": [
     {
       "id": "mof-rmb-bonds-cmu-jul30",
@@ -895,6 +895,19 @@
       "originalUrl": "https://www.prnewswire.com/apac/zh/news-releases/axa2026-302811776.html"
     },
     {
+      "id": "bain-gba-crossborder-2026",
+      "title": "Bain 大湾区报告：跨境保险续保/理赔/查询是核心需求",
+      "sourceTier": "pro",
+      "themes": [
+        "offshore",
+        "compliance"
+      ],
+      "publishedAt": "2026-06-15T10:00:00+08:00",
+      "score": 73,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=bain-gba-crossborder-2026",
+      "originalUrl": "https://www.bain.com/insights/greater-bay-area-personal-financial-services-report-enabling-cross-boundary-lifestyles/"
+    },
+    {
       "id": "ia-20260615-bloomberg-crackdown",
       "title": "Bloomberg：香港保险监管机构誓言打击违规者 — 跨境架构规避新规被点名警告。",
       "sourceTier": "media",
@@ -1132,6 +1145,19 @@
       "originalUrl": "https://www.chubb.com/hk-en/media-center/life-insurance-news-releases.html"
     },
     {
+      "id": "hkma-wealthconnect-2026",
+      "title": "跨境理财通2.0：南向通个人额度300万，产品扩至中高风险",
+      "sourceTier": "official",
+      "themes": [
+        "offshore",
+        "macro"
+      ],
+      "publishedAt": "2026-06-01T10:00:00+08:00",
+      "score": 77,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-wealthconnect-2026",
+      "originalUrl": "https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/wealth-management-connect/"
+    },
+    {
       "id": "ia-20260529-onsite-findings",
       "title": "保司现场操守巡查常见问题与最佳实务（2026-05-29）。",
       "sourceTier": "official",
@@ -1155,6 +1181,19 @@
       "score": 94,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=allianz-20260528-global-report",
       "originalUrl": "https://www.allianz.com/en/economic_research/insights/publications/specials_fmo/260528-global-insurance-report.html"
+    },
+    {
+      "id": "bcg-hk-1-cross-border-wealth-20260527",
+      "title": "BCG 2026报告：香港超越瑞士成为全球最大跨境财富管理中心",
+      "sourceTier": "pro",
+      "themes": [
+        "offshore",
+        "family-office"
+      ],
+      "publishedAt": "2026-05-27T10:00:00+08:00",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=bcg-hk-1-cross-border-wealth-20260527",
+      "originalUrl": "https://www.bcg.com/press/27may2026-hong-kong-surpasses-switzerland-largest-cross-border-wealth-hub"
     },
     {
       "id": "ia-20260520-gl34-corp",
@@ -1548,6 +1587,19 @@
       "originalUrl": "https://hk.linkedin.com/company/chubb-life-hong-kong"
     },
     {
+      "id": "aof-hkimr-family-office-202603",
+      "title": "香港金融学院报告：家族办公室生态 · 慈善 + 影响力投资 + 风险管理",
+      "sourceTier": "pro",
+      "themes": [
+        "family-office",
+        "offshore"
+      ],
+      "publishedAt": "2026-03-20T10:00:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aof-hkimr-family-office-202603",
+      "originalUrl": "https://www.aof.org.hk/docs/default-source/hkimr/applied-research-report/forep.pdf"
+    },
+    {
       "id": "aia-2025-annual-results",
       "title": "AIA 2025年全年业绩创新高：香港VONB+28% 每股股息+10%。",
       "sourceTier": "insurer",
@@ -1643,6 +1695,19 @@
       "score": 82,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260305-genai-sandbox",
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/press_releases/20260305.html"
+    },
+    {
+      "id": "newcies-2026-3200apps-95b",
+      "title": "新CIES 两周年：3,200宗申请，预计吸引投资 950 亿港元",
+      "sourceTier": "official",
+      "themes": [
+        "offshore",
+        "family-office"
+      ],
+      "publishedAt": "2026-03-01T10:00:00+08:00",
+      "score": 82,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=newcies-2026-3200apps-95b",
+      "originalUrl": "https://www.investhk.gov.hk/zh-hk/news/two-year-milestone-new-capital-investment-entrant-scheme-attracts-nearly-3-200-applications-with-expected-investment-of-about-hk-95-billion-reflecting-global-confidence-in-hong-kong/"
     },
     {
       "id": "ia-budget-20260225",
