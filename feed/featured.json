@@ -1,7 +1,7 @@
 {
   "feed": "featured",
   "title": "猫圈儿港险情报站 · 精选",
-  "generatedAt": "2026-07-30T10:16:56Z",
+  "generatedAt": "2026-07-30T16:05:43Z",
   "itemCount": 20,
   "items": [
     {
@@ -237,37 +237,6 @@
         "midback": 0,
         "lead": 0,
         "cross": 0
-      }
-    },
-    {
-      "id": "ia-20260712-speech",
-      "title": "保监局：分红保单三项监管措施落地回顾与「跨行业背景查核」推进。",
-      "summary": "保监局2026年7月12日文章回顾自2025年起分阶段推出的分红保单销售三项措施：2025年7月演示利率上限、2025年10月经纪转介费基准、2026年1月中介佣金分摊。文中并说明与金管局推动的跨行业背景查核安排已于2026年7月生效，覆盖约11万名长期业务中介。",
-      "why": "这是当前港险前线与合规的总纲领：三项费用/演示规则改变激励与话术，背景查核改变跳槽与聘用尽调。",
-      "sourceLabel": "保险业监管局 · 演辞/文章 2026-07-12",
-      "sourceTier": "official",
-      "tags": [
-        "分红",
-        "佣金分摊",
-        "转介",
-        "背景查核"
-      ],
-      "themes": [
-        "reg",
-        "compliance",
-        "channel"
-      ],
-      "publishedAt": "2026-07-12T10:00:00+08:00",
-      "effectiveAt": "2026-07-01",
-      "score": 96,
-      "originalUrl": "https://www.ia.org.hk/tc/infocenter/speeches_articles/20260712.html",
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260712-speech",
-      "verifyStatus": "verified",
-      "rolesImpact": {
-        "front": 3,
-        "midback": 3,
-        "lead": 3,
-        "cross": 2
       }
     },
     {
@@ -592,6 +561,35 @@
         "midback": 2,
         "lead": 3,
         "cross": 2
+      }
+    },
+    {
+      "id": "cpic-20260504-gen3",
+      "title": "太保寿险香港推出「世代悦享3」储蓄保险计划——35周年献礼。",
+      "summary": "中国太保寿险香港2026年5月4日（太保成立35周年）推出「世代悦享3储蓄保险计划」。以国资实控、836%偿付能力充足率、全线100%分红兑现（新品116%超预期）为核心卖点，定位安全稳健。",
+      "why": "中资保险在港最亮眼产品之一，国资背景+高兑现率，也是差异化竞争力。",
+      "sourceLabel": "太保/界面新闻/东方财富",
+      "sourceTier": "media",
+      "tags": [
+        "太保",
+        "世代悦享3",
+        "国资",
+        "2026"
+      ],
+      "themes": [
+        "market"
+      ],
+      "publishedAt": "2026-05-04T10:00:00+08:00",
+      "effectiveAt": "",
+      "score": 84,
+      "originalUrl": "https://www.cpiclifehk.com.hk/sc/company/lastestNews",
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=cpic-20260504-gen3",
+      "verifyStatus": "pending",
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 0,
+        "cross": 0
       }
     }
   ]
