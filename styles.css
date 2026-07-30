@@ -371,3 +371,27 @@ button,input{font:inherit;color:inherit}a{color:inherit;text-decoration:none}.ap
 .dash-rule{border-top:1px solid var(--border-soft);margin:28px 0}
 .dash-summary{font-size:12px;color:var(--text-dim);padding:0 0 0 18px}
 .dash-summary li{margin:6px 0;line-height:1.55}
+
+/* ===== 保司排行 ===== */
+.rank-table-wrap{overflow-x:auto}
+.rank-table{width:100%;border-collapse:collapse;font-size:13px}
+.rank-table th{padding:8px 10px;text-align:left;font-size:11px;color:var(--text-dim);font-weight:600;border-bottom:1px solid var(--border);letter-spacing:.04em}
+.rank-table td{padding:10px;border-bottom:1px solid var(--border-soft);vertical-align:top}
+.rank-num{font-weight:800;color:var(--accent);font-variant-numeric:tabular-nums;width:30px}
+.rank-name{min-width:100px}
+.rank-en{display:block;font-weight:600;font-size:13px}
+.rank-zh{display:block;font-size:11px;color:var(--text-dim)}
+.rank-share{font-weight:600;font-variant-numeric:tabular-nums}
+.rank-rating{font-weight:700;font-size:12px}
+.rating-strong{color:var(--ok)}
+.rank-trend{font-size:14px;font-weight:700;text-align:center}
+.rank-note{font-size:12px;color:var(--text-muted);max-width:260px;line-height:1.45}
+/* 情报密度 */
+.dash-grid-2{grid-template-columns:1fr 2fr}
+.tier-bars{display:flex;flex-direction:column;gap:6px}
+.tier-bar-row{display:flex;align-items:center;gap:8px}
+.tier-label{font-size:11px;color:var(--text-dim);min-width:60px;text-align:right}
+.tier-bar-bg{flex:1;height:8px;background:var(--bg-soft);border-radius:4px;overflow:hidden}
+.tier-bar-fill{height:100%;background:var(--accent);border-radius:4px;transition:width .3s;min-width:2px}
+.tier-count{font-size:11px;color:var(--text-muted);font-variant-numeric:tabular-nums;min-width:28px}
+@media(max-width:640px){.dash-grid-2{grid-template-columns:1fr}}
