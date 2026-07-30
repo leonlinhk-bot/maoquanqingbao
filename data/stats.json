@@ -1,0 +1,135 @@
+{
+  "generatedAt": "2026-07-30T00:00:00+08:00",
+  "marketPulse": {
+    "title": {"sc": "市场脉搏", "tc": "市場脈搏"},
+    "items": [
+      {
+        "key": "annual-nbp",
+        "label": {"sc": "2025 年度新造保费", "tc": "2025 年度新造保費"},
+        "value": "3,309",
+        "unit": {"sc": "亿港元", "tc": "億港元"},
+        "trend": "up",
+        "change": "+50.6%",
+        "changeLabel": {"sc": "同比增幅", "tc": "同比增幅"},
+        "note": {"sc": "长期业务新造保费（不含退休计划），创历史新高", "tc": "長期業務新造保費（不含退休計劃），創歷史新高"},
+        "source": "IA Annual Statistics 2025 · 2025年12月5日发布",
+        "sourceUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20251205.html",
+        "asOf": {"sc": "截至 2025 年 12 月", "tc": "截至 2025 年 12 月"}
+      },
+      {
+        "key": "q1-nbp",
+        "label": {"sc": "2026 Q1 新造保费", "tc": "2026 Q1 新造保費"},
+        "value": "1,411",
+        "unit": {"sc": "亿港元", "tc": "億港元"},
+        "trend": "up",
+        "change": "+51.1%",
+        "changeLabel": {"sc": "同比增幅", "tc": "同比增幅"},
+        "note": {"sc": "Q1 增速未因佣金改革放缓，分红业务领涨 53.7%", "tc": "Q1 增速未因佣金改革放緩，分紅業務領漲 53.7%"},
+        "source": "IA Q1 2026 Provisional · InsuranceAsia",
+        "sourceUrl": "https://insuranceasia.com/insurance/in-focus/hong-kong-insurance-premiums-jump-323-38b-in-q1-2026",
+        "asOf": {"sc": "截至 2026 年 Q1", "tc": "截至 2026 年 Q1"}
+      },
+      {
+        "key": "mcv-share",
+        "label": {"sc": "内地访客保费占比", "tc": "內地訪客保費佔比"},
+        "value": "28.6",
+        "unit": {"sc": "%", "tc": "%"},
+        "trend": "up",
+        "change": "+6.5%",
+        "changeLabel": {"sc": "同比增幅", "tc": "同比增幅"},
+        "note": {"sc": "占个人业务总新造的 28.6%，628 亿港元", "tc": "佔個人業務總新造的 28.6%，628 億港元"},
+        "source": "IA Annual Statistics 2024 · 2025年4月25日发布",
+        "sourceUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20250425.html",
+        "asOf": {"sc": "截至 2024 年 12 月", "tc": "截至 2024 年 12 月"}
+      }
+    ]
+  },
+  "familyOffice": {
+    "title": {"sc": "家办与跨境财富", "tc": "家辦與跨境財富"},
+    "items": [
+      {
+        "key": "fo-count",
+        "label": {"sc": "香港家办数量", "tc": "香港家辦數量"},
+        "value": "3,384",
+        "unit": {"sc": "间", "tc": "間"},
+        "trend": "up",
+        "change": "+25%",
+        "changeLabel": {"sc": "两年增幅", "tc": "兩年增幅"},
+        "note": {"sc": "过半财富超 5,100 万美元，年底有望突破 3,000 间", "tc": "過半財富超 5,100 萬美元，年底有望突破 3,000 間"},
+        "source": "投资推广署 · FamilyOfficeHK",
+        "sourceUrl": "https://www.investhk.gov.hk/zh-hk/news/two-year-milestone-new-capital-investment-entrant-scheme-attracts-nearly-3-200-applications-with-expected-investment-of-about-hk-95-billion-reflecting-global-confidence-in-hong-kong/",
+        "asOf": {"sc": "截至 2026 年 7 月", "tc": "截至 2026 年 7 月"}
+      },
+      {
+        "key": "cross-border-wealth",
+        "label": {"sc": "跨境财富管理规模", "tc": "跨境財富管理規模"},
+        "value": "2.9",
+        "unit": {"sc": "万亿美元", "tc": "萬億美元"},
+        "trend": "up",
+        "change": "全球第一",
+        "changeLabel": {"sc": "全球排名", "tc": "全球排名"},
+        "note": {"sc": "2026 年 BCG 报告：港超越瑞士成全球最大跨境财富中心", "tc": "2026 年 BCG 報告：港超越瑞士成全球最大跨境財富中心"},
+        "source": "BCG Global Wealth Report 2026 · 2026年5月27日",
+        "sourceUrl": "https://www.bcg.com/press/27may2026-hong-kong-surpasses-switzerland-largest-cross-border-wealth-hub",
+        "asOf": {"sc": "截至 2025 年 12 月", "tc": "截至 2025 年 12 月"}
+      },
+      {
+        "key": "cies-investment",
+        "label": {"sc": "新 CIES 吸资规模", "tc": "新 CIES 吸資規模"},
+        "value": "950",
+        "unit": {"sc": "亿港元", "tc": "億港元"},
+        "trend": "up",
+        "change": "3,166 宗申请",
+        "changeLabel": {"sc": "累计申请", "tc": "累計申請"},
+        "note": {"sc": "2024 年 3 月启动，9.9% 资金投向投连险", "tc": "2024 年 3 月啟動，9.9% 資金投向投連險"},
+        "source": "投资推广署 · 2026年3月公告",
+        "sourceUrl": "https://www.investhk.gov.hk/zh-hk/news/two-year-milestone-new-capital-investment-entrant-scheme-attracts-nearly-3-200-applications-with-expected-investment-of-about-hk-95-billion-reflecting-global-confidence-in-hong-kong/",
+        "asOf": {"sc": "截至 2026 年 3 月", "tc": "截至 2026 年 3 月"}
+      }
+    ]
+  },
+  "channelLandscape": {
+    "title": {"sc": "渠道格局", "tc": "渠道格局"},
+    "items": [
+      {
+        "key": "broker",
+        "label": {"sc": "经纪渠道", "tc": "經紀渠道"},
+        "value": "35.5",
+        "unit": {"sc": "%", "tc": "%"},
+        "trend": "up",
+        "change": "人力 +37.1%",
+        "changeLabel": {"sc": "3年净增", "tc": "3年淨增"},
+        "note": {"sc": "2022 年首次超越代理渠道，2025 年与银保基本持平", "tc": "2022 年首次超越代理渠道，2025 年與銀保基本持平"},
+        "source": "IA 年报 + Intermediary Licence Statistics",
+        "sourceUrl": "https://www.ia.org.hk/en/infocenter/statistics/statistics.html",
+        "asOf": {"sc": "截至 2025 年", "tc": "截至 2025 年"}
+      },
+      {
+        "key": "agent",
+        "label": {"sc": "代理渠道", "tc": "代理渠道"},
+        "value": "23.5",
+        "unit": {"sc": "%", "tc": "%"},
+        "trend": "down",
+        "change": "63% 人仅贡献 23% 量",
+        "changeLabel": {"sc": "产能分化", "tc": "產能分化"},
+        "note": {"sc": "人海退场，12% 精锐约占 35% 份额，大分化加速", "tc": "人海退場，12% 精銳約佔 35% 份額，大分化加速"},
+        "source": "IA 年报 / Richard 培训 PPT",
+        "sourceUrl": "https://www.ia.org.hk/en/infocenter/statistics/market.html",
+        "asOf": {"sc": "截至 2025 年", "tc": "截至 2025 年"}
+      },
+      {
+        "key": "bancassurance",
+        "label": {"sc": "银保渠道", "tc": "銀保渠道"},
+        "value": "35.5",
+        "unit": {"sc": "%", "tc": "%"},
+        "trend": "flat",
+        "change": "HSBC Life 26.6% NBP",
+        "changeLabel": {"sc": "市占率第一", "tc": "市佔率第一"},
+        "note": {"sc": "银行保险与经纪渠道并驾齐驱，HSBC Life 稳居榜首", "tc": "銀行保險與經紀渠道並駕齊驅，HSBC Life 穩居榜首"},
+        "source": "IA 年报 / InsuranceAsia Q1 2026",
+        "sourceUrl": "https://insuranceasia.com/insurance/in-focus/hong-kong-insurance-premiums-jump-323-38b-in-q1-2026",
+        "asOf": {"sc": "截至 2025 年", "tc": "截至 2025 年"}
+      }
+    ]
+  }
+}
