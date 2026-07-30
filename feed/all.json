@@ -1,9 +1,204 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-07-29T17:40:26Z",
-  "itemCount": 194,
+  "generatedAt": "2026-07-30T10:16:56Z",
+  "itemCount": 209,
   "items": [
+    {
+      "id": "hkma-fed-response-jul30",
+      "title": "HKMA回应美联储利率决议：维持联系汇率稳定",
+      "sourceTier": "official",
+      "themes": [
+        "market",
+        "monetary"
+      ],
+      "publishedAt": "2026-07-30T14:30:00+08:00",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-fed-response-jul30",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/07/20260730-4/"
+    },
+    {
+      "id": "mof-rmb-bonds-cmu-jul30",
+      "title": "财政部在CMU发行人民币国债 巩固香港离岸人民币枢纽",
+      "sourceTier": "official",
+      "themes": [
+        "bond",
+        "rmb"
+      ],
+      "publishedAt": "2026-07-30T15:00:00+08:00",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=mof-rmb-bonds-cmu-jul30",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/07/20260730-3/"
+    },
+    {
+      "id": "hkma-cmu-network-jul29",
+      "title": "HKMA欢迎CMU扩展国际网络及服务范围",
+      "sourceTier": "official",
+      "themes": [
+        "infrastructure",
+        "bond"
+      ],
+      "publishedAt": "2026-07-29T16:00:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-cmu-network-jul29",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/07/20260729-3/"
+    },
+    {
+      "id": "hkma-quantum-whitepaper-jul27",
+      "title": "HKMA发布量子准备白皮书及指数 推动银行业量子时代转型",
+      "sourceTier": "official",
+      "themes": [
+        "quantum",
+        "cyber"
+      ],
+      "publishedAt": "2026-07-27T16:30:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-quantum-whitepaper-jul27",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/07/20260727-3/"
+    },
+    {
+      "id": "hk-premiums-q1-2026-jul25",
+      "title": "香港保险Q1总保费2916亿港元同比增32.3% 分红业务领涨",
+      "sourceTier": "pro",
+      "themes": [
+        "statistics",
+        "growth"
+      ],
+      "publishedAt": "2026-07-25T14:00:00+08:00",
+      "score": 82,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hk-premiums-q1-2026-jul25",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/hong-kong-insurance-market-extends-growth-run-as-data-gap-widens-583673.aspx"
+    },
+    {
+      "id": "ia-sales-rules-tightening-jul15",
+      "title": "保监局收紧销售规则 高管直接对全流程合规负责",
+      "sourceTier": "pro",
+      "themes": [
+        "compliance",
+        "intermediary"
+      ],
+      "publishedAt": "2026-07-15T12:00:00+08:00",
+      "score": 87,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-sales-rules-tightening-jul15",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-ia-tightens-sales-rules-misconduct-scrutiny-grows"
+    },
+    {
+      "id": "aia-q1-market-leader-jul24",
+      "title": "友邦香港2026年Q1勇夺7个市场第一 继续领跑",
+      "sourceTier": "insurer",
+      "themes": [
+        "market-leader",
+        "quarterly"
+      ],
+      "publishedAt": "2026-07-24T10:00:00+08:00",
+      "score": 80,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-q1-market-leader-jul24",
+      "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2026/aia-press-release-20260724"
+    },
+    {
+      "id": "axa-menopause-survey-jul23",
+      "title": "AXA安盛调查：香港在职女性更年期认知严重不足",
+      "sourceTier": "insurer",
+      "themes": [
+        "health",
+        "women"
+      ],
+      "publishedAt": "2026-07-23T11:00:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=axa-menopause-survey-jul23",
+      "originalUrl": "https://www.axa.com.hk/zh/news-room/2026"
+    },
+    {
+      "id": "sunlife-ride-to-shine-jul22",
+      "title": "Sun Life永明启动「善德永明耀香港」智能单车创举",
+      "sourceTier": "insurer",
+      "themes": [
+        "esg",
+        "community"
+      ],
+      "publishedAt": "2026-07-22T14:00:00+08:00",
+      "score": 73,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sunlife-ride-to-shine-jul22",
+      "originalUrl": "https://www.sunlife.com.hk/zh-hant/about-us/newsroom/news-releases/2026/ride-to-shine-hong-kong/"
+    },
+    {
+      "id": "allianz-hsbc-singapore-jul24",
+      "title": "安联21亿美元收购汇丰新加坡寿险 亚洲版图再扩张",
+      "sourceTier": "media",
+      "themes": [
+        "ma",
+        "bancassurance"
+      ],
+      "publishedAt": "2026-07-24T08:00:00+08:00",
+      "score": 82,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=allianz-hsbc-singapore-jul24",
+      "originalUrl": "https://www.reuters.com/world/asia-pacific/hsbc-sells-singapore-insurance-business-germanys-allianz-209-billion-deal-2026-07-23/"
+    },
+    {
+      "id": "ia-ai-cohort-new-insurers-jul",
+      "title": "保监局AI Cohort新增三家保险公司 中银人寿、国寿海外等加入",
+      "sourceTier": "pro",
+      "themes": [
+        "ai",
+        "insurtech"
+      ],
+      "publishedAt": "2026-07-28T10:00:00+08:00",
+      "score": 80,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-ai-cohort-new-insurers-jul",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/insurance-authority-adds-three-insurers-to-ai-cohort-programme-579133.aspx"
+    },
+    {
+      "id": "nfra-shanghai-reins-center-jul07",
+      "title": "金融监管总局发布加快上海国际再保险中心建设措施",
+      "sourceTier": "official",
+      "themes": [
+        "reinsurance",
+        "greater-bay"
+      ],
+      "publishedAt": "2026-07-07T09:00:00+08:00",
+      "score": 84,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-shanghai-reins-center-jul07",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1263701&itemId=928"
+    },
+    {
+      "id": "nfra-cybersecurity-rules-jul",
+      "title": "金融监管总局就银行业保险业网络安全管理办法征求意见",
+      "sourceTier": "official",
+      "themes": [
+        "cyber",
+        "compliance"
+      ],
+      "publishedAt": "2026-07-25T09:00:00+08:00",
+      "score": 83,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-cybersecurity-rules-jul",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1264203&itemId=915"
+    },
+    {
+      "id": "prudential-health-summit-2026",
+      "title": "保诚保险举办2026健康论坛 聚焦优化患者医疗体验",
+      "sourceTier": "insurer",
+      "themes": [
+        "health",
+        "ecosystem"
+      ],
+      "publishedAt": "2026-07-24T10:00:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=prudential-health-summit-2026",
+      "originalUrl": "https://www.prudential.com.hk/tc/about-us/newsroom/prudential-health-summit-improving-care-for-every-patient/"
+    },
+    {
+      "id": "manulife-asian-care-survey-2026",
+      "title": "宏利2026亚洲关怀调查：84%港人重视晚年独立自主",
+      "sourceTier": "insurer",
+      "themes": [
+        "retirement",
+        "consumer"
+      ],
+      "publishedAt": "2026-07-26T10:00:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-asian-care-survey-2026",
+      "originalUrl": "https://www.manulife.com.hk/en/individual/promotions/asia-care-survey-2026.html"
+    },
     {
       "id": "bowtie-202607-100m",
       "title": "香港首家虚拟保险公司Bowtie营收突破1亿美元 剑指东南亚",
