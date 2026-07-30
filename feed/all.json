@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-07-30T17:25:12Z",
-  "itemCount": 214,
+  "generatedAt": "2026-07-30T17:33:44Z",
+  "itemCount": 225,
   "items": [
     {
       "id": "mof-rmb-bonds-cmu-jul30",
@@ -482,6 +482,19 @@
       "originalUrl": "https://insuranceasia.com/insurance/news/asian-insurer-gains-face-regulatory-pressure-in-second-half-2026"
     },
     {
+      "id": "hk-international-schools-2026",
+      "title": "香港国际学校需求激增：家办家庭推动学位竞争白热化",
+      "sourceTier": "media",
+      "themes": [
+        "education",
+        "family-office"
+      ],
+      "publishedAt": "2026-07-15T10:00:00+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hk-international-schools-2026",
+      "originalUrl": "https://www.henleyglobal.com/services/education"
+    },
+    {
       "id": "ia-licence-20260630",
       "title": "持牌中介统计（截至2026-06-30）：个人持牌约12.25万，经纪公司810家。",
       "sourceTier": "official",
@@ -517,6 +530,19 @@
       "score": 91,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260710-illustration",
       "originalUrl": "https://brdr.hkma.gov.hk/gb_chi/doc-ldg/docId/20260708-2-TC"
+    },
+    {
+      "id": "tiger21-uhnw-allocation-2026",
+      "title": "TIGER 21 报告：超高净值家庭 28% 资产配置于私募股权",
+      "sourceTier": "pro",
+      "themes": [
+        "offshore",
+        "asset-allocation"
+      ],
+      "publishedAt": "2026-07-10T10:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=tiger21-uhnw-allocation-2026",
+      "originalUrl": "https://tiger21.com/insights/asset-allocation-report-2026"
     },
     {
       "id": "ia-20260710-illustration-review",
@@ -610,6 +636,19 @@
       "originalUrl": "https://www.rgare.com/knowledge-center/article/hong-kong-insurance-market--navigating-opportunities-and-challenges-in-2026"
     },
     {
+      "id": "hkex-ipo-pipeline-2026h1",
+      "title": "港交所 2026 H1 IPO 回顾：内地企业赴港上市持续活跃",
+      "sourceTier": "official",
+      "themes": [
+        "capital-market",
+        "offshore"
+      ],
+      "publishedAt": "2026-07-01T10:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkex-ipo-pipeline-2026h1",
+      "originalUrl": "https://www.hkex.com.hk/News/News-Release"
+    },
+    {
       "id": "ia-crossref-20260701",
       "title": "银行与保险跨行业背景查核安排：2026年7月1日起分阶段实施。",
       "sourceTier": "media",
@@ -647,6 +686,19 @@
       "score": 74,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260630-allianz-report",
       "originalUrl": "https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/economic-research/publications/specials/en/2026/may/28-05-2026-Global-Insurance-report-AZ.pdf"
+    },
+    {
+      "id": "hk-property-cires-2026",
+      "title": "CIES 推动香港豪宅市场：3,000 万以上住宅成交上升",
+      "sourceTier": "media",
+      "themes": [
+        "property",
+        "offshore"
+      ],
+      "publishedAt": "2026-06-30T10:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hk-property-cires-2026",
+      "originalUrl": "https://www.newcies.gov.hk/en/new-measures/"
     },
     {
       "id": "ia-20260629-sunlife-notes",
@@ -802,6 +854,19 @@
       "score": 73,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fwd-2026-brand-victoria",
       "originalUrl": "https://www.youtube.com/watch?v=2Kei5uxrEfU"
+    },
+    {
+      "id": "henley-wealth-migration-2026",
+      "title": "Henley 2026 私人财富迁移报告：香港重回全球高净值流入 Top 5",
+      "sourceTier": "pro",
+      "themes": [
+        "offshore",
+        "family-office"
+      ],
+      "publishedAt": "2026-06-20T10:00:00+08:00",
+      "score": 80,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=henley-wealth-migration-2026",
+      "originalUrl": "https://www.henleyglobal.com/publications/private-wealth-migration-report-2026"
     },
     {
       "id": "ia-ai-cohort-202606",
@@ -1825,6 +1890,19 @@
       "originalUrl": "https://www.dlapiper.com/en-us/insights/publications/2026/03/insurance-authority-of-hong-kong-issues-revised-guideline"
     },
     {
+      "id": "fstb-family-office-boom-20260210",
+      "title": "FSTB：家办热潮推动香港经济——CIES 预计吸资逾 900 亿港元",
+      "sourceTier": "official",
+      "themes": [
+        "family-office",
+        "company-service"
+      ],
+      "publishedAt": "2026-02-10T10:00:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fstb-family-office-boom-20260210",
+      "originalUrl": "https://www.fstb.gov.hk/en/blog/blog100226.htm"
+    },
+    {
       "id": "ia-20260206-gl16-gl34",
       "title": "修订 GL16 与 GL34：长期承保与分红基金管理（2026-02-06）。",
       "sourceTier": "official",
@@ -2669,6 +2747,32 @@
       "originalUrl": "https://www.fstb.gov.hk/fsb/en/business/policy_highlights/insurance-industry.html"
     },
     {
+      "id": "henley-migration-2024",
+      "title": "Henley 2024 财富迁移报告：中国内地百万富翁流出量全球第一",
+      "sourceTier": "pro",
+      "themes": [
+        "offshore",
+        "identity-planning"
+      ],
+      "publishedAt": "2024-06-18T10:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=henley-migration-2024",
+      "originalUrl": "https://www.henleyglobal.com/publications/henley-private-wealth-migration-report-2024"
+    },
+    {
+      "id": "ocorian-hk-wealth-magnet-2024",
+      "title": "Ocorian 报告：2024年香港跨境财富猛增 2,310 亿美元，追平瑞士",
+      "sourceTier": "pro",
+      "themes": [
+        "offshore",
+        "global-allocation"
+      ],
+      "publishedAt": "2024-06-15T10:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ocorian-hk-wealth-magnet-2024",
+      "originalUrl": "https://www.ocorian.com/knowledge-hub/insights/how-hong-kong-became-global-wealth-magnet"
+    },
+    {
       "id": "ia-20240614-gl34-segregation",
       "title": "GL34《就分红业务设立与维持基金的指引》宪报刊登",
       "sourceTier": "official",
@@ -2719,6 +2823,48 @@
       "score": 87,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20240522-referral-fee-circular",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/20240522_Circular.pdf"
+    },
+    {
+      "id": "chubb-cies-ilas-2024",
+      "title": "安达人寿推出 CIES 合资格投资相连寿险计划",
+      "sourceTier": "insurer",
+      "themes": [
+        "product",
+        "offshore",
+        "identity-planning"
+      ],
+      "publishedAt": "2024-05-01T10:00:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=chubb-cies-ilas-2024",
+      "originalUrl": "https://www.chubb.com/hk-en/personal/cias.html"
+    },
+    {
+      "id": "fstb-fo-policy-202403",
+      "title": "港府发布《家族办公室政策宣言》：八大措施打造家办枢纽",
+      "sourceTier": "official",
+      "themes": [
+        "family-office",
+        "offshore",
+        "corporate-service"
+      ],
+      "publishedAt": "2024-03-24T10:00:00+08:00",
+      "score": 82,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fstb-fo-policy-202403",
+      "originalUrl": "https://www.fstb.gov.hk/en/business-family-office-policy-statement.html"
+    },
+    {
+      "id": "newcies-20240301-launch",
+      "title": "新CIES正式启动：投资3,000万港元可获香港居留权",
+      "sourceTier": "official",
+      "themes": [
+        "offshore",
+        "family-office",
+        "identity-planning"
+      ],
+      "publishedAt": "2024-03-01T10:00:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=newcies-20240301-launch",
+      "originalUrl": "https://www.newcies.gov.hk/zh-cn/resources/news/new-capital-investment-entrant-scheme-opens-for-application-from-march-1/"
     },
     {
       "id": "hsbc-life-250m-record-20240228",

@@ -1,11 +1,11 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-07-31T00:05:16+08:00",
-    "itemCount": 214,
+    "generatedAt": "2026-07-31T01:33:44+08:00",
+    "itemCount": 225,
     "windowNote": {
-      "sc": "本库214条。",
-      "tc": "本庫214條。"
+      "sc": "本库225条。",
+      "tc": "本庫225條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -2863,6 +2863,73 @@ window.HKII_DATA = {
       ]
     },
     {
+      "id": "hk-international-schools-2026",
+      "clusterCount": 1,
+      "score": 65,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "SCMP / Henley Education",
+      "title": {
+        "sc": "香港国际学校需求激增：家办家庭推动学位竞争白热化",
+        "tc": "香港國際學校需求激增：家辦家庭推動學位競爭白熱化"
+      },
+      "summary": {
+        "sc": "随着家办和 CIES 家庭涌入香港，国际学校学位需求大幅上升。Henley & Partners 教育服务部门报告：香港国际学校的申请等候名单显著延长，部分名校的债券价格已突破 500 万港元。精英教育已成为家办服务链条的关键环节。",
+        "tc": "隨著家辦和 CIES 家庭湧入香港，國際學校學位需求大幅上升。Henley & Partners 教育部門報告：香港國際學校的申請等候名單顯著延長，部分名校的債券價格已突破 500 萬港元。精英教育已成為家辦服務鏈條的關鍵環節。"
+      },
+      "why": {
+        "sc": "教育是家办客户的「隐性需求」——客户嘴上说「理财」，心里想的是「孩子」。国际学校学位/债券/升学规划，是跨境家办的差异化服务入口。",
+        "tc": "教育是家辦客戶的「隱性需求」——客戶嘴上說「理財」，心裡想的是「孩子」。國際學校學位/債券/升學規劃，是跨境家辦的差異化服務入口。"
+      },
+      "actions": {
+        "front": {
+          "sc": "教育规划是与客户建立长期信任的天然切入点",
+          "tc": "教育規劃是與客戶建立長期信任的天然切入點"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "教育服务可成为家办业务的增值模块",
+          "tc": "教育服務可成為家辦業務的增值模塊"
+        },
+        "cross": {
+          "sc": "国际学校是跨境家庭选择香港的关键考量之一",
+          "tc": "國際學校是跨境家庭選擇香港的關鍵考量之一"
+        }
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 2,
+        "cross": 4
+      },
+      "source": {
+        "sc": "Henley Education / SCMP",
+        "lang": "zh"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "education",
+        "family-office"
+      ],
+      "tags": {
+        "sc": [
+          "教育",
+          "国际学校",
+          "家办"
+        ],
+        "tc": [
+          "教育",
+          "國際學校",
+          "家辦"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-07-15T10:00:00+08:00",
+      "originalUrl": "https://www.henleyglobal.com/services/education"
+    },
+    {
       "id": "ia-licence-20260630",
       "title": {
         "sc": "持牌中介统计（截至2026-06-30）：个人持牌约12.25万，经纪公司810家。",
@@ -3096,6 +3163,74 @@ window.HKII_DATA = {
       "themes": [
         "market"
       ]
+    },
+    {
+      "id": "tiger21-uhnw-allocation-2026",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "pending",
+      "sourceTier": "pro",
+      "sourceKey": "TIGER 21",
+      "title": {
+        "sc": "TIGER 21 报告：超高净值家庭 28% 资产配置于私募股权",
+        "tc": "TIGER 21 報告：超高淨值家庭 28% 資產配置於私募股權"
+      },
+      "summary": {
+        "sc": "TIGER 21（全球超高净值投资者网络）发布 2026 资产配置报告：成员平均将 28% 的资产配置于私募股权，20% 于房地产，仅 8% 于固定收益。报告反映了全球最富有家庭的投资偏好正在从传统资产类别转向另类投资。",
+        "tc": "TIGER 21（全球超高淨值投資者網絡）發佈 2026 資產配置報告：成員平均將 28% 的資產配置於私募股權，20% 於房地產，僅 8% 於固定收益。報告反映了全球最富有家庭的投資偏好正在從傳統資產類別轉向另類投資。"
+      },
+      "why": {
+        "sc": "28% PE + 20% 地产——知道最富有的家庭在投什么，就能理解为什么他们需要保险做风险对冲、信托做架构隔离。资产配置数据是跨境家办服务的底色。",
+        "tc": "28% PE + 20% 地產——知道最富有的家庭在投什麼，就能理解為什麼他們需要保險做風險對沖、信託做架構隔離。資產配置數據是跨境家辦服務的底色。"
+      },
+      "actions": {
+        "front": {
+          "sc": "客户的资产配置结构决定了保险需求类型",
+          "tc": "客戶的資產配置結構決定了保險需求類型"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "另类投资占比上升=大额寿险作为对冲工具的需求增加",
+          "tc": "另類投資佔比上升=大額壽險作為對沖工具的需求增加"
+        },
+        "cross": {
+          "sc": "全球资产配置视角是跨境家办区别于单一产品销售的核心",
+          "tc": "全球資產配置視角是跨境家辦區別於單一產品銷售的核心"
+        }
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 3,
+        "cross": 4
+      },
+      "source": {
+        "sc": "TIGER 21",
+        "lang": "zh"
+      },
+      "boards": [
+        "family",
+        "market"
+      ],
+      "themes": [
+        "offshore",
+        "asset-allocation"
+      ],
+      "tags": {
+        "sc": [
+          "资产配置",
+          "私募股权",
+          "UHNW"
+        ],
+        "tc": [
+          "資產配置",
+          "私募股權",
+          "UHNW"
+        ]
+      },
+      "contentKind": "stats",
+      "publishedAt": "2026-07-10T10:00:00+08:00",
+      "originalUrl": "https://tiger21.com/insights/asset-allocation-report-2026"
     },
     {
       "id": "ia-20260710-illustration-review",
@@ -3638,6 +3773,73 @@ window.HKII_DATA = {
       ]
     },
     {
+      "id": "hkex-ipo-pipeline-2026h1",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "pending",
+      "sourceTier": "official",
+      "sourceKey": "港交所 HKEX",
+      "title": {
+        "sc": "港交所 2026 H1 IPO 回顾：内地企业赴港上市持续活跃",
+        "tc": "港交所 2026 H1 IPO 回顧：內地企業赴港上市持續活躍"
+      },
+      "summary": {
+        "sc": "2026 年上半年港交所 IPO 市场保持活跃，多只内地科技和消费企业完成上市。香港继续保持全球前三的 IPO 集资中心地位。资本市场的活跃直接带动了高净值财富的创造和保值需求，与家办生态形成正反馈。",
+        "tc": "2026 年上半年港交所 IPO 市場保持活躍，多隻內地科技和消費企業完成上市。香港繼續保持全球前三的 IPO 集資中心地位。資本市場的活躍直接帶動了高淨值財富的創造和保值需求，與家辦生態形成正反饋。"
+      },
+      "why": {
+        "sc": "IPO=造富机器。每一家新上市公司的创始人和高管都是潜在的家办客户。H1 活跃的 IPO 意味着下半年将有更多新财富进入财富管理市场。",
+        "tc": "IPO=造富機器。每一家新上市公司的創始人和高管都是潛在的家辦客戶。H1 活躍的 IPO 意味著下半年將有更多新財富進入財富管理市場。"
+      },
+      "actions": {
+        "front": {
+          "sc": "IPO造富后的财富管理需求是保险/信托的黄金窗口",
+          "tc": "IPO造富後的財富管理需求是保險/信託的黃金窗口"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "资本市场活跃=财富管理市场扩容",
+          "tc": "資本市場活躍=財富管理市場擴容"
+        },
+        "cross": {
+          "sc": "上市公司的跨境架构需求天然适配家办服务",
+          "tc": "上市公司的跨境架構需求天然適配家辦服務"
+        }
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 4,
+        "cross": 4
+      },
+      "source": {
+        "sc": "HKEX / 媒体综合",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "capital-market",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "IPO",
+          "资本市场",
+          "港交所"
+        ],
+        "tc": [
+          "IPO",
+          "資本市場",
+          "港交所"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-07-01T10:00:00+08:00",
+      "originalUrl": "https://www.hkex.com.hk/News/News-Release"
+    },
+    {
       "id": "ia-crossref-20260701",
       "clusterCount": 2,
       "score": 93,
@@ -3875,6 +4077,73 @@ window.HKII_DATA = {
         "market"
       ],
       "contentKind": "research"
+    },
+    {
+      "id": "hk-property-cires-2026",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "综合报道",
+      "title": {
+        "sc": "CIES 推动香港豪宅市场：3,000 万以上住宅成交上升",
+        "tc": "CIES 推動香港豪宅市場：3,000 萬以上住宅成交上升"
+      },
+      "summary": {
+        "sc": "新资本投资者入境计划（CIES）允许将最多 1,000 万港元计入住宅房地产投资，带动香港 3,000 万港元以上豪宅成交量上升。同时，跨境家庭的置业需求和国际学校周边的住宅需求持续增长。地产投资是家办资产配置的重要一环。",
+        "tc": "新資本投資者入境計劃（CIES）允許將最多 1,000 萬港元計入住宅房地產投資，帶動香港 3,000 萬港元以上豪宅成交量上升。同時，跨境家庭的置業需求和國際學校周邊的住宅需求持續增長。地產投資是家辦資產配置的重要一環。"
+      },
+      "why": {
+        "sc": "CIES 的房产投资额度虽然只有 1,000 万，但每一个 CIES 家庭的实际购房预算远超此数。豪宅市场是家办客户生活方式的锚点，也是跨境资产配置最「可见」的一环。",
+        "tc": "CIES 的房產投資額度雖然只有 1,000 萬，但每一個 CIES 家庭的實際購房預算遠超此數。豪宅市場是家辦客戶生活方式的錨點，也是跨境資產配置最「可見」的一環。"
+      },
+      "actions": {
+        "front": {
+          "sc": "房产+保险是家办客户最基本的双线配置",
+          "tc": "房產+保險是家辦客戶最基本的雙線配置"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "地产投资是家办客户最直观的财富管理需求",
+          "tc": "地產投資是家辦客戶最直觀的財富管理需求"
+        },
+        "cross": {
+          "sc": "跨境房产是身份规划的自然延伸",
+          "tc": "跨境房產是身份規劃的自然延伸"
+        }
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 2,
+        "cross": 4
+      },
+      "source": {
+        "sc": "综合报道",
+        "lang": "zh"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "property",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "地产",
+          "CIES",
+          "豪宅"
+        ],
+        "tc": [
+          "地產",
+          "CIES",
+          "豪宅"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-06-30T10:00:00+08:00",
+      "originalUrl": "https://www.newcies.gov.hk/en/new-measures/"
     },
     {
       "id": "ia-20260629-sunlife-notes",
@@ -4815,6 +5084,76 @@ window.HKII_DATA = {
       "themes": [
         "market"
       ]
+    },
+    {
+      "id": "henley-wealth-migration-2026",
+      "clusterCount": 1,
+      "score": 80,
+      "verifyStatus": "pending",
+      "sourceTier": "pro",
+      "sourceKey": "Henley & Partners",
+      "title": {
+        "sc": "Henley 2026 私人财富迁移报告：香港重回全球高净值流入 Top 5",
+        "tc": "Henley 2026 私人財富遷移報告：香港重回全球高淨值流入 Top 5"
+      },
+      "summary": {
+        "sc": "Henley & Partners 发布《2026 私人财富迁移报告》：受益于 CIES 新政和家办税务优惠，香港重回全球高净值人士净流入前五名。报告同时跟踪全球投资移民项目的最新政策变化和申请趋势。",
+        "tc": "Henley & Partners 發布《2026 私人財富遷移報告》：受益於 CIES 新政和家辦稅務優惠，香港重回全球高淨值人士淨流入前五名。報告同時跟蹤全球投資移民項目的最新政策變化和申請趨勢。"
+      },
+      "why": {
+        "sc": "Henley 是全球投资移民领域的权威数据源——他们的年度迁移报告是「身份规划」的行业晴雨表。对跨境 IFA 来说，高净值人士的流向直接等于客户的流向。",
+        "tc": "Henley 是全球投資移民領域的權威數據源——他們的年度遷移報告是「身份規劃」的行業晴雨表。對跨境 IFA 來說，高淨值人士的流向直接等於客戶的流向。"
+      },
+      "actions": {
+        "front": {
+          "sc": "高净值流入=潜在客户流入，可据此规划获客策略",
+          "tc": "高淨值流入=潛在客戶流入，可據此規劃獲客策略"
+        },
+        "midback": {
+          "sc": "身份规划的法律合规框架需随政策更新",
+          "tc": "身份規劃的法律合規框架需隨政策更新"
+        },
+        "lead": {
+          "sc": "香港重回前五=团队可借此强化跨境定位",
+          "tc": "香港重回前五=團隊可藉此強化跨境定位"
+        },
+        "cross": {
+          "sc": "投资移民+保险+信托是跨境家办三板斧",
+          "tc": "投資移民+保險+信託是跨境家辦三板斧"
+        }
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 2,
+        "lead": 4,
+        "cross": 5
+      },
+      "source": {
+        "sc": "Henley & Partners",
+        "lang": "zh"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "offshore",
+        "family-office"
+      ],
+      "tags": {
+        "sc": [
+          "身份规划",
+          "高净值",
+          "移民"
+        ],
+        "tc": [
+          "身份規劃",
+          "高淨值",
+          "移民"
+        ]
+      },
+      "contentKind": "stats",
+      "publishedAt": "2026-06-20T10:00:00+08:00",
+      "originalUrl": "https://www.henleyglobal.com/publications/private-wealth-migration-report-2026"
     },
     {
       "id": "ia-ai-cohort-202606",
@@ -11112,6 +11451,77 @@ window.HKII_DATA = {
       ]
     },
     {
+      "id": "fstb-family-office-boom-20260210",
+      "clusterCount": 1,
+      "score": 78,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "财经事务及库务局 FSTB",
+      "title": {
+        "sc": "FSTB：家办热潮推动香港经济——CIES 预计吸资逾 900 亿港元",
+        "tc": "FSTB：家辦熱潮推動香港經濟——CIES 預計吸資逾 900 億港元"
+      },
+      "summary": {
+        "sc": "财经事务及库务局局长博客指出：香港家族办公室数量已超过 2,700 家，预计年底突破 3,000 家。新 CIES 若全部获批，预计带来逾 900 亿港元投资。家办生态正在推动资产管理、法律、会计、教育等专业服务的全面增长。",
+        "tc": "財經事務及庫務局局長博客指出：香港家族辦公室數量已超過 2,700 家，預計年底突破 3,000 家。新 CIES 若全部獲批，預計帶來逾 900 億港元投資。家辦生態正在推動資產管理、法律、會計、教育等專業服務的全面增長。"
+      },
+      "why": {
+        "sc": "2,700→3,000 家办的官方数据——这是香港家办赛道的权威规模证明。每一个家办都是一家「小企业」，需要公司注册、税务筹划、合规、秘书服务，是一整条企业服务价值链。",
+        "tc": "2,700→3,000 家辦的官方數據——這是香港家辦賽道的權威規模證明。每一個家辦都是一家「小企業」，需要公司註冊、稅務籌劃、合規、秘書服務，是一整條企業服務價值鏈。"
+      },
+      "actions": {
+        "front": {
+          "sc": "家办客户需要的不只是保险，是综合服务能力",
+          "tc": "家辦客戶需要的不只是保險，是綜合服務能力"
+        },
+        "midback": {
+          "sc": "家办的合规框架涉及公司注册/税务/CRS等多个维度",
+          "tc": "家辦的合規框架涉及公司註冊/稅務/CRS等多個維度"
+        },
+        "lead": {
+          "sc": "3,000家办=一个正在形成的专业化服务市场",
+          "tc": "3,000家辦=一個正在形成的專業化服務市場"
+        },
+        "cross": {
+          "sc": "家办是企业服务+财富管理的交叉点",
+          "tc": "家辦是企業服務+財富管理的交叉點"
+        }
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 3,
+        "lead": 4,
+        "cross": 4
+      },
+      "source": {
+        "sc": "FSTB · GovHK",
+        "lang": "zh"
+      },
+      "boards": [
+        "family",
+        "market"
+      ],
+      "themes": [
+        "family-office",
+        "company-service"
+      ],
+      "tags": {
+        "sc": [
+          "家办",
+          "企业服务",
+          "FSTB"
+        ],
+        "tc": [
+          "家辦",
+          "企業服務",
+          "FSTB"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-02-10T10:00:00+08:00",
+      "originalUrl": "https://www.fstb.gov.hk/en/blog/blog100226.htm"
+    },
+    {
       "id": "ia-20260206-gl16-gl34",
       "title": {
         "sc": "修订 GL16 与 GL34：长期承保与分红基金管理（2026-02-06）。",
@@ -16300,6 +16710,141 @@ window.HKII_DATA = {
       ]
     },
     {
+      "id": "henley-migration-2024",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "pending",
+      "sourceTier": "pro",
+      "sourceKey": "Henley & Partners",
+      "title": {
+        "sc": "Henley 2024 财富迁移报告：中国内地百万富翁流出量全球第一",
+        "tc": "Henley 2024 財富遷移報告：中國內地百萬富翁流出量全球第一"
+      },
+      "summary": {
+        "sc": "Henley & Partners 发布《2024 私人财富迁移报告》：预计 2024 年全球 12.8 万高净值人士将迁移，中国内地以 15,200 人的净流出量居全球首位。香港是主要目的地之一，受益于 CIES 重启和家办政策利好。",
+        "tc": "Henley & Partners 發布《2024 私人財富遷移報告》：預計 2024 年全球 12.8 萬高淨值人士將遷移，中國內地以 15,200 人的淨流出量居全球首位。香港是主要目的地之一，受益於 CIES 重啟和家辦政策利好。"
+      },
+      "why": {
+        "sc": "15,200 内地百万富翁净流出——等于每年有一个中等城市规模的高净值人群在寻找新的财富目的地。香港 CIES + 家办政策正是对这一趋势的制度性回应。",
+        "tc": "15,200 內地百萬富翁淨流出——等於每年有一個中等城市規模的高淨值人群在尋找新的財富目的地。香港 CIES + 家辦政策正是對這一趨勢的制度性回應。"
+      },
+      "actions": {
+        "front": {
+          "sc": "内地高净值流出潮=跨境保险的持续增长源",
+          "tc": "內地高淨值流出潮=跨境保險的持續增長源"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "15,200人/年的增量市场=战略布局不嫌早",
+          "tc": "15,200人/年的增量市場=戰略佈局不嫌早"
+        },
+        "cross": {
+          "sc": "高净值迁移数据是身份规划业务的基础",
+          "tc": "高淨值遷移數據是身份規劃業務的基礎"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 4,
+        "cross": 5
+      },
+      "source": {
+        "sc": "Henley & Partners",
+        "lang": "zh"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "offshore",
+        "identity-planning"
+      ],
+      "tags": {
+        "sc": [
+          "财富迁移",
+          "Henley",
+          "身份规划"
+        ],
+        "tc": [
+          "財富遷移",
+          "Henley",
+          "身份規劃"
+        ]
+      },
+      "contentKind": "stats",
+      "publishedAt": "2024-06-18T10:00:00+08:00",
+      "originalUrl": "https://www.henleyglobal.com/publications/henley-private-wealth-migration-report-2024"
+    },
+    {
+      "id": "ocorian-hk-wealth-magnet-2024",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "pending",
+      "sourceTier": "pro",
+      "sourceKey": "Ocorian",
+      "title": {
+        "sc": "Ocorian 报告：2024年香港跨境财富猛增 2,310 亿美元，追平瑞士",
+        "tc": "Ocorian 報告：2024年香港跨境財富猛增 2,310 億美元，追平瑞士"
+      },
+      "summary": {
+        "sc": "Ocorian 发布《How Hong Kong became a global wealth magnet》报告：2024 年香港跨境财富管理规模增加 2,310 亿美元，总规模达到 2.7 万亿美元，与瑞士并列全球最大跨境财富中心。私人银行及私人财富管理 AUM 突破 10 万亿港元（同比+15%）。",
+        "tc": "Ocorian 發布《How Hong Kong became a global wealth magnet》報告：2024 年香港跨境財富管理規模增加 2,310 億美元，總規模達到 2.7 萬億美元，與瑞士並列全球最大跨境財富中心。私人銀行及私人財富管理 AUM 突破 10 萬億港元（同比+15%）。"
+      },
+      "why": {
+        "sc": "2,310 亿美元的年增量 = 香港跨境财富赛道不是在「增长」，是在「爆发」。2024 追平瑞士，2026 超越瑞士（BCG 数据），两年三级跳的背后是整个家办生态的制度红利。",
+        "tc": "2,310 億美元的年增量 = 香港跨境財富賽道不是在「增長」，是在「爆發」。2024 追平瑞士，2026 超越瑞士（BCG 數據），兩年三級跳的背後是整個家辦生態的制度紅利。"
+      },
+      "actions": {
+        "front": {
+          "sc": "2.7万亿跨境财富=大额保险和信托的庞大市场",
+          "tc": "2.7萬億跨境財富=大額保險和信託的龐大市場"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "跨境财富增速是团队战略定投的最强信号",
+          "tc": "跨境財富增速是團隊戰略定投的最強信號"
+        },
+        "cross": {
+          "sc": "追平瑞士=香港跨境财富赛道的里程碑节点",
+          "tc": "追平瑞士=香港跨境財富賽道的里程碑節點"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 5,
+        "cross": 5
+      },
+      "source": {
+        "sc": "Ocorian",
+        "lang": "zh"
+      },
+      "boards": [
+        "family",
+        "market"
+      ],
+      "themes": [
+        "offshore",
+        "global-allocation"
+      ],
+      "tags": {
+        "sc": [
+          "跨境财富",
+          "全球第二",
+          "Ocorian"
+        ],
+        "tc": [
+          "跨境財富",
+          "全球第二",
+          "Ocorian"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2024-06-15T10:00:00+08:00",
+      "originalUrl": "https://www.ocorian.com/knowledge-hub/insights/how-hong-kong-became-global-wealth-magnet"
+    },
+    {
       "id": "ia-20240614-gl34-segregation",
       "clusterCount": 1,
       "score": 78,
@@ -16571,6 +17116,220 @@ window.HKII_DATA = {
       "contentKind": "circular",
       "publishedAt": "2024-05-22T14:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/20240522_Circular.pdf"
+    },
+    {
+      "id": "chubb-cies-ilas-2024",
+      "clusterCount": 1,
+      "score": 71,
+      "verifyStatus": "pending",
+      "sourceTier": "insurer",
+      "sourceKey": "Chubb 安达人寿",
+      "title": {
+        "sc": "安达人寿推出 CIES 合资格投资相连寿险计划",
+        "tc": "安達人壽推出 CIES 合資格投資相連壽險計劃"
+      },
+      "summary": {
+        "sc": "安达人寿（Chubb Life HK）推出专为 CIES 申请人设计的合资格投资相连寿险计划（ILAS），提供多元化基金选择和 SFC+IA 双重监管保障。这是保司直接对接 CIES 投资需求的产品创新，将保险嵌入移民投资架构。",
+        "tc": "安達人壽（Chubb Life HK）推出專為 CIES 申請人設計的合資格投資相連壽險計劃（ILAS），提供多元化基金選擇和 SFC+IA 雙重監管保障。這是保司直接對接 CIES 投資需求的产品創新，將保險嵌入移民投資架構。"
+      },
+      "why": {
+        "sc": "ILAS 是保险产品对接 CIES 的标准答案——投连险既满足 2,700 万金融资产要求，又提供人寿保障。Chubb 的这步棋说明：CIES 不只是家办的蛋糕，保司也在切。",
+        "tc": "ILAS 是保險產品對接 CIES 的標準答案——投連險既滿足 2,700 萬金融資產要求，又提供人壽保障。Chubb 的這步棋說明：CIES 不只是家辦的蛋糕，保司也在切。"
+      },
+      "actions": {
+        "front": {
+          "sc": "CIES客户的投连险=资产配置+身份规划一步到位",
+          "tc": "CIES客戶的投連險=資產配置+身份規劃一步到位"
+        },
+        "midback": {
+          "sc": "ILAS产品需同时满足SFC和IA双重合规",
+          "tc": "ILAS產品需同時滿足SFC和IA雙重合規"
+        },
+        "lead": {
+          "sc": "CIES产品线是保司新的增长极",
+          "tc": "CIES產品線是保司新的增長極"
+        },
+        "cross": {
+          "sc": "ILAS是保险嵌入跨境投资架构的范本",
+          "tc": "ILAS是保險嵌入跨境投資架構的範本"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 3,
+        "lead": 3,
+        "cross": 4
+      },
+      "source": {
+        "sc": "Chubb Life HK",
+        "lang": "zh"
+      },
+      "boards": [
+        "product",
+        "family"
+      ],
+      "themes": [
+        "product",
+        "offshore",
+        "identity-planning"
+      ],
+      "tags": {
+        "sc": [
+          "CIES",
+          "投连险",
+          "Chubb"
+        ],
+        "tc": [
+          "CIES",
+          "投連險",
+          "Chubb"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2024-05-01T10:00:00+08:00",
+      "originalUrl": "https://www.chubb.com/hk-en/personal/cias.html"
+    },
+    {
+      "id": "fstb-fo-policy-202403",
+      "clusterCount": 1,
+      "score": 82,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "财经事务及库务局 FSTB",
+      "title": {
+        "sc": "港府发布《家族办公室政策宣言》：八大措施打造家办枢纽",
+        "tc": "港府發布《家族辦公室政策宣言》：八大措施打造家辦樞紐"
+      },
+      "summary": {
+        "sc": "财经事务及库务局发布《有关香港发展家族办公室业务的政策宣言》，提出八大政策措施：包括新的 CIES 计划、税务宽减、设立 FamilyOfficeHK 服务窗口、成立财富继承学院、推广艺术品存储设施、发展慈善中心等。标志港府将家办作为核心金融战略。",
+        "tc": "財經事務及庫務局發布《有關香港發展家族辦公室業務的政策宣言》，提出八大政策措施：包括新的 CIES 計劃、稅務寬減、設立 FamilyOfficeHK 服務窗口、成立財富繼承學院、推廣藝術品存儲設施、發展慈善中心等。標誌港府將家辦作為核心金融戰略。"
+      },
+      "why": {
+        "sc": "这是香港家办生态的「宪法性文件」——八大措施 = 港府对家办的全套诚意。CIES/税务优惠/服务窗口三管齐下，信号再明确不过：香港要从「保险销售港」升级为「财富管理枢纽」。",
+        "tc": "這是香港家辦生態的「憲法性文件」——八大措施 = 港府對家辦的全套誠意。CIES/稅務優惠/服務窗口三管齊下，信號再明確不過：香港要從「保險銷售港」升級為「財富管理樞紐」。"
+      },
+      "actions": {
+        "front": {
+          "sc": "家办客户现在有政策背书的「整套服务」，不只是产品",
+          "tc": "家辦客戶現在有政策背書的「整套服務」，不只是產品"
+        },
+        "midback": {
+          "sc": "税务宽减政策是合规操作的重要依据",
+          "tc": "稅務寬減政策是合規操作的重要依據"
+        },
+        "lead": {
+          "sc": "八大措施 = 家办赛道正式获得政府级战略支撑",
+          "tc": "八大措施 = 家辦賽道正式獲得政府級戰略支撐"
+        },
+        "cross": {
+          "sc": "CIES/税务/服务窗口 = 跨境家办的三根支柱",
+          "tc": "CIES/稅務/服務窗口 = 跨境家辦的三根支柱"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 3,
+        "lead": 5,
+        "cross": 5
+      },
+      "source": {
+        "sc": "FSTB · GovHK",
+        "lang": "zh"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "family-office",
+        "offshore",
+        "corporate-service"
+      ],
+      "tags": {
+        "sc": [
+          "家办政策",
+          "FSTB",
+          "八大措施"
+        ],
+        "tc": [
+          "家辦政策",
+          "FSTB",
+          "八大措施"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2024-03-24T10:00:00+08:00",
+      "originalUrl": "https://www.fstb.gov.hk/en/business-family-office-policy-statement.html"
+    },
+    {
+      "id": "newcies-20240301-launch",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "投资推广署 / 入境事务处",
+      "title": {
+        "sc": "新CIES正式启动：投资3,000万港元可获香港居留权",
+        "tc": "新CIES正式啟動：投資3,000萬港元可獲香港居留權"
+      },
+      "summary": {
+        "sc": "2024年3月1日，香港特区政府正式推出「新资本投资者入境计划（New CIES）」。合资格申请人须投资最少 3,000 万港元于获许资产（其中 2,700 万为金融资产/非住宅房地产，300 万投入 CIES 投资组合）。获批申请人可携配偶及子女来港，7 年后可申请永久居留。",
+        "tc": "2024年3月1日，香港特區政府正式推出「新資本投資者入境計劃（New CIES）」。合資格申請人須投資最少 3,000 萬港元於獲許資產（其中 2,700 萬為金融資產/非住宅房地產，300 萬投入 CIES 投資組合）。獲批申請人可攜配偶及子女來港，7 年後可申請永久居留。"
+      },
+      "why": {
+        "sc": "CIES 是香港跨境财富管理的「制度基座」。3,000 万门槛 + 7年居留路径 = 每笔申请背后都是一个高净值家庭的全面财富规划需求（保险/信托/教育/置业）。2024年3月是这条赛道的起点。",
+        "tc": "CIES 是香港跨境財富管理的「制度基座」。3,000 萬門檻 + 7年居留路徑 = 每筆申請背後都是一個高淨值家庭的全面財富規劃需求（保險/信託/教育/置業）。2024年3月是這條賽道的起點。"
+      },
+      "actions": {
+        "front": {
+          "sc": "CIES客户是高净值保险/投连险的精准受众",
+          "tc": "CIES客戶是高淨值保險/投連險的精準受眾"
+        },
+        "midback": {
+          "sc": "CIES合规要求涉及净资产审查和投资持有规则",
+          "tc": "CIES合規要求涉及淨資產審查和投資持有規則"
+        },
+        "lead": {
+          "sc": "CIES是跨境家办业务的核心获客渠道",
+          "tc": "CIES是跨境家辦業務的核心獲客渠道"
+        },
+        "cross": {
+          "sc": "CIES是身份规划+财富管理的交叉入口",
+          "tc": "CIES是身份規劃+財富管理的交叉入口"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 3,
+        "lead": 5,
+        "cross": 5
+      },
+      "source": {
+        "sc": "新CIES办公室 · GovHK",
+        "lang": "zh"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "offshore",
+        "family-office",
+        "identity-planning"
+      ],
+      "tags": {
+        "sc": [
+          "CIES",
+          "投资移民",
+          "家办"
+        ],
+        "tc": [
+          "CIES",
+          "投資移民",
+          "家辦"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2024-03-01T10:00:00+08:00",
+      "originalUrl": "https://www.newcies.gov.hk/zh-cn/resources/news/new-capital-investment-entrant-scheme-opens-for-application-from-march-1/"
     },
     {
       "id": "hsbc-life-250m-record-20240228",
@@ -17019,11 +17778,12 @@ window.HKII_DATA = {
           "sc": "2026-07-15",
           "tc": "2026-07-15"
         },
-        "itemCount": 3,
+        "itemCount": 4,
         "itemIds": [
           "ia-sales-rules-tightening-jul15",
           "ia-20260715-sales-practices",
-          "creditsights-2026-2h"
+          "creditsights-2026-2h",
+          "hk-international-schools-2026"
         ]
       },
       {
@@ -17054,9 +17814,10 @@ window.HKII_DATA = {
           "sc": "2026-07-10",
           "tc": "2026-07-10"
         },
-        "itemCount": 2,
+        "itemCount": 3,
         "itemIds": [
           "ia-20260710-illustration",
+          "tiger21-uhnw-allocation-2026",
           "ia-20260710-illustration-review"
         ]
       },
@@ -17101,9 +17862,10 @@ window.HKII_DATA = {
           "sc": "2026-07-01",
           "tc": "2026-07-01"
         },
-        "itemCount": 2,
+        "itemCount": 3,
         "itemIds": [
           "rga-2026-hk-market",
+          "hkex-ipo-pipeline-2026h1",
           "ia-crossref-20260701"
         ]
       },
@@ -17113,10 +17875,11 @@ window.HKII_DATA = {
           "sc": "2026-06-30",
           "tc": "2026-06-30"
         },
-        "itemCount": 2,
+        "itemCount": 3,
         "itemIds": [
           "ia-20260630-swissre-sigma",
-          "ia-20260630-allianz-report"
+          "ia-20260630-allianz-report",
+          "hk-property-cires-2026"
         ]
       },
       {
@@ -17185,10 +17948,11 @@ window.HKII_DATA = {
           "sc": "2026-06-20",
           "tc": "2026-06-20"
         },
-        "itemCount": 2,
+        "itemCount": 3,
         "itemIds": [
           "ia-20260620-goldman-outlook",
-          "fwd-2026-brand-victoria"
+          "fwd-2026-brand-victoria",
+          "henley-wealth-migration-2026"
         ]
       },
       {
@@ -17784,11 +18548,12 @@ window.HKII_DATA = {
           "sc": "2026-02-10",
           "tc": "2026-02-10"
         },
-        "itemCount": 3,
+        "itemCount": 4,
         "itemIds": [
           "fstb-20260210-fo-3384",
           "hk-2026-newcies-3000",
-          "dlapiper-202602-gl16"
+          "dlapiper-202602-gl16",
+          "fstb-family-office-boom-20260210"
         ]
       },
       {
@@ -18389,6 +19154,28 @@ window.HKII_DATA = {
         ]
       },
       {
+        "key": "2024-06-18",
+        "label": {
+          "sc": "2024-06-18",
+          "tc": "2024-06-18"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "henley-migration-2024"
+        ]
+      },
+      {
+        "key": "2024-06-15",
+        "label": {
+          "sc": "2024-06-15",
+          "tc": "2024-06-15"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ocorian-hk-wealth-magnet-2024"
+        ]
+      },
+      {
         "key": "2024-06-14",
         "label": {
           "sc": "2024-06-14",
@@ -18433,6 +19220,39 @@ window.HKII_DATA = {
         ]
       },
       {
+        "key": "2024-05-01",
+        "label": {
+          "sc": "2024-05-01",
+          "tc": "2024-05-01"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "chubb-cies-ilas-2024"
+        ]
+      },
+      {
+        "key": "2024-03-24",
+        "label": {
+          "sc": "2024-03-24",
+          "tc": "2024-03-24"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "fstb-fo-policy-202403"
+        ]
+      },
+      {
+        "key": "2024-03-01",
+        "label": {
+          "sc": "2024-03-01",
+          "tc": "2024-03-01"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "newcies-20240301-launch"
+        ]
+      },
+      {
         "key": "2024-02-28",
         "label": {
           "sc": "2024-02-28",
@@ -18444,9 +19264,1727 @@ window.HKII_DATA = {
         ]
       }
     ],
-    "weekly": [],
-    "monthly": [],
-    "yearly": []
+    "weekly": [
+      {
+        "key": "2026-W31",
+        "label": {
+          "sc": "2026-W31",
+          "tc": "2026-W31"
+        },
+        "itemCount": 17,
+        "itemIds": [
+          "mof-rmb-bonds-cmu-jul30",
+          "hkma-fed-response-jul30",
+          "hkma-cmu-network-jul29",
+          "bowtie-202607-100m",
+          "hk-202607-mainland-scrutiny",
+          "ia-20260730-sales-misconduct",
+          "ai-25pct-insurance-jobs-202607",
+          "picc-202607-re",
+          "ia-ai-cohort-new-insurers-jul",
+          "cgs-202607-hk-crackdown",
+          "ratings-2026-consolidated",
+          "continuum-hk-gm-202607",
+          "hk-fraud-payments-lag-202607",
+          "howden-hk-ceo-20260701",
+          "hkma-quantum-whitepaper-jul27",
+          "prudential-usd500k-legacy-202607",
+          "apac-insurers-emergedebt-202607"
+        ]
+      },
+      {
+        "key": "2026-W30",
+        "label": {
+          "sc": "2026-W30",
+          "tc": "2026-W30"
+        },
+        "itemCount": 15,
+        "itemIds": [
+          "sunlife-privatewealth-202607",
+          "manulife-asian-care-survey-2026",
+          "aif-2026-save-the-date",
+          "hk-premiums-q1-2026-jul25",
+          "insbus-202607-hk-growth",
+          "ia-public-disclosure-2026",
+          "nfra-cybersecurity-rules-jul",
+          "ia-q1-2026-stats",
+          "hkma-complaints-20260724",
+          "aia-q1-market-leader-jul24",
+          "prudential-health-summit-2026",
+          "ziyu-ceo-letter-20260724",
+          "allianz-hsbc-singapore-jul24",
+          "axa-menopause-survey-jul23",
+          "sunlife-ride-to-shine-jul22"
+        ]
+      },
+      {
+        "key": "2026-W29",
+        "label": {
+          "sc": "2026-W29",
+          "tc": "2026-W29"
+        },
+        "itemCount": 7,
+        "itemIds": [
+          "aia-20260716-hyrox",
+          "ia-20260716-ashk-ifoa",
+          "ia-sales-rules-tightening-jul15",
+          "ia-20260715-sales-practices",
+          "creditsights-2026-2h",
+          "hk-international-schools-2026",
+          "ia-licence-20260630"
+        ]
+      },
+      {
+        "key": "2026-W28",
+        "label": {
+          "sc": "2026-W28",
+          "tc": "2026-W28"
+        },
+        "itemCount": 8,
+        "itemIds": [
+          "ia-20260712-speech",
+          "ia-20260710-illustration",
+          "tiger21-uhnw-allocation-2026",
+          "ia-20260710-illustration-review",
+          "fstb-20260708-captive",
+          "ia-20260708-captive",
+          "swissre-202607-wis",
+          "nfra-shanghai-reins-center-jul07"
+        ]
+      },
+      {
+        "key": "2026-W27",
+        "label": {
+          "sc": "2026-W27",
+          "tc": "2026-W27"
+        },
+        "itemCount": 9,
+        "itemIds": [
+          "ia-20260703-rfyc",
+          "rga-2026-hk-market",
+          "hkex-ipo-pipeline-2026h1",
+          "ia-crossref-20260701",
+          "ia-20260630-swissre-sigma",
+          "ia-20260630-allianz-report",
+          "hk-property-cires-2026",
+          "ia-20260629-sunlife-notes",
+          "ia-20260629-hkma-bulletin"
+        ]
+      },
+      {
+        "key": "2026-W26",
+        "label": {
+          "sc": "2026-W26",
+          "tc": "2026-W26"
+        },
+        "itemCount": 8,
+        "itemIds": [
+          "ia-20260628-fsdc-talent",
+          "ia-20260626-morganstanley",
+          "ia-20260626-pimco-asia",
+          "taiping-202606-rating",
+          "ia-20260625-manulife-convention",
+          "empf-2026-fee-reduction",
+          "manulife-20260625-board",
+          "ia-20260624-rga-trends"
+        ]
+      },
+      {
+        "key": "2026-W25",
+        "label": {
+          "sc": "2026-W25",
+          "tc": "2026-W25"
+        },
+        "itemCount": 12,
+        "itemIds": [
+          "ia-20260620-goldman-outlook",
+          "fwd-2026-brand-victoria",
+          "henley-wealth-migration-2026",
+          "ia-ai-cohort-202606",
+          "ia-20260618-blackrock-outlook",
+          "ia-20260617-manulife-ai",
+          "ia-20260616-aia-prudential-roles",
+          "ia-20260616-cheung-enforcement",
+          "ia-ai-seminar-20260615",
+          "axa-2026-bloomberg-awards",
+          "bain-gba-crossborder-2026",
+          "ia-20260615-bloomberg-crackdown"
+        ]
+      },
+      {
+        "key": "2026-W24",
+        "label": {
+          "sc": "2026-W24",
+          "tc": "2026-W24"
+        },
+        "itemCount": 9,
+        "itemIds": [
+          "ia-20260612-manulife-plans",
+          "hk-20260612-fo-tax",
+          "ia-20260610-manulife-leverage",
+          "ia-20260610-chowtaifook-life",
+          "ctflife-2026-diamond-iul",
+          "ia-20260609-fitch-apac",
+          "ia-20260608-axa-global-private",
+          "aia-20260608-prosperlife",
+          "ia-20260608-aia-wealth-flexi"
+        ]
+      },
+      {
+        "key": "2026-W23",
+        "label": {
+          "sc": "2026-W23",
+          "tc": "2026-W23"
+        },
+        "itemCount": 9,
+        "itemIds": [
+          "ia-20260605-hkma-remuneration-circ",
+          "ia-hkma-remuneration-20260605",
+          "ia-20260605-hkma-commission",
+          "ia-20260611-chubb-life",
+          "ia-20260603-broker-referral",
+          "ia-20260602-hkma-crossborder",
+          "deloitte-2026-insurance-outlook",
+          "chubb-20260601-mylegacy",
+          "hkma-wealthconnect-2026"
+        ]
+      },
+      {
+        "key": "2026-W22",
+        "label": {
+          "sc": "2026-W22",
+          "tc": "2026-W22"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "ia-20260529-onsite-findings",
+          "allianz-20260528-global-report",
+          "bcg-hk-1-cross-border-wealth-20260527"
+        ]
+      },
+      {
+        "key": "2026-W21",
+        "label": {
+          "sc": "2026-W21",
+          "tc": "2026-W21"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "ia-20260520-gl34-corp",
+          "fwd-2026-q1-update",
+          "ia-20260519-disclosure-consult"
+        ]
+      },
+      {
+        "key": "2026-W20",
+        "label": {
+          "sc": "2026-W20",
+          "tc": "2026-W20"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "sunlife-2026-10life-awards",
+          "ia-20260513-cross-ref",
+          "ia-20260513-cross-refcheck"
+        ]
+      },
+      {
+        "key": "2026-W19",
+        "label": {
+          "sc": "2026-W19",
+          "tc": "2026-W19"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "ia-20260508-rbc-conclusion",
+          "ia-20260508-rbc-conclusions",
+          "cpic-20260504-gen3"
+        ]
+      },
+      {
+        "key": "2026-W18",
+        "label": {
+          "sc": "2026-W18",
+          "tc": "2026-W18"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "aia-20260430-q1-vonb",
+          "prudential-20260429-self-future",
+          "boclife-20260427-retirement"
+        ]
+      },
+      {
+        "key": "2026-W17",
+        "label": {
+          "sc": "2026-W17",
+          "tc": "2026-W17"
+        },
+        "itemCount": 6,
+        "itemIds": [
+          "ia-2025-full-year",
+          "ia-20260424-stats-2025",
+          "aia-20260424-top-insurer",
+          "ctflife-20260422-artisan-leap",
+          "ia-20260422-ils",
+          "manulife-20260420-annuity-accident"
+        ]
+      },
+      {
+        "key": "2026-W16",
+        "label": {
+          "sc": "2026-W16",
+          "tc": "2026-W16"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "ia-20260416-cyber",
+          "ia-202604-fsi-survey"
+        ]
+      },
+      {
+        "key": "2026-W15",
+        "label": {
+          "sc": "2026-W15",
+          "tc": "2026-W15"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "chinlife-2026-hk-digital",
+          "legco-20260410-fa-disclosure",
+          "ia-20260409-captive-beijing"
+        ]
+      },
+      {
+        "key": "2026-W14",
+        "label": {
+          "sc": "2026-W14",
+          "tc": "2026-W14"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "ia-20260331-gn16-revised",
+          "gn16-revised-20260331",
+          "ia-20260331-cpd-reporting"
+        ]
+      },
+      {
+        "key": "2026-W13",
+        "label": {
+          "sc": "2026-W13",
+          "tc": "2026-W13"
+        },
+        "itemCount": 5,
+        "itemIds": [
+          "ia-2025-complaints",
+          "ia-20260327-cif12",
+          "ia-20260326-health-conf",
+          "ia-20260325-captive-forum-speech",
+          "chubb-2026-dementia"
+        ]
+      },
+      {
+        "key": "2026-W12",
+        "label": {
+          "sc": "2026-W12",
+          "tc": "2026-W12"
+        },
+        "itemCount": 5,
+        "itemIds": [
+          "aof-hkimr-family-office-202603",
+          "aia-2025-annual-results",
+          "hsbc-life-2026-hnw-pitchbook",
+          "prudential-20260317-youth",
+          "sunlife-202603-sp-upgrade"
+        ]
+      },
+      {
+        "key": "2026-W11",
+        "label": {
+          "sc": "2026-W11",
+          "tc": "2026-W11"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "hkma-ia-2026-genai-sandbox",
+          "manulife-202603-new-products",
+          "ia-20260310-rbc-consult-close"
+        ]
+      },
+      {
+        "key": "2026-W10",
+        "label": {
+          "sc": "2026-W10",
+          "tc": "2026-W10"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-20260305-genai-sandbox"
+        ]
+      },
+      {
+        "key": "2026-W09",
+        "label": {
+          "sc": "2026-W09",
+          "tc": "2026-W09"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "newcies-2026-3200apps-95b",
+          "ia-budget-20260225",
+          "ia-20260224-kpim-handbook"
+        ]
+      },
+      {
+        "key": "2026-W07",
+        "label": {
+          "sc": "2026-W07",
+          "tc": "2026-W07"
+        },
+        "itemCount": 8,
+        "itemIds": [
+          "sunlife-2025-ape-118",
+          "ia-20260213-low-altitude",
+          "ia-20260211-rbc-consult",
+          "ia-20260211-rbc-consult-launch",
+          "fstb-20260210-fo-3384",
+          "hk-2026-newcies-3000",
+          "dlapiper-202602-gl16",
+          "fstb-family-office-boom-20260210"
+        ]
+      },
+      {
+        "key": "2026-W06",
+        "label": {
+          "sc": "2026-W06",
+          "tc": "2026-W06"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-20260206-gl16-gl34"
+        ]
+      },
+      {
+        "key": "2026-W05",
+        "label": {
+          "sc": "2026-W05",
+          "tc": "2026-W05"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "circ-20260201-crossborder",
+          "ia-20260126-aff",
+          "axa-20260126-redomicile"
+        ]
+      },
+      {
+        "key": "2026-W04",
+        "label": {
+          "sc": "2026-W04",
+          "tc": "2026-W04"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "ia-20260123-stats-3q2025",
+          "ia-20260123-q3stats"
+        ]
+      },
+      {
+        "key": "2026-W03",
+        "label": {
+          "sc": "2026-W03",
+          "tc": "2026-W03"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "evident-2026-insurance-ai",
+          "ia-gl34-20260331"
+        ]
+      },
+      {
+        "key": "2026-W02",
+        "label": {
+          "sc": "2026-W02",
+          "tc": "2026-W02"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "ebact-2025-hk-market",
+          "manulife-20260105-two-plans"
+        ]
+      },
+      {
+        "key": "2026-W01",
+        "label": {
+          "sc": "2026-W01",
+          "tc": "2026-W01"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "zhihu-2025-top10"
+        ]
+      },
+      {
+        "key": "2025-W50",
+        "label": {
+          "sc": "2025-W50",
+          "tc": "2025-W50"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "jpmorgan-2026-outlook"
+        ]
+      },
+      {
+        "key": "2025-W49",
+        "label": {
+          "sc": "2025-W49",
+          "tc": "2025-W49"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-2024-annual-stats"
+        ]
+      },
+      {
+        "key": "2025-W47",
+        "label": {
+          "sc": "2025-W47",
+          "tc": "2025-W47"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "aia-20251121-aisan",
+          "goldman-2026-macro-outlook",
+          "ia-20251120-refcheck-scheme"
+        ]
+      },
+      {
+        "key": "2025-W46",
+        "label": {
+          "sc": "2025-W46",
+          "tc": "2025-W46"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "sfc-2025-wmc-insurance"
+        ]
+      },
+      {
+        "key": "2025-W43",
+        "label": {
+          "sc": "2025-W43",
+          "tc": "2025-W43"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "ia-20251024-1h2025-stats",
+          "ia-20251024-h1stats"
+        ]
+      },
+      {
+        "key": "2025-W42",
+        "label": {
+          "sc": "2025-W42",
+          "tc": "2025-W42"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-ro-cpd-20251014"
+        ]
+      },
+      {
+        "key": "2025-W38",
+        "label": {
+          "sc": "2025-W38",
+          "tc": "2025-W38"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "ia-202508-iul-sandbox",
+          "ia-20250919-product-naming",
+          "ia-20250917-product-naming"
+        ]
+      },
+      {
+        "key": "2025-W36",
+        "label": {
+          "sc": "2025-W36",
+          "tc": "2025-W36"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "manulife-20250902-hospitals",
+          "ia-20250901-referral50",
+          "ia-20250901-referral-fee"
+        ]
+      },
+      {
+        "key": "2025-W34",
+        "label": {
+          "sc": "2025-W34",
+          "tc": "2025-W34"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-2024-25-annual-report"
+        ]
+      },
+      {
+        "key": "2025-W33",
+        "label": {
+          "sc": "2025-W33",
+          "tc": "2025-W33"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "dlapiper-202508-commission"
+        ]
+      },
+      {
+        "key": "2025-W32",
+        "label": {
+          "sc": "2025-W32",
+          "tc": "2025-W32"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "ia-commission-20260101",
+          "ia-20250808-rbc-disclosure"
+        ]
+      },
+      {
+        "key": "2025-W29",
+        "label": {
+          "sc": "2025-W29",
+          "tc": "2025-W29"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-202507-commission-spread"
+        ]
+      },
+      {
+        "key": "2025-W28",
+        "label": {
+          "sc": "2025-W28",
+          "tc": "2025-W28"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "ia-20250711-ro-cpd-compulsory",
+          "aia-20250708-global-prosper"
+        ]
+      },
+      {
+        "key": "2025-W27",
+        "label": {
+          "sc": "2025-W27",
+          "tc": "2025-W27"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-20250701-illustration-cap"
+        ]
+      },
+      {
+        "key": "2025-W24",
+        "label": {
+          "sc": "2025-W24",
+          "tc": "2025-W24"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "sunlife-2025-enhanced-savings",
+          "ia-2025q1-stats-934"
+        ]
+      },
+      {
+        "key": "2025-W22",
+        "label": {
+          "sc": "2025-W22",
+          "tc": "2025-W22"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "fstb-2024-density"
+        ]
+      },
+      {
+        "key": "2025-W18",
+        "label": {
+          "sc": "2025-W18",
+          "tc": "2025-W18"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "manulife-20250428-ci"
+        ]
+      },
+      {
+        "key": "2025-W16",
+        "label": {
+          "sc": "2025-W16",
+          "tc": "2025-W16"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-2025-d-sii-designation"
+        ]
+      },
+      {
+        "key": "2025-W15",
+        "label": {
+          "sc": "2025-W15",
+          "tc": "2025-W15"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "axa-20250409-gba-med"
+        ]
+      },
+      {
+        "key": "2025-W13",
+        "label": {
+          "sc": "2025-W13",
+          "tc": "2025-W13"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "ia-20250330-illustration-article",
+          "fsdc-2025-insurance-hub",
+          "ia-2025-insurtech-initiatives"
+        ]
+      },
+      {
+        "key": "2025-W11",
+        "label": {
+          "sc": "2025-W11",
+          "tc": "2025-W11"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "aia-2024-annual",
+          "ia-20250313-iul-circular",
+          "ia-20250313-iul-pi"
+        ]
+      },
+      {
+        "key": "2025-W09",
+        "label": {
+          "sc": "2025-W09",
+          "tc": "2025-W09"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "nfra-202502-hkmo-insurance",
+          "ia-20250228-illustration-note",
+          "ia-20250228-illustration-cap-pn"
+        ]
+      },
+      {
+        "key": "2025-W06",
+        "label": {
+          "sc": "2025-W06",
+          "tc": "2025-W06"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-20250206-claims-mgmt"
+        ]
+      },
+      {
+        "key": "2025-W03",
+        "label": {
+          "sc": "2025-W03",
+          "tc": "2025-W03"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "linkedin-2024-trends"
+        ]
+      },
+      {
+        "key": "2025-W02",
+        "label": {
+          "sc": "2025-W02",
+          "tc": "2025-W02"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "axa-20250110-shengli"
+        ]
+      },
+      {
+        "key": "2024-W49",
+        "label": {
+          "sc": "2024-W49",
+          "tc": "2024-W49"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-20241205-annual-2024"
+        ]
+      },
+      {
+        "key": "2024-W48",
+        "label": {
+          "sc": "2024-W48",
+          "tc": "2024-W48"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-2024-re-domiciliation"
+        ]
+      },
+      {
+        "key": "2024-W47",
+        "label": {
+          "sc": "2024-W47",
+          "tc": "2024-W47"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-2024-revised-gn16-consult"
+        ]
+      },
+      {
+        "key": "2024-W42",
+        "label": {
+          "sc": "2024-W42",
+          "tc": "2024-W42"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "manulife-hiv-coverage-2024"
+        ]
+      },
+      {
+        "key": "2024-W39",
+        "label": {
+          "sc": "2024-W39",
+          "tc": "2024-W39"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "ia-20240923-license-fee",
+          "ia-2024-h1-refcheck-cross-sector",
+          "ia-20240923-refcheck"
+        ]
+      },
+      {
+        "key": "2024-W37",
+        "label": {
+          "sc": "2024-W37",
+          "tc": "2024-W37"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "ia-2024h1-stats",
+          "sunlife-2024-fwd-pension"
+        ]
+      },
+      {
+        "key": "2024-W35",
+        "label": {
+          "sc": "2024-W35",
+          "tc": "2024-W35"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-20240830-h1-2024-stats"
+        ]
+      },
+      {
+        "key": "2024-W34",
+        "label": {
+          "sc": "2024-W34",
+          "tc": "2024-W34"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-2024-crossborder"
+        ]
+      },
+      {
+        "key": "2024-W31",
+        "label": {
+          "sc": "2024-W31",
+          "tc": "2024-W31"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "nfra-2024-crossborder-no"
+        ]
+      },
+      {
+        "key": "2024-W30",
+        "label": {
+          "sc": "2024-W30",
+          "tc": "2024-W30"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "ia-20240726-tahoe-life",
+          "ctflife-20240723-rebrand"
+        ]
+      },
+      {
+        "key": "2024-W27",
+        "label": {
+          "sc": "2024-W27",
+          "tc": "2024-W27"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-20240701-rbc-live"
+        ]
+      },
+      {
+        "key": "2024-W25",
+        "label": {
+          "sc": "2024-W25",
+          "tc": "2024-W25"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "henley-migration-2024"
+        ]
+      },
+      {
+        "key": "2024-W24",
+        "label": {
+          "sc": "2024-W24",
+          "tc": "2024-W24"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "ocorian-hk-wealth-magnet-2024",
+          "ia-20240614-gl34-segregation",
+          "ia-20240612-unlicensed-mcv"
+        ]
+      },
+      {
+        "key": "2024-W22",
+        "label": {
+          "sc": "2024-W22",
+          "tc": "2024-W22"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-20240531-q1-2024-stats"
+        ]
+      },
+      {
+        "key": "2024-W21",
+        "label": {
+          "sc": "2024-W21",
+          "tc": "2024-W21"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-20240522-referral-fee-circular"
+        ]
+      },
+      {
+        "key": "2024-W18",
+        "label": {
+          "sc": "2024-W18",
+          "tc": "2024-W18"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "chubb-cies-ilas-2024"
+        ]
+      },
+      {
+        "key": "2024-W12",
+        "label": {
+          "sc": "2024-W12",
+          "tc": "2024-W12"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "fstb-fo-policy-202403"
+        ]
+      },
+      {
+        "key": "2024-W09",
+        "label": {
+          "sc": "2024-W09",
+          "tc": "2024-W09"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "newcies-20240301-launch",
+          "hsbc-life-250m-record-20240228"
+        ]
+      }
+    ],
+    "monthly": [
+      {
+        "key": "2026-07",
+        "label": {
+          "sc": "2026-07",
+          "tc": "2026-07"
+        },
+        "itemCount": 51,
+        "itemIds": [
+          "mof-rmb-bonds-cmu-jul30",
+          "hkma-fed-response-jul30",
+          "hkma-cmu-network-jul29",
+          "bowtie-202607-100m",
+          "hk-202607-mainland-scrutiny",
+          "ia-20260730-sales-misconduct",
+          "ai-25pct-insurance-jobs-202607",
+          "picc-202607-re",
+          "ia-ai-cohort-new-insurers-jul",
+          "cgs-202607-hk-crackdown",
+          "ratings-2026-consolidated",
+          "continuum-hk-gm-202607",
+          "hk-fraud-payments-lag-202607",
+          "howden-hk-ceo-20260701",
+          "hkma-quantum-whitepaper-jul27",
+          "prudential-usd500k-legacy-202607",
+          "apac-insurers-emergedebt-202607",
+          "sunlife-privatewealth-202607",
+          "manulife-asian-care-survey-2026",
+          "aif-2026-save-the-date",
+          "hk-premiums-q1-2026-jul25",
+          "insbus-202607-hk-growth",
+          "ia-public-disclosure-2026",
+          "nfra-cybersecurity-rules-jul",
+          "ia-q1-2026-stats",
+          "hkma-complaints-20260724",
+          "aia-q1-market-leader-jul24",
+          "prudential-health-summit-2026",
+          "ziyu-ceo-letter-20260724",
+          "allianz-hsbc-singapore-jul24",
+          "axa-menopause-survey-jul23",
+          "sunlife-ride-to-shine-jul22",
+          "aia-20260716-hyrox",
+          "ia-20260716-ashk-ifoa",
+          "ia-sales-rules-tightening-jul15",
+          "ia-20260715-sales-practices",
+          "creditsights-2026-2h",
+          "hk-international-schools-2026",
+          "ia-licence-20260630",
+          "ia-20260712-speech",
+          "ia-20260710-illustration",
+          "tiger21-uhnw-allocation-2026",
+          "ia-20260710-illustration-review",
+          "fstb-20260708-captive",
+          "ia-20260708-captive",
+          "swissre-202607-wis",
+          "nfra-shanghai-reins-center-jul07",
+          "ia-20260703-rfyc",
+          "rga-2026-hk-market",
+          "hkex-ipo-pipeline-2026h1",
+          "ia-crossref-20260701"
+        ]
+      },
+      {
+        "key": "2026-06",
+        "label": {
+          "sc": "2026-06",
+          "tc": "2026-06"
+        },
+        "itemCount": 43,
+        "itemIds": [
+          "ia-20260630-swissre-sigma",
+          "ia-20260630-allianz-report",
+          "hk-property-cires-2026",
+          "ia-20260629-sunlife-notes",
+          "ia-20260629-hkma-bulletin",
+          "ia-20260628-fsdc-talent",
+          "ia-20260626-morganstanley",
+          "ia-20260626-pimco-asia",
+          "taiping-202606-rating",
+          "ia-20260625-manulife-convention",
+          "empf-2026-fee-reduction",
+          "manulife-20260625-board",
+          "ia-20260624-rga-trends",
+          "ia-20260620-goldman-outlook",
+          "fwd-2026-brand-victoria",
+          "henley-wealth-migration-2026",
+          "ia-ai-cohort-202606",
+          "ia-20260618-blackrock-outlook",
+          "ia-20260617-manulife-ai",
+          "ia-20260616-aia-prudential-roles",
+          "ia-20260616-cheung-enforcement",
+          "ia-ai-seminar-20260615",
+          "axa-2026-bloomberg-awards",
+          "bain-gba-crossborder-2026",
+          "ia-20260615-bloomberg-crackdown",
+          "ia-20260612-manulife-plans",
+          "hk-20260612-fo-tax",
+          "ia-20260610-manulife-leverage",
+          "ia-20260610-chowtaifook-life",
+          "ctflife-2026-diamond-iul",
+          "ia-20260609-fitch-apac",
+          "ia-20260608-axa-global-private",
+          "aia-20260608-prosperlife",
+          "ia-20260608-aia-wealth-flexi",
+          "ia-20260605-hkma-remuneration-circ",
+          "ia-hkma-remuneration-20260605",
+          "ia-20260605-hkma-commission",
+          "ia-20260611-chubb-life",
+          "ia-20260603-broker-referral",
+          "ia-20260602-hkma-crossborder",
+          "deloitte-2026-insurance-outlook",
+          "chubb-20260601-mylegacy",
+          "hkma-wealthconnect-2026"
+        ]
+      },
+      {
+        "key": "2026-05",
+        "label": {
+          "sc": "2026-05",
+          "tc": "2026-05"
+        },
+        "itemCount": 12,
+        "itemIds": [
+          "ia-20260529-onsite-findings",
+          "allianz-20260528-global-report",
+          "bcg-hk-1-cross-border-wealth-20260527",
+          "ia-20260520-gl34-corp",
+          "fwd-2026-q1-update",
+          "ia-20260519-disclosure-consult",
+          "sunlife-2026-10life-awards",
+          "ia-20260513-cross-ref",
+          "ia-20260513-cross-refcheck",
+          "ia-20260508-rbc-conclusion",
+          "ia-20260508-rbc-conclusions",
+          "cpic-20260504-gen3"
+        ]
+      },
+      {
+        "key": "2026-04",
+        "label": {
+          "sc": "2026-04",
+          "tc": "2026-04"
+        },
+        "itemCount": 14,
+        "itemIds": [
+          "aia-20260430-q1-vonb",
+          "prudential-20260429-self-future",
+          "boclife-20260427-retirement",
+          "ia-2025-full-year",
+          "ia-20260424-stats-2025",
+          "aia-20260424-top-insurer",
+          "ctflife-20260422-artisan-leap",
+          "ia-20260422-ils",
+          "manulife-20260420-annuity-accident",
+          "ia-20260416-cyber",
+          "ia-202604-fsi-survey",
+          "chinlife-2026-hk-digital",
+          "legco-20260410-fa-disclosure",
+          "ia-20260409-captive-beijing"
+        ]
+      },
+      {
+        "key": "2026-03",
+        "label": {
+          "sc": "2026-03",
+          "tc": "2026-03"
+        },
+        "itemCount": 18,
+        "itemIds": [
+          "ia-20260331-gn16-revised",
+          "gn16-revised-20260331",
+          "ia-20260331-cpd-reporting",
+          "ia-2025-complaints",
+          "ia-20260327-cif12",
+          "ia-20260326-health-conf",
+          "ia-20260325-captive-forum-speech",
+          "chubb-2026-dementia",
+          "aof-hkimr-family-office-202603",
+          "aia-2025-annual-results",
+          "hsbc-life-2026-hnw-pitchbook",
+          "prudential-20260317-youth",
+          "sunlife-202603-sp-upgrade",
+          "hkma-ia-2026-genai-sandbox",
+          "manulife-202603-new-products",
+          "ia-20260310-rbc-consult-close",
+          "ia-20260305-genai-sandbox",
+          "newcies-2026-3200apps-95b"
+        ]
+      },
+      {
+        "key": "2026-02",
+        "label": {
+          "sc": "2026-02",
+          "tc": "2026-02"
+        },
+        "itemCount": 12,
+        "itemIds": [
+          "ia-budget-20260225",
+          "ia-20260224-kpim-handbook",
+          "sunlife-2025-ape-118",
+          "ia-20260213-low-altitude",
+          "ia-20260211-rbc-consult",
+          "ia-20260211-rbc-consult-launch",
+          "fstb-20260210-fo-3384",
+          "hk-2026-newcies-3000",
+          "dlapiper-202602-gl16",
+          "fstb-family-office-boom-20260210",
+          "ia-20260206-gl16-gl34",
+          "circ-20260201-crossborder"
+        ]
+      },
+      {
+        "key": "2026-01",
+        "label": {
+          "sc": "2026-01",
+          "tc": "2026-01"
+        },
+        "itemCount": 8,
+        "itemIds": [
+          "ia-20260126-aff",
+          "axa-20260126-redomicile",
+          "ia-20260123-stats-3q2025",
+          "ia-20260123-q3stats",
+          "evident-2026-insurance-ai",
+          "ia-gl34-20260331",
+          "ebact-2025-hk-market",
+          "manulife-20260105-two-plans"
+        ]
+      },
+      {
+        "key": "2025-12",
+        "label": {
+          "sc": "2025-12",
+          "tc": "2025-12"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "zhihu-2025-top10",
+          "jpmorgan-2026-outlook",
+          "ia-2024-annual-stats"
+        ]
+      },
+      {
+        "key": "2025-11",
+        "label": {
+          "sc": "2025-11",
+          "tc": "2025-11"
+        },
+        "itemCount": 4,
+        "itemIds": [
+          "aia-20251121-aisan",
+          "goldman-2026-macro-outlook",
+          "ia-20251120-refcheck-scheme",
+          "sfc-2025-wmc-insurance"
+        ]
+      },
+      {
+        "key": "2025-10",
+        "label": {
+          "sc": "2025-10",
+          "tc": "2025-10"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "ia-20251024-1h2025-stats",
+          "ia-20251024-h1stats",
+          "ia-ro-cpd-20251014"
+        ]
+      },
+      {
+        "key": "2025-09",
+        "label": {
+          "sc": "2025-09",
+          "tc": "2025-09"
+        },
+        "itemCount": 6,
+        "itemIds": [
+          "ia-202508-iul-sandbox",
+          "ia-20250919-product-naming",
+          "ia-20250917-product-naming",
+          "manulife-20250902-hospitals",
+          "ia-20250901-referral50",
+          "ia-20250901-referral-fee"
+        ]
+      },
+      {
+        "key": "2025-08",
+        "label": {
+          "sc": "2025-08",
+          "tc": "2025-08"
+        },
+        "itemCount": 4,
+        "itemIds": [
+          "ia-2024-25-annual-report",
+          "dlapiper-202508-commission",
+          "ia-commission-20260101",
+          "ia-20250808-rbc-disclosure"
+        ]
+      },
+      {
+        "key": "2025-07",
+        "label": {
+          "sc": "2025-07",
+          "tc": "2025-07"
+        },
+        "itemCount": 4,
+        "itemIds": [
+          "ia-202507-commission-spread",
+          "ia-20250711-ro-cpd-compulsory",
+          "aia-20250708-global-prosper",
+          "ia-20250701-illustration-cap"
+        ]
+      },
+      {
+        "key": "2025-06",
+        "label": {
+          "sc": "2025-06",
+          "tc": "2025-06"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "sunlife-2025-enhanced-savings",
+          "ia-2025q1-stats-934",
+          "fstb-2024-density"
+        ]
+      },
+      {
+        "key": "2025-04",
+        "label": {
+          "sc": "2025-04",
+          "tc": "2025-04"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "manulife-20250428-ci",
+          "ia-2025-d-sii-designation",
+          "axa-20250409-gba-med"
+        ]
+      },
+      {
+        "key": "2025-03",
+        "label": {
+          "sc": "2025-03",
+          "tc": "2025-03"
+        },
+        "itemCount": 6,
+        "itemIds": [
+          "ia-20250330-illustration-article",
+          "fsdc-2025-insurance-hub",
+          "ia-2025-insurtech-initiatives",
+          "aia-2024-annual",
+          "ia-20250313-iul-circular",
+          "ia-20250313-iul-pi"
+        ]
+      },
+      {
+        "key": "2025-02",
+        "label": {
+          "sc": "2025-02",
+          "tc": "2025-02"
+        },
+        "itemCount": 4,
+        "itemIds": [
+          "nfra-202502-hkmo-insurance",
+          "ia-20250228-illustration-note",
+          "ia-20250228-illustration-cap-pn",
+          "ia-20250206-claims-mgmt"
+        ]
+      },
+      {
+        "key": "2025-01",
+        "label": {
+          "sc": "2025-01",
+          "tc": "2025-01"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "linkedin-2024-trends",
+          "axa-20250110-shengli"
+        ]
+      },
+      {
+        "key": "2024-12",
+        "label": {
+          "sc": "2024-12",
+          "tc": "2024-12"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "ia-20241205-annual-2024",
+          "ia-2024-re-domiciliation"
+        ]
+      },
+      {
+        "key": "2024-11",
+        "label": {
+          "sc": "2024-11",
+          "tc": "2024-11"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-2024-revised-gn16-consult"
+        ]
+      },
+      {
+        "key": "2024-10",
+        "label": {
+          "sc": "2024-10",
+          "tc": "2024-10"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "manulife-hiv-coverage-2024"
+        ]
+      },
+      {
+        "key": "2024-09",
+        "label": {
+          "sc": "2024-09",
+          "tc": "2024-09"
+        },
+        "itemCount": 5,
+        "itemIds": [
+          "ia-20240923-license-fee",
+          "ia-2024-h1-refcheck-cross-sector",
+          "ia-20240923-refcheck",
+          "ia-2024h1-stats",
+          "sunlife-2024-fwd-pension"
+        ]
+      },
+      {
+        "key": "2024-08",
+        "label": {
+          "sc": "2024-08",
+          "tc": "2024-08"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "ia-20240830-h1-2024-stats",
+          "ia-2024-crossborder",
+          "nfra-2024-crossborder-no"
+        ]
+      },
+      {
+        "key": "2024-07",
+        "label": {
+          "sc": "2024-07",
+          "tc": "2024-07"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "ia-20240726-tahoe-life",
+          "ctflife-20240723-rebrand",
+          "ia-20240701-rbc-live"
+        ]
+      },
+      {
+        "key": "2024-06",
+        "label": {
+          "sc": "2024-06",
+          "tc": "2024-06"
+        },
+        "itemCount": 4,
+        "itemIds": [
+          "henley-migration-2024",
+          "ocorian-hk-wealth-magnet-2024",
+          "ia-20240614-gl34-segregation",
+          "ia-20240612-unlicensed-mcv"
+        ]
+      },
+      {
+        "key": "2024-05",
+        "label": {
+          "sc": "2024-05",
+          "tc": "2024-05"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "ia-20240531-q1-2024-stats",
+          "ia-20240522-referral-fee-circular",
+          "chubb-cies-ilas-2024"
+        ]
+      },
+      {
+        "key": "2024-03",
+        "label": {
+          "sc": "2024-03",
+          "tc": "2024-03"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "fstb-fo-policy-202403",
+          "newcies-20240301-launch"
+        ]
+      },
+      {
+        "key": "2024-02",
+        "label": {
+          "sc": "2024-02",
+          "tc": "2024-02"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "hsbc-life-250m-record-20240228"
+        ]
+      }
+    ],
+    "yearly": [
+      {
+        "key": "2026",
+        "label": {
+          "sc": "2026 年",
+          "tc": "2026 年"
+        },
+        "itemCount": 158,
+        "itemIds": [
+          "mof-rmb-bonds-cmu-jul30",
+          "hkma-fed-response-jul30",
+          "hkma-cmu-network-jul29",
+          "bowtie-202607-100m",
+          "hk-202607-mainland-scrutiny",
+          "ia-20260730-sales-misconduct",
+          "ai-25pct-insurance-jobs-202607",
+          "picc-202607-re",
+          "ia-ai-cohort-new-insurers-jul",
+          "cgs-202607-hk-crackdown",
+          "ratings-2026-consolidated",
+          "continuum-hk-gm-202607",
+          "hk-fraud-payments-lag-202607",
+          "howden-hk-ceo-20260701",
+          "hkma-quantum-whitepaper-jul27",
+          "prudential-usd500k-legacy-202607",
+          "apac-insurers-emergedebt-202607",
+          "sunlife-privatewealth-202607",
+          "manulife-asian-care-survey-2026",
+          "aif-2026-save-the-date",
+          "hk-premiums-q1-2026-jul25",
+          "insbus-202607-hk-growth",
+          "ia-public-disclosure-2026",
+          "nfra-cybersecurity-rules-jul",
+          "ia-q1-2026-stats",
+          "hkma-complaints-20260724",
+          "aia-q1-market-leader-jul24",
+          "prudential-health-summit-2026",
+          "ziyu-ceo-letter-20260724",
+          "allianz-hsbc-singapore-jul24",
+          "axa-menopause-survey-jul23",
+          "sunlife-ride-to-shine-jul22",
+          "aia-20260716-hyrox",
+          "ia-20260716-ashk-ifoa",
+          "ia-sales-rules-tightening-jul15",
+          "ia-20260715-sales-practices",
+          "creditsights-2026-2h",
+          "hk-international-schools-2026",
+          "ia-licence-20260630",
+          "ia-20260712-speech",
+          "ia-20260710-illustration",
+          "tiger21-uhnw-allocation-2026",
+          "ia-20260710-illustration-review",
+          "fstb-20260708-captive",
+          "ia-20260708-captive",
+          "swissre-202607-wis",
+          "nfra-shanghai-reins-center-jul07",
+          "ia-20260703-rfyc",
+          "rga-2026-hk-market",
+          "hkex-ipo-pipeline-2026h1",
+          "ia-crossref-20260701",
+          "ia-20260630-swissre-sigma",
+          "ia-20260630-allianz-report",
+          "hk-property-cires-2026",
+          "ia-20260629-sunlife-notes",
+          "ia-20260629-hkma-bulletin",
+          "ia-20260628-fsdc-talent",
+          "ia-20260626-morganstanley",
+          "ia-20260626-pimco-asia",
+          "taiping-202606-rating",
+          "ia-20260625-manulife-convention",
+          "empf-2026-fee-reduction",
+          "manulife-20260625-board",
+          "ia-20260624-rga-trends",
+          "ia-20260620-goldman-outlook",
+          "fwd-2026-brand-victoria",
+          "henley-wealth-migration-2026",
+          "ia-ai-cohort-202606",
+          "ia-20260618-blackrock-outlook",
+          "ia-20260617-manulife-ai",
+          "ia-20260616-aia-prudential-roles",
+          "ia-20260616-cheung-enforcement",
+          "ia-ai-seminar-20260615",
+          "axa-2026-bloomberg-awards",
+          "bain-gba-crossborder-2026",
+          "ia-20260615-bloomberg-crackdown",
+          "ia-20260612-manulife-plans",
+          "hk-20260612-fo-tax",
+          "ia-20260610-manulife-leverage",
+          "ia-20260610-chowtaifook-life",
+          "ctflife-2026-diamond-iul",
+          "ia-20260609-fitch-apac",
+          "ia-20260608-axa-global-private",
+          "aia-20260608-prosperlife",
+          "ia-20260608-aia-wealth-flexi",
+          "ia-20260605-hkma-remuneration-circ",
+          "ia-hkma-remuneration-20260605",
+          "ia-20260605-hkma-commission",
+          "ia-20260611-chubb-life",
+          "ia-20260603-broker-referral",
+          "ia-20260602-hkma-crossborder",
+          "deloitte-2026-insurance-outlook",
+          "chubb-20260601-mylegacy",
+          "hkma-wealthconnect-2026",
+          "ia-20260529-onsite-findings",
+          "allianz-20260528-global-report",
+          "bcg-hk-1-cross-border-wealth-20260527",
+          "ia-20260520-gl34-corp",
+          "fwd-2026-q1-update",
+          "ia-20260519-disclosure-consult",
+          "sunlife-2026-10life-awards",
+          "ia-20260513-cross-ref",
+          "ia-20260513-cross-refcheck",
+          "ia-20260508-rbc-conclusion",
+          "ia-20260508-rbc-conclusions",
+          "cpic-20260504-gen3",
+          "aia-20260430-q1-vonb",
+          "prudential-20260429-self-future",
+          "boclife-20260427-retirement",
+          "ia-2025-full-year",
+          "ia-20260424-stats-2025",
+          "aia-20260424-top-insurer",
+          "ctflife-20260422-artisan-leap",
+          "ia-20260422-ils",
+          "manulife-20260420-annuity-accident",
+          "ia-20260416-cyber",
+          "ia-202604-fsi-survey",
+          "chinlife-2026-hk-digital",
+          "legco-20260410-fa-disclosure",
+          "ia-20260409-captive-beijing",
+          "ia-20260331-gn16-revised",
+          "gn16-revised-20260331",
+          "ia-20260331-cpd-reporting",
+          "ia-2025-complaints",
+          "ia-20260327-cif12",
+          "ia-20260326-health-conf",
+          "ia-20260325-captive-forum-speech",
+          "chubb-2026-dementia",
+          "aof-hkimr-family-office-202603",
+          "aia-2025-annual-results",
+          "hsbc-life-2026-hnw-pitchbook",
+          "prudential-20260317-youth",
+          "sunlife-202603-sp-upgrade",
+          "hkma-ia-2026-genai-sandbox",
+          "manulife-202603-new-products",
+          "ia-20260310-rbc-consult-close",
+          "ia-20260305-genai-sandbox",
+          "newcies-2026-3200apps-95b",
+          "ia-budget-20260225",
+          "ia-20260224-kpim-handbook",
+          "sunlife-2025-ape-118",
+          "ia-20260213-low-altitude",
+          "ia-20260211-rbc-consult",
+          "ia-20260211-rbc-consult-launch",
+          "fstb-20260210-fo-3384",
+          "hk-2026-newcies-3000",
+          "dlapiper-202602-gl16",
+          "fstb-family-office-boom-20260210",
+          "ia-20260206-gl16-gl34",
+          "circ-20260201-crossborder",
+          "ia-20260126-aff",
+          "axa-20260126-redomicile",
+          "ia-20260123-stats-3q2025",
+          "ia-20260123-q3stats",
+          "evident-2026-insurance-ai",
+          "ia-gl34-20260331",
+          "ebact-2025-hk-market",
+          "manulife-20260105-two-plans"
+        ]
+      },
+      {
+        "key": "2025",
+        "label": {
+          "sc": "2025 年",
+          "tc": "2025 年"
+        },
+        "itemCount": 42,
+        "itemIds": [
+          "zhihu-2025-top10",
+          "jpmorgan-2026-outlook",
+          "ia-2024-annual-stats",
+          "aia-20251121-aisan",
+          "goldman-2026-macro-outlook",
+          "ia-20251120-refcheck-scheme",
+          "sfc-2025-wmc-insurance",
+          "ia-20251024-1h2025-stats",
+          "ia-20251024-h1stats",
+          "ia-ro-cpd-20251014",
+          "ia-202508-iul-sandbox",
+          "ia-20250919-product-naming",
+          "ia-20250917-product-naming",
+          "manulife-20250902-hospitals",
+          "ia-20250901-referral50",
+          "ia-20250901-referral-fee",
+          "ia-2024-25-annual-report",
+          "dlapiper-202508-commission",
+          "ia-commission-20260101",
+          "ia-20250808-rbc-disclosure",
+          "ia-202507-commission-spread",
+          "ia-20250711-ro-cpd-compulsory",
+          "aia-20250708-global-prosper",
+          "ia-20250701-illustration-cap",
+          "sunlife-2025-enhanced-savings",
+          "ia-2025q1-stats-934",
+          "fstb-2024-density",
+          "manulife-20250428-ci",
+          "ia-2025-d-sii-designation",
+          "axa-20250409-gba-med",
+          "ia-20250330-illustration-article",
+          "fsdc-2025-insurance-hub",
+          "ia-2025-insurtech-initiatives",
+          "aia-2024-annual",
+          "ia-20250313-iul-circular",
+          "ia-20250313-iul-pi",
+          "nfra-202502-hkmo-insurance",
+          "ia-20250228-illustration-note",
+          "ia-20250228-illustration-cap-pn",
+          "ia-20250206-claims-mgmt",
+          "linkedin-2024-trends",
+          "axa-20250110-shengli"
+        ]
+      },
+      {
+        "key": "2024",
+        "label": {
+          "sc": "2024 年",
+          "tc": "2024 年"
+        },
+        "itemCount": 25,
+        "itemIds": [
+          "ia-20241205-annual-2024",
+          "ia-2024-re-domiciliation",
+          "ia-2024-revised-gn16-consult",
+          "manulife-hiv-coverage-2024",
+          "ia-20240923-license-fee",
+          "ia-2024-h1-refcheck-cross-sector",
+          "ia-20240923-refcheck",
+          "ia-2024h1-stats",
+          "sunlife-2024-fwd-pension",
+          "ia-20240830-h1-2024-stats",
+          "ia-2024-crossborder",
+          "nfra-2024-crossborder-no",
+          "ia-20240726-tahoe-life",
+          "ctflife-20240723-rebrand",
+          "ia-20240701-rbc-live",
+          "henley-migration-2024",
+          "ocorian-hk-wealth-magnet-2024",
+          "ia-20240614-gl34-segregation",
+          "ia-20240612-unlicensed-mcv",
+          "ia-20240531-q1-2024-stats",
+          "ia-20240522-referral-fee-circular",
+          "chubb-cies-ilas-2024",
+          "fstb-fo-policy-202403",
+          "newcies-20240301-launch",
+          "hsbc-life-250m-record-20240228"
+        ]
+      }
+    ]
   },
   "boards": [
     {
@@ -18543,12 +21081,21 @@ window.HKII_DATA = {
         "tc": "家辦與跨境服務"
       },
       "desc": {
-        "sc": "家族办公室、跨境架构、身份/财富规划协作及相关服务生态。",
-        "tc": "家族辦公室、跨境架構、身份/財富規劃協作及相關服務生態。"
+        "sc": "身份规划、精英教育、全球资产配置、企业服务、资本市场、风险管理与地产投资",
+        "tc": "身份規劃、精英教育、全球資產配置、企業服務、資本市場、風險管理與地產投資"
       },
       "matchThemes": [
         "offshore",
         "intl"
+      ],
+      "subs": [
+        "identity-planning",
+        "elite-education",
+        "global-allocation",
+        "corporate-service",
+        "capital-market",
+        "risk-management",
+        "property-investment"
       ]
     }
   ],

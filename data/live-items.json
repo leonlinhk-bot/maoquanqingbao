@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-07-31T00:05:16+08:00",
-    "itemCount": 220,
+    "generatedAt": "2026-07-31T01:33:44+08:00",
+    "itemCount": 225,
     "windowNote": {
-      "sc": "本库220条。",
-      "tc": "本庫220條。"
+      "sc": "本库225条。",
+      "tc": "本庫225條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -16710,6 +16710,141 @@
       ]
     },
     {
+      "id": "henley-migration-2024",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "pending",
+      "sourceTier": "pro",
+      "sourceKey": "Henley & Partners",
+      "title": {
+        "sc": "Henley 2024 财富迁移报告：中国内地百万富翁流出量全球第一",
+        "tc": "Henley 2024 財富遷移報告：中國內地百萬富翁流出量全球第一"
+      },
+      "summary": {
+        "sc": "Henley & Partners 发布《2024 私人财富迁移报告》：预计 2024 年全球 12.8 万高净值人士将迁移，中国内地以 15,200 人的净流出量居全球首位。香港是主要目的地之一，受益于 CIES 重启和家办政策利好。",
+        "tc": "Henley & Partners 發布《2024 私人財富遷移報告》：預計 2024 年全球 12.8 萬高淨值人士將遷移，中國內地以 15,200 人的淨流出量居全球首位。香港是主要目的地之一，受益於 CIES 重啟和家辦政策利好。"
+      },
+      "why": {
+        "sc": "15,200 内地百万富翁净流出——等于每年有一个中等城市规模的高净值人群在寻找新的财富目的地。香港 CIES + 家办政策正是对这一趋势的制度性回应。",
+        "tc": "15,200 內地百萬富翁淨流出——等於每年有一個中等城市規模的高淨值人群在尋找新的財富目的地。香港 CIES + 家辦政策正是對這一趨勢的制度性回應。"
+      },
+      "actions": {
+        "front": {
+          "sc": "内地高净值流出潮=跨境保险的持续增长源",
+          "tc": "內地高淨值流出潮=跨境保險的持續增長源"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "15,200人/年的增量市场=战略布局不嫌早",
+          "tc": "15,200人/年的增量市場=戰略佈局不嫌早"
+        },
+        "cross": {
+          "sc": "高净值迁移数据是身份规划业务的基础",
+          "tc": "高淨值遷移數據是身份規劃業務的基礎"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 4,
+        "cross": 5
+      },
+      "source": {
+        "sc": "Henley & Partners",
+        "lang": "zh"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "offshore",
+        "identity-planning"
+      ],
+      "tags": {
+        "sc": [
+          "财富迁移",
+          "Henley",
+          "身份规划"
+        ],
+        "tc": [
+          "財富遷移",
+          "Henley",
+          "身份規劃"
+        ]
+      },
+      "contentKind": "stats",
+      "publishedAt": "2024-06-18T10:00:00+08:00",
+      "originalUrl": "https://www.henleyglobal.com/publications/henley-private-wealth-migration-report-2024"
+    },
+    {
+      "id": "ocorian-hk-wealth-magnet-2024",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "pending",
+      "sourceTier": "pro",
+      "sourceKey": "Ocorian",
+      "title": {
+        "sc": "Ocorian 报告：2024年香港跨境财富猛增 2,310 亿美元，追平瑞士",
+        "tc": "Ocorian 報告：2024年香港跨境財富猛增 2,310 億美元，追平瑞士"
+      },
+      "summary": {
+        "sc": "Ocorian 发布《How Hong Kong became a global wealth magnet》报告：2024 年香港跨境财富管理规模增加 2,310 亿美元，总规模达到 2.7 万亿美元，与瑞士并列全球最大跨境财富中心。私人银行及私人财富管理 AUM 突破 10 万亿港元（同比+15%）。",
+        "tc": "Ocorian 發布《How Hong Kong became a global wealth magnet》報告：2024 年香港跨境財富管理規模增加 2,310 億美元，總規模達到 2.7 萬億美元，與瑞士並列全球最大跨境財富中心。私人銀行及私人財富管理 AUM 突破 10 萬億港元（同比+15%）。"
+      },
+      "why": {
+        "sc": "2,310 亿美元的年增量 = 香港跨境财富赛道不是在「增长」，是在「爆发」。2024 追平瑞士，2026 超越瑞士（BCG 数据），两年三级跳的背后是整个家办生态的制度红利。",
+        "tc": "2,310 億美元的年增量 = 香港跨境財富賽道不是在「增長」，是在「爆發」。2024 追平瑞士，2026 超越瑞士（BCG 數據），兩年三級跳的背後是整個家辦生態的制度紅利。"
+      },
+      "actions": {
+        "front": {
+          "sc": "2.7万亿跨境财富=大额保险和信托的庞大市场",
+          "tc": "2.7萬億跨境財富=大額保險和信託的龐大市場"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "跨境财富增速是团队战略定投的最强信号",
+          "tc": "跨境財富增速是團隊戰略定投的最強信號"
+        },
+        "cross": {
+          "sc": "追平瑞士=香港跨境财富赛道的里程碑节点",
+          "tc": "追平瑞士=香港跨境財富賽道的里程碑節點"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 5,
+        "cross": 5
+      },
+      "source": {
+        "sc": "Ocorian",
+        "lang": "zh"
+      },
+      "boards": [
+        "family",
+        "market"
+      ],
+      "themes": [
+        "offshore",
+        "global-allocation"
+      ],
+      "tags": {
+        "sc": [
+          "跨境财富",
+          "全球第二",
+          "Ocorian"
+        ],
+        "tc": [
+          "跨境財富",
+          "全球第二",
+          "Ocorian"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2024-06-15T10:00:00+08:00",
+      "originalUrl": "https://www.ocorian.com/knowledge-hub/insights/how-hong-kong-became-global-wealth-magnet"
+    },
+    {
       "id": "ia-20240614-gl34-segregation",
       "clusterCount": 1,
       "score": 78,
@@ -16981,6 +17116,220 @@
       "contentKind": "circular",
       "publishedAt": "2024-05-22T14:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/20240522_Circular.pdf"
+    },
+    {
+      "id": "chubb-cies-ilas-2024",
+      "clusterCount": 1,
+      "score": 71,
+      "verifyStatus": "pending",
+      "sourceTier": "insurer",
+      "sourceKey": "Chubb 安达人寿",
+      "title": {
+        "sc": "安达人寿推出 CIES 合资格投资相连寿险计划",
+        "tc": "安達人壽推出 CIES 合資格投資相連壽險計劃"
+      },
+      "summary": {
+        "sc": "安达人寿（Chubb Life HK）推出专为 CIES 申请人设计的合资格投资相连寿险计划（ILAS），提供多元化基金选择和 SFC+IA 双重监管保障。这是保司直接对接 CIES 投资需求的产品创新，将保险嵌入移民投资架构。",
+        "tc": "安達人壽（Chubb Life HK）推出專為 CIES 申請人設計的合資格投資相連壽險計劃（ILAS），提供多元化基金選擇和 SFC+IA 雙重監管保障。這是保司直接對接 CIES 投資需求的产品創新，將保險嵌入移民投資架構。"
+      },
+      "why": {
+        "sc": "ILAS 是保险产品对接 CIES 的标准答案——投连险既满足 2,700 万金融资产要求，又提供人寿保障。Chubb 的这步棋说明：CIES 不只是家办的蛋糕，保司也在切。",
+        "tc": "ILAS 是保險產品對接 CIES 的標準答案——投連險既滿足 2,700 萬金融資產要求，又提供人壽保障。Chubb 的這步棋說明：CIES 不只是家辦的蛋糕，保司也在切。"
+      },
+      "actions": {
+        "front": {
+          "sc": "CIES客户的投连险=资产配置+身份规划一步到位",
+          "tc": "CIES客戶的投連險=資產配置+身份規劃一步到位"
+        },
+        "midback": {
+          "sc": "ILAS产品需同时满足SFC和IA双重合规",
+          "tc": "ILAS產品需同時滿足SFC和IA雙重合規"
+        },
+        "lead": {
+          "sc": "CIES产品线是保司新的增长极",
+          "tc": "CIES產品線是保司新的增長極"
+        },
+        "cross": {
+          "sc": "ILAS是保险嵌入跨境投资架构的范本",
+          "tc": "ILAS是保險嵌入跨境投資架構的範本"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 3,
+        "lead": 3,
+        "cross": 4
+      },
+      "source": {
+        "sc": "Chubb Life HK",
+        "lang": "zh"
+      },
+      "boards": [
+        "product",
+        "family"
+      ],
+      "themes": [
+        "product",
+        "offshore",
+        "identity-planning"
+      ],
+      "tags": {
+        "sc": [
+          "CIES",
+          "投连险",
+          "Chubb"
+        ],
+        "tc": [
+          "CIES",
+          "投連險",
+          "Chubb"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2024-05-01T10:00:00+08:00",
+      "originalUrl": "https://www.chubb.com/hk-en/personal/cias.html"
+    },
+    {
+      "id": "fstb-fo-policy-202403",
+      "clusterCount": 1,
+      "score": 82,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "财经事务及库务局 FSTB",
+      "title": {
+        "sc": "港府发布《家族办公室政策宣言》：八大措施打造家办枢纽",
+        "tc": "港府發布《家族辦公室政策宣言》：八大措施打造家辦樞紐"
+      },
+      "summary": {
+        "sc": "财经事务及库务局发布《有关香港发展家族办公室业务的政策宣言》，提出八大政策措施：包括新的 CIES 计划、税务宽减、设立 FamilyOfficeHK 服务窗口、成立财富继承学院、推广艺术品存储设施、发展慈善中心等。标志港府将家办作为核心金融战略。",
+        "tc": "財經事務及庫務局發布《有關香港發展家族辦公室業務的政策宣言》，提出八大政策措施：包括新的 CIES 計劃、稅務寬減、設立 FamilyOfficeHK 服務窗口、成立財富繼承學院、推廣藝術品存儲設施、發展慈善中心等。標誌港府將家辦作為核心金融戰略。"
+      },
+      "why": {
+        "sc": "这是香港家办生态的「宪法性文件」——八大措施 = 港府对家办的全套诚意。CIES/税务优惠/服务窗口三管齐下，信号再明确不过：香港要从「保险销售港」升级为「财富管理枢纽」。",
+        "tc": "這是香港家辦生態的「憲法性文件」——八大措施 = 港府對家辦的全套誠意。CIES/稅務優惠/服務窗口三管齊下，信號再明確不過：香港要從「保險銷售港」升級為「財富管理樞紐」。"
+      },
+      "actions": {
+        "front": {
+          "sc": "家办客户现在有政策背书的「整套服务」，不只是产品",
+          "tc": "家辦客戶現在有政策背書的「整套服務」，不只是產品"
+        },
+        "midback": {
+          "sc": "税务宽减政策是合规操作的重要依据",
+          "tc": "稅務寬減政策是合規操作的重要依據"
+        },
+        "lead": {
+          "sc": "八大措施 = 家办赛道正式获得政府级战略支撑",
+          "tc": "八大措施 = 家辦賽道正式獲得政府級戰略支撐"
+        },
+        "cross": {
+          "sc": "CIES/税务/服务窗口 = 跨境家办的三根支柱",
+          "tc": "CIES/稅務/服務窗口 = 跨境家辦的三根支柱"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 3,
+        "lead": 5,
+        "cross": 5
+      },
+      "source": {
+        "sc": "FSTB · GovHK",
+        "lang": "zh"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "family-office",
+        "offshore",
+        "corporate-service"
+      ],
+      "tags": {
+        "sc": [
+          "家办政策",
+          "FSTB",
+          "八大措施"
+        ],
+        "tc": [
+          "家辦政策",
+          "FSTB",
+          "八大措施"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2024-03-24T10:00:00+08:00",
+      "originalUrl": "https://www.fstb.gov.hk/en/business-family-office-policy-statement.html"
+    },
+    {
+      "id": "newcies-20240301-launch",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "投资推广署 / 入境事务处",
+      "title": {
+        "sc": "新CIES正式启动：投资3,000万港元可获香港居留权",
+        "tc": "新CIES正式啟動：投資3,000萬港元可獲香港居留權"
+      },
+      "summary": {
+        "sc": "2024年3月1日，香港特区政府正式推出「新资本投资者入境计划（New CIES）」。合资格申请人须投资最少 3,000 万港元于获许资产（其中 2,700 万为金融资产/非住宅房地产，300 万投入 CIES 投资组合）。获批申请人可携配偶及子女来港，7 年后可申请永久居留。",
+        "tc": "2024年3月1日，香港特區政府正式推出「新資本投資者入境計劃（New CIES）」。合資格申請人須投資最少 3,000 萬港元於獲許資產（其中 2,700 萬為金融資產/非住宅房地產，300 萬投入 CIES 投資組合）。獲批申請人可攜配偶及子女來港，7 年後可申請永久居留。"
+      },
+      "why": {
+        "sc": "CIES 是香港跨境财富管理的「制度基座」。3,000 万门槛 + 7年居留路径 = 每笔申请背后都是一个高净值家庭的全面财富规划需求（保险/信托/教育/置业）。2024年3月是这条赛道的起点。",
+        "tc": "CIES 是香港跨境財富管理的「制度基座」。3,000 萬門檻 + 7年居留路徑 = 每筆申請背後都是一個高淨值家庭的全面財富規劃需求（保險/信託/教育/置業）。2024年3月是這條賽道的起點。"
+      },
+      "actions": {
+        "front": {
+          "sc": "CIES客户是高净值保险/投连险的精准受众",
+          "tc": "CIES客戶是高淨值保險/投連險的精準受眾"
+        },
+        "midback": {
+          "sc": "CIES合规要求涉及净资产审查和投资持有规则",
+          "tc": "CIES合規要求涉及淨資產審查和投資持有規則"
+        },
+        "lead": {
+          "sc": "CIES是跨境家办业务的核心获客渠道",
+          "tc": "CIES是跨境家辦業務的核心獲客渠道"
+        },
+        "cross": {
+          "sc": "CIES是身份规划+财富管理的交叉入口",
+          "tc": "CIES是身份規劃+財富管理的交叉入口"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 3,
+        "lead": 5,
+        "cross": 5
+      },
+      "source": {
+        "sc": "新CIES办公室 · GovHK",
+        "lang": "zh"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "offshore",
+        "family-office",
+        "identity-planning"
+      ],
+      "tags": {
+        "sc": [
+          "CIES",
+          "投资移民",
+          "家办"
+        ],
+        "tc": [
+          "CIES",
+          "投資移民",
+          "家辦"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2024-03-01T10:00:00+08:00",
+      "originalUrl": "https://www.newcies.gov.hk/zh-cn/resources/news/new-capital-investment-entrant-scheme-opens-for-application-from-march-1/"
     },
     {
       "id": "hsbc-life-250m-record-20240228",
@@ -17429,11 +17778,12 @@
           "sc": "2026-07-15",
           "tc": "2026-07-15"
         },
-        "itemCount": 3,
+        "itemCount": 4,
         "itemIds": [
           "ia-sales-rules-tightening-jul15",
           "ia-20260715-sales-practices",
-          "creditsights-2026-2h"
+          "creditsights-2026-2h",
+          "hk-international-schools-2026"
         ]
       },
       {
@@ -17464,9 +17814,10 @@
           "sc": "2026-07-10",
           "tc": "2026-07-10"
         },
-        "itemCount": 2,
+        "itemCount": 3,
         "itemIds": [
           "ia-20260710-illustration",
+          "tiger21-uhnw-allocation-2026",
           "ia-20260710-illustration-review"
         ]
       },
@@ -17511,9 +17862,10 @@
           "sc": "2026-07-01",
           "tc": "2026-07-01"
         },
-        "itemCount": 2,
+        "itemCount": 3,
         "itemIds": [
           "rga-2026-hk-market",
+          "hkex-ipo-pipeline-2026h1",
           "ia-crossref-20260701"
         ]
       },
@@ -17523,10 +17875,11 @@
           "sc": "2026-06-30",
           "tc": "2026-06-30"
         },
-        "itemCount": 2,
+        "itemCount": 3,
         "itemIds": [
           "ia-20260630-swissre-sigma",
-          "ia-20260630-allianz-report"
+          "ia-20260630-allianz-report",
+          "hk-property-cires-2026"
         ]
       },
       {
@@ -17595,10 +17948,11 @@
           "sc": "2026-06-20",
           "tc": "2026-06-20"
         },
-        "itemCount": 2,
+        "itemCount": 3,
         "itemIds": [
           "ia-20260620-goldman-outlook",
-          "fwd-2026-brand-victoria"
+          "fwd-2026-brand-victoria",
+          "henley-wealth-migration-2026"
         ]
       },
       {
@@ -18194,11 +18548,12 @@
           "sc": "2026-02-10",
           "tc": "2026-02-10"
         },
-        "itemCount": 3,
+        "itemCount": 4,
         "itemIds": [
           "fstb-20260210-fo-3384",
           "hk-2026-newcies-3000",
-          "dlapiper-202602-gl16"
+          "dlapiper-202602-gl16",
+          "fstb-family-office-boom-20260210"
         ]
       },
       {
@@ -18799,6 +19154,28 @@
         ]
       },
       {
+        "key": "2024-06-18",
+        "label": {
+          "sc": "2024-06-18",
+          "tc": "2024-06-18"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "henley-migration-2024"
+        ]
+      },
+      {
+        "key": "2024-06-15",
+        "label": {
+          "sc": "2024-06-15",
+          "tc": "2024-06-15"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ocorian-hk-wealth-magnet-2024"
+        ]
+      },
+      {
         "key": "2024-06-14",
         "label": {
           "sc": "2024-06-14",
@@ -18840,6 +19217,39 @@
         "itemCount": 1,
         "itemIds": [
           "ia-20240522-referral-fee-circular"
+        ]
+      },
+      {
+        "key": "2024-05-01",
+        "label": {
+          "sc": "2024-05-01",
+          "tc": "2024-05-01"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "chubb-cies-ilas-2024"
+        ]
+      },
+      {
+        "key": "2024-03-24",
+        "label": {
+          "sc": "2024-03-24",
+          "tc": "2024-03-24"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "fstb-fo-policy-202403"
+        ]
+      },
+      {
+        "key": "2024-03-01",
+        "label": {
+          "sc": "2024-03-01",
+          "tc": "2024-03-01"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "newcies-20240301-launch"
         ]
       },
       {
@@ -19731,13 +20141,25 @@
         ]
       },
       {
+        "key": "2024-W25",
+        "label": {
+          "sc": "2024-W25",
+          "tc": "2024-W25"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "henley-migration-2024"
+        ]
+      },
+      {
         "key": "2024-W24",
         "label": {
           "sc": "2024-W24",
           "tc": "2024-W24"
         },
-        "itemCount": 2,
+        "itemCount": 3,
         "itemIds": [
+          "ocorian-hk-wealth-magnet-2024",
           "ia-20240614-gl34-segregation",
           "ia-20240612-unlicensed-mcv"
         ]
@@ -19765,13 +20187,36 @@
         ]
       },
       {
+        "key": "2024-W18",
+        "label": {
+          "sc": "2024-W18",
+          "tc": "2024-W18"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "chubb-cies-ilas-2024"
+        ]
+      },
+      {
+        "key": "2024-W12",
+        "label": {
+          "sc": "2024-W12",
+          "tc": "2024-W12"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "fstb-fo-policy-202403"
+        ]
+      },
+      {
         "key": "2024-W09",
         "label": {
           "sc": "2024-W09",
           "tc": "2024-W09"
         },
-        "itemCount": 1,
+        "itemCount": 2,
         "itemIds": [
+          "newcies-20240301-launch",
           "hsbc-life-250m-record-20240228"
         ]
       }
@@ -20238,8 +20683,10 @@
           "sc": "2024-06",
           "tc": "2024-06"
         },
-        "itemCount": 2,
+        "itemCount": 4,
         "itemIds": [
+          "henley-migration-2024",
+          "ocorian-hk-wealth-magnet-2024",
           "ia-20240614-gl34-segregation",
           "ia-20240612-unlicensed-mcv"
         ]
@@ -20250,10 +20697,23 @@
           "sc": "2024-05",
           "tc": "2024-05"
         },
-        "itemCount": 2,
+        "itemCount": 3,
         "itemIds": [
           "ia-20240531-q1-2024-stats",
-          "ia-20240522-referral-fee-circular"
+          "ia-20240522-referral-fee-circular",
+          "chubb-cies-ilas-2024"
+        ]
+      },
+      {
+        "key": "2024-03",
+        "label": {
+          "sc": "2024-03",
+          "tc": "2024-03"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "fstb-fo-policy-202403",
+          "newcies-20240301-launch"
         ]
       },
       {
@@ -20495,7 +20955,7 @@
           "sc": "2024 年",
           "tc": "2024 年"
         },
-        "itemCount": 20,
+        "itemCount": 25,
         "itemIds": [
           "ia-20241205-annual-2024",
           "ia-2024-re-domiciliation",
@@ -20512,10 +20972,15 @@
           "ia-20240726-tahoe-life",
           "ctflife-20240723-rebrand",
           "ia-20240701-rbc-live",
+          "henley-migration-2024",
+          "ocorian-hk-wealth-magnet-2024",
           "ia-20240614-gl34-segregation",
           "ia-20240612-unlicensed-mcv",
           "ia-20240531-q1-2024-stats",
           "ia-20240522-referral-fee-circular",
+          "chubb-cies-ilas-2024",
+          "fstb-fo-policy-202403",
+          "newcies-20240301-launch",
           "hsbc-life-250m-record-20240228"
         ]
       }
