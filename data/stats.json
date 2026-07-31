@@ -441,8 +441,8 @@
       "tc": "保司實力一覽"
     },
     "subtitle": {
-      "sc": "按新造保费市占率排序 · 信评来自 S&P Global · 数据截至 2026 Q1",
-      "tc": "按新造保費市佔率排序 · 信評來自 S&P Global · 數據截至 2026 Q1"
+      "sc": "标准保费排名(整付×10%+年化) · IA 4Q25 统计 · 数据截至 2025 全年",
+      "tc": "標準保費排名(整付×10%+年化) · IA 4Q25 統計 · 數據截至 2025 全年"
     },
     "rankings": [
       {
@@ -452,163 +452,177 @@
           "sc": "汇丰人寿",
           "tc": "匯豐人壽"
         },
-        "share": "26.6%",
+        "share": "17.6%",
+        "shareType": "std",
         "rating": "AA",
         "trend": "up",
         "note": {
-          "sc": "Q1 2026 NBP 市占率第一，银行保险渠道龙头",
-          "tc": "Q1 2026 NBP 市佔率第一，銀行保險渠道龍頭"
+          "sc": "标准保费全渠道第一",
+          "tc": "標準保費全渠道第一"
         },
-        "source": "InsuranceAsia Q1 2026"
+        "source": "IA 4Q25 Excel"
       },
       {
         "rank": 2,
-        "name": "AIA",
-        "nameZH": {
-          "sc": "友邦",
-          "tc": "友邦"
-        },
-        "share": "~18%",
-        "rating": "AA",
-        "trend": "up",
-        "note": {
-          "sc": "代理渠道龙头，IA AI Cohort 核心参与保司",
-          "tc": "代理渠道龍頭，IA AI Cohort 核心參與保司"
-        },
-        "source": "IA Annual Stats"
-      },
-      {
-        "rank": 3,
-        "name": "Prudential",
-        "nameZH": {
-          "sc": "保诚",
-          "tc": "保誠"
-        },
-        "share": "~12%",
-        "rating": "AA",
-        "trend": "up",
-        "note": {
-          "sc": "2026 年推 50 万美元级遗产传承产品，加码高净值",
-          "tc": "2026 年推 50 萬美元級遺產傳承產品，加碼高淨值"
-        },
-        "source": "IA Annual Stats"
-      },
-      {
-        "rank": 4,
-        "name": "Manulife",
-        "nameZH": {
-          "sc": "宏利",
-          "tc": "宏利"
-        },
-        "share": "~10%",
-        "rating": "AA-",
-        "trend": "up",
-        "note": {
-          "sc": "Evident AI Index 寿险第一，将 HIV 阳性纳入承保",
-          "tc": "Evident AI Index 壽險第一，將 HIV 陽性納入承保"
-        },
-        "source": "IA Annual Stats"
-      },
-      {
-        "rank": 5,
-        "name": "AXA",
-        "nameZH": {
-          "sc": "安盛",
-          "tc": "安盛"
-        },
-        "share": "~8%",
-        "rating": "AA-",
-        "trend": "flat",
-        "note": {
-          "sc": "全球保险巨头，香港一般保险业务强势",
-          "tc": "全球保險巨頭，香港一般保險業務強勢"
-        },
-        "source": "IA Annual Stats"
-      },
-      {
-        "rank": 6,
-        "name": "Sun Life",
-        "nameZH": {
-          "sc": "永明",
-          "tc": "永明"
-        },
-        "share": "~6%",
-        "rating": "AA",
-        "trend": "up",
-        "note": {
-          "sc": "2026 年 S&P 从 AA- 上调至 AA，推私人财富平台",
-          "tc": "2026 年 S&P 從 AA- 上調至 AA，推私人財富平台"
-        },
-        "source": "IA Annual Stats / S&P Mar 2026"
-      },
-      {
-        "rank": 7,
-        "name": "FWD",
-        "nameZH": {
-          "sc": "富卫",
-          "tc": "富衛"
-        },
-        "share": "~5%",
-        "rating": "NR",
-        "trend": "up",
-        "note": {
-          "sc": "品牌重塑后加速增长，专注年轻客群和数字化",
-          "tc": "品牌重塑後加速增長，專注年輕客群和數字化"
-        },
-        "source": "IA Annual Stats"
-      },
-      {
-        "rank": 8,
-        "name": "Chubb",
-        "nameZH": {
-          "sc": "安达",
-          "tc": "安達"
-        },
-        "share": "~3%",
-        "rating": "A+",
-        "trend": "up",
-        "note": {
-          "sc": "RBC 偿付能力充足率 200%+，推 CIES 投连险",
-          "tc": "RBC 償付能力充足率 200%+，推 CIES 投連險"
-        },
-        "source": "IA Annual Stats / Chubb Leaflet"
-      },
-      {
-        "rank": 9,
-        "name": "CTF Life",
-        "nameZH": {
-          "sc": "周大福人寿",
-          "tc": "周大福人壽"
-        },
-        "share": "~2%",
-        "rating": "NR",
-        "trend": "new",
-        "note": {
-          "sc": "2024.07 从富通保险更名，周大福集团旗下",
-          "tc": "2024.07 從富通保險更名，周大福集團旗下"
-        },
-        "source": "公司公告 2024.07"
-      },
-      {
-        "rank": 10,
         "name": "BOC Life",
         "nameZH": {
           "sc": "中银人寿",
           "tc": "中銀人壽"
         },
-        "share": "~2%",
+        "share": "14.0%",
+        "shareType": "std",
         "rating": "A",
         "trend": "flat",
         "note": {
-          "sc": "中银香港旗下，人民币保单特色突出",
-          "tc": "中銀香港旗下，人民幣保單特色突出"
+          "sc": "银保主力",
+          "tc": "銀保主力"
         },
-        "source": "IA Annual Stats"
+        "source": "IA 4Q25 Excel"
+      },
+      {
+        "rank": 3,
+        "name": "AIA",
+        "nameZH": {
+          "sc": "友邦",
+          "tc": "友邦"
+        },
+        "share": "12.4%",
+        "shareType": "std",
+        "rating": "AA",
+        "trend": "up",
+        "note": {
+          "sc": "代理渠道龙头",
+          "tc": "代理渠道龍頭"
+        },
+        "source": "IA 4Q25 Excel"
+      },
+      {
+        "rank": 4,
+        "name": "Prudential",
+        "nameZH": {
+          "sc": "保诚",
+          "tc": "保誠"
+        },
+        "share": "8.8%",
+        "shareType": "std",
+        "rating": "AA",
+        "trend": "up",
+        "note": {
+          "sc": "代理纯度最高(69%)",
+          "tc": "代理純度最高(69%)"
+        },
+        "source": "IA 4Q25 Excel"
+      },
+      {
+        "rank": 5,
+        "name": "Manulife",
+        "nameZH": {
+          "sc": "宏利",
+          "tc": "宏利"
+        },
+        "share": "8.0%",
+        "shareType": "std",
+        "rating": "AA-",
+        "trend": "up",
+        "note": {
+          "sc": "混合派代表, +39%YoY",
+          "tc": "混合派代表, +39%YoY"
+        },
+        "source": "IA 4Q25 Excel"
+      },
+      {
+        "rank": 6,
+        "name": "China Life",
+        "nameZH": {
+          "sc": "国寿海外",
+          "tc": "國壽海外"
+        },
+        "share": "6.8%",
+        "shareType": "std",
+        "rating": "A",
+        "trend": "flat",
+        "note": {
+          "sc": "银保派",
+          "tc": "銀保派"
+        },
+        "source": "IA 4Q25 Excel"
+      },
+      {
+        "rank": 7,
+        "name": "Sun Life",
+        "nameZH": {
+          "sc": "永明金融",
+          "tc": "永明金融"
+        },
+        "share": "6.4%",
+        "shareType": "std",
+        "rating": "AA",
+        "trend": "up",
+        "note": {
+          "sc": "经纪TOP3, 评级上调至AA",
+          "tc": "經紀TOP3, 評級上調至AA"
+        },
+        "source": "IA 4Q25 Excel"
+      },
+      {
+        "rank": 8,
+        "name": "AXA",
+        "nameZH": {
+          "sc": "安盛",
+          "tc": "安盛"
+        },
+        "share": "6.0%",
+        "shareType": "std",
+        "rating": "AA-",
+        "trend": "flat",
+        "note": {
+          "sc": "代理派, 全球私行推手",
+          "tc": "代理派, 全球私行推手"
+        },
+        "source": "IA 4Q25 Excel"
+      },
+      {
+        "rank": 9,
+        "name": "FWD",
+        "nameZH": {
+          "sc": "富卫",
+          "tc": "富衛"
+        },
+        "share": "4.2%",
+        "shareType": "std",
+        "rating": "NR",
+        "trend": "up",
+        "note": {
+          "sc": "混合派, +59%YoY",
+          "tc": "混合派, +59%YoY"
+        },
+        "source": "IA 4Q25 Excel"
+      },
+      {
+        "rank": 10,
+        "name": "Hang Seng",
+        "nameZH": {
+          "sc": "恒生保险",
+          "tc": "恒生保險"
+        },
+        "share": "4.1%",
+        "shareType": "std",
+        "rating": "AA",
+        "trend": "down",
+        "note": {
+          "sc": "Top10唯一负增长(-23.5%)",
+          "tc": "Top10唯一負增長(-23.5%)"
+        },
+        "source": "IA 4Q25 Excel"
       }
     ],
     "sourceUrl": "https://www.ia.org.hk/en/infocenter/statistics/market.html",
     "ratingSource": "S&P Global Asia-Pacific Insurance Ratings List",
-    "ratingUrl": "https://www.spglobal.com/ratings/en/regulatory/article/asia-pacific-insurance-ratings-list-s101683009"
+    "ratingUrl": "https://www.spglobal.com/ratings/en/regulatory/article/asia-pacific-insurance-ratings-list-s101683009",
+    "calcNote": {
+      "sc": "标准保费=整付保费×10%+年度化保费。此口径更能反映持续缴费业务价值。",
+      "tc": "標準保費=整付保費×10%+年度化保費。此口徑更能反映持續繳費業務價值。"
+    }
   },
   "intelligence": {
     "title": {
@@ -729,5 +743,35 @@
       "sc": "覆盖 2024-02 ~ 2026-07，共 28 个月",
       "tc": "覆蓋 2024-02 ~ 2026-07，共 28 個月"
     }
+  },
+  "marketData": {
+    "title": {
+      "sc": "市场数据",
+      "tc": "市場數據"
+    },
+    "description": {
+      "sc": "IA 一手统计 · 独立分析 · 不引用第三方平台",
+      "tc": "IA 一手統計 · 獨立分析 · 不引用第三方平台"
+    },
+    "annualHighlights": [
+      {
+        "sc": "2025 全年新单 3,306 亿(个人)，同比 +50.6%，历史最高",
+        "tc": "2025 全年新單 3,306 億(個人)，同比 +50.6%，歷史最高"
+      },
+      {
+        "sc": "2026 Q1 1,410 亿，单季已超 2020-2022 任意全年",
+        "tc": "2026 Q1 1,410 億，單季已超 2020-2022 任意全年"
+      },
+      {
+        "sc": "经纪渠道 35.5% 与银保 35.8% 差距仅 0.3pp，事实上已平起平坐",
+        "tc": "經紀渠道 35.5% 與銀保 35.8% 差距僅 0.3pp，事實上已平起平坐"
+      },
+      {
+        "sc": "三年(2023→2026)持牌经纪人净增 3,673，+37.1%，银行代理唯一收缩",
+        "tc": "三年(2023→2026)持牌經紀人淨增 3,673，+37.1%，銀行代理唯一收縮"
+      }
+    ],
+    "dataFile": "data/market-data.json",
+    "liveCheck": "2026-06-30 中介人数据已从 IA 官网实时抓取"
   }
 }

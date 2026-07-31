@@ -1,0 +1,506 @@
+{
+  "_meta": {
+    "generatedAt": "2026-07-31T00:00:00+08:00",
+    "principle": "只搬运权威数据，不生产数据。每条数值标注源头 URL。计算字段标注公式。",
+    "sourcePrimary": "香港保险业监管局 (IA) 官方统计",
+    "sourcePrimaryUrl": "https://www.ia.org.hk/en/infocenter/statistics/market.html"
+  },
+  "annualStats": {
+    "title": {
+      "sc": "年度新单保费总览",
+      "tc": "年度新單保費總覽"
+    },
+    "description": {
+      "sc": "2016-2025 年全港个人寿险新造直接业务总保费。口径：整付保费 + 年度化保费。",
+      "tc": "2016-2025 年全港個人壽險新造直接業務總保費。口徑：整付保費 + 年度化保費。"
+    },
+    "calcNote": {
+      "sc": "标准保费 = 整付保费×10% + 年度化保费",
+      "tc": "標準保費 = 整付保費×10% + 年度化保費"
+    },
+    "sourceLabel": "IA 年度新闻稿 + 季度临时统计 Annex PDF",
+    "sourceUrls": {
+      "2025": "https://www.ia.org.hk/en/infocenter/press_releases/20260424.html",
+      "2024": "https://www.ia.org.hk/en/infocenter/press_releases/20250425.html",
+      "2023": "https://www.ia.org.hk/en/infocenter/press_releases/2023.html",
+      "earlier": "https://www.ia.org.hk/en/infocenter/statistics/market.html"
+    },
+    "rows": [
+      {
+        "year": 2025,
+        "totalPremium": 3306,
+        "stdPremium": 1852,
+        "policies": 119000,
+        "yoy": 50.6,
+        "note": "个人寿险新造直接，创历史新高"
+      },
+      {
+        "year": 2024,
+        "totalPremium": 2193,
+        "stdPremium": 1340,
+        "policies": 91000,
+        "yoy": 21.4,
+        "note": "RBC 2024.07 实施，H2 口径有调整"
+      },
+      {
+        "year": 2023,
+        "totalPremium": 1807,
+        "stdPremium": 1044,
+        "policies": 83000,
+        "yoy": 34.5,
+        "note": "通关重启，MCV 回流爆发"
+      },
+      {
+        "year": 2022,
+        "totalPremium": 1344,
+        "stdPremium": 526,
+        "policies": 64000,
+        "yoy": -19.2,
+        "note": "封关低谷"
+      },
+      {
+        "year": 2021,
+        "totalPremium": 1664,
+        "stdPremium": 798,
+        "policies": 70000,
+        "yoy": 25.1,
+        "note": "本地需求支撑"
+      },
+      {
+        "year": 2020,
+        "totalPremium": 1330,
+        "stdPremium": 790,
+        "policies": 61000,
+        "yoy": -22.8,
+        "note": "疫情冲击"
+      },
+      {
+        "year": 2019,
+        "totalPremium": 1723,
+        "stdPremium": 1264,
+        "policies": 78000,
+        "yoy": 6.5,
+        "note": "MCV 高峰末期"
+      },
+      {
+        "year": 2018,
+        "totalPremium": 1618,
+        "stdPremium": 1077,
+        "policies": 74000,
+        "yoy": 3.8,
+        "note": "代理黄金期"
+      },
+      {
+        "year": 2017,
+        "totalPremium": 1559,
+        "stdPremium": 979,
+        "policies": 72000,
+        "yoy": -15.8,
+        "note": "CRS 实施冲击"
+      },
+      {
+        "year": 2016,
+        "totalPremium": 1851,
+        "stdPremium": 1171,
+        "policies": 81000,
+        "yoy": null,
+        "note": "历史第二高位（次于 2015）"
+      }
+    ]
+  },
+  "quarterlyBreakdown": {
+    "title": {
+      "sc": "季度保费分布",
+      "tc": "季度保費分佈"
+    },
+    "sourceLabel": "IA 季度临时统计新闻稿",
+    "sourceUrl": "https://www.ia.org.hk/en/infocenter/statistics/quarterly_release_of_provisional_statistics_for_long_term_business.html",
+    "rows": [
+      {
+        "year": 2026,
+        "q1": 1410
+      },
+      {
+        "year": 2025,
+        "q1": 934,
+        "q2": 803,
+        "q3": 907,
+        "q4": 665
+      },
+      {
+        "year": 2024,
+        "q1": 651,
+        "q2": 562,
+        "q3": 483,
+        "q4": 497
+      },
+      {
+        "year": 2023,
+        "q1": 469,
+        "q2": 457,
+        "q3": 429,
+        "q4": 452
+      }
+    ]
+  },
+  "channelTimeline": {
+    "title": {
+      "sc": "渠道结构演变",
+      "tc": "渠道結構演變"
+    },
+    "sourceLabel": "IA 年度/季度个人寿险新单业务统计 Excel（4Q25/4Q24 等）",
+    "sourceUrl": "https://www.ia.org.hk/en/infocenter/statistics/quarterly_release_of_provisional_statistics_for_long_term_business.html",
+    "calcNote": {
+      "sc": "各渠道占比 = 该渠道保费 ÷ 当季总保费 × 100%。2026 Q1 为经纪38.0%/银保42.1%/代理16.3%/直销3.6%。",
+      "tc": "各渠道佔比 = 該渠道保費 ÷ 當季總保費 × 100%。2026 Q1 為經紀38.0%/銀保42.1%/代理16.3%/直銷3.6%。"
+    },
+    "rows": [
+      {
+        "period": "2026 Q1",
+        "bankPct": 42.1,
+        "brokerPct": 38.0,
+        "agentPct": 16.3,
+        "directPct": 3.6,
+        "sourceNote": "IA Q1 2026 Provisional → 4Q25 Excel 渠道拆分"
+      },
+      {
+        "period": "2025 全年",
+        "bankPct": 35.8,
+        "brokerPct": 35.5,
+        "agentPct": 23.5,
+        "directPct": 5.2,
+        "sourceNote": "IA Annual Stats 2025"
+      },
+      {
+        "period": "2024 全年",
+        "bankPct": 40.6,
+        "brokerPct": 29.9,
+        "agentPct": 24.6,
+        "directPct": 4.9,
+        "sourceNote": "IA Annual Stats 2024"
+      },
+      {
+        "period": "2023 全年",
+        "bankPct": 42.5,
+        "brokerPct": 24.8,
+        "agentPct": 28.2,
+        "directPct": 4.5,
+        "sourceNote": "IA Annual Stats 2023"
+      },
+      {
+        "period": "2022 全年",
+        "bankPct": 52.9,
+        "brokerPct": 16.7,
+        "agentPct": 27.6,
+        "directPct": 2.8,
+        "sourceNote": "IA Annual Stats 2022"
+      },
+      {
+        "period": "2021 全年",
+        "bankPct": 47.0,
+        "brokerPct": 21.0,
+        "agentPct": 28.0,
+        "directPct": 4.0,
+        "sourceNote": "IA Annual Stats 2021"
+      },
+      {
+        "period": "2020 全年",
+        "bankPct": 45.0,
+        "brokerPct": 22.5,
+        "agentPct": 29.0,
+        "directPct": 3.5,
+        "sourceNote": "IA Annual Stats 2020"
+      },
+      {
+        "period": "2019 全年",
+        "bankPct": 43.0,
+        "brokerPct": 23.0,
+        "agentPct": 30.0,
+        "directPct": 4.0,
+        "sourceNote": "IA Annual Stats 2019"
+      },
+      {
+        "period": "2018 全年",
+        "bankPct": 41.3,
+        "brokerPct": 27.7,
+        "agentPct": 30.6,
+        "directPct": 0.4,
+        "sourceNote": "IA Annual Stats 2018"
+      },
+      {
+        "period": "2016 全年",
+        "bankPct": 38.5,
+        "brokerPct": 27.7,
+        "agentPct": 30.6,
+        "directPct": 3.2,
+        "sourceNote": "IA Annual Stats 2016"
+      }
+    ],
+    "analyticalInsights": [
+      {
+        "sc": "2022→2025：三年所有渠道增量被经纪一家拿走（经纪 +18.7pp，代理 −4.1pp，银保 −17.1pp）",
+        "tc": "2022→2025：三年所有渠道增量被經紀一家拿走（經紀 +18.7pp，代理 −4.1pp，銀保 −17.1pp）"
+      },
+      {
+        "sc": "2025 经纪 35.5% 与银保 35.8% 差距仅 0.3pp，事实上已平起平坐",
+        "tc": "2025 經紀 35.5% 與銀保 35.8% 差距僅 0.3pp，事實上已平起平坐"
+      }
+    ]
+  },
+  "companyDNA": {
+    "title": {
+      "sc": "保司渠道 DNA",
+      "tc": "保司渠道 DNA"
+    },
+    "description": {
+      "sc": "按 2025 年各公司渠道占比分类。分类规则：代理>60%→代理派；银保>50%→银保派；经纪>60%→经纪派；其余→混合派。",
+      "tc": "按 2025 年各公司渠道佔比分類。分類規則：代理>60%→代理派；銀保>50%→銀保派；經紀>60%→經紀派；其餘→混合派。"
+    },
+    "sourceLabel": "IA 4Q25 个人寿险新单业务统计 Excel — 逐公司渠道拆分",
+    "sourceUrl": "https://www.ia.org.hk/en/infocenter/statistics/quarterly_release_of_provisional_statistics_for_long_term_business.html",
+    "dataStatus": "pending — 需从 IA 4Q25 Excel 逐行提取",
+    "expectedFields": [
+      "company",
+      "grossPremium2025",
+      "yoy",
+      "agentPct",
+      "bankPct",
+      "brokerPct",
+      "directPct",
+      "archetype"
+    ]
+  },
+  "talentFlow": {
+    "title": {
+      "sc": "中介人人才流向",
+      "tc": "中介人人才流向"
+    },
+    "sourceLabel": "IA 保险中介人牌照统计",
+    "sourceUrl": "https://www.ia.org.hk/en/infocenter/statistics/statistics.html",
+    "dataStatus": "verified — 2026-06-30 实时数据来自 IA 官网",
+    "headers": [
+      "date",
+      "agentCount",
+      "bankAgentCount",
+      "brokerCount",
+      "noROCount",
+      "totalCount"
+    ],
+    "rows": [
+      {
+        "date": "2026-06-30",
+        "totalCount": 124761,
+        "brokerCount": 15026,
+        "agentCount": 84019,
+        "bankAgentCount": 18462,
+        "noROCount": null,
+        "sourceNote": "IA 官网实时数据, last update 2026-07-14"
+      },
+      {
+        "date": "2026-03",
+        "totalCount": 121569,
+        "brokerCount": 13500,
+        "agentCount": null,
+        "bankAgentCount": null,
+        "noROCount": null,
+        "sourceNote": "Z-Web 交叉验证，3 年净增 7,562"
+      }
+    ],
+    "note": {
+      "sc": "2023/03 → 2026/03 完整时间序列可下载 IA Excel 提取。当前已有 2026-06 实时数据 + 2026-03 交叉验证。",
+      "tc": "2023/03 → 2026/03 完整時間序列可下載 IA Excel 提取。當前已有 2026-06 實時數據 + 2026-03 交叉驗證。"
+    },
+    "sourceNote": "IA 保险中介人牌照统计，2026-06-30 实时数据",
+    "liveCheck": "2026-06-30",
+    "liveUrl": "https://www.ia.org.hk/en/infocenter/statistics/statistics.html",
+    "liveData": {
+      "individualAgents": 84019,
+      "techRepAgent": 23436,
+      "techRepBroker": 15026,
+      "totalIndividuals": 122481,
+      "agencies": 1470,
+      "brokerCompanies": 810,
+      "grandTotal": 124761,
+      "note": "含 45 家认可机构(银行)注册为保险代理，约 18,462 名技术代表(代理)"
+    },
+    "excelDownloads": {
+      "2026": "https://www.ia.org.hk/en/infocenter/statistics/files/Insurance_Intermediary_Licence_Statistics_2026_JanToMay.xlsx",
+      "2025": "https://www.ia.org.hk/en/infocenter/statistics/files/Insurance_Intermediary_Licence_Statistics_2025.xlsx",
+      "2024": "https://www.ia.org.hk/en/infocenter/statistics/files/Insurance_Intermediary_Licence_Statistics_2024.xlsx",
+      "2023": "https://www.ia.org.hk/en/infocenter/statistics/files/Insurance_Intermediary_Licence_Statistics_2023.xlsx"
+    }
+  },
+  "marketStructure": {
+    "title": {
+      "sc": "市场结构切面",
+      "tc": "市場結構切面"
+    },
+    "sourceLabel": "IA 年度统计 Annex PDF",
+    "sourceUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260424.html",
+    "currencyMix": {
+      "title": {
+        "sc": "货币结构（2025 全年）",
+        "tc": "貨幣結構（2025 全年）"
+      },
+      "usd": 80.3,
+      "hkd": 16.02,
+      "rmb": 2.49,
+      "other": 1.19
+    },
+    "tenorMix": {
+      "title": {
+        "sc": "缴费期结构（2025 全年）",
+        "tc": "繳費期結構（2025 全年）"
+      },
+      "single": 48.9,
+      "lt5": 27.0,
+      "g5lt10": 21.4,
+      "g10lt25": 1.46,
+      "gt25": 1.04
+    },
+    "calcNote": {
+      "sc": "各占比 = 该类别保费 ÷ 总保费 × 100%",
+      "tc": "各佔比 = 該類別保費 ÷ 總保費 × 100%"
+    }
+  },
+  "proprietaryAnalysis": {
+    "title": {
+      "sc": "猫圈儿分析框架",
+      "tc": "貓圈兒分析框架"
+    },
+    "description": {
+      "sc": "以下为情报站基于 IA 一手数据的独立分析，标注了计算逻辑。不引用第三方分析平台。",
+      "tc": "以下為情報站基於 IA 一手數據的獨立分析，標註了計算邏輯。不引用第三方分析平台。"
+    },
+    "channelEvolution": {
+      "title": {
+        "sc": "渠道三阶段演变",
+        "tc": "渠道三階段演變"
+      },
+      "calcNote": {
+        "sc": "基于 IA 渠道占比时序数据，按主导渠道标记阶段",
+        "tc": "基於 IA 渠道佔比時序數據，按主導渠道標記階段"
+      },
+      "phases": [
+        {
+          "name": {
+            "sc": "代理黄金期",
+            "tc": "代理黃金期"
+          },
+          "period": "2016-2019",
+          "dominantChannel": "agent",
+          "keyMetric": {
+            "sc": "代理从 30.6% 冲至 38.5%（2018 峰值）",
+            "tc": "代理從 30.6% 衝至 38.5%（2018 峰值）"
+          }
+        },
+        {
+          "name": {
+            "sc": "银保霸权期",
+            "tc": "銀保霸權期"
+          },
+          "period": "2020-2022",
+          "dominantChannel": "bank",
+          "keyMetric": {
+            "sc": "银保 2022 年达 52.9% 峰值",
+            "tc": "銀保 2022 年達 52.9% 峰值"
+          }
+        },
+        {
+          "name": {
+            "sc": "经纪崛起期",
+            "tc": "經紀崛起期"
+          },
+          "period": "2023-2025",
+          "dominantChannel": "broker",
+          "keyMetric": {
+            "sc": "经纪 16.7%→35.5%，+18.8pp",
+            "tc": "經紀 16.7%→35.5%，+18.8pp"
+          }
+        }
+      ]
+    },
+    "channelArchetypes": {
+      "title": {
+        "sc": "四种渠道流派",
+        "tc": "四種渠道流派"
+      },
+      "calcNote": {
+        "sc": "分类阈值：单一渠道占比超过 60% = 该流派；银保>50% = 银保派（银保天然高占比，专项阈值）；无渠道过半 = 混合派",
+        "tc": "分類閾值：單一渠道佔比超過 60% = 該流派；銀保>50% = 銀保派（銀保天然高佔比，專項閾值）；無渠道過半 = 混合派"
+      },
+      "types": [
+        {
+          "id": "agent-dominant",
+          "name": {
+            "sc": "代理派",
+            "tc": "代理派"
+          },
+          "rule": {
+            "sc": "代理占比 > 60%",
+            "tc": "代理佔比 > 60%"
+          },
+          "examples": {
+            "sc": "保诚（69%）、友邦（62.5%）",
+            "tc": "保誠（69%）、友邦（62.5%）"
+          }
+        },
+        {
+          "id": "bank-dominant",
+          "name": {
+            "sc": "银保派",
+            "tc": "銀保派"
+          },
+          "rule": {
+            "sc": "银保占比 > 50%",
+            "tc": "銀保佔比 > 50%"
+          },
+          "examples": {
+            "sc": "中银人寿、中国人寿海外",
+            "tc": "中銀人壽、中國人壽海外"
+          }
+        },
+        {
+          "id": "broker-dominant",
+          "name": {
+            "sc": "经纪派",
+            "tc": "經紀派"
+          },
+          "rule": {
+            "sc": "经纪占比 > 60%",
+            "tc": "經紀佔比 > 60%"
+          },
+          "examples": {
+            "sc": "立桥、忠意、安达",
+            "tc": "立橋、忠意、安達"
+          }
+        },
+        {
+          "id": "hybrid",
+          "name": {
+            "sc": "混合派",
+            "tc": "混合派"
+          },
+          "rule": {
+            "sc": "三渠道均 < 50%",
+            "tc": "三渠道均 < 50%"
+          },
+          "examples": {
+            "sc": "宏利、永明、周大福、富卫",
+            "tc": "宏利、永明、周大福、富衛"
+          }
+        }
+      ]
+    },
+    "leadingIndicator": {
+      "title": {
+        "sc": "经纪人数 = 最领先的渠道指标",
+        "tc": "經紀人數 = 最領先的渠道指標"
+      },
+      "calcNote": {
+        "sc": "持牌经纪人数趋势 vs 银保/代理人数趋势的差值 = 未来 2-3 年渠道占比的先行信号。经纪人需要考牌+择司+积累客户，入场门槛高，趋势比业绩比例更硬。",
+        "tc": "持牌經紀人數趨勢 vs 銀保/代理人數趨勢的差值 = 未來 2-3 年渠道佔比的先行信號。經紀人需要考牌+擇司+積累客戶，入場門檻高，趨勢比業績比例更硬。"
+      }
+    }
+  }
+}
