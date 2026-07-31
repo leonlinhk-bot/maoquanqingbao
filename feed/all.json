@@ -1,7 +1,7 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-07-31T01:27:01Z",
+  "generatedAt": "2026-07-31T02:39:23Z",
   "itemCount": 225,
   "items": [
     {
@@ -46,7 +46,7 @@
     {
       "id": "bowtie-202607-100m",
       "title": "香港首家虚拟保险公司Bowtie营收突破1亿美元 剑指东南亚",
-      "sourceTier": "",
+      "sourceTier": "media",
       "themes": [
         "market"
       ],
@@ -58,7 +58,7 @@
     {
       "id": "hk-202607-mainland-scrutiny",
       "title": "监管关注香港保险公司内地资金合规问题",
-      "sourceTier": "",
+      "sourceTier": "media",
       "themes": [
         "market"
       ],
@@ -70,7 +70,7 @@
     {
       "id": "ia-20260730-sales-misconduct",
       "title": "保监局收紧销售行为规则：高管对全流程合规直接负责",
-      "sourceTier": "",
+      "sourceTier": "media",
       "themes": [
         "market"
       ],
@@ -95,7 +95,7 @@
     {
       "id": "picc-202607-re",
       "title": "人保香港积极拓展再保险转入业务",
-      "sourceTier": "",
+      "sourceTier": "media",
       "themes": [
         "market"
       ],
@@ -120,7 +120,7 @@
     {
       "id": "cgs-202607-hk-crackdown",
       "title": "CGS International: 香港保险公司不惧监管收紧 增长前景稳健",
-      "sourceTier": "",
+      "sourceTier": "media",
       "themes": [
         "market"
       ],
