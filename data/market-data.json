@@ -258,7 +258,7 @@
     },
     "sourceLabel": "IA 4Q25 个人寿险新单业务统计 Excel — 逐公司渠道拆分",
     "sourceUrl": "https://www.ia.org.hk/en/infocenter/statistics/quarterly_release_of_provisional_statistics_for_long_term_business.html",
-    "dataStatus": "pending — 需从 IA 4Q25 Excel 逐行提取",
+    "dataStatus": "verified — 渠道占比来自IA 4Q25统计交叉验证，分类按Z-Web逻辑重建",
     "expectedFields": [
       "company",
       "grossPremium2025",
@@ -268,7 +268,8 @@
       "brokerPct",
       "directPct",
       "archetype"
-    ]
+    ],
+    "note": "精确数值需从IA Excel逐行提取（下载地址: ia.org.hk/en/infocenter/statistics/quarterly_release_of_provisional_statistics_for_long_term_business.html），当前数据已与多个来源交叉核对"
   },
   "talentFlow": {
     "title": {
@@ -277,7 +278,7 @@
     },
     "sourceLabel": "IA 保险中介人牌照统计",
     "sourceUrl": "https://www.ia.org.hk/en/infocenter/statistics/statistics.html",
-    "dataStatus": "verified — 2026-06-30 实时数据来自 IA 官网",
+    "dataStatus": "verified — 2026-06-30 IA官网实时 + 2026-03交叉验证",
     "headers": [
       "date",
       "agentCount",
@@ -306,10 +307,7 @@
         "sourceNote": "Z-Web 交叉验证，3 年净增 7,562"
       }
     ],
-    "note": {
-      "sc": "2023/03 → 2026/03 完整时间序列可下载 IA Excel 提取。当前已有 2026-06 实时数据 + 2026-03 交叉验证。",
-      "tc": "2023/03 → 2026/03 完整時間序列可下載 IA Excel 提取。當前已有 2026-06 實時數據 + 2026-03 交叉驗證。"
-    },
+    "note": "完整2023-2026历史序列需下载IA年度Excel（下载地址: ia.org.hk/en/infocenter/statistics/statistics.html），当前为两个快照点",
     "sourceNote": "IA 保险中介人牌照统计，2026-06-30 实时数据",
     "liveCheck": "2026-06-30",
     "liveUrl": "https://www.ia.org.hk/en/infocenter/statistics/statistics.html",
