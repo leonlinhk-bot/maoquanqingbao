@@ -1,7 +1,7 @@
 {
   "feed": "featured",
   "title": "猫圈儿港险情报站 · 精选",
-  "generatedAt": "2026-07-31T02:59:53Z",
+  "generatedAt": "2026-07-31T04:13:10Z",
   "itemCount": 20,
   "items": [
     {
@@ -10,7 +10,7 @@
       "summary": "Insurance Asia 2026年7月报道：保监局进一步收紧保险销售行为监管。新规要求高级管理层对销售全流程的合规性承担直接责任。随着不当销售行为审查持续升温，机构须强化内部管控机制。[EN原文]",
       "why": "高管个人问责=合规压力从操作层上升到决策层",
       "sourceLabel": "Insurance Asia",
-      "sourceTier": "media",
+      "sourceTier": "pro",
       "tags": [
         "销售行为",
         "高管",
@@ -39,7 +39,7 @@
       "summary": "2026年最新信评汇总:S&P-宏利AA-/友邦AA/保诚AA/永明AA(3月上调)/汇丰AA-/太保A+/太平A/Chubb A+。Moody's-友邦Aa2/保诚A2。Fitch-友邦AA/保诚AA-/太平A。评级上调最显著:永明(3月AA-->AA)。评级下调:太平(4月A+-->A)。[EN原文]",
       "why": "客户问哪家最安全?信评是最客观的第三方答案。",
       "sourceLabel": "S&P/Moody's/Fitch",
-      "sourceTier": "media",
+      "sourceTier": "research",
       "tags": [
         "信评",
         "S&P",
@@ -98,7 +98,7 @@
       "summary": "据行业报道援引保监局2026年7月24日发布的临时统计：2026年第一季度全港毛保费约2916亿港元，同比+32.3%。长期业务新造保费（不含退休计划）约1411亿，同比+51.1%；其中分红业务约1257亿，同比+53.7%。2025年全年长期新造保费约3309亿，同比+50.6%。",
       "why": "确认市场仍在高速扩张，但监管同步收紧——产能叙事必须与合规成本一起看。",
       "sourceLabel": "行业媒体报道 · 援引保监局临时统计（2026-07-24）",
-      "sourceTier": "media",
+      "sourceTier": "pro",
       "tags": [
         "市场数据",
         "新单保费",
@@ -158,7 +158,7 @@
       "summary": "2026年7月中旬多家行业媒体报道，保监局持续推进销售行为整治，聚焦误导销售、适当性评估与过程留痕等。公开通函层面仍以既有操守守则、巡查发现与指引为准；本条作线索收录，执行细节请回一手原文。",
       "why": "前线话术与中后台质检清单需同步升温：不是新“口号”，而是巡查与续牌条件的现实压力。",
       "sourceLabel": "行业媒体线索 · 待核一手",
-      "sourceTier": "media",
+      "sourceTier": "pro",
       "tags": [
         "销售行为",
         "适当性",
@@ -275,7 +275,7 @@
       "summary": "Swiss Re Institute 2026年7月发布sigma报告「World Insurance in 2026」。全球保费增长放缓至1.3%(实物)，低于2025年的3.9%。地缘碎片化+AI基建投资创造新型风险池。保险从风险转移升级为「经济稳定器」。[EN原文]",
       "why": "全球再保险领袖的年度定调，也是行业风向标。",
       "sourceLabel": "Swiss Re Institute",
-      "sourceTier": "insurer",
+      "sourceTier": "research",
       "tags": [
         "Swiss Re",
         "sigma",
@@ -451,7 +451,7 @@
       "summary": "安联2026年5月发布全球保险报告：2025年全球保费+7.1%至EUR6.9万亿。亚洲生命保险+9.9%重新成为增长引擎(中国+11.4%)。健康险+12.3%创十年新高。未来十年全球保费池将新增EUR5.26万亿，超半来自亚洲。[EN原文]",
       "why": "年度最全面的全球保险市场数据，涵盖80+市场。",
       "sourceLabel": "Allianz Research",
-      "sourceTier": "insurer",
+      "sourceTier": "research",
       "tags": [
         "安联",
         "全球保险",

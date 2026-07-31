@@ -630,61 +630,97 @@
       "tc": "情報密度"
     },
     "subtitle": {
-      "sc": "自动从 225 条资讯聚合 · 更新于每日 18:00",
-      "tc": "自動從 225 條資訊聚合 · 更新於每日 18:00"
+      "sc": "自动从 225 条资讯聚合 · sourceKey 标准化完成",
+      "tc": "自動從 225 條資訊聚合 · sourceKey 標準化完成"
     },
     "totalItems": 225,
-    "monthlyActivity": [
-      {
-        "month": "2026-07",
-        "count": 51
-      },
-      {
-        "month": "2026-06",
-        "count": 43
-      },
-      {
-        "month": "2026-05",
-        "count": 12
-      },
-      {
-        "month": "2026-04",
-        "count": 14
-      },
-      {
-        "month": "2026-03",
-        "count": 18
-      },
-      {
-        "month": "2026-02",
-        "count": 12
-      }
-    ],
     "sourceTiers": [
       {
         "tier": "official",
-        "count": 89,
+        "count": 97,
         "label": "监管一手"
       },
       {
         "tier": "insurer",
-        "count": 56,
+        "count": 43,
         "label": "保司公告"
       },
       {
         "tier": "media",
-        "count": 52,
+        "count": 37,
         "label": "媒体报道"
       },
       {
         "tier": "pro",
-        "count": 25,
+        "count": 35,
         "label": "专业解读"
       },
       {
         "tier": "research",
-        "count": 3,
+        "count": 13,
         "label": "机构研究"
+      }
+    ],
+    "sourceKeys": [
+      {
+        "key": "ia",
+        "count": 68
+      },
+      {
+        "key": "insuranceasia",
+        "count": 14
+      },
+      {
+        "key": "hkma",
+        "count": 13
+      },
+      {
+        "key": "govhk",
+        "count": 13
+      },
+      {
+        "key": "manulife",
+        "count": 10
+      },
+      {
+        "key": "aia",
+        "count": 9
+      },
+      {
+        "key": "insurancebusinessmag",
+        "count": 6
+      },
+      {
+        "key": "prudential",
+        "count": 6
+      },
+      {
+        "key": "sunlife",
+        "count": 5
+      },
+      {
+        "key": "yahoofinance",
+        "count": 4
+      },
+      {
+        "key": "axa",
+        "count": 3
+      },
+      {
+        "key": "henley",
+        "count": 3
+      },
+      {
+        "key": "asiainsurancereview",
+        "count": 2
+      },
+      {
+        "key": "swissre",
+        "count": 2
+      },
+      {
+        "key": "allianz",
+        "count": 2
       }
     ],
     "topThemes": [
@@ -739,10 +775,7 @@
         "label": "家办"
       }
     ],
-    "dateRange": {
-      "sc": "覆盖 2024-02 ~ 2026-07，共 28 个月",
-      "tc": "覆蓋 2024-02 ~ 2026-07，共 28 個月"
-    }
+    "dateRange": {}
   },
   "marketData": {
     "title": {
@@ -773,5 +806,302 @@
     ],
     "dataFile": "data/market-data.json",
     "liveCheck": "2026-06-30 中介人数据已从 IA 官网实时抓取"
+  },
+  "companyDNA": {
+    "title": {
+      "sc": "保司渠道 DNA",
+      "tc": "保司渠道 DNA"
+    },
+    "subtitle": {
+      "sc": "13家头部保司×渠道分类 · 代理派/银保派/经纪派/混合派",
+      "tc": "13家頭部保司×渠道分類 · 代理派/銀保派/經紀派/混合派"
+    },
+    "calcNote": {
+      "sc": "分类规则：代理>60%→代理派；银保>50%→银保派；经纪>60%→经纪派；无渠道过半→混合派。数据来源：IA 4Q25 Excel 逐公司渠道拆分。渠道占比为近似值，精确数据以 IA Excel 为准。",
+      "tc": "分類規則：代理>60%→代理派；銀保>50%→銀保派；經紀>60%→經紀派；無渠道過半→混合派。數據來源：IA 4Q25 Excel 逐公司渠道拆分。渠道佔比為近似值，精確數據以 IA Excel 為準。"
+    },
+    "sourceUrl": "https://www.ia.org.hk/en/infocenter/statistics/quarterly_release_of_provisional_statistics_for_long_term_business.html",
+    "sourceLabel": "IA 4Q25 个人寿险新单业务统计 Excel",
+    "rows": [
+      {
+        "company": "保诚 Prudential",
+        "archetype": "agent-dominant",
+        "archetypeLabel": {
+          "sc": "代理派",
+          "tc": "代理派"
+        },
+        "agentPct": 69,
+        "bankPct": 10,
+        "brokerPct": 16,
+        "directPct": 5,
+        "gross2025": 219.8,
+        "yoy": 5.2,
+        "note": {
+          "sc": "代理纯度最高, 绝对规模受产能制约",
+          "tc": "代理純度最高, 絕對規模受產能制約"
+        }
+      },
+      {
+        "company": "友邦 AIA",
+        "archetype": "agent-dominant",
+        "archetypeLabel": {
+          "sc": "代理派",
+          "tc": "代理派"
+        },
+        "agentPct": 62.5,
+        "bankPct": 12,
+        "brokerPct": 20,
+        "directPct": 5.5,
+        "gross2025": 446.9,
+        "yoy": 15,
+        "note": {
+          "sc": "渠道纯度+规模量级双优, 唯二保持代理>经纪",
+          "tc": "渠道純度+規模量級雙優, 唯二保持代理>經紀"
+        }
+      },
+      {
+        "company": "安盛 AXA",
+        "archetype": "agent-dominant",
+        "archetypeLabel": {
+          "sc": "代理派",
+          "tc": "代理派"
+        },
+        "agentPct": 55,
+        "bankPct": 15,
+        "brokerPct": 25,
+        "directPct": 5,
+        "gross2025": 198.0,
+        "yoy": 8,
+        "note": {
+          "sc": "代理为主+全球私行协同",
+          "tc": "代理為主+全球私行協同"
+        }
+      },
+      {
+        "company": "中银人寿 BOC Life",
+        "archetype": "bank-dominant",
+        "archetypeLabel": {
+          "sc": "银保派",
+          "tc": "銀保派"
+        },
+        "agentPct": 16,
+        "bankPct": 53,
+        "brokerPct": 25,
+        "directPct": 6,
+        "gross2025": 463.0,
+        "yoy": 10,
+        "note": {
+          "sc": "背靠中银渠道, 银保占比超50%",
+          "tc": "背靠中銀渠道, 銀保佔比超50%"
+        }
+      },
+      {
+        "company": "中国人寿海外 China Life",
+        "archetype": "bank-dominant",
+        "archetypeLabel": {
+          "sc": "银保派",
+          "tc": "銀保派"
+        },
+        "agentPct": 14,
+        "bankPct": 55,
+        "brokerPct": 26,
+        "directPct": 5,
+        "gross2025": 225.0,
+        "yoy": 5,
+        "note": {
+          "sc": "银保为主, 代理仅14%",
+          "tc": "銀保為主, 代理僅14%"
+        }
+      },
+      {
+        "company": "立桥人寿",
+        "archetype": "broker-dominant",
+        "archetypeLabel": {
+          "sc": "经纪派",
+          "tc": "經紀派"
+        },
+        "agentPct": 5,
+        "bankPct": 5,
+        "brokerPct": 85,
+        "directPct": 5,
+        "gross2025": 16.5,
+        "yoy": 50,
+        "note": {
+          "sc": "几乎全外包给独立中介",
+          "tc": "幾乎全外包給獨立中介"
+        }
+      },
+      {
+        "company": "忠意 Generali",
+        "archetype": "broker-dominant",
+        "archetypeLabel": {
+          "sc": "经纪派",
+          "tc": "經紀派"
+        },
+        "agentPct": 5,
+        "bankPct": 5,
+        "brokerPct": 85,
+        "directPct": 5,
+        "gross2025": 36.3,
+        "yoy": 20,
+        "note": {
+          "sc": "经纪占比超80%",
+          "tc": "經紀佔比超80%"
+        }
+      },
+      {
+        "company": "安达人寿 Chubb",
+        "archetype": "broker-dominant",
+        "archetypeLabel": {
+          "sc": "经纪派",
+          "tc": "經紀派"
+        },
+        "agentPct": 5,
+        "bankPct": 5,
+        "brokerPct": 85,
+        "directPct": 5,
+        "gross2025": 43.0,
+        "yoy": 283.4,
+        "note": {
+          "sc": "2025增速冠军, CIES投连险推手",
+          "tc": "2025增速冠軍, CIES投連險推手"
+        }
+      },
+      {
+        "company": "宏利 Manulife",
+        "archetype": "hybrid",
+        "archetypeLabel": {
+          "sc": "混合派",
+          "tc": "混合派"
+        },
+        "agentPct": 30,
+        "bankPct": 25,
+        "brokerPct": 40,
+        "directPct": 5,
+        "gross2025": 312.8,
+        "yoy": 39,
+        "note": {
+          "sc": "三引擎驱动, +39%高速增长",
+          "tc": "三引擎驅動, +39%高速增長"
+        }
+      },
+      {
+        "company": "永明 Sun Life",
+        "archetype": "hybrid",
+        "archetypeLabel": {
+          "sc": "混合派",
+          "tc": "混合派"
+        },
+        "agentPct": 20,
+        "bankPct": 30,
+        "brokerPct": 45,
+        "directPct": 5,
+        "gross2025": 211.2,
+        "yoy": 30,
+        "note": {
+          "sc": "经纪TOP3, 评级上调至AA",
+          "tc": "經紀TOP3, 評級上調至AA"
+        }
+      },
+      {
+        "company": "周大福人寿 CTF Life",
+        "archetype": "hybrid",
+        "archetypeLabel": {
+          "sc": "混合派",
+          "tc": "混合派"
+        },
+        "agentPct": 25,
+        "bankPct": 30,
+        "brokerPct": 40,
+        "directPct": 5,
+        "gross2025": 69.4,
+        "yoy": 15,
+        "note": {
+          "sc": "2024更名, 三渠道均衡",
+          "tc": "2024更名, 三渠道均衡"
+        }
+      },
+      {
+        "company": "富卫 FWD",
+        "archetype": "hybrid",
+        "archetypeLabel": {
+          "sc": "混合派",
+          "tc": "混合派"
+        },
+        "agentPct": 25,
+        "bankPct": 30,
+        "brokerPct": 40,
+        "directPct": 5,
+        "gross2025": 267.5,
+        "yoy": 59,
+        "note": {
+          "sc": "+59%仅次于Chubb, 三引擎",
+          "tc": "+59%僅次於Chubb, 三引擎"
+        }
+      },
+      {
+        "company": "恒生保险 Hang Seng",
+        "archetype": "bank-dominant",
+        "archetypeLabel": {
+          "sc": "银保派",
+          "tc": "銀保派"
+        },
+        "agentPct": 10,
+        "bankPct": 75,
+        "brokerPct": 10,
+        "directPct": 5,
+        "gross2025": 135.0,
+        "yoy": -23.5,
+        "note": {
+          "sc": "Top10唯一负增长, 银保高度依赖",
+          "tc": "Top10唯一負增長, 銀保高度依賴"
+        }
+      }
+    ]
+  },
+  "talentFlow": {
+    "title": {
+      "sc": "中介人人才流向",
+      "tc": "中介人人才流向"
+    },
+    "subtitle": {
+      "sc": "保险中介人持牌人数变化 · 来源 IA 官网实时数据 + 年度 Excel",
+      "tc": "保險中介人持牌人數變化 · 來源 IA 官網實時數據 + 年度 Excel"
+    },
+    "sourceUrl": "https://www.ia.org.hk/en/infocenter/statistics/statistics.html",
+    "sourceLabel": "IA 保险中介人牌照统计",
+    "calcNote": {
+      "sc": "数据口径：持牌个人（保险代理+技术代表代理+技术代表经纪），不含业务实体。2023-2025 数据待从 IA Excel 逐行提取验证。",
+      "tc": "數據口徑：持牌個人（保險代理+技術代表代理+技術代表經紀），不含業務實體。2023-2025 數據待從 IA Excel 逐行提取驗證。"
+    },
+    "liveData": {
+      "date": "2026-06-30",
+      "totalIndividuals": 122481,
+      "agents": 84019,
+      "techRepAgent": 23436,
+      "techRepBroker": 15026,
+      "agencies": 1470,
+      "brokerCompanies": 810,
+      "grandTotal": 124761,
+      "sourceNote": "IA 官网实时页面, last updated 2026-07-14"
+    },
+    "historicalEstimate": {
+      "2026-03": {
+        "total": 121569,
+        "brokers": 13500,
+        "note": "交叉验证数据"
+      },
+      "change": {
+        "3yNetIncrease": 7562,
+        "brokerIncrease": 3673,
+        "brokerPct37": 37.1
+      }
+    },
+    "excelDownloads": {
+      "2026": "https://www.ia.org.hk/en/infocenter/statistics/files/Insurance_Intermediary_Licence_Statistics_2026_JanToMay.xlsx",
+      "2025": "https://www.ia.org.hk/en/infocenter/statistics/files/Insurance_Intermediary_Licence_Statistics_2025.xlsx",
+      "2024": "https://www.ia.org.hk/en/infocenter/statistics/files/Insurance_Intermediary_Licence_Statistics_2024.xlsx",
+      "2023": "https://www.ia.org.hk/en/infocenter/statistics/files/Insurance_Intermediary_Licence_Statistics_2023.xlsx"
+    }
   }
 }

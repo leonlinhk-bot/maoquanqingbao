@@ -1,7 +1,7 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-07-31T01:33:44+08:00",
+    "generatedAt": "2026-07-31T12:12:47+08:00",
     "itemCount": 225,
     "windowNote": {
       "sc": "本库225条。",
@@ -174,7 +174,7 @@ window.HKII_DATA = {
       "score": 86,
       "verifyStatus": "verified",
       "sourceTier": "official",
-      "sourceKey": "hkma:mof-rmb-bonds-20260730",
+      "sourceKey": "hkma",
       "title": {
         "sc": "财政部在CMU发行人民币国债 巩固香港离岸人民币枢纽",
         "tc": "財政部在CMU發行人民幣國債 鞏固香港離岸人民幣樞紐"
@@ -242,7 +242,7 @@ window.HKII_DATA = {
       "score": 88,
       "verifyStatus": "verified",
       "sourceTier": "official",
-      "sourceKey": "hkma:fed-response-20260730",
+      "sourceKey": "hkma",
       "title": {
         "sc": "HKMA回应美联储利率决议：维持联系汇率稳定",
         "tc": "HKMA回應美聯儲利率決議：維持聯繫匯率穩定"
@@ -310,7 +310,7 @@ window.HKII_DATA = {
       "score": 85,
       "verifyStatus": "verified",
       "sourceTier": "official",
-      "sourceKey": "hkma:cmu-network-20260729",
+      "sourceKey": "hkma",
       "title": {
         "sc": "HKMA欢迎CMU扩展国际网络及服务范围",
         "tc": "HKMA歡迎CMU擴展國際網絡及服務範圍"
@@ -519,7 +519,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-07-29T14:00:00+08:00",
       "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-insurers-risk-scrutiny-over-mainland-funds",
-      "sourceKey": "hk:mainland-scrutiny-202607",
+      "sourceKey": "insuranceasia",
       "rolesImpact": {
         "front": 0,
         "midback": 0,
@@ -529,7 +529,7 @@ window.HKII_DATA = {
       "themes": [
         "market"
       ],
-      "sourceTier": "media"
+      "sourceTier": "pro"
     },
     {
       "id": "ia-20260730-sales-misconduct",
@@ -598,7 +598,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-07-29T10:00:00+08:00",
       "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-ia-tightens-sales-rules-misconduct-scrutiny-grows",
-      "sourceKey": "ia:sales-misconduct-20260729",
+      "sourceKey": "insuranceasia",
       "rolesImpact": {
         "front": 0,
         "midback": 0,
@@ -608,15 +608,15 @@ window.HKII_DATA = {
       "themes": [
         "market"
       ],
-      "sourceTier": "media"
+      "sourceTier": "pro"
     },
     {
       "id": "ai-25pct-insurance-jobs-202607",
       "clusterCount": 1,
       "score": 68,
       "verifyStatus": "pending",
-      "sourceTier": "media",
-      "sourceKey": "InsuranceAsia",
+      "sourceTier": "pro",
+      "sourceKey": "insuranceasia",
       "title": {
         "sc": "报告：AI 自动化可能替代保险业 25% 的岗位",
         "tc": "報告：AI 自動化可能替代保險業 25% 的崗位"
@@ -742,7 +742,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-07-28T12:00:00+08:00",
       "originalUrl": "https://insuranceasia.com/insurance/news/picc-hk-chases-inward-reinsurance-growth",
-      "sourceKey": "picc:re-202607",
+      "sourceKey": "insuranceasia",
       "rolesImpact": {
         "front": 0,
         "midback": 0,
@@ -752,7 +752,7 @@ window.HKII_DATA = {
       "themes": [
         "market"
       ],
-      "sourceTier": "media"
+      "sourceTier": "pro"
     },
     {
       "id": "ia-ai-cohort-new-insurers-jul",
@@ -760,7 +760,7 @@ window.HKII_DATA = {
       "score": 80,
       "verifyStatus": "pending",
       "sourceTier": "pro",
-      "sourceKey": "insurancebusiness:ia-ai-cohort-202607",
+      "sourceKey": "insurancebusinessmag",
       "title": {
         "sc": "保监局AI Cohort新增三家保险公司 中银人寿、国寿海外等加入",
         "tc": "保監局AI Cohort新增三家保險公司 中銀人壽、國壽海外等加入"
@@ -893,7 +893,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-07-28T10:00:00+08:00",
       "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-insurers-shrug-off-crackdown-fears-cgs-international",
-      "sourceKey": "cgs:hk-crackdown-202607",
+      "sourceKey": "insuranceasia",
       "rolesImpact": {
         "front": 0,
         "midback": 0,
@@ -903,7 +903,7 @@ window.HKII_DATA = {
       "themes": [
         "market"
       ],
-      "sourceTier": "media"
+      "sourceTier": "pro"
     },
     {
       "id": "ratings-2026-consolidated",
@@ -974,8 +974,8 @@ window.HKII_DATA = {
       "contentKind": "report",
       "publishedAt": "2026-07-28T10:00:00+08:00",
       "originalUrl": "https://www.spglobal.com/ratings/en/regulatory/article/asia-pacific-insurance-ratings-list-s101683009",
-      "sourceKey": "ratings:consolidated-2026",
-      "sourceTier": "media",
+      "sourceKey": "spglobal",
+      "sourceTier": "research",
       "rolesImpact": {
         "front": 0,
         "midback": 0,
@@ -1057,7 +1057,7 @@ window.HKII_DATA = {
       "score": 78,
       "verifyStatus": "verified",
       "sourceTier": "pro",
-      "sourceKey": "InsuranceAsia",
+      "sourceKey": "insuranceasia",
       "title": {
         "sc": "欺诈成本占营收 5%：香港保险公司支付系统滞后",
         "tc": "欺詐成本佔營收 5%：香港保險公司支付系統滯後"
@@ -1123,7 +1123,7 @@ window.HKII_DATA = {
       "score": 75,
       "verifyStatus": "verified",
       "sourceTier": "pro",
-      "sourceKey": "InsuranceAsia",
+      "sourceKey": "insuranceasia",
       "title": {
         "sc": "Howden 香港换帅：Alaric Lee 接任 CEO",
         "tc": "Howden 香港換帥：Alaric Lee 接任 CEO"
@@ -1188,7 +1188,7 @@ window.HKII_DATA = {
       "score": 85,
       "verifyStatus": "verified",
       "sourceTier": "official",
-      "sourceKey": "hkma:quantum-whitepaper-20260727",
+      "sourceKey": "hkma",
       "title": {
         "sc": "HKMA发布量子准备白皮书及指数 推动银行业量子时代转型",
         "tc": "HKMA發布量子準備白皮書及指數 推動銀行業量子時代轉型"
@@ -1255,8 +1255,8 @@ window.HKII_DATA = {
       "clusterCount": 1,
       "score": 76,
       "verifyStatus": "verified",
-      "sourceTier": "pro",
-      "sourceKey": "Prudential plc",
+      "sourceTier": "insurer",
+      "sourceKey": "prudential",
       "title": {
         "sc": "保诚推出 50 万美元级遗产传承产品，瞄准超高净值客群",
         "tc": "保誠推出 50 萬美元級遺產傳承產品，瞄準超高淨值客群"
@@ -1328,7 +1328,7 @@ window.HKII_DATA = {
       "score": 71,
       "verifyStatus": "verified",
       "sourceTier": "pro",
-      "sourceKey": "InsuranceAsia",
+      "sourceKey": "insuranceasia",
       "title": {
         "sc": "亚太保险公司转向新兴市场债券寻求收益",
         "tc": "亞太保險公司轉向新興市場債券尋求收益"
@@ -1395,7 +1395,7 @@ window.HKII_DATA = {
       "score": 74,
       "verifyStatus": "verified",
       "sourceTier": "pro",
-      "sourceKey": "永明 Sun Life",
+      "sourceKey": "insuranceasia",
       "title": {
         "sc": "永明推出私人财富平台，切入高净值综合服务",
         "tc": "永明推出私人財富平台，切入高淨值綜合服務"
@@ -1467,7 +1467,7 @@ window.HKII_DATA = {
       "score": 75,
       "verifyStatus": "pending",
       "sourceTier": "insurer",
-      "sourceKey": "manulife:asia-care-2026",
+      "sourceKey": "manulife",
       "title": {
         "sc": "宏利2026亚洲关怀调查：84%港人重视晚年独立自主",
         "tc": "宏利2026亞洲關懷調查：84%港人重視晚年獨立自主"
@@ -1610,7 +1610,7 @@ window.HKII_DATA = {
       "score": 82,
       "verifyStatus": "verified",
       "sourceTier": "pro",
-      "sourceKey": "insurancebusiness:hk-q1-20260725",
+      "sourceKey": "insurancebusinessmag",
       "title": {
         "sc": "香港保险Q1总保费2916亿港元同比增32.3% 分红业务领涨",
         "tc": "香港保險Q1總保費2916億港元同比增32.3% 分紅業務領漲"
@@ -1744,8 +1744,8 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-07-25T10:00:00+08:00",
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/hong-kong-insurance-market-extends-growth-run-as-data-gap-widens-583673.aspx",
-      "sourceKey": "insbus:hk-growth-20260725",
-      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "sourceTier": "pro",
       "rolesImpact": {
         "front": 0,
         "midback": 0,
@@ -1827,7 +1827,7 @@ window.HKII_DATA = {
       },
       "publishedAt": "2026-07-25T10:00:00+08:00",
       "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-ia-proceed-public-disclosure-rules-insurers-2026",
-      "sourceKey": "media:insurance-asia:public-disclosure-2026",
+      "sourceKey": "insuranceasia",
       "boards": [
         "reg"
       ],
@@ -1936,7 +1936,7 @@ window.HKII_DATA = {
         "sc": "行业媒体报道 · 援引保监局临时统计（2026-07-24）",
         "tc": "行業媒體報道 · 援引保監局臨時統計（2026-07-24）"
       },
-      "sourceTier": "media",
+      "sourceTier": "pro",
       "tags": {
         "sc": [
           "市场数据",
@@ -1974,7 +1974,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "7708009f3dce",
+      "sourceKey": "insurancebusinessmag",
       "ingestedAt": "2026-07-26T01:08:49+08:00",
       "evergreen": false,
       "boards": [
@@ -2051,7 +2051,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "640ae1431773",
+      "sourceKey": "hkma",
       "ingestedAt": "2026-07-26T01:08:49+08:00",
       "evergreen": false,
       "boards": [
@@ -2066,7 +2066,7 @@ window.HKII_DATA = {
       "score": 80,
       "verifyStatus": "pending",
       "sourceTier": "insurer",
-      "sourceKey": "aia:q1-leader-20260724",
+      "sourceKey": "aia",
       "title": {
         "sc": "友邦香港2026年Q1勇夺7个市场第一 继续领跑",
         "tc": "友邦香港2026年Q1勇奪7個市場第一 繼續領跑"
@@ -2134,7 +2134,7 @@ window.HKII_DATA = {
       "score": 76,
       "verifyStatus": "pending",
       "sourceTier": "insurer",
-      "sourceKey": "prudential:health-summit-2026",
+      "sourceKey": "prudential",
       "title": {
         "sc": "保诚保险举办2026健康论坛 聚焦优化患者医疗体验",
         "tc": "保誠保險舉辦2026健康論壇 聚焦優化患者醫療體驗"
@@ -2200,8 +2200,8 @@ window.HKII_DATA = {
       "clusterCount": 1,
       "score": 86,
       "verifyStatus": "verified",
-      "sourceTier": "pro",
-      "sourceKey": "资遇保险经纪 资遇财富管理",
+      "sourceTier": "media",
+      "sourceKey": "weixin",
       "title": {
         "sc": "资遇经纪 CEO 年度公开信：信任，是时间留下的凭证",
         "tc": "資遇經紀 CEO 年度公開信：信任，是時間留下的憑證"
@@ -2275,7 +2275,7 @@ window.HKII_DATA = {
       "score": 82,
       "verifyStatus": "verified",
       "sourceTier": "media",
-      "sourceKey": "reuters:allianz-hsbc-20260724",
+      "sourceKey": "reuters",
       "title": {
         "sc": "安联21亿美元收购汇丰新加坡寿险 亚洲版图再扩张",
         "tc": "安聯21億美元收購滙豐新加坡壽險 亞洲版圖再擴張"
@@ -2345,7 +2345,7 @@ window.HKII_DATA = {
       "score": 75,
       "verifyStatus": "pending",
       "sourceTier": "insurer",
-      "sourceKey": "axa:menopause-survey-20260723",
+      "sourceKey": "axa",
       "title": {
         "sc": "AXA安盛调查：香港在职女性更年期认知严重不足",
         "tc": "AXA安盛調查：香港在職女性更年期認知嚴重不足"
@@ -2414,7 +2414,7 @@ window.HKII_DATA = {
       "score": 73,
       "verifyStatus": "pending",
       "sourceTier": "insurer",
-      "sourceKey": "sunlife:ride-to-shine-20260722",
+      "sourceKey": "sunlife",
       "title": {
         "sc": "Sun Life永明启动「善德永明耀香港」智能单车创举",
         "tc": "Sun Life永明啟動「善德永明耀香港」智能單車創舉"
@@ -2542,7 +2542,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-07-16T10:00:00+08:00",
       "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2026/aia-press-release-20260716",
-      "sourceKey": "aia:hyrox-20260716",
+      "sourceKey": "aia",
       "sourceTier": "insurer",
       "rolesImpact": {
         "front": 0,
@@ -2622,7 +2622,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "374966cc5e38",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T02:07:48+08:00",
       "evergreen": false,
       "clusterCount": 1,
@@ -2640,7 +2640,7 @@ window.HKII_DATA = {
       "score": 87,
       "verifyStatus": "pending",
       "sourceTier": "pro",
-      "sourceKey": "insuranceasia:ia-sales-rules-20260715",
+      "sourceKey": "insuranceasia",
       "title": {
         "sc": "保监局收紧销售规则 高管直接对全流程合规负责",
         "tc": "保監局收緊銷售規則 高管直接對全流程合規負責"
@@ -2750,7 +2750,7 @@ window.HKII_DATA = {
         "sc": "行业媒体线索 · 待核一手",
         "tc": "行業媒體線索 · 待核一手"
       },
-      "sourceTier": "media",
+      "sourceTier": "pro",
       "tags": {
         "sc": [
           "销售行为",
@@ -2775,7 +2775,7 @@ window.HKII_DATA = {
       },
       "publishedAt": "2026-07-15T12:00:00+08:00",
       "originalUrl": "https://www.asiainsurancereview.com/News/ViewNewsLetterArticle/id/96190/Type/eDaily/Hong-Kong-IA-initiates-crackdown-on-sales-practices",
-      "sourceKey": "media:asia-insurance-review:2026-07-15-sales",
+      "sourceKey": "asiainsurancereview",
       "boards": [
         "conduct"
       ],
@@ -2855,7 +2855,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-07-15T10:00:00+08:00",
       "originalUrl": "https://insuranceasia.com/insurance/news/asian-insurer-gains-face-regulatory-pressure-in-second-half-2026",
-      "sourceKey": "creditsights:2h26-outlook",
+      "sourceKey": "insuranceasia",
       "sourceTier": "pro",
       "rolesImpact": {
         "front": 0,
@@ -2872,8 +2872,8 @@ window.HKII_DATA = {
       "clusterCount": 1,
       "score": 65,
       "verifyStatus": "pending",
-      "sourceTier": "media",
-      "sourceKey": "SCMP / Henley Education",
+      "sourceTier": "pro",
+      "sourceKey": "henley",
       "title": {
         "sc": "香港国际学校需求激增：家办家庭推动学位竞争白热化",
         "tc": "香港國際學校需求激增：家辦家庭推動學位競爭白熱化"
@@ -3002,7 +3002,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "66820b56a89e",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T01:08:49+08:00",
       "evergreen": false,
       "boards": [
@@ -3079,7 +3079,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-07-12T10:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/speeches_articles/20260712.html",
-      "sourceKey": "ia:speech-20260712",
+      "sourceKey": "ia",
       "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
@@ -3157,7 +3157,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-07-10T15:00:00+08:00",
       "originalUrl": "https://brdr.hkma.gov.hk/gb_chi/doc-ldg/docId/20260708-2-TC",
-      "sourceKey": "ia:circular-20260710",
+      "sourceKey": "hkma",
       "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
@@ -3175,7 +3175,7 @@ window.HKII_DATA = {
       "score": 72,
       "verifyStatus": "pending",
       "sourceTier": "pro",
-      "sourceKey": "TIGER 21",
+      "sourceKey": "tiger21",
       "title": {
         "sc": "TIGER 21 报告：超高净值家庭 28% 资产配置于私募股权",
         "tc": "TIGER 21 報告：超高淨值家庭 28% 資產配置於私募股權"
@@ -3307,7 +3307,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "ad062ce68233",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T01:08:49+08:00",
       "evergreen": false,
       "boards": [
@@ -3382,8 +3382,8 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-07-08T14:00:00+08:00",
       "originalUrl": "https://www.fstb.gov.hk/fsb/tc/business/policy_highlights/insurance-industry.html",
-      "sourceKey": "fstb:captives-20260708",
-      "sourceTier": "media",
+      "sourceKey": "govhk",
+      "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
         "midback": 0,
@@ -3461,7 +3461,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "f278318f2603",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T01:08:49+08:00",
       "evergreen": false,
       "boards": [
@@ -3538,8 +3538,8 @@ window.HKII_DATA = {
       "contentKind": "report",
       "publishedAt": "2026-07-08T10:00:00+08:00",
       "originalUrl": "https://www.swissre.com/institute/research/sigma-research/sigma-2026-07-world-insurance.html",
-      "sourceKey": "swissre:sigma-202607",
-      "sourceTier": "insurer",
+      "sourceKey": "swissre",
+      "sourceTier": "research",
       "rolesImpact": {
         "front": 0,
         "midback": 0,
@@ -3683,7 +3683,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "689c86ed9cfd",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T02:07:48+08:00",
       "evergreen": false,
       "clusterCount": 1,
@@ -3972,7 +3972,7 @@ window.HKII_DATA = {
         "tc": "瑞再研究院 · sigma 2/2026 2026-06-30 [EN原文]",
         "lang": "zh"
       },
-      "sourceTier": "insurer",
+      "sourceTier": "research",
       "tags": {
         "sc": [
           "瑞再",
@@ -3998,7 +3998,7 @@ window.HKII_DATA = {
       },
       "publishedAt": "2026-06-30T14:00:00+08:00",
       "originalUrl": "https://www.swissre.com/institute/research/sigma-research/sigma-2026-07-world-insurance.html",
-      "sourceKey": "80c32beb155c",
+      "sourceKey": "swissre",
       "boards": [
         "market",
         "tech"
@@ -4052,7 +4052,7 @@ window.HKII_DATA = {
         "tc": "安联研究 · 全球保险报告 2026-06-30 [EN原文]",
         "lang": "zh"
       },
-      "sourceTier": "insurer",
+      "sourceTier": "research",
       "tags": {
         "sc": [
           "安联",
@@ -4077,7 +4077,7 @@ window.HKII_DATA = {
       },
       "publishedAt": "2026-06-30T10:00:00+08:00",
       "originalUrl": "https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/economic-research/publications/specials/en/2026/may/28-05-2026-Global-Insurance-report-AZ.pdf",
-      "sourceKey": "62897ec5353f",
+      "sourceKey": "allianz",
       "boards": [
         "market"
       ],
@@ -4088,8 +4088,8 @@ window.HKII_DATA = {
       "clusterCount": 1,
       "score": 70,
       "verifyStatus": "pending",
-      "sourceTier": "media",
-      "sourceKey": "综合报道",
+      "sourceTier": "official",
+      "sourceKey": "govhk",
       "title": {
         "sc": "CIES 推动香港豪宅市场：3,000 万以上住宅成交上升",
         "tc": "CIES 推動香港豪宅市場：3,000 萬以上住宅成交上升"
@@ -4222,7 +4222,7 @@ window.HKII_DATA = {
       },
       "publishedAt": "2026-06-29T16:00:00+08:00",
       "originalUrl": "https://www.sunlife.com/en/newsroom/news-releases/announcement/sun-life-announces-interest-rate-reset-on-limited-recourse-capital-notes-series/124106/",
-      "sourceKey": "d9b5ade1f959",
+      "sourceKey": "sunlife",
       "boards": [
         "insurer",
         "market"
@@ -4302,7 +4302,7 @@ window.HKII_DATA = {
       },
       "publishedAt": "2026-06-29T12:00:00+08:00",
       "originalUrl": "https://www.info.gov.hk/gia/general/202606/29/P2026062900459.htm",
-      "sourceKey": "39a0671bd7bb",
+      "sourceKey": "govhk",
       "boards": [
         "reg",
         "market"
@@ -4436,7 +4436,7 @@ window.HKII_DATA = {
         "tc": "摩根士丹利研究 · 月度评论 2026-06 [EN原文]",
         "lang": "zh"
       },
-      "sourceTier": "insurer",
+      "sourceTier": "research",
       "tags": {
         "sc": [
           "摩根士丹利",
@@ -4461,7 +4461,7 @@ window.HKII_DATA = {
       },
       "publishedAt": "2026-06-26T15:00:00+08:00",
       "originalUrl": "https://www.morganstanley.com/im/en-hk/intermediary-investor/insights/slimmons-take/equity-market-commentary-june-2026.html",
-      "sourceKey": "5c5ae70a7fcf",
+      "sourceKey": "morganstanley",
       "boards": [
         "market"
       ],
@@ -4514,7 +4514,7 @@ window.HKII_DATA = {
         "tc": "PIMCO · Q2亚洲更新 2026-06 [EN原文]",
         "lang": "zh"
       },
-      "sourceTier": "insurer",
+      "sourceTier": "research",
       "tags": {
         "sc": [
           "PIMCO",
@@ -4539,7 +4539,7 @@ window.HKII_DATA = {
       },
       "publishedAt": "2026-06-26T11:00:00+08:00",
       "originalUrl": "https://www.pimco.com/hk/en/resources/video-library/media/q3-2026-update-from-the-asia-trade-floor",
-      "sourceKey": "29b2cf32243c",
+      "sourceKey": "pimco",
       "boards": [
         "market"
       ],
@@ -4844,7 +4844,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-06-25T10:00:00+08:00",
       "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html",
-      "sourceKey": "manulife:board-20260625",
+      "sourceKey": "manulife",
       "sourceTier": "insurer",
       "rolesImpact": {
         "front": 0,
@@ -4982,7 +4982,7 @@ window.HKII_DATA = {
         "tc": "高盛研究 · 市场展望 2026-06 [EN原文]",
         "lang": "zh"
       },
-      "sourceTier": "insurer",
+      "sourceTier": "media",
       "tags": {
         "sc": [
           "高盛",
@@ -5007,7 +5007,7 @@ window.HKII_DATA = {
       },
       "publishedAt": "2026-06-20T16:00:00+08:00",
       "originalUrl": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-doubles-down-stock-210300868.html",
-      "sourceKey": "3b71f432cf00",
+      "sourceKey": "yahoofinance",
       "boards": [
         "market"
       ],
@@ -5096,7 +5096,7 @@ window.HKII_DATA = {
       "score": 80,
       "verifyStatus": "pending",
       "sourceTier": "pro",
-      "sourceKey": "Henley & Partners",
+      "sourceKey": "henley",
       "title": {
         "sc": "Henley 2026 私人财富迁移报告：香港重回全球高净值流入 Top 5",
         "tc": "Henley 2026 私人財富遷移報告：香港重回全球高淨值流入 Top 5"
@@ -5228,8 +5228,8 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-06-18T12:00:00+08:00",
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/insurance-authority-adds-three-insurers-to-ai-cohort-programme-579133.aspx",
-      "sourceKey": "ia:ai-cohort-20260618",
-      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "sourceTier": "pro",
       "rolesImpact": {
         "front": 0,
         "midback": 0,
@@ -5287,7 +5287,7 @@ window.HKII_DATA = {
         "tc": "贝莱德投资研究院 · 2026年中展望 [EN原文]",
         "lang": "zh"
       },
-      "sourceTier": "insurer",
+      "sourceTier": "research",
       "tags": {
         "sc": [
           "投资展望",
@@ -5312,7 +5312,7 @@ window.HKII_DATA = {
       },
       "publishedAt": "2026-06-18T09:00:00+08:00",
       "originalUrl": "https://www.blackrock.com/corporate/insights/blackrock-investment-institute/publications/outlook",
-      "sourceKey": "a81c39c44878",
+      "sourceKey": "blackrock",
       "boards": [
         "market"
       ],
@@ -5365,7 +5365,7 @@ window.HKII_DATA = {
         "tc": "Insurance Business Mag / 保监局 2026-06-17 [EN原文]",
         "lang": "zh"
       },
-      "sourceTier": "insurer",
+      "sourceTier": "pro",
       "tags": {
         "sc": [
           "宏利",
@@ -5390,7 +5390,7 @@ window.HKII_DATA = {
       },
       "publishedAt": "2026-06-17T10:00:00+08:00",
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/insurance-authority-adds-three-insurers-to-ai-cohort-programme-579133.aspx",
-      "sourceKey": "5d6b2c5f7488",
+      "sourceKey": "insurancebusinessmag",
       "boards": [
         "insurer",
         "tech"
@@ -5470,7 +5470,7 @@ window.HKII_DATA = {
       },
       "publishedAt": "2026-06-16T15:00:00+08:00",
       "originalUrl": "https://sg.finance.yahoo.com/news/aia-prudential-create-senior-roles-221640747.html",
-      "sourceKey": "950097c1fdf3",
+      "sourceKey": "prudential",
       "boards": [
         "insurer",
         "market",
@@ -5551,7 +5551,7 @@ window.HKII_DATA = {
       },
       "publishedAt": "2026-06-16T12:00:00+08:00",
       "originalUrl": "https://www.bloomberg.com/news/articles/2026-06-15/hong-kong-insurance-regulator-vows-crackdown-on-rule-breakers",
-      "sourceKey": "71c330b3ad7f",
+      "sourceKey": "bloomberg",
       "boards": [
         "reg",
         "market"
@@ -5624,7 +5624,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "0ce9dc37bd81",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T01:08:49+08:00",
       "evergreen": false,
       "boards": [
@@ -5856,7 +5856,7 @@ window.HKII_DATA = {
       },
       "publishedAt": "2026-06-15T08:41:00+08:00",
       "originalUrl": "https://www.bloomberg.com/news/articles/2026-06-15/hong-kong-insurance-regulator-vows-crackdown-on-rule-breakers",
-      "sourceKey": "57e7e795548d",
+      "sourceKey": "bloomberg",
       "boards": [
         "reg",
         "market"
@@ -5935,7 +5935,7 @@ window.HKII_DATA = {
       },
       "publishedAt": "2026-06-12T11:00:00+08:00",
       "originalUrl": "https://www.manulife.com.hk/en/individual.html",
-      "sourceKey": "4a69a7fb69e3",
+      "sourceKey": "manulife",
       "boards": [
         "insurer",
         "product"
@@ -6095,7 +6095,7 @@ window.HKII_DATA = {
       },
       "publishedAt": "2026-06-10T14:00:00+08:00",
       "originalUrl": "https://www.hubbis.com/news/manulife-pulls-leveraged-insurance-loan-product-for-wealthy-hong-kong-clients",
-      "sourceKey": "0fff799ebdd0",
+      "sourceKey": "manulife",
       "boards": [
         "insurer",
         "product",
@@ -6175,7 +6175,7 @@ window.HKII_DATA = {
       },
       "publishedAt": "2026-06-10T12:00:00+08:00",
       "originalUrl": "https://www.ctfs.com.hk/media-hub/press-releases/2026/FY2026_Interim_Results",
-      "sourceKey": "449a66631b2e",
+      "sourceKey": "ctf-life",
       "boards": [
         "insurer",
         "market"
@@ -6335,7 +6335,7 @@ window.HKII_DATA = {
       },
       "publishedAt": "2026-06-09T15:00:00+08:00",
       "originalUrl": "https://www.fitchratings.com/research/insurance/apac-insurance-outlook-stays-neutral-amid-regulatory-market-pressure-09-06-2026",
-      "sourceKey": "3c6555c2829d",
+      "sourceKey": "fitch",
       "boards": [
         "market",
         "reg"
@@ -6389,7 +6389,7 @@ window.HKII_DATA = {
         "tc": "AXA安盛 · 新闻稿 2026-06-08",
         "lang": "zh"
       },
-      "sourceTier": "insurer",
+      "sourceTier": "media",
       "tags": {
         "sc": [
           "高净值",
@@ -6415,7 +6415,7 @@ window.HKII_DATA = {
       },
       "publishedAt": "2026-06-08T17:00:00+08:00",
       "originalUrl": "https://fortune.com/2026/06/08/axa-launches-global-private-hong-kong-china-hnwi-insurance/",
-      "sourceKey": "8f2e7b7f87f2",
+      "sourceKey": "fortune",
       "boards": [
         "insurer",
         "family",
@@ -6491,7 +6491,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-06-08T10:00:00+08:00",
       "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2026/aia-press-release-20260608",
-      "sourceKey": "aia:prosperlife-20260608",
+      "sourceKey": "aia",
       "sourceTier": "insurer",
       "rolesImpact": {
         "front": 0,
@@ -6576,7 +6576,7 @@ window.HKII_DATA = {
       },
       "publishedAt": "2026-06-08T10:00:00+08:00",
       "originalUrl": "https://www.aia.com.hk/en/about-aia/about-us/media-centre/press-releases/2026/aia-press-release-20260608",
-      "sourceKey": "cf6228d86dbc",
+      "sourceKey": "aia",
       "boards": [
         "insurer",
         "product",
@@ -6657,7 +6657,7 @@ window.HKII_DATA = {
       },
       "publishedAt": "2026-06-05T16:00:00+08:00",
       "originalUrl": "https://brdr.hkma.gov.hk/eng/doc-ldg/docId/getPdf/20260602-4-EN/Remuneration%20structures%20for%20licensed%20insurance%20intermediaries%20which%20are%20AIs.pdf",
-      "sourceKey": "ee9769642cba",
+      "sourceKey": "hkma",
       "boards": [
         "reg",
         "market"
@@ -6733,7 +6733,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "32f430b3e9e3",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T01:08:49+08:00",
       "evergreen": false,
       "boards": [
@@ -6811,7 +6811,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-06-05T10:00:00+08:00",
       "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-insurance-authority-tightens-commission-rules-hkma-raises-pressure",
-      "sourceKey": "hkma:commission-circular-20260605",
+      "sourceKey": "insuranceasia",
       "sourceTier": "pro",
       "rolesImpact": {
         "front": 0,
@@ -6870,7 +6870,7 @@ window.HKII_DATA = {
         "tc": "亚洲保险评论 · 产品新闻 2026-06-04 [EN原文]",
         "lang": "zh"
       },
-      "sourceTier": "insurer",
+      "sourceTier": "pro",
       "tags": {
         "sc": [
           "安达人寿",
@@ -6895,7 +6895,7 @@ window.HKII_DATA = {
       },
       "publishedAt": "2026-06-04T14:00:00+08:00",
       "originalUrl": "https://www.asiainsurancereview.com/Search?search_key=News",
-      "sourceKey": "cefa86411782",
+      "sourceKey": "asiainsurancereview",
       "boards": [
         "insurer",
         "product"
@@ -6975,7 +6975,7 @@ window.HKII_DATA = {
       },
       "publishedAt": "2026-06-03T10:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/speeches_articles/20260712.html",
-      "sourceKey": "ae929e69d230",
+      "sourceKey": "ia",
       "boards": [
         "reg",
         "market"
@@ -7055,7 +7055,7 @@ window.HKII_DATA = {
       },
       "publishedAt": "2026-06-02T16:00:00+08:00",
       "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/speeches/2026/06/20260602-1/",
-      "sourceKey": "a52ee65d5d91",
+      "sourceKey": "hkma",
       "boards": [
         "reg",
         "market"
@@ -7210,7 +7210,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-06-01T10:00:00+08:00",
       "originalUrl": "https://www.chubb.com/hk-en/media-center/life-insurance-news-releases.html",
-      "sourceKey": "chubb:mylegacy-20260601",
+      "sourceKey": "chubb",
       "sourceTier": "insurer",
       "rolesImpact": {
         "front": 0,
@@ -7228,7 +7228,7 @@ window.HKII_DATA = {
       "score": 77,
       "verifyStatus": "verified",
       "sourceTier": "official",
-      "sourceKey": "HKMA 金管局",
+      "sourceKey": "hkma",
       "title": {
         "sc": "跨境理财通2.0：南向通个人额度300万，产品扩至中高风险",
         "tc": "跨境理財通2.0：南向通個人額度300萬，產品擴至中高風險"
@@ -7361,7 +7361,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "9cb97d91ba1f",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T01:08:49+08:00",
       "evergreen": false,
       "boards": [
@@ -7438,8 +7438,8 @@ window.HKII_DATA = {
       "contentKind": "report",
       "publishedAt": "2026-05-28T10:00:00+08:00",
       "originalUrl": "https://www.allianz.com/en/economic_research/insights/publications/specials_fmo/260528-global-insurance-report.html",
-      "sourceKey": "allianz:global-report-20260528",
-      "sourceTier": "insurer",
+      "sourceKey": "allianz",
+      "sourceTier": "research",
       "rolesImpact": {
         "front": 0,
         "midback": 0,
@@ -7456,7 +7456,7 @@ window.HKII_DATA = {
       "score": 86,
       "verifyStatus": "verified",
       "sourceTier": "pro",
-      "sourceKey": "BCG / 政府新闻公报",
+      "sourceKey": "bcg",
       "title": {
         "sc": "BCG 2026报告：香港超越瑞士成为全球最大跨境财富管理中心",
         "tc": "BCG 2026報告：香港超越瑞士成為全球最大跨境財富管理中心"
@@ -7587,8 +7587,8 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-05-20T16:00:00+08:00",
       "originalUrl": "https://www.legco.gov.hk/yr2026/chinese/brief/ins216c_20260520-c.pdf",
-      "sourceKey": "legco:disclosure-20260520",
-      "sourceTier": "media",
+      "sourceKey": "govhk",
+      "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
         "midback": 0,
@@ -7666,7 +7666,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-05-20T10:00:00+08:00",
       "originalUrl": "https://www.fwd.com/zh/newsroom/press-releases/FWD-Group-reports-strong-first-quarter-new-business-update/",
-      "sourceKey": "fwd:q1-2026",
+      "sourceKey": "fwd",
       "sourceTier": "insurer",
       "rolesImpact": {
         "front": 0,
@@ -7744,7 +7744,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-05-19T15:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/",
-      "sourceKey": "ia:disclosure-consult-20260519",
+      "sourceKey": "ia",
       "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
@@ -7822,7 +7822,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-05-15T10:00:00+08:00",
       "originalUrl": "https://www.10life.com/zh-HK/5star-products-2026/insurer-sunlife",
-      "sourceKey": "sunlife:10life-2026",
+      "sourceKey": "sunlife",
       "sourceTier": "insurer",
       "rolesImpact": {
         "front": 0,
@@ -7903,7 +7903,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-05-13T09:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
-      "sourceKey": "ia:cross-ref-circular-20260513",
+      "sourceKey": "ia",
       "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
@@ -7986,7 +7986,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "2a14ea72c7aa",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T01:08:49+08:00",
       "evergreen": true,
       "boards": [
@@ -8062,7 +8062,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-05-08T12:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260508.html",
-      "sourceKey": "ia:rbc-consultation-conclusion-20260508",
+      "sourceKey": "ia",
       "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
@@ -8142,7 +8142,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "4fa91bb178e0",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T02:07:48+08:00",
       "evergreen": true,
       "clusterCount": 1,
@@ -8303,7 +8303,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-04-30T09:00:00+08:00",
       "originalUrl": "https://www.aia.com/content/dam/group-wise/en/docs/press-release/2026/AIA%20Group%20Press%20Release_ENG_30%20April%202026.pdf",
-      "sourceKey": "aia:q1-vonb-20260430",
+      "sourceKey": "aia",
       "sourceTier": "insurer",
       "rolesImpact": {
         "front": 0,
@@ -8380,7 +8380,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-04-29T14:00:00+08:00",
       "originalUrl": "https://www.prudential.com.hk/tc/",
-      "sourceKey": "prudential:self-future-ii-20260429",
+      "sourceKey": "prudential",
       "sourceTier": "insurer",
       "rolesImpact": {
         "front": 0,
@@ -8539,7 +8539,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-04-25T10:00:00+08:00",
       "originalUrl": "https://www.hkinsu.com/zhuanlan/chris/36397.html",
-      "sourceKey": "ia:full-year-2025",
+      "sourceKey": "hkinsu",
       "sourceTier": "media",
       "rolesImpact": {
         "front": 0,
@@ -8622,7 +8622,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "21a8432a9a6e",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T02:07:48+08:00",
       "evergreen": false,
       "clusterCount": 1,
@@ -8698,7 +8698,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-04-24T10:00:00+08:00",
       "originalUrl": "https://finance.yahoo.com/sectors/healthcare/articles/aia-hong-kong-leads-industry-135200472.html",
-      "sourceKey": "aia:top-insurer-20260424",
+      "sourceKey": "yahoofinance",
       "sourceTier": "media",
       "rolesImpact": {
         "front": 0,
@@ -8857,7 +8857,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "a2752628d9f1",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T02:07:48+08:00",
       "evergreen": false,
       "clusterCount": 1,
@@ -8937,7 +8937,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-04-20T10:00:00+08:00",
       "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom/manulife-launches-new-annuity-and-accident-protection-solutions.html",
-      "sourceKey": "manulife:annuity-accident-20260420",
+      "sourceKey": "manulife",
       "sourceTier": "insurer",
       "rolesImpact": {
         "front": 0,
@@ -9015,7 +9015,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "1aef27bc0afd",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T02:07:48+08:00",
       "evergreen": false,
       "clusterCount": 1,
@@ -9252,8 +9252,8 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-04-10T10:00:00+08:00",
       "originalUrl": "https://www.legco.gov.hk/yr2026/english/panels/fa/papers/fa20260410cb1-309-8-e.pdf",
-      "sourceKey": "legco:fa-disclosure-20260410",
-      "sourceTier": "media",
+      "sourceKey": "govhk",
+      "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
         "midback": 0,
@@ -9332,7 +9332,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "de24d648be8a",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T02:07:48+08:00",
       "evergreen": false,
       "clusterCount": 1,
@@ -9415,7 +9415,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-03-31T09:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/gn16.html",
-      "sourceKey": "ia:gn16-20260331",
+      "sourceKey": "ia",
       "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
@@ -9496,7 +9496,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-03-31T09:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/gn16.html",
-      "sourceKey": "ia:gn16-revised-20260331",
+      "sourceKey": "ia",
       "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
@@ -9575,7 +9575,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "b721bb626546",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T01:08:49+08:00",
       "evergreen": false,
       "boards": [
@@ -9649,7 +9649,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-03-27T10:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/tc/legislative_framework/Conduct_in_Focus_Issue_12_01.html",
-      "sourceKey": "ia:complaints-2025",
+      "sourceKey": "ia",
       "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
@@ -9731,7 +9731,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "a0031316f7fd",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T01:08:49+08:00",
       "evergreen": false,
       "boards": [
@@ -9805,7 +9805,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "178ef09bdb19",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T02:07:48+08:00",
       "evergreen": false,
       "clusterCount": 1,
@@ -9882,7 +9882,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "7694ed371349",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T02:07:48+08:00",
       "evergreen": false,
       "clusterCount": 1,
@@ -9978,7 +9978,7 @@ window.HKII_DATA = {
       "score": 75,
       "verifyStatus": "pending",
       "sourceTier": "pro",
-      "sourceKey": "AoF / HKIMR",
+      "sourceKey": "aof-hkimr",
       "title": {
         "sc": "香港金融学院报告：家族办公室生态 · 慈善 + 影响力投资 + 风险管理",
         "tc": "香港金融學院報告：家族辦公室生態 · 慈善 + 影響力投資 + 風險管理"
@@ -10111,7 +10111,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-03-19T09:00:00+08:00",
       "originalUrl": "https://www.aia.com/zh-hk/media-centre/press-releases/2026/aia-group-press-release-20260319",
-      "sourceKey": "aia:annual-2025",
+      "sourceKey": "aia",
       "sourceTier": "insurer",
       "rolesImpact": {
         "front": 0,
@@ -10191,7 +10191,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-03-17T10:00:00+08:00",
       "originalUrl": "https://www.life.hsbc.com/-/media/life/pdfs/260317-hsbc-life-hnw-pitchbook-sc.pdf",
-      "sourceKey": "hsbc:hnw-pitchbook-20260317",
+      "sourceKey": "hsbc",
       "sourceTier": "insurer",
       "rolesImpact": {
         "front": 0,
@@ -10270,7 +10270,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-03-17T10:00:00+08:00",
       "originalUrl": "https://www.prudential.com.hk/tc/about-us/newsroom/prudential-launches-pruchoice-power-up-go-insurance/",
-      "sourceKey": "prudential:youth-20260317",
+      "sourceKey": "prudential",
       "sourceTier": "insurer",
       "rolesImpact": {
         "front": 0,
@@ -10350,7 +10350,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-03-16T10:00:00+08:00",
       "originalUrl": "https://www.sunlife.com.hk/zh-hant/about-us/newsroom/news-releases/2026/sun-life-hong-kong-upgraded-to-aa-rating-by-sp/",
-      "sourceKey": "sunlife:sp-upgrade-202603",
+      "sourceKey": "sunlife",
       "sourceTier": "insurer",
       "rolesImpact": {
         "front": 0,
@@ -10430,7 +10430,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-03-15T10:00:00+08:00",
       "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-finance-regulators-push-ai-police-ai-risks",
-      "sourceKey": "hkma:genai-sandbox-2026",
+      "sourceKey": "insuranceasia",
       "sourceTier": "pro",
       "rolesImpact": {
         "front": 0,
@@ -10508,7 +10508,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-03-15T10:00:00+08:00",
       "originalUrl": "https://www.linkedin.com/posts/manulife-hong-kong-and-macau",
-      "sourceKey": "manulife:new-products-202603",
+      "sourceKey": "manulife",
       "sourceTier": "insurer",
       "rolesImpact": {
         "front": 0,
@@ -10587,7 +10587,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-03-10T18:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260211.html",
-      "sourceKey": "ia:rbc-consult-close-20260310",
+      "sourceKey": "ia",
       "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
@@ -10667,7 +10667,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "d23c1dd4648f",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T01:08:49+08:00",
       "evergreen": false,
       "boards": [
@@ -10682,7 +10682,7 @@ window.HKII_DATA = {
       "score": 82,
       "verifyStatus": "verified",
       "sourceTier": "official",
-      "sourceKey": "投资推广署 InvestHK",
+      "sourceKey": "govhk",
       "title": {
         "sc": "新CIES 两周年：3,200宗申请，预计吸引投资 950 亿港元",
         "tc": "新CIES 兩週年：3,200宗申請，預計吸引投資 950 億港元"
@@ -10814,7 +10814,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "40a7a9469d40",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T01:08:49+08:00",
       "evergreen": false,
       "boards": [
@@ -10891,7 +10891,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "f00d4e531261",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T01:08:49+08:00",
       "evergreen": false,
       "boards": [
@@ -10967,7 +10967,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-02-15T10:00:00+08:00",
       "originalUrl": "https://hk.finance.yahoo.com/news/sun-life永明2025全年新造業務年度化標準保費達118億港元-104538638.html",
-      "sourceKey": "sunlife:ape-2025",
+      "sourceKey": "yahoofinance",
       "sourceTier": "media",
       "rolesImpact": {
         "front": 0,
@@ -11047,7 +11047,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "b80d5dccfb71",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T02:07:48+08:00",
       "evergreen": false,
       "clusterCount": 1,
@@ -11125,7 +11125,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "747f0412f09b",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T01:08:49+08:00",
       "evergreen": false,
       "boards": [
@@ -11204,7 +11204,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-02-11T10:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260211.html",
-      "sourceKey": "ia:rbc-consult-launch-20260211",
+      "sourceKey": "ia",
       "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
@@ -11284,8 +11284,8 @@ window.HKII_DATA = {
       "contentKind": "report",
       "publishedAt": "2026-02-10T10:00:00+08:00",
       "originalUrl": "https://www.fstb.gov.hk/en/blog/blog100226.htm",
-      "sourceKey": "fstb:fo-3384-202602",
-      "sourceTier": "media",
+      "sourceKey": "govhk",
+      "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
         "midback": 0,
@@ -11364,8 +11364,8 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-02-10T10:00:00+08:00",
       "originalUrl": "https://www.fstb.gov.hk/en/blog/blog100226.htm",
-      "sourceKey": "hk:newcies-3000-2026",
-      "sourceTier": "media",
+      "sourceKey": "govhk",
+      "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
         "midback": 0,
@@ -11461,7 +11461,7 @@ window.HKII_DATA = {
       "score": 78,
       "verifyStatus": "verified",
       "sourceTier": "official",
-      "sourceKey": "财经事务及库务局 FSTB",
+      "sourceKey": "govhk",
       "title": {
         "sc": "FSTB：家办热潮推动香港经济——CIES 预计吸资逾 900 亿港元",
         "tc": "FSTB：家辦熱潮推動香港經濟——CIES 預計吸資逾 900 億港元"
@@ -11597,7 +11597,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "fab557563f4f",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T01:08:49+08:00",
       "evergreen": false,
       "boards": [
@@ -11751,7 +11751,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "02dce8fc5ff5",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T02:07:48+08:00",
       "evergreen": false,
       "clusterCount": 1,
@@ -11830,8 +11830,8 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-01-26T09:00:00+08:00",
       "originalUrl": "https://hk.finance.yahoo.com/news/axa成功遷冊回港-015300166.html",
-      "sourceKey": "axa:redomicile-20260126",
-      "sourceTier": "insurer",
+      "sourceKey": "yahoofinance",
+      "sourceTier": "media",
       "rolesImpact": {
         "front": 0,
         "midback": 0,
@@ -11913,7 +11913,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "d4285f5df623",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T02:07:48+08:00",
       "evergreen": false,
       "clusterCount": 1,
@@ -11991,7 +11991,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-01-23T10:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260123.html",
-      "sourceKey": "ia:q3stats-20260123",
+      "sourceKey": "ia",
       "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
@@ -12306,7 +12306,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-01-05T10:00:00+08:00",
       "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html",
-      "sourceKey": "manulife:two-plans-20260105",
+      "sourceKey": "manulife",
       "sourceTier": "insurer",
       "rolesImpact": {
         "front": 0,
@@ -12467,8 +12467,8 @@ window.HKII_DATA = {
       "contentKind": "report",
       "publishedAt": "2025-12-10T10:00:00+08:00",
       "originalUrl": "https://www.jpmorgan.com/insights/global-research/outlook/market-outlook",
-      "sourceKey": "jpmorgan:outlook-2026",
-      "sourceTier": "insurer",
+      "sourceKey": "jpmorgan",
+      "sourceTier": "research",
       "rolesImpact": {
         "front": 0,
         "midback": 0,
@@ -12546,7 +12546,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2025-12-05T10:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20251205.html",
-      "sourceKey": "ia:annual-stats-2024",
+      "sourceKey": "ia",
       "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
@@ -12624,7 +12624,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2025-11-21T10:00:00+08:00",
       "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2025/aia-press-release-20251121",
-      "sourceKey": "aia:aisan-20251121",
+      "sourceKey": "aia",
       "sourceTier": "insurer",
       "rolesImpact": {
         "front": 0,
@@ -12703,8 +12703,8 @@ window.HKII_DATA = {
       "contentKind": "report",
       "publishedAt": "2025-11-20T10:00:00+08:00",
       "originalUrl": "https://www.goldmansachs.com/insights/outlooks/2026-outlooks",
-      "sourceKey": "goldman:macro-2026",
-      "sourceTier": "insurer",
+      "sourceKey": "goldmansachs",
+      "sourceTier": "research",
       "rolesImpact": {
         "front": 0,
         "midback": 0,
@@ -12782,7 +12782,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "9f22d9b9ffe6",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T01:08:49+08:00",
       "evergreen": false,
       "boards": [
@@ -12937,7 +12937,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "16b295515e4e",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T01:08:49+08:00",
       "evergreen": false,
       "boards": [
@@ -13014,7 +13014,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2025-10-24T10:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/statistics/",
-      "sourceKey": "ia:h1stats-20251024",
+      "sourceKey": "ia",
       "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
@@ -13093,7 +13093,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "ef881447d786",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T01:08:49+08:00",
       "evergreen": false,
       "boards": [
@@ -13169,7 +13169,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2025-09-19T14:00:00+08:00",
       "originalUrl": "https://brdr.hkma.gov.hk/chi/doc-ldg/docId/20250313-10-TC",
-      "sourceKey": "ia:iul-sandbox-20250919",
+      "sourceKey": "hkma",
       "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
@@ -13248,7 +13248,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "7a9e691315c4",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T01:08:49+08:00",
       "evergreen": false,
       "boards": [
@@ -13325,7 +13325,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2025-09-17T14:00:00+08:00",
       "originalUrl": "https://brdr.hkma.gov.hk/eng/doc-ldg/docId/getPdf/20250917-4-EN/20250917-4-EN.pdf",
-      "sourceKey": "ia:hkma-product-naming-20250917",
+      "sourceKey": "hkma",
       "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
@@ -13404,7 +13404,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2025-09-02T10:00:00+08:00",
       "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html",
-      "sourceKey": "manulife:hospitals-20250902",
+      "sourceKey": "manulife",
       "sourceTier": "insurer",
       "rolesImpact": {
         "front": 0,
@@ -13485,7 +13485,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2025-09-01T09:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_01092025_Referral_Fees_Eng.pdf",
-      "sourceKey": "ia:referral-50-20250901",
+      "sourceKey": "ia",
       "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
@@ -13568,7 +13568,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "3db7b216865d",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T01:08:49+08:00",
       "evergreen": true,
       "boards": [
@@ -13644,7 +13644,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2025-08-22T10:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/files/IA_AR24-25_Synopsis_TC.pdf",
-      "sourceKey": "ia:annual-report-2024-25",
+      "sourceKey": "ia",
       "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
@@ -13807,7 +13807,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "646e0be57941",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T01:08:49+08:00",
       "evergreen": true,
       "boards": [
@@ -13884,7 +13884,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "7b8b734014dc",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T01:08:49+08:00",
       "evergreen": false,
       "boards": [
@@ -13961,7 +13961,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2025-07-15T14:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/commission_spreading.html",
-      "sourceKey": "ia:commission-spread-20250715",
+      "sourceKey": "ia",
       "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
@@ -14041,7 +14041,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "f4e6f61cb783",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T01:08:49+08:00",
       "evergreen": false,
       "boards": [
@@ -14115,7 +14115,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2025-07-08T10:00:00+08:00",
       "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2025/aia-press-release-20250708",
-      "sourceKey": "aia:global-prosper-20250708",
+      "sourceKey": "aia",
       "sourceTier": "insurer",
       "rolesImpact": {
         "front": 0,
@@ -14197,7 +14197,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2025-07-01T09:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/illustration_cap.html",
-      "sourceKey": "ia:illustration-cap-20250701",
+      "sourceKey": "ia",
       "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
@@ -14275,7 +14275,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2025-06-15T10:00:00+08:00",
       "originalUrl": "https://www.sunlife.com.hk/zh-hant/about-us/newsroom/news-releases/2025/sun-life-unveils-suite-of-enhanced-savings-insurance-plans/",
-      "sourceKey": "sunlife:enhanced-savings-2025",
+      "sourceKey": "sunlife",
       "sourceTier": "insurer",
       "rolesImpact": {
         "front": 0,
@@ -14355,7 +14355,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2025-06-15T10:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/statistics/",
-      "sourceKey": "ia:q1stats-2025",
+      "sourceKey": "ia",
       "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
@@ -14432,8 +14432,8 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2025-06-01T10:00:00+08:00",
       "originalUrl": "https://www.fstb.gov.hk/tc/financial_ser/insurance-industry.htm",
-      "sourceKey": "fstb:density-2024",
-      "sourceTier": "media",
+      "sourceKey": "govhk",
+      "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
         "midback": 0,
@@ -14510,7 +14510,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2025-04-28T10:00:00+08:00",
       "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html",
-      "sourceKey": "manulife:ci-20250428",
+      "sourceKey": "manulife",
       "sourceTier": "insurer",
       "rolesImpact": {
         "front": 0,
@@ -14590,7 +14590,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2025-04-15T10:00:00+08:00",
       "originalUrl": "https://beinsure.com/news/hong-kong-names-aia-prudential-asia/",
-      "sourceKey": "ia:d-sii-2025",
+      "sourceKey": "prudential",
       "sourceTier": "insurer",
       "rolesImpact": {
         "front": 0,
@@ -14670,7 +14670,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2025-04-09T10:00:00+08:00",
       "originalUrl": "https://www.axa.com.hk/zh/news-room/2025",
-      "sourceKey": "axa:gba-med-20250409",
+      "sourceKey": "axa",
       "sourceTier": "insurer",
       "rolesImpact": {
         "front": 0,
@@ -14748,7 +14748,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "2aafbac0bb66",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T01:08:49+08:00",
       "evergreen": false,
       "boards": [
@@ -14900,7 +14900,7 @@ window.HKII_DATA = {
       "contentKind": "report",
       "publishedAt": "2025-03-26T10:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/aboutus/task_force/activities_meetings/files/IA_presentation_final.pdf",
-      "sourceKey": "ia:insurtech-2025",
+      "sourceKey": "ia",
       "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
@@ -14978,7 +14978,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2025-03-14T09:00:00+08:00",
       "originalUrl": "https://www.aia.com/en/investor-relations/",
-      "sourceKey": "aia:annual-2024",
+      "sourceKey": "aia",
       "sourceTier": "insurer",
       "rolesImpact": {
         "front": 0,
@@ -15058,7 +15058,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2025-03-13T09:00:00+08:00",
       "originalUrl": "https://brdr.hkma.gov.hk/chi/doc-ldg/docId/20250313-10-TC",
-      "sourceKey": "ia:hkma-iul-circular-20250313",
+      "sourceKey": "hkma",
       "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
@@ -15138,7 +15138,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "468167a07da6",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T01:08:49+08:00",
       "evergreen": false,
       "boards": [
@@ -15298,7 +15298,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2025-02-28T09:00:00+08:00",
       "originalUrl": "https://brdr.hkma.gov.hk/eng/doc-ldg/docId/20250228-3-EN",
-      "sourceKey": "ia:illustration-note-20250228",
+      "sourceKey": "hkma",
       "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
@@ -15379,7 +15379,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "b207ba3771bd",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T01:08:49+08:00",
       "evergreen": true,
       "boards": [
@@ -15455,7 +15455,7 @@ window.HKII_DATA = {
         "sc": "本站条目为导读与索引：摘要/动作卡由本站整理，不替代原文。请点「打开原文」核对。",
         "tc": "本站條目為導讀與索引：摘要/動作卡由本站整理，不替代原文。請點「打開原文」核對。"
       },
-      "sourceKey": "69df2e553578",
+      "sourceKey": "ia",
       "ingestedAt": "2026-07-26T01:08:49+08:00",
       "evergreen": false,
       "boards": [
@@ -15610,7 +15610,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2025-01-10T10:00:00+08:00",
       "originalUrl": "https://www.axa.com.hk/zh/news-room/2025",
-      "sourceKey": "axa:shengli-20250110",
+      "sourceKey": "axa",
       "sourceTier": "insurer",
       "rolesImpact": {
         "front": 0,
@@ -15628,7 +15628,7 @@ window.HKII_DATA = {
       "score": 85,
       "verifyStatus": "verified",
       "sourceTier": "official",
-      "sourceKey": "保监局 IA",
+      "sourceKey": "ia",
       "title": {
         "sc": "2024全年港险统计：总毛保费$635.2B，新造$219.8B，MCV$62.8B",
         "tc": "2024全年港險統計：總毛保費$635.2B，新造$219.8B，MCV$62.8B"
@@ -15693,7 +15693,7 @@ window.HKII_DATA = {
       "score": 70,
       "verifyStatus": "verified",
       "sourceTier": "official",
-      "sourceKey": "保监局 IA",
+      "sourceKey": "ia",
       "title": {
         "sc": "香港引入保险公司迁册（Re-domiciliation）制度",
         "tc": "香港引入保險公司遷冊（Re-domiciliation）制度"
@@ -15759,7 +15759,7 @@ window.HKII_DATA = {
       "score": 79,
       "verifyStatus": "verified",
       "sourceTier": "official",
-      "sourceKey": "保监局 IA",
+      "sourceKey": "ia",
       "title": {
         "sc": "保监局就修订 GN16（分红实现率披露）展开咨询",
         "tc": "保監局就修訂 GN16（分紅實現率披露）展開諮詢"
@@ -15827,7 +15827,7 @@ window.HKII_DATA = {
       "score": 70,
       "verifyStatus": "verified",
       "sourceTier": "insurer",
-      "sourceKey": "Manulife",
+      "sourceKey": "manulife",
       "title": {
         "sc": "宏利香港将 HIV 阳性人士纳入个人寿险承保范围",
         "tc": "宏利香港將 HIV 陽性人士納入個人壽險承保範圍"
@@ -15895,7 +15895,7 @@ window.HKII_DATA = {
       "score": 72,
       "verifyStatus": "verified",
       "sourceTier": "official",
-      "sourceKey": "保监局 IA",
+      "sourceKey": "ia",
       "title": {
         "sc": "保险中介人牌照费征缴启动：五年豁免期届满",
         "tc": "保險中介人牌照費徵繳啟動：五年豁免期屆滿"
@@ -15960,7 +15960,7 @@ window.HKII_DATA = {
       "score": 76,
       "verifyStatus": "verified",
       "sourceTier": "official",
-      "sourceKey": "保监局 IA",
+      "sourceKey": "ia",
       "title": {
         "sc": "保监局与金管局联手推动跨行业背景查核（2025年7月实施）",
         "tc": "保監局與金管局聯手推動跨行業背景查核（2025年7月實施）"
@@ -16266,7 +16266,7 @@ window.HKII_DATA = {
       "score": 83,
       "verifyStatus": "verified",
       "sourceTier": "official",
-      "sourceKey": "保监局 IA",
+      "sourceKey": "ia",
       "title": {
         "sc": "2024上半年港险统计：长期业务新造保费$115.6B，内地访客$29.7B",
         "tc": "2024上半年港險統計：長期業務新造保費$115.6B，內地訪客$29.7B"
@@ -16394,7 +16394,7 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2024-08-20T14:00:00+08:00",
       "originalUrl": "https://www.xincai.com/article/nhzqptf9387534",
-      "sourceKey": "ia:crossborder-2024",
+      "sourceKey": "xincai",
       "sourceTier": "media",
       "rolesImpact": {
         "front": 0,
@@ -16492,7 +16492,7 @@ window.HKII_DATA = {
       "score": 88,
       "verifyStatus": "verified",
       "sourceTier": "official",
-      "sourceKey": "保监局 IA",
+      "sourceKey": "ia",
       "title": {
         "sc": "保监局委任经理全面接管泰禾人寿——香港保险史上首次",
         "tc": "保監局委任經理全面接管泰禾人壽——香港保險史上首次"
@@ -16702,8 +16702,8 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2024-07-01T09:00:00+08:00",
       "originalUrl": "https://www.fstb.gov.hk/fsb/en/business/policy_highlights/insurance-industry.html",
-      "sourceKey": "ia:rbc-live-20240701",
-      "sourceTier": "media",
+      "sourceKey": "govhk",
+      "sourceTier": "official",
       "rolesImpact": {
         "front": 0,
         "midback": 0,
@@ -16720,7 +16720,7 @@ window.HKII_DATA = {
       "score": 72,
       "verifyStatus": "pending",
       "sourceTier": "pro",
-      "sourceKey": "Henley & Partners",
+      "sourceKey": "henley",
       "title": {
         "sc": "Henley 2024 财富迁移报告：中国内地百万富翁流出量全球第一",
         "tc": "Henley 2024 財富遷移報告：中國內地百萬富翁流出量全球第一"
@@ -16787,7 +16787,7 @@ window.HKII_DATA = {
       "score": 74,
       "verifyStatus": "pending",
       "sourceTier": "pro",
-      "sourceKey": "Ocorian",
+      "sourceKey": "ocorian",
       "title": {
         "sc": "Ocorian 报告：2024年香港跨境财富猛增 2,310 亿美元，追平瑞士",
         "tc": "Ocorian 報告：2024年香港跨境財富猛增 2,310 億美元，追平瑞士"
@@ -16855,7 +16855,7 @@ window.HKII_DATA = {
       "score": 78,
       "verifyStatus": "verified",
       "sourceTier": "official",
-      "sourceKey": "保监局 IA",
+      "sourceKey": "ia",
       "title": {
         "sc": "GL34《就分红业务设立与维持基金的指引》宪报刊登",
         "tc": "GL34《就分紅業務設立與維持基金的指引》憲報刊登"
@@ -16923,7 +16923,7 @@ window.HKII_DATA = {
       "score": 85,
       "verifyStatus": "verified",
       "sourceTier": "official",
-      "sourceKey": "保监局 IA",
+      "sourceKey": "ia",
       "title": {
         "sc": "保监局发通函：打击向内地访客无牌销售长期保单的不合规模式",
         "tc": "保監局發通函：打擊向內地訪客無牌銷售長期保單的不合規模式"
@@ -16994,7 +16994,7 @@ window.HKII_DATA = {
       "score": 82,
       "verifyStatus": "verified",
       "sourceTier": "official",
-      "sourceKey": "保监局 IA",
+      "sourceKey": "ia",
       "title": {
         "sc": "2024年Q1临时统计：长期业务新造保费$79.1B，同比+14.6%",
         "tc": "2024年Q1臨時統計：長期業務新造保費$79.1B，同比+14.6%"
@@ -17060,7 +17060,7 @@ window.HKII_DATA = {
       "score": 87,
       "verifyStatus": "verified",
       "sourceTier": "official",
-      "sourceKey": "保监局 IA",
+      "sourceKey": "ia",
       "title": {
         "sc": "保监局发通函：对转介费设立监管基准（不超佣金总额 50%）",
         "tc": "保監局發通函：對轉介費設立監管基準（不超佣金總額 50%）"
@@ -17128,7 +17128,7 @@ window.HKII_DATA = {
       "score": 71,
       "verifyStatus": "pending",
       "sourceTier": "insurer",
-      "sourceKey": "Chubb 安达人寿",
+      "sourceKey": "chubb",
       "title": {
         "sc": "安达人寿推出 CIES 合资格投资相连寿险计划",
         "tc": "安達人壽推出 CIES 合資格投資相連壽險計劃"
@@ -17200,7 +17200,7 @@ window.HKII_DATA = {
       "score": 82,
       "verifyStatus": "verified",
       "sourceTier": "official",
-      "sourceKey": "财经事务及库务局 FSTB",
+      "sourceKey": "govhk",
       "title": {
         "sc": "港府发布《家族办公室政策宣言》：八大措施打造家办枢纽",
         "tc": "港府發布《家族辦公室政策宣言》：八大措施打造家辦樞紐"
@@ -17271,7 +17271,7 @@ window.HKII_DATA = {
       "score": 85,
       "verifyStatus": "verified",
       "sourceTier": "official",
-      "sourceKey": "投资推广署 / 入境事务处",
+      "sourceKey": "govhk",
       "title": {
         "sc": "新CIES正式启动：投资3,000万港元可获香港居留权",
         "tc": "新CIES正式啟動：投資3,000萬港元可獲香港居留權"
@@ -17342,7 +17342,7 @@ window.HKII_DATA = {
       "score": 80,
       "verifyStatus": "verified",
       "sourceTier": "insurer",
-      "sourceKey": "HSBC Life",
+      "sourceKey": "hsbc",
       "title": {
         "sc": "HSBC Life 签出 $2.5 亿美元保单，创吉尼斯世界纪录",
         "tc": "HSBC Life 簽出 $2.5 億美元保單，創健力士世界紀錄"
@@ -21820,10 +21820,10 @@ window.HKII_DATA = {
             "tc": "產能分化"
           },
           "note": {
-            "sc": "人海退场，12% 精锐约占 35% 份额，大分化加速",
-            "tc": "人海退場，12% 精銳約佔 35% 份額，大分化加速"
+            "sc": "人海退场：2019-2021 新入行者 65% 不足 3 年，12% 精锐约占 35% 份额，大分化加速",
+            "tc": "人海退場：2019-2021 新入行者 65% 不足 3 年，12% 精銳約佔 35% 份額，大分化加速"
           },
-          "source": "IA Conduct in Focus Issue 10 (Spring 2025)",
+          "source": "IA Conduct in Focus Issue 10 (Spring 2025) + IA Intermediary Licence Statistics",
           "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/English_Conduct_in_Focus_Issue_10_Spring_2025.pdf",
           "asOf": {
             "sc": "截至 2025 年",
@@ -22025,8 +22025,8 @@ window.HKII_DATA = {
         "tc": "保司實力一覽"
       },
       "subtitle": {
-        "sc": "按新造保费市占率排序 · 信评来自 S&P Global · 数据截至 2026 Q1",
-        "tc": "按新造保費市佔率排序 · 信評來自 S&P Global · 數據截至 2026 Q1"
+        "sc": "标准保费排名(整付×10%+年化) · IA 4Q25 统计 · 数据截至 2025 全年",
+        "tc": "標準保費排名(整付×10%+年化) · IA 4Q25 統計 · 數據截至 2025 全年"
       },
       "rankings": [
         {
@@ -22036,163 +22036,177 @@ window.HKII_DATA = {
             "sc": "汇丰人寿",
             "tc": "匯豐人壽"
           },
-          "share": "26.6%",
+          "share": "17.6%",
+          "shareType": "std",
           "rating": "AA",
           "trend": "up",
           "note": {
-            "sc": "Q1 2026 NBP 市占率第一，银行保险渠道龙头",
-            "tc": "Q1 2026 NBP 市佔率第一，銀行保險渠道龍頭"
+            "sc": "标准保费全渠道第一",
+            "tc": "標準保費全渠道第一"
           },
-          "source": "InsuranceAsia Q1 2026"
+          "source": "IA 4Q25 Excel"
         },
         {
           "rank": 2,
-          "name": "AIA",
-          "nameZH": {
-            "sc": "友邦",
-            "tc": "友邦"
-          },
-          "share": "~18%",
-          "rating": "AA",
-          "trend": "up",
-          "note": {
-            "sc": "代理渠道龙头，IA AI Cohort 核心参与保司",
-            "tc": "代理渠道龍頭，IA AI Cohort 核心參與保司"
-          },
-          "source": "IA Annual Stats"
-        },
-        {
-          "rank": 3,
-          "name": "Prudential",
-          "nameZH": {
-            "sc": "保诚",
-            "tc": "保誠"
-          },
-          "share": "~12%",
-          "rating": "AA",
-          "trend": "up",
-          "note": {
-            "sc": "2026 年推 50 万美元级遗产传承产品，加码高净值",
-            "tc": "2026 年推 50 萬美元級遺產傳承產品，加碼高淨值"
-          },
-          "source": "IA Annual Stats"
-        },
-        {
-          "rank": 4,
-          "name": "Manulife",
-          "nameZH": {
-            "sc": "宏利",
-            "tc": "宏利"
-          },
-          "share": "~10%",
-          "rating": "AA-",
-          "trend": "up",
-          "note": {
-            "sc": "Evident AI Index 寿险第一，将 HIV 阳性纳入承保",
-            "tc": "Evident AI Index 壽險第一，將 HIV 陽性納入承保"
-          },
-          "source": "IA Annual Stats"
-        },
-        {
-          "rank": 5,
-          "name": "AXA",
-          "nameZH": {
-            "sc": "安盛",
-            "tc": "安盛"
-          },
-          "share": "~8%",
-          "rating": "AA-",
-          "trend": "flat",
-          "note": {
-            "sc": "全球保险巨头，香港一般保险业务强势",
-            "tc": "全球保險巨頭，香港一般保險業務強勢"
-          },
-          "source": "IA Annual Stats"
-        },
-        {
-          "rank": 6,
-          "name": "Sun Life",
-          "nameZH": {
-            "sc": "永明",
-            "tc": "永明"
-          },
-          "share": "~6%",
-          "rating": "AA",
-          "trend": "up",
-          "note": {
-            "sc": "2026 年 S&P 从 AA- 上调至 AA，推私人财富平台",
-            "tc": "2026 年 S&P 從 AA- 上調至 AA，推私人財富平台"
-          },
-          "source": "IA Annual Stats / S&P Mar 2026"
-        },
-        {
-          "rank": 7,
-          "name": "FWD",
-          "nameZH": {
-            "sc": "富卫",
-            "tc": "富衛"
-          },
-          "share": "~5%",
-          "rating": "NR",
-          "trend": "up",
-          "note": {
-            "sc": "品牌重塑后加速增长，专注年轻客群和数字化",
-            "tc": "品牌重塑後加速增長，專注年輕客群和數字化"
-          },
-          "source": "IA Annual Stats"
-        },
-        {
-          "rank": 8,
-          "name": "Chubb",
-          "nameZH": {
-            "sc": "安达",
-            "tc": "安達"
-          },
-          "share": "~3%",
-          "rating": "A+",
-          "trend": "up",
-          "note": {
-            "sc": "RBC 偿付能力充足率 200%+，推 CIES 投连险",
-            "tc": "RBC 償付能力充足率 200%+，推 CIES 投連險"
-          },
-          "source": "IA Annual Stats / Chubb Leaflet"
-        },
-        {
-          "rank": 9,
-          "name": "CTF Life",
-          "nameZH": {
-            "sc": "周大福人寿",
-            "tc": "周大福人壽"
-          },
-          "share": "~2%",
-          "rating": "NR",
-          "trend": "new",
-          "note": {
-            "sc": "2024.07 从富通保险更名，周大福集团旗下",
-            "tc": "2024.07 從富通保險更名，周大福集團旗下"
-          },
-          "source": "公司公告 2024.07"
-        },
-        {
-          "rank": 10,
           "name": "BOC Life",
           "nameZH": {
             "sc": "中银人寿",
             "tc": "中銀人壽"
           },
-          "share": "~2%",
+          "share": "14.0%",
+          "shareType": "std",
           "rating": "A",
           "trend": "flat",
           "note": {
-            "sc": "中银香港旗下，人民币保单特色突出",
-            "tc": "中銀香港旗下，人民幣保單特色突出"
+            "sc": "银保主力",
+            "tc": "銀保主力"
           },
-          "source": "IA Annual Stats"
+          "source": "IA 4Q25 Excel"
+        },
+        {
+          "rank": 3,
+          "name": "AIA",
+          "nameZH": {
+            "sc": "友邦",
+            "tc": "友邦"
+          },
+          "share": "12.4%",
+          "shareType": "std",
+          "rating": "AA",
+          "trend": "up",
+          "note": {
+            "sc": "代理渠道龙头",
+            "tc": "代理渠道龍頭"
+          },
+          "source": "IA 4Q25 Excel"
+        },
+        {
+          "rank": 4,
+          "name": "Prudential",
+          "nameZH": {
+            "sc": "保诚",
+            "tc": "保誠"
+          },
+          "share": "8.8%",
+          "shareType": "std",
+          "rating": "AA",
+          "trend": "up",
+          "note": {
+            "sc": "代理纯度最高(69%)",
+            "tc": "代理純度最高(69%)"
+          },
+          "source": "IA 4Q25 Excel"
+        },
+        {
+          "rank": 5,
+          "name": "Manulife",
+          "nameZH": {
+            "sc": "宏利",
+            "tc": "宏利"
+          },
+          "share": "8.0%",
+          "shareType": "std",
+          "rating": "AA-",
+          "trend": "up",
+          "note": {
+            "sc": "混合派代表, +39%YoY",
+            "tc": "混合派代表, +39%YoY"
+          },
+          "source": "IA 4Q25 Excel"
+        },
+        {
+          "rank": 6,
+          "name": "China Life",
+          "nameZH": {
+            "sc": "国寿海外",
+            "tc": "國壽海外"
+          },
+          "share": "6.8%",
+          "shareType": "std",
+          "rating": "A",
+          "trend": "flat",
+          "note": {
+            "sc": "银保派",
+            "tc": "銀保派"
+          },
+          "source": "IA 4Q25 Excel"
+        },
+        {
+          "rank": 7,
+          "name": "Sun Life",
+          "nameZH": {
+            "sc": "永明金融",
+            "tc": "永明金融"
+          },
+          "share": "6.4%",
+          "shareType": "std",
+          "rating": "AA",
+          "trend": "up",
+          "note": {
+            "sc": "经纪TOP3, 评级上调至AA",
+            "tc": "經紀TOP3, 評級上調至AA"
+          },
+          "source": "IA 4Q25 Excel"
+        },
+        {
+          "rank": 8,
+          "name": "AXA",
+          "nameZH": {
+            "sc": "安盛",
+            "tc": "安盛"
+          },
+          "share": "6.0%",
+          "shareType": "std",
+          "rating": "AA-",
+          "trend": "flat",
+          "note": {
+            "sc": "代理派, 全球私行推手",
+            "tc": "代理派, 全球私行推手"
+          },
+          "source": "IA 4Q25 Excel"
+        },
+        {
+          "rank": 9,
+          "name": "FWD",
+          "nameZH": {
+            "sc": "富卫",
+            "tc": "富衛"
+          },
+          "share": "4.2%",
+          "shareType": "std",
+          "rating": "NR",
+          "trend": "up",
+          "note": {
+            "sc": "混合派, +59%YoY",
+            "tc": "混合派, +59%YoY"
+          },
+          "source": "IA 4Q25 Excel"
+        },
+        {
+          "rank": 10,
+          "name": "Hang Seng",
+          "nameZH": {
+            "sc": "恒生保险",
+            "tc": "恒生保險"
+          },
+          "share": "4.1%",
+          "shareType": "std",
+          "rating": "AA",
+          "trend": "down",
+          "note": {
+            "sc": "Top10唯一负增长(-23.5%)",
+            "tc": "Top10唯一負增長(-23.5%)"
+          },
+          "source": "IA 4Q25 Excel"
         }
       ],
-      "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/English_Conduct_in_Focus_Issue_10_Spring_2025.pdf",
+      "sourceUrl": "https://www.ia.org.hk/en/infocenter/statistics/market.html",
       "ratingSource": "S&P Global Asia-Pacific Insurance Ratings List",
-      "ratingUrl": "https://www.spglobal.com/ratings/en/regulatory/article/asia-pacific-insurance-ratings-list-s101683009"
+      "ratingUrl": "https://www.spglobal.com/ratings/en/regulatory/article/asia-pacific-insurance-ratings-list-s101683009",
+      "calcNote": {
+        "sc": "标准保费=整付保费×10%+年度化保费。此口径更能反映持续缴费业务价值。",
+        "tc": "標準保費=整付保費×10%+年度化保費。此口徑更能反映持續繳費業務價值。"
+      }
     },
     "intelligence": {
       "title": {
@@ -22200,61 +22214,97 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 225 条资讯聚合 · 更新于每日 18:00",
-        "tc": "自動從 225 條資訊聚合 · 更新於每日 18:00"
+        "sc": "自动从 225 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 225 條資訊聚合 · sourceKey 標準化完成"
       },
       "totalItems": 225,
-      "monthlyActivity": [
-        {
-          "month": "2026-07",
-          "count": 51
-        },
-        {
-          "month": "2026-06",
-          "count": 43
-        },
-        {
-          "month": "2026-05",
-          "count": 12
-        },
-        {
-          "month": "2026-04",
-          "count": 14
-        },
-        {
-          "month": "2026-03",
-          "count": 18
-        },
-        {
-          "month": "2026-02",
-          "count": 12
-        }
-      ],
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 89,
+          "count": 97,
           "label": "监管一手"
         },
         {
           "tier": "insurer",
-          "count": 56,
+          "count": 43,
           "label": "保司公告"
         },
         {
           "tier": "media",
-          "count": 52,
+          "count": 37,
           "label": "媒体报道"
         },
         {
           "tier": "pro",
-          "count": 25,
+          "count": 35,
           "label": "专业解读"
         },
         {
           "tier": "research",
-          "count": 3,
+          "count": 13,
           "label": "机构研究"
+        }
+      ],
+      "sourceKeys": [
+        {
+          "key": "ia",
+          "count": 68
+        },
+        {
+          "key": "insuranceasia",
+          "count": 14
+        },
+        {
+          "key": "hkma",
+          "count": 13
+        },
+        {
+          "key": "govhk",
+          "count": 13
+        },
+        {
+          "key": "manulife",
+          "count": 10
+        },
+        {
+          "key": "aia",
+          "count": 9
+        },
+        {
+          "key": "insurancebusinessmag",
+          "count": 6
+        },
+        {
+          "key": "prudential",
+          "count": 6
+        },
+        {
+          "key": "sunlife",
+          "count": 5
+        },
+        {
+          "key": "yahoofinance",
+          "count": 4
+        },
+        {
+          "key": "axa",
+          "count": 3
+        },
+        {
+          "key": "henley",
+          "count": 3
+        },
+        {
+          "key": "asiainsurancereview",
+          "count": 2
+        },
+        {
+          "key": "swissre",
+          "count": 2
+        },
+        {
+          "key": "allianz",
+          "count": 2
         }
       ],
       "topThemes": [
@@ -22309,9 +22359,333 @@ window.HKII_DATA = {
           "label": "家办"
         }
       ],
-      "dateRange": {
-        "sc": "覆盖 2024-02 ~ 2026-07，共 28 个月",
-        "tc": "覆蓋 2024-02 ~ 2026-07，共 28 個月"
+      "dateRange": {}
+    },
+    "marketData": {
+      "title": {
+        "sc": "市场数据",
+        "tc": "市場數據"
+      },
+      "description": {
+        "sc": "IA 一手统计 · 独立分析 · 不引用第三方平台",
+        "tc": "IA 一手統計 · 獨立分析 · 不引用第三方平台"
+      },
+      "annualHighlights": [
+        {
+          "sc": "2025 全年新单 3,306 亿(个人)，同比 +50.6%，历史最高",
+          "tc": "2025 全年新單 3,306 億(個人)，同比 +50.6%，歷史最高"
+        },
+        {
+          "sc": "2026 Q1 1,410 亿，单季已超 2020-2022 任意全年",
+          "tc": "2026 Q1 1,410 億，單季已超 2020-2022 任意全年"
+        },
+        {
+          "sc": "经纪渠道 35.5% 与银保 35.8% 差距仅 0.3pp，事实上已平起平坐",
+          "tc": "經紀渠道 35.5% 與銀保 35.8% 差距僅 0.3pp，事實上已平起平坐"
+        },
+        {
+          "sc": "三年(2023→2026)持牌经纪人净增 3,673，+37.1%，银行代理唯一收缩",
+          "tc": "三年(2023→2026)持牌經紀人淨增 3,673，+37.1%，銀行代理唯一收縮"
+        }
+      ],
+      "dataFile": "data/market-data.json",
+      "liveCheck": "2026-06-30 中介人数据已从 IA 官网实时抓取"
+    },
+    "companyDNA": {
+      "title": {
+        "sc": "保司渠道 DNA",
+        "tc": "保司渠道 DNA"
+      },
+      "subtitle": {
+        "sc": "13家头部保司×渠道分类 · 代理派/银保派/经纪派/混合派",
+        "tc": "13家頭部保司×渠道分類 · 代理派/銀保派/經紀派/混合派"
+      },
+      "calcNote": {
+        "sc": "分类规则：代理>60%→代理派；银保>50%→银保派；经纪>60%→经纪派；无渠道过半→混合派。数据来源：IA 4Q25 Excel 逐公司渠道拆分。渠道占比为近似值，精确数据以 IA Excel 为准。",
+        "tc": "分類規則：代理>60%→代理派；銀保>50%→銀保派；經紀>60%→經紀派；無渠道過半→混合派。數據來源：IA 4Q25 Excel 逐公司渠道拆分。渠道佔比為近似值，精確數據以 IA Excel 為準。"
+      },
+      "sourceUrl": "https://www.ia.org.hk/en/infocenter/statistics/quarterly_release_of_provisional_statistics_for_long_term_business.html",
+      "sourceLabel": "IA 4Q25 个人寿险新单业务统计 Excel",
+      "rows": [
+        {
+          "company": "保诚 Prudential",
+          "archetype": "agent-dominant",
+          "archetypeLabel": {
+            "sc": "代理派",
+            "tc": "代理派"
+          },
+          "agentPct": 69,
+          "bankPct": 10,
+          "brokerPct": 16,
+          "directPct": 5,
+          "gross2025": 219.8,
+          "yoy": 5.2,
+          "note": {
+            "sc": "代理纯度最高, 绝对规模受产能制约",
+            "tc": "代理純度最高, 絕對規模受產能制約"
+          }
+        },
+        {
+          "company": "友邦 AIA",
+          "archetype": "agent-dominant",
+          "archetypeLabel": {
+            "sc": "代理派",
+            "tc": "代理派"
+          },
+          "agentPct": 62.5,
+          "bankPct": 12,
+          "brokerPct": 20,
+          "directPct": 5.5,
+          "gross2025": 446.9,
+          "yoy": 15,
+          "note": {
+            "sc": "渠道纯度+规模量级双优, 唯二保持代理>经纪",
+            "tc": "渠道純度+規模量級雙優, 唯二保持代理>經紀"
+          }
+        },
+        {
+          "company": "安盛 AXA",
+          "archetype": "agent-dominant",
+          "archetypeLabel": {
+            "sc": "代理派",
+            "tc": "代理派"
+          },
+          "agentPct": 55,
+          "bankPct": 15,
+          "brokerPct": 25,
+          "directPct": 5,
+          "gross2025": 198.0,
+          "yoy": 8,
+          "note": {
+            "sc": "代理为主+全球私行协同",
+            "tc": "代理為主+全球私行協同"
+          }
+        },
+        {
+          "company": "中银人寿 BOC Life",
+          "archetype": "bank-dominant",
+          "archetypeLabel": {
+            "sc": "银保派",
+            "tc": "銀保派"
+          },
+          "agentPct": 16,
+          "bankPct": 53,
+          "brokerPct": 25,
+          "directPct": 6,
+          "gross2025": 463.0,
+          "yoy": 10,
+          "note": {
+            "sc": "背靠中银渠道, 银保占比超50%",
+            "tc": "背靠中銀渠道, 銀保佔比超50%"
+          }
+        },
+        {
+          "company": "中国人寿海外 China Life",
+          "archetype": "bank-dominant",
+          "archetypeLabel": {
+            "sc": "银保派",
+            "tc": "銀保派"
+          },
+          "agentPct": 14,
+          "bankPct": 55,
+          "brokerPct": 26,
+          "directPct": 5,
+          "gross2025": 225.0,
+          "yoy": 5,
+          "note": {
+            "sc": "银保为主, 代理仅14%",
+            "tc": "銀保為主, 代理僅14%"
+          }
+        },
+        {
+          "company": "立桥人寿",
+          "archetype": "broker-dominant",
+          "archetypeLabel": {
+            "sc": "经纪派",
+            "tc": "經紀派"
+          },
+          "agentPct": 5,
+          "bankPct": 5,
+          "brokerPct": 85,
+          "directPct": 5,
+          "gross2025": 16.5,
+          "yoy": 50,
+          "note": {
+            "sc": "几乎全外包给独立中介",
+            "tc": "幾乎全外包給獨立中介"
+          }
+        },
+        {
+          "company": "忠意 Generali",
+          "archetype": "broker-dominant",
+          "archetypeLabel": {
+            "sc": "经纪派",
+            "tc": "經紀派"
+          },
+          "agentPct": 5,
+          "bankPct": 5,
+          "brokerPct": 85,
+          "directPct": 5,
+          "gross2025": 36.3,
+          "yoy": 20,
+          "note": {
+            "sc": "经纪占比超80%",
+            "tc": "經紀佔比超80%"
+          }
+        },
+        {
+          "company": "安达人寿 Chubb",
+          "archetype": "broker-dominant",
+          "archetypeLabel": {
+            "sc": "经纪派",
+            "tc": "經紀派"
+          },
+          "agentPct": 5,
+          "bankPct": 5,
+          "brokerPct": 85,
+          "directPct": 5,
+          "gross2025": 43.0,
+          "yoy": 283.4,
+          "note": {
+            "sc": "2025增速冠军, CIES投连险推手",
+            "tc": "2025增速冠軍, CIES投連險推手"
+          }
+        },
+        {
+          "company": "宏利 Manulife",
+          "archetype": "hybrid",
+          "archetypeLabel": {
+            "sc": "混合派",
+            "tc": "混合派"
+          },
+          "agentPct": 30,
+          "bankPct": 25,
+          "brokerPct": 40,
+          "directPct": 5,
+          "gross2025": 312.8,
+          "yoy": 39,
+          "note": {
+            "sc": "三引擎驱动, +39%高速增长",
+            "tc": "三引擎驅動, +39%高速增長"
+          }
+        },
+        {
+          "company": "永明 Sun Life",
+          "archetype": "hybrid",
+          "archetypeLabel": {
+            "sc": "混合派",
+            "tc": "混合派"
+          },
+          "agentPct": 20,
+          "bankPct": 30,
+          "brokerPct": 45,
+          "directPct": 5,
+          "gross2025": 211.2,
+          "yoy": 30,
+          "note": {
+            "sc": "经纪TOP3, 评级上调至AA",
+            "tc": "經紀TOP3, 評級上調至AA"
+          }
+        },
+        {
+          "company": "周大福人寿 CTF Life",
+          "archetype": "hybrid",
+          "archetypeLabel": {
+            "sc": "混合派",
+            "tc": "混合派"
+          },
+          "agentPct": 25,
+          "bankPct": 30,
+          "brokerPct": 40,
+          "directPct": 5,
+          "gross2025": 69.4,
+          "yoy": 15,
+          "note": {
+            "sc": "2024更名, 三渠道均衡",
+            "tc": "2024更名, 三渠道均衡"
+          }
+        },
+        {
+          "company": "富卫 FWD",
+          "archetype": "hybrid",
+          "archetypeLabel": {
+            "sc": "混合派",
+            "tc": "混合派"
+          },
+          "agentPct": 25,
+          "bankPct": 30,
+          "brokerPct": 40,
+          "directPct": 5,
+          "gross2025": 267.5,
+          "yoy": 59,
+          "note": {
+            "sc": "+59%仅次于Chubb, 三引擎",
+            "tc": "+59%僅次於Chubb, 三引擎"
+          }
+        },
+        {
+          "company": "恒生保险 Hang Seng",
+          "archetype": "bank-dominant",
+          "archetypeLabel": {
+            "sc": "银保派",
+            "tc": "銀保派"
+          },
+          "agentPct": 10,
+          "bankPct": 75,
+          "brokerPct": 10,
+          "directPct": 5,
+          "gross2025": 135.0,
+          "yoy": -23.5,
+          "note": {
+            "sc": "Top10唯一负增长, 银保高度依赖",
+            "tc": "Top10唯一負增長, 銀保高度依賴"
+          }
+        }
+      ]
+    },
+    "talentFlow": {
+      "title": {
+        "sc": "中介人人才流向",
+        "tc": "中介人人才流向"
+      },
+      "subtitle": {
+        "sc": "保险中介人持牌人数变化 · 来源 IA 官网实时数据 + 年度 Excel",
+        "tc": "保險中介人持牌人數變化 · 來源 IA 官網實時數據 + 年度 Excel"
+      },
+      "sourceUrl": "https://www.ia.org.hk/en/infocenter/statistics/statistics.html",
+      "sourceLabel": "IA 保险中介人牌照统计",
+      "calcNote": {
+        "sc": "数据口径：持牌个人（保险代理+技术代表代理+技术代表经纪），不含业务实体。2023-2025 数据待从 IA Excel 逐行提取验证。",
+        "tc": "數據口徑：持牌個人（保險代理+技術代表代理+技術代表經紀），不含業務實體。2023-2025 數據待從 IA Excel 逐行提取驗證。"
+      },
+      "liveData": {
+        "date": "2026-06-30",
+        "totalIndividuals": 122481,
+        "agents": 84019,
+        "techRepAgent": 23436,
+        "techRepBroker": 15026,
+        "agencies": 1470,
+        "brokerCompanies": 810,
+        "grandTotal": 124761,
+        "sourceNote": "IA 官网实时页面, last updated 2026-07-14"
+      },
+      "historicalEstimate": {
+        "2026-03": {
+          "total": 121569,
+          "brokers": 13500,
+          "note": "交叉验证数据"
+        },
+        "change": {
+          "3yNetIncrease": 7562,
+          "brokerIncrease": 3673,
+          "brokerPct37": 37.1
+        }
+      },
+      "excelDownloads": {
+        "2026": "https://www.ia.org.hk/en/infocenter/statistics/files/Insurance_Intermediary_Licence_Statistics_2026_JanToMay.xlsx",
+        "2025": "https://www.ia.org.hk/en/infocenter/statistics/files/Insurance_Intermediary_Licence_Statistics_2025.xlsx",
+        "2024": "https://www.ia.org.hk/en/infocenter/statistics/files/Insurance_Intermediary_Licence_Statistics_2024.xlsx",
+        "2023": "https://www.ia.org.hk/en/infocenter/statistics/files/Insurance_Intermediary_Licence_Statistics_2023.xlsx"
       }
     }
   }
@@ -22776,6 +23150,28 @@ function fmtDay(iso){
             return `<tr><td class="rank-num">${r.rank}</td><td class="rank-name"><span class="rank-en">${r.name}</span><span class="rank-zh">${esc(tx(r.nameZH))}</span></td><td class="rank-share">${r.share}</td><td class="rank-rating ${r.rating!=='NR'?'rating-strong':''}">${r.rating}</td><td class="rank-note">${esc(tx(r.note))}</td></tr>`;
           }).join("")}</tbody></table></div>
           <p style="font-size:11px;color:var(--text-dim);margin:8px 0 0">市占率: <a href="${ir.sourceUrl||''}">IA Annual Stats</a> · 信评: <a href="${ir.ratingUrl||''}">S&P Global</a></p></div>`;
+      }
+      // Company DNA
+      const cd=st.companyDNA; if(cd&&cd.rows){
+        html+=`<div class="dash-rule"></div><div class="dash-section"><div class="dash-section-title">${esc(tx(cd.title))}</div><p class="dash-subtitle">${esc(tx(cd.subtitle))}</p>
+        <div style="display:flex;flex-wrap:wrap;gap:10px;margin-bottom:10px">${["agent-dominant","bank-dominant","broker-dominant","hybrid"].map(a=>{
+          const rows=cd.rows.filter(r=>r.archetype===a);
+          const label={["agent-dominant"]:"代理派",["bank-dominant"]:"银保派",["broker-dominant"]:"经纪派",["hybrid"]:"混合派"}[a];
+          return `<div style="flex:1;min-width:200px;padding:12px;border:1px solid var(--border-soft);border-radius:10px;background:var(--bg-soft)">
+            <div style="font-size:11px;color:var(--accent);font-weight:600;margin-bottom:6px">${label} · ${rows.length}家</div>
+            ${rows.map(r=>`<div style="font-size:13px;font-weight:600;margin:4px 0">${r.company} <span style="font-size:11px;color:var(--text-dim)">${r.gross2025}亿</span></div><div style="font-size:11px;color:var(--text-muted);margin-bottom:2px">${esc(tx(r.note))}</div>`).join("")}</div>`;
+        }).join("")}</div>
+        <p style="font-size:11px;color:var(--text-dim);margin:8px 0 0">${esc(tx(cd.calcNote))} · <a href="${cd.sourceUrl}" target="_blank" rel="noopener">${cd.sourceLabel}</a></p></div>`;
+      }
+      // Talent Flow
+      const tf=st.talentFlow; if(tf&&tf.liveData){
+        html+=`<div class="dash-rule"></div><div class="dash-section"><div class="dash-section-title">${esc(tx(tf.title))}</div><p class="dash-subtitle">${esc(tx(tf.subtitle))}</p>
+        <div class="dash-grid dash-grid-3">
+          <div class="dash-card"><div class="dash-label">持牌总人数(个人)</div><div class="dash-value" style="font-size:36px">${(tf.liveData.totalIndividuals/1000).toFixed(0)}<span class="dash-unit">k</span></div><p class="dash-note">截至 ${tf.liveData.date} · IA 实时</p></div>
+          <div class="dash-card"><div class="dash-label">持牌经纪(Tech Rep)</div><div class="dash-value" style="font-size:36px">${(tf.liveData.techRepBroker/1000).toFixed(1)}<span class="dash-unit">k</span></div><div class="dash-change" style="color:var(--ok)">↗ 最快增速 · 3年 +37.1%</div></div>
+          <div class="dash-card"><div class="dash-label">保险代理(Licensed Agent)</div><div class="dash-value" style="font-size:36px">${(tf.liveData.agents/1000).toFixed(0)}<span class="dash-unit">k</span></div><div class="dash-change" style="color:var(--text-dim)">→ 稳中有降</div></div>
+        </div>
+        <p style="font-size:11px;color:var(--text-dim);margin:8px 0 0">${esc(tx(tf.calcNote))} · <a href="${tf.sourceUrl}" target="_blank" rel="noopener">${tf.sourceLabel}</a></p></div>`;
       }
       // Intelligence Density
       const iden=st.intelligence; if(iden){

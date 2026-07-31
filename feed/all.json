@@ -1,7 +1,7 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-07-31T02:59:53Z",
+  "generatedAt": "2026-07-31T04:13:10Z",
   "itemCount": 225,
   "items": [
     {
@@ -58,7 +58,7 @@
     {
       "id": "hk-202607-mainland-scrutiny",
       "title": "监管关注香港保险公司内地资金合规问题",
-      "sourceTier": "media",
+      "sourceTier": "pro",
       "themes": [
         "market"
       ],
@@ -70,7 +70,7 @@
     {
       "id": "ia-20260730-sales-misconduct",
       "title": "保监局收紧销售行为规则：高管对全流程合规直接负责",
-      "sourceTier": "media",
+      "sourceTier": "pro",
       "themes": [
         "market"
       ],
@@ -82,7 +82,7 @@
     {
       "id": "ai-25pct-insurance-jobs-202607",
       "title": "报告：AI 自动化可能替代保险业 25% 的岗位",
-      "sourceTier": "media",
+      "sourceTier": "pro",
       "themes": [
         "tech",
         "career"
@@ -95,7 +95,7 @@
     {
       "id": "picc-202607-re",
       "title": "人保香港积极拓展再保险转入业务",
-      "sourceTier": "media",
+      "sourceTier": "pro",
       "themes": [
         "market"
       ],
@@ -120,7 +120,7 @@
     {
       "id": "cgs-202607-hk-crackdown",
       "title": "CGS International: 香港保险公司不惧监管收紧 增长前景稳健",
-      "sourceTier": "media",
+      "sourceTier": "pro",
       "themes": [
         "market"
       ],
@@ -132,7 +132,7 @@
     {
       "id": "ratings-2026-consolidated",
       "title": "香港主要保险公司信评一览(2026更新)。",
-      "sourceTier": "media",
+      "sourceTier": "research",
       "themes": [
         "market"
       ],
@@ -196,7 +196,7 @@
     {
       "id": "prudential-usd500k-legacy-202607",
       "title": "保诚推出 50 万美元级遗产传承产品，瞄准超高净值客群",
-      "sourceTier": "pro",
+      "sourceTier": "insurer",
       "themes": [
         "product",
         "offshore",
@@ -276,7 +276,7 @@
     {
       "id": "insbus-202607-hk-growth",
       "title": "Insurance Business深度分析：Q1毛保费2916亿+32% 跨境数据连5季缺失。",
-      "sourceTier": "media",
+      "sourceTier": "pro",
       "themes": [
         "market"
       ],
@@ -314,7 +314,7 @@
     {
       "id": "ia-q1-2026-stats",
       "title": "2026年Q1临时统计：长期业务新造保费约1411亿港元，同比约+51.1%。",
-      "sourceTier": "media",
+      "sourceTier": "pro",
       "themes": [
         "channel",
         "macro",
@@ -367,7 +367,7 @@
     {
       "id": "ziyu-ceo-letter-20260724",
       "title": "资遇经纪 CEO 年度公开信：信任，是时间留下的凭证",
-      "sourceTier": "pro",
+      "sourceTier": "media",
       "themes": [
         "channel",
         "compliance",
@@ -459,7 +459,7 @@
     {
       "id": "ia-20260715-sales-practices",
       "title": "行业观察：保监局强化销售行为监管（误导/适当性/录音录像相关叙事升温）。",
-      "sourceTier": "media",
+      "sourceTier": "pro",
       "themes": [
         "compliance",
         "reg"
@@ -484,7 +484,7 @@
     {
       "id": "hk-international-schools-2026",
       "title": "香港国际学校需求激增：家办家庭推动学位竞争白热化",
-      "sourceTier": "media",
+      "sourceTier": "pro",
       "themes": [
         "education",
         "family-office"
@@ -561,7 +561,7 @@
     {
       "id": "fstb-20260708-captive",
       "title": "财库局欢迎保监局批准两间新专属自保保险公司。",
-      "sourceTier": "media",
+      "sourceTier": "official",
       "themes": [
         "market"
       ],
@@ -587,7 +587,7 @@
     {
       "id": "swissre-202607-wis",
       "title": "Swiss Re sigma报告：2026全球保险成为碎片化世界中的减震器。",
-      "sourceTier": "insurer",
+      "sourceTier": "research",
       "themes": [
         "market"
       ],
@@ -663,7 +663,7 @@
     {
       "id": "ia-20260630-swissre-sigma",
       "title": "瑞再研究院sigma报告：全球保险在碎片化世界中扮演「减震器」，AI投资颠覆行业格局。",
-      "sourceTier": "insurer",
+      "sourceTier": "research",
       "themes": [
         "macro",
         "market",
@@ -677,7 +677,7 @@
     {
       "id": "ia-20260630-allianz-report",
       "title": "安联全球保险报告2026：碎片化世界中的保险未来 — 亚洲仍是增长引擎。",
-      "sourceTier": "insurer",
+      "sourceTier": "research",
       "themes": [
         "macro",
         "market"
@@ -690,7 +690,7 @@
     {
       "id": "hk-property-cires-2026",
       "title": "CIES 推动香港豪宅市场：3,000 万以上住宅成交上升",
-      "sourceTier": "media",
+      "sourceTier": "official",
       "themes": [
         "property",
         "offshore"
@@ -744,7 +744,7 @@
     {
       "id": "ia-20260626-morganstanley",
       "title": "摩根士丹利2026年6月股市评论：关注亚洲保险板块防御价值。",
-      "sourceTier": "insurer",
+      "sourceTier": "research",
       "themes": [
         "macro",
         "market"
@@ -757,7 +757,7 @@
     {
       "id": "ia-20260626-pimco-asia",
       "title": "PIMCO 2026年Q2亚洲交易室更新：亚太分化加剧，看好保险资产配置价值。",
-      "sourceTier": "insurer",
+      "sourceTier": "research",
       "themes": [
         "macro",
         "market"
@@ -833,7 +833,7 @@
     {
       "id": "ia-20260620-goldman-outlook",
       "title": "高盛重申2026年美股乐观展望：盈利增长驱动，保险金融板块受益。",
-      "sourceTier": "insurer",
+      "sourceTier": "media",
       "themes": [
         "macro",
         "market"
@@ -871,7 +871,7 @@
     {
       "id": "ia-ai-cohort-202606",
       "title": "保监局AI促进计划再扩容：新增宏利等三家保司。",
-      "sourceTier": "media",
+      "sourceTier": "pro",
       "themes": [
         "market"
       ],
@@ -883,7 +883,7 @@
     {
       "id": "ia-20260618-blackrock-outlook",
       "title": "贝莱德2026年中全球投资展望：呼吁投资组合重思，关注保险板块的稳定器角色。",
-      "sourceTier": "insurer",
+      "sourceTier": "research",
       "themes": [
         "macro",
         "market"
@@ -896,7 +896,7 @@
     {
       "id": "ia-20260617-manulife-ai",
       "title": "宏利香港加入保监局AI促进计划：AI已覆盖核保、分销与客服三线。",
-      "sourceTier": "insurer",
+      "sourceTier": "pro",
       "themes": [
         "tech",
         "firm"
@@ -1067,7 +1067,7 @@
     {
       "id": "ia-20260608-axa-global-private",
       "title": "AXA安盛推出「AXA Global Private」高净值统一平台，落户香港及百慕达。",
-      "sourceTier": "insurer",
+      "sourceTier": "media",
       "themes": [
         "product",
         "offshore",
@@ -1147,7 +1147,7 @@
     {
       "id": "ia-20260611-chubb-life",
       "title": "安达人寿香港增强旗舰储蓄计划：新增3年缴付选项。",
-      "sourceTier": "insurer",
+      "sourceTier": "pro",
       "themes": [
         "product",
         "firm"
@@ -1238,7 +1238,7 @@
     {
       "id": "allianz-20260528-global-report",
       "title": "安联全球保险报告2026：全球保费+7.1%至6.9万亿欧元 亚洲领跑。",
-      "sourceTier": "insurer",
+      "sourceTier": "research",
       "themes": [
         "market"
       ],
@@ -1263,7 +1263,7 @@
     {
       "id": "ia-20260520-gl34-corp",
       "title": "立法会审议《保险业(公众披露)规则》附属法例。",
-      "sourceTier": "media",
+      "sourceTier": "official",
       "themes": [
         "market"
       ],
@@ -1525,7 +1525,7 @@
     {
       "id": "legco-20260410-fa-disclosure",
       "title": "立法会财经事务委员会讨论保险公开披露立法建议。",
-      "sourceTier": "media",
+      "sourceTier": "official",
       "themes": [
         "market"
       ],
@@ -1856,7 +1856,7 @@
     {
       "id": "fstb-20260210-fo-3384",
       "title": "香港家族办公室达3384间 两年增25% 过半财富超5100万美元。",
-      "sourceTier": "media",
+      "sourceTier": "official",
       "themes": [
         "market"
       ],
@@ -1868,7 +1868,7 @@
     {
       "id": "hk-2026-newcies-3000",
       "title": "新资本投资者入境计划收逾3000宗申请 预计带来900亿投资。",
-      "sourceTier": "media",
+      "sourceTier": "official",
       "themes": [
         "market"
       ],
@@ -1946,7 +1946,7 @@
     {
       "id": "axa-20260126-redomicile",
       "title": "AXA安盛成功由百慕达迁册至香港。",
-      "sourceTier": "insurer",
+      "sourceTier": "media",
       "themes": [
         "market"
       ],
@@ -2046,7 +2046,7 @@
     {
       "id": "jpmorgan-2026-outlook",
       "title": "摩根大通2026展望：看好全球权益+双位数增长 黄金目标价$5000。",
-      "sourceTier": "insurer",
+      "sourceTier": "research",
       "themes": [
         "market"
       ],
@@ -2082,7 +2082,7 @@
     {
       "id": "goldman-2026-macro-outlook",
       "title": "高盛2026宏观展望：全球GDP 2.8% 牛市扩散 科技主导。",
-      "sourceTier": "insurer",
+      "sourceTier": "research",
       "themes": [
         "market"
       ],
@@ -2361,7 +2361,7 @@
     {
       "id": "fstb-2024-density",
       "title": "香港保险密度0043全球第二 渗透率18.2%全球第一。",
-      "sourceTier": "media",
+      "sourceTier": "official",
       "themes": [
         "market"
       ],
@@ -2737,7 +2737,7 @@
     {
       "id": "ia-20240701-rbc-live",
       "title": "香港风险为本资本制度(RBC)正式生效。",
-      "sourceTier": "media",
+      "sourceTier": "official",
       "themes": [
         "market"
       ],
