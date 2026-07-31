@@ -22563,11 +22563,11 @@ window.HKII_DATA = {
     const n = t.nav;
     $("#nav").innerHTML = `
       <div class="nav-section">${t.sec.c}</div>
-      ${n.slice(0,7).map(x=>`<button class="nav-item ${state.view===x.id?'active':''}" data-view="${x.id}"><span class="ico">${x.ico}</span>${x.label}</button>`).join("")}
+      ${n.slice(0,9).map(x=>`<button class="nav-item ${state.view===x.id?'active':''}" data-view="${x.id}"><span class="ico">${x.ico}</span>${x.label}</button>`).join("")}
       <div class="nav-section">${t.sec.a}</div>
-      ${n.slice(7,9).map(x=>`<button class="nav-item ${state.view===x.id?'active':''}" data-view="${x.id}"><span class="ico">${x.ico}</span>${x.label}</button>`).join("")}
+      ${n.slice(9,11).map(x=>`<button class="nav-item ${state.view===x.id?'active':''}" data-view="${x.id}"><span class="ico">${x.ico}</span>${x.label}</button>`).join("")}
       <div class="nav-section">${t.sec.m}</div>
-      ${n.slice(9).map(x=>`<button class="nav-item ${state.view===x.id?'active':''}" data-view="${x.id}"><span class="ico">${x.ico}</span>${x.label}</button>`).join("")}`;
+      ${n.slice(11).map(x=>`<button class="nav-item ${state.view===x.id?'active':''}" data-view="${x.id}"><span class="ico">${x.ico}</span>${x.label}</button>`).join("")}`;
     $("#rolePills").innerHTML = t.roles.map(r => `<button type="button" class="pill ${state.role===r.id?'on':''}" data-role="${r.id}">${r.label}</button>`).join("");
   }
 
@@ -22720,7 +22720,83 @@ function fmtDay(iso){
     $("#viewSub").textContent=`${meta.s} · ${t.roleNow}：${roleLabel}`;
     let html="";
     if(DATA.meta&&DATA.meta.windowNote) html+=`<div class="note-bar"><strong>${t.window}</strong> · ${esc(tx(DATA.meta.windowNote))}</div>`;
-    if(state.view==="pulse"){
+    if(state.view==="dashboard"){
+      const t=T();
+      html+=`<div class="dash-section" style="margin-bottom:32px">
+        <div class="dash-hero">
+          <h2 style="font-size:24px;font-weight:700;letter-spacing:-0.02em;margin:0 0 4px">情报看板</h2>
+          <p style="color:var(--text-muted);font-size:13px;margin:0">市场数据实时仪表板 · 源头可溯 · 每条数字可回追</p>
+        </div>
+      </div>`;
+      const st=DATA.stats||{};
+      // Market Pulse
+      const mp=st.marketPulse; if(mp&&mp.items){
+        html+=`<div class="dash-section"><div class="dash-section-title">${esc(tx(mp.title))}</div>
+        <div class="dash-grid dash-grid-3">${mp.items.map(s=>{
+          const ti=s.trend==="up"?"↗":s.trend==="down"?"↘":"→";
+          const tc=s.trend==="up"?"var(--ok)":s.trend==="down"?"var(--warn)":"var(--text-dim)";
+          return '<div class="dash-card"><div class="dash-label">'+esc(tx(s.label))+'</div><div class="dash-value">'+s.value+' <span class="dash-unit">'+esc(tx(s.unit))+'</span></div><div class="dash-change" style="color:'+tc+'">'+ti+' '+s.change+' <span class="dash-clabel">'+esc(tx(s.changeLabel))+'</span></div><p class="dash-note">'+esc(tx(s.note))+'</p><div class="dash-source"><a href="'+s.sourceUrl+'" target="_blank" rel="noopener">'+s.source+'</a> · '+esc(tx(s.asOf))+'</div></div>';
+        }).join("")}</div></div>`;
+      }
+      // Family Office
+      const fo=st.familyOffice; if(fo&&fo.items){
+        html+=`<div class="dash-section"><div class="dash-section-title">${esc(tx(fo.title))}</div>
+        <div class="dash-grid dash-grid-3">${fo.items.map(s=>{
+          const ti=s.trend==="up"?"↗":s.trend==="down"?"↘":"→";
+          const tc=s.trend==="up"?"var(--ok)":s.trend==="down"?"var(--warn)":"var(--text-dim)";
+          return '<div class="dash-card"><div class="dash-label">'+esc(tx(s.label))+'</div><div class="dash-value">'+s.value+' <span class="dash-unit">'+esc(tx(s.unit))+'</span></div><div class="dash-change" style="color:'+tc+'">'+ti+' '+s.change+' <span class="dash-clabel">'+esc(tx(s.changeLabel))+'</span></div><p class="dash-note">'+esc(tx(s.note))+'</p><div class="dash-source"><a href="'+s.sourceUrl+'" target="_blank" rel="noopener">'+s.source+'</a> · '+esc(tx(s.asOf))+'</div></div>';
+        }).join("")}</div></div>`;
+      }
+      // Channel
+      const cl=st.channelLandscape; if(cl&&cl.items){
+        html+=`<div class="dash-section"><div class="dash-section-title">${esc(tx(cl.title))}</div>
+        <div class="dash-grid dash-grid-3">${cl.items.map(s=>{
+          const ti=s.trend==="up"?"↗":s.trend==="down"?"↘":"→";
+          const tc=s.trend==="up"?"var(--ok)":s.trend==="down"?"var(--warn)":"var(--text-dim)";
+          return '<div class="dash-card"><div class="dash-label">'+esc(tx(s.label))+'</div><div class="dash-value">'+s.value+' <span class="dash-unit">'+esc(tx(s.unit))+'</span></div><div class="dash-change" style="color:'+tc+'">'+ti+' '+s.change+' <span class="dash-clabel">'+esc(tx(s.changeLabel))+'</span></div><p class="dash-note">'+esc(tx(s.note))+'</p><div class="dash-source"><a href="'+s.sourceUrl+'" target="_blank" rel="noopener">'+s.source+'</a> · '+esc(tx(s.asOf))+'</div></div>';
+        }).join("")}</div></div>`;
+      }
+      // Regulatory Clock
+      const rc=st.regulatoryClock; if(rc&&rc.events){
+        html+=`<div class="dash-rule"></div><div class="dash-section"><div class="dash-section-title">${esc(tx(rc.title))}</div><p class="dash-subtitle">${esc(tx(rc.subtitle))}</p>
+        <div class="clock-timeline">${rc.events.map((e,i)=>{
+          const stars="★★★★★".slice(0,e.impact);
+          const it2=e.itemId?byId(e.itemId):null;
+          return `<div class="clock-item"><div class="clock-dot ${i===0?'clock-dot-first':i===rc.events.length-1?'clock-dot-last':''}"></div><div class="clock-date">${e.date}</div><div class="clock-body"><div class="clock-cat">${esc(tx(e.category))}</div><div class="clock-title">${esc(tx(e.title))}</div><div class="clock-impact">${stars}</div><p class="clock-desc">${esc(tx(e.desc))}</p>${it2?`<a class="clock-link" data-open="${e.itemId}">查看详情 →</a>`:""}</div></div>`;
+        }).join("")}</div></div>`;
+      }
+      // Insurer Rankings
+      const ir=st.insurerRankings; if(ir&&ir.rankings){
+        html+=`<div class="dash-rule"></div><div class="dash-section"><div class="dash-section-title">${esc(tx(ir.title))}</div><p class="dash-subtitle">${esc(tx(ir.subtitle))}</p>
+        <div class="rank-table-wrap"><table class="rank-table">
+          <thead><tr><th>#</th><th>保司</th><th>市占率</th><th>信评</th><th>备注</th></tr></thead>
+          <tbody>${ir.rankings.map(r=>{
+            const ti2=r.trend==="up"?"↗":r.trend==="down"?"↘":"→";
+            const tc2=r.trend==="up"?"var(--ok)":r.trend==="down"?"var(--warn)":"var(--text-dim)";
+            return `<tr><td class="rank-num">${r.rank}</td><td class="rank-name"><span class="rank-en">${r.name}</span><span class="rank-zh">${esc(tx(r.nameZH))}</span></td><td class="rank-share">${r.share}</td><td class="rank-rating ${r.rating!=='NR'?'rating-strong':''}">${r.rating}</td><td class="rank-note">${esc(tx(r.note))}</td></tr>`;
+          }).join("")}</tbody></table></div>
+          <p style="font-size:11px;color:var(--text-dim);margin:8px 0 0">市占率: <a href="${ir.sourceUrl||''}">IA Annual Stats</a> · 信评: <a href="${ir.ratingUrl||''}">S&P Global</a></p></div>`;
+      }
+      // Intelligence Density
+      const iden=st.intelligence; if(iden){
+        html+=`<div class="dash-rule"></div><div class="dash-section"><div class="dash-section-title">${esc(tx(iden.title))}</div><p class="dash-subtitle">${esc(tx(iden.subtitle))}</p>
+        <div class="dash-grid dash-grid-2">
+          <div class="dash-card"><div class="dash-label">累计条目</div><div class="dash-value" style="font-size:40px">${iden.totalItems} <span class="dash-unit">条</span></div><p class="dash-note">${esc(tx(iden.dateRange))}</p></div>
+          <div class="dash-card"><div class="dash-label">信源分布</div><div class="tier-bars">${(iden.sourceTiers||[]).map(t=>{
+            const pct=Math.round(t.count/iden.totalItems*100);
+            return `<div class="tier-bar-row"><span class="tier-label">${t.label||t.tier}</span><div class="tier-bar-bg"><div class="tier-bar-fill" style="width:${pct}%"></div></div><span class="tier-count">${t.count}</span></div>`;
+          }).join("")}</div></div>
+        </div>
+        <div class="dash-card" style="margin-top:10px"><div class="dash-label">主题热度 Top 10</div>
+        <div style="display:flex;flex-wrap:wrap;gap:8px;margin-top:8px">${(iden.topThemes||[]).map(t=>'<span style="font-size:13px;color:var(--accent);background:var(--accent-dim);padding:3px 8px;border-radius:6px">'+(t.label||t.theme)+' '+t.count+'</span>').join("")}</div></div></div>`;
+      }
+      // Footer
+      const ds=st.dataSummary; if(ds){
+        html+=`<div class="dash-rule"></div><div class="dash-section"><div class="dash-section-title">${esc(tx(ds.title))}</div>
+        <div class="dash-summary">${(ds.notes||[]).map(n=>`<li>${esc(tx(n))}</li>`).join("")}</div></div>`;
+      }
+    }
+    else if(state.view==="pulse"){
       // evergreen
       const eg=(DATA.evergreen||[]).map(byId).filter(Boolean).filter(matches);
       if(eg.length){
