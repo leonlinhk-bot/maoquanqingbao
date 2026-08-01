@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-01T16:35:25Z",
-  "itemCount": 236,
+  "generatedAt": "2026-08-01T16:41:01Z",
+  "itemCount": 240,
   "items": [
     {
       "id": "rga-hk-outlook-2026",
@@ -2293,6 +2293,33 @@
       "originalUrl": "https://www.ia.org.hk/en/infocenter/statistics/"
     },
     {
+      "id": "ia-2025-annual-report",
+      "title": "保监局发表 2024-25 年报：CPD 合规率 99.9%、执法罚款 2,367 万港元",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "compliance",
+        "career"
+      ],
+      "publishedAt": "2025-10-22T10:00:00+08:00",
+      "score": 82,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2025-annual-report",
+      "originalUrl": "https://www.ia.org.hk/sc/infocenter/press_releases/20251022.html"
+    },
+    {
+      "id": "ia-dsii-20251017",
+      "title": "保监局公布首批 D-SII 名单：友邦、保诚入选「大而不能倒」",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "firm"
+      ],
+      "publishedAt": "2025-10-17T10:00:00+08:00",
+      "score": 95,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-dsii-20251017",
+      "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20251017.html"
+    },
+    {
       "id": "ia-ro-cpd-20251014",
       "title": "负责人（RO）强制 CPD：2025/26 评估期首轮安排（2025-10-14 通函）。",
       "sourceTier": "official",
@@ -2343,6 +2370,18 @@
       "score": 82,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20250917-product-naming",
       "originalUrl": "https://brdr.hkma.gov.hk/eng/doc-ldg/docId/getPdf/20250917-4-EN/20250917-4-EN.pdf"
+    },
+    {
+      "id": "ia-2025-hkfi-monthly-brief",
+      "title": "香港保联 2025 年 9 月产品简报：多款新产品聚焦健康与退休",
+      "sourceTier": "pro",
+      "themes": [
+        "product"
+      ],
+      "publishedAt": "2025-09-15T10:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2025-hkfi-monthly-brief",
+      "originalUrl": "https://files.hkfi.org.hk/monthly%20brief/2025/e_202509.pdf"
     },
     {
       "id": "manulife-20250902-hospitals",
@@ -2432,6 +2471,19 @@
       "score": 84,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20250808-rbc-disclosure",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_20250808_First_Year_Public_Disclosure.pdf"
+    },
+    {
+      "id": "fwd-iul-20250806",
+      "title": "富卫香港推出面向专业投资者的指数型万用寿险(IUL)计划",
+      "sourceTier": "insurer",
+      "themes": [
+        "product",
+        "offshore"
+      ],
+      "publishedAt": "2025-08-06T10:00:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fwd-iul-20250806",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/fwd-hong-kong-launches-indexed-universal-life-plan-for-professionals-521938.aspx"
     },
     {
       "id": "ia-202507-commission-spread",

@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-08-02T00:07:31+08:00",
-    "itemCount": 236,
+    "generatedAt": "2026-08-02T00:41:01+08:00",
+    "itemCount": 240,
     "windowNote": {
-      "sc": "本库236条。",
-      "tc": "本庫236條。"
+      "sc": "本库240条。",
+      "tc": "本庫240條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -13834,6 +13834,150 @@
       ]
     },
     {
+      "id": "ia-2025-annual-report",
+      "clusterCount": 1,
+      "score": 82,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "保监局发表 2024-25 年报：CPD 合规率 99.9%、执法罚款 2,367 万港元",
+        "tc": "保監局發表 2024-25 年報：CPD 合規率 99.9%、執法罰款 2,367 萬港元"
+      },
+      "summary": {
+        "sc": "2025 年 10 月 22 日，保监局发表《2024-25 年报》：① 持牌中介 CPD 合规率达 99.9%；② 年度执法罚款约 2,367 万港元；③ 收到 1,066 宗新投诉；④ 持牌代理机构 1,556 间；⑤ CPD 培训先导计划吸引约 500 名从业员报读。",
+        "tc": "2025 年 10 月 22 日，保監局發表《2024-25 年報》：① 持牌中介 CPD 合規率達 99.9%；② 年度執法罰款約 2,367 萬港元；③ 收到 1,066 宗新投訴；④ 持牌代理機構 1,556 間；⑤ CPD 培訓先導計劃吸引約 500 名從業員報讀。"
+      },
+      "why": {
+        "sc": "99.9% CPD 合规率=中介人队伍变得更专业了。2,367 万罚款=监管牙齿更锋利了。年报是理解监管工具箱扩容的最佳文档。",
+        "tc": "99.9% CPD 合規率=中介人隊伍變得更專業了。2,367 萬罰款=監管牙齒更鋒利了。年報是理解監管工具箱擴容的最佳文檔。"
+      },
+      "actions": {
+        "front": {
+          "sc": "CPD合规=专业中介=客户信任基础更强",
+          "tc": "CPD合規=專業中介=客戶信任基礎更強"
+        },
+        "midback": {
+          "sc": "罚款上升=合规团队不是成本中心",
+          "tc": "罰款上升=合規團隊不是成本中心"
+        },
+        "lead": {
+          "sc": "年报数据=培训团队/合规资源投入的决策依据",
+          "tc": "年報數據=培訓團隊/合規資源投入的決策依據"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 4,
+        "lead": 3,
+        "cross": 1
+      },
+      "source": {
+        "sc": "IA · 2025年10月22日",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reg",
+        "compliance",
+        "career"
+      ],
+      "tags": {
+        "sc": [
+          "年报",
+          "CPD",
+          "执法",
+          "罚款"
+        ],
+        "tc": [
+          "年報",
+          "CPD",
+          "執法",
+          "罰款"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2025-10-22T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/sc/infocenter/press_releases/20251022.html"
+    },
+    {
+      "id": "ia-dsii-20251017",
+      "clusterCount": 1,
+      "score": 95,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "保监局公布首批 D-SII 名单：友邦、保诚入选「大而不能倒」",
+        "tc": "保監局公佈首批 D-SII 名單：友邦、保誠入選「大而不能倒」"
+      },
+      "summary": {
+        "sc": "2025 年 10 月 17 日，保监局正式推出「具本地系统重要性保险公司（D-SII）」宏观审慎监管框架，首批仅友邦和保诚两家从 160 余家获授权保险人中入选。D-SII 需承担更高资本要求和更严格风险管理——这标志着港险监管向「分层监管」迈出关键一步。",
+        "tc": "2025 年 10 月 17 日，保監局正式推出「具本地系統重要性保險公司（D-SII）」宏觀審慎監管框架，首批僅友邦和保誠兩家從 160 餘家獲授權保險人中入選。D-SII 需承擔更高資本要求和更嚴格風險管理——這標誌著港險監管向「分層監管」邁出關鍵一步。"
+      },
+      "why": {
+        "sc": "D-SII=香港版「大而不能倒」名单。入选=监管最严级别，也=市场对这两家「不会倒」的官方背书。这对 IFA 推荐产品时的保司选择有直接参考价值。",
+        "tc": "D-SII=香港版「大而不能倒」名單。入選=監管最嚴級別，也=市場對這兩家「不會倒」的官方背書。這對 IFA 推薦產品時的保司選擇有直接參考價值。"
+      },
+      "actions": {
+        "front": {
+          "sc": "D-SII保司=客户最关心的「安全性」问题有官方答案",
+          "tc": "D-SII保司=客戶最關心的「安全性」問題有官方答案"
+        },
+        "midback": {
+          "sc": "D-SII框架=更高资本要求=保司合规义务升级",
+          "tc": "D-SII框架=更高資本要求=保司合規義務升級"
+        },
+        "lead": {
+          "sc": "仅友邦/保诚入选=竞争格局的两极化信号",
+          "tc": "僅友邦/保誠入選=競爭格局的兩極化信號"
+        },
+        "cross": {
+          "sc": "D-SII与G-SII(全球系统重要性)形成两级监管体系",
+          "tc": "D-SII與G-SII(全球系統重要性)形成兩級監管體系"
+        }
+      },
+      "rolesImpact": {
+        "front": 5,
+        "midback": 4,
+        "lead": 5,
+        "cross": 4
+      },
+      "source": {
+        "sc": "IA / AIA / Prudential · 2025年10月17日",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reg",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "D-SII",
+          "友邦",
+          "保诚",
+          "系统性重要"
+        ],
+        "tc": [
+          "D-SII",
+          "友邦",
+          "保誠",
+          "系統性重要"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2025-10-17T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20251017.html"
+    },
+    {
       "id": "ia-ro-cpd-20251014",
       "title": {
         "sc": "负责人（RO）强制 CPD：2025/26 评估期首轮安排（2025-10-14 通函）。",
@@ -14143,6 +14287,73 @@
       "themes": [
         "market"
       ]
+    },
+    {
+      "id": "ia-2025-hkfi-monthly-brief",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "pending",
+      "sourceTier": "pro",
+      "sourceKey": "hkfi",
+      "title": {
+        "sc": "香港保联 2025 年 9 月产品简报：多款新产品聚焦健康与退休",
+        "tc": "香港保聯 2025 年 9 月產品簡報：多款新產品聚焦健康與退休"
+      },
+      "summary": {
+        "sc": "香港保险业联会（HKFI）2025 年 9 月产品月报显示：AIA 推出「OptimaCEO 医疗计划」、Sun Life 推出「Stand-by-you 意外保障计划」、多款产品聚焦健康保障与退休规划。",
+        "tc": "香港保險業聯會（HKFI）2025 年 9 月產品月報顯示：AIA 推出「OptimaCEO 醫療計劃」、Sun Life 推出「Stand-by-you 意外保障計劃」、多款產品聚焦健康保障與退休規劃。"
+      },
+      "why": {
+        "sc": "保联月报是追踪全行业产品发布的窗口——不是每家保司都发新闻稿，但产品上了保联月报就是正式推向市场。",
+        "tc": "保聯月報是追蹤全行業產品發佈的窗口——不是每家保司都發新聞稿，但產品上了保聯月報就是正式推向市場。"
+      },
+      "actions": {
+        "front": {
+          "sc": "新产品=新话术=新客户切入角度",
+          "tc": "新產品=新話術=新客戶切入角度"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "产品发布节奏=保司战略意图的信号",
+          "tc": "產品發佈節奏=保司戰略意圖的信號"
+        },
+        "cross": {
+          "sc": ""
+        }
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "HKFI · 2025年9月",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "产品",
+          "AIA",
+          "Sun Life",
+          "医疗"
+        ],
+        "tc": [
+          "產品",
+          "AIA",
+          "Sun Life",
+          "醫療"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-09-15T10:00:00+08:00",
+      "originalUrl": "https://files.hkfi.org.hk/monthly%20brief/2025/e_202509.pdf"
     },
     {
       "id": "manulife-20250902-hospitals",
@@ -14699,6 +14910,73 @@
         "reg"
       ],
       "contentKind": "circular"
+    },
+    {
+      "id": "fwd-iul-20250806",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "pending",
+      "sourceTier": "insurer",
+      "sourceKey": "fwd",
+      "title": {
+        "sc": "富卫香港推出面向专业投资者的指数型万用寿险(IUL)计划",
+        "tc": "富衛香港推出面向專業投資者的指數型萬用壽險(IUL)計劃"
+      },
+      "summary": {
+        "sc": "2025 年 8 月，富卫香港推出面向专业投资者的指数型万用寿险（IUL）计划，成为继保监局 3 月联合通函后首批响应 IUL 产品开放的保司之一。产品设计以多元指数挂钩、下行保护为卖点，瞄准高净值客群的财富增值与传承需求。",
+        "tc": "2025 年 8 月，富衛香港推出面向專業投資者的指數型萬用壽險（IUL）計劃，成為繼保監局 3 月聯合通函後首批響應 IUL 產品開放的保司之一。產品設計以多元指數掛鉤、下行保護為賣點，瞄準高淨值客群的財富增值與傳承需求。"
+      },
+      "why": {
+        "sc": "IUL 是 2025-2026 年度港险产品创新的最热赛道。FWD 抢跑=抢占高净值 IUL 市场份额。了解谁在入局 IUL，就知道这条赛道的竞争烈度。",
+        "tc": "IUL 是 2025-2026 年度港險產品創新的最熱賽道。FWD 搶跑=搶佔高淨值 IUL 市場份額。了解誰在入局 IUL，就知道這條賽道的競爭烈度。"
+      },
+      "actions": {
+        "front": {
+          "sc": "IUL是2025年开始面向IFA高净值客户的新品类",
+          "tc": "IUL是2025年開始面向IFA高淨值客戶的新品類"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "FWD抢跑IUL=产品创新赛道已开启",
+          "tc": "FWD搶跑IUL=產品創新賽道已開啟"
+        },
+        "cross": {
+          "sc": "IUL将保险与资本市场挂钩，跨境架构需求更大",
+          "tc": "IUL將保險與資本市場掛鉤，跨境架構需求更大"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 3,
+        "cross": 3
+      },
+      "source": {
+        "sc": "Insurance Business Mag · 2025年8月",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "product",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "IUL",
+          "富卫",
+          "高净值"
+        ],
+        "tc": [
+          "IUL",
+          "富衛",
+          "高淨值"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-08-06T10:00:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/fwd-hong-kong-launches-indexed-universal-life-plan-for-professionals-521938.aspx"
     },
     {
       "id": "ia-202507-commission-spread",

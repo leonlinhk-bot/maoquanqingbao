@@ -1,0 +1,272 @@
+{
+  "_meta": {
+    "description": "保司产品追踪注册表 — 记录已知产品发布，标注来源",
+    "principle": "每条产品均标注来源URL，不做产品评价/推荐",
+    "updated": "2026-08-01"
+  },
+  "companies": {
+    "hkma-sfc-ia-mpfa": [
+      {
+        "date": "2026-07-29",
+        "title": "金管局证监保监积金局联合发布跨行业网络安全测绘通函",
+        "itemId": "cyber-mapping-circular-jul29"
+      }
+    ],
+    "investhk-cies": [
+      {
+        "date": "2026-07-27",
+        "title": "新资本投资者入境计划两周年：3,166宗申请、预计引资950亿港元。",
+        "itemId": "cies-2year-20260727"
+      }
+    ],
+    "prudential": [
+      {
+        "date": "2026-07-27",
+        "title": "保诚推出 50 万美元级遗产传承产品，瞄准超高净值客群",
+        "itemId": "prudential-usd500k-legacy-202607"
+      },
+      {
+        "date": "2026-04-29",
+        "title": "保诚推出「自主未来」保险计划II 产品发布会。",
+        "itemId": "prudential-20260429-self-future"
+      },
+      {
+        "date": "2026-03-17",
+        "title": "保诚推出「动感守护宝」专为18-30岁年轻一代设计。",
+        "itemId": "prudential-20260317-youth"
+      }
+    ],
+    "mof-sta": [
+      {
+        "date": "2026-07-24",
+        "title": "财政部/税务总局发布离岸信托个税新规：设立即征税、存续即穿透、退出即清算。",
+        "itemId": "offshore-trust-tax-20260724"
+      }
+    ],
+    "nfra:shanghai-reins-20260707": [
+      {
+        "date": "2026-07-07",
+        "title": "金融监管总局发布加快上海国际再保险中心建设措施",
+        "itemId": "nfra-shanghai-reins-center-jul07"
+      }
+    ],
+    "pcpd-dpo": [
+      {
+        "date": "2026-07-06",
+        "title": "香港私隐公署与数字办联合推出「保障个人资料AI沙盒」",
+        "itemId": "pcpd-ai-sandbox-jul06"
+      }
+    ],
+    "港交所 HKEX": [
+      {
+        "date": "2026-07-01",
+        "title": "港交所 2026 H1 IPO 回顾：内地企业赴港上市持续活跃",
+        "itemId": "hkex-ipo-pipeline-2026h1"
+      }
+    ],
+    "bc17ef77b7fd": [
+      {
+        "date": "2026-06-28",
+        "title": "金发局发布保险业人才培育报告：呼吁建设新一代保险专才。",
+        "itemId": "ia-20260628-fsdc-talent"
+      }
+    ],
+    "7f278f52d5a0": [
+      {
+        "date": "2026-06-25",
+        "title": "宏利2026年度大会在香港举行：聚焦退休未来与AI驱动转型。",
+        "itemId": "ia-20260625-manulife-convention"
+      }
+    ],
+    "rga": [
+      {
+        "date": "2026-06-24",
+        "title": "RGA发布2026年Q2产品趋势报告：AIA财富灵活储蓄保、AXA私人平台被列为重点新品。",
+        "itemId": "ia-20260624-rga-trends"
+      }
+    ],
+    "manulife": [
+      {
+        "date": "2026-06-12",
+        "title": "宏利香港推出两款新分红终身寿险储蓄计划。",
+        "itemId": "ia-20260612-manulife-plans"
+      },
+      {
+        "date": "2026-06-10",
+        "title": "宏利香港据报暂停杠杆融资保单产品：监管关注与产品合规调整。",
+        "itemId": "ia-20260610-manulife-leverage"
+      },
+      {
+        "date": "2026-04-20",
+        "title": "宏利推出全新年金及意外保险：宏瑞终身即期年金+相伴无忧个人意外。",
+        "itemId": "manulife-20260420-annuity-accident"
+      },
+      {
+        "date": "2026-03-15",
+        "title": "宏利香港推出两款新分红人寿保险储蓄计划。",
+        "itemId": "manulife-202603-new-products"
+      },
+      {
+        "date": "2026-01-05",
+        "title": "宏利推出「宏挚家传承」及「财挚宏耀」两款分红寿险储蓄计划。",
+        "itemId": "manulife-20260105-two-plans"
+      },
+      {
+        "date": "2025-04-28",
+        "title": "宏利推出两款全新危疾计划：宏健守护+宏伴护航危疾入息保障。",
+        "itemId": "manulife-20250428-ci"
+      },
+      {
+        "date": "2024-10-15",
+        "title": "宏利香港将 HIV 阳性人士纳入个人寿险承保范围",
+        "itemId": "manulife-hiv-coverage-2024"
+      }
+    ],
+    "ctflife:diamond-iul-2026": [
+      {
+        "date": "2026-06-10",
+        "title": "周大福人寿推出全港首只法国巴黎银行指数挂钩IUL计划「钻裕」",
+        "itemId": "ctflife-2026-diamond-iul"
+      }
+    ],
+    "fortune": [
+      {
+        "date": "2026-06-08",
+        "title": "AXA安盛推出「AXA Global Private」高净值统一平台，落户香港及百慕达。",
+        "itemId": "ia-20260608-axa-global-private"
+      }
+    ],
+    "aia": [
+      {
+        "date": "2026-06-08",
+        "title": "友邦推出「财富盈活储蓄保险计划」瞄准高净值家庭传承。",
+        "itemId": "aia-20260608-prosperlife"
+      },
+      {
+        "date": "2026-06-08",
+        "title": "友邦推出「 Wealth Flexi 灵活储蓄保」：首创未来心愿安排服务高净值家庭传承。",
+        "itemId": "ia-20260608-aia-wealth-flexi"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "AIA推出全新「爱伴航」危疾保障系列产品。",
+        "itemId": "aia-20251121-aisan"
+      },
+      {
+        "date": "2025-07-08",
+        "title": "AIA推出「环宇盈活储蓄保险计划」",
+        "itemId": "aia-20250708-global-prosper"
+      }
+    ],
+    "asiainsurancereview": [
+      {
+        "date": "2026-06-04",
+        "title": "安达人寿香港增强旗舰储蓄计划：新增3年缴付选项。",
+        "itemId": "ia-20260611-chubb-life"
+      }
+    ],
+    "deloitte:insurance-outlook-2026": [
+      {
+        "date": "2026-06-01",
+        "title": "德勤2026全球保险展望：AI落地加速 香港保监局推AI促进计划。",
+        "itemId": "deloitte-2026-insurance-outlook"
+      }
+    ],
+    "cpic:gen3-20260504": [
+      {
+        "date": "2026-05-04",
+        "title": "太保寿险香港推出「世代悦享3」储蓄保险计划——35周年献礼。",
+        "itemId": "cpic-20260504-gen3"
+      }
+    ],
+    "boclife:retirement-20260427": [
+      {
+        "date": "2026-04-27",
+        "title": "中银人寿联乘中银香港推出「退优·新活」综合养老方案。",
+        "itemId": "boclife-20260427-retirement"
+      }
+    ],
+    "ctflife:artisan-leap-20260422": [
+      {
+        "date": "2026-04-22",
+        "title": "周大福人寿推出「匠心·飞越」储蓄保险计划。",
+        "itemId": "ctflife-20260422-artisan-leap"
+      }
+    ],
+    "chubb:dementia-2026": [
+      {
+        "date": "2026-03-24",
+        "title": "Chubb Life香港推出创新「Side by Side」认知障碍症保险计划。",
+        "itemId": "chubb-2026-dementia"
+      }
+    ],
+    "hsbc": [
+      {
+        "date": "2026-03-17",
+        "title": "汇丰保险发布2026高净值财富传承规划报告。",
+        "itemId": "hsbc-life-2026-hnw-pitchbook"
+      },
+      {
+        "date": "2024-02-28",
+        "title": "HSBC Life 签出 $2.5 亿美元保单，创吉尼斯世界纪录",
+        "itemId": "hsbc-life-250m-record-20240228"
+      }
+    ],
+    "f1c2d3d2bf09": [
+      {
+        "date": "2026-01-15",
+        "title": "修订 GL34 分红业务基金管理：主体2026-03-31 生效，公司政策段2026-06-30。",
+        "itemId": "ia-gl34-20260331"
+      }
+    ],
+    "zhihu:top10-2025": [
+      {
+        "date": "2025-12-30",
+        "title": "知乎盘点2025香港保险十大事件：演示上限/佣金分摊/IUL/跨境打擊。",
+        "itemId": "zhihu-2025-top10"
+      }
+    ],
+    "hkfi": [
+      {
+        "date": "2025-09-15",
+        "title": "香港保联 2025 年 9 月产品简报：多款新产品聚焦健康与退休",
+        "itemId": "ia-2025-hkfi-monthly-brief"
+      }
+    ],
+    "fwd": [
+      {
+        "date": "2025-08-06",
+        "title": "富卫香港推出面向专业投资者的指数型万用寿险(IUL)计划",
+        "itemId": "fwd-iul-20250806"
+      }
+    ],
+    "sunlife": [
+      {
+        "date": "2025-06-15",
+        "title": "Sun Life永明推出升级版储蓄保险计划系列（永越多元货币II）。",
+        "itemId": "sunlife-2025-enhanced-savings"
+      }
+    ],
+    "axa": [
+      {
+        "date": "2025-01-10",
+        "title": "AXA安盛推出全新「盛利储蓄计划」",
+        "itemId": "axa-20250110-shengli"
+      }
+    ],
+    "ia:refcheck-20240923": [
+      {
+        "date": "2024-09-23",
+        "title": "保监局参考查核计划生效：中介人背景审查启动。",
+        "itemId": "ia-20240923-refcheck"
+      }
+    ],
+    "chubb": [
+      {
+        "date": "2024-05-01",
+        "title": "安达人寿推出 CIES 合资格投资相连寿险计划",
+        "itemId": "chubb-cies-ilas-2024"
+      }
+    ]
+  }
+}
