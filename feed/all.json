@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-01T02:30:40Z",
-  "itemCount": 230,
+  "generatedAt": "2026-08-01T04:09:44Z",
+  "itemCount": 235,
   "items": [
     {
       "id": "mof-rmb-bonds-cmu-jul30",
@@ -2943,6 +2943,76 @@
       "score": 78,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=overseas-invest-reg-20260731",
       "originalUrl": "https://www.gov.cn/zhengce/content/202607/content_837.htm"
+    },
+    {
+      "id": "pcpd-ai-sandbox-jul06",
+      "title": "香港私隐公署与数字办联合推出「保障个人资料AI沙盒」",
+      "sourceTier": "official",
+      "themes": [
+        "AI",
+        "privacy",
+        "sandbox"
+      ],
+      "publishedAt": "2026-07-06T00:00:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=pcpd-ai-sandbox-jul06",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202607/06/P2026070300679.htm"
+    },
+    {
+      "id": "genai-sandbox-plus-jul17",
+      "title": "GenA.I.沙盒++正式扩展至保险等多元金融领域",
+      "sourceTier": "official",
+      "themes": [
+        "GenAI",
+        "sandbox",
+        "insurtech"
+      ],
+      "publishedAt": "2026-07-17T00:00:00+08:00",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=genai-sandbox-plus-jul17",
+      "originalUrl": "https://m.tech.china.com/redian/2026/0717/072026_1919989.html"
+    },
+    {
+      "id": "insurtech-funding-q1-2026",
+      "title": "全球InsurTech融资回暖：Q1融资16.3亿美元，资金流向AI基础设施",
+      "sourceTier": "pro",
+      "themes": [
+        "insurtech",
+        "funding",
+        "AI"
+      ],
+      "publishedAt": "2026-07-14T06:38:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insurtech-funding-q1-2026",
+      "originalUrl": "https://fintechly.com/capital/insurtech-funding-is-back-the-money-is-buying-infrastructure-not-disruption/"
+    },
+    {
+      "id": "agentic-ai-insurance-jul14",
+      "title": "学术前沿：Agentic AI时代的保险承保、定价与端到端自动化框架",
+      "sourceTier": "pro",
+      "themes": [
+        "agentic-ai",
+        "underwriting",
+        "research"
+      ],
+      "publishedAt": "2026-07-14T08:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=agentic-ai-insurance-jul14",
+      "originalUrl": "https://arxiv.org/pdf/2607.13230"
+    },
+    {
+      "id": "cyber-mapping-circular-jul29",
+      "title": "金管局证监保监积金局联合发布跨行业网络安全测绘通函",
+      "sourceTier": "official",
+      "themes": [
+        "cybersecurity",
+        "IA",
+        "HKMA"
+      ],
+      "publishedAt": "2026-07-29T09:04:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=cyber-mapping-circular-jul29",
+      "originalUrl": "https://apps.sfc.hk/edistributionWeb/gateway/EN/circular/intermediaries/supervision/doc?refNo=26EC45"
     }
   ]
 }
