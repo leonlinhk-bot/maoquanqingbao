@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-07-31T05:12:23Z",
-  "itemCount": 225,
+  "generatedAt": "2026-08-01T02:30:40Z",
+  "itemCount": 230,
   "items": [
     {
       "id": "mof-rmb-bonds-cmu-jul30",
@@ -2878,6 +2878,71 @@
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hsbc-life-250m-record-20240228",
       "originalUrl": "https://www.hsbc.com/news-and-views/news/hsbc-news-archive/our-record-breaking-life-insurance-policy"
+    },
+    {
+      "id": "offshore-trust-tax-20260724",
+      "title": "财政部/税务总局发布离岸信托个税新规：设立即征税、存续即穿透、退出即清算。",
+      "sourceTier": "official",
+      "themes": [
+        "cross-border-tax",
+        "trust-compliance"
+      ],
+      "publishedAt": "2026-07-24T00:00:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=offshore-trust-tax-20260724",
+      "originalUrl": "https://www.chinatax.gov.cn/chinatax/n810341/n810755/c2026_21.html"
+    },
+    {
+      "id": "fstb-fo-tax-bill-20260708",
+      "title": "香港家办税惠修订草案提交立法会审议：扩免税范围、纳数字资产、取消5%门槛。",
+      "sourceTier": "official",
+      "themes": [
+        "tax-incentive",
+        "fo-policy"
+      ],
+      "publishedAt": "2026-07-08T18:00:00+08:00",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fstb-fo-tax-bill-20260708",
+      "originalUrl": "https://www.ird.gov.hk/chi/ppr/archives/26061202.htm"
+    },
+    {
+      "id": "investhk-fo-2p0-20260706",
+      "title": "投推署方展光专访：香港家办突破3,384家，家办2.0构筑全球财富新枢纽。",
+      "sourceTier": "official",
+      "themes": [
+        "fo-ecosystem",
+        "global-wealth"
+      ],
+      "publishedAt": "2026-07-06T08:00:00+08:00",
+      "score": 90,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=investhk-fo-2p0-20260706",
+      "originalUrl": "http://www.jjckb.cn/20260706/a9804c5a6d034e50a5b43cfda9b003de/c.html"
+    },
+    {
+      "id": "cies-2year-20260727",
+      "title": "新资本投资者入境计划两周年：3,166宗申请、预计引资950亿港元。",
+      "sourceTier": "official",
+      "themes": [
+        "cies",
+        "wealth-migration"
+      ],
+      "publishedAt": "2026-07-27T10:44:00+08:00",
+      "score": 82,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=cies-2year-20260727",
+      "originalUrl": "https://www.investhk.gov.hk/en/capital-investment-entrant-scheme.html"
+    },
+    {
+      "id": "overseas-invest-reg-20260731",
+      "title": "个人境外投资新规7月1日施行：内地居民赴港投保正式纳入统一监管框架。",
+      "sourceTier": "official",
+      "themes": [
+        "cross-border",
+        "compliance"
+      ],
+      "publishedAt": "2026-07-31T09:36:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=overseas-invest-reg-20260731",
+      "originalUrl": "https://www.gov.cn/zhengce/content/202607/content_837.htm"
     }
   ]
 }
