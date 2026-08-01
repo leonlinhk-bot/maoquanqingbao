@@ -23766,6 +23766,12 @@ window.HKII_DATA = {
     if (favOnly) arr = arr.filter(i=>state.fav.has(i.id));
     // 全部动态：信源 × 文种（细维度）
     if (state.view === "all") {
+    const q0 = (state.searchQuery||'').trim().toLowerCase();
+    if(q0){
+      const raw = searchItems(q0, DATA.items||[]);
+      html+=`<div class="search-results">搜索「${esc(q0)}」· 找到 ${raw.length} 条</div>`;
+      html+=feed(list({items:raw,page:state.allPage,pageSize:state.allPageSize}, t));
+    }
       if (state.feedTier && state.feedTier !== "all") arr = arr.filter(i => i.sourceTier === state.feedTier);
       if (state.feedKind && state.feedKind !== "all") arr = arr.filter(i => (i.contentKind || "other") === state.feedKind);
     } else if (state.themeFilter && state.themeFilter !== "all") {
