@@ -23554,7 +23554,7 @@ window.HKII_DATA = {
       archiveTabs:{daily:"日报",weekly:"周报",monthly:"月报",yearly:"年报"},
       downloadHint:"日报、周报可下载 Markdown。月报、年报仅可在线查阅，不提供下载。也可发送到邮箱。数字与规则以原文链接为准。",
       openDigest:"查看该期条目",
-      backDownload:"返回列表",emailTo:"发送到邮箱（规划中）",emailSent:"已发送",emailHint:"功能规划中，暂不支持",monthlyYearlyReadOnly:"月报与年报仅可在线查阅，不提供下载。",
+      backDownload:"返回列表",emailTo:"📧 发送到邮箱",emailSent:"已打开邮箱",emailHint:"将打开默认邮件客户端，发送日报到你的邮箱",monthlyYearlyReadOnly:"月报与年报仅可在线查阅，不提供下载。",
       guideLabel:"本站导读（非原文）",
       originalAuthority:"权威原文",
       sourceKey:"来源指纹",
@@ -23646,7 +23646,7 @@ window.HKII_DATA = {
       archiveTabs:{daily:"日報",weekly:"週報",monthly:"月報",yearly:"年報"},
       downloadHint:"日報、週報可下載 Markdown。月報、年報僅可在線查閱，不提供下載。也可發送到郵箱。數字與規則以原文鏈接為準。",
       openDigest:"查看該期條目",
-      backDownload:"返回列表",emailTo:"發送到郵箱（規劃中）",emailSent:"已發送",emailHint:"功能規劃中，暫不支持",monthlyYearlyReadOnly:"月報與年報僅可在線查閱，不提供下載。",
+      backDownload:"返回列表",emailTo:"📧 發送到郵箱",emailSent:"已打開郵箱",emailHint:"將打開默認郵件客戶端，發送日報到你的郵箱",monthlyYearlyReadOnly:"月報與年報僅可在線查閱，不提供下載。",
       guideLabel:"本站導讀（非原文）",
       originalAuthority:"權威原文",
       sourceKey:"來源指紋",
@@ -24134,8 +24134,8 @@ function fmtDay(iso){
             <p>${t.itemsInPeriod}：${dig.itemCount} · ${esc(tx(dig.note||{}))}</p>
             ${gate.reason==="readonly"?`<p class="lock-note" style="margin:8px 0">📖 ${t.monthlyYearlyReadOnly||"月报与年报仅可在线查阅，不提供下载。"}</p>`:
             `<div class="action-bar">
-              <button type="button" class="btn primary" data-export-digest="1" disabled style="opacity:.4" title="规划中">${t.digestExport} · MD</button>
-              <button type="button" class="btn" data-email-digest="1">📧 ${t.emailTo}</button>
+              <button type="button" class="btn primary" data-export-digest="1" title="导出当前筛选结果为Markdown">${t.digestExport} · MD</button>
+              <button type="button" class="btn" data-email-digest="1" title="打开默认邮件客户端">📧 ${t.emailTo}</button>
             </div>
             <div class="email-box" style="display:none;margin:8px 0">
               <input type="email" class="email-input" placeholder="${t.emailHint}" />
