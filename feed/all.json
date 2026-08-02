@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-02T07:56:11Z",
-  "itemCount": 244,
+  "generatedAt": "2026-08-02T08:37:12Z",
+  "itemCount": 247,
   "items": [
     {
       "id": "rga-hk-outlook-2026",
@@ -512,6 +512,32 @@
       "score": 73,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sunlife-ride-to-shine-jul22",
       "originalUrl": "https://www.sunlife.com.hk/zh-hant/about-us/newsroom/news-releases/2026/ride-to-shine-hong-kong/"
+    },
+    {
+      "id": "nia-exit-entry-20260722",
+      "title": "国务院发布出境入境管理新规：9 月 15 日起施行，大湾区刷脸通关常态化",
+      "sourceTier": "official",
+      "themes": [
+        "offshore",
+        "identity-planning"
+      ],
+      "publishedAt": "2026-07-22T10:00:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nia-exit-entry-20260722",
+      "originalUrl": "https://www.moj.gov.cn/pub/sfbgw/zcjd/202607/t20260731_538117.html"
+    },
+    {
+      "id": "safe-qdii-20260717",
+      "title": "外管局：新一轮 QDII 额度即将发放，跨境投融资便利化加码",
+      "sourceTier": "official",
+      "themes": [
+        "offshore",
+        "global-allocation"
+      ],
+      "publishedAt": "2026-07-17T10:00:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=safe-qdii-20260717",
+      "originalUrl": "http://m.safe.gov.cn/safe/2026/0717/27705.html"
     },
     {
       "id": "genai-sandbox-plus-jul17",
@@ -2223,6 +2249,19 @@
       "score": 76,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ebact-2025-hk-market",
       "originalUrl": "https://www.ebactuary.com/post/hong-kong-general-insurance-market-analysis-2025-2029-and-global-comparison"
+    },
+    {
+      "id": "sztax-gba-202601",
+      "title": "深圳 2026 年大湾区个税优惠：境外人才超 15% 税率部分可申请财政补贴",
+      "sourceTier": "official",
+      "themes": [
+        "offshore",
+        "identity-planning"
+      ],
+      "publishedAt": "2026-01-06T10:00:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sztax-gba-202601",
+      "originalUrl": "https://szfb.sz.gov.cn/xwzx/tzgg/content/post_12581711.html"
     },
     {
       "id": "manulife-20260105-two-plans",
