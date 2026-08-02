@@ -1,9 +1,61 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-02T09:56:48Z",
-  "itemCount": 253,
+  "generatedAt": "2026-08-02T15:36:57Z",
+  "itemCount": 257,
   "items": [
+    {
+      "id": "ia-commission-caps-jul30",
+      "title": "CreditSights：香港寿险新规重塑竞争格局 渠道强者受益",
+      "sourceTier": "pro",
+      "themes": [
+        "commission",
+        "regulation"
+      ],
+      "publishedAt": "2026-07-30T06:30:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-commission-caps-jul30",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-caps-commissions-life-insurers-compete"
+    },
+    {
+      "id": "jll-tsim-vacancy-aug01",
+      "title": "内地保司租务推动尖沙咀甲级写字楼空置率降至6.7%",
+      "sourceTier": "media",
+      "themes": [
+        "property",
+        "mainland-wealth"
+      ],
+      "publishedAt": "2026-08-01T05:00:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=jll-tsim-vacancy-aug01",
+      "originalUrl": "https://insuranceasia.com/insurance/news/mainland-insurers-drive-tsimshatsui-vacancy-down-67"
+    },
+    {
+      "id": "msig-claims-947-jul30",
+      "title": "MSIG香港2025年理赔结案率升至94.7% 连续五年改善",
+      "sourceTier": "insurer",
+      "themes": [
+        "claims",
+        "customer"
+      ],
+      "publishedAt": "2026-07-30T06:15:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=msig-claims-947-jul30",
+      "originalUrl": "https://insuranceasia.com/insurance/news/msig-lifts-claims-settlement-ratio-947"
+    },
+    {
+      "id": "hkma-monetary-stats-jun26",
+      "title": "HKMA公布6月货币统计：港元货币供应与贷款趋势",
+      "sourceTier": "official",
+      "themes": [
+        "monetary",
+        "liquidity"
+      ],
+      "publishedAt": "2026-07-31T16:00:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-monetary-stats-jun26",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/07/20260731-7/"
+    },
     {
       "id": "rga-hk-outlook-2026",
       "title": "RGA：2026年港险市场展望——跨境需求+监管转型+数字创新三重驱动",
