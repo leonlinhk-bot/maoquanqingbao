@@ -24038,10 +24038,26 @@ window.HKII_DATA = {
     const tags = (it.tags && (it.tags[state.lang]||it.tags.sc)) || [];
     return [tx(it.title), tx(it.summary), tx(it.why), tags.join(" ")].join(" ").toLowerCase().includes(q);
   }
+  // Fav tags
+  state.favTag = null;
+
+  function favTags() {
+    const items = DATA.items.filter(i => state.fav.has(i.id));
+    const tags = new Set();
+    for (const it of items) {
+      for (const t of (it.tags||{}).sc||[]) tags.add(t);
+    }
+    return [...tags].sort();
+  }
+
   function list({featuredOnly=false,favOnly=false,forceTime=false}={}) {
-    let arr = DATA.items.slice();
-    if (featuredOnly) arr = arr.filter(i=>i.featured);
-    if (favOnly) arr = arr.filter(i=>state.fav.has(i.id));
+    let arr = (DATA.items||[]).slice();
+    if (favOnly) {
+      arr = arr.filter(i=>state.fav.has(i.id));
+      if (state.favTag) {
+        arr = arr.filter(i => ((i.tags||{}).sc||[]).includes(state.favTag));
+      }
+    }
     // 全部动态：信源 × 文种（细维度）
     if (state.view === "all") {
     const q0 = (state.searchQuery||'').trim().toLowerCase();
@@ -24304,7 +24320,16 @@ function fmtDay(iso){
       }
       html+=chips(state.themeFilter)+feed(list());
     }
-    else if(state.view==="fav") html+=feed(list({favOnly:true}));
+    else if(state.view==="fav") {
+      const ft = favTags();
+      if(ft.length){
+        html+=`<div class="tag-chips" style="margin:0 0 12px">
+          <span class="tag-chip ${!state.favTag?'on':''}" data-favtag="">全部</span>
+          ${ft.map(t=>`<span class="tag-chip ${state.favTag===t?'on':''}" data-favtag="${esc(t)}">${t}</span>`).join("")}
+        </div>`;
+      }
+      html+=feed(list({favOnly:true}));
+    }
     else if(state.view==="daily"){
       const d=DATA.daily||{date:"",sections:[]};
       html+=`<div class="panel"><h3>${meta.t} · ${esc(d.date||"")}</h3><p>${t.dailyLead}</p></div>`;
@@ -24766,6 +24791,7 @@ ${t.brandName} · ${t.disc}
     const ft2=e.target.closest("#facetToggle"); if(ft2){ const fm=document.getElementById("facetMore"); if(fm) fm.style.display=fm.style.display==="none"?"":"none"; ft2.textContent=fm.style.display==="none"?"文种 ▾":"文种 ▴"; return; }const hs=e.target.closest("[data-hotsearch]"); if(hs){ state.q=hs.dataset.hotsearch; document.getElementById("q").value=state.q; document.getElementById("hotsearchDropdown").style.display="none"; render(); return; }const hc=e.target.closest("[data-hot]"); if(hc){ state.q=hc.dataset.hot; document.getElementById("q").value=state.q; render(); return; }
     const email=e.target.closest("[data-email-digest]"); if(email){ e.stopPropagation(); const box=email.parentElement.nextElementSibling; box.style.display=box.style.display==="none"?"block":"none"; return; }
     const fav=e.target.closest("[data-fav]"); if(fav){ e.stopPropagation(); const id=fav.dataset.fav; state.fav.has(id)?state.fav.delete(id):state.fav.add(id); localStorage.setItem("hkii_fav", JSON.stringify([...state.fav])); render(); return; }
+    const favtag=e.target.closest("[data-favtag]"); if(favtag){ state.favTag = favtag.dataset.favtag || null; render(); return; }
     const o=e.target.closest("[data-open]"); if(o){ openDrawer(o.dataset.open); return; }
     // 主题雷达：进板块页（不跳全部动态）
     const bb=e.target.closest("[data-board-back]"); if(bb){ state.themeBoard=null; render(); return; }
