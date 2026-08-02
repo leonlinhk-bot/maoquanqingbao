@@ -2,10 +2,10 @@ window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-02T15:56:11+08:00",
-    "itemCount": 250,
+    "itemCount": 253,
     "windowNote": {
-      "sc": "本库250条。",
-      "tc": "本庫250條。"
+      "sc": "本库253条。",
+      "tc": "本庫253條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -16073,73 +16073,6 @@ window.HKII_DATA = {
       ]
     },
     {
-      "id": "safe-crossborder-wmc-2025",
-      "clusterCount": 1,
-      "score": 72,
-      "verifyStatus": "pending",
-      "sourceTier": "official",
-      "sourceKey": "safe",
-      "title": {
-        "sc": "跨境理财通 2025 升级：南向通个人额度提高至 300 万元",
-        "tc": "跨境理財通 2025 升級：南向通個人額度提高至 300 萬元"
-      },
-      "summary": {
-        "sc": "2025 年，跨境理财通（Wealth Management Connect）完成 2.0 升级。南向通个人投资者额度从 100 万元提高至 300 万元，可投资产品范围扩大至中低风险基金和债券。粤港澳大湾区居民可通过闭环式资金管道投资香港理财产品，包括保险相连产品。",
-        "tc": "2025 年，跨境理財通（Wealth Management Connect）完成 2.0 升級。南向通個人投資者額度從 100 萬元提高至 300 萬元，可投資產品範圍擴大至中低風險基金和債券。"
-      },
-      "why": {
-        "sc": "理财通是大湾区居民合法购买香港金融产品的最直接通道。300 万额度虽然不大，但它是「可以合法出去」的信号。对 IFA：理财通的每一次扩容，都等于一个新客户入口的开放。",
-        "tc": "理財通是大灣區居民合法購買香港金融產品的最直接通道。每一次擴容，都等於一個新客戶入口的開放。"
-      },
-      "actions": {
-        "front": {
-          "sc": "理财通=大湾区客户的合法资产出境通道",
-          "tc": "理財通=大灣區客戶的合法資產出境通道"
-        },
-        "midback": {},
-        "lead": {
-          "sc": "跨境理财通扩大=香港财富管理的增量来源",
-          "tc": "跨境理財通擴大=香港財富管理的增量來源"
-        },
-        "cross": {
-          "sc": "理财通+CIES+QDII=跨境资产配置三大通道",
-          "tc": "理財通+CIES+QDII=跨境資產配置三大通道"
-        }
-      },
-      "rolesImpact": {
-        "front": 4,
-        "midback": 1,
-        "lead": 3,
-        "cross": 4
-      },
-      "source": {
-        "sc": "中国人民银行 · 2025年",
-        "lang": "sc"
-      },
-      "boards": [
-        "family"
-      ],
-      "themes": [
-        "offshore",
-        "global-allocation"
-      ],
-      "tags": {
-        "sc": [
-          "理财通",
-          "大湾区",
-          "南向通"
-        ],
-        "tc": [
-          "理財通",
-          "大灣區",
-          "南向通"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2025-06-01T10:00:00+08:00",
-      "originalUrl": "https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/wealth-management-connect/"
-    },
-    {
       "id": "manulife-20250428-ci",
       "clusterCount": 1,
       "score": 82,
@@ -17944,6 +17877,76 @@ window.HKII_DATA = {
       ]
     },
     {
+      "id": "statecouncil-insurance-ten-202409",
+      "clusterCount": 1,
+      "score": 92,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "nfra",
+      "title": {
+        "sc": "国务院发布「国十条」：加强监管防范风险推动保险业高质量发展",
+        "tc": "國務院發布「國十條」：加強監管防範風險推動保險業高質量發展"
+      },
+      "summary": {
+        "sc": "2024 年 9 月 11 日，国务院发布《关于加强监管防范风险推动保险业高质量发展的若干意见》，业内称「国十条」。核心：① 严审批新设保险机构；② 研究完善与风险挂钩的保单兑付机制；③ 支持发展浮动收益型保险产品；④ 强化资产负债联动监管；⑤ 我国保险业未来 5-10 年的改革发展顶层设计。",
+        "tc": "2024 年 9 月 11 日，國務院發布《關於加強監管防範風險推動保險業高質量發展的若干意見》。我國保險業未來 5-10 年的改革發展頂層設計。"
+      },
+      "why": {
+        "sc": "「国十条」是内地保险监管的宪法级文件。其中「支持浮动收益型保险」一条，直接指向香港的分红险和投连险——等于官方承认了「保证收益时代结束了，要向浮动收益转型」。这是对港险模式的最大官方背书。",
+        "tc": "「國十條」是內地保險監管的憲法級文件。「支持浮動收益型保險」=官方承認保證收益時代結束，向浮動收益轉型——這是對港險模式的最大官方背書。"
+      },
+      "actions": {
+        "front": {
+          "sc": "国十条=内地保险从「保证」向「浮动」的制度信号",
+          "tc": "國十條=內地保險從「保證」向「浮動」的制度信號"
+        },
+        "midback": {
+          "sc": "保单兑付机制完善=行业安全性提升=客户信心增强",
+          "tc": "保單兌付機制完善=行業安全性提升=客戶信心增強"
+        },
+        "lead": {
+          "sc": "顶层定调=保险业转型方向明确",
+          "tc": "頂層定調=保險業轉型方向明確"
+        },
+        "cross": {
+          "sc": "内地浮动收益化+香港成熟分红体系=跨境互补格局",
+          "tc": "內地浮動收益化+香港成熟分紅體系=跨境互補格局"
+        }
+      },
+      "rolesImpact": {
+        "front": 5,
+        "midback": 4,
+        "lead": 5,
+        "cross": 5
+      },
+      "source": {
+        "sc": "国务院 · 2024年9月11日",
+        "lang": "sc"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reg",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "国十条",
+          "保险法",
+          "高质量发展"
+        ],
+        "tc": [
+          "國十條",
+          "保險法",
+          "高質量發展"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2024-09-11T10:00:00+08:00",
+      "originalUrl": "https://www.gov.cn/zhengce/content/202409/content_6972814.htm"
+    },
+    {
       "id": "sunlife-2024-fwd-pension",
       "clusterCount": 1,
       "score": 82,
@@ -18167,6 +18170,74 @@ window.HKII_DATA = {
       "themes": [
         "market"
       ]
+    },
+    {
+      "id": "nfra-rate-cut-202408",
+      "clusterCount": 1,
+      "score": 90,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "nfra",
+      "title": {
+        "sc": "预定利率首次全面下调：传统型 2.5%、分红型 2.0%、万能型 1.5%",
+        "tc": "預定利率首次全面下調：傳統型 2.5%、分紅型 2.0%、萬能型 1.5%"
+      },
+      "summary": {
+        "sc": "2024 年 8 月，金融监管总局下发《关于健全人身保险产品定价机制的通知》：9 月 1 日起普通型预定利率从 3.0% 降至 2.5%；10 月 1 日起分红型从 2.5% 降至 2.0%，万能型最低保证利率从 2.0% 降至 1.5%。同时首次提出建立预定利率动态调整机制。这是内地保险史上首次全面下调预定利率，也是「报行合一」从银保向全渠道推广的起点。",
+        "tc": "2024 年 8 月，金融監管總局下發《關於健全人身保險產品定價機制的通知》：普通型 3.0%→2.5%，分紅型 2.5%→2.0%，萬能型 2.0%→1.5%。這是內地保險史上首次全面下調預定利率。"
+      },
+      "why": {
+        "sc": "这是内地保险利率的「历史转折点」。3.0→2.5 看似只差 0.5 个百分点，但对一份 30 年保单的现值影响巨大。对 IFA：2024 年 9 月之后，内地客户开始真正感受到「保证收益不够了」，跨境配置需求从此加速爆发。",
+        "tc": "這是內地保險利率的「歷史轉折點」。3.0→2.5 看似只差 0.5 個百分點，但對一份 30 年保單的現值影響巨大。跨境配置需求從此加速爆發。"
+      },
+      "actions": {
+        "front": {
+          "sc": "内地保证收益加速下行→港险MCV需求结构性增长",
+          "tc": "內地保證收益加速下行→港險MCV需求結構性增長"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "预定利率下调是2024-2026港险跨境爆发的底层推手",
+          "tc": "預定利率下調是2024-2026港險跨境爆發的底層推手"
+        },
+        "cross": {
+          "sc": "内地降息+香港分红=跨境配置的公式越来越清晰",
+          "tc": "內地降息+香港分紅=跨境配置的公式越來越清晰"
+        }
+      },
+      "rolesImpact": {
+        "front": 5,
+        "midback": 3,
+        "lead": 5,
+        "cross": 5
+      },
+      "source": {
+        "sc": "国家金融监管总局 · 2024年8月",
+        "lang": "sc"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reg",
+        "product",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "预定利率",
+          "报行合一",
+          "利率下调"
+        ],
+        "tc": [
+          "預定利率",
+          "報行合一",
+          "利率下調"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2024-08-02T10:00:00+08:00",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1175200"
     },
     {
       "id": "nfra-2024-crossborder-no",
@@ -19028,6 +19099,73 @@ window.HKII_DATA = {
       "originalUrl": "https://www.fstb.gov.hk/en/business-family-office-policy-statement.html"
     },
     {
+      "id": "nfra-insurer-rating-202403",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "nfra",
+      "title": {
+        "sc": "金融监管总局发布《人身保险公司监管评级办法》：六大维度+百余指标",
+        "tc": "金融監管總局發佈《人身保險公司監管評級辦法》：六大維度+百餘指標"
+      },
+      "summary": {
+        "sc": "2024 年 3 月，金融监管总局推出人身险公司监管评级办法，通过公司治理、业务经营、资金运用、偿付能力等六大维度和百余评价指标，对险企进行全面风险评级和持续动态监测。对应香港：D-SII 框架于 2025 年 10 月推出——两地在「分层监管」上的节奏高度相似。",
+        "tc": "2024 年 3 月，金融監管總局推出人身險公司監管評級辦法，通過六大維度和百餘評價指標對險企進行全面風險評級。對應香港：D-SII 框架於 2025 年 10 月推出——兩地在「分層監管」上的節奏高度相似。"
+      },
+      "why": {
+        "sc": "内地给保司打分→香港给保司 D-SII 标签→同一套逻辑：风险大的保司要多备资本。IFA 需要知道：你推荐的公司，在两个监管体系下评级如何？两者越趋于一致，客户越放心。",
+        "tc": "內地給保司打分→香港給保司 D-SII 標籤→同一套邏輯。IFA 需要知道：你推薦的公司，在兩個監管體系下評級如何？"
+      },
+      "actions": {
+        "front": {
+          "sc": "保司评级=客户选择保司的参考标尺",
+          "tc": "保司評級=客戶選擇保司的參考標尺"
+        },
+        "midback": {
+          "sc": "监管评级制度=保司合规的新压力维度",
+          "tc": "監管評級制度=保司合規的新壓力維度"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "两地风险评级体系趋同=跨境监管合作的基础",
+          "tc": "兩地風險評級體系趨同=跨境監管合作的基礎"
+        }
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 3,
+        "lead": 3,
+        "cross": 3
+      },
+      "source": {
+        "sc": "国家金融监管总局 · 2024年3月",
+        "lang": "sc"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reg",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "监管评级",
+          "人身险",
+          "六大维度"
+        ],
+        "tc": [
+          "監管評級",
+          "人身險",
+          "六大維度"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2024-03-18T10:00:00+08:00",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1157468"
+    },
+    {
       "id": "newcies-20240301-launch",
       "clusterCount": 1,
       "score": 85,
@@ -19168,6 +19306,73 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2024-02-28T10:00:00+08:00",
       "originalUrl": "https://www.hsbc.com/news-and-views/news/hsbc-news-archive/our-record-breaking-life-insurance-policy"
+    },
+    {
+      "id": "safe-crossborder-wmc-202402",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "pending",
+      "sourceTier": "official",
+      "sourceKey": "safe",
+      "title": {
+        "sc": "跨境理财通 2025 升级：南向通个人额度提高至 300 万元",
+        "tc": "跨境理財通 2025 升級：南向通個人額度提高至 300 萬元"
+      },
+      "summary": {
+        "sc": "2025 年，跨境理财通（Wealth Management Connect）完成 2.0 升级。南向通个人投资者额度从 100 万元提高至 300 万元，可投资产品范围扩大至中低风险基金和债券。粤港澳大湾区居民可通过闭环式资金管道投资香港理财产品，包括保险相连产品。",
+        "tc": "2025 年，跨境理財通（Wealth Management Connect）完成 2.0 升級。南向通個人投資者額度從 100 萬元提高至 300 萬元，可投資產品範圍擴大至中低風險基金和債券。"
+      },
+      "why": {
+        "sc": "理财通是大湾区居民合法购买香港金融产品的最直接通道。300 万额度虽然不大，但它是「可以合法出去」的信号。对 IFA：理财通的每一次扩容，都等于一个新客户入口的开放。",
+        "tc": "理財通是大灣區居民合法購買香港金融產品的最直接通道。每一次擴容，都等於一個新客戶入口的開放。"
+      },
+      "actions": {
+        "front": {
+          "sc": "理财通=大湾区客户的合法资产出境通道",
+          "tc": "理財通=大灣區客戶的合法資產出境通道"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "跨境理财通扩大=香港财富管理的增量来源",
+          "tc": "跨境理財通擴大=香港財富管理的增量來源"
+        },
+        "cross": {
+          "sc": "理财通+CIES+QDII=跨境资产配置三大通道",
+          "tc": "理財通+CIES+QDII=跨境資產配置三大通道"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 3,
+        "cross": 4
+      },
+      "source": {
+        "sc": "中国人民银行 · 2024年2月",
+        "lang": "sc"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "offshore",
+        "global-allocation"
+      ],
+      "tags": {
+        "sc": [
+          "理财通",
+          "大湾区",
+          "南向通"
+        ],
+        "tc": [
+          "理財通",
+          "大灣區",
+          "南向通"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2024-02-26T10:00:00+08:00",
+      "originalUrl": "http://www.safe.gov.cn/big5/big5/www.safe.gov.cn/shenzhen/2024/0308/1746.html"
     }
   ],
   "calendar": [

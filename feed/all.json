@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-02T08:42:25Z",
-  "itemCount": 250,
+  "generatedAt": "2026-08-02T09:56:48Z",
+  "itemCount": 253,
   "items": [
     {
       "id": "rga-hk-outlook-2026",
@@ -2681,19 +2681,6 @@
       "originalUrl": "https://www.fstb.gov.hk/tc/financial_ser/insurance-industry.htm"
     },
     {
-      "id": "safe-crossborder-wmc-2025",
-      "title": "跨境理财通 2025 升级：南向通个人额度提高至 300 万元",
-      "sourceTier": "official",
-      "themes": [
-        "offshore",
-        "global-allocation"
-      ],
-      "publishedAt": "2025-06-01T10:00:00+08:00",
-      "score": 72,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=safe-crossborder-wmc-2025",
-      "originalUrl": "https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/wealth-management-connect/"
-    },
-    {
       "id": "manulife-20250428-ci",
       "title": "宏利推出两款全新危疾计划：宏健守护+宏伴护航危疾入息保障。",
       "sourceTier": "insurer",
@@ -2997,6 +2984,19 @@
       "originalUrl": "http://paper.people.com.cn/"
     },
     {
+      "id": "statecouncil-insurance-ten-202409",
+      "title": "国务院发布「国十条」：加强监管防范风险推动保险业高质量发展",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "offshore"
+      ],
+      "publishedAt": "2024-09-11T10:00:00+08:00",
+      "score": 92,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=statecouncil-insurance-ten-202409",
+      "originalUrl": "https://www.gov.cn/zhengce/content/202409/content_6972814.htm"
+    },
+    {
       "id": "sunlife-2024-fwd-pension",
       "title": "Sun Life永明收购FWD香港养老金业务 强积金+46亿港元。",
       "sourceTier": "insurer",
@@ -3032,6 +3032,20 @@
       "score": 87,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2024-crossborder",
       "originalUrl": "https://www.xincai.com/article/nhzqptf9387534"
+    },
+    {
+      "id": "nfra-rate-cut-202408",
+      "title": "预定利率首次全面下调：传统型 2.5%、分红型 2.0%、万能型 1.5%",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "product",
+        "offshore"
+      ],
+      "publishedAt": "2024-08-02T10:00:00+08:00",
+      "score": 90,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-rate-cut-202408",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1175200"
     },
     {
       "id": "nfra-2024-crossborder-no",
@@ -3189,6 +3203,19 @@
       "originalUrl": "https://www.fstb.gov.hk/en/business-family-office-policy-statement.html"
     },
     {
+      "id": "nfra-insurer-rating-202403",
+      "title": "金融监管总局发布《人身保险公司监管评级办法》：六大维度+百余指标",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "firm"
+      ],
+      "publishedAt": "2024-03-18T10:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-insurer-rating-202403",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1157468"
+    },
+    {
       "id": "newcies-20240301-launch",
       "title": "新CIES正式启动：投资3,000万港元可获香港居留权",
       "sourceTier": "official",
@@ -3214,6 +3241,19 @@
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hsbc-life-250m-record-20240228",
       "originalUrl": "https://www.hsbc.com/news-and-views/news/hsbc-news-archive/our-record-breaking-life-insurance-policy"
+    },
+    {
+      "id": "safe-crossborder-wmc-202402",
+      "title": "跨境理财通 2025 升级：南向通个人额度提高至 300 万元",
+      "sourceTier": "official",
+      "themes": [
+        "offshore",
+        "global-allocation"
+      ],
+      "publishedAt": "2024-02-26T10:00:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=safe-crossborder-wmc-202402",
+      "originalUrl": "http://www.safe.gov.cn/big5/big5/www.safe.gov.cn/shenzhen/2024/0308/1746.html"
     }
   ]
 }
