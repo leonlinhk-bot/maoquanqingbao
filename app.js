@@ -1,11 +1,11 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-08-02T00:41:01+08:00",
-    "itemCount": 240,
+    "generatedAt": "2026-08-02T15:56:11+08:00",
+    "itemCount": 244,
     "windowNote": {
-      "sc": "本库240条。",
-      "tc": "本庫240條。"
+      "sc": "本库244条。",
+      "tc": "本庫244條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -240,6 +240,71 @@ window.HKII_DATA = {
       "originalUrl": "https://www.rgare.com/knowledge-center/article/hong-kong-insurance-market--navigating-opportunities-and-challenges-in-2026"
     },
     {
+      "id": "nfra-governance-20260731",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "nfra",
+      "title": {
+        "sc": "金融监管总局等四部门联合发布金融机构治理实施意见",
+        "tc": "金融監管總局等四部門聯合發布金融機構治理實施意見"
+      },
+      "summary": {
+        "sc": "2026 年 7 月 31 日，国家金融监督管理总局、中国人民银行、中国证监会、财政部联合发布《关于健全金融机构治理的实施意见》，覆盖银行、保险、证券全行业。对保险业的影响：公司治理不合规将直接触发监管干预——与香港 RBC 框架下的管治要求形成对照。",
+        "tc": "2026 年 7 月 31 日，國家金融監督管理總局、中國人民銀行、中國證監會、財政部聯合發布《關於健全金融機構治理的實施意見》，覆蓋銀行、保險、證券全行業。對保險業的影響：公司治理不合規將直接觸發監管干預——與香港 RBC 框架下的管治要求形成對照。"
+      },
+      "why": {
+        "sc": "四部门联手=金融监管的高级别协同。对 IFA 的启示：内地保险公司的治理水平将决定其在严格监管下的生存空间。香港版「报行合一」的精神与此一脉相承。",
+        "tc": "四部門聯手=金融監管的高級別協同。對 IFA 的啟示：內地保險公司的治理水平將決定其在嚴格監管下的生存空間。香港版「報行合一」的精神與此一脈相承。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "内地金融机构治理要求→香港RBC管治支柱→跨境合规的一致性趋势",
+          "tc": "內地金融機構治理要求→香港RBC管治支柱→跨境合規的一致性趨勢"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "两地监管逻辑趋同：从「管产品」走向「管公司」",
+          "tc": "兩地監管邏輯趨同：從「管產品」走向「管公司」"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 4,
+        "lead": 3,
+        "cross": 4
+      },
+      "source": {
+        "sc": "国家金融监管总局 · 2026年7月31日",
+        "lang": "sc"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reg",
+        "compliance",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "金融监管总局",
+          "公司治理",
+          "四部门"
+        ],
+        "tc": [
+          "金融監管總局",
+          "公司治理",
+          "四部門"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-07-31T10:00:00+08:00",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1266349&itemId=928"
+    },
+    {
       "id": "overseas-invest-reg-20260731",
       "clusterCount": 1,
       "score": 78,
@@ -449,6 +514,78 @@ window.HKII_DATA = {
       },
       "featured": false,
       "evergreen": false
+    },
+    {
+      "id": "nfra-midyear-20260730",
+      "clusterCount": 1,
+      "score": 88,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "nfra",
+      "title": {
+        "sc": "金融监管总局 2026 年中工作会议：持续推进「报行合一」和预定利率调整",
+        "tc": "金融監管總局 2026 年中工作會議：持續推進「報行合一」和預定利率調整"
+      },
+      "summary": {
+        "sc": "2026 年 7 月 30 日金融监管总局召开年中工作会议，明确持续推保险业「报行合一」全渠道覆盖和预定利率市场化调整。核心表述：① 传统险预定利率上限 2.5%→研究值 2.34%（持续下行）；② 万能险最低保证利率上限 1.5%；③ 建立预定利率与市场利率挂钩的动态调整机制。",
+        "tc": "2026 年 7 月 30 日金融監管總局召開年中工作會議，明確持續推保險業「報行合一」全渠道覆蓋和預定利率市場化調整。核心表述：① 傳統險預定利率上限 2.5%→研究值 2.34%（持續下行）；② 萬能險最低保證利率上限 1.5%；③ 建立預定利率與市場利率掛鉤的動態調整機制。"
+      },
+      "why": {
+        "sc": "这是内地保险业最核心的制度变革。「报行合一」=内地的「佣金三件套」，预定利率调整=内地的「演示利率上限」。理解内地怎么改，就知道香港 IFA 的跨境竞争优势窗口还有多长。",
+        "tc": "這是內地保險業最核心的制度變革。「報行合一」=內地的「佣金三件套」，預定利率調整=內地的「演示利率上限」。理解內地怎麼改，就知道香港 IFA 的跨境競爭優勢窗口還有多長。"
+      },
+      "actions": {
+        "front": {
+          "sc": "内地保证收益下降→港险相对吸引力提升",
+          "tc": "內地保證收益下降→港險相對吸引力提升"
+        },
+        "midback": {
+          "sc": "报行合一=两地佣金改革逻辑一致",
+          "tc": "報行合一=兩地佣金改革邏輯一致"
+        },
+        "lead": {
+          "sc": "预定利率持续下行=港险跨境窗口期仍在加长",
+          "tc": "預定利率持續下行=港險跨境窗口期仍在加長"
+        },
+        "cross": {
+          "sc": "两地监管趋同→IFA只需一套逻辑即可服务两个市场",
+          "tc": "兩地監管趨同→IFA只需一套邏輯即可服務兩個市場"
+        }
+      },
+      "rolesImpact": {
+        "front": 5,
+        "midback": 4,
+        "lead": 5,
+        "cross": 5
+      },
+      "source": {
+        "sc": "国家金融监管总局 · 2026年7月30日",
+        "lang": "sc"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reg",
+        "compliance",
+        "product",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "报行合一",
+          "预定利率",
+          "金融监管总局"
+        ],
+        "tc": [
+          "報行合一",
+          "預定利率",
+          "金融監管總局"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-07-30T10:00:00+08:00",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1265870&itemId=915"
     },
     {
       "id": "hkma-cmu-network-jul29",
@@ -3829,6 +3966,74 @@ window.HKII_DATA = {
       "originalUrl": "https://tiger21.com/insights/asset-allocation-report-2026"
     },
     {
+      "id": "nfra-cyber-consult-20260710",
+      "clusterCount": 1,
+      "score": 80,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "nfra",
+      "title": {
+        "sc": "金融监管总局就《银行业保险业网络安全管理办法》公开征求意见",
+        "tc": "金融監管總局就《銀行業保險業網絡安全管理辦法》公開徵求意見"
+      },
+      "summary": {
+        "sc": "2026 年 7 月 10 日，金融监管总局就银行业保险业网络安全管理办法征求意见，要求金融机构建立网络安全管理体系、开展网络安全风险管理。与香港保监局 2025 年 12 月修订的 GL20（网络保安指引）形成两地监管对标。",
+        "tc": "2026 年 7 月 10 日，金融監管總局就銀行業保險業網絡安全管理辦法徵求意見，要求金融機構建立網絡安全管理體系、開展網絡安全風險管理。與香港保監局 2025 年 12 月修訂的 GL20（網絡保安指引）形成兩地監管對標。"
+      },
+      "why": {
+        "sc": "两地同时收紧网络安全监管=跨境保险运营的合规成本将同步上升。对 IFA：客户数据传输、远程签单的技术合规将成为新门槛。",
+        "tc": "兩地同時收緊網絡安全監管=跨境保險運營的合規成本將同步上升。對 IFA：客戶數據傳輸、遠程簽單的技術合規將成為新門檻。"
+      },
+      "actions": {
+        "front": {
+          "sc": "客户数据安全合规=获客流程需升级",
+          "tc": "客戶數據安全合規=獲客流程需升級"
+        },
+        "midback": {
+          "sc": "两地网络安全要求对标=合规体系可复用",
+          "tc": "兩地網絡安全要求對標=合規體系可複用"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "跨境数据传输=两地网络安全规则的交集点",
+          "tc": "跨境數據傳輸=兩地網絡安全規則的交集點"
+        }
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 4,
+        "lead": 2,
+        "cross": 3
+      },
+      "source": {
+        "sc": "国家金融监管总局 · 2026年7月10日",
+        "lang": "sc"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reg",
+        "tech",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "网络安全",
+          "征求意见",
+          "金融监管总局"
+        ],
+        "tc": [
+          "網絡安全",
+          "徵求意見",
+          "金融監管總局"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-07-10T10:00:00+08:00",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1264203&itemId=915"
+    },
+    {
       "id": "ia-20260710-illustration-review",
       "title": {
         "sc": "演示利率上限检讨机制：保监局发布释义说明（2026-07-10）。",
@@ -4209,6 +4414,70 @@ window.HKII_DATA = {
       "themes": [
         "market"
       ]
+    },
+    {
+      "id": "nfra-shanghai-reins-20260707",
+      "clusterCount": 1,
+      "score": 82,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "nfra",
+      "title": {
+        "sc": "金融监管总局×上海市政府：加快上海国际再保险中心建设",
+        "tc": "金融監管總局×上海市政府：加快上海國際再保險中心建設"
+      },
+      "summary": {
+        "sc": "2026 年 7 月 7 日，国家金融监管总局与上海市政府联合发布《关于加快上海国际再保险中心建设的若干措施》。目标是让上海成为亚太再保险交易中心——与香港争夺区域再保险枢纽地位。",
+        "tc": "2026 年 7 月 7 日，國家金融監管總局與上海市政府聯合發布《關於加快上海國際再保險中心建設的若干措施》。目標是讓上海成為亞太再保險交易中心——與香港爭奪區域再保險樞紐地位。"
+      },
+      "why": {
+        "sc": "上海在抢香港的再保险生意。这不是竞争压力，而是互补机会——两地各有优势：上海的直保市场规模，香港的国际法律和资本环境。IFA 需要知道两边在发生什么。",
+        "tc": "上海在搶香港的再保險生意。這不是競爭壓力，而是互補機會——兩地各有優勢：上海的直保市場規模，香港的國際法律和資本環境。IFA 需要知道兩邊在發生什麼。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "上海vs香港再保险竞争=了解两地差异化定位",
+          "tc": "上海vs香港再保險競爭=了解兩地差異化定位"
+        },
+        "cross": {
+          "sc": "再保险中心竞争=跨境保险生态的另一个维度",
+          "tc": "再保險中心競爭=跨境保險生態的另一個維度"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 3,
+        "cross": 4
+      },
+      "source": {
+        "sc": "国家金融监管总局 · 2026年7月7日",
+        "lang": "sc"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reg",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "再保险",
+          "上海",
+          "金融监管总局"
+        ],
+        "tc": [
+          "再保險",
+          "上海",
+          "金融監管總局"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-07-07T10:00:00+08:00",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1263701&itemId=928"
     },
     {
       "id": "nfra-shanghai-reins-center-jul07",

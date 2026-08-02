@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-02T07:49:33Z",
-  "itemCount": 240,
+  "generatedAt": "2026-08-02T07:56:11Z",
+  "itemCount": 244,
   "items": [
     {
       "id": "rga-hk-outlook-2026",
@@ -17,6 +17,20 @@
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rga-hk-outlook-2026",
       "originalUrl": "https://www.rgare.com/knowledge-center/article/hong-kong-insurance-market--navigating-opportunities-and-challenges-in-2026"
+    },
+    {
+      "id": "nfra-governance-20260731",
+      "title": "金融监管总局等四部门联合发布金融机构治理实施意见",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "compliance",
+        "firm"
+      ],
+      "publishedAt": "2026-07-31T10:00:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-governance-20260731",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1266349&itemId=928"
     },
     {
       "id": "overseas-invest-reg-20260731",
@@ -56,6 +70,21 @@
       "score": 88,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-fed-response-jul30",
       "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/07/20260730-4/"
+    },
+    {
+      "id": "nfra-midyear-20260730",
+      "title": "金融监管总局 2026 年中工作会议：持续推进「报行合一」和预定利率调整",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "compliance",
+        "product",
+        "offshore"
+      ],
+      "publishedAt": "2026-07-30T10:00:00+08:00",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-midyear-20260730",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1265870&itemId=915"
     },
     {
       "id": "hkma-cmu-network-jul29",
@@ -654,6 +683,20 @@
       "originalUrl": "https://tiger21.com/insights/asset-allocation-report-2026"
     },
     {
+      "id": "nfra-cyber-consult-20260710",
+      "title": "金融监管总局就《银行业保险业网络安全管理办法》公开征求意见",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "tech",
+        "offshore"
+      ],
+      "publishedAt": "2026-07-10T10:00:00+08:00",
+      "score": 80,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-cyber-consult-20260710",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1264203&itemId=915"
+    },
+    {
       "id": "ia-20260710-illustration-review",
       "title": "演示利率上限检讨机制：保监局发布释义说明（2026-07-10）。",
       "sourceTier": "official",
@@ -717,6 +760,19 @@
       "score": 92,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=swissre-202607-wis",
       "originalUrl": "https://www.swissre.com/institute/research/sigma-research/sigma-2026-07-world-insurance.html"
+    },
+    {
+      "id": "nfra-shanghai-reins-20260707",
+      "title": "金融监管总局×上海市政府：加快上海国际再保险中心建设",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "offshore"
+      ],
+      "publishedAt": "2026-07-07T10:00:00+08:00",
+      "score": 82,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-shanghai-reins-20260707",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1263701&itemId=928"
     },
     {
       "id": "nfra-shanghai-reins-center-jul07",
