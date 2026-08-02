@@ -418,3 +418,6 @@ button,input{font:inherit;color:inherit}a{color:inherit;text-decoration:none}.ap
   .rank-note{display:none}
   .search-bar-wrap{max-width:100%}
 }
+
+/* ===== 热点自动标签 ===== */
+.hot-auto{font-size:10px;font-weight:400;color:var(--text-dim);margin-left:6px}

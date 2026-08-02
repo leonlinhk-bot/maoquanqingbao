@@ -23787,7 +23787,7 @@ window.HKII_DATA = {
       ],
       sec:{c:"内容",a:"接入",m:"更多"},
       views:{
-        dashboard:{t:"情报看板",s:"市场数据实时仪表板 · 源头可溯 · 数字搬运"},pulse:{t:"今日脉搏",s:"按你的角色加权的高价值精选"},
+        dashboard:{t:"情报看板",s:"市场数据实时仪表板 · 源头可溯 · 数字搬运"},pulse:{t:"今日脉搏",s:"热点: 近14天官方高分自动上榜 · 精选: 评分×角色匹配动态排序"},
         all:{t:"全部动态",s:"全量信息流 · 按信源/文种细筛（≠主题雷达）"},
         daily:{t:"角色日报",s:"固定节奏的专业早报"},download:{t:"数据下载",s:"按日/周/月/年打包导出 Markdown · 原文可溯"},
         themes:{t:"主题雷达",s:"六大业务板块地图 · 战略导航，不是信息流细筛"},
@@ -23879,7 +23879,7 @@ window.HKII_DATA = {
       ],
       sec:{c:"內容",a:"接入",m:"更多"},
       views:{
-        dashboard:{t:"情報看板",s:"市場數據實時儀表板 · 源頭可溯 · 數字搬運"},pulse:{t:"今日脈搏",s:"按你的角色加權的高價值精選"},
+        dashboard:{t:"情報看板",s:"市場數據實時儀表板 · 源頭可溯 · 數字搬運"},pulse:{t:"今日脈搏",s:"熱點: 近14天官方高分自動上榜 · 精選: 評分×角色匹配動態排序"},
         all:{t:"全部動態",s:"全量資訊流 · 按信源/文種細篩（≠主題雷達）"},
         daily:{t:"角色日報",s:"固定節奏的專業早報"},download:{t:"數據下載",s:"按日/週/月/年打包導出 Markdown · 原文可溯"},
         themes:{t:"主題雷達",s:"六大業務板塊地圖 · 戰略導航，不是資訊流細篩"},
@@ -24050,7 +24050,7 @@ window.HKII_DATA = {
     return [...tags].sort();
   }
 
-  function list({featuredOnly=false,favOnly=false,forceTime=false}={}) {
+  function list({featuredOnly=false,favOnly=false,forceTime=false,pulseSort=false,roleWeights=null,items:extItems=null,page=1,pageSize=20}={}) {
     let arr = (DATA.items||[]).slice();
     if (favOnly) {
       arr = arr.filter(i=>state.fav.has(i.id));
@@ -24073,7 +24073,17 @@ window.HKII_DATA = {
       arr = arr.filter(i => (i.themes || []).includes(state.themeFilter) || (i.boards || []).includes(state.themeFilter));
     }
     arr = arr.filter(matches);
-    // 所有视图：严格发布时间降序；筛选不改变排序键
+    // 今日脉搏：动态评分排序
+  if (pulseSort && roleWeights) {
+    arr = arr.filter(i => (i.score||0) >= 80);
+    arr.sort((a,b) => {
+      const sa = (a.score||0)*0.7 + ((a.rolesImpact||{}).front||0)*(roleWeights.front||0) + ((a.rolesImpact||{}).midback||0)*(roleWeights.midback||0) + ((a.rolesImpact||{}).lead||0)*(roleWeights.lead||0) + ((a.rolesImpact||{}).cross||0)*(roleWeights.cross||0);
+      const sb = (b.score||0)*0.7 + ((b.rolesImpact||{}).front||0)*(roleWeights.front||0) + ((b.rolesImpact||{}).midback||0)*(roleWeights.midback||0) + ((b.rolesImpact||{}).lead||0)*(roleWeights.lead||0) + ((b.rolesImpact||{}).cross||0)*(roleWeights.cross||0);
+      return sb - sa;
+    });
+    return {items:arr.slice(0,50), tot:arr.length, page:1, pageSize:50, pages:1};
+  }
+  // 收藏：支持标签筛选；筛选不改变排序键
     if (forceTime || true) {
       arr.sort((a,b)=> (b.publishedAt||"").localeCompare(a.publishedAt||"") || (b.score||0)-(a.score||0));
     } else {
@@ -24187,9 +24197,17 @@ function fmtDay(iso){
   }
   function hot(){
     const t=T();
-    const items=(DATA.hot||[]).map(byId).filter(Boolean);
+    // 自动计算：近14天 + score>=85 + sourceTier=official，最多6条
+    const now = new Date();
+    const weekAgo = new Date(now.getTime() - 14*24*3600*1000).toISOString().slice(0,10);
+    const candidates = (DATA.items||[]).filter(i => {
+      const d = (i.publishedAt||'').slice(0,10);
+      return d >= weekAgo && (i.score||0) >= 85 && (i.sourceTier||'') === 'official';
+    });
+    candidates.sort((a,b) => (b.score||0) - (a.score||0));
+    const items = candidates.slice(0,6);
     if(!items.length) return "";
-    return `<section class="hot"><div class="hot-label">${t.hot}</div><ol>${items.map((it,i)=>`<li><button type="button" data-open="${it.id}">${esc(tx(it.title))}</button></li>`).join("")}</ol></section>`;
+    return `<section class="hot"><div class="hot-label">${t.hot}<span class="hot-auto"> · 自动</span></div><ol>${items.map((it,i)=>`<li><button type="button" data-open="${it.id}">${esc(tx(it.title))}</button></li>`).join("")}</ol></section>`;
   }
 
   function render(){
@@ -24305,7 +24323,14 @@ function fmtDay(iso){
       if(eg.length){
         html+=`<div class="evergreen-banner-wrapper"><h3>${t.evergreen}</h3><p class="evergreen-hint">← 滑动查看 · 驻点：持续有效的监管规则与长期适用的披露要求 →</p><div class="evergreen-scroll"><button class="evergreen-scroll-btn" onclick="this.nextElementSibling.scrollBy({left:-300,behavior:'smooth'})">‹</button><div class="evergreen-banner">${eg.map(it=>`<div class="banner-card" data-open="${it.id}"><div class="banner-tag">常驻</div><h4>${esc(tx(it.title))}</h4><p>${esc(tx(it.summary))}</p></div>`).join("")}</div><button class="evergreen-scroll-btn" onclick="this.previousElementSibling.scrollBy({left:300,behavior:'smooth'})">›</button></div></div>`;
       }
-      html+=hot()+chips(state.themeFilter)+feed(list({featuredOnly:true}));
+      // Dynamic scoring: score × 0.7 + roleMatch × 0.3
+      const roleWeights = {front:0,midback:0,lead:0,cross:0};
+      if(state.role==='front'){roleWeights.front=3;roleWeights.midback=1;}
+      else if(state.role==='midback'){roleWeights.midback=3;roleWeights.front=1;roleWeights.lead=1;}
+      else if(state.role==='lead'){roleWeights.lead=3;roleWeights.front=1;roleWeights.cross=1;}
+      else if(state.role==='cross'){roleWeights.cross=3;roleWeights.lead=1;roleWeights.front=1;}
+      const pulseList = list({pulseSort:true, roleWeights:roleWeights});
+      html+=hot()+chips(state.themeFilter)+feed(pulseList);
     }
     else if(state.view==="all"){
       const cat = DATA.meta && DATA.meta.sourcesCatalog;
@@ -24519,7 +24544,7 @@ function fmtDay(iso){
           <li>内容供香港持牌保险中介及专业人士参考，不构成销售建议、投资建议或法律意见。</li>
           <li>常驻信息的驻点标准：持续有效的监管规则、长期适用的披露要求、行业基础框架性文件。</li>
           <li>英文原文已标注语种标记；翻译内容仅供参考，以原文为准。</li>
-          <li>评分原则（60-99）：信源权重(official>insurer>pro>media) × 60% + 内容时效/角色覆盖面 × 25% + 人工校准 × 15%。90+为高确定性一手监管或官方披露；70-89为专业解读；60-69为媒体线索待核。</li>
+          <li>热点规则: 近14天 sourceTier=official + score≥85 → 自动上榜前6条。精选排序: score×0.7 + 角色匹配×0.3 → 动态排序。常驻: 官方监管/合规类 evergreen=true 手动确认为长期适用。评分原则（60-99）：信源权重(official>insurer>pro>media) × 60% + 内容时效/角色覆盖面 × 25% + 人工校准 × 15%。90+为高确定性一手监管或官方披露；70-89为专业解读；60-69为媒体线索待核。</li>
         </ul>
       </div>
       <div class="panel"><h3>${t.disclaimer}</h3><p>${esc(t.disc)}</p></div>`;
