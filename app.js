@@ -2,10 +2,10 @@ window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-02T15:56:11+08:00",
-    "itemCount": 247,
+    "itemCount": 250,
     "windowNote": {
-      "sc": "本库247条。",
-      "tc": "本庫247條。"
+      "sc": "本库250条。",
+      "tc": "本庫250條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -15454,6 +15454,74 @@ window.HKII_DATA = {
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/fwd-hong-kong-launches-indexed-universal-life-plan-for-professionals-521938.aspx"
     },
     {
+      "id": "nfra-pricing-mechanism-2025",
+      "clusterCount": 1,
+      "score": 88,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "nfra",
+      "title": {
+        "sc": "NFRA 建立人身保险预定利率动态调整机制：传统型 2.0%、分红型 1.75%",
+        "tc": "NFRA 建立人身保險預定利率動態調整機制：傳統型 2.0%、分紅型 1.75%"
+      },
+      "summary": {
+        "sc": "2025 年，国家金融监管总局发布《关于健全人身保险产品定价机制的通知》：① 建立预定利率与市场利率挂钩的动态调整机制；② 传统型预定利率上限降至 2.0%，分红型 1.75%，万能型最低保证利率上限 1.5%；③ 深化「报行合一」全渠道覆盖。这是内地保险业历史上首次实现定价机制市场化动态调整。",
+        "tc": "2025 年，國家金融監管總局發布《關於健全人身保險產品定價機制的通知》：① 建立預定利率與市場利率掛鉤的動態調整機制；② 傳統型預定利率上限降至 2.0%，分紅型 1.75%，萬能型最低保證利率上限 1.5%；③ 深化「報行合一」全渠道覆蓋。"
+      },
+      "why": {
+        "sc": "这是内地保险业相当于香港「演示利率上限+佣金三件套」的打包版改革。预定利率从固定→浮动=内地保险产品的保证收益将持续走低。对 IFA：这个趋势每走一步，港险的利差优势就扩大一步。",
+        "tc": "這是內地保險業相當於香港「演示利率上限+佣金三件套」的打包版改革。預定利率從固定→浮動=內地保險產品的保證收益將持續走低。對 IFA：這個趨勢每走一步，港險的利差優勢就擴大步。"
+      },
+      "actions": {
+        "front": {
+          "sc": "内地保证收益下行→港险相对吸引力持续上升",
+          "tc": "內地保證收益下行→港險相對吸引力持續上升"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "预定利率市场化=内地保险进入低保证收益时代",
+          "tc": "預定利率市場化=內地保險進入低保證收益時代"
+        },
+        "cross": {
+          "sc": "内地低利率+香港高分红=跨境配置逻辑清晰",
+          "tc": "內地低利率+香港高分紅=跨境配置邏輯清晰"
+        }
+      },
+      "rolesImpact": {
+        "front": 5,
+        "midback": 3,
+        "lead": 5,
+        "cross": 5
+      },
+      "source": {
+        "sc": "国家金融监管总局 · 2025年",
+        "lang": "sc"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reg",
+        "product",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "预定利率",
+          "报行合一",
+          "定价机制"
+        ],
+        "tc": [
+          "預定利率",
+          "報行合一",
+          "定價機制"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2025-08-02T10:00:00+08:00",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1175200"
+    },
+    {
       "id": "ia-202507-commission-spread",
       "clusterCount": 1,
       "score": 93,
@@ -16003,6 +16071,73 @@ window.HKII_DATA = {
       "themes": [
         "market"
       ]
+    },
+    {
+      "id": "safe-crossborder-wmc-2025",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "pending",
+      "sourceTier": "official",
+      "sourceKey": "safe",
+      "title": {
+        "sc": "跨境理财通 2025 升级：南向通个人额度提高至 300 万元",
+        "tc": "跨境理財通 2025 升級：南向通個人額度提高至 300 萬元"
+      },
+      "summary": {
+        "sc": "2025 年，跨境理财通（Wealth Management Connect）完成 2.0 升级。南向通个人投资者额度从 100 万元提高至 300 万元，可投资产品范围扩大至中低风险基金和债券。粤港澳大湾区居民可通过闭环式资金管道投资香港理财产品，包括保险相连产品。",
+        "tc": "2025 年，跨境理財通（Wealth Management Connect）完成 2.0 升級。南向通個人投資者額度從 100 萬元提高至 300 萬元，可投資產品範圍擴大至中低風險基金和債券。"
+      },
+      "why": {
+        "sc": "理财通是大湾区居民合法购买香港金融产品的最直接通道。300 万额度虽然不大，但它是「可以合法出去」的信号。对 IFA：理财通的每一次扩容，都等于一个新客户入口的开放。",
+        "tc": "理財通是大灣區居民合法購買香港金融產品的最直接通道。每一次擴容，都等於一個新客戶入口的開放。"
+      },
+      "actions": {
+        "front": {
+          "sc": "理财通=大湾区客户的合法资产出境通道",
+          "tc": "理財通=大灣區客戶的合法資產出境通道"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "跨境理财通扩大=香港财富管理的增量来源",
+          "tc": "跨境理財通擴大=香港財富管理的增量來源"
+        },
+        "cross": {
+          "sc": "理财通+CIES+QDII=跨境资产配置三大通道",
+          "tc": "理財通+CIES+QDII=跨境資產配置三大通道"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 3,
+        "cross": 4
+      },
+      "source": {
+        "sc": "中国人民银行 · 2025年",
+        "lang": "sc"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "offshore",
+        "global-allocation"
+      ],
+      "tags": {
+        "sc": [
+          "理财通",
+          "大湾区",
+          "南向通"
+        ],
+        "tc": [
+          "理財通",
+          "大灣區",
+          "南向通"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-06-01T10:00:00+08:00",
+      "originalUrl": "https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/wealth-management-connect/"
     },
     {
       "id": "manulife-20250428-ci",
@@ -17103,6 +17238,73 @@ window.HKII_DATA = {
       "themes": [
         "market"
       ]
+    },
+    {
+      "id": "nfra-cbirc-solvency2-202501",
+      "clusterCount": 1,
+      "score": 78,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "nfra",
+      "title": {
+        "sc": "金融监管总局延长偿二代二期过渡期至 2025 年底",
+        "tc": "金融監管總局延長償二代二期過渡期至 2025 年底"
+      },
+      "summary": {
+        "sc": "2025 年 1 月，金融监管总局通知延长保险公司偿付能力监管规则（Ⅱ）实施过渡期。对于因新旧规则切换对偿付能力充足率影响较大的保险公司，可在 2025 年 2 月底前完成过渡期沟通。对应香港：RBC 已于 2024 年 7 月实施——两地在偿付能力监管框架上正在趋同。",
+        "tc": "2025 年 1 月，金融監管總局通知延長保險公司償付能力監管規則（Ⅱ）實施過渡期。對應香港：RBC 已於 2024 年 7 月實施——兩地在償付能力監管框架上正在趨同。"
+      },
+      "why": {
+        "sc": "内地偿二代≈香港 RBC。两地都在从「一刀切」的偿付能力要求走向「风险为本」的资本管理。理解这一趋同，就能理解为什么内地客户越来越放心把资产放在香港——制度底层逻辑一致了。",
+        "tc": "內地償二代≈香港 RBC。兩地都在從「一刀切」的償付能力要求走向「風險為本」的資本管理。"
+      },
+      "actions": {
+        "front": {
+          "sc": "两地偿付能力制度趋同=客户对港险信心增强",
+          "tc": "兩地償付能力制度趨同=客戶對港險信心增強"
+        },
+        "midback": {
+          "sc": "偿二代=内地保险公司的财务健康度标尺",
+          "tc": "償二代=內地保險公司的財務健康度標尺"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "偿付能力监管趋同=跨境保险制度基础在统一",
+          "tc": "償付能力監管趨同=跨境保險制度基礎在統一"
+        }
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 3,
+        "lead": 3,
+        "cross": 4
+      },
+      "source": {
+        "sc": "国家金融监管总局 · 2025年1月",
+        "lang": "sc"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reg",
+        "compliance"
+      ],
+      "tags": {
+        "sc": [
+          "偿二代",
+          "偿付能力",
+          "过渡期"
+        ],
+        "tc": [
+          "償二代",
+          "償付能力",
+          "過渡期"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2025-01-15T10:00:00+08:00",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/governmentDetail.html?docId=1191077"
     },
     {
       "id": "axa-20250110-shengli",

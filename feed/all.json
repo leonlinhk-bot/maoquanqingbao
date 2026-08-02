@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-02T08:37:12Z",
-  "itemCount": 247,
+  "generatedAt": "2026-08-02T08:42:25Z",
+  "itemCount": 250,
   "items": [
     {
       "id": "rga-hk-outlook-2026",
@@ -2581,6 +2581,20 @@
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/fwd-hong-kong-launches-indexed-universal-life-plan-for-professionals-521938.aspx"
     },
     {
+      "id": "nfra-pricing-mechanism-2025",
+      "title": "NFRA 建立人身保险预定利率动态调整机制：传统型 2.0%、分红型 1.75%",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "product",
+        "offshore"
+      ],
+      "publishedAt": "2025-08-02T10:00:00+08:00",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-pricing-mechanism-2025",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1175200"
+    },
+    {
       "id": "ia-202507-commission-spread",
       "title": "保监局发布分红保单佣金分摊指引：2026年1月1日起实施。",
       "sourceTier": "official",
@@ -2665,6 +2679,19 @@
       "score": 86,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fstb-2024-density",
       "originalUrl": "https://www.fstb.gov.hk/tc/financial_ser/insurance-industry.htm"
+    },
+    {
+      "id": "safe-crossborder-wmc-2025",
+      "title": "跨境理财通 2025 升级：南向通个人额度提高至 300 万元",
+      "sourceTier": "official",
+      "themes": [
+        "offshore",
+        "global-allocation"
+      ],
+      "publishedAt": "2025-06-01T10:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=safe-crossborder-wmc-2025",
+      "originalUrl": "https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/wealth-management-connect/"
     },
     {
       "id": "manulife-20250428-ci",
@@ -2841,6 +2868,19 @@
       "score": 73,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=linkedin-2024-trends",
       "originalUrl": "https://www.linkedin.com/pulse/reviewing-key-trends-hong-kongs-insurance-industry-2024-demi-poon-b4lkc"
+    },
+    {
+      "id": "nfra-cbirc-solvency2-202501",
+      "title": "金融监管总局延长偿二代二期过渡期至 2025 年底",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "compliance"
+      ],
+      "publishedAt": "2025-01-15T10:00:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-cbirc-solvency2-202501",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/governmentDetail.html?docId=1191077"
     },
     {
       "id": "axa-20250110-shengli",
