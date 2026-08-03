@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-08-03T18:08:00+08:00",
-    "itemCount": 263,
+    "generatedAt": "2026-08-03T21:07:21+08:00",
+    "itemCount": 267,
     "windowNote": {
-      "sc": "本库263条。",
-      "tc": "本庫263條。"
+      "sc": "本库267条。",
+      "tc": "本庫267條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -169,6 +169,284 @@
   ],
   "items": [
     {
+      "id": "hkma-sme-credit-aug03",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma:sme-credit-20260803",
+      "title": {
+        "sc": "HKMA：Q2中小企业信贷状况总体稳定 78%认为审批取态相近或更易",
+        "tc": "HKMA：Q2中小企業信貸狀況總體穩定 78%認為審批取態相近或更易"
+      },
+      "summary": {
+        "sc": "金管局8月3日公布Q2中小企业信贷状况调查：撇除无意见者，78%受访企业认为银行信贷审批取态与半年前相若或更宽松（上季73%），22%认为更困难（上季27%）；新申请成功获批率85%（上季91%），4%反映现有信贷额度收紧。调查覆盖约2500家中小企业，反映企业融资环境边际变化。[EN原文]",
+        "tc": "金管局Q2中小企業信貸調查：78%認為銀行審批取態相近或更寬鬆（上季73%），新申請成功獲批率85%（上季91%）；信貸環境總體穩定但邊際轉緊，覆蓋約2500家中小企業。"
+      },
+      "why": {
+        "sc": "企业信贷环境=中小企业主客户经营与融资需求的宏观参照",
+        "tc": "企業信貸環境=中小企業主客戶經營與融資需求的宏觀參照"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "HKMA",
+        "tc": "HKMA",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "credit",
+        "sme"
+      ],
+      "tags": {
+        "sc": [
+          "HKMA",
+          "中小企业",
+          "信贷",
+          "融资"
+        ],
+        "tc": [
+          "HKMA",
+          "中小企業",
+          "信貸",
+          "融資"
+        ]
+      },
+      "contentKind": "stats",
+      "publishedAt": "2026-08-03T16:00:00+08:00",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260803-4/",
+      "ingestedAt": "2026-08-03T18:08:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "goldman-aia-1h26-aug03",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "pending",
+      "sourceTier": "pro",
+      "sourceKey": "aastocks:goldman-aia-20260803",
+      "title": {
+        "sc": "高盛维持友邦「买入」：料上半年NBV+15%至32.54亿美元",
+        "tc": "高盛維持友邦「買入」：料上半年NBV+15%至32.54億美元"
+      },
+      "summary": {
+        "sc": "高盛8月3日研报：预计友邦上半年新业务价值按实际汇率同比+15%至32.54亿美元，Q2增速放缓至12%（Q1为17%），主因香港高基数而非销售放缓；内地为增长最快市场（Q2按固定汇率+13%），泰国受投连险带动转正（+5%）；维持买入评级、目标价97港元，中报8月20日公布。[EN原文]",
+        "tc": "高盛預計友邦上半年NBV按實際匯率+15%至32.54億美元，Q2放緩至12%（Q1為17%）主因香港高基數而非銷售放緩；內地最快（Q2+13%）、泰國轉正（+5%）；維持買入、目標價97港元，中報8月20日揭曉。"
+      },
+      "why": {
+        "sc": "投行对友邦中报预期=港险龙头景气与高基数效应的交叉验证",
+        "tc": "投行對友邦中報預期=港險龍頭景氣與高基數效應的交叉驗證"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "AASTOCKS / Goldman Sachs",
+        "tc": "AASTOCKS / Goldman Sachs",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "results",
+        "valuation"
+      ],
+      "tags": {
+        "sc": [
+          "友邦",
+          "高盛",
+          "新业务价值",
+          "中报",
+          "评级"
+        ],
+        "tc": [
+          "友邦",
+          "高盛",
+          "新業務價值",
+          "中報",
+          "評級"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-03T12:47:00+08:00",
+      "originalUrl": "https://wdatacn.aastocks.com/en/stocks/news/aafn-con/NOW.1536225/latest-news/AAFN",
+      "ingestedAt": "2026-08-03T18:08:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "cyber-insurer-profit-aug03",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "pending",
+      "sourceTier": "pro",
+      "sourceKey": "insuranceasia:cyber-profit-20260803",
+      "title": {
+        "sc": "AM Best/S&P：网安险2025全球保费破160亿美元 费率下行考验盈利",
+        "tc": "AM Best/S&P：網安險2025全球保費破160億美元 費率下行考驗盈利"
+      },
+      "summary": {
+        "sc": "AM Best与S&P同月报告网安险前景：2025年全球保费逾160亿美元，需求随数字化与数据保护法规增长，但竞争令费率走低；AM Best维持稳定展望，S&P警告市场接近转折点、费率续跌将侵蚀承保利润。2025年勒索攻击同比+30%至7419起，AI令攻击更易规模化。[EN原文]",
+        "tc": "AM Best與S&P研判網安險：2025全球保費破160億美元，需求增長但費率下行；AM Best展望穩定，S&P警告接近轉折點；去年勒索攻擊+30%至7419起，AI令攻擊更易規模化。"
+      },
+      "why": {
+        "sc": "网安险定价与AI风险=企业客户风险管理话题与市场情绪参照",
+        "tc": "網安險定價與AI風險=企業客戶風險管理話題與市場情緒參照"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Asia / AM Best·S&P",
+        "tc": "Insurance Asia / AM Best·S&P",
+        "lang": "en"
+      },
+      "boards": [
+        "tech"
+      ],
+      "themes": [
+        "cyber",
+        "pricing"
+      ],
+      "tags": {
+        "sc": [
+          "网络安全险",
+          "AM Best",
+          "S&P",
+          "勒索软件",
+          "AI风险"
+        ],
+        "tc": [
+          "網絡安全險",
+          "AM Best",
+          "S&P",
+          "勒索軟件",
+          "AI風險"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-03T09:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/expert-opinion/can-cyber-insurers-stay-profitable",
+      "ingestedAt": "2026-08-03T18:08:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ia-mcv-definition-aug03",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "gmteight:ia-mcv-definition-20260803",
+      "title": {
+        "sc": "保监局拟重定义「内地访客」：非内地永久居民或可免赴港投保",
+        "tc": "保監局擬重定義「內地訪客」：非內地永久居民或可免赴港投保"
+      },
+      "summary": {
+        "sc": "据明报引述保监局执行董事梁志仁：保监局计划重新定义「内地访客」类别，拟允许非内地永久居民（如海外华侨）毋须亲身来港投保，以吸纳居港外的高净值客群；下季展开正式咨询，年内发布客户定义指引。新定义落地前，内地访客季度数据继续暂缓公布。[EN原文]",
+        "tc": "據明報引述保監局執行董事：擬重定義「內地訪客」，允許非內地永久居民（如海外華僑）毋須親身赴港投保，以吸引海外高淨值客群；下季正式諮詢、年內出指引。新定義落地前內地訪客季度數據續暫緩公佈。"
+      },
+      "why": {
+        "sc": "内地访客定义=直接改变MCV渠道规则与跨境投保流程，需重点跟进",
+        "tc": "內地訪客定義=直接改變MCV渠道規則與跨境投保流程，需重點跟進"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 2,
+        "lead": 2,
+        "cross": 3
+      },
+      "source": {
+        "sc": "GMT EIGHT / 明报",
+        "tc": "GMT EIGHT / 明報",
+        "lang": "zh+en"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "mainland-visitors",
+        "regulation"
+      ],
+      "tags": {
+        "sc": [
+          "内地访客",
+          "MCV",
+          "保监局",
+          "跨境投保",
+          "定义咨询"
+        ],
+        "tc": [
+          "內地訪客",
+          "MCV",
+          "保監局",
+          "跨境投保",
+          "定義諮詢"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-03T09:00:00+08:00",
+      "originalUrl": "https://gmteight.com/flash/detail/1245979",
+      "ingestedAt": "2026-08-03T18:08:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
       "id": "jefferies-hk-channels-aug03",
       "clusterCount": 1,
       "score": 75,
@@ -307,352 +585,261 @@
       "evergreen": false
     },
     {
-      "id": "cyber-insurer-profit-aug03",
+      "id": "fwd-cancer-claims-202608",
       "clusterCount": 1,
-      "score": 70,
+      "score": 71,
       "verifyStatus": "pending",
-      "sourceTier": "pro",
-      "sourceKey": "insuranceasia:cyber-profit-20260803",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
       "title": {
-        "sc": "AM Best/S&P：网安险2025全球保费破160亿美元 费率下行考验盈利",
-        "tc": "AM Best/S&P：網安險2025全球保費破160億美元 費率下行考驗盈利"
+        "sc": "富卫新增癌症重复理赔保障：港癌患者 5 年存活率达 61%",
+        "tc": "富衛新增癌症重複理賠保障：港癌患者 5 年存活率達 61%"
       },
       "summary": {
-        "sc": "AM Best与S&P同月报告网安险前景：2025年全球保费逾160亿美元，需求随数字化与数据保护法规增长，但竞争令费率走低；AM Best维持稳定展望，S&P警告市场接近转折点、费率续跌将侵蚀承保利润。2025年勒索攻击同比+30%至7419起，AI令攻击更易规模化。[EN原文]",
-        "tc": "AM Best與S&P研判網安險：2025全球保費破160億美元，需求增長但費率下行；AM Best展望穩定，S&P警告接近轉折點；去年勒索攻擊+30%至7419起，AI令攻擊更易規模化。"
+        "sc": "富卫香港新增癌症重复理赔保障条款，回应香港癌症患者五年存活率升至 61% 的趋势。意味着客户在一次癌症理赔后，若癌症复发或转移，可再次获得赔付——长期保障的实用性大幅提升。",
+        "tc": "富衛香港新增癌症重複理賠保障條款，回應香港癌症患者五年存活率升至 61% 的趨勢。"
       },
       "why": {
-        "sc": "网安险定价与AI风险=企业客户风险管理话题与市场情绪参照",
-        "tc": "網安險定價與AI風險=企業客戶風險管理話題與市場情緒參照"
+        "sc": "癌症存活率上升=客户带病生存时间变长=单次理赔不够用了。FWD 这一步说明危疾产品的竞争已经从「保额大小」升级到「保障次数」。",
+        "tc": "癌症存活率上升=客戶帶病生存時間變長=單次理賠不夠用了。危疾產品的競爭已經從「保額大小」升級到「保障次數」。"
       },
       "actions": {
-        "front": {},
+        "front": {
+          "sc": "癌症多重理赔=危疾产品的新卖点",
+          "tc": "癌症多重理賠=危疾產品的新賣點"
+        },
         "midback": {},
         "lead": {},
         "cross": {}
       },
       "rolesImpact": {
-        "front": 0,
+        "front": 4,
         "midback": 1,
         "lead": 1,
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Asia / AM Best·S&P",
-        "tc": "Insurance Asia / AM Best·S&P",
-        "lang": "en"
+        "sc": "InsuranceAsia · 2026年8月",
+        "lang": "zh"
       },
       "boards": [
-        "tech"
+        "product"
       ],
       "themes": [
-        "cyber",
-        "pricing"
+        "product",
+        "uw"
       ],
       "tags": {
         "sc": [
-          "网络安全险",
-          "AM Best",
-          "S&P",
-          "勒索软件",
-          "AI风险"
+          "富卫",
+          "癌症",
+          "危疾",
+          "理赔"
         ],
         "tc": [
-          "網絡安全險",
-          "AM Best",
-          "S&P",
-          "勒索軟件",
-          "AI風險"
+          "富衛",
+          "癌症",
+          "危疾",
+          "理賠"
         ]
       },
       "contentKind": "news",
-      "publishedAt": "2026-08-03T09:00:00+08:00",
-      "originalUrl": "https://insuranceasia.com/insurance/expert-opinion/can-cyber-insurers-stay-profitable",
-      "ingestedAt": "2026-08-03T18:08:00+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
+      "publishedAt": "2026-08-02T10:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/fwd-adds-repeat-claims-cancer-survival-reaches-61"
     },
     {
-      "id": "hkma-sme-credit-aug03",
+      "id": "mainland-insurers-tsimshatsui-202608",
       "clusterCount": 1,
-      "score": 85,
-      "verifyStatus": "verified",
-      "sourceTier": "official",
-      "sourceKey": "hkma:sme-credit-20260803",
+      "score": 72,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
       "title": {
-        "sc": "HKMA：Q2中小企业信贷状况总体稳定 78%认为审批取态相近或更易",
-        "tc": "HKMA：Q2中小企業信貸狀況總體穩定 78%認為審批取態相近或更易"
+        "sc": "内地保险及财富管理公司入驻带动尖沙咀写字楼空置率降至 6.7％",
+        "tc": "內地保險及財富管理公司入駐帶動尖沙咀寫字樓空置率降至 6.7％"
       },
       "summary": {
-        "sc": "金管局8月3日公布Q2中小企业信贷状况调查：撇除无意见者，78%受访企业认为银行信贷审批取态与半年前相若或更宽松（上季73%），22%认为更困难（上季27%）；新申请成功获批率85%（上季91%），4%反映现有信贷额度收紧。调查覆盖约2500家中小企业，反映企业融资环境边际变化。[EN原文]",
-        "tc": "金管局Q2中小企業信貸調查：78%認為銀行審批取態相近或更寬鬆（上季73%），新申請成功獲批率85%（上季91%）；信貸環境總體穩定但邊際轉緊，覆蓋約2500家中小企業。"
+        "sc": "据 InsuranceAsia 报道，内地保险和财富管理公司加速在香港设立办公室，推动尖沙咀写字楼空置率降至 6.7%。北京道一号 6 月录得 2024 年以来首次满租。这一趋势反映了内地金融机构对香港作为国际财富管理中心地位的持续押注。",
+        "tc": "據 InsuranceAsia 報道，內地保險和財富管理公司加速在香港設立辦公室，推動尖沙咀寫字樓空置率降至 6.7%。北京道一號 6 月錄得 2024 年以來首次滿租。"
       },
       "why": {
-        "sc": "企业信贷环境=中小企业主客户经营与融资需求的宏观参照",
-        "tc": "企業信貸環境=中小企業主客戶經營與融資需求的宏觀參照"
+        "sc": "空置率降=内地钱和人正在进来。这不是保险新闻，但这是比保险新闻更真实的信号——机构用真金白银租办公室，说明对香港市场有长期信心。",
+        "tc": "空置率降=內地錢和人正在進來。機構用真金白銀租辦公室，說明對香港市場有長期信心。"
       },
       "actions": {
-        "front": {},
+        "front": {
+          "sc": "内地机构涌入=跨境客户的供给端正在扩大",
+          "tc": "內地機構湧入=跨境客戶的供給端正在擴大"
+        },
         "midback": {},
-        "lead": {},
-        "cross": {}
+        "lead": {
+          "sc": "机构用脚投票=香港作为财富管理中心的地位在强化",
+          "tc": "機構用腳投票=香港作為財富管理中心的地位在強化"
+        },
+        "cross": {
+          "sc": "内地金融资源+香港国际平台=跨境生态的底层支撑",
+          "tc": "內地金融資源+香港國際平台=跨境生態的底層支撐"
+        }
       },
       "rolesImpact": {
-        "front": 0,
+        "front": 3,
         "midback": 1,
-        "lead": 1,
-        "cross": 0
+        "lead": 4,
+        "cross": 4
       },
       "source": {
-        "sc": "HKMA",
-        "tc": "HKMA",
-        "lang": "en"
+        "sc": "InsuranceAsia · 2026年8月",
+        "lang": "zh"
       },
       "boards": [
         "market"
       ],
       "themes": [
-        "credit",
-        "sme"
+        "offshore",
+        "market"
       ],
       "tags": {
         "sc": [
-          "HKMA",
-          "中小企业",
-          "信贷",
-          "融资"
+          "尖沙咀",
+          "空置率",
+          "内地机构"
         ],
         "tc": [
-          "HKMA",
-          "中小企業",
-          "信貸",
-          "融資"
+          "尖沙咀",
+          "空置率",
+          "內地機構"
         ]
       },
-      "contentKind": "stats",
-      "publishedAt": "2026-08-03T16:00:00+08:00",
-      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260803-4/",
-      "ingestedAt": "2026-08-03T18:08:00+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
+      "contentKind": "news",
+      "publishedAt": "2026-08-01T10:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/mainland-insurers-drive-tsimshatsui-vacancy-down-67"
     },
     {
-      "id": "ia-mcv-definition-aug03",
+      "id": "msig-claims-ratio-202608",
       "clusterCount": 1,
       "score": 74,
       "verifyStatus": "pending",
       "sourceTier": "media",
-      "sourceKey": "gmteight:ia-mcv-definition-20260803",
+      "sourceKey": "insuranceasia",
       "title": {
-        "sc": "保监局拟重定义「内地访客」：非内地永久居民或可免赴港投保",
-        "tc": "保監局擬重定義「內地訪客」：非內地永久居民或可免赴港投保"
+        "sc": "MSIG 香港理赔率升至 94.7%：2025 年赔付 3.59 亿港元",
+        "tc": "MSIG 香港理賠率升至 94.7%：2025 年賠付 3.59 億港元"
       },
       "summary": {
-        "sc": "据明报引述保监局执行董事梁志仁：保监局计划重新定义「内地访客」类别，拟允许非内地永久居民（如海外华侨）毋须亲身来港投保，以吸纳居港外的高净值客群；下季展开正式咨询，年内发布客户定义指引。新定义落地前，内地访客季度数据继续暂缓公布。[EN原文]",
-        "tc": "據明報引述保監局執行董事：擬重定義「內地訪客」，允許非內地永久居民（如海外華僑）毋須親身赴港投保，以吸引海外高淨值客群；下季正式諮詢、年內出指引。新定義落地前內地訪客季度數據續暫緩公佈。"
+        "sc": "三井住友保险（MSIG）香港公布 2025 年理赔数据：理赔结算率升至 94.7%，全年在港澳市场赔付 3.59 亿港元。高理赔率=客户实际拿到理赔款的概率=保险公司兑现承诺的能力。",
+        "tc": "三井住友保險（MSIG）香港公佈 2025 年理賠數據：理賠結算率升至 94.7%，全年在港澳市場賠付 3.59 億港元。"
       },
       "why": {
-        "sc": "内地访客定义=直接改变MCV渠道规则与跨境投保流程，需重点跟进",
-        "tc": "內地訪客定義=直接改變MCV渠道規則與跨境投保流程，需重點跟進"
+        "sc": "理赔率是检验保险公司「说到做到」的终极指标。94.7% 意味着绝大多数理赔申请都得到了赔付。在日常客户沟通中，理赔率数据比分红实现率更直观、更有说服力。",
+        "tc": "理賠率是檢驗保險公司「說到做到」的終極指標。94.7% 意味著絕大多數理賠申請都得到了賠付。"
       },
       "actions": {
-        "front": {},
+        "front": {
+          "sc": "理赔率94.7%=客户可感知的保险公司诚信度",
+          "tc": "理賠率94.7%=客戶可感知的保險公司誠信度"
+        },
         "midback": {},
         "lead": {},
         "cross": {}
       },
       "rolesImpact": {
-        "front": 3,
-        "midback": 2,
-        "lead": 2,
-        "cross": 3
+        "front": 4,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
       },
       "source": {
-        "sc": "GMT EIGHT / 明报",
-        "tc": "GMT EIGHT / 明報",
-        "lang": "zh+en"
+        "sc": "InsuranceAsia · 2026年8月",
+        "lang": "zh"
       },
       "boards": [
-        "reg"
+        "market"
       ],
       "themes": [
-        "mainland-visitors",
-        "regulation"
+        "uw",
+        "firm"
       ],
       "tags": {
         "sc": [
-          "内地访客",
-          "MCV",
-          "保监局",
-          "跨境投保",
-          "定义咨询"
+          "MSIG",
+          "理赔率",
+          "一般保险"
         ],
         "tc": [
-          "內地訪客",
-          "MCV",
-          "保監局",
-          "跨境投保",
-          "定義諮詢"
+          "MSIG",
+          "理賠率",
+          "一般保險"
         ]
       },
       "contentKind": "news",
-      "publishedAt": "2026-08-03T09:00:00+08:00",
-      "originalUrl": "https://gmteight.com/flash/detail/1245979",
-      "ingestedAt": "2026-08-03T18:08:00+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
+      "publishedAt": "2026-08-01T10:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/msig-lifts-claims-settlement-ratio-947"
     },
     {
-      "id": "goldman-aia-1h26-aug03",
+      "id": "fstb-captive-blog-202608",
       "clusterCount": 1,
-      "score": 72,
-      "verifyStatus": "pending",
-      "sourceTier": "pro",
-      "sourceKey": "aastocks:goldman-aia-20260803",
+      "score": 78,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "govhk",
       "title": {
-        "sc": "高盛维持友邦「买入」：料上半年NBV+15%至32.54亿美元",
-        "tc": "高盛維持友邦「買入」：料上半年NBV+15%至32.54億美元"
+        "sc": "财库局：香港专属自保公司增至 9 间，风险管理市场持续扩容",
+        "tc": "財庫局：香港專屬自保公司增至 9 間，風險管理市場持續擴容"
       },
       "summary": {
-        "sc": "高盛8月3日研报：预计友邦上半年新业务价值按实际汇率同比+15%至32.54亿美元，Q2增速放缓至12%（Q1为17%），主因香港高基数而非销售放缓；内地为增长最快市场（Q2按固定汇率+13%），泰国受投连险带动转正（+5%）；维持买入评级、目标价97港元，中报8月20日公布。[EN原文]",
-        "tc": "高盛預計友邦上半年NBV按實際匯率+15%至32.54億美元，Q2放緩至12%（Q1為17%）主因香港高基數而非銷售放緩；內地最快（Q2+13%）、泰國轉正（+5%）；維持買入、目標價97港元，中報8月20日揭曉。"
+        "sc": "财经事务及库务局局长博客指出：香港专属自保保险公司已增至 9 间（其中 2 间为 2026 年新增），反映市场对香港作为国际风险管理中心的信心持续增强。专属自保公司是大企业自设的「内部保险公司」，是香港再保险生态的重要组成部分。",
+        "tc": "財經事務及庫務局局長博客指出：香港專屬自保保險公司已增至 9 間（其中 2 間為 2026 年新增），反映市場對香港作為國際風險管理中心的信心持續增強。"
       },
       "why": {
-        "sc": "投行对友邦中报预期=港险龙头景气与高基数效应的交叉验证",
-        "tc": "投行對友邦中報預期=港險龍頭景氣與高基數效應的交叉驗證"
+        "sc": "专属自保公司数量=大型企业把香港当作风控基地的信号。每多一家，香港的再保险和专业服务链条就厚一层。",
+        "tc": "專屬自保公司數量=大型企業把香港當作風控基地的信號。每多一家，香港的再保險和專業服務鏈條就厚一層。"
       },
       "actions": {
         "front": {},
-        "midback": {},
-        "lead": {},
-        "cross": {}
+        "midback": {
+          "sc": "专属自保需专业保险服务支持=知识密集型业务的增长点",
+          "tc": "專屬自保需專業保險服務支持=知識密集型業務的增長點"
+        },
+        "lead": {
+          "sc": "9间专属自保=香港风险管理中心的实证",
+          "tc": "9間專屬自保=香港風險管理中心的實證"
+        },
+        "cross": {
+          "sc": ""
+        }
       },
       "rolesImpact": {
         "front": 1,
-        "midback": 1,
-        "lead": 0,
-        "cross": 0
+        "midback": 3,
+        "lead": 3,
+        "cross": 2
       },
       "source": {
-        "sc": "AASTOCKS / Goldman Sachs",
-        "tc": "AASTOCKS / Goldman Sachs",
-        "lang": "en"
+        "sc": "财库局 · 2026年8月",
+        "lang": "zh"
       },
       "boards": [
-        "insurer"
+        "market"
       ],
       "themes": [
-        "results",
-        "valuation"
+        "reg",
+        "firm"
       ],
       "tags": {
         "sc": [
-          "友邦",
-          "高盛",
-          "新业务价值",
-          "中报",
-          "评级"
+          "专属自保",
+          "财库局",
+          "风险管理"
         ],
         "tc": [
-          "友邦",
-          "高盛",
-          "新業務價值",
-          "中報",
-          "評級"
+          "專屬自保",
+          "財庫局",
+          "風險管理"
         ]
       },
-      "contentKind": "news",
-      "publishedAt": "2026-08-03T12:47:00+08:00",
-      "originalUrl": "https://wdatacn.aastocks.com/en/stocks/news/aafn-con/NOW.1536225/latest-news/AAFN",
-      "ingestedAt": "2026-08-03T18:08:00+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
-    },
-    {
-      "id": "ia-commission-caps-jul30",
-      "clusterCount": 1,
-      "score": 78,
-      "verifyStatus": "pending",
-      "sourceTier": "pro",
-      "sourceKey": "insuranceasia:creditsights-commission-20260730",
-      "title": {
-        "sc": "CreditSights：香港寿险新规重塑竞争格局 渠道强者受益",
-        "tc": "CreditSights：香港壽險新規重塑競爭格局 渠道強者受益"
-      },
-      "summary": {
-        "sc": "CreditSights报告指出，香港寿险市场在2024-2025年持续强劲增长，内地访客需求2025年显著回暖。报告分析多项监管新规对市场的影响：分红保单演示利率设限、首年佣金设限及转介费设限等措施，将利好拥有成熟代理及银保网络、产品久期较长、分销质量较高的保险公司。同时风险为本资本制度促使保司增配优质固收资产，基建类投资获资本优惠。[EN原文]",
-        "tc": "CreditSights報告分析香港壽險新規：演示利率及佣金設限，利好渠道強、久期長、分銷質素高的保司；RBC促增配優質固收。"
-      },
-      "why": {
-        "sc": "新规下的赢家逻辑=IFA选择合作保司与产品的重要参考",
-        "tc": "新規下的贏家邏輯=IFA選擇合作保司與產品的重要參考"
-      },
-      "actions": {
-        "front": {},
-        "midback": {},
-        "lead": {},
-        "cross": {}
-      },
-      "rolesImpact": {
-        "front": 2,
-        "midback": 1,
-        "lead": 0,
-        "cross": 0
-      },
-      "source": {
-        "sc": "Insurance Asia / CreditSights",
-        "tc": "Insurance Asia / CreditSights",
-        "lang": "en"
-      },
-      "boards": [
-        "reg"
-      ],
-      "themes": [
-        "commission",
-        "regulation"
-      ],
-      "tags": {
-        "sc": [
-          "佣金上限",
-          "演示利率",
-          "CreditSights",
-          "RBC",
-          "竞争格局"
-        ],
-        "tc": [
-          "佣金上限",
-          "演示利率",
-          "CreditSights",
-          "RBC",
-          "競爭格局"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2026-07-30T06:30:00+08:00",
-      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-caps-commissions-life-insurers-compete",
-      "ingestedAt": "2026-08-02T23:30:00+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
+      "contentKind": "press",
+      "publishedAt": "2026-08-01T10:00:00+08:00",
+      "originalUrl": "https://www.fstb.gov.hk/tc/blog/blog180825.htm"
     },
     {
       "id": "jll-tsim-vacancy-aug01",
@@ -716,74 +903,6 @@
       "contentKind": "news",
       "publishedAt": "2026-08-01T05:00:00+08:00",
       "originalUrl": "https://insuranceasia.com/insurance/news/mainland-insurers-drive-tsimshatsui-vacancy-down-67",
-      "ingestedAt": "2026-08-02T23:30:00+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
-    },
-    {
-      "id": "msig-claims-947-jul30",
-      "clusterCount": 1,
-      "score": 75,
-      "verifyStatus": "pending",
-      "sourceTier": "insurer",
-      "sourceKey": "msig:claims-2025-20260730",
-      "title": {
-        "sc": "MSIG香港2025年理赔结案率升至94.7% 连续五年改善",
-        "tc": "MSIG香港2025年理賠結案率升至94.7% 連續五年改善"
-      },
-      "summary": {
-        "sc": "MSIG保险（香港）2025年理赔报告显示，全年结案率升至94.7%，较2020年的91.1%连续第五年提升；2025年在香港及澳门共赔付3.59亿港元。雇员补偿保险结案率最高达99.87%，家佣保险97.57%，旅游保险96.27%。客户表扬按年增11%，2025年所有Google评价均为五星。[EN原文]",
-        "tc": "MSIG香港2025理賠結案率94.7%連續五年改善，港澳共賠$3.59億；僱傭補償結案率99.87%最高。"
-      },
-      "why": {
-        "sc": "理赔结案率=客户转介绍与续保的说服力素材",
-        "tc": "理賠結案率=客戶轉介紹與續保的說服力素材"
-      },
-      "actions": {
-        "front": {},
-        "midback": {},
-        "lead": {},
-        "cross": {}
-      },
-      "rolesImpact": {
-        "front": 1,
-        "midback": 0,
-        "lead": 0,
-        "cross": 0
-      },
-      "source": {
-        "sc": "Insurance Asia / MSIG",
-        "tc": "Insurance Asia / MSIG",
-        "lang": "en"
-      },
-      "boards": [
-        "insurer"
-      ],
-      "themes": [
-        "claims",
-        "customer"
-      ],
-      "tags": {
-        "sc": [
-          "MSIG",
-          "理赔",
-          "结案率",
-          "客户服务"
-        ],
-        "tc": [
-          "MSIG",
-          "理賠",
-          "結案率",
-          "客戶服務"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2026-07-30T06:15:00+08:00",
-      "originalUrl": "https://insuranceasia.com/insurance/news/msig-lifts-claims-settlement-ratio-947",
       "ingestedAt": "2026-08-02T23:30:00+08:00",
       "contentRole": {
         "sc": "本站导读",
@@ -1278,6 +1397,144 @@
       "contentKind": "press",
       "publishedAt": "2026-07-30T10:00:00+08:00",
       "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1265870&itemId=915"
+    },
+    {
+      "id": "ia-commission-caps-jul30",
+      "clusterCount": 1,
+      "score": 78,
+      "verifyStatus": "pending",
+      "sourceTier": "pro",
+      "sourceKey": "insuranceasia:creditsights-commission-20260730",
+      "title": {
+        "sc": "CreditSights：香港寿险新规重塑竞争格局 渠道强者受益",
+        "tc": "CreditSights：香港壽險新規重塑競爭格局 渠道強者受益"
+      },
+      "summary": {
+        "sc": "CreditSights报告指出，香港寿险市场在2024-2025年持续强劲增长，内地访客需求2025年显著回暖。报告分析多项监管新规对市场的影响：分红保单演示利率设限、首年佣金设限及转介费设限等措施，将利好拥有成熟代理及银保网络、产品久期较长、分销质量较高的保险公司。同时风险为本资本制度促使保司增配优质固收资产，基建类投资获资本优惠。[EN原文]",
+        "tc": "CreditSights報告分析香港壽險新規：演示利率及佣金設限，利好渠道強、久期長、分銷質素高的保司；RBC促增配優質固收。"
+      },
+      "why": {
+        "sc": "新规下的赢家逻辑=IFA选择合作保司与产品的重要参考",
+        "tc": "新規下的贏家邏輯=IFA選擇合作保司與產品的重要參考"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Asia / CreditSights",
+        "tc": "Insurance Asia / CreditSights",
+        "lang": "en"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "commission",
+        "regulation"
+      ],
+      "tags": {
+        "sc": [
+          "佣金上限",
+          "演示利率",
+          "CreditSights",
+          "RBC",
+          "竞争格局"
+        ],
+        "tc": [
+          "佣金上限",
+          "演示利率",
+          "CreditSights",
+          "RBC",
+          "競爭格局"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-07-30T06:30:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-caps-commissions-life-insurers-compete",
+      "ingestedAt": "2026-08-02T23:30:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "msig-claims-947-jul30",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "pending",
+      "sourceTier": "insurer",
+      "sourceKey": "msig:claims-2025-20260730",
+      "title": {
+        "sc": "MSIG香港2025年理赔结案率升至94.7% 连续五年改善",
+        "tc": "MSIG香港2025年理賠結案率升至94.7% 連續五年改善"
+      },
+      "summary": {
+        "sc": "MSIG保险（香港）2025年理赔报告显示，全年结案率升至94.7%，较2020年的91.1%连续第五年提升；2025年在香港及澳门共赔付3.59亿港元。雇员补偿保险结案率最高达99.87%，家佣保险97.57%，旅游保险96.27%。客户表扬按年增11%，2025年所有Google评价均为五星。[EN原文]",
+        "tc": "MSIG香港2025理賠結案率94.7%連續五年改善，港澳共賠$3.59億；僱傭補償結案率99.87%最高。"
+      },
+      "why": {
+        "sc": "理赔结案率=客户转介绍与续保的说服力素材",
+        "tc": "理賠結案率=客戶轉介紹與續保的說服力素材"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 0,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Asia / MSIG",
+        "tc": "Insurance Asia / MSIG",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "claims",
+        "customer"
+      ],
+      "tags": {
+        "sc": [
+          "MSIG",
+          "理赔",
+          "结案率",
+          "客户服务"
+        ],
+        "tc": [
+          "MSIG",
+          "理賠",
+          "結案率",
+          "客戶服務"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-07-30T06:15:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/msig-lifts-claims-settlement-ratio-947",
+      "ingestedAt": "2026-08-02T23:30:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
     },
     {
       "id": "hkma-cmu-network-jul29",
