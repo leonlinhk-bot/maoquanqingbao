@@ -1,9 +1,87 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-02T15:36:57Z",
-  "itemCount": 257,
+  "generatedAt": "2026-08-03T10:20:19Z",
+  "itemCount": 263,
   "items": [
+    {
+      "id": "jefferies-hk-channels-aug03",
+      "title": "Jefferies：港险Q1新单保费+47% 保单件数仅+2% 件均保费+45%",
+      "sourceTier": "pro",
+      "themes": [
+        "channel",
+        "mainland-wealth"
+      ],
+      "publishedAt": "2026-08-03T05:45:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=jefferies-hk-channels-aug03",
+      "originalUrl": "https://insuranceasia.com/insurance/news/jefferies-warns-policy-growth-lags-hong-kong-premium-surge"
+    },
+    {
+      "id": "aia-crossborder-care-aug03",
+      "title": "AIA新加坡扩跨境医疗：马来就医免预付 34%担忧医疗开支",
+      "sourceTier": "insurer",
+      "themes": [
+        "medical",
+        "cross-border"
+      ],
+      "publishedAt": "2026-08-03T05:15:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-crossborder-care-aug03",
+      "originalUrl": "https://insuranceasia.com/insurance/news/aia-expands-cross-border-care-34-fear-medical-costs"
+    },
+    {
+      "id": "cyber-insurer-profit-aug03",
+      "title": "AM Best/S&P：网安险2025全球保费破160亿美元 费率下行考验盈利",
+      "sourceTier": "pro",
+      "themes": [
+        "cyber",
+        "pricing"
+      ],
+      "publishedAt": "2026-08-03T09:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=cyber-insurer-profit-aug03",
+      "originalUrl": "https://insuranceasia.com/insurance/expert-opinion/can-cyber-insurers-stay-profitable"
+    },
+    {
+      "id": "hkma-sme-credit-aug03",
+      "title": "HKMA：Q2中小企业信贷状况总体稳定 78%认为审批取态相近或更易",
+      "sourceTier": "official",
+      "themes": [
+        "credit",
+        "sme"
+      ],
+      "publishedAt": "2026-08-03T16:00:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-sme-credit-aug03",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260803-4/"
+    },
+    {
+      "id": "ia-mcv-definition-aug03",
+      "title": "保监局拟重定义「内地访客」：非内地永久居民或可免赴港投保",
+      "sourceTier": "media",
+      "themes": [
+        "mainland-visitors",
+        "regulation"
+      ],
+      "publishedAt": "2026-08-03T09:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-mcv-definition-aug03",
+      "originalUrl": "https://gmteight.com/flash/detail/1245979"
+    },
+    {
+      "id": "goldman-aia-1h26-aug03",
+      "title": "高盛维持友邦「买入」：料上半年NBV+15%至32.54亿美元",
+      "sourceTier": "pro",
+      "themes": [
+        "results",
+        "valuation"
+      ],
+      "publishedAt": "2026-08-03T12:47:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=goldman-aia-1h26-aug03",
+      "originalUrl": "https://wdatacn.aastocks.com/en/stocks/news/aafn-con/NOW.1536225/latest-news/AAFN"
+    },
     {
       "id": "ia-commission-caps-jul30",
       "title": "CreditSights：香港寿险新规重塑竞争格局 渠道强者受益",
