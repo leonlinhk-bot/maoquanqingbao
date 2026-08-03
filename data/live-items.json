@@ -2,10 +2,10 @@
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-03T21:07:21+08:00",
-    "itemCount": 273,
+    "itemCount": 276,
     "windowNote": {
-      "sc": "本库273条。",
-      "tc": "本庫273條。"
+      "sc": "本库276条。",
+      "tc": "本庫276條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -18883,6 +18883,135 @@
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases.html"
     },
     {
+      "id": "ia-nfra-gba-motor-202411",
+      "clusterCount": 1,
+      "score": 80,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "保监局与金融监管总局广东局达成协议：大湾区跨境车险「等效先认」",
+        "tc": "保監局與金融監管總局廣東局達成協議：大灣區跨境車險「等效先認」"
+      },
+      "summary": {
+        "sc": "2024 年 11 月，保监局与国家金融监督管理总局广东监管局达成协议：允许香港本地保险公司签发独立的车辆自身损毁保单，附加内地规定的强制性汽车保险，即大湾区跨境车险「等效先认」安排。车主只需购买香港保单即可获内地交强险保障。",
+        "tc": "2024 年 11 月，保監局與國家金融監督管理總局廣東監管局達成協議：允許香港本地保險公司簽發獨立的車輛自身損毀保單，附加內地規定的強制性汽車保險，即大灣區跨境車險「等效先認」安排。"
+      },
+      "why": {
+        "sc": "跨境车险「等效先认」=大湾区制度衔接的标志性案例。车险虽是小事，但它是「一地保单、两地保障」的首次落地——这个模式未来可能扩展到更多险种。",
+        "tc": "跨境車險「等效先認」=大灣區制度銜接的標誌性案例。它是「一地保單、兩地保障」的首次落地——這個模式未來可能擴展到更多險種。"
+      },
+      "actions": {
+        "front": {
+          "sc": "跨境车险=大湾区客户的日常刚需",
+          "tc": "跨境車險=大灣區客戶的日常剛需"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "等效先认=跨境保险互联互通的样板",
+          "tc": "等效先認=跨境保險互聯互通的樣板"
+        },
+        "cross": {
+          "sc": "一地保单两地保障=跨境服务模式的突破",
+          "tc": "一地保單兩地保障=跨境服務模式的突破"
+        }
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 3,
+        "cross": 4
+      },
+      "source": {
+        "sc": "保监局 / 金融监管总局 · 2024年11月",
+        "lang": "sc"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "offshore",
+        "cross-border",
+        "reg"
+      ],
+      "tags": {
+        "sc": [
+          "跨境车险",
+          "等效先认",
+          "大湾区"
+        ],
+        "tc": [
+          "跨境車險",
+          "等效先認",
+          "大灣區"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2024-11-15T10:00:00+08:00",
+      "originalUrl": "https://www.legco.gov.hk/yr2025/chinese/counmtg/papers/cm20251022-sp104-c.pdf"
+    },
+    {
+      "id": "ia-fintech-week-202410",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "保监局于香港金融科技周 2024 举办「保险科技论坛」",
+        "tc": "保監局於香港金融科技周 2024 舉辦「保險科技論壇」"
+      },
+      "summary": {
+        "sc": "2024 年 10 月 29 日，保监局与投资推广署合办、于香港金融科技周 2024 第二天的「保险科技论坛」揭幕，汇聚业界领袖及科技公司，分享保险科技与监管创新的最新见解。",
+        "tc": "2024 年 10 月 29 日，保監局與投資推廣署合辦、於香港金融科技周 2024 第二天的「保險科技論壇」揭幕，匯聚業界領袖及科技公司，分享保險科技與監管創新的最新見解。"
+      },
+      "why": {
+        "sc": "监管机构连续第二年举办保险科技论坛=官方对保险+科技融合的重视在制度化。对 IFA：这是了解港险科技应用方向（AI/InsurTech）的风向标事件。",
+        "tc": "監管機構連續第二年舉辦保險科技論壇=官方對保險+科技融合的重視在制度化。對 IFA：這是了解港險科技應用方向的風向標事件。"
+      },
+      "actions": {
+        "front": {
+          "sc": "保险科技论坛=行业科技应用的风向标",
+          "tc": "保險科技論壇=行業科技應用的風向標"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "保监局 · 2024年10月29日",
+        "lang": "sc"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "tech",
+        "insurtech"
+      ],
+      "tags": {
+        "sc": [
+          "金融科技周",
+          "保险科技",
+          "论坛"
+        ],
+        "tc": [
+          "金融科技周",
+          "保險科技",
+          "論壇"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2024-10-29T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/sc/infocenter/press_releases/20241029.html"
+    },
+    {
       "id": "manulife-hiv-coverage-2024",
       "clusterCount": 1,
       "score": 70,
@@ -18949,6 +19078,68 @@
       "contentKind": "news",
       "publishedAt": "2024-10-15T10:00:00+08:00",
       "originalUrl": "https://www.manulife.com.hk/en/about-us/newsroom.html"
+    },
+    {
+      "id": "prudential-vhis-digital-202410",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "pending",
+      "sourceTier": "insurer",
+      "sourceKey": "prudential",
+      "title": {
+        "sc": "保诚推出「自主医保计划」及综合数码服务平台",
+        "tc": "保誠推出「自主醫保計劃」及綜合數碼服務平台"
+      },
+      "summary": {
+        "sc": "2024 年 10 月前后，保诚香港推出「自主医保计划」「灵活自主医保计划」，并上线综合数码服务平台，全力支持自愿医保计划（VHIS）。健康保险产品线+数码服务双线升级。",
+        "tc": "2024 年 10 月前後，保誠香港推出「自主醫保計劃」「靈活自主醫保計劃」，並上線綜合數碼服務平台，全力支持自願醫保計劃（VHIS）。"
+      },
+      "why": {
+        "sc": "头部保司加码自愿医保=健康保障产品的竞争正在数字化。VHIS 是香港医疗险的基座产品，保诚的布局说明这个赛道的产品力和服务力都在升级。",
+        "tc": "頭部保司加碼自願醫保=健康保障產品的競爭正在數字化。VHIS 是香港醫療險的基座產品。"
+      },
+      "actions": {
+        "front": {
+          "sc": "VHIS产品升级=医疗险竞争数字化",
+          "tc": "VHIS產品升級=醫療險競爭數字化"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "保诚香港 · 2024年10月",
+        "lang": "sc"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "product",
+        "health",
+        "tech"
+      ],
+      "tags": {
+        "sc": [
+          "保诚",
+          "自愿医保",
+          "VHIS"
+        ],
+        "tc": [
+          "保誠",
+          "自願醫保",
+          "VHIS"
+        ]
+      },
+      "contentKind": "product_notice",
+      "publishedAt": "2024-10-10T10:00:00+08:00",
+      "originalUrl": "https://www.prudential.com.hk/tc/about-us/newsroom/"
     },
     {
       "id": "ia-20240923-license-fee",
