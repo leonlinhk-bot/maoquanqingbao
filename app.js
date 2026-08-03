@@ -25912,7 +25912,7 @@ window.HKII_DATA = {
       const sb = (b.score||0)*0.7 + ((b.rolesImpact||{}).front||0)*(roleWeights.front||0) + ((b.rolesImpact||{}).midback||0)*(roleWeights.midback||0) + ((b.rolesImpact||{}).lead||0)*(roleWeights.lead||0) + ((b.rolesImpact||{}).cross||0)*(roleWeights.cross||0);
       return sb - sa;
     });
-    return {items:arr.slice(0,50), tot:arr.length, page:1, pageSize:50, pages:1};
+    return arr.slice(0,50);
   }
   // 收藏：支持标签筛选；筛选不改变排序键
     if (forceTime || true) {
@@ -25978,14 +25978,15 @@ function fmtDay(iso){
     </article>`;
   }
   const _dayCollapsed = {};
-  function feed(items){
+  function feed(items, opts){
     const t=T();
-    if(!items.length) return `<div class="empty">${t.empty}</div>`;
-    const sorted = items.slice().sort(byPublishedDesc);
+    if(!items || !items.length) return `<div class="empty">${t.empty}</div>`;
+    const preserve = opts && opts.preserveOrder;
+    const sorted = preserve ? items.slice() : items.slice().sort(byPublishedDesc);
     const map=new Map();
     sorted.forEach(it=>{const d=fmtDay(it.publishedAt); if(!map.has(d.key)) map.set(d.key,{meta:d,items:[]}); map.get(d.key).items.push(it);});
     const groups = [...map.values()].sort((a,b)=> (b.meta.key||"").localeCompare(a.meta.key||""));
-    groups.forEach(g=> g.items.sort(byPublishedDesc));
+    groups.forEach(g=> { if(!preserve) g.items.sort(byPublishedDesc); });
     return groups.map(g=>{
       const collapsed = _dayCollapsed[g.meta.key];
       return `<div class="day-head" data-day-toggle="${g.meta.key}" style="cursor:pointer">
@@ -26161,7 +26162,7 @@ function fmtDay(iso){
       else if(state.role==='lead'){roleWeights.lead=3;roleWeights.front=1;roleWeights.cross=1;}
       else if(state.role==='cross'){roleWeights.cross=3;roleWeights.lead=1;roleWeights.front=1;}
       const pulseList = list({pulseSort:true, roleWeights:roleWeights});
-      html+=hot()+chips(state.themeFilter)+feed(pulseList);
+      html+=hot()+chips(state.themeFilter)+feed(pulseList, {preserveOrder:true});
     }
     else if(state.view==="all"){
       const cat = DATA.meta && DATA.meta.sourcesCatalog;
