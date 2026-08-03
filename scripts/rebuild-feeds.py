@@ -66,6 +66,34 @@ FEED.joinpath('featured.xml').write_text(f"""<?xml version="1.0" encoding="UTF-8
 n = len(items)
 data['meta']['windowNote'] = {'sc': f'本库{n}条。', 'tc': f'本庫{n}條。'}
 data['meta']['itemCount'] = n
+# Auto-refresh stats.intelligence from real data (keep other stats blocks untouched)
+try:
+    inte = data.setdefault('stats', {}).setdefault('intelligence', {})
+    from collections import Counter as _C
+    tiers = _C(i.get('sourceTier', '?') for i in items)
+    tier_labels = {'official': '监管一手', 'insurer': '保司公告', 'media': '媒体报道',
+                   'pro': '专业解读', 'research': '机构研究'}
+    inte['totalItems'] = n
+    inte['subtitle'] = {'sc': f'自动从 {n} 条资讯聚合 · sourceKey 标准化完成',
+                        'tc': f'自動從 {n} 條資訊聚合 · sourceKey 標準化完成'}
+    inte['sourceTiers'] = [{'tier': t, 'count': tiers.get(t, 0), 'label': tier_labels.get(t, t)}
+                           for t in ('official', 'insurer', 'media', 'pro', 'research') if tiers.get(t)]
+    themes = _C()
+    for i in items:
+        for t in (i.get('themes') or []):
+            themes[t] += 1
+    theme_labels = {'market': '市场', 'reg': '监管', 'compliance': '合规', 'firm': '保司',
+                    'offshore': '跨境', 'macro': '宏观', 'product': '产品', 'channel': '渠道',
+                    'tech': '科技', 'family-office': '家办', 'par': '分红', 'uw': '核保理赔',
+                    'career': '职业', 'identity-planning': '身份规划', 'global-allocation': '全球配置'}
+    inte['topThemes'] = [{'theme': t, 'count': c, 'label': theme_labels.get(t, t)}
+                         for t, c in themes.most_common(10)]
+    dates = sorted(i.get('publishedAt', '') for i in items if i.get('publishedAt'))
+    if dates:
+        inte['dateRange'] = {'sc': f"{dates[0][:10]} ~ {dates[-1][:10]}",
+                             'tc': f"{dates[0][:10]} ~ {dates[-1][:10]}"}
+except Exception as e:
+    print(f'[warn] intelligence auto-refresh failed: {e}')
 LIVE.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding='utf-8')
 
 app_path = ROOT / 'app.js'
