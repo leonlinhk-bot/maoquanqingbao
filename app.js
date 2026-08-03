@@ -2,10 +2,10 @@ window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-03T21:07:21+08:00",
-    "itemCount": 270,
+    "itemCount": 273,
     "windowNote": {
-      "sc": "本库270条。",
-      "tc": "本庫270條。"
+      "sc": "本库273条。",
+      "tc": "本庫273條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -16787,6 +16787,77 @@ window.HKII_DATA = {
       ]
     },
     {
+      "id": "crossborder-payment-link-202506",
+      "clusterCount": 1,
+      "score": 80,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "跨境支付通上线：内地居民可经人民币通道汇款至香港",
+        "tc": "跨境支付通上線：內地居民可經人民幣通道匯款至香港"
+      },
+      "summary": {
+        "sc": "2025 年 6 月，内地与香港联合推出跨境支付通（Cross-boundary Payment Link）。分南向通/北向通：内地居民可转账至香港，免去换汇环节、突破银行卡限制，目前不支持香港转回内地。这是内地资金合法流入香港的又一官方通道。",
+        "tc": "2025 年 6 月，內地與香港聯合推出跨境支付通（Cross-boundary Payment Link）。分南向通/北向通：內地居民可轉賬至香港，免去換匯環節。"
+      },
+      "why": {
+        "sc": "对 IFA 是获客基础设施级别的变化：内地客户资金出境从此多了一条官方直连通道。跨境支付通+理财通+QDII 三通道并行，意味着「钱怎么到香港」的问题在快速被制度化解。",
+        "tc": "對 IFA 是獲客基礎設施級別的變化：內地客戶資金出境從此多了一條官方直連通道。"
+      },
+      "actions": {
+        "front": {
+          "sc": "跨境支付通=客户资金入港的官方新管道",
+          "tc": "跨境支付通=客戶資金入港的官方新管道"
+        },
+        "midback": {
+          "sc": "人民币直汇=资金流向监管可见性提升",
+          "tc": "人民幣直匯=資金流向監管可見性提升"
+        },
+        "lead": {
+          "sc": "资金通道扩容=香港财富管理增量引擎",
+          "tc": "資金通道擴容=香港財富管理增量引擎"
+        },
+        "cross": {
+          "sc": "跨境支付通+理财通+QDII=三大通道格局成形",
+          "tc": "跨境支付通+理財通+QDII=三大通道格局成形"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 2,
+        "lead": 4,
+        "cross": 5
+      },
+      "source": {
+        "sc": "金管局 · 2025年6月",
+        "lang": "sc"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "offshore",
+        "global-allocation",
+        "monetary"
+      ],
+      "tags": {
+        "sc": [
+          "跨境支付通",
+          "资金通道",
+          "南向通"
+        ],
+        "tc": [
+          "跨境支付通",
+          "資金通道",
+          "南向通"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2025-06-20T10:00:00+08:00",
+      "originalUrl": "https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/cross-boundary-payment-link/"
+    },
+    {
       "id": "sunlife-2025-enhanced-savings",
       "clusterCount": 1,
       "score": 77,
@@ -17020,6 +17091,148 @@ window.HKII_DATA = {
       "themes": [
         "market"
       ]
+    },
+    {
+      "id": "mainland-capital-surge-2025",
+      "clusterCount": 1,
+      "score": 84,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "title": {
+        "sc": "中资加速入场香港保险：越秀17.68亿收购香港人寿/京东更名/腾讯FuSure获批长险牌照",
+        "tc": "中資加速入場香港保險：越秀17.68億收購香港人壽/京東更名/騰訊FuSure獲批長險牌照"
+      },
+      "summary": {
+        "sc": "2025 年香港保险业中资布局全面加速：① 越秀集团 17.68 亿港元收购香港人寿；② 京东收购经纪行并更名「京东保险顾问（香港）」；③ 腾讯旗下赋诚再保险（FuSure）获批长期保险牌照，业务线从一般保险扩展至多元化。国寿海外、中银香港、太平、太保、万通市场份额均上升。",
+        "tc": "2025 年香港保險業中資佈局全面加速：① 越秀集團 17.68 億港元收購香港人壽；② 京東收購經紀行並更名「京東保險顧問（香港）」；③ 騰訊旗下賦誠再保險（FuSure）獲批長期保險牌照。"
+      },
+      "why": {
+        "sc": "中资巨头（地产系/电商系/科技系）同时涌入=香港保险被视为确定性赛道。对 IFA：新玩家带来新渠道和新打法（京东/腾讯自带流量生态），渠道格局的洗牌已经开始。",
+        "tc": "中資巨頭（地產系/電商系/科技系）同時湧入=香港保險被視為確定性賽道。對 IFA：新玩家帶來新渠道和新打法，渠道格局的洗牌已經開始。"
+      },
+      "actions": {
+        "front": {
+          "sc": "中资巨头入场=渠道格局进入洗牌期",
+          "tc": "中資巨頭入場=渠道格局進入洗牌期"
+        },
+        "midback": {
+          "sc": "科技系玩家=经纪业务的数字化竞争者",
+          "tc": "科技系玩家=經紀業務的數字化競爭者"
+        },
+        "lead": {
+          "sc": "资本用真金白银投票=香港保险是确定性赛道",
+          "tc": "資本用真金白銀投票=香港保險是確定性賽道"
+        },
+        "cross": {
+          "sc": "中资网络+香港平台=跨境生态闭环加速",
+          "tc": "中資網絡+香港平台=跨境生態閉環加速"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 4,
+        "lead": 4,
+        "cross": 4
+      },
+      "source": {
+        "sc": "行业综合 · 2025年",
+        "lang": "sc"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "channel",
+        "firm",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "中资",
+          "越秀",
+          "京东",
+          "腾讯",
+          "渠道"
+        ],
+        "tc": [
+          "中資",
+          "越秀",
+          "京東",
+          "騰訊",
+          "渠道"
+        ]
+      },
+      "contentKind": "industry_news",
+      "publishedAt": "2025-05-28T10:00:00+08:00",
+      "originalUrl": "https://zhuanlan.zhihu.com/p/1996682970564694535"
+    },
+    {
+      "id": "redomiciliation-2025-act",
+      "clusterCount": 1,
+      "score": 79,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "govhk",
+      "title": {
+        "sc": "迁册制度条例 2025 年 5 月生效：宏利成首家迁册回港保险公司",
+        "tc": "遷冊制度條例 2025 年 5 月生效：宏利成首家遷冊回港保險公司"
+      },
+      "summary": {
+        "sc": "2025 年 5 月，香港《2025年公司（修订）（第2号）条例》生效，迁册制度正式落地——海外注册企业可便利迁册回港。宏利完成迁册流程，成为第一家迁册回港的保险公司；安盛亦公开宣布迁册计划（2026 年 1 月完成）。注意：迁册后可能无法开展百慕大离岸保险业务，对牌照型保险公司是权衡。",
+        "tc": "2025 年 5 月，香港《2025年公司（修訂）（第2號）條例》生效，遷冊制度正式落地。宏利完成遷冊流程，成為第一家遷冊回港的保險公司。"
+      },
+      "why": {
+        "sc": "迁册制度=香港抢公司的制度武器。保司从百慕大迁回香港，意味着监管重心、资本配置、业务重心全面移向香港——这是香港作为保险枢纽的实质性胜利。",
+        "tc": "遷冊制度=香港搶公司的制度武器。保司從百慕大遷回香港，意味著監管重心、資本配置、業務重心全面移向香港。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "迁册=保司监管主体向香港集中的信号",
+          "tc": "遷冊=保司監管主體向香港集中的信號"
+        },
+        "lead": {
+          "sc": "首家迁册完成=制度红利开始兑现",
+          "tc": "首家遷冊完成=制度紅利開始兌現"
+        },
+        "cross": {
+          "sc": "国际保司重仓香港=枢纽地位再确认",
+          "tc": "國際保司重倉香港=樞紐地位再確認"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 3,
+        "lead": 4,
+        "cross": 4
+      },
+      "source": {
+        "sc": "香港特区政府 · 2025年5月",
+        "lang": "sc"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reg",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "迁册",
+          "宏利",
+          "百慕大"
+        ],
+        "tc": [
+          "遷冊",
+          "宏利",
+          "百慕大"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2025-05-15T10:00:00+08:00",
+      "originalUrl": "https://www.fstb.gov.hk/en/blog/blog141225.htm"
     },
     {
       "id": "aia-q1-2025-vonb",

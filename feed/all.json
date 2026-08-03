@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-03T16:00:10Z",
-  "itemCount": 270,
+  "generatedAt": "2026-08-03T16:03:34Z",
+  "itemCount": 273,
   "items": [
     {
       "id": "hkma-sme-credit-aug03",
@@ -2827,6 +2827,20 @@
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/illustration_cap.html"
     },
     {
+      "id": "crossborder-payment-link-202506",
+      "title": "跨境支付通上线：内地居民可经人民币通道汇款至香港",
+      "sourceTier": "official",
+      "themes": [
+        "offshore",
+        "global-allocation",
+        "monetary"
+      ],
+      "publishedAt": "2025-06-20T10:00:00+08:00",
+      "score": 80,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=crossborder-payment-link-202506",
+      "originalUrl": "https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/cross-boundary-payment-link/"
+    },
+    {
       "id": "sunlife-2025-enhanced-savings",
       "title": "Sun Life永明推出升级版储蓄保险计划系列（永越多元货币II）。",
       "sourceTier": "insurer",
@@ -2861,6 +2875,33 @@
       "score": 86,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fstb-2024-density",
       "originalUrl": "https://www.fstb.gov.hk/tc/financial_ser/insurance-industry.htm"
+    },
+    {
+      "id": "mainland-capital-surge-2025",
+      "title": "中资加速入场香港保险：越秀17.68亿收购香港人寿/京东更名/腾讯FuSure获批长险牌照",
+      "sourceTier": "media",
+      "themes": [
+        "channel",
+        "firm",
+        "offshore"
+      ],
+      "publishedAt": "2025-05-28T10:00:00+08:00",
+      "score": 84,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=mainland-capital-surge-2025",
+      "originalUrl": "https://zhuanlan.zhihu.com/p/1996682970564694535"
+    },
+    {
+      "id": "redomiciliation-2025-act",
+      "title": "迁册制度条例 2025 年 5 月生效：宏利成首家迁册回港保险公司",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "firm"
+      ],
+      "publishedAt": "2025-05-15T10:00:00+08:00",
+      "score": 79,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=redomiciliation-2025-act",
+      "originalUrl": "https://www.fstb.gov.hk/en/blog/blog141225.htm"
     },
     {
       "id": "aia-q1-2025-vonb",
