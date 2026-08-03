@@ -2,10 +2,10 @@ window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-03T21:07:21+08:00",
-    "itemCount": 276,
+    "itemCount": 280,
     "windowNote": {
-      "sc": "本库276条。",
-      "tc": "本庫276條。"
+      "sc": "本库280条。",
+      "tc": "本庫280條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -14629,6 +14629,70 @@ window.HKII_DATA = {
       ]
     },
     {
+      "id": "boclife-2025-record",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "boclife",
+      "title": {
+        "sc": "中银人寿 2025 全年新造标准保费 258 亿港元，按年跃升近 5 成创新高",
+        "tc": "中銀人壽 2025 全年新造標準保費 258 億港元，按年躍升近 5 成創新高"
+      },
+      "summary": {
+        "sc": "中银人寿 2025 年业务回顾：全年新造标准保费达 258 亿港元，按年跃升近 5 成，创公司历史新高，表现优于整体市场。持续深耕中银香港渠道，连续多年保持香港网上人寿保险销量市场第一。",
+        "tc": "中銀人壽 2025 年業務回顧：全年新造標準保費達 258 億港元，按年躍升近 5 成，創公司歷史新高。連續多年保持香港網上人壽保險銷量市場第一。"
+      },
+      "why": {
+        "sc": "中银人寿是银保渠道+线上直销双模式标杆。258 亿标准保费说明银行系保司正在吃掉可观份额——渠道格局里银保的力量被低估了。",
+        "tc": "中銀人壽是銀保渠道+線上直銷雙模式標桿。258 億標準保費說明銀行系保司正在吃掉可觀份額。"
+      },
+      "actions": {
+        "front": {
+          "sc": "银保系258亿=银行渠道的真实力量",
+          "tc": "銀保系258億=銀行渠道的真實力量"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "银行系保司崛起=渠道格局再平衡",
+          "tc": "銀行系保司崛起=渠道格局再平衡"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 3,
+        "cross": 2
+      },
+      "source": {
+        "sc": "中银人寿 · 2025年",
+        "lang": "sc"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "channel",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "中银人寿",
+          "标准保费",
+          "银保"
+        ],
+        "tc": [
+          "中銀人壽",
+          "標準保費",
+          "銀保"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2025-12-15T10:00:00+08:00",
+      "originalUrl": "https://www.boclife.com.hk/sc/news/key-summary-of-boc-life2025-business-review-and-outlook.html"
+    },
+    {
       "id": "jpmorgan-2026-outlook",
       "clusterCount": 1,
       "score": 83,
@@ -15780,6 +15844,67 @@ window.HKII_DATA = {
       "originalUrl": "https://files.hkfi.org.hk/monthly%20brief/2025/e_202509.pdf"
     },
     {
+      "id": "ctflife-artisan-heritage2-2025",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "pending",
+      "sourceTier": "insurer",
+      "sourceKey": "ctflife",
+      "title": {
+        "sc": "周大福人寿推出「匠心·传承」储蓄寿险计划2 瞄准传承需求",
+        "tc": "周大福人壽推出「匠心·傳承」儲蓄壽險計劃2 瞄準傳承需求"
+      },
+      "summary": {
+        "sc": "周大福人寿（CTF Life）推出「匠心·传承」储蓄寿险计划 2，聚焦财富传承需求，依托周大福集团生态圈资源提供储蓄+传承一体化方案。公司扎根香港 40 年，连续多年获惠誉/穆迪高评级。",
+        "tc": "周大福人壽（CTF Life）推出「匠心·傳承」儲蓄壽險計劃 2，聚焦財富傳承需求，依託周大福集團生態圈資源提供儲蓄+傳承一體化方案。"
+      },
+      "why": {
+        "sc": "周大福人寿正在从「更名后的新人」变成「传承赛道的主力」。匠心传承 2 是其品牌升级后的旗舰储蓄产品，代表中资生态圈玩家的产品打法。",
+        "tc": "周大福人壽正在從「更名後的新人」變成「傳承賽道的主力」。匠心傳承 2 是其品牌升級後的旗艦儲蓄產品。"
+      },
+      "actions": {
+        "front": {
+          "sc": "匠心传承2=中资系传承产品的代表",
+          "tc": "匠心傳承2=中資系傳承產品的代表"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "周大福人寿 · 2025年",
+        "lang": "sc"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "周大福人寿",
+          "匠心传承",
+          "储蓄"
+        ],
+        "tc": [
+          "周大福人壽",
+          "匠心傳承",
+          "儲蓄"
+        ]
+      },
+      "contentKind": "product_notice",
+      "publishedAt": "2025-09-10T10:00:00+08:00",
+      "originalUrl": "https://www.ctflife.com.hk/sc"
+    },
+    {
       "id": "manulife-20250902-hospitals",
       "clusterCount": 1,
       "score": 76,
@@ -16097,6 +16222,74 @@ window.HKII_DATA = {
       "themes": [
         "market"
       ]
+    },
+    {
+      "id": "cpic-incremental-whole-life-2025",
+      "clusterCount": 1,
+      "score": 76,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "cpic",
+      "title": {
+        "sc": "太保寿险香港推出「世代鑫享」增额终身寿险：内地热卖产品引入香港",
+        "tc": "太保壽險香港推出「世代鑫享」增額終身壽險：內地熱賣產品引入香港"
+      },
+      "summary": {
+        "sc": "中国太保寿险香港在香港市场推出首只增额终身寿险产品「世代鑫享增额终身寿险计划」，将内地热卖的增额寿险引入香港，让注重长期稳健增值的客户多一个选择。太保香港新单保费从 2022 年 2,800 万港元飙升至 2024 年 11.5 亿港元，两年增长近 40 倍。",
+        "tc": "中國太保壽險香港在香港市場推出首隻增額終身壽險產品「世代鑫享增額終身壽險計劃」，將內地熱賣的增額壽險引入香港。太保香港新單保費從 2022 年 2,800 萬港元飆升至 2024 年 11.5 億港元。"
+      },
+      "why": {
+        "sc": "「内地产品反向输出到香港」——增额终身寿是内地 2023-2024 最热的产品形态，太保把它搬到香港。对 IFA：这是理解「内地客户要什么」的活教材，也是产品创新的新方向。",
+        "tc": "「內地產品反向輸出到香港」——增額終身壽是內地 2023-2024 最熱的產品形態，太保把它搬到香港。這是理解「內地客戶要什麼」的活教材。"
+      },
+      "actions": {
+        "front": {
+          "sc": "增额终身寿入港=内地产品形态的香港化",
+          "tc": "增額終身壽入港=內地產品形態的香港化"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "太保40倍增长=中资保司的起飞曲线",
+          "tc": "太保40倍增長=中資保司的起飛曲線"
+        },
+        "cross": {
+          "sc": "内地热卖产品+香港平台=中资保司的差异化打法",
+          "tc": "內地熱賣產品+香港平台=中資保司的差異化打法"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 3,
+        "cross": 4
+      },
+      "source": {
+        "sc": "太保寿险香港 · 2025年",
+        "lang": "sc"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "product",
+        "firm",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "太保",
+          "增额终身寿",
+          "世代鑫享"
+        ],
+        "tc": [
+          "太保",
+          "增額終身壽",
+          "世代鑫享"
+        ]
+      },
+      "contentKind": "product_notice",
+      "publishedAt": "2025-08-20T10:00:00+08:00",
+      "originalUrl": "https://www.time-weekly.com/post/317263"
     },
     {
       "id": "dlapiper-202508-commission",
@@ -17233,6 +17426,69 @@ window.HKII_DATA = {
       "contentKind": "press",
       "publishedAt": "2025-05-15T10:00:00+08:00",
       "originalUrl": "https://www.fstb.gov.hk/en/blog/blog141225.htm"
+    },
+    {
+      "id": "fwd-q1-2025-csm",
+      "clusterCount": 1,
+      "score": 73,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "fwd",
+      "title": {
+        "sc": "富卫 2025 Q1 新业务合约服务边际 +55%：港澳市场双位数增长",
+        "tc": "富衛 2025 Q1 新業務合約服務邊際 +55%：港澳市場雙位數增長"
+      },
+      "summary": {
+        "sc": "富卫集团 2025 年首季新业务表现强劲：新业务合约服务边际（CSM）按年增长 55% 至 4.65 亿美元。香港及澳门市场主要业务指标均录得双位数增长，受惠于高净值市场扩张。",
+        "tc": "富衛集團 2025 年首季新業務表現強勁：新業務合約服務邊際（CSM）按年增長 55% 至 4.65 億美元。香港及澳門市場主要業務指標均錄得雙位數增長。"
+      },
+      "why": {
+        "sc": "富卫是港险市场增长最快的非巨头玩家，其 CSM 增速是判断新兴保司势头的指标。+55% 说明高净值+指数型产品策略正在兑现。",
+        "tc": "富衛是港險市場增長最快的非巨頭玩家，其 CSM 增速是判斷新興保司勢頭的指標。+55% 說明高淨值+指數型產品策略正在兌現。"
+      },
+      "actions": {
+        "front": {
+          "sc": "富卫CSM+55%=高净值策略正在兑现",
+          "tc": "富衛CSM+55%=高淨值策略正在兌現"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "富卫集团 · 2025年5月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "firm",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "富卫",
+          "CSM",
+          "Q1",
+          "业绩"
+        ],
+        "tc": [
+          "富衛",
+          "CSM",
+          "Q1",
+          "業績"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2025-05-08T10:00:00+08:00",
+      "originalUrl": "https://www.fwd.com/zh/newsroom/press-releases/FWD-Group-reports-exceptionally-strong-first-quarter-new-business-update/"
     },
     {
       "id": "aia-q1-2025-vonb",
