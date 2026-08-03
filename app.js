@@ -2,10 +2,10 @@ window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-03T21:07:21+08:00",
-    "itemCount": 267,
+    "itemCount": 270,
     "windowNote": {
-      "sc": "本库267条。",
-      "tc": "本庫267條。"
+      "sc": "本库270条。",
+      "tc": "本庫270條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -17022,6 +17022,75 @@ window.HKII_DATA = {
       ]
     },
     {
+      "id": "aia-q1-2025-vonb",
+      "clusterCount": 1,
+      "score": 77,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "aia",
+      "title": {
+        "sc": "友邦 2025 Q1 新业务价值 +13%：香港市场 MCV 带动增长",
+        "tc": "友邦 2025 Q1 新業務價值 +13%：香港市場 MCV 帶動增長"
+      },
+      "summary": {
+        "sc": "2025 年 4 月 30 日，友邦集团公布 2025 年首季新业务亮点：VONB 按固定汇率计增长 13%。香港业务在本地及内地访客（MCV）双引擎带动下录得强劲增长，继续保持市场第一。",
+        "tc": "2025 年 4 月 30 日，友邦集團公佈 2025 年首季新業務亮點：VONB 按固定匯率計增長 13%。香港業務在本地及內地訪客（MCV）雙引擎帶動下錄得強勁增長。"
+      },
+      "why": {
+        "sc": "友邦是香港市场头号保司，其季度 VONB 是行业温度的即时计。Q1 +13% 说明 2025 年初跨境需求仍在高位，这是 IFA 判断市场节奏的重要锚点。",
+        "tc": "友邦是香港市場頭號保司，其季度 VONB 是行業溫度的即時計。Q1 +13% 說明 2025 年初跨境需求仍在高位。"
+      },
+      "actions": {
+        "front": {
+          "sc": "友邦VONB+13%=市场头部仍在高速扩张",
+          "tc": "友邦VONB+13%=市場頭部仍在高速擴張"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "香港双引擎增长=代理渠道的机会窗口",
+          "tc": "香港雙引擎增長=代理渠道的機會窗口"
+        },
+        "cross": {
+          "sc": "MCV继续是香港增长主线",
+          "tc": "MCV繼續是香港增長主線"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 3,
+        "cross": 3
+      },
+      "source": {
+        "sc": "友邦集团 · 2025年4月30日",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "firm",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "友邦",
+          "VONB",
+          "Q1",
+          "业绩"
+        ],
+        "tc": [
+          "友邦",
+          "VONB",
+          "Q1",
+          "業績"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2025-04-30T10:00:00+08:00",
+      "originalUrl": "https://www.aia.com/content/dam/group-wise/en/docs/investor-relations/2025/AIA%20Group%202025%20Q1%20New%20Business%20Highlights%20(Eng).pdf"
+    },
+    {
       "id": "manulife-20250428-ci",
       "clusterCount": 1,
       "score": 82,
@@ -17178,6 +17247,77 @@ window.HKII_DATA = {
       "themes": [
         "market"
       ]
+    },
+    {
+      "id": "ia-mcv-data-gap-2025",
+      "clusterCount": 1,
+      "score": 82,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "保监局停止披露内地访客新造保费细分：MCV 数据进入「盲区」",
+        "tc": "保監局停止披露內地訪客新造保費細分：MCV 數據進入「盲區」"
+      },
+      "summary": {
+        "sc": "自 2025 年 Q1 起，保监局临时统计不再披露内地访客（MCV）新造保费的细分数据。最后一个完整口径是 2025 年 4 月公布的 2024 全年数据：内地访客新造保费 628 亿港元，占个人新单 28.6%（终身寿险 59%、危疾 28%、医疗 5%）。此后市场只能依赖保司自愿披露估算。",
+        "tc": "自 2025 年 Q1 起，保監局臨時統計不再披露內地訪客（MCV）新造保費的細分數據。最後一個完整口徑是 2025 年 4 月公佈的 2024 全年數據：內地訪客新造保費 628 億港元，佔個人新單 28.6%。"
+      },
+      "why": {
+        "sc": "这是对 IFA 影响最深的数据变化之一：MCV 是香港保险增长的核心引擎，但官方不再给细分数据。市场进入「盲飞」状态——所有 MCV 估算都成了二手解读。理解这个缺口，才能看懂为什么市场上各种「内地客保费」数字互相矛盾。",
+        "tc": "這是對 IFA 影響最深的數據變化之一：MCV 是香港保險增長的核心引擎，但官方不再給細分數據。市場進入「盲飛」狀態。"
+      },
+      "actions": {
+        "front": {
+          "sc": "MCV数据盲区=引以为据时要特别标注估算口径",
+          "tc": "MCV數據盲區=引以為據時要特別標注估算口徑"
+        },
+        "midback": {
+          "sc": "保司自愿披露=唯一替代数据源",
+          "tc": "保司自願披露=唯一替代數據源"
+        },
+        "lead": {
+          "sc": "官方口径缺失=行业叙事更容易失真",
+          "tc": "官方口徑缺失=行業敘事更容易失真"
+        },
+        "cross": {
+          "sc": "跨境需求真实规模成谜",
+          "tc": "跨境需求真實規模成謎"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 3,
+        "lead": 3,
+        "cross": 5
+      },
+      "source": {
+        "sc": "保监局 · 2025年4月起",
+        "lang": "sc"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "market",
+        "offshore",
+        "statistics"
+      ],
+      "tags": {
+        "sc": [
+          "MCV",
+          "内地访客",
+          "数据缺口"
+        ],
+        "tc": [
+          "MCV",
+          "內地訪客",
+          "數據缺口"
+        ]
+      },
+      "contentKind": "stats",
+      "publishedAt": "2025-04-15T10:00:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/hong-kong-insurance-market-extends-growth-run-as-data-gap-widens-583673.aspx"
     },
     {
       "id": "axa-20250409-gba-med",
@@ -18040,6 +18180,70 @@ window.HKII_DATA = {
         "reg"
       ],
       "contentKind": "circular"
+    },
+    {
+      "id": "manulife-ai-cohort-202501",
+      "clusterCount": 1,
+      "score": 76,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "保监局 AI Cohort Programme：宏利香港成首批核心参与保司",
+        "tc": "保監局 AI Cohort Programme：宏利香港成首批核心參與保司"
+      },
+      "summary": {
+        "sc": "2025 年 1 月，宏利香港被选为保监局 AI Cohort Programme 的核心参与保险公司。该计划聚焦将 AI 应用于核保、分销、客户服务与理赔。宏利披露的工具包括：24 小时双语 AI 客服助理、面向代理人的数据驱动销售工具、AI 核保问答助理，并与阿里云合作共建 AI 应用。",
+        "tc": "2025 年 1 月，宏利香港被選為保監局 AI Cohort Programme 的核心參與保險公司。該計劃聚焦將 AI 應用於核保、分銷、客戶服務與理賠。"
+      },
+      "why": {
+        "sc": "监管主导的 AI 试点=官方认可的 AI 应用方向。对 IFA：AI 正在进入核保与客服，前线工作方式将被重塑——理解哪些环节被 AI 接管，是未来 3 年的基本功。",
+        "tc": "監管主導的 AI 試點=官方認可的 AI 應用方向。對 IFA：AI 正在進入核保與客服，前線工作方式將被重塑。"
+      },
+      "actions": {
+        "front": {
+          "sc": "AI客服/核保助理=保司服务效率的加速器",
+          "tc": "AI客服/核保助理=保司服務效率的加速器"
+        },
+        "midback": {
+          "sc": "AI治理框架=监管关注的重点",
+          "tc": "AI治理框架=監管關注的重點"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 3,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "保监局 / 宏利香港 · 2025年1月",
+        "lang": "sc"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "tech",
+        "insurtech"
+      ],
+      "tags": {
+        "sc": [
+          "AI",
+          "宏利",
+          "监管试点"
+        ],
+        "tc": [
+          "AI",
+          "宏利",
+          "監管試點"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-01-20T10:00:00+08:00",
+      "originalUrl": "https://www.prnewswire.com/apac/news-releases/manulife-hong-kong-named-core-participating-insurer-in-insurance-authoritys-ai-cohort-programme-302800122.html"
     },
     {
       "id": "linkedin-2024-trends",

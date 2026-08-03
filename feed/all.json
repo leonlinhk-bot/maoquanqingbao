@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-03T13:13:39Z",
-  "itemCount": 267,
+  "generatedAt": "2026-08-03T16:00:10Z",
+  "itemCount": 270,
   "items": [
     {
       "id": "hkma-sme-credit-aug03",
@@ -2863,6 +2863,19 @@
       "originalUrl": "https://www.fstb.gov.hk/tc/financial_ser/insurance-industry.htm"
     },
     {
+      "id": "aia-q1-2025-vonb",
+      "title": "友邦 2025 Q1 新业务价值 +13%：香港市场 MCV 带动增长",
+      "sourceTier": "insurer",
+      "themes": [
+        "firm",
+        "market"
+      ],
+      "publishedAt": "2025-04-30T10:00:00+08:00",
+      "score": 77,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-q1-2025-vonb",
+      "originalUrl": "https://www.aia.com/content/dam/group-wise/en/docs/investor-relations/2025/AIA%20Group%202025%20Q1%20New%20Business%20Highlights%20(Eng).pdf"
+    },
+    {
       "id": "manulife-20250428-ci",
       "title": "宏利推出两款全新危疾计划：宏健守护+宏伴护航危疾入息保障。",
       "sourceTier": "insurer",
@@ -2885,6 +2898,20 @@
       "score": 83,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2025-d-sii-designation",
       "originalUrl": "https://beinsure.com/news/hong-kong-names-aia-prudential-asia/"
+    },
+    {
+      "id": "ia-mcv-data-gap-2025",
+      "title": "保监局停止披露内地访客新造保费细分：MCV 数据进入「盲区」",
+      "sourceTier": "official",
+      "themes": [
+        "market",
+        "offshore",
+        "statistics"
+      ],
+      "publishedAt": "2025-04-15T10:00:00+08:00",
+      "score": 82,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-mcv-data-gap-2025",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/hong-kong-insurance-market-extends-growth-run-as-data-gap-widens-583673.aspx"
     },
     {
       "id": "axa-20250409-gba-med",
@@ -3025,6 +3052,19 @@
       "score": 79,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20250206-claims-mgmt",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_20250206.pdf"
+    },
+    {
+      "id": "manulife-ai-cohort-202501",
+      "title": "保监局 AI Cohort Programme：宏利香港成首批核心参与保司",
+      "sourceTier": "official",
+      "themes": [
+        "tech",
+        "insurtech"
+      ],
+      "publishedAt": "2025-01-20T10:00:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-ai-cohort-202501",
+      "originalUrl": "https://www.prnewswire.com/apac/news-releases/manulife-hong-kong-named-core-participating-insurer-in-insurance-authoritys-ai-cohort-programme-302800122.html"
     },
     {
       "id": "linkedin-2024-trends",
