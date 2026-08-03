@@ -1,9 +1,22 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-03T16:14:07Z",
-  "itemCount": 280,
+  "generatedAt": "2026-08-03T16:18:07Z",
+  "itemCount": 281,
   "items": [
+    {
+      "id": "boclife-ai-cohort-2026",
+      "title": "中银人寿加入保监局 AI 促进计划：深化负责任的 AI 应用",
+      "sourceTier": "insurer",
+      "themes": [
+        "tech",
+        "insurtech"
+      ],
+      "publishedAt": "2026-08-05T10:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=boclife-ai-cohort-2026",
+      "originalUrl": "https://www.boclife.com.hk/tc/news/boc-life-joins-insurance-authority-s-ai-cohort-programme-to-advance-responsible-ai-adoption-and-elevate-customer-experience.html"
+    },
     {
       "id": "hkma-sme-credit-aug03",
       "title": "HKMA：Q2中小企业信贷状况总体稳定 78%认为审批取态相近或更易",
@@ -20,7 +33,7 @@
     {
       "id": "goldman-aia-1h26-aug03",
       "title": "高盛维持友邦「买入」：料上半年NBV+15%至32.54亿美元",
-      "sourceTier": "pro",
+      "sourceTier": "media",
       "themes": [
         "results",
         "valuation"
@@ -828,7 +841,7 @@
     {
       "id": "agentic-ai-insurance-jul14",
       "title": "学术前沿：Agentic AI时代的保险承保、定价与端到端自动化框架",
-      "sourceTier": "pro",
+      "sourceTier": "research",
       "themes": [
         "agentic-ai",
         "underwriting",
@@ -842,7 +855,7 @@
     {
       "id": "insurtech-funding-q1-2026",
       "title": "全球InsurTech融资回暖：Q1融资16.3亿美元，资金流向AI基础设施",
-      "sourceTier": "pro",
+      "sourceTier": "media",
       "themes": [
         "insurtech",
         "funding",
@@ -2423,7 +2436,7 @@
     {
       "id": "ebact-2025-hk-market",
       "title": "香港一般保险市场分析：2025年9亿→2029年09亿 CAGR 5.1%。",
-      "sourceTier": "media",
+      "sourceTier": "research",
       "themes": [
         "market"
       ],
@@ -2664,7 +2677,7 @@
     {
       "id": "ia-2025-hkfi-monthly-brief",
       "title": "香港保联 2025 年 9 月产品简报：多款新产品聚焦健康与退休",
-      "sourceTier": "pro",
+      "sourceTier": "official",
       "themes": [
         "product"
       ],

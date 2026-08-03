@@ -1,11 +1,11 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-08-03T21:07:21+08:00",
-    "itemCount": 280,
+    "generatedAt": "2026-08-04T00:18:07+08:00",
+    "itemCount": 281,
     "windowNote": {
-      "sc": "本库280条。",
-      "tc": "本庫280條。"
+      "sc": "本库281条。",
+      "tc": "本庫281條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -169,6 +169,70 @@ window.HKII_DATA = {
   ],
   "items": [
     {
+      "id": "boclife-ai-cohort-2026",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "boclife",
+      "title": {
+        "sc": "中银人寿加入保监局 AI 促进计划：深化负责任的 AI 应用",
+        "tc": "中銀人壽加入保監局 AI 促進計劃：深化負責任的 AI 應用"
+      },
+      "summary": {
+        "sc": "中银人寿宣布参与保险业监管局「人工智能促进计划」（AI Cohort Programme），深化科技赋能、推动负责任的 AI 应用，提升客户体验。该计划由保监局主导，已覆盖 AIA、宏利、保诚、AXA 等主要保司。",
+        "tc": "中銀人壽宣佈參與保險業監管局「人工智能促進計劃」（AI Cohort Programme），深化科技賦能、推動負責任的 AI 應用，提升客戶體驗。"
+      },
+      "why": {
+        "sc": "AI Cohort 从「巨头俱乐部」扩展到银保系玩家=监管主导的 AI 试点正在全行业铺开。对 IFA：理解保司的 AI 布局方向（客服/核保/销售工具），是判断服务体验迭代的先行指标。",
+        "tc": "AI Cohort 從「巨頭俱樂部」擴展到銀保系玩家=監管主導的 AI 試點正在全行業鋪開。對 IFA：理解保司的 AI 佈局方向，是判斷服務體驗迭代的先行指標。"
+      },
+      "actions": {
+        "front": {
+          "sc": "银保系加入AI试点=全行业AI应用铺开",
+          "tc": "銀保系加入AI試點=全行業AI應用鋪開"
+        },
+        "midback": {
+          "sc": "负责任AI=监管关注的核心原则",
+          "tc": "負責任AI=監管關注的核心原則"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 3,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "中银人寿 · 2026年8月",
+        "lang": "sc"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "tech",
+        "insurtech"
+      ],
+      "tags": {
+        "sc": [
+          "AI",
+          "中银人寿",
+          "监管试点"
+        ],
+        "tc": [
+          "AI",
+          "中銀人壽",
+          "監管試點"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-08-05T10:00:00+08:00",
+      "originalUrl": "https://www.boclife.com.hk/tc/news/boc-life-joins-insurance-authority-s-ai-cohort-programme-to-advance-responsible-ai-adoption-and-elevate-customer-experience.html"
+    },
+    {
       "id": "hkma-sme-credit-aug03",
       "clusterCount": 1,
       "score": 85,
@@ -240,8 +304,8 @@ window.HKII_DATA = {
       "id": "goldman-aia-1h26-aug03",
       "clusterCount": 1,
       "score": 72,
-      "verifyStatus": "pending",
-      "sourceTier": "pro",
+      "verifyStatus": "verified",
+      "sourceTier": "media",
       "sourceKey": "aastocks:goldman-aia-20260803",
       "title": {
         "sc": "高盛维持友邦「买入」：料上半年NBV+15%至32.54亿美元",
@@ -310,7 +374,7 @@ window.HKII_DATA = {
       "id": "cyber-insurer-profit-aug03",
       "clusterCount": 1,
       "score": 70,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "sourceTier": "pro",
       "sourceKey": "insuranceasia:cyber-profit-20260803",
       "title": {
@@ -450,7 +514,7 @@ window.HKII_DATA = {
       "id": "jefferies-hk-channels-aug03",
       "clusterCount": 1,
       "score": 75,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "sourceTier": "pro",
       "sourceKey": "insuranceasia:jefferies-channels-20260803",
       "title": {
@@ -520,7 +584,7 @@ window.HKII_DATA = {
       "id": "aia-crossborder-care-aug03",
       "clusterCount": 1,
       "score": 72,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "sourceTier": "insurer",
       "sourceKey": "insuranceasia:aia-crossborder-20260803",
       "title": {
@@ -588,7 +652,7 @@ window.HKII_DATA = {
       "id": "fwd-cancer-claims-202608",
       "clusterCount": 1,
       "score": 71,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "sourceTier": "media",
       "sourceKey": "insuranceasia",
       "title": {
@@ -651,7 +715,7 @@ window.HKII_DATA = {
       "id": "mainland-insurers-tsimshatsui-202608",
       "clusterCount": 1,
       "score": 72,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "sourceTier": "media",
       "sourceKey": "insuranceasia",
       "title": {
@@ -718,7 +782,7 @@ window.HKII_DATA = {
       "id": "msig-claims-ratio-202608",
       "clusterCount": 1,
       "score": 74,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "sourceTier": "media",
       "sourceKey": "insuranceasia",
       "title": {
@@ -845,7 +909,7 @@ window.HKII_DATA = {
       "id": "jll-tsim-vacancy-aug01",
       "clusterCount": 1,
       "score": 68,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "sourceTier": "media",
       "sourceKey": "insuranceasia:jll-tsim-20260801",
       "title": {
@@ -1119,7 +1183,7 @@ window.HKII_DATA = {
       "id": "overseas-invest-reg-20260731",
       "clusterCount": 1,
       "score": 78,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "sourceTier": "official",
       "sourceKey": "state-council",
       "title": {
@@ -1402,7 +1466,7 @@ window.HKII_DATA = {
       "id": "ia-commission-caps-jul30",
       "clusterCount": 1,
       "score": 78,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "sourceTier": "pro",
       "sourceKey": "insuranceasia:creditsights-commission-20260730",
       "title": {
@@ -1472,7 +1536,7 @@ window.HKII_DATA = {
       "id": "msig-claims-947-jul30",
       "clusterCount": 1,
       "score": 75,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "sourceTier": "insurer",
       "sourceKey": "msig:claims-2025-20260730",
       "title": {
@@ -1846,7 +1910,7 @@ window.HKII_DATA = {
       "id": "cyber-mapping-circular-jul29",
       "clusterCount": 1,
       "score": 85,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "sourceTier": "official",
       "sourceKey": "hkma-sfc-ia-mpfa",
       "title": {
@@ -2563,7 +2627,7 @@ window.HKII_DATA = {
       "id": "cies-2year-20260727",
       "clusterCount": 1,
       "score": 82,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "sourceTier": "official",
       "sourceKey": "investhk-cies",
       "title": {
@@ -3721,7 +3785,7 @@ window.HKII_DATA = {
       "id": "offshore-trust-tax-20260724",
       "clusterCount": 1,
       "score": 85,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "sourceTier": "official",
       "sourceKey": "mof-sta",
       "title": {
@@ -4064,7 +4128,7 @@ window.HKII_DATA = {
       "id": "genai-sandbox-plus-jul17",
       "clusterCount": 1,
       "score": 88,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "sourceTier": "official",
       "sourceKey": "hkma-sfc-ia-mpfa",
       "title": {
@@ -4680,8 +4744,8 @@ window.HKII_DATA = {
       "id": "agentic-ai-insurance-jul14",
       "clusterCount": 1,
       "score": 70,
-      "verifyStatus": "pending",
-      "sourceTier": "pro",
+      "verifyStatus": "verified",
+      "sourceTier": "research",
       "sourceKey": "arxiv",
       "title": {
         "sc": "学术前沿：Agentic AI时代的保险承保、定价与端到端自动化框架",
@@ -4754,8 +4818,8 @@ window.HKII_DATA = {
       "id": "insurtech-funding-q1-2026",
       "clusterCount": 1,
       "score": 72,
-      "verifyStatus": "pending",
-      "sourceTier": "pro",
+      "verifyStatus": "verified",
+      "sourceTier": "media",
       "sourceKey": "fintechly",
       "title": {
         "sc": "全球InsurTech融资回暖：Q1融资16.3亿美元，资金流向AI基础设施",
@@ -5202,7 +5266,7 @@ window.HKII_DATA = {
       "id": "fstb-fo-tax-bill-20260708",
       "clusterCount": 1,
       "score": 88,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "sourceTier": "official",
       "sourceKey": "fstb",
       "title": {
@@ -5636,7 +5700,7 @@ window.HKII_DATA = {
       "id": "investhk-fo-2p0-20260706",
       "clusterCount": 1,
       "score": 90,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "sourceTier": "official",
       "sourceKey": "investhk",
       "title": {
@@ -5706,7 +5770,7 @@ window.HKII_DATA = {
       "id": "pcpd-ai-sandbox-jul06",
       "clusterCount": 1,
       "score": 85,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "sourceTier": "official",
       "sourceKey": "pcpd-dpo",
       "title": {
@@ -14326,7 +14390,7 @@ window.HKII_DATA = {
       "id": "ebact-2025-hk-market",
       "clusterCount": 1,
       "score": 76,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-07-28T21:00:00+08:00",
@@ -14389,7 +14453,7 @@ window.HKII_DATA = {
       "publishedAt": "2026-01-10T10:00:00+08:00",
       "originalUrl": "https://www.ebactuary.com/post/hong-kong-general-insurance-market-analysis-2025-2029-and-global-comparison",
       "sourceKey": "ebact:hk-market-2025",
-      "sourceTier": "media",
+      "sourceTier": "research",
       "rolesImpact": {
         "front": 0,
         "midback": 0,
@@ -15780,8 +15844,8 @@ window.HKII_DATA = {
       "id": "ia-2025-hkfi-monthly-brief",
       "clusterCount": 1,
       "score": 70,
-      "verifyStatus": "pending",
-      "sourceTier": "pro",
+      "verifyStatus": "verified",
+      "sourceTier": "official",
       "sourceKey": "hkfi",
       "title": {
         "sc": "香港保联 2025 年 9 月产品简报：多款新产品聚焦健康与退休",
@@ -15847,7 +15911,7 @@ window.HKII_DATA = {
       "id": "ctflife-artisan-heritage2-2025",
       "clusterCount": 1,
       "score": 74,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "sourceTier": "insurer",
       "sourceKey": "ctflife",
       "title": {
@@ -16532,7 +16596,7 @@ window.HKII_DATA = {
       "id": "fwd-iul-20250806",
       "clusterCount": 1,
       "score": 75,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "sourceTier": "insurer",
       "sourceKey": "fwd",
       "title": {
@@ -19339,7 +19403,7 @@ window.HKII_DATA = {
       "id": "prudential-vhis-digital-202410",
       "clusterCount": 1,
       "score": 72,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "sourceTier": "insurer",
       "sourceKey": "prudential",
       "title": {
@@ -21124,7 +21188,7 @@ window.HKII_DATA = {
       "id": "safe-crossborder-wmc-202402",
       "clusterCount": 1,
       "score": 75,
-      "verifyStatus": "pending",
+      "verifyStatus": "verified",
       "sourceTier": "official",
       "sourceKey": "safe",
       "title": {
