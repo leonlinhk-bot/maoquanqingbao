@@ -1,9 +1,87 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-03T16:42:47Z",
-  "itemCount": 281,
+  "generatedAt": "2026-08-04T10:17:44Z",
+  "itemCount": 287,
   "items": [
+    {
+      "id": "prudential-eason-brand-aug03",
+      "title": "保诚推全新品牌企划「诚诺，实现您心」 陈奕迅任品牌代言人",
+      "sourceTier": "insurer",
+      "themes": [
+        "brand",
+        "marketing"
+      ],
+      "publishedAt": "2026-08-03T10:00:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=prudential-eason-brand-aug03",
+      "originalUrl": "https://www.prudential.com.hk/tc/about-us/newsroom/prudential-launches-new-brand-campaign-featuring-eason-chan/"
+    },
+    {
+      "id": "sg-captive-pcc-aug04",
+      "title": "新加坡拟推保护型细胞公司框架 专属自保保险向中型企业开放",
+      "sourceTier": "media",
+      "themes": [
+        "captive",
+        "competition"
+      ],
+      "publishedAt": "2026-08-04T06:00:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sg-captive-pcc-aug04",
+      "originalUrl": "https://insuranceasia.com/exclusive/singapore-targets-captive-insurance-growth"
+    },
+    {
+      "id": "msig-cyber-sme-aug04",
+      "title": "MSIG为中小企业增网安保障 保单捆绑威胁监测与应急响应",
+      "sourceTier": "media",
+      "themes": [
+        "cyber",
+        "sme"
+      ],
+      "publishedAt": "2026-08-04T06:00:00+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=msig-cyber-sme-aug04",
+      "originalUrl": "https://insuranceasia.com/insurance/news/msig-adds-cyber-cover-small-firms-face-resource-gaps"
+    },
+    {
+      "id": "moodys-ai-distribution-aug04",
+      "title": "Moody's：零售财险分销是全金融业最受AI冲击环节 限期12-18个月",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "distribution"
+      ],
+      "publishedAt": "2026-08-04T10:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=moodys-ai-distribution-aug04",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/moodys-retail-pandc-distribution-faces-the-fastest-ai-disruption-of-any-financial-services-segment-584750.aspx"
+    },
+    {
+      "id": "hk-plan-rename-aug04",
+      "title": "港险产品集中更名：保诚20款产品8月24日启用新名 友邦中银人寿跟进",
+      "sourceTier": "media",
+      "themes": [
+        "compliance",
+        "product"
+      ],
+      "publishedAt": "2026-08-04T08:02:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hk-plan-rename-aug04",
+      "originalUrl": "http://news.qq.com/rain/a/20260804A042W600"
+    },
+    {
+      "id": "aon-indonesia-ceo-aug04",
+      "title": "Aon委任Stephen出任印尼业务CEO 前Zurich印尼首席核保官",
+      "sourceTier": "media",
+      "themes": [
+        "talent",
+        "channel"
+      ],
+      "publishedAt": "2026-08-04T12:17:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aon-indonesia-ceo-aug04",
+      "originalUrl": "https://insuranceasia.com/insurance/news/aon-names-stephen-new-ceo-indonesia-business"
+    },
     {
       "id": "boclife-ai-cohort-2026",
       "title": "中银人寿加入保监局 AI 促进计划：深化负责任的 AI 应用",
