@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-05T16:31:41Z",
-  "itemCount": 316,
+  "generatedAt": "2026-08-05T16:34:32Z",
+  "itemCount": 320,
   "items": [
     {
       "id": "china-hk-policy-tax-aug05",
@@ -343,6 +343,20 @@
       "score": 78,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fstb-captive-blog-202608",
       "originalUrl": "https://www.fstb.gov.hk/tc/blog/blog180825.htm"
+    },
+    {
+      "id": "hsbc-ai-claims-5min",
+      "title": "汇丰人寿投 2,000 万美元布局 AI：理赔支付时间缩短至 5 分钟",
+      "sourceTier": "media",
+      "themes": [
+        "tech",
+        "uw",
+        "firm"
+      ],
+      "publishedAt": "2026-08-01T10:00:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hsbc-ai-claims-5min",
+      "originalUrl": "https://finance.yahoo.com/news/hsbc-lifes-us-20-million-093000274.html"
     },
     {
       "id": "jll-tsim-vacancy-aug01",
@@ -1596,6 +1610,20 @@
       "originalUrl": "https://www.bain.com/insights/greater-bay-area-personal-financial-services-report-enabling-cross-boundary-lifestyles/"
     },
     {
+      "id": "ia-ai-cohort-10-members",
+      "title": "保监局 AI Cohort 扩展至 10 家：中银人寿、国寿海外、宏利国际加入",
+      "sourceTier": "media",
+      "themes": [
+        "tech",
+        "insurtech",
+        "reg"
+      ],
+      "publishedAt": "2026-06-15T10:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-ai-cohort-10-members",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/insurance-authority-adds-three-insurers-to-ai-cohort-programme-579133.aspx"
+    },
+    {
       "id": "ia-20260615-bloomberg-crackdown",
       "title": "Bloomberg：香港保险监管机构誓言打击违规者 — 跨境架构规避新规被点名警告。",
       "sourceTier": "media",
@@ -2684,6 +2712,19 @@
       "originalUrl": "https://www.ebactuary.com/post/hong-kong-general-insurance-market-analysis-2025-2029-and-global-comparison"
     },
     {
+      "id": "fubon-hk-2025",
+      "title": "富邦人寿香港：母企 2025 全年净利 625 亿新台币",
+      "sourceTier": "insurer",
+      "themes": [
+        "firm",
+        "market"
+      ],
+      "publishedAt": "2026-01-10T10:00:00+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fubon-hk-2025",
+      "originalUrl": "https://www.fubon.com/financialholdings/news/news_1260112_205991.htm"
+    },
+    {
       "id": "sztax-gba-202601",
       "title": "深圳 2026 年大湾区个税优惠：境外人才超 15% 税率部分可申请财政补贴",
       "sourceTier": "official",
@@ -3080,6 +3121,19 @@
       "score": 76,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=cpic-incremental-whole-life-2025",
       "originalUrl": "https://www.time-weekly.com/post/317263"
+    },
+    {
+      "id": "captive-insurers-6-202508",
+      "title": "香港专属自保公司增至 6 间：2025 年新增 2 间",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "firm"
+      ],
+      "publishedAt": "2025-08-18T10:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=captive-insurers-6-202508",
+      "originalUrl": "https://www.news.gov.hk/chi/2025/08/20250818/20250818_112221_353.html"
     },
     {
       "id": "dlapiper-202508-commission",

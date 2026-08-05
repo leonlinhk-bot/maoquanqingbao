@@ -2,10 +2,10 @@
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-06T18:08:00+08:00",
-    "itemCount": 316,
+    "itemCount": 320,
     "windowNote": {
-      "sc": "本库316条。",
-      "tc": "本庫316條。"
+      "sc": "本库320条。",
+      "tc": "本庫320條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -2010,6 +2010,73 @@
       "contentKind": "press",
       "publishedAt": "2026-08-01T10:00:00+08:00",
       "originalUrl": "https://www.fstb.gov.hk/tc/blog/blog180825.htm"
+    },
+    {
+      "id": "hsbc-ai-claims-5min",
+      "clusterCount": 1,
+      "score": 78,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "yahoofinance",
+      "title": {
+        "sc": "汇丰人寿投 2,000 万美元布局 AI：理赔支付时间缩短至 5 分钟",
+        "tc": "匯豐人壽投 2,000 萬美元佈局 AI：理賠支付時間縮短至 5 分鐘"
+      },
+      "summary": {
+        "sc": "汇丰人寿（HSBC Life）投资 2,000 万美元于 AI 应用，将保险理赔支付时间缩短至 5 分钟。这是银行系保司在 AI 客户体验赛道的标志性投入，显示 AI 正从后台效率工具变成前台客户体验的竞争武器。",
+        "tc": "匯豐人壽（HSBC Life）投資 2,000 萬美元於 AI 應用，將保險理賠支付時間縮短至 5 分鐘。AI 正從後台效率工具變成前台客戶體驗的競爭武器。"
+      },
+      "why": {
+        "sc": "理赔从「几天」到「5 分钟」=AI 对保险体验的质变。对 IFA：当汇丰这种巨头把 AI 体验做成标配，客户对「理赔快」的期望会被整体拉高——服务能力成了新的竞争维度。",
+        "tc": "理賠從「幾天」到「5 分鐘」=AI 對保險體驗的質變。當巨頭把 AI 體驗做成標配，服務能力成了新的競爭維度。"
+      },
+      "actions": {
+        "front": {
+          "sc": "5分钟理赔=客户体验新基准",
+          "tc": "5分鐘理賠=客戶體驗新基準"
+        },
+        "midback": {
+          "sc": "AI理赔=运营效率的指数级提升",
+          "tc": "AI理賠=運營效率的指數級提升"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 3,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Yahoo Finance · 2026年",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "tech",
+        "uw",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "汇丰",
+          "AI",
+          "理赔",
+          "5分钟"
+        ],
+        "tc": [
+          "匯豐",
+          "AI",
+          "理賠",
+          "5分鐘"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-01T10:00:00+08:00",
+      "originalUrl": "https://finance.yahoo.com/news/hsbc-lifes-us-20-million-093000274.html"
     },
     {
       "id": "jll-tsim-vacancy-aug01",
@@ -9116,6 +9183,71 @@
       "originalUrl": "https://www.bain.com/insights/greater-bay-area-personal-financial-services-report-enabling-cross-boundary-lifestyles/"
     },
     {
+      "id": "ia-ai-cohort-10-members",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "title": {
+        "sc": "保监局 AI Cohort 扩展至 10 家：中银人寿、国寿海外、宏利国际加入",
+        "tc": "保監局 AI Cohort 擴展至 10 家：中銀人壽、國壽海外、宏利國際加入"
+      },
+      "summary": {
+        "sc": "保监局 AI Cohort Programme 在 2026 年 6 月 15 日 AI Cohort 研讨会上新增 3 家核心参与保司（中银人寿、国寿海外、宏利国际），成员总数达 10 家，覆盖 AIA、AXA、宏利、保诚等主要市场玩家。每位参与者签署 AI Pledge，承诺负责任地使用 AI。",
+        "tc": "保監局 AI Cohort Programme 新增 3 家核心參與保司（中銀人壽、國壽海外、宏利國際），成員總數達 10 家，覆蓋 AIA、AXA、宏利、保誠等主要市場玩家。"
+      },
+      "why": {
+        "sc": "AI Cohort 一年内从 7 家扩到 10 家=监管主导的 AI 应用正在全行业铺开。AI Pledge（负责任 AI 承诺）会成为未来行业准入的隐性门槛——理解它，就能预判保司 AI 布局方向。",
+        "tc": "AI Cohort 一年內從 7 家擴到 10 家=監管主導的 AI 應用正在全行業鋪開。AI Pledge 會成為未來行業准入的隱性門檻。"
+      },
+      "actions": {
+        "front": {
+          "sc": "AI Cohort十家=全行业AI落地加速",
+          "tc": "AI Cohort十家=全行業AI落地加速"
+        },
+        "midback": {
+          "sc": "AI Pledge=负责任AI的行业标准",
+          "tc": "AI Pledge=負責任AI的行業標準"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 3,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "Insurance Business · 2026年6月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "tech",
+        "insurtech",
+        "reg"
+      ],
+      "tags": {
+        "sc": [
+          "AI Cohort",
+          "保监局",
+          "负责任AI"
+        ],
+        "tc": [
+          "AI Cohort",
+          "保監局",
+          "負責任AI"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-06-15T10:00:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/insurance-authority-adds-three-insurers-to-ai-cohort-programme-579133.aspx"
+    },
+    {
       "id": "ia-20260615-bloomberg-crackdown",
       "clusterCount": 1,
       "score": 88,
@@ -15773,6 +15905,67 @@
       ]
     },
     {
+      "id": "fubon-hk-2025",
+      "clusterCount": 1,
+      "score": 65,
+      "verifyStatus": "pending",
+      "sourceTier": "insurer",
+      "sourceKey": "fubon",
+      "title": {
+        "sc": "富邦人寿香港：母企 2025 全年净利 625 亿新台币",
+        "tc": "富邦人壽香港：母企 2025 全年淨利 625 億新台幣"
+      },
+      "summary": {
+        "sc": "富邦人寿（香港）母公司富邦金控 2025 年 12 月自结获利：富邦人寿全年税后净利 625.5 亿新台币。香港子公司作为集团大湾区布局的重要一环，持续深耕储蓄与健康保障产品线。",
+        "tc": "富邦人壽（香港）母公司富邦金控 2025 年 12 月自結獲利：富邦人壽全年稅後淨利 625.5 億新台幣。"
+      },
+      "why": {
+        "sc": "富邦是台湾系保司布局香港的代表。理解母集团财务底盘，才能给客户讲清这家保司的股东实力——台湾系保司在港的存在感常被低估。",
+        "tc": "富邦是台灣系保司佈局香港的代表。理解母集團財務底盤，才能給客戶講清這家保司的股東實力。"
+      },
+      "actions": {
+        "front": {
+          "sc": "台湾系保司=常被低估的玩家",
+          "tc": "台灣系保司=常被低估的玩家"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 1,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "富邦金控 · 2026年1月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "firm",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "富邦",
+          "业绩",
+          "台湾系"
+        ],
+        "tc": [
+          "富邦",
+          "業績",
+          "台灣系"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-01-10T10:00:00+08:00",
+      "originalUrl": "https://www.fubon.com/financialholdings/news/news_1260112_205991.htm"
+    },
+    {
       "id": "sztax-gba-202601",
       "clusterCount": 1,
       "score": 75,
@@ -18060,6 +18253,68 @@
       "contentKind": "product_notice",
       "publishedAt": "2025-08-20T10:00:00+08:00",
       "originalUrl": "https://www.time-weekly.com/post/317263"
+    },
+    {
+      "id": "captive-insurers-6-202508",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "govhk",
+      "title": {
+        "sc": "香港专属自保公司增至 6 间：2025 年新增 2 间",
+        "tc": "香港專屬自保公司增至 6 間：2025 年新增 2 間"
+      },
+      "summary": {
+        "sc": "据香港政府新闻网（2025 年 8 月）：香港共有 6 间专属自保保险公司，其中 2 间为 2025 年新增，反映来港成立专属自保公司的需求持续强劲，标志市场对香港作为国际风险管理中心的信心大增。",
+        "tc": "據香港政府新聞網（2025 年 8 月）：香港共有 6 間專屬自保保險公司，其中 2 間為 2025 年新增，反映來港成立專屬自保公司的需求持續強勁。"
+      },
+      "why": {
+        "sc": "专属自保数量=企业把香港当风控基地的投票。6 间→9 间（2026 年 8 月）的增速说明这个细分赛道正在加速——对专业服务链条是持续的增量。",
+        "tc": "專屬自保數量=企業把香港當風控基地的投票。6 間→9 間的增速說明這個細分賽道正在加速。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "专属自保增长=专业服务链条加厚",
+          "tc": "專屬自保增長=專業服務鏈條加厚"
+        },
+        "lead": {
+          "sc": "风险管理中心=持续的制度红利",
+          "tc": "風險管理中心=持續的制度紅利"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 3,
+        "lead": 3,
+        "cross": 2
+      },
+      "source": {
+        "sc": "香港政府新闻网 · 2025年8月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reg",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "专属自保",
+          "风险管理"
+        ],
+        "tc": [
+          "專屬自保",
+          "風險管理"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2025-08-18T10:00:00+08:00",
+      "originalUrl": "https://www.news.gov.hk/chi/2025/08/20250818/20250818_112221_353.html"
     },
     {
       "id": "dlapiper-202508-commission",
@@ -28602,24 +28857,24 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 316 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 316 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 320 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 320 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 316,
+      "totalItems": 320,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 138,
+          "count": 139,
           "label": "监管一手"
         },
         {
           "tier": "insurer",
-          "count": 65,
+          "count": 66,
           "label": "保司公告"
         },
         {
           "tier": "media",
-          "count": 56,
+          "count": 58,
           "label": "媒体报道"
         },
         {
@@ -28698,17 +28953,17 @@
       "topThemes": [
         {
           "theme": "market",
-          "count": 134,
+          "count": 135,
           "label": "市场"
         },
         {
           "theme": "reg",
-          "count": 65,
+          "count": 67,
           "label": "监管"
         },
         {
           "theme": "firm",
-          "count": 54,
+          "count": 57,
           "label": "保司"
         },
         {
@@ -28738,7 +28993,7 @@
         },
         {
           "theme": "tech",
-          "count": 17,
+          "count": 19,
           "label": "科技"
         },
         {
