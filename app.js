@@ -30331,25 +30331,22 @@ ${t.brandName} · ${t.disc}
     $("#posterTip").textContent=tip;
     $("#posterModal").hidden=false;
     drawPoster(it, state.posterTheme);
-    const pBtn=$("#posterThemeToggle");
-    if(pBtn){
-      pBtn.textContent = state.posterTheme==="light" ? "🌙 深色版式" : "☀️ ZUU 浅色版式";
-      pBtn.onclick = ()=>{
-        state.posterTheme = state.posterTheme==="light" ? "dark" : "light";
-        localStorage.setItem("hkii_posterTheme", state.posterTheme);
-        pBtn.textContent = state.posterTheme==="light" ? "🌙 深色版式" : "☀️ ZUU 浅色版式";
-        drawPoster(it, state.posterTheme);
-      };
-    }
-    $("#posterDownload").onclick=()=>{
+    // 下载指定版式
+    function dlPoster(theme, suffix){
+      drawPoster(it, theme);
       try{
         const a=document.createElement("a");
         a.href=$("#posterCanvas").toDataURL("image/png");
-        a.download=`猫圈儿-海报-${it.id}.png`;
+        a.download=`猫圈儿-海报-${suffix}-${it.id}.png`;
         document.body.appendChild(a); a.click(); a.remove();
         toast(t.posterDl+" ✓");
       }catch(err){ toast("下载失败，请长按图片保存"); }
-    };
+      drawPoster(it, state.posterTheme); // 恢复当前版式
+    }
+    const dlDark=$("#posterDlDark"), dlLight=$("#posterDlLight");
+    if(dlDark) dlDark.onclick=()=>dlPoster("dark","深色");
+    if(dlLight) dlLight.onclick=()=>dlPoster("light","浅色");
+    $("#posterDownload").onclick=()=>dlPoster(state.posterTheme, state.posterTheme==="light"?"浅色":"深色");
     $("#posterCopyMd").onclick=async()=>{
       // 朋友圈文案：标题 + 一句话总结 + 来源提示
       const sum1=posterSummary(it);
