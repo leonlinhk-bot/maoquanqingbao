@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-05T16:21:26Z",
-  "itemCount": 296,
+  "generatedAt": "2026-08-05T16:26:43Z",
+  "itemCount": 299,
   "items": [
     {
       "id": "china-hk-policy-tax-aug05",
@@ -2986,6 +2986,46 @@
       "score": 88,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-pricing-mechanism-2025",
       "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1175200"
+    },
+    {
+      "id": "manulife-bupa-mou-2025",
+      "title": "宏利与保柏（Bupa）签订合作备忘录：香港医疗险策略合作",
+      "sourceTier": "insurer",
+      "themes": [
+        "product",
+        "health",
+        "firm"
+      ],
+      "publishedAt": "2025-07-28T10:00:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-bupa-mou-2025",
+      "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html"
+    },
+    {
+      "id": "h1-2025-record-99b-202507",
+      "title": "2025 上半年港险新单保费创纪录 990 亿港元 +39%：MCV 双引擎",
+      "sourceTier": "media",
+      "themes": [
+        "market",
+        "offshore"
+      ],
+      "publishedAt": "2025-07-25T10:00:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=h1-2025-record-99b-202507",
+      "originalUrl": "https://insuranceasia.com/insurance/news/creditsights-says-hong-kong-life-insurers-sustain-strong-growth"
+    },
+    {
+      "id": "manulife-redomiciliation-done-2025",
+      "title": "宏利人寿（国际）完成迁册至香港：首家完成迁册的保险公司",
+      "sourceTier": "insurer",
+      "themes": [
+        "firm",
+        "reg"
+      ],
+      "publishedAt": "2025-07-20T10:00:00+08:00",
+      "score": 84,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-redomiciliation-done-2025",
+      "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html"
     },
     {
       "id": "ia-202507-commission-spread",

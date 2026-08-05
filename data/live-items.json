@@ -2,10 +2,10 @@
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-05T18:15:00+08:00",
-    "itemCount": 296,
+    "itemCount": 299,
     "windowNote": {
-      "sc": "本库296条。",
-      "tc": "本庫296條。"
+      "sc": "本库299条。",
+      "tc": "本庫299條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -17597,6 +17597,209 @@
       "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1175200"
     },
     {
+      "id": "manulife-bupa-mou-2025",
+      "clusterCount": 1,
+      "score": 71,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "manulife",
+      "title": {
+        "sc": "宏利与保柏（Bupa）签订合作备忘录：香港医疗险策略合作",
+        "tc": "宏利與保柏（Bupa）簽訂合作備忘錄：香港醫療險策略合作"
+      },
+      "summary": {
+        "sc": "宏利香港与保柏（Bupa）签订合作备忘录，于香港展开策略性合作，聚焦医疗健康保障领域。双方将结合宏利的保险分销网络与保柏的医疗服务能力，拓展香港医疗险市场。",
+        "tc": "宏利香港與保柏（Bupa）簽訂合作備忘錄，於香港展開策略性合作，聚焦醫療健康保障領域。"
+      },
+      "why": {
+        "sc": "保司×医疗集团合作=健康险从「卖保单」转向「卖服务」。宏利已有内地 3.8 万+ 医院网络，再叠加保柏的医疗服务，说明医疗险竞争的主战场正在从价格转向生态。",
+        "tc": "保司×醫療集團合作=健康險從「賣保單」轉向「賣服務」。醫療險競爭的主戰場正在從價格轉向生態。"
+      },
+      "actions": {
+        "front": {
+          "sc": "保险×医疗生态=健康险新竞争维度",
+          "tc": "保險×醫療生態=健康險新競爭維度"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "宏利香港 · 2025年",
+        "lang": "sc"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "product",
+        "health",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "宏利",
+          "保柏",
+          "医疗险",
+          "合作"
+        ],
+        "tc": [
+          "宏利",
+          "保柏",
+          "醫療險",
+          "合作"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2025-07-28T10:00:00+08:00",
+      "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html"
+    },
+    {
+      "id": "h1-2025-record-99b-202507",
+      "clusterCount": 1,
+      "score": 78,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "2025 上半年港险新单保费创纪录 990 亿港元 +39%：MCV 双引擎",
+        "tc": "2025 上半年港險新單保費創紀錄 990 億港元 +39%：MCV 雙引擎"
+      },
+      "summary": {
+        "sc": "2025 上半年香港保险新单保费达创纪录的 990 亿港元（约 127 亿美元），按年增长 39%。友邦香港业务录得强劲增长，内地访客（MCV）与本地市场双引擎驱动。CreditSights 指港险保司上半年盈利强劲：FWD LCSM 比率升至 283%，友邦 GWS 覆盖率 254%。",
+        "tc": "2025 上半年香港保險新單保費達創紀錄的 990 億港元（約 127 億美元），按年增長 39%。友邦香港業務錄得強勁增長，內地訪客（MCV）與本地市場雙引擎驅動。"
+      },
+      "why": {
+        "sc": "990 亿 +39%=演示利率上限生效前夜的「抢购潮」。7 月 1 日上限落地前，市场用真金白银赶在旧演示利率下投保——这是理解 2025 全年数据必须知道的前置背景。",
+        "tc": "990 億 +39%=演示利率上限生效前夜的「搶購潮」。7 月 1 日上限落地前，市場趕在舊演示利率下投保。"
+      },
+      "actions": {
+        "front": {
+          "sc": "990亿+39%=H1的「抢购潮」实证",
+          "tc": "990億+39%=H1的「搶購潮」實證"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "新规前抢购=客户行为模式的样本",
+          "tc": "新規前搶購=客戶行為模式的樣本"
+        },
+        "cross": {
+          "sc": "MCV双引擎=跨境需求仍在高位",
+          "tc": "MCV雙引擎=跨境需求仍在高位"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 3,
+        "cross": 3
+      },
+      "source": {
+        "sc": "InsuranceAsia · 2025年7月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "market",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "H1",
+          "990亿",
+          "保费",
+          "抢购潮"
+        ],
+        "tc": [
+          "H1",
+          "990億",
+          "保費",
+          "搶購潮"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-07-25T10:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/creditsights-says-hong-kong-life-insurers-sustain-strong-growth"
+    },
+    {
+      "id": "manulife-redomiciliation-done-2025",
+      "clusterCount": 1,
+      "score": 84,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "manulife",
+      "title": {
+        "sc": "宏利人寿（国际）完成迁册至香港：首家完成迁册的保险公司",
+        "tc": "宏利人壽（國際）完成遷冊至香港：首家完成遷冊的保險公司"
+      },
+      "summary": {
+        "sc": "宏利人寿保险（国际）有限公司成功迁册至香港，成为首家完成迁册流程的保险公司。此前《2025年公司（修订）（第2号）条例》5 月生效，为海外注册企业迁册回港提供便利。宏利迁册后，监管重心、资本配置与业务重心全面移向香港。",
+        "tc": "宏利人壽保險（國際）有限公司成功遷冊至香港，成為首家完成遷冊流程的保險公司。此前《2025年公司（修訂）（第2號）條例》5 月生效。"
+      },
+      "why": {
+        "sc": "从「宣布迁册」到「完成迁册」是质变。宏利用真金白银投票：香港不仅是销售市场，更是总部与监管主场。对 IFA：这是向客户解释「香港保险安全」的顶级论据。",
+        "tc": "從「宣佈遷冊」到「完成遷冊」是質變。宏利用真金白銀投票：香港不僅是銷售市場，更是總部與監管主場。"
+      },
+      "actions": {
+        "front": {
+          "sc": "宏利迁册=「香港保险安全」的顶级论据",
+          "tc": "宏利遷冊=「香港保險安全」的頂級論據"
+        },
+        "midback": {
+          "sc": "监管主体落地=合规确定性提升",
+          "tc": "監管主體落地=合規確定性提升"
+        },
+        "lead": {
+          "sc": "首家完成=制度红利兑现的样板",
+          "tc": "首家完成=制度紅利兌現的樣板"
+        },
+        "cross": {
+          "sc": "国际保司重仓香港=枢纽地位再确认",
+          "tc": "國際保司重倉香港=樞紐地位再確認"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 3,
+        "lead": 4,
+        "cross": 4
+      },
+      "source": {
+        "sc": "宏利香港 · 2025年",
+        "lang": "sc"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "firm",
+        "reg"
+      ],
+      "tags": {
+        "sc": [
+          "宏利",
+          "迁册",
+          "首家"
+        ],
+        "tc": [
+          "宏利",
+          "遷冊",
+          "首家"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2025-07-20T10:00:00+08:00",
+      "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html"
+    },
+    {
       "id": "ia-202507-commission-spread",
       "clusterCount": 1,
       "score": 93,
@@ -27234,10 +27437,10 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 296 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 296 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 299 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 299 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 296,
+      "totalItems": 299,
       "sourceTiers": [
         {
           "tier": "official",
@@ -27246,12 +27449,12 @@
         },
         {
           "tier": "insurer",
-          "count": 54,
+          "count": 56,
           "label": "保司公告"
         },
         {
           "tier": "media",
-          "count": 53,
+          "count": 54,
           "label": "媒体报道"
         },
         {
@@ -27330,22 +27533,22 @@
       "topThemes": [
         {
           "theme": "market",
-          "count": 126,
+          "count": 127,
           "label": "市场"
         },
         {
           "theme": "reg",
-          "count": 62,
+          "count": 63,
           "label": "监管"
         },
         {
           "theme": "offshore",
-          "count": 47,
+          "count": 48,
           "label": "跨境"
         },
         {
           "theme": "firm",
-          "count": 44,
+          "count": 46,
           "label": "保司"
         },
         {
@@ -27355,7 +27558,7 @@
         },
         {
           "theme": "product",
-          "count": 31,
+          "count": 32,
           "label": "产品"
         },
         {
