@@ -1,9 +1,48 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-05T16:27:51Z",
-  "itemCount": 302,
+  "generatedAt": "2026-08-05T16:28:59Z",
+  "itemCount": 305,
   "items": [
+    {
+      "id": "cupi-am-best-profits-aug05",
+      "title": "AM Best：中华联合财险盈利依赖投资收益 承保接近盈亏平衡",
+      "sourceTier": "pro",
+      "themes": [
+        "firm",
+        "market"
+      ],
+      "publishedAt": "2026-08-05T05:30:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=cupi-am-best-profits-aug05",
+      "originalUrl": "https://insuranceasia.com/insurance/news/investment-income-props-china-united-property-profits"
+    },
+    {
+      "id": "beazley-h1-profits-halve-aug05",
+      "title": "Beazley上半年税前利润腰斩53% 网络险费率连跌12季 苏黎世收购推进中",
+      "sourceTier": "media",
+      "themes": [
+        "market",
+        "tech"
+      ],
+      "publishedAt": "2026-08-05T14:30:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=beazley-h1-profits-halve-aug05",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/beazleys-profits-halve-as-cyber-prices-and-middle-east-squeeze-the-market-584983.aspx"
+    },
+    {
+      "id": "korea-health-gap-brokers-aug05",
+      "title": "韩国健康险三重压力：公共医保财政悬崖+补偿险亏损1.87万亿韩元+佣金分期改革",
+      "sourceTier": "media",
+      "themes": [
+        "channel",
+        "market"
+      ],
+      "publishedAt": "2026-08-05T10:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=korea-health-gap-brokers-aug05",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/south-koreas-health-coverage-gap-is-widening--and-brokers-are-in-the-middle-585038.aspx"
+    },
     {
       "id": "china-hk-policy-tax-aug05",
       "title": "内地开始对香港保单收益征20%个税：北京杭州已执行 保诚领跌",
