@@ -1,9 +1,76 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-05T12:39:21Z",
-  "itemCount": 288,
+  "generatedAt": "2026-08-05T13:16:26Z",
+  "itemCount": 293,
   "items": [
+    {
+      "id": "china-hk-policy-tax-aug05",
+      "title": "内地开始对香港保单收益征20%个税：北京杭州已执行 保诚领跌",
+      "sourceTier": "media",
+      "themes": [
+        "compliance",
+        "offshore",
+        "macro"
+      ],
+      "publishedAt": "2026-08-05T17:31:00+08:00",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=china-hk-policy-tax-aug05",
+      "originalUrl": "https://finance.caixin.com/m/2026-08-05/102471513.html"
+    },
+    {
+      "id": "jefferies-hk-sales-soar-aug05",
+      "title": "Jefferies：港险Q1新单保费+51%创新高 银保+48%经纪+60% MCV到访年累计破2000万",
+      "sourceTier": "pro",
+      "themes": [
+        "market",
+        "channel",
+        "offshore"
+      ],
+      "publishedAt": "2026-08-05T06:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=jefferies-hk-sales-soar-aug05",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-life-sales-soar-despite-investor-caution-jefferies"
+    },
+    {
+      "id": "etiqa-index-endowment-aug05",
+      "title": "Etiqa新加坡推指数挂钩储蓄计划：挂钩Barclays动态指数 到期保本加0%下限",
+      "sourceTier": "media",
+      "themes": [
+        "product",
+        "market"
+      ],
+      "publishedAt": "2026-08-05T05:45:00+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=etiqa-index-endowment-aug05",
+      "originalUrl": "https://insuranceasia.com/insurance/news/etiqa-launches-endowment-plan-amidst-volatility-fears"
+    },
+    {
+      "id": "apac-natcat-h1-2026-aug05",
+      "title": "Munich Re：亚太上半年巨灾损失远低于均值 中国5月洪灾损失28亿美元大部分无保险",
+      "sourceTier": "media",
+      "themes": [
+        "macro",
+        "market"
+      ],
+      "publishedAt": "2026-08-05T05:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=apac-natcat-h1-2026-aug05",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/asia-pacific-losses-fall-insured-damage-hits-1b-in-h1-2026"
+    },
+    {
+      "id": "nfra-audit-liability-aug05",
+      "title": "金融监管总局：新修订《会计师事务所职业责任保险实施办法》拟近期印发 费率与合规记录挂钩",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "product"
+      ],
+      "publishedAt": "2026-08-05T10:33:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-audit-liability-aug05",
+      "originalUrl": "http://m.toutiao.com/group/7670370104106680882/"
+    },
     {
       "id": "boclife-ai-cohort-2026",
       "title": "中银人寿加入保监局 AI 促进计划：深化负责任的 AI 应用",
