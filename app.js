@@ -2,10 +2,10 @@ window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-06T18:08:00+08:00",
-    "itemCount": 313,
+    "itemCount": 316,
     "windowNote": {
-      "sc": "本库313条。",
-      "tc": "本庫313條。"
+      "sc": "本库316条。",
+      "tc": "本庫316條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -17400,6 +17400,73 @@ window.HKII_DATA = {
       "contentKind": "circular"
     },
     {
+      "id": "hkfo-200-target-hit-2025",
+      "clusterCount": 1,
+      "score": 77,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "govhk",
+      "title": {
+        "sc": "家办落户目标提前达标：逾 200 间家办在港设立或扩展业务",
+        "tc": "家辦落戶目標提前達標：逾 200 間家辦在港設立或擴展業務"
+      },
+      "summary": {
+        "sc": "香港政府公布：2022 年施政报告提出「2025 年底前推动不少于 200 间家办在港设立或扩展业务」的目标已提前达标。叠加《家族办公室指南》发布与「香港家办汇」一周年，家办生态从数量扩张进入生态深耕阶段。",
+        "tc": "香港政府公佈：2022 年施政報告提出「2025 年底前推動不少於 200 間家辦在港設立或擴展業務」的目標已提前達標。家辦生態從數量擴張進入生態深耕階段。"
+      },
+      "why": {
+        "sc": "政策目标提前达标=官方背书「香港家办故事」成立。对 IFA：家办数量从 2,703→3,384、政策目标超额完成，这条增长曲线是「跨境高净值业务值得投入」的最强证据。",
+        "tc": "政策目標提前達標=官方背書「香港家辦故事」成立。這條增長曲線是「跨境高淨值業務值得投入」的最強證據。"
+      },
+      "actions": {
+        "front": {
+          "sc": "200间目标提前达标=家办红利仍在上行",
+          "tc": "200間目標提前達標=家辦紅利仍在上行"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "政策兑现=香港家办生态的官方背书",
+          "tc": "政策兌現=香港家辦生態的官方背書"
+        },
+        "cross": {
+          "sc": "家办生态深化=跨境服务需求更细分",
+          "tc": "家辦生態深化=跨境服務需求更細分"
+        }
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 4,
+        "cross": 4
+      },
+      "source": {
+        "sc": "香港政府 · 2025年",
+        "lang": "zh"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "family-office",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "家办",
+          "落户目标",
+          "政策"
+        ],
+        "tc": [
+          "家辦",
+          "落戶目標",
+          "政策"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2025-09-18T10:00:00+08:00",
+      "originalUrl": "https://www.locpg.hk/20250918/af6b694aa4994742ac2e32598f8830c5/c.html"
+    },
+    {
       "id": "ia-20250917-product-naming",
       "clusterCount": 1,
       "score": 82,
@@ -19020,6 +19087,69 @@ window.HKII_DATA = {
       "originalUrl": "https://www.10life.com/zh-HK/blog/Comparing-Dividend-Fulfillment-Ratios-of-savings-insurance-across-Insurers"
     },
     {
+      "id": "aia-cancer-young-2025",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "aia",
+      "title": {
+        "sc": "友邦理赔数据：癌症理赔居首且趋年轻化",
+        "tc": "友邦理賠數據：癌症理賠居首且趨年輕化"
+      },
+      "summary": {
+        "sc": "友邦香港理赔报告系列显示：癌症是医疗及危疾理赔最主要原因，且发病期趋年轻化。癌症保险理赔在友邦医疗及危疾理赔中占比最高，危疾理赔年轻化成为跨保司的普遍趋势。",
+        "tc": "友邦香港理賠報告系列顯示：癌症是醫療及危疾理賠最主要原因，且發病期趨年輕化，危疾理賠年輕化成為跨保司的普遍趨勢。"
+      },
+      "why": {
+        "sc": "多家保司（友邦/保诚/宏利）理赔数据指向同一结论：癌症第一、理赔年轻化。当数据形成交叉验证，它就不再是一家之言，而是行业事实——这是 IFA 讲危疾配置的底气。",
+        "tc": "多家保司理賠數據指向同一結論：癌症第一、理賠年輕化。當數據形成交叉驗證，就不再是一家之言，而是行業事實。"
+      },
+      "actions": {
+        "front": {
+          "sc": "跨保司交叉验证=行业事实而非一家之言",
+          "tc": "跨保司交叉驗證=行業事實而非一家之言"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "友邦香港 · 2025年",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "uw",
+        "health"
+      ],
+      "tags": {
+        "sc": [
+          "友邦",
+          "理赔",
+          "癌症",
+          "年轻化"
+        ],
+        "tc": [
+          "友邦",
+          "理賠",
+          "癌症",
+          "年輕化"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2025-06-30T10:00:00+08:00",
+      "originalUrl": "https://www.aia.com.hk/zh-hk/health-and-wellness/healthy-living-with-aia/healthy-finances/amount-of-AIA-claim-settlement"
+    },
+    {
       "id": "crossborder-payment-link-202506",
       "clusterCount": 1,
       "score": 80,
@@ -19324,6 +19454,70 @@ window.HKII_DATA = {
       "themes": [
         "market"
       ]
+    },
+    {
+      "id": "manulife-claim-2025-report",
+      "clusterCount": 1,
+      "score": 79,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "manulife",
+      "title": {
+        "sc": "宏利 2025 理赔报告：赔付超 10.72 亿港元，癌症占危疾 76.6%，21-40 岁理赔急升 7%",
+        "tc": "宏利 2025 理賠報告：賠付超 10.72 億港元，癌症佔危疾 76.6%，21-40 歲理賠急升 7%"
+      },
+      "summary": {
+        "sc": "宏利 2025 个人保险赔偿报告：全年赔付超 10.72 亿港元，危疾理赔中癌症占 76.55%（乳癌 29.27%、肺癌 10.92%、甲状腺癌 9.35% 居前）。21-40 岁组别危疾理赔个案较上年急升 7%，心脏疾病个案占比由 2.7% 升至 10.2%——危疾理赔年轻化趋势明显。",
+        "tc": "宏利 2025 個人保險賠償報告：全年賠付超 10.72 億港元，危疾理賠中癌症佔 76.55%。21-40 歲組別危疾理賠個案較上年急升 7%，危疾理賠年輕化趨勢明顯。"
+      },
+      "why": {
+        "sc": "三个数据点都是给客户讲危疾险的硬弹药：① 癌症占 76.6%→危疾保障核心看癌症；② 21-40 岁 +7%→年轻人也要买；③ 心脏病 2.7%→10.2%→保障范围要覆盖心脑血管。",
+        "tc": "三個數據點都是給客戶講危疾險的硬彈藥：癌症佔 76.6%、21-40 歲 +7%、心臟病 2.7%→10.2%。"
+      },
+      "actions": {
+        "front": {
+          "sc": "癌症76.6%=危疾保障核心看癌症",
+          "tc": "癌症76.6%=危疾保障核心看癌症"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "宏利香港 · 2025年",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "uw",
+        "health",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "宏利",
+          "理赔报告",
+          "癌症",
+          "年轻化"
+        ],
+        "tc": [
+          "宏利",
+          "理賠報告",
+          "癌症",
+          "年輕化"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2025-05-31T10:00:00+08:00",
+      "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/products/health/critical-illness-protection.html"
     },
     {
       "id": "mainland-capital-surge-2025",
@@ -28408,19 +28602,19 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 313 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 313 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 316 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 316 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 313,
+      "totalItems": 316,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 137,
+          "count": 138,
           "label": "监管一手"
         },
         {
           "tier": "insurer",
-          "count": 63,
+          "count": 65,
           "label": "保司公告"
         },
         {
@@ -28519,7 +28713,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "offshore",
-          "count": 50,
+          "count": 51,
           "label": "跨境"
         },
         {
@@ -28529,7 +28723,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "product",
-          "count": 35,
+          "count": 36,
           "label": "产品"
         },
         {

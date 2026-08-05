@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-05T16:31:02Z",
-  "itemCount": 313,
+  "generatedAt": "2026-08-05T16:31:41Z",
+  "itemCount": 316,
   "items": [
     {
       "id": "china-hk-policy-tax-aug05",
@@ -2968,6 +2968,19 @@
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_19092025.pdf"
     },
     {
+      "id": "hkfo-200-target-hit-2025",
+      "title": "家办落户目标提前达标：逾 200 间家办在港设立或扩展业务",
+      "sourceTier": "official",
+      "themes": [
+        "family-office",
+        "offshore"
+      ],
+      "publishedAt": "2025-09-18T10:00:00+08:00",
+      "score": 77,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkfo-200-target-hit-2025",
+      "originalUrl": "https://www.locpg.hk/20250918/af6b694aa4994742ac2e32598f8830c5/c.html"
+    },
+    {
       "id": "ia-20250917-product-naming",
       "title": "保监局与金管局联合发布保险产品命名要求通函。",
       "sourceTier": "official",
@@ -3253,6 +3266,19 @@
       "originalUrl": "https://www.10life.com/zh-HK/blog/Comparing-Dividend-Fulfillment-Ratios-of-savings-insurance-across-Insurers"
     },
     {
+      "id": "aia-cancer-young-2025",
+      "title": "友邦理赔数据：癌症理赔居首且趋年轻化",
+      "sourceTier": "insurer",
+      "themes": [
+        "uw",
+        "health"
+      ],
+      "publishedAt": "2025-06-30T10:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-cancer-young-2025",
+      "originalUrl": "https://www.aia.com.hk/zh-hk/health-and-wellness/healthy-living-with-aia/healthy-finances/amount-of-AIA-claim-settlement"
+    },
+    {
       "id": "crossborder-payment-link-202506",
       "title": "跨境支付通上线：内地居民可经人民币通道汇款至香港",
       "sourceTier": "official",
@@ -3301,6 +3327,20 @@
       "score": 86,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fstb-2024-density",
       "originalUrl": "https://www.fstb.gov.hk/tc/financial_ser/insurance-industry.htm"
+    },
+    {
+      "id": "manulife-claim-2025-report",
+      "title": "宏利 2025 理赔报告：赔付超 10.72 亿港元，癌症占危疾 76.6%，21-40 岁理赔急升 7%",
+      "sourceTier": "insurer",
+      "themes": [
+        "uw",
+        "health",
+        "product"
+      ],
+      "publishedAt": "2025-05-31T10:00:00+08:00",
+      "score": 79,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-claim-2025-report",
+      "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/products/health/critical-illness-protection.html"
     },
     {
       "id": "mainland-capital-surge-2025",
