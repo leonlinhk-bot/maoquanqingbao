@@ -2,10 +2,10 @@ window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-06T18:08:00+08:00",
-    "itemCount": 309,
+    "itemCount": 313,
     "windowNote": {
-      "sc": "本库309条。",
-      "tc": "本庫309條。"
+      "sc": "本库313条。",
+      "tc": "本庫313條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -14209,6 +14209,79 @@ window.HKII_DATA = {
       "originalUrl": "https://www.investhk.gov.hk/zh-hk/news/two-year-milestone-new-capital-investment-entrant-scheme-attracts-nearly-3-200-applications-with-expected-investment-of-about-hk-95-billion-reflecting-global-confidence-in-hong-kong/"
     },
     {
+      "id": "cies-fhvt-20260301",
+      "clusterCount": 1,
+      "score": 82,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "govhk",
+      "title": {
+        "sc": "新 CIES 优化措施 2026-03-01 生效：全资公司持有投资 + 家控工具税务宽减",
+        "tc": "新 CIES 優化措施 2026-03-01 生效：全資公司持有投資 + 家控工具稅務寬減"
+      },
+      "summary": {
+        "sc": "新资本投资者入境计划（CIES）优化措施自 2026 年 3 月 1 日生效：投资者可透过全资拥有的私人公司（家族投资控权工具 FIHV）持有获许投资资产，该公司由具资格单一家办管理、在香港至少两名全职员工及年承付 200 万港元营运开支，管理资产净值不低于 2.4 亿港元。打通了 CIES 与家办税务宽减的衔接。",
+        "tc": "新資本投資者入境計劃（CIES）優化措施自 2026 年 3 月 1 日生效：投資者可透過全資擁有的私人公司（家族投資控權工具 FIHV）持有獲許投資資產，打通了 CIES 與家辦稅務寬減的銜接。"
+      },
+      "why": {
+        "sc": "这是 CIES 与家办税制的「合体」：以前投资必须个人持有，现在可以装进家控工具享受税务宽减。对 IFA：高净值客户的「投资入境 + 家办架构」从此可以一揽子设计——这是跨境架构业务的直接增量。",
+        "tc": "這是 CIES 與家辦稅制的「合體」：投資可以裝進家控工具享受稅務寬減。對 IFA：高淨值客戶的「投資入境 + 家辦架構」從此可以一攬子設計。"
+      },
+      "actions": {
+        "front": {
+          "sc": "CIES×家办税制合体=跨境架构新机会",
+          "tc": "CIES×家辦稅制合體=跨境架構新機會"
+        },
+        "midback": {
+          "sc": "2.4亿门槛+200万营运=实质经营要求",
+          "tc": "2.4億門檻+200萬營運=實質經營要求"
+        },
+        "lead": {
+          "sc": "投资入境升级=香港吸资工具再进化",
+          "tc": "投資入境升級=香港吸資工具再進化"
+        },
+        "cross": {
+          "sc": "架构设计空间打开=IFA的顾问价值提升",
+          "tc": "架構設計空間打開=IFA的顧問價值提升"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 3,
+        "lead": 4,
+        "cross": 5
+      },
+      "source": {
+        "sc": "投资推广署 · 2026年3月1日",
+        "lang": "sc"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "family-office",
+        "offshore",
+        "identity-planning"
+      ],
+      "tags": {
+        "sc": [
+          "CIES",
+          "家控工具",
+          "税务宽减",
+          "家办"
+        ],
+        "tc": [
+          "CIES",
+          "家控工具",
+          "稅務寬減",
+          "家辦"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-03-01T10:00:00+08:00",
+      "originalUrl": "https://www.newcies.gov.hk/zh-cn/new-measures/"
+    },
+    {
       "id": "ia-budget-20260225",
       "title": {
         "sc": "保监局欢迎2026-27财政预算案中与国家规划对接的措施。",
@@ -18294,6 +18367,73 @@ window.HKII_DATA = {
       "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1175200"
     },
     {
+      "id": "gl24-cpd-2025",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "GL24 CPD 要求：持牌中介人每评估期 15 小时，RO 另加 2 小时管治培训",
+        "tc": "GL24 CPD 要求：持牌中介人每評估期 15 小時，RO 另加 2 小時管治培訓"
+      },
+      "summary": {
+        "sc": "按指引 GL24（2025 版），香港持牌保险中介人每个评估期须完成 15 小时持续专业培训（CPD），其中 3 小时须为指定范畴。负责人（RO）另须完成至少 2 小时聚焦管理及管控职能的强制培训。2025/26 评估期 RO-CPD 自 2025 年 8 月 1 日生效。",
+        "tc": "按指引 GL24（2025 版），香港持牌保險中介人每個評估期須完成 15 小時持續專業培訓（CPD），其中 3 小時須為指定範疇。負責人（RO）另須完成至少 2 小時聚焦管理及管控職能的強制培訓。"
+      },
+      "why": {
+        "sc": "CPD 是每个 IFA 的硬约束，也是「职业 CPD」主题的基础规则。15+2 小时的具体要求直接决定从业者的时间安排——理解它，才能规划好学习和展业节奏。",
+        "tc": "CPD 是每個 IFA 的硬約束。15+2 小時的具體要求直接決定從業者的時間安排。"
+      },
+      "actions": {
+        "front": {
+          "sc": "15小时CPD=每年必过的合规门槛",
+          "tc": "15小時CPD=每年必過的合規門檻"
+        },
+        "midback": {
+          "sc": "RO强制培训=管理岗的新增要求",
+          "tc": "RO強制培訓=管理崗的新增要求"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 3,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "保监局 GL24 · 2025年",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "career",
+        "compliance",
+        "reg"
+      ],
+      "tags": {
+        "sc": [
+          "CPD",
+          "GL24",
+          "中介人",
+          "培训"
+        ],
+        "tc": [
+          "CPD",
+          "GL24",
+          "中介人",
+          "培訓"
+        ]
+      },
+      "contentKind": "circular",
+      "publishedAt": "2025-08-01T10:00:00+08:00",
+      "originalUrl": "https://www.hongkonginsurancebrokers.com/zh/cpd/requirements"
+    },
+    {
       "id": "manulife-bupa-mou-2025",
       "clusterCount": 1,
       "score": 71,
@@ -18811,6 +18951,73 @@ window.HKII_DATA = {
       "themes": [
         "market"
       ]
+    },
+    {
+      "id": "par-fulfillment-2025-10life",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "10life",
+      "title": {
+        "sc": "2025 分红实现率对比：友邦终期红利 102% vs 保诚 78%，分化明显",
+        "tc": "2025 分紅實現率對比：友邦終期紅利 102% vs 保誠 78%，分化明顯"
+      },
+      "summary": {
+        "sc": "10Life 汇总 2025 年度各保司分红实现率：终期红利友邦香港 102%、恒生 141%、汇丰 102%、宏利 107%、保诚 78%、永明 84%、万通 97%。周年红利方面多数在 80-90% 区间。保诚 234 个数据点覆盖最广但最低仅 3%。",
+        "tc": "10Life 匯總 2025 年度各保司分紅實現率：終期紅利友邦香港 102%、恒生 141%、匯豐 102%、宏利 107%、保誠 78%、永明 84%、萬通 97%。"
+      },
+      "why": {
+        "sc": "分红实现率是 GN16 后客户最关心的可比指标。同一市场、同一监管框架下，保司间 20+ 个百分点的差距=选公司的实质差异。IFA 必须掌握这份对比表才能跟客户讲清「为什么选这家」。",
+        "tc": "分紅實現率是 GN16 後客戶最關心的可比指標。同一市場下保司間 20+ 個百分點的差距=選公司的實質差異。"
+      },
+      "actions": {
+        "front": {
+          "sc": "实现率差距20%+=选司论据的核心弹药",
+          "tc": "實現率差距20%+=選司論據的核心彈藥"
+        },
+        "midback": {
+          "sc": "披露数据可查=客户尽调更透明",
+          "tc": "披露數據可查=客戶盡調更透明"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 5,
+        "midback": 3,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "10Life · 2025年",
+        "lang": "zh"
+      },
+      "boards": [
+        "par"
+      ],
+      "themes": [
+        "par",
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "分红实现率",
+          "友邦",
+          "保诚",
+          "对比"
+        ],
+        "tc": [
+          "分紅實現率",
+          "友邦",
+          "保誠",
+          "對比"
+        ]
+      },
+      "contentKind": "research",
+      "publishedAt": "2025-06-30T10:00:00+08:00",
+      "originalUrl": "https://www.10life.com/zh-HK/blog/Comparing-Dividend-Fulfillment-Ratios-of-savings-insurance-across-Insurers"
     },
     {
       "id": "crossborder-payment-link-202506",
@@ -19391,6 +19598,73 @@ window.HKII_DATA = {
       "contentKind": "press",
       "publishedAt": "2025-04-30T10:00:00+08:00",
       "originalUrl": "https://www.aia.com/content/dam/group-wise/en/docs/investor-relations/2025/AIA%20Group%202025%20Q1%20New%20Business%20Highlights%20(Eng).pdf"
+    },
+    {
+      "id": "prudential-claim-report-2025",
+      "clusterCount": 1,
+      "score": 78,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "prudential",
+      "title": {
+        "sc": "保诚 2025 理赔报告：内地客危疾理赔最高 933 万港元，肺癌居首",
+        "tc": "保誠 2025 理賠報告：內地客危疾理賠最高 933 萬港元，肺癌居首"
+      },
+      "summary": {
+        "sc": "保诚 2025 年个人寿险理赔报告：香港及内地客户十大理赔案例中，内地客最高单笔危疾理赔 933 万港元（肺癌），香港本地最高 594 万（肺癌）。危疾理赔集中在癌症、心脏及中风，癌症合计约占八成。",
+        "tc": "保誠 2025 年個人壽險理賠報告：內地客最高單筆危疾理賠 933 萬港元（肺癌），香港本地最高 594 萬（肺癌）。危疾理賠集中在癌症、心臟及中風，癌症合計約佔八成。"
+      },
+      "why": {
+        "sc": "理赔报告是「保险到底赔不赔」的最硬证据。933 万单笔、肺癌居首——这些真实案例比任何话术都有说服力，也是 IFA 向客户展示「危疾保额要买够」的现成教材。",
+        "tc": "理賠報告是「保險到底賠不賠」的最硬證據。933 萬單筆、肺癌居首——這些真實案例比任何話術都有說服力。"
+      },
+      "actions": {
+        "front": {
+          "sc": "933万单笔理赔=保额买够的活教材",
+          "tc": "933萬單筆理賠=保額買夠的活教材"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {
+          "sc": "内地客理赔案例=跨境服务的服务力证明",
+          "tc": "內地客理賠案例=跨境服務的服務力證明"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 2,
+        "lead": 2,
+        "cross": 3
+      },
+      "source": {
+        "sc": "保诚香港 · 2025年",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "uw",
+        "health",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "保诚",
+          "理赔报告",
+          "危疾",
+          "癌症"
+        ],
+        "tc": [
+          "保誠",
+          "理賠報告",
+          "危疾",
+          "癌症"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2025-04-30T10:00:00+08:00",
+      "originalUrl": "https://www.prudential.com.hk/en/.galleries/pdf/promotion/individual-life-claim-report-2025.pdf"
     },
     {
       "id": "manulife-20250428-ci",
@@ -28134,19 +28408,19 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 309 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 309 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 313 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 313 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 309,
+      "totalItems": 313,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 135,
+          "count": 137,
           "label": "监管一手"
         },
         {
           "tier": "insurer",
-          "count": 62,
+          "count": 63,
           "label": "保司公告"
         },
         {
@@ -28156,7 +28430,7 @@ window.HKII_DATA = {
         },
         {
           "tier": "pro",
-          "count": 41,
+          "count": 42,
           "label": "专业解读"
         },
         {
@@ -28235,27 +28509,27 @@ window.HKII_DATA = {
         },
         {
           "theme": "reg",
-          "count": 64,
+          "count": 65,
           "label": "监管"
         },
         {
           "theme": "firm",
-          "count": 53,
+          "count": 54,
           "label": "保司"
         },
         {
           "theme": "offshore",
-          "count": 49,
+          "count": 50,
           "label": "跨境"
         },
         {
           "theme": "compliance",
-          "count": 43,
+          "count": 44,
           "label": "合规"
         },
         {
           "theme": "product",
-          "count": 33,
+          "count": 35,
           "label": "产品"
         },
         {
@@ -28275,7 +28549,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "career",
-          "count": 15,
+          "count": 16,
           "label": "职业"
         }
       ],

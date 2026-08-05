@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-05T16:29:27Z",
-  "itemCount": 309,
+  "generatedAt": "2026-08-05T16:31:02Z",
+  "itemCount": 313,
   "items": [
     {
       "id": "china-hk-policy-tax-aug05",
@@ -2425,6 +2425,20 @@
       "originalUrl": "https://www.investhk.gov.hk/zh-hk/news/two-year-milestone-new-capital-investment-entrant-scheme-attracts-nearly-3-200-applications-with-expected-investment-of-about-hk-95-billion-reflecting-global-confidence-in-hong-kong/"
     },
     {
+      "id": "cies-fhvt-20260301",
+      "title": "新 CIES 优化措施 2026-03-01 生效：全资公司持有投资 + 家控工具税务宽减",
+      "sourceTier": "official",
+      "themes": [
+        "family-office",
+        "offshore",
+        "identity-planning"
+      ],
+      "publishedAt": "2026-03-01T10:00:00+08:00",
+      "score": 82,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=cies-fhvt-20260301",
+      "originalUrl": "https://www.newcies.gov.hk/zh-cn/new-measures/"
+    },
+    {
       "id": "ia-budget-20260225",
       "title": "保监局欢迎2026-27财政预算案中与国家规划对接的措施。",
       "sourceTier": "official",
@@ -3121,6 +3135,20 @@
       "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1175200"
     },
     {
+      "id": "gl24-cpd-2025",
+      "title": "GL24 CPD 要求：持牌中介人每评估期 15 小时，RO 另加 2 小时管治培训",
+      "sourceTier": "official",
+      "themes": [
+        "career",
+        "compliance",
+        "reg"
+      ],
+      "publishedAt": "2025-08-01T10:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=gl24-cpd-2025",
+      "originalUrl": "https://www.hongkonginsurancebrokers.com/zh/cpd/requirements"
+    },
+    {
       "id": "manulife-bupa-mou-2025",
       "title": "宏利与保柏（Bupa）签订合作备忘录：香港医疗险策略合作",
       "sourceTier": "insurer",
@@ -3209,6 +3237,20 @@
       "score": 97,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20250701-illustration-cap",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/illustration_cap.html"
+    },
+    {
+      "id": "par-fulfillment-2025-10life",
+      "title": "2025 分红实现率对比：友邦终期红利 102% vs 保诚 78%，分化明显",
+      "sourceTier": "pro",
+      "themes": [
+        "par",
+        "product",
+        "firm"
+      ],
+      "publishedAt": "2025-06-30T10:00:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=par-fulfillment-2025-10life",
+      "originalUrl": "https://www.10life.com/zh-HK/blog/Comparing-Dividend-Fulfillment-Ratios-of-savings-insurance-across-Insurers"
     },
     {
       "id": "crossborder-payment-link-202506",
@@ -3312,6 +3354,20 @@
       "score": 77,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-q1-2025-vonb",
       "originalUrl": "https://www.aia.com/content/dam/group-wise/en/docs/investor-relations/2025/AIA%20Group%202025%20Q1%20New%20Business%20Highlights%20(Eng).pdf"
+    },
+    {
+      "id": "prudential-claim-report-2025",
+      "title": "保诚 2025 理赔报告：内地客危疾理赔最高 933 万港元，肺癌居首",
+      "sourceTier": "insurer",
+      "themes": [
+        "uw",
+        "health",
+        "product"
+      ],
+      "publishedAt": "2025-04-30T10:00:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=prudential-claim-report-2025",
+      "originalUrl": "https://www.prudential.com.hk/en/.galleries/pdf/promotion/individual-life-claim-report-2025.pdf"
     },
     {
       "id": "manulife-20250428-ci",
