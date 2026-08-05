@@ -2,10 +2,10 @@ window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-05T18:15:00+08:00",
-    "itemCount": 299,
+    "itemCount": 302,
     "windowNote": {
-      "sc": "本库299条。",
-      "tc": "本庫299條。"
+      "sc": "本库302条。",
+      "tc": "本庫302條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -15483,6 +15483,72 @@ window.HKII_DATA = {
       ]
     },
     {
+      "id": "aia-2025-annual-vonb-202603",
+      "clusterCount": 1,
+      "score": 80,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "aia",
+      "title": {
+        "sc": "友邦 2025 全年业绩：香港 VONB +28% 创纪录，每股股息 +10%",
+        "tc": "友邦 2025 全年業績：香港 VONB +28% 創紀錄，每股股息 +10%"
+      },
+      "summary": {
+        "sc": "友邦集团 2025 全年业绩创新高：新业务价值（VONB）增长 15% 至 55.16 亿美元，香港业务 VONB 大幅增长 28%，每股股息增加 10%。集团总资产增至 3,454 亿美元，同比提升 13%。香港继续是友邦集团最重要的单一市场。",
+        "tc": "友邦集團 2025 全年業績創新高：新業務價值（VONB）增長 15% 至 55.16 億美元，香港業務 VONB 大幅增長 28%，每股股息增加 10%。"
+      },
+      "why": {
+        "sc": "友邦香港 VONB +28%=全年增速的核心引擎。作为香港市场头号保司，这个数字说明 2025 全年（含佣金改革前夜抢购）需求端依然强劲——是判断 2026 走势的关键基准线。",
+        "tc": "友邦香港 VONB +28%=全年增速的核心引擎。這個數字說明 2025 全年需求端依然強勁。"
+      },
+      "actions": {
+        "front": {
+          "sc": "友邦香港+28%=全年需求端的最强佐证",
+          "tc": "友邦香港+28%=全年需求端的最強佐證"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "股息+10%=股东对香港业务的信心",
+          "tc": "股息+10%=股東對香港業務的信心"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 3,
+        "cross": 2
+      },
+      "source": {
+        "sc": "友邦集团 · 2026年3月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "firm",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "友邦",
+          "2025全年",
+          "VONB",
+          "业绩"
+        ],
+        "tc": [
+          "友邦",
+          "2025全年",
+          "VONB",
+          "業績"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2025-12-31T10:00:00+08:00",
+      "originalUrl": "https://zhuanlan.zhihu.com/p/2042158693467383539"
+    },
+    {
       "id": "zhihu-2025-top10",
       "clusterCount": 1,
       "score": 75,
@@ -15560,6 +15626,73 @@ window.HKII_DATA = {
       "themes": [
         "market"
       ]
+    },
+    {
+      "id": "fwd-hk-2025-nbp-93pct",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "fwd",
+      "title": {
+        "sc": "富卫香港 2025 新业务保费飙升 93%：年化新保费 +74% 远超市场均值",
+        "tc": "富衛香港 2025 新業務保費飆升 93%：年化新保費 +74% 遠超市場均值"
+      },
+      "summary": {
+        "sc": "富卫香港 2025 年新业务保费飙升 93%，年化新保费（APE）增长 74%，远超市场平均 43%。富卫的指数型万用寿险（IUL）等高净值产品策略成效显著，线上直销（DTC）渠道亦持续发力。",
+        "tc": "富衛香港 2025 年新業務保費飆升 93%，年化新保費（APE）增長 74%，遠超市場平均 43%。富衛的指數型萬用壽險（IUL）等高淨值產品策略成效顯著。"
+      },
+      "why": {
+        "sc": "富卫 93% 增速=非巨头保司抢份额的活样板。它的打法（IUL 高净值 + DTC 线上）正是佣金改革后渠道分化的方向——理解富卫，就能预判中小保司的生存策略。",
+        "tc": "富衛 93% 增速=非巨頭保司搶份額的活樣板。它的打法（IUL 高淨值 + DTC 線上）正是佣金改革後渠道分化的方向。"
+      },
+      "actions": {
+        "front": {
+          "sc": "富卫93%=高净值+IUL策略的胜利",
+          "tc": "富衛93%=高淨值+IUL策略的勝利"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "非巨头抢份额=市场分化加速",
+          "tc": "非巨頭搶份額=市場分化加速"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 3,
+        "cross": 2
+      },
+      "source": {
+        "sc": "富卫集团 · 2025年",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "firm",
+        "market",
+        "channel"
+      ],
+      "tags": {
+        "sc": [
+          "富卫",
+          "业绩",
+          "IUL",
+          "高净值"
+        ],
+        "tc": [
+          "富衛",
+          "業績",
+          "IUL",
+          "高淨值"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2025-12-20T10:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/company/fwd-group"
     },
     {
       "id": "boclife-2025-record",
@@ -15706,6 +15839,74 @@ window.HKII_DATA = {
       "themes": [
         "market"
       ]
+    },
+    {
+      "id": "aif-2025-asian-insurance-forum",
+      "clusterCount": 1,
+      "score": 83,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "亚洲保险论坛 2025：迎难而上 拥抱创新",
+        "tc": "亞洲保險論壇 2025：迎難而上 擁抱創新"
+      },
+      "summary": {
+        "sc": "2025 年 12 月，保监局在香港举行亚洲保险论坛（AIF2025），主题「迎难而上 拥抱创新」，围绕监管挑战、人口结构转变、AI 等主题讨论。保监局主席姚建华称须以远见灵活应对；金融监管总局副局长肖远企表示将持续巩固香港国际金融中心地位。",
+        "tc": "2025 年 12 月，保監局在香港舉行亞洲保險論壇（AIF2025），主題「迎難而上 擁抱創新」，圍繞監管挑戰、人口結構轉變、AI 等主題討論。"
+      },
+      "why": {
+        "sc": "AIF 是亚洲保险监管最高规格会议，主旨发言=官方政策风向。姚建华谈「远见与灵活」、肖远企谈「两地合作」，两句话合并就是 2026 年跨境监管合作的基调。",
+        "tc": "AIF 是亞洲保險監管最高規格會議，主旨發言=官方政策風向。姚建華談「遠見與靈活」、肖遠企談「兩地合作」，合併就是 2026 年跨境監管合作的基調。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "论坛议题=监管关注方向的年度清单",
+          "tc": "論壇議題=監管關注方向的年度清單"
+        },
+        "lead": {
+          "sc": "监管高层定调=行业方向标",
+          "tc": "監管高層定調=行業方向標"
+        },
+        "cross": {
+          "sc": "两地监管同台=跨境合作基调明确",
+          "tc": "兩地監管同台=跨境合作基調明確"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 3,
+        "lead": 4,
+        "cross": 4
+      },
+      "source": {
+        "sc": "保监局 · 2025年12月",
+        "lang": "sc"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reg",
+        "macro",
+        "career"
+      ],
+      "tags": {
+        "sc": [
+          "亚洲保险论坛",
+          "AIF",
+          "监管"
+        ],
+        "tc": [
+          "亞洲保險論壇",
+          "AIF",
+          "監管"
+        ]
+      },
+      "contentKind": "event",
+      "publishedAt": "2025-12-10T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/sc/infocenter/press_releases/aif2025.html"
     },
     {
       "id": "ia-2024-annual-stats",
@@ -27437,19 +27638,19 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 299 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 299 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 302 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 302 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 299,
+      "totalItems": 302,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 134,
+          "count": 135,
           "label": "监管一手"
         },
         {
           "tier": "insurer",
-          "count": 56,
+          "count": 58,
           "label": "保司公告"
         },
         {
@@ -27533,12 +27734,12 @@ window.HKII_DATA = {
       "topThemes": [
         {
           "theme": "market",
-          "count": 127,
+          "count": 129,
           "label": "市场"
         },
         {
           "theme": "reg",
-          "count": 63,
+          "count": 64,
           "label": "监管"
         },
         {
@@ -27548,7 +27749,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "firm",
-          "count": 46,
+          "count": 48,
           "label": "保司"
         },
         {
@@ -27563,12 +27764,12 @@ window.HKII_DATA = {
         },
         {
           "theme": "macro",
-          "count": 28,
+          "count": 29,
           "label": "宏观"
         },
         {
           "theme": "channel",
-          "count": 23,
+          "count": 24,
           "label": "渠道"
         },
         {
@@ -27578,7 +27779,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "career",
-          "count": 14,
+          "count": 15,
           "label": "职业"
         }
       ],

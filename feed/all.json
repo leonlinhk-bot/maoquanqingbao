@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-05T16:26:43Z",
-  "itemCount": 299,
+  "generatedAt": "2026-08-05T16:27:51Z",
+  "itemCount": 302,
   "items": [
     {
       "id": "china-hk-policy-tax-aug05",
@@ -2629,6 +2629,19 @@
       "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html"
     },
     {
+      "id": "aia-2025-annual-vonb-202603",
+      "title": "友邦 2025 全年业绩：香港 VONB +28% 创纪录，每股股息 +10%",
+      "sourceTier": "insurer",
+      "themes": [
+        "firm",
+        "market"
+      ],
+      "publishedAt": "2025-12-31T10:00:00+08:00",
+      "score": 80,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-2025-annual-vonb-202603",
+      "originalUrl": "https://zhuanlan.zhihu.com/p/2042158693467383539"
+    },
+    {
       "id": "zhihu-2025-top10",
       "title": "知乎盘点2025香港保险十大事件：演示上限/佣金分摊/IUL/跨境打擊。",
       "sourceTier": "media",
@@ -2639,6 +2652,20 @@
       "score": 75,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=zhihu-2025-top10",
       "originalUrl": "https://zhuanlan.zhihu.com/p/1996682970564694535"
+    },
+    {
+      "id": "fwd-hk-2025-nbp-93pct",
+      "title": "富卫香港 2025 新业务保费飙升 93%：年化新保费 +74% 远超市场均值",
+      "sourceTier": "insurer",
+      "themes": [
+        "firm",
+        "market",
+        "channel"
+      ],
+      "publishedAt": "2025-12-20T10:00:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fwd-hk-2025-nbp-93pct",
+      "originalUrl": "https://insuranceasia.com/company/fwd-group"
     },
     {
       "id": "boclife-2025-record",
@@ -2664,6 +2691,20 @@
       "score": 83,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=jpmorgan-2026-outlook",
       "originalUrl": "https://www.jpmorgan.com/insights/global-research/outlook/market-outlook"
+    },
+    {
+      "id": "aif-2025-asian-insurance-forum",
+      "title": "亚洲保险论坛 2025：迎难而上 拥抱创新",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "macro",
+        "career"
+      ],
+      "publishedAt": "2025-12-10T10:00:00+08:00",
+      "score": 83,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aif-2025-asian-insurance-forum",
+      "originalUrl": "https://www.ia.org.hk/sc/infocenter/press_releases/aif2025.html"
     },
     {
       "id": "ia-2024-annual-stats",
