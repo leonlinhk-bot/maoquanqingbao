@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-05T13:16:26Z",
-  "itemCount": 293,
+  "generatedAt": "2026-08-05T16:21:26Z",
+  "itemCount": 296,
   "items": [
     {
       "id": "china-hk-policy-tax-aug05",
@@ -17,6 +17,45 @@
       "score": 86,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=china-hk-policy-tax-aug05",
       "originalUrl": "https://finance.caixin.com/m/2026-08-05/102471513.html"
+    },
+    {
+      "id": "nfra-audit-liability-aug05",
+      "title": "金融监管总局：新修订《会计师事务所职业责任保险实施办法》拟近期印发 费率与合规记录挂钩",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "product"
+      ],
+      "publishedAt": "2026-08-05T10:33:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-audit-liability-aug05",
+      "originalUrl": "http://m.toutiao.com/group/7670370104106680882/"
+    },
+    {
+      "id": "boclife-ai-cohort-2026",
+      "title": "中银人寿加入保监局 AI 促进计划：深化负责任的 AI 应用",
+      "sourceTier": "insurer",
+      "themes": [
+        "tech",
+        "insurtech"
+      ],
+      "publishedAt": "2026-08-05T10:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=boclife-ai-cohort-2026",
+      "originalUrl": "https://www.boclife.com.hk/tc/news/boc-life-joins-insurance-authority-s-ai-cohort-programme-to-advance-responsible-ai-adoption-and-elevate-customer-experience.html"
+    },
+    {
+      "id": "maybank-etiqa-202608",
+      "title": "马银行 12 亿美元收购 Etiqa 全部控制权：东南亚保险整合加速",
+      "sourceTier": "media",
+      "themes": [
+        "ma",
+        "firm"
+      ],
+      "publishedAt": "2026-08-05T10:00:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=maybank-etiqa-202608",
+      "originalUrl": "https://insuranceasia.com/insurance/news/maybank-takes-full-control-etiqa-in-12b-deal"
     },
     {
       "id": "jefferies-hk-sales-soar-aug05",
@@ -57,45 +96,6 @@
       "score": 70,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=apac-natcat-h1-2026-aug05",
       "originalUrl": "https://insuranceasia.com/insurance/in-focus/asia-pacific-losses-fall-insured-damage-hits-1b-in-h1-2026"
-    },
-    {
-      "id": "nfra-audit-liability-aug05",
-      "title": "金融监管总局：新修订《会计师事务所职业责任保险实施办法》拟近期印发 费率与合规记录挂钩",
-      "sourceTier": "official",
-      "themes": [
-        "reg",
-        "product"
-      ],
-      "publishedAt": "2026-08-05T10:33:00+08:00",
-      "score": 85,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-audit-liability-aug05",
-      "originalUrl": "http://m.toutiao.com/group/7670370104106680882/"
-    },
-    {
-      "id": "boclife-ai-cohort-2026",
-      "title": "中银人寿加入保监局 AI 促进计划：深化负责任的 AI 应用",
-      "sourceTier": "insurer",
-      "themes": [
-        "tech",
-        "insurtech"
-      ],
-      "publishedAt": "2026-08-05T10:00:00+08:00",
-      "score": 74,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=boclife-ai-cohort-2026",
-      "originalUrl": "https://www.boclife.com.hk/tc/news/boc-life-joins-insurance-authority-s-ai-cohort-programme-to-advance-responsible-ai-adoption-and-elevate-customer-experience.html"
-    },
-    {
-      "id": "maybank-etiqa-202608",
-      "title": "马银行 12 亿美元收购 Etiqa 全部控制权：东南亚保险整合加速",
-      "sourceTier": "media",
-      "themes": [
-        "ma",
-        "firm"
-      ],
-      "publishedAt": "2026-08-05T10:00:00+08:00",
-      "score": 68,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=maybank-etiqa-202608",
-      "originalUrl": "https://insuranceasia.com/insurance/news/maybank-takes-full-control-etiqa-in-12b-deal"
     },
     {
       "id": "aon-indonesia-ceo-aug04",
@@ -3717,6 +3717,33 @@
       "originalUrl": "https://www.chubb.com/hk-en/personal/cias.html"
     },
     {
+      "id": "ia-cashier-order-circular-202404",
+      "title": "保监局发通函：加强本票缴付保费的管控措施",
+      "sourceTier": "official",
+      "themes": [
+        "compliance",
+        "reg"
+      ],
+      "publishedAt": "2024-04-15T10:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-cashier-order-circular-202404",
+      "originalUrl": "https://www.legco.gov.hk/yr2025/chinese/counmtg/papers/cm20251022-sp104-c.pdf"
+    },
+    {
+      "id": "ia-icac-joint-action-202404",
+      "title": "保监局与廉政公署首次联合行动：打击向内地旅客无牌销售保单",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "compliance",
+        "offshore"
+      ],
+      "publishedAt": "2024-04-10T10:00:00+08:00",
+      "score": 82,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-icac-joint-action-202404",
+      "originalUrl": "https://www.ia.org.hk/tc/infocenter/files/IA_AR23-24_Synopsis_tc.pdf"
+    },
+    {
       "id": "fstb-fo-policy-202403",
       "title": "港府发布《家族办公室政策宣言》：八大措施打造家办枢纽",
       "sourceTier": "official",
@@ -3729,6 +3756,20 @@
       "score": 82,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fstb-fo-policy-202403",
       "originalUrl": "https://www.fstb.gov.hk/en/business-family-office-policy-statement.html"
+    },
+    {
+      "id": "ia-gl33-ils-2024",
+      "title": "保监局公布指引 33：保险相连证券（ILS）特定目的业务授权框架",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "macro",
+        "capital-market"
+      ],
+      "publishedAt": "2024-03-20T10:00:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-gl33-ils-2024",
+      "originalUrl": "https://www.kingandwood.com/hk/zh/insights/latest-thinking/rise-of-the-hk-ils-market-insurance-authority-publishes-gl-on-application-to-carry-on-spb.html"
     },
     {
       "id": "nfra-insurer-rating-202403",

@@ -2,10 +2,10 @@
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-05T18:15:00+08:00",
-    "itemCount": 293,
+    "itemCount": 296,
     "windowNote": {
-      "sc": "本库293条。",
-      "tc": "本庫293條。"
+      "sc": "本库296条。",
+      "tc": "本庫296條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -249,6 +249,212 @@
       "evergreen": false
     },
     {
+      "id": "nfra-audit-liability-aug05",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "pending",
+      "sourceTier": "official",
+      "sourceKey": "nfra:audit-liability-insurance-20260805",
+      "title": {
+        "sc": "金融监管总局：新修订《会计师事务所职业责任保险实施办法》拟近期印发 费率与合规记录挂钩",
+        "tc": "金融監管總局：新修訂《會計師事務所職業責任保險實施辦法》擬近期印發 費率與合規記錄掛鉤"
+      },
+      "summary": {
+        "sc": "金融监管总局答复政协提案：与财政部联合起草的新修订《会计师事务所职业责任保险实施办法》拟近期印发。办法将事务所处罚、涉诉及历史赔付记录与费率挂钩，鼓励共保提升承保能力，增设账册丢失、追溯期扩展等附加险，并设职业责任保险专家委员会。[EN原文]",
+        "tc": "金融監管總局答覆政協提案：與財政部聯合起草的新修訂《會計師事務所職業責任保險實施辦法》擬近期印發。辦法將事務所處罰、涉訴及歷史賠付記錄與費率掛鉤，鼓勵共保提升承保能力，增設賬冊丟失、追溯期擴展等附加險，並設職業責任保險專家委員會。[EN原文]"
+      },
+      "why": {
+        "sc": "责任险「费率与合规记录挂钩」是内地财险定价精细化的最新样本，方向与港险佣金及定价监管趋同；对关注内地保险政策的中介机构，这是理解职业责任险市场扩容（含大湾区跨境执业需求）的参照。",
+        "tc": "責任險「費率與合規記錄掛鉤」是內地財險定價精細化的最新樣本，方向與港險佣金及定價監管趨同；對關注內地保險政策的中介機構，這是理解職業責任險市場擴容（含大灣區跨境執業需求）的參照。"
+      },
+      "actions": {
+        "front": {
+          "sc": "责任险费率挂钩合规记录=定价精细化",
+          "tc": "責任險費率掛鉤合規記錄=定價精細化"
+        },
+        "midback": {
+          "sc": "共保+附加险=职业责任险扩容信号",
+          "tc": "共保+附加險=職業責任險擴容信號"
+        },
+        "lead": {
+          "sc": "关注印发后的行业示范条款",
+          "tc": "關注印發後的行業示範條款"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "金融监管总局（via 新浪财经/金融一线）",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "reg",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "职业责任保险",
+          "会计师事务所",
+          "费率挂钩",
+          "金融监管总局",
+          "共保"
+        ],
+        "tc": [
+          "職業責任保險",
+          "會計師事務所",
+          "費率掛鉤",
+          "金融監管總局",
+          "共保"
+        ]
+      },
+      "contentKind": "circular",
+      "publishedAt": "2026-08-05T10:33:00+08:00",
+      "originalUrl": "http://m.toutiao.com/group/7670370104106680882/",
+      "ingestedAt": "2026-08-05T18:15:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "boclife-ai-cohort-2026",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "boclife",
+      "title": {
+        "sc": "中银人寿加入保监局 AI 促进计划：深化负责任的 AI 应用",
+        "tc": "中銀人壽加入保監局 AI 促進計劃：深化負責任的 AI 應用"
+      },
+      "summary": {
+        "sc": "中银人寿宣布参与保险业监管局「人工智能促进计划」（AI Cohort Programme），深化科技赋能、推动负责任的 AI 应用，提升客户体验。该计划由保监局主导，已覆盖 AIA、宏利、保诚、AXA 等主要保司。",
+        "tc": "中銀人壽宣佈參與保險業監管局「人工智能促進計劃」（AI Cohort Programme），深化科技賦能、推動負責任的 AI 應用，提升客戶體驗。"
+      },
+      "why": {
+        "sc": "AI Cohort 从「巨头俱乐部」扩展到银保系玩家=监管主导的 AI 试点正在全行业铺开。对 IFA：理解保司的 AI 布局方向（客服/核保/销售工具），是判断服务体验迭代的先行指标。",
+        "tc": "AI Cohort 從「巨頭俱樂部」擴展到銀保系玩家=監管主導的 AI 試點正在全行業鋪開。對 IFA：理解保司的 AI 佈局方向，是判斷服務體驗迭代的先行指標。"
+      },
+      "actions": {
+        "front": {
+          "sc": "银保系加入AI试点=全行业AI应用铺开",
+          "tc": "銀保系加入AI試點=全行業AI應用鋪開"
+        },
+        "midback": {
+          "sc": "负责任AI=监管关注的核心原则",
+          "tc": "負責任AI=監管關注的核心原則"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 3,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "中银人寿 · 2026年8月",
+        "lang": "sc"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "tech",
+        "insurtech"
+      ],
+      "tags": {
+        "sc": [
+          "AI",
+          "中银人寿",
+          "监管试点"
+        ],
+        "tc": [
+          "AI",
+          "中銀人壽",
+          "監管試點"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-08-05T10:00:00+08:00",
+      "originalUrl": "https://www.boclife.com.hk/tc/news/boc-life-joins-insurance-authority-s-ai-cohort-programme-to-advance-responsible-ai-adoption-and-elevate-customer-experience.html"
+    },
+    {
+      "id": "maybank-etiqa-202608",
+      "clusterCount": 1,
+      "score": 68,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "马银行 12 亿美元收购 Etiqa 全部控制权：东南亚保险整合加速",
+        "tc": "馬銀行 12 億美元收購 Etiqa 全部控制權：東南亞保險整合加速"
+      },
+      "summary": {
+        "sc": "Maybank（马来亚银行）以 12 亿美元收购 Etiqa 全部控制权，此前已持有 69.05% 股权。Etiqa 是东南亚重要保险公司。交易显示银行系保险整合在东南亚加速。",
+        "tc": "Maybank（馬來亞銀行）以 12 億美元收購 Etiqa 全部控制權，此前已持有 69.05% 股權。Etiqa 是東南亞重要保險公司。"
+      },
+      "why": {
+        "sc": "东南亚保险整合是观察香港市场的参照系——区域资本流向哪里，香港的枢纽角色就有多稳。银行收购保险公司=渠道+产品一体化的趋势在区域内蔓延。",
+        "tc": "東南亞保險整合是觀察香港市場的參照系。銀行收購保險公司=渠道+產品一體化的趨勢在區域內蔓延。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "区域并购活跃=保险资产价值重估",
+          "tc": "區域併購活躍=保險資產價值重估"
+        },
+        "cross": {
+          "sc": "东南亚整合对照香港：枢纽地位不变",
+          "tc": "東南亞整合對照香港：樞紐地位不變"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "InsuranceAsia · 2026年8月5日",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "ma",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "Maybank",
+          "Etiqa",
+          "并购"
+        ],
+        "tc": [
+          "Maybank",
+          "Etiqa",
+          "併購"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-05T10:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/maybank-takes-full-control-etiqa-in-12b-deal"
+    },
+    {
       "id": "jefferies-hk-sales-soar-aug05",
       "clusterCount": 1,
       "score": 72,
@@ -482,212 +688,6 @@
       },
       "featured": false,
       "evergreen": false
-    },
-    {
-      "id": "nfra-audit-liability-aug05",
-      "clusterCount": 1,
-      "score": 85,
-      "verifyStatus": "pending",
-      "sourceTier": "official",
-      "sourceKey": "nfra:audit-liability-insurance-20260805",
-      "title": {
-        "sc": "金融监管总局：新修订《会计师事务所职业责任保险实施办法》拟近期印发 费率与合规记录挂钩",
-        "tc": "金融監管總局：新修訂《會計師事務所職業責任保險實施辦法》擬近期印發 費率與合規記錄掛鉤"
-      },
-      "summary": {
-        "sc": "金融监管总局答复政协提案：与财政部联合起草的新修订《会计师事务所职业责任保险实施办法》拟近期印发。办法将事务所处罚、涉诉及历史赔付记录与费率挂钩，鼓励共保提升承保能力，增设账册丢失、追溯期扩展等附加险，并设职业责任保险专家委员会。[EN原文]",
-        "tc": "金融監管總局答覆政協提案：與財政部聯合起草的新修訂《會計師事務所職業責任保險實施辦法》擬近期印發。辦法將事務所處罰、涉訴及歷史賠付記錄與費率掛鉤，鼓勵共保提升承保能力，增設賬冊丟失、追溯期擴展等附加險，並設職業責任保險專家委員會。[EN原文]"
-      },
-      "why": {
-        "sc": "责任险「费率与合规记录挂钩」是内地财险定价精细化的最新样本，方向与港险佣金及定价监管趋同；对关注内地保险政策的中介机构，这是理解职业责任险市场扩容（含大湾区跨境执业需求）的参照。",
-        "tc": "責任險「費率與合規記錄掛鉤」是內地財險定價精細化的最新樣本，方向與港險佣金及定價監管趨同；對關注內地保險政策的中介機構，這是理解職業責任險市場擴容（含大灣區跨境執業需求）的參照。"
-      },
-      "actions": {
-        "front": {
-          "sc": "责任险费率挂钩合规记录=定价精细化",
-          "tc": "責任險費率掛鉤合規記錄=定價精細化"
-        },
-        "midback": {
-          "sc": "共保+附加险=职业责任险扩容信号",
-          "tc": "共保+附加險=職業責任險擴容信號"
-        },
-        "lead": {
-          "sc": "关注印发后的行业示范条款",
-          "tc": "關注印發後的行業示範條款"
-        },
-        "cross": {}
-      },
-      "rolesImpact": {
-        "front": 1,
-        "midback": 1,
-        "lead": 1,
-        "cross": 0
-      },
-      "source": {
-        "sc": "金融监管总局（via 新浪财经/金融一线）",
-        "lang": "zh"
-      },
-      "boards": [
-        "reg"
-      ],
-      "themes": [
-        "reg",
-        "product"
-      ],
-      "tags": {
-        "sc": [
-          "职业责任保险",
-          "会计师事务所",
-          "费率挂钩",
-          "金融监管总局",
-          "共保"
-        ],
-        "tc": [
-          "職業責任保險",
-          "會計師事務所",
-          "費率掛鉤",
-          "金融監管總局",
-          "共保"
-        ]
-      },
-      "contentKind": "circular",
-      "publishedAt": "2026-08-05T10:33:00+08:00",
-      "originalUrl": "http://m.toutiao.com/group/7670370104106680882/",
-      "ingestedAt": "2026-08-05T18:15:00+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
-    },
-    {
-      "id": "boclife-ai-cohort-2026",
-      "clusterCount": 1,
-      "score": 74,
-      "verifyStatus": "verified",
-      "sourceTier": "insurer",
-      "sourceKey": "boclife",
-      "title": {
-        "sc": "中银人寿加入保监局 AI 促进计划：深化负责任的 AI 应用",
-        "tc": "中銀人壽加入保監局 AI 促進計劃：深化負責任的 AI 應用"
-      },
-      "summary": {
-        "sc": "中银人寿宣布参与保险业监管局「人工智能促进计划」（AI Cohort Programme），深化科技赋能、推动负责任的 AI 应用，提升客户体验。该计划由保监局主导，已覆盖 AIA、宏利、保诚、AXA 等主要保司。",
-        "tc": "中銀人壽宣佈參與保險業監管局「人工智能促進計劃」（AI Cohort Programme），深化科技賦能、推動負責任的 AI 應用，提升客戶體驗。"
-      },
-      "why": {
-        "sc": "AI Cohort 从「巨头俱乐部」扩展到银保系玩家=监管主导的 AI 试点正在全行业铺开。对 IFA：理解保司的 AI 布局方向（客服/核保/销售工具），是判断服务体验迭代的先行指标。",
-        "tc": "AI Cohort 從「巨頭俱樂部」擴展到銀保系玩家=監管主導的 AI 試點正在全行業鋪開。對 IFA：理解保司的 AI 佈局方向，是判斷服務體驗迭代的先行指標。"
-      },
-      "actions": {
-        "front": {
-          "sc": "银保系加入AI试点=全行业AI应用铺开",
-          "tc": "銀保系加入AI試點=全行業AI應用鋪開"
-        },
-        "midback": {
-          "sc": "负责任AI=监管关注的核心原则",
-          "tc": "負責任AI=監管關注的核心原則"
-        },
-        "lead": {},
-        "cross": {}
-      },
-      "rolesImpact": {
-        "front": 3,
-        "midback": 3,
-        "lead": 2,
-        "cross": 2
-      },
-      "source": {
-        "sc": "中银人寿 · 2026年8月",
-        "lang": "sc"
-      },
-      "boards": [
-        "market"
-      ],
-      "themes": [
-        "tech",
-        "insurtech"
-      ],
-      "tags": {
-        "sc": [
-          "AI",
-          "中银人寿",
-          "监管试点"
-        ],
-        "tc": [
-          "AI",
-          "中銀人壽",
-          "監管試點"
-        ]
-      },
-      "contentKind": "press",
-      "publishedAt": "2026-08-05T10:00:00+08:00",
-      "originalUrl": "https://www.boclife.com.hk/tc/news/boc-life-joins-insurance-authority-s-ai-cohort-programme-to-advance-responsible-ai-adoption-and-elevate-customer-experience.html"
-    },
-    {
-      "id": "maybank-etiqa-202608",
-      "clusterCount": 1,
-      "score": 68,
-      "verifyStatus": "pending",
-      "sourceTier": "media",
-      "sourceKey": "insuranceasia",
-      "title": {
-        "sc": "马银行 12 亿美元收购 Etiqa 全部控制权：东南亚保险整合加速",
-        "tc": "馬銀行 12 億美元收購 Etiqa 全部控制權：東南亞保險整合加速"
-      },
-      "summary": {
-        "sc": "Maybank（马来亚银行）以 12 亿美元收购 Etiqa 全部控制权，此前已持有 69.05% 股权。Etiqa 是东南亚重要保险公司。交易显示银行系保险整合在东南亚加速。",
-        "tc": "Maybank（馬來亞銀行）以 12 億美元收購 Etiqa 全部控制權，此前已持有 69.05% 股權。Etiqa 是東南亞重要保險公司。"
-      },
-      "why": {
-        "sc": "东南亚保险整合是观察香港市场的参照系——区域资本流向哪里，香港的枢纽角色就有多稳。银行收购保险公司=渠道+产品一体化的趋势在区域内蔓延。",
-        "tc": "東南亞保險整合是觀察香港市場的參照系。銀行收購保險公司=渠道+產品一體化的趨勢在區域內蔓延。"
-      },
-      "actions": {
-        "front": {},
-        "midback": {},
-        "lead": {
-          "sc": "区域并购活跃=保险资产价值重估",
-          "tc": "區域併購活躍=保險資產價值重估"
-        },
-        "cross": {
-          "sc": "东南亚整合对照香港：枢纽地位不变",
-          "tc": "東南亞整合對照香港：樞紐地位不變"
-        }
-      },
-      "rolesImpact": {
-        "front": 1,
-        "midback": 1,
-        "lead": 2,
-        "cross": 2
-      },
-      "source": {
-        "sc": "InsuranceAsia · 2026年8月5日",
-        "lang": "zh"
-      },
-      "boards": [
-        "market"
-      ],
-      "themes": [
-        "ma",
-        "firm"
-      ],
-      "tags": {
-        "sc": [
-          "Maybank",
-          "Etiqa",
-          "并购"
-        ],
-        "tc": [
-          "Maybank",
-          "Etiqa",
-          "併購"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2026-08-05T10:00:00+08:00",
-      "originalUrl": "https://insuranceasia.com/insurance/news/maybank-takes-full-control-etiqa-in-12b-deal"
     },
     {
       "id": "aon-indonesia-ceo-aug04",
@@ -21774,6 +21774,141 @@
       "originalUrl": "https://www.chubb.com/hk-en/personal/cias.html"
     },
     {
+      "id": "ia-cashier-order-circular-202404",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "保监局发通函：加强本票缴付保费的管控措施",
+        "tc": "保監局發通函：加強本票繳付保費的管控措施"
+      },
+      "summary": {
+        "sc": "2024 年 4 月，保监局在实地查察后发现保险公司对于以本票缴付保费的管控措施大致无效、容易被规避，故发出通函，要求缓减涉及第三方支付相关的风险，加强本票缴费管控。",
+        "tc": "2024 年 4 月，保監局在實地查察後發現保險公司對於以本票繳付保費的管控措施大致無效，故發出通函，要求緩減涉及第三方支付相關的風險。"
+      },
+      "why": {
+        "sc": "本票=大额保单跨境缴费的主要工具之一。监管盯上本票管控，说明第三方代缴/代付模式正在被收紧——这是跨境保单缴费合规的又一个关注点。",
+        "tc": "本票=大額保單跨境繳費的主要工具之一。監管盯上本票管控，說明第三方代繳/代付模式正在被收緊。"
+      },
+      "actions": {
+        "front": {
+          "sc": "本票缴费管控=大额单操作合规要点",
+          "tc": "本票繳費管控=大額單操作合規要點"
+        },
+        "midback": {
+          "sc": "第三方支付风险=尽调必查项",
+          "tc": "第三方支付風險=盡調必查項"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "跨境缴费渠道=合规架构设计的一部分",
+          "tc": "跨境繳費渠道=合規架構設計的一部分"
+        }
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 4,
+        "lead": 1,
+        "cross": 3
+      },
+      "source": {
+        "sc": "保监局 · 2024年4月",
+        "lang": "sc"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "compliance",
+        "reg"
+      ],
+      "tags": {
+        "sc": [
+          "本票",
+          "第三方支付",
+          "通函"
+        ],
+        "tc": [
+          "本票",
+          "第三方支付",
+          "通函"
+        ]
+      },
+      "contentKind": "circular",
+      "publishedAt": "2024-04-15T10:00:00+08:00",
+      "originalUrl": "https://www.legco.gov.hk/yr2025/chinese/counmtg/papers/cm20251022-sp104-c.pdf"
+    },
+    {
+      "id": "ia-icac-joint-action-202404",
+      "clusterCount": 1,
+      "score": 82,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "保监局与廉政公署首次联合行动：打击向内地旅客无牌销售保单",
+        "tc": "保監局與廉政公署首次聯合行動：打擊向內地旅客無牌銷售保單"
+      },
+      "summary": {
+        "sc": "2024 年 4 月，保监局与廉政公署采取首次联合执法行动，打击怀疑向内地旅客无牌销售保单的不合规模式。后续通函指出这类模式的共通点，并阐明授权保险公司和持牌经纪采用转介业务模式须遵守的原则。",
+        "tc": "2024 年 4 月，保監局與廉政公署採取首次聯合執法行動，打擊懷疑向內地旅客無牌銷售保單的不合規模式。後續通函闡明轉介業務模式須遵守的原則。"
+      },
+      "why": {
+        "sc": "ICAC 进场=无牌销售从「监管问题」升级为「执法问题」。对 IFA：跨境转介业务从此有了明确红线——这是理解后来所有转介费规管的起点。",
+        "tc": "ICAC 進場=無牌銷售從「監管問題」升級為「執法問題」。對 IFA：跨境轉介業務從此有了明確紅線。"
+      },
+      "actions": {
+        "front": {
+          "sc": "跨境转介红线=合规经营的生命线",
+          "tc": "跨境轉介紅線=合規經營的生命線"
+        },
+        "midback": {
+          "sc": "联合执法=转介模式合规审查加严",
+          "tc": "聯合執法=轉介模式合規審查加嚴"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "内地客销售合规=跨境业务的第一课",
+          "tc": "內地客銷售合規=跨境業務的第一課"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 4,
+        "lead": 2,
+        "cross": 4
+      },
+      "source": {
+        "sc": "保监局 · 2024年4月",
+        "lang": "sc"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "reg",
+        "compliance",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "廉政公署",
+          "无牌销售",
+          "联合行动"
+        ],
+        "tc": [
+          "廉政公署",
+          "無牌銷售",
+          "聯合行動"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2024-04-10T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/tc/infocenter/files/IA_AR23-24_Synopsis_tc.pdf"
+    },
+    {
       "id": "fstb-fo-policy-202403",
       "clusterCount": 1,
       "score": 82,
@@ -21843,6 +21978,71 @@
       "contentKind": "press",
       "publishedAt": "2024-03-24T10:00:00+08:00",
       "originalUrl": "https://www.fstb.gov.hk/en/business-family-office-policy-statement.html"
+    },
+    {
+      "id": "ia-gl33-ils-2024",
+      "clusterCount": 1,
+      "score": 76,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "保监局公布指引 33：保险相连证券（ILS）特定目的业务授权框架",
+        "tc": "保監局公佈指引 33：保險相連證券（ILS）特定目的業務授權框架"
+      },
+      "summary": {
+        "sc": "保监局公布《申请授权经营特定目的业务的指引》（指引 33），标志着香港保险相连证券（ILS）制度进程的重要一步。框架允许保险公司通过特定目的载体发行 ILS（如巨灾债券），提升香港作为再保险及 ILS 枢纽的地位。",
+        "tc": "保監局公佈《申請授權經營特定目的業務的指引》（指引 33），標誌著香港保險相連證券（ILS）制度進程的重要一步。框架允許保險公司通過特定目的載體發行 ILS（如巨災債券）。"
+      },
+      "why": {
+        "sc": "ILS/巨灾债券=保险资本市场化的工具。指引 33 让香港在这个赛道上有了制度基础——对 IFA 是间接影响，但对理解「香港=风险管理中心」的完整拼图很重要。",
+        "tc": "ILS/巨災債券=保險資本市場化的工具。指引 33 讓香港在這個賽道上有了制度基礎。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "ILS制度落地=风险管理中心拼图完整",
+          "tc": "ILS制度落地=風險管理中心拼圖完整"
+        },
+        "cross": {
+          "sc": "保险+资本市场=香港的独特枢纽价值",
+          "tc": "保險+資本市場=香港的獨特樞紐價值"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 3,
+        "cross": 3
+      },
+      "source": {
+        "sc": "保监局 · 2024年",
+        "lang": "sc"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reg",
+        "macro",
+        "capital-market"
+      ],
+      "tags": {
+        "sc": [
+          "保险相连证券",
+          "ILS",
+          "指引33"
+        ],
+        "tc": [
+          "保險相連證券",
+          "ILS",
+          "指引33"
+        ]
+      },
+      "contentKind": "circular",
+      "publishedAt": "2024-03-20T10:00:00+08:00",
+      "originalUrl": "https://www.kingandwood.com/hk/zh/insights/latest-thinking/rise-of-the-hk-ils-market-insurance-authority-publishes-gl-on-application-to-carry-on-spb.html"
     },
     {
       "id": "nfra-insurer-rating-202403",
@@ -27034,14 +27234,14 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 293 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 293 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 296 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 296 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 293,
+      "totalItems": 296,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 131,
+          "count": 134,
           "label": "监管一手"
         },
         {
@@ -27135,12 +27335,12 @@
         },
         {
           "theme": "reg",
-          "count": 59,
+          "count": 62,
           "label": "监管"
         },
         {
           "theme": "offshore",
-          "count": 46,
+          "count": 47,
           "label": "跨境"
         },
         {
@@ -27150,7 +27350,7 @@
         },
         {
           "theme": "compliance",
-          "count": 41,
+          "count": 43,
           "label": "合规"
         },
         {
@@ -27160,7 +27360,7 @@
         },
         {
           "theme": "macro",
-          "count": 27,
+          "count": 28,
           "label": "宏观"
         },
         {
