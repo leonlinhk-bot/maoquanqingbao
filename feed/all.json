@@ -1,48 +1,9 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-05T16:28:59Z",
-  "itemCount": 305,
+  "generatedAt": "2026-08-05T16:29:27Z",
+  "itemCount": 309,
   "items": [
-    {
-      "id": "cupi-am-best-profits-aug05",
-      "title": "AM Best：中华联合财险盈利依赖投资收益 承保接近盈亏平衡",
-      "sourceTier": "pro",
-      "themes": [
-        "firm",
-        "market"
-      ],
-      "publishedAt": "2026-08-05T05:30:00+08:00",
-      "score": 72,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=cupi-am-best-profits-aug05",
-      "originalUrl": "https://insuranceasia.com/insurance/news/investment-income-props-china-united-property-profits"
-    },
-    {
-      "id": "beazley-h1-profits-halve-aug05",
-      "title": "Beazley上半年税前利润腰斩53% 网络险费率连跌12季 苏黎世收购推进中",
-      "sourceTier": "media",
-      "themes": [
-        "market",
-        "tech"
-      ],
-      "publishedAt": "2026-08-05T14:30:00+08:00",
-      "score": 64,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=beazley-h1-profits-halve-aug05",
-      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/beazleys-profits-halve-as-cyber-prices-and-middle-east-squeeze-the-market-584983.aspx"
-    },
-    {
-      "id": "korea-health-gap-brokers-aug05",
-      "title": "韩国健康险三重压力：公共医保财政悬崖+补偿险亏损1.87万亿韩元+佣金分期改革",
-      "sourceTier": "media",
-      "themes": [
-        "channel",
-        "market"
-      ],
-      "publishedAt": "2026-08-05T10:00:00+08:00",
-      "score": 66,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=korea-health-gap-brokers-aug05",
-      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/south-koreas-health-coverage-gap-is-widening--and-brokers-are-in-the-middle-585038.aspx"
-    },
     {
       "id": "china-hk-policy-tax-aug05",
       "title": "内地开始对香港保单收益征20%个税：北京杭州已执行 保诚领跌",
@@ -58,6 +19,19 @@
       "originalUrl": "https://finance.caixin.com/m/2026-08-05/102471513.html"
     },
     {
+      "id": "beazley-h1-profits-halve-aug05",
+      "title": "Beazley上半年税前利润腰斩53% 网络险费率连跌12季 苏黎世收购推进中",
+      "sourceTier": "media",
+      "themes": [
+        "market",
+        "tech"
+      ],
+      "publishedAt": "2026-08-05T14:30:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=beazley-h1-profits-halve-aug05",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/beazleys-profits-halve-as-cyber-prices-and-middle-east-squeeze-the-market-584983.aspx"
+    },
+    {
       "id": "nfra-audit-liability-aug05",
       "title": "金融监管总局：新修订《会计师事务所职业责任保险实施办法》拟近期印发 费率与合规记录挂钩",
       "sourceTier": "official",
@@ -69,6 +43,19 @@
       "score": 85,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-audit-liability-aug05",
       "originalUrl": "http://m.toutiao.com/group/7670370104106680882/"
+    },
+    {
+      "id": "korea-health-gap-brokers-aug05",
+      "title": "韩国健康险三重压力：公共医保财政悬崖+补偿险亏损1.87万亿韩元+佣金分期改革",
+      "sourceTier": "media",
+      "themes": [
+        "channel",
+        "market"
+      ],
+      "publishedAt": "2026-08-05T10:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=korea-health-gap-brokers-aug05",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/south-koreas-health-coverage-gap-is-widening--and-brokers-are-in-the-middle-585038.aspx"
     },
     {
       "id": "boclife-ai-cohort-2026",
@@ -122,6 +109,19 @@
       "score": 65,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=etiqa-index-endowment-aug05",
       "originalUrl": "https://insuranceasia.com/insurance/news/etiqa-launches-endowment-plan-amidst-volatility-fears"
+    },
+    {
+      "id": "cupi-am-best-profits-aug05",
+      "title": "AM Best：中华联合财险盈利依赖投资收益 承保接近盈亏平衡",
+      "sourceTier": "pro",
+      "themes": [
+        "firm",
+        "market"
+      ],
+      "publishedAt": "2026-08-05T05:30:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=cupi-am-best-profits-aug05",
+      "originalUrl": "https://insuranceasia.com/insurance/news/investment-income-props-china-united-property-profits"
     },
     {
       "id": "apac-natcat-h1-2026-aug05",
@@ -2263,6 +2263,20 @@
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/files/Captive_Forum_2026_Speech_Mr_Clement_Lau_CN.pdf"
     },
     {
+      "id": "chinalife-2025-profit",
+      "title": "中国人寿 2025 全年净利 1,566 亿元 +43%：母集团营收破 1.28 万亿",
+      "sourceTier": "insurer",
+      "themes": [
+        "firm",
+        "market",
+        "offshore"
+      ],
+      "publishedAt": "2026-03-25T10:00:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=chinalife-2025-profit",
+      "originalUrl": "https://www.moomoo.com/news/notice/306734697/china-life-overseas-regulatory-announcement-china-life-insurance-company-limited"
+    },
+    {
       "id": "chubb-2026-dementia",
       "title": "Chubb Life香港推出创新「Side by Side」认知障碍症保险计划。",
       "sourceTier": "insurer",
@@ -2273,6 +2287,19 @@
       "score": 81,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=chubb-2026-dementia",
       "originalUrl": "https://hk.linkedin.com/company/chubb-life-hong-kong"
+    },
+    {
+      "id": "chubb-50th-2026",
+      "title": "Chubb 安达人寿香港庆祝 50 周年：2025 全年集团净利 103 亿美元",
+      "sourceTier": "insurer",
+      "themes": [
+        "firm",
+        "product"
+      ],
+      "publishedAt": "2026-03-24T10:00:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=chubb-50th-2026",
+      "originalUrl": "https://www.chubb.com/hk-zh/media-center/life-insurance-news-releases.html"
     },
     {
       "id": "aof-hkimr-family-office-202603",
@@ -2681,6 +2708,19 @@
       "originalUrl": "https://zhuanlan.zhihu.com/p/2042158693467383539"
     },
     {
+      "id": "ctflife-fy2025-nbv",
+      "title": "周大福人寿 2025 财年新业务价值 10.03 亿港元，NBV 利润率升至 32%",
+      "sourceTier": "insurer",
+      "themes": [
+        "firm",
+        "market"
+      ],
+      "publishedAt": "2025-12-31T10:00:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ctflife-fy2025-nbv",
+      "originalUrl": "https://www.ctfs.com.hk/zh-HK/media-hub/press-releases/2026/FY2026_Interim_Results"
+    },
+    {
       "id": "zhihu-2025-top10",
       "title": "知乎盘点2025香港保险十大事件：演示上限/佣金分摊/IUL/跨境打擊。",
       "sourceTier": "media",
@@ -2806,6 +2846,19 @@
       "score": 83,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sfc-2025-wmc-insurance",
       "originalUrl": "https://www.sfc.hk/en/Regulatory-functions/Intermediaries/Supervision/Cross-boundary-WMC"
+    },
+    {
+      "id": "hsbc-insurance-h1-2025",
+      "title": "汇丰保险 2025 上半年新承保保费 +34%：香港为增长主力",
+      "sourceTier": "insurer",
+      "themes": [
+        "channel",
+        "firm"
+      ],
+      "publishedAt": "2025-10-31T10:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hsbc-insurance-h1-2025",
+      "originalUrl": "https://www.about.hsbc.com.hk/-/media/hong-kong/zh-hk/investor-relations/factbooks/251031-hsbc-insurance-factbook-tc.pdf"
     },
     {
       "id": "ia-20251024-1h2025-stats",

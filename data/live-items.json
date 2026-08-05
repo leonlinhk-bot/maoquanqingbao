@@ -2,10 +2,10 @@
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-06T18:08:00+08:00",
-    "itemCount": 305,
+    "itemCount": 309,
     "windowNote": {
-      "sc": "本库305条。",
-      "tc": "本庫305條。"
+      "sc": "本库309条。",
+      "tc": "本庫309條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -169,77 +169,78 @@
   ],
   "items": [
     {
-      "id": "cupi-am-best-profits-aug05",
-      "clusterCount": 1,
-      "score": 72,
+      "id": "china-hk-policy-tax-aug05",
+      "clusterCount": 3,
+      "score": 86,
       "verifyStatus": "verified",
-      "sourceTier": "pro",
-      "sourceKey": "insuranceasia:cupi-am-best-20260805",
+      "sourceTier": "media",
+      "sourceKey": "caixin:hk-policy-tax-20260805",
       "title": {
-        "sc": "AM Best：中华联合财险盈利依赖投资收益 承保接近盈亏平衡",
-        "tc": "AM Best：中華聯合財險盈利依賴投資收益 承保接近盈虧平衡"
+        "sc": "内地开始对香港保单收益征20%个税：北京杭州已执行 保诚领跌",
+        "tc": "內地開始對香港保單收益徵20%個稅：北京杭州已執行 保誠領跌"
       },
       "summary": {
-        "sc": "AM Best研究指出，中华联合财险（CUPI）盈利主要由投资收益驱动，承保结果接近盈亏平衡；2025年资本及盈余增5.4%至27.8亿美元，风险调整后资本维持极强水平。公司为中投旗下国内主要农险保司，占全国非寿险市场约4%、农险市场12%；相对较高承保杠杆及政策性农险大额应收保费为主要抵消因素。[EN原文]",
-        "tc": "AM Best研究指出，中華聯合財險（CUPI）盈利主要由投資收益驅動，承保結果接近盈虧平衡；2025年資本及盈餘增5.4%至27.8億美元，風險調整後資本維持極強水平。公司為中投旗下國內主要農險保司，佔全國非壽險市場約4%、農險市場12%；相對較高承保槓桿及政策性農險大額應收保費為主要抵消因素。[EN原文]"
+        "sc": "财新独家：内地税务机关已开始对境外保单收益征个税，北京、杭州已有执行案例，对香港保单分红及预缴保费利息适用20%税率；CRS数据共享令征管落地，预计执行趋严。消息令保诚股价一度跌13%，汇丰、渣打跟随下挫。",
+        "tc": "財新獨家：內地稅務機關已開始對境外保單收益徵個稅，北京、杭州已有執行案例，對香港保單分紅及預繳保費利息適用20%稅率；CRS數據共享令徵管落地，預計執行趨嚴。消息令保誠股價一度跌13%，匯豐、渣打跟隨下挫。"
       },
       "why": {
-        "sc": "中资财险「承保弱、投资补」困局+主权基金股东支持的样本，可与港险财险板块承保表现对照；政策性农险应收保费风险亦是理解内地财险报表的素材。",
-        "tc": "中資財險「承保弱、投資補」困局+主權基金股東支持的樣本，可與港險財險板塊承保表現對照；政策性農險應收保費風險亦是理解內地財險報表的素材。"
+        "sc": "继7月离岸信托个税新规后，内地对跨境金融资产的又一次定向收紧，直接冲击MCV储蓄险的税后回报叙事。对IFA：与内地客群沟通必须前置税务合规议题，「保单收益免税」话术已不可用；对持有多张储蓄保单的内地客户，这是需要主动提示的风险事件。",
+        "tc": "繼7月離岸信託個稅新規後，內地對跨境金融資產的又一次定向收緊，直接衝擊MCV儲蓄險的稅後回報敘事。對IFA：與內地客群溝通必須前置稅務合規議題，「保單收益免稅」話術已不可用；對持有多張儲蓄保單的內地客戶，這是需要主動提示的風險事件。"
       },
       "actions": {
         "front": {
-          "sc": "投资收益撑盈利=内地财险承保仍弱",
-          "tc": "投資收益撐盈利=內地財險承保仍弱"
+          "sc": "内地对港险收益征税落地=储蓄险税后回报逻辑生变",
+          "tc": "內地對港險收益徵稅落地=儲蓄險稅後回報邏輯生變"
         },
         "midback": {
-          "sc": "农险应收保费=政策性业务的报表风险点",
-          "tc": "農險應收保費=政策性業務的報表風險點"
+          "sc": "CRS交换+20%税率=征管闭环正在形成",
+          "tc": "CRS交換+20%稅率=徵管閉環正在形成"
         },
         "lead": {
-          "sc": "中投股东支持=资本实力背书",
-          "tc": "中投股東支持=資本實力背書"
+          "sc": "MCV客户需重新评估税后IRR与持有结构",
+          "tc": "MCV客戶需重新評估稅後IRR與持有結構"
         },
         "cross": {}
       },
       "rolesImpact": {
-        "front": 0,
+        "front": 3,
         "midback": 2,
-        "lead": 1,
-        "cross": 0
+        "lead": 3,
+        "cross": 1
       },
       "source": {
-        "sc": "Insurance Asia / AM Best",
-        "tc": "Insurance Asia / AM Best",
-        "lang": "en"
+        "sc": "财新网 / Reuters",
+        "lang": "zh"
       },
       "boards": [
-        "insurer"
+        "reg",
+        "market"
       ],
       "themes": [
-        "firm",
-        "market"
+        "compliance",
+        "offshore",
+        "macro"
       ],
       "tags": {
         "sc": [
-          "AM Best",
-          "中华联合财险",
-          "投资收益",
-          "农险",
-          "评级"
+          "境外保单征税",
+          "个税",
+          "CRS",
+          "MCV",
+          "保诚"
         ],
         "tc": [
-          "AM Best",
-          "中華聯合財險",
-          "投資收益",
-          "農險",
-          "評級"
+          "境外保單徵稅",
+          "個稅",
+          "CRS",
+          "MCV",
+          "保誠"
         ]
       },
-      "contentKind": "research",
-      "publishedAt": "2026-08-05T05:30:00+08:00",
-      "originalUrl": "https://insuranceasia.com/insurance/news/investment-income-props-china-united-property-profits",
-      "ingestedAt": "2026-08-06T18:08:00+08:00",
+      "contentKind": "news",
+      "publishedAt": "2026-08-05T17:31:00+08:00",
+      "originalUrl": "https://finance.caixin.com/m/2026-08-05/102471513.html",
+      "ingestedAt": "2026-08-05T18:15:00+08:00",
       "contentRole": {
         "sc": "本站导读",
         "tc": "本站導讀"
@@ -327,6 +328,84 @@
       "evergreen": false
     },
     {
+      "id": "nfra-audit-liability-aug05",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "pending",
+      "sourceTier": "official",
+      "sourceKey": "nfra:audit-liability-insurance-20260805",
+      "title": {
+        "sc": "金融监管总局：新修订《会计师事务所职业责任保险实施办法》拟近期印发 费率与合规记录挂钩",
+        "tc": "金融監管總局：新修訂《會計師事務所職業責任保險實施辦法》擬近期印發 費率與合規記錄掛鉤"
+      },
+      "summary": {
+        "sc": "金融监管总局答复政协提案：与财政部联合起草的新修订《会计师事务所职业责任保险实施办法》拟近期印发。办法将事务所处罚、涉诉及历史赔付记录与费率挂钩，鼓励共保提升承保能力，增设账册丢失、追溯期扩展等附加险，并设职业责任保险专家委员会。[EN原文]",
+        "tc": "金融監管總局答覆政協提案：與財政部聯合起草的新修訂《會計師事務所職業責任保險實施辦法》擬近期印發。辦法將事務所處罰、涉訴及歷史賠付記錄與費率掛鉤，鼓勵共保提升承保能力，增設賬冊丟失、追溯期擴展等附加險，並設職業責任保險專家委員會。[EN原文]"
+      },
+      "why": {
+        "sc": "责任险「费率与合规记录挂钩」是内地财险定价精细化的最新样本，方向与港险佣金及定价监管趋同；对关注内地保险政策的中介机构，这是理解职业责任险市场扩容（含大湾区跨境执业需求）的参照。",
+        "tc": "責任險「費率與合規記錄掛鉤」是內地財險定價精細化的最新樣本，方向與港險佣金及定價監管趨同；對關注內地保險政策的中介機構，這是理解職業責任險市場擴容（含大灣區跨境執業需求）的參照。"
+      },
+      "actions": {
+        "front": {
+          "sc": "责任险费率挂钩合规记录=定价精细化",
+          "tc": "責任險費率掛鉤合規記錄=定價精細化"
+        },
+        "midback": {
+          "sc": "共保+附加险=职业责任险扩容信号",
+          "tc": "共保+附加險=職業責任險擴容信號"
+        },
+        "lead": {
+          "sc": "关注印发后的行业示范条款",
+          "tc": "關注印發後的行業示範條款"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "金融监管总局（via 新浪财经/金融一线）",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "reg",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "职业责任保险",
+          "会计师事务所",
+          "费率挂钩",
+          "金融监管总局",
+          "共保"
+        ],
+        "tc": [
+          "職業責任保險",
+          "會計師事務所",
+          "費率掛鉤",
+          "金融監管總局",
+          "共保"
+        ]
+      },
+      "contentKind": "circular",
+      "publishedAt": "2026-08-05T10:33:00+08:00",
+      "originalUrl": "http://m.toutiao.com/group/7670370104106680882/",
+      "ingestedAt": "2026-08-05T18:15:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
       "id": "korea-health-gap-brokers-aug05",
       "clusterCount": 1,
       "score": 66,
@@ -398,164 +477,6 @@
       "publishedAt": "2026-08-05T10:00:00+08:00",
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/south-koreas-health-coverage-gap-is-widening--and-brokers-are-in-the-middle-585038.aspx",
       "ingestedAt": "2026-08-06T18:08:00+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
-    },
-    {
-      "id": "china-hk-policy-tax-aug05",
-      "clusterCount": 3,
-      "score": 86,
-      "verifyStatus": "verified",
-      "sourceTier": "media",
-      "sourceKey": "caixin:hk-policy-tax-20260805",
-      "title": {
-        "sc": "内地开始对香港保单收益征20%个税：北京杭州已执行 保诚领跌",
-        "tc": "內地開始對香港保單收益徵20%個稅：北京杭州已執行 保誠領跌"
-      },
-      "summary": {
-        "sc": "财新独家：内地税务机关已开始对境外保单收益征个税，北京、杭州已有执行案例，对香港保单分红及预缴保费利息适用20%税率；CRS数据共享令征管落地，预计执行趋严。消息令保诚股价一度跌13%，汇丰、渣打跟随下挫。",
-        "tc": "財新獨家：內地稅務機關已開始對境外保單收益徵個稅，北京、杭州已有執行案例，對香港保單分紅及預繳保費利息適用20%稅率；CRS數據共享令徵管落地，預計執行趨嚴。消息令保誠股價一度跌13%，匯豐、渣打跟隨下挫。"
-      },
-      "why": {
-        "sc": "继7月离岸信托个税新规后，内地对跨境金融资产的又一次定向收紧，直接冲击MCV储蓄险的税后回报叙事。对IFA：与内地客群沟通必须前置税务合规议题，「保单收益免税」话术已不可用；对持有多张储蓄保单的内地客户，这是需要主动提示的风险事件。",
-        "tc": "繼7月離岸信託個稅新規後，內地對跨境金融資產的又一次定向收緊，直接衝擊MCV儲蓄險的稅後回報敘事。對IFA：與內地客群溝通必須前置稅務合規議題，「保單收益免稅」話術已不可用；對持有多張儲蓄保單的內地客戶，這是需要主動提示的風險事件。"
-      },
-      "actions": {
-        "front": {
-          "sc": "内地对港险收益征税落地=储蓄险税后回报逻辑生变",
-          "tc": "內地對港險收益徵稅落地=儲蓄險稅後回報邏輯生變"
-        },
-        "midback": {
-          "sc": "CRS交换+20%税率=征管闭环正在形成",
-          "tc": "CRS交換+20%稅率=徵管閉環正在形成"
-        },
-        "lead": {
-          "sc": "MCV客户需重新评估税后IRR与持有结构",
-          "tc": "MCV客戶需重新評估稅後IRR與持有結構"
-        },
-        "cross": {}
-      },
-      "rolesImpact": {
-        "front": 3,
-        "midback": 2,
-        "lead": 3,
-        "cross": 1
-      },
-      "source": {
-        "sc": "财新网 / Reuters",
-        "lang": "zh"
-      },
-      "boards": [
-        "reg",
-        "market"
-      ],
-      "themes": [
-        "compliance",
-        "offshore",
-        "macro"
-      ],
-      "tags": {
-        "sc": [
-          "境外保单征税",
-          "个税",
-          "CRS",
-          "MCV",
-          "保诚"
-        ],
-        "tc": [
-          "境外保單徵稅",
-          "個稅",
-          "CRS",
-          "MCV",
-          "保誠"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2026-08-05T17:31:00+08:00",
-      "originalUrl": "https://finance.caixin.com/m/2026-08-05/102471513.html",
-      "ingestedAt": "2026-08-05T18:15:00+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
-    },
-    {
-      "id": "nfra-audit-liability-aug05",
-      "clusterCount": 1,
-      "score": 85,
-      "verifyStatus": "pending",
-      "sourceTier": "official",
-      "sourceKey": "nfra:audit-liability-insurance-20260805",
-      "title": {
-        "sc": "金融监管总局：新修订《会计师事务所职业责任保险实施办法》拟近期印发 费率与合规记录挂钩",
-        "tc": "金融監管總局：新修訂《會計師事務所職業責任保險實施辦法》擬近期印發 費率與合規記錄掛鉤"
-      },
-      "summary": {
-        "sc": "金融监管总局答复政协提案：与财政部联合起草的新修订《会计师事务所职业责任保险实施办法》拟近期印发。办法将事务所处罚、涉诉及历史赔付记录与费率挂钩，鼓励共保提升承保能力，增设账册丢失、追溯期扩展等附加险，并设职业责任保险专家委员会。[EN原文]",
-        "tc": "金融監管總局答覆政協提案：與財政部聯合起草的新修訂《會計師事務所職業責任保險實施辦法》擬近期印發。辦法將事務所處罰、涉訴及歷史賠付記錄與費率掛鉤，鼓勵共保提升承保能力，增設賬冊丟失、追溯期擴展等附加險，並設職業責任保險專家委員會。[EN原文]"
-      },
-      "why": {
-        "sc": "责任险「费率与合规记录挂钩」是内地财险定价精细化的最新样本，方向与港险佣金及定价监管趋同；对关注内地保险政策的中介机构，这是理解职业责任险市场扩容（含大湾区跨境执业需求）的参照。",
-        "tc": "責任險「費率與合規記錄掛鉤」是內地財險定價精細化的最新樣本，方向與港險佣金及定價監管趨同；對關注內地保險政策的中介機構，這是理解職業責任險市場擴容（含大灣區跨境執業需求）的參照。"
-      },
-      "actions": {
-        "front": {
-          "sc": "责任险费率挂钩合规记录=定价精细化",
-          "tc": "責任險費率掛鉤合規記錄=定價精細化"
-        },
-        "midback": {
-          "sc": "共保+附加险=职业责任险扩容信号",
-          "tc": "共保+附加險=職業責任險擴容信號"
-        },
-        "lead": {
-          "sc": "关注印发后的行业示范条款",
-          "tc": "關注印發後的行業示範條款"
-        },
-        "cross": {}
-      },
-      "rolesImpact": {
-        "front": 1,
-        "midback": 1,
-        "lead": 1,
-        "cross": 0
-      },
-      "source": {
-        "sc": "金融监管总局（via 新浪财经/金融一线）",
-        "lang": "zh"
-      },
-      "boards": [
-        "reg"
-      ],
-      "themes": [
-        "reg",
-        "product"
-      ],
-      "tags": {
-        "sc": [
-          "职业责任保险",
-          "会计师事务所",
-          "费率挂钩",
-          "金融监管总局",
-          "共保"
-        ],
-        "tc": [
-          "職業責任保險",
-          "會計師事務所",
-          "費率掛鉤",
-          "金融監管總局",
-          "共保"
-        ]
-      },
-      "contentKind": "circular",
-      "publishedAt": "2026-08-05T10:33:00+08:00",
-      "originalUrl": "http://m.toutiao.com/group/7670370104106680882/",
-      "ingestedAt": "2026-08-05T18:15:00+08:00",
       "contentRole": {
         "sc": "本站导读",
         "tc": "本站導讀"
@@ -841,6 +762,85 @@
       "publishedAt": "2026-08-05T05:45:00+08:00",
       "originalUrl": "https://insuranceasia.com/insurance/news/etiqa-launches-endowment-plan-amidst-volatility-fears",
       "ingestedAt": "2026-08-05T18:15:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "cupi-am-best-profits-aug05",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "insuranceasia:cupi-am-best-20260805",
+      "title": {
+        "sc": "AM Best：中华联合财险盈利依赖投资收益 承保接近盈亏平衡",
+        "tc": "AM Best：中華聯合財險盈利依賴投資收益 承保接近盈虧平衡"
+      },
+      "summary": {
+        "sc": "AM Best研究指出，中华联合财险（CUPI）盈利主要由投资收益驱动，承保结果接近盈亏平衡；2025年资本及盈余增5.4%至27.8亿美元，风险调整后资本维持极强水平。公司为中投旗下国内主要农险保司，占全国非寿险市场约4%、农险市场12%；相对较高承保杠杆及政策性农险大额应收保费为主要抵消因素。[EN原文]",
+        "tc": "AM Best研究指出，中華聯合財險（CUPI）盈利主要由投資收益驅動，承保結果接近盈虧平衡；2025年資本及盈餘增5.4%至27.8億美元，風險調整後資本維持極強水平。公司為中投旗下國內主要農險保司，佔全國非壽險市場約4%、農險市場12%；相對較高承保槓桿及政策性農險大額應收保費為主要抵消因素。[EN原文]"
+      },
+      "why": {
+        "sc": "中资财险「承保弱、投资补」困局+主权基金股东支持的样本，可与港险财险板块承保表现对照；政策性农险应收保费风险亦是理解内地财险报表的素材。",
+        "tc": "中資財險「承保弱、投資補」困局+主權基金股東支持的樣本，可與港險財險板塊承保表現對照；政策性農險應收保費風險亦是理解內地財險報表的素材。"
+      },
+      "actions": {
+        "front": {
+          "sc": "投资收益撑盈利=内地财险承保仍弱",
+          "tc": "投資收益撐盈利=內地財險承保仍弱"
+        },
+        "midback": {
+          "sc": "农险应收保费=政策性业务的报表风险点",
+          "tc": "農險應收保費=政策性業務的報表風險點"
+        },
+        "lead": {
+          "sc": "中投股东支持=资本实力背书",
+          "tc": "中投股東支持=資本實力背書"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 2,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Asia / AM Best",
+        "tc": "Insurance Asia / AM Best",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "firm",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "AM Best",
+          "中华联合财险",
+          "投资收益",
+          "农险",
+          "评级"
+        ],
+        "tc": [
+          "AM Best",
+          "中華聯合財險",
+          "投資收益",
+          "農險",
+          "評級"
+        ]
+      },
+      "contentKind": "research",
+      "publishedAt": "2026-08-05T05:30:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/investment-income-props-china-united-property-profits",
+      "ingestedAt": "2026-08-06T18:08:00+08:00",
       "contentRole": {
         "sc": "本站导读",
         "tc": "本站導讀"
@@ -13226,6 +13226,74 @@
       "contentKind": "speech"
     },
     {
+      "id": "chinalife-2025-profit",
+      "clusterCount": 1,
+      "score": 76,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "china-life",
+      "title": {
+        "sc": "中国人寿 2025 全年净利 1,566 亿元 +43%：母集团营收破 1.28 万亿",
+        "tc": "中國人壽 2025 全年淨利 1,566 億元 +43%：母集團營收破 1.28 萬億"
+      },
+      "summary": {
+        "sc": "中国人寿保险 2025 年全年净利 1,566 亿元人民币，同比增长 43%。国寿集团合并营收超 1.28 万亿元，合并资产约 8.56 万亿元。国寿海外作为集团香港旗舰，是内地保险巨头布局香港的核心载体。",
+        "tc": "中國人壽 2025 年全年淨利 1,566 億元人民幣，同比增長 43%。國壽集團合併營收超 1.28 萬億元，合併資產約 8.56 萬億元。"
+      },
+      "why": {
+        "sc": "国寿是内地保险第一巨头，其香港旗舰（国寿海外）是 IFA 客户对比「中资 vs 外资」的参照系。理解母集团的财务底盘，才能跟客户讲清国寿海外保单背后的股东实力。",
+        "tc": "國壽是內地保險第一巨頭，其香港旗艦（國壽海外）是 IFA 客戶對比「中資 vs 外資」的參照系。"
+      },
+      "actions": {
+        "front": {
+          "sc": "国寿净利+43%=中资保司财务底盘强劲",
+          "tc": "國壽淨利+43%=中資保司財務底盤強勁"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "万亿资产集团=香港子公司的最强背书",
+          "tc": "萬億資產集團=香港子公司的最強背書"
+        },
+        "cross": {
+          "sc": "内地巨头=港险市场的重量级玩家",
+          "tc": "內地巨頭=港險市場的重量級玩家"
+        }
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 2,
+        "lead": 3,
+        "cross": 3
+      },
+      "source": {
+        "sc": "中国人寿 · 2026年3月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "firm",
+        "market",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "中国人寿",
+          "国寿海外",
+          "业绩"
+        ],
+        "tc": [
+          "中國人壽",
+          "國壽海外",
+          "業績"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-03-25T10:00:00+08:00",
+      "originalUrl": "https://www.moomoo.com/news/notice/306734697/china-life-overseas-regulatory-announcement-china-life-insurance-company-limited"
+    },
+    {
       "id": "chubb-2026-dementia",
       "clusterCount": 1,
       "score": 81,
@@ -13303,6 +13371,67 @@
       "themes": [
         "market"
       ]
+    },
+    {
+      "id": "chubb-50th-2026",
+      "clusterCount": 1,
+      "score": 71,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "chubb",
+      "title": {
+        "sc": "Chubb 安达人寿香港庆祝 50 周年：2025 全年集团净利 103 亿美元",
+        "tc": "Chubb 安達人壽香港慶祝 50 週年：2025 全年集團淨利 103 億美元"
+      },
+      "summary": {
+        "sc": "Chubb 安达人寿香港于 2026 年庆祝成立 50 周年。集团层面 2025 全年净利 103.1 亿美元，财险总保费 548 亿美元，承保收入创历史新高。香港市场持续深耕高净值传承产品线。",
+        "tc": "Chubb 安達人壽香港於 2026 年慶祝成立 50 週年。集團層面 2025 全年淨利 103.1 億美元，財險總保費 548 億美元，承保收入創歷史新高。"
+      },
+      "why": {
+        "sc": "50 周年=深耕香港半个世纪的承诺背书。Chubb 在香港高净值传承赛道的打法（MyLegacy V/认知障碍保障）值得 IFA 持续跟踪——它是外资保司专注高净值的样板。",
+        "tc": "50 週年=深耕香港半個世紀的承諾背書。Chubb 是外資保司專注高淨值的樣板。"
+      },
+      "actions": {
+        "front": {
+          "sc": "Chubb 50年=传承赛道的老字号背书",
+          "tc": "Chubb 50年=傳承賽道的老字號背書"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "Chubb 安达人寿 · 2026年3月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "firm",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "Chubb",
+          "50周年",
+          "业绩"
+        ],
+        "tc": [
+          "Chubb",
+          "50週年",
+          "業績"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-03-24T10:00:00+08:00",
+      "originalUrl": "https://www.chubb.com/hk-zh/media-center/life-insurance-news-releases.html"
     },
     {
       "id": "aof-hkimr-family-office-202603",
@@ -15786,6 +15915,70 @@
       "originalUrl": "https://zhuanlan.zhihu.com/p/2042158693467383539"
     },
     {
+      "id": "ctflife-fy2025-nbv",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "ctflife",
+      "title": {
+        "sc": "周大福人寿 2025 财年新业务价值 10.03 亿港元，NBV 利润率升至 32%",
+        "tc": "周大福人壽 2025 財年新業務價值 10.03 億港元，NBV 利潤率升至 32%"
+      },
+      "summary": {
+        "sc": "周大福人寿 2025 财年全年业绩：新业务价值（NBV）达 10.03 亿港元，NBV 利润率由上年同期的 27% 升至 32%，反映保费增长强劲、成本效益提升。财务实力远超 100% 最低监管要求。",
+        "tc": "周大福人壽 2025 財年全年業績：新業務價值（NBV）達 10.03 億港元，NBV 利潤率由 27% 升至 32%，反映保費增長強勁、成本效益提升。"
+      },
+      "why": {
+        "sc": "周大福人寿从「更名后的新人」到「NBV 破 10 亿」只用了一年半。中资生态圈保司的成长速度，是判断渠道格局未来走向的重要样本。",
+        "tc": "周大福人壽從「更名後的新人」到「NBV 破 10 億」只用了一年半。中資生態圈保司的成長速度，是判斷渠道格局未來走向的重要樣本。"
+      },
+      "actions": {
+        "front": {
+          "sc": "CTF NBV破10亿=中资系保司起飞实证",
+          "tc": "CTF NBV破10億=中資系保司起飛實證"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "NBV利润率32%=产品结构持续优化",
+          "tc": "NBV利潤率32%=產品結構持續優化"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 3,
+        "cross": 2
+      },
+      "source": {
+        "sc": "周大福人寿 · 2026年",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "firm",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "周大福人寿",
+          "NBV",
+          "业绩"
+        ],
+        "tc": [
+          "周大福人壽",
+          "NBV",
+          "業績"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2025-12-31T10:00:00+08:00",
+      "originalUrl": "https://www.ctfs.com.hk/zh-HK/media-hub/press-releases/2026/FY2026_Interim_Results"
+    },
+    {
       "id": "zhihu-2025-top10",
       "clusterCount": 1,
       "score": 75,
@@ -16535,6 +16728,72 @@
       "themes": [
         "market"
       ]
+    },
+    {
+      "id": "hsbc-insurance-h1-2025",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "hsbc",
+      "title": {
+        "sc": "汇丰保险 2025 上半年新承保保费 +34%：香港为增长主力",
+        "tc": "匯豐保險 2025 上半年新承保保費 +34%：香港為增長主力"
+      },
+      "summary": {
+        "sc": "汇丰保险 2025 上半年业务：以年率计新承保保费增长 34%，新承保业务合约服务收益增长 54%，主要由香港、亚洲地区及墨西哥带动。香港继续是汇丰保险最大单一市场。",
+        "tc": "匯豐保險 2025 上半年業務：以年率計新承保保費增長 34%，新承保業務合約服務收益增長 54%，主要由香港、亞洲地區及墨西哥帶動。"
+      },
+      "why": {
+        "sc": "汇丰是银保渠道 + 高净值双引擎的典型。+34% 说明银行系保司在 2025 年上半年（佣金改革前）同样吃到增长红利——渠道格局里银保的真实分量再次被确认。",
+        "tc": "匯豐是銀保渠道 + 高淨值雙引擎的典型。+34% 說明銀行系保司在 2025 年上半年同樣吃到增長紅利。"
+      },
+      "actions": {
+        "front": {
+          "sc": "汇丰+34%=银保渠道的真实分量",
+          "tc": "匯豐+34%=銀保渠道的真實分量"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "银行系保司=渠道格局的定盘星",
+          "tc": "銀行系保司=渠道格局的定盤星"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 3,
+        "cross": 2
+      },
+      "source": {
+        "sc": "汇丰保险 · 2025年10月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "channel",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "汇丰",
+          "H1",
+          "银保",
+          "保费"
+        ],
+        "tc": [
+          "匯豐",
+          "H1",
+          "銀保",
+          "保費"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2025-10-31T10:00:00+08:00",
+      "originalUrl": "https://www.about.hsbc.com.hk/-/media/hong-kong/zh-hk/investor-relations/factbooks/251031-hsbc-insurance-factbook-tc.pdf"
     },
     {
       "id": "ia-20251024-1h2025-stats",
@@ -27875,10 +28134,10 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 305 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 305 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 309 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 309 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 305,
+      "totalItems": 309,
       "sourceTiers": [
         {
           "tier": "official",
@@ -27887,7 +28146,7 @@
         },
         {
           "tier": "insurer",
-          "count": 58,
+          "count": 62,
           "label": "保司公告"
         },
         {
@@ -27971,7 +28230,7 @@
       "topThemes": [
         {
           "theme": "market",
-          "count": 132,
+          "count": 134,
           "label": "市场"
         },
         {
@@ -27981,12 +28240,12 @@
         },
         {
           "theme": "firm",
-          "count": 49,
+          "count": 53,
           "label": "保司"
         },
         {
           "theme": "offshore",
-          "count": 48,
+          "count": 49,
           "label": "跨境"
         },
         {
@@ -27996,7 +28255,7 @@
         },
         {
           "theme": "product",
-          "count": 32,
+          "count": 33,
           "label": "产品"
         },
         {
@@ -28006,7 +28265,7 @@
         },
         {
           "theme": "channel",
-          "count": 25,
+          "count": 26,
           "label": "渠道"
         },
         {
