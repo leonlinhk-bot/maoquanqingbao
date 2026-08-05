@@ -29531,7 +29531,8 @@ window.HKII_DATA = {
     theme: localStorage.getItem("hkii_theme") || "auto",
     lang: localStorage.getItem("hkii_lang") || "sc",
     q: localStorage.getItem("hkii_q")||"", themeFilter: localStorage.getItem("hkii_themeFilter")||"all", feedTier: localStorage.getItem("hkii_feedTier")||"all", feedKind: localStorage.getItem("hkii_feedKind")||"all", selectedId: null, archivePeriod: "daily", archiveKey: null, archiveQ: "", archivePage: 1, themeBoard: null, points: Number(localStorage.getItem("hkii_points")||"20"), pro: localStorage.getItem("hkii_pro")==="1",
-    fav: new Set(JSON.parse(localStorage.getItem("hkii_fav") || "[]"))
+    fav: new Set(JSON.parse(localStorage.getItem("hkii_fav") || "[]")),
+    posterTheme: localStorage.getItem("hkii_posterTheme") || "dark",
   };
 
   const $ = (s, el=document) => el.querySelector(s);
@@ -30210,25 +30211,40 @@ ${t.brandName} · ${t.disc}
     if(/巡查常见|汇報安排|匯報安排|KPIM|申报表/.test(blob)) return false;
     return true;
   }
-  function drawPoster(it){
+  function drawPoster(it, theme){
+    theme = theme || "dark";
     const canvas=$("#posterCanvas"); if(!canvas) return;
     const ctx=canvas.getContext("2d");
     const W=1080,H=1350; canvas.width=W; canvas.height=H;
     const t=T();
-    // ===== 背景：与网站同色系 深蓝墨 + 顶部金色信号线 =====
+    // ===== 版式主题：dark=深蓝墨(默认) / light=ZUU浅色VI =====
+    const C = theme==="light" ? {
+      bg0:"#faf7f0", bg1:"#f4efe3", bg2:"#efe8d8",
+      gold:"#B6985A", goldSoft:"rgba(182,152,90,0.16)",
+      ink:"#103365", inkDim:"rgba(16,51,101,0.66)", inkFaint:"rgba(16,51,101,0.4)",
+      line:"rgba(182,152,90,0.35)",
+      hlFill:"rgba(182,152,90,0.12)",
+    } : {
+      bg0:"#0d1420", bg1:"#0a0e14", bg2:"#080b10",
+      gold:"#e8a54b", goldSoft:"rgba(232,165,75,0.14)",
+      ink:"#eef2f8", inkDim:"rgba(232,237,245,0.82)", inkFaint:"rgba(232,237,245,0.42)",
+      line:"rgba(232,165,75,0.25)",
+      hlFill:"rgba(232,165,75,0.12)",
+    };
+    // ===== 背景 =====
     const g=ctx.createLinearGradient(0,0,0,H);
-    g.addColorStop(0,"#0d1420"); g.addColorStop(0.6,"#0a0e14"); g.addColorStop(1,"#080b10");
+    g.addColorStop(0,C.bg0); g.addColorStop(0.6,C.bg1); g.addColorStop(1,C.bg2);
     ctx.fillStyle=g; ctx.fillRect(0,0,W,H);
     // 顶部金色信号线
-    ctx.fillStyle="#e8a54b"; ctx.fillRect(0,0,W,8);
+    ctx.fillStyle=C.gold; ctx.fillRect(0,0,W,8);
     // 细金框（内嵌，克制）
-    ctx.strokeStyle="rgba(232,165,75,0.28)"; ctx.lineWidth=2;
+    ctx.strokeStyle=C.line; ctx.lineWidth=2;
     ctx.strokeRect(40,40,W-80,H-80);
 
     // ===== 品牌行 =====
-    ctx.fillStyle="#e8a54b"; ctx.font="700 30px sans-serif";
+    ctx.fillStyle=C.gold; ctx.font="700 30px sans-serif";
     ctx.fillText("猫圈儿港险情报站", 80, 116);
-    ctx.fillStyle="rgba(232,237,245,0.42)"; ctx.font="400 24px sans-serif";
+    ctx.fillStyle=C.inkFaint; ctx.font="400 24px sans-serif";
     const dateStr=(it.publishedAt||"").slice(0,10);
     ctx.fillText(dateStr, 80, 152);
 
@@ -30237,53 +30253,53 @@ ${t.brandName} · ${t.disc}
     const board=(DATA.boards||[]).find(b=>b.id===bid);
     const boardName=board?tx(board.title):"港险资讯";
     const bw=ctx.measureText(boardName).width;
-    ctx.fillStyle="rgba(232,165,75,0.14)";
+    ctx.fillStyle=C.goldSoft;
     roundRect(ctx,80,188,bw+56,52,10); ctx.fill();
-    ctx.fillStyle="#e8a54b"; ctx.font="600 26px sans-serif";
+    ctx.fillStyle=C.gold; ctx.font="600 26px sans-serif";
     ctx.fillText(boardName, 108, 222);
 
     // ===== 标题（大字，衬线感） =====
-    ctx.fillStyle="#eef2f8";
+    ctx.fillStyle=C.ink;
     wrapText(ctx, tx(it.title), 80, 320, W-160, 62, "700 48px 'Songti SC','Noto Serif SC',serif", 4);
 
     // ===== 一句话精准总结（高亮条） =====
     const sum1=posterSummary(it);
     const sumY=560;
-    ctx.fillStyle="rgba(232,165,75,0.12)";
+    ctx.fillStyle=C.hlFill;
     roundRect(ctx,80,sumY-46,W-160,96,14); ctx.fill();
-    ctx.fillStyle="#e8a54b"; ctx.fillRect(80,sumY-46,6,96);
-    ctx.fillStyle="rgba(238,242,248,0.95)"; ctx.font="500 32px sans-serif";
+    ctx.fillStyle=C.gold; ctx.fillRect(80,sumY-46,6,96);
+    ctx.fillStyle=C.ink; ctx.font="500 32px sans-serif";
     wrapText(ctx, sum1, 110, sumY-8, W-220, 44, "500 32px sans-serif", 2);
 
     // ===== 分隔线 =====
-    ctx.strokeStyle="rgba(232,165,75,0.25)"; ctx.beginPath();
+    ctx.strokeStyle=C.line; ctx.beginPath();
     ctx.moveTo(80,sumY+86); ctx.lineTo(W-80,sumY+86); ctx.stroke();
 
     // ===== 要点（最多2条） =====
     const bullets=posterBullets(it);
     let y=sumY+140;
     bullets.forEach((b,i)=>{
-      ctx.fillStyle="#e8a54b"; ctx.font="700 26px sans-serif";
+      ctx.fillStyle=C.gold; ctx.font="700 26px sans-serif";
       ctx.fillText("◆", 80, y);
-      ctx.fillStyle="rgba(232,237,245,0.82)";
+      ctx.fillStyle=C.inkDim;
       y = wrapText(ctx, b, 124, y-6, W-204, 42, "400 29px sans-serif", 3) + 40;
     });
 
     // ===== 评分角标 =====
-    ctx.fillStyle="rgba(232,165,75,0.9)"; ctx.font="700 60px sans-serif";
+    ctx.fillStyle=C.gold; ctx.font="700 60px sans-serif";
     ctx.textAlign="right";
     ctx.fillText(String(it.score||""), W-90, 130);
-    ctx.font="400 20px sans-serif"; ctx.fillStyle="rgba(232,237,245,0.4)";
+    ctx.font="400 20px sans-serif"; ctx.fillStyle=C.inkFaint;
     ctx.fillText("评分", W-90, 160);
     ctx.textAlign="left";
 
     // ===== 底部 =====
-    ctx.fillStyle="rgba(232,237,245,0.45)"; ctx.font="400 22px sans-serif";
+    ctx.fillStyle=C.inkFaint; ctx.font="400 22px sans-serif";
     const url=(it.originalUrl||"").replace(/^https?:\/\//,"").slice(0,46);
     ctx.fillText(url?("原文："+url):"请在情报站打开原文核对", 80, H-140);
-    ctx.fillStyle="rgba(232,165,75,0.85)"; ctx.font="600 24px sans-serif";
+    ctx.fillStyle=C.gold; ctx.font="600 24px sans-serif";
     ctx.fillText("专业分享 · 非销售邀约 · 以监管/保司原文为准", 80, H-96);
-    ctx.fillStyle="rgba(232,237,245,0.5)"; ctx.font="400 22px sans-serif";
+    ctx.fillStyle=C.inkFaint; ctx.font="400 22px sans-serif";
     ctx.fillText("维港猫圈儿 · hkmaoquanqingbao.com", 80, H-56);
   }
   function roundRect(ctx,x,y,w,h,r){
@@ -30314,7 +30330,17 @@ ${t.brandName} · ${t.disc}
     const tip=t.posterTip + " " + (isMomentsFriendly(it)?`（${t.momentsOk}）`:`（${t.momentsNo}）`);
     $("#posterTip").textContent=tip;
     $("#posterModal").hidden=false;
-    drawPoster(it);
+    drawPoster(it, state.posterTheme);
+    const pBtn=$("#posterThemeToggle");
+    if(pBtn){
+      pBtn.textContent = state.posterTheme==="light" ? "🌙 深色版式" : "☀️ ZUU 浅色版式";
+      pBtn.onclick = ()=>{
+        state.posterTheme = state.posterTheme==="light" ? "dark" : "light";
+        localStorage.setItem("hkii_posterTheme", state.posterTheme);
+        pBtn.textContent = state.posterTheme==="light" ? "🌙 深色版式" : "☀️ ZUU 浅色版式";
+        drawPoster(it, state.posterTheme);
+      };
+    }
     $("#posterDownload").onclick=()=>{
       try{
         const a=document.createElement("a");
