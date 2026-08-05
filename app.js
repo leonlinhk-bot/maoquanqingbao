@@ -30258,31 +30258,40 @@ ${t.brandName} · ${t.disc}
     ctx.fillStyle=C.gold; ctx.font="600 26px sans-serif";
     ctx.fillText(boardName, 108, 222);
 
-    // ===== 标题（大字，衬线感） =====
+    // ===== 标题（大字，衬线感，最多3行） =====
+    const titleText=tx(it.title);
+    const tFont="700 46px 'Songti SC','Noto Serif SC',serif";
+    const tLines=Math.min(countLines(ctx,titleText,W-160,tFont),3);
+    const titleY0=296, titleLH=60, titleH=tLines*titleLH;
     ctx.fillStyle=C.ink;
-    wrapText(ctx, tx(it.title), 80, 320, W-160, 62, "700 48px 'Songti SC','Noto Serif SC',serif", 4);
+    wrapText(ctx, titleText, 80, titleY0, W-160, titleLH, tFont, 3);
 
-    // ===== 一句话精准总结（高亮条） =====
+    // ===== 摘要（全量显示，高亮条高度自适应） =====
     const sum1=posterSummary(it);
-    const sumY=560;
+    const sFont="500 30px sans-serif";
+    const sLines=Math.min(countLines(ctx,sum1,W-220,sFont),6);
+    const sumY=titleY0+titleH+34;
+    const sumH=sLines*40+40;
     ctx.fillStyle=C.hlFill;
-    roundRect(ctx,80,sumY-46,W-160,96,14); ctx.fill();
-    ctx.fillStyle=C.gold; ctx.fillRect(80,sumY-46,6,96);
-    ctx.fillStyle=C.ink; ctx.font="500 32px sans-serif";
-    wrapText(ctx, sum1, 110, sumY-8, W-220, 44, "500 32px sans-serif", 2);
+    roundRect(ctx,80,sumY,W-160,sumH,14); ctx.fill();
+    ctx.fillStyle=C.gold; ctx.fillRect(80,sumY,6,sumH);
+    ctx.fillStyle=C.ink;
+    wrapText(ctx, sum1, 110, sumY+34, W-220, 40, sFont, 6);
 
     // ===== 分隔线 =====
+    const lineY=sumY+sumH+36;
     ctx.strokeStyle=C.line; ctx.beginPath();
-    ctx.moveTo(80,sumY+86); ctx.lineTo(W-80,sumY+86); ctx.stroke();
+    ctx.moveTo(80,lineY); ctx.lineTo(W-80,lineY); ctx.stroke();
 
-    // ===== 要点（最多2条） =====
+    // ===== 要点（最多2条，空间自适应） =====
     const bullets=posterBullets(it);
-    let y=sumY+140;
+    let y=lineY+52;
     bullets.forEach((b,i)=>{
+      if(y>H-190) return;
       ctx.fillStyle=C.gold; ctx.font="700 26px sans-serif";
       ctx.fillText("◆", 80, y);
       ctx.fillStyle=C.inkDim;
-      y = wrapText(ctx, b, 124, y-6, W-204, 42, "400 29px sans-serif", 3) + 40;
+      y = wrapText(ctx, b, 124, y-6, W-204, 42, "400 28px sans-serif", 3) + 40;
     });
 
     // ===== 评分角标 =====
@@ -30301,6 +30310,17 @@ ${t.brandName} · ${t.disc}
     ctx.fillText("专业分享 · 非销售邀约 · 以监管/保司原文为准", 80, H-96);
     ctx.fillStyle=C.inkFaint; ctx.font="400 22px sans-serif";
     ctx.fillText("维港猫圈儿 · hkmaoquanqingbao.com", 80, H-56);
+  }
+  // 计算文字在给定宽度下会占几行（供动态布局用）
+  function countLines(ctx, text, maxW, font){
+    ctx.font=font;
+    const chars=[...text]; let line=""; let lines=1;
+    for(let i=0;i<chars.length;i++){
+      const test=line+chars[i];
+      if(ctx.measureText(test).width>maxW && line){ lines++; line=chars[i]; }
+      else line=test;
+    }
+    return lines;
   }
   function roundRect(ctx,x,y,w,h,r){
     ctx.beginPath(); ctx.moveTo(x+r,y); ctx.arcTo(x+w,y,x+w,y+h,r); ctx.arcTo(x+w,y+h,x,y+h,r);
@@ -30346,7 +30366,6 @@ ${t.brandName} · ${t.disc}
     const dlDark=$("#posterDlDark"), dlLight=$("#posterDlLight");
     if(dlDark) dlDark.onclick=()=>dlPoster("dark","深色");
     if(dlLight) dlLight.onclick=()=>dlPoster("light","浅色");
-    $("#posterDownload").onclick=()=>dlPoster(state.posterTheme, state.posterTheme==="light"?"浅色":"深色");
     $("#posterCopyMd").onclick=async()=>{
       // 朋友圈文案：标题 + 一句话总结 + 来源提示
       const sum1=posterSummary(it);
