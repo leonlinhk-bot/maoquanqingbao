@@ -1,47 +1,47 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-04T10:17:44Z",
-  "itemCount": 287,
+  "generatedAt": "2026-08-05T12:39:21Z",
+  "itemCount": 288,
   "items": [
     {
-      "id": "prudential-eason-brand-aug03",
-      "title": "保诚推全新品牌企划「诚诺，实现您心」 陈奕迅任品牌代言人",
+      "id": "boclife-ai-cohort-2026",
+      "title": "中银人寿加入保监局 AI 促进计划：深化负责任的 AI 应用",
       "sourceTier": "insurer",
       "themes": [
-        "brand",
-        "marketing"
+        "tech",
+        "insurtech"
       ],
-      "publishedAt": "2026-08-03T10:00:00+08:00",
-      "score": 75,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=prudential-eason-brand-aug03",
-      "originalUrl": "https://www.prudential.com.hk/tc/about-us/newsroom/prudential-launches-new-brand-campaign-featuring-eason-chan/"
+      "publishedAt": "2026-08-05T10:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=boclife-ai-cohort-2026",
+      "originalUrl": "https://www.boclife.com.hk/tc/news/boc-life-joins-insurance-authority-s-ai-cohort-programme-to-advance-responsible-ai-adoption-and-elevate-customer-experience.html"
     },
     {
-      "id": "sg-captive-pcc-aug04",
-      "title": "新加坡拟推保护型细胞公司框架 专属自保保险向中型企业开放",
+      "id": "maybank-etiqa-202608",
+      "title": "马银行 12 亿美元收购 Etiqa 全部控制权：东南亚保险整合加速",
       "sourceTier": "media",
       "themes": [
-        "captive",
-        "competition"
+        "ma",
+        "firm"
       ],
-      "publishedAt": "2026-08-04T06:00:00+08:00",
+      "publishedAt": "2026-08-05T10:00:00+08:00",
       "score": 68,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sg-captive-pcc-aug04",
-      "originalUrl": "https://insuranceasia.com/exclusive/singapore-targets-captive-insurance-growth"
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=maybank-etiqa-202608",
+      "originalUrl": "https://insuranceasia.com/insurance/news/maybank-takes-full-control-etiqa-in-12b-deal"
     },
     {
-      "id": "msig-cyber-sme-aug04",
-      "title": "MSIG为中小企业增网安保障 保单捆绑威胁监测与应急响应",
+      "id": "aon-indonesia-ceo-aug04",
+      "title": "Aon委任Stephen出任印尼业务CEO 前Zurich印尼首席核保官",
       "sourceTier": "media",
       "themes": [
-        "cyber",
-        "sme"
+        "talent",
+        "channel"
       ],
-      "publishedAt": "2026-08-04T06:00:00+08:00",
-      "score": 65,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=msig-cyber-sme-aug04",
-      "originalUrl": "https://insuranceasia.com/insurance/news/msig-adds-cyber-cover-small-firms-face-resource-gaps"
+      "publishedAt": "2026-08-04T12:17:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aon-indonesia-ceo-aug04",
+      "originalUrl": "https://insuranceasia.com/insurance/news/aon-names-stephen-new-ceo-indonesia-business"
     },
     {
       "id": "moodys-ai-distribution-aug04",
@@ -70,30 +70,30 @@
       "originalUrl": "http://news.qq.com/rain/a/20260804A042W600"
     },
     {
-      "id": "aon-indonesia-ceo-aug04",
-      "title": "Aon委任Stephen出任印尼业务CEO 前Zurich印尼首席核保官",
+      "id": "sg-captive-pcc-aug04",
+      "title": "新加坡拟推保护型细胞公司框架 专属自保保险向中型企业开放",
       "sourceTier": "media",
       "themes": [
-        "talent",
-        "channel"
+        "captive",
+        "competition"
       ],
-      "publishedAt": "2026-08-04T12:17:00+08:00",
-      "score": 60,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aon-indonesia-ceo-aug04",
-      "originalUrl": "https://insuranceasia.com/insurance/news/aon-names-stephen-new-ceo-indonesia-business"
+      "publishedAt": "2026-08-04T06:00:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sg-captive-pcc-aug04",
+      "originalUrl": "https://insuranceasia.com/exclusive/singapore-targets-captive-insurance-growth"
     },
     {
-      "id": "boclife-ai-cohort-2026",
-      "title": "中银人寿加入保监局 AI 促进计划：深化负责任的 AI 应用",
-      "sourceTier": "insurer",
+      "id": "msig-cyber-sme-aug04",
+      "title": "MSIG为中小企业增网安保障 保单捆绑威胁监测与应急响应",
+      "sourceTier": "media",
       "themes": [
-        "tech",
-        "insurtech"
+        "cyber",
+        "sme"
       ],
-      "publishedAt": "2026-08-05T10:00:00+08:00",
-      "score": 74,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=boclife-ai-cohort-2026",
-      "originalUrl": "https://www.boclife.com.hk/tc/news/boc-life-joins-insurance-authority-s-ai-cohort-programme-to-advance-responsible-ai-adoption-and-elevate-customer-experience.html"
+      "publishedAt": "2026-08-04T06:00:00+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=msig-cyber-sme-aug04",
+      "originalUrl": "https://insuranceasia.com/insurance/news/msig-adds-cyber-cover-small-firms-face-resource-gaps"
     },
     {
       "id": "hkma-sme-credit-aug03",
@@ -120,6 +120,19 @@
       "score": 72,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=goldman-aia-1h26-aug03",
       "originalUrl": "https://wdatacn.aastocks.com/en/stocks/news/aafn-con/NOW.1536225/latest-news/AAFN"
+    },
+    {
+      "id": "prudential-eason-brand-aug03",
+      "title": "保诚推全新品牌企划「诚诺，实现您心」 陈奕迅任品牌代言人",
+      "sourceTier": "insurer",
+      "themes": [
+        "brand",
+        "marketing"
+      ],
+      "publishedAt": "2026-08-03T10:00:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=prudential-eason-brand-aug03",
+      "originalUrl": "https://www.prudential.com.hk/tc/about-us/newsroom/prudential-launches-new-brand-campaign-featuring-eason-chan/"
     },
     {
       "id": "cyber-insurer-profit-aug03",

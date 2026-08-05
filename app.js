@@ -2,10 +2,10 @@ window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-04T18:17:37.402180+08:00",
-    "itemCount": 287,
+    "itemCount": 288,
     "windowNote": {
-      "sc": "本库287条。",
-      "tc": "本庫287條。"
+      "sc": "本库288条。",
+      "tc": "本庫288條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -169,159 +169,151 @@ window.HKII_DATA = {
   ],
   "items": [
     {
-      "id": "prudential-eason-brand-aug03",
+      "id": "boclife-ai-cohort-2026",
       "clusterCount": 1,
-      "score": 75,
+      "score": 74,
       "verifyStatus": "verified",
       "sourceTier": "insurer",
-      "sourceKey": "prudential:eason-brand-20260803",
+      "sourceKey": "boclife",
       "title": {
-        "sc": "保诚推全新品牌企划「诚诺，实现您心」 陈奕迅任品牌代言人",
-        "tc": "保誠推全新品牌企劃「誠諾，實現您心」 陳奕迅任品牌代言人"
+        "sc": "中银人寿加入保监局 AI 促进计划：深化负责任的 AI 应用",
+        "tc": "中銀人壽加入保監局 AI 促進計劃：深化負責任的 AI 應用"
       },
       "summary": {
-        "sc": "保诚8月3日宣布推出亚洲区品牌企划「诚诺，实现您心」，由香港歌手兼演员陈奕迅担任品牌代言人，核心信息为「每一份保单都代表一个承诺」；香港市场将通过数码平台、社交媒体、电视及户外广告全面铺开，影片7月30日已首播，8月中旬起加大投放。保诚集团全球服务逾1700万客户。",
-        "tc": "保誠8月3日宣佈推出亞洲區品牌企劃「誠諾，實現您心」，由陳奕迅擔任品牌代言人，核心信息為「每一份保單都代表一個承諾」；香港市場將透過數碼平台、社交媒體、電視及戶外廣告全面鋪開，影片7月30日已首播，8月中旬起加大投放。"
+        "sc": "中银人寿宣布参与保险业监管局「人工智能促进计划」（AI Cohort Programme），深化科技赋能、推动负责任的 AI 应用，提升客户体验。该计划由保监局主导，已覆盖 AIA、宏利、保诚、AXA 等主要保司。",
+        "tc": "中銀人壽宣佈參與保險業監管局「人工智能促進計劃」（AI Cohort Programme），深化科技賦能、推動負責任的 AI 應用，提升客戶體驗。"
       },
       "why": {
-        "sc": "头部保司押注情感化品牌传播=高净值客群信任建设与渠道获客风向标",
-        "tc": "頭部保司押注情感化品牌傳播=高淨值客群信任建設與渠道獲客風向標"
+        "sc": "AI Cohort 从「巨头俱乐部」扩展到银保系玩家=监管主导的 AI 试点正在全行业铺开。对 IFA：理解保司的 AI 布局方向（客服/核保/销售工具），是判断服务体验迭代的先行指标。",
+        "tc": "AI Cohort 從「巨頭俱樂部」擴展到銀保系玩家=監管主導的 AI 試點正在全行業鋪開。對 IFA：理解保司的 AI 佈局方向，是判斷服務體驗迭代的先行指標。"
       },
       "actions": {
-        "front": {},
-        "midback": {},
+        "front": {
+          "sc": "银保系加入AI试点=全行业AI应用铺开",
+          "tc": "銀保系加入AI試點=全行業AI應用鋪開"
+        },
+        "midback": {
+          "sc": "负责任AI=监管关注的核心原则",
+          "tc": "負責任AI=監管關注的核心原則"
+        },
         "lead": {},
         "cross": {}
       },
       "rolesImpact": {
-        "front": 1,
-        "midback": 1,
-        "lead": 1,
-        "cross": 0
-      },
-      "source": {
-        "sc": "保诚香港",
-        "tc": "保誠香港",
-        "lang": "zh"
-      },
-      "boards": [
-        "insurer"
-      ],
-      "themes": [
-        "brand",
-        "marketing"
-      ],
-      "tags": {
-        "sc": [
-          "保诚",
-          "陈奕迅",
-          "品牌企划",
-          "市场推广"
-        ],
-        "tc": [
-          "保誠",
-          "陳奕迅",
-          "品牌企劃",
-          "市場推廣"
-        ]
-      },
-      "contentKind": "press",
-      "publishedAt": "2026-08-03T10:00:00+08:00",
-      "originalUrl": "https://www.prudential.com.hk/tc/about-us/newsroom/prudential-launches-new-brand-campaign-featuring-eason-chan/",
-      "ingestedAt": "2026-08-04T18:17:37.402180+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
-    },
-    {
-      "id": "sg-captive-pcc-aug04",
-      "clusterCount": 1,
-      "score": 68,
-      "verifyStatus": "pending",
-      "sourceTier": "media",
-      "sourceKey": "insuranceasia:sg-captive-pcc-20260804",
-      "title": {
-        "sc": "新加坡拟推保护型细胞公司框架 专属自保保险向中型企业开放",
-        "tc": "新加坡擬推保護型細胞公司框架 專屬自保保險向中型企業開放"
-      },
-      "summary": {
-        "sc": "新加坡拟议的保护型细胞公司（PCC）框架，允许多个专属自保计划共用同一法律实体，有望令专属自保保险对中型企业开放。新加坡正发力抢攻自保市场，与香港在亚太专属自保中心地位上的竞争进一步升温，值得关注其对香港自保业务的分流影响。[EN原文]",
-        "tc": "新加坡擬議的保護型細胞公司（PCC）框架，允許多個專屬自保計劃共用同一法律實體，有望令專屬自保保險對中型企業開放；與香港在亞太自保中心地位上的競爭進一步升溫。"
-      },
-      "why": {
-        "sc": "新加坡自保政策提速=香港专属自保中心竞争力的直接参照系",
-        "tc": "新加坡自保政策提速=香港專屬自保中心競爭力的直接參照系"
-      },
-      "actions": {
-        "front": {},
-        "midback": {},
-        "lead": {},
-        "cross": {}
-      },
-      "rolesImpact": {
-        "front": 0,
-        "midback": 1,
+        "front": 3,
+        "midback": 3,
         "lead": 2,
         "cross": 2
       },
       "source": {
-        "sc": "Insurance Asia",
-        "tc": "Insurance Asia",
-        "lang": "en"
+        "sc": "中银人寿 · 2026年8月",
+        "lang": "sc"
       },
       "boards": [
         "market"
       ],
       "themes": [
-        "captive",
-        "competition"
+        "tech",
+        "insurtech"
       ],
       "tags": {
         "sc": [
-          "新加坡",
-          "专属自保",
-          "PCC",
-          "保险中心"
+          "AI",
+          "中银人寿",
+          "监管试点"
         ],
         "tc": [
-          "新加坡",
-          "專屬自保",
-          "PCC",
-          "保險中心"
+          "AI",
+          "中銀人壽",
+          "監管試點"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-08-05T10:00:00+08:00",
+      "originalUrl": "https://www.boclife.com.hk/tc/news/boc-life-joins-insurance-authority-s-ai-cohort-programme-to-advance-responsible-ai-adoption-and-elevate-customer-experience.html"
+    },
+    {
+      "id": "maybank-etiqa-202608",
+      "clusterCount": 1,
+      "score": 68,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "马银行 12 亿美元收购 Etiqa 全部控制权：东南亚保险整合加速",
+        "tc": "馬銀行 12 億美元收購 Etiqa 全部控制權：東南亞保險整合加速"
+      },
+      "summary": {
+        "sc": "Maybank（马来亚银行）以 12 亿美元收购 Etiqa 全部控制权，此前已持有 69.05% 股权。Etiqa 是东南亚重要保险公司。交易显示银行系保险整合在东南亚加速。",
+        "tc": "Maybank（馬來亞銀行）以 12 億美元收購 Etiqa 全部控制權，此前已持有 69.05% 股權。Etiqa 是東南亞重要保險公司。"
+      },
+      "why": {
+        "sc": "东南亚保险整合是观察香港市场的参照系——区域资本流向哪里，香港的枢纽角色就有多稳。银行收购保险公司=渠道+产品一体化的趋势在区域内蔓延。",
+        "tc": "東南亞保險整合是觀察香港市場的參照系。銀行收購保險公司=渠道+產品一體化的趨勢在區域內蔓延。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "区域并购活跃=保险资产价值重估",
+          "tc": "區域併購活躍=保險資產價值重估"
+        },
+        "cross": {
+          "sc": "东南亚整合对照香港：枢纽地位不变",
+          "tc": "東南亞整合對照香港：樞紐地位不變"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "InsuranceAsia · 2026年8月5日",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "ma",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "Maybank",
+          "Etiqa",
+          "并购"
+        ],
+        "tc": [
+          "Maybank",
+          "Etiqa",
+          "併購"
         ]
       },
       "contentKind": "news",
-      "publishedAt": "2026-08-04T06:00:00+08:00",
-      "originalUrl": "https://insuranceasia.com/exclusive/singapore-targets-captive-insurance-growth",
-      "ingestedAt": "2026-08-04T18:17:37.402180+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
+      "publishedAt": "2026-08-05T10:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/maybank-takes-full-control-etiqa-in-12b-deal"
     },
     {
-      "id": "msig-cyber-sme-aug04",
+      "id": "aon-indonesia-ceo-aug04",
       "clusterCount": 1,
-      "score": 65,
+      "score": 60,
       "verifyStatus": "pending",
       "sourceTier": "media",
-      "sourceKey": "insuranceasia:msig-cyber-sme-20260804",
+      "sourceKey": "insuranceasia:aon-indonesia-ceo-20260804",
       "title": {
-        "sc": "MSIG为中小企业增网安保障 保单捆绑威胁监测与应急响应",
-        "tc": "MSIG為中小企業增網安保障 保單捆綁威脅監測與應急響應"
+        "sc": "Aon委任Stephen出任印尼业务CEO 前Zurich印尼首席核保官",
+        "tc": "Aon委任Stephen出任印尼業務CEO 前Zurich印尼首席核保官"
       },
       "summary": {
-        "sc": "三井住友保险（MSIG）面向中小企业推出网安保险升级，将威胁监测与事件响应服务直接捆绑进保单，填补中小企业在安全人力与工具上的资源缺口；中小企网安资源不足仍是此类保障渗透率提升的主要障碍，保险公司正以「保险+服务」模式切入。[EN原文]",
-        "tc": "三井住友保險（MSIG）面向中小企業推出網安保險升級，將威脅監測與事件響應服務直接捆綁進保單，填補中小企在安全人力與工具上的資源缺口。"
+        "sc": "怡安（Aon）宣布委任Stephen出任印尼业务首席执行官，其此前担任Zurich印尼业务首席核保官，具备承保与市场管理双重背景。此举反映怡安持续强化东南亚市场领导层布局，为区域内经纪渠道竞争格局再添变量。[EN原文]",
+        "tc": "怡安（Aon）委任Stephen出任印尼業務CEO，其此前擔任Zurich印尼首席核保官；反映怡安持續強化東南亞市場領導層佈局，為區域經紀渠道競爭格局再添變量。"
       },
       "why": {
-        "sc": "「保险+安全服务」捆绑模式=中小企网安险渗透路径的行业样本",
-        "tc": "「保險+安全服務」捆綁模式=中小企網安險滲透路徑的行業樣本"
+        "sc": "国际经纪商东南亚人事布局=区域分销渠道竞争态势的观察点",
+        "tc": "國際經紀商東南亞人事佈局=區域分銷渠道競爭態勢的觀察點"
       },
       "actions": {
         "front": {},
@@ -336,34 +328,34 @@ window.HKII_DATA = {
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Asia / MSIG",
-        "tc": "Insurance Asia / MSIG",
+        "sc": "Insurance Asia / Aon",
+        "tc": "Insurance Asia / Aon",
         "lang": "en"
       },
       "boards": [
-        "tech"
+        "market"
       ],
       "themes": [
-        "cyber",
-        "sme"
+        "talent",
+        "channel"
       ],
       "tags": {
         "sc": [
-          "MSIG",
-          "网络安全险",
-          "中小企业",
-          "捆绑服务"
+          "Aon",
+          "印尼",
+          "人事任命",
+          "经纪"
         ],
         "tc": [
-          "MSIG",
-          "網絡安全險",
-          "中小企業",
-          "捆綁服務"
+          "Aon",
+          "印尼",
+          "人事任命",
+          "經紀"
         ]
       },
       "contentKind": "news",
-      "publishedAt": "2026-08-04T06:00:00+08:00",
-      "originalUrl": "https://insuranceasia.com/insurance/news/msig-adds-cyber-cover-small-firms-face-resource-gaps",
+      "publishedAt": "2026-08-04T12:17:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/aon-names-stephen-new-ceo-indonesia-business",
       "ingestedAt": "2026-08-04T18:17:37.402180+08:00",
       "contentRole": {
         "sc": "本站导读",
@@ -513,23 +505,91 @@ window.HKII_DATA = {
       "evergreen": false
     },
     {
-      "id": "aon-indonesia-ceo-aug04",
+      "id": "sg-captive-pcc-aug04",
       "clusterCount": 1,
-      "score": 60,
+      "score": 68,
       "verifyStatus": "pending",
       "sourceTier": "media",
-      "sourceKey": "insuranceasia:aon-indonesia-ceo-20260804",
+      "sourceKey": "insuranceasia:sg-captive-pcc-20260804",
       "title": {
-        "sc": "Aon委任Stephen出任印尼业务CEO 前Zurich印尼首席核保官",
-        "tc": "Aon委任Stephen出任印尼業務CEO 前Zurich印尼首席核保官"
+        "sc": "新加坡拟推保护型细胞公司框架 专属自保保险向中型企业开放",
+        "tc": "新加坡擬推保護型細胞公司框架 專屬自保保險向中型企業開放"
       },
       "summary": {
-        "sc": "怡安（Aon）宣布委任Stephen出任印尼业务首席执行官，其此前担任Zurich印尼业务首席核保官，具备承保与市场管理双重背景。此举反映怡安持续强化东南亚市场领导层布局，为区域内经纪渠道竞争格局再添变量。[EN原文]",
-        "tc": "怡安（Aon）委任Stephen出任印尼業務CEO，其此前擔任Zurich印尼首席核保官；反映怡安持續強化東南亞市場領導層佈局，為區域經紀渠道競爭格局再添變量。"
+        "sc": "新加坡拟议的保护型细胞公司（PCC）框架，允许多个专属自保计划共用同一法律实体，有望令专属自保保险对中型企业开放。新加坡正发力抢攻自保市场，与香港在亚太专属自保中心地位上的竞争进一步升温，值得关注其对香港自保业务的分流影响。[EN原文]",
+        "tc": "新加坡擬議的保護型細胞公司（PCC）框架，允許多個專屬自保計劃共用同一法律實體，有望令專屬自保保險對中型企業開放；與香港在亞太自保中心地位上的競爭進一步升溫。"
       },
       "why": {
-        "sc": "国际经纪商东南亚人事布局=区域分销渠道竞争态势的观察点",
-        "tc": "國際經紀商東南亞人事佈局=區域分銷渠道競爭態勢的觀察點"
+        "sc": "新加坡自保政策提速=香港专属自保中心竞争力的直接参照系",
+        "tc": "新加坡自保政策提速=香港專屬自保中心競爭力的直接參照系"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "tc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "captive",
+        "competition"
+      ],
+      "tags": {
+        "sc": [
+          "新加坡",
+          "专属自保",
+          "PCC",
+          "保险中心"
+        ],
+        "tc": [
+          "新加坡",
+          "專屬自保",
+          "PCC",
+          "保險中心"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-04T06:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/exclusive/singapore-targets-captive-insurance-growth",
+      "ingestedAt": "2026-08-04T18:17:37.402180+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "msig-cyber-sme-aug04",
+      "clusterCount": 1,
+      "score": 65,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia:msig-cyber-sme-20260804",
+      "title": {
+        "sc": "MSIG为中小企业增网安保障 保单捆绑威胁监测与应急响应",
+        "tc": "MSIG為中小企業增網安保障 保單捆綁威脅監測與應急響應"
+      },
+      "summary": {
+        "sc": "三井住友保险（MSIG）面向中小企业推出网安保险升级，将威胁监测与事件响应服务直接捆绑进保单，填补中小企业在安全人力与工具上的资源缺口；中小企网安资源不足仍是此类保障渗透率提升的主要障碍，保险公司正以「保险+服务」模式切入。[EN原文]",
+        "tc": "三井住友保險（MSIG）面向中小企業推出網安保險升級，將威脅監測與事件響應服務直接捆綁進保單，填補中小企在安全人力與工具上的資源缺口。"
+      },
+      "why": {
+        "sc": "「保险+安全服务」捆绑模式=中小企网安险渗透路径的行业样本",
+        "tc": "「保險+安全服務」捆綁模式=中小企網安險滲透路徑的行業樣本"
       },
       "actions": {
         "front": {},
@@ -544,34 +604,34 @@ window.HKII_DATA = {
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Asia / Aon",
-        "tc": "Insurance Asia / Aon",
+        "sc": "Insurance Asia / MSIG",
+        "tc": "Insurance Asia / MSIG",
         "lang": "en"
       },
       "boards": [
-        "market"
+        "tech"
       ],
       "themes": [
-        "talent",
-        "channel"
+        "cyber",
+        "sme"
       ],
       "tags": {
         "sc": [
-          "Aon",
-          "印尼",
-          "人事任命",
-          "经纪"
+          "MSIG",
+          "网络安全险",
+          "中小企业",
+          "捆绑服务"
         ],
         "tc": [
-          "Aon",
-          "印尼",
-          "人事任命",
-          "經紀"
+          "MSIG",
+          "網絡安全險",
+          "中小企業",
+          "捆綁服務"
         ]
       },
       "contentKind": "news",
-      "publishedAt": "2026-08-04T12:17:00+08:00",
-      "originalUrl": "https://insuranceasia.com/insurance/news/aon-names-stephen-new-ceo-indonesia-business",
+      "publishedAt": "2026-08-04T06:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/msig-adds-cyber-cover-small-firms-face-resource-gaps",
       "ingestedAt": "2026-08-04T18:17:37.402180+08:00",
       "contentRole": {
         "sc": "本站导读",
@@ -579,70 +639,6 @@ window.HKII_DATA = {
       },
       "featured": false,
       "evergreen": false
-    },
-    {
-      "id": "boclife-ai-cohort-2026",
-      "clusterCount": 1,
-      "score": 74,
-      "verifyStatus": "verified",
-      "sourceTier": "insurer",
-      "sourceKey": "boclife",
-      "title": {
-        "sc": "中银人寿加入保监局 AI 促进计划：深化负责任的 AI 应用",
-        "tc": "中銀人壽加入保監局 AI 促進計劃：深化負責任的 AI 應用"
-      },
-      "summary": {
-        "sc": "中银人寿宣布参与保险业监管局「人工智能促进计划」（AI Cohort Programme），深化科技赋能、推动负责任的 AI 应用，提升客户体验。该计划由保监局主导，已覆盖 AIA、宏利、保诚、AXA 等主要保司。",
-        "tc": "中銀人壽宣佈參與保險業監管局「人工智能促進計劃」（AI Cohort Programme），深化科技賦能、推動負責任的 AI 應用，提升客戶體驗。"
-      },
-      "why": {
-        "sc": "AI Cohort 从「巨头俱乐部」扩展到银保系玩家=监管主导的 AI 试点正在全行业铺开。对 IFA：理解保司的 AI 布局方向（客服/核保/销售工具），是判断服务体验迭代的先行指标。",
-        "tc": "AI Cohort 從「巨頭俱樂部」擴展到銀保系玩家=監管主導的 AI 試點正在全行業鋪開。對 IFA：理解保司的 AI 佈局方向，是判斷服務體驗迭代的先行指標。"
-      },
-      "actions": {
-        "front": {
-          "sc": "银保系加入AI试点=全行业AI应用铺开",
-          "tc": "銀保系加入AI試點=全行業AI應用鋪開"
-        },
-        "midback": {
-          "sc": "负责任AI=监管关注的核心原则",
-          "tc": "負責任AI=監管關注的核心原則"
-        },
-        "lead": {},
-        "cross": {}
-      },
-      "rolesImpact": {
-        "front": 3,
-        "midback": 3,
-        "lead": 2,
-        "cross": 2
-      },
-      "source": {
-        "sc": "中银人寿 · 2026年8月",
-        "lang": "sc"
-      },
-      "boards": [
-        "market"
-      ],
-      "themes": [
-        "tech",
-        "insurtech"
-      ],
-      "tags": {
-        "sc": [
-          "AI",
-          "中银人寿",
-          "监管试点"
-        ],
-        "tc": [
-          "AI",
-          "中銀人壽",
-          "監管試點"
-        ]
-      },
-      "contentKind": "press",
-      "publishedAt": "2026-08-05T10:00:00+08:00",
-      "originalUrl": "https://www.boclife.com.hk/tc/news/boc-life-joins-insurance-authority-s-ai-cohort-programme-to-advance-responsible-ai-adoption-and-elevate-customer-experience.html"
     },
     {
       "id": "hkma-sme-credit-aug03",
@@ -775,6 +771,74 @@ window.HKII_DATA = {
       "publishedAt": "2026-08-03T12:47:00+08:00",
       "originalUrl": "https://wdatacn.aastocks.com/en/stocks/news/aafn-con/NOW.1536225/latest-news/AAFN",
       "ingestedAt": "2026-08-03T18:08:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "prudential-eason-brand-aug03",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "prudential:eason-brand-20260803",
+      "title": {
+        "sc": "保诚推全新品牌企划「诚诺，实现您心」 陈奕迅任品牌代言人",
+        "tc": "保誠推全新品牌企劃「誠諾，實現您心」 陳奕迅任品牌代言人"
+      },
+      "summary": {
+        "sc": "保诚8月3日宣布推出亚洲区品牌企划「诚诺，实现您心」，由香港歌手兼演员陈奕迅担任品牌代言人，核心信息为「每一份保单都代表一个承诺」；香港市场将通过数码平台、社交媒体、电视及户外广告全面铺开，影片7月30日已首播，8月中旬起加大投放。保诚集团全球服务逾1700万客户。",
+        "tc": "保誠8月3日宣佈推出亞洲區品牌企劃「誠諾，實現您心」，由陳奕迅擔任品牌代言人，核心信息為「每一份保單都代表一個承諾」；香港市場將透過數碼平台、社交媒體、電視及戶外廣告全面鋪開，影片7月30日已首播，8月中旬起加大投放。"
+      },
+      "why": {
+        "sc": "头部保司押注情感化品牌传播=高净值客群信任建设与渠道获客风向标",
+        "tc": "頭部保司押注情感化品牌傳播=高淨值客群信任建設與渠道獲客風向標"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "保诚香港",
+        "tc": "保誠香港",
+        "lang": "zh"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "brand",
+        "marketing"
+      ],
+      "tags": {
+        "sc": [
+          "保诚",
+          "陈奕迅",
+          "品牌企划",
+          "市场推广"
+        ],
+        "tc": [
+          "保誠",
+          "陳奕迅",
+          "品牌企劃",
+          "市場推廣"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-08-03T10:00:00+08:00",
+      "originalUrl": "https://www.prudential.com.hk/tc/about-us/newsroom/prudential-launches-new-brand-campaign-featuring-eason-chan/",
+      "ingestedAt": "2026-08-04T18:17:37.402180+08:00",
       "contentRole": {
         "sc": "本站导读",
         "tc": "本站導讀"
@@ -26577,10 +26641,10 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 287 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 287 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 288 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 288 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 287,
+      "totalItems": 288,
       "sourceTiers": [
         {
           "tier": "official",
@@ -26594,7 +26658,7 @@ window.HKII_DATA = {
         },
         {
           "tier": "media",
-          "count": 49,
+          "count": 50,
           "label": "媒体报道"
         },
         {
@@ -26682,14 +26746,14 @@ window.HKII_DATA = {
           "label": "监管"
         },
         {
+          "theme": "firm",
+          "count": 44,
+          "label": "保司"
+        },
+        {
           "theme": "offshore",
           "count": 44,
           "label": "跨境"
-        },
-        {
-          "theme": "firm",
-          "count": 43,
-          "label": "保司"
         },
         {
           "theme": "compliance",
