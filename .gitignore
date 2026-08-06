@@ -3,3 +3,4 @@ node_modules/
 assets/thumbs/
 data/live-items-bak-*.json
 design-v1.css
+.hermes/
