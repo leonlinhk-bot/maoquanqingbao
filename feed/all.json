@@ -1,9 +1,87 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-06T10:21:21Z",
-  "itemCount": 326,
+  "generatedAt": "2026-08-06T22:36:35Z",
+  "itemCount": 332,
   "items": [
+    {
+      "id": "ia-tax-response-aug06",
+      "title": "香港保监局回应「港险收益征税」：正密切注意内地税务安排新进展 吁勿过度解读",
+      "sourceTier": "official",
+      "themes": [
+        "compliance",
+        "offshore"
+      ],
+      "publishedAt": "2026-08-06T19:30:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-tax-response-aug06",
+      "originalUrl": "https://wap.eastmoney.com/a/202608063834049890.html"
+    },
+    {
+      "id": "manulife-asia-q2-2026",
+      "title": "宏利亚洲次季股东应占净利+28%至7.68亿美元 APE+21%至15亿美元",
+      "sourceTier": "insurer",
+      "themes": [
+        "firm",
+        "results"
+      ],
+      "publishedAt": "2026-08-07T06:20:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-asia-q2-2026",
+      "originalUrl": "https://insuranceasia.com/insurance/news/manulifes-asia-business-sees-profit-soar-28-in-q2-2026"
+    },
+    {
+      "id": "scmp-levy-next-steps-aug06",
+      "title": "港险股消化征税报道后市场聚焦北京下一步 高盛指利润冲击或有限",
+      "sourceTier": "media",
+      "themes": [
+        "macro",
+        "compliance"
+      ],
+      "publishedAt": "2026-08-06T18:49:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-levy-next-steps-aug06",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3363106/shares-major-hong-kong-insurance-finance-firms-tumble-following-report-20-levy"
+    },
+    {
+      "id": "zurich-apac-h1-2026",
+      "title": "苏黎世亚太上半年经营利润+15%至3.48亿美元 香港投连险成增长引擎",
+      "sourceTier": "media",
+      "themes": [
+        "results",
+        "product"
+      ],
+      "publishedAt": "2026-08-06T21:00:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=zurich-apac-h1-2026",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/zurichs-asiapacific-business-operating-profit-rises-15-to-us348-million-in-h1-2026-585153.aspx"
+    },
+    {
+      "id": "swissre-pnc-h1-2026",
+      "title": "瑞再财险再保上半年综合成本率76.7% 年中续转定价缺口扩大",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "macro"
+      ],
+      "publishedAt": "2026-08-06T20:00:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=swissre-pnc-h1-2026",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/swiss-re-pandc-hits-76-7-combined-ratio-but-pricing-gap-widens-585163.aspx"
+    },
+    {
+      "id": "thailand-life-digital-channel-aug07",
+      "title": "泰国寿险数字化直营渠道逼近代理人 监管改革同步推进",
+      "sourceTier": "media",
+      "themes": [
+        "distribution",
+        "insurtech"
+      ],
+      "publishedAt": "2026-08-07T05:00:00+08:00",
+      "score": 61,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=thailand-life-digital-channel-aug07",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/thailands-life-insurance-digital-channel-is-closing-in-on-agents-585257.aspx"
+    },
     {
       "id": "hk-policy-tax-selloff-aug06",
       "title": "征税20%发酵：香港保险股集体重挫 友邦一度跌9% 大行称抛售过度",
