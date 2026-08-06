@@ -1,9 +1,88 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-06T07:56:24Z",
-  "itemCount": 320,
+  "generatedAt": "2026-08-06T10:21:21Z",
+  "itemCount": 326,
   "items": [
+    {
+      "id": "hk-policy-tax-selloff-aug06",
+      "title": "征税20%发酵：香港保险股集体重挫 友邦一度跌9% 大行称抛售过度",
+      "sourceTier": "media",
+      "themes": [
+        "compliance",
+        "offshore",
+        "macro"
+      ],
+      "publishedAt": "2026-08-06T08:36:00+08:00",
+      "score": 84,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hk-policy-tax-selloff-aug06",
+      "originalUrl": "https://finance.caixin.com/m/2026-08-06/102471644.html"
+    },
+    {
+      "id": "manulife-q2-2026-hk-ape37",
+      "title": "宏利金融次季核心盈利+12% 港澳APE+37% 新业务价值21亿港元+12%",
+      "sourceTier": "insurer",
+      "themes": [
+        "firm",
+        "results"
+      ],
+      "publishedAt": "2026-08-06T10:00:00+08:00",
+      "score": 80,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-q2-2026-hk-ape37",
+      "originalUrl": "https://www.stheadline.com/zh-hans/stock-market/3601490/%E5%AE%8F%E5%88%A9%E9%87%91%E8%9E%8D%E6%AC%A1%E5%AD%A3%E6%A0%B8%E5%BF%83%E7%9B%88%E5%88%A9%E5%8D%8712-%E6%B4%BE%E6%81%AF0485%E5%8A%A0%E5%85%83-%E6%B8%AF%E6%BE%B3%E4%B8%9A%E5%8A%A1%E4%B8%BB%E8%A6%81%E4%B8%9A%E7%BB%A9%E5%9D%87%E5%BD%95%E5%8F%8C%E4%BD%8D%E5%A2%9E%E9%95%BF"
+    },
+    {
+      "id": "hsbc-h1-insurance-sales-26pct",
+      "title": "汇丰保险香港上半年保费+26% 存量银行客户贡献85%新单",
+      "sourceTier": "media",
+      "themes": [
+        "channel",
+        "market"
+      ],
+      "publishedAt": "2026-08-06T05:15:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hsbc-h1-insurance-sales-26pct",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hsbcs-26-insurance-sales-jump-lifts-hong-kongs-market-outlook"
+    },
+    {
+      "id": "prudential-cuts-china-risk-aug06",
+      "title": "保诚削减中国风险敞口 面临利润率挤压 参与型产品占前五大产品保费80%",
+      "sourceTier": "media",
+      "themes": [
+        "firm",
+        "market"
+      ],
+      "publishedAt": "2026-08-06T06:00:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=prudential-cuts-china-risk-aug06",
+      "originalUrl": "https://insuranceasia.com/insurance/news/prudential-cuts-china-risk-faces-margin-squeeze"
+    },
+    {
+      "id": "howden-cancer-cover-aug06",
+      "title": "Howden推癌症保障 为阿斯利康员工及父母即时承保 保司倾向避开单独销售",
+      "sourceTier": "media",
+      "themes": [
+        "health",
+        "market"
+      ],
+      "publishedAt": "2026-08-06T05:30:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=howden-cancer-cover-aug06",
+      "originalUrl": "https://insuranceasia.com/insurance/news/howden-launches-cancer-cover-insurers-avoid-standalone-plans"
+    },
+    {
+      "id": "sunlife-mpf-concentration-aug06",
+      "title": "永明：17.4%强积金成员投资过度集中 近四成50岁以上面临退休风险",
+      "sourceTier": "media",
+      "themes": [
+        "retirement",
+        "market"
+      ],
+      "publishedAt": "2026-08-06T16:48:00+08:00",
+      "score": 63,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sunlife-mpf-concentration-aug06",
+      "originalUrl": "https://www.stheadline.com/zh-hans/investment/3601656/%E8%BF%91%E5%9B%9B%E6%88%9050%E5%B2%81%E4%BB%A5%E4%B8%8AMPF%E6%88%90%E5%91%98%E6%8A%95%E8%B5%84%E8%BF%87%E4%BA%8E%E9%9B%86%E4%B8%AD-%E6%B0%B8%E6%98%8E%E9%80%80%E4%BC%91%E8%B5%84%E4%BA%A7%E6%89%BF%E5%8F%97%E8%BE%83%E5%A4%A7%E5%B8%82%E5%9C%BA%E9%A3%8E%E9%99%A9"
+    },
     {
       "id": "china-hk-policy-tax-aug05",
       "title": "内地开始对香港保单收益征20%个税：北京杭州已执行 保诚领跌",
