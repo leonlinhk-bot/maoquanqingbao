@@ -30192,19 +30192,15 @@ ${t.brandName} · ${t.disc}
     return lines.join("\n");
   }
   function posterSummary(it){
-    // 一句话精准总结：优先 why，压缩到 ≤42 字
-    const cut=(s,n)=>{s=(s||"").replace(/\s+/g," ").trim(); return s.length>n?s.slice(0,n-1)+"…":s;};
-    const soft=s=>(s||"").replace(/不超过总额\d+%/g,"结构已调整").replace(/不超過總額\d+%/g,"結構已調整");
-    const w=soft(tx(it.why));
-    if(w) return cut(w,42);
-    return cut(soft(tx(it.summary)),42);
+    // 为什么重要：全量输出，canvas 自然换行（最多6行）
+    const w=tx(it.why);
+    return w ? w.replace(/\s+/g," ").trim() : (tx(it.summary)||"").replace(/\s+/g," ").trim();
   }
   function posterBullets(it){
-    const sum=tx(it.summary)||"";
-    const act=tx(it.actions&&it.actions[state.role])||"";
-    const cut=(s,n)=>{s=(s||"").replace(/\s+/g," ").trim(); return s.length>n?s.slice(0,n-1)+"…":s;};
-    const soft=s=>(s||"").replace(/不超过总额\d+%/g,"结构已调整").replace(/不超過總額\d+%/g,"結構已調整");
-    return [cut(soft(sum),64), cut(soft(act),48)].filter(Boolean);
+    // 摘要全量（canvas 自然换行，最多3行）+ 当前角色行动建议
+    const sum=(tx(it.summary)||"").replace(/\s+/g," ").trim();
+    const act=(tx(it.actions&&it.actions[state.role])||"").replace(/\s+/g," ").trim();
+    return [sum, act].filter(Boolean);
   }
   function isMomentsFriendly(it){
     const blob=(tx(it.title)+tx(it.summary));
