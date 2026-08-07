@@ -1,9 +1,74 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-06T22:36:35Z",
-  "itemCount": 332,
+  "generatedAt": "2026-08-07T17:29:05Z",
+  "itemCount": 337,
   "items": [
+    {
+      "id": "scmp-beijing-tax-not-new-aug07",
+      "title": "SCMP：北京称境外保单20%征税并非新政策 且不针对香港",
+      "sourceTier": "media",
+      "themes": [
+        "tax",
+        "offshore"
+      ],
+      "publishedAt": "2026-08-07T12:23:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-beijing-tax-not-new-aug07",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3363348/beijing-says-20-offshore-insurance-tax-not-new-and-does-not-target-hong-kong"
+    },
+    {
+      "id": "hkma-hkmca-boclife-annuity",
+      "title": "香港年金公司与中银人寿达成策略合作 指定中介可转介「香港年金计划」",
+      "sourceTier": "official",
+      "themes": [
+        "annuity",
+        "distribution"
+      ],
+      "publishedAt": "2026-08-07T16:00:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-hkmca-boclife-annuity",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260807-3/"
+    },
+    {
+      "id": "sunlife-asia-q2-2026",
+      "title": "永明亚洲Q2净利润+153%至1.44亿美元 香港销售动能与在岸业务成主引擎",
+      "sourceTier": "pro",
+      "themes": [
+        "results",
+        "hongkong"
+      ],
+      "publishedAt": "2026-08-07T12:18:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sunlife-asia-q2-2026",
+      "originalUrl": "https://insuranceasia.com/insurance/news/sun-lifes-asia-segment-net-income-surges-153-144m-in-q2"
+    },
+    {
+      "id": "prudential-plan-rename-aug24",
+      "title": "保诚香港8月24日起更新部分计划名称 储蓄型产品名加入「保險」字样",
+      "sourceTier": "insurer",
+      "themes": [
+        "product",
+        "compliance"
+      ],
+      "publishedAt": "2026-07-01T00:00:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=prudential-plan-rename-aug24",
+      "originalUrl": "https://www.prudential.com.hk/en/claims-and-services/tools/customer-notices/customer-notice-products-name-change/"
+    },
+    {
+      "id": "axa-xl-srm-cyber-aug07",
+      "title": "AXA XL收购网络安全咨询公司S-RM剩余股份 整合网络险供应商面板",
+      "sourceTier": "media",
+      "themes": [
+        "cyber",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-08-07T00:00:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=axa-xl-srm-cyber-aug07",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/axa-xl-just-bought-the-vendor-half-of-every-cyber-panel-it-sat-on-585344.aspx"
+    },
     {
       "id": "ia-tax-response-aug06",
       "title": "香港保监局回应「港险收益征税」：正密切注意内地税务安排新进展 吁勿过度解读",
