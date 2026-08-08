@@ -2,10 +2,10 @@
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-09T18:08:00+08:00",
-    "itemCount": 347,
+    "itemCount": 352,
     "windowNote": {
-      "sc": "本库347条。",
-      "tc": "本庫347條。"
+      "sc": "本库352条。",
+      "tc": "本庫352條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -18156,6 +18156,69 @@
       ]
     },
     {
+      "id": "prudential-wangfuk-relief-202511",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "prudential",
+      "title": {
+        "sc": "保诚捐 2,000 万港元援助大埔宏福苑火灾及受影响客户",
+        "tc": "保誠捐 2,000 萬港元援助大埔宏福苑火災及受影響客戶"
+      },
+      "summary": {
+        "sc": "2025年11月28日，保诚香港承诺投入 2,000 万港元支援大埔宏福苑火灾的救援工作及受影响客户。此前 11 月 26 日宏福苑发生五级大火，造成 168 人死亡、79 人受伤，为香港史上最严重火灾之一。",
+        "tc": "2025年11月28日，保誠香港承諾投入 2,000 萬港元支援大埔宏福苑火災的救援工作及受影響客戶。11 月 26 日宏福苑發生五級大火，為香港史上最嚴重火災之一。"
+      },
+      "why": {
+        "sc": "重大灾难是社会议题也是保险议题：火灾伤亡的赔偿、重建、家庭保障缺口都会牵动行业。保司的社会响应速度与力度，也是客户评估品牌时不可见的维度。",
+        "tc": "重大災難是社會議題也是保險議題：火災傷亡的賠償、重建、家庭保障缺口都會牽動行業。保司的社會響應速度與力度，也是客戶評估品牌時不可見的維度。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "灾难响应=保司品牌的社会维度",
+          "tc": "災難響應=保司品牌的社會維度"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 3,
+        "cross": 2
+      },
+      "source": {
+        "sc": "保诚香港 · 2025年11月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "firm",
+        "community"
+      ],
+      "tags": {
+        "sc": [
+          "保诚",
+          "宏福苑",
+          "火灾",
+          "援助"
+        ],
+        "tc": [
+          "保誠",
+          "宏福苑",
+          "火災",
+          "援助"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2025-11-28T10:00:00+08:00",
+      "originalUrl": "https://www.prnewswire.com/apac/news-releases/financial-services-latest-news/insurance-list/?page=8"
+    },
+    {
       "id": "aia-20251121-aisan",
       "clusterCount": 1,
       "score": 78,
@@ -18466,6 +18529,69 @@
       "themes": [
         "market"
       ]
+    },
+    {
+      "id": "manulife-q3-2025-hk",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "manulife",
+      "title": {
+        "sc": "宏利香港及澳门 2025 Q3：新业务价值 +10% 至 20 亿港元",
+        "tc": "宏利香港及澳門 2025 Q3：新業務價值 +10% 至 20 億港元"
+      },
+      "summary": {
+        "sc": "宏利香港及澳门公布 2025 年第三季业绩：新业务价值按年 +10% 至 20 亿港元，新业务合约服务边际 +12% 至 16 亿港元。香港继续是集团亚洲增长的核心引擎之一。",
+        "tc": "宏利香港及澳門公佈 2025 年第三季業績：新業務價值按年 +10% 至 20 億港元，新業務合約服務邊際 +12% 至 16 億港元。"
+      },
+      "why": {
+        "sc": "宏利 Q3 数据（NBV +10%）与全年香港新造保费 +50% 的大盘互为印证：头部保司增速从高位回落但仍双位数，市场进入「高基数上的稳健增长」阶段——对 IFA 的启示是增量还在，但竞争也加剧。",
+        "tc": "宏利 Q3 數據與全年香港新造保費 +50% 的大盤互為印證：頭部保司增速從高位回落但仍雙位數，市場進入「高基數上的穩健增長」階段。"
+      },
+      "actions": {
+        "front": {
+          "sc": "高基数稳健增长=增量在但竞争加剧",
+          "tc": "高基數穩健增長=增量在但競爭加劇"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "宏利香港及澳门 · 2025年11月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "results",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "宏利",
+          "Q3业绩",
+          "香港",
+          "NBV"
+        ],
+        "tc": [
+          "宏利",
+          "Q3業績",
+          "香港",
+          "NBV"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2025-11-05T10:00:00+08:00",
+      "originalUrl": "https://www.linkedin.com/posts/manulife-hong-kong-and-macau_follow-for-more-insights-and-our-latest-developments-activity-7394539796695748608-xTBQ"
     },
     {
       "id": "hsbc-insurance-h1-2025",
@@ -21452,6 +21578,69 @@
       "originalUrl": "https://www.fwd.com/zh/newsroom/press-releases/FWD-Group-reports-exceptionally-strong-first-quarter-new-business-update/"
     },
     {
+      "id": "manulife-q1-2025-results",
+      "clusterCount": 1,
+      "score": 76,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "manulife",
+      "title": {
+        "sc": "宏利 2025 Q1 业绩：APE +37%、新业务价值 +36%、新业务 CSM +31%",
+        "tc": "宏利 2025 Q1 業績：APE +37%、新業務價值 +36%、新業務 CSM +31%"
+      },
+      "summary": {
+        "sc": "2025年5月7日，宏利公布 2025 年第一季业绩：年度化保费等值（APE）销售 +37%，新业务价值 +36%，新业务合约服务边际 +31%（均按固定汇率基准）。亚洲业务领跑集团增长，香港市场贡献显著。",
+        "tc": "2025年5月7日，宏利公佈 2025 年第一季業績：年度化保費等值（APE）銷售 +37%，新業務價值 +36%，新業務合約服務邊際 +31%。亞洲業務領跑集團增長。"
+      },
+      "why": {
+        "sc": "宏利 2025 开局强劲 = 港险需求端持续火热的又一块拼图。对 IFA：用头部保司的季度数据交叉验证市场热度（与友邦、保诚、永明相互印证），比单看一家更可信。",
+        "tc": "宏利 2025 開局強勁 = 港險需求端持續火熱的又一塊拼圖。用頭部保司的季度數據交叉驗證市場熱度，比單看一家更可信。"
+      },
+      "actions": {
+        "front": {
+          "sc": "APE+37%=港险需求侧热度佐证",
+          "tc": "APE+37%=港險需求側熱度佐證"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "宏利金融 · 2025年5月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "results",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "宏利",
+          "Q1业绩",
+          "APE",
+          "NBV"
+        ],
+        "tc": [
+          "宏利",
+          "Q1業績",
+          "APE",
+          "NBV"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2025-05-07T10:00:00+08:00",
+      "originalUrl": "https://www.prnewswire.com/news-releases/manulife-reports-first-quarter-2025-results-302449200.html"
+    },
+    {
       "id": "aia-q1-2025-vonb",
       "clusterCount": 1,
       "score": 77,
@@ -21586,6 +21775,69 @@
       "contentKind": "report",
       "publishedAt": "2025-04-30T10:00:00+08:00",
       "originalUrl": "https://www.prudential.com.hk/en/.galleries/pdf/promotion/individual-life-claim-report-2025.pdf"
+    },
+    {
+      "id": "aia-q1-2025-vonb-13",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "aia",
+      "title": {
+        "sc": "友邦 2025 Q1：新业务价值 15 亿美元 +13%，延续增长势头",
+        "tc": "友邦 2025 Q1：新業務價值 15 億美元 +13%，延續增長勢頭"
+      },
+      "summary": {
+        "sc": "友邦保险公布 2025 年第一季新业务摘要：新业务价值 15 亿美元，较 2024 年创纪录的季度上升 13%。集团首席执行官李源祥指增长势头延续，香港业务为核心驱动力之一。",
+        "tc": "友邦保險公佈 2025 年第一季新業務摘要：新業務價值 15 億美元，較 2024 年創紀錄的季度上升 13%。集團首席執行官李源祥指增長勢頭延續。"
+      },
+      "why": {
+        "sc": "友邦连续两季创纪录后继续 +13% = 港险牛市不是昙花一现。对 IFA：友邦的季度数据是行业温度计——当头部三家（友邦/宏利/保诚）同向增长，市场叙事就稳了。",
+        "tc": "友邦連續兩季創紀錄後繼續 +13% = 港險牛市不是曇花一現。當頭部三家同向增長，市場敘事就穩了。"
+      },
+      "actions": {
+        "front": {
+          "sc": "头部同向增长=市场叙事稳固",
+          "tc": "頭部同向增長=市場敘事穩固"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "友邦保险 · 2025年4月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "results",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "友邦",
+          "Q1",
+          "VONB",
+          "13%"
+        ],
+        "tc": [
+          "友邦",
+          "Q1",
+          "VONB",
+          "13%"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2025-04-30T10:00:00+08:00",
+      "originalUrl": "https://www.aia.com/content/dam/group-wise/zh-hk/docs/investor-relations/2025/AIA%20Group%202025%20Q1%20New%20Business%20Highlights%20(Chi).pdf"
     },
     {
       "id": "manulife-20250428-ci",
@@ -23156,6 +23408,69 @@
       "themes": [
         "market"
       ]
+    },
+    {
+      "id": "aia-flexi-achiever-202501",
+      "clusterCount": 1,
+      "score": 71,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "aia",
+      "title": {
+        "sc": "友邦推 FlexiAchiever 储蓄计划：首创受益人选任 Flexi Option",
+        "tc": "友邦推 FlexiAchiever 儲蓄計劃：首創受益人選任 Flexi Option"
+      },
+      "summary": {
+        "sc": "2025年1月8日，友邦香港推出 FlexiAchiever 储蓄计划，首创受益人选任 Flexi Option——受益人可于达到指定年龄或确诊指定疾病时，按自己的选择方式领取身故赔偿。这是香港主要保险公司储蓄产品中的首创功能。",
+        "tc": "2025年1月8日，友邦香港推出 FlexiAchiever 儲蓄計劃，首創受益人選任 Flexi Option——受益人可於達到指定年齡或確診指定疾病時，按自己的選擇方式領取身故賠償。"
+      },
+      "why": {
+        "sc": "储蓄险功能创新的方向：受益人自主权。传统保单由投保人决定身故金给付方式，Flexi Option 把部分决定权交给受益人——这是「传承功能」在条款层面的实打实创新，是产品比较的新维度。",
+        "tc": "儲蓄險功能創新的方向：受益人自主權。Flexi Option 把部分決定權交給受益人——這是「傳承功能」在條款層面的實打實創新。"
+      },
+      "actions": {
+        "front": {
+          "sc": "受益人自主权=传承产品新卖点",
+          "tc": "受益人自主權=傳承產品新賣點"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 2,
+        "cross": 3
+      },
+      "source": {
+        "sc": "友邦香港 · 2025年1月",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "product",
+        "family-office"
+      ],
+      "tags": {
+        "sc": [
+          "友邦",
+          "FlexiAchiever",
+          "储蓄险",
+          "创新"
+        ],
+        "tc": [
+          "友邦",
+          "FlexiAchiever",
+          "儲蓄險",
+          "創新"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2025-01-08T10:00:00+08:00",
+      "originalUrl": "https://www.aia.com.hk/en/about-aia/about-us/media-centre/press-releases/2026/aia-press-release-20260608"
     },
     {
       "id": "ia-20241205-annual-2024",
@@ -30774,10 +31089,10 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 347 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 347 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 352 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 352 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 347,
+      "totalItems": 352,
       "sourceTiers": [
         {
           "tier": "official",
@@ -30786,7 +31101,7 @@
         },
         {
           "tier": "insurer",
-          "count": 72,
+          "count": 77,
           "label": "保司公告"
         },
         {
@@ -30870,7 +31185,7 @@
       "topThemes": [
         {
           "theme": "market",
-          "count": 139,
+          "count": 142,
           "label": "市场"
         },
         {
@@ -30880,7 +31195,7 @@
         },
         {
           "theme": "firm",
-          "count": 60,
+          "count": 61,
           "label": "保司"
         },
         {
@@ -30895,7 +31210,7 @@
         },
         {
           "theme": "product",
-          "count": 41,
+          "count": 42,
           "label": "产品"
         },
         {
