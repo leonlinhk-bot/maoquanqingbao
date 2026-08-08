@@ -1,9 +1,48 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-08T17:04:50Z",
-  "itemCount": 344,
+  "generatedAt": "2026-08-08T17:59:08Z",
+  "itemCount": 347,
   "items": [
+    {
+      "id": "ib-sk-ai-datacenter-20260808",
+      "title": "韩国拟建18.4GW AI数据中心 险企承保能力与定价承压",
+      "sourceTier": "media",
+      "themes": [
+        "datacenter",
+        "underwriting"
+      ],
+      "publishedAt": "2026-08-08T12:01:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ib-sk-ai-datacenter-20260808",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/south-korea-is-building-18-4-gw-of-ai-data-centre-capacity--its-insurers-dont-yet-know-how-to-price-585433.aspx"
+    },
+    {
+      "id": "ib-sk-nonclaim-clinics-20260808",
+      "title": "韩国「零理赔」诊所两年增25% 医责险核保数据盲区扩大",
+      "sourceTier": "media",
+      "themes": [
+        "underwriting",
+        "health"
+      ],
+      "publishedAt": "2026-08-08T11:58:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ib-sk-nonclaim-clinics-20260808",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/south-koreas-nonclaiming-clinics-raise-underwriting-questions-585432.aspx"
+    },
+    {
+      "id": "ib-dando-rates-20260808",
+      "title": "D&O费率2025年跌6.8%后现「见底」迹象 续保策略转向扩保障",
+      "sourceTier": "media",
+      "themes": [
+        "dando",
+        "pricing"
+      ],
+      "publishedAt": "2026-08-08T11:55:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ib-dando-rates-20260808",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/professional-liability/dando-rates-fall-6-8-but-show-signs-of-bottoming-out-585431.aspx"
+    },
     {
       "id": "hkma-hkmca-boclife-annuity",
       "title": "香港年金公司与中银人寿达成策略合作 指定中介可转介「香港年金计划」",
