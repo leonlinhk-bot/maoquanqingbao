@@ -2,10 +2,10 @@ window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-09T18:08:00+08:00",
-    "itemCount": 362,
+    "itemCount": 367,
     "windowNote": {
-      "sc": "本库362条。",
-      "tc": "本庫362條。"
+      "sc": "本库367条。",
+      "tc": "本庫367條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -14066,6 +14066,68 @@ window.HKII_DATA = {
       "originalUrl": "https://www.info.gov.hk/gia/general/202604/22/P2026042100546.htm"
     },
     {
+      "id": "hkacademy-impact-link-202604",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "fsdc",
+      "title": {
+        "sc": "香港财富传承学院扩展 Impact Link 平台：引导家办资本投入策略性慈善",
+        "tc": "香港財富傳承學院擴展 Impact Link 平台：引導家辦資本投入策略性慈善"
+      },
+      "summary": {
+        "sc": "2026 年 4 月，香港财富传承学院召开年度董事及咨询委员会议，宣布扩展 Impact Link 平台，顺应全球新世代家办日益重视社会影响力的趋势，引导家办资本投入策略性慈善事业。",
+        "tc": "2026 年 4 月，香港財富傳承學院召開年度董事及諮詢委員會議，宣佈擴展 Impact Link 平台，引導家辦資本投入策略性慈善事業。"
+      },
+      "why": {
+        "sc": "Impact Link=家办「社会影响力投资」的基础设施。对 IFA：当客户问「家办除了管钱还能干什么」，影响力投资与策略慈善是新一代家办的答案——这是高净值服务的新增量话题。",
+        "tc": "Impact Link=家辦「社會影響力投資」的基礎設施。影響力投資與策略慈善是新一代家辦的答案。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "Impact Link=家办影响力投资入口",
+          "tc": "Impact Link=家辦影響力投資入口"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 3,
+        "cross": 3
+      },
+      "source": {
+        "sc": "香港财富传承学院 · 2026年4月",
+        "lang": "zh"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "family-office",
+        "esg",
+        "fo-ecosystem"
+      ],
+      "tags": {
+        "sc": [
+          "财富传承学院",
+          "Impact Link",
+          "影响力投资"
+        ],
+        "tc": [
+          "財富傳承學院",
+          "Impact Link",
+          "影響力投資"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-04-22T10:00:00+08:00",
+      "originalUrl": "https://www.fsdc.org.hk/zh/media/郑志刚主席召开香港财富传承学院年度董事会及咨询委员会会议"
+    },
+    {
       "id": "manulife-20260420-annuity-accident",
       "clusterCount": 1,
       "score": 83,
@@ -14605,6 +14667,128 @@ window.HKII_DATA = {
         "market"
       ],
       "contentKind": "press"
+    },
+    {
+      "id": "ctflife-fr-disclosure-2026",
+      "clusterCount": 1,
+      "score": 69,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "ctflife",
+      "title": {
+        "sc": "周大福人寿公布分红实现率：按 2025 年度终止保单计算",
+        "tc": "周大福人壽公佈分紅實現率：按 2025 年度終止保單計算"
+      },
+      "summary": {
+        "sc": "周大福人寿官网披露分红实现率：保单价值实现率按所有 2025 年度终止保单实际已支付价值对销售时所列数值的比率计算，覆盖医疗、危疾等产品线，披露假设条件完整。",
+        "tc": "周大福人壽官網披露分紅實現率：保單價值實現率按所有 2025 年度終止保單實際已支付價值對銷售時所列數值的比率計算。"
+      },
+      "why": {
+        "sc": "周大福（原富通）实现率披露口径清晰（按终止保单计算）。对 IFA：不同保司实现率计算基数不同（全部保单 vs 终止保单），对比前先确认口径，这是专业性的分水岭。",
+        "tc": "周大福實現率披露口徑清晰（按終止保單計算）。不同保司實現率計算基數不同，對比前先確認口徑，這是專業性的分水嶺。"
+      },
+      "actions": {
+        "front": {
+          "sc": "实现率口径=对比前必查的前提",
+          "tc": "實現率口徑=對比前必查的前提"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "周大福人寿 · 2026年",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "par",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "周大福人寿",
+          "分红实现率",
+          "披露"
+        ],
+        "tc": [
+          "周大福人壽",
+          "分紅實現率",
+          "披露"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-04-05T10:00:00+08:00",
+      "originalUrl": "https://www.ctflife.com.hk/tc/support/important-information/fulfillment-ratios-dividends"
+    },
+    {
+      "id": "boclife-fr-disclosure-2026",
+      "clusterCount": 1,
+      "score": 69,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "boclife",
+      "title": {
+        "sc": "中银人寿官网披露分红实现率：终期红利比率分产品系列公布",
+        "tc": "中銀人壽官網披露分紅實現率：終期紅利比率分產品系列公佈"
+      },
+      "summary": {
+        "sc": "中银人寿官网设分红实现率披露页：按产品系列公布终期红利分红实现率，涵盖恒富传承终身寿险、安儿保储蓄计划、享盛保险计划等主力产品，供保单持有人及潜在客户查阅。",
+        "tc": "中銀人壽官網設分紅實現率披露頁：按產品系列公佈終期紅利分紅實現率，涵蓋恆富傳承終身壽險、安兒保儲蓄計劃、享盛保險計劃等主力產品。"
+      },
+      "why": {
+        "sc": "中银人寿是银行系保司中披露实现率的代表。对 IFA：银行系 vs 独立系保司的分红策略差异（银保产品通常更保守）在实现率数据上会显现——这是产品比较时容易被忽略的维度。",
+        "tc": "中銀人壽是銀行系保司中披露實現率的代表。銀行系 vs 獨立系保司的分紅策略差異在實現率數據上會顯現。"
+      },
+      "actions": {
+        "front": {
+          "sc": "银行系保司=分红策略偏保守的参照系",
+          "tc": "銀行系保司=分紅策略偏保守的參照系"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "中银人寿 · 2026年",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "par",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "中银人寿",
+          "分红实现率",
+          "终期红利"
+        ],
+        "tc": [
+          "中銀人壽",
+          "分紅實現率",
+          "終期紅利"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-04-01T10:00:00+08:00",
+      "originalUrl": "https://www.boclife.com.hk/tc/support/financial-information/dividend-fulfillment-ratios.html"
     },
     {
       "id": "ia-20260331-gn16-revised",
@@ -20042,6 +20226,71 @@ window.HKII_DATA = {
       "originalUrl": "https://www.ctflife.com.hk/sc"
     },
     {
+      "id": "fstb-fo-guide-202509",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "govhk",
+      "title": {
+        "sc": "《家族办公室指南》发布暨「香港家办汇」一周年：落户路线图成型",
+        "tc": "《家族辦公室指南》發佈暨「香港家辦匯」一週年：落戶路線圖成型"
+      },
+      "summary": {
+        "sc": "财库局 2025 年 9 月发布《家族办公室指南》：为计划在香港落户或扩展业务的家族办公室提供量身定制的全面指引，涵盖落户路线图与生态资源对接，并与「香港家办汇」一周年里程碑同步推出。",
+        "tc": "財庫局 2025 年 9 月發佈《家族辦公室指南》：為計劃在香港落戶或擴展業務的家族辦公室提供量身定製的全面指引，涵蓋落戶路線圖與生態資源對接。"
+      },
+      "why": {
+        "sc": "官方指南=家办生态从「给优惠」转向「给路线图」。对 IFA：这是带内地高净值客户了解香港家办落地流程的标准文件——比零散解读更权威，值得收藏转发。",
+        "tc": "官方指南=家辦生態從「給優惠」轉向「給路線圖」。這是帶內地高淨值客戶了解香港家辦落地流程的標準文件。"
+      },
+      "actions": {
+        "front": {
+          "sc": "官方指南=家办落地流程的标准答案",
+          "tc": "官方指南=家辦落地流程的標準答案"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {
+          "sc": "家办指南=跨境业务的获客抓手",
+          "tc": "家辦指南=跨境業務的獲客抓手"
+        }
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 2,
+        "cross": 4
+      },
+      "source": {
+        "sc": "财库局 · 2025年9月",
+        "lang": "zh"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "family-office",
+        "offshore",
+        "fo-ecosystem"
+      ],
+      "tags": {
+        "sc": [
+          "家办指南",
+          "落户路线图",
+          "财库局"
+        ],
+        "tc": [
+          "家辦指南",
+          "落戶路線圖",
+          "財庫局"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2025-09-10T10:00:00+08:00",
+      "originalUrl": "https://www.fstb.gov.hk/tc/blog/blog091025.htm"
+    },
+    {
       "id": "manulife-20250902-hospitals",
       "clusterCount": 1,
       "score": 76,
@@ -20119,6 +20368,74 @@ window.HKII_DATA = {
       "themes": [
         "market"
       ]
+    },
+    {
+      "id": "ia-32-disciplinary-2025",
+      "clusterCount": 1,
+      "score": 73,
+      "verifyStatus": "pending",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "保监局 2025 年已采取 32 项纪律行动：执法进入高频常态",
+        "tc": "保監局 2025 年已採取 32 項紀律行動：執法進入高頻常態"
+      },
+      "summary": {
+        "sc": "据保监局法规执行部主管披露：2025 年 1 月至 8 月，保监局已采取 32 项纪律行动，涵盖罚款、暂停牌照、注销牌照等处分。中介人执法从个案处理进入高频常态阶段。",
+        "tc": "據保監局法規執行部主管披露：2025 年 1 月至 8 月，保監局已採取 32 項紀律行動，涵蓋罰款、暫停牌照、註銷牌照等處分。中介人執法從個案處理進入高頻常態階段。"
+      },
+      "why": {
+        "sc": "32 项纪律行动/8 个月=平均每月 4 起的执法节奏。对 IFA 和团队管理者：监管执法不是「狼来了」，而是常态——合规操作（特别是跨境销售、返佣、转介费红线）不再是可选项。",
+        "tc": "32 項紀律行動/8 個月=平均每月 4 起的執法節奏。對 IFA 和團隊管理者：監管執法不是「狼來了」，而是常態。"
+      },
+      "actions": {
+        "front": {
+          "sc": "执法常态化=合规操作是底线",
+          "tc": "執法常態化=合規操作是底線"
+        },
+        "midback": {
+          "sc": "纪律行动数据=风控体系的预警指标",
+          "tc": "紀律行動數據=風控體系的預警指標"
+        },
+        "lead": {
+          "sc": "每月4起执法=团队培训的紧迫性",
+          "tc": "每月4起執法=團隊培訓的緊迫性"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 4,
+        "lead": 4,
+        "cross": 2
+      },
+      "source": {
+        "sc": "保监局 · 2025年",
+        "lang": "zh"
+      },
+      "boards": [
+        "compliance"
+      ],
+      "themes": [
+        "career",
+        "compliance",
+        "channel"
+      ],
+      "tags": {
+        "sc": [
+          "纪律行动",
+          "执法",
+          "32项"
+        ],
+        "tc": [
+          "紀律行動",
+          "執法",
+          "32項"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-09-01T10:00:00+08:00",
+      "originalUrl": "https://zhuanlan.zhihu.com/p/2014742609155876237"
     },
     {
       "id": "ia-20250901-referral50",
@@ -31729,19 +32046,19 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 362 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 362 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 367 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 367 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 362,
+      "totalItems": 367,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 148,
+          "count": 151,
           "label": "监管一手"
         },
         {
           "tier": "insurer",
-          "count": 84,
+          "count": 86,
           "label": "保司公告"
         },
         {
@@ -31840,17 +32157,17 @@ window.HKII_DATA = {
         },
         {
           "theme": "offshore",
-          "count": 57,
+          "count": 58,
           "label": "跨境"
         },
         {
           "theme": "compliance",
-          "count": 49,
+          "count": 50,
           "label": "合规"
         },
         {
           "theme": "product",
-          "count": 46,
+          "count": 48,
           "label": "产品"
         },
         {
@@ -31860,7 +32177,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "channel",
-          "count": 29,
+          "count": 30,
           "label": "渠道"
         },
         {
@@ -31869,9 +32186,9 @@ window.HKII_DATA = {
           "label": "科技"
         },
         {
-          "theme": "career",
-          "count": 18,
-          "label": "职业"
+          "theme": "family-office",
+          "count": 20,
+          "label": "家办"
         }
       ],
       "dateRange": {

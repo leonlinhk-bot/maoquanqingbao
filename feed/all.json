@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-08T18:21:44Z",
-  "itemCount": 362,
+  "generatedAt": "2026-08-08T18:26:05Z",
+  "itemCount": 367,
   "items": [
     {
       "id": "ib-sk-ai-datacenter-20260808",
@@ -2439,6 +2439,20 @@
       "originalUrl": "https://www.info.gov.hk/gia/general/202604/22/P2026042100546.htm"
     },
     {
+      "id": "hkacademy-impact-link-202604",
+      "title": "香港财富传承学院扩展 Impact Link 平台：引导家办资本投入策略性慈善",
+      "sourceTier": "official",
+      "themes": [
+        "family-office",
+        "esg",
+        "fo-ecosystem"
+      ],
+      "publishedAt": "2026-04-22T10:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkacademy-impact-link-202604",
+      "originalUrl": "https://www.fsdc.org.hk/zh/media/郑志刚主席召开香港财富传承学院年度董事会及咨询委员会会议"
+    },
+    {
       "id": "manulife-20260420-annuity-accident",
       "title": "宏利推出全新年金及意外保险：宏瑞终身即期年金+相伴无忧个人意外。",
       "sourceTier": "insurer",
@@ -2526,6 +2540,32 @@
       "score": 83,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260409-captive-beijing",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260409.html"
+    },
+    {
+      "id": "ctflife-fr-disclosure-2026",
+      "title": "周大福人寿公布分红实现率：按 2025 年度终止保单计算",
+      "sourceTier": "insurer",
+      "themes": [
+        "par",
+        "product"
+      ],
+      "publishedAt": "2026-04-05T10:00:00+08:00",
+      "score": 69,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ctflife-fr-disclosure-2026",
+      "originalUrl": "https://www.ctflife.com.hk/tc/support/important-information/fulfillment-ratios-dividends"
+    },
+    {
+      "id": "boclife-fr-disclosure-2026",
+      "title": "中银人寿官网披露分红实现率：终期红利比率分产品系列公布",
+      "sourceTier": "insurer",
+      "themes": [
+        "par",
+        "product"
+      ],
+      "publishedAt": "2026-04-01T10:00:00+08:00",
+      "score": 69,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=boclife-fr-disclosure-2026",
+      "originalUrl": "https://www.boclife.com.hk/tc/support/financial-information/dividend-fulfillment-ratios.html"
     },
     {
       "id": "ia-20260331-gn16-revised",
@@ -3466,6 +3506,20 @@
       "originalUrl": "https://www.ctflife.com.hk/sc"
     },
     {
+      "id": "fstb-fo-guide-202509",
+      "title": "《家族办公室指南》发布暨「香港家办汇」一周年：落户路线图成型",
+      "sourceTier": "official",
+      "themes": [
+        "family-office",
+        "offshore",
+        "fo-ecosystem"
+      ],
+      "publishedAt": "2025-09-10T10:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fstb-fo-guide-202509",
+      "originalUrl": "https://www.fstb.gov.hk/tc/blog/blog091025.htm"
+    },
+    {
       "id": "manulife-20250902-hospitals",
       "title": "宏利医疗网络扩展至内地38000+间医院。",
       "sourceTier": "insurer",
@@ -3476,6 +3530,20 @@
       "score": 76,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-20250902-hospitals",
       "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html"
+    },
+    {
+      "id": "ia-32-disciplinary-2025",
+      "title": "保监局 2025 年已采取 32 项纪律行动：执法进入高频常态",
+      "sourceTier": "official",
+      "themes": [
+        "career",
+        "compliance",
+        "channel"
+      ],
+      "publishedAt": "2025-09-01T10:00:00+08:00",
+      "score": 73,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-32-disciplinary-2025",
+      "originalUrl": "https://zhuanlan.zhihu.com/p/2014742609155876237"
     },
     {
       "id": "ia-20250901-referral50",
