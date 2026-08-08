@@ -2,10 +2,10 @@
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-09T18:08:00+08:00",
-    "itemCount": 352,
+    "itemCount": 357,
     "windowNote": {
-      "sc": "本库352条。",
-      "tc": "本庫352條。"
+      "sc": "本库357条。",
+      "tc": "本庫357條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -8493,6 +8493,67 @@
       "contentKind": "other"
     },
     {
+      "id": "manulife-fr-2026-overview",
+      "clusterCount": 1,
+      "score": 73,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "manulife",
+      "title": {
+        "sc": "宏利公布 2026 版分红实现率概览：多款旗舰计划持续达成或超预期",
+        "tc": "宏利公佈 2026 版分紅實現率概覽：多款旗艦計劃持續達成或超預期"
+      },
+      "summary": {
+        "sc": "宏利发布《分红实现率及总现金价值比率概览 2026 版》（截至 2026-06-30）：多款旗舰储蓄计划分红实现率连续多年实际表现达到或超越投保时预期，覆盖宏浚传承、宏挚传承、环球货币等主力产品。",
+        "tc": "宏利發佈《分紅實現率及總現金價值比率概覽 2026 版》（截至 2026-06-30）：多款旗艦儲蓄計劃分紅實現率連續多年實際表現達到或超越投保時預期。"
+      },
+      "why": {
+        "sc": "宏利 55 款产品实现率范围 18%-136%（据第三方复盘）——同一保司内部分化极大。对 IFA：看实现率不能只看平均值，要看具体产品的年度曲线；跨保司对比时宏利旗舰线是稳定第一梯队。",
+        "tc": "宏利 55 款產品實現率範圍 18%-136%——同一保司內部分化極大。看實現率不能只看平均值，要看具體產品的年度曲線。"
+      },
+      "actions": {
+        "front": {
+          "sc": "实现率=看产品曲线而非平均值",
+          "tc": "實現率=看產品曲線而非平均值"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "宏利香港 · 2026年6月",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "par",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "宏利",
+          "分红实现率",
+          "2026版"
+        ],
+        "tc": [
+          "宏利",
+          "分紅實現率",
+          "2026版"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-07-02T10:00:00+08:00",
+      "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/products/understanding-your-participating-policy/fulfillment-ratio.html"
+    },
+    {
       "id": "rga-2026-hk-market",
       "clusterCount": 1,
       "score": 86,
@@ -14043,6 +14104,72 @@
       ]
     },
     {
+      "id": "chubb-claims-2025-report",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "chubb",
+      "title": {
+        "sc": "安达人寿香港 2025 理赔报告：索偿批准率 98%，危疾理赔 1.86 亿港元",
+        "tc": "安達人壽香港 2025 理賠報告：索償批准率 98%，危疾理賠 1.86 億港元"
+      },
+      "summary": {
+        "sc": "安达人寿香港 2025 年度理赔报告：整体索偿批核率高达 98%，危疾总理赔金额超 1.86 亿港元、成功索偿率 93%。癌症占整体危疾理赔 73%（女性癌症个案比男性多近 3 倍）；男性心血管疾病索偿率比女性高约 3 倍。",
+        "tc": "安達人壽香港 2025 年度理賠報告：整體索償批核率高達 98%，危疾總理賠金額超 1.86 億港元、成功索償率 93%。癌症佔整體危疾理賠 73%。"
+      },
+      "why": {
+        "sc": "跨保司理赔数据再次交叉验证：癌症第一（73-76%）、女性癌症>男性、男性心血管>女性——与友邦/宏利/保诚数据互相印证。批准率 98% 是「赔得爽快」的硬证据，可用来回应客户「会不会拒赔」的担忧。",
+        "tc": "跨保司理賠數據再次交叉驗證：癌症第一、女性癌症>男性、男性心血管>女性——與友邦/宏利/保誠數據互相印證。批准率 98% 是「賠得爽快」的硬證據。"
+      },
+      "actions": {
+        "front": {
+          "sc": "批准率98%=回应拒赔担忧的硬证据",
+          "tc": "批准率98%=回應拒賠擔憂的硬證據"
+        },
+        "midback": {
+          "sc": "理赔数据=定价与核保的反馈回路",
+          "tc": "理賠數據=定價與核保的反饋迴路"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 3,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "安达人寿香港 · 2026年4月",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "uw",
+        "health"
+      ],
+      "tags": {
+        "sc": [
+          "安达",
+          "理赔报告",
+          "批准率98%",
+          "癌症73%"
+        ],
+        "tc": [
+          "安達",
+          "理賠報告",
+          "批准率98%",
+          "癌症73%"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-04-15T10:00:00+08:00",
+      "originalUrl": "https://www.chubb.com/hk-zh/articles/individuals/chubb-life-hong-kong-2025-claims-report.html"
+    },
+    {
       "id": "chinlife-2026-hk-digital",
       "clusterCount": 1,
       "score": 76,
@@ -15663,6 +15790,67 @@
       "themes": [
         "market"
       ]
+    },
+    {
+      "id": "sunlife-fr-2026-134",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "sunlife",
+      "title": {
+        "sc": "永明公布 134 个分红数据：平均实现率 90%，长期保单 84%",
+        "tc": "永明公佈 134 個分紅數據：平均實現率 90%，長期保單 84%"
+      },
+      "summary": {
+        "sc": "永明金融公布 134 个分红实现率数据：最高 120%、最低 52%、平均值 90%，波动相对温和，仅少数保单低于 60%。持有 10 年以上老保单的平均实现率也有 84%，长期表现稳定。",
+        "tc": "永明金融公佈 134 個分紅實現率數據：最高 120%、最低 52%、平均值 90%，波動相對溫和，僅少數保單低於 60%。持有 10 年以上老保單的平均實現率也有 84%。"
+      },
+      "why": {
+        "sc": "永明实现率「均值高+波动小+老保单稳」三特征，是分红险「长跑型」定位的实证。对 IFA：不同保司分红策略各异——永明偏稳健、宏利旗舰偏进取，给客户选品要看匹配度而非单一年份数字。",
+        "tc": "永明實現率「均值高+波動小+老保單穩」三特徵，是分紅險「長跑型」定位的實證。給客戶選品要看匹配度而非單一年份數字。"
+      },
+      "actions": {
+        "front": {
+          "sc": "波动小+老保单稳=永明的分红标签",
+          "tc": "波動小+老保單穩=永明的分紅標籤"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "永明金融 · 2026年",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "par",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "永明",
+          "分红实现率",
+          "平均90%"
+        ],
+        "tc": [
+          "永明",
+          "分紅實現率",
+          "平均90%"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-03-10T10:00:00+08:00",
+      "originalUrl": "https://www.163.com/dy/article/L2IEDPPE0519Q647.html"
     },
     {
       "id": "ia-20260305-genai-sandbox",
@@ -19035,6 +19223,67 @@
       "contentKind": "circular"
     },
     {
+      "id": "aia-cancer-under40-2025",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "aia",
+      "title": {
+        "sc": "友邦：约 1/4 癌症理赔个案受保人 40 岁以下，癌症年轻化警号",
+        "tc": "友邦：約 1/4 癌症理賠個案受保人 40 歲以下，癌症年輕化警號"
+      },
+      "summary": {
+        "sc": "友邦香港理赔数据：约四分之一癌症相关医疗及危疾理赔个案，受保人年龄在 40 岁以下。香港每年新增癌症个案约 3.5 万宗，癌症理赔是医疗及危疾理赔最主要原因，且呈年轻化趋势。",
+        "tc": "友邦香港理賠數據：約四分之一癌症相關醫療及危疾理賠個案，受保人年齡在 40 歲以下。香港每年新增癌症個案約 3.5 萬宗。"
+      },
+      "why": {
+        "sc": "「25% 癌症理赔来自 40 岁以下」是打破「年轻不用买危疾」迷思的最强数据点。跨保司（友邦/宏利 21-40 岁 +7%）都指向同一结论——危疾年轻化是行业事实。",
+        "tc": "「25% 癌症理賠來自 40 歲以下」是打破「年輕不用買危疾」迷思的最強數據點。危疾年輕化是行業事實。"
+      },
+      "actions": {
+        "front": {
+          "sc": "1/4理赔<40岁=年轻客群的危疾论据",
+          "tc": "1/4理賠<40歲=年輕客群的危疾論據"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "友邦香港 · 2025年",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "uw",
+        "health"
+      ],
+      "tags": {
+        "sc": [
+          "友邦",
+          "癌症年轻化",
+          "40岁以下"
+        ],
+        "tc": [
+          "友邦",
+          "癌症年輕化",
+          "40歲以下"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2025-09-20T10:00:00+08:00",
+      "originalUrl": "https://www.aia.com.hk/zh-hk/health-and-wellness/healthy-living-with-aia/healthy-finances/amount-of-AIA-claim-settlement"
+    },
+    {
       "id": "ia-202508-iul-sandbox",
       "clusterCount": 1,
       "score": 80,
@@ -21230,6 +21479,70 @@
       "themes": [
         "market"
       ]
+    },
+    {
+      "id": "prudential-claims-speed-2025",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "prudential",
+      "title": {
+        "sc": "保诚理赔速度提升：住院平均 2.8 个工作日，危疾/身故 4.6 个工作日",
+        "tc": "保誠理賠速度提升：住院平均 2.8 個工作天，危疾/身故 4.6 個工作天"
+      },
+      "summary": {
+        "sc": "保诚香港理赔报告显示：住院理赔平均处理时间由 2022 年的 4 个工作日大幅减至 2.8 个工作日；危疾和身故理赔平均处理时间减省近三成三至 4.6 个工作日。理赔效率成为保司服务竞争的新焦点。",
+        "tc": "保誠香港理賠報告顯示：住院理賠平均處理時間由 2022 年的 4 個工作天大幅減至 2.8 個工作天；危疾和身故理賠平均處理時間減省近三成三至 4.6 個工作天。"
+      },
+      "why": {
+        "sc": "理赔速度是客户体验的核心指标。保诚把处理时间压到 2.8/4.6 天、汇丰用 AI 压到 5 分钟——「赔得快」正在成为保司军备竞赛，也是 IFA 选品时该纳入的比较维度。",
+        "tc": "理賠速度是客戶體驗的核心指標。保誠壓到 2.8/4.6 天、匯豐用 AI 壓到 5 分鐘——「賠得快」正在成為保司軍備競賽。"
+      },
+      "actions": {
+        "front": {
+          "sc": "理赔速度=选品比较新维度",
+          "tc": "理賠速度=選品比較新維度"
+        },
+        "midback": {
+          "sc": "流程数字化=理赔效率的底层引擎",
+          "tc": "流程數碼化=理賠效率的底層引擎"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 3,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "保诚香港 · 2025年",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "uw",
+        "tech"
+      ],
+      "tags": {
+        "sc": [
+          "保诚",
+          "理赔速度",
+          "2.8天"
+        ],
+        "tc": [
+          "保誠",
+          "理賠速度",
+          "2.8天"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2025-06-10T10:00:00+08:00",
+      "originalUrl": "https://www.prudential.com.hk/tc/about-us/newsroom/claims-reports-reference-value/"
     },
     {
       "id": "fstb-2024-density",
@@ -31089,10 +31402,10 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 352 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 352 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 357 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 357 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 352,
+      "totalItems": 357,
       "sourceTiers": [
         {
           "tier": "official",
@@ -31101,7 +31414,7 @@
         },
         {
           "tier": "insurer",
-          "count": 77,
+          "count": 82,
           "label": "保司公告"
         },
         {
@@ -31210,7 +31523,7 @@
         },
         {
           "theme": "product",
-          "count": 42,
+          "count": 44,
           "label": "产品"
         },
         {
@@ -31225,7 +31538,7 @@
         },
         {
           "theme": "tech",
-          "count": 19,
+          "count": 20,
           "label": "科技"
         },
         {

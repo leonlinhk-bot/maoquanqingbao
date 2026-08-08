@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-08T18:09:28Z",
-  "itemCount": 352,
+  "generatedAt": "2026-08-08T18:11:47Z",
+  "itemCount": 357,
   "items": [
     {
       "id": "ib-sk-ai-datacenter-20260808",
@@ -1509,6 +1509,19 @@
       "originalUrl": "https://www.ia.org.hk/en/supervision/reg_insurers_lloyd/an_overview_of_the_risk_based_capital_regime.html"
     },
     {
+      "id": "manulife-fr-2026-overview",
+      "title": "宏利公布 2026 版分红实现率概览：多款旗舰计划持续达成或超预期",
+      "sourceTier": "insurer",
+      "themes": [
+        "par",
+        "product"
+      ],
+      "publishedAt": "2026-07-02T10:00:00+08:00",
+      "score": 73,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-fr-2026-overview",
+      "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/products/understanding-your-participating-policy/fulfillment-ratio.html"
+    },
+    {
       "id": "rga-2026-hk-market",
       "title": "RGA分析：2026年香港保险市场机遇与挑战——跨境需求+监管转型+AI。",
       "sourceTier": "media",
@@ -2423,6 +2436,19 @@
       "originalUrl": "https://www.fsdc.org.hk/zh/media/"
     },
     {
+      "id": "chubb-claims-2025-report",
+      "title": "安达人寿香港 2025 理赔报告：索偿批准率 98%，危疾理赔 1.86 亿港元",
+      "sourceTier": "insurer",
+      "themes": [
+        "uw",
+        "health"
+      ],
+      "publishedAt": "2026-04-15T10:00:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=chubb-claims-2025-report",
+      "originalUrl": "https://www.chubb.com/hk-zh/articles/individuals/chubb-life-hong-kong-2025-claims-report.html"
+    },
+    {
       "id": "chinlife-2026-hk-digital",
       "title": "中国人寿海外2026年加速数字化转型：线上理赔+智能客服。",
       "sourceTier": "media",
@@ -2686,6 +2712,19 @@
       "score": 84,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260310-rbc-consult-close",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260211.html"
+    },
+    {
+      "id": "sunlife-fr-2026-134",
+      "title": "永明公布 134 个分红数据：平均实现率 90%，长期保单 84%",
+      "sourceTier": "insurer",
+      "themes": [
+        "par",
+        "product"
+      ],
+      "publishedAt": "2026-03-10T10:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sunlife-fr-2026-134",
+      "originalUrl": "https://www.163.com/dy/article/L2IEDPPE0519Q647.html"
     },
     {
       "id": "ia-20260305-genai-sandbox",
@@ -3270,6 +3309,19 @@
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2025.html"
     },
     {
+      "id": "aia-cancer-under40-2025",
+      "title": "友邦：约 1/4 癌症理赔个案受保人 40 岁以下，癌症年轻化警号",
+      "sourceTier": "insurer",
+      "themes": [
+        "uw",
+        "health"
+      ],
+      "publishedAt": "2025-09-20T10:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-cancer-under40-2025",
+      "originalUrl": "https://www.aia.com.hk/zh-hk/health-and-wellness/healthy-living-with-aia/healthy-finances/amount-of-AIA-claim-settlement"
+    },
+    {
       "id": "ia-202508-iul-sandbox",
       "title": "保监局批准IUL产品沙盒申请：视频会议销售纳入监管框架。",
       "sourceTier": "official",
@@ -3656,6 +3708,19 @@
       "score": 86,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2025q1-stats-934",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/statistics/"
+    },
+    {
+      "id": "prudential-claims-speed-2025",
+      "title": "保诚理赔速度提升：住院平均 2.8 个工作日，危疾/身故 4.6 个工作日",
+      "sourceTier": "insurer",
+      "themes": [
+        "uw",
+        "tech"
+      ],
+      "publishedAt": "2025-06-10T10:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=prudential-claims-speed-2025",
+      "originalUrl": "https://www.prudential.com.hk/tc/about-us/newsroom/claims-reports-reference-value/"
     },
     {
       "id": "fstb-2024-density",
