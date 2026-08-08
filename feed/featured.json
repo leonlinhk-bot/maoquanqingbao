@@ -1,38 +1,9 @@
 {
   "feed": "featured",
   "title": "猫圈儿港险情报站 · 精选",
-  "generatedAt": "2026-08-08T18:28:17Z",
+  "generatedAt": "2026-08-08T18:32:19Z",
   "itemCount": 20,
   "items": [
-    {
-      "id": "ia-20260730-sales-misconduct",
-      "title": "保监局收紧销售行为规则：高管对全流程合规直接负责",
-      "summary": "Insurance Asia 2026年7月报道：保监局进一步收紧保险销售行为监管。新规要求高级管理层对销售全流程的合规性承担直接责任。随着不当销售行为审查持续升温，机构须强化内部管控机制。[EN原文]",
-      "why": "高管个人问责=合规压力从操作层上升到决策层",
-      "sourceLabel": "Insurance Asia",
-      "sourceTier": "pro",
-      "tags": [
-        "销售行为",
-        "高管",
-        "问责",
-        "2026"
-      ],
-      "themes": [
-        "market"
-      ],
-      "publishedAt": "2026-07-29T10:00:00+08:00",
-      "effectiveAt": "",
-      "score": 88,
-      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-ia-tightens-sales-rules-misconduct-scrutiny-grows",
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260730-sales-misconduct",
-      "verifyStatus": "verified",
-      "rolesImpact": {
-        "front": 0,
-        "midback": 0,
-        "lead": 0,
-        "cross": 0
-      }
-    },
     {
       "id": "ratings-2026-consolidated",
       "title": "香港主要保险公司信评一览(2026更新)。",
@@ -586,6 +557,35 @@
       "score": 84,
       "originalUrl": "https://www.cpiclifehk.com.hk/sc/company/lastestNews",
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=cpic-20260504-gen3",
+      "verifyStatus": "verified",
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 0,
+        "cross": 0
+      }
+    },
+    {
+      "id": "ia-2025-full-year",
+      "title": "保监局公布2025全年业绩：个人新单保费3309亿港元 +50.6%再创新高。",
+      "summary": "保监局2026年4月公布2025全年数据：个人新造保单保费3309亿港元同比+50.6%刷新纪录。分红业务贡献核心增长。全年毛保费827亿(+29.7%)。件均保费普遍上涨，大额保单激增。2025年是香港保险史上增长最快的一年。",
+      "why": "2025，也是香港保险史上增长最快的一年，数据刷新2001年以来所有纪录。",
+      "sourceLabel": "IA 保监局",
+      "sourceTier": "media",
+      "tags": [
+        "全年",
+        "保费",
+        "3309亿",
+        "2025"
+      ],
+      "themes": [
+        "market"
+      ],
+      "publishedAt": "2026-04-25T10:00:00+08:00",
+      "effectiveAt": "",
+      "score": 92,
+      "originalUrl": "https://www.hkinsu.com/zhuanlan/chris/36397.html",
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2025-full-year",
       "verifyStatus": "verified",
       "rolesImpact": {
         "front": 0,

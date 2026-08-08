@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-08T18:28:17Z",
-  "itemCount": 367,
+  "generatedAt": "2026-08-08T18:32:19Z",
+  "itemCount": 362,
   "items": [
     {
       "id": "ib-sk-ai-datacenter-20260808",
@@ -784,18 +784,6 @@
       "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-insurers-risk-scrutiny-over-mainland-funds"
     },
     {
-      "id": "ia-20260730-sales-misconduct",
-      "title": "保监局收紧销售行为规则：高管对全流程合规直接负责",
-      "sourceTier": "pro",
-      "themes": [
-        "market"
-      ],
-      "publishedAt": "2026-07-29T10:00:00+08:00",
-      "score": 88,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260730-sales-misconduct",
-      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-ia-tightens-sales-rules-misconduct-scrutiny-grows"
-    },
-    {
       "id": "cyber-mapping-circular-jul29",
       "title": "金管局证监保监积金局联合发布跨行业网络安全测绘通函",
       "sourceTier": "official",
@@ -1043,19 +1031,6 @@
       "score": 76,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-public-disclosure-2026",
       "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-ia-proceed-public-disclosure-rules-insurers-2026"
-    },
-    {
-      "id": "nfra-cybersecurity-rules-jul",
-      "title": "金融监管总局就银行业保险业网络安全管理办法征求意见",
-      "sourceTier": "official",
-      "themes": [
-        "cyber",
-        "compliance"
-      ],
-      "publishedAt": "2026-07-25T09:00:00+08:00",
-      "score": 83,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-cybersecurity-rules-jul",
-      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1264203&itemId=915"
     },
     {
       "id": "ia-q1-2026-stats",
@@ -1956,19 +1931,6 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2026-06-15/hong-kong-insurance-regulator-vows-crackdown-on-rule-breakers"
     },
     {
-      "id": "ia-20260612-manulife-plans",
-      "title": "宏利香港推出两款新分红终身寿险储蓄计划。",
-      "sourceTier": "insurer",
-      "themes": [
-        "product",
-        "firm"
-      ],
-      "publishedAt": "2026-06-12T11:00:00+08:00",
-      "score": 73,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260612-manulife-plans",
-      "originalUrl": "https://www.manulife.com.hk/en/individual.html"
-    },
-    {
       "id": "hk-20260612-fo-tax",
       "title": "港府2026年优化家族办公室税制：扩大免税范围至数字资产。",
       "sourceTier": "media",
@@ -2602,18 +2564,6 @@
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/gn16.html"
     },
     {
-      "id": "gn16-revised-20260331",
-      "title": "修订版GN16指引：2026年3月31日起正式生效。",
-      "sourceTier": "official",
-      "themes": [
-        "market"
-      ],
-      "publishedAt": "2026-03-31T09:00:00+08:00",
-      "score": 92,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=gn16-revised-20260331",
-      "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/gn16.html"
-    },
-    {
       "id": "ia-20260331-cpd-reporting",
       "title": "CPD合规汇报安排：2025/26及后续评核期（2026-03-31）。",
       "sourceTier": "official",
@@ -3168,18 +3118,6 @@
       "score": 75,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sztax-gba-202601",
       "originalUrl": "https://szfb.sz.gov.cn/xwzx/tzgg/content/post_12581711.html"
-    },
-    {
-      "id": "manulife-20260105-two-plans",
-      "title": "宏利推出「宏挚家传承」及「财挚宏耀」两款分红寿险储蓄计划。",
-      "sourceTier": "insurer",
-      "themes": [
-        "market"
-      ],
-      "publishedAt": "2026-01-05T10:00:00+08:00",
-      "score": 85,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-20260105-two-plans",
-      "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html"
     },
     {
       "id": "aia-2025-annual-vonb-202603",
