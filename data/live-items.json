@@ -212,6 +212,7 @@
       ],
       "themes": [
         "datacenter",
+        "reinsurance",
         "underwriting"
       ],
       "tags": {
@@ -2295,7 +2296,8 @@
       ],
       "themes": [
         "macro",
-        "market"
+        "market",
+        "reinsurance"
       ],
       "tags": {
         "sc": [
@@ -3390,8 +3392,10 @@
         "market"
       ],
       "themes": [
+        "captive",
+        "firm",
         "reg",
-        "firm"
+        "reinsurance"
       ],
       "tags": {
         "sc": [
@@ -3516,8 +3520,9 @@
         "market"
       ],
       "themes": [
+        "mainland-wealth",
         "property",
-        "mainland-wealth"
+        "reinsurance"
       ],
       "tags": {
         "sc": [
@@ -3667,6 +3672,7 @@
       "themes": [
         "market",
         "offshore",
+        "reinsurance",
         "tech"
       ],
       "tags": {
@@ -4694,7 +4700,8 @@
         "cross": 0
       },
       "themes": [
-        "market"
+        "market",
+        "reinsurance"
       ],
       "sourceTier": "pro"
     },
@@ -5315,9 +5322,10 @@
         "family"
       ],
       "themes": [
-        "product",
+        "family-office",
         "offshore",
-        "family-office"
+        "product",
+        "reinsurance"
       ],
       "tags": {
         "sc": [
@@ -5513,8 +5521,9 @@
         "market"
       ],
       "themes": [
-        "retirement",
-        "consumer"
+        "annuity",
+        "consumer",
+        "retirement"
       ],
       "tags": {
         "sc": [
@@ -7977,6 +7986,7 @@
         "cross": 0
       },
       "themes": [
+        "captive",
         "market"
       ]
     },
@@ -8028,6 +8038,7 @@
         ]
       },
       "themes": [
+        "captive",
         "firm",
         "macro",
         "reg"
@@ -8133,7 +8144,8 @@
         "cross": 0
       },
       "themes": [
-        "market"
+        "market",
+        "reinsurance"
       ]
     },
     {
@@ -8181,8 +8193,9 @@
         "market"
       ],
       "themes": [
+        "offshore",
         "reg",
-        "offshore"
+        "reinsurance"
       ],
       "tags": {
         "sc": [
@@ -8632,7 +8645,8 @@
         "cross": 0
       },
       "themes": [
-        "market"
+        "market",
+        "reinsurance"
       ]
     },
     {
@@ -8920,6 +8934,7 @@
       "themes": [
         "macro",
         "market",
+        "reinsurance",
         "tech"
       ],
       "rolesImpact": {
@@ -9551,7 +9566,8 @@
         "cross": 0
       },
       "themes": [
-        "market"
+        "market",
+        "reinsurance"
       ]
     },
     {
@@ -9849,8 +9865,9 @@
         ]
       },
       "themes": [
+        "market",
         "product",
-        "market"
+        "reinsurance"
       ],
       "rolesImpact": {
         "front": 1,
@@ -12400,8 +12417,9 @@
         "family"
       ],
       "themes": [
-        "offshore",
-        "macro"
+        "cross-border",
+        "macro",
+        "offshore"
       ],
       "tags": {
         "sc": [
@@ -13197,7 +13215,8 @@
         "cross": 0
       },
       "themes": [
-        "market"
+        "market",
+        "reinsurance"
       ]
     },
     {
@@ -13966,6 +13985,7 @@
       },
       "themes": [
         "firm",
+        "ils",
         "macro",
         "reg"
       ],
@@ -14204,6 +14224,7 @@
         "cross": 0
       },
       "themes": [
+        "annuity",
         "market"
       ]
     },
@@ -14638,9 +14659,10 @@
         ]
       },
       "themes": [
+        "captive",
         "firm",
-        "offshore",
-        "macro"
+        "macro",
+        "offshore"
       ],
       "rolesImpact": {
         "front": 1,
@@ -15311,6 +15333,7 @@
         ]
       },
       "themes": [
+        "captive",
         "firm",
         "offshore"
       ],
@@ -17050,7 +17073,8 @@
         "cross": 0
       },
       "themes": [
-        "market"
+        "market",
+        "reinsurance"
       ]
     },
     {
@@ -19226,6 +19250,7 @@
         "cross": 0
       },
       "themes": [
+        "cross-border",
         "market"
       ]
     },
@@ -20790,8 +20815,9 @@
         "market"
       ],
       "themes": [
-        "reg",
-        "firm"
+        "captive",
+        "firm",
+        "reg"
       ],
       "tags": {
         "sc": [
@@ -21946,9 +21972,10 @@
         "family"
       ],
       "themes": [
-        "offshore",
+        "cross-border",
         "global-allocation",
-        "monetary"
+        "monetary",
+        "offshore"
       ],
       "tags": {
         "sc": [
@@ -22382,7 +22409,8 @@
       "themes": [
         "channel",
         "firm",
-        "offshore"
+        "offshore",
+        "reinsurance"
       ],
       "tags": {
         "sc": [
@@ -26581,9 +26609,11 @@
         "market"
       ],
       "themes": [
-        "reg",
+        "capital-market",
+        "ils",
         "macro",
-        "capital-market"
+        "reg",
+        "reinsurance"
       ],
       "tags": {
         "sc": [
@@ -26923,8 +26953,10 @@
         "family"
       ],
       "themes": [
-        "offshore",
-        "global-allocation"
+        "cross-border",
+        "global-allocation",
+        "ils",
+        "offshore"
       ],
       "tags": {
         "sc": [
@@ -32181,14 +32213,14 @@
           "label": "渠道"
         },
         {
+          "theme": "reinsurance",
+          "count": 20,
+          "label": "reinsurance"
+        },
+        {
           "theme": "tech",
           "count": 20,
           "label": "科技"
-        },
-        {
-          "theme": "family-office",
-          "count": 20,
-          "label": "家办"
         }
       ],
       "dateRange": {

@@ -1,7 +1,7 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-08T18:26:05Z",
+  "generatedAt": "2026-08-08T18:28:17Z",
   "itemCount": 367,
   "items": [
     {
@@ -10,6 +10,7 @@
       "sourceTier": "media",
       "themes": [
         "datacenter",
+        "reinsurance",
         "underwriting"
       ],
       "publishedAt": "2026-08-08T12:01:00+08:00",
@@ -377,7 +378,8 @@
       "sourceTier": "media",
       "themes": [
         "macro",
-        "market"
+        "market",
+        "reinsurance"
       ],
       "publishedAt": "2026-08-05T05:00:00+08:00",
       "score": 70,
@@ -584,8 +586,10 @@
       "title": "财库局：香港专属自保公司增至 9 间，风险管理市场持续扩容",
       "sourceTier": "official",
       "themes": [
+        "captive",
+        "firm",
         "reg",
-        "firm"
+        "reinsurance"
       ],
       "publishedAt": "2026-08-01T10:00:00+08:00",
       "score": 78,
@@ -611,8 +615,9 @@
       "title": "内地保司租务推动尖沙咀甲级写字楼空置率降至6.7%",
       "sourceTier": "media",
       "themes": [
+        "mainland-wealth",
         "property",
-        "mainland-wealth"
+        "reinsurance"
       ],
       "publishedAt": "2026-08-01T05:00:00+08:00",
       "score": 68,
@@ -639,6 +644,7 @@
       "themes": [
         "market",
         "offshore",
+        "reinsurance",
         "tech"
       ],
       "publishedAt": "2026-07-31T10:00:00+08:00",
@@ -821,7 +827,8 @@
       "title": "人保香港积极拓展再保险转入业务",
       "sourceTier": "pro",
       "themes": [
-        "market"
+        "market",
+        "reinsurance"
       ],
       "publishedAt": "2026-07-28T12:00:00+08:00",
       "score": 74,
@@ -935,9 +942,10 @@
       "title": "保诚推出 50 万美元级遗产传承产品，瞄准超高净值客群",
       "sourceTier": "insurer",
       "themes": [
-        "product",
+        "family-office",
         "offshore",
-        "family-office"
+        "product",
+        "reinsurance"
       ],
       "publishedAt": "2026-07-27T10:00:00+08:00",
       "score": 76,
@@ -976,8 +984,9 @@
       "title": "宏利2026亚洲关怀调查：84%港人重视晚年独立自主",
       "sourceTier": "insurer",
       "themes": [
-        "retirement",
-        "consumer"
+        "annuity",
+        "consumer",
+        "retirement"
       ],
       "publishedAt": "2026-07-26T10:00:00+08:00",
       "score": 75,
@@ -1408,6 +1417,7 @@
       "title": "财库局欢迎保监局批准两间新专属自保保险公司。",
       "sourceTier": "official",
       "themes": [
+        "captive",
         "market"
       ],
       "publishedAt": "2026-07-08T14:00:00+08:00",
@@ -1420,6 +1430,7 @@
       "title": "两间新专属自保公司获授权，巩固风险管理中心策略（2026-07-08）。",
       "sourceTier": "official",
       "themes": [
+        "captive",
         "firm",
         "macro",
         "reg"
@@ -1434,7 +1445,8 @@
       "title": "Swiss Re sigma报告：2026全球保险成为碎片化世界中的减震器。",
       "sourceTier": "research",
       "themes": [
-        "market"
+        "market",
+        "reinsurance"
       ],
       "publishedAt": "2026-07-08T10:00:00+08:00",
       "score": 92,
@@ -1446,8 +1458,9 @@
       "title": "金融监管总局×上海市政府：加快上海国际再保险中心建设",
       "sourceTier": "official",
       "themes": [
+        "offshore",
         "reg",
-        "offshore"
+        "reinsurance"
       ],
       "publishedAt": "2026-07-07T10:00:00+08:00",
       "score": 82,
@@ -1526,7 +1539,8 @@
       "title": "RGA分析：2026年香港保险市场机遇与挑战——跨境需求+监管转型+AI。",
       "sourceTier": "media",
       "themes": [
-        "market"
+        "market",
+        "reinsurance"
       ],
       "publishedAt": "2026-07-01T10:00:00+08:00",
       "score": 86,
@@ -1578,6 +1592,7 @@
       "themes": [
         "macro",
         "market",
+        "reinsurance",
         "tech"
       ],
       "publishedAt": "2026-06-30T14:00:00+08:00",
@@ -1683,7 +1698,8 @@
       "title": "中国太平再保险连续17年获惠誉A评级。",
       "sourceTier": "media",
       "themes": [
-        "market"
+        "market",
+        "reinsurance"
       ],
       "publishedAt": "2026-06-26T10:00:00+08:00",
       "score": 74,
@@ -1733,8 +1749,9 @@
       "title": "RGA发布2026年Q2产品趋势报告：AIA财富灵活储蓄保、AXA私人平台被列为重点新品。",
       "sourceTier": "research",
       "themes": [
+        "market",
         "product",
-        "market"
+        "reinsurance"
       ],
       "publishedAt": "2026-06-24T14:00:00+08:00",
       "score": 65,
@@ -2166,8 +2183,9 @@
       "title": "跨境理财通2.0：南向通个人额度300万，产品扩至中高风险",
       "sourceTier": "official",
       "themes": [
-        "offshore",
-        "macro"
+        "cross-border",
+        "macro",
+        "offshore"
       ],
       "publishedAt": "2026-06-01T10:00:00+08:00",
       "score": 77,
@@ -2291,7 +2309,8 @@
       "title": "保监局公布RBC制度优化咨询结论：鼓励基建投资、巩固风险管理中心。",
       "sourceTier": "official",
       "themes": [
-        "market"
+        "market",
+        "reinsurance"
       ],
       "publishedAt": "2026-05-08T12:00:00+08:00",
       "score": 96,
@@ -2416,6 +2435,7 @@
       "sourceTier": "official",
       "themes": [
         "firm",
+        "ils",
         "macro",
         "reg"
       ],
@@ -2457,6 +2477,7 @@
       "title": "宏利推出全新年金及意外保险：宏瑞终身即期年金+相伴无忧个人意外。",
       "sourceTier": "insurer",
       "themes": [
+        "annuity",
         "market"
       ],
       "publishedAt": "2026-04-20T10:00:00+08:00",
@@ -2532,9 +2553,10 @@
       "title": "保监局于北京举办专属自保论坛（2026-04-09）。",
       "sourceTier": "official",
       "themes": [
+        "captive",
         "firm",
-        "offshore",
-        "macro"
+        "macro",
+        "offshore"
       ],
       "publishedAt": "2026-04-09T12:00:00+08:00",
       "score": 83,
@@ -2650,6 +2672,7 @@
       "title": "2026专属自保保险座谈会开幕致辞（2026-03-25）。",
       "sourceTier": "official",
       "themes": [
+        "captive",
         "firm",
         "offshore"
       ],
@@ -2946,7 +2969,8 @@
       "title": "保监局就RBC资本规则修订启动公众咨询。",
       "sourceTier": "official",
       "themes": [
-        "market"
+        "market",
+        "reinsurance"
       ],
       "publishedAt": "2026-02-11T10:00:00+08:00",
       "score": 88,
@@ -3316,6 +3340,7 @@
       "title": "证监会探讨保险产品纳入跨境理财通南向通。",
       "sourceTier": "media",
       "themes": [
+        "cross-border",
         "market"
       ],
       "publishedAt": "2025-11-13T10:00:00+08:00",
@@ -3602,8 +3627,9 @@
       "title": "香港专属自保公司增至 6 间：2025 年新增 2 间",
       "sourceTier": "official",
       "themes": [
-        "reg",
-        "firm"
+        "captive",
+        "firm",
+        "reg"
       ],
       "publishedAt": "2025-08-18T10:00:00+08:00",
       "score": 72,
@@ -3812,9 +3838,10 @@
       "title": "跨境支付通上线：内地居民可经人民币通道汇款至香港",
       "sourceTier": "official",
       "themes": [
-        "offshore",
+        "cross-border",
         "global-allocation",
-        "monetary"
+        "monetary",
+        "offshore"
       ],
       "publishedAt": "2025-06-20T10:00:00+08:00",
       "score": 80,
@@ -3891,7 +3918,8 @@
       "themes": [
         "channel",
         "firm",
-        "offshore"
+        "offshore",
+        "reinsurance"
       ],
       "publishedAt": "2025-05-28T10:00:00+08:00",
       "score": 84,
@@ -4653,9 +4681,11 @@
       "title": "保监局公布指引 33：保险相连证券（ILS）特定目的业务授权框架",
       "sourceTier": "official",
       "themes": [
-        "reg",
+        "capital-market",
+        "ils",
         "macro",
-        "capital-market"
+        "reg",
+        "reinsurance"
       ],
       "publishedAt": "2024-03-20T10:00:00+08:00",
       "score": 76,
@@ -4721,8 +4751,10 @@
       "title": "跨境理财通 2025 升级：南向通个人额度提高至 300 万元",
       "sourceTier": "official",
       "themes": [
-        "offshore",
-        "global-allocation"
+        "cross-border",
+        "global-allocation",
+        "ils",
+        "offshore"
       ],
       "publishedAt": "2024-02-26T10:00:00+08:00",
       "score": 75,

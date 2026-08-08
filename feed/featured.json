@@ -1,7 +1,7 @@
 {
   "feed": "featured",
   "title": "猫圈儿港险情报站 · 精选",
-  "generatedAt": "2026-08-08T18:26:05Z",
+  "generatedAt": "2026-08-08T18:28:17Z",
   "itemCount": 20,
   "items": [
     {
@@ -283,7 +283,8 @@
         "2026"
       ],
       "themes": [
-        "market"
+        "market",
+        "reinsurance"
       ],
       "publishedAt": "2026-07-08T10:00:00+08:00",
       "effectiveAt": "",
@@ -518,7 +519,8 @@
         "资本规则"
       ],
       "themes": [
-        "market"
+        "market",
+        "reinsurance"
       ],
       "publishedAt": "2026-05-08T12:00:00+08:00",
       "effectiveAt": "",
