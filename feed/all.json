@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-08T17:01:58Z",
-  "itemCount": 341,
+  "generatedAt": "2026-08-08T17:04:50Z",
+  "itemCount": 344,
   "items": [
     {
       "id": "hkma-hkmca-boclife-annuity",
@@ -3698,6 +3698,20 @@
       "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html"
     },
     {
+      "id": "manulife-ci-income-202504",
+      "title": "宏利推「宏健守护」及「宏伴护航」危疾入息保障：涵盖121种危疾",
+      "sourceTier": "insurer",
+      "themes": [
+        "uw",
+        "health",
+        "product"
+      ],
+      "publishedAt": "2025-04-28T10:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-ci-income-202504",
+      "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html"
+    },
+    {
       "id": "ia-2025-d-sii-designation",
       "title": "保监局指定AIA及保诚亚洲为具系统重要性保险机构(D-SII)。",
       "sourceTier": "insurer",
@@ -3848,6 +3862,33 @@
       "score": 95,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20250228-illustration-cap-pn",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Practice_Note_28022025.pdf"
+    },
+    {
+      "id": "manulife-deloitte-hnw-202502",
+      "title": "宏利×德勤：超三分二大中华高净值人士视保险为财富传承重要工具",
+      "sourceTier": "insurer",
+      "themes": [
+        "family-office",
+        "offshore",
+        "product"
+      ],
+      "publishedAt": "2025-02-17T10:00:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-deloitte-hnw-202502",
+      "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html"
+    },
+    {
+      "id": "manulife-heritage-plan-202502",
+      "title": "宏利推出「宏挚家传承」及「财挚宏耀」保险计划",
+      "sourceTier": "insurer",
+      "themes": [
+        "product",
+        "family-office"
+      ],
+      "publishedAt": "2025-02-10T10:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-heritage-plan-202502",
+      "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html"
     },
     {
       "id": "ia-20250206-claims-mgmt",

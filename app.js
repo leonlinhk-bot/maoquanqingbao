@@ -2,10 +2,10 @@ window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-08T18:08:00+08:00",
-    "itemCount": 341,
+    "itemCount": 344,
     "windowNote": {
-      "sc": "本库341条。",
-      "tc": "本庫341條。"
+      "sc": "本库344条。",
+      "tc": "本庫344條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -21453,6 +21453,68 @@ window.HKII_DATA = {
       ]
     },
     {
+      "id": "manulife-ci-income-202504",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "manulife",
+      "title": {
+        "sc": "宏利推「宏健守护」及「宏伴护航」危疾入息保障：涵盖121种危疾",
+        "tc": "宏利推「宏健守護」及「宏伴護航」危疾入息保障：涵蓋121種危疾"
+      },
+      "summary": {
+        "sc": "2025年4月28日，宏利香港推出两款全新危疾保险计划「宏健守护危疾入息保障」及「宏伴护航危疾入息保障」，涵盖多达121种危疾及疾病，提供市场首创的突发性心脏病/中风持续治疗保障，主打行业领先的年度危疾赔偿。",
+        "tc": "2025年4月28日，宏利香港推出兩款全新危疾保險計劃「宏健守護危疾入息保障」及「宏伴護航危疾入息保障」，涵蓋多達121種危疾及疾病。"
+      },
+      "why": {
+        "sc": "危疾产品创新方向：从「一次性赔偿」转向「收入损失补偿」。对 IFA：危疾险卖点正在变——「年度危疾赔偿」模式回应的是患病后的现金流缺口，这是讲危疾方案的新框架。",
+        "tc": "危疾產品創新方向：從「一次性賠償」轉向「收入損失補償」。對 IFA：危疾險賣點正在變——「年度危疾賠償」模式回應的是患病後的現金流缺口。"
+      },
+      "actions": {
+        "front": {
+          "sc": "危疾=从赔偿转向收入补偿",
+          "tc": "危疾=從賠償轉向收入補償"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "宏利香港 · 2025年4月",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "uw",
+        "health",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "宏利",
+          "危疾",
+          "入息保障"
+        ],
+        "tc": [
+          "宏利",
+          "危疾",
+          "入息保障"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2025-04-28T10:00:00+08:00",
+      "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html"
+    },
+    {
       "id": "ia-2025-d-sii-designation",
       "clusterCount": 1,
       "score": 83,
@@ -22388,6 +22450,134 @@ window.HKII_DATA = {
         "reg"
       ],
       "contentKind": "circular"
+    },
+    {
+      "id": "manulife-deloitte-hnw-202502",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "manulife",
+      "title": {
+        "sc": "宏利×德勤：超三分二大中华高净值人士视保险为财富传承重要工具",
+        "tc": "宏利×德勤：超三分二大中華高淨值人士視保險為財富傳承重要工具"
+      },
+      "summary": {
+        "sc": "2025年2月17日，宏利香港与德勤联合发布报告：超过三分之二大中华地区高净值人士将保险视为财富传承及规划的重要工具。报告探讨高净值人士在财务规划上的喜好与考量，印证保险在跨境传承架构中的核心地位。",
+        "tc": "2025年2月17日，宏利香港與德勤聯合發佈報告：超過三分之二大中華地區高淨值人士將保險視為財富傳承及規劃的重要工具。"
+      },
+      "why": {
+        "sc": "「保险=传承工具」有了一手调研背书。对 IFA：高净值客群谈传承时，这份报告是现成的行业论据；也印证港险从「保障」到「传承」的功能定位转移，是给客户讲资产配置的弹药。",
+        "tc": "「保險=傳承工具」有了一手調研背書。對 IFA：高淨值客群談傳承時，這份報告是現成的行業論據。"
+      },
+      "actions": {
+        "front": {
+          "sc": "传承工具定位=高净值客群的沟通锚点",
+          "tc": "傳承工具定位=高淨值客群的溝通錨點"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {
+          "sc": "大中华传承需求=跨境架构的底层动力",
+          "tc": "大中華傳承需求=跨境架構的底層動力"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 2,
+        "cross": 4
+      },
+      "source": {
+        "sc": "宏利香港 · 2025年2月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "family-office",
+        "offshore",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "宏利",
+          "德勤",
+          "高净值",
+          "传承"
+        ],
+        "tc": [
+          "宏利",
+          "德勤",
+          "高淨值",
+          "傳承"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2025-02-17T10:00:00+08:00",
+      "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html"
+    },
+    {
+      "id": "manulife-heritage-plan-202502",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "manulife",
+      "title": {
+        "sc": "宏利推出「宏挚家传承」及「财挚宏耀」保险计划",
+        "tc": "宏利推出「宏摯家傳承」及「財摯宏耀」保險計劃"
+      },
+      "summary": {
+        "sc": "2025年初，宏利香港推出「宏挚家传承保险计划」及「财挚宏耀保险计划」，聚焦财富传承与储蓄增值两大场景。产品设计呼应高净值客户对传承规划的需求，与同期发布的德勤报告形成产品-研究闭环。",
+        "tc": "2025年初，宏利香港推出「宏摯家傳承保險計劃」及「財摯宏耀保險計劃」，聚焦財富傳承與儲蓄增值兩大場景。"
+      },
+      "why": {
+        "sc": "头部保司 2025 年产品方向：传承+储蓄双主线。对 IFA：宏利的动作是行业风向标——储蓄险竞争从「收益比拼」转向「传承功能比拼」，产品比较维度要跟着变。",
+        "tc": "頭部保司 2025 年產品方向：傳承+儲蓄雙主線。對 IFA：宏利的動作是行業風向標——儲蓄險競爭從「收益比拼」轉向「傳承功能比拼」。"
+      },
+      "actions": {
+        "front": {
+          "sc": "传承功能=储蓄险比较的新维度",
+          "tc": "傳承功能=儲蓄險比較的新維度"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 2,
+        "cross": 3
+      },
+      "source": {
+        "sc": "宏利香港 · 2025年2月",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "product",
+        "family-office"
+      ],
+      "tags": {
+        "sc": [
+          "宏利",
+          "传承",
+          "新产品"
+        ],
+        "tc": [
+          "宏利",
+          "傳承",
+          "新產品"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2025-02-10T10:00:00+08:00",
+      "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html"
     },
     {
       "id": "ia-20250206-claims-mgmt",
@@ -30371,10 +30561,10 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 341 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 341 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 344 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 344 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 341,
+      "totalItems": 344,
       "sourceTiers": [
         {
           "tier": "official",
@@ -30383,7 +30573,7 @@ window.HKII_DATA = {
         },
         {
           "tier": "insurer",
-          "count": 69,
+          "count": 72,
           "label": "保司公告"
         },
         {
@@ -30482,7 +30672,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "offshore",
-          "count": 54,
+          "count": 55,
           "label": "跨境"
         },
         {
@@ -30492,7 +30682,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "product",
-          "count": 38,
+          "count": 41,
           "label": "产品"
         },
         {
