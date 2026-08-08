@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-08T18:32:19Z",
-  "itemCount": 362,
+  "generatedAt": "2026-08-08T18:33:39Z",
+  "itemCount": 367,
   "items": [
     {
       "id": "ib-sk-ai-datacenter-20260808",
@@ -1375,6 +1375,19 @@
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_10072026.pdf"
     },
     {
+      "id": "aia-mdrt-seven-global-202607",
+      "title": "友邦香港百万圆桌会员勇夺七项全球第一",
+      "sourceTier": "insurer",
+      "themes": [
+        "career",
+        "channel"
+      ],
+      "publishedAt": "2026-07-09T10:00:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-mdrt-seven-global-202607",
+      "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases"
+    },
+    {
       "id": "fstb-fo-tax-bill-20260708",
       "title": "香港家办税惠修订草案提交立法会审议：扩免税范围、纳数字资产、取消5%门槛。",
       "sourceTier": "official",
@@ -1481,6 +1494,19 @@
       "score": 85,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=pcpd-ai-sandbox-jul06",
       "originalUrl": "https://www.info.gov.hk/gia/general/202607/06/P2026070300679.htm"
+    },
+    {
+      "id": "aia-health-campus-202607",
+      "title": "「AIA 健康校园挑战赛 2025/26」公布香港区得奖学校",
+      "sourceTier": "insurer",
+      "themes": [
+        "health",
+        "community"
+      ],
+      "publishedAt": "2026-07-05T10:00:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-health-campus-202607",
+      "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases"
     },
     {
       "id": "ia-20260703-rfyc",
@@ -1600,6 +1626,20 @@
       "score": 70,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hk-property-cires-2026",
       "originalUrl": "https://www.newcies.gov.hk/en/new-measures/"
+    },
+    {
+      "id": "pru-union-oncology-202606",
+      "title": "保诚与仁安医院深化合作：仁安肿瘤中心扩展肿瘤医疗网络",
+      "sourceTier": "insurer",
+      "themes": [
+        "health",
+        "uw",
+        "product"
+      ],
+      "publishedAt": "2026-06-30T10:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=pru-union-oncology-202606",
+      "originalUrl": "https://www.prudential.com.hk/tc/about-us/newsroom/"
     },
     {
       "id": "ia-20260629-sunlife-notes",
@@ -2462,6 +2502,20 @@
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/files/APAC_Cyber_Risk_and_Insurance_Summit_2026.pdf"
     },
     {
+      "id": "pru-fosun-gba-hospitals-202604",
+      "title": "保诚与复星健康深化合作：大湾区医院全数纳入保诚医疗网络",
+      "sourceTier": "insurer",
+      "themes": [
+        "health",
+        "cross-border",
+        "product"
+      ],
+      "publishedAt": "2026-04-16T10:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=pru-fosun-gba-hospitals-202604",
+      "originalUrl": "https://www.prudential.com.hk/tc/about-us/newsroom/"
+    },
+    {
       "id": "ia-202604-fsi-survey",
       "title": "金发局发表报告：巩固香港作为全球重要保险枢纽的地位。",
       "sourceTier": "media",
@@ -2793,6 +2847,19 @@
       "score": 72,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-fo-philanthropy-202603",
       "originalUrl": "https://www.hkma.gov.hk/chi/news-and-media/press-releases/2026/03/20260310-3/"
+    },
+    {
+      "id": "pru-cto-greater-china-202603",
+      "title": "保诚委任黄庆泰领导大中华区科技策略",
+      "sourceTier": "insurer",
+      "themes": [
+        "tech",
+        "firm"
+      ],
+      "publishedAt": "2026-03-10T10:00:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=pru-cto-greater-china-202603",
+      "originalUrl": "https://www.prudential.com.hk/tc/about-us/newsroom/"
     },
     {
       "id": "ia-20260305-genai-sandbox",

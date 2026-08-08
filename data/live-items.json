@@ -2,10 +2,10 @@
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-09T18:08:00+08:00",
-    "itemCount": 362,
+    "itemCount": 367,
     "windowNote": {
-      "sc": "本库362条。",
-      "tc": "本庫362條。"
+      "sc": "本库367条。",
+      "tc": "本庫367條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -7697,6 +7697,72 @@
       "contentKind": "circular"
     },
     {
+      "id": "aia-mdrt-seven-global-202607",
+      "clusterCount": 1,
+      "score": 68,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "aia",
+      "title": {
+        "sc": "友邦香港百万圆桌会员勇夺七项全球第一",
+        "tc": "友邦香港百萬圓桌會員勇奪七項全球第一"
+      },
+      "summary": {
+        "sc": "2026年7月9日，友邦香港宣布旗下百万圆桌（MDRT）会员在 2026 年勇夺七项全球第一，涵盖会员总数、顶尖会员（TOT）等关键指标，反映友邦香港在高端人才招募与培育上的领先地位。",
+        "tc": "2026年7月9日，友邦香港宣佈旗下百萬圓桌（MDRT）會員在 2026 年勇奪七項全球第一，涵蓋會員總數、頂尖會員（TOT）等關鍵指標。"
+      },
+      "why": {
+        "sc": "MDRT 人数是渠道竞争力的硬指标：MDRT 会员多=高端客户服务能力强。对团队管理者：友邦的 MDRT 体系是行业标杆，招募与培训体系可对标学习。",
+        "tc": "MDRT 人數是渠道競爭力的硬指標：MDRT 會員多=高端客戶服務能力強。友邦的 MDRT 體系是行業標杆。"
+      },
+      "actions": {
+        "front": {
+          "sc": "MDRT七项全球第一=高端服务能力佐证",
+          "tc": "MDRT七項全球第一=高端服務能力佐證"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "MDRT体系=团队招募培训的行业标杆",
+          "tc": "MDRT體系=團隊招募培訓的行業標杆"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 4,
+        "cross": 1
+      },
+      "source": {
+        "sc": "友邦香港 · 2026年7月",
+        "lang": "zh"
+      },
+      "boards": [
+        "channel"
+      ],
+      "themes": [
+        "career",
+        "channel"
+      ],
+      "tags": {
+        "sc": [
+          "友邦",
+          "MDRT",
+          "百万圆桌",
+          "全球第一"
+        ],
+        "tc": [
+          "友邦",
+          "MDRT",
+          "百萬圓桌",
+          "全球第一"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-07-09T10:00:00+08:00",
+      "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases"
+    },
+    {
       "id": "fstb-fo-tax-bill-20260708",
       "clusterCount": 1,
       "score": 88,
@@ -8280,6 +8346,67 @@
       },
       "featured": false,
       "evergreen": false
+    },
+    {
+      "id": "aia-health-campus-202607",
+      "clusterCount": 1,
+      "score": 60,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "aia",
+      "title": {
+        "sc": "「AIA 健康校园挑战赛 2025/26」公布香港区得奖学校",
+        "tc": "「AIA 健康校園挑戰賽 2025/26」公佈香港區得獎學校"
+      },
+      "summary": {
+        "sc": "2026年7月5日，「AIA 健康校园挑战赛 2025/26」公布香港区得奖学校名单。该赛事是友邦推动健康生活理念进入校园的长期项目，覆盖学生健康习惯养成与社区健康推广。",
+        "tc": "2026年7月5日，「AIA 健康校園挑戰賽 2025/26」公佈香港區得獎學校名單。該賽事是友邦推動健康生活理念進入校園的長期項目。"
+      },
+      "why": {
+        "sc": "保司品牌健康生态的投入样本：从产品到社区的健康闭环。对 IFA：理解保司品牌动作（校园、运动、健康）有助于判断其长期战略重心——健康是港险的核心叙事。",
+        "tc": "保司品牌健康生態的投入樣本：從產品到社區的健康閉環。健康是港險的核心敘事。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "校园健康项目=品牌生态的长期投资",
+          "tc": "校園健康項目=品牌生態的長期投資"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 3,
+        "cross": 2
+      },
+      "source": {
+        "sc": "友邦香港 · 2026年7月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "health",
+        "community"
+      ],
+      "tags": {
+        "sc": [
+          "友邦",
+          "健康校园",
+          "社区"
+        ],
+        "tc": [
+          "友邦",
+          "健康校園",
+          "社區"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-07-05T10:00:00+08:00",
+      "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases"
     },
     {
       "id": "ia-20260703-rfyc",
@@ -8950,6 +9077,70 @@
       "contentKind": "news",
       "publishedAt": "2026-06-30T10:00:00+08:00",
       "originalUrl": "https://www.newcies.gov.hk/en/new-measures/"
+    },
+    {
+      "id": "pru-union-oncology-202606",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "prudential",
+      "title": {
+        "sc": "保诚与仁安医院深化合作：仁安肿瘤中心扩展肿瘤医疗网络",
+        "tc": "保誠與仁安醫院深化合作：仁安腫瘤中心擴展腫瘤醫療網絡"
+      },
+      "summary": {
+        "sc": "2026年6月30日，保诚与仁安医院宣布深化策略合作，与仁安肿瘤中心携手扩展肿瘤医疗网络，为客户提供更完整的癌症治疗服务链条。这是保诚医疗生态布局的一部分。",
+        "tc": "2026年6月30日，保誠與仁安醫院宣佈深化策略合作，與仁安腫瘤中心攜手擴展腫瘤醫療網絡，為客戶提供更完整的癌症治療服務鏈條。"
+      },
+      "why": {
+        "sc": "癌症占危疾理赔 70%+，肿瘤网络就是危疾险的「服务兑现能力」。对 IFA：比较危疾险时，「背后连接哪些医院/肿瘤中心」和保额一样重要——这是保诚用生态竞争的信号。",
+        "tc": "癌症佔危疾理賠 70%+，腫瘤網絡就是危疾險的「服務兌現能力」。比較危疾險時，「背後連接哪些醫院/腫瘤中心」和保額一樣重要。"
+      },
+      "actions": {
+        "front": {
+          "sc": "肿瘤网络=危疾险的服务兑现能力",
+          "tc": "腫瘤網絡=危疾險的服務兌現能力"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 2,
+        "lead": 1,
+        "cross": 2
+      },
+      "source": {
+        "sc": "保诚香港 · 2026年6月",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "health",
+        "uw",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "保诚",
+          "仁安",
+          "肿瘤",
+          "医疗网络"
+        ],
+        "tc": [
+          "保誠",
+          "仁安",
+          "腫瘤",
+          "醫療網絡"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-06-30T10:00:00+08:00",
+      "originalUrl": "https://www.prudential.com.hk/tc/about-us/newsroom/"
     },
     {
       "id": "ia-20260629-sunlife-notes",
@@ -14082,6 +14273,73 @@
       "contentKind": "speech"
     },
     {
+      "id": "pru-fosun-gba-hospitals-202604",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "prudential",
+      "title": {
+        "sc": "保诚与复星健康深化合作：大湾区医院全数纳入保诚医疗网络",
+        "tc": "保誠與復星健康深化合作：大灣區醫院全數納入保誠醫療網絡"
+      },
+      "summary": {
+        "sc": "2026年4月16日，保诚与复星健康宣布深化合作，将复星健康旗下所有大湾区医院纳入保诚医疗网络。内地医疗网络扩容直接服务跨境客群的医疗需求，是港险服务内地客户的关键拼图。",
+        "tc": "2026年4月16日，保誠與復星健康宣佈深化合作，將復星健康旗下所有大灣區醫院納入保誠醫療網絡。內地醫療網絡擴容直接服務跨境客群的醫療需求。"
+      },
+      "why": {
+        "sc": "内地医院入网=港险「跨境医疗服务」从口号变现实。对 IFA：客户问「内地看病能不能赔、去哪看」，保诚用大湾区医院网络给出答案——这是讲医疗险方案的硬核素材。",
+        "tc": "內地醫院入網=港險「跨境醫療服務」從口號變現實。客戶問「內地看病能不能賠、去哪看」，保誠用大灣區醫院網絡給出答案。"
+      },
+      "actions": {
+        "front": {
+          "sc": "大湾区医院入网=跨境医疗的兑现",
+          "tc": "大灣區醫院入網=跨境醫療的兌現"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {
+          "sc": "内地医疗网络=跨境客群的服务底座",
+          "tc": "內地醫療網絡=跨境客群的服務底座"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 2,
+        "lead": 2,
+        "cross": 4
+      },
+      "source": {
+        "sc": "保诚香港 · 2026年4月",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "health",
+        "cross-border",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "保诚",
+          "复星健康",
+          "大湾区",
+          "医疗网络"
+        ],
+        "tc": [
+          "保誠",
+          "復星健康",
+          "大灣區",
+          "醫療網絡"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-04-16T10:00:00+08:00",
+      "originalUrl": "https://www.prudential.com.hk/tc/about-us/newsroom/"
+    },
+    {
       "id": "ia-202604-fsi-survey",
       "clusterCount": 1,
       "score": 78,
@@ -16018,6 +16276,70 @@
       "contentKind": "report",
       "publishedAt": "2026-03-10T10:00:00+08:00",
       "originalUrl": "https://www.hkma.gov.hk/chi/news-and-media/press-releases/2026/03/20260310-3/"
+    },
+    {
+      "id": "pru-cto-greater-china-202603",
+      "clusterCount": 1,
+      "score": 68,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "prudential",
+      "title": {
+        "sc": "保诚委任黄庆泰领导大中华区科技策略",
+        "tc": "保誠委任黃慶泰領導大中華區科技策略"
+      },
+      "summary": {
+        "sc": "2026年3月10日，保诚宣布委任黄庆泰领导大中华区科技策略，显示集团加速以科技驱动业务转型的意图。此前保诚已参与保监局 AI Cohort 计划，此次人事任命是科技战略的组织落地。",
+        "tc": "2026年3月10日，保誠宣佈委任黃慶泰領導大中華區科技策略，顯示集團加速以科技驅動業務轉型的意圖。此前保誠已參與保監局 AI Cohort 計劃。"
+      },
+      "why": {
+        "sc": "保司设大中华区科技主管=科技从工具升格为战略。对 IFA：保司的科技投入方向（AI 客服、智能核保、数字化渠道）会重塑中介生态——跟踪这些人事信号能提前感知渠道变革。",
+        "tc": "保司設大中華區科技主管=科技從工具升格為戰略。跟蹤這些人事信號能提前感知渠道變革。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "科技主管任命=数字化转型的组织信号",
+          "tc": "科技主管任命=數碼轉型的組織信號"
+        },
+        "lead": {
+          "sc": "科技战略=保司竞争的新维度",
+          "tc": "科技戰略=保司競爭的新維度"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 3,
+        "lead": 3,
+        "cross": 2
+      },
+      "source": {
+        "sc": "保诚香港 · 2026年3月",
+        "lang": "zh"
+      },
+      "boards": [
+        "tech"
+      ],
+      "themes": [
+        "tech",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "保诚",
+          "科技策略",
+          "人事"
+        ],
+        "tc": [
+          "保誠",
+          "科技策略",
+          "人事"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-03-10T10:00:00+08:00",
+      "originalUrl": "https://www.prudential.com.hk/tc/about-us/newsroom/"
     },
     {
       "id": "ia-20260305-genai-sandbox",
@@ -31692,10 +32014,10 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 362 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 362 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 367 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 367 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 362,
+      "totalItems": 367,
       "sourceTiers": [
         {
           "tier": "official",
@@ -31704,7 +32026,7 @@
         },
         {
           "tier": "insurer",
-          "count": 84,
+          "count": 89,
           "label": "保司公告"
         },
         {
@@ -31798,7 +32120,7 @@
         },
         {
           "theme": "firm",
-          "count": 60,
+          "count": 61,
           "label": "保司"
         },
         {
@@ -31807,14 +32129,14 @@
           "label": "跨境"
         },
         {
+          "theme": "product",
+          "count": 49,
+          "label": "产品"
+        },
+        {
           "theme": "compliance",
           "count": 49,
           "label": "合规"
-        },
-        {
-          "theme": "product",
-          "count": 47,
-          "label": "产品"
         },
         {
           "theme": "macro",
@@ -31823,18 +32145,18 @@
         },
         {
           "theme": "channel",
-          "count": 30,
+          "count": 31,
           "label": "渠道"
+        },
+        {
+          "theme": "tech",
+          "count": 21,
+          "label": "科技"
         },
         {
           "theme": "reinsurance",
           "count": 20,
           "label": "reinsurance"
-        },
-        {
-          "theme": "tech",
-          "count": 20,
-          "label": "科技"
         }
       ],
       "dateRange": {
