@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-08T18:11:47Z",
-  "itemCount": 357,
+  "generatedAt": "2026-08-08T18:21:44Z",
+  "itemCount": 362,
   "items": [
     {
       "id": "ib-sk-ai-datacenter-20260808",
@@ -1742,6 +1742,20 @@
       "originalUrl": "http://experience.rgare.com/product-trends-2026-q2"
     },
     {
+      "id": "censtatd-intermediary-table-202606",
+      "title": "官方统计表：获授权保险人、持牌经纪及代理人数目（2026-06-22 更新）",
+      "sourceTier": "official",
+      "themes": [
+        "career",
+        "channel",
+        "statistics"
+      ],
+      "publishedAt": "2026-06-22T10:00:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=censtatd-intermediary-table-202606",
+      "originalUrl": "https://www.censtatd.gov.hk/tc/web_table.html?id=645-92111"
+    },
+    {
       "id": "ia-20260620-goldman-outlook",
       "title": "高盛重申2026年美股乐观展望：盈利增长驱动，保险金融板块受益。",
       "sourceTier": "media",
@@ -1896,6 +1910,19 @@
       "score": 74,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-ai-cohort-10-members",
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/insurance-authority-adds-three-insurers-to-ai-cohort-programme-579133.aspx"
+    },
+    {
+      "id": "aia-total-cash-value-2025",
+      "title": "友邦 2026 年 6 月更新：2025 年总现金价值比率公布",
+      "sourceTier": "insurer",
+      "themes": [
+        "par",
+        "product"
+      ],
+      "publishedAt": "2026-06-15T10:00:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-total-cash-value-2025",
+      "originalUrl": "https://www.aia.com.hk/zh-hk/products/further-product-information/participating-products/fulfillment-ratio"
     },
     {
       "id": "ia-20260615-bloomberg-crackdown",
@@ -2398,6 +2425,20 @@
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/files/ILS_Conference_2026_Opening_Remarks_Mr_Stephen_Yiu.pdf"
     },
     {
+      "id": "legco-20260422-fo-industry",
+      "title": "立法会：香港家办两年增约 680 间，资产管理规模超 1.1 万亿港元",
+      "sourceTier": "official",
+      "themes": [
+        "family-office",
+        "offshore",
+        "global-wealth"
+      ],
+      "publishedAt": "2026-04-22T10:00:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=legco-20260422-fo-industry",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202604/22/P2026042100546.htm"
+    },
+    {
       "id": "manulife-20260420-annuity-accident",
       "title": "宏利推出全新年金及意外保险：宏瑞终身即期年金+相伴无忧个人意外。",
       "sourceTier": "insurer",
@@ -2727,6 +2768,20 @@
       "originalUrl": "https://www.163.com/dy/article/L2IEDPPE0519Q647.html"
     },
     {
+      "id": "hkma-fo-philanthropy-202603",
+      "title": "金管局报告：家办增长强劲，慈善与影响力投资成新方向",
+      "sourceTier": "official",
+      "themes": [
+        "family-office",
+        "offshore",
+        "esg"
+      ],
+      "publishedAt": "2026-03-10T10:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-fo-philanthropy-202603",
+      "originalUrl": "https://www.hkma.gov.hk/chi/news-and-media/press-releases/2026/03/20260310-3/"
+    },
+    {
       "id": "ia-20260305-genai-sandbox",
       "title": "监管机构推出 GenA.I. 沙盒++ 覆盖保险等多元金融领域（2026-03-05）。",
       "sourceTier": "official",
@@ -2793,6 +2848,19 @@
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260224-kpim-handbook",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/20260224_KPIM_Handbook_Circular.pdf"
+    },
+    {
+      "id": "prudential-bonus-mechanism-2026",
+      "title": "保诚公布分红机制：保单持有人公平分享基金盈利，红利分配有准则",
+      "sourceTier": "insurer",
+      "themes": [
+        "par",
+        "product"
+      ],
+      "publishedAt": "2026-02-20T10:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=prudential-bonus-mechanism-2026",
+      "originalUrl": "https://www.prudential.com.hk/sc/general/bonus/understand-with-profits-plans/"
     },
     {
       "id": "sunlife-2025-ape-118",

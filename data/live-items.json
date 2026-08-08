@@ -2,10 +2,10 @@
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-09T18:08:00+08:00",
-    "itemCount": 357,
+    "itemCount": 362,
     "windowNote": {
-      "sc": "本库357条。",
-      "tc": "本庫357條。"
+      "sc": "本库362条。",
+      "tc": "本庫362條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -9868,6 +9868,74 @@
       "contentKind": "research"
     },
     {
+      "id": "censtatd-intermediary-table-202606",
+      "clusterCount": 1,
+      "score": 68,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "censtatd",
+      "title": {
+        "sc": "官方统计表：获授权保险人、持牌经纪及代理人数目（2026-06-22 更新）",
+        "tc": "官方統計表：獲授權保險人、持牌經紀及代理人數目（2026-06-22 更新）"
+      },
+      "summary": {
+        "sc": "政府统计处更新「获授权保险人、持牌保险经纪及持牌保险代理人数目」统计表（2026 年 6 月 22 日发布，期末数字口径）。该表是香港保险市场参与主体规模的官方基准数据，供公开引用。",
+        "tc": "政府統計處更新「獲授權保險人、持牌保險經紀及持牌保險代理人數目」統計表（2026 年 6 月 22 日發佈，期末數字口徑）。"
+      },
+      "why": {
+        "sc": "中介人总量=渠道结构的官方基准。对 IFA：当讨论「行业多少人、竞争多激烈」时，这份官方表格比任何二手报道都权威——是引用数字的标准来源。",
+        "tc": "中介人總量=渠道結構的官方基準。當討論「行業多少人、競爭多激烈」時，這份官方表格比任何二手報道都權威。"
+      },
+      "actions": {
+        "front": {
+          "sc": "官方统计表=行业规模的标准引用",
+          "tc": "官方統計表=行業規模的標準引用"
+        },
+        "midback": {
+          "sc": "主体数目=监管视野的底数",
+          "tc": "主體數目=監管視野的底數"
+        },
+        "lead": {
+          "sc": "行业规模数据=招募与规划的底账",
+          "tc": "行業規模數據=招募與規劃的底賬"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 3,
+        "lead": 3,
+        "cross": 1
+      },
+      "source": {
+        "sc": "政府统计处 · 2026年6月",
+        "lang": "zh"
+      },
+      "boards": [
+        "channel"
+      ],
+      "themes": [
+        "career",
+        "channel",
+        "statistics"
+      ],
+      "tags": {
+        "sc": [
+          "中介人",
+          "持牌数目",
+          "官方统计"
+        ],
+        "tc": [
+          "中介人",
+          "持牌數目",
+          "官方統計"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-06-22T10:00:00+08:00",
+      "originalUrl": "https://www.censtatd.gov.hk/tc/web_table.html?id=645-92111"
+    },
+    {
       "id": "ia-20260620-goldman-outlook",
       "clusterCount": 1,
       "score": 68,
@@ -10779,6 +10847,67 @@
       "contentKind": "news",
       "publishedAt": "2026-06-15T10:00:00+08:00",
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/insurance-authority-adds-three-insurers-to-ai-cohort-programme-579133.aspx"
+    },
+    {
+      "id": "aia-total-cash-value-2025",
+      "clusterCount": 1,
+      "score": 71,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "aia",
+      "title": {
+        "sc": "友邦 2026 年 6 月更新：2025 年总现金价值比率公布",
+        "tc": "友邦 2026 年 6 月更新：2025 年總現金價值比率公佈"
+      },
+      "summary": {
+        "sc": "友邦香港 2026 年 6 月更新官网分红实现率：公布 2025 年数据年度的总现金价值比率（总额）。友邦自 2010 年起缮发的分红保单均纳入计算，实现率披露覆盖全部分红产品系列。",
+        "tc": "友邦香港 2026 年 6 月更新官網分紅實現率：公佈 2025 年數據年度的總現金價值比率（總額）。自 2010 年起繕發的分紅保單均納入計算。"
+      },
+      "why": {
+        "sc": "友邦实现率常年在 100-110% 区间（市场口碑「兑现稳」）。对 IFA：友邦/宏利/永明三家实现率披露口径不同（总额/复归红利/终期红利），对比时要用同一口径，这是给客户做比较的专业分水岭。",
+        "tc": "友邦實現率常年在 100-110% 區間。三家實現率披露口徑不同（總額/復歸紅利/終期紅利），對比時要用同一口徑，這是給客戶做比較的專業分水嶺。"
+      },
+      "actions": {
+        "front": {
+          "sc": "实现率对比=先统一口径再比数字",
+          "tc": "實現率對比=先統一實體再比數字"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "友邦香港 · 2026年6月",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "par",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "友邦",
+          "总现金价值比率",
+          "2025数据"
+        ],
+        "tc": [
+          "友邦",
+          "總現金價值比率",
+          "2025數據"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-06-15T10:00:00+08:00",
+      "originalUrl": "https://www.aia.com.hk/zh-hk/products/further-product-information/participating-products/fulfillment-ratio"
     },
     {
       "id": "ia-20260615-bloomberg-crackdown",
@@ -13867,6 +13996,76 @@
       "contentKind": "speech"
     },
     {
+      "id": "legco-20260422-fo-industry",
+      "clusterCount": 1,
+      "score": 76,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "govhk",
+      "title": {
+        "sc": "立法会：香港家办两年增约 680 间，资产管理规模超 1.1 万亿港元",
+        "tc": "立法會：香港家辦兩年增約 680 間，資產管理規模超 1.1 萬億港元"
+      },
+      "summary": {
+        "sc": "2026年4月22日立法会答问：香港家办行业生态圈持续蓬勃发展，两年间增加约 680 间，资产管理规模超过 1.1 万亿港元。香港作为全球资产及财富管理枢纽的地位进一步巩固。",
+        "tc": "2026年4月22日立法會答問：香港家辦行業生態圈持續蓬勃發展，兩年間增加約 680 間，資產管理規模超過 1.1 萬億港元。"
+      },
+      "why": {
+        "sc": "官方最新口径：家办 3,384 间 + AUM 1.1 万亿港元。对 IFA：这是「跨境高净值业务值得投入」的官方背书——数字是政府自己说的，引用无合规风险。",
+        "tc": "官方最新口徑：家辦 3,384 間 + AUM 1.1 萬億港元。這是「跨境高淨值業務值得投入」的官方背書。"
+      },
+      "actions": {
+        "front": {
+          "sc": "AUM 1.1万亿=家办红利官方背书",
+          "tc": "AUM 1.1萬億=家辦紅利官方背書"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "家办生态=机构合作的增长极",
+          "tc": "家辦生態=機構合作的增長極"
+        },
+        "cross": {
+          "sc": "家办AUM=跨境财富管理的底座",
+          "tc": "家辦AUM=跨境財富管理的底座"
+        }
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 4,
+        "cross": 4
+      },
+      "source": {
+        "sc": "立法会 · 2026年4月",
+        "lang": "zh"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "family-office",
+        "offshore",
+        "global-wealth"
+      ],
+      "tags": {
+        "sc": [
+          "家办",
+          "AUM",
+          "1.1万亿",
+          "立法会"
+        ],
+        "tc": [
+          "家辦",
+          "AUM",
+          "1.1萬億",
+          "立法會"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-04-22T10:00:00+08:00",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202604/22/P2026042100546.htm"
+    },
+    {
       "id": "manulife-20260420-annuity-accident",
       "clusterCount": 1,
       "score": 83,
@@ -15853,6 +16052,73 @@
       "originalUrl": "https://www.163.com/dy/article/L2IEDPPE0519Q647.html"
     },
     {
+      "id": "hkma-fo-philanthropy-202603",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "金管局报告：家办增长强劲，慈善与影响力投资成新方向",
+        "tc": "金管局報告：家辦增長強勁，慈善與影響力投資成新方向"
+      },
+      "summary": {
+        "sc": "金管局 2026 年 3 月发布《超越财富：透过慈善、影响力投资及风险管理推动香港家族办公室发展》报告：香港家办行业增长动力强劲，除了传统财富管理，对慈善、影响力投资及风险管理的需求正在兴起。",
+        "tc": "金管局 2026 年 3 月發佈《超越財富：透過慈善、影響力投資及風險管理推動香港家族辦公室發展》報告：香港家辦行業增長動力強勁，除了傳統財富管理，對慈善、影響力投資及風險管理的需求正在興起。"
+      },
+      "why": {
+        "sc": "金管局（而非投资推广署）发家办报告=家办已被视为金融监管体系内的正经赛道。慈善+影响力投资是家办服务的新增量——对 IFA：了解这个趋势，能在家办客户面前讲出「超越财富管理」的新价值。",
+        "tc": "金管局發家辦報告=家辦已被視為金融監管體系內的正式賽道。慈善+影響力投資是家辦服務的新增量。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "慈善+影响力=家办服务新增量",
+          "tc": "慈善+影響力=家辦服務新增量"
+        },
+        "cross": {
+          "sc": "家办需求升级=跨境服务链条加长",
+          "tc": "家辦需求升級=跨境服務鏈條加長"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 4,
+        "cross": 4
+      },
+      "source": {
+        "sc": "金管局 · 2026年3月",
+        "lang": "zh"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "family-office",
+        "offshore",
+        "esg"
+      ],
+      "tags": {
+        "sc": [
+          "金管局",
+          "家办",
+          "慈善",
+          "影响力投资"
+        ],
+        "tc": [
+          "金管局",
+          "家辦",
+          "慈善",
+          "影響力投資"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-03-10T10:00:00+08:00",
+      "originalUrl": "https://www.hkma.gov.hk/chi/news-and-media/press-releases/2026/03/20260310-3/"
+    },
+    {
       "id": "ia-20260305-genai-sandbox",
       "title": {
         "sc": "监管机构推出 GenA.I. 沙盒++ 覆盖保险等多元金融领域（2026-03-05）。",
@@ -16225,6 +16491,67 @@
         "reg"
       ],
       "contentKind": "circular"
+    },
+    {
+      "id": "prudential-bonus-mechanism-2026",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "prudential",
+      "title": {
+        "sc": "保诚公布分红机制：保单持有人公平分享基金盈利，红利分配有准则",
+        "tc": "保誠公佈分紅機制：保單持有人公平分享基金盈利，紅利分配有準則"
+      },
+      "summary": {
+        "sc": "保诚香港详解分红保单机制：保单持有人可透过非保证红利形式公平享有基金营运盈利，保司致力于在各组别保单持有人之间公平分配红利，保障所有保单持有人的权利和合理预期。",
+        "tc": "保誠香港詳解分紅保單機制：保單持有人可透過非保證紅利形式公平享有基金營運盈利，保司致力於在各組別保單持有人之間公平分配紅利。"
+      },
+      "why": {
+        "sc": "理解分红机制（盈余分配、公平原则）是向客户解释「非保证」的底层知识。对 IFA：客户问「分红怎么来的」，这篇官方说明就是标准答案——比自创解释更稳妥。",
+        "tc": "理解分紅機制（盈餘分配、公平原則）是向客戶解釋「非保證」的底層知識。客戶問「分紅怎麼來的」，這篇官方說明就是標準答案。"
+      },
+      "actions": {
+        "front": {
+          "sc": "分红机制=向客户解释非保证的标准答案",
+          "tc": "分紅機制=向客戶解釋非保證的標準答案"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 2,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "保诚香港 · 2026年",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "par",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "保诚",
+          "分红机制",
+          "公平分配"
+        ],
+        "tc": [
+          "保誠",
+          "分紅機制",
+          "公平分配"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-02-20T10:00:00+08:00",
+      "originalUrl": "https://www.prudential.com.hk/sc/general/bonus/understand-with-profits-plans/"
     },
     {
       "id": "sunlife-2025-ape-118",
@@ -31402,19 +31729,19 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 357 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 357 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 362 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 362 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 357,
+      "totalItems": 362,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 145,
+          "count": 148,
           "label": "监管一手"
         },
         {
           "tier": "insurer",
-          "count": 82,
+          "count": 84,
           "label": "保司公告"
         },
         {
@@ -31513,7 +31840,7 @@
         },
         {
           "theme": "offshore",
-          "count": 55,
+          "count": 57,
           "label": "跨境"
         },
         {
@@ -31523,7 +31850,7 @@
         },
         {
           "theme": "product",
-          "count": 44,
+          "count": 46,
           "label": "产品"
         },
         {
@@ -31533,7 +31860,7 @@
         },
         {
           "theme": "channel",
-          "count": 28,
+          "count": 29,
           "label": "渠道"
         },
         {
@@ -31543,7 +31870,7 @@
         },
         {
           "theme": "career",
-          "count": 17,
+          "count": 18,
           "label": "职业"
         }
       ],
