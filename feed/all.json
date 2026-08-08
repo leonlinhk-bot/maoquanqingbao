@@ -1,22 +1,9 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-07T17:29:05Z",
-  "itemCount": 337,
+  "generatedAt": "2026-08-08T17:01:58Z",
+  "itemCount": 341,
   "items": [
-    {
-      "id": "scmp-beijing-tax-not-new-aug07",
-      "title": "SCMP：北京称境外保单20%征税并非新政策 且不针对香港",
-      "sourceTier": "media",
-      "themes": [
-        "tax",
-        "offshore"
-      ],
-      "publishedAt": "2026-08-07T12:23:00+08:00",
-      "score": 75,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-beijing-tax-not-new-aug07",
-      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3363348/beijing-says-20-offshore-insurance-tax-not-new-and-does-not-target-hong-kong"
-    },
     {
       "id": "hkma-hkmca-boclife-annuity",
       "title": "香港年金公司与中银人寿达成策略合作 指定中介可转介「香港年金计划」",
@@ -29,6 +16,19 @@
       "score": 85,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-hkmca-boclife-annuity",
       "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260807-3/"
+    },
+    {
+      "id": "scmp-beijing-tax-not-new-aug07",
+      "title": "SCMP：北京称境外保单20%征税并非新政策 且不针对香港",
+      "sourceTier": "media",
+      "themes": [
+        "tax",
+        "offshore"
+      ],
+      "publishedAt": "2026-08-07T12:23:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-beijing-tax-not-new-aug07",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3363348/beijing-says-20-offshore-insurance-tax-not-new-and-does-not-target-hong-kong"
     },
     {
       "id": "sunlife-asia-q2-2026",
@@ -44,45 +44,6 @@
       "originalUrl": "https://insuranceasia.com/insurance/news/sun-lifes-asia-segment-net-income-surges-153-144m-in-q2"
     },
     {
-      "id": "prudential-plan-rename-aug24",
-      "title": "保诚香港8月24日起更新部分计划名称 储蓄型产品名加入「保險」字样",
-      "sourceTier": "insurer",
-      "themes": [
-        "product",
-        "compliance"
-      ],
-      "publishedAt": "2026-07-01T00:00:00+08:00",
-      "score": 75,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=prudential-plan-rename-aug24",
-      "originalUrl": "https://www.prudential.com.hk/en/claims-and-services/tools/customer-notices/customer-notice-products-name-change/"
-    },
-    {
-      "id": "axa-xl-srm-cyber-aug07",
-      "title": "AXA XL收购网络安全咨询公司S-RM剩余股份 整合网络险供应商面板",
-      "sourceTier": "media",
-      "themes": [
-        "cyber",
-        "reinsurance"
-      ],
-      "publishedAt": "2026-08-07T00:00:00+08:00",
-      "score": 60,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=axa-xl-srm-cyber-aug07",
-      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/axa-xl-just-bought-the-vendor-half-of-every-cyber-panel-it-sat-on-585344.aspx"
-    },
-    {
-      "id": "ia-tax-response-aug06",
-      "title": "香港保监局回应「港险收益征税」：正密切注意内地税务安排新进展 吁勿过度解读",
-      "sourceTier": "official",
-      "themes": [
-        "compliance",
-        "offshore"
-      ],
-      "publishedAt": "2026-08-06T19:30:00+08:00",
-      "score": 85,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-tax-response-aug06",
-      "originalUrl": "https://wap.eastmoney.com/a/202608063834049890.html"
-    },
-    {
       "id": "manulife-asia-q2-2026",
       "title": "宏利亚洲次季股东应占净利+28%至7.68亿美元 APE+21%至15亿美元",
       "sourceTier": "insurer",
@@ -96,17 +57,30 @@
       "originalUrl": "https://insuranceasia.com/insurance/news/manulifes-asia-business-sees-profit-soar-28-in-q2-2026"
     },
     {
-      "id": "scmp-levy-next-steps-aug06",
-      "title": "港险股消化征税报道后市场聚焦北京下一步 高盛指利润冲击或有限",
+      "id": "thailand-life-digital-channel-aug07",
+      "title": "泰国寿险数字化直营渠道逼近代理人 监管改革同步推进",
       "sourceTier": "media",
       "themes": [
-        "macro",
-        "compliance"
+        "distribution",
+        "insurtech"
       ],
-      "publishedAt": "2026-08-06T18:49:00+08:00",
-      "score": 66,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-levy-next-steps-aug06",
-      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3363106/shares-major-hong-kong-insurance-finance-firms-tumble-following-report-20-levy"
+      "publishedAt": "2026-08-07T05:00:00+08:00",
+      "score": 61,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=thailand-life-digital-channel-aug07",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/thailands-life-insurance-digital-channel-is-closing-in-on-agents-585257.aspx"
+    },
+    {
+      "id": "axa-xl-srm-cyber-aug07",
+      "title": "AXA XL收购网络安全咨询公司S-RM剩余股份 整合网络险供应商面板",
+      "sourceTier": "media",
+      "themes": [
+        "cyber",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-08-07T00:00:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=axa-xl-srm-cyber-aug07",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/axa-xl-just-bought-the-vendor-half-of-every-cyber-panel-it-sat-on-585344.aspx"
     },
     {
       "id": "zurich-apac-h1-2026",
@@ -135,31 +109,43 @@
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/swiss-re-pandc-hits-76-7-combined-ratio-but-pricing-gap-widens-585163.aspx"
     },
     {
-      "id": "thailand-life-digital-channel-aug07",
-      "title": "泰国寿险数字化直营渠道逼近代理人 监管改革同步推进",
-      "sourceTier": "media",
-      "themes": [
-        "distribution",
-        "insurtech"
-      ],
-      "publishedAt": "2026-08-07T05:00:00+08:00",
-      "score": 61,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=thailand-life-digital-channel-aug07",
-      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/thailands-life-insurance-digital-channel-is-closing-in-on-agents-585257.aspx"
-    },
-    {
-      "id": "hk-policy-tax-selloff-aug06",
-      "title": "征税20%发酵：香港保险股集体重挫 友邦一度跌9% 大行称抛售过度",
-      "sourceTier": "media",
+      "id": "ia-tax-response-aug06",
+      "title": "香港保监局回应「港险收益征税」：正密切注意内地税务安排新进展 吁勿过度解读",
+      "sourceTier": "official",
       "themes": [
         "compliance",
-        "offshore",
-        "macro"
+        "offshore"
       ],
-      "publishedAt": "2026-08-06T08:36:00+08:00",
-      "score": 84,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hk-policy-tax-selloff-aug06",
-      "originalUrl": "https://finance.caixin.com/m/2026-08-06/102471644.html"
+      "publishedAt": "2026-08-06T19:30:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-tax-response-aug06",
+      "originalUrl": "https://wap.eastmoney.com/a/202608063834049890.html"
+    },
+    {
+      "id": "scmp-levy-next-steps-aug06",
+      "title": "港险股消化征税报道后市场聚焦北京下一步 高盛指利润冲击或有限",
+      "sourceTier": "media",
+      "themes": [
+        "macro",
+        "compliance"
+      ],
+      "publishedAt": "2026-08-06T18:49:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-levy-next-steps-aug06",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3363106/shares-major-hong-kong-insurance-finance-firms-tumble-following-report-20-levy"
+    },
+    {
+      "id": "sunlife-mpf-concentration-aug06",
+      "title": "永明：17.4%强积金成员投资过度集中 近四成50岁以上面临退休风险",
+      "sourceTier": "media",
+      "themes": [
+        "retirement",
+        "market"
+      ],
+      "publishedAt": "2026-08-06T16:48:00+08:00",
+      "score": 63,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sunlife-mpf-concentration-aug06",
+      "originalUrl": "https://www.stheadline.com/zh-hans/investment/3601656/%E8%BF%91%E5%9B%9B%E6%88%9050%E5%B2%81%E4%BB%A5%E4%B8%8AMPF%E6%88%90%E5%91%98%E6%8A%95%E8%B5%84%E8%BF%87%E4%BA%8E%E9%9B%86%E4%B8%AD-%E6%B0%B8%E6%98%8E%E9%80%80%E4%BC%91%E8%B5%84%E4%BA%A7%E6%89%BF%E5%8F%97%E8%BE%83%E5%A4%A7%E5%B8%82%E5%9C%BA%E9%A3%8E%E9%99%A9"
     },
     {
       "id": "manulife-q2-2026-hk-ape37",
@@ -175,17 +161,18 @@
       "originalUrl": "https://www.stheadline.com/zh-hans/stock-market/3601490/%E5%AE%8F%E5%88%A9%E9%87%91%E8%9E%8D%E6%AC%A1%E5%AD%A3%E6%A0%B8%E5%BF%83%E7%9B%88%E5%88%A9%E5%8D%8712-%E6%B4%BE%E6%81%AF0485%E5%8A%A0%E5%85%83-%E6%B8%AF%E6%BE%B3%E4%B8%9A%E5%8A%A1%E4%B8%BB%E8%A6%81%E4%B8%9A%E7%BB%A9%E5%9D%87%E5%BD%95%E5%8F%8C%E4%BD%8D%E5%A2%9E%E9%95%BF"
     },
     {
-      "id": "hsbc-h1-insurance-sales-26pct",
-      "title": "汇丰保险香港上半年保费+26% 存量银行客户贡献85%新单",
+      "id": "hk-policy-tax-selloff-aug06",
+      "title": "征税20%发酵：香港保险股集体重挫 友邦一度跌9% 大行称抛售过度",
       "sourceTier": "media",
       "themes": [
-        "channel",
-        "market"
+        "compliance",
+        "offshore",
+        "macro"
       ],
-      "publishedAt": "2026-08-06T05:15:00+08:00",
-      "score": 66,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hsbc-h1-insurance-sales-26pct",
-      "originalUrl": "https://insuranceasia.com/insurance/news/hsbcs-26-insurance-sales-jump-lifts-hong-kongs-market-outlook"
+      "publishedAt": "2026-08-06T08:36:00+08:00",
+      "score": 84,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hk-policy-tax-selloff-aug06",
+      "originalUrl": "https://finance.caixin.com/m/2026-08-06/102471644.html"
     },
     {
       "id": "prudential-cuts-china-risk-aug06",
@@ -214,17 +201,17 @@
       "originalUrl": "https://insuranceasia.com/insurance/news/howden-launches-cancer-cover-insurers-avoid-standalone-plans"
     },
     {
-      "id": "sunlife-mpf-concentration-aug06",
-      "title": "永明：17.4%强积金成员投资过度集中 近四成50岁以上面临退休风险",
+      "id": "hsbc-h1-insurance-sales-26pct",
+      "title": "汇丰保险香港上半年保费+26% 存量银行客户贡献85%新单",
       "sourceTier": "media",
       "themes": [
-        "retirement",
+        "channel",
         "market"
       ],
-      "publishedAt": "2026-08-06T16:48:00+08:00",
-      "score": 63,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sunlife-mpf-concentration-aug06",
-      "originalUrl": "https://www.stheadline.com/zh-hans/investment/3601656/%E8%BF%91%E5%9B%9B%E6%88%9050%E5%B2%81%E4%BB%A5%E4%B8%8AMPF%E6%88%90%E5%91%98%E6%8A%95%E8%B5%84%E8%BF%87%E4%BA%8E%E9%9B%86%E4%B8%AD-%E6%B0%B8%E6%98%8E%E9%80%80%E4%BC%91%E8%B5%84%E4%BA%A7%E6%89%BF%E5%8F%97%E8%BE%83%E5%A4%A7%E5%B8%82%E5%9C%BA%E9%A3%8E%E9%99%A9"
+      "publishedAt": "2026-08-06T05:15:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hsbc-h1-insurance-sales-26pct",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hsbcs-26-insurance-sales-jump-lifts-hong-kongs-market-outlook"
     },
     {
       "id": "china-hk-policy-tax-aug05",
@@ -1518,6 +1505,19 @@
       "score": 93,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-crossref-20260701",
       "originalUrl": "https://xhcins.com/posts/hongkong-insurance-intermediary-reference-checking-2026-07/"
+    },
+    {
+      "id": "prudential-plan-rename-aug24",
+      "title": "保诚香港8月24日起更新部分计划名称 储蓄型产品名加入「保險」字样",
+      "sourceTier": "insurer",
+      "themes": [
+        "product",
+        "compliance"
+      ],
+      "publishedAt": "2026-07-01T00:00:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=prudential-plan-rename-aug24",
+      "originalUrl": "https://www.prudential.com.hk/en/claims-and-services/tools/customer-notices/customer-notice-products-name-change/"
     },
     {
       "id": "ia-20260630-swissre-sigma",
@@ -4344,6 +4344,20 @@
       "originalUrl": "https://www.newcies.gov.hk/zh-cn/resources/news/new-capital-investment-entrant-scheme-opens-for-application-from-march-1/"
     },
     {
+      "id": "ia-licensing-fees-consultation-202402",
+      "title": "保险中介牌照费用五年豁免期届满：保监局公布收费咨询总结",
+      "sourceTier": "official",
+      "themes": [
+        "career",
+        "compliance",
+        "channel"
+      ],
+      "publishedAt": "2024-02-29T10:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-licensing-fees-consultation-202402",
+      "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_31072024_Licensing_Fees_Chi.pdf"
+    },
+    {
       "id": "hsbc-life-250m-record-20240228",
       "title": "HSBC Life 签出 $2.5 亿美元保单，创吉尼斯世界纪录",
       "sourceTier": "insurer",
@@ -4368,6 +4382,46 @@
       "score": 75,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=safe-crossborder-wmc-202402",
       "originalUrl": "http://www.safe.gov.cn/big5/big5/www.safe.gov.cn/shenzhen/2024/0308/1746.html"
+    },
+    {
+      "id": "hkfi-climate-charter-202402",
+      "title": "保联推出《保险业气候约章》：33 家机构签署气候行动承诺",
+      "sourceTier": "official",
+      "themes": [
+        "esg",
+        "reg"
+      ],
+      "publishedAt": "2024-02-20T10:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkfi-climate-charter-202402",
+      "originalUrl": "https://www.legco.gov.hk/yr2025/chinese/counmtg/papers/cm20250319-sp017-c.pdf"
+    },
+    {
+      "id": "ia-issb-climate-disclosure-202401",
+      "title": "保监局：气候相关披露目标与 ISSB 标准对齐",
+      "sourceTier": "official",
+      "themes": [
+        "esg",
+        "reg",
+        "valuation"
+      ],
+      "publishedAt": "2024-01-25T10:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-issb-climate-disclosure-202401",
+      "originalUrl": "https://www.kennedyslaw.com/en/thought-leadership/article/2024/hong-kong-regulatory-insurance-update-january-2024/"
+    },
+    {
+      "id": "fstb-pps-consultation-conclusion-202401",
+      "title": "保单持有人保障计划（PPS）咨询总结公布：设立补偿基金的制度框架获支持",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "consumer"
+      ],
+      "publishedAt": "2024-01-15T10:00:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fstb-pps-consultation-conclusion-202401",
+      "originalUrl": "https://www.kennedyslaw.com/en/thought-leadership/article/2024/hong-kong-regulatory-insurance-update-january-2024/"
     }
   ]
 }

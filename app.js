@@ -2,10 +2,10 @@ window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-08T18:08:00+08:00",
-    "itemCount": 337,
+    "itemCount": 341,
     "windowNote": {
-      "sc": "本库337条。",
-      "tc": "本庫337條。"
+      "sc": "本库341条。",
+      "tc": "本庫341條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -169,6 +169,77 @@ window.HKII_DATA = {
   ],
   "items": [
     {
+      "id": "hkma-hkmca-boclife-annuity",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma:hkmca-boclife-annuity-20260807",
+      "title": {
+        "sc": "香港年金公司与中银人寿达成策略合作 指定中介可转介「香港年金计划」",
+        "tc": "香港年金公司與中銀人壽達成策略合作 指定中介可轉介「香港年金計劃」"
+      },
+      "summary": {
+        "sc": "香港按揭证券全资子公司香港年金公司8月7日宣布，与中银集团人寿建立策略合作，授权中银人寿指定持牌保险中介向客户介绍「香港年金计划」并转介合资格客户；行政总裁梁国权表示将持续发展本地年金市场，让更多中介协助公众认识年金在退休规划中的关键作用。[EN原文]",
+        "tc": "香港按揭證券全資子公司香港年金公司8月7日宣佈，與中銀集團人壽建立策略合作，授權中銀人壽指定持牌保險中介向客戶介紹「香港年金計劃」並轉介合資格客戶；行政總裁梁國權表示將持續發展本地年金市場，讓更多中介協助公眾認識年金在退休規劃中的關鍵作用。[EN原文]"
+      },
+      "why": {
+        "sc": "公营年金借银行系中介扩渠，退休年金市场供给端再添渠道变量——银保渠道销售公营年金的模式或成新常态，值得关注其对私营养老金产品竞争格局的影响。",
+        "tc": "公營年金借銀行系中介擴渠，退休年金市場供給端再添渠道變量——銀保渠道銷售公營年金的模式或成新常態，值得關注其對私營養老金產品競爭格局的影響。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "银保渠道卖公营年金=渠道格局新动向",
+          "tc": "銀保渠道賣公營年金=渠道格局新動向"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 0,
+        "cross": 1
+      },
+      "source": {
+        "sc": "HKMA",
+        "lang": "en"
+      },
+      "boards": [
+        "product",
+        "market"
+      ],
+      "themes": [
+        "annuity",
+        "distribution"
+      ],
+      "tags": {
+        "sc": [
+          "香港年金",
+          "中银人寿",
+          "银保渠道",
+          "退休规划"
+        ],
+        "tc": [
+          "香港年金",
+          "中銀人壽",
+          "銀保渠道",
+          "退休規劃"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-08-07T16:00:00+08:00",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260807-3/",
+      "ingestedAt": "2026-08-08T18:08:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
       "id": "scmp-beijing-tax-not-new-aug07",
       "clusterCount": 1,
       "score": 75,
@@ -234,77 +305,6 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-08-07T12:23:00+08:00",
       "originalUrl": "https://www.scmp.com/business/banking-finance/article/3363348/beijing-says-20-offshore-insurance-tax-not-new-and-does-not-target-hong-kong",
-      "ingestedAt": "2026-08-08T18:08:00+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
-    },
-    {
-      "id": "hkma-hkmca-boclife-annuity",
-      "clusterCount": 1,
-      "score": 85,
-      "verifyStatus": "verified",
-      "sourceTier": "official",
-      "sourceKey": "hkma:hkmca-boclife-annuity-20260807",
-      "title": {
-        "sc": "香港年金公司与中银人寿达成策略合作 指定中介可转介「香港年金计划」",
-        "tc": "香港年金公司與中銀人壽達成策略合作 指定中介可轉介「香港年金計劃」"
-      },
-      "summary": {
-        "sc": "香港按揭证券全资子公司香港年金公司8月7日宣布，与中银集团人寿建立策略合作，授权中银人寿指定持牌保险中介向客户介绍「香港年金计划」并转介合资格客户；行政总裁梁国权表示将持续发展本地年金市场，让更多中介协助公众认识年金在退休规划中的关键作用。[EN原文]",
-        "tc": "香港按揭證券全資子公司香港年金公司8月7日宣佈，與中銀集團人壽建立策略合作，授權中銀人壽指定持牌保險中介向客戶介紹「香港年金計劃」並轉介合資格客戶；行政總裁梁國權表示將持續發展本地年金市場，讓更多中介協助公眾認識年金在退休規劃中的關鍵作用。[EN原文]"
-      },
-      "why": {
-        "sc": "公营年金借银行系中介扩渠，退休年金市场供给端再添渠道变量——银保渠道销售公营年金的模式或成新常态，值得关注其对私营养老金产品竞争格局的影响。",
-        "tc": "公營年金借銀行系中介擴渠，退休年金市場供給端再添渠道變量——銀保渠道銷售公營年金的模式或成新常態，值得關注其對私營養老金產品競爭格局的影響。"
-      },
-      "actions": {
-        "front": {},
-        "midback": {
-          "sc": "银保渠道卖公营年金=渠道格局新动向",
-          "tc": "銀保渠道賣公營年金=渠道格局新動向"
-        },
-        "lead": {},
-        "cross": {}
-      },
-      "rolesImpact": {
-        "front": 0,
-        "midback": 1,
-        "lead": 0,
-        "cross": 1
-      },
-      "source": {
-        "sc": "HKMA",
-        "lang": "en"
-      },
-      "boards": [
-        "product",
-        "market"
-      ],
-      "themes": [
-        "annuity",
-        "distribution"
-      ],
-      "tags": {
-        "sc": [
-          "香港年金",
-          "中银人寿",
-          "银保渠道",
-          "退休规划"
-        ],
-        "tc": [
-          "香港年金",
-          "中銀人壽",
-          "銀保渠道",
-          "退休規劃"
-        ]
-      },
-      "contentKind": "press",
-      "publishedAt": "2026-08-07T16:00:00+08:00",
-      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260807-3/",
       "ingestedAt": "2026-08-08T18:08:00+08:00",
       "contentRole": {
         "sc": "本站导读",
@@ -380,227 +380,6 @@ window.HKII_DATA = {
       "publishedAt": "2026-08-07T12:18:00+08:00",
       "originalUrl": "https://insuranceasia.com/insurance/news/sun-lifes-asia-segment-net-income-surges-153-144m-in-q2",
       "ingestedAt": "2026-08-08T18:08:00+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
-    },
-    {
-      "id": "prudential-plan-rename-aug24",
-      "clusterCount": 1,
-      "score": 75,
-      "verifyStatus": "verified",
-      "sourceTier": "insurer",
-      "sourceKey": "prudential:plan-name-update-20260824",
-      "title": {
-        "sc": "保诚香港8月24日起更新部分计划名称 储蓄型产品名加入「保險」字样",
-        "tc": "保誠香港8月24日起更新部分計劃名稱 儲蓄型產品名加入「保險」字樣"
-      },
-      "summary": {
-        "sc": "配合保监局与金管局最新命名要求，保诚香港将于8月24日起为逾20个储蓄、人寿及危疾计划更名，英文名加入「Insurance」、中文名加入「保險」，适用于现有保单及8月24日或之后的新单；保障、条款与保费不变，客户无需任何操作，通知信9月初起寄出。[EN原文+官方通知]",
-        "tc": "配合保監局與金管局最新命名要求，保誠香港將於8月24日起為逾20個儲蓄、人壽及危疾計劃更名，英文名加入「Insurance」、中文名加入「保險」，適用於現有保單及8月24日或之後的新單；保障、條款與保費不變，客戶無需任何操作，通知信9月初起寄出。[EN原文+官方通知]"
-      },
-      "why": {
-        "sc": "监管推动「储蓄型产品名称须明示保险属性」已落地到头部保司——更名涉及在售主力储蓄/寿险计划，销售话术、材料与保单单据名称需同步更新，亦是全行业命名规范收紧的先行信号。",
-        "tc": "監管推動「儲蓄型產品名稱須明示保險屬性」已落地到頭部保司——更名涉及在售主力儲蓄/壽險計劃，銷售話術、材料與保單單據名稱需同步更新，亦是全行業命名規範收緊的先行信號。"
-      },
-      "actions": {
-        "front": {
-          "sc": "在售计划更名=话术与材料同步更新",
-          "tc": "在售計劃更名=話術與材料同步更新"
-        },
-        "midback": {
-          "sc": "系统保单名称切换=运营准备",
-          "tc": "系統保單名稱切換=營運準備"
-        },
-        "lead": {},
-        "cross": {}
-      },
-      "rolesImpact": {
-        "front": 2,
-        "midback": 1,
-        "lead": 0,
-        "cross": 0
-      },
-      "source": {
-        "sc": "保诚香港",
-        "lang": "zh+en"
-      },
-      "boards": [
-        "product",
-        "reg"
-      ],
-      "themes": [
-        "product",
-        "compliance"
-      ],
-      "tags": {
-        "sc": [
-          "保诚",
-          "计划更名",
-          "监管要求",
-          "储蓄险"
-        ],
-        "tc": [
-          "保誠",
-          "計劃更名",
-          "監管要求",
-          "儲蓄險"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2026-07-01T00:00:00+08:00",
-      "originalUrl": "https://www.prudential.com.hk/en/claims-and-services/tools/customer-notices/customer-notice-products-name-change/",
-      "ingestedAt": "2026-08-08T18:08:00+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
-    },
-    {
-      "id": "axa-xl-srm-cyber-aug07",
-      "clusterCount": 1,
-      "score": 60,
-      "verifyStatus": "pending",
-      "sourceTier": "media",
-      "sourceKey": "insurancebusinessmag:axa-xl-srm-20260807",
-      "title": {
-        "sc": "AXA XL收购网络安全咨询公司S-RM剩余股份 整合网络险供应商面板",
-        "tc": "AXA XL收購網絡安全諮詢公司S-RM剩餘股份 整合網絡險供應商面板"
-      },
-      "summary": {
-        "sc": "AXA XL宣布收购已持股约49%的企业情报与网络安全咨询公司S-RM的剩余股份，交易预计监管批准后于9月底完成；S-RM此前亦服务AXA XL的竞争对手，经纪人在运行多保司网络险项目时需尽快确认其供应商安排是否延续。网络险理赔响应供应链正被险企纵向整合。[EN原文]",
-        "tc": "AXA XL宣佈收購已持股約49%的企業情報與網絡安全諮詢公司S-RM的剩餘股份，交易預計監管批准後於9月底完成；S-RM此前亦服務AXA XL的競爭對手，經紀人在運行多保司網絡險項目時需盡快確認其供應商安排是否延續。網絡險理賠響應供應鏈正被險企縱向整合。[EN原文]"
-      },
-      "why": {
-        "sc": "再保险/网络险巨头纵向整合理赔响应服务商，预示网络险服务供应链集中化趋势，对香港经纪及网络险客户的供应商选择具有参考意义。",
-        "tc": "再保險/網絡險巨頭縱向整合理賠響應服務商，預示網絡險服務供應鏈集中化趨勢，對香港經紀及網絡險客戶的供應商選擇具有參考意義。"
-      },
-      "actions": {
-        "front": {},
-        "midback": {},
-        "lead": {
-          "sc": "网络险供应链整合=服务商格局将变",
-          "tc": "網絡險供應鏈整合=服務商格局將變"
-        },
-        "cross": {}
-      },
-      "rolesImpact": {
-        "front": 0,
-        "midback": 0,
-        "lead": 1,
-        "cross": 0
-      },
-      "source": {
-        "sc": "Insurance Business",
-        "lang": "en"
-      },
-      "boards": [
-        "tech"
-      ],
-      "themes": [
-        "cyber",
-        "reinsurance"
-      ],
-      "tags": {
-        "sc": [
-          "AXA XL",
-          "网络险",
-          "并购",
-          "网络安全"
-        ],
-        "tc": [
-          "AXA XL",
-          "網絡險",
-          "併購",
-          "網絡安全"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2026-08-07T00:00:00+08:00",
-      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/axa-xl-just-bought-the-vendor-half-of-every-cyber-panel-it-sat-on-585344.aspx",
-      "ingestedAt": "2026-08-08T18:08:00+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
-    },
-    {
-      "id": "ia-tax-response-aug06",
-      "clusterCount": 3,
-      "score": 85,
-      "verifyStatus": "verified",
-      "sourceTier": "official",
-      "sourceKey": "interface:ia-tax-response-20260806",
-      "title": {
-        "sc": "香港保监局回应「港险收益征税」：正密切注意内地税务安排新进展 吁勿过度解读",
-        "tc": "香港保監局回應「港險收益徵稅」：正密切注意內地稅務安排新進展 籲勿過度解讀"
-      },
-      "summary": {
-        "sc": "针对财新「境外保单收益按20%征税」报道，保监局8月6日独家回应界面新闻：正密切注意内地金融产品税务安排的最新发展，并与业界保持紧密沟通。局方强调，中国居民就境外投资收益依法申报及缴税的要求一直存在，市场不用过度解读或作出揣测。",
-        "tc": "針對財新「境外保單收益按20%徵稅」報道，保監局8月6日獨家回應界面新聞：正密切注意內地金融產品稅務安排的最新發展，並與業界保持緊密溝通。局方強調，中國居民就境外投資收益依法申報及繳稅的要求一直存在，市場不用過度解讀或作出揣測。"
-      },
-      "why": {
-        "sc": "官方首次就征税传闻正式表态，为恐慌市场提供权威定调：申报义务一直存在、个案不具普遍性。这是向客户解释「税务合规≠港险失效」最有力的官方依据，也是压过市场噪音的定盘星。",
-        "tc": "官方首次就徵稅傳聞正式表態，為恐慌市場提供權威定調：申報義務一直存在、個案不具普遍性。這是向客戶解釋「稅務合規≠港險失效」最有力的官方依據，也是壓過市場噪音的定盤星。"
-      },
-      "actions": {
-        "front": {
-          "sc": "官方定调=恐慌后最权威的沟通依据",
-          "tc": "官方定調=恐慌後最權威的溝通依據"
-        },
-        "midback": {},
-        "lead": {
-          "sc": "申报义务一直存在=合规叙事转向常态管理",
-          "tc": "申報義務一直存在=合規敘事轉向常態管理"
-        },
-        "cross": {
-          "sc": "跨境税务合规需同步跟进",
-          "tc": "跨境稅務合規需同步跟進"
-        }
-      },
-      "rolesImpact": {
-        "front": 3,
-        "midback": 0,
-        "lead": 2,
-        "cross": 1
-      },
-      "source": {
-        "sc": "界面新闻（东方财富转载）",
-        "lang": "zh"
-      },
-      "boards": [
-        "reg",
-        "market"
-      ],
-      "themes": [
-        "compliance",
-        "offshore"
-      ],
-      "tags": {
-        "sc": [
-          "保监局",
-          "境外保单征税",
-          "官方回应",
-          "税务合规"
-        ],
-        "tc": [
-          "保監局",
-          "境外保單徵稅",
-          "官方回應",
-          "稅務合規"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2026-08-06T19:30:00+08:00",
-      "originalUrl": "https://wap.eastmoney.com/a/202608063834049890.html",
-      "ingestedAt": "2026-08-07T06:35:00+08:00",
       "contentRole": {
         "sc": "本站导读",
         "tc": "本站導讀"
@@ -685,71 +464,138 @@ window.HKII_DATA = {
       "evergreen": false
     },
     {
-      "id": "scmp-levy-next-steps-aug06",
+      "id": "thailand-life-digital-channel-aug07",
       "clusterCount": 1,
-      "score": 66,
+      "score": 61,
       "verifyStatus": "pending",
       "sourceTier": "media",
-      "sourceKey": "scmp:levy-reaction-20260806",
+      "sourceKey": "insurancebusinessmag:thailand-life-digital-20260807",
       "title": {
-        "sc": "港险股消化征税报道后市场聚焦北京下一步 高盛指利润冲击或有限",
-        "tc": "港險股消化徵稅報道後市場聚焦北京下一步 高盛指利潤衝擊或有限"
+        "sc": "泰国寿险数字化直营渠道逼近代理人 监管改革同步推进",
+        "tc": "泰國壽險數字化直營渠道逼近代理人 監管改革同步推進"
       },
       "summary": {
-        "sc": "SCMP报道，20%征税报道令友邦、保诚、汇丰等港险股下挫后，投资者转而关注北京下一步政策动向；高盛认为利润影响可能有限。报道将观察焦点从单日抛售转向政策演进节奏，为后续跟踪提供坐标。[EN原文]",
-        "tc": "SCMP報道，20%徵稅報道令友邦、保誠、匯豐等港險股下挫後，投資者轉而關注北京下一步政策動向；高盛認為利潤影響可能有限。報道將觀察焦點從單日拋售轉向政策演進節奏，為後續跟蹤提供座標。[EN原文]"
+        "sc": "Insurance Business报道，泰国寿险直销数字渠道份额快速攀升、正逼近代理人渠道，同时伴随大规模监管改革落地。数字直营对传统代理模式的替代效应在东南亚加速显现，为港险渠道结构演变提供参照。[EN原文]",
+        "tc": "Insurance Business報道，泰國壽險直銷數字渠道份額快速攀升、正逼近代理人渠道，同時伴隨大規模監管改革落地。數字直營對傳統代理模式的替代效應在東南亞加速顯現，為港險渠道結構演變提供參照。[EN原文]"
       },
       "why": {
-        "sc": "英文主流媒体+外资行视角：把焦点从「已发生的抛售」转向「北京下一步」，提示政策演进节奏才是中期变量，与中文媒体叙事互补，适合作为客户沟通的平衡视角。",
-        "tc": "英文主流媒體+外資行視角：把焦點從「已發生的拋售」轉向「北京下一步」，提示政策演進節奏才是中期變量，與中文媒體敘事互補，適合作為客戶溝通的平衡視角。"
+        "sc": "渠道结构演变是港险长期议题：泰国案例显示「监管改革+数字直营」组合正改写分销版图，对香港代理人渠道与银保格局有对照意义。",
+        "tc": "渠道結構演變是港險長期議題：泰國案例顯示「監管改革+數字直營」組合正改寫分銷版圖，對香港代理人渠道與銀保格局有對照意義。"
+      },
+      "actions": {
+        "front": {
+          "sc": "数字直营逼近代理=渠道洗牌信号",
+          "tc": "數字直營逼近代理=渠道洗牌信號"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 0,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Business",
+        "lang": "en"
+      },
+      "boards": [
+        "tech"
+      ],
+      "themes": [
+        "distribution",
+        "insurtech"
+      ],
+      "tags": {
+        "sc": [
+          "泰国",
+          "数字渠道",
+          "代理人",
+          "监管改革"
+        ],
+        "tc": [
+          "泰國",
+          "數字渠道",
+          "代理人",
+          "監管改革"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-07T05:00:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/thailands-life-insurance-digital-channel-is-closing-in-on-agents-585257.aspx",
+      "ingestedAt": "2026-08-07T06:35:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "axa-xl-srm-cyber-aug07",
+      "clusterCount": 1,
+      "score": 60,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag:axa-xl-srm-20260807",
+      "title": {
+        "sc": "AXA XL收购网络安全咨询公司S-RM剩余股份 整合网络险供应商面板",
+        "tc": "AXA XL收購網絡安全諮詢公司S-RM剩餘股份 整合網絡險供應商面板"
+      },
+      "summary": {
+        "sc": "AXA XL宣布收购已持股约49%的企业情报与网络安全咨询公司S-RM的剩余股份，交易预计监管批准后于9月底完成；S-RM此前亦服务AXA XL的竞争对手，经纪人在运行多保司网络险项目时需尽快确认其供应商安排是否延续。网络险理赔响应供应链正被险企纵向整合。[EN原文]",
+        "tc": "AXA XL宣佈收購已持股約49%的企業情報與網絡安全諮詢公司S-RM的剩餘股份，交易預計監管批准後於9月底完成；S-RM此前亦服務AXA XL的競爭對手，經紀人在運行多保司網絡險項目時需盡快確認其供應商安排是否延續。網絡險理賠響應供應鏈正被險企縱向整合。[EN原文]"
+      },
+      "why": {
+        "sc": "再保险/网络险巨头纵向整合理赔响应服务商，预示网络险服务供应链集中化趋势，对香港经纪及网络险客户的供应商选择具有参考意义。",
+        "tc": "再保險/網絡險巨頭縱向整合理賠響應服務商，預示網絡險服務供應鏈集中化趨勢，對香港經紀及網絡險客戶的供應商選擇具有參考意義。"
       },
       "actions": {
         "front": {},
         "midback": {},
         "lead": {
-          "sc": "北京下一步=中期变量观察点",
-          "tc": "北京下一步=中期變量觀察點"
+          "sc": "网络险供应链整合=服务商格局将变",
+          "tc": "網絡險供應鏈整合=服務商格局將變"
         },
-        "cross": {
-          "sc": "政策演进节奏需持续跟踪",
-          "tc": "政策演進節奏需持續跟蹤"
-        }
+        "cross": {}
       },
       "rolesImpact": {
         "front": 0,
         "midback": 0,
         "lead": 1,
-        "cross": 1
+        "cross": 0
       },
       "source": {
-        "sc": "SCMP",
+        "sc": "Insurance Business",
         "lang": "en"
       },
       "boards": [
-        "market"
+        "tech"
       ],
       "themes": [
-        "macro",
-        "compliance"
+        "cyber",
+        "reinsurance"
       ],
       "tags": {
         "sc": [
-          "港险股",
-          "征税",
-          "高盛",
-          "政策观察"
+          "AXA XL",
+          "网络险",
+          "并购",
+          "网络安全"
         ],
         "tc": [
-          "港險股",
-          "徵稅",
-          "高盛",
-          "政策觀察"
+          "AXA XL",
+          "網絡險",
+          "併購",
+          "網絡安全"
         ]
       },
       "contentKind": "news",
-      "publishedAt": "2026-08-06T18:49:00+08:00",
-      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3363106/shares-major-hong-kong-insurance-finance-firms-tumble-following-report-20-levy",
-      "ingestedAt": "2026-08-07T06:35:00+08:00",
+      "publishedAt": "2026-08-07T00:00:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/axa-xl-just-bought-the-vendor-half-of-every-cyber-panel-it-sat-on-585344.aspx",
+      "ingestedAt": "2026-08-08T18:08:00+08:00",
       "contentRole": {
         "sc": "本站导读",
         "tc": "本站導讀"
@@ -900,67 +746,74 @@ window.HKII_DATA = {
       "evergreen": false
     },
     {
-      "id": "thailand-life-digital-channel-aug07",
-      "clusterCount": 1,
-      "score": 61,
-      "verifyStatus": "pending",
-      "sourceTier": "media",
-      "sourceKey": "insurancebusinessmag:thailand-life-digital-20260807",
+      "id": "ia-tax-response-aug06",
+      "clusterCount": 3,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "interface:ia-tax-response-20260806",
       "title": {
-        "sc": "泰国寿险数字化直营渠道逼近代理人 监管改革同步推进",
-        "tc": "泰國壽險數字化直營渠道逼近代理人 監管改革同步推進"
+        "sc": "香港保监局回应「港险收益征税」：正密切注意内地税务安排新进展 吁勿过度解读",
+        "tc": "香港保監局回應「港險收益徵稅」：正密切注意內地稅務安排新進展 籲勿過度解讀"
       },
       "summary": {
-        "sc": "Insurance Business报道，泰国寿险直销数字渠道份额快速攀升、正逼近代理人渠道，同时伴随大规模监管改革落地。数字直营对传统代理模式的替代效应在东南亚加速显现，为港险渠道结构演变提供参照。[EN原文]",
-        "tc": "Insurance Business報道，泰國壽險直銷數字渠道份額快速攀升、正逼近代理人渠道，同時伴隨大規模監管改革落地。數字直營對傳統代理模式的替代效應在東南亞加速顯現，為港險渠道結構演變提供參照。[EN原文]"
+        "sc": "针对财新「境外保单收益按20%征税」报道，保监局8月6日独家回应界面新闻：正密切注意内地金融产品税务安排的最新发展，并与业界保持紧密沟通。局方强调，中国居民就境外投资收益依法申报及缴税的要求一直存在，市场不用过度解读或作出揣测。",
+        "tc": "針對財新「境外保單收益按20%徵稅」報道，保監局8月6日獨家回應界面新聞：正密切注意內地金融產品稅務安排的最新發展，並與業界保持緊密溝通。局方強調，中國居民就境外投資收益依法申報及繳稅的要求一直存在，市場不用過度解讀或作出揣測。"
       },
       "why": {
-        "sc": "渠道结构演变是港险长期议题：泰国案例显示「监管改革+数字直营」组合正改写分销版图，对香港代理人渠道与银保格局有对照意义。",
-        "tc": "渠道結構演變是港險長期議題：泰國案例顯示「監管改革+數字直營」組合正改寫分銷版圖，對香港代理人渠道與銀保格局有對照意義。"
+        "sc": "官方首次就征税传闻正式表态，为恐慌市场提供权威定调：申报义务一直存在、个案不具普遍性。这是向客户解释「税务合规≠港险失效」最有力的官方依据，也是压过市场噪音的定盘星。",
+        "tc": "官方首次就徵稅傳聞正式表態，為恐慌市場提供權威定調：申報義務一直存在、個案不具普遍性。這是向客戶解釋「稅務合規≠港險失效」最有力的官方依據，也是壓過市場噪音的定盤星。"
       },
       "actions": {
         "front": {
-          "sc": "数字直营逼近代理=渠道洗牌信号",
-          "tc": "數字直營逼近代理=渠道洗牌信號"
+          "sc": "官方定调=恐慌后最权威的沟通依据",
+          "tc": "官方定調=恐慌後最權威的溝通依據"
         },
         "midback": {},
-        "lead": {},
-        "cross": {}
+        "lead": {
+          "sc": "申报义务一直存在=合规叙事转向常态管理",
+          "tc": "申報義務一直存在=合規敘事轉向常態管理"
+        },
+        "cross": {
+          "sc": "跨境税务合规需同步跟进",
+          "tc": "跨境稅務合規需同步跟進"
+        }
       },
       "rolesImpact": {
-        "front": 1,
+        "front": 3,
         "midback": 0,
-        "lead": 0,
-        "cross": 0
+        "lead": 2,
+        "cross": 1
       },
       "source": {
-        "sc": "Insurance Business",
-        "lang": "en"
+        "sc": "界面新闻（东方财富转载）",
+        "lang": "zh"
       },
       "boards": [
-        "tech"
+        "reg",
+        "market"
       ],
       "themes": [
-        "distribution",
-        "insurtech"
+        "compliance",
+        "offshore"
       ],
       "tags": {
         "sc": [
-          "泰国",
-          "数字渠道",
-          "代理人",
-          "监管改革"
+          "保监局",
+          "境外保单征税",
+          "官方回应",
+          "税务合规"
         ],
         "tc": [
-          "泰國",
-          "數字渠道",
-          "代理人",
-          "監管改革"
+          "保監局",
+          "境外保單徵稅",
+          "官方回應",
+          "稅務合規"
         ]
       },
       "contentKind": "news",
-      "publishedAt": "2026-08-07T05:00:00+08:00",
-      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/thailands-life-insurance-digital-channel-is-closing-in-on-agents-585257.aspx",
+      "publishedAt": "2026-08-06T19:30:00+08:00",
+      "originalUrl": "https://wap.eastmoney.com/a/202608063834049890.html",
       "ingestedAt": "2026-08-07T06:35:00+08:00",
       "contentRole": {
         "sc": "本站导读",
@@ -970,82 +823,143 @@ window.HKII_DATA = {
       "evergreen": false
     },
     {
-      "id": "hk-policy-tax-selloff-aug06",
-      "clusterCount": 12,
-      "score": 84,
-      "verifyStatus": "verified",
+      "id": "scmp-levy-next-steps-aug06",
+      "clusterCount": 1,
+      "score": 66,
+      "verifyStatus": "pending",
       "sourceTier": "media",
-      "sourceKey": "caixin:london-selloff-20260806",
+      "sourceKey": "scmp:levy-reaction-20260806",
       "title": {
-        "sc": "征税20%发酵：香港保险股集体重挫 友邦一度跌9% 大行称抛售过度",
-        "tc": "徵稅20%發酵：香港保險股集體重挫 友邦一度跌9% 大行稱拋售過度"
+        "sc": "港险股消化征税报道后市场聚焦北京下一步 高盛指利润冲击或有限",
+        "tc": "港險股消化徵稅報道後市場聚焦北京下一步 高盛指利潤衝擊或有限"
       },
       "summary": {
-        "sc": "财新报道内地对境外保单收益征20%个税后，8月6日港保险股集体重挫：友邦一度跌超9%、保诚跌逾5%。花旗瑞银指个案零星、无全国统一标准，抛售恐慌过度；摩根大通称内地访客仅占友邦新业务价值21%。",
-        "tc": "財新報道內地對境外保單收益徵20%個稅後，8月6日港保險股集體重挫：友邦一度跌超9%、保誠跌逾5%。花旗瑞銀指個案零星、無全國統一標準，拋售恐慌過度；摩根大通稱內地訪客僅佔友邦新業務價值21%。"
+        "sc": "SCMP报道，20%征税报道令友邦、保诚、汇丰等港险股下挫后，投资者转而关注北京下一步政策动向；高盛认为利润影响可能有限。报道将观察焦点从单日抛售转向政策演进节奏，为后续跟踪提供坐标。[EN原文]",
+        "tc": "SCMP報道，20%徵稅報道令友邦、保誠、匯豐等港險股下挫後，投資者轉而關注北京下一步政策動向；高盛認為利潤影響可能有限。報道將觀察焦點從單日拋售轉向政策演進節奏，為後續跟蹤提供座標。[EN原文]"
       },
       "why": {
-        "sc": "昨日「征税落地」报道后市场用脚投票，但大行共识是个案零星、法理存争议、无全国统一标准；恐慌抛售恰是向内地客群解释「税务合规≠港险失效」、重申离岸配置、多元货币、环球医疗等结构性优势的沟通窗口。",
-        "tc": "昨日「徵稅落地」報道後市場用腳投票，但大行共識是個案零星、法理存爭議、無全國統一標準；恐慌拋售恰是向內地客群解釋「稅務合規≠港險失效」、重申離岸配置、多元貨幣、環球醫療等結構性優勢的溝通窗口。"
+        "sc": "英文主流媒体+外资行视角：把焦点从「已发生的抛售」转向「北京下一步」，提示政策演进节奏才是中期变量，与中文媒体叙事互补，适合作为客户沟通的平衡视角。",
+        "tc": "英文主流媒體+外資行視角：把焦點從「已發生的拋售」轉向「北京下一步」，提示政策演進節奏才是中期變量，與中文媒體敘事互補，適合作為客戶溝通的平衡視角。"
       },
       "actions": {
-        "front": {
-          "sc": "征税传闻重挫股价=税后回报叙事必须重写",
-          "tc": "徵稅傳聞重挫股價=稅後回報敘事必須重寫"
-        },
-        "midback": {
-          "sc": "地方个案+CRS交换=征管趋势确认",
-          "tc": "地方個案+CRS交換=徵管趨勢確認"
-        },
+        "front": {},
+        "midback": {},
         "lead": {
-          "sc": "恐慌抛售后是客户教育与合规沟通窗口",
-          "tc": "恐慌拋售後是客戶教育與合規溝通窗口"
+          "sc": "北京下一步=中期变量观察点",
+          "tc": "北京下一步=中期變量觀察點"
         },
         "cross": {
-          "sc": "跨境架构需同步重估税务合规",
-          "tc": "跨境架構需同步重估稅務合規"
+          "sc": "政策演进节奏需持续跟踪",
+          "tc": "政策演進節奏需持續跟蹤"
         }
       },
       "rolesImpact": {
-        "front": 3,
-        "midback": 2,
-        "lead": 2,
-        "cross": 2
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 1
       },
       "source": {
-        "sc": "财新网 / 新浪财经 / AAStocks",
-        "lang": "zh"
+        "sc": "SCMP",
+        "lang": "en"
       },
       "boards": [
-        "reg",
         "market"
       ],
       "themes": [
-        "compliance",
-        "offshore",
-        "macro"
+        "macro",
+        "compliance"
       ],
       "tags": {
         "sc": [
-          "境外保单征税",
-          "20%个税",
-          "CRS",
-          "友邦",
-          "保诚",
-          "大行观点"
+          "港险股",
+          "征税",
+          "高盛",
+          "政策观察"
         ],
         "tc": [
-          "境外保單徵稅",
-          "20%個稅",
-          "CRS",
-          "友邦",
-          "保誠",
-          "大行觀點"
+          "港險股",
+          "徵稅",
+          "高盛",
+          "政策觀察"
         ]
       },
       "contentKind": "news",
-      "publishedAt": "2026-08-06T08:36:00+08:00",
-      "originalUrl": "https://finance.caixin.com/m/2026-08-06/102471644.html",
+      "publishedAt": "2026-08-06T18:49:00+08:00",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3363106/shares-major-hong-kong-insurance-finance-firms-tumble-following-report-20-levy",
+      "ingestedAt": "2026-08-07T06:35:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "sunlife-mpf-concentration-aug06",
+      "clusterCount": 1,
+      "score": 63,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "sunlife:mpf-concentration-20260806",
+      "title": {
+        "sc": "永明：17.4%强积金成员投资过度集中 近四成50岁以上面临退休风险",
+        "tc": "永明：17.4%強積金成員投資過度集中 近四成50歲以上面臨退休風險"
+      },
+      "summary": {
+        "sc": "永明金融数据显示，17.4%强积金成员将资金集中于单一市场或资产类别，其中近四成（38.9%）为50岁或以上；财富及退休金业务CFO陈琎提醒临近退休人士组合风险过集中，应及时检视配置。",
+        "tc": "永明金融數據顯示，17.4%強積金成員將資金集中於單一市場或資產類別，其中近四成（38.9%）為50歲或以上；財富及退休金業務CFO陳琎提醒臨近退休人士組合風險過集中，應及時檢視配置。"
+      },
+      "why": {
+        "sc": "退休规划是港险与家办业务交汇点：MPF配置集中度数据可直接用于客户退休检视沟通，也是中后台产品适配与再平衡建议的参考。",
+        "tc": "退休規劃是港險與家辦業務交匯點：MPF配置集中度數據可直接用於客戶退休檢視溝通，也是中後台產品適配與再平衡建議的參考。"
+      },
+      "actions": {
+        "front": {
+          "sc": "MPF集中度数据=退休检视沟通抓手",
+          "tc": "MPF集中度數據=退休檢視溝通抓手"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "50+客户风险集中=需配置再平衡话术",
+          "tc": "50+客戶風險集中=需配置再平衡話術"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 0,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "星岛头条 / 永明金融",
+        "lang": "zh"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "retirement",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "永明",
+          "强积金",
+          "退休规划",
+          "投资集中"
+        ],
+        "tc": [
+          "永明",
+          "強積金",
+          "退休規劃",
+          "投資集中"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-06T16:48:00+08:00",
+      "originalUrl": "https://www.stheadline.com/zh-hans/investment/3601656/%E8%BF%91%E5%9B%9B%E6%88%9050%E5%B2%81%E4%BB%A5%E4%B8%8AMPF%E6%88%90%E5%91%98%E6%8A%95%E8%B5%84%E8%BF%87%E4%BA%8E%E9%9B%86%E4%B8%AD-%E6%B0%B8%E6%98%8E%E9%80%80%E4%BC%91%E8%B5%84%E4%BA%A7%E6%89%BF%E5%8F%97%E8%BE%83%E5%A4%A7%E5%B8%82%E5%9C%BA%E9%A3%8E%E9%99%A9",
       "ingestedAt": "2026-08-06T18:10:00+08:00",
       "contentRole": {
         "sc": "本站导读",
@@ -1133,70 +1047,82 @@ window.HKII_DATA = {
       "evergreen": false
     },
     {
-      "id": "hsbc-h1-insurance-sales-26pct",
-      "clusterCount": 1,
-      "score": 66,
-      "verifyStatus": "pending",
+      "id": "hk-policy-tax-selloff-aug06",
+      "clusterCount": 12,
+      "score": 84,
+      "verifyStatus": "verified",
       "sourceTier": "media",
-      "sourceKey": "insuranceasia:hsbc-h1-sales-20260805",
+      "sourceKey": "caixin:london-selloff-20260806",
       "title": {
-        "sc": "汇丰保险香港上半年保费+26% 存量银行客户贡献85%新单",
-        "tc": "匯豐保險香港上半年保費+26% 存量銀行客戶貢獻85%新單"
+        "sc": "征税20%发酵：香港保险股集体重挫 友邦一度跌9% 大行称抛售过度",
+        "tc": "徵稅20%發酵：香港保險股集體重挫 友邦一度跌9% 大行稱拋售過度"
       },
       "summary": {
-        "sc": "InsuranceAsia报道，汇丰保险香港上半年保费按年增26%，存量银行客户贡献85%保费；银保渠道在港险上半年爆发中持续扮演主力，与Jefferies首季新单+51%数据互相印证。[EN原文]",
-        "tc": "InsuranceAsia報道，匯豐保險香港上半年保費按年增26%，存量銀行客戶貢獻85%保費；銀保渠道在港險上半年爆發中持續扮演主力，與Jefferies首季新單+51%數據互相印證。[EN原文]"
+        "sc": "财新报道内地对境外保单收益征20%个税后，8月6日港保险股集体重挫：友邦一度跌超9%、保诚跌逾5%。花旗瑞银指个案零星、无全国统一标准，抛售恐慌过度；摩根大通称内地访客仅占友邦新业务价值21%。",
+        "tc": "財新報道內地對境外保單收益徵20%個稅後，8月6日港保險股集體重挫：友邦一度跌超9%、保誠跌逾5%。花旗瑞銀指個案零星、無全國統一標準，拋售恐慌過度；摩根大通稱內地訪客僅佔友邦新業務價值21%。"
       },
       "why": {
-        "sc": "银保渠道数据揭示港险上半年爆发的结构：存量客户转化而非新增客户扩张，渠道效率与交叉销售成为竞争主轴，与代理渠道形成对照。",
-        "tc": "銀保渠道數據揭示港險上半年爆發的結構：存量客戶轉化而非新增客戶擴張，渠道效率與交叉銷售成為競爭主軸，與代理渠道形成對照。"
+        "sc": "昨日「征税落地」报道后市场用脚投票，但大行共识是个案零星、法理存争议、无全国统一标准；恐慌抛售恰是向内地客群解释「税务合规≠港险失效」、重申离岸配置、多元货币、环球医疗等结构性优势的沟通窗口。",
+        "tc": "昨日「徵稅落地」報道後市場用腳投票，但大行共識是個案零星、法理存爭議、無全國統一標準；恐慌拋售恰是向內地客群解釋「稅務合規≠港險失效」、重申離岸配置、多元貨幣、環球醫療等結構性優勢的溝通窗口。"
       },
       "actions": {
         "front": {
-          "sc": "存量客户85%=银保交叉销售是主战场",
-          "tc": "存量客戶85%=銀保交叉銷售是主戰場"
+          "sc": "征税传闻重挫股价=税后回报叙事必须重写",
+          "tc": "徵稅傳聞重挫股價=稅後回報敘事必須重寫"
         },
-        "midback": {},
+        "midback": {
+          "sc": "地方个案+CRS交换=征管趋势确认",
+          "tc": "地方個案+CRS交換=徵管趨勢確認"
+        },
         "lead": {
-          "sc": "银保主导=与代理人渠道结构对比值得跟踪",
-          "tc": "銀保主導=與代理人渠道結構對比值得跟蹤"
+          "sc": "恐慌抛售后是客户教育与合规沟通窗口",
+          "tc": "恐慌拋售後是客戶教育與合規溝通窗口"
         },
-        "cross": {}
+        "cross": {
+          "sc": "跨境架构需同步重估税务合规",
+          "tc": "跨境架構需同步重估稅務合規"
+        }
       },
       "rolesImpact": {
-        "front": 1,
-        "midback": 0,
-        "lead": 1,
-        "cross": 0
+        "front": 3,
+        "midback": 2,
+        "lead": 2,
+        "cross": 2
       },
       "source": {
-        "sc": "Insurance Asia",
-        "lang": "en"
+        "sc": "财新网 / 新浪财经 / AAStocks",
+        "lang": "zh"
       },
       "boards": [
+        "reg",
         "market"
       ],
       "themes": [
-        "channel",
-        "market"
+        "compliance",
+        "offshore",
+        "macro"
       ],
       "tags": {
         "sc": [
-          "汇丰保险",
-          "银保",
-          "上半年保费",
-          "香港"
+          "境外保单征税",
+          "20%个税",
+          "CRS",
+          "友邦",
+          "保诚",
+          "大行观点"
         ],
         "tc": [
-          "匯豐保險",
-          "銀保",
-          "上半年保費",
-          "香港"
+          "境外保單徵稅",
+          "20%個稅",
+          "CRS",
+          "友邦",
+          "保誠",
+          "大行觀點"
         ]
       },
       "contentKind": "news",
-      "publishedAt": "2026-08-06T05:15:00+08:00",
-      "originalUrl": "https://insuranceasia.com/insurance/news/hsbcs-26-insurance-sales-jump-lifts-hong-kongs-market-outlook",
+      "publishedAt": "2026-08-06T08:36:00+08:00",
+      "originalUrl": "https://finance.caixin.com/m/2026-08-06/102471644.html",
       "ingestedAt": "2026-08-06T18:10:00+08:00",
       "contentRole": {
         "sc": "本站导读",
@@ -1355,70 +1281,70 @@ window.HKII_DATA = {
       "evergreen": false
     },
     {
-      "id": "sunlife-mpf-concentration-aug06",
+      "id": "hsbc-h1-insurance-sales-26pct",
       "clusterCount": 1,
-      "score": 63,
-      "verifyStatus": "verified",
+      "score": 66,
+      "verifyStatus": "pending",
       "sourceTier": "media",
-      "sourceKey": "sunlife:mpf-concentration-20260806",
+      "sourceKey": "insuranceasia:hsbc-h1-sales-20260805",
       "title": {
-        "sc": "永明：17.4%强积金成员投资过度集中 近四成50岁以上面临退休风险",
-        "tc": "永明：17.4%強積金成員投資過度集中 近四成50歲以上面臨退休風險"
+        "sc": "汇丰保险香港上半年保费+26% 存量银行客户贡献85%新单",
+        "tc": "匯豐保險香港上半年保費+26% 存量銀行客戶貢獻85%新單"
       },
       "summary": {
-        "sc": "永明金融数据显示，17.4%强积金成员将资金集中于单一市场或资产类别，其中近四成（38.9%）为50岁或以上；财富及退休金业务CFO陈琎提醒临近退休人士组合风险过集中，应及时检视配置。",
-        "tc": "永明金融數據顯示，17.4%強積金成員將資金集中於單一市場或資產類別，其中近四成（38.9%）為50歲或以上；財富及退休金業務CFO陳琎提醒臨近退休人士組合風險過集中，應及時檢視配置。"
+        "sc": "InsuranceAsia报道，汇丰保险香港上半年保费按年增26%，存量银行客户贡献85%保费；银保渠道在港险上半年爆发中持续扮演主力，与Jefferies首季新单+51%数据互相印证。[EN原文]",
+        "tc": "InsuranceAsia報道，匯豐保險香港上半年保費按年增26%，存量銀行客戶貢獻85%保費；銀保渠道在港險上半年爆發中持續扮演主力，與Jefferies首季新單+51%數據互相印證。[EN原文]"
       },
       "why": {
-        "sc": "退休规划是港险与家办业务交汇点：MPF配置集中度数据可直接用于客户退休检视沟通，也是中后台产品适配与再平衡建议的参考。",
-        "tc": "退休規劃是港險與家辦業務交匯點：MPF配置集中度數據可直接用於客戶退休檢視溝通，也是中後台產品適配與再平衡建議的參考。"
+        "sc": "银保渠道数据揭示港险上半年爆发的结构：存量客户转化而非新增客户扩张，渠道效率与交叉销售成为竞争主轴，与代理渠道形成对照。",
+        "tc": "銀保渠道數據揭示港險上半年爆發的結構：存量客戶轉化而非新增客戶擴張，渠道效率與交叉銷售成為競爭主軸，與代理渠道形成對照。"
       },
       "actions": {
         "front": {
-          "sc": "MPF集中度数据=退休检视沟通抓手",
-          "tc": "MPF集中度數據=退休檢視溝通抓手"
+          "sc": "存量客户85%=银保交叉销售是主战场",
+          "tc": "存量客戶85%=銀保交叉銷售是主戰場"
         },
         "midback": {},
         "lead": {
-          "sc": "50+客户风险集中=需配置再平衡话术",
-          "tc": "50+客戶風險集中=需配置再平衡話術"
+          "sc": "银保主导=与代理人渠道结构对比值得跟踪",
+          "tc": "銀保主導=與代理人渠道結構對比值得跟蹤"
         },
         "cross": {}
       },
       "rolesImpact": {
-        "front": 2,
+        "front": 1,
         "midback": 0,
         "lead": 1,
         "cross": 0
       },
       "source": {
-        "sc": "星岛头条 / 永明金融",
-        "lang": "zh"
+        "sc": "Insurance Asia",
+        "lang": "en"
       },
       "boards": [
-        "family"
+        "market"
       ],
       "themes": [
-        "retirement",
+        "channel",
         "market"
       ],
       "tags": {
         "sc": [
-          "永明",
-          "强积金",
-          "退休规划",
-          "投资集中"
+          "汇丰保险",
+          "银保",
+          "上半年保费",
+          "香港"
         ],
         "tc": [
-          "永明",
-          "強積金",
-          "退休規劃",
-          "投資集中"
+          "匯豐保險",
+          "銀保",
+          "上半年保費",
+          "香港"
         ]
       },
       "contentKind": "news",
-      "publishedAt": "2026-08-06T16:48:00+08:00",
-      "originalUrl": "https://www.stheadline.com/zh-hans/investment/3601656/%E8%BF%91%E5%9B%9B%E6%88%9050%E5%B2%81%E4%BB%A5%E4%B8%8AMPF%E6%88%90%E5%91%98%E6%8A%95%E8%B5%84%E8%BF%87%E4%BA%8E%E9%9B%86%E4%B8%AD-%E6%B0%B8%E6%98%8E%E9%80%80%E4%BC%91%E8%B5%84%E4%BA%A7%E6%89%BF%E5%8F%97%E8%BE%83%E5%A4%A7%E5%B8%82%E5%9C%BA%E9%A3%8E%E9%99%A9",
+      "publishedAt": "2026-08-06T05:15:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hsbcs-26-insurance-sales-jump-lifts-hong-kongs-market-outlook",
       "ingestedAt": "2026-08-06T18:10:00+08:00",
       "contentRole": {
         "sc": "本站导读",
@@ -8582,6 +8508,80 @@ window.HKII_DATA = {
       "themes": [
         "market"
       ]
+    },
+    {
+      "id": "prudential-plan-rename-aug24",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "prudential:plan-name-update-20260824",
+      "title": {
+        "sc": "保诚香港8月24日起更新部分计划名称 储蓄型产品名加入「保險」字样",
+        "tc": "保誠香港8月24日起更新部分計劃名稱 儲蓄型產品名加入「保險」字樣"
+      },
+      "summary": {
+        "sc": "配合保监局与金管局最新命名要求，保诚香港将于8月24日起为逾20个储蓄、人寿及危疾计划更名，英文名加入「Insurance」、中文名加入「保險」，适用于现有保单及8月24日或之后的新单；保障、条款与保费不变，客户无需任何操作，通知信9月初起寄出。[EN原文+官方通知]",
+        "tc": "配合保監局與金管局最新命名要求，保誠香港將於8月24日起為逾20個儲蓄、人壽及危疾計劃更名，英文名加入「Insurance」、中文名加入「保險」，適用於現有保單及8月24日或之後的新單；保障、條款與保費不變，客戶無需任何操作，通知信9月初起寄出。[EN原文+官方通知]"
+      },
+      "why": {
+        "sc": "监管推动「储蓄型产品名称须明示保险属性」已落地到头部保司——更名涉及在售主力储蓄/寿险计划，销售话术、材料与保单单据名称需同步更新，亦是全行业命名规范收紧的先行信号。",
+        "tc": "監管推動「儲蓄型產品名稱須明示保險屬性」已落地到頭部保司——更名涉及在售主力儲蓄/壽險計劃，銷售話術、材料與保單單據名稱需同步更新，亦是全行業命名規範收緊的先行信號。"
+      },
+      "actions": {
+        "front": {
+          "sc": "在售计划更名=话术与材料同步更新",
+          "tc": "在售計劃更名=話術與材料同步更新"
+        },
+        "midback": {
+          "sc": "系统保单名称切换=运营准备",
+          "tc": "系統保單名稱切換=營運準備"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "保诚香港",
+        "lang": "zh+en"
+      },
+      "boards": [
+        "product",
+        "reg"
+      ],
+      "themes": [
+        "product",
+        "compliance"
+      ],
+      "tags": {
+        "sc": [
+          "保诚",
+          "计划更名",
+          "监管要求",
+          "储蓄险"
+        ],
+        "tc": [
+          "保誠",
+          "計劃更名",
+          "監管要求",
+          "儲蓄險"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-07-01T00:00:00+08:00",
+      "originalUrl": "https://www.prudential.com.hk/en/claims-and-services/tools/customer-notices/customer-notice-products-name-change/",
+      "ingestedAt": "2026-08-08T18:08:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
     },
     {
       "id": "ia-20260630-swissre-sigma",
@@ -25065,6 +25065,71 @@ window.HKII_DATA = {
       "originalUrl": "https://www.newcies.gov.hk/zh-cn/resources/news/new-capital-investment-entrant-scheme-opens-for-application-from-march-1/"
     },
     {
+      "id": "ia-licensing-fees-consultation-202402",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "保险中介牌照费用五年豁免期届满：保监局公布收费咨询总结",
+        "tc": "保險中介牌照費用五年豁免期屆滿：保監局公佈收費諮詢總結"
+      },
+      "summary": {
+        "sc": "2024年2月29日，保监局向所有保险业组织发出保险中介人牌照申请及具报费用的咨询总结。此前中介人牌照费用享有五年豁免期（2024年9月22日届满），恢复收费以收回成本成为监管讨论焦点，直接影响全港中介人。",
+        "tc": "2024年2月29日，保監局向所有保險業組織發出保險中介人牌照申請及具報費用的諮詢總結。牌照費用五年豁免期（2024年9月22日屆滿）恢復收費以收回成本。"
+      },
+      "why": {
+        "sc": "牌照费恢复=中介人直接成本上升。对全港约 12 万中介人，续牌费用回归常态是现实议题。对团队管理者：这是给组员讲「持牌成本结构」时必须算进去的一笔账。",
+        "tc": "牌照費恢復=中介人直接成本上升。對全港約 12 萬中介人，續牌費用回歸常態是現實議題。"
+      },
+      "actions": {
+        "front": {
+          "sc": "牌照费恢复=续牌成本回归常态",
+          "tc": "牌照費恢復=續牌成本回歸常態"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "团队续牌成本=预算必修课",
+          "tc": "團隊續牌成本=預算必修課"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 2,
+        "lead": 3,
+        "cross": 1
+      },
+      "source": {
+        "sc": "保监局 · 2024年2月",
+        "lang": "zh"
+      },
+      "boards": [
+        "channel"
+      ],
+      "themes": [
+        "career",
+        "compliance",
+        "channel"
+      ],
+      "tags": {
+        "sc": [
+          "牌照费",
+          "中介人",
+          "成本"
+        ],
+        "tc": [
+          "牌照費",
+          "中介人",
+          "成本"
+        ]
+      },
+      "contentKind": "circular",
+      "publishedAt": "2024-02-29T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_31072024_Licensing_Fees_Chi.pdf"
+    },
+    {
       "id": "hsbc-life-250m-record-20240228",
       "clusterCount": 1,
       "score": 80,
@@ -25201,6 +25266,196 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2024-02-26T10:00:00+08:00",
       "originalUrl": "http://www.safe.gov.cn/big5/big5/www.safe.gov.cn/shenzhen/2024/0308/1746.html"
+    },
+    {
+      "id": "hkfi-climate-charter-202402",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkfi",
+      "title": {
+        "sc": "保联推出《保险业气候约章》：33 家机构签署气候行动承诺",
+        "tc": "保聯推出《保險業氣候約章》：33 家機構簽署氣候行動承諾"
+      },
+      "summary": {
+        "sc": "2024年2月，香港保险业联会推出《保险业气候约章》，33 个签署机构承诺推动保险业的可持续发展和气候风险管理。这是香港保险业首次以行业层面整体承诺气候议题，为后续 ISSB 气候披露标准落地奠定行业基础。",
+        "tc": "2024年2月，香港保險業聯會推出《保險業氣候約章》，33 個簽署機構承諾推動保險業的可持續發展和氣候風險管理。"
+      },
+      "why": {
+        "sc": "气候约章=监管气候披露的前奏。保监局已明确要与 ISSB 标准对齐，约章是行业自律先行。对 IFA：ESG 不是口号——保司资产配置、产品设计都会受气候风险框架影响，这是理解保司策略的新维度。",
+        "tc": "氣候約章=監管氣候披露的前奏。保監局已明確要與 ISSB 標準對齊，約章是行業自律先行。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "气候披露=未来合规申报新维度",
+          "tc": "氣候披露=未來合規申報新維度"
+        },
+        "lead": {
+          "sc": "行业气候承诺=保司ESG叙事起点",
+          "tc": "行業氣候承諾=保司ESG敘事起點"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 3,
+        "lead": 3,
+        "cross": 2
+      },
+      "source": {
+        "sc": "香港保险业联会 · 2024年2月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "esg",
+        "reg"
+      ],
+      "tags": {
+        "sc": [
+          "气候约章",
+          "ESG",
+          "保联"
+        ],
+        "tc": [
+          "氣候約章",
+          "ESG",
+          "保聯"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2024-02-20T10:00:00+08:00",
+      "originalUrl": "https://www.legco.gov.hk/yr2025/chinese/counmtg/papers/cm20250319-sp017-c.pdf"
+    },
+    {
+      "id": "ia-issb-climate-disclosure-202401",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "保监局：气候相关披露目标与 ISSB 标准对齐",
+        "tc": "保監局：氣候相關披露目標與 ISSB 標準對齊"
+      },
+      "summary": {
+        "sc": "2024年初，保监局明确气候相关披露的实施目标将与国际可持续发展准则理事会（ISSB）标准对齐。监管层在 2024 年 1 月的行业沟通中确认了这一方向，为香港保险公司气候披露从自愿走向强制设定了时间表预期。",
+        "tc": "2024年初，保監局明確氣候相關披露的實施目標將與國際可持續發展準則理事會（ISSB）標準對齊。"
+      },
+      "why": {
+        "sc": "ISSB 对齐=香港保险监管与国际 ESG 标准接轨的标志。保司的资产端（绿色债券、碳资产）和负债端（气候风险定价）都会被重塑。对 IFA：气候议题不再是边缘话题，而是保司竞争力的新维度。",
+        "tc": "ISSB 對齊=香港保險監管與國際 ESG 標準接軌的標誌。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "ISSB披露=保司财务报告新章节",
+          "tc": "ISSB披露=保司財務報告新章節"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 4,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "保监局 · 2024年1月",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "esg",
+        "reg",
+        "valuation"
+      ],
+      "tags": {
+        "sc": [
+          "ISSB",
+          "气候披露",
+          "ESG"
+        ],
+        "tc": [
+          "ISSB",
+          "氣候披露",
+          "ESG"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2024-01-25T10:00:00+08:00",
+      "originalUrl": "https://www.kennedyslaw.com/en/thought-leadership/article/2024/hong-kong-regulatory-insurance-update-january-2024/"
+    },
+    {
+      "id": "fstb-pps-consultation-conclusion-202401",
+      "clusterCount": 1,
+      "score": 78,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "govhk",
+      "title": {
+        "sc": "保单持有人保障计划（PPS）咨询总结公布：设立补偿基金的制度框架获支持",
+        "tc": "保單持有人保障計劃（PPS）諮詢總結公佈：設立補償基金的制度框架獲支持"
+      },
+      "summary": {
+        "sc": "2024年1月，财库局公布设立保单持有人保障计划（PPS）的咨询总结。回应者普遍支持设立 PPS 及其主要特征——当保险公司无力偿债时向保单持有人提供补偿或保障保单延续。这是继 2022 年 12 月咨询文件后的正式定调，为后续立法铺路。",
+        "tc": "2024年1月，財庫局公佈設立保單持有人保障計劃（PPS）的諮詢總結。回應者普遍支持設立 PPS 及其主要特徵——當保險公司無力償債時向保單持有人提供補償或保障保單延續。"
+      },
+      "why": {
+        "sc": "PPS 是港险安全网的最后一块拼图：RBC（资本）+ PPS（退出补偿）构成完整保护体系。对 IFA：向客户解释「保司万一出事怎么办」时，PPS 是关键答案；泰禾接管事件后此话题尤其敏感。",
+        "tc": "PPS 是港險安全網的最後一塊拼圖：RBC（資本）+ PPS（退出補償）構成完整保護體系。"
+      },
+      "actions": {
+        "front": {
+          "sc": "PPS=向客户解释保司安全网的完整答案",
+          "tc": "PPS=向客戶解釋保司安全網的完整答案"
+        },
+        "midback": {
+          "sc": "PPS立法进度=合规体系新变量",
+          "tc": "PPS立法進度=合規體系新變量"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 3,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "香港财库局 · 2024年1月",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "reg",
+        "consumer"
+      ],
+      "tags": {
+        "sc": [
+          "PPS",
+          "保单持有人保障",
+          "安全网"
+        ],
+        "tc": [
+          "PPS",
+          "保單持有人保障",
+          "安全網"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2024-01-15T10:00:00+08:00",
+      "originalUrl": "https://www.kennedyslaw.com/en/thought-leadership/article/2024/hong-kong-regulatory-insurance-update-january-2024/"
     }
   ],
   "calendar": [
@@ -30116,14 +30371,14 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 337 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 337 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 341 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 341 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 337,
+      "totalItems": 341,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 141,
+          "count": 145,
           "label": "监管一手"
         },
         {
@@ -30217,7 +30472,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "reg",
-          "count": 67,
+          "count": 70,
           "label": "监管"
         },
         {
@@ -30232,7 +30487,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "compliance",
-          "count": 48,
+          "count": 49,
           "label": "合规"
         },
         {
@@ -30247,7 +30502,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "channel",
-          "count": 27,
+          "count": 28,
           "label": "渠道"
         },
         {
@@ -30257,13 +30512,13 @@ window.HKII_DATA = {
         },
         {
           "theme": "career",
-          "count": 16,
+          "count": 17,
           "label": "职业"
         }
       ],
       "dateRange": {
-        "sc": "2024-02-26 ~ 2026-08-07",
-        "tc": "2024-02-26 ~ 2026-08-07"
+        "sc": "2024-01-15 ~ 2026-08-07",
+        "tc": "2024-01-15 ~ 2026-08-07"
       }
     },
     "marketData": {
