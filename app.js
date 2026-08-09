@@ -32807,7 +32807,7 @@ window.HKII_DATA = {
       const sb = (b.score||0)*0.7 + ((b.rolesImpact||{}).front||0)*(roleWeights.front||0) + ((b.rolesImpact||{}).midback||0)*(roleWeights.midback||0) + ((b.rolesImpact||{}).lead||0)*(roleWeights.lead||0) + ((b.rolesImpact||{}).cross||0)*(roleWeights.cross||0);
       return sb - sa;
     });
-    return arr.slice(0,50);
+    return arr.slice(0, Math.min(200, arr.length)); // 动态上限，避免截掉近期的低分精选
   }
   // 收藏：支持标签筛选；筛选不改变排序键
     if (forceTime || true) {
