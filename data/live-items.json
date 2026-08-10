@@ -2,10 +2,10 @@
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-09T18:08:00+08:00",
-    "itemCount": 367,
+    "itemCount": 370,
     "windowNote": {
-      "sc": "本库367条。",
-      "tc": "本庫367條。"
+      "sc": "本库370条。",
+      "tc": "本庫370條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -168,6 +168,137 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "hk-retirement-family-202608",
+      "clusterCount": 1,
+      "score": 66,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "调查：五分一港人期望子女资助退休及护理费",
+        "tc": "調查：五分一港人期望子女資助退休及護理費"
+      },
+      "summary": {
+        "sc": "最新调查显示：五分之一的香港受访者期望依靠子女来资助退休生活和护理费用。调查暴露香港社会在长寿风险与养老储备之间的缺口，对养老金、年金和长期护理险产品的需求潜在巨大。",
+        "tc": "最新調查顯示：五分之一的香港受訪者期望依靠子女來資助退休生活和護理費用。調查暴露香港社會在長壽風險與養老儲備之間的缺口。"
+      },
+      "why": {
+        "sc": "「五分一靠子女养老」=年金/退休险的显性需求信号。对 IFA：长寿社会下，「退休金够不够」是对客户讲储蓄险/年金的天然切入点——这个调查数据就是开场白。",
+        "tc": "「五分一靠子女養老」=年金/退休險的顯性需求信號。對 IFA：長壽社會下，「退休金夠不夠」是講儲蓄險/年金的天然切入點。"
+      },
+      "actions": {
+        "front": {
+          "sc": "退休缺口=储蓄险/年金的切入理由",
+          "tc": "退休缺口=儲蓄險/年金的切入理由"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Asia · 2026年8月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "retirement",
+        "annuity",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "退休",
+          "子女",
+          "养老金",
+          "调查"
+        ],
+        "tc": [
+          "退休",
+          "子女",
+          "養老金",
+          "調查"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-10T10:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/market/hong-kong"
+    },
+    {
+      "id": "mox-travel-cover-202607",
+      "clusterCount": 1,
+      "score": 64,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "Mox Bank 推全年无限次旅行保险：投保、理赔全透过手机 App 完成",
+        "tc": "Mox Bank 推全年無限次旅行保險：投保、理賠全透過手機 App 完成"
+      },
+      "summary": {
+        "sc": "香港虚拟银行 Mox Bank 推出全年无限次旅行保险产品，客户可通过手机 App 完成购买、保障管理和理赔全流程。继银行存款、信贷后，保险成为虚拟银行拓展产品线的最新方向。",
+        "tc": "香港虛擬銀行 Mox Bank 推出全年無限次旅行保險產品，客戶可通過手機 App 完成購買、保障管理和理賠全流程。"
+      },
+      "why": {
+        "sc": "虚拟银行入局保险=渠道版图的新变量。对 IFA：当 Mox/ZA 等纯数字银行对接保司产品，传统的「银行保险柜台」正在被解构成 App 内嵌的保险超市——渠道格局在加速变化。",
+        "tc": "虛擬銀行入局保險=渠道版圖的新變量。傳統的「銀行保險櫃檯」正在被解構成 App 內嵌的保險超市。"
+      },
+      "actions": {
+        "front": {
+          "sc": "虚拟银行入局=保险渠道新玩家",
+          "tc": "虛擬銀行入局=保險渠道新玩家"
+        },
+        "midback": {
+          "sc": "数字化渠道=监管需跟踪的新变量",
+          "tc": "數碼化渠道=監管需跟蹤的新變量"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 3,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Asia · 2026年8月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "tech",
+        "channel",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "Mox",
+          "虚拟银行",
+          "旅行保险",
+          "App"
+        ],
+        "tc": [
+          "Mox",
+          "虛擬銀行",
+          "旅行保險",
+          "App"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-09T10:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/market/hong-kong"
+    },
     {
       "id": "ib-sk-ai-datacenter-20260808",
       "clusterCount": 1,
@@ -381,6 +512,70 @@
       },
       "featured": false,
       "evergreen": false
+    },
+    {
+      "id": "qbe-asia-leadership-202608",
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "QBE 重整亚洲管理层：两名香港高层任命",
+        "tc": "QBE 重整亞洲管理層：兩名香港高層任命"
+      },
+      "summary": {
+        "sc": "QBE 亚洲区进行管理层重组，宣布两项香港高阶管理层任命。新任高管将负责区域战略运营与转型计划，反映外资保司对亚洲区域架构的持续调整。",
+        "tc": "QBE 亞洲區進行管理層重組，宣佈兩項香港高階管理層任命。新任高管將負責區域戰略運營與轉型計劃。"
+      },
+      "why": {
+        "sc": "QBE 是国际财险/专业险大玩家，在港管理层调整=外资对亚洲市场的战略信号。对 IFA：客户选外资保司时，本地管理层经验是评估维度之一——它影响核保效率和服务响应。",
+        "tc": "QBE 是國際財險/專業險大玩家，在港管理層調整=外資對亞洲市場的戰略信號。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "高管调整=外资保司战略风向标",
+          "tc": "高管調整=外資保司戰略風向標"
+        },
+        "lead": {
+          "sc": "管理层变化=机构合作的评估维度",
+          "tc": "管理層變化=機構合作的評估維度"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 3,
+        "lead": 3,
+        "cross": 2
+      },
+      "source": {
+        "sc": "Insurance Asia · 2026年8月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "firm",
+        "career"
+      ],
+      "tags": {
+        "sc": [
+          "QBE",
+          "高管",
+          "亚洲"
+        ],
+        "tc": [
+          "QBE",
+          "高管",
+          "亞洲"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-08T10:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/market/hong-kong"
     },
     {
       "id": "hkma-hkmca-boclife-annuity",
@@ -32014,10 +32209,10 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 367 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 367 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 370 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 370 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 367,
+      "totalItems": 370,
       "sourceTiers": [
         {
           "tier": "official",
@@ -32031,7 +32226,7 @@
         },
         {
           "tier": "media",
-          "count": 72,
+          "count": 75,
           "label": "媒体报道"
         },
         {
@@ -32110,7 +32305,7 @@
       "topThemes": [
         {
           "theme": "market",
-          "count": 139,
+          "count": 140,
           "label": "市场"
         },
         {
@@ -32120,7 +32315,7 @@
         },
         {
           "theme": "firm",
-          "count": 61,
+          "count": 62,
           "label": "保司"
         },
         {
@@ -32130,7 +32325,7 @@
         },
         {
           "theme": "product",
-          "count": 49,
+          "count": 50,
           "label": "产品"
         },
         {
@@ -32139,29 +32334,29 @@
           "label": "合规"
         },
         {
+          "theme": "channel",
+          "count": 32,
+          "label": "渠道"
+        },
+        {
           "theme": "macro",
           "count": 32,
           "label": "宏观"
         },
         {
-          "theme": "channel",
-          "count": 31,
-          "label": "渠道"
-        },
-        {
           "theme": "tech",
-          "count": 21,
+          "count": 22,
           "label": "科技"
         },
         {
-          "theme": "reinsurance",
-          "count": 20,
-          "label": "reinsurance"
+          "theme": "career",
+          "count": 21,
+          "label": "职业"
         }
       ],
       "dateRange": {
-        "sc": "2024-01-15 ~ 2026-08-08",
-        "tc": "2024-01-15 ~ 2026-08-08"
+        "sc": "2024-01-15 ~ 2026-08-10",
+        "tc": "2024-01-15 ~ 2026-08-10"
       }
     },
     "marketData": {

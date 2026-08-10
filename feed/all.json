@@ -1,9 +1,37 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-09T05:21:41Z",
-  "itemCount": 367,
+  "generatedAt": "2026-08-10T16:48:35Z",
+  "itemCount": 370,
   "items": [
+    {
+      "id": "hk-retirement-family-202608",
+      "title": "调查：五分一港人期望子女资助退休及护理费",
+      "sourceTier": "media",
+      "themes": [
+        "retirement",
+        "annuity",
+        "market"
+      ],
+      "publishedAt": "2026-08-10T10:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hk-retirement-family-202608",
+      "originalUrl": "https://insuranceasia.com/market/hong-kong"
+    },
+    {
+      "id": "mox-travel-cover-202607",
+      "title": "Mox Bank 推全年无限次旅行保险：投保、理赔全透过手机 App 完成",
+      "sourceTier": "media",
+      "themes": [
+        "tech",
+        "channel",
+        "product"
+      ],
+      "publishedAt": "2026-08-09T10:00:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=mox-travel-cover-202607",
+      "originalUrl": "https://insuranceasia.com/market/hong-kong"
+    },
     {
       "id": "ib-sk-ai-datacenter-20260808",
       "title": "韩国拟建18.4GW AI数据中心 险企承保能力与定价承压",
@@ -43,6 +71,19 @@
       "score": 60,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ib-dando-rates-20260808",
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/professional-liability/dando-rates-fall-6-8-but-show-signs-of-bottoming-out-585431.aspx"
+    },
+    {
+      "id": "qbe-asia-leadership-202608",
+      "title": "QBE 重整亚洲管理层：两名香港高层任命",
+      "sourceTier": "media",
+      "themes": [
+        "firm",
+        "career"
+      ],
+      "publishedAt": "2026-08-08T10:00:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=qbe-asia-leadership-202608",
+      "originalUrl": "https://insuranceasia.com/market/hong-kong"
     },
     {
       "id": "hkma-hkmca-boclife-annuity",
