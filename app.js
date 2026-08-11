@@ -2,10 +2,10 @@ window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-11T18:08:00+08:00",
-    "itemCount": 394,
+    "itemCount": 397,
     "windowNote": {
-      "sc": "本库394条。",
-      "tc": "本庫394條。"
+      "sc": "本库397条。",
+      "tc": "本庫397條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -2092,6 +2092,73 @@ window.HKII_DATA = {
       "evergreen": false
     },
     {
+      "id": "munichre-h1-2026-record",
+      "clusterCount": 1,
+      "score": 73,
+      "verifyStatus": "verified",
+      "sourceTier": "research",
+      "sourceKey": "munichre",
+      "title": {
+        "sc": "慕再 2026 上半年创纪录净利近 40 亿欧元：全年目标 63 亿不变",
+        "tc": "慕再 2026 上半年創紀錄淨利近 40 億歐元：全年目標 63 億不變"
+      },
+      "summary": {
+        "sc": "Munich Re 2026 年上半年集团净利 39.25 亿欧元（+23.5%），创同期纪录；Q2 净利 22 亿欧元，投资回报率 5.5%。集团维持 2026 全年 63 亿欧元目标，但下调再保保险收入预期至 380 亿欧元（原 400 亿）。",
+        "tc": "Munich Re 2026 年上半年集團淨利 39.25 億歐元（+23.5%），創同期紀錄；Q2 淨利 22 億歐元，投資回報率 5.5%。集團維持 2026 全年 63 億歐元目標。"
+      },
+      "why": {
+        "sc": "慕再上半年 +23.5% 创纪录=再保巨头盈利能力的上限样本。对 IFA：全球再保龙头盈利走强，说明风险转移需求旺盛——港险产品背后的再保支持（尤其是大额/特殊风险）处于健康状态。",
+        "tc": "慕再上半年 +23.5% 創紀錄=再保巨頭盈利能力的上限樣本。全球再保龍頭盈利走強，說明風險轉移需求旺盛。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "再保龙头盈利=港险再保支持的健康度",
+          "tc": "再保龍頭盈利=港險再保支持的健康度"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "慕再纪录=全球风险转移需求的信号",
+          "tc": "慕再紀錄=全球風險轉移需求的信號"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 3,
+        "lead": 2,
+        "cross": 3
+      },
+      "source": {
+        "sc": "Munich Re · 2026年8月",
+        "lang": "zh"
+      },
+      "boards": [
+        "macro"
+      ],
+      "themes": [
+        "reinsurance",
+        "macro",
+        "international"
+      ],
+      "tags": {
+        "sc": [
+          "慕再",
+          "H1",
+          "40亿欧元",
+          "纪录"
+        ],
+        "tc": [
+          "慕再",
+          "H1",
+          "40億歐元",
+          "紀錄"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-08-07T10:00:00+08:00",
+      "originalUrl": "https://www.munichre.com/content/dam/munichre/mrwebsiteslaunches/2026-half-year-financial-report/MunichRe-Media-release-Q2-2026_en.pdf"
+    },
+    {
       "id": "manulife-asia-q2-2026",
       "clusterCount": 1,
       "score": 75,
@@ -2749,6 +2816,73 @@ window.HKII_DATA = {
       },
       "featured": false,
       "evergreen": false
+    },
+    {
+      "id": "swissre-h1-2026-results",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "verified",
+      "sourceTier": "research",
+      "sourceKey": "swissre",
+      "title": {
+        "sc": "瑞再 2026 上半年净利 +9% 至 28 亿美元：全年目标 45 亿不变",
+        "tc": "瑞再 2026 上半年淨利 +9% 至 28 億美元：全年目標 45 億不變"
+      },
+      "summary": {
+        "sc": "Swiss Re 2026 年上半年净收入 28 亿美元，同比 +9%；财险再保综合成本率 76.7%（上半年），名义价格 -0.2%（计入损失假设上调后实际 -4.6%）；再投资收益率升至 5.2%。集团维持 2026 全年 45 亿美元目标，SST 比率 264%。",
+        "tc": "Swiss Re 2026 年上半年淨收入 28 億美元，同比 +9%；財險再保綜合成本率 76.7%；再投資收益率升至 5.2%。集團維持 2026 全年 45 億美元目標。"
+      },
+      "why": {
+        "sc": "瑞再 H1 是全球再保周期的温度计：价格下行（名义 -0.2%）但承保纪律守住（综合成本率 76.7%）。对 IFA：再保价格直接影响保司产品定价与分红实现率——「再保市场转软」是解读港险产品回报趋势的宏观注脚。",
+        "tc": "瑞再 H1 是全球再保週期的溫度計：價格下行但承保紀律守住。再保價格直接影響保司產品定價與分紅實現率。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "再保周期=产品定价的宏观注脚",
+          "tc": "再保週期=產品定價的宏觀注腳"
+        },
+        "lead": {
+          "sc": "全球再保展望=行业趋势的参照系",
+          "tc": "全球再保展望=行業趨勢的參照系"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 4,
+        "lead": 3,
+        "cross": 3
+      },
+      "source": {
+        "sc": "Swiss Re · 2026年8月",
+        "lang": "zh"
+      },
+      "boards": [
+        "macro"
+      ],
+      "themes": [
+        "reinsurance",
+        "macro",
+        "international"
+      ],
+      "tags": {
+        "sc": [
+          "瑞再",
+          "H1",
+          "28亿美元",
+          "综合成本率"
+        ],
+        "tc": [
+          "瑞再",
+          "H1",
+          "28億美元",
+          "綜合成本率"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-08-06T10:00:00+08:00",
+      "originalUrl": "https://www.swissre.com/media/press-release/pr-20260806-hy-2026-press-release.html"
     },
     {
       "id": "hk-policy-tax-selloff-aug06",
@@ -9627,6 +9761,73 @@ window.HKII_DATA = {
         "market",
         "reinsurance"
       ]
+    },
+    {
+      "id": "swissre-sigma-2026-world",
+      "clusterCount": 1,
+      "score": 77,
+      "verifyStatus": "verified",
+      "sourceTier": "research",
+      "sourceKey": "swissre",
+      "title": {
+        "sc": "瑞再 sigma 2026：全球保费增速放缓至 1.3%，寿险 2.3% 仍稳健",
+        "tc": "瑞再 sigma 2026：全球保費增速放緩至 1.3%，壽險 2.3% 仍穩健"
+      },
+      "summary": {
+        "sc": "瑞再研究院 sigma 报告《World insurance in 2026》：全球保费实际增速从 2025 年 3.9% 放缓至 2026 年 1.3%（2027 年 1.6%）；非寿险仅 +0.6%，寿险 +2.3% 相对稳健；美国与中国仍为全球最大市场，印度增速最快（+7.1%）。",
+        "tc": "瑞再研究院 sigma 報告《World insurance in 2026》：全球保費實際增速從 2025 年 3.9% 放緩至 2026 年 1.3%；非壽險僅 +0.6%，壽險 +2.3% 相對穩健。"
+      },
+      "why": {
+        "sc": "sigma 是全球保险业最权威的年度温度计：增速放缓但寿险韧性好。对 IFA：全球视角下「寿险比非寿险抗周期」的结论，支撑港险长期配置逻辑——给客户讲「全球保险业怎么看 2026」时有官方数据可用。",
+        "tc": "sigma 是全球保險業最權威的年度溫度計：增速放緩但壽險韌性好。全球視角下「壽險比非壽險抗週期」的結論支撐港險長期配置邏輯。"
+      },
+      "actions": {
+        "front": {
+          "sc": "全球保费放缓=配置逻辑的宏观背书",
+          "tc": "全球保費放緩=配置邏輯的宏觀背書"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {
+          "sc": "sigma报告=跨境视角的权威引用",
+          "tc": "sigma報告=跨境視角的權威引用"
+        }
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 2,
+        "lead": 2,
+        "cross": 3
+      },
+      "source": {
+        "sc": "Swiss Re sigma · 2026年7月",
+        "lang": "zh"
+      },
+      "boards": [
+        "macro"
+      ],
+      "themes": [
+        "reinsurance",
+        "macro",
+        "international"
+      ],
+      "tags": {
+        "sc": [
+          "瑞再",
+          "sigma",
+          "2026",
+          "全球保费"
+        ],
+        "tc": [
+          "瑞再",
+          "sigma",
+          "2026",
+          "全球保費"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-07-08T10:00:00+08:00",
+      "originalUrl": "https://www.swissre.com/dam/jcr:409c0f6b-ae4a-4de3-aec1-9864abb3fa62/2026-07-sri-world-insurance-sigma.pdf"
     },
     {
       "id": "nfra-shanghai-reins-20260707",
@@ -33907,10 +34108,10 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 394 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 394 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 397 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 397 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 394,
+      "totalItems": 397,
       "sourceTiers": [
         {
           "tier": "official",
@@ -33934,7 +34135,7 @@ window.HKII_DATA = {
         },
         {
           "tier": "research",
-          "count": 15,
+          "count": 18,
           "label": "机构研究"
         }
       ],
@@ -34038,12 +34239,12 @@ window.HKII_DATA = {
         },
         {
           "theme": "macro",
-          "count": 32,
+          "count": 35,
           "label": "宏观"
         },
         {
           "theme": "reinsurance",
-          "count": 23,
+          "count": 26,
           "label": "reinsurance"
         },
         {

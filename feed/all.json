@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-11T11:15:45Z",
-  "itemCount": 394,
+  "generatedAt": "2026-08-11T11:16:13Z",
+  "itemCount": 397,
   "items": [
     {
       "id": "ib-swissre-natcat-h1-2026",
@@ -377,6 +377,20 @@
       "originalUrl": "https://insuranceasia.com/insurance/news/sun-lifes-asia-segment-net-income-surges-153-144m-in-q2"
     },
     {
+      "id": "munichre-h1-2026-record",
+      "title": "慕再 2026 上半年创纪录净利近 40 亿欧元：全年目标 63 亿不变",
+      "sourceTier": "research",
+      "themes": [
+        "reinsurance",
+        "macro",
+        "international"
+      ],
+      "publishedAt": "2026-08-07T10:00:00+08:00",
+      "score": 73,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=munichre-h1-2026-record",
+      "originalUrl": "https://www.munichre.com/content/dam/munichre/mrwebsiteslaunches/2026-half-year-financial-report/MunichRe-Media-release-Q2-2026_en.pdf"
+    },
+    {
       "id": "manulife-asia-q2-2026",
       "title": "宏利亚洲次季股东应占净利+28%至7.68亿美元 APE+21%至15亿美元",
       "sourceTier": "insurer",
@@ -492,6 +506,20 @@
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-q2-2026-hk-ape37",
       "originalUrl": "https://www.stheadline.com/zh-hans/stock-market/3601490/%E5%AE%8F%E5%88%A9%E9%87%91%E8%9E%8D%E6%AC%A1%E5%AD%A3%E6%A0%B8%E5%BF%83%E7%9B%88%E5%88%A9%E5%8D%8712-%E6%B4%BE%E6%81%AF0485%E5%8A%A0%E5%85%83-%E6%B8%AF%E6%BE%B3%E4%B8%9A%E5%8A%A1%E4%B8%BB%E8%A6%81%E4%B8%9A%E7%BB%A9%E5%9D%87%E5%BD%95%E5%8F%8C%E4%BD%8D%E5%A2%9E%E9%95%BF"
+    },
+    {
+      "id": "swissre-h1-2026-results",
+      "title": "瑞再 2026 上半年净利 +9% 至 28 亿美元：全年目标 45 亿不变",
+      "sourceTier": "research",
+      "themes": [
+        "reinsurance",
+        "macro",
+        "international"
+      ],
+      "publishedAt": "2026-08-06T10:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=swissre-h1-2026-results",
+      "originalUrl": "https://www.swissre.com/media/press-release/pr-20260806-hy-2026-press-release.html"
     },
     {
       "id": "hk-policy-tax-selloff-aug06",
@@ -1747,6 +1775,20 @@
       "score": 92,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=swissre-202607-wis",
       "originalUrl": "https://www.swissre.com/institute/research/sigma-research/sigma-2026-07-world-insurance.html"
+    },
+    {
+      "id": "swissre-sigma-2026-world",
+      "title": "瑞再 sigma 2026：全球保费增速放缓至 1.3%，寿险 2.3% 仍稳健",
+      "sourceTier": "research",
+      "themes": [
+        "reinsurance",
+        "macro",
+        "international"
+      ],
+      "publishedAt": "2026-07-08T10:00:00+08:00",
+      "score": 77,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=swissre-sigma-2026-world",
+      "originalUrl": "https://www.swissre.com/dam/jcr:409c0f6b-ae4a-4de3-aec1-9864abb3fa62/2026-07-sri-world-insurance-sigma.pdf"
     },
     {
       "id": "nfra-shanghai-reins-20260707",
