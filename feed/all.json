@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-11T11:17:07Z",
-  "itemCount": 402,
+  "generatedAt": "2026-08-11T11:41:31Z",
+  "itemCount": 406,
   "items": [
     {
       "id": "ib-swissre-natcat-h1-2026",
@@ -4848,6 +4848,20 @@
       "originalUrl": "https://www.ia.org.hk/sc/infocenter/press_releases/20241029.html"
     },
     {
+      "id": "ia-policy-address-202410",
+      "title": "保监局欢迎《2024 施政报告》：争取专属自保落户+海事保险拓展",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "captive",
+        "macro"
+      ],
+      "publishedAt": "2024-10-16T10:00:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-policy-address-202410",
+      "originalUrl": "https://www.ia.org.hk/tc/infocenter/press_releases/20241016.html"
+    },
+    {
       "id": "manulife-hiv-coverage-2024",
       "title": "宏利香港将 HIV 阳性人士纳入个人寿险承保范围",
       "sourceTier": "insurer",
@@ -4975,6 +4989,20 @@
       "originalUrl": "https://www.xincai.com/article/nhzqptf9387534"
     },
     {
+      "id": "ia-aia-aml-fine-202408",
+      "title": "友邦香港因反洗钱流程缺陷被保监局罚款 2300 万港元",
+      "sourceTier": "official",
+      "themes": [
+        "compliance",
+        "aml",
+        "reg"
+      ],
+      "publishedAt": "2024-08-13T10:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-aia-aml-fine-202408",
+      "originalUrl": "https://finance.sina.cn/insurance/gsdt/2024-08-13/detail-incinynh8559223.d.html"
+    },
+    {
       "id": "nfra-rate-cut-202408",
       "title": "预定利率首次全面下调：传统型 2.5%、分红型 2.0%、万能型 1.5%",
       "sourceTier": "official",
@@ -5001,6 +5029,20 @@
       "originalUrl": "http://paper.people.com.cn/zgjjzk/pc/content/202411/15/content_30046103.html"
     },
     {
+      "id": "ia-taihe-bermuda-joint-202407",
+      "title": "保监局与百慕达金管局协作监管泰禾人寿：委任联合临时清盘人",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "firm",
+        "offshore"
+      ],
+      "publishedAt": "2024-07-27T10:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-taihe-bermuda-joint-202407",
+      "originalUrl": "https://www.ia.org.hk/sc/infocenter/press_releases/20240727.html"
+    },
+    {
       "id": "ia-20240726-tahoe-life",
       "title": "保监局委任经理全面接管泰禾人寿——香港保险史上首次",
       "sourceTier": "official",
@@ -5024,6 +5066,20 @@
       "score": 87,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ctflife-20240723-rebrand",
       "originalUrl": "https://www.acnnewswire.com/press-release/english/91884/"
+    },
+    {
+      "id": "ia-rbc-implement-20240701",
+      "title": "香港保险业正式实施风险为本资本制度（RBC）：监管里程碑",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "capital",
+        "macro"
+      ],
+      "publishedAt": "2024-07-01T10:00:00+08:00",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-rbc-implement-20240701",
+      "originalUrl": "https://www.ia.org.hk/sc/infocenter/press_releases/20240701.html"
     },
     {
       "id": "ia-20240701-rbc-live",

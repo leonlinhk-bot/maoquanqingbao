@@ -2,10 +2,10 @@
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-11T18:08:00+08:00",
-    "itemCount": 402,
+    "itemCount": 406,
     "windowNote": {
-      "sc": "本库402条。",
-      "tc": "本庫402條。"
+      "sc": "本库406条。",
+      "tc": "本庫406條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -27145,6 +27145,73 @@
       "originalUrl": "https://www.ia.org.hk/sc/infocenter/press_releases/20241029.html"
     },
     {
+      "id": "ia-policy-address-202410",
+      "clusterCount": 1,
+      "score": 76,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "保监局欢迎《2024 施政报告》：争取专属自保落户+海事保险拓展",
+        "tc": "保監局歡迎《2024 施政報告》：爭取專屬自保落戶+海事保險拓展"
+      },
+      "summary": {
+        "sc": "2024 年 10 月 16 日，保监局主席姚建华回应《施政报告》：重点工作包括争取大型海内外机构在港成立专属自保公司、中国信保早日落户香港、开拓海事保险产品；并预告 2025 年启动 RBC 政策检讨（鼓励投资本地基建）。",
+        "tc": "2024 年 10 月 16 日，保監局主席姚建華回應《施政報告》：爭取大型海內外機構在港成立專屬自保公司、開拓海事保險產品；並預告 2025 年啟動 RBC 政策檢討。"
+      },
+      "why": {
+        "sc": "施政报告定调保险业方向：专属自保+海事保险+基建投资激励。对 IFA：这三条是未来几年的政策主线——专属自保 6→9 间、RBC 基建激励都源于此，看懂施政报告就能预判监管节奏。",
+        "tc": "施政報告定調保險業方向：專屬自保+海事保險+基建投資激勵。這三條是未來幾年的政策主線。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "施政报告=监管节奏的预告片",
+          "tc": "施政報告=監管節奏的預告片"
+        },
+        "lead": {
+          "sc": "专属自保+基建=政策红利方向",
+          "tc": "專屬自保+基建=政策紅利方向"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 4,
+        "lead": 3,
+        "cross": 3
+      },
+      "source": {
+        "sc": "保监局 · 2024年10月",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "reg",
+        "captive",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "保监局",
+          "施政报告",
+          "专属自保",
+          "海事保险"
+        ],
+        "tc": [
+          "保監局",
+          "施政報告",
+          "專屬自保",
+          "海事保險"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2024-10-16T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/tc/infocenter/press_releases/20241016.html"
+    },
+    {
       "id": "manulife-hiv-coverage-2024",
       "clusterCount": 1,
       "score": 70,
@@ -27862,6 +27929,73 @@
       ]
     },
     {
+      "id": "ia-aia-aml-fine-202408",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "友邦香港因反洗钱流程缺陷被保监局罚款 2300 万港元",
+        "tc": "友邦香港因反洗錢流程缺陷被保監局罰款 2300 萬港元"
+      },
+      "summary": {
+        "sc": "2024 年 8 月，保监局对友邦保险香港分行处以 2300 万港元罚款：其打击洗钱系统和相关算法存在技术缺陷，查察范围覆盖 2016 年 3 月至 2022 年 10 月的新造及有效业务；部分高风险客户未获及时严格尽职审查。友邦须提交独立顾问报告确保整改。",
+        "tc": "2024 年 8 月，保監局對友邦保險香港分行處以 2300 萬港元罰款：其打擊洗錢系統和相關算法存在技術缺陷，覆蓋 2016-2022 年業務；部分高風險客戶未獲及時嚴格盡職審查。"
+      },
+      "why": {
+        "sc": "头部保司因反洗钱被重罚=AML 合规进入深水区。对 IFA：反洗钱不是后台的事——大额缴费、第三方支付、资金来源不明的客户都可能触发核查，前线配合做 KYC 既是义务也是保护自己。",
+        "tc": "頭部保司因反洗錢被重罰=AML 合規進入深水區。對 IFA：反洗錢不是後台的事——大額繳費、第三方支付都可能觸發核查，前線配合做 KYC 既是義務也是保護自己。"
+      },
+      "actions": {
+        "front": {
+          "sc": "2300万罚款=AML合规的警示牌",
+          "tc": "2300萬罰款=AML合規的警示牌"
+        },
+        "midback": {
+          "sc": "反洗钱缺陷=系统性合规风险",
+          "tc": "反洗錢缺陷=系統性合規風險"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 4,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "保监局 · 2024年8月",
+        "lang": "zh"
+      },
+      "boards": [
+        "compliance"
+      ],
+      "themes": [
+        "compliance",
+        "aml",
+        "reg"
+      ],
+      "tags": {
+        "sc": [
+          "友邦",
+          "反洗钱",
+          "罚款",
+          "2300万"
+        ],
+        "tc": [
+          "友邦",
+          "反洗錢",
+          "罰款",
+          "2300萬"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2024-08-13T10:00:00+08:00",
+      "originalUrl": "https://finance.sina.cn/insurance/gsdt/2024-08-13/detail-incinynh8559223.d.html"
+    },
+    {
       "id": "nfra-rate-cut-202408",
       "clusterCount": 1,
       "score": 90,
@@ -28008,6 +28142,73 @@
       "themes": [
         "market"
       ]
+    },
+    {
+      "id": "ia-taihe-bermuda-joint-202407",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "保监局与百慕达金管局协作监管泰禾人寿：委任联合临时清盘人",
+        "tc": "保監局與百慕達金管局協作監管泰禾人壽：委任聯合臨時清盤人"
+      },
+      "summary": {
+        "sc": "2024 年 7 月 27 日，保监局欢迎百慕达金融管理局就泰禾人寿采取协作监管行动：百慕达最高法院委任德勤团队为联合临时清盘人，与保监局在港委任的经理方向一致——分隔资产（非清盘）、确认财务状况、寻求修复方案，保障保单持有人利益。",
+        "tc": "2024 年 7 月 27 日，保監局歡迎百慕達金融管理局就泰禾人壽採取協作監管行動：百慕達最高法院委任德勤團隊為聯合臨時清盤人，與保監局在港委任的經理方向一致，保障保單持有人利益。"
+      },
+      "why": {
+        "sc": "泰禾事件=「保险公司会否倒闭」的完整答案：监管接管→资产分隔→寻求修复，不是清盘跑路。对 IFA：客户问「香港保险公司安全吗」，泰禾的处置过程就是标准案例——有监管兜底，保单有人接。",
+        "tc": "泰禾事件=「保險公司會否倒閉」的完整答案：監管接管→資產分隔→尋求修復，不是清盤跑路。對 IFA：客戶問「香港保險公司安全嗎」，泰禾的處置過程就是標準案例。"
+      },
+      "actions": {
+        "front": {
+          "sc": "泰禾处置=保险公司安全性的答案",
+          "tc": "泰禾處置=保險公司安全性的答案"
+        },
+        "midback": {
+          "sc": "跨境协作监管=监管网络的力量",
+          "tc": "跨境協作監管=監管網絡的力量"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 3,
+        "lead": 2,
+        "cross": 3
+      },
+      "source": {
+        "sc": "保监局 · 2024年7月",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "reg",
+        "firm",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "泰禾",
+          "百慕达",
+          "临时清盘人",
+          "协作监管"
+        ],
+        "tc": [
+          "泰禾",
+          "百慕達",
+          "臨時清盤人",
+          "協作監管"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2024-07-27T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/sc/infocenter/press_releases/20240727.html"
     },
     {
       "id": "ia-20240726-tahoe-life",
@@ -28157,6 +28358,73 @@
       "themes": [
         "market"
       ]
+    },
+    {
+      "id": "ia-rbc-implement-20240701",
+      "clusterCount": 1,
+      "score": 88,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "香港保险业正式实施风险为本资本制度（RBC）：监管里程碑",
+        "tc": "香港保險業正式實施風險為本資本制度（RBC）：監管里程碑"
+      },
+      "summary": {
+        "sc": "2024 年 7 月 1 日，香港保险业风险为本资本制度（RBC）正式实施，配套《2023 年保险业（修订）条例》及新增/修改指引同步生效。新制度按保险公司风险状况以模组方式评估资本要求，与国际标准看齐，标志香港保险监管体系全面接轨国际。",
+        "tc": "2024 年 7 月 1 日，香港保險業風險為本資本制度（RBC）正式實施。新制度按保險公司風險狀況以模組方式評估資本要求，與國際標準看齊。"
+      },
+      "why": {
+        "sc": "RBC 实施=港险监管分水岭。对 IFA：RBC 影响保司资本效率→产品定价→分红能力，还推动了绿色债券优惠等后续政策。理解 RBC 才能看懂 2024 年后所有产品回报率变化的大背景。",
+        "tc": "RBC 實施=港險監管分水嶺。對 IFA：RBC 影響保司資本效率→產品定價→分紅能力，是 2024 年後所有產品回報率變化的大背景。"
+      },
+      "actions": {
+        "front": {
+          "sc": "RBC实施=产品回报变化的总背景",
+          "tc": "RBC實施=產品回報變化的總背景"
+        },
+        "midback": {
+          "sc": "RBC=资本效率与合规的双刃剑",
+          "tc": "RBC=資本效率與合規的雙刃劍"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 4,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "保监局 · 2024年7月",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "reg",
+        "capital",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "保监局",
+          "RBC",
+          "风险为本资本",
+          "2024"
+        ],
+        "tc": [
+          "保監局",
+          "RBC",
+          "風險為本資本",
+          "2024"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2024-07-01T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/sc/infocenter/press_releases/20240701.html"
     },
     {
       "id": "ia-20240701-rbc-live",
@@ -34437,14 +34705,14 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 402 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 402 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 406 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 406 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 402,
+      "totalItems": 406,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 153,
+          "count": 157,
           "label": "监管一手"
         },
         {
@@ -34538,18 +34806,23 @@
         },
         {
           "theme": "reg",
-          "count": 74,
+          "count": 78,
           "label": "监管"
         },
         {
           "theme": "firm",
-          "count": 69,
+          "count": 70,
           "label": "保司"
         },
         {
           "theme": "offshore",
-          "count": 60,
+          "count": 61,
           "label": "跨境"
+        },
+        {
+          "theme": "compliance",
+          "count": 53,
+          "label": "合规"
         },
         {
           "theme": "product",
@@ -34557,13 +34830,8 @@
           "label": "产品"
         },
         {
-          "theme": "compliance",
-          "count": 52,
-          "label": "合规"
-        },
-        {
           "theme": "macro",
-          "count": 37,
+          "count": 39,
           "label": "宏观"
         },
         {
