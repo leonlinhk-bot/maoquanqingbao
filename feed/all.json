@@ -1,9 +1,79 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-11T02:39:18Z",
-  "itemCount": 383,
+  "generatedAt": "2026-08-11T10:18:34Z",
+  "itemCount": 388,
   "items": [
+    {
+      "id": "ib-swissre-natcat-h1-2026",
+      "title": "瑞士再保险研究院：H1全球巨灾保险损失420亿美元 六年低位难掩风险上行",
+      "sourceTier": "pro",
+      "themes": [
+        "natcat",
+        "reinsurance",
+        "pricing"
+      ],
+      "publishedAt": "2026-08-11T17:13:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ib-swissre-natcat-h1-2026",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/catastrophe/sixyearlow-catastrophe-losses-arent-the-reassurance-they-look-like-585669.aspx"
+    },
+    {
+      "id": "ib-typhoon-dolphin-20260811",
+      "title": "台风「白海豚」登陆浙江玉环 中国菲律宾多险种同时触发赔付累积",
+      "sourceTier": "media",
+      "themes": [
+        "natcat",
+        "marine",
+        "china"
+      ],
+      "publishedAt": "2026-08-11T08:22:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ib-typhoon-dolphin-20260811",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/catastrophe/dolphin-is-not-one-loss--it-is-an-accumulation-problem-across-two-markets-585556.aspx"
+    },
+    {
+      "id": "hk-tax-prop-trading-20260811",
+      "title": "港据报拟将自营交易公司纳入税务改革 附带权益优惠或扩围 财库局称不限特定管理者",
+      "sourceTier": "media",
+      "themes": [
+        "taxation",
+        "family-office",
+        "fund"
+      ],
+      "publishedAt": "2026-08-11T14:58:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hk-tax-prop-trading-20260811",
+      "originalUrl": "http://m.toutiao.com/group/7672664766363517466/"
+    },
+    {
+      "id": "toutiao-crs-tax-timeline-20260811",
+      "title": "港险征税拆解：CRS 2.0今年生效2027年首次信息交换 合规评估窗口期明确",
+      "sourceTier": "media",
+      "themes": [
+        "taxation",
+        "cross-border",
+        "compliance"
+      ],
+      "publishedAt": "2026-08-11T13:54:45+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=toutiao-crs-tax-timeline-20260811",
+      "originalUrl": "http://m.toutiao.com/group/7672648195784180287/"
+    },
+    {
+      "id": "ia-mitti-rebrand-20260811",
+      "title": "澳洲保险科技独角兽SafetyCulture更名Mitti 携AI风控进军美国市场",
+      "sourceTier": "media",
+      "themes": [
+        "insurtech",
+        "ai",
+        "us-expansion"
+      ],
+      "publishedAt": "2026-08-11T12:38:00+08:00",
+      "score": 61,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-mitti-rebrand-20260811",
+      "originalUrl": "https://insuranceasia.com/insurance/news/australias-safetyculture-rebrands-mitti-insurance-and-eyes-us-expansion"
+    },
     {
       "id": "ia-china-tax-sales-20260811",
       "title": "港险征税后续：20%个税令收益差收窄 友邦保诚股价续跌",
