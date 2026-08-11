@@ -2,10 +2,10 @@ window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-11T18:08:00+08:00",
-    "itemCount": 443,
+    "itemCount": 447,
     "windowNote": {
-      "sc": "本库443条。",
-      "tc": "本庫443條。"
+      "sc": "本库447条。",
+      "tc": "本庫447條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -4291,6 +4291,73 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-08-04T10:00:00+08:00",
       "originalUrl": "http://news.qq.com/rain/a/20260804A042W600"
+    },
+    {
+      "id": "taihe-9w-policies-202608",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "泰禾人寿接管两周年：9 万张保单继续生效，184 年首例的监管样本",
+        "tc": "泰禾人壽接管兩週年：9 萬張保單繼續生效，184 年首例的監管樣本"
+      },
+      "summary": {
+        "sc": "泰禾人寿 2024 年 7 月被保监局接管（香港保险业 184 年来首例长期业务公司接管）：约 9 万张有效保单、保单负债约 180 亿港元。接管后保单继续生效、理赔照常；监管 2019 年即发现问题，经历限制新业务→委任顾问→委任经理→资产隔离的渐进处置。",
+        "tc": "泰禾人壽 2024 年 7 月被保監局接管（香港保險業 184 年來首例長期業務公司接管）：約 9 萬張有效保單、保單負債約 180 億港元。接管後保單繼續生效、理賠照常；監管 2019 年即發現問題，經歷漸進處置。"
+      },
+      "why": {
+        "sc": "泰禾=「保险公司出问题怎么办」的标准答案。对 IFA：客户问「香港保险安不安全」，泰禾的完整处置链（2019 发现→渐进干预→接管→保单继续生效）就是答案——这是比任何口头承诺都有力的制度证明。",
+        "tc": "泰禾=「保險公司出問題怎麼辦」的標準答案。對 IFA：泰禾的完整處置鏈（2019 發現→漸進干預→接管→保單繼續生效）就是答案。"
+      },
+      "actions": {
+        "front": {
+          "sc": "泰禾样本=保险公司安全性的答案",
+          "tc": "泰禾樣本=保險公司安全性的答案"
+        },
+        "midback": {
+          "sc": "渐进处置=监管的治未病逻辑",
+          "tc": "漸進處置=監管的治未病邏輯"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 3,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "会计学堂/今日头条 · 2026年8月",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "reg",
+        "firm",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "泰禾",
+          "9万保单",
+          "接管",
+          "184年首例"
+        ],
+        "tc": [
+          "泰禾",
+          "9萬保單",
+          "接管",
+          "184年首例"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-04T10:00:00+08:00",
+      "originalUrl": "https://m.acc5.com/news-xinwen/detail_270608.html"
     },
     {
       "id": "hk-plan-rename-aug04",
@@ -20561,6 +20628,73 @@ window.HKII_DATA = {
       "originalUrl": "https://www.prudential.com.hk/tc/about-us/newsroom/"
     },
     {
+      "id": "hk-marine-war-pool-2026",
+      "clusterCount": 1,
+      "score": 78,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "香港航运战争险风险池：7 个月覆盖约 1,000 艘船，承保能力 1.3 亿美元",
+        "tc": "香港航運戰爭險風險池：7 個月覆蓋約 1,000 艘船，承保能力 1.3 億美元"
+      },
+      "summary": {
+        "sc": "香港航运专项风险池 2025 年 11 月成立（5 家本地承保商+保监局支持）：专门为中资/华资船只提供战争风险保障，承保能力约 1.3 亿美元；7 个月内覆盖约 1,000 艘船（近百倍增长）。中东局势升级前已有 10 余艘中资船在波斯湾由池内保司承保，保费升幅控制在 5-10 倍（低于国际市场）。",
+        "tc": "香港航運專項風險池 2025 年 11 月成立（5 家本地承保商+保監局支持）：專門為中資/華資船隻提供戰爭風險保障，承保能力約 1.3 億美元；7 個月內覆蓋約 1,000 艘船。保費升幅控制在 5-10 倍（低於國際市場）。"
+      },
+      "why": {
+        "sc": "航运风险池=「国船港保」的落地样本。对 IFA：香港试图在战争险定价上摆脱伦敦垄断（张云正语）——这是香港风险管理中心战略的新维度，也是给企业客户讲「香港特殊价值」的案例。",
+        "tc": "航運風險池=「國船港保」的落地樣本。對 IFA：香港試圖在戰爭險定價上擺脫倫敦壟斷——這是香港風險管理中心戰略的新維度。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "风险池=香港定价权的探索",
+          "tc": "風險池=香港定價權的探索"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "国船港保=航运保险新格局",
+          "tc": "國船港保=航運保險新格局"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 3,
+        "lead": 2,
+        "cross": 4
+      },
+      "source": {
+        "sc": "保监局/新浪财经 · 2026年3月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "marine",
+        "offshore",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "航运风险池",
+          "战争险",
+          "1000艘",
+          "国船港保"
+        ],
+        "tc": [
+          "航運風險池",
+          "戰爭險",
+          "1000艘",
+          "國船港保"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-03-10T10:00:00+08:00",
+      "originalUrl": "https://cj.sina.cn/articles/view/6889534346/19aa5f38a00101ycmw"
+    },
+    {
       "id": "ia-20260305-genai-sandbox",
       "title": {
         "sc": "监管机构推出 GenA.I. 沙盒++ 覆盖保险等多元金融领域（2026-03-05）。",
@@ -22587,6 +22721,73 @@ window.HKII_DATA = {
       "contentKind": "report",
       "publishedAt": "2026-01-15T10:00:00+08:00",
       "originalUrl": "https://www.hkma.gov.hk/media/eng/publication-and-research/sustainability-report/2025/4_Building-a-Climate-resilient-Financial-System.pdf"
+    },
+    {
+      "id": "ia-marine-aff-2026",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "保监局：国际保赔集团 12 家中 10 家落户香港，海事保费 62 亿",
+        "tc": "保監局：國際保賠集團 12 家中 10 家落戶香港，海事保費 62 億"
+      },
+      "summary": {
+        "sc": "保监局执行董事刘中健在亚洲金融论坛 2026 表示：国际保赔协会集团 12 家成员中 10 家已在香港设立业务；2024 年海事保险保费 62 亿港元，约占一般保险保费 6%。海事保险专属监管制度（资本要求较宽松）+利得税宽减+保费征费豁免共同支持行业发展。",
+        "tc": "保監局執行董事劉中健在亞洲金融論壇 2026 表示：國際保賠協會集團 12 家成員中 10 家已在香港設立業務；2024 年海事保險保費 62 億港元，約佔一般保險保費 6%。"
+      },
+      "why": {
+        "sc": "「10/12 保赔协会落户」=香港海事保险的硬实力。对 IFA：海事保险是香港风险管理中心的支柱之一——保赔协会聚集度（10/12）+专属监管+税务优惠，是给航运/贸易企业客户讲香港优势的权威数据。",
+        "tc": "「10/12 保賠協會落戶」=香港海事保險的硬實力。對 IFA：保賠協會聚集度（10/12）+專屬監管+稅務優惠，是給航運/貿易企業客戶講香港優勢的權威數據。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "保赔协会10/12=海事保险硬实力",
+          "tc": "保賠協會10/12=海事保險硬實力"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "海事保险=香港枢纽的支柱",
+          "tc": "海事保險=香港樞紐的支柱"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 3,
+        "lead": 2,
+        "cross": 4
+      },
+      "source": {
+        "sc": "保监局 · 2026年1月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "marine",
+        "market",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "海事保险",
+          "保赔协会",
+          "62亿",
+          "亚洲金融论坛"
+        ],
+        "tc": [
+          "海事保險",
+          "保賠協會",
+          "62億",
+          "亞洲金融論壇"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-01-15T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/sc/infocenter/files/Asian_Financial_Forum_2026_CHI.pdf"
     },
     {
       "id": "ebact-2025-hk-market",
@@ -25076,6 +25277,73 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2025-09-01T10:00:00+08:00",
       "originalUrl": "https://zhuanlan.zhihu.com/p/2014742609155876237"
+    },
+    {
+      "id": "ia-taihe-related-10m-202509",
+      "clusterCount": 1,
+      "score": 71,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "保监局谴责泰禾人寿并罚款 1,000 万：未获批关联交易",
+        "tc": "保監局譴責泰禾人壽並罰款 1,000 萬：未獲批關聯交易"
+      },
+      "summary": {
+        "sc": "2025 年 9 月，保监局对泰禾人寿发出公开谴责并施加 1,000 万港元罚款（由股东基金承担）：2019 年 7 月至 2020 年 4 月，泰禾在未获保监局事先同意下与 Tahoe Group Global 进行关联交易。时任董事黄其森、葛勇不再被视为适当人选。",
+        "tc": "2025 年 9 月，保監局對泰禾人壽發出公開譴責並施加 1,000 萬港元罰款（由股東基金承擔）：2019-2020 年，泰禾在未獲保監局事先同意下與 Tahoe Group Global 進行關聯交易。時任董事不再被視為適當人選。"
+      },
+      "why": {
+        "sc": "泰禾 1,000 万罚款=关联交易监管的红线示例。对 IFA：保司与股东/关联方的资金往来需监管批准——这是保险公司治理的核心防线。给客户讲「保司的钱不会被股东掏走」时，这是制度性证据。",
+        "tc": "泰禾 1,000 萬罰款=關聯交易監管的紅線示例。對 IFA：保司與股東/關聯方的資金往來需監管批准——這是保險公司治理的核心防線。"
+      },
+      "actions": {
+        "front": {
+          "sc": "泰禾1000万=关联交易的红线",
+          "tc": "泰禾1000萬=關聯交易的红線"
+        },
+        "midback": {
+          "sc": "关联交易监管=治理的防线",
+          "tc": "關聯交易監管=治理的防線"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 4,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "保监局 · 2025年9月",
+        "lang": "zh"
+      },
+      "boards": [
+        "compliance"
+      ],
+      "themes": [
+        "compliance",
+        "reg",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "泰禾",
+          "1000万",
+          "关联交易",
+          "谴责"
+        ],
+        "tc": [
+          "泰禾",
+          "1000萬",
+          "關聯交易",
+          "譴責"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-09-01T10:00:00+08:00",
+      "originalUrl": "https://view.inews.qq.com/a/20260806A0BY5000"
     },
     {
       "id": "ia-20250901-referral50",
@@ -37159,14 +37427,14 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 443 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 443 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 447 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 447 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 443,
+      "totalItems": 447,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 174,
+          "count": 177,
           "label": "监管一手"
         },
         {
@@ -37176,7 +37444,7 @@ window.HKII_DATA = {
         },
         {
           "tier": "media",
-          "count": 91,
+          "count": 92,
           "label": "媒体报道"
         },
         {
@@ -37255,17 +37523,17 @@ window.HKII_DATA = {
       "topThemes": [
         {
           "theme": "market",
-          "count": 149,
+          "count": 150,
           "label": "市场"
         },
         {
           "theme": "reg",
-          "count": 92,
+          "count": 94,
           "label": "监管"
         },
         {
           "theme": "firm",
-          "count": 82,
+          "count": 84,
           "label": "保司"
         },
         {
@@ -37275,17 +37543,17 @@ window.HKII_DATA = {
         },
         {
           "theme": "offshore",
-          "count": 63,
+          "count": 65,
           "label": "跨境"
         },
         {
           "theme": "compliance",
-          "count": 59,
+          "count": 60,
           "label": "合规"
         },
         {
           "theme": "macro",
-          "count": 44,
+          "count": 46,
           "label": "宏观"
         },
         {
