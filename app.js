@@ -157,7 +157,83 @@ window.HKII_DATA = {
         }
       }
     ],
-    "cleanedBy": "humanizer v2 - targeted"
+    "cleanedBy": "humanizer v2 - targeted",
+    "changelog": [
+      {
+        "date": "2026-08-11",
+        "title": {
+          "sc": "v2.4 — 450 条里程碑 · 情报看板全面刷新",
+          "tc": "v2.4 — 450 條里程碑 · 情報看板全面刷新"
+        },
+        "items": [
+          "信息总量突破 450 条，覆盖 2024-01 ~ 2026-08，超原定 9/30 目标",
+          "全站数据质量: ID 去重 5 对、主题标签批量补全（29 条）、rebuild 闭环从 7 项扩展至 9 项（新增 stats.json 自动同步）",
+          "情报看板全面更新: 保司排名刷新至 2026 Q1、市场脉搏替换过时指标、监管时钟扩展至 9 事件覆盖 2025-2027",
+          "今日脉搏双阈值: 近 3 天放宽至 score≥70 + 历史保持≥80；动态上限从 50 升至 200 条",
+          "朋友圈海报重构: 摘要/why 全量显示替代字符截断、动态布局消除空白、ZUU 浅色/深色双版式",
+          "数据源补全: 2024-2026 全部月份有覆盖无空白；家办/理赔/分红/职业四主题全达标",
+          "保司全景覆盖: 15+ 家保司、5 层信源、再保险/ILS/ESG/航运新增列",
+          "国际对标维度建立: 瑞再/慕再 H1 业绩 + sigma 2026 全球展望入站"
+        ]
+      },
+      {
+        "date": "2026-08-06",
+        "title": {
+          "sc": "v2.3 — 信息源自动更新闭环 · 320 条里程碑",
+          "tc": "v2.3 — 信息源自動更新閉環 · 320 條里程碑"
+        },
+        "items": [
+          "信息源自动更新三重保险: cron 双时段（18:08+21:08）+ Hermes 原生 catch-up + launchd 开机补跑",
+          "主题纵深四维达标: 家办 20 / 理赔 13 / 分红 17 / 职业 19",
+          "全站数据口径对齐: live-items.json 确立为唯一事实源，rebuild 自动刷新 intelligence（totalItems/subtitle/sourceTiers/topThemes/dateRange）",
+          "监管深度卡扩至 4 张: 佣金改革三件套 / RBC 全程 / 分红透明度升级 / MCV 数据盲区",
+          "Git 凭证持久化解决 cron push 静默失败；launchd 补跑脚本解决整夜关机场景"
+        ]
+      },
+      {
+        "date": "2026-08-01",
+        "title": {
+          "sc": "v2.2 — 朋友圈海报 + 全站治理",
+          "tc": "v2.2 — 朋友圈海報 + 全站治理"
+        },
+        "items": [
+          "朋友圈海报系统: Canvas 动态绘制+双版式切换+一键下载 PNG",
+          "ZUU 浅色版式上线: 米白底+深蓝 #103365+金 #B6985A（ZUU VI 严格配色）",
+          "数据引用规则落地: 所有条目标注 sourceUrl+截至日期+calcNote",
+          "信息源增补计划启动: 「每天1%」原则 → A历史补全 / B主题纵深 / C保司补缺 三方向",
+          "全站移动端/OG Meta/邮件按钮/sitemap 完善"
+        ]
+      },
+      {
+        "date": "2026-07-28",
+        "title": {
+          "sc": "v2.1 — 主题雷达 + 数据下载 + Agent 接入",
+          "tc": "v2.1 — 主題雷達 + 數據下載 + Agent 接入"
+        },
+        "items": [
+          "主题雷达上线: 12 个主题维度可视化 + 六大板块地图",
+          "数据下载页: 全量 JSON / 精选 RSS / Agent 接入",
+          "搜索功能: 标题/摘要/标签全文检索",
+          "卡片交互: 详情抽屉 + 收藏 + 日分组收起/展开",
+          "今日脉搏首发: 热点+精选双模式，角色匹配动态排序"
+        ]
+      },
+      {
+        "date": "2026-07-27",
+        "title": {
+          "sc": "v2.0 — 初始部署 · 首批上线",
+          "tc": "v2.0 — 初始部署 · 首批上線"
+        },
+        "items": [
+          "猫圈儿港险情报站 GitHub Pages 部署（hkmaoquanqingbao.com）",
+          "首批 175 条港险资讯入库（覆盖 IA/HKMA/保司/媒体/专业源）",
+          "四角色切片: 前线IFA / 中后台合规 / 团队管理 / 跨境架构",
+          "简繁切换 + 深色/浅色双模式",
+          "情报看板 6 区块: 市场脉搏/家办/渠道/监管时钟/保司排名/公司DNA",
+          "CNAME + Cloudflare Pages 双栈"
+        ]
+      }
+    ]
   },
   "hot": [
     "ia-public-disclosure-2026",
@@ -39232,14 +39308,13 @@ function fmtDay(iso){
 
     else if(state.view==="agent"){ window.location.href="agent.html"; return; }
     else if(state.view==="changelog"){
-      const logs = DATA.meta.changelog || [
-        {date:"2026-07-28", items:["每日采集 +6条(经纪/欺诈/高净值) → 累计 175","UI升级 P0-P2","RSS/API 骨架上线","Agent 接入页面","主题雷达改版","下载页分页+统计条","热搜下拉","卡片时间统一","日分组收起"]},
-        {date:"2026-07-27", items:["初始部署上线","首批 175 条资讯","四角色切片","简繁切换","深色模式"]}
-      ];
-      html+=`<div class="panel"><h3>${meta.t}</h3><p>${meta.s}</p></div>`;
+      const logs = DATA.meta.changelog || [];
+      html+=`<div class="panel changelog-hero"><h3>${meta.t}</h3><p>${meta.s}</p></div>`;
       logs.forEach(log=>{
-        html+=`<div class="day-head"><h3>${log.date}</h3><span>${log.items.length} 项</span></div>`;
-        html+=`<div class="panel" style="margin-bottom:12px"><ul style="margin:0;padding-left:18px">${log.items.map(i=>`<li style="margin:4px 0;font-size:13px;color:var(--text-muted)">${i}</li>`).join("")}</ul></div>`;
+        const title = log.title ? tx(log.title) : "";
+        html+=`<div class="day-head" style="border-bottom:1px solid var(--border-soft);padding-bottom:4px"><h3>${log.date}</h3><span>${log.items.length} 项</span></div>`;
+        if(title) html+=`<p style="font-size:13px;color:var(--accent);margin:0 0 6px;font-weight:600">${title}</p>`;
+        html+=`<div class="panel" style="margin-bottom:16px"><ul style="margin:0;padding-left:18px">${log.items.map(i=>`<li style="margin:4px 0;font-size:13px;color:var(--text-muted)">${i}</li>`).join("")}</ul></div>`;
       });
     }
     else if(state.view==="about"){
