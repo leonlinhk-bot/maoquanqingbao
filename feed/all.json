@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-11T11:44:30Z",
-  "itemCount": 427,
+  "generatedAt": "2026-08-11T11:45:09Z",
+  "itemCount": 431,
   "items": [
     {
       "id": "ib-swissre-natcat-h1-2026",
@@ -1729,6 +1729,20 @@
       "originalUrl": "https://fintechly.com/capital/insurtech-funding-is-back-the-money-is-buying-infrastructure-not-disruption/"
     },
     {
+      "id": "taiping-yueche-nanxia-2026",
+      "title": "太平财险「粤车南下」首单承保：2026 前 5 月跨境车 2.2 万辆 +16.7%",
+      "sourceTier": "insurer",
+      "themes": [
+        "cross-border",
+        "product",
+        "firm"
+      ],
+      "publishedAt": "2026-07-13T10:00:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=taiping-yueche-nanxia-2026",
+      "originalUrl": "https://app.xinhuanet.com/news/article.html?articleId=202607130368f154634242c89b9b5915ed95cefe"
+    },
+    {
       "id": "ia-20260712-speech",
       "title": "保监局刘中健演辞：以前瞻性监管及执法维护市场健康发展。",
       "sourceTier": "official",
@@ -2142,6 +2156,20 @@
       "score": 71,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260629-hkma-bulletin",
       "originalUrl": "https://www.info.gov.hk/gia/general/202606/29/P2026062900459.htm"
+    },
+    {
+      "id": "pru-premierflex-2026",
+      "title": "保诚推高端医疗自由行：7,000 万终身保额 + 内地 14,000 间医院网络",
+      "sourceTier": "insurer",
+      "themes": [
+        "product",
+        "health",
+        "cross-border"
+      ],
+      "publishedAt": "2026-06-29T10:00:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=pru-premierflex-2026",
+      "originalUrl": "https://www.prudential.com.hk/tc/products/health/medical/premierflex-medical-plan/"
     },
     {
       "id": "ia-20260628-fsdc-talent",
@@ -2776,6 +2804,34 @@
       "score": 86,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=bcg-hk-1-cross-border-wealth-20260527",
       "originalUrl": "https://www.bcg.com/press/27may2026-hong-kong-surpasses-switzerland-largest-cross-border-wealth-hub"
+    },
+    {
+      "id": "ia-public-disclosure-rules-202605",
+      "title": "《保险业（公众披露）规则》5/22 生效：RBC 第三支柱落地",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "capital",
+        "macro"
+      ],
+      "publishedAt": "2026-05-22T10:00:00+08:00",
+      "score": 82,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-public-disclosure-rules-202605",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202605/22/P2026052200321.htm"
+    },
+    {
+      "id": "ia-rbc-amend-20261231",
+      "title": "RBC 优化修订 12/31 生效：基建投资优惠 + 加密资产压力因子",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "capital",
+        "macro"
+      ],
+      "publishedAt": "2026-05-22T10:00:00+08:00",
+      "score": 80,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-rbc-amend-20261231",
+      "originalUrl": "https://www.ia.org.hk/sc/legislative_framework/overview/latest_legislative_developments.html"
     },
     {
       "id": "ia-20260520-gl34-corp",

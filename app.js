@@ -2,10 +2,10 @@ window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-11T18:08:00+08:00",
-    "itemCount": 427,
+    "itemCount": 431,
     "windowNote": {
-      "sc": "本库427条。",
-      "tc": "本庫427條。"
+      "sc": "本库431条。",
+      "tc": "本庫431條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -9417,6 +9417,73 @@ window.HKII_DATA = {
       "evergreen": false
     },
     {
+      "id": "taiping-yueche-nanxia-2026",
+      "clusterCount": 1,
+      "score": 71,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "cntaiping",
+      "title": {
+        "sc": "太平财险「粤车南下」首单承保：2026 前 5 月跨境车 2.2 万辆 +16.7%",
+        "tc": "太平財險「粵車南下」首單承保：2026 前 5 月跨境車 2.2 萬輛 +16.7%"
+      },
+      "summary": {
+        "sc": "太平财险 2025 年实现「粤车南下」首单承保、首车入港；2025 全年粤港澳跨境车承保 4.1 万辆（+5.6%），2026 年 1-5 月 2.2 万辆（+16.7%）。跨境车理赔实现「港车内地出险、就地维修、香港索赔」，回访好评率 100%。",
+        "tc": "太平財險 2025 年實現「粵車南下」首單承保、首車入港；2025 全年粵港澳跨境車承保 4.1 萬輛（+5.6%），2026 年 1-5 月 2.2 萬輛（+16.7%）。"
+      },
+      "why": {
+        "sc": "跨境车险数据=「等效先认」落地成效的量化。对 IFA：4.1 万辆跨境车+就地维修香港索赔——港车北上/粤车南下从政策变成生意，中资保司（太平）抢占了跨境车险先机，这是给跨境客户讲车险方案的案例。",
+        "tc": "跨境車險數據=「等效先認」落地成效的量化。對 IFA：港車北上/粵車南下從政策變成生意，中資保司搶佔了跨境車險先機。"
+      },
+      "actions": {
+        "front": {
+          "sc": "跨境车2.2万辆=等效先认的量化",
+          "tc": "跨境車2.2萬輛=等效先認的量化"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {
+          "sc": "就地维修=跨境理赔的服务升级",
+          "tc": "就地維修=跨境理賠的服務升級"
+        }
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 2,
+        "cross": 4
+      },
+      "source": {
+        "sc": "新华网/太平财险 · 2026年7月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "cross-border",
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "太平",
+          "粤车南下",
+          "跨境车",
+          "等效先认"
+        ],
+        "tc": [
+          "太平",
+          "粵車南下",
+          "跨境車",
+          "等效先認"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-07-13T10:00:00+08:00",
+      "originalUrl": "https://app.xinhuanet.com/news/article.html?articleId=202607130368f154634242c89b9b5915ed95cefe"
+    },
+    {
       "id": "ia-20260712-speech",
       "clusterCount": 1,
       "score": 95,
@@ -11661,6 +11728,73 @@ window.HKII_DATA = {
         "market"
       ],
       "contentKind": "press"
+    },
+    {
+      "id": "pru-premierflex-2026",
+      "clusterCount": 1,
+      "score": 71,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "prudential",
+      "title": {
+        "sc": "保诚推高端医疗自由行：7,000 万终身保额 + 内地 14,000 间医院网络",
+        "tc": "保誠推高端醫療自由行：7,000 萬終身保額 + 內地 14,000 間醫院網絡"
+      },
+      "summary": {
+        "sc": "保诚推出高端医疗自由行计划：4 个计划选项覆盖大中华至全球，终身医疗保障高达 7,000 万港元；接通内地逾 14,000 间二级以上医院（含特需部/国际部），可选「门诊宝」附加保障（含内地 24/7 线上问诊和药物配送），配备医疗绿通、费用直付、第二医疗意见等增值服务。",
+        "tc": "保誠推出高端醫療自由行計劃：4 個計劃選項覆蓋大中華至全球，終身醫療保障高達 7,000 萬港元；接通內地逾 14,000 間二級以上醫院。"
+      },
+      "why": {
+        "sc": "「内地 14,000 间医院+线上问诊」=高端医疗险的跨境服务纵深。对 IFA：高净值客户最关心「内地看病怎么办」，保诚用医院网络+门诊宝+直付回答——高端医疗的竞争从保额转向服务网络，这是讲方案的硬核参数。",
+        "tc": "「內地 14,000 間醫院+線上問診」=高端醫療險的跨境服務縱深。對 IFA：高端醫療的競爭從保額轉向服務網絡，這是講方案的硬核參數。"
+      },
+      "actions": {
+        "front": {
+          "sc": "14000间医院=高端医疗的纵深",
+          "tc": "14000間醫院=高端醫療的縱深"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {
+          "sc": "跨境医疗网络=内地客的定心丸",
+          "tc": "跨境醫療網絡=內地客的定心丸"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 2,
+        "cross": 4
+      },
+      "source": {
+        "sc": "保诚香港 · 2026年6月",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "product",
+        "health",
+        "cross-border"
+      ],
+      "tags": {
+        "sc": [
+          "保诚",
+          "高端医疗",
+          "7000万",
+          "14000医院"
+        ],
+        "tc": [
+          "保誠",
+          "高端醫療",
+          "7000萬",
+          "14000醫院"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-06-29T10:00:00+08:00",
+      "originalUrl": "https://www.prudential.com.hk/tc/products/health/medical/premierflex-medical-plan/"
     },
     {
       "id": "ia-20260628-fsdc-talent",
@@ -15324,6 +15458,140 @@ window.HKII_DATA = {
       "contentKind": "press",
       "publishedAt": "2026-05-27T10:00:00+08:00",
       "originalUrl": "https://www.bcg.com/press/27may2026-hong-kong-surpasses-switzerland-largest-cross-border-wealth-hub"
+    },
+    {
+      "id": "ia-public-disclosure-rules-202605",
+      "clusterCount": 1,
+      "score": 82,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "《保险业（公众披露）规则》5/22 生效：RBC 第三支柱落地",
+        "tc": "《保險業（公眾披露）規則》5/22 生效：RBC 第三支柱落地"
+      },
+      "summary": {
+        "sc": "2026 年 5 月 22 日，《保险业（公众披露）规则》刊宪生效：保险公司须向公众披露经审计财务报表及披露报表（含公司管治、财务状况、投资、保险负债、资本充足水平等），适用于 2025 年 1 月 1 日起财政年度。这是 RBC 第三支柱（市场纪律）的落地，与第一支柱（资本）第二支柱（监管）构成完整体系。",
+        "tc": "2026 年 5 月 22 日，《保險業（公眾披露）規則》刊憲生效：保險公司須向公眾披露經審計財務報表及披露報表，這是 RBC 第三支柱（市場紀律）的落地。"
+      },
+      "why": {
+        "sc": "公众披露规则=「保司家底首次公开」。对 IFA：以后查保司财务稳健度有官方统一格式（披露报表），不用再依赖评级机构二手信息——这是客户尽调的「监管级工具」，也是讲「港险透明度」的制度性证据。",
+        "tc": "公眾披露規則=「保司家底首次公開」。對 IFA：以後查保司財務穩健度有官方統一格式（披露報表），這是客戶盡調的「監管級工具」。"
+      },
+      "actions": {
+        "front": {
+          "sc": "披露规则=保司家底公开化",
+          "tc": "披露規則=保司家底公開化"
+        },
+        "midback": {
+          "sc": "RBC三支柱=监管体系完整",
+          "tc": "RBC三支柱=監管體系完整"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 4,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "保监局 · 2026年5月",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "reg",
+        "capital",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "公众披露",
+          "RBC第三支柱",
+          "披露报表",
+          "2026"
+        ],
+        "tc": [
+          "公眾披露",
+          "RBC第三支柱",
+          "披露報表",
+          "2026"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-05-22T10:00:00+08:00",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202605/22/P2026052200321.htm"
+    },
+    {
+      "id": "ia-rbc-amend-20261231",
+      "clusterCount": 1,
+      "score": 80,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "RBC 优化修订 12/31 生效：基建投资优惠 + 加密资产压力因子",
+        "tc": "RBC 優化修訂 12/31 生效：基建投資優惠 + 加密資產壓力因子"
+      },
+      "summary": {
+        "sc": "《2026 年保险业（估值及资本）（修订）规则》2026 年 12 月 31 日生效：合资格基建投资（内地/香港）享优惠资本待遇；一般再保险离岸风险豁除；更新巨灾风险资本额；指数型万用寿险可采用对配调整；稳定币用穿透法、加密资产设专属压力因子。",
+        "tc": "《2026 年保險業（估值及資本）（修訂）規則》2026 年 12 月 31 日生效：合資格基建投資享優惠資本待遇；指數型萬用壽險可採用對配調整；穩定幣用穿透法、加密資產設專屬壓力因子。"
+      },
+      "why": {
+        "sc": "RBC 修订=监管鼓励基建+拥抱新兴资产的双信号。对 IFA：12/31 生效后保司资本效率提升（基建优惠），长期影响投资回报；稳定币/加密资产被正式纳入监管框架，是「合规化」而非「禁止」——读懂这个就能预判保司投资动向。",
+        "tc": "RBC 修訂=監管鼓勵基建+擁抱新興資產的雙信號。對 IFA：12/31 生效後保司資本效率提升，長期影響投資回報。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "RBC修订=资本效率与资产新规",
+          "tc": "RBC修訂=資本效率與資產新規"
+        },
+        "lead": {
+          "sc": "基建优惠=保司投资新方向",
+          "tc": "基建優惠=保司投資新方向"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 4,
+        "lead": 3,
+        "cross": 3
+      },
+      "source": {
+        "sc": "保监局 · 2026年5月",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "reg",
+        "capital",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "RBC",
+          "修订",
+          "基建",
+          "加密资产"
+        ],
+        "tc": [
+          "RBC",
+          "修訂",
+          "基建",
+          "加密資產"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-05-22T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/sc/legislative_framework/overview/latest_legislative_developments.html"
     },
     {
       "id": "ia-20260520-gl34-corp",
@@ -36096,19 +36364,19 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 427 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 427 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 431 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 431 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 427,
+      "totalItems": 431,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 166,
+          "count": 168,
           "label": "监管一手"
         },
         {
           "tier": "insurer",
-          "count": 108,
+          "count": 110,
           "label": "保司公告"
         },
         {
@@ -36197,23 +36465,23 @@ window.HKII_DATA = {
         },
         {
           "theme": "reg",
-          "count": 85,
+          "count": 87,
           "label": "监管"
         },
         {
           "theme": "firm",
-          "count": 79,
+          "count": 80,
           "label": "保司"
+        },
+        {
+          "theme": "product",
+          "count": 63,
+          "label": "产品"
         },
         {
           "theme": "offshore",
           "count": 63,
           "label": "跨境"
-        },
-        {
-          "theme": "product",
-          "count": 61,
-          "label": "产品"
         },
         {
           "theme": "compliance",
@@ -36222,7 +36490,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "macro",
-          "count": 40,
+          "count": 42,
           "label": "宏观"
         },
         {
