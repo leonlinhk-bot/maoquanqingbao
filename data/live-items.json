@@ -2,10 +2,10 @@
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-11T18:08:00+08:00",
-    "itemCount": 435,
+    "itemCount": 439,
     "windowNote": {
-      "sc": "本库435条。",
-      "tc": "本庫435條。"
+      "sc": "本库439条。",
+      "tc": "本庫439條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -168,6 +168,73 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "premium-financing-hibor-risk-202608",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "HIBOR 飙升致保费融资风险上升：一个月 HIBOR 两周内从 0.9% 升至 3%",
+        "tc": "HIBOR 飆升致保費融資風險上升：一個月 HIBOR 兩週內從 0.9% 升至 3%"
+      },
+      "summary": {
+        "sc": "2026 年 8 月底，一个月 HIBOR 从 0.91% 飙升至 3.30%（两周内），保费融资贷款利息（HIBOR+1% 左右）随之翻倍。此前低息环境下大量投保人通过贷款买保单（保费融资），利率上行后收益被侵蚀甚至亏损。行业提醒：保费融资的杠杆收益对利率高度敏感。",
+        "tc": "2026 年 8 月底，一個月 HIBOR 從 0.91% 飆升至 3.30%（兩週內），保費融資貸款利息隨之翻倍。此前低息環境下大量投保人通過貸款買保單，利率上行後收益被侵蝕甚至虧損。"
+      },
+      "why": {
+        "sc": "HIBOR 飙升=保费融资风险的实时课堂。对 IFA：给客户讲保费融资必须说清利率风险——「20% 年回报」多是单利口径+杠杆幻觉，HIBOR 波动会直接侵蚀收益。这是合规销售与专业判断的必修课。",
+        "tc": "HIBOR 飆升=保費融資風險的實時課堂。對 IFA：給客戶講保費融資必須說清利率風險——HIBOR 波動會直接侵蝕收益，這是合規銷售與專業判斷的必修課。"
+      },
+      "actions": {
+        "front": {
+          "sc": "HIBOR飙升=融资风险的活教材",
+          "tc": "HIBOR飆升=融資風險的活教材"
+        },
+        "midback": {
+          "sc": "保费融资=需充分披露风险",
+          "tc": "保費融資=需充分披露風險"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 3,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "佛山Plus/经济观察报 · 2026年8月",
+        "lang": "zh"
+      },
+      "boards": [
+        "compliance"
+      ],
+      "themes": [
+        "compliance",
+        "macro",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "保费融资",
+          "HIBOR",
+          "利率风险",
+          "杠杆"
+        ],
+        "tc": [
+          "保費融資",
+          "HIBOR",
+          "利率風險",
+          "槓桿"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-28T10:00:00+08:00",
+      "originalUrl": "https://content.foshanplus.com/simpleNewsDetails.html?newsId=300278307"
+    },
     {
       "id": "ib-swissre-natcat-h1-2026",
       "clusterCount": 1,
@@ -8512,6 +8579,73 @@
       "originalUrl": "https://www.generali.com.hk/ZH_CN/go-green"
     },
     {
+      "id": "clio-shengyi-annuity-202607",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "china-life",
+      "title": {
+        "sc": "国寿海外推「一生守护·臻颐」延期年金：瞄准港人北上养老",
+        "tc": "國壽海外推「一生守護·臻頤」延期年金：瞄準港人北上養老"
+      },
+      "summary": {
+        "sc": "2026 年 7 月，国寿（海外）发布「一生守护」产品品牌及首款产品「一生守护·臻颐」延期年金：配合一系列北上增值服务，瞄准港人北上大湾区养老趋势；配套「养老、健康、生活及财富管理」一站式方案，与内地优质资源（1.5 万间医院网络）无缝接轨。",
+        "tc": "2026 年 7 月，國壽（海外）發佈「一生守護」產品品牌及首款產品「一生守護·臻頤」延期年金：配合北上增值服務，瞄準港人北上大灣區養老趨勢；配套一站式方案，與內地 1.5 萬間醫院網絡無縫接軌。"
+      },
+      "why": {
+        "sc": "「北上养老年金」=银发经济的产品化落地。对 IFA：国寿海外把年金与北上养老场景绑定（养老社区+内地医疗网络），是中资保司「跨境养老」战略的样板——给退休客户讲年金时，这是新的差异化卖点。",
+        "tc": "「北上養老年金」=銀髮經濟的產品化落地。對 IFA：國壽海外把年金與北上養老場景綁定，是中資保司「跨境養老」戰略的樣板。"
+      },
+      "actions": {
+        "front": {
+          "sc": "北上养老=年金的新场景",
+          "tc": "北上養老=年金的新場景"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "养老生态=银发经济产品化",
+          "tc": "養老生態=銀髮經濟產品化"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 3,
+        "cross": 3
+      },
+      "source": {
+        "sc": "国寿（海外） · 2026年7月",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "product",
+        "retirement",
+        "cross-border"
+      ],
+      "tags": {
+        "sc": [
+          "国寿海外",
+          "一生守护",
+          "延期年金",
+          "北上养老"
+        ],
+        "tc": [
+          "國壽海外",
+          "一生守護",
+          "延期年金",
+          "北上養老"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-07-20T10:00:00+08:00",
+      "originalUrl": "https://www.chinalife.com.hk/zh-cn/about-us/news-center"
+    },
+    {
       "id": "safe-qdii-20260717",
       "clusterCount": 1,
       "score": 78,
@@ -9266,6 +9400,70 @@
         "reg"
       ],
       "contentKind": "stats"
+    },
+    {
+      "id": "clio-fr-100-2026",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "china-life",
+      "title": {
+        "sc": "国寿海外分红实现率：储蓄全线终期红利 100%，危疾周年红利最高 113%",
+        "tc": "國壽海外分紅實現率：儲蓄全線終期紅利 100%，危疾週年紅利最高 113%"
+      },
+      "summary": {
+        "sc": "国寿（海外）2026 年披露：全线储蓄产品终期红利实现率 100%，「裕饶系列」「丰饶系列」连续多年满分；周年红利最高 113%（健康卫士终身危疾 2021 投保），「卫你明天」危疾连续 8 年超预期达成（100%-112%）。",
+        "tc": "國壽（海外）2026 年披露：全線儲蓄產品終期紅利實現率 100%，「裕饒系列」「豐饒系列」連續多年滿分；週年紅利最高 113%，「衛你明天」危疾連續 8 年超預期達成（100%-112%）。"
+      },
+      "why": {
+        "sc": "国寿海外「全线 100%」=中资保司稳健性的量化背书。对 IFA：国寿海外终期红利全线满分+危疾周年红利 8 年超预期——面向偏好中资保司的客户，这是最强的实现率证明，也是「中资=稳健」叙事的硬数据。",
+        "tc": "國壽海外「全線 100%」=中資保司穩健性的量化背書。對 IFA：面向偏好中資保司的客戶，這是「中資=穩健」敘事的硬數據。"
+      },
+      "actions": {
+        "front": {
+          "sc": "全线100%=中资稳健的硬数据",
+          "tc": "全線100%=中資穩健的硬數據"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "国寿（海外） · 2026年7月",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "par",
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "国寿海外",
+          "实现率",
+          "100%",
+          "113%"
+        ],
+        "tc": [
+          "國壽海外",
+          "實現率",
+          "100%",
+          "113%"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-07-14T10:00:00+08:00",
+      "originalUrl": "https://c.m.163.com/news/a/L1PU69NC0519A0N8.html"
     },
     {
       "id": "agentic-ai-insurance-jul14",
@@ -23343,6 +23541,70 @@
       ]
     },
     {
+      "id": "yflife-furao-wanjia-2025",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "yflife",
+      "title": {
+        "sc": "万通推「富饶万家」接棒停售的富饶千秋：6.5% 上限+13 年保证回本",
+        "tc": "萬通推「富饒萬家」接棒停售的富饒千秋：6.5% 上限+13 年保證回本"
+      },
+      "summary": {
+        "sc": "万通「富饶千秋」2026 年 1 月 1 日停售，替代新品「富饶万家」2025 年 11 月登场：2 年缴方案预期第 6 年回本、第 30 年预期回报达演示上限 6.5%；5 年缴预期第 7 年回本；两种方案均 13 年保证回本，实现快回本、高收益、超灵活、强传承。",
+        "tc": "萬通「富饒千秋」2026 年 1 月 1 日停售，替代新品「富饒萬家」2025 年 11 月登場：2 年繳方案預期第 6 年回本、第 30 年預期回報達演示上限 6.5%；兩種方案均 13 年保證回本。"
+      },
+      "why": {
+        "sc": "富饶千秋停售+富饶万家接棒=储蓄险迭代的完整样本。对 IFA：演示上限 6.5% 时代，产品竞争转向「回本速度+提领灵活+传承功能」——万通新品的 6 年回本+13 年保证回本是新基准，比价时这些参数比演示收益更重要。",
+        "tc": "富饒千秋停售+富饒萬家接棒=儲蓄險迭代的完整樣本。對 IFA：演示上限 6.5% 時代，產品競爭轉向「回本速度+提領靈活+傳承功能」。"
+      },
+      "actions": {
+        "front": {
+          "sc": "6年回本=储蓄险新基准",
+          "tc": "6年回本=儲蓄險新基準"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "万通保险 · 2025年11月",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "product",
+        "par",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "万通",
+          "富饶万家",
+          "停售",
+          "6.5%"
+        ],
+        "tc": [
+          "萬通",
+          "富饒萬家",
+          "停售",
+          "6.5%"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2025-11-10T10:00:00+08:00",
+      "originalUrl": "https://www.hkhaobaoxian.com/products/tzlc/648.html"
+    },
+    {
       "id": "manulife-q3-2025-hk",
       "clusterCount": 1,
       "score": 74,
@@ -36632,10 +36894,10 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 435 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 435 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 439 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 439 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 435,
+      "totalItems": 439,
       "sourceTiers": [
         {
           "tier": "official",
@@ -36644,12 +36906,12 @@
         },
         {
           "tier": "insurer",
-          "count": 110,
+          "count": 113,
           "label": "保司公告"
         },
         {
           "tier": "media",
-          "count": 90,
+          "count": 91,
           "label": "媒体报道"
         },
         {
@@ -36738,12 +37000,12 @@
         },
         {
           "theme": "firm",
-          "count": 80,
+          "count": 82,
           "label": "保司"
         },
         {
           "theme": "product",
-          "count": 63,
+          "count": 67,
           "label": "产品"
         },
         {
@@ -36753,12 +37015,12 @@
         },
         {
           "theme": "compliance",
-          "count": 58,
+          "count": 59,
           "label": "合规"
         },
         {
           "theme": "macro",
-          "count": 42,
+          "count": 43,
           "label": "宏观"
         },
         {
@@ -36778,8 +37040,8 @@
         }
       ],
       "dateRange": {
-        "sc": "2024-01-15 ~ 2026-08-11",
-        "tc": "2024-01-15 ~ 2026-08-11"
+        "sc": "2024-01-15 ~ 2026-08-28",
+        "tc": "2024-01-15 ~ 2026-08-28"
       }
     },
     "marketData": {

@@ -1,9 +1,23 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-11T11:45:43Z",
-  "itemCount": 435,
+  "generatedAt": "2026-08-11T11:46:20Z",
+  "itemCount": 439,
   "items": [
+    {
+      "id": "premium-financing-hibor-risk-202608",
+      "title": "HIBOR 飙升致保费融资风险上升：一个月 HIBOR 两周内从 0.9% 升至 3%",
+      "sourceTier": "media",
+      "themes": [
+        "compliance",
+        "macro",
+        "product"
+      ],
+      "publishedAt": "2026-08-28T10:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=premium-financing-hibor-risk-202608",
+      "originalUrl": "https://content.foshanplus.com/simpleNewsDetails.html?newsId=300278307"
+    },
     {
       "id": "ib-swissre-natcat-h1-2026",
       "title": "瑞士再保险研究院：H1全球巨灾保险损失420亿美元 六年低位难掩风险上行",
@@ -1570,6 +1584,20 @@
       "originalUrl": "https://www.generali.com.hk/ZH_CN/go-green"
     },
     {
+      "id": "clio-shengyi-annuity-202607",
+      "title": "国寿海外推「一生守护·臻颐」延期年金：瞄准港人北上养老",
+      "sourceTier": "insurer",
+      "themes": [
+        "product",
+        "retirement",
+        "cross-border"
+      ],
+      "publishedAt": "2026-07-20T10:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=clio-shengyi-annuity-202607",
+      "originalUrl": "https://www.chinalife.com.hk/zh-cn/about-us/news-center"
+    },
+    {
       "id": "safe-qdii-20260717",
       "title": "外管局：新一轮 QDII 额度即将发放，跨境投融资便利化加码",
       "sourceTier": "official",
@@ -1699,6 +1727,20 @@
       "score": 90,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-licence-20260630",
       "originalUrl": "https://www.ia.org.hk/en/infocenter/statistics/statistics.html"
+    },
+    {
+      "id": "clio-fr-100-2026",
+      "title": "国寿海外分红实现率：储蓄全线终期红利 100%，危疾周年红利最高 113%",
+      "sourceTier": "insurer",
+      "themes": [
+        "par",
+        "product",
+        "firm"
+      ],
+      "publishedAt": "2026-07-14T10:00:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=clio-fr-100-2026",
+      "originalUrl": "https://c.m.163.com/news/a/L1PU69NC0519A0N8.html"
     },
     {
       "id": "agentic-ai-insurance-jul14",
@@ -4204,6 +4246,20 @@
       "score": 83,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sfc-2025-wmc-insurance",
       "originalUrl": "https://www.sfc.hk/en/Regulatory-functions/Intermediaries/Supervision/Cross-boundary-WMC"
+    },
+    {
+      "id": "yflife-furao-wanjia-2025",
+      "title": "万通推「富饶万家」接棒停售的富饶千秋：6.5% 上限+13 年保证回本",
+      "sourceTier": "insurer",
+      "themes": [
+        "product",
+        "par",
+        "firm"
+      ],
+      "publishedAt": "2025-11-10T10:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=yflife-furao-wanjia-2025",
+      "originalUrl": "https://www.hkhaobaoxian.com/products/tzlc/648.html"
     },
     {
       "id": "manulife-q3-2025-hk",
