@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-11T11:47:31Z",
-  "itemCount": 447,
+  "generatedAt": "2026-08-11T11:48:00Z",
+  "itemCount": 450,
   "items": [
     {
       "id": "premium-financing-hibor-risk-202608",
@@ -2453,6 +2453,20 @@
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/insurance-authority-adds-three-insurers-to-ai-cohort-programme-579133.aspx"
     },
     {
+      "id": "icac-3regulators-raid-202606",
+      "title": "廉署×会财局×证监会首次三方联合行动：搜查 16 处所拘捕 3 人",
+      "sourceTier": "media",
+      "themes": [
+        "compliance",
+        "reg",
+        "career"
+      ],
+      "publishedAt": "2026-06-18T10:00:00+08:00",
+      "score": 73,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=icac-3regulators-raid-202606",
+      "originalUrl": "https://finance.sina.com.cn/money/fund/jjzl/2026-06-22/doc-iniekqut6461550.shtml"
+    },
+    {
       "id": "ia-20260618-blackrock-outlook",
       "title": "贝莱德2026年中全球投资展望：呼吁投资组合重思，关注保险板块的稳定器角色。",
       "sourceTier": "research",
@@ -2958,6 +2972,20 @@
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-rbc-amend-20261231",
       "originalUrl": "https://www.ia.org.hk/sc/legislative_framework/overview/latest_legislative_developments.html"
+    },
+    {
+      "id": "ia-public-disclosure-transition-2026",
+      "title": "公众披露过渡安排：保险公司须 8/31 前披露 2024 财年量化资料",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "capital",
+        "compliance"
+      ],
+      "publishedAt": "2026-05-22T10:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-public-disclosure-transition-2026",
+      "originalUrl": "https://www.ia.org.hk/sc/consumer/public_disclosure_of_the_insurers.html"
     },
     {
       "id": "ia-20260520-gl34-corp",
@@ -3822,6 +3850,20 @@
       "score": 82,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=cies-fhvt-20260301",
       "originalUrl": "https://www.newcies.gov.hk/zh-cn/new-measures/"
+    },
+    {
+      "id": "ils-grant-scheme-2028-2026",
+      "title": "保险相连证券资助计划延长至 2028：巨灾债券最高补贴 700 万港元",
+      "sourceTier": "official",
+      "themes": [
+        "ils",
+        "reg",
+        "offshore"
+      ],
+      "publishedAt": "2026-02-26T10:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ils-grant-scheme-2028-2026",
+      "originalUrl": "https://www.ia.org.hk/en/reinsurance_specialty/ILS_HK.html"
     },
     {
       "id": "ia-budget-20260225",

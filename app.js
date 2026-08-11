@@ -2,10 +2,10 @@ window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-11T18:08:00+08:00",
-    "itemCount": 447,
+    "itemCount": 450,
     "windowNote": {
-      "sc": "本库447条。",
-      "tc": "本庫447條。"
+      "sc": "本库450条。",
+      "tc": "本庫450條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -13329,6 +13329,73 @@ window.HKII_DATA = {
       ]
     },
     {
+      "id": "icac-3regulators-raid-202606",
+      "clusterCount": 1,
+      "score": 73,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "廉署×会财局×证监会首次三方联合行动：搜查 16 处所拘捕 3 人",
+        "tc": "廉署×會財局×證監會首次三方聯合行動：搜查 16 處所拘捕 3 人"
+      },
+      "summary": {
+        "sc": "2026 年 6 月 18 日，廉政公署联同会计及财务汇报局、证监会首次采取三方联合行动：突击搜查 16 个处所，拘捕 3 人（含一名上市公司执行董事），涉嫌商业贿赂、使用虚假文件欺骗主事人及企业欺诈。向金融及保险中介发出强烈的跨部门执法信号。",
+        "tc": "2026 年 6 月 18 日，廉政公署聯同會計及財務匯報局、證監會首次採取三方聯合行動：突擊搜查 16 個處所，拘捕 3 人（含一名上市公司執行董事），涉嫌商業賄賂、使用虛假文件欺騙主事人及企業欺詐。"
+      },
+      "why": {
+        "sc": "三方联合行动=金融执法的「跨部门地震」。对 IFA：监管从单一机构行动升级为廉署+会财局+证监会联合作战——跨境资金、虚假文书、私下利益分摊无处遁形。合规不再只是保监局一家的事。",
+        "tc": "三方聯合行動=金融執法的「跨部門地震」。對 IFA：監管從單一機構行動升級為廉署+會財局+證監會聯合作戰——合規不再只是保監局一家的事。"
+      },
+      "actions": {
+        "front": {
+          "sc": "三方联合=执法升级的信号",
+          "tc": "三方聯合=執法升級的信號"
+        },
+        "midback": {
+          "sc": "跨部门执法=合规红线再收紧",
+          "tc": "跨部門執法=合規紅線再收緊"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 4,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "新浪财经 · 2026年6月",
+        "lang": "zh"
+      },
+      "boards": [
+        "compliance"
+      ],
+      "themes": [
+        "compliance",
+        "reg",
+        "career"
+      ],
+      "tags": {
+        "sc": [
+          "廉署",
+          "三方联合",
+          "搜查",
+          "拘捕"
+        ],
+        "tc": [
+          "廉署",
+          "三方聯合",
+          "搜查",
+          "拘捕"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-06-18T10:00:00+08:00",
+      "originalUrl": "https://finance.sina.com.cn/money/fund/jjzl/2026-06-22/doc-iniekqut6461550.shtml"
+    },
+    {
       "id": "ia-20260618-blackrock-outlook",
       "clusterCount": 1,
       "score": 70,
@@ -16192,6 +16259,73 @@ window.HKII_DATA = {
       "contentKind": "press",
       "publishedAt": "2026-05-22T10:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/sc/legislative_framework/overview/latest_legislative_developments.html"
+    },
+    {
+      "id": "ia-public-disclosure-transition-2026",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "公众披露过渡安排：保险公司须 8/31 前披露 2024 财年量化资料",
+        "tc": "公眾披露過渡安排：保險公司須 8/31 前披露 2024 財年量化資料"
+      },
+      "summary": {
+        "sc": "保监局透过 2025 年 8 月 8 日通函要求：保险公司作为过渡安排，须披露首个实施风险为本资本制度的财政年度（2024 财年）披露报表的量化部分，包括财务状况、保险负债及资本充足水平；经审计财务报表须于 2026 年 8 月 31 日前发布。",
+        "tc": "保監局透過 2025 年 8 月 8 日通函要求：保險公司作為過渡安排，須披露首個實施風險為本資本制度的財政年度（2024 財年）披露報表的量化部分；經審計財務報表須於 2026 年 8 月 31 日前發佈。"
+      },
+      "why": {
+        "sc": "8/31 是保司首批公众披露的截止线。对 IFA：2026 年 9 月起，各保司的 RBC 披露报表将陆续公开——届时比较保司财务稳健度有统一官方格式，这是客户尽调能力的一次升级。",
+        "tc": "8/31 是保司首批公眾披露的截止線。對 IFA：2026 年 9 月起，各保司的 RBC 披露報表將陸續公開——比較保司財務穩健度有統一官方格式。"
+      },
+      "actions": {
+        "front": {
+          "sc": "8/31披露=保司家底公开倒计时",
+          "tc": "8/31披露=保司家底公開倒計時"
+        },
+        "midback": {
+          "sc": "披露报表=尽调的官方工具",
+          "tc": "披露報表=盡調的官方工具"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 4,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "保监局 · 2026年",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "reg",
+        "capital",
+        "compliance"
+      ],
+      "tags": {
+        "sc": [
+          "公众披露",
+          "8月31日",
+          "披露报表",
+          "过渡安排"
+        ],
+        "tc": [
+          "公眾披露",
+          "8月31日",
+          "披露報表",
+          "過渡安排"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-05-22T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/sc/consumer/public_disclosure_of_the_insurers.html"
     },
     {
       "id": "ia-20260520-gl34-corp",
@@ -21048,6 +21182,73 @@ window.HKII_DATA = {
       "contentKind": "press",
       "publishedAt": "2026-03-01T10:00:00+08:00",
       "originalUrl": "https://www.newcies.gov.hk/zh-cn/new-measures/"
+    },
+    {
+      "id": "ils-grant-scheme-2028-2026",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "保险相连证券资助计划延长至 2028：巨灾债券最高补贴 700 万港元",
+        "tc": "保險相連證券資助計劃延長至 2028：巨災債券最高補貼 700 萬港元"
+      },
+      "summary": {
+        "sc": "2025-26 年度财政预算案宣布：保险相连证券（ILS）先导资助计划延长三年至 2028 年。合资格发行（含在岸/离岸发行方、任何风险类型）可获最高 700 万港元（新发行）或 300 万港元（续发/重复发行）的 50%-100% 前期成本补贴；要求至少 40% 前期成本归属香港服务商。",
+        "tc": "2025-26 年度財政預算案宣佈：保險相連證券（ILS）先導資助計劃延長三年至 2028 年。合資格發行可獲最高 700 萬港元（新發行）或 300 萬港元（續發）的 50%-100% 前期成本補貼。"
+      },
+      "why": {
+        "sc": "ILS 资助延长=香港巨灾债券枢纽的持续加码。对 IFA：ILS 是港险「风险管理中心」定位的资本创新工具，资助延长到 2028 显示政策连续性——极端天气频发背景下，巨灾债券市场是香港差异化优势。",
+        "tc": "ILS 資助延長=香港巨災債券樞紐的持續加碼。對 IFA：ILS 是港險「風險管理中心」定位的資本創新工具，資助延長顯示政策連續性。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "ILS资助延长=政策连续性信号",
+          "tc": "ILS資助延長=政策連續性信號"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "巨灾债券=香港资本创新优势",
+          "tc": "巨災債券=香港資本創新優勢"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 3,
+        "lead": 2,
+        "cross": 4
+      },
+      "source": {
+        "sc": "保监局 · 2026年",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "ils",
+        "reg",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "ILS",
+          "巨灾债券",
+          "资助计划",
+          "2028"
+        ],
+        "tc": [
+          "ILS",
+          "巨災債券",
+          "資助計劃",
+          "2028"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-02-26T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/en/reinsurance_specialty/ILS_HK.html"
     },
     {
       "id": "ia-budget-20260225",
@@ -37427,14 +37628,14 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 447 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 447 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 450 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 450 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 447,
+      "totalItems": 450,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 177,
+          "count": 179,
           "label": "监管一手"
         },
         {
@@ -37444,7 +37645,7 @@ window.HKII_DATA = {
         },
         {
           "tier": "media",
-          "count": 92,
+          "count": 93,
           "label": "媒体报道"
         },
         {
@@ -37528,7 +37729,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "reg",
-          "count": 94,
+          "count": 97,
           "label": "监管"
         },
         {
@@ -37543,12 +37744,12 @@ window.HKII_DATA = {
         },
         {
           "theme": "offshore",
-          "count": 65,
+          "count": 66,
           "label": "跨境"
         },
         {
           "theme": "compliance",
-          "count": 60,
+          "count": 62,
           "label": "合规"
         },
         {
