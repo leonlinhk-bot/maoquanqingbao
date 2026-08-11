@@ -178,6 +178,15 @@ try:
     if agent_path.exists():
         agent_content = agent_path.read_text(encoding='utf-8')
         checks.append("agent.html: exists")
+    # 8. sync stats.json from live-items stats
+    stats_path = ROOT / 'data' / 'stats.json'
+    if stats_path.exists():
+        import json as _j2
+        st = _j2.loads(stats_path.read_text(encoding='utf-8'))
+        si = live.get('stats', {}).get('intelligence', {})
+        st['intelligence'] = si
+        stats_path.write_text(_j2.dumps(st, ensure_ascii=False, indent=2), encoding='utf-8')
+        checks.append("stats.json: synced")
     print("  closure: " + " | ".join(checks))
 except Exception as e:
     print(f"  closure check failed: {e}")

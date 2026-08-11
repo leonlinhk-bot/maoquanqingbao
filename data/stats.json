@@ -630,34 +630,34 @@
       "tc": "情報密度"
     },
     "subtitle": {
-      "sc": "自动从 281 条资讯聚合 · sourceKey 标准化完成",
-      "tc": "自動從 281 條資訊聚合 · sourceKey 標準化完成"
+      "sc": "自动从 450 条资讯聚合 · sourceKey 标准化完成",
+      "tc": "自動從 450 條資訊聚合 · sourceKey 標準化完成"
     },
-    "totalItems": 281,
+    "totalItems": 450,
     "sourceTiers": [
       {
         "tier": "official",
-        "count": 130,
+        "count": 179,
         "label": "监管一手"
       },
       {
         "tier": "insurer",
-        "count": 53,
+        "count": 115,
         "label": "保司公告"
       },
       {
         "tier": "media",
-        "count": 44,
+        "count": 93,
         "label": "媒体报道"
       },
       {
         "tier": "pro",
-        "count": 39,
+        "count": 45,
         "label": "专业解读"
       },
       {
         "tier": "research",
-        "count": 15,
+        "count": 18,
         "label": "机构研究"
       }
     ],
@@ -726,58 +726,58 @@
     "topThemes": [
       {
         "theme": "market",
-        "count": 123,
+        "count": 150,
         "label": "市场"
       },
       {
         "theme": "reg",
-        "count": 58,
+        "count": 97,
         "label": "监管"
       },
       {
-        "theme": "offshore",
-        "count": 44,
-        "label": "跨境"
-      },
-      {
         "theme": "firm",
-        "count": 43,
+        "count": 84,
         "label": "保司"
       },
       {
-        "theme": "compliance",
-        "count": 39,
-        "label": "合规"
-      },
-      {
         "theme": "product",
-        "count": 28,
+        "count": 70,
         "label": "产品"
       },
       {
+        "theme": "offshore",
+        "count": 66,
+        "label": "跨境"
+      },
+      {
+        "theme": "compliance",
+        "count": 62,
+        "label": "合规"
+      },
+      {
         "theme": "macro",
-        "count": 25,
+        "count": 46,
         "label": "宏观"
       },
       {
         "theme": "channel",
-        "count": 21,
+        "count": 36,
         "label": "渠道"
       },
       {
-        "theme": "tech",
-        "count": 16,
-        "label": "科技"
+        "theme": "reinsurance",
+        "count": 26,
+        "label": "reinsurance"
       },
       {
-        "theme": "career",
-        "count": 14,
-        "label": "职业"
+        "theme": "family-office",
+        "count": 25,
+        "label": "家办"
       }
     ],
     "dateRange": {
-      "sc": "2024-02-26 ~ 2026-08-05",
-      "tc": "2024-02-26 ~ 2026-08-05"
+      "sc": "2024-01-15 ~ 2026-08-28",
+      "tc": "2024-01-15 ~ 2026-08-28"
     }
   },
   "marketData": {
