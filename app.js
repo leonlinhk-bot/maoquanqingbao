@@ -2,10 +2,10 @@ window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-11T18:08:00+08:00",
-    "itemCount": 415,
+    "itemCount": 419,
     "windowNote": {
-      "sc": "本库415条。",
-      "tc": "本庫415條。"
+      "sc": "本库419条。",
+      "tc": "本庫419條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -5170,6 +5170,73 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-08-01T10:00:00+08:00",
       "originalUrl": "https://finance.yahoo.com/news/hsbc-lifes-us-20-million-093000274.html"
+    },
+    {
+      "id": "hkfi-ci-standardization-202609",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkfi",
+      "title": {
+        "sc": "危疾定义标准化：《最佳行业准则》2026/9/1 起适用新险种",
+        "tc": "危疾定義標準化：《最佳行業準則》2026/9/1 起適用新險種"
+      },
+      "summary": {
+        "sc": "香港保险业联会推出《危疾定义标准化最佳行业准则》：为 16 项危疾及 5 项早期危疾病况提供标准化中英文定义，涵盖约 90% 本地索偿个案。标准化定义适用于所有 2026 年 9 月 1 日或之后推出的新产品。",
+        "tc": "香港保險業聯會推出《危疾定義標準化最佳行業準則》：為 16 項危疾及 5 項早期危疾病況提供標準化中英文定義，涵蓋約 90% 本地索償個案。適用於所有 2026 年 9 月 1 日或之後推出的新產品。"
+      },
+      "why": {
+        "sc": "危疾定义标准化=「同样癌症不同公司赔法不同」的终结。对 IFA：2026/9/1 后新产品定义统一，跨公司比价更公平——这是给客户讲「危疾险对比要有标准」的监管背书，也是专业度的分水岭。",
+        "tc": "危疾定義標準化=「同樣癌症不同公司賠法不同」的終結。對 IFA：2026/9/1 後新產品定義統一，跨公司比價更公平。"
+      },
+      "actions": {
+        "front": {
+          "sc": "定义标准化=比价更公平的背书",
+          "tc": "定義標準化=比價更公平的背書"
+        },
+        "midback": {
+          "sc": "90%索偿覆盖=标准的实用性",
+          "tc": "90%索償覆蓋=標準的實用性"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 3,
+        "lead": 1,
+        "cross": 2
+      },
+      "source": {
+        "sc": "香港保险业联会 · 2026年",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "uw",
+        "product",
+        "reg"
+      ],
+      "tags": {
+        "sc": [
+          "危疾定义",
+          "标准化",
+          "行业准则",
+          "2026"
+        ],
+        "tc": [
+          "危疾定義",
+          "標準化",
+          "行業準則",
+          "2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-01T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/tc/critical_illness_insurance/claim_case_studies.html"
     },
     {
       "id": "jll-tsim-vacancy-aug01",
@@ -13290,6 +13357,73 @@ window.HKII_DATA = {
       ]
     },
     {
+      "id": "fo-tax-amendment-202606",
+      "clusterCount": 1,
+      "score": 78,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "govhk",
+      "title": {
+        "sc": "家办税务优惠修订草案：数字资产/贵金属/私募债权纳入合资格投资",
+        "tc": "家辦稅務優惠修訂草案：數字資產/貴金屬/私募債權納入合資格投資"
+      },
+      "summary": {
+        "sc": "2026 年 6 月 12 日港府刊宪《税务（修订）条例草案》（6/24 立法会首读）：基金定义扩容（单一投资者安排纳入）、新增八类合资格投资（数字资产、贵金属上限 20%、私募债权、保险相连证券等）、拟撤销附带交易 5% 门槛。与 CIES 3000 万投资及家办税制形成协同。",
+        "tc": "2026 年 6 月 12 日港府刊憲《稅務（修訂）條例草案》：基金定義擴容（單一投資者安排納入）、新增八類合資格投資（數字資產、貴金屬上限 20%、私募債權、保險相連證券等）、擬撤銷附帶交易 5% 門檻。"
+      },
+      "why": {
+        "sc": "数字资产纳入家办税惠=政策对新兴资产的拥抱。对 IFA：高净值客户问「家办能配什么」，草案给出新答案——数字资产/私募债/ILS 都可享受税惠，这是家办服务的配置边界在扩张的官方信号。",
+        "tc": "數字資產納入家辦稅惠=政策對新興資產的擁抱。對 IFA：數字資產/私募債/ILS 都可享受稅惠，這是家辦服務的配置邊界在擴張的官方信號。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "税惠扩容=家办配置的新边界",
+          "tc": "稅惠擴容=家辦配置的新邊界"
+        },
+        "cross": {
+          "sc": "数字资产入税惠=高净值客户新谈资",
+          "tc": "數字資產入稅惠=高淨值客戶新談資"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 4,
+        "cross": 4
+      },
+      "source": {
+        "sc": "港府宪报 · 2026年6月",
+        "lang": "zh"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "family-office",
+        "tax-incentive",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "家办",
+          "税务优惠",
+          "数字资产",
+          "修订草案"
+        ],
+        "tc": [
+          "家辦",
+          "稅務優惠",
+          "數字資產",
+          "修訂草案"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-06-12T10:00:00+08:00",
+      "originalUrl": "https://m.sohu.com/a/1043225733_122705432/"
+    },
+    {
       "id": "ia-20260610-manulife-leverage",
       "clusterCount": 1,
       "score": 78,
@@ -15331,6 +15465,70 @@ window.HKII_DATA = {
         "reg"
       ],
       "contentKind": "circular"
+    },
+    {
+      "id": "pru-2025-claims-report",
+      "clusterCount": 1,
+      "score": 76,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "prudential",
+      "title": {
+        "sc": "保诚 2025 理赔报告：70 亿赔付/96.6% 成功率，癌症占危疾 62%",
+        "tc": "保誠 2025 理賠報告：70 億賠付/96.6% 成功率，癌症佔危疾 62%"
+      },
+      "summary": {
+        "sc": "保诚 2025 个人寿险理赔报告：总赔付近 70 亿港元、140,307 宗个案、整体成功率 96.6%，最快审核后 10 分钟到账。危疾理赔 32.61 亿、个案 5,580 宗、成功率 86%，癌症占危疾理赔 62%；住院理赔成功率 96.5%，直付服务个案 +92%。",
+        "tc": "保誠 2025 個人壽險理賠報告：總賠付近 70 億港元、140,307 宗個案、整體成功率 96.6%。危疾理賠 32.61 億，癌症佔危疾理賠 62%；直付服務個案 +92%。"
+      },
+      "why": {
+        "sc": "保诚 70 亿理赔数据=「保险兑现能力」的量化证明。对 IFA：96.6% 成功率+10 分钟极速到账+直付 +92%——这三个数字是讲医疗险/危疾险服务体验的现成弹药，比任何话术都有说服力。",
+        "tc": "保誠 70 億理賠數據=「保險兌現能力」的量化證明。96.6% 成功率+10 分鐘極速到賬+直付 +92%——是講醫療險/危疾險服務體驗的現成彈藥。"
+      },
+      "actions": {
+        "front": {
+          "sc": "96.6%成功率=理赔兑现的量化证明",
+          "tc": "96.6%成功率=理賠兌現的量化證明"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "保诚香港 · 2026年5月",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "uw",
+        "claims",
+        "health"
+      ],
+      "tags": {
+        "sc": [
+          "保诚",
+          "理赔报告",
+          "70亿",
+          "癌症62%"
+        ],
+        "tc": [
+          "保誠",
+          "理賠報告",
+          "70億",
+          "癌症62%"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-05-10T10:00:00+08:00",
+      "originalUrl": "https://m.acc5.com/news-xinwen/detail_268866.html"
     },
     {
       "id": "ia-20260508-rbc-conclusion",
@@ -20092,6 +20290,73 @@ window.HKII_DATA = {
       "contentKind": "press",
       "publishedAt": "2026-02-10T10:00:00+08:00",
       "originalUrl": "https://www.fstb.gov.hk/en/blog/blog100226.htm"
+    },
+    {
+      "id": "fo-3380-economy-202602",
+      "clusterCount": 1,
+      "score": 77,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "govhk",
+      "title": {
+        "sc": "香港单一家办超 3,380 家：每年贡献经济 126 亿港元、就业超 1 万人",
+        "tc": "香港單一家辦超 3,380 家：每年貢獻經濟 126 億港元、就業超 1 萬人"
+      },
+      "summary": {
+        "sc": "2026 年 2 月 10 日，财库局与投资推广署公布德勤《香港家办市场研究》：截至 2025 年底单一家办超 3,380 家，两年净增约 680 家（+25%）；家办年度营运开支贡献约 126 亿港元经济价值、直接雇用逾 1 万名全职专业人士。并预告上半年提交立法建议扩展税惠范围（贵金属/贷款/私募债/数字资产）。",
+        "tc": "2026 年 2 月 10 日，財庫局與投資推廣署公佈德勤《香港家辦市場研究》：截至 2025 年底單一家辦超 3,380 家，兩年淨增約 680 家；家辦年度營運開支貢獻約 126 億港元經濟價值、直接僱用逾 1 萬名全職專業人士。"
+      },
+      "why": {
+        "sc": "家办 3,380 家+126 亿经济贡献=香港家办生态的官方量化。对 IFA：这是高净值客户服务的「生态厚度」证据——家办不是少数人的游戏，而是已形成规模的正规产业，背后带动的财富管理/保险配置需求持续扩张。",
+        "tc": "家辦 3,380 家+126 億經濟貢獻=香港家辦生態的官方量化。對 IFA：這是高淨值客戶服務的「生態厚度」證據。"
+      },
+      "actions": {
+        "front": {
+          "sc": "3380家=家办生态的规模证据",
+          "tc": "3380家=家辦生態的規模證據"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "126亿经济贡献=产业厚度背书",
+          "tc": "126億經濟貢獻=產業厚度背書"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 3,
+        "cross": 4
+      },
+      "source": {
+        "sc": "财库局 × 投资推广署 · 2026年2月",
+        "lang": "zh"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "family-office",
+        "fo-ecosystem",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "家办",
+          "3380家",
+          "126亿",
+          "德勤"
+        ],
+        "tc": [
+          "家辦",
+          "3380家",
+          "126億",
+          "德勤"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-02-10T10:00:00+08:00",
+      "originalUrl": "http://www.info.gov.hk/gia/general/202602/10/P2026021000234p.htm"
     },
     {
       "id": "ia-20260206-gl16-gl34",
@@ -35301,19 +35566,19 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 415 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 415 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 419 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 419 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 415,
+      "totalItems": 419,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 160,
+          "count": 163,
           "label": "监管一手"
         },
         {
           "tier": "insurer",
-          "count": 102,
+          "count": 103,
           "label": "保司公告"
         },
         {
@@ -35402,7 +35667,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "reg",
-          "count": 82,
+          "count": 83,
           "label": "监管"
         },
         {
@@ -35412,12 +35677,12 @@ window.HKII_DATA = {
         },
         {
           "theme": "offshore",
-          "count": 62,
+          "count": 63,
           "label": "跨境"
         },
         {
           "theme": "product",
-          "count": 56,
+          "count": 57,
           "label": "产品"
         },
         {
@@ -35427,7 +35692,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "macro",
-          "count": 39,
+          "count": 40,
           "label": "宏观"
         },
         {
@@ -35442,7 +35707,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "family-office",
-          "count": 22,
+          "count": 24,
           "label": "家办"
         }
       ],
