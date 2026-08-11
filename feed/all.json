@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-11T11:42:12Z",
-  "itemCount": 411,
+  "generatedAt": "2026-08-11T11:42:44Z",
+  "itemCount": 415,
   "items": [
     {
       "id": "ib-swissre-natcat-h1-2026",
@@ -732,6 +732,20 @@
       "score": 66,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=moodys-ai-distribution-aug04",
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/moodys-retail-pandc-distribution-faces-the-fastest-ai-disruption-of-any-financial-services-segment-584750.aspx"
+    },
+    {
+      "id": "product-rename-2026-wave",
+      "title": "港险产品更名潮：友邦/保诚/中银集中加「保险」字样，2027 年存量全合规",
+      "sourceTier": "media",
+      "themes": [
+        "reg",
+        "product",
+        "compliance"
+      ],
+      "publishedAt": "2026-08-04T10:00:00+08:00",
+      "score": 73,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=product-rename-2026-wave",
+      "originalUrl": "http://news.qq.com/rain/a/20260804A042W600"
     },
     {
       "id": "hk-plan-rename-aug04",
@@ -1805,6 +1819,20 @@
       "originalUrl": "https://www.swissre.com/dam/jcr:409c0f6b-ae4a-4de3-aec1-9864abb3fa62/2026-07-sri-world-insurance-sigma.pdf"
     },
     {
+      "id": "ia-captive-9th-sf-202607",
+      "title": "顺丰保险获授权：香港专属自保公司增至 9 间，首家中资民企",
+      "sourceTier": "official",
+      "themes": [
+        "captive",
+        "reg",
+        "offshore"
+      ],
+      "publishedAt": "2026-07-08T10:00:00+08:00",
+      "score": 80,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-captive-9th-sf-202607",
+      "originalUrl": "https://www.ia.org.hk/tc/infocenter/press_releases/20260708.html"
+    },
+    {
       "id": "nfra-shanghai-reins-20260707",
       "title": "金融监管总局×上海市政府：加快上海国际再保险中心建设",
       "sourceTier": "official",
@@ -1923,6 +1951,20 @@
       "score": 74,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkex-ipo-pipeline-2026h1",
       "originalUrl": "https://www.hkex.com.hk/News/News-Release"
+    },
+    {
+      "id": "fwd-gbassure-2026",
+      "title": "富卫推「大湾区智通行」门诊计划：线上投保的湾区医疗方案",
+      "sourceTier": "insurer",
+      "themes": [
+        "product",
+        "health",
+        "cross-border"
+      ],
+      "publishedAt": "2026-07-01T10:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fwd-gbassure-2026",
+      "originalUrl": "https://www.fwd.com.hk/online-insurance/gbassure-outpatient-plan/"
     },
     {
       "id": "ia-crossref-20260701",
@@ -2135,6 +2177,20 @@
       "score": 72,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-20260625-board",
       "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html"
+    },
+    {
+      "id": "fwd-infertility-first-2026",
+      "title": "富卫「危疾应援保」首创不孕症保障：香港首间覆盖生育治疗的保司",
+      "sourceTier": "insurer",
+      "themes": [
+        "product",
+        "uw",
+        "health"
+      ],
+      "publishedAt": "2026-06-25T10:00:00+08:00",
+      "score": 69,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fwd-infertility-first-2026",
+      "originalUrl": "https://www.kerri-finance.com/FWDinsurance/crisis-usupporter.html"
     },
     {
       "id": "ia-20260624-rga-trends",

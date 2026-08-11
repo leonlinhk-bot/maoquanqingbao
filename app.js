@@ -2,10 +2,10 @@ window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-11T18:08:00+08:00",
-    "itemCount": 411,
+    "itemCount": 415,
     "windowNote": {
-      "sc": "本库411条。",
-      "tc": "本庫411條。"
+      "sc": "本库415条。",
+      "tc": "本庫415條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -4087,6 +4087,73 @@ window.HKII_DATA = {
       },
       "featured": false,
       "evergreen": false
+    },
+    {
+      "id": "product-rename-2026-wave",
+      "clusterCount": 1,
+      "score": 73,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "港险产品更名潮：友邦/保诚/中银集中加「保险」字样，2027 年存量全合规",
+        "tc": "港險產品更名潮：友邦/保誠/中銀集中加「保險」字樣，2027 年存量全合規"
+      },
+      "summary": {
+        "sc": "2025 年 9 月保监局与金管局联合规定：所有带储蓄功能的保险产品名称必须包含「保险/Insurance」。2026 年 1 月起新产品须合规；保诚 20 款产品 2026 年 8 月 24 日启用新名，友邦、中银同步跟进；2027 年 1 月 1 日起存量产品全部合规。仅改名称，保障条款不变。",
+        "tc": "2025 年 9 月保監局與金管局聯合規定：所有帶儲蓄功能的保險產品名稱必須包含「保險/Insurance」。2027 年 1 月 1 日起存量產品全部合規。僅改名稱，保障條款不變。"
+      },
+      "why": {
+        "sc": "产品更名=防「保险被当成存款」的消费者保护。对 IFA：客户问「产品为什么改名」时，这是监管在防混淆——储蓄险不是存款，名字必须说清楚。改名潮也是客户沟通的天然话题。",
+        "tc": "產品更名=防「保險被當成存款」的消費者保護。對 IFA：改名潮是客戶溝通的天然話題——儲蓄險不是存款，名字必須說清楚。"
+      },
+      "actions": {
+        "front": {
+          "sc": "更名潮=防混淆的消费者保护",
+          "tc": "更名潮=防混淆的消費者保護"
+        },
+        "midback": {
+          "sc": "产品命名=监管对误导的零容忍",
+          "tc": "產品命名=監管對誤導的零容忍"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 4,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "腾讯新闻 · 2026年8月",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "reg",
+        "product",
+        "compliance"
+      ],
+      "tags": {
+        "sc": [
+          "更名",
+          "保险字样",
+          "保诚",
+          "2027"
+        ],
+        "tc": [
+          "更名",
+          "保險字樣",
+          "保誠",
+          "2027"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-04T10:00:00+08:00",
+      "originalUrl": "http://news.qq.com/rain/a/20260804A042W600"
     },
     {
       "id": "hk-plan-rename-aug04",
@@ -9894,6 +9961,76 @@ window.HKII_DATA = {
       "originalUrl": "https://www.swissre.com/dam/jcr:409c0f6b-ae4a-4de3-aec1-9864abb3fa62/2026-07-sri-world-insurance-sigma.pdf"
     },
     {
+      "id": "ia-captive-9th-sf-202607",
+      "clusterCount": 1,
+      "score": 80,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "顺丰保险获授权：香港专属自保公司增至 9 间，首家中资民企",
+        "tc": "順豐保險獲授權：香港專屬自保公司增至 9 間，首家中資民企"
+      },
+      "summary": {
+        "sc": "2026 年 7 月 8 日，保监局批出新授权：顺丰控股旗下「顺丰保险有限公司」及香港上海大酒店旗下 HSH Captive Limited，香港专属自保公司增至 9 间。顺丰是首家由内地民营企业赴港设立的专属自保公司，此前汇丰、上汽、中核（2 月授权）已相继落户。",
+        "tc": "2026 年 7 月 8 日，保監局批出新授權：順豐控股旗下「順豐保險有限公司」及香港上海大酒店旗下 HSH Captive Limited，香港專屬自保公司增至 9 間。順豐是首家由內地民營企業赴港設立的專屬自保公司。"
+      },
+      "why": {
+        "sc": "第 9 间专属自保+首家中资民企=香港自保中心战略的里程碑。对 IFA：中资民企（顺丰）加入说明自保生态已从「外资+国企」扩展到「民企」——这是给高净值企业客户讲「香港风险管理中心」定位的最新证据。",
+        "tc": "第 9 間專屬自保+首家中資民企=香港自保中心戰略的里程碑。對 IFA：中資民企加入說明自保生態已從「外資+國企」擴展到「民企」。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "自保9间=风险管理中心的注脚",
+          "tc": "自保9間=風險管理中心的注腳"
+        },
+        "lead": {
+          "sc": "顺丰入局=企业客户的新谈资",
+          "tc": "順豐入局=企業客戶的新談資"
+        },
+        "cross": {
+          "sc": "民企自保=跨境企业布局的信号",
+          "tc": "民企自保=跨境企業佈局的信號"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 4,
+        "lead": 3,
+        "cross": 4
+      },
+      "source": {
+        "sc": "保监局 · 2026年7月",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "captive",
+        "reg",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "顺丰",
+          "专属自保",
+          "9间",
+          "民企"
+        ],
+        "tc": [
+          "順豐",
+          "專屬自保",
+          "9間",
+          "民企"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-07-08T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/tc/infocenter/press_releases/20260708.html"
+    },
+    {
       "id": "nfra-shanghai-reins-20260707",
       "clusterCount": 1,
       "score": 82,
@@ -10521,6 +10658,73 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-07-01T10:00:00+08:00",
       "originalUrl": "https://www.hkex.com.hk/News/News-Release"
+    },
+    {
+      "id": "fwd-gbassure-2026",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "fwd",
+      "title": {
+        "sc": "富卫推「大湾区智通行」门诊计划：线上投保的湾区医疗方案",
+        "tc": "富衛推「大灣區智通行」門診計劃：線上投保的灣區醫療方案"
+      },
+      "summary": {
+        "sc": "富卫推出「大湾区智通行」门诊计划（GBAssure）：面向大湾区客户的在线门诊医疗保障，覆盖内地网络医疗资源，可通过线上渠道直接投保，是富卫「数字化+跨境医疗」产品线的组成部分。",
+        "tc": "富衛推出「大灣區智通行」門診計劃（GBAssure）：面向大灣區客戶的在線門診醫療保障，覆蓋內地網絡醫療資源，可通過線上渠道直接投保。"
+      },
+      "why": {
+        "sc": "大湾区门诊计划=港险服务内地客户的「最后一公里」拼图。对 IFA：医疗险的竞争力越来越取决于内地网络覆盖与线上体验——富卫把门诊做进 App，是「跨境医疗数字化」的落地方案。",
+        "tc": "大灣區門診計劃=港險服務內地客戶的「最後一公里」拼圖。對 IFA：醫療險的競爭力越來越取決於內地網絡覆蓋與線上體驗。"
+      },
+      "actions": {
+        "front": {
+          "sc": "GBA门诊=跨境医疗的数字化落地",
+          "tc": "GBA門診=跨境醫療的數碼化落地"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {
+          "sc": "湾区门诊网络=服务内地客的拼图",
+          "tc": "灣區門診網絡=服務內地客的拼圖"
+        }
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 1,
+        "cross": 4
+      },
+      "source": {
+        "sc": "富卫香港 · 2026年",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "product",
+        "health",
+        "cross-border"
+      ],
+      "tags": {
+        "sc": [
+          "富卫",
+          "大湾区",
+          "门诊",
+          "GBAssure"
+        ],
+        "tc": [
+          "富衛",
+          "大灣區",
+          "門診",
+          "GBAssure"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-07-01T10:00:00+08:00",
+      "originalUrl": "https://www.fwd.com.hk/online-insurance/gbassure-outpatient-plan/"
     },
     {
       "id": "ia-crossref-20260701",
@@ -11738,6 +11942,70 @@ window.HKII_DATA = {
       "themes": [
         "market"
       ]
+    },
+    {
+      "id": "fwd-infertility-first-2026",
+      "clusterCount": 1,
+      "score": 69,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "fwd",
+      "title": {
+        "sc": "富卫「危疾应援保」首创不孕症保障：香港首间覆盖生育治疗的保司",
+        "tc": "富衛「危疾應援保」首創不孕症保障：香港首間覆蓋生育治療的保司"
+      },
+      "summary": {
+        "sc": "富卫储蓄型危疾「危疾应援保（升级版）」首创不孕症保障：若因受保危疾诊断而需接受生育治疗，提供一笔过现金赔偿，成为香港首间提供该保障的保险公司。产品覆盖 62 种危疾、多次赔付及试验性药物赔偿。",
+        "tc": "富衛儲蓄型危疾「危疾應援保（升級版）」首創不孕症保障：若因受保危疾診斷而需接受生育治療，提供一筆過現金賠償，成為香港首間提供該保障的保險公司。"
+      },
+      "why": {
+        "sc": "不孕症保障=危疾险创新的新切口。对 IFA：危疾险竞争从「保额/次数」转向「场景创新」——富卫用生育治疗场景差异化，展示保司产品设计的前沿方向，也是给年轻客户讲危疾险的新话题。",
+        "tc": "不孕症保障=危疾險創新的新切口。對 IFA：危疾險競爭從「保額/次數」轉向「場景創新」——這是給年輕客戶講危疾險的新話題。"
+      },
+      "actions": {
+        "front": {
+          "sc": "不孕症保障=危疾险场景创新",
+          "tc": "不孕症保障=危疾險場景創新"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "富卫香港 · 2026年",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "product",
+        "uw",
+        "health"
+      ],
+      "tags": {
+        "sc": [
+          "富卫",
+          "不孕症",
+          "危疾应援保",
+          "首创"
+        ],
+        "tc": [
+          "富衛",
+          "不孕症",
+          "危疾應援保",
+          "首創"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-06-25T10:00:00+08:00",
+      "originalUrl": "https://www.kerri-finance.com/FWDinsurance/crisis-usupporter.html"
     },
     {
       "id": "ia-20260624-rga-trends",
@@ -35033,24 +35301,24 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 411 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 411 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 415 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 415 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 411,
+      "totalItems": 415,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 159,
+          "count": 160,
           "label": "监管一手"
         },
         {
           "tier": "insurer",
-          "count": 100,
+          "count": 102,
           "label": "保司公告"
         },
         {
           "tier": "media",
-          "count": 89,
+          "count": 90,
           "label": "媒体报道"
         },
         {
@@ -35134,7 +35402,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "reg",
-          "count": 80,
+          "count": 82,
           "label": "监管"
         },
         {
@@ -35144,18 +35412,18 @@ window.HKII_DATA = {
         },
         {
           "theme": "offshore",
-          "count": 61,
+          "count": 62,
           "label": "跨境"
         },
         {
-          "theme": "compliance",
-          "count": 53,
-          "label": "合规"
+          "theme": "product",
+          "count": 56,
+          "label": "产品"
         },
         {
-          "theme": "product",
-          "count": 53,
-          "label": "产品"
+          "theme": "compliance",
+          "count": 54,
+          "label": "合规"
         },
         {
           "theme": "macro",
