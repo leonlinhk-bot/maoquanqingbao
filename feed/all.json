@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-11T11:16:41Z",
-  "itemCount": 400,
+  "generatedAt": "2026-08-11T11:17:07Z",
+  "itemCount": 402,
   "items": [
     {
       "id": "ib-swissre-natcat-h1-2026",
@@ -4780,6 +4780,20 @@
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases.html"
     },
     {
+      "id": "aia-extreme-ultimate-medical-202411",
+      "title": "友邦推出「极臻·至尊医疗计划」：高端医疗+养生顾问生态",
+      "sourceTier": "insurer",
+      "themes": [
+        "product",
+        "health",
+        "firm"
+      ],
+      "publishedAt": "2024-11-25T10:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-extreme-ultimate-medical-202411",
+      "originalUrl": "https://www.prnewswire.com/apac/zh/news-releases/-302315304.html"
+    },
+    {
       "id": "ia-2024-revised-gn16-consult",
       "title": "保监局就修订 GN16（分红实现率披露）展开咨询",
       "sourceTier": "official",
@@ -4805,6 +4819,20 @@
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-nfra-gba-motor-202411",
       "originalUrl": "https://www.legco.gov.hk/yr2025/chinese/counmtg/papers/cm20251022-sp104-c.pdf"
+    },
+    {
+      "id": "ia-antis scam-charter-202411",
+      "title": "保监局发布反诈骗警示：假冒 AIA/中银网站横行，反诈骗宪章 2.0 覆盖 230 家金融机构",
+      "sourceTier": "official",
+      "themes": [
+        "compliance",
+        "cyber",
+        "reg"
+      ],
+      "publishedAt": "2024-11-12T10:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-antis scam-charter-202411",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/hong-kong-insurance-authority-issues-fraud-alert-513428.aspx"
     },
     {
       "id": "ia-fintech-week-202410",

@@ -2,10 +2,10 @@ window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-11T18:08:00+08:00",
-    "itemCount": 400,
+    "itemCount": 402,
     "windowNote": {
-      "sc": "本库400条。",
-      "tc": "本庫400條。"
+      "sc": "本库402条。",
+      "tc": "本庫402條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -26817,6 +26817,70 @@ window.HKII_DATA = {
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases.html"
     },
     {
+      "id": "aia-extreme-ultimate-medical-202411",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "aia",
+      "title": {
+        "sc": "友邦推出「极臻·至尊医疗计划」：高端医疗+养生顾问生态",
+        "tc": "友邦推出「極臻·至尊醫療計劃」：高端醫療+養生顧問生態"
+      },
+      "summary": {
+        "sc": "2024 年 11 月 25 日，友邦香港及澳门推出「极臻·至尊医疗计划」：糅合保障与养生方案，配备尊贵礼宾服务、精选超过 500 名专科医生及医疗人员的医疗团队、健康奖赏及市场罕有的养生顾问服务，实践「以健康为先」的高端客户策略。",
+        "tc": "2024 年 11 月 25 日，友邦香港及澳門推出「極臻·至尊醫療計劃」：配備尊貴禮賓服務、精選超過 500 名專科醫生及醫療人員的醫療團隊、健康獎賞及市場罕有的養生顧問服務。"
+      },
+      "why": {
+        "sc": "高端医疗险从「赔钱」升级到「服务生态」——500+ 专科医生网络+养生顾问。对 IFA：高净值客户的医疗险比的是服务网络而非保额数字，友邦这套生态是讲「高端医疗差异化」的样板。",
+        "tc": "高端醫療險從「賠錢」升級到「服務生態」——500+ 專科醫生網絡+養生顧問。對 IFA：高淨值客戶的醫療險比的是服務網絡而非保額數字。"
+      },
+      "actions": {
+        "front": {
+          "sc": "500+医生网络=高端医疗的差异化",
+          "tc": "500+醫生網絡=高端醫療的差異化"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "友邦香港 · 2024年11月",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "product",
+        "health",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "友邦",
+          "极臻至尊医疗",
+          "高端医疗",
+          "养生"
+        ],
+        "tc": [
+          "友邦",
+          "極臻至尊醫療",
+          "高端醫療",
+          "養生"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2024-11-25T10:00:00+08:00",
+      "originalUrl": "https://www.prnewswire.com/apac/zh/news-releases/-302315304.html"
+    },
+    {
       "id": "ia-2024-revised-gn16-consult",
       "clusterCount": 1,
       "score": 79,
@@ -26951,6 +27015,73 @@ window.HKII_DATA = {
       "contentKind": "press",
       "publishedAt": "2024-11-15T10:00:00+08:00",
       "originalUrl": "https://www.legco.gov.hk/yr2025/chinese/counmtg/papers/cm20251022-sp104-c.pdf"
+    },
+    {
+      "id": "ia-antis scam-charter-202411",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "保监局发布反诈骗警示：假冒 AIA/中银网站横行，反诈骗宪章 2.0 覆盖 230 家金融机构",
+        "tc": "保監局發佈反詐騙警示：假冒 AIA/中銀網站橫行，反詐騙憲章 2.0 覆蓋 230 家金融機構"
+      },
+      "summary": {
+        "sc": "2024 年 11 月，保监局向公众发出警告：发现多个假冒 AIA 及中银人寿的欺诈网站和社交媒体页面（如 aia-plus.com），已通报香港警方。此前保监局联合其他金融监管机构发布《反诈骗消费者保障宪章 2.0》，230 家金融机构（含 73 家保险公司）承诺实施反欺诈措施。",
+        "tc": "2024 年 11 月，保監局向公眾發出警告：發現多個假冒 AIA 及中銀人壽的欺詐網站和社交媒體頁面，已通報香港警方。此前發佈《反詐騙消費者保障憲章 2.0》，230 家金融機構承諾實施反欺詐措施。"
+      },
+      "why": {
+        "sc": "假冒保司网站+宪章 2.0=港险网络安全的监管防线升级。对 IFA：给客户的第一课就是「认准官方渠道」——诈骗分子会冒充你所在的公司行骗，客户被误导后可能归责于代理人，主动提醒是自我保护。",
+        "tc": "假冒保司網站+憲章 2.0=港險網絡安全的監管防線升級。對 IFA：給客戶的第一課就是「認准官方渠道」——主動提醒是自我保護。"
+      },
+      "actions": {
+        "front": {
+          "sc": "反诈骗宪章=给客户的第一课",
+          "tc": "反詐騙憲章=給客戶的第一課"
+        },
+        "midback": {
+          "sc": "欺诈警示=风控体系的输入信号",
+          "tc": "欺詐警示=風控體系的輸入信號"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 3,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "保监局 · 2024年11月",
+        "lang": "zh"
+      },
+      "boards": [
+        "compliance"
+      ],
+      "themes": [
+        "compliance",
+        "cyber",
+        "reg"
+      ],
+      "tags": {
+        "sc": [
+          "保监局",
+          "反诈骗",
+          "宪章2.0",
+          "假冒网站"
+        ],
+        "tc": [
+          "保監局",
+          "反詐騙",
+          "憲章2.0",
+          "假冒網站"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2024-11-12T10:00:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/hong-kong-insurance-authority-issues-fraud-alert-513428.aspx"
     },
     {
       "id": "ia-fintech-week-202410",
@@ -34306,19 +34437,19 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 400 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 400 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 402 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 402 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 400,
+      "totalItems": 402,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 152,
+          "count": 153,
           "label": "监管一手"
         },
         {
           "tier": "insurer",
-          "count": 96,
+          "count": 97,
           "label": "保司公告"
         },
         {
@@ -34407,12 +34538,12 @@ window.HKII_DATA = {
         },
         {
           "theme": "reg",
-          "count": 73,
+          "count": 74,
           "label": "监管"
         },
         {
           "theme": "firm",
-          "count": 68,
+          "count": 69,
           "label": "保司"
         },
         {
@@ -34422,12 +34553,12 @@ window.HKII_DATA = {
         },
         {
           "theme": "product",
-          "count": 52,
+          "count": 53,
           "label": "产品"
         },
         {
           "theme": "compliance",
-          "count": 51,
+          "count": 52,
           "label": "合规"
         },
         {
