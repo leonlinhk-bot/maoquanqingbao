@@ -2,10 +2,10 @@ window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-11T18:08:00+08:00",
-    "itemCount": 388,
+    "itemCount": 394,
     "windowNote": {
-      "sc": "本库388条。",
-      "tc": "本庫388條。"
+      "sc": "本库394条。",
+      "tc": "本庫394條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -240,76 +240,6 @@ window.HKII_DATA = {
       "evergreen": false
     },
     {
-      "id": "ib-typhoon-dolphin-20260811",
-      "clusterCount": 1,
-      "score": 64,
-      "verifyStatus": "verified",
-      "sourceTier": "media",
-      "sourceKey": "insurancebusinessmag:dolphin-accumulation-20260811",
-      "title": {
-        "sc": "台风「白海豚」登陆浙江玉环 中国菲律宾多险种同时触发赔付累积",
-        "tc": "颱風「白海豚」登陸浙江玉環 中國菲律賓多險種同時觸發賠付累積"
-      },
-      "summary": {
-        "sc": "台风白海豚周日傍晚登陆浙江玉环，同时触发中国与菲律宾两地财产、船舶船体、货运、建工一切险、业务中断及航空险的赔付累积；分析指该区域属此类风暴结构性保障不足最严重的市场之一，区域保单常将各险种与地域割裂看待。[EN原文]",
-        "tc": "颱風白海豚週日傍晚登陸浙江玉環，同時觸發中國與菲律賓兩地財產、船舶船體、貨運、建工一切險、業務中斷及航空險的賠付累積；分析指該區域屬此類風暴結構性保障不足最嚴重的市場之一，區域保單常將各險種與地域割裂看待。[EN原文]"
-      },
-      "why": {
-        "sc": "单一台风触发跨市场多险种累积=巨灾建模与区域累积风险的现实案例，涉中国/菲律宾敞口的货运、工程险客户需重估累积限额。",
-        "tc": "單一颱風觸發跨市場多險種累積=巨災建模與區域累積風險的現實案例，涉中國/菲律賓敞口的貨運、工程險客戶需重估累積限額。"
-      },
-      "actions": {
-        "front": {},
-        "midback": {},
-        "lead": {},
-        "cross": {}
-      },
-      "rolesImpact": {
-        "front": 1,
-        "midback": 2,
-        "lead": 0,
-        "cross": 1
-      },
-      "source": {
-        "sc": "Insurance Business",
-        "lang": "en"
-      },
-      "boards": [
-        "market"
-      ],
-      "themes": [
-        "natcat",
-        "marine",
-        "china"
-      ],
-      "tags": {
-        "sc": [
-          "台风白海豚",
-          "浙江",
-          "巨灾",
-          "货运险",
-          "建工险"
-        ],
-        "tc": [
-          "颱風白海豚",
-          "浙江",
-          "巨災",
-          "貨運險",
-          "建工險"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2026-08-11T08:22:00+08:00",
-      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/catastrophe/dolphin-is-not-one-loss--it-is-an-accumulation-problem-across-two-markets-585556.aspx",
-      "ingestedAt": "2026-08-11T18:08:00+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
-    },
-    {
       "id": "hk-tax-prop-trading-20260811",
       "clusterCount": 1,
       "score": 64,
@@ -528,80 +458,6 @@ window.HKII_DATA = {
       "evergreen": false
     },
     {
-      "id": "ia-china-tax-sales-20260811",
-      "clusterCount": 1,
-      "score": 68,
-      "verifyStatus": "verified",
-      "sourceTier": "media",
-      "sourceKey": "insuranceasia:china-tax-sales-20260811",
-      "title": {
-        "sc": "港险征税后续：20%个税令收益差收窄 友邦保诚股价续跌",
-        "tc": "港險徵稅後續：20%個稅令收益差收窄 友邦保誠股價續跌"
-      },
-      "summary": {
-        "sc": "内地对境外保单收益征20%个税，令香港与内地储蓄产品收益差收窄，或拖累港险短期销售，友邦保诚股价下挫；Jefferies认为征税落地反带来长期监管确定性，销售重心需转向保障与传承功能。[EN原文]",
-        "tc": "內地對境外保單收益徵20%個稅，令香港與內地儲蓄產品收益差收窄，或拖累港險短期銷售，友邦保誠股價下挫；Jefferies認為徵稅落地反帶來長期監管確定性，銷售重心需轉向保障與傳承功能。[EN原文]"
-      },
-      "why": {
-        "sc": "征税后续最新市场反馈：从「恐慌」转向「产品结构怎么调」，直接决定内地客群销售话术与产品推荐排序，是本月最值得跟踪的主线。",
-        "tc": "徵稅後續最新市場反饋：從「恐慌」轉向「產品結構怎麼調」，直接決定內地客群銷售話術與產品推薦排序，是本月最值得跟蹤的主線。"
-      },
-      "actions": {
-        "front": {},
-        "midback": {},
-        "lead": {
-          "sc": "征税落地=话术转向保障与传承",
-          "tc": "徵稅落地=話術轉向保障與傳承"
-        },
-        "cross": {}
-      },
-      "rolesImpact": {
-        "front": 2,
-        "midback": 1,
-        "lead": 1,
-        "cross": 1
-      },
-      "source": {
-        "sc": "Insurance Asia",
-        "lang": "en"
-      },
-      "boards": [
-        "reg",
-        "market"
-      ],
-      "themes": [
-        "taxation",
-        "cross-border",
-        "market"
-      ],
-      "tags": {
-        "sc": [
-          "港险征税",
-          "收益差",
-          "友邦",
-          "保诚",
-          "MCV"
-        ],
-        "tc": [
-          "港險徵稅",
-          "收益差",
-          "友邦",
-          "保誠",
-          "MCV"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2026-08-11T05:30:00+08:00",
-      "originalUrl": "https://insuranceasia.com/insurance/news/china-insurance-tax-threatens-sales-prudential-and-aia-slide",
-      "ingestedAt": "2026-08-11T18:08:00+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
-    },
-    {
       "id": "ia-asia-wealth-transfer-20260811",
       "clusterCount": 1,
       "score": 66,
@@ -676,71 +532,67 @@ window.HKII_DATA = {
       "evergreen": false
     },
     {
-      "id": "ia-sompo-life-re-bermuda-20260810",
+      "id": "ib-typhoon-dolphin-20260811",
       "clusterCount": 1,
       "score": 64,
       "verifyStatus": "verified",
       "sourceTier": "media",
-      "sourceKey": "insuranceasia:sompo-life-re-bermuda-20260810",
+      "sourceKey": "insurancebusinessmag:dolphin-accumulation-20260811",
       "title": {
-        "sc": "损保生命再保推百慕大平台 携手Agam Capital深化资产负债管理",
-        "tc": "損保生命再保推百慕大平台 攜手Agam Capital深化資產負債管理"
+        "sc": "台风「白海豚」登陆浙江玉环 中国菲律宾多险种同时触发赔付累积",
+        "tc": "颱風「白海豚」登陸浙江玉環 中國菲律賓多險種同時觸發賠付累積"
       },
       "summary": {
-        "sc": "Sompo Life Re设立新的百慕大注册寿险再保平台，并与科技型资产负债管理（ALM）专家Agam Capital签署多年期服务协议；Agam在筹建期协助运营建设并取得百慕大牌照。百慕大寿险再保平台持续扩容，与香港高净值万用寿险再保安排形成联动。[EN原文]",
-        "tc": "Sompo Life Re設立新的百慕大註冊壽險再保平台，並與科技型資產負債管理（ALM）專家Agam Capital簽署多年期服務協議；Agam在籌建期協助營運建設並取得百慕大牌照。百慕大壽險再保平台持續擴容，與香港高淨值萬用壽險再保安排形成聯動。[EN原文]"
+        "sc": "台风白海豚周日傍晚登陆浙江玉环，同时触发中国与菲律宾两地财产、船舶船体、货运、建工一切险、业务中断及航空险的赔付累积；分析指该区域属此类风暴结构性保障不足最严重的市场之一，区域保单常将各险种与地域割裂看待。[EN原文]",
+        "tc": "颱風白海豚週日傍晚登陸浙江玉環，同時觸發中國與菲律賓兩地財產、船舶船體、貨運、建工一切險、業務中斷及航空險的賠付累積；分析指該區域屬此類風暴結構性保障不足最嚴重的市場之一，區域保單常將各險種與地域割裂看待。[EN原文]"
       },
       "why": {
-        "sc": "百慕大平台=香港IUL/高净值保单再保链条的关键一环；平台扩容提示离岸架构与再保服务需求持续上升。",
-        "tc": "百慕大平台=香港IUL/高淨值保單再保鏈條的關鍵一環；平台擴容提示離岸架構與再保服務需求持續上升。"
+        "sc": "单一台风触发跨市场多险种累积=巨灾建模与区域累积风险的现实案例，涉中国/菲律宾敞口的货运、工程险客户需重估累积限额。",
+        "tc": "單一颱風觸發跨市場多險種累積=巨災建模與區域累積風險的現實案例，涉中國/菲律賓敞口的貨運、工程險客戶需重估累積限額。"
       },
       "actions": {
         "front": {},
         "midback": {},
-        "lead": {
-          "sc": "百慕大再保扩容=离岸架构信号",
-          "tc": "百慕大再保擴容=離岸架構信號"
-        },
+        "lead": {},
         "cross": {}
       },
       "rolesImpact": {
-        "front": 0,
-        "midback": 1,
-        "lead": 1,
+        "front": 1,
+        "midback": 2,
+        "lead": 0,
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Asia",
+        "sc": "Insurance Business",
         "lang": "en"
       },
       "boards": [
-        "insurer",
-        "product"
+        "market"
       ],
       "themes": [
-        "reinsurance",
-        "bermuda",
-        "hnw"
+        "natcat",
+        "marine",
+        "china"
       ],
       "tags": {
         "sc": [
-          "再保险",
-          "百慕大",
-          "Sompo",
-          "高净值",
-          "资产负债管理"
+          "台风白海豚",
+          "浙江",
+          "巨灾",
+          "货运险",
+          "建工险"
         ],
         "tc": [
-          "再保險",
-          "百慕大",
-          "Sompo",
-          "高淨值",
-          "資產負債管理"
+          "颱風白海豚",
+          "浙江",
+          "巨災",
+          "貨運險",
+          "建工險"
         ]
       },
       "contentKind": "news",
-      "publishedAt": "2026-08-10T06:00:00+08:00",
-      "originalUrl": "https://insuranceasia.com/insurance/news/sompo-life-re-launches-bermuda-platform",
+      "publishedAt": "2026-08-11T08:22:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/catastrophe/dolphin-is-not-one-loss--it-is-an-accumulation-problem-across-two-markets-585556.aspx",
       "ingestedAt": "2026-08-11T18:08:00+08:00",
       "contentRole": {
         "sc": "本站导读",
@@ -820,34 +672,37 @@ window.HKII_DATA = {
       "evergreen": false
     },
     {
-      "id": "ia-japan-unwind-stakes-20260811",
+      "id": "ia-china-tax-sales-20260811",
       "clusterCount": 1,
-      "score": 62,
+      "score": 68,
       "verifyStatus": "verified",
       "sourceTier": "media",
-      "sourceKey": "insuranceasia:japan-unwind-stakes-20260811",
+      "sourceKey": "insuranceasia:china-tax-sales-20260811",
       "title": {
-        "sc": "日本非寿险巨头加速减持战略持股 监管问责驱动资本重置",
-        "tc": "日本非壽險巨頭加速減持戰略持股 監管問責驅動資本重置"
+        "sc": "港险征税后续：20%个税令收益差收窄 友邦保诚股价续跌",
+        "tc": "港險徵稅後續：20%個稅令收益差收窄 友邦保誠股價續跌"
       },
       "summary": {
-        "sc": "日本主要非寿险公司加快出售企业战略持股：监管将交叉持股与此前不当行为挂钩并责令减持（惠誉指并非偿付能力原因），释放资本投向海外扩张与其他投资，改写日本险企资产负债表格局。[EN原文]",
-        "tc": "日本主要非壽險公司加快出售企業戰略持股：監管將交叉持股與此前不當行為掛鉤並責令減持（惠譽指並非償付能力原因），釋放資本投向海外擴張與其他投資，改寫日本險企資產負債表格局。[EN原文]"
+        "sc": "内地对境外保单收益征20%个税，令香港与内地储蓄产品收益差收窄，或拖累港险短期销售，友邦保诚股价下挫；Jefferies认为征税落地反带来长期监管确定性，销售重心需转向保障与传承功能。[EN原文]",
+        "tc": "內地對境外保單收益徵20%個稅，令香港與內地儲蓄產品收益差收窄，或拖累港險短期銷售，友邦保誠股價下挫；Jefferies認為徵稅落地反帶來長期監管確定性，銷售重心需轉向保障與傳承功能。[EN原文]"
       },
       "why": {
-        "sc": "日本险企资本流向变化=亚洲再保与投资市场的容量变量；减持潮释放的资本或进入海外另类资产，值得机构端跟踪。",
-        "tc": "日本險企資本流向變化=亞洲再保與投資市場的容量變量；減持潮釋放的資本或進入海外另類資產，值得機構端跟蹤。"
+        "sc": "征税后续最新市场反馈：从「恐慌」转向「产品结构怎么调」，直接决定内地客群销售话术与产品推荐排序，是本月最值得跟踪的主线。",
+        "tc": "徵稅後續最新市場反饋：從「恐慌」轉向「產品結構怎麼調」，直接決定內地客群銷售話術與產品推薦排序，是本月最值得跟蹤的主線。"
       },
       "actions": {
         "front": {},
         "midback": {},
-        "lead": {},
+        "lead": {
+          "sc": "征税落地=话术转向保障与传承",
+          "tc": "徵稅落地=話術轉向保障與傳承"
+        },
         "cross": {}
       },
       "rolesImpact": {
-        "front": 0,
+        "front": 2,
         "midback": 1,
-        "lead": 0,
+        "lead": 1,
         "cross": 1
       },
       "source": {
@@ -855,33 +710,33 @@ window.HKII_DATA = {
         "lang": "en"
       },
       "boards": [
-        "market",
-        "insurer"
+        "reg",
+        "market"
       ],
       "themes": [
-        "capital",
-        "japan",
-        "shareholding"
+        "taxation",
+        "cross-border",
+        "market"
       ],
       "tags": {
         "sc": [
-          "日本",
-          "非寿险",
-          "交叉持股",
-          "资本",
-          "惠誉"
+          "港险征税",
+          "收益差",
+          "友邦",
+          "保诚",
+          "MCV"
         ],
         "tc": [
-          "日本",
-          "非壽險",
-          "交叉持股",
-          "資本",
-          "惠譽"
+          "港險徵稅",
+          "收益差",
+          "友邦",
+          "保誠",
+          "MCV"
         ]
       },
       "contentKind": "news",
-      "publishedAt": "2026-08-11T05:00:00+08:00",
-      "originalUrl": "https://insuranceasia.com/insurance/exclusive/japan-insurers-unwind-corporate-stakes-after-misconduct",
+      "publishedAt": "2026-08-11T05:30:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/china-insurance-tax-threatens-sales-prudential-and-aia-slide",
       "ingestedAt": "2026-08-11T18:08:00+08:00",
       "contentRole": {
         "sc": "本站导读",
@@ -959,23 +814,23 @@ window.HKII_DATA = {
       "evergreen": false
     },
     {
-      "id": "ia-ai-datacenter-risks-20260810",
+      "id": "ia-japan-unwind-stakes-20260811",
       "clusterCount": 1,
       "score": 62,
       "verifyStatus": "verified",
       "sourceTier": "media",
-      "sourceKey": "insuranceasia:ai-datacenter-risks-20260810",
+      "sourceKey": "insuranceasia:japan-unwind-stakes-20260811",
       "title": {
-        "sc": "专家意见：AI或使全球数据中心用电2030年前近翻三倍 险企须重估敞口",
-        "tc": "專家意見：AI或使全球數據中心用電2030年前近翻三倍 險企須重估敞口"
+        "sc": "日本非寿险巨头加速减持战略持股 监管问责驱动资本重置",
+        "tc": "日本非壽險巨頭加速減持戰略持股 監管問責驅動資本重置"
       },
       "summary": {
-        "sc": "AI需求或令全球数据中心电力消耗2030年前接近翻三倍，险企须重估电网承压、气候灾害与网络威胁叠加下的设施风险；Aon亚太商险主管指电力可用性与能源韧性已成超大规模数据中心首要承保关切。[EN原文]",
-        "tc": "AI需求或令全球數據中心電力消耗2030年前接近翻三倍，險企須重估電網受壓、氣候災害與網絡威脅疊加下的設施風險；Aon亞太商險主管指電力可用性與能源韌性已成超大規模數據中心首要承保關切。[EN原文]"
+        "sc": "日本主要非寿险公司加快出售企业战略持股：监管将交叉持股与此前不当行为挂钩并责令减持（惠誉指并非偿付能力原因），释放资本投向海外扩张与其他投资，改写日本险企资产负债表格局。[EN原文]",
+        "tc": "日本主要非壽險公司加快出售企業戰略持股：監管將交叉持股與此前不當行為掛鉤並責令減持（惠譽指並非償付能力原因），釋放資本投向海外擴張與其他投資，改寫日本險企資產負債表格局。[EN原文]"
       },
       "why": {
-        "sc": "数据中心险从「容量故事」进入「电力/能源承保」深水区，与8月8日韩国18.4GW报道互为补充，技术线客户可跟进。",
-        "tc": "數據中心險從「容量故事」進入「電力/能源承保」深水區，與8月8日韓國18.4GW報道互為補充，技術線客戶可跟進。"
+        "sc": "日本险企资本流向变化=亚洲再保与投资市场的容量变量；减持潮释放的资本或进入海外另类资产，值得机构端跟踪。",
+        "tc": "日本險企資本流向變化=亞洲再保與投資市場的容量變量；減持潮釋放的資本或進入海外另類資產，值得機構端跟蹤。"
       },
       "actions": {
         "front": {},
@@ -986,7 +841,7 @@ window.HKII_DATA = {
       "rolesImpact": {
         "front": 0,
         "midback": 1,
-        "lead": 1,
+        "lead": 0,
         "cross": 1
       },
       "source": {
@@ -994,319 +849,33 @@ window.HKII_DATA = {
         "lang": "en"
       },
       "boards": [
-        "tech",
-        "market"
+        "market",
+        "insurer"
       ],
       "themes": [
-        "datacenter",
-        "ai",
-        "energy"
+        "capital",
+        "japan",
+        "shareholding"
       ],
       "tags": {
         "sc": [
-          "AI数据中心",
-          "电力",
-          "能源韧性",
-          "承保",
-          "Aon"
+          "日本",
+          "非寿险",
+          "交叉持股",
+          "资本",
+          "惠誉"
         ],
         "tc": [
-          "AI數據中心",
-          "電力",
-          "能源韌性",
-          "承保",
-          "Aon"
+          "日本",
+          "非壽險",
+          "交叉持股",
+          "資本",
+          "惠譽"
         ]
       },
       "contentKind": "news",
-      "publishedAt": "2026-08-10T11:00:00+08:00",
-      "originalUrl": "https://insuranceasia.com/insurance/expert-opinion/how-can-insurers-keep-ai-data-centre-risks",
-      "ingestedAt": "2026-08-11T18:08:00+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
-    },
-    {
-      "id": "hkma-dfsa-climate-conf-20260810",
-      "clusterCount": 1,
-      "score": 86,
-      "verifyStatus": "verified",
-      "sourceTier": "official",
-      "sourceKey": "hkma:dfsa-climate-conf-20260810",
-      "title": {
-        "sc": "金管局与迪拜金管局合办第三届气候金融会议 9月10日香港举行",
-        "tc": "金管局與杜拜金管局合辦第三屆氣候金融會議 9月10日香港舉行"
-      },
-      "summary": {
-        "sc": "金管局与迪拜金融服务管理局（DFSA）宣布，第三届联合气候金融会议将于9月10日在香港举行，主题「在变化世界中推动转型」，由港交所与纳斯达克迪拜支持；将汇聚企业领袖、投资者与政策制定者，探讨亚洲与中东气候金融合作及创新融资方案。",
-        "tc": "金管局與杜拜金融服務管理局（DFSA）宣佈，第三屆聯合氣候金融會議將於9月10日在香港舉行，主題「在變化世界中推動轉型」，由港交所與納斯達克杜拜支持；將匯聚企業領袖、投資者與政策制定者，探討亞洲與中東氣候金融合作及創新融資方案。"
-      },
-      "why": {
-        "sc": "气候金融=香港国际金融中心新叙事；会议议程可预告监管与产品方向，也是机构客户与家办的话题素材。",
-        "tc": "氣候金融=香港國際金融中心新敘事；會議議程可預告監管與產品方向，也是機構客戶與家辦的話題素材。"
-      },
-      "actions": {
-        "front": {},
-        "midback": {},
-        "lead": {
-          "sc": "9月气候金融会议=机构客户话题",
-          "tc": "9月氣候金融會議=機構客戶話題"
-        },
-        "cross": {}
-      },
-      "rolesImpact": {
-        "front": 1,
-        "midback": 2,
-        "lead": 1,
-        "cross": 1
-      },
-      "source": {
-        "sc": "HKMA",
-        "lang": "zh+en"
-      },
-      "boards": [
-        "reg",
-        "market"
-      ],
-      "themes": [
-        "climate",
-        "esg",
-        "conference"
-      ],
-      "tags": {
-        "sc": [
-          "气候金融",
-          "金管局",
-          "DFSA",
-          "转型",
-          "ESG"
-        ],
-        "tc": [
-          "氣候金融",
-          "金管局",
-          "DFSA",
-          "轉型",
-          "ESG"
-        ]
-      },
-      "contentKind": "press",
-      "publishedAt": "2026-08-10T00:00:00+08:00",
-      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260810-3/",
-      "ingestedAt": "2026-08-11T18:08:00+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
-    },
-    {
-      "id": "ib-bhsi-macau-20260810",
-      "clusterCount": 1,
-      "score": 64,
-      "verifyStatus": "verified",
-      "sourceTier": "media",
-      "sourceKey": "insurancebusinessmag:bhsi-macau-20260810",
-      "title": {
-        "sc": "伯克希尔旗下BHSI进军澳门 再保部门Q2承保改善",
-        "tc": "伯克希爾旗下BHSI進軍澳門 再保部門Q2承保改善"
-      },
-      "summary": {
-        "sc": "伯克希尔Q2净利257亿美元（上年同期124亿），主要受127亿美元投资收益推动；再保集团BHRG承保业绩改善（前期准备金有利释放），BHSI扩展澳门市场。正值Aon警示中东风险令海事、航空与贸易险条款收紧，区域承保容量增加。[EN原文]",
-        "tc": "伯克希爾Q2淨利257億美元（上年同期124億），主要受127億美元投資收益推動；再保集團BHRG承保業績改善（前期準備金有利釋放），BHSI擴展澳門市場。正值Aon警示中東風險令海事、航空與貿易險條款收緊，區域承保容量增加。[EN原文]"
-      },
-      "why": {
-        "sc": "伯克希尔再保扩容+澳门落子=区域商险容量与竞争格局变量，对澳门/香港商业险排分与再保安排有参考意义。",
-        "tc": "伯克希爾再保擴容+澳門落子=區域商險容量與競爭格局變量，對澳門/香港商業險排分與再保安排有參考意義。"
-      },
-      "actions": {
-        "front": {},
-        "midback": {},
-        "lead": {},
-        "cross": {}
-      },
-      "rolesImpact": {
-        "front": 0,
-        "midback": 1,
-        "lead": 1,
-        "cross": 1
-      },
-      "source": {
-        "sc": "Insurance Business",
-        "lang": "en"
-      },
-      "boards": [
-        "insurer",
-        "market"
-      ],
-      "themes": [
-        "berkshire",
-        "macau",
-        "reinsurance"
-      ],
-      "tags": {
-        "sc": [
-          "伯克希尔",
-          "BHSI",
-          "澳门",
-          "再保险",
-          "商险容量"
-        ],
-        "tc": [
-          "伯克希爾",
-          "BHSI",
-          "澳門",
-          "再保險",
-          "商險容量"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2026-08-10T01:53:00+08:00",
-      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/bhsi-expands-into-macau-as-berkshires-reinsurance-arm-posts-a-stronger-quarter-585472.aspx",
-      "ingestedAt": "2026-08-11T18:08:00+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
-    },
-    {
-      "id": "ib-soft-market-fraying-20260810",
-      "clusterCount": 1,
-      "score": 62,
-      "verifyStatus": "verified",
-      "sourceTier": "media",
-      "sourceKey": "insurancebusinessmag:soft-market-fraying-20260810",
-      "title": {
-        "sc": "Aon全球商险季报：费率续跌 车险/责任险/D&O显软周期裂痕",
-        "tc": "Aon全球商險季報：費率續跌 車險/責任險/D&O顯軟週期裂痕"
-      },
-      "summary": {
-        "sc": "Aon Q2 2026全球保险市场概览：容量充裕、竞争激烈，多数客户续保仍享费率优惠；但车险、美国敞口责任险与D&O等板块率先出现软周期松动迹象；Marsh英国商险费率Q2跌8%、财产险跌11%。[EN原文]",
-        "tc": "Aon Q2 2026全球保險市場概覽：容量充裕、競爭激烈，多數客戶續保仍享費率優惠；但車險、美國敞口責任險與D&O等板塊率先出現軟週期鬆動跡象；Marsh英國商險費率Q2跌8%、財產險跌11%。[EN原文]"
-      },
-      "why": {
-        "sc": "软周期「边缘裂痕」=续保议价窗口仍在但收窄，D&O/责任险客户宜趁窗口锁定条件，经纪排分需加速。",
-        "tc": "軟週期「邊緣裂痕」=續保議價窗口仍在但收窄，D&O/責任險客戶宜趁窗口鎖定條件，經紀排分需加速。"
-      },
-      "actions": {
-        "front": {},
-        "midback": {},
-        "lead": {},
-        "cross": {}
-      },
-      "rolesImpact": {
-        "front": 0,
-        "midback": 1,
-        "lead": 1,
-        "cross": 1
-      },
-      "source": {
-        "sc": "Insurance Business",
-        "lang": "en"
-      },
-      "boards": [
-        "market"
-      ],
-      "themes": [
-        "pricing",
-        "soft-market",
-        "dando"
-      ],
-      "tags": {
-        "sc": [
-          "费率",
-          "软周期",
-          "D&O",
-          "责任险",
-          "车险"
-        ],
-        "tc": [
-          "費率",
-          "軟週期",
-          "D&O",
-          "責任險",
-          "車險"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2026-08-10T01:24:00+08:00",
-      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/rates-keep-falling-but-car-casualty-and-dando-show-where-the-soft-market-is-fraying-585466.aspx",
-      "ingestedAt": "2026-08-11T18:08:00+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
-    },
-    {
-      "id": "ib-openai-cyber-20260810",
-      "clusterCount": 1,
-      "score": 63,
-      "verifyStatus": "verified",
-      "sourceTier": "media",
-      "sourceKey": "insurancebusinessmag:openai-cyber-20260810",
-      "title": {
-        "sc": "OpenAI暂停新模型研发 网络险承保人：AI威胁从预期变成现实",
-        "tc": "OpenAI暫停新模型研發 網絡險承保人：AI威脅從預期變成現實"
-      },
-      "summary": {
-        "sc": "8月7日OpenAI以无法排除模型已达「临界」网络安全能力为由，暂停未发布模型Astra的部分研发——AI能力风险首次被贴上具体时间标签；网络险承保人两年来将AI按未来敞口定价，如今须按现实风险重估费率与限额。[EN原文]",
-        "tc": "8月7日OpenAI以無法排除模型已達「臨界」網絡安全能力為由，暫停未發佈模型Astra的部分研發——AI能力風險首次被貼上具體時間標籤；網絡險承保人兩年來將AI按未來敞口定價，如今須按現實風險重估費率與限額。[EN原文]"
-      },
-      "why": {
-        "sc": "AI网络风险「落地」时间点明确化=网络险定价叙事转折，也是企业客户网络险续保谈判的新筹码。",
-        "tc": "AI網絡風險「落地」時間點明確化=網絡險定價敘事轉折，也是企業客戶網絡險續保談判的新籌碼。"
-      },
-      "actions": {
-        "front": {},
-        "midback": {},
-        "lead": {},
-        "cross": {}
-      },
-      "rolesImpact": {
-        "front": 0,
-        "midback": 1,
-        "lead": 1,
-        "cross": 1
-      },
-      "source": {
-        "sc": "Insurance Business",
-        "lang": "en"
-      },
-      "boards": [
-        "tech",
-        "market"
-      ],
-      "themes": [
-        "cyber",
-        "ai",
-        "underwriting"
-      ],
-      "tags": {
-        "sc": [
-          "OpenAI",
-          "网络险",
-          "AI风险",
-          "承保",
-          "Astra"
-        ],
-        "tc": [
-          "OpenAI",
-          "網絡險",
-          "AI風險",
-          "承保",
-          "Astra"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2026-08-10T17:40:00+08:00",
-      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/insurers-thought-the-threat-to-cyber-was-bad-from-ai--now-even-openai-is-scared-585507.aspx",
+      "publishedAt": "2026-08-11T05:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/exclusive/japan-insurers-unwind-corporate-stakes-after-misconduct",
       "ingestedAt": "2026-08-11T18:08:00+08:00",
       "contentRole": {
         "sc": "本站导读",
@@ -1464,6 +1033,148 @@ window.HKII_DATA = {
       "evergreen": false
     },
     {
+      "id": "ib-openai-cyber-20260810",
+      "clusterCount": 1,
+      "score": 63,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag:openai-cyber-20260810",
+      "title": {
+        "sc": "OpenAI暂停新模型研发 网络险承保人：AI威胁从预期变成现实",
+        "tc": "OpenAI暫停新模型研發 網絡險承保人：AI威脅從預期變成現實"
+      },
+      "summary": {
+        "sc": "8月7日OpenAI以无法排除模型已达「临界」网络安全能力为由，暂停未发布模型Astra的部分研发——AI能力风险首次被贴上具体时间标签；网络险承保人两年来将AI按未来敞口定价，如今须按现实风险重估费率与限额。[EN原文]",
+        "tc": "8月7日OpenAI以無法排除模型已達「臨界」網絡安全能力為由，暫停未發佈模型Astra的部分研發——AI能力風險首次被貼上具體時間標籤；網絡險承保人兩年來將AI按未來敞口定價，如今須按現實風險重估費率與限額。[EN原文]"
+      },
+      "why": {
+        "sc": "AI网络风险「落地」时间点明确化=网络险定价叙事转折，也是企业客户网络险续保谈判的新筹码。",
+        "tc": "AI網絡風險「落地」時間點明確化=網絡險定價敘事轉折，也是企業客戶網絡險續保談判的新籌碼。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Business",
+        "lang": "en"
+      },
+      "boards": [
+        "tech",
+        "market"
+      ],
+      "themes": [
+        "cyber",
+        "ai",
+        "underwriting"
+      ],
+      "tags": {
+        "sc": [
+          "OpenAI",
+          "网络险",
+          "AI风险",
+          "承保",
+          "Astra"
+        ],
+        "tc": [
+          "OpenAI",
+          "網絡險",
+          "AI風險",
+          "承保",
+          "Astra"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-10T17:40:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/insurers-thought-the-threat-to-cyber-was-bad-from-ai--now-even-openai-is-scared-585507.aspx",
+      "ingestedAt": "2026-08-11T18:08:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ia-ai-datacenter-risks-20260810",
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia:ai-datacenter-risks-20260810",
+      "title": {
+        "sc": "专家意见：AI或使全球数据中心用电2030年前近翻三倍 险企须重估敞口",
+        "tc": "專家意見：AI或使全球數據中心用電2030年前近翻三倍 險企須重估敞口"
+      },
+      "summary": {
+        "sc": "AI需求或令全球数据中心电力消耗2030年前接近翻三倍，险企须重估电网承压、气候灾害与网络威胁叠加下的设施风险；Aon亚太商险主管指电力可用性与能源韧性已成超大规模数据中心首要承保关切。[EN原文]",
+        "tc": "AI需求或令全球數據中心電力消耗2030年前接近翻三倍，險企須重估電網受壓、氣候災害與網絡威脅疊加下的設施風險；Aon亞太商險主管指電力可用性與能源韌性已成超大規模數據中心首要承保關切。[EN原文]"
+      },
+      "why": {
+        "sc": "数据中心险从「容量故事」进入「电力/能源承保」深水区，与8月8日韩国18.4GW报道互为补充，技术线客户可跟进。",
+        "tc": "數據中心險從「容量故事」進入「電力/能源承保」深水區，與8月8日韓國18.4GW報道互為補充，技術線客戶可跟進。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "tech",
+        "market"
+      ],
+      "themes": [
+        "datacenter",
+        "ai",
+        "energy"
+      ],
+      "tags": {
+        "sc": [
+          "AI数据中心",
+          "电力",
+          "能源韧性",
+          "承保",
+          "Aon"
+        ],
+        "tc": [
+          "AI數據中心",
+          "電力",
+          "能源韌性",
+          "承保",
+          "Aon"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-10T11:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/expert-opinion/how-can-insurers-keep-ai-data-centre-risks",
+      "ingestedAt": "2026-08-11T18:08:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
       "id": "hk-retirement-family-202608",
       "clusterCount": 1,
       "score": 66,
@@ -1526,6 +1237,295 @@ window.HKII_DATA = {
       "contentKind": "news",
       "publishedAt": "2026-08-10T10:00:00+08:00",
       "originalUrl": "https://insuranceasia.com/market/hong-kong"
+    },
+    {
+      "id": "ia-sompo-life-re-bermuda-20260810",
+      "clusterCount": 1,
+      "score": 64,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia:sompo-life-re-bermuda-20260810",
+      "title": {
+        "sc": "损保生命再保推百慕大平台 携手Agam Capital深化资产负债管理",
+        "tc": "損保生命再保推百慕大平台 攜手Agam Capital深化資產負債管理"
+      },
+      "summary": {
+        "sc": "Sompo Life Re设立新的百慕大注册寿险再保平台，并与科技型资产负债管理（ALM）专家Agam Capital签署多年期服务协议；Agam在筹建期协助运营建设并取得百慕大牌照。百慕大寿险再保平台持续扩容，与香港高净值万用寿险再保安排形成联动。[EN原文]",
+        "tc": "Sompo Life Re設立新的百慕大註冊壽險再保平台，並與科技型資產負債管理（ALM）專家Agam Capital簽署多年期服務協議；Agam在籌建期協助營運建設並取得百慕大牌照。百慕大壽險再保平台持續擴容，與香港高淨值萬用壽險再保安排形成聯動。[EN原文]"
+      },
+      "why": {
+        "sc": "百慕大平台=香港IUL/高净值保单再保链条的关键一环；平台扩容提示离岸架构与再保服务需求持续上升。",
+        "tc": "百慕大平台=香港IUL/高淨值保單再保鏈條的關鍵一環；平台擴容提示離岸架構與再保服務需求持續上升。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "百慕大再保扩容=离岸架构信号",
+          "tc": "百慕大再保擴容=離岸架構信號"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer",
+        "product"
+      ],
+      "themes": [
+        "reinsurance",
+        "bermuda",
+        "hnw"
+      ],
+      "tags": {
+        "sc": [
+          "再保险",
+          "百慕大",
+          "Sompo",
+          "高净值",
+          "资产负债管理"
+        ],
+        "tc": [
+          "再保險",
+          "百慕大",
+          "Sompo",
+          "高淨值",
+          "資產負債管理"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-10T06:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/sompo-life-re-launches-bermuda-platform",
+      "ingestedAt": "2026-08-11T18:08:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ib-bhsi-macau-20260810",
+      "clusterCount": 1,
+      "score": 64,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag:bhsi-macau-20260810",
+      "title": {
+        "sc": "伯克希尔旗下BHSI进军澳门 再保部门Q2承保改善",
+        "tc": "伯克希爾旗下BHSI進軍澳門 再保部門Q2承保改善"
+      },
+      "summary": {
+        "sc": "伯克希尔Q2净利257亿美元（上年同期124亿），主要受127亿美元投资收益推动；再保集团BHRG承保业绩改善（前期准备金有利释放），BHSI扩展澳门市场。正值Aon警示中东风险令海事、航空与贸易险条款收紧，区域承保容量增加。[EN原文]",
+        "tc": "伯克希爾Q2淨利257億美元（上年同期124億），主要受127億美元投資收益推動；再保集團BHRG承保業績改善（前期準備金有利釋放），BHSI擴展澳門市場。正值Aon警示中東風險令海事、航空與貿易險條款收緊，區域承保容量增加。[EN原文]"
+      },
+      "why": {
+        "sc": "伯克希尔再保扩容+澳门落子=区域商险容量与竞争格局变量，对澳门/香港商业险排分与再保安排有参考意义。",
+        "tc": "伯克希爾再保擴容+澳門落子=區域商險容量與競爭格局變量，對澳門/香港商業險排分與再保安排有參考意義。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Business",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer",
+        "market"
+      ],
+      "themes": [
+        "berkshire",
+        "macau",
+        "reinsurance"
+      ],
+      "tags": {
+        "sc": [
+          "伯克希尔",
+          "BHSI",
+          "澳门",
+          "再保险",
+          "商险容量"
+        ],
+        "tc": [
+          "伯克希爾",
+          "BHSI",
+          "澳門",
+          "再保險",
+          "商險容量"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-10T01:53:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/bhsi-expands-into-macau-as-berkshires-reinsurance-arm-posts-a-stronger-quarter-585472.aspx",
+      "ingestedAt": "2026-08-11T18:08:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ib-soft-market-fraying-20260810",
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag:soft-market-fraying-20260810",
+      "title": {
+        "sc": "Aon全球商险季报：费率续跌 车险/责任险/D&O显软周期裂痕",
+        "tc": "Aon全球商險季報：費率續跌 車險/責任險/D&O顯軟週期裂痕"
+      },
+      "summary": {
+        "sc": "Aon Q2 2026全球保险市场概览：容量充裕、竞争激烈，多数客户续保仍享费率优惠；但车险、美国敞口责任险与D&O等板块率先出现软周期松动迹象；Marsh英国商险费率Q2跌8%、财产险跌11%。[EN原文]",
+        "tc": "Aon Q2 2026全球保險市場概覽：容量充裕、競爭激烈，多數客戶續保仍享費率優惠；但車險、美國敞口責任險與D&O等板塊率先出現軟週期鬆動跡象；Marsh英國商險費率Q2跌8%、財產險跌11%。[EN原文]"
+      },
+      "why": {
+        "sc": "软周期「边缘裂痕」=续保议价窗口仍在但收窄，D&O/责任险客户宜趁窗口锁定条件，经纪排分需加速。",
+        "tc": "軟週期「邊緣裂痕」=續保議價窗口仍在但收窄，D&O/責任險客戶宜趁窗口鎖定條件，經紀排分需加速。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Business",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "pricing",
+        "soft-market",
+        "dando"
+      ],
+      "tags": {
+        "sc": [
+          "费率",
+          "软周期",
+          "D&O",
+          "责任险",
+          "车险"
+        ],
+        "tc": [
+          "費率",
+          "軟週期",
+          "D&O",
+          "責任險",
+          "車險"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-10T01:24:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/rates-keep-falling-but-car-casualty-and-dando-show-where-the-soft-market-is-fraying-585466.aspx",
+      "ingestedAt": "2026-08-11T18:08:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "hkma-dfsa-climate-conf-20260810",
+      "clusterCount": 1,
+      "score": 86,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma:dfsa-climate-conf-20260810",
+      "title": {
+        "sc": "金管局与迪拜金管局合办第三届气候金融会议 9月10日香港举行",
+        "tc": "金管局與杜拜金管局合辦第三屆氣候金融會議 9月10日香港舉行"
+      },
+      "summary": {
+        "sc": "金管局与迪拜金融服务管理局（DFSA）宣布，第三届联合气候金融会议将于9月10日在香港举行，主题「在变化世界中推动转型」，由港交所与纳斯达克迪拜支持；将汇聚企业领袖、投资者与政策制定者，探讨亚洲与中东气候金融合作及创新融资方案。",
+        "tc": "金管局與杜拜金融服務管理局（DFSA）宣佈，第三屆聯合氣候金融會議將於9月10日在香港舉行，主題「在變化世界中推動轉型」，由港交所與納斯達克杜拜支持；將匯聚企業領袖、投資者與政策制定者，探討亞洲與中東氣候金融合作及創新融資方案。"
+      },
+      "why": {
+        "sc": "气候金融=香港国际金融中心新叙事；会议议程可预告监管与产品方向，也是机构客户与家办的话题素材。",
+        "tc": "氣候金融=香港國際金融中心新敘事；會議議程可預告監管與產品方向，也是機構客戶與家辦的話題素材。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "9月气候金融会议=机构客户话题",
+          "tc": "9月氣候金融會議=機構客戶話題"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "HKMA",
+        "lang": "zh+en"
+      },
+      "boards": [
+        "reg",
+        "market"
+      ],
+      "themes": [
+        "climate",
+        "esg",
+        "conference"
+      ],
+      "tags": {
+        "sc": [
+          "气候金融",
+          "金管局",
+          "DFSA",
+          "转型",
+          "ESG"
+        ],
+        "tc": [
+          "氣候金融",
+          "金管局",
+          "DFSA",
+          "轉型",
+          "ESG"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-08-10T00:00:00+08:00",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260810-3/",
+      "ingestedAt": "2026-08-11T18:08:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
     },
     {
       "id": "mox-travel-cover-202607",
@@ -8588,6 +8588,76 @@ window.HKII_DATA = {
       "originalUrl": "https://www.henleyglobal.com/services/education"
     },
     {
+      "id": "axa-redomicile-hk-2026",
+      "clusterCount": 1,
+      "score": 82,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "axa",
+      "title": {
+        "sc": "AXA 安盛宣布策略性迁册回港：首批迁册保险公司之一",
+        "tc": "AXA 安盛宣佈策略性遷冊回港：首批遷冊保險公司之一"
+      },
+      "summary": {
+        "sc": "AXA 安盛香港及澳门宣布：根据香港新引入的公司迁册制度，安盛保险（百慕达）计划在监管批准后将注册地由百慕达迁册至香港，完成后更名为安盛金融保险（香港）有限公司。作为首批迁册回港的保险公司之一，此决定被视为扎根香港、简化汇报和监管流程的战略举措。",
+        "tc": "AXA 安盛香港及澳門宣佈：根據香港新引入的公司遷冊制度，安盛保險（百慕達）計劃將註冊地由百慕達遷冊至香港，完成後更名為安盛金融保險（香港）有限公司。"
+      },
+      "why": {
+        "sc": "AXA 是继宏利之后第二家大型外资迁册回港=迁册制度从「个案」变「趋势」。对 IFA：保司注册地迁移影响保单适用的法律与监管环境（香港 RBC vs 百慕达），给客户解释公司「扎根香港」承诺时这是硬证据。",
+        "tc": "AXA 是繼宏利之後第二家大型外資遷冊回港=遷冊制度從「個案」變「趨勢」。對 IFA：保司註冊地遷移影響保單適用的法律與監管環境。"
+      },
+      "actions": {
+        "front": {
+          "sc": "AXA迁册=继宏利后的第二家",
+          "tc": "AXA遷冊=繼宏利後的第二家"
+        },
+        "midback": {
+          "sc": "注册地变化=保单法律环境的变化",
+          "tc": "註冊地變化=保單法律環境的變化"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "迁册潮=香港枢纽地位的注脚",
+          "tc": "遷冊潮=香港樞紐地位的注腳"
+        }
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 4,
+        "lead": 2,
+        "cross": 4
+      },
+      "source": {
+        "sc": "AXA 安盛 · 2026年",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "firm",
+        "reg",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "AXA",
+          "迁册",
+          "百慕达",
+          "首批"
+        ],
+        "tc": [
+          "AXA",
+          "遷冊",
+          "百慕達",
+          "首批"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-07-15T10:00:00+08:00",
+      "originalUrl": "https://www.axa.com.hk/zh/article/axa-announces-strategic-re-domiciliation-to-hong-kong"
+    },
+    {
       "id": "ia-licence-20260630",
       "title": {
         "sc": "持牌中介统计（截至2026-06-30）：个人持牌约12.25万，经纪公司810家。",
@@ -11106,6 +11176,71 @@ window.HKII_DATA = {
       ]
     },
     {
+      "id": "fwd-top-insurer-award-202606",
+      "clusterCount": 1,
+      "score": 68,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "fwd",
+      "title": {
+        "sc": "富卫膺「领先年度保险公司」：彭博商业周刊 22 项大奖，连续 9 年获奖最多",
+        "tc": "富衛膺「領先年度保險公司」：彭博商業周刊 22 項大獎，連續 9 年獲獎最多"
+      },
+      "summary": {
+        "sc": "2026 年 6 月 26 日，富卫在《彭博商业周刊/中文版》「金融机构 2026」评选中首夺新设最高荣誉「领先年度保险公司」，并第三度获「年度保险公司」，共囊括 22 项大奖（16 项卓越 + 6 项杰出），连续九年成为获奖最多的保险公司。",
+        "tc": "2026 年 6 月 26 日，富衛在《彭博商業周刊/中文版》「金融機構 2026」評選中首奪新設最高榮譽「領先年度保險公司」，共囊括 22 項大獎，連續九年成為獲獎最多的保險公司。"
+      },
+      "why": {
+        "sc": "富卫 2025-2026 的奖杯潮背后是品牌与渠道双升。对 IFA：客户认知层面「富卫=获奖王」已建立，上市（1828.HK）+ 新总部富卫中心+ 连续 9 年最多奖——这些是给客户讲公司实力的现成素材。",
+        "tc": "富衛 2025-2026 的獎盃潮背後是品牌與渠道雙升。上市（1828.HK）+ 新總部富衛中心+ 連續 9 年最多獎——這些是給客戶講公司實力的現成素材。"
+      },
+      "actions": {
+        "front": {
+          "sc": "获奖22项=讲公司实力的素材库",
+          "tc": "獲獎22項=講公司實力的素材庫"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "品牌势能=团队招募的加分项",
+          "tc": "品牌勢能=團隊招募的加分項"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 3,
+        "cross": 1
+      },
+      "source": {
+        "sc": "富卫香港 · 2026年6月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "firm",
+        "brand",
+        "channel"
+      ],
+      "tags": {
+        "sc": [
+          "富卫",
+          "领先年度保险公司",
+          "22项大奖"
+        ],
+        "tc": [
+          "富衛",
+          "領先年度保險公司",
+          "22項大獎"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-06-26T10:00:00+08:00",
+      "originalUrl": "https://www.fwd.com.hk/zh/about-us/"
+    },
+    {
       "id": "ia-20260625-manulife-convention",
       "clusterCount": 1,
       "score": 70,
@@ -13184,6 +13319,76 @@ window.HKII_DATA = {
       "contentKind": "product_notice"
     },
     {
+      "id": "axa-global-private-202606",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "axa",
+      "title": {
+        "sc": "AXA 推 Global Private 专攻高净值客：入场门槛 1000 万起，港澳为双枢纽",
+        "tc": "AXA 推 Global Private 專攻高淨值客：入場門檻 1000 萬起，港澳為雙樞紐"
+      },
+      "summary": {
+        "sc": "2026 年 6 月 8 日，安盛集团推出全新业务 AXA Global Private，专攻高净值/超高净值人士及跨国家族一站式跨境财富管理。平台整合财富规划、风险保障与资产传承，基础保障涵盖人寿、健康、财富，另设豪宅、艺术藏品、绑架勒索等定制保障；以香港、百慕达为双枢纽，入场门槛 1000 万至 5000 万元。",
+        "tc": "2026 年 6 月 8 日，安盛集團推出全新業務 AXA Global Private，專攻高淨值/超高淨值人士及跨國家族一站式跨境財富管理。以香港、百慕達為雙樞紐，入場門檻 1000 萬至 5000 萬元。"
+      },
+      "why": {
+        "sc": "AXA Global Private=国际巨头对香港高净值市场的重仓表态（CEO Buberl 亲自站台）。对 IFA：家办/高净值赛道多了安盛这个重量级玩家——跨境财富+家族传承+定制保障是新的竞争维度，与友邦、宏利的高净值布局直接对垒。",
+        "tc": "AXA Global Private=國際巨頭對香港高淨值市場的重倉表態。對 IFA：家辦/高淨值賽道多了安盛這個重量級玩家。"
+      },
+      "actions": {
+        "front": {
+          "sc": "AXA高净值平台=家办赛道新玩家",
+          "tc": "AXA高淨值平台=家辦賽道新玩家"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "1000万门槛=高净值客户的分层信号",
+          "tc": "1000萬門檻=高淨值客戶的分層信號"
+        },
+        "cross": {
+          "sc": "跨境财富平台=高净值服务的国际化",
+          "tc": "跨境財富平台=高淨值服務的國際化"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 2,
+        "lead": 3,
+        "cross": 4
+      },
+      "source": {
+        "sc": "AXA 安盛 · 2026年6月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "firm",
+        "family-office",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "AXA",
+          "Global Private",
+          "高净值",
+          "1000万"
+        ],
+        "tc": [
+          "AXA",
+          "Global Private",
+          "高淨值",
+          "1000萬"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-06-08T10:00:00+08:00",
+      "originalUrl": "https://www.stheadline.com/realtime-finance/3580826/"
+    },
+    {
       "id": "ia-20260605-hkma-remuneration-circ",
       "clusterCount": 1,
       "score": 86,
@@ -14756,6 +14961,73 @@ window.HKII_DATA = {
       "contentKind": "press"
     },
     {
+      "id": "fwd-2025-hk-premium-59-202605",
+      "clusterCount": 1,
+      "score": 76,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "fwd",
+      "title": {
+        "sc": "富卫香港 2025 新业务首年保费 +59%：分红保险居全港第三",
+        "tc": "富衛香港 2025 新業務首年保費 +59%：分紅保險居全港第三"
+      },
+      "summary": {
+        "sc": "据保监局临时统计：富卫香港 2025 年新业务首年保费按年 +59%，年度化保费 +41%，均优于行业平均（51%/38%）；分红保险产品新业务首年保费居全港第三。专属代理人团队人数 +11%，为行业平均升幅逾五倍。",
+        "tc": "據保監局臨時統計：富衛香港 2025 年新業務首年保費按年 +59%，年度化保費 +41%，均優於行業平均；分紅保險產品新業務首年保費居全港第三。"
+      },
+      "why": {
+        "sc": "富卫三项指标跑赢市场=非巨头保司的进攻样本。对 IFA：富卫代理人数 +11%（行业 5 倍速度）说明它在抢人；分红保险全港第三说明产品力已入第一梯队——客户比价时富卫不再是「小公司」。",
+        "tc": "富衛三項指標跑贏市場=非巨頭保司的進攻樣本。對 IFA：富衛代理人数 +11% 說明它在搶人；分紅保險全港第三說明產品力已入第一梯隊。"
+      },
+      "actions": {
+        "front": {
+          "sc": "富卫三项跑赢=比价时的第三选择",
+          "tc": "富衛三項跑贏=比價時的第三選擇"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "代理+11%=富卫抢人速度的量化",
+          "tc": "代理+11%=富衛搶人速度的量化"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 3,
+        "cross": 1
+      },
+      "source": {
+        "sc": "富卫香港 · 2026年5月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "firm",
+        "market",
+        "channel"
+      ],
+      "tags": {
+        "sc": [
+          "富卫",
+          "首年保费",
+          "+59%",
+          "分红保险"
+        ],
+        "tc": [
+          "富衛",
+          "首年保費",
+          "+59%",
+          "分紅保險"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-05-08T10:00:00+08:00",
+      "originalUrl": "https://us.aastocks.com/sc/mobile/news.aspx?newsid=NOW.1523552"
+    },
+    {
       "id": "cpic-20260504-gen3",
       "clusterCount": 1,
       "score": 84,
@@ -15310,6 +15582,70 @@ window.HKII_DATA = {
       "themes": [
         "market"
       ]
+    },
+    {
+      "id": "sunlife-ape-118-2025",
+      "clusterCount": 1,
+      "score": 78,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "sunlife",
+      "title": {
+        "sc": "永明 2025 全年新造业务 APE 118 亿 +46%：跻身首五大非银行保司",
+        "tc": "永明 2025 全年新造業務 APE 118 億 +46%：躋身首五大非銀行保司"
+      },
+      "summary": {
+        "sc": "Sun Life 永明 2025 年全年新造业务年度化标准保费（APE）录得 118 亿港元，按年大幅攀升 46%，创历史新高，跻身香港首五大非银行保险公司之列。经纪渠道 APE 按年升 1.44 倍蝉联市场第一，代理人渠道 +50%，银保渠道 +53%。",
+        "tc": "Sun Life 永明 2025 年全年新造業務年度化標準保費（APE）錄得 118 億港元，按年大幅攀升 46%，創歷史新高，躋身香港首五大非銀行保險公司之列。"
+      },
+      "why": {
+        "sc": "永明晋升首五大=中腰保司格局在变化。对 IFA：经纪渠道 +144% 蝉联第一说明永明正重仓经纪/独立代理渠道——与富卫、友邦的渠道策略形成对照，选保司时渠道支持力度是实际体验差异。",
+        "tc": "永明晉升首五大=中腰保司格局在變化。對 IFA：經紀渠道 +144% 蟬聯第一說明永明正重倉經紀/獨立代理渠道。"
+      },
+      "actions": {
+        "front": {
+          "sc": "经纪渠道+144%=永明的渠道重心",
+          "tc": "經紀渠道+144%=永明的渠道重心"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "永明金融香港 · 2026年4月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "firm",
+        "market",
+        "channel"
+      ],
+      "tags": {
+        "sc": [
+          "永明",
+          "APE",
+          "118亿",
+          "首五大"
+        ],
+        "tc": [
+          "永明",
+          "APE",
+          "118億",
+          "首五大"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-04-24T10:00:00+08:00",
+      "originalUrl": "https://www.sunlife.com.hk/zh-hant/about-us/newsroom/news-releases/"
     },
     {
       "id": "ctflife-20260422-artisan-leap",
@@ -16273,6 +16609,73 @@ window.HKII_DATA = {
       "contentKind": "report",
       "publishedAt": "2026-04-05T10:00:00+08:00",
       "originalUrl": "https://www.ctflife.com.hk/tc/support/important-information/fulfillment-ratios-dividends"
+    },
+    {
+      "id": "sunlife-sungift-global-ii-202604",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "sunlife",
+      "title": {
+        "sc": "永明「万年青·星河」系列 II 升级：9 种货币 + 1% 最高保证回报",
+        "tc": "永明「萬年青·星河」系列 II 升級：9 種貨幣 + 1% 最高保證回報"
+      },
+      "summary": {
+        "sc": "2026 年 4 月，永明「万年青·星河」系列 II 升级：新增新加坡元、欧元、迪拉姆共 9 种保单货币（5 种核心货币回报相同）；提供市场最高 1% 保证回报——在 RBC 监管下保证回报需计提巨额资本金，被视为永明稳健实力的体现。",
+        "tc": "2026 年 4 月，永明「萬年青·星河」系列 II 升級：新增新加坡元、歐元、迪拉姆共 9 種保單貨幣；提供市場最高 1% 保證回報。"
+      },
+      "why": {
+        "sc": "「9 币种 + 1% 保证」=储蓄险竞争参数再升级。对 IFA：货币数量与保证回报是客户最直观的对比项——永明用「市场最高保证」卡位，说明 RBC 下愿意为保证付出资本成本。比较产品时这是新维度。",
+        "tc": "「9 幣種 + 1% 保證」=儲蓄險競爭參數再升級。比較產品時這是新維度。"
+      },
+      "actions": {
+        "front": {
+          "sc": "9币种+1%保证=储蓄险对比新参数",
+          "tc": "9幣種+1%保證=儲蓄險對比新參數"
+        },
+        "midback": {
+          "sc": "保证回报=RBC资本成本的定价信号",
+          "tc": "保證回報=RBC資本成本的定價信號"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 2,
+        "lead": 1,
+        "cross": 2
+      },
+      "source": {
+        "sc": "永明金融香港 · 2026年4月",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "product",
+        "par",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "永明",
+          "万年青星河",
+          "9币种",
+          "保证回报"
+        ],
+        "tc": [
+          "永明",
+          "萬年青星河",
+          "9幣種",
+          "保證回報"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-04-03T10:00:00+08:00",
+      "originalUrl": "https://www.sunlife.com.hk/zh-hans/insurance/wealth-management/savings/sungift-global-ii/"
     },
     {
       "id": "boclife-fr-disclosure-2026",
@@ -33504,10 +33907,10 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 388 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 388 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 394 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 394 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 388,
+      "totalItems": 394,
       "sourceTiers": [
         {
           "tier": "official",
@@ -33516,7 +33919,7 @@ window.HKII_DATA = {
         },
         {
           "tier": "insurer",
-          "count": 89,
+          "count": 95,
           "label": "保司公告"
         },
         {
@@ -33600,22 +34003,22 @@ window.HKII_DATA = {
       "topThemes": [
         {
           "theme": "market",
-          "count": 141,
+          "count": 143,
           "label": "市场"
         },
         {
           "theme": "reg",
-          "count": 70,
+          "count": 71,
           "label": "监管"
         },
         {
           "theme": "firm",
-          "count": 62,
+          "count": 68,
           "label": "保司"
         },
         {
           "theme": "offshore",
-          "count": 58,
+          "count": 60,
           "label": "跨境"
         },
         {
@@ -33625,12 +34028,12 @@ window.HKII_DATA = {
         },
         {
           "theme": "product",
-          "count": 50,
+          "count": 51,
           "label": "产品"
         },
         {
           "theme": "channel",
-          "count": 32,
+          "count": 35,
           "label": "渠道"
         },
         {
@@ -33644,9 +34047,9 @@ window.HKII_DATA = {
           "label": "reinsurance"
         },
         {
-          "theme": "tech",
+          "theme": "family-office",
           "count": 22,
-          "label": "科技"
+          "label": "家办"
         }
       ],
       "dateRange": {

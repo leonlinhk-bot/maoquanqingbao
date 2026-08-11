@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-11T10:18:34Z",
-  "itemCount": 388,
+  "generatedAt": "2026-08-11T11:15:45Z",
+  "itemCount": 394,
   "items": [
     {
       "id": "ib-swissre-natcat-h1-2026",
@@ -17,20 +17,6 @@
       "score": 72,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ib-swissre-natcat-h1-2026",
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/catastrophe/sixyearlow-catastrophe-losses-arent-the-reassurance-they-look-like-585669.aspx"
-    },
-    {
-      "id": "ib-typhoon-dolphin-20260811",
-      "title": "台风「白海豚」登陆浙江玉环 中国菲律宾多险种同时触发赔付累积",
-      "sourceTier": "media",
-      "themes": [
-        "natcat",
-        "marine",
-        "china"
-      ],
-      "publishedAt": "2026-08-11T08:22:00+08:00",
-      "score": 64,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ib-typhoon-dolphin-20260811",
-      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/catastrophe/dolphin-is-not-one-loss--it-is-an-accumulation-problem-across-two-markets-585556.aspx"
     },
     {
       "id": "hk-tax-prop-trading-20260811",
@@ -75,20 +61,6 @@
       "originalUrl": "https://insuranceasia.com/insurance/news/australias-safetyculture-rebrands-mitti-insurance-and-eyes-us-expansion"
     },
     {
-      "id": "ia-china-tax-sales-20260811",
-      "title": "港险征税后续：20%个税令收益差收窄 友邦保诚股价续跌",
-      "sourceTier": "media",
-      "themes": [
-        "taxation",
-        "cross-border",
-        "market"
-      ],
-      "publishedAt": "2026-08-11T05:30:00+08:00",
-      "score": 68,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-china-tax-sales-20260811",
-      "originalUrl": "https://insuranceasia.com/insurance/news/china-insurance-tax-threatens-sales-prudential-and-aia-slide"
-    },
-    {
       "id": "ia-asia-wealth-transfer-20260811",
       "title": "亚洲财富传承潮：宏利新加坡3.84亿美元巨额寿险保单刷新纪录",
       "sourceTier": "media",
@@ -103,18 +75,18 @@
       "originalUrl": "https://insuranceasia.com/commentary/financing-challenge-behind-asias-wealth-transfer"
     },
     {
-      "id": "ia-sompo-life-re-bermuda-20260810",
-      "title": "损保生命再保推百慕大平台 携手Agam Capital深化资产负债管理",
+      "id": "ib-typhoon-dolphin-20260811",
+      "title": "台风「白海豚」登陆浙江玉环 中国菲律宾多险种同时触发赔付累积",
       "sourceTier": "media",
       "themes": [
-        "reinsurance",
-        "bermuda",
-        "hnw"
+        "natcat",
+        "marine",
+        "china"
       ],
-      "publishedAt": "2026-08-10T06:00:00+08:00",
+      "publishedAt": "2026-08-11T08:22:00+08:00",
       "score": 64,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-sompo-life-re-bermuda-20260810",
-      "originalUrl": "https://insuranceasia.com/insurance/news/sompo-life-re-launches-bermuda-platform"
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ib-typhoon-dolphin-20260811",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/catastrophe/dolphin-is-not-one-loss--it-is-an-accumulation-problem-across-two-markets-585556.aspx"
     },
     {
       "id": "ia-aon-wars-tighten-20260811",
@@ -131,18 +103,18 @@
       "originalUrl": "https://insuranceasia.com/insurance/news/insurance-prices-fall-wars-push-insurers-tighten-checks-aon"
     },
     {
-      "id": "ia-japan-unwind-stakes-20260811",
-      "title": "日本非寿险巨头加速减持战略持股 监管问责驱动资本重置",
+      "id": "ia-china-tax-sales-20260811",
+      "title": "港险征税后续：20%个税令收益差收窄 友邦保诚股价续跌",
       "sourceTier": "media",
       "themes": [
-        "capital",
-        "japan",
-        "shareholding"
+        "taxation",
+        "cross-border",
+        "market"
       ],
-      "publishedAt": "2026-08-11T05:00:00+08:00",
-      "score": 62,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-japan-unwind-stakes-20260811",
-      "originalUrl": "https://insuranceasia.com/insurance/exclusive/japan-insurers-unwind-corporate-stakes-after-misconduct"
+      "publishedAt": "2026-08-11T05:30:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-china-tax-sales-20260811",
+      "originalUrl": "https://insuranceasia.com/insurance/news/china-insurance-tax-threatens-sales-prudential-and-aia-slide"
     },
     {
       "id": "ia-trade-disruption-demand-20260811",
@@ -159,74 +131,18 @@
       "originalUrl": "https://insuranceasia.com/insurance/news/two-in-five-businesses-expect-trade-disruption-cover-lead-demand"
     },
     {
-      "id": "ia-ai-datacenter-risks-20260810",
-      "title": "专家意见：AI或使全球数据中心用电2030年前近翻三倍 险企须重估敞口",
+      "id": "ia-japan-unwind-stakes-20260811",
+      "title": "日本非寿险巨头加速减持战略持股 监管问责驱动资本重置",
       "sourceTier": "media",
       "themes": [
-        "datacenter",
-        "ai",
-        "energy"
+        "capital",
+        "japan",
+        "shareholding"
       ],
-      "publishedAt": "2026-08-10T11:00:00+08:00",
+      "publishedAt": "2026-08-11T05:00:00+08:00",
       "score": 62,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-ai-datacenter-risks-20260810",
-      "originalUrl": "https://insuranceasia.com/insurance/expert-opinion/how-can-insurers-keep-ai-data-centre-risks"
-    },
-    {
-      "id": "hkma-dfsa-climate-conf-20260810",
-      "title": "金管局与迪拜金管局合办第三届气候金融会议 9月10日香港举行",
-      "sourceTier": "official",
-      "themes": [
-        "climate",
-        "esg",
-        "conference"
-      ],
-      "publishedAt": "2026-08-10T00:00:00+08:00",
-      "score": 86,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-dfsa-climate-conf-20260810",
-      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260810-3/"
-    },
-    {
-      "id": "ib-bhsi-macau-20260810",
-      "title": "伯克希尔旗下BHSI进军澳门 再保部门Q2承保改善",
-      "sourceTier": "media",
-      "themes": [
-        "berkshire",
-        "macau",
-        "reinsurance"
-      ],
-      "publishedAt": "2026-08-10T01:53:00+08:00",
-      "score": 64,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ib-bhsi-macau-20260810",
-      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/bhsi-expands-into-macau-as-berkshires-reinsurance-arm-posts-a-stronger-quarter-585472.aspx"
-    },
-    {
-      "id": "ib-soft-market-fraying-20260810",
-      "title": "Aon全球商险季报：费率续跌 车险/责任险/D&O显软周期裂痕",
-      "sourceTier": "media",
-      "themes": [
-        "pricing",
-        "soft-market",
-        "dando"
-      ],
-      "publishedAt": "2026-08-10T01:24:00+08:00",
-      "score": 62,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ib-soft-market-fraying-20260810",
-      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/rates-keep-falling-but-car-casualty-and-dando-show-where-the-soft-market-is-fraying-585466.aspx"
-    },
-    {
-      "id": "ib-openai-cyber-20260810",
-      "title": "OpenAI暂停新模型研发 网络险承保人：AI威胁从预期变成现实",
-      "sourceTier": "media",
-      "themes": [
-        "cyber",
-        "ai",
-        "underwriting"
-      ],
-      "publishedAt": "2026-08-10T17:40:00+08:00",
-      "score": 63,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ib-openai-cyber-20260810",
-      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/insurers-thought-the-threat-to-cyber-was-bad-from-ai--now-even-openai-is-scared-585507.aspx"
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-japan-unwind-stakes-20260811",
+      "originalUrl": "https://insuranceasia.com/insurance/exclusive/japan-insurers-unwind-corporate-stakes-after-misconduct"
     },
     {
       "id": "oncc-hsbc-aia-tp-20260810",
@@ -257,6 +173,34 @@
       "originalUrl": "https://www.stcn.com/article/detail/4068321.html"
     },
     {
+      "id": "ib-openai-cyber-20260810",
+      "title": "OpenAI暂停新模型研发 网络险承保人：AI威胁从预期变成现实",
+      "sourceTier": "media",
+      "themes": [
+        "cyber",
+        "ai",
+        "underwriting"
+      ],
+      "publishedAt": "2026-08-10T17:40:00+08:00",
+      "score": 63,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ib-openai-cyber-20260810",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/insurers-thought-the-threat-to-cyber-was-bad-from-ai--now-even-openai-is-scared-585507.aspx"
+    },
+    {
+      "id": "ia-ai-datacenter-risks-20260810",
+      "title": "专家意见：AI或使全球数据中心用电2030年前近翻三倍 险企须重估敞口",
+      "sourceTier": "media",
+      "themes": [
+        "datacenter",
+        "ai",
+        "energy"
+      ],
+      "publishedAt": "2026-08-10T11:00:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-ai-datacenter-risks-20260810",
+      "originalUrl": "https://insuranceasia.com/insurance/expert-opinion/how-can-insurers-keep-ai-data-centre-risks"
+    },
+    {
       "id": "hk-retirement-family-202608",
       "title": "调查：五分一港人期望子女资助退休及护理费",
       "sourceTier": "media",
@@ -269,6 +213,62 @@
       "score": 66,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hk-retirement-family-202608",
       "originalUrl": "https://insuranceasia.com/market/hong-kong"
+    },
+    {
+      "id": "ia-sompo-life-re-bermuda-20260810",
+      "title": "损保生命再保推百慕大平台 携手Agam Capital深化资产负债管理",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "bermuda",
+        "hnw"
+      ],
+      "publishedAt": "2026-08-10T06:00:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-sompo-life-re-bermuda-20260810",
+      "originalUrl": "https://insuranceasia.com/insurance/news/sompo-life-re-launches-bermuda-platform"
+    },
+    {
+      "id": "ib-bhsi-macau-20260810",
+      "title": "伯克希尔旗下BHSI进军澳门 再保部门Q2承保改善",
+      "sourceTier": "media",
+      "themes": [
+        "berkshire",
+        "macau",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-08-10T01:53:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ib-bhsi-macau-20260810",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/bhsi-expands-into-macau-as-berkshires-reinsurance-arm-posts-a-stronger-quarter-585472.aspx"
+    },
+    {
+      "id": "ib-soft-market-fraying-20260810",
+      "title": "Aon全球商险季报：费率续跌 车险/责任险/D&O显软周期裂痕",
+      "sourceTier": "media",
+      "themes": [
+        "pricing",
+        "soft-market",
+        "dando"
+      ],
+      "publishedAt": "2026-08-10T01:24:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ib-soft-market-fraying-20260810",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/rates-keep-falling-but-car-casualty-and-dando-show-where-the-soft-market-is-fraying-585466.aspx"
+    },
+    {
+      "id": "hkma-dfsa-climate-conf-20260810",
+      "title": "金管局与迪拜金管局合办第三届气候金融会议 9月10日香港举行",
+      "sourceTier": "official",
+      "themes": [
+        "climate",
+        "esg",
+        "conference"
+      ],
+      "publishedAt": "2026-08-10T00:00:00+08:00",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-dfsa-climate-conf-20260810",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260810-3/"
     },
     {
       "id": "mox-travel-cover-202607",
@@ -1562,6 +1562,20 @@
       "originalUrl": "https://www.henleyglobal.com/services/education"
     },
     {
+      "id": "axa-redomicile-hk-2026",
+      "title": "AXA 安盛宣布策略性迁册回港：首批迁册保险公司之一",
+      "sourceTier": "insurer",
+      "themes": [
+        "firm",
+        "reg",
+        "offshore"
+      ],
+      "publishedAt": "2026-07-15T10:00:00+08:00",
+      "score": 82,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=axa-redomicile-hk-2026",
+      "originalUrl": "https://www.axa.com.hk/zh/article/axa-announces-strategic-re-domiciliation-to-hong-kong"
+    },
+    {
       "id": "ia-licence-20260630",
       "title": "持牌中介统计（截至2026-06-30）：个人持牌约12.25万，经纪公司810家。",
       "sourceTier": "official",
@@ -2015,6 +2029,20 @@
       "originalUrl": "https://www.cntaiping.com/news/123435.html"
     },
     {
+      "id": "fwd-top-insurer-award-202606",
+      "title": "富卫膺「领先年度保险公司」：彭博商业周刊 22 项大奖，连续 9 年获奖最多",
+      "sourceTier": "insurer",
+      "themes": [
+        "firm",
+        "brand",
+        "channel"
+      ],
+      "publishedAt": "2026-06-26T10:00:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fwd-top-insurer-award-202606",
+      "originalUrl": "https://www.fwd.com.hk/zh/about-us/"
+    },
+    {
       "id": "ia-20260625-manulife-convention",
       "title": "宏利2026年度大会在香港举行：聚焦退休未来与AI驱动转型。",
       "sourceTier": "insurer",
@@ -2369,6 +2397,20 @@
       "originalUrl": "https://www.aia.com.hk/en/about-aia/about-us/media-centre/press-releases/2026/aia-press-release-20260608"
     },
     {
+      "id": "axa-global-private-202606",
+      "title": "AXA 推 Global Private 专攻高净值客：入场门槛 1000 万起，港澳为双枢纽",
+      "sourceTier": "insurer",
+      "themes": [
+        "firm",
+        "family-office",
+        "offshore"
+      ],
+      "publishedAt": "2026-06-08T10:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=axa-global-private-202606",
+      "originalUrl": "https://www.stheadline.com/realtime-finance/3580826/"
+    },
+    {
       "id": "ia-20260605-hkma-remuneration-circ",
       "title": "金管局发布银行保险中介分红报酬结构通函（平行通函）。",
       "sourceTier": "official",
@@ -2627,6 +2669,20 @@
       "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260508.html"
     },
     {
+      "id": "fwd-2025-hk-premium-59-202605",
+      "title": "富卫香港 2025 新业务首年保费 +59%：分红保险居全港第三",
+      "sourceTier": "insurer",
+      "themes": [
+        "firm",
+        "market",
+        "channel"
+      ],
+      "publishedAt": "2026-05-08T10:00:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fwd-2025-hk-premium-59-202605",
+      "originalUrl": "https://us.aastocks.com/sc/mobile/news.aspx?newsid=NOW.1523552"
+    },
+    {
       "id": "cpic-20260504-gen3",
       "title": "太保寿险香港推出「世代悦享3」储蓄保险计划——35周年献礼。",
       "sourceTier": "media",
@@ -2711,6 +2767,20 @@
       "score": 79,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-20260424-top-insurer",
       "originalUrl": "https://finance.yahoo.com/sectors/healthcare/articles/aia-hong-kong-leads-industry-135200472.html"
+    },
+    {
+      "id": "sunlife-ape-118-2025",
+      "title": "永明 2025 全年新造业务 APE 118 亿 +46%：跻身首五大非银行保司",
+      "sourceTier": "insurer",
+      "themes": [
+        "firm",
+        "market",
+        "channel"
+      ],
+      "publishedAt": "2026-04-24T10:00:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sunlife-ape-118-2025",
+      "originalUrl": "https://www.sunlife.com.hk/zh-hant/about-us/newsroom/news-releases/"
     },
     {
       "id": "ctflife-20260422-artisan-leap",
@@ -2884,6 +2954,20 @@
       "score": 69,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ctflife-fr-disclosure-2026",
       "originalUrl": "https://www.ctflife.com.hk/tc/support/important-information/fulfillment-ratios-dividends"
+    },
+    {
+      "id": "sunlife-sungift-global-ii-202604",
+      "title": "永明「万年青·星河」系列 II 升级：9 种货币 + 1% 最高保证回报",
+      "sourceTier": "insurer",
+      "themes": [
+        "product",
+        "par",
+        "firm"
+      ],
+      "publishedAt": "2026-04-03T10:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sunlife-sungift-global-ii-202604",
+      "originalUrl": "https://www.sunlife.com.hk/zh-hans/insurance/wealth-management/savings/sungift-global-ii/"
     },
     {
       "id": "boclife-fr-disclosure-2026",
