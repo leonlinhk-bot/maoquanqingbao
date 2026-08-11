@@ -2,10 +2,10 @@
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-11T18:08:00+08:00",
-    "itemCount": 419,
+    "itemCount": 423,
     "windowNote": {
-      "sc": "本库419条。",
-      "tc": "本庫419條。"
+      "sc": "本库423条。",
+      "tc": "本庫423條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -7904,6 +7904,140 @@
       "originalUrl": "https://mp.weixin.qq.com/s/nYovc-7UW75pt-560SjWGw"
     },
     {
+      "id": "q1-2026-channel-hsbc-2658",
+      "clusterCount": 1,
+      "score": 82,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "2026 Q1 渠道格局：银保占 42%，汇丰人寿市占 26.58% 居首",
+        "tc": "2026 Q1 渠道格局：銀保佔 42%，匯豐人壽市佔 26.58% 居首"
+      },
+      "summary": {
+        "sc": "2026 年 Q1：汇丰人寿新单总保费 374.83 亿港元（+86.56%），市占率从 21.53% 升至 26.58% 一家独大；宏利 159.41 亿（+107.15%）跃居第二；中银 148.58 亿（+68.89%）第三。银保渠道 593.64 亿占 42.09% 居首，经纪渠道 536.14 亿占 38%。",
+        "tc": "2026 年 Q1：匯豐人壽新單總保費 374.83 億港元（+86.56%），市佔率升至 26.58% 一家獨大；宏利 159.41 億（+107.15%）躍居第二。銀保渠道佔 42.09% 居首，經紀渠道佔 38%。"
+      },
+      "why": {
+        "sc": "汇丰 26.58%+银保 42%=渠道格局的「二八定律」在固化。对 IFA：银保越强，独立中介的差异化价值越凸显——经纪/IFA 的核心竞争力是跨品牌比较与中立服务，这是银行柜台给不了的。",
+        "tc": "匯豐 26.58%+銀保 42%=渠道格局的「二八定律」在固化。對 IFA：銀保越強，獨立中介的差異化價值越凸顯。"
+      },
+      "actions": {
+        "front": {
+          "sc": "银保42%=独立中介的差异化空间",
+          "tc": "銀保42%=獨立中介的差異化空間"
+        },
+        "midback": {
+          "sc": "渠道集中度=市场结构的注脚",
+          "tc": "渠道集中度=市場結構的注腳"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 3,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "保监局 2026Q1 统计 · 2026年7月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "channel",
+        "market",
+        "statistics"
+      ],
+      "tags": {
+        "sc": [
+          "2026Q1",
+          "汇丰",
+          "银保",
+          "渠道"
+        ],
+        "tc": [
+          "2026Q1",
+          "匯豐",
+          "銀保",
+          "渠道"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-07-24T10:00:00+08:00",
+      "originalUrl": "http://m.163.com/dy/article/L2RV4R9U0539U8OD.html"
+    },
+    {
+      "id": "boclife-2026q1-11089",
+      "clusterCount": 1,
+      "score": 73,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "boclife",
+      "title": {
+        "sc": "中银人寿 2026 Q1 新造标准保费 110.89 亿 +26%：养老金融深化",
+        "tc": "中銀人壽 2026 Q1 新造標準保費 110.89 億 +26%：養老金融深化"
+      },
+      "summary": {
+        "sc": "中银人寿 2026 Q1 新造标准保费 110.89 亿港元，同比 +26%。人民币保险业务市占近 5 成连续十多年第一；直销渠道 +200% 市场第一；MDRT 会员增速全港第一并蝉联全球百大。公司战略聚焦养老金融，深化健康及养老生态圈建设。",
+        "tc": "中銀人壽 2026 Q1 新造標準保費 110.89 億港元，同比 +26%。人民幣保險業務市佔近 5 成連續十多年第一；MDRT 會員增速全港第一。戰略聚焦養老金融。"
+      },
+      "why": {
+        "sc": "中银 Q1 +26%+养老金融战略=银保系的第二增长曲线。对 IFA：中银把「养老生态」（旅居/跨境/居家）作为差异化，与友邦「健康长寿」、宏利「退休方案」形成三足鼎立——理解各家战略重心才能精准匹配客户需求。",
+        "tc": "中銀 Q1 +26%+養老金融戰略=銀保系的第二增長曲線。對 IFA：中銀把「養老生態」作為差異化，理解各家戰略重心才能精準匹配客戶需求。"
+      },
+      "actions": {
+        "front": {
+          "sc": "中银Q1+26%=养老金融的样本",
+          "tc": "中銀Q1+26%=養老金融的樣本"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "养老生态=银保系第二曲线",
+          "tc": "養老生態=銀保系第二曲線"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 3,
+        "cross": 2
+      },
+      "source": {
+        "sc": "中银人寿 · 2026年7月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "firm",
+        "market",
+        "retirement"
+      ],
+      "tags": {
+        "sc": [
+          "中银",
+          "Q1",
+          "110.89亿",
+          "养老金融"
+        ],
+        "tc": [
+          "中銀",
+          "Q1",
+          "110.89億",
+          "養老金融"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-07-24T10:00:00+08:00",
+      "originalUrl": "https://www.boclife.com.hk/sc/news.html"
+    },
+    {
       "id": "allianz-hsbc-singapore-jul24",
       "clusterCount": 1,
       "score": 82,
@@ -9508,6 +9642,70 @@
       "contentKind": "press",
       "publishedAt": "2026-07-10T10:00:00+08:00",
       "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1264203&itemId=915"
+    },
+    {
+      "id": "hsbc-fr-newold-divide-2026",
+      "clusterCount": 1,
+      "score": 71,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "hsbc",
+      "title": {
+        "sc": "汇丰分红实现率「新老分化」：新产品 110%+，老产品 72%-78%",
+        "tc": "匯豐分紅實現率「新老分化」：新產品 110%+，老產品 72%-78%"
+      },
+      "summary": {
+        "sc": "2026 年 3 月修订版 GN16 落地后，汇丰分红实现率新老分化明显：新产品汇珑环球寿险特别红利第 3 年 121%、汇红宝环球寿险第 2 年 117%、汇盛人生连续四年 110%；而终身寿险年度红利第 10 年仅 72% 左右，乐全保/教育乐全保周年红利 72%-78%。",
+        "tc": "2026 年 3 月修訂版 GN16 落地後，匯豐分紅實現率新老分化明顯：新產品匯瓏環球壽險特別紅利第 3 年 121%、匯紅寶環球壽險第 2 年 117%；老產品終身壽險年度紅利第 10 年僅 72% 左右。"
+      },
+      "why": {
+        "sc": "汇丰「新老分化」=银行系保司分红策略的典型剖面。对 IFA：比实现率必须看「哪一代产品」——新产品 110%+ 与老产品 72% 并存，客户拿旧数据比价会误判。这是讲「实现率要看产品代际」的现成案例。",
+        "tc": "匯豐「新老分化」=銀行系保司分紅策略的典型剖面。對 IFA：比實現率必須看「哪一代產品」——這是講「實現率要看產品代際」的現成案例。"
+      },
+      "actions": {
+        "front": {
+          "sc": "新老分化=实现率比价的坑",
+          "tc": "新老分化=實現率比價的坑"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 2,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "雪球/保观 · 2026年7月",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "par",
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "汇丰",
+          "分红实现率",
+          "新老分化",
+          "GN16"
+        ],
+        "tc": [
+          "匯豐",
+          "分紅實現率",
+          "新老分化",
+          "GN16"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-07-10T10:00:00+08:00",
+      "originalUrl": "https://xueqiu.com/4195703616/399390046"
     },
     {
       "id": "ia-20260710-illustration-review",
@@ -17838,6 +18036,76 @@
       "themes": [
         "market"
       ]
+    },
+    {
+      "id": "ia-complaints-2025-down35",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "保监局《监管通讯》第 12 期：2025 投诉宗数 1,173 宗，同比 -35%",
+        "tc": "保監局《監管通訊》第 12 期：2025 投訴宗數 1,173 宗，同比 -35%"
+      },
+      "summary": {
+        "sc": "保监局 2026 年 3 月发布《监管通讯》第 12 期：2025 全年投诉 1,173 宗，同比 -35%（2024 年 1,805 宗、2023 年 1,564 宗）。投诉结构：中介人操守 26%、业务及日常营运纠纷 25%、理赔纠纷 23%、保单资料陈述/销售误导 19%。",
+        "tc": "保監局 2026 年 3 月發佈《監管通訊》第 12 期：2025 全年投訴 1,173 宗，同比 -35%。投訴結構：中介人操守 26%、業務及日常營運糾紛 25%、理賠糾紛 23%。"
+      },
+      "why": {
+        "sc": "投诉 -35%=监管三件套（演示上限/转介费/佣金分摊）的成效量化。对 IFA：监管力度与投诉下降的正相关，说明合规不是成本而是「行业健康度」——跟客户讲「港险越来越规范」时这是官方数据背书。",
+        "tc": "投訴 -35%=監管三件套的成效量化。對 IFA：跟客戶講「港險越來越規範」時這是官方數據背書。"
+      },
+      "actions": {
+        "front": {
+          "sc": "投诉-35%=合规成效的量化",
+          "tc": "投訴-35%=合規成效的量化"
+        },
+        "midback": {
+          "sc": "投诉结构=合规培训的方向",
+          "tc": "投訴結構=合規培訓的方向"
+        },
+        "lead": {
+          "sc": "监管成效=团队合规的底气",
+          "tc": "監管成效=團隊合規的底氣"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 4,
+        "lead": 3,
+        "cross": 1
+      },
+      "source": {
+        "sc": "保监局 · 2026年3月",
+        "lang": "zh"
+      },
+      "boards": [
+        "compliance"
+      ],
+      "themes": [
+        "compliance",
+        "reg",
+        "career"
+      ],
+      "tags": {
+        "sc": [
+          "监管通讯",
+          "投诉",
+          "1173宗",
+          "-35%"
+        ],
+        "tc": [
+          "監管通訊",
+          "投訴",
+          "1173宗",
+          "-35%"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-03-27T10:00:00+08:00",
+      "originalUrl": "https://m.hkhaobaoxian.com/method/hy/673.html"
     },
     {
       "id": "ia-20260327-cif12",
@@ -35566,19 +35834,19 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 419 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 419 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 423 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 423 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 419,
+      "totalItems": 423,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 163,
+          "count": 165,
           "label": "监管一手"
         },
         {
           "tier": "insurer",
-          "count": 103,
+          "count": 105,
           "label": "保司公告"
         },
         {
@@ -35662,17 +35930,17 @@
       "topThemes": [
         {
           "theme": "market",
-          "count": 147,
+          "count": 149,
           "label": "市场"
         },
         {
           "theme": "reg",
-          "count": 83,
+          "count": 84,
           "label": "监管"
         },
         {
           "theme": "firm",
-          "count": 73,
+          "count": 75,
           "label": "保司"
         },
         {
@@ -35682,12 +35950,12 @@
         },
         {
           "theme": "product",
-          "count": 57,
+          "count": 58,
           "label": "产品"
         },
         {
           "theme": "compliance",
-          "count": 54,
+          "count": 55,
           "label": "合规"
         },
         {
@@ -35697,7 +35965,7 @@
         },
         {
           "theme": "channel",
-          "count": 35,
+          "count": 36,
           "label": "渠道"
         },
         {
