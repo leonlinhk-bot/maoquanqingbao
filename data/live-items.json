@@ -2,10 +2,10 @@
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-11T18:08:00+08:00",
-    "itemCount": 406,
+    "itemCount": 411,
     "windowNote": {
-      "sc": "本库406条。",
-      "tc": "本庫406條。"
+      "sc": "本库411条。",
+      "tc": "本庫411條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -15913,6 +15913,140 @@
       "originalUrl": "https://www.sunlife.com.hk/zh-hant/about-us/newsroom/news-releases/"
     },
     {
+      "id": "boclife-2025-record-258",
+      "clusterCount": 1,
+      "score": 78,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "boclife",
+      "title": {
+        "sc": "中银人寿 2025 新造标准保费 258.62 亿 +50% 创历史新高",
+        "tc": "中銀人壽 2025 新造標準保費 258.62 億 +50% 創歷史新高"
+      },
+      "summary": {
+        "sc": "中银人寿 2025 全年新造标准保费 258.62 亿港元，按年跃升约 5 成，创公司历史新高。人民币保险业务市占率逾 5 成连续十多年第一；直销渠道市场第一；经纪渠道按年倍增；MDRT 会员人数 +60%。",
+        "tc": "中銀人壽 2025 全年新造標準保費 258.62 億港元，按年躍升約 5 成，創公司歷史新高。人民幣保險業務市佔率逾 5 成連續十多年第一；MDRT 會員人數 +60%。"
+      },
+      "why": {
+        "sc": "中银全年 +50%=银行系保司的业绩样本。对 IFA：中银人寿「人民币保险市占 5 成」是银保系的核心壁垒，养老生态圈（旅居/跨境/居家）是 2026 的战略重点——银行系保司从「渠道优势」走向「生态优势」。",
+        "tc": "中銀全年 +50%=銀行系保司的業績樣本。人民幣保險市佔 5 成是銀保系的核心壁壘，養老生態圈是 2026 的戰略重點。"
+      },
+      "actions": {
+        "front": {
+          "sc": "中银+50%=银保系业绩标杆",
+          "tc": "中銀+50%=銀保系業績標桿"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "养老生态=中银的战略重心",
+          "tc": "養老生態=中銀的戰略重心"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 3,
+        "cross": 2
+      },
+      "source": {
+        "sc": "中银人寿 · 2026年4月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "firm",
+        "market",
+        "retirement"
+      ],
+      "tags": {
+        "sc": [
+          "中银人寿",
+          "258亿",
+          "历史新高",
+          "养老生态"
+        ],
+        "tc": [
+          "中銀人壽",
+          "258億",
+          "歷史新高",
+          "養老生態"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-04-24T10:00:00+08:00",
+      "originalUrl": "https://www.boclife.com.hk/tc/news/boc-life-achieved-record-breaking-results-across-multiple-channels-in2025-deepening-retirement-ecosystem-to-lead-one-stop-integrated-retirement-solutions.html"
+    },
+    {
+      "id": "ia-2025-fullyear-stats-8270",
+      "clusterCount": 1,
+      "score": 84,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "2025 全年临时统计：毛保费 8,270 亿 +29.7%，新造保费 3,309 亿 +50.6%",
+        "tc": "2025 全年臨時統計：毛保費 8,270 億 +29.7%，新造保費 3,309 億 +50.6%"
+      },
+      "summary": {
+        "sc": "保监局 2026 年 4 月 24 日公布 2025 年临时统计：毛保费总额 8,270 亿港元（+29.7%）；长期业务新造保单保费 3,309 亿（+50.6%），其中分红业务 2,828 亿（+55.1%）；合资格延期年金保单约 59,000 份、保费 37 亿。一般业务毛保费 1,085 亿（+8%）。",
+        "tc": "保監局 2026 年 4 月 24 日公佈 2025 年臨時統計：毛保費總額 8,270 億港元（+29.7%）；長期業務新造保單保費 3,309 億（+50.6%），其中分紅業務 2,828 億（+55.1%）。"
+      },
+      "why": {
+        "sc": "2025 全年 8,270 亿是港险历史峰值的官方定格。对 IFA：分红业务 +55.1% 说明 2025 的抢购潮主力是分红险——演示利率上限前的「抢末班车」效应，理解这个背景才能向客户解释 2026 的增长放缓不是「市场不行」而是「基数太高」。",
+        "tc": "2025 全年 8,270 億是港險歷史峰值的官方定格。分紅業務 +55.1% 說明 2025 的搶購潮主力是分紅險——理解這個背景才能解釋 2026 的增長放緩是「基數太高」。"
+      },
+      "actions": {
+        "front": {
+          "sc": "8270亿=历史峰值的官方定格",
+          "tc": "8270億=歷史峰值的官方定格"
+        },
+        "midback": {
+          "sc": "分红+55%=抢购潮的主力结构",
+          "tc": "分紅+55%=搶購潮的主力結構"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 3,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "保监局 · 2026年4月",
+        "lang": "zh"
+      },
+      "boards": [
+        "statistics"
+      ],
+      "themes": [
+        "statistics",
+        "market",
+        "reg"
+      ],
+      "tags": {
+        "sc": [
+          "2025全年",
+          "8270亿",
+          "临时统计",
+          "分红"
+        ],
+        "tc": [
+          "2025全年",
+          "8270億",
+          "臨時統計",
+          "分紅"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-04-24T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/sc/infocenter/press_releases/20260424.html"
+    },
+    {
       "id": "ctflife-20260422-artisan-leap",
       "clusterCount": 1,
       "score": 79,
@@ -17394,6 +17528,136 @@
         "reg"
       ],
       "contentKind": "speech"
+    },
+    {
+      "id": "cntaiping-2025-profit-270",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "cntaiping",
+      "title": {
+        "sc": "中国太平 2025 股东应占溢利 270.59 亿 +220.9%：总资产破 1.9 万亿",
+        "tc": "中國太平 2025 股東應佔溢利 270.59 億 +220.9%：總資產破 1.9 萬億"
+      },
+      "summary": {
+        "sc": "中国太平 2025 全年业绩：股东应占溢利 270.59 亿港元，同比 +220.9%；总资产突破 1.9 万亿港元（+14.5%），净资产 1,648 亿（+34.6%）。开出「粤车南下」跨境车险首单，深耕大湾区养老方案。",
+        "tc": "中國太平 2025 全年業績：股東應佔溢利 270.59 億港元，同比 +220.9%；總資產突破 1.9 萬億港元。開出「粵車南下」跨境車險首單，深耕大灣區養老方案。"
+      },
+      "why": {
+        "sc": "太平溢利 +220%=中资保司香港业务的盈利弹性样本。对 IFA：中资系（太平/中银/国寿/太保）在港布局持续加深，跨境协同（粤车南下、湾区养老）是差异化武器——面向内地客群讲中资保司时这是核心卖点。",
+        "tc": "太平溢利 +220%=中資保司香港業務的盈利彈性樣本。跨境協同（粵車南下、灣區養老）是差異化武器。"
+      },
+      "actions": {
+        "front": {
+          "sc": "太平+220%=中资保司盈利弹性",
+          "tc": "太平+220%=中資保司盈利彈性"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {
+          "sc": "粤车南下首单=跨境协同样板",
+          "tc": "粵車南下首單=跨境協同樣板"
+        }
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 2,
+        "cross": 4
+      },
+      "source": {
+        "sc": "中国太平 · 2026年3月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "firm",
+        "market",
+        "cross-border"
+      ],
+      "tags": {
+        "sc": [
+          "中国太平",
+          "270亿",
+          "粤车南下",
+          "大湾区"
+        ],
+        "tc": [
+          "中國太平",
+          "270億",
+          "粵車南下",
+          "大灣區"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-03-26T10:00:00+08:00",
+      "originalUrl": "https://www.cntaiping.com/news/121893.html"
+    },
+    {
+      "id": "chinainsurance-2025-profit-1540",
+      "clusterCount": 1,
+      "score": 71,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "china-life",
+      "title": {
+        "sc": "中国人寿 2025 净利 1540.78 亿 +44.1%：总保费首破 7000 亿",
+        "tc": "中國人壽 2025 淨利 1540.78 億 +44.1%：總保費首破 7000 億"
+      },
+      "summary": {
+        "sc": "中国人寿 2025 年总保费首破 7000 亿（7,298.87 亿，+8.7%），归母净利 1,540.78 亿（+44.1%）；总投资收益 3,876.94 亿（+25.8%），总投资收益率 6.09%——坚定做多中国资产，权益配置比例提升近 5 个百分点。",
+        "tc": "中國人壽 2025 年總保費首破 7000 億（7,298.87 億，+8.7%），歸母淨利 1,540.78 億（+44.1%）；總投資收益率 6.09%。"
+      },
+      "why": {
+        "sc": "国寿总保费破 7000 亿=内地寿险龙头的量级坐标。对 IFA：国寿海外（国寿的香港子公司）是其国际化窗口——母公司利润暴增意味着集团对海外业务的资本支持更强，这是评估国寿海外产品与服务的隐性背书。",
+        "tc": "國壽總保費破 7000 億=內地壽險龍頭的量級座標。母公司利潤暴增意味著集團對海外業務的資本支持更強。"
+      },
+      "actions": {
+        "front": {
+          "sc": "国寿7000亿=母公司实力的坐标",
+          "tc": "國壽7000億=母公司實力的座標"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "中国人寿 · 2026年3月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "firm",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "中国人寿",
+          "1540亿",
+          "7000亿",
+          "权益投资"
+        ],
+        "tc": [
+          "中國人壽",
+          "1540億",
+          "7000億",
+          "權益投資"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-03-26T10:00:00+08:00",
+      "originalUrl": "https://finance.cctv.com/2026/03/27/ARTIknvgaJ4Dlp410ZxXNqA5260327.shtml"
     },
     {
       "id": "ia-20260325-captive-forum-speech",
@@ -20745,6 +21009,70 @@
       "contentKind": "press",
       "publishedAt": "2025-12-20T10:00:00+08:00",
       "originalUrl": "https://insuranceasia.com/company/fwd-group"
+    },
+    {
+      "id": "ia-wangfuk-fire-claims-202512",
+      "clusterCount": 1,
+      "score": 78,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "宏福苑火灾保险赔付逾 2.57 亿：36 间公司 10,660 张人寿保单",
+        "tc": "宏福苑火災保險賠付逾 2.57 億：36 間公司 10,660 張人壽保單"
+      },
+      "summary": {
+        "sc": "保监局 2025 年 12 月 19 日公布：大埔宏福苑火灾后三周，保险赔付金额超 2.57 亿元。人寿保单方面，36 间保险公司承保约 10,660 张保单，149 宗理赔个案中 109 宗已赔付约 4,150 万元；一般保险 1,038 宗个案赔付约 2.04 亿元。",
+        "tc": "保監局 2025 年 12 月 19 日公佈：大埔宏福苑火災後三週，保險賠付金額超 2.57 億元。36 間保險公司承保約 10,660 張人壽保單。"
+      },
+      "why": {
+        "sc": "宏福苑赔付 2.57 亿=保险「危难时刻的价值」实证。对 IFA：火灾后保险公司特事特办快速理赔，这是给客户讲「保险不是纸面承诺」的最强案例——灾难时谁在赔付，数据会说话。",
+        "tc": "宏福苑賠付 2.57 億=保險「危難時刻的價值」實證。對 IFA：災難時誰在賠付，數據會說話。"
+      },
+      "actions": {
+        "front": {
+          "sc": "2.57亿赔付=保险价值的实证",
+          "tc": "2.57億賠付=保險價值的實證"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 2,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "保监局 · 2025年12月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "uw",
+        "claims",
+        "reg"
+      ],
+      "tags": {
+        "sc": [
+          "宏福苑",
+          "赔付",
+          "2.57亿",
+          "火灾"
+        ],
+        "tc": [
+          "宏福苑",
+          "賠付",
+          "2.57億",
+          "火災"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-12-19T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/sc/infocenter/press_releases/20251219.html"
     },
     {
       "id": "boclife-2025-record",
@@ -34705,19 +35033,19 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 406 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 406 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 411 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 411 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 406,
+      "totalItems": 411,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 157,
+          "count": 159,
           "label": "监管一手"
         },
         {
           "tier": "insurer",
-          "count": 97,
+          "count": 100,
           "label": "保司公告"
         },
         {
@@ -34801,17 +35129,17 @@
       "topThemes": [
         {
           "theme": "market",
-          "count": 143,
+          "count": 147,
           "label": "市场"
         },
         {
           "theme": "reg",
-          "count": 78,
+          "count": 80,
           "label": "监管"
         },
         {
           "theme": "firm",
-          "count": 70,
+          "count": 73,
           "label": "保司"
         },
         {

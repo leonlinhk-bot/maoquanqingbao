@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-11T11:41:31Z",
-  "itemCount": 406,
+  "generatedAt": "2026-08-11T11:42:12Z",
+  "itemCount": 411,
   "items": [
     {
       "id": "ib-swissre-natcat-h1-2026",
@@ -2839,6 +2839,34 @@
       "originalUrl": "https://www.sunlife.com.hk/zh-hant/about-us/newsroom/news-releases/"
     },
     {
+      "id": "boclife-2025-record-258",
+      "title": "中银人寿 2025 新造标准保费 258.62 亿 +50% 创历史新高",
+      "sourceTier": "insurer",
+      "themes": [
+        "firm",
+        "market",
+        "retirement"
+      ],
+      "publishedAt": "2026-04-24T10:00:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=boclife-2025-record-258",
+      "originalUrl": "https://www.boclife.com.hk/tc/news/boc-life-achieved-record-breaking-results-across-multiple-channels-in2025-deepening-retirement-ecosystem-to-lead-one-stop-integrated-retirement-solutions.html"
+    },
+    {
+      "id": "ia-2025-fullyear-stats-8270",
+      "title": "2025 全年临时统计：毛保费 8,270 亿 +29.7%，新造保费 3,309 亿 +50.6%",
+      "sourceTier": "official",
+      "themes": [
+        "statistics",
+        "market",
+        "reg"
+      ],
+      "publishedAt": "2026-04-24T10:00:00+08:00",
+      "score": 84,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2025-fullyear-stats-8270",
+      "originalUrl": "https://www.ia.org.hk/sc/infocenter/press_releases/20260424.html"
+    },
+    {
       "id": "ctflife-20260422-artisan-leap",
       "title": "周大福人寿推出「匠心·飞越」储蓄保险计划。",
       "sourceTier": "media",
@@ -3103,6 +3131,33 @@
       "score": 81,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260326-health-conf",
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/files/21st_Asia_Conference_on_Healthcare_and_Health_Insurance_2026_Keynote_Mr_Clement_Lau_TC.pdf"
+    },
+    {
+      "id": "cntaiping-2025-profit-270",
+      "title": "中国太平 2025 股东应占溢利 270.59 亿 +220.9%：总资产破 1.9 万亿",
+      "sourceTier": "insurer",
+      "themes": [
+        "firm",
+        "market",
+        "cross-border"
+      ],
+      "publishedAt": "2026-03-26T10:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=cntaiping-2025-profit-270",
+      "originalUrl": "https://www.cntaiping.com/news/121893.html"
+    },
+    {
+      "id": "chinainsurance-2025-profit-1540",
+      "title": "中国人寿 2025 净利 1540.78 亿 +44.1%：总保费首破 7000 亿",
+      "sourceTier": "insurer",
+      "themes": [
+        "firm",
+        "market"
+      ],
+      "publishedAt": "2026-03-26T10:00:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=chinainsurance-2025-profit-1540",
+      "originalUrl": "https://finance.cctv.com/2026/03/27/ARTIknvgaJ4Dlp410ZxXNqA5260327.shtml"
     },
     {
       "id": "ia-20260325-captive-forum-speech",
@@ -3684,6 +3739,20 @@
       "score": 75,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fwd-hk-2025-nbp-93pct",
       "originalUrl": "https://insuranceasia.com/company/fwd-group"
+    },
+    {
+      "id": "ia-wangfuk-fire-claims-202512",
+      "title": "宏福苑火灾保险赔付逾 2.57 亿：36 间公司 10,660 张人寿保单",
+      "sourceTier": "official",
+      "themes": [
+        "uw",
+        "claims",
+        "reg"
+      ],
+      "publishedAt": "2025-12-19T10:00:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-wangfuk-fire-claims-202512",
+      "originalUrl": "https://www.ia.org.hk/sc/infocenter/press_releases/20251219.html"
     },
     {
       "id": "boclife-2025-record",
