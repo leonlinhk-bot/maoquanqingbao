@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-11T11:16:13Z",
-  "itemCount": 397,
+  "generatedAt": "2026-08-11T11:16:41Z",
+  "itemCount": 400,
   "items": [
     {
       "id": "ib-swissre-natcat-h1-2026",
@@ -1484,6 +1484,20 @@
       "score": 76,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nia-exit-entry-20260722",
       "originalUrl": "https://www.moj.gov.cn/pub/sfbgw/zcjd/202607/t20260731_538117.html"
+    },
+    {
+      "id": "generali-go-green-2026",
+      "title": "忠意保险推 Go Green 计划：绿色建筑认证企业保费折扣最高 15%",
+      "sourceTier": "insurer",
+      "themes": [
+        "esg",
+        "product",
+        "sme"
+      ],
+      "publishedAt": "2026-07-20T10:00:00+08:00",
+      "score": 63,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=generali-go-green-2026",
+      "originalUrl": "https://www.generali.com.hk/ZH_CN/go-green"
     },
     {
       "id": "safe-qdii-20260717",
@@ -3568,6 +3582,20 @@
       "originalUrl": "https://www.jdsupra.com/legalnews/hong-kong-insurance-authority-issues-8765538/"
     },
     {
+      "id": "hkma-taxonomy-2a-202601",
+      "title": "金管局发布香港绿色分类法 2A 阶段：扩展行业覆盖 + 转型元素",
+      "sourceTier": "official",
+      "themes": [
+        "esg",
+        "reg",
+        "macro"
+      ],
+      "publishedAt": "2026-01-15T10:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-taxonomy-2a-202601",
+      "originalUrl": "https://www.hkma.gov.hk/media/eng/publication-and-research/sustainability-report/2025/4_Building-a-Climate-resilient-Financial-System.pdf"
+    },
+    {
       "id": "ebact-2025-hk-market",
       "title": "香港一般保险市场分析：2025年9亿→2029年09亿 CAGR 5.1%。",
       "sourceTier": "research",
@@ -4271,6 +4299,20 @@
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=crossborder-payment-link-202506",
       "originalUrl": "https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/cross-boundary-payment-link/"
+    },
+    {
+      "id": "ia-green-bond-rbc-202506",
+      "title": "保监局确立绿色债券认定标准：RBC 下享 90% 资本乘数优惠",
+      "sourceTier": "official",
+      "themes": [
+        "esg",
+        "reg",
+        "macro"
+      ],
+      "publishedAt": "2025-06-20T10:00:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-green-bond-rbc-202506",
+      "originalUrl": "https://www.ia.org.hk/en/legislative_framework/overview/files/egn202529253634.pdf"
     },
     {
       "id": "sunlife-2025-enhanced-savings",

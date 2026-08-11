@@ -2,10 +2,10 @@
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-11T18:08:00+08:00",
-    "itemCount": 397,
+    "itemCount": 400,
     "windowNote": {
-      "sc": "本库397条。",
-      "tc": "本庫397條。"
+      "sc": "本库400条。",
+      "tc": "本庫400條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -8111,6 +8111,70 @@
       "contentKind": "press",
       "publishedAt": "2026-07-22T10:00:00+08:00",
       "originalUrl": "https://www.moj.gov.cn/pub/sfbgw/zcjd/202607/t20260731_538117.html"
+    },
+    {
+      "id": "generali-go-green-2026",
+      "clusterCount": 1,
+      "score": 63,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "generali",
+      "title": {
+        "sc": "忠意保险推 Go Green 计划：绿色建筑认证企业保费折扣最高 15%",
+        "tc": "忠意保險推 Go Green 計劃：綠色建築認證企業保費折扣最高 15%"
+      },
+      "summary": {
+        "sc": "香港忠意保险推出 Go Green 计划：中小企客户受保地址若位于香港绿色建筑议会「绿建环评」认证的建筑内，可享高达 15% 或港币 1,000 元的年度保费折扣（至 2026 年 12 月 31 日）。以保费定价激励企业绿色建筑选择。",
+        "tc": "香港忠意保險推出 Go Green 計劃：中小企客戶受保地址若位於香港綠色建築議會「綠建環評」認證的建築內，可享高達 15% 或港幣 1,000 元的年度保費折扣。"
+      },
+      "why": {
+        "sc": "「绿色建筑保费折扣」=保险定价 ESG 化的微观样本。对 IFA：保司把 ESG 因子直接写进定价（绿色建筑=更低风险=更低保费），这是给客户讲「绿色选择有实利」的现成例子——中小企客户尤其买账。",
+        "tc": "「綠色建築保費折扣」=保險定價 ESG 化的微觀樣本。保司把 ESG 因子直接寫進定價，這是給客戶講「綠色選擇有實利」的現成例子。"
+      },
+      "actions": {
+        "front": {
+          "sc": "绿色保费折扣=ESG定价的微观样本",
+          "tc": "綠色保費折扣=ESG定價的微觀樣本"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "忠意保险 · 2026年",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "esg",
+        "product",
+        "sme"
+      ],
+      "tags": {
+        "sc": [
+          "忠意",
+          "Go Green",
+          "绿色建筑",
+          "保费折扣"
+        ],
+        "tc": [
+          "忠意",
+          "Go Green",
+          "綠色建築",
+          "保費折扣"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-07-20T10:00:00+08:00",
+      "originalUrl": "https://www.generali.com.hk/ZH_CN/go-green"
     },
     {
       "id": "safe-qdii-20260717",
@@ -20132,6 +20196,73 @@
       "contentKind": "circular"
     },
     {
+      "id": "hkma-taxonomy-2a-202601",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "金管局发布香港绿色分类法 2A 阶段：扩展行业覆盖 + 转型元素",
+        "tc": "金管局發佈香港綠色分類法 2A 階段：擴展行業覆蓋 + 轉型元素"
+      },
+      "summary": {
+        "sc": "金管局 2026 年 1 月发布香港绿色分类法 Phase 2A：在 2024 年 5 月 Phase 1 基础上扩展更多行业和活动覆盖，整合转型元素，新增气候变化适应类别。2B 阶段正在开发。分类法为金融机构（含保险公司）识别绿色与可持续活动提供统一标准。",
+        "tc": "金管局 2026 年 1 月發佈香港綠色分類法 Phase 2A：擴展更多行業和活動覆蓋，整合轉型元素，新增氣候變化適應類別。2B 階段正在開發。"
+      },
+      "why": {
+        "sc": "绿色分类法是「什么算绿色」的官方定义。对 IFA：客户问「保司的绿色投资是不是概念炒作」时，分类法 2A 给了标准答案——绿色资产的识别有据可依，保险资金配置绿色资产的透明度在提升。",
+        "tc": "綠色分類法是「什麼算綠色」的官方定義。對 IFA：綠色資產的識別有據可依，保險資金配置綠色資產的透明度在提升。"
+      },
+      "actions": {
+        "front": {
+          "sc": "分类法2A=绿色定义的官方标准",
+          "tc": "分類法2A=綠色定義的官方標準"
+        },
+        "midback": {
+          "sc": "绿色分类=资产配置的合规底座",
+          "tc": "綠色分類=資產配置的合規底座"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 4,
+        "lead": 2,
+        "cross": 3
+      },
+      "source": {
+        "sc": "金管局 · 2026年1月",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "esg",
+        "reg",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "金管局",
+          "绿色分类法",
+          "2A",
+          "转型"
+        ],
+        "tc": [
+          "金管局",
+          "綠色分類法",
+          "2A",
+          "轉型"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-01-15T10:00:00+08:00",
+      "originalUrl": "https://www.hkma.gov.hk/media/eng/publication-and-research/sustainability-report/2025/4_Building-a-Climate-resilient-Financial-System.pdf"
+    },
+    {
       "id": "ebact-2025-hk-market",
       "clusterCount": 1,
       "score": 76,
@@ -24022,6 +24153,73 @@
       "contentKind": "press",
       "publishedAt": "2025-06-20T10:00:00+08:00",
       "originalUrl": "https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/cross-boundary-payment-link/"
+    },
+    {
+      "id": "ia-green-bond-rbc-202506",
+      "clusterCount": 1,
+      "score": 76,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "保监局确立绿色债券认定标准：RBC 下享 90% 资本乘数优惠",
+        "tc": "保監局確立綠色債券認定標準：RBC 下享 90% 資本乘數優惠"
+      },
+      "summary": {
+        "sc": "保监局 2025 年 6 月发布绿色债券认定标准通知（《保险业（估值及资本）规则》第 48(4) 条）：认可四大标准——中国绿色债券原则、气候债券倡议标准、欧盟绿色债券标准、ICMA 绿色债券原则。认可绿色债券在 RBC 框架下信用利差压力因子享 90% 乘数，资本占用低于普通债券。",
+        "tc": "保監局 2025 年 6 月發佈綠色債券認定標準通知：認可四大標準。認可綠色債券在 RBC 框架下信用利差壓力因子享 90% 乘數，資本佔用低於普通債券。"
+      },
+      "why": {
+        "sc": "绿色债券资本优惠=RBC 框架下「绿色激励」落地。对 IFA：保司投资端开始向绿色资产倾斜（降低资本占用），长期看影响投资回报结构与分红来源——「保司的钱投去哪」是分红实现率的底层逻辑之一。",
+        "tc": "綠色債券資本優惠=RBC 框架下「綠色激勵」落地。保司投資端開始向綠色資產傾斜，長期看影響投資回報結構與分紅來源。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "绿色债券优惠=RBC资本激励的落地",
+          "tc": "綠色債券優惠=RBC資本激勵的落地"
+        },
+        "lead": {
+          "sc": "绿色投资=保司资产配置新方向",
+          "tc": "綠色投資=保司資產配置新方向"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 4,
+        "lead": 3,
+        "cross": 2
+      },
+      "source": {
+        "sc": "保监局 · 2025年6月",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "esg",
+        "reg",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "保监局",
+          "绿色债券",
+          "RBC",
+          "资本优惠"
+        ],
+        "tc": [
+          "保監局",
+          "綠色債券",
+          "RBC",
+          "資本優惠"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2025-06-20T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/en/legislative_framework/overview/files/egn202529253634.pdf"
     },
     {
       "id": "sunlife-2025-enhanced-savings",
@@ -34108,19 +34306,19 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 397 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 397 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 400 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 400 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 397,
+      "totalItems": 400,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 150,
+          "count": 152,
           "label": "监管一手"
         },
         {
           "tier": "insurer",
-          "count": 95,
+          "count": 96,
           "label": "保司公告"
         },
         {
@@ -34209,7 +34407,7 @@
         },
         {
           "theme": "reg",
-          "count": 71,
+          "count": 73,
           "label": "监管"
         },
         {
@@ -34223,24 +34421,24 @@
           "label": "跨境"
         },
         {
+          "theme": "product",
+          "count": 52,
+          "label": "产品"
+        },
+        {
           "theme": "compliance",
           "count": 51,
           "label": "合规"
         },
         {
-          "theme": "product",
-          "count": 51,
-          "label": "产品"
+          "theme": "macro",
+          "count": 37,
+          "label": "宏观"
         },
         {
           "theme": "channel",
           "count": 35,
           "label": "渠道"
-        },
-        {
-          "theme": "macro",
-          "count": 35,
-          "label": "宏观"
         },
         {
           "theme": "reinsurance",
