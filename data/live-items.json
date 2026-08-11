@@ -37061,31 +37061,31 @@
           }
         },
         {
-          "key": "mcv-share",
+          "key": "par-share",
           "label": {
-            "sc": "内地访客保费占比",
-            "tc": "內地訪客保費佔比"
+            "sc": "分红业务新造保费占比",
+            "tc": "分紅業務新造保費佔比"
           },
-          "value": "28.6",
+          "value": "2,828",
           "unit": {
-            "sc": "%",
-            "tc": "%"
+            "sc": "亿港元",
+            "tc": "億港元"
           },
           "trend": "up",
-          "change": "+6.5%",
+          "change": "+55.1%",
           "changeLabel": {
             "sc": "同比增幅",
             "tc": "同比增幅"
           },
           "note": {
-            "sc": "占个人业务总新造的 28.6%，628 亿港元",
-            "tc": "佔個人業務總新造的 28.6%，628 億港元"
+            "sc": "2025 全年分红新造 2,828 亿，占长期业务新造超 85%",
+            "tc": "2025 全年分紅新造 2,828 億，佔長期業務新造超 85%"
           },
-          "source": "IA Annual Statistics 2024 · 2025年4月25日发布",
-          "sourceUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20250425.html",
+          "source": "IA Annual 2025 Provisional · 2026年4月24日发布",
+          "sourceUrl": "https://www.ia.org.hk/sc/infocenter/press_releases/20260424.html",
           "asOf": {
-            "sc": "截至 2024 年 12 月",
-            "tc": "截至 2024 年 12 月"
+            "sc": "截至 2025 年 12 月",
+            "tc": "截至 2025 年 12 月"
           }
         }
       ]
@@ -37194,26 +37194,26 @@
             "sc": "经纪渠道",
             "tc": "經紀渠道"
           },
-          "value": "35.5",
+          "value": "38.0",
           "unit": {
             "sc": "%",
             "tc": "%"
           },
           "trend": "up",
-          "change": "人力 +37.1%",
+          "change": "+60.0%",
           "changeLabel": {
             "sc": "3年净增",
             "tc": "3年淨增"
           },
           "note": {
-            "sc": "2022 年首次超越代理渠道，2025 年与银保基本持平",
-            "tc": "2022 年首次超越代理渠道，2025 年與銀保基本持平"
+            "sc": "经纪渠道 Q1 新造 536 亿 · 人力 +37.1%",
+            "tc": "經紀渠道 Q1 新造 536 億 · 人力 +37.1%"
           },
           "source": "IA 年报 + Intermediary Licence Statistics",
           "sourceUrl": "https://www.ia.org.hk/en/infocenter/statistics/statistics.html",
           "asOf": {
-            "sc": "截至 2025 年",
-            "tc": "截至 2025 年"
+            "sc": "截至 2026 年 Q1",
+            "tc": "截至 2026 年 Q1"
           }
         },
         {
@@ -37222,26 +37222,26 @@
             "sc": "代理渠道",
             "tc": "代理渠道"
           },
-          "value": "23.5",
+          "value": "25.0",
           "unit": {
             "sc": "%",
             "tc": "%"
           },
           "trend": "down",
-          "change": "63% 人仅贡献 23% 量",
+          "change": "+44.4%",
           "changeLabel": {
             "sc": "产能分化",
             "tc": "產能分化"
           },
           "note": {
-            "sc": "人海退场：2019-2021 新入行者 65% 不足 3 年，12% 精锐约占 35% 份额，大分化加速",
-            "tc": "人海退場：2019-2021 新入行者 65% 不足 3 年，12% 精銳約佔 35% 份額，大分化加速"
+            "sc": "代理渠道 Q1 以人数零增长实现高增长",
+            "tc": "代理渠道 Q1 以人數零增長實現高增長"
           },
           "source": "IA Conduct in Focus Issue 10 (Spring 2025) + IA Intermediary Licence Statistics",
           "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/English_Conduct_in_Focus_Issue_10_Spring_2025.pdf",
           "asOf": {
-            "sc": "截至 2025 年",
-            "tc": "截至 2025 年"
+            "sc": "截至 2026 年 Q1",
+            "tc": "截至 2026 年 Q1"
           }
         },
         {
@@ -37250,26 +37250,26 @@
             "sc": "银保渠道",
             "tc": "銀保渠道"
           },
-          "value": "35.5",
+          "value": "42.1",
           "unit": {
             "sc": "%",
             "tc": "%"
           },
           "trend": "flat",
-          "change": "HSBC Life 26.6% NBP",
+          "change": "+47.9%",
           "changeLabel": {
             "sc": "市占率第一",
             "tc": "市佔率第一"
           },
           "note": {
-            "sc": "银行保险与经纪渠道并驾齐驱，HSBC Life 稳居榜首",
-            "tc": "銀行保險與經紀渠道並駕齊驅，HSBC Life 穩居榜首"
+            "sc": "银保渠道 Q1 594 亿 · HSBC 市占 26.6%",
+            "tc": "銀保渠道 Q1 594 億 · HSBC 市佔 26.6%"
           },
           "source": "IA 年报 / InsuranceAsia Q1 2026",
           "sourceUrl": "https://insuranceasia.com/insurance/in-focus/hong-kong-insurance-premiums-jump-323-38b-in-q1-2026",
           "asOf": {
-            "sc": "截至 2025 年",
-            "tc": "截至 2025 年"
+            "sc": "截至 2026 年 Q1",
+            "tc": "截至 2026 年 Q1"
           }
         }
       ]
@@ -37280,128 +37280,153 @@
         "tc": "監管時鐘"
       },
       "subtitle": {
-        "sc": "佣金三件套 + RBC + 分红透明度 · 2024-2026 关键节点",
-        "tc": "佣金三件套 + RBC + 分紅透明度 · 2024-2026 關鍵節點"
+        "sc": "佣金三件套 + RBC 优化 + 分红透明度 · 2024-2028 关键节点",
+        "tc": "佣金三件套 + RBC 優化 + 分紅透明度 · 2024-2028 關鍵節點"
       },
       "events": [
         {
-          "date": "2026-03-31",
-          "title": {
-            "sc": "GN16 修订版正式生效",
-            "tc": "GN16 修訂版正式生效"
-          },
-          "impact": 3,
-          "desc": {
-            "sc": "分红实现率披露标准化：从此客户可以用同一把尺子比较不同保司",
-            "tc": "分紅實現率披露標準化：從此客戶可以用同一把尺子比較不同保司"
-          },
-          "itemId": "ia-20260331-gn16-revised",
+          "date": "2025-07-01",
           "category": {
-            "sc": "分红透明度",
-            "tc": "分紅透明度"
-          }
+            "sc": "分红销售措施",
+            "tc": "分紅銷售措施"
+          },
+          "title": {
+            "sc": "演示利率上限生效：港元6%/非港元6.5%",
+            "tc": "演示利率上限生效：港元6%/非港元6.5%"
+          },
+          "desc": {
+            "sc": "分红保单利益说明演示利率设限，三措施第一环",
+            "tc": "分紅保單利益說明演示利率設限，三措施第一環"
+          },
+          "impact": 5
+        },
+        {
+          "date": "2025-10-01",
+          "category": {
+            "sc": "分红销售措施",
+            "tc": "分紅銷售措施"
+          },
+          "title": {
+            "sc": "经纪转介费基准：不超过佣金总额50%",
+            "tc": "經紀轉介費基準：不超過佣金總額50%"
+          },
+          "desc": {
+            "sc": "持牌经纪公司转介费受限，三措施第二环",
+            "tc": "持牌經紀公司轉介費受限，三措施第二環"
+          },
+          "impact": 5
         },
         {
           "date": "2026-01-01",
-          "title": {
-            "sc": "首年佣金 ≤70% + 递延 ≥5 年",
-            "tc": "首年佣金 ≤70% + 遞延 ≥5 年"
-          },
-          "impact": 5,
-          "desc": {
-            "sc": "「佣金三件套」第二件：中国保司报行合一精神在香港的落实。IFA 收入结构天花板已降",
-            "tc": "「佣金三件套」第二件：中國保司報行合一精神在香港的落實。IFA 收入結構天花板已降"
-          },
-          "itemId": "ia-commission-20260101",
           "category": {
-            "sc": "佣金改革",
-            "tc": "佣金改革"
-          }
+            "sc": "分红销售措施",
+            "tc": "分紅銷售措施"
+          },
+          "title": {
+            "sc": "佣金分摊：首年不超过70%，余额至少分5年",
+            "tc": "佣金分攤：首年不超過70%，餘額至少分5年"
+          },
+          "desc": {
+            "sc": "销售激励从「前重后轻」→「长期服务导向」，三措施第三环",
+            "tc": "銷售激勵從「前重後輕」→「長期服務導向」，三措施第三環"
+          },
+          "impact": 5
         },
         {
-          "date": "2025-09-01",
-          "title": {
-            "sc": "转介费 ≤ 佣金总额 50%",
-            "tc": "轉介費 ≤ 佣金總額 50%"
-          },
-          "impact": 5,
-          "desc": {
-            "sc": "「佣金三件套」第一件：封堵无牌转介代签模式",
-            "tc": "「佣金三件套」第一件：封堵無牌轉介代簽模式"
-          },
-          "itemId": "ia-20250901-referral-fee",
-          "category": {
-            "sc": "佣金改革",
-            "tc": "佣金改革"
-          }
-        },
-        {
-          "date": "2025-07-01",
-          "title": {
-            "sc": "分红演示利率上限生效",
-            "tc": "分紅演示利率上限生效"
-          },
-          "impact": 3,
-          "desc": {
-            "sc": "港元 6.0% / 非港元 6.5%，销售演示必须保守化",
-            "tc": "港元 6.0% / 非港元 6.5%，銷售演示必須保守化"
-          },
-          "itemId": "ia-20250701-illustration-cap",
+          "date": "2026-03-31",
           "category": {
             "sc": "分红透明度",
             "tc": "分紅透明度"
-          }
+          },
+          "title": {
+            "sc": "修订版 GN16 生效：实现率披露回溯最长30年",
+            "tc": "修訂版 GN16 生效：實現率披露回溯最長30年"
+          },
+          "desc": {
+            "sc": "统一披露格式，配合 GN34 分红基金独立管理",
+            "tc": "統一披露格式，配合 GN34 分紅基金獨立管理"
+          },
+          "impact": 4
         },
         {
-          "date": "2024-06-14",
-          "title": {
-            "sc": "GL34：分红业务须设独立基金",
-            "tc": "GL34：分紅業務須設獨立基金"
-          },
-          "impact": 3,
-          "desc": {
-            "sc": "分红透明度的底座：要求资产隔离，是后续 GN16+演示上限的前提",
-            "tc": "分紅透明度的底座：要求資產隔離，是後續 GN16+演示上限的前提"
-          },
-          "itemId": "ia-20240614-gl34-segregation",
+          "date": "2026-01-01",
           "category": {
-            "sc": "分红透明度",
-            "tc": "分紅透明度"
-          }
+            "sc": "消费者保护",
+            "tc": "消費者保護"
+          },
+          "title": {
+            "sc": "储蓄产品须加「保险」字样：新规生效",
+            "tc": "儲蓄產品須加「保險」字樣：新規生效"
+          },
+          "desc": {
+            "sc": "IA+HKMA 联合规定：防消费者误认为存款",
+            "tc": "IA+HKMA 聯合規定：防消費者誤認為存款"
+          },
+          "impact": 3
         },
         {
-          "date": "2024-07-26",
-          "title": {
-            "sc": "泰禾人寿被监管接管",
-            "tc": "泰禾人壽被監管接管"
-          },
-          "impact": 4,
-          "desc": {
-            "sc": "RBC 首战：香港保险史上首次监管直接接管，信号意义压倒一切",
-            "tc": "RBC 首戰：香港保險史上首次監管直接接管，信號意義壓倒一切"
-          },
-          "itemId": "ia-20240726-tahoe-life",
+          "date": "2026-05-22",
           "category": {
-            "sc": "监管执法",
-            "tc": "監管執法"
-          }
+            "sc": "RBC 制度",
+            "tc": "RBC 制度"
+          },
+          "title": {
+            "sc": "公众披露规则生效：RBC 第三支柱落地",
+            "tc": "公眾披露規則生效：RBC 第三支柱落地"
+          },
+          "desc": {
+            "sc": "保司须披露经审计财报+披露报表，8/31前首披",
+            "tc": "保司須披露經審計財報+披露報表，8/31前首披"
+          },
+          "impact": 4
         },
         {
-          "date": "2024-07-01",
-          "title": {
-            "sc": "RBC 风险为本资本制度实施",
-            "tc": "RBC 風險為本資本制度實施"
-          },
-          "impact": 4,
-          "desc": {
-            "sc": "香港保险监管从「一刀切」向「与风险匹配」转型的基座制度",
-            "tc": "香港保險監管從「一刀切」向「與風險匹配」轉型的基座制度"
-          },
-          "itemId": "ia-20240701-rbc-live",
+          "date": "2026-06-15",
           "category": {
-            "sc": "制度基础",
-            "tc": "制度基礎"
-          }
+            "sc": "科技监管",
+            "tc": "科技監管"
+          },
+          "title": {
+            "sc": "AI Cohort 重点参与者增至10家保司",
+            "tc": "AI Cohort 重點參與者增至10家保司"
+          },
+          "desc": {
+            "sc": "AI 促进计划十家保司参与，AI 承诺落地",
+            "tc": "AI 促進計劃十家保司參與，AI 承諾落地"
+          },
+          "impact": 3
+        },
+        {
+          "date": "2026-12-31",
+          "category": {
+            "sc": "RBC 制度",
+            "tc": "RBC 制度"
+          },
+          "title": {
+            "sc": "RBC 优化修订生效：基建投资优惠+加密资产",
+            "tc": "RBC 優化修訂生效：基建投資優惠+加密資產"
+          },
+          "desc": {
+            "sc": "基建享优惠资本待遇，稳定币用穿透法，加密资产设专属压力因子",
+            "tc": "基建享優惠資本待遇，穩定幣用穿透法，加密資產設專屬壓力因子"
+          },
+          "impact": 4
+        },
+        {
+          "date": "2027-01-01",
+          "category": {
+            "sc": "消费者保护",
+            "tc": "消費者保護"
+          },
+          "title": {
+            "sc": "存量储蓄产品须完成更名：含「保险」字样",
+            "tc": "存量儲蓄產品須完成更名：含「保險」字樣"
+          },
+          "desc": {
+            "sc": "产品更名最后期限，所有在售储蓄险须合规",
+            "tc": "產品更名最後期限，所有在售儲蓄險須合規"
+          },
+          "impact": 2
         }
       ]
     },
@@ -37439,8 +37464,8 @@
         "tc": "保司實力一覽"
       },
       "subtitle": {
-        "sc": "标准保费排名(整付×10%+年化) · IA 4Q25 统计 · 数据截至 2025 全年",
-        "tc": "標準保費排名(整付×10%+年化) · IA 4Q25 統計 · 數據截至 2025 全年"
+        "sc": "个人新单总保费排名 · IA 2026 Q1 统计 · 数据截至 2026 年 Q1",
+        "tc": "個人新單總保費排名 · IA 2026 Q1 統計 · 數據截至 2026 年 Q1"
       },
       "rankings": [
         {
@@ -37450,177 +37475,152 @@
             "sc": "汇丰人寿",
             "tc": "匯豐人壽"
           },
-          "share": "17.6%",
-          "shareType": "std",
-          "rating": "AA",
+          "share": "26.6%",
           "trend": "up",
+          "rating": "AA",
           "note": {
-            "sc": "标准保费全渠道第一",
-            "tc": "標準保費全渠道第一"
-          },
-          "source": "IA 4Q25 Excel"
+            "sc": "银保龙头，+86.6%",
+            "tc": "銀保龍頭，+86.6%"
+          }
         },
         {
           "rank": 2,
-          "name": "BOC Life",
-          "nameZH": {
-            "sc": "中银人寿",
-            "tc": "中銀人壽"
-          },
-          "share": "14.0%",
-          "shareType": "std",
-          "rating": "A",
-          "trend": "flat",
-          "note": {
-            "sc": "银保主力",
-            "tc": "銀保主力"
-          },
-          "source": "IA 4Q25 Excel"
-        },
-        {
-          "rank": 3,
-          "name": "AIA",
-          "nameZH": {
-            "sc": "友邦",
-            "tc": "友邦"
-          },
-          "share": "12.4%",
-          "shareType": "std",
-          "rating": "AA",
-          "trend": "up",
-          "note": {
-            "sc": "代理渠道龙头",
-            "tc": "代理渠道龍頭"
-          },
-          "source": "IA 4Q25 Excel"
-        },
-        {
-          "rank": 4,
-          "name": "Prudential",
-          "nameZH": {
-            "sc": "保诚",
-            "tc": "保誠"
-          },
-          "share": "8.8%",
-          "shareType": "std",
-          "rating": "AA",
-          "trend": "up",
-          "note": {
-            "sc": "代理纯度最高(69%)",
-            "tc": "代理純度最高(69%)"
-          },
-          "source": "IA 4Q25 Excel"
-        },
-        {
-          "rank": 5,
           "name": "Manulife",
           "nameZH": {
             "sc": "宏利",
             "tc": "宏利"
           },
-          "share": "8.0%",
-          "shareType": "std",
-          "rating": "AA-",
+          "share": "11.3%",
           "trend": "up",
-          "note": {
-            "sc": "混合派代表, +39%YoY",
-            "tc": "混合派代表, +39%YoY"
-          },
-          "source": "IA 4Q25 Excel"
-        },
-        {
-          "rank": 6,
-          "name": "China Life",
-          "nameZH": {
-            "sc": "国寿海外",
-            "tc": "國壽海外"
-          },
-          "share": "6.8%",
-          "shareType": "std",
-          "rating": "A",
-          "trend": "flat",
-          "note": {
-            "sc": "银保派",
-            "tc": "銀保派"
-          },
-          "source": "IA 4Q25 Excel"
-        },
-        {
-          "rank": 7,
-          "name": "Sun Life",
-          "nameZH": {
-            "sc": "永明金融",
-            "tc": "永明金融"
-          },
-          "share": "6.4%",
-          "shareType": "std",
           "rating": "AA",
-          "trend": "up",
           "note": {
-            "sc": "经纪TOP3, 评级上调至AA",
-            "tc": "經紀TOP3, 評級上調至AA"
-          },
-          "source": "IA 4Q25 Excel"
+            "sc": "跃升至第二，+107.2%",
+            "tc": "躍升至第二，+107.2%"
+          }
         },
         {
-          "rank": 8,
-          "name": "AXA",
+          "rank": 3,
+          "name": "BOC Life",
           "nameZH": {
-            "sc": "安盛",
-            "tc": "安盛"
+            "sc": "中银人寿",
+            "tc": "中銀人壽"
           },
-          "share": "6.0%",
-          "shareType": "std",
-          "rating": "AA-",
-          "trend": "flat",
+          "share": "10.5%",
+          "trend": "up",
+          "rating": "A",
           "note": {
-            "sc": "代理派, 全球私行推手",
-            "tc": "代理派, 全球私行推手"
-          },
-          "source": "IA 4Q25 Excel"
+            "sc": "人民币保险市占逾50%",
+            "tc": "人民幣保險市佔逾50%"
+          }
         },
         {
-          "rank": 9,
+          "rank": 4,
           "name": "FWD",
           "nameZH": {
             "sc": "富卫",
             "tc": "富衛"
           },
-          "share": "4.2%",
-          "shareType": "std",
-          "rating": "NR",
+          "share": "9.8%",
           "trend": "up",
+          "rating": "A",
           "note": {
-            "sc": "混合派, +59%YoY",
-            "tc": "混合派, +59%YoY"
-          },
-          "source": "IA 4Q25 Excel"
+            "sc": "经纪渠道第一",
+            "tc": "經紀渠道第一"
+          }
         },
         {
-          "rank": 10,
+          "rank": 5,
+          "name": "AIA",
+          "nameZH": {
+            "sc": "友邦",
+            "tc": "友邦"
+          },
+          "share": "9.3%",
+          "trend": "→",
+          "rating": "AA",
+          "note": {
+            "sc": "代理渠道龙头",
+            "tc": "代理渠道龍頭"
+          }
+        },
+        {
+          "rank": 6,
+          "name": "Sun Life",
+          "nameZH": {
+            "sc": "永明",
+            "tc": "永明"
+          },
+          "share": "4.5%",
+          "trend": "up",
+          "rating": "AA",
+          "note": {
+            "sc": "经纪渠道+144%",
+            "tc": "經紀渠道+144%"
+          }
+        },
+        {
+          "rank": 7,
+          "name": "Prudential",
+          "nameZH": {
+            "sc": "保诚",
+            "tc": "保誠"
+          },
+          "share": "4.2%",
+          "trend": "→",
+          "rating": "A",
+          "note": {
+            "sc": "削减中国敞口",
+            "tc": "削減中國敞口"
+          }
+        },
+        {
+          "rank": 8,
+          "name": "China Life",
+          "nameZH": {
+            "sc": "国寿海外",
+            "tc": "國壽海外"
+          },
+          "share": "4.0%",
+          "trend": "→",
+          "rating": "A1",
+          "note": {
+            "sc": "终期红利全线100%",
+            "tc": "終期紅利全線100%"
+          }
+        },
+        {
+          "rank": 9,
           "name": "Hang Seng",
           "nameZH": {
             "sc": "恒生保险",
             "tc": "恒生保險"
           },
-          "share": "4.1%",
-          "shareType": "std",
-          "rating": "AA",
-          "trend": "down",
+          "share": "3.5%",
+          "trend": "→",
+          "rating": "NR",
           "note": {
-            "sc": "Top10唯一负增长(-23.5%)",
-            "tc": "Top10唯一負增長(-23.5%)"
+            "sc": "银行系银保",
+            "tc": "銀行系銀保"
+          }
+        },
+        {
+          "rank": 10,
+          "name": "AXA",
+          "nameZH": {
+            "sc": "安盛",
+            "tc": "安盛"
           },
-          "source": "IA 4Q25 Excel"
+          "share": "3.0%",
+          "trend": "up",
+          "rating": "A+",
+          "note": {
+            "sc": "迁册回港，Global Private",
+            "tc": "遷冊回港，Global Private"
+          }
         }
       ],
-      "sourceUrl": "https://www.ia.org.hk/en/infocenter/statistics/market.html",
-      "ratingSource": "S&P Global Asia-Pacific Insurance Ratings List",
-      "ratingUrl": "https://www.spglobal.com/ratings/en/regulatory/article/asia-pacific-insurance-ratings-list-s101683009",
-      "calcNote": {
-        "sc": "标准保费=整付保费×10%+年度化保费。此口径更能反映持续缴费业务价值。",
-        "tc": "標準保費=整付保費×10%+年度化保費。此口徑更能反映持續繳費業務價值。"
-      }
+      "sourceUrl": "https://www.ia.org.hk/sc/infocenter/press_releases/20260724.html",
+      "ratingUrl": "https://www.spglobal.com/ratings/en/"
     },
     "intelligence": {
       "title": {
