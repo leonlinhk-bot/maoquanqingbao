@@ -2,10 +2,10 @@ window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-11T18:08:00+08:00",
-    "itemCount": 431,
+    "itemCount": 435,
     "windowNote": {
-      "sc": "本库431条。",
-      "tc": "本庫431條。"
+      "sc": "本库435条。",
+      "tc": "本庫435條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -9564,6 +9564,73 @@ window.HKII_DATA = {
       ]
     },
     {
+      "id": "ia-licence-conditions-brokers-202606",
+      "clusterCount": 1,
+      "score": 71,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "保监局对两间经纪公司施加续牌条件：暂停接收转介客户",
+        "tc": "保監局對兩間經紀公司施加續牌條件：暫停接收轉介客戶"
+      },
+      "summary": {
+        "sc": "2026 年 6 月初，保监局对两间未能有效管控转介活动的持牌保险经纪公司施加续牌条件：须暂停接收转介客户。这是「按风险程度采取针对性监管措施」（牌照条件+加密汇报）的具体落地，打击不当或高危中介行为。",
+        "tc": "2026 年 6 月初，保監局對兩間未能有效管控轉介活動的持牌保險經紀公司施加續牌條件：須暫停接收轉介客戶。"
+      },
+      "why": {
+        "sc": "「续牌条件」=监管的新执法工具。对 IFA：除了罚款和停牌，保监局现在用牌照条件精准限制违规机构（暂停转介客户）——转介费 50% 红线不是纸面规则，违规的直接后果是业务模式被锁死。",
+        "tc": "「續牌條件」=監管的新執法工具。對 IFA：除了罰款和停牌，保監局現在用牌照條件精準限制違規機構——轉介費 50% 紅線不是紙面規則。"
+      },
+      "actions": {
+        "front": {
+          "sc": "续牌条件=转介违规的新处罚",
+          "tc": "續牌條件=轉介違規的新處罰"
+        },
+        "midback": {
+          "sc": "牌照条件=风险导向监管落地",
+          "tc": "牌照條件=風險導向監管落地"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 4,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "保监局 · 2026年7月",
+        "lang": "zh"
+      },
+      "boards": [
+        "compliance"
+      ],
+      "themes": [
+        "compliance",
+        "reg",
+        "career"
+      ],
+      "tags": {
+        "sc": [
+          "续牌条件",
+          "转介",
+          "经纪公司",
+          "执法"
+        ],
+        "tc": [
+          "續牌條件",
+          "轉介",
+          "經紀公司",
+          "執法"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-07-12T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/tc/infocenter/speeches_articles/20260712.html"
+    },
+    {
       "id": "ia-20260710-illustration",
       "clusterCount": 1,
       "score": 91,
@@ -13594,6 +13661,73 @@ window.HKII_DATA = {
       "contentKind": "report",
       "publishedAt": "2026-06-15T10:00:00+08:00",
       "originalUrl": "https://www.aia.com.hk/zh-hk/products/further-product-information/participating-products/fulfillment-ratio"
+    },
+    {
+      "id": "ia-ai-cohort-10-202606",
+      "clusterCount": 1,
+      "score": 76,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "AI 促进计划重点参与者增至 10 间：保监局举办研讨会",
+        "tc": "AI 促進計劃重點參與者增至 10 間：保監局舉辦研討會"
+      },
+      "summary": {
+        "sc": "2026 年 6 月 15 日，保监局举办「人工智能促进计划研讨会」并欢迎三间新重点参与保险公司，使自 2025 年 8 月以来的重点参与者总数增至 10 间。参与者分享建立卓越中心、培育 AI 人才和推出 AI 解决方案的策略；数码港与港深创新园代表阐述跨界别协作机遇。",
+        "tc": "2026 年 6 月 15 日，保監局舉辦「人工智能促進計劃研討會」並歡迎三間新重點參與保險公司，使自 2025 年 8 月以來的重點參與者總數增至 10 間。"
+      },
+      "why": {
+        "sc": "AI Cohort 10 家=港险 AI 生态的里程碑。对 IFA：10 家重点参与保司意味着 AI 已覆盖港险主流玩家——AI 核保、AI 客服、智能理赔会成为标配，中介的数字工具能力差距将决定服务体验差距。",
+        "tc": "AI Cohort 10 家=港險 AI 生態的里程碑。對 IFA：10 家重點參與保司意味著 AI 已覆蓋港險主流玩家，中介的數字工具能力差距將決定服務體驗差距。"
+      },
+      "actions": {
+        "front": {
+          "sc": "AI Cohort 10家=AI成行业标配",
+          "tc": "AI Cohort 10家=AI成行業标配"
+        },
+        "midback": {
+          "sc": "AI生态=保司竞争的新维度",
+          "tc": "AI生態=保司競爭的新維度"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 3,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "保监局 · 2026年6月",
+        "lang": "zh"
+      },
+      "boards": [
+        "tech"
+      ],
+      "themes": [
+        "tech",
+        "insurtech",
+        "reg"
+      ],
+      "tags": {
+        "sc": [
+          "AI促进计划",
+          "10家",
+          "研讨会",
+          "保监局"
+        ],
+        "tc": [
+          "AI促進計劃",
+          "10家",
+          "研討會",
+          "保監局"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-06-15T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/sc/infocenter/press_releases/20260615.html"
     },
     {
       "id": "ia-20260615-bloomberg-crackdown",
@@ -20103,6 +20237,140 @@ window.HKII_DATA = {
         "tech"
       ],
       "contentKind": "circular"
+    },
+    {
+      "id": "genai-sandbox-pp-202603",
+      "clusterCount": 1,
+      "score": 78,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "GenA.I. 沙盒++：四大监管联手覆盖保险/强积金等六大金融板块",
+        "tc": "GenA.I. 沙盒++：四大監管聯手覆蓋保險/強積金等六大金融板塊"
+      },
+      "summary": {
+        "sc": "2026 年 3 月 5 日，金管局、证监会、保监局、积金局联合数码港推出 GenA.I. 沙盒++：由银行扩展至证券、财富管理、保险、强积金、储值支付六大板块；聚焦风险管理/反诈/客户体验三大范畴，继续「AI 对抗 AI」策略；参与机构可免费使用数码港 AI 超算中心 GPU 资源。",
+        "tc": "2026 年 3 月 5 日，金管局、證監會、保監局、積金局聯合數碼港推出 GenA.I. 沙盒++：由銀行擴展至證券、財富管理、保險、強積金、儲值支付六大板塊；參與機構可免費使用數碼港 AI 超算中心 GPU 資源。"
+      },
+      "why": {
+        "sc": "沙盒++=监管层「AI 保险用例」的官方清单。对 IFA：AI 核保/理赔/反诈是监管鼓励的方向——保司在沙盒里跑 AI 项目，未来会转化为更快的理赔与更智能的服务。跟踪沙盒动态=预判保司数字化进程。",
+        "tc": "沙盒++=監管層「AI 保險用例」的官方清單。對 IFA：AI 核保/理賠/反詐是監管鼓勵的方向——跟蹤沙盒動態=預判保司數碼化進程。"
+      },
+      "actions": {
+        "front": {
+          "sc": "AI沙盒=保司数字化的风向标",
+          "tc": "AI沙盒=保司數碼化的風向標"
+        },
+        "midback": {
+          "sc": "AI对AI=监管的新防御策略",
+          "tc": "AI對AI=監管的新防禦策略"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 4,
+        "lead": 3,
+        "cross": 2
+      },
+      "source": {
+        "sc": "金管局等四大监管 · 2026年3月",
+        "lang": "zh"
+      },
+      "boards": [
+        "tech"
+      ],
+      "themes": [
+        "tech",
+        "insurtech",
+        "reg"
+      ],
+      "tags": {
+        "sc": [
+          "GenAI沙盒",
+          "四大监管",
+          "六大板块",
+          "AI"
+        ],
+        "tc": [
+          "GenAI沙盒",
+          "四大監管",
+          "六大板塊",
+          "AI"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-03-05T10:00:00+08:00",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202603/05/P2026030500278.htm"
+    },
+    {
+      "id": "ia-3brokers-aml-429k-202603",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "三间经纪公司违反反洗钱规定被谴责：合计罚款 42.9 万港元",
+        "tc": "三間經紀公司違反反洗錢規定被譴責：合計罰款 42.9 萬港元"
+      },
+      "summary": {
+        "sc": "2026 年 3 月 4 日，保监局谴责三间持牌保险经纪公司（安联资管、远策国际财富管理、新湾国际保险经纪）并合计罚款 42.9 万港元：未能建立和维持有效的客户尽职审查程序、断定客户是否政治人物、确定任何人士是否代表客户行事，及备存相关记录。三名相关人士同被谴责。",
+        "tc": "2026 年 3 月 4 日，保監局譴責三間持牌保險經紀公司並合計罰款 42.9 萬港元：未能建立和維持有效的客戶盡職審查程序、備存相關記錄。三名相關人士同被譴責。"
+      },
+      "why": {
+        "sc": "三间经纪同时被罚=AML 执法从「个案」到「批量」。对 IFA：客户尽职审查（KYC）不是纸上流程——疫情期间的变通做法也被翻出处罚，说明合规底线没有例外。这是给团队做 AML 培训的警示案例。",
+        "tc": "三間經紀同時被罰=AML 執法從「個案」到「批量」。對 IFA：客戶盡職審查（KYC）不是紙上流程——疫情期間的變通做法也被翻出處罰。"
+      },
+      "actions": {
+        "front": {
+          "sc": "三经纪被罚=AML批量化执法",
+          "tc": "三經紀被罰=AML批量化執法"
+        },
+        "midback": {
+          "sc": "KYC缺失=合规培训的警示",
+          "tc": "KYC缺失=合規培訓的警示"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 4,
+        "lead": 3,
+        "cross": 1
+      },
+      "source": {
+        "sc": "保监局 · 2026年3月",
+        "lang": "zh"
+      },
+      "boards": [
+        "compliance"
+      ],
+      "themes": [
+        "compliance",
+        "aml",
+        "career"
+      ],
+      "tags": {
+        "sc": [
+          "反洗钱",
+          "42.9万",
+          "经纪公司",
+          "KYC"
+        ],
+        "tc": [
+          "反洗錢",
+          "42.9萬",
+          "經紀公司",
+          "KYC"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-03-04T10:00:00+08:00",
+      "originalUrl": "https://m.thepaper.cn/newsDetail_forward_32699090"
     },
     {
       "id": "newcies-2026-3200apps-95b",
@@ -36364,14 +36632,14 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 431 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 431 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 435 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 435 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 431,
+      "totalItems": 435,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 168,
+          "count": 172,
           "label": "监管一手"
         },
         {
@@ -36465,7 +36733,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "reg",
-          "count": 87,
+          "count": 90,
           "label": "监管"
         },
         {
@@ -36485,7 +36753,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "compliance",
-          "count": 56,
+          "count": 58,
           "label": "合规"
         },
         {
