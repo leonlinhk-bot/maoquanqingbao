@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-11T11:46:20Z",
-  "itemCount": 439,
+  "generatedAt": "2026-08-11T11:46:55Z",
+  "itemCount": 443,
   "items": [
     {
       "id": "premium-financing-hibor-risk-202608",
@@ -350,6 +350,20 @@
       "score": 62,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=qbe-asia-leadership-202608",
       "originalUrl": "https://insuranceasia.com/market/hong-kong"
+    },
+    {
+      "id": "lee-crossborder-insurance-202608",
+      "title": "李家超：促进香港与内地保险市场互联互通，鼓励跨境养老医疗产品",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "cross-border",
+        "macro"
+      ],
+      "publishedAt": "2026-08-07T22:00:00+08:00",
+      "score": 84,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=lee-crossborder-insurance-202608",
+      "originalUrl": "http://www.chinanews.com.cn/dwq/2026/08-07/10673967.shtml"
     },
     {
       "id": "hkma-hkmca-boclife-annuity",
@@ -2838,6 +2852,20 @@
       "originalUrl": "https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/wealth-management-connect/"
     },
     {
+      "id": "axa-aishouwei-upgrade-2026",
+      "title": "安盛「爱唯守」危疾升级：138 种病症，总保障高达保额 1300%",
+      "sourceTier": "insurer",
+      "themes": [
+        "product",
+        "uw",
+        "health"
+      ],
+      "publishedAt": "2026-06-01T10:00:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=axa-aishouwei-upgrade-2026",
+      "originalUrl": "https://www.axa.com.hk/cn/critical-illness-protection"
+    },
+    {
       "id": "ia-20260529-onsite-findings",
       "title": "保司现场操守巡查常见问题与最佳实务（2026-05-29）。",
       "sourceTier": "official",
@@ -2874,6 +2902,20 @@
       "score": 86,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=bcg-hk-1-cross-border-wealth-20260527",
       "originalUrl": "https://www.bcg.com/press/27may2026-hong-kong-surpasses-switzerland-largest-cross-border-wealth-hub"
+    },
+    {
+      "id": "ia-ci-definitions-16-2026",
+      "title": "危疾定义标准化 16 项逐条拆解：心肌病/末期肝病等定义 9 月起收紧",
+      "sourceTier": "official",
+      "themes": [
+        "uw",
+        "product",
+        "reg"
+      ],
+      "publishedAt": "2026-05-25T10:00:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-ci-definitions-16-2026",
+      "originalUrl": "https://www.hkinsu.com/support/case/36627.html"
     },
     {
       "id": "ia-public-disclosure-rules-202605",
@@ -3935,6 +3977,20 @@
       "score": 82,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=circ-20260201-crossborder",
       "originalUrl": "https://www.stcn.com/article/detail/1228440.html"
+    },
+    {
+      "id": "hangseng-lifebetter-ci-2026",
+      "title": "恒生保险「爱·生活」危疾：132 种疾病保障，癌症/心脏病/中风多重赔偿",
+      "sourceTier": "insurer",
+      "themes": [
+        "product",
+        "uw",
+        "health"
+      ],
+      "publishedAt": "2026-02-01T10:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hangseng-lifebetter-ci-2026",
+      "originalUrl": "https://evalue.hangseng.com/content/dam/hase/rwd/personal/insurance-and-mpf/pdfs/LifeBetter_Sc.pdf"
     },
     {
       "id": "ia-20260126-aff",

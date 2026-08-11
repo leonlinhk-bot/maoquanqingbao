@@ -2,10 +2,10 @@
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-11T18:08:00+08:00",
-    "itemCount": 439,
+    "itemCount": 443,
     "windowNote": {
-      "sc": "本库439条。",
-      "tc": "本庫439條。"
+      "sc": "本库443条。",
+      "tc": "本庫443條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -1938,6 +1938,76 @@
       "contentKind": "news",
       "publishedAt": "2026-08-08T10:00:00+08:00",
       "originalUrl": "https://insuranceasia.com/market/hong-kong"
+    },
+    {
+      "id": "lee-crossborder-insurance-202608",
+      "clusterCount": 1,
+      "score": 84,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "govhk",
+      "title": {
+        "sc": "李家超：促进香港与内地保险市场互联互通，鼓励跨境养老医疗产品",
+        "tc": "李家超：促進香港與內地保險市場互聯互通，鼓勵跨境養老醫療產品"
+      },
+      "summary": {
+        "sc": "2026 年 8 月 7 日，特首李家超在世界华人保险大会视频致辞：鼓励香港业界开发跨境养老和医疗保险产品便利大湾区居民，特区政府继续与内地密切沟通，为香港保单居民提供更完善售后支持，促进两地保险市场互联互通。",
+        "tc": "2026 年 8 月 7 日，特首李家超在世界華人保險大會視頻致辭：鼓勵香港業界開發跨境養老和醫療保險產品便利大灣區居民，促進兩地保險市場互聯互通。"
+      },
+      "why": {
+        "sc": "特首亲口定调「保险互联互通」=最高层级的政策信号。对 IFA：跨境养老/医疗产品+保单售后支持是明确鼓励方向——这是给客户讲「两地保险市场在打通」时最权威的引用，也是产品创新的政策背书。",
+        "tc": "特首親口定調「保險互聯互通」=最高層級的政策信號。對 IFA：跨境養老/醫療產品+保單售後支持是明確鼓勵方向，這是產品創新的政策背書。"
+      },
+      "actions": {
+        "front": {
+          "sc": "特首定调=互联互通最高信号",
+          "tc": "特首定調=互聯互通最高信號"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "跨境产品=政策鼓励的方向",
+          "tc": "跨境產品=政策鼓勵的方向"
+        },
+        "cross": {
+          "sc": "两地打通=跨境业务的长期逻辑",
+          "tc": "兩地打通=跨境業務的長期邏輯"
+        }
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 2,
+        "lead": 3,
+        "cross": 5
+      },
+      "source": {
+        "sc": "中新网 · 2026年8月",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "reg",
+        "cross-border",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "李家超",
+          "互联互通",
+          "跨境养老",
+          "大湾区"
+        ],
+        "tc": [
+          "李家超",
+          "互聯互通",
+          "跨境養老",
+          "大灣區"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-07T22:00:00+08:00",
+      "originalUrl": "http://www.chinanews.com.cn/dwq/2026/08-07/10673967.shtml"
     },
     {
       "id": "hkma-hkmca-boclife-annuity",
@@ -15564,6 +15634,70 @@
       "originalUrl": "https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/wealth-management-connect/"
     },
     {
+      "id": "axa-aishouwei-upgrade-2026",
+      "clusterCount": 1,
+      "score": 71,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "axa",
+      "title": {
+        "sc": "安盛「爱唯守」危疾升级：138 种病症，总保障高达保额 1300%",
+        "tc": "安盛「愛唯守」危疾升級：138 種病症，總保障高達保額 1300%"
+      },
+      "summary": {
+        "sc": "安盛「爱唯守危疾保障（升级版）」：覆盖 138 种病症（含 3 种早期风险状况），多重赔偿下总保障高达保额 1300%；癌症最多 5 次、心脏病 2 次、中风 2 次额外赔偿；晚期癌症即时每月 5% 收入替代；「爱宝保」版本从孕期 18 周起保障准妈妈及宝宝。",
+        "tc": "安盛「愛唯守危疾保障（升級版）」：覆蓋 138 種病症，多重賠償下總保障高達保額 1300%；癌症最多 5 次額外賠償；「愛寶保」版本從孕期 18 周起保障準媽媽及寶寶。"
+      },
+      "why": {
+        "sc": "安盛 1300% 总保障+孕期 18 周起保=危疾产品参数天花板。对 IFA：1300% 是目前市场最高总保障档位之一，「爱宝保」孕期保障是差异化亮点——给准父母客户讲危疾险时这两个参数是记忆点。",
+        "tc": "安盛 1300% 總保障+孕期 18 周起保=危疾產品參數天花板。對 IFA：「愛寶保」孕期保障是差異化亮點——給準父母客戶講危疾險時這兩個參數是記憶點。"
+      },
+      "actions": {
+        "front": {
+          "sc": "1300%=危疾参数的天花板",
+          "tc": "1300%=危疾參數的天花板"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "安盛 · 2026年",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "product",
+        "uw",
+        "health"
+      ],
+      "tags": {
+        "sc": [
+          "安盛",
+          "爱唯守",
+          "1300%",
+          "孕期保障"
+        ],
+        "tc": [
+          "安盛",
+          "愛唯守",
+          "1300%",
+          "孕期保障"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-06-01T10:00:00+08:00",
+      "originalUrl": "https://www.axa.com.hk/cn/critical-illness-protection"
+    },
+    {
       "id": "ia-20260529-onsite-findings",
       "title": {
         "sc": "保司现场操守巡查常见问题与最佳实务（2026-05-29）。",
@@ -15790,6 +15924,73 @@
       "contentKind": "press",
       "publishedAt": "2026-05-27T10:00:00+08:00",
       "originalUrl": "https://www.bcg.com/press/27may2026-hong-kong-surpasses-switzerland-largest-cross-border-wealth-hub"
+    },
+    {
+      "id": "ia-ci-definitions-16-2026",
+      "clusterCount": 1,
+      "score": 76,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "危疾定义标准化 16 项逐条拆解：心肌病/末期肝病等定义 9 月起收紧",
+        "tc": "危疾定義標準化 16 項逐條拆解：心肌病/末期肝病等定義 9 月起收緊"
+      },
+      "summary": {
+        "sc": "香港保险业联会危疾定义标准化（2026 年 9 月 1 日适用新险种）：16 项危疾+5 项早期危疾定义逐条更新。例如严重原发性心肌病明确四种类型并须 NYHA 4 级≥180 天（更严）；严重肝病改「至少三项临床准则」（略宽）；呼吸衰竭增加动脉血氧量化标准。",
+        "tc": "香港保險業聯會危疾定義標準化（2026 年 9 月 1 日適用新險種）：16 項危疾+5 項早期危疾定義逐條更新。嚴重原發性心肌病明確四種類型並須 NYHA 4 級≥180 天（更嚴）。"
+      },
+      "why": {
+        "sc": "新定义「有严有松」=理赔标准的实质变化。对 IFA：9 月 1 日后新产品的危疾定义与旧产品不同——心肌病更严、末期肝病略宽，给客户讲「新旧产品区别」和理赔预期时，这是必须更新的专业知识。",
+        "tc": "新定義「有嚴有鬆」=理賠標準的實質變化。對 IFA：9 月 1 日後新產品的危疾定義與舊產品不同，這是必須更新的專業知識。"
+      },
+      "actions": {
+        "front": {
+          "sc": "新定义9月起=危疾知识必修课",
+          "tc": "新定義9月起=危疾知識必修課"
+        },
+        "midback": {
+          "sc": "定义标准化=理赔标准的统一",
+          "tc": "定義標準化=理賠標準的統一"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 3,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "香港保险业联会 · 2026年5月",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "uw",
+        "product",
+        "reg"
+      ],
+      "tags": {
+        "sc": [
+          "危疾定义",
+          "16项",
+          "标准化",
+          "9月"
+        ],
+        "tc": [
+          "危疾定義",
+          "16項",
+          "標準化",
+          "9月"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-05-25T10:00:00+08:00",
+      "originalUrl": "https://www.hkinsu.com/support/case/36627.html"
     },
     {
       "id": "ia-public-disclosure-rules-202605",
@@ -21780,6 +21981,70 @@
       "themes": [
         "market"
       ]
+    },
+    {
+      "id": "hangseng-lifebetter-ci-2026",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "hangseng",
+      "title": {
+        "sc": "恒生保险「爱·生活」危疾：132 种疾病保障，癌症/心脏病/中风多重赔偿",
+        "tc": "恒生保險「愛·生活」危疾：132 種疾病保障，癌症/心臟病/中風多重賠償"
+      },
+      "summary": {
+        "sc": "恒生保险推出「爱·生活」危疾人寿保险计划（2026 年 2 月版）：提供 132 种不同阶段疾病保障（60 种严重疾病、58 种早期严重疾病、14 种严重儿童疾病）；癌症、心脏病、中风三大严重疾病可获多达 4 次、每次 100% 保额的额外赔偿；首 10 个保单年度可享 60% 升级保障。",
+        "tc": "恒生保險推出「愛·生活」危疾人壽保險計劃：提供 132 種不同階段疾病保障；癌症、心臟病、中風三大嚴重疾病可獲多達 4 次、每次 100% 保額的額外賠償。"
+      },
+      "why": {
+        "sc": "恒生（银行系）也推多重危疾=危疾竞争的全面升级。对 IFA：132 种疾病+癌症 4 次赔偿已是主流配置——银行系保司的产品力追平独立保司，比价时「保障结构」比「品牌」更重要。",
+        "tc": "恒生（銀行系）也推多重危疾=危疾競爭的全面升級。對 IFA：132 種疾病+癌症 4 次賠償已是主流配置。"
+      },
+      "actions": {
+        "front": {
+          "sc": "恒生132种=危疾标配再升级",
+          "tc": "恒生132種=危疾標配再升級"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "恒生保险 · 2026年2月",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "product",
+        "uw",
+        "health"
+      ],
+      "tags": {
+        "sc": [
+          "恒生",
+          "爱生活",
+          "132种",
+          "多重危疾"
+        ],
+        "tc": [
+          "恒生",
+          "愛生活",
+          "132種",
+          "多重危疾"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-02-01T10:00:00+08:00",
+      "originalUrl": "https://evalue.hangseng.com/content/dam/hase/rwd/personal/insurance-and-mpf/pdfs/LifeBetter_Sc.pdf"
     },
     {
       "id": "ia-20260126-aff",
@@ -36894,19 +37159,19 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 439 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 439 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 443 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 443 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 439,
+      "totalItems": 443,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 172,
+          "count": 174,
           "label": "监管一手"
         },
         {
           "tier": "insurer",
-          "count": 113,
+          "count": 115,
           "label": "保司公告"
         },
         {
@@ -36995,7 +37260,7 @@
         },
         {
           "theme": "reg",
-          "count": 90,
+          "count": 92,
           "label": "监管"
         },
         {
@@ -37005,7 +37270,7 @@
         },
         {
           "theme": "product",
-          "count": 67,
+          "count": 70,
           "label": "产品"
         },
         {
@@ -37020,7 +37285,7 @@
         },
         {
           "theme": "macro",
-          "count": 43,
+          "count": 44,
           "label": "宏观"
         },
         {
