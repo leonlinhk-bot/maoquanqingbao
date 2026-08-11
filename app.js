@@ -2,10 +2,10 @@ window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-11T18:08:00+08:00",
-    "itemCount": 423,
+    "itemCount": 427,
     "windowNote": {
-      "sc": "本库423条。",
-      "tc": "本庫423條。"
+      "sc": "本库427条。",
+      "tc": "本庫427條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -7023,6 +7023,73 @@ window.HKII_DATA = {
       "originalUrl": "https://insuranceasia.com/insurance/news/prudential-targets-wealthy-clients-500000-legacy-cover"
     },
     {
+      "id": "sfc-xingzheng-680-202607",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "sfc",
+      "title": {
+        "sc": "兴证国际资管被罚 680 万港元：涉泰禾人寿关联交易链条",
+        "tc": "興證國際資管被罰 680 萬港元：涉泰禾人壽關聯交易鏈條"
+      },
+      "summary": {
+        "sc": "2026 年 7 月 27 日，香港证监会公开谴责兴证国际资管并罚款 680 万港元：该公司 2019-2020 年担任泰禾人寿私人基金基金经理时，按泰禾首席投资总监要求买入关联公司债券挂钩的结构性票据并转仓，缺乏商业理据、疑似隐瞒资产流向。",
+        "tc": "2026 年 7 月 27 日，香港證監會公開譴責興證國際資管並罰款 680 萬港元：該公司 2019-2020 年擔任泰禾人壽私人基金基金經理時，按泰禾首席投資總監要求買入關聯公司債券掛鉤的結構性票據並轉倉，疑似隱瞞資產流向。"
+      },
+      "why": {
+        "sc": "泰禾事件余波=监管追责到整条资金链。对 IFA：客户问「泰禾之后监管做了什么」——答案是回溯追责（瑞丰证券、兴证相继被罚）。这是讲「香港监管不是一次性处置，而是全链条追责」的案例。",
+        "tc": "泰禾事件餘波=監管追責到整條資金鏈。對 IFA：客戶問「泰禾之後監管做了什麼」——答案是回溯追責，這是講「香港監管全鏈條追責」的案例。"
+      },
+      "actions": {
+        "front": {
+          "sc": "兴证被罚=泰禾全链条追责的注脚",
+          "tc": "興證被罰=泰禾全鏈條追責的注腳"
+        },
+        "midback": {
+          "sc": "关联交易=资管合规的警示",
+          "tc": "關聯交易=資管合規的警示"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 4,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "香港证监会 · 2026年7月",
+        "lang": "zh"
+      },
+      "boards": [
+        "compliance"
+      ],
+      "themes": [
+        "compliance",
+        "firm",
+        "reg"
+      ],
+      "tags": {
+        "sc": [
+          "兴证",
+          "680万",
+          "泰禾",
+          "证监会"
+        ],
+        "tc": [
+          "興證",
+          "680萬",
+          "泰禾",
+          "證監會"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-07-27T10:00:00+08:00",
+      "originalUrl": "https://view.inews.qq.com/a/20260806A0BY5000"
+    },
+    {
       "id": "apac-insurers-emergedebt-202607",
       "clusterCount": 1,
       "score": 71,
@@ -13622,6 +13689,73 @@ window.HKII_DATA = {
       "originalUrl": "https://m.sohu.com/a/1043225733_122705432/"
     },
     {
+      "id": "aia-wealth-generation-2025",
+      "clusterCount": 1,
+      "score": 73,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "aia",
+      "title": {
+        "sc": "友邦推 Wealth Generation：专为高净值客，4 年预期回本 + 首创传承选项",
+        "tc": "友邦推 Wealth Generation：專為高淨值客，4 年預期回本 + 首創傳承選項"
+      },
+      "summary": {
+        "sc": "友邦香港推出 Wealth Generation 专属高净值储蓄计划：市场首创多项传承选项（过渡期拥有人安排、健康受损选项、身故赔偿结算选项、受益人弹性选项）、罕有的灵活提取选项、预期 4 年回本、10 年预期 IRR 最高 5.05%。",
+        "tc": "友邦香港推出 Wealth Generation 專屬高淨值儲蓄計劃：市場首創多項傳承選項（過渡期擁有人安排、受益人彈性選項等）、罕有的靈活提取選項、預期 4 年回本、10 年預期 IRR 最高 5.05%。"
+      },
+      "why": {
+        "sc": "友邦高净值计划「传承选项首创」=高净值赛道的产品力比拼升级。对 IFA：客户问「高净值储蓄险哪家强」，AIA Wealth Generation 的传承选项矩阵（受益人弹性/过渡安排）是差异化答案——传承功能已成高净值产品的必争之地。",
+        "tc": "友邦高淨值計劃「傳承選項首創」=高淨值賽道的產品力比拼升級。對 IFA：傳承功能已成高淨值產品的必爭之地。"
+      },
+      "actions": {
+        "front": {
+          "sc": "4年回本=高净值储蓄的卖点",
+          "tc": "4年回本=高淨值儲蓄的賣點"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "传承选项=高净值产品的新维度",
+          "tc": "傳承選項=高淨值產品的新維度"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 3,
+        "cross": 3
+      },
+      "source": {
+        "sc": "友邦香港 · 2026年",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "product",
+        "family-office",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "友邦",
+          "Wealth Generation",
+          "高净值",
+          "传承"
+        ],
+        "tc": [
+          "友邦",
+          "Wealth Generation",
+          "高淨值",
+          "傳承"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-06-12T10:00:00+08:00",
+      "originalUrl": "https://www.caproasia.com/2026/06/12/aia-hong-kong-macau-launches-new-participating-whole-life-savings-plan-wealth-flexi-savings-insurance-plan-for-hnws-allowing-for-1-legacy-planning-transitional-owner-arrangement-health-impairme/"
+    },
+    {
       "id": "ia-20260610-manulife-leverage",
       "clusterCount": 1,
       "score": 78,
@@ -15727,6 +15861,70 @@ window.HKII_DATA = {
       "contentKind": "report",
       "publishedAt": "2026-05-10T10:00:00+08:00",
       "originalUrl": "https://m.acc5.com/news-xinwen/detail_268866.html"
+    },
+    {
+      "id": "sunlife-galaxy2-fr-2026",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "sunlife",
+      "title": {
+        "sc": "永明 2026 分红数据：万年青系列连续 2 年 100%，部分红利上调 5-8%",
+        "tc": "永明 2026 分紅數據：萬年青系列連續 2 年 100%，部分紅利上調 5-8%"
+      },
+      "summary": {
+        "sc": "永明 2026 年分红数据：万年青系列产品总现金价值比率连续 2 年 100% 达成；星河尊享 2 年缴/5 年缴 2023 缮发年度终期红利实现率 106%；且对部分产品归原红利上调 5-8%（含已停售的星河尊享/星河传承，上调至 5%）。",
+        "tc": "永明 2026 年分紅數據：萬年青系列產品總現金價值比率連續 2 年 100% 達成；星河尊享 2023 繕發年度終期紅利實現率 106%；部分產品歸原紅利上調 5-8%（含已停售產品）。"
+      },
+      "why": {
+        "sc": "停售产品也上调红利=永明「老客户友好」的罕见做法。对 IFA：实现率 100%+红利上调（含停售产品）是讲「分红兑现能力」的王牌素材——老产品上调比新产品宣传更有说服力。",
+        "tc": "停售產品也上調紅利=永明「老客戶友好」的罕見做法。對 IFA：實現率 100%+紅利上調（含停售產品）是講「分紅兌現能力」的王牌素材。"
+      },
+      "actions": {
+        "front": {
+          "sc": "停售产品上调=兑现能力的王牌",
+          "tc": "停售產品上調=兌現能力的王牌"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "永明金融 · 2026年6月",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "par",
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "永明",
+          "万年青",
+          "实现率",
+          "红利上调"
+        ],
+        "tc": [
+          "永明",
+          "萬年青",
+          "實現率",
+          "紅利上調"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-05-10T10:00:00+08:00",
+      "originalUrl": "https://m.acc5.com/news-xinwen/detail_256739.html"
     },
     {
       "id": "ia-20260508-rbc-conclusion",
@@ -17958,6 +18156,70 @@ window.HKII_DATA = {
         "reg"
       ],
       "contentKind": "circular"
+    },
+    {
+      "id": "fwd-wealth2-upgrade-202603",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "fwd",
+      "title": {
+        "sc": "富卫「盈聚天下 2」升级：8 币种 + 新生婴儿奖励 + 人生大事奖赏",
+        "tc": "富衛「盈聚天下 2」升級：8 幣種 + 新生嬰兒獎勵 + 人生大事獎賞"
+      },
+      "summary": {
+        "sc": "富卫储蓄险「盈聚天下 2」2026 年 3 月升级：缴费期新增 1/3/10 年；保单货币扩展至 8 种；新增 4 项人生大事奖励（每项 3,000 港元）；长寿奖赏 10,000 港元；新生婴儿/孙子女奖赏扩至 60,000 港元上限；杰出表现奖最高 31,000 港元。",
+        "tc": "富衛儲蓄險「盈聚天下 2」2026 年 3 月升級：繳費期新增 1/3/10 年；保單貨幣擴展至 8 種；新增 4 項人生大事獎勵；新生嬰兒/孫子女獎賞擴至 60,000 港元上限。"
+      },
+      "why": {
+        "sc": "「人生大事奖励+出生奖励」=储蓄险的体验化竞争。对 IFA：富卫用「生孩子奖 6 万」的营销钩子做差异化，展示储蓄险从纯收益工具转向「人生陪伴」——给客户讲产品时，这类特色条款是记忆点。",
+        "tc": "「人生大事獎勵+出生獎勵」=儲蓄險的體驗化競爭。對 IFA：富衛用「生孩子獎 6 萬」的營銷鉤子做差異化，這類特色條款是記憶點。"
+      },
+      "actions": {
+        "front": {
+          "sc": "人生奖励=储蓄险的体验化创新",
+          "tc": "人生獎勵=儲蓄險的體驗化創新"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "富卫香港 · 2026年3月",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "product",
+        "par",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "富卫",
+          "盈聚天下2",
+          "8币种",
+          "婴儿奖励"
+        ],
+        "tc": [
+          "富衛",
+          "盈聚天下2",
+          "8幣種",
+          "嬰兒獎勵"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-03-30T10:00:00+08:00",
+      "originalUrl": "https://www.insurehk.com/10557.html"
     },
     {
       "id": "ia-2025-complaints",
@@ -35834,19 +36096,19 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 423 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 423 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 427 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 427 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 423,
+      "totalItems": 427,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 165,
+          "count": 166,
           "label": "监管一手"
         },
         {
           "tier": "insurer",
-          "count": 105,
+          "count": 108,
           "label": "保司公告"
         },
         {
@@ -35935,12 +36197,12 @@ window.HKII_DATA = {
         },
         {
           "theme": "reg",
-          "count": 84,
+          "count": 85,
           "label": "监管"
         },
         {
           "theme": "firm",
-          "count": 75,
+          "count": 79,
           "label": "保司"
         },
         {
@@ -35950,12 +36212,12 @@ window.HKII_DATA = {
         },
         {
           "theme": "product",
-          "count": 58,
+          "count": 61,
           "label": "产品"
         },
         {
           "theme": "compliance",
-          "count": 55,
+          "count": 56,
           "label": "合规"
         },
         {
@@ -35975,7 +36237,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "family-office",
-          "count": 24,
+          "count": 25,
           "label": "家办"
         }
       ],

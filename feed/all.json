@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-11T11:43:55Z",
-  "itemCount": 423,
+  "generatedAt": "2026-08-11T11:44:30Z",
+  "itemCount": 427,
   "items": [
     {
       "id": "ib-swissre-natcat-h1-2026",
@@ -1290,6 +1290,20 @@
       "originalUrl": "https://insuranceasia.com/insurance/news/prudential-targets-wealthy-clients-500000-legacy-cover"
     },
     {
+      "id": "sfc-xingzheng-680-202607",
+      "title": "兴证国际资管被罚 680 万港元：涉泰禾人寿关联交易链条",
+      "sourceTier": "official",
+      "themes": [
+        "compliance",
+        "firm",
+        "reg"
+      ],
+      "publishedAt": "2026-07-27T10:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sfc-xingzheng-680-202607",
+      "originalUrl": "https://view.inews.qq.com/a/20260806A0BY5000"
+    },
+    {
       "id": "apac-insurers-emergedebt-202607",
       "title": "亚太保险公司转向新兴市场债券寻求收益",
       "sourceTier": "pro",
@@ -2486,6 +2500,20 @@
       "originalUrl": "https://m.sohu.com/a/1043225733_122705432/"
     },
     {
+      "id": "aia-wealth-generation-2025",
+      "title": "友邦推 Wealth Generation：专为高净值客，4 年预期回本 + 首创传承选项",
+      "sourceTier": "insurer",
+      "themes": [
+        "product",
+        "family-office",
+        "firm"
+      ],
+      "publishedAt": "2026-06-12T10:00:00+08:00",
+      "score": 73,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-wealth-generation-2025",
+      "originalUrl": "https://www.caproasia.com/2026/06/12/aia-hong-kong-macau-launches-new-participating-whole-life-savings-plan-wealth-flexi-savings-insurance-plan-for-hnws-allowing-for-1-legacy-planning-transitional-owner-arrangement-health-impairme/"
+    },
+    {
       "id": "ia-20260610-manulife-leverage",
       "title": "宏利香港据报暂停杠杆融资保单产品：监管关注与产品合规调整。",
       "sourceTier": "insurer",
@@ -2836,6 +2864,20 @@
       "score": 76,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=pru-2025-claims-report",
       "originalUrl": "https://m.acc5.com/news-xinwen/detail_268866.html"
+    },
+    {
+      "id": "sunlife-galaxy2-fr-2026",
+      "title": "永明 2026 分红数据：万年青系列连续 2 年 100%，部分红利上调 5-8%",
+      "sourceTier": "insurer",
+      "themes": [
+        "par",
+        "product",
+        "firm"
+      ],
+      "publishedAt": "2026-05-10T10:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sunlife-galaxy2-fr-2026",
+      "originalUrl": "https://m.acc5.com/news-xinwen/detail_256739.html"
     },
     {
       "id": "ia-20260508-rbc-conclusion",
@@ -3231,6 +3273,20 @@
       "score": 86,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260331-cpd-reporting",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_31032026_CPD_Reporting_Procedures_for_2025-2026_onwards_Eng.pdf"
+    },
+    {
+      "id": "fwd-wealth2-upgrade-202603",
+      "title": "富卫「盈聚天下 2」升级：8 币种 + 新生婴儿奖励 + 人生大事奖赏",
+      "sourceTier": "insurer",
+      "themes": [
+        "product",
+        "par",
+        "firm"
+      ],
+      "publishedAt": "2026-03-30T10:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fwd-wealth2-upgrade-202603",
+      "originalUrl": "https://www.insurehk.com/10557.html"
     },
     {
       "id": "ia-2025-complaints",
