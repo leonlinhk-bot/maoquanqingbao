@@ -5,3 +5,7 @@ data/live-items-bak-*.json
 design-v1.css
 .hermes/
 scripts/_*.py
+
+# 采集原始缓存
+data/_raw/
+data/existing-keys.txt
