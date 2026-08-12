@@ -1,9 +1,74 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-12T17:54:34Z",
-  "itemCount": 454,
+  "generatedAt": "2026-08-12T18:11:15Z",
+  "itemCount": 459,
   "items": [
+    {
+      "id": "scmp-hsbc-insurance-reshuffle-20260812",
+      "title": "汇丰重组保险部门：全球保险业务CEO离任 曾翠琼、张凯即任联席CEO",
+      "sourceTier": "media",
+      "themes": [
+        "people",
+        "distribution"
+      ],
+      "publishedAt": "2026-08-12T19:53:30+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-hsbc-insurance-reshuffle-20260812",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3363806/hsbc-reshuffles-insurance-division-after-ceos-surprise-departure-internal-memo"
+    },
+    {
+      "id": "picc-tan-jiong-chairman-20260812",
+      "title": "中国人保委任谭炯为执行董事兼董事长 待股东会及金融监管总局核准",
+      "sourceTier": "media",
+      "themes": [
+        "people",
+        "china"
+      ],
+      "publishedAt": "2026-08-12T15:13:19+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=picc-tan-jiong-chairman-20260812",
+      "originalUrl": "https://insuranceasianews.com/picc-appoints-veteran-banker-tan-jiong-as-chairman/"
+    },
+    {
+      "id": "typhoon-dolphin-178m-20260812",
+      "title": "台风「白海豚」五地接报案近10万件 估损12亿元 平安预估赔付超9600万美元",
+      "sourceTier": "media",
+      "themes": [
+        "natcat",
+        "claims"
+      ],
+      "publishedAt": "2026-08-12T14:23:38+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=typhoon-dolphin-178m-20260812",
+      "originalUrl": "https://insuranceasianews.com/typhoon-dolphin-losses-hit-us178m-as-beijing-battles-heavy-rain-floods/"
+    },
+    {
+      "id": "scmp-hk-property-tax-net-20260812",
+      "title": "内地拓宽境外征税网 香港楼市复苏面临新风险 保险放缓亦拖累写字楼需求",
+      "sourceTier": "media",
+      "themes": [
+        "taxation",
+        "cross-border"
+      ],
+      "publishedAt": "2026-08-12T07:51:55+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-hk-property-tax-net-20260812",
+      "originalUrl": "https://www.scmp.com/business/article/3363634/hong-kong-property-recovery-faces-new-risk-china-widens-offshore-tax-net"
+    },
+    {
+      "id": "gx-broker-name-compliance-20260812",
+      "title": "广西金融监管局：严查违规使用「保险代理」「保险经纪」字样经营主体",
+      "sourceTier": "media",
+      "themes": [
+        "channel",
+        "compliance"
+      ],
+      "publishedAt": "2026-08-12T00:00:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=gx-broker-name-compliance-20260812",
+      "originalUrl": "http://m.toutiao.com/group/7673136546282832399/"
+    },
     {
       "id": "21jingji-hk-tax-framework-20260811",
       "title": "税务总局回应港险征税：非新政策非针对保险 律师拆解退保/分红/理赔三种税务处理",
