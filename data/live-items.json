@@ -2,10 +2,10 @@
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-12T18:08:00+08:00",
-    "itemCount": 455,
+    "itemCount": 454,
     "windowNote": {
-      "sc": "本库455条。",
-      "tc": "本庫455條。"
+      "sc": "本库454条。",
+      "tc": "本庫454條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -621,73 +621,6 @@
       },
       "featured": false,
       "evergreen": false
-    },
-    {
-      "id": "premium-financing-hibor-risk-202608",
-      "clusterCount": 1,
-      "score": 72,
-      "verifyStatus": "verified",
-      "sourceTier": "media",
-      "sourceKey": "insuranceasia",
-      "title": {
-        "sc": "HIBOR 飙升致保费融资风险上升：一个月 HIBOR 两周内从 0.9% 升至 3%",
-        "tc": "HIBOR 飆升致保費融資風險上升：一個月 HIBOR 兩週內從 0.9% 升至 3%"
-      },
-      "summary": {
-        "sc": "2026 年 8 月底，一个月 HIBOR 从 0.91% 飙升至 3.30%（两周内），保费融资贷款利息（HIBOR+1% 左右）随之翻倍。此前低息环境下大量投保人通过贷款买保单（保费融资），利率上行后收益被侵蚀甚至亏损。行业提醒：保费融资的杠杆收益对利率高度敏感。",
-        "tc": "2026 年 8 月底，一個月 HIBOR 從 0.91% 飆升至 3.30%（兩週內），保費融資貸款利息隨之翻倍。此前低息環境下大量投保人通過貸款買保單，利率上行後收益被侵蝕甚至虧損。"
-      },
-      "why": {
-        "sc": "HIBOR 飙升=保费融资风险的实时课堂。对 IFA：给客户讲保费融资必须说清利率风险——「20% 年回报」多是单利口径+杠杆幻觉，HIBOR 波动会直接侵蚀收益。这是合规销售与专业判断的必修课。",
-        "tc": "HIBOR 飆升=保費融資風險的實時課堂。對 IFA：給客戶講保費融資必須說清利率風險——HIBOR 波動會直接侵蝕收益，這是合規銷售與專業判斷的必修課。"
-      },
-      "actions": {
-        "front": {
-          "sc": "HIBOR飙升=融资风险的活教材",
-          "tc": "HIBOR飆升=融資風險的活教材"
-        },
-        "midback": {
-          "sc": "保费融资=需充分披露风险",
-          "tc": "保費融資=需充分披露風險"
-        },
-        "lead": {},
-        "cross": {}
-      },
-      "rolesImpact": {
-        "front": 4,
-        "midback": 3,
-        "lead": 2,
-        "cross": 2
-      },
-      "source": {
-        "sc": "佛山Plus/经济观察报 · 2026年8月",
-        "lang": "zh"
-      },
-      "boards": [
-        "compliance"
-      ],
-      "themes": [
-        "compliance",
-        "macro",
-        "product"
-      ],
-      "tags": {
-        "sc": [
-          "保费融资",
-          "HIBOR",
-          "利率风险",
-          "杠杆"
-        ],
-        "tc": [
-          "保費融資",
-          "HIBOR",
-          "利率風險",
-          "槓桿"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2026-08-28T10:00:00+08:00",
-      "originalUrl": "https://content.foshanplus.com/simpleNewsDetails.html?newsId=300278307"
     },
     {
       "id": "ib-swissre-natcat-h1-2026",
@@ -38082,10 +38015,10 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 455 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 455 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 454 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 454 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 455,
+      "totalItems": 454,
       "sourceTiers": [
         {
           "tier": "official",
@@ -38099,7 +38032,7 @@
         },
         {
           "tier": "media",
-          "count": 98,
+          "count": 97,
           "label": "媒体报道"
         },
         {
@@ -38193,7 +38126,7 @@
         },
         {
           "theme": "product",
-          "count": 71,
+          "count": 70,
           "label": "产品"
         },
         {
@@ -38203,12 +38136,12 @@
         },
         {
           "theme": "compliance",
-          "count": 64,
+          "count": 63,
           "label": "合规"
         },
         {
           "theme": "macro",
-          "count": 46,
+          "count": 45,
           "label": "宏观"
         },
         {
@@ -38228,8 +38161,8 @@
         }
       ],
       "dateRange": {
-        "sc": "2024-01-15 ~ 2026-08-28",
-        "tc": "2024-01-15 ~ 2026-08-28"
+        "sc": "2024-01-15 ~ 2026-08-12",
+        "tc": "2024-01-15 ~ 2026-08-12"
       }
     },
     "marketData": {

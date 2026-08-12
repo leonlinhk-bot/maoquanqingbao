@@ -66,6 +66,24 @@ FEED.joinpath('featured.xml').write_text(f"""<?xml version="1.0" encoding="UTF-8
 n = len(items)
 data['meta']['windowNote'] = {'sc': f'本库{n}条。', 'tc': f'本庫{n}條。'}
 data['meta']['itemCount'] = n
+# Future-date guard: 手动入库可能误把文章内部引用的日期当作发布时间
+from datetime import datetime as _dt, timezone as _tz
+_now = _dt.now(_tz.utc)
+_future_ids = []
+for _i in items:
+    _s = (_i.get('publishedAt') or '').replace('Z', '+00:00')
+    if not _s:
+        continue
+    try:
+        _d = _dt.fromisoformat(_s)
+        if _d.tzinfo is None:
+            _d = _d.replace(tzinfo=_tz.utc)
+        if _d > _now:
+            _future_ids.append(_i['id'])
+    except Exception:
+        pass
+if _future_ids:
+    print(f'[guard] future-dated items: {_future_ids}')
 # Auto-refresh stats.intelligence from real data (keep other stats blocks untouched)
 try:
     inte = data.setdefault('stats', {}).setdefault('intelligence', {})
