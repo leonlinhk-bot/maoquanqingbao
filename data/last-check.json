@@ -1,61 +1,61 @@
 {
-  "lastCheck": "2026-08-13T18:33:58+08:00",
+  "lastCheck": "2026-08-14T02:10:27+08:00",
   "sources": {
     "ia_press": {
       "url": "https://www.ia.org.hk/en/infocenter/press_releases/",
-      "last": "2026-08-13T18:33:58+08:00"
+      "last": "2026-08-14T02:10:27+08:00"
     },
     "ia_circular": {
       "url": "https://www.ia.org.hk/en/legislative_framework/circulars/",
-      "last": "2026-08-13T18:33:58+08:00"
+      "last": "2026-08-14T02:10:27+08:00"
     },
     "hkma_press": {
       "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/",
-      "last": "2026-08-13T18:33:58+08:00"
+      "last": "2026-08-14T02:10:27+08:00"
     },
     "aia_news": {
       "url": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/",
-      "last": "2026-08-13T18:33:58+08:00"
+      "last": "2026-08-14T02:10:27+08:00"
     },
     "manulife_news": {
       "url": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html",
-      "last": "2026-08-13T18:33:58+08:00"
+      "last": "2026-08-14T02:10:27+08:00"
     },
     "prudential_news": {
       "url": "https://www.prudential.com.hk/tc/about-us/newsroom/",
-      "last": "2026-08-13T18:33:58+08:00"
+      "last": "2026-08-14T02:10:27+08:00"
     },
     "axa_news": {
       "url": "https://www.axa.com.hk/zh/news-room/",
-      "last": "2026-08-13T18:33:58+08:00"
+      "last": "2026-08-14T02:10:27+08:00"
     },
     "sunlife_news": {
       "url": "https://www.sunlife.com.hk/zh-hant/about-us/newsroom/news-releases/",
-      "last": "2026-08-13T18:33:58+08:00"
+      "last": "2026-08-14T02:10:27+08:00"
     },
     "insurance_asia": {
       "url": "https://insuranceasia.com/rss.xml",
-      "last": "2026-08-13T18:33:58+08:00"
+      "last": "2026-08-14T02:10:27+08:00"
     },
     "insurance_business": {
       "url": "https://www.insurancebusinessmag.com/asia/news/breaking-news/",
-      "last": "2026-08-13T18:33:58+08:00"
+      "last": "2026-08-14T02:10:27+08:00"
     },
     "scmp_insurance": {
       "url": "https://www.scmp.com/topics/insurance",
-      "last": "2026-08-13T18:33:58+08:00"
+      "last": "2026-08-14T02:10:27+08:00"
     },
     "nfra": {
       "url": "https://www.nfra.gov.cn/",
-      "last": "2026-08-13T18:33:58+08:00"
+      "last": "2026-08-14T02:10:27+08:00"
     },
     "family_office": {
       "url": "https://www.fstb.gov.hk/en/",
-      "last": "2026-08-13T18:33:58+08:00"
+      "last": "2026-08-14T02:10:27+08:00"
     },
     "insurtech": {
       "url": "https://www.ia.org.hk/en/aboutus/task_force/",
-      "last": "2026-08-13T18:33:58+08:00"
+      "last": "2026-08-14T02:10:27+08:00"
     }
   }
 }

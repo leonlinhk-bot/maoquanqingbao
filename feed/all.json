@@ -1,9 +1,61 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-13T10:33:58Z",
-  "itemCount": 462,
+  "generatedAt": "2026-08-13T18:10:30Z",
+  "itemCount": 466,
   "items": [
+    {
+      "id": "xchange-first-cycle-loi-20260813",
+      "title": "XChange TEC拟收购香港AI公司First Cycle 打造智能体AI保险生态平台",
+      "sourceTier": "pro",
+      "themes": [
+        "insurtech",
+        "ai"
+      ],
+      "publishedAt": "2026-08-13T21:54:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=xchange-first-cycle-loi-20260813",
+      "originalUrl": "https://ai-watch.jp/english/57468/"
+    },
+    {
+      "id": "aastocks-sp-tax-sales-20260813",
+      "title": "标普：内地征税或拖慢港银港险面向内地客户销售 寿险两年仍可增长8%-10%",
+      "sourceTier": "pro",
+      "themes": [
+        "taxation",
+        "firm"
+      ],
+      "publishedAt": "2026-08-13T14:06:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aastocks-sp-tax-sales-20260813",
+      "originalUrl": "http://freequote.aastocks.com/en/stocks/news/aafn-con/NOW.1538066/latest-news/AAFN"
+    },
+    {
+      "id": "ce-inscap-stakes-20260813",
+      "title": "险资举牌画风突变：年内仅6次 转向硬科技IPO战略配售与同业互持",
+      "sourceTier": "media",
+      "themes": [
+        "china",
+        "firm"
+      ],
+      "publishedAt": "2026-08-13T17:24:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ce-inscap-stakes-20260813",
+      "originalUrl": "http://finance.ce.cn/insurance1/scrollnews/202608/t20260813_3146705.shtml"
+    },
+    {
+      "id": "bambooworks-tax-edge-20260813",
+      "title": "Bamboo Works：内地客2024年贡献港险新单628亿港元 征税常态化才是真正考验",
+      "sourceTier": "media",
+      "themes": [
+        "taxation",
+        "cross-border"
+      ],
+      "publishedAt": "2026-08-13T00:00:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=bambooworks-tax-edge-20260813",
+      "originalUrl": "https://thebambooworks.com/tax-crackdown-erodes-edge-for-hong-kong-insurers/"
+    },
     {
       "id": "scmp-offshore-tax-opinion-20260813",
       "title": "南华早报评论：港险征税风波考验香港财富管理 税务总局称20%税率非新政非针对香港",
