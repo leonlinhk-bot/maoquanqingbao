@@ -630,10 +630,10 @@
       "tc": "情報密度"
     },
     "subtitle": {
-      "sc": "自动从 459 条资讯聚合 · sourceKey 标准化完成",
-      "tc": "自動從 459 條資訊聚合 · sourceKey 標準化完成"
+      "sc": "自动从 462 条资讯聚合 · sourceKey 标准化完成",
+      "tc": "自動從 462 條資訊聚合 · sourceKey 標準化完成"
     },
-    "totalItems": 459,
+    "totalItems": 462,
     "sourceTiers": [
       {
         "tier": "official",
@@ -647,7 +647,7 @@
       },
       {
         "tier": "media",
-        "count": 102,
+        "count": 105,
         "label": "媒体报道"
       },
       {
@@ -736,7 +736,7 @@
       },
       {
         "theme": "firm",
-        "count": 84,
+        "count": 85,
         "label": "保司"
       },
       {
@@ -746,7 +746,7 @@
       },
       {
         "theme": "offshore",
-        "count": 66,
+        "count": 67,
         "label": "跨境"
       },
       {
@@ -776,8 +776,8 @@
       }
     ],
     "dateRange": {
-      "sc": "2024-01-15 ~ 2026-08-12",
-      "tc": "2024-01-15 ~ 2026-08-12"
+      "sc": "2024-01-15 ~ 2026-08-13",
+      "tc": "2024-01-15 ~ 2026-08-13"
     }
   },
   "marketData": {
