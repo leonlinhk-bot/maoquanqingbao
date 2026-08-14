@@ -630,14 +630,14 @@
       "tc": "情報密度"
     },
     "subtitle": {
-      "sc": "自动从 466 条资讯聚合 · sourceKey 标准化完成",
-      "tc": "自動從 466 條資訊聚合 · sourceKey 標準化完成"
+      "sc": "自动从 472 条资讯聚合 · sourceKey 标准化完成",
+      "tc": "自動從 472 條資訊聚合 · sourceKey 標準化完成"
     },
-    "totalItems": 466,
+    "totalItems": 472,
     "sourceTiers": [
       {
         "tier": "official",
-        "count": 179,
+        "count": 180,
         "label": "监管一手"
       },
       {
@@ -647,12 +647,12 @@
       },
       {
         "tier": "media",
-        "count": 107,
+        "count": 109,
         "label": "媒体报道"
       },
       {
         "tier": "pro",
-        "count": 47,
+        "count": 50,
         "label": "专业解读"
       },
       {
@@ -726,12 +726,12 @@
     "topThemes": [
       {
         "theme": "market",
-        "count": 150,
+        "count": 153,
         "label": "市场"
       },
       {
         "theme": "reg",
-        "count": 97,
+        "count": 98,
         "label": "监管"
       },
       {
@@ -741,7 +741,7 @@
       },
       {
         "theme": "product",
-        "count": 70,
+        "count": 71,
         "label": "产品"
       },
       {
@@ -766,18 +766,18 @@
       },
       {
         "theme": "reinsurance",
-        "count": 26,
+        "count": 28,
         "label": "reinsurance"
       },
       {
-        "theme": "family-office",
-        "count": 25,
-        "label": "家办"
+        "theme": "career",
+        "count": 27,
+        "label": "职业"
       }
     ],
     "dateRange": {
-      "sc": "2024-01-15 ~ 2026-08-13",
-      "tc": "2024-01-15 ~ 2026-08-13"
+      "sc": "2024-01-15 ~ 2026-08-14",
+      "tc": "2024-01-15 ~ 2026-08-14"
     }
   },
   "marketData": {

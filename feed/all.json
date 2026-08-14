@@ -1,9 +1,89 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-13T18:10:30Z",
-  "itemCount": 466,
+  "generatedAt": "2026-08-14T10:23:29Z",
+  "itemCount": 472,
   "items": [
+    {
+      "id": "govhk-ia-ceo-reappointment-20260814",
+      "title": "香港政府再度委任张云正为保监局行政总监 任期延至2029年8月",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "career"
+      ],
+      "publishedAt": "2026-08-14T16:00:00+08:00",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=govhk-ia-ceo-reappointment-20260814",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202608/14/P2026081400295.htm"
+    },
+    {
+      "id": "insuranceasia-ambest-reinsurers-capital-20260814",
+      "title": "AM Best：全球再保险业连续第三年跑赢资本成本 2025年中位股本回报16.3%",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "capital",
+        "results"
+      ],
+      "publishedAt": "2026-08-14T05:30:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-ambest-reinsurers-capital-20260814",
+      "originalUrl": "https://insuranceasia.com/insurance/news/global-reinsurers-beat-capital-costs-third-straight-year"
+    },
+    {
+      "id": "insuranceasia-deal-insurance-rw-20260814",
+      "title": "并购保障需求升温：58%受访者预期2026年陈述与保证保险使用增加",
+      "sourceTier": "pro",
+      "themes": [
+        "market",
+        "product"
+      ],
+      "publishedAt": "2026-08-14T05:15:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-deal-insurance-rw-20260814",
+      "originalUrl": "https://insuranceasia.com/insurance/news/deal-insurance-demand-rises-buyers-guard-against-ma-risk"
+    },
+    {
+      "id": "insuranceasia-philippine-cat-pool-20260814",
+      "title": "双灾考验菲律宾巨灾保险池：PCIF首次实战 51家非寿险仅10家入池",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "catastrophe"
+      ],
+      "publishedAt": "2026-08-14T05:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-philippine-cat-pool-20260814",
+      "originalUrl": "https://insuranceasia.com/insurance/exclusive/twin-disasters-expose-philippine-insurance-gap"
+    },
+    {
+      "id": "insurancebusiness-qbe-h1-20260814",
+      "title": "QBE中期调整后净利润10.3亿美元 股本回报17.7%超中期目标",
+      "sourceTier": "pro",
+      "themes": [
+        "results",
+        "capital",
+        "market"
+      ],
+      "publishedAt": "2026-08-14T07:53:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insurancebusiness-qbe-h1-20260814",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/qbe-reports-1-03-billion-adjusted-profit-as-roe-hits-17-7-586101.aspx"
+    },
+    {
+      "id": "insuranceasianews-howden-financial-lines-20260814",
+      "title": "Howden委任Sonija Cheng为香港金融险团队总监 此前任职Willis逾七年",
+      "sourceTier": "media",
+      "themes": [
+        "career",
+        "market"
+      ],
+      "publishedAt": "2026-08-14T16:42:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasianews-howden-financial-lines-20260814",
+      "originalUrl": "https://insuranceasianews.com/howden-adds-sonija-cheng-to-hong-kong-financial-lines-team/"
+    },
     {
       "id": "xchange-first-cycle-loi-20260813",
       "title": "XChange TEC拟收购香港AI公司First Cycle 打造智能体AI保险生态平台",
