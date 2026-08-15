@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-15T05:27:19Z",
-  "itemCount": 477,
+  "generatedAt": "2026-08-15T10:20:09Z",
+  "itemCount": 480,
   "items": [
     {
       "id": "scmp-ia-mainland-client-definition-20260815",
@@ -6322,6 +6322,45 @@
       "score": 78,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fstb-pps-consultation-conclusion-202401",
       "originalUrl": "https://www.kennedyslaw.com/en/thought-leadership/article/2024/hong-kong-regulatory-insurance-update-january-2024/"
+    },
+    {
+      "id": "boclife-deloitte-hnw-succession-20260813",
+      "title": "中银人寿与Deloitte Private启动高净值客户财富传承合作 联合推出《财富之光，照亮世代》手册",
+      "sourceTier": "insurer",
+      "themes": [
+        "family-office",
+        "hnw"
+      ],
+      "publishedAt": "2026-08-13T00:00:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=boclife-deloitte-hnw-succession-20260813",
+      "originalUrl": "https://www.boclife.com.hk/sc/news.html"
+    },
+    {
+      "id": "cmbi-mcv-downside-20260810",
+      "title": "招银国际：内地访客新保单销售存下行风险 长期需求仍有增长空间",
+      "sourceTier": "pro",
+      "themes": [
+        "mcv",
+        "taxation"
+      ],
+      "publishedAt": "2026-08-10T10:46:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=cmbi-mcv-downside-20260810",
+      "originalUrl": "http://www.aastocks.com/en/stocks/news/aafn-con/NOW.1537340/top-news/AAFN?totc=1"
+    },
+    {
+      "id": "hkfi-wong-insurtech-interview-20260815",
+      "title": "香港保险业联会主席黄子逊专访：香港是保险科技开疆拓土理想地 南沙前海拟设售后服务中心",
+      "sourceTier": "media",
+      "themes": [
+        "insurtech",
+        "cross-border"
+      ],
+      "publishedAt": "2026-08-15T09:18:13+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkfi-wong-insurtech-interview-20260815",
+      "originalUrl": "https://letschuhai.com/insurance-industry-asia-insurance"
     }
   ]
 }

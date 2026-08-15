@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-08-15T13:27:19+08:00",
-    "itemCount": 477,
+    "generatedAt": "2026-08-15T18:20:06+08:00",
+    "itemCount": 480,
     "windowNote": {
-      "sc": "本库477条。",
-      "tc": "本庫477條。"
+      "sc": "本库480条。",
+      "tc": "本庫480條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -126,7 +126,7 @@
       ],
       "registryFile": "data/sources.yaml"
     },
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-15",
     "roles": [
       {
         "id": "front",
@@ -34811,6 +34811,234 @@
       "contentKind": "press",
       "publishedAt": "2024-01-15T10:00:00+08:00",
       "originalUrl": "https://www.kennedyslaw.com/en/thought-leadership/article/2024/hong-kong-regulatory-insurance-update-january-2024/"
+    },
+    {
+      "id": "boclife-deloitte-hnw-succession-20260813",
+      "clusterCount": 1,
+      "score": 78,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "boclife:deloitte-hnw-20260813",
+      "title": {
+        "sc": "中银人寿与Deloitte Private启动高净值客户财富传承合作 联合推出《财富之光，照亮世代》手册",
+        "tc": "中銀人壽與Deloitte Private啟動高淨值客戶財富傳承合作 聯合推出《財富之光，照亮世代》手冊"
+      },
+      "summary": {
+        "sc": "中银人寿8月13日宣布与德勤民营企业与私人客户服务（Deloitte Private）启动高净值客户财富传承合作计划，围绕跨代传承、合规安排与长远规划展开，并联合推出《财富之光，照亮世代》专题手册。中银人寿执行总裁邓子平与德勤中国香港业务主管合伙人黄文标见证签署，双方将结合保险方案与税务、家族治理及传承专业能力，打造客制化传承方案。",
+        "tc": "中銀人壽8月13日宣佈與德勤民營企業與私人客戶服務（Deloitte Private）啟動高淨值客戶財富傳承合作計劃，圍繞跨代傳承、合規安排與長遠規劃展開，並聯合推出《財富之光，照亮世代》專題手冊。中銀人壽執行總裁鄧子平與德勤中國香港業務主管合夥人黃文標見證簽署，雙方將結合保險方案與稅務、家族治理及傳承專業能力，打造客製化傳承方案。"
+      },
+      "why": {
+        "sc": "港险高净值/家办赛道的典型协作样本：保司与四大专业机构合流切入跨代传承与合规，反映香港跃升全球最大跨境财富管理中心后的红利外溢，是观察家办主题与保司战略的窗口。",
+        "tc": "港險高淨值/家辦賽道的典型協作樣本：保司與四大專業機構合流切入跨代傳承與合規，反映香港躍升全球最大跨境財富管理中心後的紅利外溢，是觀察家辦主題與保司戰略的窗口。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "保司×德勤合流=传承合规范式",
+          "tc": "保司×德勤合流=傳承合規範式"
+        },
+        "lead": {
+          "sc": "高净值客群服务升级=渠道卖点",
+          "tc": "高淨值客群服務升級=渠道賣點"
+        },
+        "cross": {
+          "sc": "跨境财富传承=家办协同入口",
+          "tc": "跨境財富傳承=家辦協同入口"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "中银人寿官网新闻稿",
+        "lang": "zh"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "family-office",
+        "hnw"
+      ],
+      "tags": {
+        "sc": [
+          "中银人寿",
+          "德勤",
+          "高净值",
+          "财富传承",
+          "家办"
+        ],
+        "tc": [
+          "中銀人壽",
+          "德勤",
+          "高淨值",
+          "財富傳承",
+          "家辦"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-08-13T00:00:00+08:00",
+      "originalUrl": "https://www.boclife.com.hk/sc/news.html",
+      "ingestedAt": "2026-08-15T18:20:06+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "cmbi-mcv-downside-20260810",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "aastocks:cmbi-mcv-downside-20260810",
+      "title": {
+        "sc": "招银国际：内地访客新保单销售存下行风险 长期需求仍有增长空间",
+        "tc": "招銀國際：內地訪客新保單銷售存下行風險 長期需求仍有增長空間"
+      },
+      "summary": {
+        "sc": "招银国际8月10日报告指，内地税务机关对离岸保单投资回报征税的消息令友邦、保诚股价一度跌逾8%及5%，市场对离岸新业务销售及价值增长转趋审慎。该行认为抛售过度，因内地访客离岸保险需求难被税收完全消灭，征税主要影响分红及预缴保费利息，纯保障型产品不受影响；但短期内访客新单销售仍存下行风险，因客户需时间重新评估风险回报。",
+        "tc": "招銀國際8月10日報告指，內地稅務機關對離岸保單投資回報徵稅的消息令友邦、保誠股價一度跌逾8%及5%，市場對離岸新業務銷售及價值增長轉趨審慎。該行認為拋售過度，因內地訪客離岸保險需求難被稅收完全消滅，徵稅主要影響分紅及預繳保費利息，純保障型產品不受影響；但短期內訪客新單銷售仍存下行風險，因客戶需時間重新評估風險回報。"
+      },
+      "why": {
+        "sc": "大行对征税冲击的量化拆解：区分分红/预缴利息与纯保障的税负边界，给出「短期下行、长期需求仍在」的判断，为中后台评估MCV客群风险提供参照。",
+        "tc": "大行對徵稅衝擊的量化拆解：區分分紅/預繳利息與純保障的稅負邊界，給出「短期下行、長期需求仍在」的判斷，為中後台評估MCV客群風險提供參照。"
+      },
+      "actions": {
+        "front": {
+          "sc": "短期MCV销售承压=展业节奏提示",
+          "tc": "短期MCV銷售承壓=展業節奏提示"
+        },
+        "midback": {
+          "sc": "税负边界拆解=合规评估要点",
+          "tc": "稅負邊界拆解=合規評估要點"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "阿思达克财经网（招银国际报告）",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "mcv",
+        "taxation"
+      ],
+      "tags": {
+        "sc": [
+          "招银国际",
+          "内地访客",
+          "征税",
+          "新单销售",
+          "MCV"
+        ],
+        "tc": [
+          "招銀國際",
+          "內地訪客",
+          "徵稅",
+          "新單銷售",
+          "MCV"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-10T10:46:00+08:00",
+      "originalUrl": "http://www.aastocks.com/en/stocks/news/aafn-con/NOW.1537340/top-news/AAFN?totc=1",
+      "ingestedAt": "2026-08-15T18:20:06+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "hkfi-wong-insurtech-interview-20260815",
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "letschuhai:hkfi-wong-interview-20260815",
+      "title": {
+        "sc": "香港保险业联会主席黄子逊专访：香港是保险科技开疆拓土理想地 南沙前海拟设售后服务中心",
+        "tc": "香港保險業聯會主席黃子遜專訪：香港是保險科技開疆拓土理想地 南沙前海擬設售後服務中心"
+      },
+      "summary": {
+        "sc": "香港保险业联会主席黄子逊接受36氪出海专访指，香港凭「一国两制」优势兼作内外循环交汇点，计划在南沙、前海成立保险售后服务中心，为持港单的大湾区居民提供理赔续保支持，加速两地保险市场互联互通；并鼓励大型国企民企来港设专属自保公司，集中管理「一带一路」海外项目风险。他同时强调跨境监管协作与人才交流的重要性。",
+        "tc": "香港保險業聯會主席黃子遜接受36氪出海專訪指，香港憑「一國兩制」優勢兼作內外循環交匯點，計劃在南沙、前海成立保險售後服務中心，為持港單的大灣區居民提供理賠續保支持，加速兩地保險市場互聯互通；並鼓勵大型國企民企來港設專屬自保公司，集中管理「一帶一路」海外項目風險。他同時強調跨境監管協作與人才交流的重要性。"
+      },
+      "why": {
+        "sc": "业内高层对港险跨境下一步的定调：售后服务中心落地南沙前海将直接缓解内地客理赔续保痛点，是渠道与服务的结构性利好，值得跨境架构与前线角色持续跟踪。",
+        "tc": "業內高層對港險跨境下一步的定調：售後服務中心落地南沙前海將直接緩解內地客理賠續保痛點，是渠道與服務的結構性利好，值得跨境架構與前線角色持續跟蹤。"
+      },
+      "actions": {
+        "front": {
+          "sc": "售后中心落地=内地客服务便利化",
+          "tc": "售後中心落地=內地客服務便利化"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {
+          "sc": "南沙前海=跨境架构新节点",
+          "tc": "南沙前海=跨境架構新節點"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 1,
+        "lead": 1,
+        "cross": 2
+      },
+      "source": {
+        "sc": "36氪出海（香港保险业联会主席专访）",
+        "lang": "zh"
+      },
+      "boards": [
+        "tech"
+      ],
+      "themes": [
+        "insurtech",
+        "cross-border"
+      ],
+      "tags": {
+        "sc": [
+          "香港保联",
+          "保险科技",
+          "大湾区",
+          "售后服务中心",
+          "跨境"
+        ],
+        "tc": [
+          "香港保聯",
+          "保險科技",
+          "大灣區",
+          "售後服務中心",
+          "跨境"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-15T09:18:13+08:00",
+      "originalUrl": "https://letschuhai.com/insurance-industry-asia-insurance",
+      "ingestedAt": "2026-08-15T18:20:06+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
     }
   ],
   "calendar": [
@@ -39726,10 +39954,10 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 477 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 477 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 480 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 480 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 477,
+      "totalItems": 480,
       "sourceTiers": [
         {
           "tier": "official",
@@ -39738,17 +39966,17 @@
         },
         {
           "tier": "insurer",
-          "count": 117,
+          "count": 118,
           "label": "保司公告"
         },
         {
           "tier": "media",
-          "count": 110,
+          "count": 111,
           "label": "媒体报道"
         },
         {
           "tier": "pro",
-          "count": 50,
+          "count": 51,
           "label": "专业解读"
         },
         {
