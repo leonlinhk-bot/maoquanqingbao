@@ -1,9 +1,74 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-14T10:23:29Z",
-  "itemCount": 472,
+  "generatedAt": "2026-08-15T05:27:19Z",
+  "itemCount": 477,
   "items": [
+    {
+      "id": "scmp-ia-mainland-client-definition-20260815",
+      "title": "保监局拟重新界定「内地访客」身份定义 下季咨询 非内地户籍人士或可免亲身来港投保",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "mcv"
+      ],
+      "publishedAt": "2026-08-15T00:00:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-ia-mainland-client-definition-20260815",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3364040/hong-kongs-insurance-authority-aims-broaden-regional-clientele-base-reappointed-ceo"
+    },
+    {
+      "id": "nfra-q2-insurance-indicators-20260814",
+      "title": "金融监管总局：二季度末保险业总资产43.9万亿元 较年初增6.2% 综合偿付能力充足率180.6%",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "stats"
+      ],
+      "publishedAt": "2026-08-14T18:25:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-q2-insurance-indicators-20260814",
+      "originalUrl": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260815_3148603.shtml"
+    },
+    {
+      "id": "stheadline-hashkey-yflife-hkdap-20260814",
+      "title": "HashKey与万通保险完成港元稳定币HKDAP首笔真实交易 保费结算或由2-3日缩至近实时",
+      "sourceTier": "insurer",
+      "themes": [
+        "insurtech",
+        "product"
+      ],
+      "publishedAt": "2026-08-14T21:22:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=stheadline-hashkey-yflife-hkdap-20260814",
+      "originalUrl": "https://www.stheadline.com/zh-hans/realtime-finance/3604503/HashKey%E4%B8%8E%E4%B8%87%E9%80%9A%E4%BF%9D%E9%99%A9%E5%AE%8C%E6%88%90%E6%B8%AF%E5%85%83%E7%A8%B3%E5%AE%9A%E5%B8%81HKDAP%E7%9C%9F%E5%AE%9E%E4%BA%A4%E6%98%93-%E6%9C%AA%E6%9D%A5%E7%A0%94%E6%94%AF%E6%8F%B4%E4%BA%A4%E4%BF%9D%E8%B4%B9"
+    },
+    {
+      "id": "toutiao-fwd-juntian-broker-20260815",
+      "title": "富卫经「富卫财务策划」入股内地全国性保险经纪隽天20% 李泽楷布局内地渠道",
+      "sourceTier": "insurer",
+      "themes": [
+        "market",
+        "distribution"
+      ],
+      "publishedAt": "2026-08-15T12:57:26+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=toutiao-fwd-juntian-broker-20260815",
+      "originalUrl": "http://m.toutiao.com/group/7674118008847057448/"
+    },
+    {
+      "id": "toutiao-baobian-tax-20260815",
+      "title": "深度：港险补税20%风声紧但「子弹还在飞」 各地执行标准尚未统一",
+      "sourceTier": "media",
+      "themes": [
+        "reg",
+        "market"
+      ],
+      "publishedAt": "2026-08-15T08:00:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=toutiao-baobian-tax-20260815",
+      "originalUrl": "http://m.toutiao.com/group/7673890688060097074/"
+    },
     {
       "id": "govhk-ia-ceo-reappointment-20260814",
       "title": "香港政府再度委任张云正为保监局行政总监 任期延至2029年8月",

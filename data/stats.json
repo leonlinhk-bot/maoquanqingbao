@@ -630,24 +630,24 @@
       "tc": "情報密度"
     },
     "subtitle": {
-      "sc": "自动从 472 条资讯聚合 · sourceKey 标准化完成",
-      "tc": "自動從 472 條資訊聚合 · sourceKey 標準化完成"
+      "sc": "自动从 477 条资讯聚合 · sourceKey 标准化完成",
+      "tc": "自動從 477 條資訊聚合 · sourceKey 標準化完成"
     },
-    "totalItems": 472,
+    "totalItems": 477,
     "sourceTiers": [
       {
         "tier": "official",
-        "count": 180,
+        "count": 182,
         "label": "监管一手"
       },
       {
         "tier": "insurer",
-        "count": 115,
+        "count": 117,
         "label": "保司公告"
       },
       {
         "tier": "media",
-        "count": 109,
+        "count": 110,
         "label": "媒体报道"
       },
       {
@@ -726,12 +726,12 @@
     "topThemes": [
       {
         "theme": "market",
-        "count": 153,
+        "count": 155,
         "label": "市场"
       },
       {
         "theme": "reg",
-        "count": 98,
+        "count": 101,
         "label": "监管"
       },
       {
@@ -741,7 +741,7 @@
       },
       {
         "theme": "product",
-        "count": 71,
+        "count": 72,
         "label": "产品"
       },
       {
@@ -776,8 +776,8 @@
       }
     ],
     "dateRange": {
-      "sc": "2024-01-15 ~ 2026-08-14",
-      "tc": "2024-01-15 ~ 2026-08-14"
+      "sc": "2024-01-15 ~ 2026-08-15",
+      "tc": "2024-01-15 ~ 2026-08-15"
     }
   },
   "marketData": {
