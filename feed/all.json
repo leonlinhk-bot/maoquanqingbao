@@ -1,7 +1,7 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-16T04:19:00Z",
+  "generatedAt": "2026-08-16T04:36:02Z",
   "itemCount": 500,
   "items": [
     {
@@ -1917,11 +1917,12 @@
     {
       "id": "ziyu-ceo-letter-20260724",
       "title": "资遇经纪 CEO 年度公开信：信任，是时间留下的凭证",
-      "sourceTier": "media",
+      "sourceTier": "broker",
       "themes": [
         "channel",
         "compliance",
-        "career"
+        "career",
+        "benchmark"
       ],
       "publishedAt": "2026-07-24T10:00:00+08:00",
       "score": 86,

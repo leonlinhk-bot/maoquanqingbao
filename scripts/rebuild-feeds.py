@@ -89,13 +89,13 @@ try:
     inte = data.setdefault('stats', {}).setdefault('intelligence', {})
     from collections import Counter as _C
     tiers = _C(i.get('sourceTier', '?') for i in items)
-    tier_labels = {'official': '监管一手', 'insurer': '保司公告', 'media': '媒体报道',
-                   'pro': '专业解读', 'research': '机构研究'}
+    tier_labels = {'official': '监管一手', 'insurer': '保司公告', 'broker': '经纪行',
+                   'media': '媒体报道', 'pro': '专业解读', 'research': '机构研究'}
     inte['totalItems'] = n
     inte['subtitle'] = {'sc': f'自动从 {n} 条资讯聚合 · sourceKey 标准化完成',
                         'tc': f'自動從 {n} 條資訊聚合 · sourceKey 標準化完成'}
     inte['sourceTiers'] = [{'tier': t, 'count': tiers.get(t, 0), 'label': tier_labels.get(t, t)}
-                           for t in ('official', 'insurer', 'media', 'pro', 'research') if tiers.get(t)]
+                           for t in ('official', 'insurer', 'broker', 'media', 'pro', 'research') if tiers.get(t)]
     themes = _C()
     for i in items:
         for t in (i.get('themes') or []):

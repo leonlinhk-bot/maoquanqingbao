@@ -646,8 +646,13 @@
         "label": "保司公告"
       },
       {
+        "tier": "broker",
+        "count": 1,
+        "label": "经纪行"
+      },
+      {
         "tier": "media",
-        "count": 117,
+        "count": 116,
         "label": "媒体报道"
       },
       {

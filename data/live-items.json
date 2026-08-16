@@ -10559,8 +10559,8 @@
       "clusterCount": 1,
       "score": 86,
       "verifyStatus": "verified",
-      "sourceTier": "media",
-      "sourceKey": "weixin",
+      "sourceTier": "broker",
+      "sourceKey": "ziyu",
       "title": {
         "sc": "资遇经纪 CEO 年度公开信：信任，是时间留下的凭证",
         "tc": "資遇經紀 CEO 年度公開信：信任，是時間留下的憑證"
@@ -10608,7 +10608,8 @@
       "themes": [
         "channel",
         "compliance",
-        "career"
+        "career",
+        "benchmark"
       ],
       "tags": {
         "sc": [
@@ -41277,8 +41278,13 @@
           "label": "保司公告"
         },
         {
+          "tier": "broker",
+          "count": 1,
+          "label": "经纪行"
+        },
+        {
           "tier": "media",
-          "count": 117,
+          "count": 116,
           "label": "媒体报道"
         },
         {

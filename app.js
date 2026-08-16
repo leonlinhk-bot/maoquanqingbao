@@ -10559,8 +10559,8 @@ window.HKII_DATA = {
       "clusterCount": 1,
       "score": 86,
       "verifyStatus": "verified",
-      "sourceTier": "media",
-      "sourceKey": "weixin",
+      "sourceTier": "broker",
+      "sourceKey": "ziyu",
       "title": {
         "sc": "资遇经纪 CEO 年度公开信：信任，是时间留下的凭证",
         "tc": "資遇經紀 CEO 年度公開信：信任，是時間留下的憑證"
@@ -10608,7 +10608,8 @@ window.HKII_DATA = {
       "themes": [
         "channel",
         "compliance",
-        "career"
+        "career",
+        "benchmark"
       ],
       "tags": {
         "sc": [
@@ -41277,8 +41278,13 @@ window.HKII_DATA = {
           "label": "保司公告"
         },
         {
+          "tier": "broker",
+          "count": 1,
+          "label": "经纪行"
+        },
+        {
           "tier": "media",
-          "count": 117,
+          "count": 116,
           "label": "媒体报道"
         },
         {
@@ -41761,7 +41767,7 @@ window.HKII_DATA = {
         agent:{t:"Agent 接入",s:"JSON Feed · RSS · llms.txt"},changelog:{t:"更新日志",s:"功能与数据变更记录"},about:{t:"关于",s:"定位、原则与免责"}
       },
       themes:{reg:"监管",product:"产品",channel:"渠道人力",macro:"宏观资产",par:"分红实现率",uw:"核保理赔",compliance:"合规实操",offshore:"跨境离岸",firm:"机构竞争",tech:"科技运营",career:"职业CPD",intl:"国际对标"},
-      tier:{official:"一手监管",insurer:"保司官方",pro:"专业解读",media:"媒体"},
+      tier:{official:"一手监管",insurer:"保司官方",broker:"经纪行",pro:"专业解读",media:"媒体"},
       hot:"热点", allChip:"全部", searchPh:"搜索标题/摘要/标签…", empty:"无匹配结果",
       verified:"已核原文", pending:"待复核", score:"评分", cluster:"源同题", why:"为什么重要",
       actionNow:"今日动作", actionAll:"全角色动作", summary:"摘要", themesH:"主题", effective:"生效 / 相关日期",
@@ -41853,7 +41859,7 @@ window.HKII_DATA = {
         agent:{t:"Agent 接入",s:"JSON Feed · RSS · llms.txt"},changelog:{t:"更新日誌",s:"功能與數據變更記錄"},about:{t:"關於",s:"定位、原則與免責"}
       },
       themes:{reg:"監管",product:"產品",channel:"渠道人力",macro:"宏觀資產",par:"分紅實現率",uw:"核保理賠",compliance:"合規實操",offshore:"跨境離岸",firm:"機構競爭",tech:"科技運營",career:"職業CPD",intl:"國際對標"},
-      tier:{official:"一手監管",insurer:"保司官方",pro:"專業解讀",media:"媒體"},
+      tier:{official:"一手監管",insurer:"保司官方",broker:"經紀行",pro:"專業解讀",media:"媒體"},
       hot:"當前熱點", allChip:"全部", searchPh:"搜尋標題 / 摘要 / 標籤…", empty:"沒有匹配的條目。",
       verified:"已核原文", pending:"待複核", score:"評分", cluster:"源同題", why:"為什麼重要",
       actionNow:"今日動作", actionAll:"全角色動作", summary:"摘要", themesH:"主題", effective:"生效 / 相關日期",
