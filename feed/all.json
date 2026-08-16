@@ -1,48 +1,9 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-15T10:20:09Z",
-  "itemCount": 480,
+  "generatedAt": "2026-08-16T04:06:16Z",
+  "itemCount": 493,
   "items": [
-    {
-      "id": "scmp-ia-mainland-client-definition-20260815",
-      "title": "保监局拟重新界定「内地访客」身份定义 下季咨询 非内地户籍人士或可免亲身来港投保",
-      "sourceTier": "official",
-      "themes": [
-        "reg",
-        "mcv"
-      ],
-      "publishedAt": "2026-08-15T00:00:00+08:00",
-      "score": 85,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-ia-mainland-client-definition-20260815",
-      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3364040/hong-kongs-insurance-authority-aims-broaden-regional-clientele-base-reappointed-ceo"
-    },
-    {
-      "id": "nfra-q2-insurance-indicators-20260814",
-      "title": "金融监管总局：二季度末保险业总资产43.9万亿元 较年初增6.2% 综合偿付能力充足率180.6%",
-      "sourceTier": "official",
-      "themes": [
-        "reg",
-        "stats"
-      ],
-      "publishedAt": "2026-08-14T18:25:00+08:00",
-      "score": 85,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-q2-insurance-indicators-20260814",
-      "originalUrl": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260815_3148603.shtml"
-    },
-    {
-      "id": "stheadline-hashkey-yflife-hkdap-20260814",
-      "title": "HashKey与万通保险完成港元稳定币HKDAP首笔真实交易 保费结算或由2-3日缩至近实时",
-      "sourceTier": "insurer",
-      "themes": [
-        "insurtech",
-        "product"
-      ],
-      "publishedAt": "2026-08-14T21:22:00+08:00",
-      "score": 75,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=stheadline-hashkey-yflife-hkdap-20260814",
-      "originalUrl": "https://www.stheadline.com/zh-hans/realtime-finance/3604503/HashKey%E4%B8%8E%E4%B8%87%E9%80%9A%E4%BF%9D%E9%99%A9%E5%AE%8C%E6%88%90%E6%B8%AF%E5%85%83%E7%A8%B3%E5%AE%9A%E5%B8%81HKDAP%E7%9C%9F%E5%AE%9E%E4%BA%A4%E6%98%93-%E6%9C%AA%E6%9D%A5%E7%A0%94%E6%94%AF%E6%8F%B4%E4%BA%A4%E4%BF%9D%E8%B4%B9"
-    },
     {
       "id": "toutiao-fwd-juntian-broker-20260815",
       "title": "富卫经「富卫财务策划」入股内地全国性保险经纪隽天20% 李泽楷布局内地渠道",
@@ -55,6 +16,19 @@
       "score": 75,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=toutiao-fwd-juntian-broker-20260815",
       "originalUrl": "http://m.toutiao.com/group/7674118008847057448/"
+    },
+    {
+      "id": "hkfi-wong-insurtech-interview-20260815",
+      "title": "香港保险业联会主席黄子逊专访：香港是保险科技开疆拓土理想地 南沙前海拟设售后服务中心",
+      "sourceTier": "media",
+      "themes": [
+        "insurtech",
+        "cross-border"
+      ],
+      "publishedAt": "2026-08-15T09:18:13+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkfi-wong-insurtech-interview-20260815",
+      "originalUrl": "https://letschuhai.com/insurance-industry-asia-insurance"
     },
     {
       "id": "toutiao-baobian-tax-20260815",
@@ -70,6 +44,58 @@
       "originalUrl": "http://m.toutiao.com/group/7673890688060097074/"
     },
     {
+      "id": "scmp-ia-mainland-client-definition-20260815",
+      "title": "保监局拟重新界定「内地访客」身份定义 下季咨询 非内地户籍人士或可免亲身来港投保",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "mcv"
+      ],
+      "publishedAt": "2026-08-15T00:00:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-ia-mainland-client-definition-20260815",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3364040/hong-kongs-insurance-authority-aims-broaden-regional-clientele-base-reappointed-ceo"
+    },
+    {
+      "id": "stheadline-hashkey-yflife-hkdap-20260814",
+      "title": "HashKey与万通保险完成港元稳定币HKDAP首笔真实交易 保费结算或由2-3日缩至近实时",
+      "sourceTier": "insurer",
+      "themes": [
+        "insurtech",
+        "product"
+      ],
+      "publishedAt": "2026-08-14T21:22:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=stheadline-hashkey-yflife-hkdap-20260814",
+      "originalUrl": "https://www.stheadline.com/zh-hans/realtime-finance/3604503/HashKey%E4%B8%8E%E4%B8%87%E9%80%9A%E4%BF%9D%E9%99%A9%E5%AE%8C%E6%88%90%E6%B8%AF%E5%85%83%E7%A8%B3%E5%AE%9A%E5%B8%81HKDAP%E7%9C%9F%E5%AE%9E%E4%BA%A4%E6%98%93-%E6%9C%AA%E6%9D%A5%E7%A0%94%E6%94%AF%E6%8F%B4%E4%BA%A4%E4%BF%9D%E8%B4%B9"
+    },
+    {
+      "id": "nfra-q2-insurance-indicators-20260814",
+      "title": "金融监管总局：二季度末保险业总资产43.9万亿元 较年初增6.2% 综合偿付能力充足率180.6%",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "stats"
+      ],
+      "publishedAt": "2026-08-14T18:25:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-q2-insurance-indicators-20260814",
+      "originalUrl": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260815_3148603.shtml"
+    },
+    {
+      "id": "insuranceasianews-howden-financial-lines-20260814",
+      "title": "Howden委任Sonija Cheng为香港金融险团队总监 此前任职Willis逾七年",
+      "sourceTier": "media",
+      "themes": [
+        "career",
+        "market"
+      ],
+      "publishedAt": "2026-08-14T16:42:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasianews-howden-financial-lines-20260814",
+      "originalUrl": "https://insuranceasianews.com/howden-adds-sonija-cheng-to-hong-kong-financial-lines-team/"
+    },
+    {
       "id": "govhk-ia-ceo-reappointment-20260814",
       "title": "香港政府再度委任张云正为保监局行政总监 任期延至2029年8月",
       "sourceTier": "official",
@@ -81,6 +107,20 @@
       "score": 86,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=govhk-ia-ceo-reappointment-20260814",
       "originalUrl": "https://www.info.gov.hk/gia/general/202608/14/P2026081400295.htm"
+    },
+    {
+      "id": "insurancebusiness-qbe-h1-20260814",
+      "title": "QBE中期调整后净利润10.3亿美元 股本回报17.7%超中期目标",
+      "sourceTier": "pro",
+      "themes": [
+        "results",
+        "capital",
+        "market"
+      ],
+      "publishedAt": "2026-08-14T07:53:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insurancebusiness-qbe-h1-20260814",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/qbe-reports-1-03-billion-adjusted-profit-as-roe-hits-17-7-586101.aspx"
     },
     {
       "id": "insuranceasia-ambest-reinsurers-capital-20260814",
@@ -123,33 +163,6 @@
       "originalUrl": "https://insuranceasia.com/insurance/exclusive/twin-disasters-expose-philippine-insurance-gap"
     },
     {
-      "id": "insurancebusiness-qbe-h1-20260814",
-      "title": "QBE中期调整后净利润10.3亿美元 股本回报17.7%超中期目标",
-      "sourceTier": "pro",
-      "themes": [
-        "results",
-        "capital",
-        "market"
-      ],
-      "publishedAt": "2026-08-14T07:53:00+08:00",
-      "score": 72,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insurancebusiness-qbe-h1-20260814",
-      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/qbe-reports-1-03-billion-adjusted-profit-as-roe-hits-17-7-586101.aspx"
-    },
-    {
-      "id": "insuranceasianews-howden-financial-lines-20260814",
-      "title": "Howden委任Sonija Cheng为香港金融险团队总监 此前任职Willis逾七年",
-      "sourceTier": "media",
-      "themes": [
-        "career",
-        "market"
-      ],
-      "publishedAt": "2026-08-14T16:42:00+08:00",
-      "score": 62,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasianews-howden-financial-lines-20260814",
-      "originalUrl": "https://insuranceasianews.com/howden-adds-sonija-cheng-to-hong-kong-financial-lines-team/"
-    },
-    {
       "id": "xchange-first-cycle-loi-20260813",
       "title": "XChange TEC拟收购香港AI公司First Cycle 打造智能体AI保险生态平台",
       "sourceTier": "pro",
@@ -161,19 +174,6 @@
       "score": 70,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=xchange-first-cycle-loi-20260813",
       "originalUrl": "https://ai-watch.jp/english/57468/"
-    },
-    {
-      "id": "aastocks-sp-tax-sales-20260813",
-      "title": "标普：内地征税或拖慢港银港险面向内地客户销售 寿险两年仍可增长8%-10%",
-      "sourceTier": "pro",
-      "themes": [
-        "taxation",
-        "firm"
-      ],
-      "publishedAt": "2026-08-13T14:06:00+08:00",
-      "score": 70,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aastocks-sp-tax-sales-20260813",
-      "originalUrl": "http://freequote.aastocks.com/en/stocks/news/aafn-con/NOW.1538066/latest-news/AAFN"
     },
     {
       "id": "ce-inscap-stakes-20260813",
@@ -189,19 +189,6 @@
       "originalUrl": "http://finance.ce.cn/insurance1/scrollnews/202608/t20260813_3146705.shtml"
     },
     {
-      "id": "bambooworks-tax-edge-20260813",
-      "title": "Bamboo Works：内地客2024年贡献港险新单628亿港元 征税常态化才是真正考验",
-      "sourceTier": "media",
-      "themes": [
-        "taxation",
-        "cross-border"
-      ],
-      "publishedAt": "2026-08-13T00:00:00+08:00",
-      "score": 62,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=bambooworks-tax-edge-20260813",
-      "originalUrl": "https://thebambooworks.com/tax-crackdown-erodes-edge-for-hong-kong-insurers/"
-    },
-    {
       "id": "scmp-offshore-tax-opinion-20260813",
       "title": "南华早报评论：港险征税风波考验香港财富管理 税务总局称20%税率非新政非针对香港",
       "sourceTier": "media",
@@ -213,6 +200,32 @@
       "score": 68,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-offshore-tax-opinion-20260813",
       "originalUrl": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363670/beijings-offshore-insurance-tax-tests-hong-kong-wealth-management"
+    },
+    {
+      "id": "aastocks-sp-tax-sales-20260813",
+      "title": "标普：内地征税或拖慢港银港险面向内地客户销售 寿险两年仍可增长8%-10%",
+      "sourceTier": "pro",
+      "themes": [
+        "taxation",
+        "firm"
+      ],
+      "publishedAt": "2026-08-13T14:06:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aastocks-sp-tax-sales-20260813",
+      "originalUrl": "http://freequote.aastocks.com/en/stocks/news/aafn-con/NOW.1538066/latest-news/AAFN"
+    },
+    {
+      "id": "nandu-offshore-trust-case-20260813",
+      "title": "离岸信托「避税通道」被封堵：宗馥莉家族陷补税争议 涉18亿美元汇丰账户资产",
+      "sourceTier": "media",
+      "themes": [
+        "taxation",
+        "offshore"
+      ],
+      "publishedAt": "2026-08-13T07:45:06+08:00",
+      "score": 63,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nandu-offshore-trust-case-20260813",
+      "originalUrl": "http://m.toutiao.com/group/7673295310735360546/"
     },
     {
       "id": "insuranceasia-hk-insurers-slide-tax-20260813",
@@ -228,17 +241,30 @@
       "originalUrl": "https://insuranceasia.com/insurance/in-focus/hong-kong-insurers-slide-china-tightens-tax-enforcement"
     },
     {
-      "id": "nandu-offshore-trust-case-20260813",
-      "title": "离岸信托「避税通道」被封堵：宗馥莉家族陷补税争议 涉18亿美元汇丰账户资产",
+      "id": "bambooworks-tax-edge-20260813",
+      "title": "Bamboo Works：内地客2024年贡献港险新单628亿港元 征税常态化才是真正考验",
       "sourceTier": "media",
       "themes": [
         "taxation",
-        "offshore"
+        "cross-border"
       ],
-      "publishedAt": "2026-08-13T07:45:06+08:00",
-      "score": 63,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nandu-offshore-trust-case-20260813",
-      "originalUrl": "http://m.toutiao.com/group/7673295310735360546/"
+      "publishedAt": "2026-08-13T00:00:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=bambooworks-tax-edge-20260813",
+      "originalUrl": "https://thebambooworks.com/tax-crackdown-erodes-edge-for-hong-kong-insurers/"
+    },
+    {
+      "id": "boclife-deloitte-hnw-succession-20260813",
+      "title": "中银人寿与Deloitte Private启动高净值客户财富传承合作 联合推出《财富之光，照亮世代》手册",
+      "sourceTier": "insurer",
+      "themes": [
+        "family-office",
+        "hnw"
+      ],
+      "publishedAt": "2026-08-13T00:00:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=boclife-deloitte-hnw-succession-20260813",
+      "originalUrl": "https://www.boclife.com.hk/sc/news.html"
     },
     {
       "id": "scmp-hsbc-insurance-reshuffle-20260812",
@@ -293,6 +319,20 @@
       "originalUrl": "https://www.scmp.com/business/article/3363634/hong-kong-property-recovery-faces-new-risk-china-widens-offshore-tax-net"
     },
     {
+      "id": "nfra-natcat-claims-20260812",
+      "title": "金融监管总局：近期重大自然灾害保险业累计已赔付76亿元",
+      "sourceTier": "media",
+      "themes": [
+        "natcat",
+        "claims",
+        "china"
+      ],
+      "publishedAt": "2026-08-12T00:26:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-natcat-claims-20260812",
+      "originalUrl": "https://m.bjnews.com.cn/detail/1786465979189263.html"
+    },
+    {
       "id": "gx-broker-name-compliance-20260812",
       "title": "广西金融监管局：严查违规使用「保险代理」「保险经纪」字样经营主体",
       "sourceTier": "media",
@@ -304,6 +344,34 @@
       "score": 62,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=gx-broker-name-compliance-20260812",
       "originalUrl": "http://m.toutiao.com/group/7673136546282832399/"
+    },
+    {
+      "id": "toutiao-husao-tax-mechanics-20260811",
+      "title": "港险征税再拆解：征的是「收益」不是保单价值 预缴保费利息纳入范围",
+      "sourceTier": "media",
+      "themes": [
+        "taxation",
+        "product",
+        "cross-border"
+      ],
+      "publishedAt": "2026-08-11T22:14:33+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=toutiao-husao-tax-mechanics-20260811",
+      "originalUrl": "http://m.toutiao.com/group/7672770547847283254/"
+    },
+    {
+      "id": "toutiao-irr-cap-enforcement-20260811",
+      "title": "监管重拳后赴港投保降温：分红演示设6%/6.5%上限 廉署联手整治无牌转介与返佣",
+      "sourceTier": "media",
+      "themes": [
+        "channel",
+        "compliance",
+        "sales-conduct"
+      ],
+      "publishedAt": "2026-08-11T19:23:28+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=toutiao-irr-cap-enforcement-20260811",
+      "originalUrl": "http://m.toutiao.com/group/7672731992790729279/"
     },
     {
       "id": "21jingji-hk-tax-framework-20260811",
@@ -332,48 +400,6 @@
       "score": 66,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=toutiao-participating-1trillion-20260811",
       "originalUrl": "http://m.toutiao.com/group/7672722587726463523/"
-    },
-    {
-      "id": "toutiao-irr-cap-enforcement-20260811",
-      "title": "监管重拳后赴港投保降温：分红演示设6%/6.5%上限 廉署联手整治无牌转介与返佣",
-      "sourceTier": "media",
-      "themes": [
-        "channel",
-        "compliance",
-        "sales-conduct"
-      ],
-      "publishedAt": "2026-08-11T19:23:28+08:00",
-      "score": 62,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=toutiao-irr-cap-enforcement-20260811",
-      "originalUrl": "http://m.toutiao.com/group/7672731992790729279/"
-    },
-    {
-      "id": "toutiao-husao-tax-mechanics-20260811",
-      "title": "港险征税再拆解：征的是「收益」不是保单价值 预缴保费利息纳入范围",
-      "sourceTier": "media",
-      "themes": [
-        "taxation",
-        "product",
-        "cross-border"
-      ],
-      "publishedAt": "2026-08-11T22:14:33+08:00",
-      "score": 64,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=toutiao-husao-tax-mechanics-20260811",
-      "originalUrl": "http://m.toutiao.com/group/7672770547847283254/"
-    },
-    {
-      "id": "nfra-natcat-claims-20260812",
-      "title": "金融监管总局：近期重大自然灾害保险业累计已赔付76亿元",
-      "sourceTier": "media",
-      "themes": [
-        "natcat",
-        "claims",
-        "china"
-      ],
-      "publishedAt": "2026-08-12T00:26:00+08:00",
-      "score": 68,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-natcat-claims-20260812",
-      "originalUrl": "https://m.bjnews.com.cn/detail/1786465979189263.html"
     },
     {
       "id": "ib-swissre-natcat-h1-2026",
@@ -570,6 +596,19 @@
       "score": 62,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-ai-datacenter-risks-20260810",
       "originalUrl": "https://insuranceasia.com/insurance/expert-opinion/how-can-insurers-keep-ai-data-centre-risks"
+    },
+    {
+      "id": "cmbi-mcv-downside-20260810",
+      "title": "招银国际：内地访客新保单销售存下行风险 长期需求仍有增长空间",
+      "sourceTier": "pro",
+      "themes": [
+        "mcv",
+        "taxation"
+      ],
+      "publishedAt": "2026-08-10T10:46:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=cmbi-mcv-downside-20260810",
+      "originalUrl": "http://www.aastocks.com/en/stocks/news/aafn-con/NOW.1537340/top-news/AAFN?totc=1"
     },
     {
       "id": "hk-retirement-family-202608",
@@ -1469,6 +1508,20 @@
       "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1265870&itemId=915"
     },
     {
+      "id": "clio-h1-2026-ops",
+      "title": "国寿海外 2026 H1：总保费 295.7 亿港元，穆迪 A1 展望上调至稳定",
+      "sourceTier": "media",
+      "themes": [
+        "results",
+        "firm",
+        "market"
+      ],
+      "publishedAt": "2026-07-30T10:00:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=clio-h1-2026-ops",
+      "originalUrl": "http://hainan.sina.cn/news/zh/2026-07-30/detail-inikpxkp1297539.d.html"
+    },
+    {
       "id": "ia-commission-caps-jul30",
       "title": "CreditSights：香港寿险新规重塑竞争格局 渠道强者受益",
       "sourceTier": "pro",
@@ -1701,6 +1754,20 @@
       "score": 70,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sfc-xingzheng-680-202607",
       "originalUrl": "https://view.inews.qq.com/a/20260806A0BY5000"
+    },
+    {
+      "id": "mpfa-guidelines-2026-07",
+      "title": "积金局 2026 年 7 月修订五套强积金指引：预设投资策略/权益转移更新",
+      "sourceTier": "official",
+      "themes": [
+        "retirement",
+        "reg",
+        "compliance"
+      ],
+      "publishedAt": "2026-07-27T10:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=mpfa-guidelines-2026-07",
+      "originalUrl": "https://www.mpfa.org.hk/sc/info-centre/laws-and-regulations/guidelines"
     },
     {
       "id": "apac-insurers-emergedebt-202607",
@@ -1983,6 +2050,20 @@
       "originalUrl": "https://www.chinalife.com.hk/zh-cn/about-us/news-center"
     },
     {
+      "id": "taiping-h1-2026-profit",
+      "title": "中国太平 2026 H1 业绩预增：归母净利 +85%~95% 至 125-132 亿港元",
+      "sourceTier": "media",
+      "themes": [
+        "results",
+        "firm",
+        "market"
+      ],
+      "publishedAt": "2026-07-18T10:00:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=taiping-h1-2026-profit",
+      "originalUrl": "https://finance.sina.com.cn/stock/relnews/hk/2026-07-20/doc-iniimzhe8222767.shtml"
+    },
+    {
       "id": "safe-qdii-20260717",
       "title": "外管局：新一轮 QDII 额度即将发放，跨境投融资便利化加码",
       "sourceTier": "official",
@@ -2034,6 +2115,20 @@
       "score": 84,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-20260716-ashk-ifoa",
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/files/Keynote_Speech_Mr_Clement_Lau_ASHK_IFoA_Conference_CN.pdf"
+    },
+    {
+      "id": "mpf-q2-2026-inflow",
+      "title": "强积金 Q2 净流入 120.5 亿：美国股票基金吸金 95 亿，成员转向 AI 浪潮",
+      "sourceTier": "media",
+      "themes": [
+        "retirement",
+        "market",
+        "macro"
+      ],
+      "publishedAt": "2026-07-16T10:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=mpf-q2-2026-inflow",
+      "originalUrl": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-16/doc-inihyqhe4458900.shtml"
     },
     {
       "id": "ia-sales-rules-tightening-jul15",
@@ -2101,6 +2196,20 @@
       "originalUrl": "https://www.axa.com.hk/zh/article/axa-announces-strategic-re-domiciliation-to-hong-kong"
     },
     {
+      "id": "picc-hk-ambest-2026",
+      "title": "AM Best 上调人保香港评级至 A：2025 香港非寿险第 8、市占 3.8%",
+      "sourceTier": "research",
+      "themes": [
+        "reinsurance",
+        "firm",
+        "offshore"
+      ],
+      "publishedAt": "2026-07-15T10:00:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=picc-hk-ambest-2026",
+      "originalUrl": "https://www.businesswire.com/news/home/20260715517423/en/AM-Best-Upgrades-Credit-Ratings-of-The-Peoples-Insurance-Company-of-China-Hong-Kong-Limited"
+    },
+    {
       "id": "ia-licence-20260630",
       "title": "持牌中介统计（截至2026-06-30）：个人持牌约12.25万，经纪公司810家。",
       "sourceTier": "official",
@@ -2126,6 +2235,20 @@
       "score": 75,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=clio-fr-100-2026",
       "originalUrl": "https://c.m.163.com/news/a/L1PU69NC0519A0N8.html"
+    },
+    {
+      "id": "generali-fr-100-2026",
+      "title": "忠意人寿分红实现率：多数年份 100%+，2025 终期红利最高 105%",
+      "sourceTier": "pro",
+      "themes": [
+        "par",
+        "product",
+        "firm"
+      ],
+      "publishedAt": "2026-07-14T10:00:00+08:00",
+      "score": 69,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=generali-fr-100-2026",
+      "originalUrl": "https://m.acc5.com/news-xinwen/detail_263617.html"
     },
     {
       "id": "agentic-ai-insurance-jul14",
@@ -2758,6 +2881,20 @@
       "score": 68,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=censtatd-intermediary-table-202606",
       "originalUrl": "https://www.censtatd.gov.hk/tc/web_table.html?id=645-92111"
+    },
+    {
+      "id": "picc-evtol-2026",
+      "title": "全国首单超轻型 eVTOL 跨境保险落地：深圳承保、香港出单",
+      "sourceTier": "media",
+      "themes": [
+        "product",
+        "cross-border",
+        "insurtech"
+      ],
+      "publishedAt": "2026-06-22T10:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=picc-evtol-2026",
+      "originalUrl": "https://www.gba.net.cn/news/2026/25115.html"
     },
     {
       "id": "ia-20260620-goldman-outlook",
@@ -3684,6 +3821,20 @@
       "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom/manulife-launches-new-annuity-and-accident-protection-solutions.html"
     },
     {
+      "id": "manulife-mpf-fee-cut-202604",
+      "title": "宏利再降强积金费用：29 只基金减幅 5-12%，逾 200 万成员受惠",
+      "sourceTier": "insurer",
+      "themes": [
+        "retirement",
+        "firm",
+        "channel"
+      ],
+      "publishedAt": "2026-04-20T10:00:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-mpf-fee-cut-202604",
+      "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom/manulife-further-reduces-mpf-fees-for-two-million-members.html"
+    },
+    {
       "id": "ia-20260416-cyber",
       "title": "APAC 网络风险与保险峰会简报（2026-04-16）。",
       "sourceTier": "official",
@@ -4168,6 +4319,20 @@
       "originalUrl": "https://www.info.gov.hk/gia/general/202603/05/P2026030500278.htm"
     },
     {
+      "id": "cpic-xinan-2026",
+      "title": "太保寿险香港「鑫安逸」：30 年保证复利 3.5%，双币种储蓄险稀缺卖点",
+      "sourceTier": "insurer",
+      "themes": [
+        "product",
+        "par",
+        "firm"
+      ],
+      "publishedAt": "2026-03-05T10:00:00+08:00",
+      "score": 73,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=cpic-xinan-2026",
+      "originalUrl": "https://cj.sina.cn/articles/view/7935760744/1d9021968001017tbo"
+    },
+    {
       "id": "ia-3brokers-aml-429k-202603",
       "title": "三间经纪公司违反反洗钱规定被谴责：合计罚款 42.9 万港元",
       "sourceTier": "official",
@@ -4221,6 +4386,20 @@
       "score": 74,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ils-grant-scheme-2028-2026",
       "originalUrl": "https://www.ia.org.hk/en/reinsurance_specialty/ILS_HK.html"
+    },
+    {
+      "id": "generali-10life-5star-2026",
+      "title": "忠意人寿（香港）7 款产品获 10Life 5 星：年金/储蓄/危疾/终身保障全覆盖",
+      "sourceTier": "insurer",
+      "themes": [
+        "product",
+        "par",
+        "annuity"
+      ],
+      "publishedAt": "2026-02-26T10:00:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=generali-10life-5star-2026",
+      "originalUrl": "https://www.thetimes.com.au/news/news-from-asia/48126-generali-hong-kong-receives-multiple-accolades-at-the-10life-5-star-insurance-awards-2026"
     },
     {
       "id": "ia-budget-20260225",
@@ -4562,6 +4741,20 @@
       "score": 75,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sztax-gba-202601",
       "originalUrl": "https://szfb.sz.gov.cn/xwzx/tzgg/content/post_12581711.html"
+    },
+    {
+      "id": "taiping-yinianlexiang3-2026",
+      "title": "太平人寿香港「颐年乐享3」升级：候鸟式旅居养老+分红实现率连续 9 年达标",
+      "sourceTier": "insurer",
+      "themes": [
+        "product",
+        "par",
+        "retirement"
+      ],
+      "publishedAt": "2026-01-05T10:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=taiping-yinianlexiang3-2026",
+      "originalUrl": "https://c.m.163.com/news/a/KIH7JB0Q0519DBCS.html"
     },
     {
       "id": "aia-2025-annual-vonb-202603",
@@ -5726,6 +5919,20 @@
       "originalUrl": "https://www.aia.com.hk/en/about-aia/about-us/media-centre/press-releases/2026/aia-press-release-20260608"
     },
     {
+      "id": "ia-tahoe-managers-change-202412",
+      "title": "泰禾人寿经理团队变更：德勤何国樑、陈文海加入，2024-12-17",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "firm",
+        "macro"
+      ],
+      "publishedAt": "2024-12-17T10:00:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-tahoe-managers-change-202412",
+      "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20241217.html"
+    },
+    {
       "id": "ia-20241205-annual-2024",
       "title": "2024全年港险统计：总毛保费$635.2B，新造$219.8B，MCV$62.8B",
       "sourceTier": "official",
@@ -6158,6 +6365,20 @@
       "originalUrl": "https://www.chubb.com/hk-en/personal/cias.html"
     },
     {
+      "id": "mcv-q1-2024-record",
+      "title": "2024 Q1 内地访客新单保费 156 亿创五年新高：同比 +62.6%",
+      "sourceTier": "media",
+      "themes": [
+        "market",
+        "cross-border",
+        "statistics"
+      ],
+      "publishedAt": "2024-04-26T10:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=mcv-q1-2024-record",
+      "originalUrl": "https://finance.sina.cn/insurance/gsdt/2024-08-13/detail-incinynh8559223.d.html"
+    },
+    {
       "id": "ia-cashier-order-circular-202404",
       "title": "保监局发通函：加强本票缴付保费的管控措施",
       "sourceTier": "official",
@@ -6322,45 +6543,6 @@
       "score": 78,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fstb-pps-consultation-conclusion-202401",
       "originalUrl": "https://www.kennedyslaw.com/en/thought-leadership/article/2024/hong-kong-regulatory-insurance-update-january-2024/"
-    },
-    {
-      "id": "boclife-deloitte-hnw-succession-20260813",
-      "title": "中银人寿与Deloitte Private启动高净值客户财富传承合作 联合推出《财富之光，照亮世代》手册",
-      "sourceTier": "insurer",
-      "themes": [
-        "family-office",
-        "hnw"
-      ],
-      "publishedAt": "2026-08-13T00:00:00+08:00",
-      "score": 78,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=boclife-deloitte-hnw-succession-20260813",
-      "originalUrl": "https://www.boclife.com.hk/sc/news.html"
-    },
-    {
-      "id": "cmbi-mcv-downside-20260810",
-      "title": "招银国际：内地访客新保单销售存下行风险 长期需求仍有增长空间",
-      "sourceTier": "pro",
-      "themes": [
-        "mcv",
-        "taxation"
-      ],
-      "publishedAt": "2026-08-10T10:46:00+08:00",
-      "score": 70,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=cmbi-mcv-downside-20260810",
-      "originalUrl": "http://www.aastocks.com/en/stocks/news/aafn-con/NOW.1537340/top-news/AAFN?totc=1"
-    },
-    {
-      "id": "hkfi-wong-insurtech-interview-20260815",
-      "title": "香港保险业联会主席黄子逊专访：香港是保险科技开疆拓土理想地 南沙前海拟设售后服务中心",
-      "sourceTier": "media",
-      "themes": [
-        "insurtech",
-        "cross-border"
-      ],
-      "publishedAt": "2026-08-15T09:18:13+08:00",
-      "score": 62,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkfi-wong-insurtech-interview-20260815",
-      "originalUrl": "https://letschuhai.com/insurance-industry-asia-insurance"
     }
   ]
 }

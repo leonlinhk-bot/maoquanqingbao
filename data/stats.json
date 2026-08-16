@@ -630,34 +630,34 @@
       "tc": "情報密度"
     },
     "subtitle": {
-      "sc": "自动从 480 条资讯聚合 · sourceKey 标准化完成",
-      "tc": "自動從 480 條資訊聚合 · sourceKey 標準化完成"
+      "sc": "自动从 493 条资讯聚合 · sourceKey 标准化完成",
+      "tc": "自動從 493 條資訊聚合 · sourceKey 標準化完成"
     },
-    "totalItems": 480,
+    "totalItems": 493,
     "sourceTiers": [
       {
         "tier": "official",
-        "count": 182,
+        "count": 184,
         "label": "监管一手"
       },
       {
         "tier": "insurer",
-        "count": 118,
+        "count": 122,
         "label": "保司公告"
       },
       {
         "tier": "media",
-        "count": 111,
+        "count": 116,
         "label": "媒体报道"
       },
       {
         "tier": "pro",
-        "count": 51,
+        "count": 52,
         "label": "专业解读"
       },
       {
         "tier": "research",
-        "count": 18,
+        "count": 19,
         "label": "机构研究"
       }
     ],
@@ -726,47 +726,47 @@
     "topThemes": [
       {
         "theme": "market",
-        "count": 155,
+        "count": 159,
         "label": "市场"
       },
       {
         "theme": "reg",
-        "count": 101,
+        "count": 103,
         "label": "监管"
       },
       {
         "theme": "firm",
-        "count": 87,
+        "count": 94,
         "label": "保司"
       },
       {
         "theme": "product",
-        "count": 72,
+        "count": 77,
         "label": "产品"
       },
       {
         "theme": "offshore",
-        "count": 67,
+        "count": 68,
         "label": "跨境"
       },
       {
         "theme": "compliance",
-        "count": 64,
+        "count": 65,
         "label": "合规"
       },
       {
         "theme": "macro",
-        "count": 45,
+        "count": 47,
         "label": "宏观"
       },
       {
         "theme": "channel",
-        "count": 38,
+        "count": 39,
         "label": "渠道"
       },
       {
         "theme": "reinsurance",
-        "count": 28,
+        "count": 29,
         "label": "reinsurance"
       },
       {

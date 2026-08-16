@@ -2,10 +2,10 @@
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-15T18:20:06+08:00",
-    "itemCount": 480,
+    "itemCount": 493,
     "windowNote": {
-      "sc": "本库480条。",
-      "tc": "本庫480條。"
+      "sc": "本库493条。",
+      "tc": "本庫493條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -245,6 +245,231 @@
   ],
   "items": [
     {
+      "id": "toutiao-fwd-juntian-broker-20260815",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "pending",
+      "sourceTier": "insurer",
+      "sourceKey": "toutiao",
+      "title": {
+        "sc": "富卫经「富卫财务策划」入股内地全国性保险经纪隽天20% 李泽楷布局内地渠道",
+        "tc": "富衛經「富衛財務策劃」入股內地全國性保險經紀雋天20% 李澤楷佈局內地渠道"
+      },
+      "summary": {
+        "sc": "据天眼查工商信息，2026年8月隽天保险经纪（上海）股东名单新增港资「富卫财务策划有限公司」，持股20%。隽天成立于2012年，持全国性保险经纪牌照、销售网络成熟；分析指富卫以20%参股规避外资控股红线与牌照审批门槛，属轻资产探路内地中介市场，反映香港本土红利递减下富卫加码内地渠道布局。",
+        "tc": "據天眼查工商信息，2026年8月雋天保險經紀（上海）股東名單新增港資「富衛財務策劃有限公司」，持股20%。雋天成立於2012年，持全國性保險經紀牌照、銷售網絡成熟；分析指富衛以20%參股規避外資控股紅線與牌照審批門檻，屬輕資產探路內地中介市場，反映香港本土紅利遞減下富衛加碼內地渠道佈局。"
+      },
+      "why": {
+        "sc": "港资险企参股内地持牌中介的架构样本：20%持股既不触碰外资红线又可合规接入全国经纪渠道，是观察富卫内地战略与跨境中介监管尺度的窗口。",
+        "tc": "港資險企參股內地持牌中介的架構樣本：20%持股既不觸碰外資紅線又可合規接入全國經紀渠道，是觀察富衛內地戰略與跨境中介監管尺度的窗口。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "20%参股=外资渠道探路范式",
+          "tc": "20%參股=外資渠道探路範式"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "内地经纪牌照=稀缺资源",
+          "tc": "內地經紀牌照=稀缺資源"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 2,
+        "lead": 1,
+        "cross": 2
+      },
+      "source": {
+        "sc": "钛媒体APP（今日头条，据天眼查）",
+        "lang": "zh"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "market",
+        "distribution"
+      ],
+      "tags": {
+        "sc": [
+          "富卫",
+          "隽天",
+          "保险经纪",
+          "参股",
+          "内地市场"
+        ],
+        "tc": [
+          "富衛",
+          "雋天",
+          "保險經紀",
+          "參股",
+          "內地市場"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-15T12:57:26+08:00",
+      "originalUrl": "http://m.toutiao.com/group/7674118008847057448/",
+      "ingestedAt": "2026-08-15T13:27:19+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "hkfi-wong-insurtech-interview-20260815",
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "letschuhai:hkfi-wong-interview-20260815",
+      "title": {
+        "sc": "香港保险业联会主席黄子逊专访：香港是保险科技开疆拓土理想地 南沙前海拟设售后服务中心",
+        "tc": "香港保險業聯會主席黃子遜專訪：香港是保險科技開疆拓土理想地 南沙前海擬設售後服務中心"
+      },
+      "summary": {
+        "sc": "香港保险业联会主席黄子逊接受36氪出海专访指，香港凭「一国两制」优势兼作内外循环交汇点，计划在南沙、前海成立保险售后服务中心，为持港单的大湾区居民提供理赔续保支持，加速两地保险市场互联互通；并鼓励大型国企民企来港设专属自保公司，集中管理「一带一路」海外项目风险。他同时强调跨境监管协作与人才交流的重要性。",
+        "tc": "香港保險業聯會主席黃子遜接受36氪出海專訪指，香港憑「一國兩制」優勢兼作內外循環交匯點，計劃在南沙、前海成立保險售後服務中心，為持港單的大灣區居民提供理賠續保支持，加速兩地保險市場互聯互通；並鼓勵大型國企民企來港設專屬自保公司，集中管理「一帶一路」海外項目風險。他同時強調跨境監管協作與人才交流的重要性。"
+      },
+      "why": {
+        "sc": "业内高层对港险跨境下一步的定调：售后服务中心落地南沙前海将直接缓解内地客理赔续保痛点，是渠道与服务的结构性利好，值得跨境架构与前线角色持续跟踪。",
+        "tc": "業內高層對港險跨境下一步的定調：售後服務中心落地南沙前海將直接緩解內地客理賠續保痛點，是渠道與服務的結構性利好，值得跨境架構與前線角色持續跟蹤。"
+      },
+      "actions": {
+        "front": {
+          "sc": "售后中心落地=内地客服务便利化",
+          "tc": "售後中心落地=內地客服務便利化"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {
+          "sc": "南沙前海=跨境架构新节点",
+          "tc": "南沙前海=跨境架構新節點"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 1,
+        "lead": 1,
+        "cross": 2
+      },
+      "source": {
+        "sc": "36氪出海（香港保险业联会主席专访）",
+        "lang": "zh"
+      },
+      "boards": [
+        "tech"
+      ],
+      "themes": [
+        "insurtech",
+        "cross-border"
+      ],
+      "tags": {
+        "sc": [
+          "香港保联",
+          "保险科技",
+          "大湾区",
+          "售后服务中心",
+          "跨境"
+        ],
+        "tc": [
+          "香港保聯",
+          "保險科技",
+          "大灣區",
+          "售後服務中心",
+          "跨境"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-15T09:18:13+08:00",
+      "originalUrl": "https://letschuhai.com/insurance-industry-asia-insurance",
+      "ingestedAt": "2026-08-15T18:20:06+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "toutiao-baobian-tax-20260815",
+      "clusterCount": 1,
+      "score": 64,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "toutiao",
+      "title": {
+        "sc": "深度：港险补税20%风声紧但「子弹还在飞」 各地执行标准尚未统一",
+        "tc": "深度：港險補稅20%風聲緊但「子彈還在飛」 各地執行標準尚未統一"
+      },
+      "summary": {
+        "sc": "豹变8月15日发文复盘港险补税风波：8月初杭州、北京出现投保人因香港保单收益被要求补缴20%税款的个案，8月6日友邦收跌5.92%、单日市值蒸发逾400亿港元，保诚跌4.57%。报道引述从业者与税务律师指，港险补税最早可追溯至2018年CRS信息交换启动后，个案此前已有（如2024年湖北投保人被追缴2022-2023年境外所得），惟各地对如何认定、如何计税尚无统一明确标准，市场恐慌或超事件本身影响。",
+        "tc": "豹變8月15日發文復盤港險補稅風波：8月初杭州、北京出現投保人因香港保單收益被要求補繳20%稅款的個案，8月6日友邦收跌5.92%、單日市值蒸發逾400億港元，保誠跌4.57%。報道引述從業者與稅務律師指，港險補稅最早可追溯至2018年CRS信息交換啟動後，個案此前已有（如2024年湖北投保人被追繳2022-2023年境外所得），惟各地對如何認定、如何計稅尚無統一明確標準，市場恐慌或超事件本身影響。"
+      },
+      "why": {
+        "sc": "在监管与官方表态之外补上「执行层」视角：CRS追溯、个案税基认定与各地标准不一，是判断港险征税实际落地节奏的关键信息面。",
+        "tc": "在監管與官方表態之外補上「執行層」視角：CRS追溯、個案稅基認定與各地標準不一，是判斷港險徵稅實際落地節奏的關鍵信息面。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "执行标准未统一=落地变量",
+          "tc": "執行標準未統一=落地變量"
+        },
+        "lead": {
+          "sc": "CRS追溯=存量保单风险坐标",
+          "tc": "CRS追溯=存量保單風險座標"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "豹变（今日头条）",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reg",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "港险",
+          "补税",
+          "20%",
+          "CRS",
+          "执行标准"
+        ],
+        "tc": [
+          "港險",
+          "補稅",
+          "20%",
+          "CRS",
+          "執行標準"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-15T08:00:00+08:00",
+      "originalUrl": "http://m.toutiao.com/group/7673890688060097074/",
+      "ingestedAt": "2026-08-15T13:27:19+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
       "id": "scmp-ia-mainland-client-definition-20260815",
       "clusterCount": 1,
       "score": 85,
@@ -314,81 +539,6 @@
       "contentKind": "news",
       "publishedAt": "2026-08-15T00:00:00+08:00",
       "originalUrl": "https://www.scmp.com/business/banking-finance/article/3364040/hong-kongs-insurance-authority-aims-broaden-regional-clientele-base-reappointed-ceo",
-      "ingestedAt": "2026-08-15T13:27:19+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
-    },
-    {
-      "id": "nfra-q2-insurance-indicators-20260814",
-      "clusterCount": 1,
-      "score": 85,
-      "verifyStatus": "verified",
-      "sourceTier": "official",
-      "sourceKey": "nfra",
-      "title": {
-        "sc": "金融监管总局：二季度末保险业总资产43.9万亿元 较年初增6.2% 综合偿付能力充足率180.6%",
-        "tc": "金融監管總局：二季度末保險業總資產43.9萬億元 較年初增6.2% 綜合償付能力充足率180.6%"
-      },
-      "summary": {
-        "sc": "金融监管总局8月14日发布2026年二季度银行业保险业主要监管指标：二季度末保险公司及保险资管公司总资产43.9万亿元，较年初增长6.2%，其中人身险公司38.7万亿元；上半年原保险保费收入3.9万亿元，同比增长3.2%，新增保单件数668亿件、增长27.4%。保险公司平均综合偿付能力充足率180.6%、核心偿付能力充足率133.5%，均高于监管标准。",
-        "tc": "金融監管總局8月14日發佈2026年二季度銀行業保險業主要監管指標：二季度末保險公司及保險資管公司總資產43.9萬億元，較年初增長6.2%，其中人身險公司38.7萬億元；上半年原保險保費收入3.9萬億元，同比增長3.2%，新增保單件數668億件、增長27.4%。保險公司平均綜合償付能力充足率180.6%、核心償付能力充足率133.5%，均高於監管標準。"
-      },
-      "why": {
-        "sc": "内地行业总盘子、保费增速与偿付能力数据是判断行业景气与监管空间的基准盘，也为评估内地客资金实力与购买力提供宏观参照。",
-        "tc": "內地行業總盤子、保費增速與償付能力數據是判斷行業景氣與監管空間的基準盤，也為評估內地客資金實力與購買力提供宏觀參照。"
-      },
-      "actions": {
-        "front": {},
-        "midback": {
-          "sc": "行业总资产增速=景气温度计",
-          "tc": "行業總資產增速=景氣溫度計"
-        },
-        "lead": {},
-        "cross": {
-          "sc": "偿付能力=政策空间参照",
-          "tc": "償付能力=政策空間參照"
-        }
-      },
-      "rolesImpact": {
-        "front": 0,
-        "midback": 2,
-        "lead": 1,
-        "cross": 1
-      },
-      "source": {
-        "sc": "国家金融监督管理总局（中国经济网/证券日报转载）",
-        "lang": "zh"
-      },
-      "boards": [
-        "reg"
-      ],
-      "themes": [
-        "reg",
-        "stats"
-      ],
-      "tags": {
-        "sc": [
-          "金融监管总局",
-          "保险业",
-          "总资产",
-          "偿付能力",
-          "保费收入"
-        ],
-        "tc": [
-          "金融監管總局",
-          "保險業",
-          "總資產",
-          "償付能力",
-          "保費收入"
-        ]
-      },
-      "contentKind": "stats",
-      "publishedAt": "2026-08-14T18:25:00+08:00",
-      "originalUrl": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260815_3148603.shtml",
       "ingestedAt": "2026-08-15T13:27:19+08:00",
       "contentRole": {
         "sc": "本站导读",
@@ -473,72 +623,72 @@
       "evergreen": false
     },
     {
-      "id": "toutiao-fwd-juntian-broker-20260815",
+      "id": "nfra-q2-insurance-indicators-20260814",
       "clusterCount": 1,
-      "score": 75,
-      "verifyStatus": "pending",
-      "sourceTier": "insurer",
-      "sourceKey": "toutiao",
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "nfra",
       "title": {
-        "sc": "富卫经「富卫财务策划」入股内地全国性保险经纪隽天20% 李泽楷布局内地渠道",
-        "tc": "富衛經「富衛財務策劃」入股內地全國性保險經紀雋天20% 李澤楷佈局內地渠道"
+        "sc": "金融监管总局：二季度末保险业总资产43.9万亿元 较年初增6.2% 综合偿付能力充足率180.6%",
+        "tc": "金融監管總局：二季度末保險業總資產43.9萬億元 較年初增6.2% 綜合償付能力充足率180.6%"
       },
       "summary": {
-        "sc": "据天眼查工商信息，2026年8月隽天保险经纪（上海）股东名单新增港资「富卫财务策划有限公司」，持股20%。隽天成立于2012年，持全国性保险经纪牌照、销售网络成熟；分析指富卫以20%参股规避外资控股红线与牌照审批门槛，属轻资产探路内地中介市场，反映香港本土红利递减下富卫加码内地渠道布局。",
-        "tc": "據天眼查工商信息，2026年8月雋天保險經紀（上海）股東名單新增港資「富衛財務策劃有限公司」，持股20%。雋天成立於2012年，持全國性保險經紀牌照、銷售網絡成熟；分析指富衛以20%參股規避外資控股紅線與牌照審批門檻，屬輕資產探路內地中介市場，反映香港本土紅利遞減下富衛加碼內地渠道佈局。"
+        "sc": "金融监管总局8月14日发布2026年二季度银行业保险业主要监管指标：二季度末保险公司及保险资管公司总资产43.9万亿元，较年初增长6.2%，其中人身险公司38.7万亿元；上半年原保险保费收入3.9万亿元，同比增长3.2%，新增保单件数668亿件、增长27.4%。保险公司平均综合偿付能力充足率180.6%、核心偿付能力充足率133.5%，均高于监管标准。",
+        "tc": "金融監管總局8月14日發佈2026年二季度銀行業保險業主要監管指標：二季度末保險公司及保險資管公司總資產43.9萬億元，較年初增長6.2%，其中人身險公司38.7萬億元；上半年原保險保費收入3.9萬億元，同比增長3.2%，新增保單件數668億件、增長27.4%。保險公司平均綜合償付能力充足率180.6%、核心償付能力充足率133.5%，均高於監管標準。"
       },
       "why": {
-        "sc": "港资险企参股内地持牌中介的架构样本：20%持股既不触碰外资红线又可合规接入全国经纪渠道，是观察富卫内地战略与跨境中介监管尺度的窗口。",
-        "tc": "港資險企參股內地持牌中介的架構樣本：20%持股既不觸碰外資紅線又可合規接入全國經紀渠道，是觀察富衛內地戰略與跨境中介監管尺度的窗口。"
+        "sc": "内地行业总盘子、保费增速与偿付能力数据是判断行业景气与监管空间的基准盘，也为评估内地客资金实力与购买力提供宏观参照。",
+        "tc": "內地行業總盤子、保費增速與償付能力數據是判斷行業景氣與監管空間的基準盤，也為評估內地客資金實力與購買力提供宏觀參照。"
       },
       "actions": {
         "front": {},
         "midback": {
-          "sc": "20%参股=外资渠道探路范式",
-          "tc": "20%參股=外資渠道探路範式"
+          "sc": "行业总资产增速=景气温度计",
+          "tc": "行業總資產增速=景氣溫度計"
         },
         "lead": {},
         "cross": {
-          "sc": "内地经纪牌照=稀缺资源",
-          "tc": "內地經紀牌照=稀缺資源"
+          "sc": "偿付能力=政策空间参照",
+          "tc": "償付能力=政策空間參照"
         }
       },
       "rolesImpact": {
         "front": 0,
         "midback": 2,
         "lead": 1,
-        "cross": 2
+        "cross": 1
       },
       "source": {
-        "sc": "钛媒体APP（今日头条，据天眼查）",
+        "sc": "国家金融监督管理总局（中国经济网/证券日报转载）",
         "lang": "zh"
       },
       "boards": [
-        "insurer"
+        "reg"
       ],
       "themes": [
-        "market",
-        "distribution"
+        "reg",
+        "stats"
       ],
       "tags": {
         "sc": [
-          "富卫",
-          "隽天",
-          "保险经纪",
-          "参股",
-          "内地市场"
+          "金融监管总局",
+          "保险业",
+          "总资产",
+          "偿付能力",
+          "保费收入"
         ],
         "tc": [
-          "富衛",
-          "雋天",
-          "保險經紀",
-          "參股",
-          "內地市場"
+          "金融監管總局",
+          "保險業",
+          "總資產",
+          "償付能力",
+          "保費收入"
         ]
       },
-      "contentKind": "news",
-      "publishedAt": "2026-08-15T12:57:26+08:00",
-      "originalUrl": "http://m.toutiao.com/group/7674118008847057448/",
+      "contentKind": "stats",
+      "publishedAt": "2026-08-14T18:25:00+08:00",
+      "originalUrl": "http://www.ce.cn/xwzx/gnsz/gdxw/202608/t20260815_3148603.shtml",
       "ingestedAt": "2026-08-15T13:27:19+08:00",
       "contentRole": {
         "sc": "本站导读",
@@ -548,73 +698,70 @@
       "evergreen": false
     },
     {
-      "id": "toutiao-baobian-tax-20260815",
+      "id": "insuranceasianews-howden-financial-lines-20260814",
       "clusterCount": 1,
-      "score": 64,
-      "verifyStatus": "verified",
+      "score": 62,
+      "verifyStatus": "pending",
       "sourceTier": "media",
-      "sourceKey": "toutiao",
+      "sourceKey": "insuranceasianews",
       "title": {
-        "sc": "深度：港险补税20%风声紧但「子弹还在飞」 各地执行标准尚未统一",
-        "tc": "深度：港險補稅20%風聲緊但「子彈還在飛」 各地執行標準尚未統一"
+        "sc": "Howden委任Sonija Cheng为香港金融险团队总监 此前任职Willis逾七年",
+        "tc": "Howden委任Sonija Cheng為香港金融險團隊總監 此前任職Willis逾七年"
       },
       "summary": {
-        "sc": "豹变8月15日发文复盘港险补税风波：8月初杭州、北京出现投保人因香港保单收益被要求补缴20%税款的个案，8月6日友邦收跌5.92%、单日市值蒸发逾400亿港元，保诚跌4.57%。报道引述从业者与税务律师指，港险补税最早可追溯至2018年CRS信息交换启动后，个案此前已有（如2024年湖北投保人被追缴2022-2023年境外所得），惟各地对如何认定、如何计税尚无统一明确标准，市场恐慌或超事件本身影响。",
-        "tc": "豹變8月15日發文復盤港險補稅風波：8月初杭州、北京出現投保人因香港保單收益被要求補繳20%稅款的個案，8月6日友邦收跌5.92%、單日市值蒸發逾400億港元，保誠跌4.57%。報道引述從業者與稅務律師指，港險補稅最早可追溯至2018年CRS信息交換啟動後，個案此前已有（如2024年湖北投保人被追繳2022-2023年境外所得），惟各地對如何認定、如何計稅尚無統一明確標準，市場恐慌或超事件本身影響。"
+        "sc": "经纪商Howden宣布委任Sonija Cheng加入其香港金融险（Financial Lines）团队出任总监。据Howden香港金融险团队负责人Franky Mok于LinkedIn公布，Cheng此前在Willis任职逾七年。Howden近期持续扩充亚洲金融险及专业责任险人才储备，反映该细分业务竞争加剧。[EN原文]",
+        "tc": "經紀商Howden宣佈委任Sonija Cheng加入其香港金融險（Financial Lines）團隊出任總監。據Howden香港金融險團隊負責人Franky Mok於LinkedIn公佈，Cheng此前在Willis任職逾七年。Howden近期持續擴充亞洲金融險及專業責任險人才儲備，反映該細分業務競爭加劇。[EN原文]"
       },
       "why": {
-        "sc": "在监管与官方表态之外补上「执行层」视角：CRS追溯、个案税基认定与各地标准不一，是判断港险征税实际落地节奏的关键信息面。",
-        "tc": "在監管與官方表態之外補上「執行層」視角：CRS追溯、個案稅基認定與各地標準不一，是判斷港險徵稅實際落地節奏的關鍵信息面。"
+        "sc": "头部经纪商香港金融险团队人事动向是观察专业责任险、D&O等细分市场竞争格局的微观信号。",
+        "tc": "頭部經紀商香港金融險團隊人事動向是觀察專業責任險、D&O等細分市場競爭格局的微觀信號。"
       },
       "actions": {
         "front": {},
         "midback": {
-          "sc": "执行标准未统一=落地变量",
-          "tc": "執行標準未統一=落地變量"
+          "sc": "金融险人才流动=团队扩张信号",
+          "tc": "金融險人才流動=團隊擴張信號"
         },
-        "lead": {
-          "sc": "CRS追溯=存量保单风险坐标",
-          "tc": "CRS追溯=存量保單風險座標"
-        },
+        "lead": {},
         "cross": {}
       },
       "rolesImpact": {
         "front": 0,
         "midback": 2,
-        "lead": 2,
+        "lead": 1,
         "cross": 1
       },
       "source": {
-        "sc": "豹变（今日头条）",
-        "lang": "zh"
+        "sc": "InsuranceAsia News",
+        "lang": "en"
       },
       "boards": [
         "market"
       ],
       "themes": [
-        "reg",
+        "career",
         "market"
       ],
       "tags": {
         "sc": [
-          "港险",
-          "补税",
-          "20%",
-          "CRS",
-          "执行标准"
+          "Howden",
+          "金融险",
+          "委任",
+          "经纪商",
+          "人才流动"
         ],
         "tc": [
-          "港險",
-          "補稅",
-          "20%",
-          "CRS",
-          "執行標準"
+          "Howden",
+          "金融險",
+          "委任",
+          "經紀商",
+          "人才流動"
         ]
       },
       "contentKind": "news",
-      "publishedAt": "2026-08-15T08:00:00+08:00",
-      "originalUrl": "http://m.toutiao.com/group/7673890688060097074/",
-      "ingestedAt": "2026-08-15T13:27:19+08:00",
+      "publishedAt": "2026-08-14T16:42:00+08:00",
+      "originalUrl": "https://insuranceasianews.com/howden-adds-sonija-cheng-to-hong-kong-financial-lines-team/",
+      "ingestedAt": "2026-08-14T18:23:26+08:00",
       "contentRole": {
         "sc": "本站导读",
         "tc": "本站導讀"
@@ -689,6 +836,82 @@
       "contentKind": "press",
       "publishedAt": "2026-08-14T16:00:00+08:00",
       "originalUrl": "https://www.info.gov.hk/gia/general/202608/14/P2026081400295.htm",
+      "ingestedAt": "2026-08-14T18:23:26+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "insurancebusiness-qbe-h1-20260814",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "insurancebusiness",
+      "title": {
+        "sc": "QBE中期调整后净利润10.3亿美元 股本回报17.7%超中期目标",
+        "tc": "QBE中期調整後淨利潤10.3億美元 股本回報17.7%超中期目標"
+      },
+      "summary": {
+        "sc": "QBE公布2026年中期业绩：调整后净利润10.33亿美元（上年同期9.97亿），股本回报17.7%高于15%+中期目标。平均续保费率升幅降至0.3%（上年2.1%），物业及部分Lloyd's业务转软；公司于百慕大推出新主险承保能力，并以AI辅助算法核保缩短复杂专业风险报价周期，国际业务（含亚洲）综合成本率改善。[EN原文]",
+        "tc": "QBE公佈2026年中期業績：調整後淨利潤10.33億美元（上年同期9.97億），股本回報17.7%高於15%+中期目標。平均續保費率升幅降至0.3%（上年2.1%），物業及部分Lloyd's業務轉軟；公司於百慕大推出新主險承保能力，並以AI輔助算法核保縮短複雜專業風險報價週期，國際業務（含亞洲）綜合成本率改善。[EN原文]"
+      },
+      "why": {
+        "sc": "全球性综合险企中期业绩与定价走势为香港一般保险市场提供参照，AI核保提速及百慕大主险布局亦具行业信号意义。",
+        "tc": "全球性綜合險企中期業績與定價走勢為香港一般保險市場提供參照，AI核保提速及百慕大主險佈局亦具行業信號意義。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "ROE 17.7%=国际同业标杆",
+          "tc": "ROE 17.7%=國際同業標桿"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "百慕大主险能力=国际布局信号",
+          "tc": "百慕大主險能力=國際佈局信號"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 2,
+        "lead": 1,
+        "cross": 2
+      },
+      "source": {
+        "sc": "Insurance Business",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "results",
+        "capital",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "QBE",
+          "中期业绩",
+          "股本回报",
+          "AI核保",
+          "百慕大"
+        ],
+        "tc": [
+          "QBE",
+          "中期業績",
+          "股本回報",
+          "AI核保",
+          "百慕大"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-14T07:53:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/qbe-reports-1-03-billion-adjusted-profit-as-roe-hits-17-7-586101.aspx",
       "ingestedAt": "2026-08-14T18:23:26+08:00",
       "contentRole": {
         "sc": "本站导读",
@@ -918,154 +1141,6 @@
       "evergreen": false
     },
     {
-      "id": "insurancebusiness-qbe-h1-20260814",
-      "clusterCount": 1,
-      "score": 72,
-      "verifyStatus": "verified",
-      "sourceTier": "pro",
-      "sourceKey": "insurancebusiness",
-      "title": {
-        "sc": "QBE中期调整后净利润10.3亿美元 股本回报17.7%超中期目标",
-        "tc": "QBE中期調整後淨利潤10.3億美元 股本回報17.7%超中期目標"
-      },
-      "summary": {
-        "sc": "QBE公布2026年中期业绩：调整后净利润10.33亿美元（上年同期9.97亿），股本回报17.7%高于15%+中期目标。平均续保费率升幅降至0.3%（上年2.1%），物业及部分Lloyd's业务转软；公司于百慕大推出新主险承保能力，并以AI辅助算法核保缩短复杂专业风险报价周期，国际业务（含亚洲）综合成本率改善。[EN原文]",
-        "tc": "QBE公佈2026年中期業績：調整後淨利潤10.33億美元（上年同期9.97億），股本回報17.7%高於15%+中期目標。平均續保費率升幅降至0.3%（上年2.1%），物業及部分Lloyd's業務轉軟；公司於百慕大推出新主險承保能力，並以AI輔助算法核保縮短複雜專業風險報價週期，國際業務（含亞洲）綜合成本率改善。[EN原文]"
-      },
-      "why": {
-        "sc": "全球性综合险企中期业绩与定价走势为香港一般保险市场提供参照，AI核保提速及百慕大主险布局亦具行业信号意义。",
-        "tc": "全球性綜合險企中期業績與定價走勢為香港一般保險市場提供參照，AI核保提速及百慕大主險佈局亦具行業信號意義。"
-      },
-      "actions": {
-        "front": {},
-        "midback": {
-          "sc": "ROE 17.7%=国际同业标杆",
-          "tc": "ROE 17.7%=國際同業標桿"
-        },
-        "lead": {},
-        "cross": {
-          "sc": "百慕大主险能力=国际布局信号",
-          "tc": "百慕大主險能力=國際佈局信號"
-        }
-      },
-      "rolesImpact": {
-        "front": 0,
-        "midback": 2,
-        "lead": 1,
-        "cross": 2
-      },
-      "source": {
-        "sc": "Insurance Business",
-        "lang": "en"
-      },
-      "boards": [
-        "insurer"
-      ],
-      "themes": [
-        "results",
-        "capital",
-        "market"
-      ],
-      "tags": {
-        "sc": [
-          "QBE",
-          "中期业绩",
-          "股本回报",
-          "AI核保",
-          "百慕大"
-        ],
-        "tc": [
-          "QBE",
-          "中期業績",
-          "股本回報",
-          "AI核保",
-          "百慕大"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2026-08-14T07:53:00+08:00",
-      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/qbe-reports-1-03-billion-adjusted-profit-as-roe-hits-17-7-586101.aspx",
-      "ingestedAt": "2026-08-14T18:23:26+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
-    },
-    {
-      "id": "insuranceasianews-howden-financial-lines-20260814",
-      "clusterCount": 1,
-      "score": 62,
-      "verifyStatus": "pending",
-      "sourceTier": "media",
-      "sourceKey": "insuranceasianews",
-      "title": {
-        "sc": "Howden委任Sonija Cheng为香港金融险团队总监 此前任职Willis逾七年",
-        "tc": "Howden委任Sonija Cheng為香港金融險團隊總監 此前任職Willis逾七年"
-      },
-      "summary": {
-        "sc": "经纪商Howden宣布委任Sonija Cheng加入其香港金融险（Financial Lines）团队出任总监。据Howden香港金融险团队负责人Franky Mok于LinkedIn公布，Cheng此前在Willis任职逾七年。Howden近期持续扩充亚洲金融险及专业责任险人才储备，反映该细分业务竞争加剧。[EN原文]",
-        "tc": "經紀商Howden宣佈委任Sonija Cheng加入其香港金融險（Financial Lines）團隊出任總監。據Howden香港金融險團隊負責人Franky Mok於LinkedIn公佈，Cheng此前在Willis任職逾七年。Howden近期持續擴充亞洲金融險及專業責任險人才儲備，反映該細分業務競爭加劇。[EN原文]"
-      },
-      "why": {
-        "sc": "头部经纪商香港金融险团队人事动向是观察专业责任险、D&O等细分市场竞争格局的微观信号。",
-        "tc": "頭部經紀商香港金融險團隊人事動向是觀察專業責任險、D&O等細分市場競爭格局的微觀信號。"
-      },
-      "actions": {
-        "front": {},
-        "midback": {
-          "sc": "金融险人才流动=团队扩张信号",
-          "tc": "金融險人才流動=團隊擴張信號"
-        },
-        "lead": {},
-        "cross": {}
-      },
-      "rolesImpact": {
-        "front": 0,
-        "midback": 2,
-        "lead": 1,
-        "cross": 1
-      },
-      "source": {
-        "sc": "InsuranceAsia News",
-        "lang": "en"
-      },
-      "boards": [
-        "market"
-      ],
-      "themes": [
-        "career",
-        "market"
-      ],
-      "tags": {
-        "sc": [
-          "Howden",
-          "金融险",
-          "委任",
-          "经纪商",
-          "人才流动"
-        ],
-        "tc": [
-          "Howden",
-          "金融險",
-          "委任",
-          "經紀商",
-          "人才流動"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2026-08-14T16:42:00+08:00",
-      "originalUrl": "https://insuranceasianews.com/howden-adds-sonija-cheng-to-hong-kong-financial-lines-team/",
-      "ingestedAt": "2026-08-14T18:23:26+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
-    },
-    {
       "id": "xchange-first-cycle-loi-20260813",
       "clusterCount": 1,
       "score": 70,
@@ -1141,81 +1216,6 @@
       "evergreen": false
     },
     {
-      "id": "aastocks-sp-tax-sales-20260813",
-      "clusterCount": 1,
-      "score": 70,
-      "verifyStatus": "verified",
-      "sourceTier": "pro",
-      "sourceKey": "aastocks:sp-tax-sales-20260813",
-      "title": {
-        "sc": "标普：内地征税或拖慢港银港险面向内地客户销售 寿险两年仍可增长8%-10%",
-        "tc": "標普：內地徵稅或拖慢港銀港險面向內地客戶銷售 壽險兩年仍可增長8%-10%"
-      },
-      "summary": {
-        "sc": "标普全球表示，内地对居民境外保单收益征税或影响香港银行及保险业面向内地客户的销售，消费者投保前会更审慎评估税务影响。但标普预计银行可借财富管理平台多元化与产品组合调整消化手续费收入的短期下滑，寿险商在底层需求具韧性的情况下，未来两年仍可维持8%-10%增长。[EN原文]",
-        "tc": "標普全球表示，內地對居民境外保單收益徵稅或影響香港銀行及保險業面向內地客戶的銷售，消費者投保前會更審慎評估稅務影響。但標普預計銀行可借財富管理平台多元化與產品組合調整消化手續費收入的短期下滑，壽險商在底層需求具韌性的情況下，未來兩年仍可維持8%-10%增長。"
-      },
-      "why": {
-        "sc": "评级机构对征税影响的最新机构视角：短期销售承压但增长预期不变，为评估港险需求韧性与板块估值提供参照。",
-        "tc": "評級機構對徵稅影響的最新機構視角：短期銷售受壓但增長預期不變，為評估港險需求韌性與板塊估值提供參照。"
-      },
-      "actions": {
-        "front": {
-          "sc": "征税影响分层=客户预期管理",
-          "tc": "徵稅影響分層=客戶預期管理"
-        },
-        "midback": {},
-        "lead": {
-          "sc": "8-10%增长预期=行业信心锚",
-          "tc": "8-10%增長預期=行業信心錨"
-        },
-        "cross": {}
-      },
-      "rolesImpact": {
-        "front": 2,
-        "midback": 1,
-        "lead": 2,
-        "cross": 1
-      },
-      "source": {
-        "sc": "AASTOCKS（标普观点）",
-        "lang": "en"
-      },
-      "boards": [
-        "market"
-      ],
-      "themes": [
-        "taxation",
-        "firm"
-      ],
-      "tags": {
-        "sc": [
-          "港险征税",
-          "标普",
-          "寿险增长",
-          "银行保险",
-          "内地客户"
-        ],
-        "tc": [
-          "港險徵稅",
-          "標普",
-          "壽險增長",
-          "銀行保險",
-          "內地客戶"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2026-08-13T14:06:00+08:00",
-      "originalUrl": "http://freequote.aastocks.com/en/stocks/news/aafn-con/NOW.1538066/latest-news/AAFN",
-      "ingestedAt": "2026-08-14T02:10:27+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
-    },
-    {
       "id": "ce-inscap-stakes-20260813",
       "clusterCount": 1,
       "score": 64,
@@ -1279,81 +1279,6 @@
       "contentKind": "news",
       "publishedAt": "2026-08-13T17:24:00+08:00",
       "originalUrl": "http://finance.ce.cn/insurance1/scrollnews/202608/t20260813_3146705.shtml",
-      "ingestedAt": "2026-08-14T02:10:27+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
-    },
-    {
-      "id": "bambooworks-tax-edge-20260813",
-      "clusterCount": 1,
-      "score": 62,
-      "verifyStatus": "pending",
-      "sourceTier": "media",
-      "sourceKey": "bambooworks:tax-edge-20260813",
-      "title": {
-        "sc": "Bamboo Works：内地客2024年贡献港险新单628亿港元 征税常态化才是真正考验",
-        "tc": "Bamboo Works：內地客2024年貢獻港險新單628億港元 徵稅常態化才是真正考驗"
-      },
-      "summary": {
-        "sc": "英文财经媒体Bamboo Works分析：内地访客2024年为香港贡献新单保费628亿港元、占新单约29%，2025年香港长期业务新单保费飙增50.6%至3309亿港元。若境外保单征税在内地常态化执行，主打高回报的分红储蓄产品将承压；但多币种、全球配置与财富传承功能仍支撑跨境需求，关键考验是税后回报相对内地产品的优势能否维持。[EN原文]",
-        "tc": "英文財經媒體Bamboo Works分析：內地訪客2024年為香港貢獻新單保費628億港元、佔新單約29%，2025年香港長期業務新單保費飆增50.6%至3309億港元。若境外保單徵稅在內地常態化執行，主打高回報的分紅儲蓄產品將受壓；但多幣種、全球配置與財富傳承功能仍支撐跨境需求，關鍵考驗是稅後回報相對內地產品的優勢能否維持。"
-      },
-      "why": {
-        "sc": "以最新保费数据量化内地访客业务占比，把征税冲击置于「税后回报差」框架下分析，是客户沟通与产品比较的实用参照。",
-        "tc": "以最新保費數據量化內地訪客業務佔比，把徵稅衝擊置於「稅後回報差」框架下分析，是客戶溝通與產品比較的實用參照。"
-      },
-      "actions": {
-        "front": {
-          "sc": "税后回报差=产品沟通框架",
-          "tc": "稅後回報差=產品溝通框架"
-        },
-        "midback": {},
-        "lead": {},
-        "cross": {
-          "sc": "跨境需求韧性=长期配置逻辑",
-          "tc": "跨境需求韌性=長期配置邏輯"
-        }
-      },
-      "rolesImpact": {
-        "front": 2,
-        "midback": 1,
-        "lead": 1,
-        "cross": 2
-      },
-      "source": {
-        "sc": "Bamboo Works",
-        "lang": "en"
-      },
-      "boards": [
-        "market"
-      ],
-      "themes": [
-        "taxation",
-        "cross-border"
-      ],
-      "tags": {
-        "sc": [
-          "港险征税",
-          "内地访客",
-          "新单保费",
-          "分红储蓄",
-          "跨境需求"
-        ],
-        "tc": [
-          "港險徵稅",
-          "內地訪客",
-          "新單保費",
-          "分紅儲蓄",
-          "跨境需求"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2026-08-13T00:00:00+08:00",
-      "originalUrl": "https://thebambooworks.com/tax-crackdown-erodes-edge-for-hong-kong-insurers/",
       "ingestedAt": "2026-08-14T02:10:27+08:00",
       "contentRole": {
         "sc": "本站导读",
@@ -1438,44 +1363,44 @@
       "evergreen": false
     },
     {
-      "id": "insuranceasia-hk-insurers-slide-tax-20260813",
+      "id": "aastocks-sp-tax-sales-20260813",
       "clusterCount": 1,
-      "score": 66,
+      "score": 70,
       "verifyStatus": "verified",
-      "sourceTier": "media",
-      "sourceKey": "insuranceasia:hk-insurers-slide-tax-20260813",
+      "sourceTier": "pro",
+      "sourceKey": "aastocks:sp-tax-sales-20260813",
       "title": {
-        "sc": "InsuranceAsia：友邦保诚因征税传闻重挫后 分析师称市场反应过度 MCV敞口仅占新业务价值两成",
-        "tc": "InsuranceAsia：友邦保誠因徵稅傳聞重挫後 分析師稱市場反應過度 MCV敞口僅佔新業務價值兩成"
+        "sc": "标普：内地征税或拖慢港银港险面向内地客户销售 寿险两年仍可增长8%-10%",
+        "tc": "標普：內地徵稅或拖慢港銀港險面向內地客戶銷售 壽險兩年仍可增長8%-10%"
       },
       "summary": {
-        "sc": "InsuranceAsia引述CGS International研报：8月6日友邦收跌5.9%至73.15港元、保诚跌4.6%至108.5港元后，分析师认为市场对内地港险征税反应过度并维持正面看法。CGS估算内地访客(MCV)业务约占友邦FY25集团新业务价值20%、保诚22%；按股价跌幅简单推算，市场已计入友邦MCV业务约三成、保诚约两成的损失。Fitch旗下CreditSights持相似观点，将征税执行定性为区域差异化的渐进过程。[EN原文]",
-        "tc": "InsuranceAsia引述CGS International研報：8月6日友邦收跌5.9%至73.15港元、保誠跌4.6%至108.5港元後，分析師認為市場對內地港險徵稅反應過度並維持正面看法。CGS估算內地訪客(MCV)業務約佔友邦FY25集團新業務價值20%、保誠22%；按股價跌幅簡單推算，市場已計入友邦MCV業務約三成、保誠約兩成的損失。Fitch旗下CreditSights持相似觀點，將徵稅執行定性為區域差異化的漸進過程。"
+        "sc": "标普全球表示，内地对居民境外保单收益征税或影响香港银行及保险业面向内地客户的销售，消费者投保前会更审慎评估税务影响。但标普预计银行可借财富管理平台多元化与产品组合调整消化手续费收入的短期下滑，寿险商在底层需求具韧性的情况下，未来两年仍可维持8%-10%增长。[EN原文]",
+        "tc": "標普全球表示，內地對居民境外保單收益徵稅或影響香港銀行及保險業面向內地客戶的銷售，消費者投保前會更審慎評估稅務影響。但標普預計銀行可借財富管理平台多元化與產品組合調整消化手續費收入的短期下滑，壽險商在底層需求具韌性的情況下，未來兩年仍可維持8%-10%增長。"
       },
       "why": {
-        "sc": "提供征税冲击的量化视角（MCV占新业务价值比重与股价隐含损失），帮助客观评估友邦、保诚等港险龙头的实际敞口与估值。",
-        "tc": "提供徵稅衝擊的量化視角（MCV佔新業務價值比重與股價隱含損失），幫助客觀評估友邦、保誠等港險龍頭的實際敞口與估值。"
+        "sc": "评级机构对征税影响的最新机构视角：短期销售承压但增长预期不变，为评估港险需求韧性与板块估值提供参照。",
+        "tc": "評級機構對徵稅影響的最新機構視角：短期銷售受壓但增長預期不變，為評估港險需求韌性與板塊估值提供參照。"
       },
       "actions": {
-        "front": {},
-        "midback": {
-          "sc": "VONB敞口量化=估值参考",
-          "tc": "VONB敞口量化=估值參考"
+        "front": {
+          "sc": "征税影响分层=客户预期管理",
+          "tc": "徵稅影響分層=客戶預期管理"
         },
+        "midback": {},
         "lead": {
-          "sc": "MCV依赖度=选品与渠道提示",
-          "tc": "MCV依賴度=選品與渠道提示"
+          "sc": "8-10%增长预期=行业信心锚",
+          "tc": "8-10%增長預期=行業信心錨"
         },
         "cross": {}
       },
       "rolesImpact": {
-        "front": 1,
-        "midback": 2,
+        "front": 2,
+        "midback": 1,
         "lead": 2,
         "cross": 1
       },
       "source": {
-        "sc": "InsuranceAsia",
+        "sc": "AASTOCKS（标普观点）",
         "lang": "en"
       },
       "boards": [
@@ -1488,23 +1413,23 @@
       "tags": {
         "sc": [
           "港险征税",
-          "友邦",
-          "保诚",
-          "新业务价值",
-          "CGS"
+          "标普",
+          "寿险增长",
+          "银行保险",
+          "内地客户"
         ],
         "tc": [
           "港險徵稅",
-          "友邦",
-          "保誠",
-          "新業務價值",
-          "CGS"
+          "標普",
+          "壽險增長",
+          "銀行保險",
+          "內地客戶"
         ]
       },
       "contentKind": "news",
-      "publishedAt": "2026-08-13T05:00:00+08:00",
-      "originalUrl": "https://insuranceasia.com/insurance/in-focus/hong-kong-insurers-slide-china-tightens-tax-enforcement",
-      "ingestedAt": "2026-08-13T18:33:58+08:00",
+      "publishedAt": "2026-08-13T14:06:00+08:00",
+      "originalUrl": "http://freequote.aastocks.com/en/stocks/news/aafn-con/NOW.1538066/latest-news/AAFN",
+      "ingestedAt": "2026-08-14T02:10:27+08:00",
       "contentRole": {
         "sc": "本站导读",
         "tc": "本站導讀"
@@ -1580,6 +1505,234 @@
       "publishedAt": "2026-08-13T07:45:06+08:00",
       "originalUrl": "http://m.toutiao.com/group/7673295310735360546/",
       "ingestedAt": "2026-08-13T18:33:58+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "insuranceasia-hk-insurers-slide-tax-20260813",
+      "clusterCount": 1,
+      "score": 66,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia:hk-insurers-slide-tax-20260813",
+      "title": {
+        "sc": "InsuranceAsia：友邦保诚因征税传闻重挫后 分析师称市场反应过度 MCV敞口仅占新业务价值两成",
+        "tc": "InsuranceAsia：友邦保誠因徵稅傳聞重挫後 分析師稱市場反應過度 MCV敞口僅佔新業務價值兩成"
+      },
+      "summary": {
+        "sc": "InsuranceAsia引述CGS International研报：8月6日友邦收跌5.9%至73.15港元、保诚跌4.6%至108.5港元后，分析师认为市场对内地港险征税反应过度并维持正面看法。CGS估算内地访客(MCV)业务约占友邦FY25集团新业务价值20%、保诚22%；按股价跌幅简单推算，市场已计入友邦MCV业务约三成、保诚约两成的损失。Fitch旗下CreditSights持相似观点，将征税执行定性为区域差异化的渐进过程。[EN原文]",
+        "tc": "InsuranceAsia引述CGS International研報：8月6日友邦收跌5.9%至73.15港元、保誠跌4.6%至108.5港元後，分析師認為市場對內地港險徵稅反應過度並維持正面看法。CGS估算內地訪客(MCV)業務約佔友邦FY25集團新業務價值20%、保誠22%；按股價跌幅簡單推算，市場已計入友邦MCV業務約三成、保誠約兩成的損失。Fitch旗下CreditSights持相似觀點，將徵稅執行定性為區域差異化的漸進過程。"
+      },
+      "why": {
+        "sc": "提供征税冲击的量化视角（MCV占新业务价值比重与股价隐含损失），帮助客观评估友邦、保诚等港险龙头的实际敞口与估值。",
+        "tc": "提供徵稅衝擊的量化視角（MCV佔新業務價值比重與股價隱含損失），幫助客觀評估友邦、保誠等港險龍頭的實際敞口與估值。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "VONB敞口量化=估值参考",
+          "tc": "VONB敞口量化=估值參考"
+        },
+        "lead": {
+          "sc": "MCV依赖度=选品与渠道提示",
+          "tc": "MCV依賴度=選品與渠道提示"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "InsuranceAsia",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "taxation",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "港险征税",
+          "友邦",
+          "保诚",
+          "新业务价值",
+          "CGS"
+        ],
+        "tc": [
+          "港險徵稅",
+          "友邦",
+          "保誠",
+          "新業務價值",
+          "CGS"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-13T05:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/hong-kong-insurers-slide-china-tightens-tax-enforcement",
+      "ingestedAt": "2026-08-13T18:33:58+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "bambooworks-tax-edge-20260813",
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "bambooworks:tax-edge-20260813",
+      "title": {
+        "sc": "Bamboo Works：内地客2024年贡献港险新单628亿港元 征税常态化才是真正考验",
+        "tc": "Bamboo Works：內地客2024年貢獻港險新單628億港元 徵稅常態化才是真正考驗"
+      },
+      "summary": {
+        "sc": "英文财经媒体Bamboo Works分析：内地访客2024年为香港贡献新单保费628亿港元、占新单约29%，2025年香港长期业务新单保费飙增50.6%至3309亿港元。若境外保单征税在内地常态化执行，主打高回报的分红储蓄产品将承压；但多币种、全球配置与财富传承功能仍支撑跨境需求，关键考验是税后回报相对内地产品的优势能否维持。[EN原文]",
+        "tc": "英文財經媒體Bamboo Works分析：內地訪客2024年為香港貢獻新單保費628億港元、佔新單約29%，2025年香港長期業務新單保費飆增50.6%至3309億港元。若境外保單徵稅在內地常態化執行，主打高回報的分紅儲蓄產品將受壓；但多幣種、全球配置與財富傳承功能仍支撐跨境需求，關鍵考驗是稅後回報相對內地產品的優勢能否維持。"
+      },
+      "why": {
+        "sc": "以最新保费数据量化内地访客业务占比，把征税冲击置于「税后回报差」框架下分析，是客户沟通与产品比较的实用参照。",
+        "tc": "以最新保費數據量化內地訪客業務佔比，把徵稅衝擊置於「稅後回報差」框架下分析，是客戶溝通與產品比較的實用參照。"
+      },
+      "actions": {
+        "front": {
+          "sc": "税后回报差=产品沟通框架",
+          "tc": "稅後回報差=產品溝通框架"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {
+          "sc": "跨境需求韧性=长期配置逻辑",
+          "tc": "跨境需求韌性=長期配置邏輯"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 1,
+        "lead": 1,
+        "cross": 2
+      },
+      "source": {
+        "sc": "Bamboo Works",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "taxation",
+        "cross-border"
+      ],
+      "tags": {
+        "sc": [
+          "港险征税",
+          "内地访客",
+          "新单保费",
+          "分红储蓄",
+          "跨境需求"
+        ],
+        "tc": [
+          "港險徵稅",
+          "內地訪客",
+          "新單保費",
+          "分紅儲蓄",
+          "跨境需求"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-13T00:00:00+08:00",
+      "originalUrl": "https://thebambooworks.com/tax-crackdown-erodes-edge-for-hong-kong-insurers/",
+      "ingestedAt": "2026-08-14T02:10:27+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "boclife-deloitte-hnw-succession-20260813",
+      "clusterCount": 1,
+      "score": 78,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "boclife:deloitte-hnw-20260813",
+      "title": {
+        "sc": "中银人寿与Deloitte Private启动高净值客户财富传承合作 联合推出《财富之光，照亮世代》手册",
+        "tc": "中銀人壽與Deloitte Private啟動高淨值客戶財富傳承合作 聯合推出《財富之光，照亮世代》手冊"
+      },
+      "summary": {
+        "sc": "中银人寿8月13日宣布与德勤民营企业与私人客户服务（Deloitte Private）启动高净值客户财富传承合作计划，围绕跨代传承、合规安排与长远规划展开，并联合推出《财富之光，照亮世代》专题手册。中银人寿执行总裁邓子平与德勤中国香港业务主管合伙人黄文标见证签署，双方将结合保险方案与税务、家族治理及传承专业能力，打造客制化传承方案。",
+        "tc": "中銀人壽8月13日宣佈與德勤民營企業與私人客戶服務（Deloitte Private）啟動高淨值客戶財富傳承合作計劃，圍繞跨代傳承、合規安排與長遠規劃展開，並聯合推出《財富之光，照亮世代》專題手冊。中銀人壽執行總裁鄧子平與德勤中國香港業務主管合夥人黃文標見證簽署，雙方將結合保險方案與稅務、家族治理及傳承專業能力，打造客製化傳承方案。"
+      },
+      "why": {
+        "sc": "港险高净值/家办赛道的典型协作样本：保司与四大专业机构合流切入跨代传承与合规，反映香港跃升全球最大跨境财富管理中心后的红利外溢，是观察家办主题与保司战略的窗口。",
+        "tc": "港險高淨值/家辦賽道的典型協作樣本：保司與四大專業機構合流切入跨代傳承與合規，反映香港躍升全球最大跨境財富管理中心後的紅利外溢，是觀察家辦主題與保司戰略的窗口。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "保司×德勤合流=传承合规范式",
+          "tc": "保司×德勤合流=傳承合規範式"
+        },
+        "lead": {
+          "sc": "高净值客群服务升级=渠道卖点",
+          "tc": "高淨值客群服務升級=渠道賣點"
+        },
+        "cross": {
+          "sc": "跨境财富传承=家办协同入口",
+          "tc": "跨境財富傳承=家辦協同入口"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "中银人寿官网新闻稿",
+        "lang": "zh"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "family-office",
+        "hnw"
+      ],
+      "tags": {
+        "sc": [
+          "中银人寿",
+          "德勤",
+          "高净值",
+          "财富传承",
+          "家办"
+        ],
+        "tc": [
+          "中銀人壽",
+          "德勤",
+          "高淨值",
+          "財富傳承",
+          "家辦"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-08-13T00:00:00+08:00",
+      "originalUrl": "https://www.boclife.com.hk/sc/news.html",
+      "ingestedAt": "2026-08-15T18:20:06+08:00",
       "contentRole": {
         "sc": "本站导读",
         "tc": "本站導讀"
@@ -1884,6 +2037,77 @@
       "evergreen": false
     },
     {
+      "id": "nfra-natcat-claims-20260812",
+      "clusterCount": 1,
+      "score": 68,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "bjnews:nfra-natcat-claims-20260812",
+      "title": {
+        "sc": "金融监管总局：近期重大自然灾害保险业累计已赔付76亿元",
+        "tc": "金融監管總局：近期重大自然災害保險業累計已賠付76億元"
+      },
+      "summary": {
+        "sc": "金融监管总局披露：台风「白海豚」登陆浙江后，截至8月11日12时，浙江、上海、江苏、江西、宁波5地保险机构共接报案近10万件、估损12亿元、已赔付（含预赔付）3409万元；针对近期强降雨、台风、地震、山洪等灾害，22省份保险业累计接报案67万件、估损132亿元、已赔付76亿元，赔付进度57%。",
+        "tc": "金融監管總局披露：颱風「白海豚」登陸浙江後，截至8月11日12時，浙江、上海、江蘇、江西、寧波5地保險機構共接報案近10萬件、估損12億元、已賠付（含預賠付）3409萬元；針對近期強降雨、颱風、地震、山洪等災害，22省份保險業累計接報案67萬件、估損132億元、已賠付76億元，賠付進度57%。"
+      },
+      "why": {
+        "sc": "官方理赔数据量化台风白海豚与汛期灾害的赔付进度，可与巨灾建模、区域累积风险议题联动，服务机构客户沟通与理赔预期管理。",
+        "tc": "官方理賠數據量化颱風白海豚與汛期災害的賠付進度，可與巨災建模、區域累積風險議題聯動，服務機構客戶溝通與理賠預期管理。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 0,
+        "cross": 1
+      },
+      "source": {
+        "sc": "千龙网（新京报·金融监管总局数据）",
+        "lang": "zh"
+      },
+      "boards": [
+        "market",
+        "insurer"
+      ],
+      "themes": [
+        "natcat",
+        "claims",
+        "china"
+      ],
+      "tags": {
+        "sc": [
+          "台风白海豚",
+          "理赔",
+          "金融监管总局",
+          "巨灾",
+          "估损"
+        ],
+        "tc": [
+          "颱風白海豚",
+          "理賠",
+          "金融監管總局",
+          "巨災",
+          "估損"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-12T00:26:00+08:00",
+      "originalUrl": "https://m.bjnews.com.cn/detail/1786465979189263.html",
+      "ingestedAt": "2026-08-12T18:08:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
       "id": "gx-broker-name-compliance-20260812",
       "clusterCount": 1,
       "score": 62,
@@ -1948,6 +2172,160 @@
       "publishedAt": "2026-08-12T00:00:00+08:00",
       "originalUrl": "http://m.toutiao.com/group/7673136546282832399/",
       "ingestedAt": "2026-08-13T02:11:12+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "toutiao-husao-tax-mechanics-20260811",
+      "clusterCount": 1,
+      "score": 64,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "toutiao:husao-tax-mechanics-20260811",
+      "title": {
+        "sc": "港险征税再拆解：征的是「收益」不是保单价值 预缴保费利息纳入范围",
+        "tc": "港險徵稅再拆解：徵的是「收益」不是保單價值 預繳保費利息納入範圍"
+      },
+      "summary": {
+        "sc": "自媒体拆解征税细节：统一适用20%比例税率（比照利息、股息、红利所得）；征税范围涉及分红收益与预缴保费利息收益两类，理赔款明确不征税；按「收益」而非保单价值计税——如100万保费保单，仅超出保单价值部分的收益才计征。文章解释香港预缴保费机制（首年一次性缴清多年保费、剩余资金计息）与内地保单的差异。",
+        "tc": "自媒體拆解徵稅細節：統一適用20%比例稅率（比照利息、股息、紅利所得）；徵稅範圍涉及分紅收益與預繳保費利息收益兩類，理賠款明確不徵稅；按「收益」而非保單價值計稅。文章解釋香港預繳保費機制（首年一次性繳清多年保費、剩餘資金計息）與內地保單的差異。"
+      },
+      "why": {
+        "sc": "预缴保费利息被纳入征税范围是此前报道未展开的细节，对持有多缴保费保单的客户有直接提示价值，值得在保单检视时主动沟通。",
+        "tc": "預繳保費利息被納入徵稅範圍是此前報道未展開的細節，對持有多繳保費保單的客戶有直接提示價值，值得在保單檢視時主動溝通。"
+      },
+      "actions": {
+        "front": {
+          "sc": "预缴利息征税=保单检视新要点",
+          "tc": "預繳利息徵稅=保單檢視新要點"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {
+          "sc": "预缴机制涉跨境税务安排",
+          "tc": "預繳機制涉跨境稅務安排"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 1,
+        "lead": 1,
+        "cross": 2
+      },
+      "source": {
+        "sc": "胡说保险（今日头条）",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg",
+        "product"
+      ],
+      "themes": [
+        "taxation",
+        "product",
+        "cross-border"
+      ],
+      "tags": {
+        "sc": [
+          "预缴保费",
+          "利息",
+          "征税范围",
+          "税率",
+          "理赔免税"
+        ],
+        "tc": [
+          "預繳保費",
+          "利息",
+          "徵稅範圍",
+          "稅率",
+          "理賠免稅"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-11T22:14:33+08:00",
+      "originalUrl": "http://m.toutiao.com/group/7672770547847283254/",
+      "ingestedAt": "2026-08-12T18:08:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "toutiao-irr-cap-enforcement-20260811",
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "toutiao:danluncai-irr-cap-enforcement-20260811",
+      "title": {
+        "sc": "监管重拳后赴港投保降温：分红演示设6%/6.5%上限 廉署联手整治无牌转介与返佣",
+        "tc": "監管重拳後赴港投保降溫：分紅演示設6%/6.5%上限 廉署聯手整治無牌轉介與返佣"
+      },
+      "summary": {
+        "sc": "文章梳理赴港投保降温的监管三因素：香港保监局要求2025年7月起分红保单预期回报演示设上限（港元保单IRR不超6%、美元等非港元不超6.5%）；保监局与廉政公署联合执法，搜查涉嫌通过无牌内地转介人推销保单、并将九成以上高额佣金私下返还的经纪公司；两地监管重申投保须亲赴香港签署，内地签单或网络代办保单属「地下保单」，两地均不受法律保护。",
+        "tc": "文章梳理赴港投保降溫的監管三因素：香港保監局要求2025年7月起分紅保單預期回報演示設上限（港元保單IRR不超6%、美元等非港元不超6.5%）；保監局與廉政公署聯合執法，搜查涉嫌透過無牌內地轉介人推銷保單、並將九成以上高額佣金私下返還的經紀公司；兩地監管重申投保須親赴香港簽署，內地簽單或網絡代辦保單屬「地下保單」，兩地均不受法律保護。"
+      },
+      "why": {
+        "sc": "把IRR演示上限、无牌转介整治、地下保单红线串成「渠道合规全景」，前线展业与客户沟通时可直接对照红线，避免踩入灰色地带。",
+        "tc": "把IRR演示上限、無牌轉介整治、地下保單紅線串成「渠道合規全景」，前線展業與客戶溝通時可直接對照紅線，避免踩入灰色地帶。"
+      },
+      "actions": {
+        "front": {
+          "sc": "演示上限+红线=展业对照清单",
+          "tc": "演示上限+紅線=展業對照清單"
+        },
+        "midback": {
+          "sc": "返佣整治=中介合规警示",
+          "tc": "返佣整治=中介合規警示"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "丹论财（今日头条）",
+        "lang": "zh"
+      },
+      "boards": [
+        "compliance",
+        "market"
+      ],
+      "themes": [
+        "channel",
+        "compliance",
+        "sales-conduct"
+      ],
+      "tags": {
+        "sc": [
+          "分红演示上限",
+          "廉政公署",
+          "无牌转介",
+          "返佣",
+          "地下保单"
+        ],
+        "tc": [
+          "分紅演示上限",
+          "廉政公署",
+          "無牌轉介",
+          "返佣",
+          "地下保單"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-11T19:23:28+08:00",
+      "originalUrl": "http://m.toutiao.com/group/7672731992790729279/",
+      "ingestedAt": "2026-08-12T18:08:00+08:00",
       "contentRole": {
         "sc": "本站导读",
         "tc": "本站導讀"
@@ -2100,231 +2478,6 @@
       "contentKind": "news",
       "publishedAt": "2026-08-11T18:42:26+08:00",
       "originalUrl": "http://m.toutiao.com/group/7672722587726463523/",
-      "ingestedAt": "2026-08-12T18:08:00+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
-    },
-    {
-      "id": "toutiao-irr-cap-enforcement-20260811",
-      "clusterCount": 1,
-      "score": 62,
-      "verifyStatus": "pending",
-      "sourceTier": "media",
-      "sourceKey": "toutiao:danluncai-irr-cap-enforcement-20260811",
-      "title": {
-        "sc": "监管重拳后赴港投保降温：分红演示设6%/6.5%上限 廉署联手整治无牌转介与返佣",
-        "tc": "監管重拳後赴港投保降溫：分紅演示設6%/6.5%上限 廉署聯手整治無牌轉介與返佣"
-      },
-      "summary": {
-        "sc": "文章梳理赴港投保降温的监管三因素：香港保监局要求2025年7月起分红保单预期回报演示设上限（港元保单IRR不超6%、美元等非港元不超6.5%）；保监局与廉政公署联合执法，搜查涉嫌通过无牌内地转介人推销保单、并将九成以上高额佣金私下返还的经纪公司；两地监管重申投保须亲赴香港签署，内地签单或网络代办保单属「地下保单」，两地均不受法律保护。",
-        "tc": "文章梳理赴港投保降溫的監管三因素：香港保監局要求2025年7月起分紅保單預期回報演示設上限（港元保單IRR不超6%、美元等非港元不超6.5%）；保監局與廉政公署聯合執法，搜查涉嫌透過無牌內地轉介人推銷保單、並將九成以上高額佣金私下返還的經紀公司；兩地監管重申投保須親赴香港簽署，內地簽單或網絡代辦保單屬「地下保單」，兩地均不受法律保護。"
-      },
-      "why": {
-        "sc": "把IRR演示上限、无牌转介整治、地下保单红线串成「渠道合规全景」，前线展业与客户沟通时可直接对照红线，避免踩入灰色地带。",
-        "tc": "把IRR演示上限、無牌轉介整治、地下保單紅線串成「渠道合規全景」，前線展業與客戶溝通時可直接對照紅線，避免踩入灰色地帶。"
-      },
-      "actions": {
-        "front": {
-          "sc": "演示上限+红线=展业对照清单",
-          "tc": "演示上限+紅線=展業對照清單"
-        },
-        "midback": {
-          "sc": "返佣整治=中介合规警示",
-          "tc": "返佣整治=中介合規警示"
-        },
-        "lead": {},
-        "cross": {}
-      },
-      "rolesImpact": {
-        "front": 2,
-        "midback": 2,
-        "lead": 1,
-        "cross": 1
-      },
-      "source": {
-        "sc": "丹论财（今日头条）",
-        "lang": "zh"
-      },
-      "boards": [
-        "compliance",
-        "market"
-      ],
-      "themes": [
-        "channel",
-        "compliance",
-        "sales-conduct"
-      ],
-      "tags": {
-        "sc": [
-          "分红演示上限",
-          "廉政公署",
-          "无牌转介",
-          "返佣",
-          "地下保单"
-        ],
-        "tc": [
-          "分紅演示上限",
-          "廉政公署",
-          "無牌轉介",
-          "返佣",
-          "地下保單"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2026-08-11T19:23:28+08:00",
-      "originalUrl": "http://m.toutiao.com/group/7672731992790729279/",
-      "ingestedAt": "2026-08-12T18:08:00+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
-    },
-    {
-      "id": "toutiao-husao-tax-mechanics-20260811",
-      "clusterCount": 1,
-      "score": 64,
-      "verifyStatus": "pending",
-      "sourceTier": "media",
-      "sourceKey": "toutiao:husao-tax-mechanics-20260811",
-      "title": {
-        "sc": "港险征税再拆解：征的是「收益」不是保单价值 预缴保费利息纳入范围",
-        "tc": "港險徵稅再拆解：徵的是「收益」不是保單價值 預繳保費利息納入範圍"
-      },
-      "summary": {
-        "sc": "自媒体拆解征税细节：统一适用20%比例税率（比照利息、股息、红利所得）；征税范围涉及分红收益与预缴保费利息收益两类，理赔款明确不征税；按「收益」而非保单价值计税——如100万保费保单，仅超出保单价值部分的收益才计征。文章解释香港预缴保费机制（首年一次性缴清多年保费、剩余资金计息）与内地保单的差异。",
-        "tc": "自媒體拆解徵稅細節：統一適用20%比例稅率（比照利息、股息、紅利所得）；徵稅範圍涉及分紅收益與預繳保費利息收益兩類，理賠款明確不徵稅；按「收益」而非保單價值計稅。文章解釋香港預繳保費機制（首年一次性繳清多年保費、剩餘資金計息）與內地保單的差異。"
-      },
-      "why": {
-        "sc": "预缴保费利息被纳入征税范围是此前报道未展开的细节，对持有多缴保费保单的客户有直接提示价值，值得在保单检视时主动沟通。",
-        "tc": "預繳保費利息被納入徵稅範圍是此前報道未展開的細節，對持有多繳保費保單的客戶有直接提示價值，值得在保單檢視時主動溝通。"
-      },
-      "actions": {
-        "front": {
-          "sc": "预缴利息征税=保单检视新要点",
-          "tc": "預繳利息徵稅=保單檢視新要點"
-        },
-        "midback": {},
-        "lead": {},
-        "cross": {
-          "sc": "预缴机制涉跨境税务安排",
-          "tc": "預繳機制涉跨境稅務安排"
-        }
-      },
-      "rolesImpact": {
-        "front": 2,
-        "midback": 1,
-        "lead": 1,
-        "cross": 2
-      },
-      "source": {
-        "sc": "胡说保险（今日头条）",
-        "lang": "zh"
-      },
-      "boards": [
-        "reg",
-        "product"
-      ],
-      "themes": [
-        "taxation",
-        "product",
-        "cross-border"
-      ],
-      "tags": {
-        "sc": [
-          "预缴保费",
-          "利息",
-          "征税范围",
-          "税率",
-          "理赔免税"
-        ],
-        "tc": [
-          "預繳保費",
-          "利息",
-          "徵稅範圍",
-          "稅率",
-          "理賠免稅"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2026-08-11T22:14:33+08:00",
-      "originalUrl": "http://m.toutiao.com/group/7672770547847283254/",
-      "ingestedAt": "2026-08-12T18:08:00+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
-    },
-    {
-      "id": "nfra-natcat-claims-20260812",
-      "clusterCount": 1,
-      "score": 68,
-      "verifyStatus": "verified",
-      "sourceTier": "media",
-      "sourceKey": "bjnews:nfra-natcat-claims-20260812",
-      "title": {
-        "sc": "金融监管总局：近期重大自然灾害保险业累计已赔付76亿元",
-        "tc": "金融監管總局：近期重大自然災害保險業累計已賠付76億元"
-      },
-      "summary": {
-        "sc": "金融监管总局披露：台风「白海豚」登陆浙江后，截至8月11日12时，浙江、上海、江苏、江西、宁波5地保险机构共接报案近10万件、估损12亿元、已赔付（含预赔付）3409万元；针对近期强降雨、台风、地震、山洪等灾害，22省份保险业累计接报案67万件、估损132亿元、已赔付76亿元，赔付进度57%。",
-        "tc": "金融監管總局披露：颱風「白海豚」登陸浙江後，截至8月11日12時，浙江、上海、江蘇、江西、寧波5地保險機構共接報案近10萬件、估損12億元、已賠付（含預賠付）3409萬元；針對近期強降雨、颱風、地震、山洪等災害，22省份保險業累計接報案67萬件、估損132億元、已賠付76億元，賠付進度57%。"
-      },
-      "why": {
-        "sc": "官方理赔数据量化台风白海豚与汛期灾害的赔付进度，可与巨灾建模、区域累积风险议题联动，服务机构客户沟通与理赔预期管理。",
-        "tc": "官方理賠數據量化颱風白海豚與汛期災害的賠付進度，可與巨災建模、區域累積風險議題聯動，服務機構客戶溝通與理賠預期管理。"
-      },
-      "actions": {
-        "front": {},
-        "midback": {},
-        "lead": {},
-        "cross": {}
-      },
-      "rolesImpact": {
-        "front": 1,
-        "midback": 2,
-        "lead": 0,
-        "cross": 1
-      },
-      "source": {
-        "sc": "千龙网（新京报·金融监管总局数据）",
-        "lang": "zh"
-      },
-      "boards": [
-        "market",
-        "insurer"
-      ],
-      "themes": [
-        "natcat",
-        "claims",
-        "china"
-      ],
-      "tags": {
-        "sc": [
-          "台风白海豚",
-          "理赔",
-          "金融监管总局",
-          "巨灾",
-          "估损"
-        ],
-        "tc": [
-          "颱風白海豚",
-          "理賠",
-          "金融監管總局",
-          "巨災",
-          "估損"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2026-08-12T00:26:00+08:00",
-      "originalUrl": "https://m.bjnews.com.cn/detail/1786465979189263.html",
       "ingestedAt": "2026-08-12T18:08:00+08:00",
       "contentRole": {
         "sc": "本站导读",
@@ -3332,6 +3485,81 @@
       "publishedAt": "2026-08-10T11:00:00+08:00",
       "originalUrl": "https://insuranceasia.com/insurance/expert-opinion/how-can-insurers-keep-ai-data-centre-risks",
       "ingestedAt": "2026-08-11T18:08:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "cmbi-mcv-downside-20260810",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "aastocks:cmbi-mcv-downside-20260810",
+      "title": {
+        "sc": "招银国际：内地访客新保单销售存下行风险 长期需求仍有增长空间",
+        "tc": "招銀國際：內地訪客新保單銷售存下行風險 長期需求仍有增長空間"
+      },
+      "summary": {
+        "sc": "招银国际8月10日报告指，内地税务机关对离岸保单投资回报征税的消息令友邦、保诚股价一度跌逾8%及5%，市场对离岸新业务销售及价值增长转趋审慎。该行认为抛售过度，因内地访客离岸保险需求难被税收完全消灭，征税主要影响分红及预缴保费利息，纯保障型产品不受影响；但短期内访客新单销售仍存下行风险，因客户需时间重新评估风险回报。",
+        "tc": "招銀國際8月10日報告指，內地稅務機關對離岸保單投資回報徵稅的消息令友邦、保誠股價一度跌逾8%及5%，市場對離岸新業務銷售及價值增長轉趨審慎。該行認為拋售過度，因內地訪客離岸保險需求難被稅收完全消滅，徵稅主要影響分紅及預繳保費利息，純保障型產品不受影響；但短期內訪客新單銷售仍存下行風險，因客戶需時間重新評估風險回報。"
+      },
+      "why": {
+        "sc": "大行对征税冲击的量化拆解：区分分红/预缴利息与纯保障的税负边界，给出「短期下行、长期需求仍在」的判断，为中后台评估MCV客群风险提供参照。",
+        "tc": "大行對徵稅衝擊的量化拆解：區分分紅/預繳利息與純保障的稅負邊界，給出「短期下行、長期需求仍在」的判斷，為中後台評估MCV客群風險提供參照。"
+      },
+      "actions": {
+        "front": {
+          "sc": "短期MCV销售承压=展业节奏提示",
+          "tc": "短期MCV銷售承壓=展業節奏提示"
+        },
+        "midback": {
+          "sc": "税负边界拆解=合规评估要点",
+          "tc": "稅負邊界拆解=合規評估要點"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "阿思达克财经网（招银国际报告）",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "mcv",
+        "taxation"
+      ],
+      "tags": {
+        "sc": [
+          "招银国际",
+          "内地访客",
+          "征税",
+          "新单销售",
+          "MCV"
+        ],
+        "tc": [
+          "招銀國際",
+          "內地訪客",
+          "徵稅",
+          "新單銷售",
+          "MCV"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-10T10:46:00+08:00",
+      "originalUrl": "http://www.aastocks.com/en/stocks/news/aafn-con/NOW.1537340/top-news/AAFN?totc=1",
+      "ingestedAt": "2026-08-15T18:20:06+08:00",
       "contentRole": {
         "sc": "本站导读",
         "tc": "本站導讀"
@@ -8100,6 +8328,70 @@
       "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1265870&itemId=915"
     },
     {
+      "id": "clio-h1-2026-ops",
+      "clusterCount": 1,
+      "score": 76,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "yahoofinance",
+      "title": {
+        "sc": "国寿海外 2026 H1：总保费 295.7 亿港元，穆迪 A1 展望上调至稳定",
+        "tc": "國壽海外 2026 H1：總保費 295.7 億港元，穆迪 A1 展望上調至穩定"
+      },
+      "summary": {
+        "sc": "国寿海外 2026 上半年经营工作会议：总保费 295.7 亿港元，新单保费 111.5 亿港元，营业收入 149.2 亿港元（新准则）；总资产 4,533.2 亿港元，投资规模 3,804 亿港元；穆迪维持 A1 评级并将展望上调为「稳定」。",
+        "tc": "國壽海外 2026 上半年經營工作會議：總保費 295.7 億港元，新單保費 111.5 億港元；總資產 4,533.2 億港元；穆迪維持 A1 評級並將展望上調為「穩定」。"
+      },
+      "why": {
+        "sc": "国寿海外 A1 展望上调+总资产 4,533 亿=中资保司稳健的最新背书。对 IFA：国寿海外是香港最大中资寿险，穆迪展望从「稳定」保持并强调 AI 评级——给偏好中资保司的客户，这是评级机构的最新认可。",
+        "tc": "國壽海外 A1 展望上調+總資產 4,533 億=中資保司穩健的最新背書。對 IFA：這是評級機構對香港最大中資壽險的最新認可。"
+      },
+      "actions": {
+        "front": {
+          "sc": "国寿海外A1=中资稳健背书",
+          "tc": "國壽海外A1=中資穩健背書"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "新浪海南 · 2026年7月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "results",
+        "firm",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "国寿海外",
+          "295.7亿",
+          "穆迪A1",
+          "H1"
+        ],
+        "tc": [
+          "國壽海外",
+          "295.7億",
+          "穆迪A1",
+          "H1"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-07-30T10:00:00+08:00",
+      "originalUrl": "http://hainan.sina.cn/news/zh/2026-07-30/detail-inikpxkp1297539.d.html"
+    },
+    {
       "id": "ia-commission-caps-jul30",
       "clusterCount": 1,
       "score": 78,
@@ -9390,6 +9682,70 @@
       "contentKind": "news",
       "publishedAt": "2026-07-27T10:00:00+08:00",
       "originalUrl": "https://view.inews.qq.com/a/20260806A0BY5000"
+    },
+    {
+      "id": "mpfa-guidelines-2026-07",
+      "clusterCount": 1,
+      "score": 66,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "mpfa",
+      "title": {
+        "sc": "积金局 2026 年 7 月修订五套强积金指引：预设投资策略/权益转移更新",
+        "tc": "積金局 2026 年 7 月修訂五套強積金指引：預設投資策略/權益轉移更新"
+      },
+      "summary": {
+        "sc": "强制性公积金计划管理局 2026 年 7 月发出五套经修订指引：中央证券寄存处（I.7）、股票及其他证券（III.2）、紧贴指数集体投资计划（III.10）、预设投资策略（III.14）、选择转移累算权益（IV.3）；另公布 2026-27 财政预算，聚焦受托人管治、收费透明度及积金易平台全面运作后的新生态。",
+        "tc": "強制性公積金計劃管理局 2026 年 7 月發出五套經修訂指引：中央證券寄存處（I.7）、股票及其他證券（III.2）、緊貼指數集體投資計劃（III.10）、預設投資策略（III.14）、選擇轉移累算權益（IV.3）。"
+      },
+      "why": {
+        "sc": "积金局五套指引修订=强积金监管的常规更新。对 IFA：预设投资策略（DIS）与权益转移指引直接影响客户强积金操作——关注修订内容，是给客户提供强积金整合/转移建议时的合规基础。",
+        "tc": "積金局五套指引修訂=強積金監管的常規更新。對 IFA：預設投資策略（DIS）與權益轉移指引直接影響客戶強積金操作——這是合規基礎。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "五套指引=强积金合规基础",
+          "tc": "五套指引=強積金合規基礎"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 3,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "积金局 · 2026年7月",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "retirement",
+        "reg",
+        "compliance"
+      ],
+      "tags": {
+        "sc": [
+          "积金局",
+          "强积金",
+          "指引修订",
+          "DIS"
+        ],
+        "tc": [
+          "積金局",
+          "強積金",
+          "指引修訂",
+          "DIS"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-07-27T10:00:00+08:00",
+      "originalUrl": "https://www.mpfa.org.hk/sc/info-centre/laws-and-regulations/guidelines"
     },
     {
       "id": "apac-insurers-emergedebt-202607",
@@ -10881,6 +11237,70 @@
       "originalUrl": "https://www.chinalife.com.hk/zh-cn/about-us/news-center"
     },
     {
+      "id": "taiping-h1-2026-profit",
+      "clusterCount": 1,
+      "score": 78,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "yahoofinance",
+      "title": {
+        "sc": "中国太平 2026 H1 业绩预增：归母净利 +85%~95% 至 125-132 亿港元",
+        "tc": "中國太平 2026 H1 業績預增：歸母淨利 +85%~95% 至 125-132 億港元"
+      },
+      "summary": {
+        "sc": "中国太平发布 2026 上半年业绩预增公告：归母净利润预计同比增长 85%-95%（约 125.1-131.9 亿港元），主因投资回报提升（权益市场回暖+2025 年下半年起显著提升权益配置）叠加保险主业稳健。Q1 太平人寿规模保费 +7.6%，NBV 预计上半年 +3.8%。",
+        "tc": "中國太平發佈 2026 上半年業績預增公告：歸母淨利潤預計同比增長 85%-95%（約 125.1-131.9 億港元），主因投資回報提升疊加保險主業穩健。"
+      },
+      "why": {
+        "sc": "太平 H1 净利翻倍=中资保司投资弹性验证。对 IFA：太平（含香港子公司）2026 上半年净利预增近倍，权益配置提升是主因——给偏好中资保司的客户讲「大保司投资能力」时这是最新数据。",
+        "tc": "太平 H1 淨利翻倍=中資保司投資彈性驗證。對 IFA：太平 2026 上半年淨利預增近倍，權益配置提升是主因。"
+      },
+      "actions": {
+        "front": {
+          "sc": "太平净利翻倍=中资投资弹性",
+          "tc": "太平淨利翻倍=中資投資彈性"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "新浪财经/国泰海通 · 2026年7月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "results",
+        "firm",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "中国太平",
+          "H1预增",
+          "85%",
+          "投资回报"
+        ],
+        "tc": [
+          "中國太平",
+          "H1預增",
+          "85%",
+          "投資回報"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-07-18T10:00:00+08:00",
+      "originalUrl": "https://finance.sina.com.cn/stock/relnews/hk/2026-07-20/doc-iniimzhe8222767.shtml"
+    },
+    {
       "id": "safe-qdii-20260717",
       "clusterCount": 1,
       "score": 78,
@@ -11188,6 +11608,70 @@
         "reg"
       ],
       "contentKind": "speech"
+    },
+    {
+      "id": "mpf-q2-2026-inflow",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "yahoofinance",
+      "title": {
+        "sc": "强积金 Q2 净流入 120.5 亿：美国股票基金吸金 95 亿，成员转向 AI 浪潮",
+        "tc": "強積金 Q2 淨流入 120.5 億：美國股票基金吸金 95 億，成員轉向 AI 浪潮"
+      },
+      "summary": {
+        "sc": "积金评级《2026 Q2 强积金资产类别资金流摘要》：Q2 净流入约 120.5 亿港元（同比 +9.41%），总资产约 1.67 万亿港元，平均账户结余 34.75 万；美国股票基金吸金近 95 亿（占净流入逾 78%），保守基金净流出 46%，反映成员转向 AI/科技浪潮；预设投资策略基金吸纳逾 40% 净流入。",
+        "tc": "積金評級《2026 Q2 強積金資產類別資金流摘要》：Q2 淨流入約 120.5 億港元，總資產約 1.67 萬億港元，平均賬戶結餘 34.75 萬；美國股票基金吸金近 95 億（佔淨流入逾 78%），反映成員轉向 AI/科技浪潮。"
+      },
+      "why": {
+        "sc": "Q2 资金流=强积金成员行为的温度计。对 IFA：美国股票基金吸 95 亿+保守基金净流出——「追逐 AI 浪潮」是强积金成员的集体行为，但积金评级提醒短线交易的时机风险。给客户讲长期配置时这是反例素材。",
+        "tc": "Q2 資金流=強積金成員行為的溫度計。對 IFA：美國股票基金吸 95 億+保守基金淨流出——「追逐 AI 浪潮」是強積金成員的集體行為，積金評級提醒短線交易的時機風險。"
+      },
+      "actions": {
+        "front": {
+          "sc": "美股基金吸95亿=成员追AI",
+          "tc": "美股基金吸95億=成員追AI"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "积金评级/新浪财经 · 2026年7月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "retirement",
+        "market",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "强积金",
+          "120.5亿",
+          "美国股票基金",
+          "AI"
+        ],
+        "tc": [
+          "強積金",
+          "120.5億",
+          "美國股票基金",
+          "AI"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-07-16T10:00:00+08:00",
+      "originalUrl": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-16/doc-inihyqhe4458900.shtml"
     },
     {
       "id": "ia-sales-rules-tightening-jul15",
@@ -11560,6 +12044,73 @@
       "originalUrl": "https://www.axa.com.hk/zh/article/axa-announces-strategic-re-domiciliation-to-hong-kong"
     },
     {
+      "id": "picc-hk-ambest-2026",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "verified",
+      "sourceTier": "research",
+      "sourceKey": "swissre",
+      "title": {
+        "sc": "AM Best 上调人保香港评级至 A：2025 香港非寿险第 8、市占 3.8%",
+        "tc": "AM Best 上調人保香港評級至 A：2025 香港非壽險第 8、市佔 3.8%"
+      },
+      "summary": {
+        "sc": "2026 年 7 月，AM Best 将人保香港财务实力评级从 A- 上调至 A（展望稳定）：反映资产负债表实力（BCAR 最强档）、向内再保险业务的持续优质增长；2025 年人保香港列香港非寿险第 8 位（市占 3.8%），并借助人保财险拓展「中国海外利益（CIA）」业务实现双位数增长。",
+        "tc": "2026 年 7 月，AM Best 將人保香港財務實力評級從 A- 上調至 A（展望穩定）：反映資產負債表實力、向內再保險業務的持續優質增長；2025 年人保香港列香港非壽險第 8 位（市佔 3.8%）。"
+      },
+      "why": {
+        "sc": "人保香港 A 评级=中资再保实力的量化背书。对 IFA：人保香港借 CIA（中国海外利益）战略实现双位数增长——「国船港保」「中资走出去」场景下，人保香港是再保险与商业险的主力玩家。",
+        "tc": "人保香港 A 評級=中資再保實力的量化背書。對 IFA：人保香港借 CIA（中國海外利益）戰略實現雙位數增長——「中資走出去」場景下是再保險與商業險的主力玩家。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "人保A评级=中资再保实力",
+          "tc": "人保A評級=中資再保實力"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "CIA业务=中资走出去的保障",
+          "tc": "CIA業務=中資走出去的保障"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 3,
+        "lead": 2,
+        "cross": 4
+      },
+      "source": {
+        "sc": "AM Best · 2026年7月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reinsurance",
+        "firm",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "人保香港",
+          "AM Best",
+          "A评级",
+          "CIA"
+        ],
+        "tc": [
+          "人保香港",
+          "AM Best",
+          "A評級",
+          "CIA"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-07-15T10:00:00+08:00",
+      "originalUrl": "https://www.businesswire.com/news/home/20260715517423/en/AM-Best-Upgrades-Credit-Ratings-of-The-Peoples-Insurance-Company-of-China-Hong-Kong-Limited"
+    },
+    {
       "id": "ia-licence-20260630",
       "title": {
         "sc": "持牌中介统计（截至2026-06-30）：个人持牌约12.25万，经纪公司810家。",
@@ -11699,6 +12250,70 @@
       "contentKind": "report",
       "publishedAt": "2026-07-14T10:00:00+08:00",
       "originalUrl": "https://c.m.163.com/news/a/L1PU69NC0519A0N8.html"
+    },
+    {
+      "id": "generali-fr-100-2026",
+      "clusterCount": 1,
+      "score": 69,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "hkfi",
+      "title": {
+        "sc": "忠意人寿分红实现率：多数年份 100%+，2025 终期红利最高 105%",
+        "tc": "忠意人壽分紅實現率：多數年份 100%+，2025 終期紅利最高 105%"
+      },
+      "summary": {
+        "sc": "忠意人寿（香港）公开披露显示：2017 年以来分红实现率多数年份守于 100% 或以上，2025 报告年度终期红利最高达 105%。公司业务 2016 年正式拓展（较新），部分年期样本仍在积累。集团层面：1831 年创立、全球 50+ 国家经营、管理资产逾 7,000 亿欧元、A.M. Best A+ 评级。",
+        "tc": "忠意人壽（香港）公開披露顯示：2017 年以來分紅實現率多數年份守於 100% 或以上，2025 報告年度終期紅利最高達 105%。集團層面：1831 年創立、全球 50+ 國家經營、管理資產逾 7,000 億歐元、A.M. Best A+ 評級。"
+      },
+      "why": {
+        "sc": "忠意实现率 100%+（历史短但达标）=「小众保司不稳」话术的反例。对 IFA：客户问「不是大牌保司靠不靠谱」，忠意的数据显示——底子（集团 7,000 亿欧+A 级评级）+ 兑现记录（100%+）才是判断标准，品牌大小不是。",
+        "tc": "忠意實現率 100%+（歷史短但達標）=「小眾保司不穩」話術的反例。對 IFA：客戶問「不是大牌保司靠不靠谱」，忠意的數據顯示底子+兌現記錄才是判斷標準。"
+      },
+      "actions": {
+        "front": {
+          "sc": "忠意100%+=小众保司反例",
+          "tc": "忠意100%+=小眾保司反例"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "会计学堂 · 2026年7月",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "par",
+        "product",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "忠意",
+          "实现率",
+          "105%",
+          "A+评级"
+        ],
+        "tc": [
+          "忠意",
+          "實現率",
+          "105%",
+          "A+評級"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-07-14T10:00:00+08:00",
+      "originalUrl": "https://m.acc5.com/news-xinwen/detail_263617.html"
     },
     {
       "id": "agentic-ai-insurance-jul14",
@@ -15120,6 +15735,70 @@
       "contentKind": "report",
       "publishedAt": "2026-06-22T10:00:00+08:00",
       "originalUrl": "https://www.censtatd.gov.hk/tc/web_table.html?id=645-92111"
+    },
+    {
+      "id": "picc-evtol-2026",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "全国首单超轻型 eVTOL 跨境保险落地：深圳承保、香港出单",
+        "tc": "全國首單超輕型 eVTOL 跨境保險落地：深圳承保、香港出單"
+      },
+      "summary": {
+        "sc": "2026 年 6 月，全国首单超轻型 eVTOL（电动垂直起降飞行器）跨境保险在前海落地：人保深圳与人保香港联动，采用「深圳承保、香港出单、跨境分回」模式，为前海低空企业英武智能科技提供香港低空飞行保障，破解内地低空企业赴港投保渠道少、成本高的问题。",
+        "tc": "2026 年 6 月，全國首單超輕型 eVTOL 跨境保險在前海落地：人保深圳與人保香港聯動，採用「深圳承保、香港出單、跨境分回」模式，破解內地低空企業赴港投保渠道少、成本高的問題。"
+      },
+      "why": {
+        "sc": "eVTOL 跨境保险首单=低空经济保险创新样本。对 IFA：低空经济是政策重点，深港协同承保模式（深圳定价+香港出单）是跨境保险的新场景——给企业客户讲「大湾区创新」时这是前沿案例。",
+        "tc": "eVTOL 跨境保險首單=低空經濟保險創新樣本。對 IFA：低空經濟是政策重點，深港協同承保模式是跨境保險的新場景——這是前沿案例。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {},
+        "cross": {
+          "sc": "eVTOL首单=低空经济保险新场景",
+          "tc": "eVTOL首單=低空經濟保險新場景"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 2,
+        "cross": 4
+      },
+      "source": {
+        "sc": "深圳资讯网 · 2026年6月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "product",
+        "cross-border",
+        "insurtech"
+      ],
+      "tags": {
+        "sc": [
+          "eVTOL",
+          "跨境保险",
+          "人保",
+          "低空经济"
+        ],
+        "tc": [
+          "eVTOL",
+          "跨境保險",
+          "人保",
+          "低空經濟"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-06-22T10:00:00+08:00",
+      "originalUrl": "https://www.gba.net.cn/news/2026/25115.html"
     },
     {
       "id": "ia-20260620-goldman-outlook",
@@ -20382,6 +21061,70 @@
       ]
     },
     {
+      "id": "manulife-mpf-fee-cut-202604",
+      "clusterCount": 1,
+      "score": 71,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "manulife",
+      "title": {
+        "sc": "宏利再降强积金费用：29 只基金减幅 5-12%，逾 200 万成员受惠",
+        "tc": "宏利再降強積金費用：29 隻基金減幅 5-12%，逾 200 萬成員受惠"
+      },
+      "summary": {
+        "sc": "宏利于 2026 年 4 月 1 日起进一步调低宏利环球精选（强积金）计划 29 只成份基金管理费（减幅 5%-12%），逾 200 万成员受惠；自 2025 年 11 月加入积金易平台后第二次调费，累计减幅 16%-31%，配合积金局降低行政费目标，将中央化运营节省直接回馈成员。",
+        "tc": "宏利於 2026 年 4 月 1 日起進一步調低宏利環球精選（強積金）計劃 29 隻成份基金管理費（減幅 5%-12%），逾 200 萬成員受惠；自 2025 年 11 月加入積金易平台後第二次調費，累計減幅 16%-31%。"
+      },
+      "why": {
+        "sc": "宏利两度降费=积金易平台降费红利的样本。对 IFA：宏利是香港最大强积金服务商，29 只基金累计降 16-31%——「积金易降费」不是口号，龙头已落地两次。给客户讲强积金整合时这是费用竞争力的硬数据。",
+        "tc": "宏利兩度降費=積金易平台降費紅利的樣本。對 IFA：宏利是香港最大強積金服務商，29 隻基金累計降 16-31%——給客戶講強積金整合時這是費用競爭力的硬數據。"
+      },
+      "actions": {
+        "front": {
+          "sc": "宏利两度降费=龙头示范",
+          "tc": "宏利兩度降費=龍頭示範"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "宏利香港 · 2026年4月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "retirement",
+        "firm",
+        "channel"
+      ],
+      "tags": {
+        "sc": [
+          "宏利",
+          "强积金",
+          "降费",
+          "200万成员"
+        ],
+        "tc": [
+          "宏利",
+          "強積金",
+          "降費",
+          "200萬成員"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-04-20T10:00:00+08:00",
+      "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom/manulife-further-reduces-mpf-fees-for-two-million-members.html"
+    },
+    {
       "id": "ia-20260416-cyber",
       "title": {
         "sc": "APAC 网络风险与保险峰会简报（2026-04-16）。",
@@ -23071,6 +23814,70 @@
       "originalUrl": "https://www.info.gov.hk/gia/general/202603/05/P2026030500278.htm"
     },
     {
+      "id": "cpic-xinan-2026",
+      "clusterCount": 1,
+      "score": 73,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "cpic",
+      "title": {
+        "sc": "太保寿险香港「鑫安逸」：30 年保证复利 3.5%，双币种储蓄险稀缺卖点",
+        "tc": "太保壽險香港「鑫安逸」：30 年保證複利 3.5%，雙幣種儲蓄險稀缺賣點"
+      },
+      "summary": {
+        "sc": "2026 年 3 月 5 日，太保寿险香港推出「鑫安逸」双币种储蓄险：承诺 30 年保证复利 3.5%（港险市场稀缺的高保证收益），支持美元/港币双货币投保，核保宽松（无需体检，慢性病友好），产品总额度 5 亿港元。",
+        "tc": "2026 年 3 月 5 日，太保壽險香港推出「鑫安逸」雙幣種儲蓄險：承諾 30 年保證複利 3.5%（港險市場稀缺的高保證收益），支持美元/港幣雙貨幣投保，產品總額度 5 億港元。"
+      },
+      "why": {
+        "sc": "30 年保证 3.5%=低利率时代的稀缺卖点。对 IFA：港险主流是「低保证+高预期」（保证 0.5-1%），鑫安逸的 3.5% 保证复利是差异化武器——给保守型客户讲「确定性」时这是硬参数，但也需注意总额度限制。",
+        "tc": "30 年保證 3.5%=低利率時代的稀缺賣點。對 IFA：港險主流是「低保證+高預期」，鑫安逸的 3.5% 保證複利是差異化武器——給保守型客戶講「確定性」時這是硬參數。"
+      },
+      "actions": {
+        "front": {
+          "sc": "保证3.5%=保守型客户利器",
+          "tc": "保證3.5%=保守型客戶利器"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "新浪财经 · 2026年3月",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "product",
+        "par",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "太保",
+          "鑫安逸",
+          "3.5%",
+          "保证复利"
+        ],
+        "tc": [
+          "太保",
+          "鑫安逸",
+          "3.5%",
+          "保證複利"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-03-05T10:00:00+08:00",
+      "originalUrl": "https://cj.sina.cn/articles/view/7935760744/1d9021968001017tbo"
+    },
+    {
       "id": "ia-3brokers-aml-429k-202603",
       "clusterCount": 1,
       "score": 74,
@@ -23347,6 +24154,70 @@
       "contentKind": "press",
       "publishedAt": "2026-02-26T10:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/reinsurance_specialty/ILS_HK.html"
+    },
+    {
+      "id": "generali-10life-5star-2026",
+      "clusterCount": 1,
+      "score": 68,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "generali",
+      "title": {
+        "sc": "忠意人寿（香港）7 款产品获 10Life 5 星：年金/储蓄/危疾/终身保障全覆盖",
+        "tc": "忠意人壽（香港）7 款產品獲 10Life 5 星：年金/儲蓄/危疾/終身保障全覆蓋"
+      },
+      "summary": {
+        "sc": "2026 年 2 月，忠意人寿（香港）7 款产品获「10Life 5 星保险大奖 2026」：涵盖延期年金（LionHarvest Prime）、教育储蓄（LionAchiever Elite）、传承储蓄（LionTycoon Beyond 2）、定期危疾（LionGuardian 系列）、终身保障（LionPatron）等。10Life 以精算师视角横向比较 50 多家保司 1,500+ 产品。",
+        "tc": "2026 年 2 月，忠意人壽（香港）7 款產品獲「10Life 5 星保險大獎 2026」：涵蓋延期年金、教育儲蓄、傳承儲蓄、定期危疾、終身保障等。10Life 以精算師視角橫向比較 50 多家保司 1,500+ 產品。"
+      },
+      "why": {
+        "sc": "忠意 7 款 5 星=中小保司产品力的量化证明。对 IFA：客户常把「品牌大」当「产品好」，忠意的案例说明——年金/储蓄/危疾全赛道 5 星，比名气和演示收益更有说服力。",
+        "tc": "忠意 7 款 5 星=中小保司產品力的量化證明。對 IFA：客戶常把「品牌大」當「產品好」，忠意的案例說明全賽道 5 星比名氣更有說服力。"
+      },
+      "actions": {
+        "front": {
+          "sc": "7款5星=忠意产品力证明",
+          "tc": "7款5星=忠意產品力證明"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Media OutReach · 2026年2月",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "product",
+        "par",
+        "annuity"
+      ],
+      "tags": {
+        "sc": [
+          "忠意",
+          "10Life",
+          "5星",
+          "7款"
+        ],
+        "tc": [
+          "忠意",
+          "10Life",
+          "5星",
+          "7款"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-02-26T10:00:00+08:00",
+      "originalUrl": "https://www.thetimes.com.au/news/news-from-asia/48126-generali-hong-kong-receives-multiple-accolades-at-the-10life-5-star-insurance-awards-2026"
     },
     {
       "id": "ia-budget-20260225",
@@ -25295,6 +26166,73 @@
       "contentKind": "press",
       "publishedAt": "2026-01-06T10:00:00+08:00",
       "originalUrl": "https://szfb.sz.gov.cn/xwzx/tzgg/content/post_12581711.html"
+    },
+    {
+      "id": "taiping-yinianlexiang3-2026",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "taiping",
+      "title": {
+        "sc": "太平人寿香港「颐年乐享3」升级：候鸟式旅居养老+分红实现率连续 9 年达标",
+        "tc": "太平人壽香港「頤年樂享3」升級：候鳥式旅居養老+分紅實現率連續 9 年達標"
+      },
+      "summary": {
+        "sc": "太平人寿（香港）2026 年 1 月升级「颐年乐享」至第三代：新增候鸟式深度旅居养老计划、终身 147/257/567 提领方案、预期回报 IRR 更快达到 6.5%、保单暂托功能扩充类信托传承；分红实现率连续 9 年全线产品稳定符合预期。",
+        "tc": "太平人壽（香港）2026 年 1 月升級「頤年樂享」至第三代：新增候鳥式深度旅居養老計劃、終身提領方案、預期回報 IRR 更快達到 6.5%；分紅實現率連續 9 年全線達標。"
+      },
+      "why": {
+        "sc": "颐年乐享3=「跨境养老+储蓄」双场景旗舰。对 IFA：候鸟式旅居+9 年实现率达标——太平把养老社区权益与储蓄险绑定的模式，是给退休客户讲「养老规划」时中资保司的差异化样本。",
+        "tc": "頤年樂享3=「跨境養老+儲蓄」雙場景旗艦。對 IFA：候鳥式旅居+9 年實現率達標——太平把養老社區權益與儲蓄險綁定的模式，是中資保司的差異化樣本。"
+      },
+      "actions": {
+        "front": {
+          "sc": "颐年乐享3=养老+储蓄双场景",
+          "tc": "頤年樂享3=養老+儲蓄雙場景"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {
+          "sc": "旅居养老=跨境养老新模式",
+          "tc": "旅居養老=跨境養老新模式"
+        }
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 1,
+        "lead": 2,
+        "cross": 3
+      },
+      "source": {
+        "sc": "太平人寿（香港） · 2026年1月",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "product",
+        "par",
+        "retirement"
+      ],
+      "tags": {
+        "sc": [
+          "太平",
+          "颐年乐享3",
+          "旅居养老",
+          "9年"
+        ],
+        "tc": [
+          "太平",
+          "頤年樂享3",
+          "旅居養老",
+          "9年"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-01-05T10:00:00+08:00",
+      "originalUrl": "https://c.m.163.com/news/a/KIH7JB0Q0519DBCS.html"
     },
     {
       "id": "aia-2025-annual-vonb-202603",
@@ -31707,6 +32645,73 @@
       "originalUrl": "https://www.aia.com.hk/en/about-aia/about-us/media-centre/press-releases/2026/aia-press-release-20260608"
     },
     {
+      "id": "ia-tahoe-managers-change-202412",
+      "clusterCount": 1,
+      "score": 68,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "泰禾人寿经理团队变更：德勤何国樑、陈文海加入，2024-12-17",
+        "tc": "泰禾人壽經理團隊變更：德勤何國樑、陳文海加入，2024-12-17"
+      },
+      "summary": {
+        "sc": "2024 年 12 月 17 日，保监局根据《保险业条例》第 38E(3) 条委任德勤何国樑、陈文海为泰禾人寿共同及各别经理，填补两位辞职经理空缺；与现任经理郑文龙共同维持泰禾正常运作。委任经理变更不影响保单条款及条件。",
+        "tc": "2024 年 12 月 17 日，保監局根據《保險業條例》第 38E(3) 條委任德勤何國樑、陳文海為泰禾人壽共同及各別經理，填補兩位辭職經理空缺；與現任經理鄭文龍共同維持泰禾正常運作。"
+      },
+      "why": {
+        "sc": "泰禾经理更替=接管处置的持续运作细节。对 IFA：泰禾接管（2024-07-26）后经理团队有成员辞职并有新人补位——监管的「接管后持续管理」机制在运转，保单不受影响。这是给客户讲「接管不是结束，是持续保护」的补充证据。",
+        "tc": "泰禾經理更替=接管處置的持續運作細節。對 IFA：泰禾接管後經理團隊有成員辭職並有新人補位——監管的「接管後持續管理」機制在運轉，保單不受影響。"
+      },
+      "actions": {
+        "front": {
+          "sc": "经理更替=接管机制持续运转",
+          "tc": "經理更替=接管機制持續運轉"
+        },
+        "midback": {
+          "sc": "接管后管理=保单保护持续",
+          "tc": "接管後管理=保單保護持續"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 3,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "保监局 · 2024年12月",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "reg",
+        "firm",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "泰禾",
+          "经理变更",
+          "德勤",
+          "接管"
+        ],
+        "tc": [
+          "泰禾",
+          "經理變更",
+          "德勤",
+          "接管"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2024-12-17T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20241217.html"
+    },
+    {
       "id": "ia-20241205-annual-2024",
       "clusterCount": 1,
       "score": 85,
@@ -34007,6 +35012,73 @@
       "originalUrl": "https://www.chubb.com/hk-en/personal/cias.html"
     },
     {
+      "id": "mcv-q1-2024-record",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "2024 Q1 内地访客新单保费 156 亿创五年新高：同比 +62.6%",
+        "tc": "2024 Q1 內地訪客新單保費 156 億創五年新高：同比 +62.6%"
+      },
+      "summary": {
+        "sc": "据保监局 2024 年第一季度临时统计：内地访客新增保单保费 156 亿港元创五年新高（同比 +62.6%），占个人业务总新单保费 24%，保单数约 5.2 万张（+51.7%）。该季度全港新单保费约 469 亿，整体市场热度延续。",
+        "tc": "據保監局 2024 年第一季度臨時統計：內地訪客新增保單保費 156 億港元創五年新高（同比 +62.6%），佔個人業務總新單保費 24%，保單數約 5.2 萬張（+51.7%）。"
+      },
+      "why": {
+        "sc": "2024 Q1 访客 156 亿=全面通关后的需求峰值。对 IFA：这是理解「为什么 2024 全年访客贡献 628 亿」的起点——Q1 单季 156 亿创五年新高，占比 24%。给客户讲跨境需求的趋势时，这条时间线数据是基础。",
+        "tc": "2024 Q1 訪客 156 億=全面通關後的需求峰值。對 IFA：這是理解「為什麼 2024 全年訪客貢獻 628 億」的起點——Q1 單季 156 億創五年新高。"
+      },
+      "actions": {
+        "front": {
+          "sc": "Q1访客156亿=需求峰值起点",
+          "tc": "Q1訪客156億=需求峰值起點"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {
+          "sc": "访客数据=跨境需求温度计",
+          "tc": "訪客數據=跨境需求溫度計"
+        }
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 1,
+        "cross": 3
+      },
+      "source": {
+        "sc": "保监局 Q1 2024 统计 · 2024年4月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "market",
+        "cross-border",
+        "statistics"
+      ],
+      "tags": {
+        "sc": [
+          "内地访客",
+          "156亿",
+          "2024Q1",
+          "五年新高"
+        ],
+        "tc": [
+          "內地訪客",
+          "156億",
+          "2024Q1",
+          "五年新高"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2024-04-26T10:00:00+08:00",
+      "originalUrl": "https://finance.sina.cn/insurance/gsdt/2024-08-13/detail-incinynh8559223.d.html"
+    },
+    {
       "id": "ia-cashier-order-circular-202404",
       "clusterCount": 1,
       "score": 74,
@@ -34811,234 +35883,6 @@
       "contentKind": "press",
       "publishedAt": "2024-01-15T10:00:00+08:00",
       "originalUrl": "https://www.kennedyslaw.com/en/thought-leadership/article/2024/hong-kong-regulatory-insurance-update-january-2024/"
-    },
-    {
-      "id": "boclife-deloitte-hnw-succession-20260813",
-      "clusterCount": 1,
-      "score": 78,
-      "verifyStatus": "verified",
-      "sourceTier": "insurer",
-      "sourceKey": "boclife:deloitte-hnw-20260813",
-      "title": {
-        "sc": "中银人寿与Deloitte Private启动高净值客户财富传承合作 联合推出《财富之光，照亮世代》手册",
-        "tc": "中銀人壽與Deloitte Private啟動高淨值客戶財富傳承合作 聯合推出《財富之光，照亮世代》手冊"
-      },
-      "summary": {
-        "sc": "中银人寿8月13日宣布与德勤民营企业与私人客户服务（Deloitte Private）启动高净值客户财富传承合作计划，围绕跨代传承、合规安排与长远规划展开，并联合推出《财富之光，照亮世代》专题手册。中银人寿执行总裁邓子平与德勤中国香港业务主管合伙人黄文标见证签署，双方将结合保险方案与税务、家族治理及传承专业能力，打造客制化传承方案。",
-        "tc": "中銀人壽8月13日宣佈與德勤民營企業與私人客戶服務（Deloitte Private）啟動高淨值客戶財富傳承合作計劃，圍繞跨代傳承、合規安排與長遠規劃展開，並聯合推出《財富之光，照亮世代》專題手冊。中銀人壽執行總裁鄧子平與德勤中國香港業務主管合夥人黃文標見證簽署，雙方將結合保險方案與稅務、家族治理及傳承專業能力，打造客製化傳承方案。"
-      },
-      "why": {
-        "sc": "港险高净值/家办赛道的典型协作样本：保司与四大专业机构合流切入跨代传承与合规，反映香港跃升全球最大跨境财富管理中心后的红利外溢，是观察家办主题与保司战略的窗口。",
-        "tc": "港險高淨值/家辦賽道的典型協作樣本：保司與四大專業機構合流切入跨代傳承與合規，反映香港躍升全球最大跨境財富管理中心後的紅利外溢，是觀察家辦主題與保司戰略的窗口。"
-      },
-      "actions": {
-        "front": {},
-        "midback": {
-          "sc": "保司×德勤合流=传承合规范式",
-          "tc": "保司×德勤合流=傳承合規範式"
-        },
-        "lead": {
-          "sc": "高净值客群服务升级=渠道卖点",
-          "tc": "高淨值客群服務升級=渠道賣點"
-        },
-        "cross": {
-          "sc": "跨境财富传承=家办协同入口",
-          "tc": "跨境財富傳承=家辦協同入口"
-        }
-      },
-      "rolesImpact": {
-        "front": 1,
-        "midback": 2,
-        "lead": 2,
-        "cross": 2
-      },
-      "source": {
-        "sc": "中银人寿官网新闻稿",
-        "lang": "zh"
-      },
-      "boards": [
-        "family"
-      ],
-      "themes": [
-        "family-office",
-        "hnw"
-      ],
-      "tags": {
-        "sc": [
-          "中银人寿",
-          "德勤",
-          "高净值",
-          "财富传承",
-          "家办"
-        ],
-        "tc": [
-          "中銀人壽",
-          "德勤",
-          "高淨值",
-          "財富傳承",
-          "家辦"
-        ]
-      },
-      "contentKind": "press",
-      "publishedAt": "2026-08-13T00:00:00+08:00",
-      "originalUrl": "https://www.boclife.com.hk/sc/news.html",
-      "ingestedAt": "2026-08-15T18:20:06+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
-    },
-    {
-      "id": "cmbi-mcv-downside-20260810",
-      "clusterCount": 1,
-      "score": 70,
-      "verifyStatus": "verified",
-      "sourceTier": "pro",
-      "sourceKey": "aastocks:cmbi-mcv-downside-20260810",
-      "title": {
-        "sc": "招银国际：内地访客新保单销售存下行风险 长期需求仍有增长空间",
-        "tc": "招銀國際：內地訪客新保單銷售存下行風險 長期需求仍有增長空間"
-      },
-      "summary": {
-        "sc": "招银国际8月10日报告指，内地税务机关对离岸保单投资回报征税的消息令友邦、保诚股价一度跌逾8%及5%，市场对离岸新业务销售及价值增长转趋审慎。该行认为抛售过度，因内地访客离岸保险需求难被税收完全消灭，征税主要影响分红及预缴保费利息，纯保障型产品不受影响；但短期内访客新单销售仍存下行风险，因客户需时间重新评估风险回报。",
-        "tc": "招銀國際8月10日報告指，內地稅務機關對離岸保單投資回報徵稅的消息令友邦、保誠股價一度跌逾8%及5%，市場對離岸新業務銷售及價值增長轉趨審慎。該行認為拋售過度，因內地訪客離岸保險需求難被稅收完全消滅，徵稅主要影響分紅及預繳保費利息，純保障型產品不受影響；但短期內訪客新單銷售仍存下行風險，因客戶需時間重新評估風險回報。"
-      },
-      "why": {
-        "sc": "大行对征税冲击的量化拆解：区分分红/预缴利息与纯保障的税负边界，给出「短期下行、长期需求仍在」的判断，为中后台评估MCV客群风险提供参照。",
-        "tc": "大行對徵稅衝擊的量化拆解：區分分紅/預繳利息與純保障的稅負邊界，給出「短期下行、長期需求仍在」的判斷，為中後台評估MCV客群風險提供參照。"
-      },
-      "actions": {
-        "front": {
-          "sc": "短期MCV销售承压=展业节奏提示",
-          "tc": "短期MCV銷售承壓=展業節奏提示"
-        },
-        "midback": {
-          "sc": "税负边界拆解=合规评估要点",
-          "tc": "稅負邊界拆解=合規評估要點"
-        },
-        "lead": {},
-        "cross": {}
-      },
-      "rolesImpact": {
-        "front": 1,
-        "midback": 2,
-        "lead": 1,
-        "cross": 1
-      },
-      "source": {
-        "sc": "阿思达克财经网（招银国际报告）",
-        "lang": "zh"
-      },
-      "boards": [
-        "market"
-      ],
-      "themes": [
-        "mcv",
-        "taxation"
-      ],
-      "tags": {
-        "sc": [
-          "招银国际",
-          "内地访客",
-          "征税",
-          "新单销售",
-          "MCV"
-        ],
-        "tc": [
-          "招銀國際",
-          "內地訪客",
-          "徵稅",
-          "新單銷售",
-          "MCV"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2026-08-10T10:46:00+08:00",
-      "originalUrl": "http://www.aastocks.com/en/stocks/news/aafn-con/NOW.1537340/top-news/AAFN?totc=1",
-      "ingestedAt": "2026-08-15T18:20:06+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
-    },
-    {
-      "id": "hkfi-wong-insurtech-interview-20260815",
-      "clusterCount": 1,
-      "score": 62,
-      "verifyStatus": "verified",
-      "sourceTier": "media",
-      "sourceKey": "letschuhai:hkfi-wong-interview-20260815",
-      "title": {
-        "sc": "香港保险业联会主席黄子逊专访：香港是保险科技开疆拓土理想地 南沙前海拟设售后服务中心",
-        "tc": "香港保險業聯會主席黃子遜專訪：香港是保險科技開疆拓土理想地 南沙前海擬設售後服務中心"
-      },
-      "summary": {
-        "sc": "香港保险业联会主席黄子逊接受36氪出海专访指，香港凭「一国两制」优势兼作内外循环交汇点，计划在南沙、前海成立保险售后服务中心，为持港单的大湾区居民提供理赔续保支持，加速两地保险市场互联互通；并鼓励大型国企民企来港设专属自保公司，集中管理「一带一路」海外项目风险。他同时强调跨境监管协作与人才交流的重要性。",
-        "tc": "香港保險業聯會主席黃子遜接受36氪出海專訪指，香港憑「一國兩制」優勢兼作內外循環交匯點，計劃在南沙、前海成立保險售後服務中心，為持港單的大灣區居民提供理賠續保支持，加速兩地保險市場互聯互通；並鼓勵大型國企民企來港設專屬自保公司，集中管理「一帶一路」海外項目風險。他同時強調跨境監管協作與人才交流的重要性。"
-      },
-      "why": {
-        "sc": "业内高层对港险跨境下一步的定调：售后服务中心落地南沙前海将直接缓解内地客理赔续保痛点，是渠道与服务的结构性利好，值得跨境架构与前线角色持续跟踪。",
-        "tc": "業內高層對港險跨境下一步的定調：售後服務中心落地南沙前海將直接緩解內地客理賠續保痛點，是渠道與服務的結構性利好，值得跨境架構與前線角色持續跟蹤。"
-      },
-      "actions": {
-        "front": {
-          "sc": "售后中心落地=内地客服务便利化",
-          "tc": "售後中心落地=內地客服務便利化"
-        },
-        "midback": {},
-        "lead": {},
-        "cross": {
-          "sc": "南沙前海=跨境架构新节点",
-          "tc": "南沙前海=跨境架構新節點"
-        }
-      },
-      "rolesImpact": {
-        "front": 2,
-        "midback": 1,
-        "lead": 1,
-        "cross": 2
-      },
-      "source": {
-        "sc": "36氪出海（香港保险业联会主席专访）",
-        "lang": "zh"
-      },
-      "boards": [
-        "tech"
-      ],
-      "themes": [
-        "insurtech",
-        "cross-border"
-      ],
-      "tags": {
-        "sc": [
-          "香港保联",
-          "保险科技",
-          "大湾区",
-          "售后服务中心",
-          "跨境"
-        ],
-        "tc": [
-          "香港保聯",
-          "保險科技",
-          "大灣區",
-          "售後服務中心",
-          "跨境"
-        ]
-      },
-      "contentKind": "news",
-      "publishedAt": "2026-08-15T09:18:13+08:00",
-      "originalUrl": "https://letschuhai.com/insurance-industry-asia-insurance",
-      "ingestedAt": "2026-08-15T18:20:06+08:00",
-      "contentRole": {
-        "sc": "本站导读",
-        "tc": "本站導讀"
-      },
-      "featured": false,
-      "evergreen": false
     }
   ],
   "calendar": [
@@ -39954,34 +40798,34 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 480 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 480 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 493 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 493 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 480,
+      "totalItems": 493,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 182,
+          "count": 184,
           "label": "监管一手"
         },
         {
           "tier": "insurer",
-          "count": 118,
+          "count": 122,
           "label": "保司公告"
         },
         {
           "tier": "media",
-          "count": 111,
+          "count": 116,
           "label": "媒体报道"
         },
         {
           "tier": "pro",
-          "count": 51,
+          "count": 52,
           "label": "专业解读"
         },
         {
           "tier": "research",
-          "count": 18,
+          "count": 19,
           "label": "机构研究"
         }
       ],
@@ -40050,47 +40894,47 @@
       "topThemes": [
         {
           "theme": "market",
-          "count": 155,
+          "count": 159,
           "label": "市场"
         },
         {
           "theme": "reg",
-          "count": 101,
+          "count": 103,
           "label": "监管"
         },
         {
           "theme": "firm",
-          "count": 87,
+          "count": 94,
           "label": "保司"
         },
         {
           "theme": "product",
-          "count": 72,
+          "count": 77,
           "label": "产品"
         },
         {
           "theme": "offshore",
-          "count": 67,
+          "count": 68,
           "label": "跨境"
         },
         {
           "theme": "compliance",
-          "count": 64,
+          "count": 65,
           "label": "合规"
         },
         {
           "theme": "macro",
-          "count": 45,
+          "count": 47,
           "label": "宏观"
         },
         {
           "theme": "channel",
-          "count": 38,
+          "count": 39,
           "label": "渠道"
         },
         {
           "theme": "reinsurance",
-          "count": 28,
+          "count": 29,
           "label": "reinsurance"
         },
         {
