@@ -42702,12 +42702,6 @@ window.HKII_DATA = {
     }
     // 全部动态：信源 × 文种（细维度）
     if (state.view === "all") {
-    const q0 = (state.searchQuery||'').trim().toLowerCase();
-    if(q0){
-      const raw = searchItems(q0, DATA.items||[]);
-      html+=`<div class="search-results">搜索「${esc(q0)}」· 找到 ${raw.length} 条</div>`;
-      html+=feed(list({items:raw,page:state.allPage,pageSize:state.allPageSize}, t));
-    }
       if (state.feedTier && state.feedTier !== "all") arr = arr.filter(i => i.sourceTier === state.feedTier);
       if (state.feedKind && state.feedKind !== "all") arr = arr.filter(i => (i.contentKind || "other") === state.feedKind);
     } else if (state.themeFilter && state.themeFilter !== "all") {
@@ -43501,8 +43495,9 @@ ${t.brandName} · ${t.disc}
   $("#nav").addEventListener("click", e=>{ const b=e.target.closest("[data-view]"); if(!b) return; state.view=b.dataset.view; state.themeFilter="all"; state.feedTier="all"; state.feedKind="all"; if(b.dataset.view!=="themes") state.themeBoard=null; $("#sidebar").classList.remove("open"); render(); });
   $("#rolePills").addEventListener("click", e=>{ const b=e.target.closest("[data-role]"); if(!b) return; state.role=b.dataset.role; localStorage.setItem("hkii_role", state.role); render(); });
   $("#q").addEventListener("input", e=>{ state.q=e.target.value; localStorage.setItem("hkii_q",state.q); render(); });
+  $("#searchBox").addEventListener("click", e=>{ const hs=e.target.closest("[data-hotsearch]"); if(!hs) return; state.q=hs.dataset.hotsearch; document.getElementById("q").value=state.q; const hd=document.getElementById("hotsearchDropdown"); if(hd) hd.style.display="none"; render(); });
   $("#content").addEventListener("click", e=>{
-    const ft2=e.target.closest("#facetToggle"); if(ft2){ const fm=document.getElementById("facetMore"); if(fm) fm.style.display=fm.style.display==="none"?"":"none"; ft2.textContent=fm.style.display==="none"?"文种 ▾":"文种 ▴"; return; }const hs=e.target.closest("[data-hotsearch]"); if(hs){ state.q=hs.dataset.hotsearch; document.getElementById("q").value=state.q; document.getElementById("hotsearchDropdown").style.display="none"; render(); return; }const hc=e.target.closest("[data-hot]"); if(hc){ state.q=hc.dataset.hot; document.getElementById("q").value=state.q; render(); return; }
+    const ft2=e.target.closest("#facetToggle"); if(ft2){ const fm=document.getElementById("facetMore"); if(fm) fm.style.display=fm.style.display==="none"?"":"none"; ft2.textContent=fm.style.display==="none"?"文种 ▾":"文种 ▴"; return; }const hc=e.target.closest("[data-hot]"); if(hc){ state.q=hc.dataset.hot; document.getElementById("q").value=state.q; render(); return; }
     const email=e.target.closest("[data-email-digest]"); if(email){ e.stopPropagation(); const box=email.parentElement.nextElementSibling; box.style.display=box.style.display==="none"?"block":"none"; return; }
     const fav=e.target.closest("[data-fav]"); if(fav){ e.stopPropagation(); const id=fav.dataset.fav; state.fav.has(id)?state.fav.delete(id):state.fav.add(id); localStorage.setItem("hkii_fav", JSON.stringify([...state.fav])); render(); return; }
     const favtag=e.target.closest("[data-favtag]"); if(favtag){ state.favTag = favtag.dataset.favtag || null; render(); return; }
