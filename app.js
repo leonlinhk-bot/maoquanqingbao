@@ -40572,6 +40572,13 @@ window.HKII_DATA = {
         "reg",
         "compliance",
         "career"
+      ],
+      "subs": [
+        "reg",
+        "compliance",
+        "career",
+        "taxation",
+        "pricing"
       ]
     },
     {
@@ -40590,6 +40597,17 @@ window.HKII_DATA = {
         "product",
         "par",
         "uw"
+      ],
+      "subs": [
+        "product",
+        "par",
+        "uw",
+        "health",
+        "retirement",
+        "annuity",
+        "claims",
+        "underwriting",
+        "distribution"
       ]
     },
     {
@@ -40606,6 +40624,16 @@ window.HKII_DATA = {
       },
       "matchThemes": [
         "firm"
+      ],
+      "subs": [
+        "firm",
+        "results",
+        "reinsurance",
+        "captive",
+        "esg",
+        "ils",
+        "natcat",
+        "marine"
       ]
     },
     {
@@ -40622,6 +40650,12 @@ window.HKII_DATA = {
       },
       "matchThemes": [
         "tech"
+      ],
+      "subs": [
+        "tech",
+        "insurtech",
+        "ai",
+        "cyber"
       ]
     },
     {
@@ -40639,6 +40673,20 @@ window.HKII_DATA = {
       "matchThemes": [
         "channel",
         "macro"
+      ],
+      "subs": [
+        "market",
+        "macro",
+        "channel",
+        "offshore",
+        "cross-border",
+        "statistics",
+        "capital",
+        "monetary",
+        "china",
+        "hnw",
+        "international",
+        "sme"
       ]
     },
     {
@@ -40658,13 +40706,12 @@ window.HKII_DATA = {
         "intl"
       ],
       "subs": [
+        "family-office",
+        "global-wealth",
+        "benchmark",
         "identity-planning",
-        "elite-education",
         "global-allocation",
-        "corporate-service",
-        "capital-market",
-        "risk-management",
-        "property-investment"
+        "fo-ecosystem"
       ]
     }
   ],
@@ -42027,7 +42074,7 @@ window.HKII_DATA = {
         {
           "theme": "reinsurance",
           "count": 29,
-          "label": "reinsurance"
+          "label": "再保险"
         },
         {
           "theme": "family-office",
@@ -42383,13 +42430,13 @@ window.HKII_DATA = {
       views:{
         dashboard:{t:"情报看板",s:"市场数据实时仪表板 · 源头可溯 · 数字搬运"},pulse:{t:"今日脉搏",s:"热点: 近14天官方高分自动上榜 · 精选: 评分×角色匹配动态排序"},
         all:{t:"全部动态",s:"全量信息流 · 按信源/文种细筛（≠主题雷达）"},
-        daily:{t:"角色日报",s:"固定节奏的专业早报"},download:{t:"数据下载",s:"按日/周/月/年打包导出 Markdown · 原文可溯"},
+        daily:{t:"角色日报",s:"近14天要闻按角色自动聚合"},download:{t:"数据下载",s:"按日/周/月/年打包导出 Markdown · 原文可溯"},
         themes:{t:"主题雷达",s:"六大业务板块地图 · 战略导航，不是信息流细筛"},
         deeps:{t:"监管深度",s:"重大事件完整画像 · 时间线 · 影响矩阵 · FAQ · 关联条目"},calendar:{t:"事件日历",s:"关键事件 · 生效日 · 行业节点"},
         fav:{t:"收藏",s:"保存在本机"},
         agent:{t:"Agent 接入",s:"JSON Feed · RSS · llms.txt"},changelog:{t:"更新日志",s:"功能与数据变更记录"},about:{t:"关于",s:"定位、原则与免责"}
       },
-      themes:{reg:"监管",product:"产品",channel:"渠道人力",macro:"宏观资产",par:"分红实现率",uw:"核保理赔",compliance:"合规实操",offshore:"跨境离岸",firm:"机构竞争",tech:"科技运营",career:"职业CPD",intl:"国际对标"},
+      themes:{reg:"监管",product:"产品",channel:"渠道人力",macro:"宏观资产",par:"分红实现率",uw:"核保理赔",compliance:"合规实操",offshore:"跨境离岸",firm:"机构竞争",tech:"科技运营",career:"职业CPD",intl:"国际对标",taxation:"税务",pricing:"定价",health:"健康医疗",retirement:"退休养老",annuity:"年金",claims:"理赔",underwriting:"核保",distribution:"分销",results:"业绩",reinsurance:"再保险",captive:"专属自保",esg:"ESG",ils:"保险相连证券",natcat:"巨灾",marine:"海事",insurtech:"保险科技",ai:"人工智能",cyber:"网络风险",market:"市场","cross-border":"跨境",statistics:"统计",capital:"资本市场",monetary:"货币",china:"内地",hnw:"高净值",sme:"中小企业","family-office":"家办","global-wealth":"全球财富",benchmark:"对标","identity-planning":"身份规划","global-allocation":"全球配置","fo-ecosystem":"家办生态"},
       tier:{official:"一手监管",insurer:"保司官方",broker:"经纪行",pro:"专业解读",media:"媒体"},
       hot:"热点", allChip:"全部", searchPh:"搜索标题/摘要/标签…", empty:"无匹配结果",
       verified:"已核原文", pending:"待复核", score:"评分", cluster:"源同题", why:"为什么重要",
@@ -42421,7 +42468,7 @@ window.HKII_DATA = {
         "分红实现率","佣金递延","演示利率上限","保费融资","GN16",
         "CPD学时","家办税务","跨境理财通","转介费","RBC"
       ],
-      themesIntro:"点击主题进入全部动态并筛选。", calH:"关键节点", dailyArchive:"往期快速回看", dailyLead:"按区块聚合的专业早报。排序随角色变化。",
+      themesIntro:"点击主题进入全部动态并筛选。", calH:"关键节点", dailyArchive:"往期快速回看", dailyLead:"近14天高分条目按4个角色自动聚合 · 与主题雷达分工：雷达看主题结构，日报看时间快照",
       evergreen:"生效中 · 常驻",
       archiveTabs:{daily:"日报",weekly:"周报",monthly:"月报",yearly:"年报"},
       downloadHint:"日报、周报可下载 Markdown。月报、年报仅可在线查阅，不提供下载。也可发送到邮箱。数字与规则以原文链接为准。",
@@ -42475,13 +42522,13 @@ window.HKII_DATA = {
       views:{
         dashboard:{t:"情報看板",s:"市場數據實時儀表板 · 源頭可溯 · 數字搬運"},pulse:{t:"今日脈搏",s:"熱點: 近14天官方高分自動上榜 · 精選: 評分×角色匹配動態排序"},
         all:{t:"全部動態",s:"全量資訊流 · 按信源/文種細篩（≠主題雷達）"},
-        daily:{t:"角色日報",s:"固定節奏的專業早報"},download:{t:"數據下載",s:"按日/週/月/年打包導出 Markdown · 原文可溯"},
+        daily:{t:"角色日報",s:"近14天要聞按角色自動聚合"},download:{t:"數據下載",s:"按日/週/月/年打包導出 Markdown · 原文可溯"},
         themes:{t:"主題雷達",s:"六大業務板塊地圖 · 戰略導航，不是資訊流細篩"},
         deeps:{t:"監管深度",s:"重大事件完整畫像 · 時間線 · 影響矩陣 · FAQ · 關聯條目"},calendar:{t:"事件日曆",s:"關鍵事件 · 生效日 · 行業節點"},
         fav:{t:"收藏",s:"保存在本機"},
         agent:{t:"Agent 接入",s:"JSON Feed · RSS · llms.txt"},changelog:{t:"更新日誌",s:"功能與數據變更記錄"},about:{t:"關於",s:"定位、原則與免責"}
       },
-      themes:{reg:"監管",product:"產品",channel:"渠道人力",macro:"宏觀資產",par:"分紅實現率",uw:"核保理賠",compliance:"合規實操",offshore:"跨境離岸",firm:"機構競爭",tech:"科技運營",career:"職業CPD",intl:"國際對標"},
+      themes:{reg:"監管",product:"產品",channel:"渠道人力",macro:"宏觀資產",par:"分紅實現率",uw:"核保理賠",compliance:"合規實操",offshore:"跨境離岸",firm:"機構競爭",tech:"科技運營",career:"職業CPD",intl:"國際對標",taxation:"稅務",pricing:"定價",health:"健康醫療",retirement:"退休養老",annuity:"年金",claims:"理賠",underwriting:"核保",distribution:"分銷",results:"業績",reinsurance:"再保險",captive:"專屬自保",esg:"ESG",ils:"保險相連證券",natcat:"巨災",marine:"海事",insurtech:"保險科技",ai:"人工智能",cyber:"網絡風險",market:"市場","cross-border":"跨境",statistics:"統計",capital:"資本市場",monetary:"貨幣",china:"內地",hnw:"高淨值",sme:"中小企業","family-office":"家辦","global-wealth":"全球財富",benchmark:"對標","identity-planning":"身份規劃","global-allocation":"全球配置","fo-ecosystem":"家辦生態"},
       tier:{official:"一手監管",insurer:"保司官方",broker:"經紀行",pro:"專業解讀",media:"媒體"},
       hot:"當前熱點", allChip:"全部", searchPh:"搜尋標題 / 摘要 / 標籤…", empty:"沒有匹配的條目。",
       verified:"已核原文", pending:"待複核", score:"評分", cluster:"源同題", why:"為什麼重要",
@@ -42513,7 +42560,7 @@ window.HKII_DATA = {
         "分紅實現率","佣金遞延","演示利率上限","保費融資","GN16",
         "CPD學時","家辦稅務","跨境理財通","轉介費","RBC"
       ],
-      themesIntro:"點擊主題進入全部動態並篩選。", calH:"關鍵節點", dailyArchive:"往期快速回看", dailyLead:"按區塊聚合的專業早報。排序隨角色變化。",
+      themesIntro:"點擊主題進入全部動態並篩選。", calH:"關鍵節點", dailyArchive:"往期快速回看", dailyLead:"近14天高分條目按4個角色自動聚合 · 與主題雷達分工：雷達看主題結構，日報看時間快照",
       evergreen:"生效中 · 常駐",
       archiveTabs:{daily:"日報",weekly:"週報",monthly:"月報",yearly:"年報"},
       downloadHint:"日報、週報可下載 Markdown。月報、年報僅可在線查閱，不提供下載。也可發送到郵箱。數字與規則以原文鏈接為準。",
@@ -42953,11 +43000,16 @@ function fmtDay(iso){
       html+=feed(list({favOnly:true}));
     }
     else if(state.view==="daily"){
-      const d=DATA.daily||{date:"",sections:[]};
-      html+=`<div class="panel"><h3>${meta.t} · ${esc(d.date||"")}</h3><p>${t.dailyLead}</p></div>`;
-      (d.sections||[]).forEach(sec=>{
-        const items=(sec.itemIds||[]).map(byId).filter(Boolean).filter(matches);
-        html+=`<div class="day-head"><h3>${esc(tx(sec.title))}</h3><span>${items.length} ${t.dayUnit}</span></div>${items.map(card).join("")||`<div class="empty">${t.empty}</div>`}`;
+      // 自动聚合：近14天按4个角色切片（与主题雷达分工：雷达看空间结构，日报看时间快照）
+      const cutoff = new Date(Date.now() - 14*24*3600*1000).toISOString().slice(0,10);
+      const recent = DATA.items.filter(i => (i.publishedAt||"").slice(0,10) >= cutoff);
+      const roles = (DATA.meta && DATA.meta.roles) || [];
+      const todayStr = new Date().toISOString().slice(0,10);
+      html+=`<div class="panel"><h3>${meta.t} · ${todayStr}</h3><p>${t.dailyLead}</p></div>`;
+      roles.forEach(role=>{
+        const items = recent.filter(i => ((i.rolesImpact||{})[role.id]||0) >= 3).filter(matches)
+          .sort((a,b)=> (b.score||0)-(a.score||0)).slice(0, 8);
+        html+=`<div class="day-head"><h3>${esc(tx(role.label))}</h3><span>${items.length} ${t.dayUnit}</span></div>${items.map(card).join("")||`<div class="empty">${t.empty}</div>`}`;
       });
     } else if(state.view==="deeps"){
       const cards = DATA.deepCards || [];
@@ -43013,7 +43065,7 @@ function fmtDay(iso){
           <button type="button" class="pill" data-board-back="1">← ${t.boardBack||"返回"}</button>
           <h3>${esc(tx(b.title))}</h3>
           <p>${esc(tx(b.desc)||"")}</p>
-          <div class="taxon-subs">${(b.subs||[]).map(s=>`<span class="chip chip-sub" data-theme-filter="${s}">#${s}</span>`).join(" ")}</div>
+          <div class="taxon-subs">${(b.subs||[]).map(s=>`<span class="chip chip-sub" data-theme-filter="${s}">${esc(t.themes[s]||s)}</span>`).join(" ")}</div>
           <p style="font-size:12px;color:var(--text-dim);margin-top:8px">${its.length} ${t.boardCount||"条导读"}</p>
         </div>`;
         html += its.length ? feed(its) : `<div class="empty">${t.empty}</div>`;
@@ -43025,11 +43077,15 @@ function fmtDay(iso){
         </div>`;
         html += `<div class="taxon-grid">` + boards.map(b=>{
           const n = byBoard(b.id).length;
+          const th = (k) => DATA.items.filter(it => (it.themes||[]).includes(k)).length;
+          const subs = (b.subs||[]).map(k => ({key:k, n:th(k)})).filter(x=>x.n>0).sort((a,b)=>b.n-a.n);
+          const maxN = subs.length ? subs[0].n : 1;
+          const themeLabel = (k) => t.themes[k] || k;
           return `<button type="button" class="taxon-card" data-board="${b.id}">
             <div class="taxon-name">${esc(tx(b.title))}</div>
             <div class="taxon-n">${n} 条</div>
             <p class="taxon-desc">${esc(tx(b.desc)||"")}</p>
-            <div class="taxon-subs">${(b.subs||[]).slice(0,5).map(s=>`<span class="tag tag-clickable" data-theme-filter="${s}">${s}</span>`).join(" ")}</div>
+            <div class="taxon-heat">${subs.slice(0,8).map(s=>`<span class="heat-row" data-theme-filter="${s.key}"><span class="heat-label">${esc(themeLabel(s.key))}</span><span class="heat-track"><span class="heat-fill" style="width:${Math.round(s.n/maxN*100)}%"></span></span><span class="heat-n">${s.n}</span></span>`).join("")}</div>
           </button>`;
         }).join("") + `</div>`;
       }
@@ -43453,6 +43509,8 @@ ${t.brandName} · ${t.disc}
     const o=e.target.closest("[data-open]"); if(o){ openDrawer(o.dataset.open); return; }
     // 主题雷达：进板块页（不跳全部动态）
     const bb=e.target.closest("[data-board-back]"); if(bb){ state.themeBoard=null; render(); return; }
+    // 子主题过滤：需在 data-board 之前（热度条在板块卡片内部），主题雷达内点击跳转到全部动态
+    const tf=e.target.closest("[data-theme-filter]"); if(tf){ state.themeFilter=tf.dataset.themeFilter; if(state.view==="themes"){ state.view="all"; state.themeBoard=null; } render(); return; }
     const bd=e.target.closest("[data-board]"); if(bd){ state.themeBoard=bd.dataset.board; render(); return; }
     const ft=e.target.closest("[data-feed-tier]"); if(ft){ state.feedTier=ft.dataset.feedTier; render(); return; }
     const fk=e.target.closest("[data-feed-kind]"); if(fk){ state.feedKind=fk.dataset.feedKind; render(); return; }
@@ -43463,7 +43521,6 @@ ${t.brandName} · ${t.disc}
     const ak=e.target.closest("[data-arch-key]"); if(ak){ state.archiveKey=ak.dataset.archKey; render(); return; }
     const apg=e.target.closest("[data-arch-page]"); if(apg){ state.archivePage=parseInt(apg.dataset.archPage); render(); return; }
     const j=e.target.closest("[data-jump-theme]"); if(j){ state.view="themes"; state.themeBoard=j.dataset.jumpTheme; render(); return; }
-    const tf=e.target.closest("[data-theme-filter]"); if(tf){ state.themeFilter=tf.dataset.themeFilter; render(); return; }
     const em=e.target.closest("[data-export-md]"); if(em){ e.stopPropagation(); const it=byId(em.dataset.exportMd); if(!it) return; downloadText(`猫圈儿-${it.id}.md`, itemToMarkdown(it)); toast(T().mdDone); return; }
     const po=e.target.closest("[data-poster]"); if(po){ e.stopPropagation(); openPoster(po.dataset.poster); return; }
     const ed=e.target.closest("[data-export-digest]"); if(ed){

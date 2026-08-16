@@ -103,7 +103,12 @@ try:
     theme_labels = {'market': '市场', 'reg': '监管', 'compliance': '合规', 'firm': '保司',
                     'offshore': '跨境', 'macro': '宏观', 'product': '产品', 'channel': '渠道',
                     'tech': '科技', 'family-office': '家办', 'par': '分红', 'uw': '核保理赔',
-                    'career': '职业', 'identity-planning': '身份规划', 'global-allocation': '全球配置'}
+                    'career': '职业', 'identity-planning': '身份规划', 'global-allocation': '全球配置',
+                    'reinsurance': '再保险', 'cross-border': '跨境', 'health': '健康医疗',
+                    'insurtech': '保险科技', 'taxation': '税务', 'results': '业绩',
+                    'retirement': '退休养老', 'benchmark': '对标', 'esg': 'ESG',
+                    'captive': '专属自保', 'ai': '人工智能', 'cyber': '网络风险',
+                    'annuity': '年金', 'global-wealth': '全球财富', 'ils': '保险相连证券'}
     inte['topThemes'] = [{'theme': t, 'count': c, 'label': theme_labels.get(t, t)}
                          for t, c in themes.most_common(10)]
     dates = sorted(i.get('publishedAt', '') for i in items if i.get('publishedAt'))

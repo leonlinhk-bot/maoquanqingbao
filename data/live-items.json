@@ -40572,6 +40572,13 @@
         "reg",
         "compliance",
         "career"
+      ],
+      "subs": [
+        "reg",
+        "compliance",
+        "career",
+        "taxation",
+        "pricing"
       ]
     },
     {
@@ -40590,6 +40597,17 @@
         "product",
         "par",
         "uw"
+      ],
+      "subs": [
+        "product",
+        "par",
+        "uw",
+        "health",
+        "retirement",
+        "annuity",
+        "claims",
+        "underwriting",
+        "distribution"
       ]
     },
     {
@@ -40606,6 +40624,16 @@
       },
       "matchThemes": [
         "firm"
+      ],
+      "subs": [
+        "firm",
+        "results",
+        "reinsurance",
+        "captive",
+        "esg",
+        "ils",
+        "natcat",
+        "marine"
       ]
     },
     {
@@ -40622,6 +40650,12 @@
       },
       "matchThemes": [
         "tech"
+      ],
+      "subs": [
+        "tech",
+        "insurtech",
+        "ai",
+        "cyber"
       ]
     },
     {
@@ -40639,6 +40673,20 @@
       "matchThemes": [
         "channel",
         "macro"
+      ],
+      "subs": [
+        "market",
+        "macro",
+        "channel",
+        "offshore",
+        "cross-border",
+        "statistics",
+        "capital",
+        "monetary",
+        "china",
+        "hnw",
+        "international",
+        "sme"
       ]
     },
     {
@@ -40658,13 +40706,12 @@
         "intl"
       ],
       "subs": [
+        "family-office",
+        "global-wealth",
+        "benchmark",
         "identity-planning",
-        "elite-education",
         "global-allocation",
-        "corporate-service",
-        "capital-market",
-        "risk-management",
-        "property-investment"
+        "fo-ecosystem"
       ]
     }
   ],
@@ -42027,7 +42074,7 @@
         {
           "theme": "reinsurance",
           "count": 29,
-          "label": "reinsurance"
+          "label": "再保险"
         },
         {
           "theme": "family-office",

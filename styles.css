@@ -251,6 +251,16 @@ button,input{font:inherit;color:inherit}a{color:inherit;text-decoration:none}.ap
 .taxon-hero p{color:var(--text-muted);font-size:13.5px;margin:0 0 10px}
 .chip-sub{border-color:var(--border-soft)!important;font-size:11px!important;padding:3px 8px!important;cursor:default}
 
+/* 主题雷达子主题热度条 */
+.taxon-heat{display:flex;flex-direction:column;gap:3px;margin-top:2px}
+.heat-row{display:flex;align-items:center;gap:6px;font-size:12px;cursor:pointer;padding:1px 0;border-radius:4px}
+.heat-row:hover{background:var(--bg-soft)}
+.heat-row:hover .heat-label{color:var(--text)}
+.heat-label{min-width:56px;color:var(--text-dim);flex-shrink:0;white-space:nowrap}
+.heat-track{flex:1;height:6px;background:var(--bg-soft);border-radius:3px;overflow:hidden}
+.heat-fill{display:block;height:100%;background:var(--accent);border-radius:3px;opacity:.75}
+.heat-n{min-width:22px;text-align:right;color:var(--text-dim);font-size:11px;flex-shrink:0}
+
 /* 下载页迷你统计条 */
 .arch-bar-wrap{display:inline-block;width:40px;height:4px;background:var(--bg-soft);border-radius:2px;margin-right:6px;vertical-align:middle;overflow:hidden}
 .arch-bar{height:100%;background:var(--accent);border-radius:2px;transition:width .2s}
