@@ -2,10 +2,10 @@
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-15T18:20:06+08:00",
-    "itemCount": 506,
+    "itemCount": 509,
     "windowNote": {
-      "sc": "本库506条。",
-      "tc": "本庫506條。"
+      "sc": "本库509条。",
+      "tc": "本庫509條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -11395,6 +11395,73 @@
       "originalUrl": "https://ir.gooseheadinsurance.com/news-releases/news-release-details/goosehead-insurance-inc-announces-second-quarter-2026-results"
     },
     {
+      "id": "julius-baer-record-2026",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "research",
+      "sourceKey": "juliusbaer",
+      "title": {
+        "sc": "Julius Baer 创纪录：AUM 5470 亿瑞郎，2026 H1 净利 +128%",
+        "tc": "Julius Baer 創紀錄：AUM 5470 億瑞郎，2026 H1 淨利 +128%"
+      },
+      "summary": {
+        "sc": "Julius Baer（宝盛集团，瑞士第三大私人银行）2026 上半年：IFRS 净利 6.73 亿瑞郎（同比 +128%），调整后税前利润 8.14 亿瑞郎（+33%）；AUM 创纪录 5470 亿瑞郎（年初以来 +5%），净新资金流入 57 亿瑞郎；毛利润率升至 87bp，CET1 资本充足率 18.5%。",
+        "tc": "Julius Baer（寶盛集團，瑞士第三大私人銀行）2026 上半年：IFRS 淨利 6.73 億瑞郎（同比 +128%），調整後稅前利潤 8.14 億瑞郎（+33%）；AUM 創紀錄 5470 億瑞郎，淨新資金流入 57 億瑞郎。"
+      },
+      "why": {
+        "sc": "宝盛创纪录=「纯财富管理」模式的生命力证明。对 IFA：Julius Baer 不做投行、专注财富管理，AUM 5470 亿瑞郎+净利翻倍——证明「专注财富管理」能做成百年生意。这是香港 IFA 赛道长期价值的全球参照。",
+        "tc": "寶盛創紀錄=「純財富管理」模式的生命力證明。對 IFA：Julius Baer 不做投行、專注財富管理，AUM 5470 億瑞郎+淨利翻倍——證明「專注財富管理」能做成百年生意。"
+      },
+      "actions": {
+        "front": {
+          "sc": "宝盛翻倍=纯财富管理生命力",
+          "tc": "寶盛翻倍=純財富管理生命力"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "专注财富管理=百年生意模型",
+          "tc": "專注財富管理=百年生意模型"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 3,
+        "cross": 2
+      },
+      "source": {
+        "sc": "Julius Baer 财报 · 2026年7月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "benchmark",
+        "global-wealth",
+        "family-office"
+      ],
+      "tags": {
+        "sc": [
+          "Julius Baer",
+          "5470亿",
+          "财富管理",
+          "对标"
+        ],
+        "tc": [
+          "Julius Baer",
+          "5470億",
+          "財富管理",
+          "對標"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-07-21T10:00:00+08:00",
+      "originalUrl": "https://markets.ft.markitdigital.com/data/announce/detail?dockey=600-202607210100DGAP____ADHOC____adhoc_2368928_en-1"
+    },
+    {
       "id": "generali-go-green-2026",
       "clusterCount": 1,
       "score": 63,
@@ -13899,6 +13966,73 @@
       "contentKind": "press",
       "publishedAt": "2026-07-08T10:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/press_releases/20260708.html"
+    },
+    {
+      "id": "sfc-awm-42trillion-2026",
+      "clusterCount": 1,
+      "score": 76,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "sfc",
+      "title": {
+        "sc": "香港 2025 年管理资产总值 42.2 万亿港元：+20%，净流入 2.1 万亿 +193%",
+        "tc": "香港 2025 年管理資產總值 42.2 萬億港元：+20%，淨流入 2.1 萬億 +193%"
+      },
+      "summary": {
+        "sc": "香港证监会《2025 年资产及财富管理活动调查》：香港 2025 年管理资产总值按年大升 20% 至 42.2 万亿港元历史高位，净资金流入按年急升 193% 至 2.1 万亿港元；香港已成为全球最大跨境财富管理中心，预计 2025-2030 年跨境财富规模年均增长 9% 维持全球第一。",
+        "tc": "香港證監會《2025 年資產及財富管理活動調查》：香港 2025 年管理資產總值按年大升 20% 至 42.2 萬億港元歷史高位，淨資金流入按年急升 193% 至 2.1 萬億港元；香港已成為全球最大跨境財富管理中心。"
+      },
+      "why": {
+        "sc": "42.2 万亿 AUM=香港财富管理的硬数字。对 IFA：这是 Richard 启动会引用的「42.2 万亿」的官方源头（SFC 调查）——给高净值客户讲「香港财富管理中心地位」时，这是最权威的引用，配合「全球第一跨境财富中心」叙事。",
+        "tc": "42.2 萬億 AUM=香港財富管理的硬數字。對 IFA：這是 Richard 啟動會引用的「42.2 萬億」的官方源頭（SFC 調查）——給高淨值客戶講「香港財富管理中心地位」時，這是最權威的引用。"
+      },
+      "actions": {
+        "front": {
+          "sc": "42.2万亿=香港财富管理硬数据",
+          "tc": "42.2萬億=香港財富管理硬數據"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "全球第一=财富中心的叙事",
+          "tc": "全球第一=財富中心的敘事"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 3,
+        "cross": 4
+      },
+      "source": {
+        "sc": "香港证监会 · 2026年7月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "benchmark",
+        "global-wealth",
+        "family-office"
+      ],
+      "tags": {
+        "sc": [
+          "42.2万亿",
+          "SFC",
+          "净流入2.1万亿",
+          "财富管理"
+        ],
+        "tc": [
+          "42.2萬億",
+          "SFC",
+          "淨流入2.1萬億",
+          "財富管理"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-07-08T10:00:00+08:00",
+      "originalUrl": "https://www.finet.com.cn/keyword?keyword=%E5%AE%B6%E6%97%8F%E5%8A%9E%E5%85%AC%E5%AE%A4"
     },
     {
       "id": "nfra-shanghai-reins-20260707",
@@ -21624,6 +21758,73 @@
       "contentKind": "press",
       "publishedAt": "2026-04-16T10:00:00+08:00",
       "originalUrl": "https://www.prudential.com.hk/tc/about-us/newsroom/"
+    },
+    {
+      "id": "swiss-private-bank-benchmark-2026",
+      "clusterCount": 1,
+      "score": 73,
+      "verifyStatus": "verified",
+      "sourceTier": "research",
+      "sourceKey": "ubs",
+      "title": {
+        "sc": "瑞士私行格局：3.9 万亿美元 AUM，CRS 后从「保密」转向「资产裁判」",
+        "tc": "瑞士私行格局：3.9 萬億美元 AUM，CRS 後從「保密」轉向「資產裁判」"
+      },
+      "summary": {
+        "sc": "截至 2024 年底，瑞士主要私人银行管理资产约 3.9 万亿美元，占全球离岸财富管理市场近 27%。UBS（瑞银）集团投资资产 7.005 万亿美元（财富管理板块约 5 万亿），2025 年净利 78 亿美元；第二梯队 Pictet 7570 亿瑞郎、Julius Baer 5280 亿瑞郎、Lombard Odier、Sarasin 各 2500-5000 亿。CRS 后瑞士私行失去「银行保密」优势，从「防御师」转型为「资产裁判」（帮你做资产配置）。",
+        "tc": "截至 2024 年底，瑞士主要私人銀行管理資產約 3.9 萬億美元，佔全球離岸財富管理市場近 27%。UBS 集團投資資產 7.005 萬億美元（財富管理板塊約 5 萬億），2025 年淨利 78 億美元；第二梯隊 Pictet、Julius Baer 等各 2500-5000 億瑞郎。"
+      },
+      "why": {
+        "sc": "瑞士私行转型=财富管理行业的历史样本。对 IFA：300 年靠「银行保密」的瑞士私行，CRS 后保密优势丧失，被迫从「藏钱」转向「帮你配置资产」——这个转型逻辑正是香港财富管理叙事的镜子。Richard 引用它讲「客户需要的不是一张保单，是资产裁判」。",
+        "tc": "瑞士私行轉型=財富管理行業的歷史樣本。對 IFA：300 年靠「銀行保密」的瑞士私行，CRS 後保密優勢喪失，被迫從「藏錢」轉向「幫你配置資產」——這個轉型邏輯正是香港財富管理敘事的鏡子。"
+      },
+      "actions": {
+        "front": {
+          "sc": "瑞士转型=财富管理叙事样板",
+          "tc": "瑞士轉型=財富管理敘事樣板"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "保密→资产裁判=行业转型路径",
+          "tc": "保密→資產裁判=行業轉型路徑"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 3,
+        "cross": 3
+      },
+      "source": {
+        "sc": "UBS / 瑞士私行研究报告 · 2026年",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "benchmark",
+        "family-office",
+        "global-wealth"
+      ],
+      "tags": {
+        "sc": [
+          "瑞士私行",
+          "3.9万亿",
+          "UBS",
+          "CRS"
+        ],
+        "tc": [
+          "瑞士私行",
+          "3.9萬億",
+          "UBS",
+          "CRS"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-04-16T10:00:00+08:00",
+      "originalUrl": "https://www.easyglobalbanking.com/swiss-banking/top-10-swiss-private-banks-by-aum-2025/"
     },
     {
       "id": "ia-202604-fsi-survey",
@@ -41684,14 +41885,14 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 506 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 506 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 509 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 509 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 506,
+      "totalItems": 509,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 189,
+          "count": 190,
           "label": "监管一手"
         },
         {
@@ -41716,7 +41917,7 @@
         },
         {
           "tier": "research",
-          "count": 20,
+          "count": 22,
           "label": "机构研究"
         }
       ],
@@ -41829,9 +42030,9 @@
           "label": "reinsurance"
         },
         {
-          "theme": "career",
-          "count": 28,
-          "label": "职业"
+          "theme": "family-office",
+          "count": 29,
+          "label": "家办"
         }
       ],
       "dateRange": {

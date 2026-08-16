@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-16T04:40:10Z",
-  "itemCount": 506,
+  "generatedAt": "2026-08-16T04:43:43Z",
+  "itemCount": 509,
   "items": [
     {
       "id": "toutiao-fwd-juntian-broker-20260815",
@@ -2079,6 +2079,20 @@
       "originalUrl": "https://ir.gooseheadinsurance.com/news-releases/news-release-details/goosehead-insurance-inc-announces-second-quarter-2026-results"
     },
     {
+      "id": "julius-baer-record-2026",
+      "title": "Julius Baer 创纪录：AUM 5470 亿瑞郎，2026 H1 净利 +128%",
+      "sourceTier": "research",
+      "themes": [
+        "benchmark",
+        "global-wealth",
+        "family-office"
+      ],
+      "publishedAt": "2026-07-21T10:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=julius-baer-record-2026",
+      "originalUrl": "https://markets.ft.markitdigital.com/data/announce/detail?dockey=600-202607210100DGAP____ADHOC____adhoc_2368928_en-1"
+    },
+    {
       "id": "generali-go-green-2026",
       "title": "忠意保险推 Go Green 计划：绿色建筑认证企业保费折扣最高 15%",
       "sourceTier": "insurer",
@@ -2550,6 +2564,20 @@
       "score": 80,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-captive-9th-sf-202607",
       "originalUrl": "https://www.ia.org.hk/tc/infocenter/press_releases/20260708.html"
+    },
+    {
+      "id": "sfc-awm-42trillion-2026",
+      "title": "香港 2025 年管理资产总值 42.2 万亿港元：+20%，净流入 2.1 万亿 +193%",
+      "sourceTier": "official",
+      "themes": [
+        "benchmark",
+        "global-wealth",
+        "family-office"
+      ],
+      "publishedAt": "2026-07-08T10:00:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sfc-awm-42trillion-2026",
+      "originalUrl": "https://www.finet.com.cn/keyword?keyword=%E5%AE%B6%E6%97%8F%E5%8A%9E%E5%85%AC%E5%AE%A4"
     },
     {
       "id": "nfra-shanghai-reins-20260707",
@@ -3932,6 +3960,20 @@
       "score": 74,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=pru-fosun-gba-hospitals-202604",
       "originalUrl": "https://www.prudential.com.hk/tc/about-us/newsroom/"
+    },
+    {
+      "id": "swiss-private-bank-benchmark-2026",
+      "title": "瑞士私行格局：3.9 万亿美元 AUM，CRS 后从「保密」转向「资产裁判」",
+      "sourceTier": "research",
+      "themes": [
+        "benchmark",
+        "family-office",
+        "global-wealth"
+      ],
+      "publishedAt": "2026-04-16T10:00:00+08:00",
+      "score": 73,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=swiss-private-bank-benchmark-2026",
+      "originalUrl": "https://www.easyglobalbanking.com/swiss-banking/top-10-swiss-private-banks-by-aum-2025/"
     },
     {
       "id": "ia-202604-fsi-survey",
