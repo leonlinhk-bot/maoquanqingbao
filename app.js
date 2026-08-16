@@ -42670,20 +42670,14 @@ window.HKII_DATA = {
     arr = arr.filter(matches);
     // 今日脉搏：动态评分排序
   if (pulseSort && roleWeights) {
-    // 双规则：近3天放宽至≥70，其余≥80——让最新更新更丰盛，历史精选不变
-    const now = new Date();
-    const cutoff = new Date(now.getTime() - 3*24*3600*1000).toISOString().slice(0,10);
-    arr = arr.filter(i => {
-      const sc = (i.score||0);
-      const pub = (i.publishedAt||"").slice(0,10);
-      return pub >= cutoff ? sc >= 70 : sc >= 80;
-    });
+    // 统一门槛：score ≥ 80，控制精选数量
+    arr = arr.filter(i => (i.score||0) >= 80);
     arr.sort((a,b) => {
       const sa = (a.score||0)*0.7 + ((a.rolesImpact||{}).front||0)*(roleWeights.front||0) + ((a.rolesImpact||{}).midback||0)*(roleWeights.midback||0) + ((a.rolesImpact||{}).lead||0)*(roleWeights.lead||0) + ((a.rolesImpact||{}).cross||0)*(roleWeights.cross||0);
       const sb = (b.score||0)*0.7 + ((b.rolesImpact||{}).front||0)*(roleWeights.front||0) + ((b.rolesImpact||{}).midback||0)*(roleWeights.midback||0) + ((b.rolesImpact||{}).lead||0)*(roleWeights.lead||0) + ((b.rolesImpact||{}).cross||0)*(roleWeights.cross||0);
       return sb - sa;
     });
-    return arr.slice(0, Math.min(200, arr.length)); // 动态上限，避免截掉近期的低分精选
+    return arr.slice(0, 50);
   }
   // 收藏：支持标签筛选；筛选不改变排序键
     if (forceTime || true) {
