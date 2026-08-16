@@ -2,10 +2,10 @@ window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-15T18:20:06+08:00",
-    "itemCount": 500,
+    "itemCount": 506,
     "windowNote": {
-      "sc": "本库500条。",
-      "tc": "本庫500條。"
+      "sc": "本库506条。",
+      "tc": "本庫506條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -51,8 +51,8 @@ window.HKII_DATA = {
       "tc": "定位=港險相關官方/一手資訊的高效匯聚與可追溯導讀。不替代保司原文，不做分紅實現率數據庫（另有公司工具）。"
     },
     "sourcesCatalog": {
-      "version": "0.3.2",
-      "updatedAt": "2026-07-27",
+      "version": "0.4.0",
+      "updatedAt": "2026-08-16",
       "principle": {
         "sc": "一手官方资讯优先；保司侧抓「官网披露/通告/新闻」作信息差打通，不深挖实现率表格。",
         "tc": "一手官方資訊優先；保司側抓「官網披露/通告/新聞」作信息差打通，不深挖實現率表格。"
@@ -89,6 +89,26 @@ window.HKII_DATA = {
             "data/ia-authorized-insurers.json",
             "data/ia-fulfillment-insurers.json",
             "data/sources-insurers-par.yaml"
+          ]
+        },
+        {
+          "id": "broker_benchmark",
+          "title": {
+            "sc": "经纪行 + 中介同业对标",
+            "tc": "經紀行 + 中介同業對標"
+          },
+          "countNote": {
+            "sc": "香港头部经纪行（资遇/安柏/湾区等）+ 内地保险科技中介（大童/蚂蚁保）+ 海外经纪（Goosehead/四大经纪集团）+ 全球 IFA 格局（英国 RDR）。仅采公开信息；ZUU 内部内容不展示。",
+            "tc": "香港頭部經紀行（資遇/安柏/灣區等）+ 內地保險科技中介（大童/螞蟻保）+ 海外經紀（Goosehead/四大經紀集團）+ 全球 IFA 格局（英國 RDR）。僅採公開信息。"
+          },
+          "items": [
+            "资遇保险经纪（Ziyu）",
+            "安柏 AMG / 湾区 WQ / 新湾 NW",
+            "大童保险服务（Datong）",
+            "蚂蚁保（Antbao）",
+            "Goosehead Insurance",
+            "Marsh / Aon / Gallagher / WTW（四大经纪集团）",
+            "英国 RDR / 澳洲 IFA（全球格局）"
           ]
         },
         {
@@ -4620,6 +4640,73 @@ window.HKII_DATA = {
       "contentKind": "report",
       "publishedAt": "2026-08-07T10:00:00+08:00",
       "originalUrl": "https://www.munichre.com/content/dam/munichre/mrwebsiteslaunches/2026-half-year-financial-report/MunichRe-Media-release-Q2-2026_en.pdf"
+    },
+    {
+      "id": "ziyu-aia-api-20260807",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "verified",
+      "sourceTier": "broker",
+      "sourceKey": "ziyu",
+      "title": {
+        "sc": "资遇保险经纪携手友邦率先对接 API：全港首家经纪行直连",
+        "tc": "資遇保險經紀攜手友邦率先對接 API：全港首家經紀行直連"
+      },
+      "summary": {
+        "sc": "2026 年 8 月 7 日，资遇保险经纪举办「API 资联未来发布会」，宣布携手香港友邦率先对接 API，重塑数字化服务新格局（8/12 公众号「资遇财富管理」发布）。品牌理念「科技赋能专业、连接强化服务」，战略主线「对外连接 × 对内赋能」，定位「以专业立身、以科技赋能、以合规致远」，四字理念「策、行、享、续」。发布援引金管局 2018 银行业开放 API 框架及保监局 2023 保险业开放 API 框架。",
+        "tc": "2026 年 8 月 7 日，資遇保險經紀舉辦「API 資聯未來發布會」，宣布攜手香港友邦率先對接 API，重塑數字化服務新格局。品牌理念「科技賦能專業、連接強化服務」，戰略主線「對外連接 × 對內賦能」，四字理念「策、行、享、續」。"
+      },
+      "why": {
+        "sc": "资遇友邦 API 直连=经纪行数字化的标志事件。对 IFA：这是全港首家经纪行打通保司 API 的公开案例——经纪渠道从「人工转录」走向「系统直连」，理解经纪行技术竞争格局的样本。",
+        "tc": "資遇友邦 API 直連=經紀行數字化的標誌事件。對 IFA：這是全港首家經紀行打通保司 API 的公開案例——經紀渠道從「人工轉錄」走向「系統直連」。"
+      },
+      "actions": {
+        "front": {
+          "sc": "经纪行API直连=数字化竞争开跑",
+          "tc": "經紀行API直連=數字化競爭開跑"
+        },
+        "midback": {
+          "sc": "开放API框架=经纪行合规能力",
+          "tc": "開放API框架=經紀行合規能力"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 3,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "资遇财富管理公众号 · 2026年8月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "benchmark",
+        "tech",
+        "channel"
+      ],
+      "tags": {
+        "sc": [
+          "资遇",
+          "友邦API",
+          "经纪行",
+          "数字化"
+        ],
+        "tc": [
+          "資遇",
+          "友邦API",
+          "經紀行",
+          "數字化"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-07T10:00:00+08:00",
+      "originalUrl": "https://weitoutiao.zjurl.cn/rogue/topic_share/?concern_id=1640552519316487&prevent_activate=1"
     },
     {
       "id": "manulife-asia-q2-2026",
@@ -9748,6 +9835,73 @@ window.HKII_DATA = {
       "originalUrl": "https://www.mpfa.org.hk/sc/info-centre/laws-and-regulations/guidelines"
     },
     {
+      "id": "datong-broker-benchmark-2026",
+      "clusterCount": 1,
+      "score": 73,
+      "verifyStatus": "verified",
+      "sourceTier": "broker",
+      "sourceKey": "datong",
+      "title": {
+        "sc": "大童保险服务：1100 万托管保单 + 好赔 27.6 亿，中介服务化标杆",
+        "tc": "大童保險服務：1100 萬託管保單 + 好賠 27.6 億，中介服務化標桿"
+      },
+      "summary": {
+        "sc": "大童保险服务（内地头部保险中介）：链接 100+ 家保险公司、1000+ 款产品；电子保单托管 1100 万+ 张（190 万+ 家庭）；「好赔」服务累计 26 万客户、代办理赔款 27.6 亿元，200 余名理赔专家覆盖 26 省；董事长蒋铭提出「链接整合，是中介的灵魂所在」。DOSM 需求导向型咨询模式 + 保单托管 + 好赔，构成「中介服务化」的完整闭环。",
+        "tc": "大童保險服務（內地頭部保險中介）：鏈接 100+ 家保險公司、1000+ 款產品；電子保單託管 1100 萬+ 張（190 萬+ 家庭）；「好賠」服務累計 26 萬客戶、代辦理賠款 27.6 億元，200 餘名理賠專家覆蓋 26 省。"
+      },
+      "why": {
+        "sc": "大童=「中介不只卖单、更做服务」的对标样本。对 IFA：保单托管+好赔服务让中介从「销售渠道」升级为「长期服务商」——这正是香港 IFA 赛道的未来形态。Richard 引用的「万能插座」「好赔21亿」即源于此。",
+        "tc": "大童=「中介不只賣單、更做服務」的對標樣本。對 IFA：保單託管+好賠服務讓中介從「銷售渠道」升級為「長期服務商」——這正是香港 IFA 賽道的未來形態。"
+      },
+      "actions": {
+        "front": {
+          "sc": "大童服务化=中介未来形态",
+          "tc": "大童服務化=中介未來形態"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "保单托管+好赔=服务护城河",
+          "tc": "保單託管+好賠=服務護城河"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 2,
+        "lead": 3,
+        "cross": 2
+      },
+      "source": {
+        "sc": "大童保险服务官网 · 2026年",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "benchmark",
+        "channel",
+        "tech"
+      ],
+      "tags": {
+        "sc": [
+          "大童",
+          "保单托管",
+          "好赔",
+          "对标"
+        ],
+        "tc": [
+          "大童",
+          "保單託管",
+          "好賠",
+          "對標"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-07-27T10:00:00+08:00",
+      "originalUrl": "https://www.dtinsure.com/dtsite/pc/advantage/service"
+    },
+    {
       "id": "apac-insurers-emergedebt-202607",
       "clusterCount": 1,
       "score": 71,
@@ -10764,6 +10918,73 @@ window.HKII_DATA = {
       "originalUrl": "https://www.boclife.com.hk/sc/news.html"
     },
     {
+      "id": "global-big4-broker-benchmark-2026",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "verified",
+      "sourceTier": "broker",
+      "sourceKey": "ambest",
+      "title": {
+        "sc": "全球保险经纪 20 强：Marsh 269.8 亿美元领跑，中国机构集体缺席",
+        "tc": "全球保險經紀 20 強：Marsh 269.8 億美元領跑，中國機構集體缺席"
+      },
+      "summary": {
+        "sc": "A.M. Best 2026 年度全球保险经纪榜单（按 2025 全年营收）：达信 Marsh 以 269.8 亿美元连续 16 年居首，怡安 Aon 172 亿、加拉格尔 Gallagher 138 亿（+20.66%）、韦莱韬悦 WTW 约 95 亿分列二至四；20 强合计营收超 1200 亿美元，第 20 名门槛 12.5 亿美元。中国机构连续缺席（泛华 2024 版第 19 名后落榜）。全球巨头定位「风险管理」而非「卖保险」，咨询/服务费收入占比超 30%。",
+        "tc": "A.M. Best 2026 年度全球保險經紀榜單（按 2025 全年營收）：達信 Marsh 以 269.8 億美元連續 16 年居首，怡安 Aon 172 億、加拉格爾 Gallagher 138 億、韋萊韜悅 WTW 約 95 億分列二至四；20 強合計營收超 1200 億美元。中國機構連續缺席。"
+      },
+      "why": {
+        "sc": "四大经纪=「经纪渠道可以被资本做大」的全球证明。对 IFA：Marsh 269.8 亿美元、中国集体缺席——全球经纪巨头的商业模式是「风险管理+咨询」，不是「卖保险」。这是香港 IFA 赛道的全球天花板参照，也是 Richard 引用的「人均创收 200 万港元」的源头。",
+        "tc": "四大經紀=「經紀渠道可以被資本做大」的全球證明。對 IFA：Marsh 269.8 億美元、中國集體缺席——全球經紀巨頭的商業模式是「風險管理+諮詢」，不是「賣保險」。"
+      },
+      "actions": {
+        "front": {
+          "sc": "四大经纪=经纪赛道天花板",
+          "tc": "四大經紀=經紀賽道天花板"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "风险管理+咨询=巨头的商业模式",
+          "tc": "風險管理+諮詢=巨頭的商業模式"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 2,
+        "lead": 3,
+        "cross": 3
+      },
+      "source": {
+        "sc": "A.M. Best / 新浪财经 · 2026年7月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "benchmark",
+        "channel",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "四大经纪",
+          "Marsh",
+          "269.8亿",
+          "对标"
+        ],
+        "tc": [
+          "四大經紀",
+          "Marsh",
+          "269.8億",
+          "對標"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-07-24T10:00:00+08:00",
+      "originalUrl": "https://finance.sina.com.cn/money/insurance/bxdt/2026-07-24/doc-iniixfxy9233795.shtml"
+    },
+    {
       "id": "allianz-hsbc-singapore-jul24",
       "clusterCount": 1,
       "score": 82,
@@ -11105,6 +11326,73 @@ window.HKII_DATA = {
       "contentKind": "press",
       "publishedAt": "2026-07-22T10:00:00+08:00",
       "originalUrl": "https://www.moj.gov.cn/pub/sfbgw/zcjd/202607/t20260731_538117.html"
+    },
+    {
+      "id": "goosehead-broker-benchmark-2026",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "broker",
+      "sourceKey": "goosehead",
+      "title": {
+        "sc": "Goosehead 2026 Q2：美国独立经纪 210 万保单，营收 1.13 亿美元 +21%",
+        "tc": "Goosehead 2026 Q2：美國獨立經紀 210 萬保單，營收 1.13 億美元 +21%"
+      },
+      "summary": {
+        "sc": "Goosehead Insurance（NASDAQ: GSHD，美国独立个人险保险经纪）：2026 Q2 营收 1.13 亿美元（+21%），净利 1700 万美元（同比 +106%），保费规模 13.4 亿美元（+14%），有效保单约 210 万张（+15%），公司代理人 583 人（+22%）；2025 全年营收 3.65 亿美元。以「特许经营 + 集中化后台」模式扩张，是独立经纪数字化的美股标杆。",
+        "tc": "Goosehead Insurance（NASDAQ: GSHD，美國獨立個人險保險經紀）：2026 Q2 營收 1.13 億美元（+21%），淨利 1700 萬美元（+106%），保費規模 13.4 億美元（+14%），有效保單約 210 萬張（+15%）。"
+      },
+      "why": {
+        "sc": "Goosehead=「独立经纪+数字化」的资本化样本。对 IFA：一家美国独立经纪靠「特许经营+集中后台」做到 210 万保单、市值 14 亿美元——证明经纪渠道可以被资本定价，这是香港 IFA 赛道长期想象空间的参照系。",
+        "tc": "Goosehead=「獨立經紀+數字化」的資本化樣本。對 IFA：一家美國獨立經紀靠「特許經營+集中後台」做到 210 萬保單、市值 14 億美元——證明經紀渠道可以被資本定價。"
+      },
+      "actions": {
+        "front": {
+          "sc": "Goosehead=经纪可被资本定价",
+          "tc": "Goosehead=經紀可被資本定價"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "特许经营+集中后台=扩张模式",
+          "tc": "特許經營+集中後台=擴張模式"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 2,
+        "lead": 3,
+        "cross": 2
+      },
+      "source": {
+        "sc": "Goosehead IR · 2026年7月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "benchmark",
+        "channel",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "Goosehead",
+          "GSHD",
+          "独立经纪",
+          "对标"
+        ],
+        "tc": [
+          "Goosehead",
+          "GSHD",
+          "獨立經紀",
+          "對標"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-07-22T10:00:00+08:00",
+      "originalUrl": "https://ir.gooseheadinsurance.com/news-releases/news-release-details/goosehead-insurance-inc-announces-second-quarter-2026-results"
     },
     {
       "id": "generali-go-green-2026",
@@ -11673,6 +11961,73 @@ window.HKII_DATA = {
       "contentKind": "report",
       "publishedAt": "2026-07-16T10:00:00+08:00",
       "originalUrl": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-16/doc-inihyqhe4458900.shtml"
+    },
+    {
+      "id": "antbao-broker-benchmark-2026",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "broker",
+      "sourceKey": "antbao",
+      "title": {
+        "sc": "蚂蚁保：90+ 保司、服务 6 亿保民、2025 赔付 178.7 亿的互联网中介",
+        "tc": "螞蟻保：90+ 保司、服務 6 億保民、2025 賠付 178.7 億的互聯網中介"
+      },
+      "summary": {
+        "sc": "蚂蚁保（蚂蚁集团旗下互联网保险代理平台）：与全国 90+ 家保险机构合作，服务超 6 亿保民；2025 年累计赔付 178.7 亿元，健康险理赔服务逼近 1000 万人次；「理赔大脑」AI 可识别 107 种凭证、核赔效率提升 70%，78% 小额案件 24 小时内结案；「星云 1」数字化经营平台向保司开放。",
+        "tc": "螞蟻保（螞蟻集團旗下互聯網保險代理平台）：與全國 90+ 家保險機構合作，服務超 6 億保民；2025 年累計賠付 178.7 億元，健康險理賠服務逼近 1000 萬人次；「理賠大腦」AI 可識別 107 種憑證、核賠效率提升 70%。"
+      },
+      "why": {
+        "sc": "蚂蚁保=「中介+科技」的极限样本。对 IFA：90 家保司、6 亿用户、178.7 亿赔付——互联网中介用 AI 把理赔效率做到极致。这是 Richard 引用的「98% 在线理赔、86% 一次交对材料」的源头，也是香港 IFA 数字化的天花板参照。",
+        "tc": "螞蟻保=「中介+科技」的極限樣本。對 IFA：90 家保司、6 億用戶、178.7 億賠付——互聯網中介用 AI 把理賠效率做到極致，這是香港 IFA 數字化的天花板參照。"
+      },
+      "actions": {
+        "front": {
+          "sc": "蚂蚁保=中介科技天花板",
+          "tc": "螞蟻保=中介科技天花板"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "理赔大脑=AI提效的样板",
+          "tc": "理賠大腦=AI提效的樣板"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 2,
+        "lead": 3,
+        "cross": 2
+      },
+      "source": {
+        "sc": "蚂蚁集团 · 2026年",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "benchmark",
+        "tech",
+        "channel"
+      ],
+      "tags": {
+        "sc": [
+          "蚂蚁保",
+          "178.7亿",
+          "理赔大脑",
+          "对标"
+        ],
+        "tc": [
+          "螞蟻保",
+          "178.7億",
+          "理賠大腦",
+          "對標"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-07-16T10:00:00+08:00",
+      "originalUrl": "https://www.antgroup.com/business-development/digital-finance-tab-details/ant-protect"
     },
     {
       "id": "ia-sales-rules-tightening-jul15",
@@ -36347,6 +36702,73 @@ window.HKII_DATA = {
       "contentKind": "press",
       "publishedAt": "2024-01-02T10:00:00+08:00",
       "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2024/aia-press-release-20240102"
+    },
+    {
+      "id": "uk-rdr-ifa-benchmark-2013",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "verified",
+      "sourceTier": "research",
+      "sourceKey": "fca",
+      "title": {
+        "sc": "英国 RDR 改革复盘：IFA 份额从 20% 升至 80%，佣金转收费模式",
+        "tc": "英國 RDR 改革復盤：IFA 份額從 20% 升至 80%，佣金轉收費模式"
+      },
+      "summary": {
+        "sc": "英国 Retail Distribution Review（RDR，2012-12-31 生效）三大改革：①提升专业标准（最低 QCF Level 4，无祖父条款）②独立建议与受限建议明确区分 ③去除佣金偏差（顾问收费前置披露，费基收费）。效果：IFA 渠道份额从监管前 20% 升至约 80%（个人养老金产品），对公业务经纪渠道稳定在 80%；年金类复杂险种净保费份额从 2005 年 68% 升至 93%；「小而独立」的 IFA 在收费模式下更具竞争力。",
+        "tc": "英國 Retail Distribution Review（RDR，2012-12-31 生效）三大改革：①提升專業標準（最低 QCF Level 4）②獨立建議與受限建議明確區分 ③去除佣金偏差（顧問收費前置披露）。效果：IFA 渠道份額從監管前 20% 升至約 80%。"
+      },
+      "why": {
+        "sc": "英国 RDR=「IFA 赛道崛起」的历史剧本。对 IFA：佣金转收费 + 专业标准提升后，IFA 份额从 20% 飙到 80%——香港佣金改革（报行合一）正在复刻这条路径。Richard 引用的「英国 IFA 0→75%」即源于此，是讲香港 IFA 长期赛道逻辑的权威依据。",
+        "tc": "英國 RDR=「IFA 賽道崛起」的歷史劇本。對 IFA：佣金轉收費 + 專業標準提升後，IFA 份額從 20% 飆到 80%——香港佣金改革（報行合一）正在復刻這條路徑。"
+      },
+      "actions": {
+        "front": {
+          "sc": "RDR剧本=香港IFA的未来路径",
+          "tc": "RDR劇本=香港IFA的未來路徑"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "佣金转收费=赛道升级的开关",
+          "tc": "佣金轉收費=賽道升級的開關"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 4,
+        "midback": 2,
+        "lead": 3,
+        "cross": 2
+      },
+      "source": {
+        "sc": "英国 FCA / 中金研究 · RDR 复盘",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "benchmark",
+        "channel",
+        "reg"
+      ],
+      "tags": {
+        "sc": [
+          "英国RDR",
+          "IFA",
+          "佣金转收费",
+          "对标"
+        ],
+        "tc": [
+          "英國RDR",
+          "IFA",
+          "佣金轉收費",
+          "對標"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2013-03-05T10:00:00+08:00",
+      "originalUrl": "https://www.ifa.com.au/uk-research-finds-independents-win-in-fee-for-service-model"
     }
   ],
   "calendar": [
@@ -41262,10 +41684,10 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 500 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 500 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 506 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 506 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 500,
+      "totalItems": 506,
       "sourceTiers": [
         {
           "tier": "official",
@@ -41279,7 +41701,7 @@ window.HKII_DATA = {
         },
         {
           "tier": "broker",
-          "count": 1,
+          "count": 6,
           "label": "经纪行"
         },
         {
@@ -41294,7 +41716,7 @@ window.HKII_DATA = {
         },
         {
           "tier": "research",
-          "count": 19,
+          "count": 20,
           "label": "机构研究"
         }
       ],
@@ -41368,12 +41790,12 @@ window.HKII_DATA = {
         },
         {
           "theme": "reg",
-          "count": 108,
+          "count": 109,
           "label": "监管"
         },
         {
           "theme": "firm",
-          "count": 96,
+          "count": 97,
           "label": "保司"
         },
         {
@@ -41383,7 +41805,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "offshore",
-          "count": 69,
+          "count": 70,
           "label": "跨境"
         },
         {
@@ -41392,14 +41814,14 @@ window.HKII_DATA = {
           "label": "合规"
         },
         {
+          "theme": "channel",
+          "count": 47,
+          "label": "渠道"
+        },
+        {
           "theme": "macro",
           "count": 47,
           "label": "宏观"
-        },
-        {
-          "theme": "channel",
-          "count": 41,
-          "label": "渠道"
         },
         {
           "theme": "reinsurance",
@@ -41413,8 +41835,8 @@ window.HKII_DATA = {
         }
       ],
       "dateRange": {
-        "sc": "2024-01-02 ~ 2026-08-15",
-        "tc": "2024-01-02 ~ 2026-08-15"
+        "sc": "2013-03-05 ~ 2026-08-15",
+        "tc": "2013-03-05 ~ 2026-08-15"
       }
     },
     "marketData": {

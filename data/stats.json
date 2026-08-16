@@ -630,10 +630,10 @@
       "tc": "情報密度"
     },
     "subtitle": {
-      "sc": "自动从 500 条资讯聚合 · sourceKey 标准化完成",
-      "tc": "自動從 500 條資訊聚合 · sourceKey 標準化完成"
+      "sc": "自动从 506 条资讯聚合 · sourceKey 标准化完成",
+      "tc": "自動從 506 條資訊聚合 · sourceKey 標準化完成"
     },
-    "totalItems": 500,
+    "totalItems": 506,
     "sourceTiers": [
       {
         "tier": "official",
@@ -647,7 +647,7 @@
       },
       {
         "tier": "broker",
-        "count": 1,
+        "count": 6,
         "label": "经纪行"
       },
       {
@@ -662,7 +662,7 @@
       },
       {
         "tier": "research",
-        "count": 19,
+        "count": 20,
         "label": "机构研究"
       }
     ],
@@ -736,12 +736,12 @@
       },
       {
         "theme": "reg",
-        "count": 108,
+        "count": 109,
         "label": "监管"
       },
       {
         "theme": "firm",
-        "count": 96,
+        "count": 97,
         "label": "保司"
       },
       {
@@ -751,7 +751,7 @@
       },
       {
         "theme": "offshore",
-        "count": 69,
+        "count": 70,
         "label": "跨境"
       },
       {
@@ -760,14 +760,14 @@
         "label": "合规"
       },
       {
+        "theme": "channel",
+        "count": 47,
+        "label": "渠道"
+      },
+      {
         "theme": "macro",
         "count": 47,
         "label": "宏观"
-      },
-      {
-        "theme": "channel",
-        "count": 41,
-        "label": "渠道"
       },
       {
         "theme": "reinsurance",
@@ -781,8 +781,8 @@
       }
     ],
     "dateRange": {
-      "sc": "2024-01-02 ~ 2026-08-15",
-      "tc": "2024-01-02 ~ 2026-08-15"
+      "sc": "2013-03-05 ~ 2026-08-15",
+      "tc": "2013-03-05 ~ 2026-08-15"
     }
   },
   "marketData": {

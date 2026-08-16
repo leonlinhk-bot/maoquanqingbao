@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-16T04:36:02Z",
-  "itemCount": 500,
+  "generatedAt": "2026-08-16T04:40:10Z",
+  "itemCount": 506,
   "items": [
     {
       "id": "toutiao-fwd-juntian-broker-20260815",
@@ -813,6 +813,20 @@
       "score": 73,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=munichre-h1-2026-record",
       "originalUrl": "https://www.munichre.com/content/dam/munichre/mrwebsiteslaunches/2026-half-year-financial-report/MunichRe-Media-release-Q2-2026_en.pdf"
+    },
+    {
+      "id": "ziyu-aia-api-20260807",
+      "title": "资遇保险经纪携手友邦率先对接 API：全港首家经纪行直连",
+      "sourceTier": "broker",
+      "themes": [
+        "benchmark",
+        "tech",
+        "channel"
+      ],
+      "publishedAt": "2026-08-07T10:00:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ziyu-aia-api-20260807",
+      "originalUrl": "https://weitoutiao.zjurl.cn/rogue/topic_share/?concern_id=1640552519316487&prevent_activate=1"
     },
     {
       "id": "manulife-asia-q2-2026",
@@ -1770,6 +1784,20 @@
       "originalUrl": "https://www.mpfa.org.hk/sc/info-centre/laws-and-regulations/guidelines"
     },
     {
+      "id": "datong-broker-benchmark-2026",
+      "title": "大童保险服务：1100 万托管保单 + 好赔 27.6 亿，中介服务化标杆",
+      "sourceTier": "broker",
+      "themes": [
+        "benchmark",
+        "channel",
+        "tech"
+      ],
+      "publishedAt": "2026-07-27T10:00:00+08:00",
+      "score": 73,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=datong-broker-benchmark-2026",
+      "originalUrl": "https://www.dtinsure.com/dtsite/pc/advantage/service"
+    },
+    {
       "id": "apac-insurers-emergedebt-202607",
       "title": "亚太保险公司转向新兴市场债券寻求收益",
       "sourceTier": "pro",
@@ -1958,6 +1986,20 @@
       "originalUrl": "https://www.boclife.com.hk/sc/news.html"
     },
     {
+      "id": "global-big4-broker-benchmark-2026",
+      "title": "全球保险经纪 20 强：Marsh 269.8 亿美元领跑，中国机构集体缺席",
+      "sourceTier": "broker",
+      "themes": [
+        "benchmark",
+        "channel",
+        "offshore"
+      ],
+      "publishedAt": "2026-07-24T10:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=global-big4-broker-benchmark-2026",
+      "originalUrl": "https://finance.sina.com.cn/money/insurance/bxdt/2026-07-24/doc-iniixfxy9233795.shtml"
+    },
+    {
       "id": "allianz-hsbc-singapore-jul24",
       "title": "安联21亿美元收购汇丰新加坡寿险 亚洲版图再扩张",
       "sourceTier": "media",
@@ -2021,6 +2063,20 @@
       "score": 76,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nia-exit-entry-20260722",
       "originalUrl": "https://www.moj.gov.cn/pub/sfbgw/zcjd/202607/t20260731_538117.html"
+    },
+    {
+      "id": "goosehead-broker-benchmark-2026",
+      "title": "Goosehead 2026 Q2：美国独立经纪 210 万保单，营收 1.13 亿美元 +21%",
+      "sourceTier": "broker",
+      "themes": [
+        "benchmark",
+        "channel",
+        "firm"
+      ],
+      "publishedAt": "2026-07-22T10:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=goosehead-broker-benchmark-2026",
+      "originalUrl": "https://ir.gooseheadinsurance.com/news-releases/news-release-details/goosehead-insurance-inc-announces-second-quarter-2026-results"
     },
     {
       "id": "generali-go-green-2026",
@@ -2130,6 +2186,20 @@
       "score": 70,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=mpf-q2-2026-inflow",
       "originalUrl": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-16/doc-inihyqhe4458900.shtml"
+    },
+    {
+      "id": "antbao-broker-benchmark-2026",
+      "title": "蚂蚁保：90+ 保司、服务 6 亿保民、2025 赔付 178.7 亿的互联网中介",
+      "sourceTier": "broker",
+      "themes": [
+        "benchmark",
+        "tech",
+        "channel"
+      ],
+      "publishedAt": "2026-07-16T10:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=antbao-broker-benchmark-2026",
+      "originalUrl": "https://www.antgroup.com/business-development/digital-finance-tab-details/ant-protect"
     },
     {
       "id": "ia-sales-rules-tightening-jul15",
@@ -6642,6 +6712,20 @@
       "score": 70,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-power-multicurrency3-202401",
       "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2024/aia-press-release-20240102"
+    },
+    {
+      "id": "uk-rdr-ifa-benchmark-2013",
+      "title": "英国 RDR 改革复盘：IFA 份额从 20% 升至 80%，佣金转收费模式",
+      "sourceTier": "research",
+      "themes": [
+        "benchmark",
+        "channel",
+        "reg"
+      ],
+      "publishedAt": "2013-03-05T10:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=uk-rdr-ifa-benchmark-2013",
+      "originalUrl": "https://www.ifa.com.au/uk-research-finds-independents-win-in-fee-for-service-model"
     }
   ]
 }
