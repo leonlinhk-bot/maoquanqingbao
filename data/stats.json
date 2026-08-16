@@ -630,24 +630,24 @@
       "tc": "情報密度"
     },
     "subtitle": {
-      "sc": "自动从 493 条资讯聚合 · sourceKey 标准化完成",
-      "tc": "自動從 493 條資訊聚合 · sourceKey 標準化完成"
+      "sc": "自动从 500 条资讯聚合 · sourceKey 标准化完成",
+      "tc": "自動從 500 條資訊聚合 · sourceKey 標準化完成"
     },
-    "totalItems": 493,
+    "totalItems": 500,
     "sourceTiers": [
       {
         "tier": "official",
-        "count": 184,
+        "count": 189,
         "label": "监管一手"
       },
       {
         "tier": "insurer",
-        "count": 122,
+        "count": 123,
         "label": "保司公告"
       },
       {
         "tier": "media",
-        "count": 116,
+        "count": 117,
         "label": "媒体报道"
       },
       {
@@ -726,32 +726,32 @@
     "topThemes": [
       {
         "theme": "market",
-        "count": 159,
+        "count": 160,
         "label": "市场"
       },
       {
         "theme": "reg",
-        "count": 103,
+        "count": 108,
         "label": "监管"
       },
       {
         "theme": "firm",
-        "count": 94,
+        "count": 96,
         "label": "保司"
       },
       {
         "theme": "product",
-        "count": 77,
+        "count": 78,
         "label": "产品"
       },
       {
         "theme": "offshore",
-        "count": 68,
+        "count": 69,
         "label": "跨境"
       },
       {
         "theme": "compliance",
-        "count": 65,
+        "count": 68,
         "label": "合规"
       },
       {
@@ -761,7 +761,7 @@
       },
       {
         "theme": "channel",
-        "count": 39,
+        "count": 41,
         "label": "渠道"
       },
       {
@@ -771,13 +771,13 @@
       },
       {
         "theme": "career",
-        "count": 27,
+        "count": 28,
         "label": "职业"
       }
     ],
     "dateRange": {
-      "sc": "2024-01-15 ~ 2026-08-15",
-      "tc": "2024-01-15 ~ 2026-08-15"
+      "sc": "2024-01-02 ~ 2026-08-15",
+      "tc": "2024-01-02 ~ 2026-08-15"
     }
   },
   "marketData": {

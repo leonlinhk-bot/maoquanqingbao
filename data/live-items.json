@@ -2,10 +2,10 @@
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-08-15T18:20:06+08:00",
-    "itemCount": 493,
+    "itemCount": 500,
     "windowNote": {
-      "sc": "本库493条。",
-      "tc": "本庫493條。"
+      "sc": "本库500条。",
+      "tc": "本庫500條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -28954,6 +28954,73 @@
       "originalUrl": "https://www.news.gov.hk/chi/2025/08/20250818/20250818_112221_353.html"
     },
     {
+      "id": "ia-ai-cohort-launch-202508",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "保监局推出「人工智能促进计划」：首批保司参与，AI 承诺落地",
+        "tc": "保監局推出「人工智能促進計劃」：首批保司參與，AI 承諾落地"
+      },
+      "summary": {
+        "sc": "2025 年 8 月 18 日，保监局正式推出「人工智能促进计划」（AI Cohort）：重点参与保险公司承诺负责任地应用 AI 并分享经验；计划聚焦核保、理赔、客户服务与反诈等核心环节，与 GenA.I. 沙盒、保险科技促进小组共同构成港险 AI 监管生态。",
+        "tc": "2025 年 8 月 18 日，保監局正式推出「人工智能促進計劃」（AI Cohort）：重點參與保險公司承諾負責任地應用 AI 並分享經驗；計劃聚焦核保、理賠、客戶服務與反詐等核心環節。"
+      },
+      "why": {
+        "sc": "AI Cohort 启动=港险 AI 监管的起点。对 IFA：这是后续「10 家保司参与」「三家新保司加入」等条目的源头——保监局用「承诺+分享」而非「强制」推动 AI，理解香港 AI 监管基调从这条开始。",
+        "tc": "AI Cohort 啟動=港險 AI 監管的起點。對 IFA：這是後續「10 家保司參與」「三家新保司加入」等條目的源頭——保監局用「承諾+分享」而非「強制」推動 AI。"
+      },
+      "actions": {
+        "front": {
+          "sc": "AI Cohort起点=AI监管基调",
+          "tc": "AI Cohort起點=AI監管基調"
+        },
+        "midback": {
+          "sc": "承诺+分享=AI监管新模式",
+          "tc": "承諾+分享=AI監管新模式"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 3,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "保监局 · 2025年8月",
+        "lang": "zh"
+      },
+      "boards": [
+        "tech"
+      ],
+      "themes": [
+        "tech",
+        "insurtech",
+        "reg"
+      ],
+      "tags": {
+        "sc": [
+          "AI促进计划",
+          "AI Cohort",
+          "2025年8月",
+          "启动"
+        ],
+        "tc": [
+          "AI促進計劃",
+          "AI Cohort",
+          "2025年8月",
+          "啟動"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2025-08-18T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/sc_chi/infocenter/press_releases.html"
+    },
+    {
       "id": "dlapiper-202508-commission",
       "clusterCount": 1,
       "score": 82,
@@ -29391,6 +29458,73 @@
       "contentKind": "circular",
       "publishedAt": "2025-08-01T10:00:00+08:00",
       "originalUrl": "https://www.hongkonginsurancebrokers.com/zh/cpd/requirements"
+    },
+    {
+      "id": "ia-commission-spread-note-20250730",
+      "clusterCount": 1,
+      "score": 78,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "保监局佣金结构应用说明：分红险首年佣金 ≤70%，余额至少分 5 年",
+        "tc": "保監局佣金結構應用說明：分紅險首年佣金 ≤70%，餘額至少分 5 年"
+      },
+      "summary": {
+        "sc": "2025 年 7 月 30 日，保监局发布《关于获授权保险人就分红保单向持牌保险中介人提供酬劳结构的应用说明》（港版「报行合一」）：2026 年 1 月 1 日起，分红险期交保单首年佣金不得超过总佣金的 70%，剩余 30% 须在至少 5 年内平均分摊发放，将中介收入与客户长期利益绑定。",
+        "tc": "2025 年 7 月 30 日，保監局發佈《關於獲授權保險人就分紅保單向持牌保險中介人提供酬勞結構的應用說明》（港版「報行合一」）：2026 年 1 月 1 日起，分紅險期交保單首年佣金不得超過總佣金的 70%，剩餘 30% 須在至少 5 年內平均分攤發放。"
+      },
+      "why": {
+        "sc": "佣金分摊=「三件套」最后一环的官方文件。对 IFA：演示上限管收益展示、转介费管渠道、佣金分摊管激励结构——这条应用说明是佣金改革的核心法规文件，理解 2026 年佣金收入结构变化必须回溯它。",
+        "tc": "佣金分攤=「三件套」最後一環的官方文件。對 IFA：演示上限管收益展示、轉介費管渠道、佣金分攤管激勵結構——這條應用說明是佣金改革的核心法規文件。"
+      },
+      "actions": {
+        "front": {
+          "sc": "首年≤70%=佣金收入结构大改",
+          "tc": "首年≤70%=佣金收入結構大改"
+        },
+        "midback": {
+          "sc": "报行合一=利益绑定长期化",
+          "tc": "報行合一=利益綁定長期化"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 5,
+        "midback": 3,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "保监局 · 2025年7月",
+        "lang": "zh"
+      },
+      "boards": [
+        "compliance"
+      ],
+      "themes": [
+        "compliance",
+        "reg",
+        "channel"
+      ],
+      "tags": {
+        "sc": [
+          "佣金分摊",
+          "70%",
+          "报行合一",
+          "应用说明"
+        ],
+        "tc": [
+          "佣金分攤",
+          "70%",
+          "報行合一",
+          "應用說明"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2025-07-30T10:00:00+08:00",
+      "originalUrl": "https://cj.sina.cn/articles/view/6653244257/18c90736101901xqws?vt=4"
     },
     {
       "id": "manulife-bupa-mou-2025",
@@ -30618,6 +30752,73 @@
       "contentKind": "industry_news",
       "publishedAt": "2025-05-28T10:00:00+08:00",
       "originalUrl": "https://zhuanlan.zhihu.com/p/1996682970564694535"
+    },
+    {
+      "id": "people-hk-selling-202505",
+      "clusterCount": 1,
+      "score": 66,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "scmp",
+      "title": {
+        "sc": "「赴港卖险」现象观察：内地代理人大举南下，监管双向开放推进",
+        "tc": "「赴港賣險」現象觀察：內地代理人大舉南下，監管雙向開放推進"
+      },
+      "summary": {
+        "sc": "2025 年 5 月，人民网/证券日报报道「赴港卖险」新现象：内地代理人在社交平台晒出赴港卖险经历引发关注；南沙金融支持意见提出构建跨境保险交易规则、探索大湾区保险服务便利化；保监局以演示利率上限（6%/6.5%）回应分红险演示竞争。",
+        "tc": "2025 年 5 月，人民網/證券日報報道「赴港賣險」新現象：內地代理人在社交平台晒出赴港賣險經歷引發關注；南沙金融支持意見提出構建跨境保險交易規則、探索大灣區保險服務便利化。"
+      },
+      "why": {
+        "sc": "「赴港卖险」=跨境执业现象的媒体镜像。对 IFA：内地代理人南下的讨论热潮+监管双向开放——这条记录了跨境展业议题在 2025 年中的热度，与「地下保单」监管形成对照。",
+        "tc": "「赴港賣險」=跨境執業現象的媒體鏡像。對 IFA：內地代理人南下的討論熱潮+監管雙向開放——這條記錄了跨境展業議題在 2025 年中的熱度。"
+      },
+      "actions": {
+        "front": {
+          "sc": "赴港卖险=跨境执业的热议",
+          "tc": "赴港賣險=跨境執業的熱議"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {
+          "sc": "双向开放=跨境展业新格局",
+          "tc": "雙向開放=跨境展業新格局"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 1,
+        "lead": 1,
+        "cross": 3
+      },
+      "source": {
+        "sc": "人民网 · 2025年5月",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "cross-border",
+        "market",
+        "career"
+      ],
+      "tags": {
+        "sc": [
+          "赴港卖险",
+          "南沙",
+          "双向开放",
+          "跨境"
+        ],
+        "tc": [
+          "赴港賣險",
+          "南沙",
+          "雙向開放",
+          "跨境"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2025-05-23T10:00:00+08:00",
+      "originalUrl": "http://finance-app.people.cn/n1/2025/0523/c1004-40486177.html"
     },
     {
       "id": "redomiciliation-2025-act",
@@ -34872,6 +35073,73 @@
       "originalUrl": "https://www.ia.org.hk/sc/infocenter/press_releases/20240531_1.html"
     },
     {
+      "id": "ia-referral-fee-circular-202405",
+      "clusterCount": 1,
+      "score": 76,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "保监局转介费通函：点名 90% 佣金转介模式，打击无牌销售",
+        "tc": "保監局轉介費通函：點名 90% 佣金轉介模式，打擊無牌銷售"
+      },
+      "summary": {
+        "sc": "2024 年 5 月下旬，保监局向业界发通函：部分保险经纪公司向无牌转介人支付高达佣金 90% 或以上的转介费，诱使其向内地访客销售长期保单；业务代表沦为「橡皮图章」。保监局指此模式违反发牌规定，正跟进相关经纪公司，并预告加强检查所有持牌中介人的酬劳结构。",
+        "tc": "2024 年 5 月下旬，保監局向業界發通函：部分保險經紀公司向無牌轉介人支付高達佣金 90% 或以上的轉介費，誘使其向內地訪客銷售長期保單；業務代表淪為「橡皮圖章」。保監局正跟進相關經紀公司。"
+      },
+      "why": {
+        "sc": "转介费通函=2025 年 50% 红线的前传。对 IFA：这条通函点破了「90% 佣金转介」的乱象，一年半后演化为转介费 50% 基准——理解 2025-10 的监管行动，必须回溯这条 2024-05 的通函。",
+        "tc": "轉介費通函=2025 年 50% 紅線的前傳。對 IFA：這條通函點破了「90% 佣金轉介」的亂象，一年半後演化為轉介費 50% 基準——理解 2025-10 的監管行動，必須回溯這條 2024-05 的通函。"
+      },
+      "actions": {
+        "front": {
+          "sc": "转介费通函=50%红线前传",
+          "tc": "轉介費通函=50%紅線前傳"
+        },
+        "midback": {
+          "sc": "90%转介=违规模式的红线",
+          "tc": "90%轉介=違規模式的紅線"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 4,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "保监局通函 · 2024年5月",
+        "lang": "zh"
+      },
+      "boards": [
+        "compliance"
+      ],
+      "themes": [
+        "compliance",
+        "reg",
+        "channel"
+      ],
+      "tags": {
+        "sc": [
+          "转介费",
+          "90%",
+          "通函",
+          "无牌销售"
+        ],
+        "tc": [
+          "轉介費",
+          "90%",
+          "通函",
+          "無牌銷售"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2024-05-28T10:00:00+08:00",
+      "originalUrl": "https://m.jrj.com.cn/madapter/insurance/2024/05/28092940795210.shtml"
+    },
+    {
       "id": "ia-20240522-referral-fee-circular",
       "clusterCount": 1,
       "score": 87,
@@ -34938,6 +35206,73 @@
       "contentKind": "circular",
       "publishedAt": "2024-05-22T14:00:00+08:00",
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/20240522_Circular.pdf"
+    },
+    {
+      "id": "ia-wb-catbond-jamaica-202405",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "世界银行再发巨灾债券：1.5 亿美元牙买加飓风保障，香港上市",
+        "tc": "世界銀行再發巨災債券：1.5 億美元牙買加颶風保障，香港上市"
+      },
+      "summary": {
+        "sc": "2024 年 5 月 6 日，保监局欢迎世界银行旗下国际复兴开发银行发行总额 1.5 亿美元（约 11.7 亿港元）巨灾债券并在香港上市，为牙买加未来四个飓风季节提供风暴风险保障。自 2021 年专属规管制度推出以来，香港已有五宗 ILS 发行、总额 7.13 亿美元。",
+        "tc": "2024 年 5 月 6 日，保監局歡迎世界銀行旗下國際復興開發銀行發行總額 1.5 億美元巨災債券並在香港上市，為牙買加未來四個颶風季節提供風暴風險保障。自 2021 年以來香港已有五宗 ILS 發行、總額 7.13 億美元。"
+      },
+      "why": {
+        "sc": "世界银行再发巨灾债券=香港 ILS 枢纽的验证。对 IFA：这是「香港=亚洲巨灾债券中心」叙事的硬案例——世界银行连续选择香港发行，说明专属规管制度+资助计划有效。",
+        "tc": "世界銀行再發巨災債券=香港 ILS 樞紐的驗證。對 IFA：世界銀行連續選擇香港發行，說明專屬規管制度+資助計劃有效。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "世行巨灾债=香港ILS枢纽验证",
+          "tc": "世行巨災債=香港ILS樞紐驗證"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "ILS生态=香港资本创新名片",
+          "tc": "ILS生態=香港資本創新名片"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 3,
+        "lead": 2,
+        "cross": 4
+      },
+      "source": {
+        "sc": "保监局 · 2024年5月",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "ils",
+        "reg",
+        "offshore"
+      ],
+      "tags": {
+        "sc": [
+          "巨灾债券",
+          "世界银行",
+          "ILS",
+          "牙买加"
+        ],
+        "tc": [
+          "巨災債券",
+          "世界銀行",
+          "ILS",
+          "牙買加"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2024-05-06T10:00:00+08:00",
+      "originalUrl": "https://www.ia.org.hk/sc/infocenter/press_releases/20240506.html"
     },
     {
       "id": "chubb-cies-ilas-2024",
@@ -35144,6 +35479,70 @@
       "contentKind": "circular",
       "publishedAt": "2024-04-15T10:00:00+08:00",
       "originalUrl": "https://www.legco.gov.hk/yr2025/chinese/counmtg/papers/cm20251022-sp104-c.pdf"
+    },
+    {
+      "id": "ia-gl4-fit-proper-202404",
+      "clusterCount": 1,
+      "score": 68,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "修订 GL4「适当人选」准则：区分主要/少数股东控制人，2024-07 生效",
+        "tc": "修訂 GL4「適當人選」準則：區分主要/少數股東控制人，2024-07 生效"
+      },
+      "summary": {
+        "sc": "保监局 2024 年 4 月 12 日发出修订版 GL4「适当人选」准则，2024 年 7 月 1 日生效：区分主要股东控制人（>50% 投票权）与少数股东控制人（15%-50%），均须获保监局事先批准；更新核证精算师资格要求及内部控制/企业管治评估。",
+        "tc": "保監局 2024 年 4 月 12 日發出修訂版 GL4「適當人選」準則，2024 年 7 月 1 日生效：區分主要股東控制人（>50% 投票權）與少數股東控制人（15%-50%），均須獲保監局事先批准。"
+      },
+      "why": {
+        "sc": "GL4 修订=股东准入监管的细化。对 IFA：少数股东控制人（15% 起）也需获批——这是「谁可以控制保险公司」的监管边界，理解股东背景审核规则的基础文件。",
+        "tc": "GL4 修訂=股東准入監管的細化。對 IFA：少數股東控制人（15% 起）也需獲批——這是「誰可以控制保險公司」的監管邊界。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "GL4修订=股东准入细化",
+          "tc": "GL4修訂=股東准入細化"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 3,
+        "lead": 1,
+        "cross": 2
+      },
+      "source": {
+        "sc": "保监局/Kennedys · 2024年4月",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "reg",
+        "compliance",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "GL4",
+          "适当人选",
+          "股东控制人",
+          "生效"
+        ],
+        "tc": [
+          "GL4",
+          "適當人選",
+          "股東控制人",
+          "生效"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2024-04-12T10:00:00+08:00",
+      "originalUrl": "https://www.kennedyslaw.com/en/thought-leadership/article/2024/hong-kong-regulatory-insurance-update-may-2024/"
     },
     {
       "id": "ia-icac-joint-action-202404",
@@ -35883,6 +36282,70 @@
       "contentKind": "press",
       "publishedAt": "2024-01-15T10:00:00+08:00",
       "originalUrl": "https://www.kennedyslaw.com/en/thought-leadership/article/2024/hong-kong-regulatory-insurance-update-january-2024/"
+    },
+    {
+      "id": "aia-power-multicurrency3-202401",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "aia",
+      "title": {
+        "sc": "AIA 盈御多元货币计划3：预期总回报超 7%，货币转换市场最早",
+        "tc": "AIA 盈御多元貨幣計劃3：預期總回報超 7%，貨幣轉換市場最早"
+      },
+      "summary": {
+        "sc": "2024 年 1 月 2 日，友邦香港推出「盈御多元货币计划3」：美元/港元保单预期总内部回报率可超 7%，优于市场主要同类产品；第 2 个保单年度起可转换保单货币（市场最早）；新增精神上无行为能力选项，最多 9 种货币、4 种缴付期。",
+        "tc": "2024 年 1 月 2 日，友邦香港推出「盈御多元貨幣計劃3」：美元/港元保單預期總內部回報率可超 7%；第 2 個保單年度起可轉換保單貨幣（市場最早）；最多 9 種貨幣。"
+      },
+      "why": {
+        "sc": "盈御3=友邦旗舰储蓄险的迭代样本。对 IFA：2024 年初「预期回报超 7%」是当时的市场标杆——对照 2025 年演示利率上限（6%/6.5%），这条记录了「上限前时代」的产品参数，是讲监管演进的对照物。",
+        "tc": "盈御3=友邦旗艦儲蓄險的迭代樣本。對 IFA：2024 年初「預期回報超 7%」是當時的市場標杆——對照 2025 年演示利率上限，這條記錄了「上限前時代」的產品參數。"
+      },
+      "actions": {
+        "front": {
+          "sc": "盈御3=演示上限前的标杆",
+          "tc": "盈御3=演示上限前的標杆"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 1,
+        "lead": 1,
+        "cross": 2
+      },
+      "source": {
+        "sc": "友邦保险 · 2024年1月",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "product",
+        "par",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "友邦",
+          "盈御3",
+          "7%",
+          "多元货币"
+        ],
+        "tc": [
+          "友邦",
+          "盈御3",
+          "7%",
+          "多元貨幣"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2024-01-02T10:00:00+08:00",
+      "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2024/aia-press-release-20240102"
     }
   ],
   "calendar": [
@@ -40798,24 +41261,24 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 493 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 493 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 500 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 500 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 493,
+      "totalItems": 500,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 184,
+          "count": 189,
           "label": "监管一手"
         },
         {
           "tier": "insurer",
-          "count": 122,
+          "count": 123,
           "label": "保司公告"
         },
         {
           "tier": "media",
-          "count": 116,
+          "count": 117,
           "label": "媒体报道"
         },
         {
@@ -40894,32 +41357,32 @@
       "topThemes": [
         {
           "theme": "market",
-          "count": 159,
+          "count": 160,
           "label": "市场"
         },
         {
           "theme": "reg",
-          "count": 103,
+          "count": 108,
           "label": "监管"
         },
         {
           "theme": "firm",
-          "count": 94,
+          "count": 96,
           "label": "保司"
         },
         {
           "theme": "product",
-          "count": 77,
+          "count": 78,
           "label": "产品"
         },
         {
           "theme": "offshore",
-          "count": 68,
+          "count": 69,
           "label": "跨境"
         },
         {
           "theme": "compliance",
-          "count": 65,
+          "count": 68,
           "label": "合规"
         },
         {
@@ -40929,7 +41392,7 @@
         },
         {
           "theme": "channel",
-          "count": 39,
+          "count": 41,
           "label": "渠道"
         },
         {
@@ -40939,13 +41402,13 @@
         },
         {
           "theme": "career",
-          "count": 27,
+          "count": 28,
           "label": "职业"
         }
       ],
       "dateRange": {
-        "sc": "2024-01-15 ~ 2026-08-15",
-        "tc": "2024-01-15 ~ 2026-08-15"
+        "sc": "2024-01-02 ~ 2026-08-15",
+        "tc": "2024-01-02 ~ 2026-08-15"
       }
     },
     "marketData": {
