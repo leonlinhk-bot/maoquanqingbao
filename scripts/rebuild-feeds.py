@@ -147,6 +147,15 @@ if start >= 0:
     app = app[:start] + new_block + app[end_j:]
     app_path.write_text(app, encoding='utf-8')
 
+# 更新 index.html 的 app.js 版本号（cache-busting，避免浏览器缓存旧版）
+import re as _re
+_idx_path = ROOT / 'index.html'
+if _idx_path.exists():
+    _idx = _idx_path.read_text(encoding='utf-8')
+    _idx_new = _re.sub(r'app\.js(\?v=[^"]*)?', f'app.js?v={n}', _idx)
+    if _idx_new != _idx:
+        _idx_path.write_text(_idx_new, encoding='utf-8')
+
 print(f"OK featured={len(feat)} all={n} windowNote=synced app.js=rebuilt")
 # --- Closure check ---
 checks = []
