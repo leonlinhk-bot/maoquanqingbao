@@ -1,9 +1,48 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-17T08:16:21Z",
-  "itemCount": 512,
+  "generatedAt": "2026-08-17T10:22:46Z",
+  "itemCount": 515,
   "items": [
+    {
+      "id": "boclife-hygge-eldercare-alliance-20260817",
+      "title": "中银人寿与Hygge Living策略联盟：共建中产家庭跨境养老服务生态",
+      "sourceTier": "insurer",
+      "themes": [
+        "retirement",
+        "cross-border"
+      ],
+      "publishedAt": "2026-08-17T00:00:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=boclife-hygge-eldercare-alliance-20260817",
+      "originalUrl": "https://bocg-life.bocgroup.com/en/news/boc-life-and-hygge-living-form-strategic-alliance-to-build-a-premium-cross-border-elder-care-ecosystem-for-middle-class-families.html"
+    },
+    {
+      "id": "nfra-solvency-q2-5-insurers-20260817",
+      "title": "二季度5家险企偿付能力不达标：长生人寿综合充足率68.4%评级D类 华汇人寿连续C类",
+      "sourceTier": "media",
+      "themes": [
+        "capital",
+        "statistics"
+      ],
+      "publishedAt": "2026-08-17T15:18:01+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-solvency-q2-5-insurers-20260817",
+      "originalUrl": "http://finance.sina.cn/insurance/hydt/2026-08-17/detail-ininreat7846340.d.html"
+    },
+    {
+      "id": "ce-insurance-funds-40trillion-20260817",
+      "title": "险资运用余额首破40万亿：二季度末40.82万亿元 权益配置占比15.66%创历史新高",
+      "sourceTier": "media",
+      "themes": [
+        "capital",
+        "macro"
+      ],
+      "publishedAt": "2026-08-17T09:35:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ce-insurance-funds-40trillion-20260817",
+      "originalUrl": "https://finance.cctv.com/2026/08/17/ARTIWJrHKIaQPZz7PWhHw4Hk260817.shtml"
+    },
     {
       "id": "chubb-care-crit-illness-series-20260817",
       "title": "安达人寿香港推Chubb Care危疾系列：覆盖146种疾病 中港保费同价",
