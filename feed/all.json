@@ -1,9 +1,48 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-17T10:22:46Z",
-  "itemCount": 515,
+  "generatedAt": "2026-08-17T16:40:46Z",
+  "itemCount": 518,
   "items": [
+    {
+      "id": "ibmag-aon-sidecarx-20260817",
+      "title": "Aon推出Sidecar X平台：为R&W及税务保险提供2亿美元专属承保容量",
+      "sourceTier": "pro",
+      "themes": [
+        "ma",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-08-17T22:37:31+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibmag-aon-sidecarx-20260817",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/aon-brings-us200-million-in-dedicated-capacity-to-randw-and-tax-insurance-586358.aspx"
+    },
+    {
+      "id": "toutiao-h1-insurers-profit-20260817",
+      "title": "上半年银保盈利回暖：非上市险企净利707亿增81.75% 国寿中期预增215%-235%创千亿中报",
+      "sourceTier": "media",
+      "themes": [
+        "results",
+        "capital"
+      ],
+      "publishedAt": "2026-08-17T20:11:25+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=toutiao-h1-insurers-profit-20260817",
+      "originalUrl": "http://m.toutiao.com/group/7674972016360915471/"
+    },
+    {
+      "id": "toutiao-dadi-fine-20260818",
+      "title": "大地财险文山两家支公司被罚56万元：未按规定使用费率+编制虚假财务资料",
+      "sourceTier": "media",
+      "themes": [
+        "compliance",
+        "regulation"
+      ],
+      "publishedAt": "2026-08-18T00:07:35+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=toutiao-dadi-fine-20260818",
+      "originalUrl": "http://m.toutiao.com/group/7675032860624962082/"
+    },
     {
       "id": "boclife-hygge-eldercare-alliance-20260817",
       "title": "中银人寿与Hygge Living策略联盟：共建中产家庭跨境养老服务生态",
