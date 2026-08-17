@@ -42855,9 +42855,12 @@ window.HKII_DATA = {
     try { return JSON.parse(localStorage.getItem(SEARCH_LOG_KEY) || "{}"); }
     catch(e){ return {}; }
   }
+  // 拼音中间态特征：纯字母 + 含撇号（如 zhuan'jie、zhuan'ji'er），应过滤
+  const isPinyinJunk = (k) => /^[a-z']+$/i.test(k) && k.includes("'");
   function recordSearch(term){
     const t = String(term||"").trim();
     if(!t || t.length < 2) return;
+    if(isPinyinJunk(t)) return; // 不记录拼音中间态
     const log = loadSearchLog();
     log[t] = (log[t]||0) + 1;
     try { localStorage.setItem(SEARCH_LOG_KEY, JSON.stringify(log)); } catch(e){}
@@ -42866,7 +42869,9 @@ window.HKII_DATA = {
   }
   function loadHotTerms(){
     const log = loadSearchLog();
-    const sorted = Object.entries(log).sort((a,b)=>b[1]-a[1]).map(x=>x[0]);
+    const sorted = Object.entries(log)
+      .filter(([k]) => !isPinyinJunk(k)) // 排除已积累的拼音垃圾词
+      .sort((a,b)=>b[1]-a[1]).map(x=>x[0]);
     // 本地真实热搜在前，默认词补齐（冷启动/不足时兜底）
     const defaults = T().hotSearchTerms || [];
     const merged = [...sorted, ...defaults.filter(d=>!sorted.includes(d))];
@@ -43748,7 +43753,11 @@ ${t.brandName} · ${t.disc}
 
   $("#nav").addEventListener("click", e=>{ const b=e.target.closest("[data-view]"); if(!b) return; state.view=b.dataset.view; state.themeFilter="all"; state.feedTier="all"; state.feedKind="all"; if(b.dataset.view!=="themes") state.themeBoard=null; $("#sidebar").classList.remove("open"); render(); });
   $("#rolePills").addEventListener("click", e=>{ const b=e.target.closest("[data-role]"); if(!b) return; state.role=b.dataset.role; localStorage.setItem("hkii_role", state.role); render(); });
-  $("#q").addEventListener("input", e=>{ state.q=e.target.value; localStorage.setItem("hkii_q",state.q); clearTimeout(window._searchTimer); window._searchTimer=setTimeout(()=>{ recordSearch(state.q); }, 600); render(); });
+  let _isComposing = false;
+  $("#q").addEventListener("compositionstart", ()=>{ _isComposing = true; });
+  $("#q").addEventListener("compositionend", (e)=>{ _isComposing = false; recordSearch(e.target.value); });
+  $("#q").addEventListener("input", e=>{ state.q=e.target.value; localStorage.setItem("hkii_q",state.q); render(); });
+  $("#q").addEventListener("keydown", e=>{ if(e.key==="Enter"){ recordSearch(state.q); } });
   $("#searchBox").addEventListener("click", e=>{ const hs=e.target.closest("[data-hotsearch]"); if(!hs) return; state.q=hs.dataset.hotsearch; document.getElementById("q").value=state.q; const hd=document.getElementById("hotsearchDropdown"); if(hd) hd.style.display="none"; recordSearch(state.q); render(); });
   $("#content").addEventListener("click", e=>{
     const ft2=e.target.closest("#facetToggle"); if(ft2){ const fm=document.getElementById("facetMore"); if(fm) fm.style.display=fm.style.display==="none"?"":"none"; ft2.textContent=fm.style.display==="none"?"文种 ▾":"文种 ▴"; return; }const hc=e.target.closest("[data-hot]"); if(hc){ state.q=hc.dataset.hot; document.getElementById("q").value=state.q; recordSearch(state.q); render(); return; }
