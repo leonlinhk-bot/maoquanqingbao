@@ -1,9 +1,48 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-16T11:56:58Z",
-  "itemCount": 509,
+  "generatedAt": "2026-08-17T02:29:17Z",
+  "itemCount": 512,
   "items": [
+    {
+      "id": "chubb-care-crit-illness-series-20260817",
+      "title": "安达人寿香港推Chubb Care危疾系列：覆盖146种疾病 中港保费同价",
+      "sourceTier": "insurer",
+      "themes": [
+        "health",
+        "product"
+      ],
+      "publishedAt": "2026-08-17T05:30:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=chubb-care-crit-illness-series-20260817",
+      "originalUrl": "https://insuranceasia.com/insurance/news/chubb-life-hong-kong-launches-health-plan-covers-146-conditions"
+    },
+    {
+      "id": "fwd-ebeyond-medical-20260817",
+      "title": "富卫调查：71%港人依赖雇主团体医疗但仅29%认为足够 推EBeyond补充方案",
+      "sourceTier": "insurer",
+      "themes": [
+        "health",
+        "market"
+      ],
+      "publishedAt": "2026-08-17T05:15:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fwd-ebeyond-medical-20260817",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-workers-doubt-employer-medical-cover-meets-costs"
+    },
+    {
+      "id": "steadfast-takeover-final-stages-20260817",
+      "title": "Amwins、Dragoneer与KKR对澳洲保险经纪Steadfast的77亿澳元收购进入最后阶段",
+      "sourceTier": "media",
+      "themes": [
+        "market",
+        "benchmark"
+      ],
+      "publishedAt": "2026-08-17T00:00:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=steadfast-takeover-final-stages-20260817",
+      "originalUrl": "https://insuranceasianews.com/amwins-dragoneer-and-kkr-close-to-finalising-us5-4bn-steadfast-takeover/"
+    },
     {
       "id": "toutiao-fwd-juntian-broker-20260815",
       "title": "富卫经「富卫财务策划」入股内地全国性保险经纪隽天20% 李泽楷布局内地渠道",

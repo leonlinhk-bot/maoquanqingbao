@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-08-15T18:20:06+08:00",
-    "itemCount": 509,
+    "generatedAt": "2026-08-17T10:28:28+08:00",
+    "itemCount": 512,
     "windowNote": {
-      "sc": "本库509条。",
-      "tc": "本庫509條。"
+      "sc": "本库512条。",
+      "tc": "本庫512條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -146,7 +146,7 @@
       ],
       "registryFile": "data/sources.yaml"
     },
-    "asOf": "2026-08-15",
+    "asOf": "2026-08-17",
     "roles": [
       {
         "id": "front",
@@ -264,6 +264,234 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "chubb",
+      "title": {
+        "sc": "安达人寿香港推Chubb Care危疾系列：覆盖146种疾病 中港保费同价",
+        "tc": "安達人壽香港推Chubb Care危疾系列：覆蓋146種疾病 中港保費同價"
+      },
+      "summary": {
+        "sc": "安达人寿香港推出Chubb Care危疾保险系列：「每种守护」计划覆盖146种疾病、最高800%保额；另设癌症·心血管·糖尿病守护计划，针对康复者与三高人群简化核保、最高300%保额。主打中港统一保费、接受内地指定医院健康报告，并设家庭医生主导的医疗个案管理团队，回应香港私立医疗成本全球第二高的保障缺口。",
+        "tc": "安達人壽香港推出Chubb Care危疾保險系列：「每種守護」計劃覆蓋146種疾病、最高800%保額；另設癌症·心血管·糖尿病守護計劃，針對康復者與三高人群簡化核保、最高300%保額。主打中港統一保費、接受內地指定醫院健康報告，並設家庭醫生主導的醫療個案管理團隊，回應香港私立醫療成本全球第二高的保障缺口。"
+      },
+      "why": {
+        "sc": "危疾保障首次系统性打通『已病可保』人群与中港同价，对内地客与港客的医疗险配置逻辑均有直接参考价值，是产品侧值得留档的结构性样本。",
+        "tc": "危疾保障首次系統性打通『已病可保』人群與中港同價，對內地客與港客的醫療險配置邏輯均有直接參考價值，是產品側值得留檔的結構性樣本。"
+      },
+      "actions": {
+        "front": {
+          "sc": "已病史客户=可保人群扩容",
+          "tc": "已病史客戶=可保人群擴容"
+        },
+        "midback": {
+          "sc": "中港同价=定价与合规新课题",
+          "tc": "中港同價=定價與合規新課題"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "内地医院报告互认=跨境服务节点",
+          "tc": "內地醫院報告互認=跨境服務節點"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 1,
+        "lead": 1,
+        "cross": 2
+      },
+      "source": {
+        "sc": "InsuranceAsia（安达人寿香港发布）",
+        "lang": "en"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "health",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "安达人寿",
+          "Chubb",
+          "危疾保险",
+          "中港同价",
+          "简化核保"
+        ],
+        "tc": [
+          "安達人壽",
+          "Chubb",
+          "危疾保險",
+          "中港同價",
+          "簡化核保"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-17T05:30:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/chubb-life-hong-kong-launches-health-plan-covers-146-conditions",
+      "ingestedAt": "2026-08-17T10:28:28+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "id": "chubb-care-crit-illness-series-20260817"
+    },
+    {
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "fwd",
+      "title": {
+        "sc": "富卫调查：71%港人依赖雇主团体医疗但仅29%认为足够 推EBeyond补充方案",
+        "tc": "富衛調查：71%港人依賴僱主團體醫療但僅29%認為足夠 推EBeyond補充方案"
+      },
+      "summary": {
+        "sc": "富卫香港《在职人口医疗保障调查》访问逾1100名25-65岁在职人士：71%主要依赖雇主团体医疗险，但仅29%相信保障足以覆盖实际医疗开支，仅17%自购补充保障，74%忧虑退休后独自承担高额医疗费。富卫据此推出EBeyond医疗方案：EBoost在职填补团险缺口、EBridge衔接转工或退休后的保障空窗，投保仅需回答两条健康问题，自有团险成员免核保。",
+        "tc": "富衛香港《在職人口醫療保障調查》訪問逾1100名25-65歲在職人士：71%主要依賴僱主團體醫療險，但僅29%相信保障足以覆蓋實際醫療開支，僅17%自購補充保障，74%憂慮退休後獨自承擔高額醫療費。富衛據此推出EBeyond醫療方案：EBoost在職填補團險缺口、EBridge銜接轉工或退休後的保障空窗，投保僅需回答兩條健康問題，自有團險成員免核保。"
+      },
+      "why": {
+        "sc": "团体医疗险离职即失效的结构性缺口被量化，EBeyond两条健康问题即承保的轻核保设计，是前线向在职客户推荐补充医疗险的现成话术与产品抓手。",
+        "tc": "團體醫療險離職即失效的結構性缺口被量化，EBeyond兩條健康問題即承保的輕核保設計，是前線向在職客戶推薦補充醫療險的現成話術與產品抓手。"
+      },
+      "actions": {
+        "front": {
+          "sc": "团体医疗缺口=补充险展业入口",
+          "tc": "團體醫療缺口=補充險展業入口"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "EBridge衔接离职期=团队留存工具",
+          "tc": "EBridge銜接離職期=團隊留存工具"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 1,
+        "lead": 2,
+        "cross": 0
+      },
+      "source": {
+        "sc": "InsuranceAsia（富卫香港调查及发布）",
+        "lang": "en"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "health",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "富卫",
+          "团体医疗",
+          "EBeyond",
+          "医疗保障调查",
+          "补充医疗险"
+        ],
+        "tc": [
+          "富衛",
+          "團體醫療",
+          "EBeyond",
+          "醫療保障調查",
+          "補充醫療險"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-17T05:15:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-workers-doubt-employer-medical-cover-meets-costs",
+      "ingestedAt": "2026-08-17T10:28:28+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "id": "fwd-ebeyond-medical-20260817"
+    },
+    {
+      "clusterCount": 1,
+      "score": 60,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasianews",
+      "title": {
+        "sc": "Amwins、Dragoneer与KKR对澳洲保险经纪Steadfast的77亿澳元收购进入最后阶段",
+        "tc": "Amwins、Dragoneer與KKR對澳洲保險經紀Steadfast的77億澳元收購進入最後階段"
+      },
+      "summary": {
+        "sc": "据InsuranceAsia News，Amwins、Dragoneer与KKR组成的财团对澳洲最大保险经纪集团Steadfast的AU$77亿（约US$54亿）收购进入尽职调查最后阶段，排他期再度延长至周五。收购若完成将重塑亚太保险经纪格局，对香港经纪行估值锚点与跨境中介竞争态势具对标观察价值。",
+        "tc": "據InsuranceAsia News，Amwins、Dragoneer與KKR組成的財團對澳洲最大保險經紀集團Steadfast的AU$77億（約US$54億）收購進入盡職調查最後階段，排他期再度延長至週五。收購若完成將重塑亞太保險經紀格局，對香港經紀行估值錨點與跨境中介競爭態勢具對標觀察價值。"
+      },
+      "why": {
+        "sc": "亚太最大经纪并购案临近收官，直接关系港险中介渠道竞争格局与经纪行估值参照，适合作为同业对标情报留存。",
+        "tc": "亞太最大經紀併購案臨近收官，直接關係港險中介渠道競爭格局與經紀行估值參照，適合作為同業對標情報留存。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "经纪行业整合=渠道话语权迁移",
+          "tc": "經紀行業整合=渠道話語權遷移"
+        },
+        "cross": {
+          "sc": "全球经纪巨头扩张=港险渠道竞争变量",
+          "tc": "全球經紀巨頭擴張=港險渠道競爭變量"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 2
+      },
+      "source": {
+        "sc": "InsuranceAsia News",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "market",
+        "benchmark"
+      ],
+      "tags": {
+        "sc": [
+          "Steadfast",
+          "Amwins",
+          "KKR",
+          "保险经纪",
+          "并购"
+        ],
+        "tc": [
+          "Steadfast",
+          "Amwins",
+          "KKR",
+          "保險經紀",
+          "併購"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-17T00:00:00+08:00",
+      "originalUrl": "https://insuranceasianews.com/amwins-dragoneer-and-kkr-close-to-finalising-us5-4bn-steadfast-takeover/",
+      "ingestedAt": "2026-08-17T10:28:28+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "id": "steadfast-takeover-final-stages-20260817"
+    },
     {
       "id": "toutiao-fwd-juntian-broker-20260815",
       "clusterCount": 1,
@@ -41932,10 +42160,10 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 509 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 509 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 512 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 512 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 509,
+      "totalItems": 512,
       "sourceTiers": [
         {
           "tier": "official",
@@ -41944,7 +42172,7 @@
         },
         {
           "tier": "insurer",
-          "count": 123,
+          "count": 125,
           "label": "保司公告"
         },
         {
@@ -41954,7 +42182,7 @@
         },
         {
           "tier": "media",
-          "count": 116,
+          "count": 117,
           "label": "媒体报道"
         },
         {
@@ -42033,7 +42261,7 @@
       "topThemes": [
         {
           "theme": "market",
-          "count": 160,
+          "count": 162,
           "label": "市场"
         },
         {
@@ -42048,7 +42276,7 @@
         },
         {
           "theme": "product",
-          "count": 78,
+          "count": 79,
           "label": "产品"
         },
         {
@@ -42083,8 +42311,8 @@
         }
       ],
       "dateRange": {
-        "sc": "2013-03-05 ~ 2026-08-15",
-        "tc": "2013-03-05 ~ 2026-08-15"
+        "sc": "2013-03-05 ~ 2026-08-17",
+        "tc": "2013-03-05 ~ 2026-08-17"
       }
     },
     "marketData": {
