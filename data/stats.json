@@ -630,19 +630,19 @@
       "tc": "情報密度"
     },
     "subtitle": {
-      "sc": "自动从 518 条资讯聚合 · sourceKey 标准化完成",
-      "tc": "自動從 518 條資訊聚合 · sourceKey 標準化完成"
+      "sc": "自动从 524 条资讯聚合 · sourceKey 标准化完成",
+      "tc": "自動從 524 條資訊聚合 · sourceKey 標準化完成"
     },
-    "totalItems": 518,
+    "totalItems": 524,
     "sourceTiers": [
       {
         "tier": "official",
-        "count": 190,
+        "count": 191,
         "label": "监管一手"
       },
       {
         "tier": "insurer",
-        "count": 126,
+        "count": 127,
         "label": "保司公告"
       },
       {
@@ -652,7 +652,7 @@
       },
       {
         "tier": "media",
-        "count": 121,
+        "count": 125,
         "label": "媒体报道"
       },
       {
@@ -750,14 +750,14 @@
         "label": "产品"
       },
       {
+        "theme": "compliance",
+        "count": 70,
+        "label": "合规"
+      },
+      {
         "theme": "offshore",
         "count": 70,
         "label": "跨境"
-      },
-      {
-        "theme": "compliance",
-        "count": 69,
-        "label": "合规"
       },
       {
         "theme": "macro",
@@ -771,13 +771,13 @@
       },
       {
         "theme": "reinsurance",
-        "count": 30,
+        "count": 31,
         "label": "再保险"
       },
       {
-        "theme": "family-office",
+        "theme": "cross-border",
         "count": 29,
-        "label": "家办"
+        "label": "跨境"
       }
     ],
     "dateRange": {

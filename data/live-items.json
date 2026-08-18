@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-08-18T00:40:46+08:00",
-    "itemCount": 518,
+    "generatedAt": "2026-08-18T18:18:06+08:00",
+    "itemCount": 524,
     "windowNote": {
-      "sc": "本库518条。",
-      "tc": "本庫518條。"
+      "sc": "本库524条。",
+      "tc": "本庫524條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -264,6 +264,447 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "ib-china-life-slower-growth-20260818",
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "title": {
+        "sc": "惠誉：内地寿险增速放缓 银保新费用规则挤压短期销售 利润率回升",
+        "tc": "惠譽：內地壽險增速放緩 銀保新費用規則擠壓短期銷售 利潤率回升"
+      },
+      "summary": {
+        "sc": "惠誉称，内地银保渠道新费用管理规则令寿险短期销售承压、保费增速放缓，但行业再平衡带动利润率扩张。新规限制银保渠道费用支出，叠加预定利率动态调整与「报行合一」深化，险企从规模驱动转向价值驱动。[EN原文]",
+        "tc": "惠譽稱，內地銀保渠道新費用管理規則令壽險短期銷售承壓、保費增速放緩，但行業再平衡帶動利潤率擴張。新規限制銀保渠道費用支出，疊加預定利率動態調整與「報行合一」深化，險企從規模驅動轉向價值驅動。[EN原文]"
+      },
+      "why": {
+        "sc": "内地银保费用收紧是「报行合一」在渠道端的延伸，直接影响内地寿险成本与竞争力；对港险中介，这是内地渠道成本上行、港险相对吸引力变化的最新佐证。",
+        "tc": "內地銀保費用收緊是「報行合一」在渠道端的延伸，直接影響內地壽險成本與競爭力；對港險中介，這是內地渠道成本上行、港險相對吸引力變化的最新佐證。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {},
+        "cross": {
+          "sc": "内地渠道成本与竞争力变化跟踪",
+          "tc": "內地渠道成本與競爭力變化跟蹤"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Business Asia（引惠誉）",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "bancassurance",
+        "margin"
+      ],
+      "tags": {
+        "sc": [
+          "惠誉",
+          "内地寿险",
+          "银保渠道",
+          "报行合一"
+        ],
+        "tc": [
+          "惠譽",
+          "內地壽險",
+          "銀保渠道",
+          "報行合一"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-18T00:49:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/chinas-life-insurers-face-slower-growth-as-beijing-tightens-rules-586393.aspx",
+      "ingestedAt": "2026-08-18T18:18:06+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ia-reinsurers-record-663b-20260818",
+      "clusterCount": 1,
+      "score": 64,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "AM Best：全球再保专属资本6630亿美元创纪录 资金利用率降至77%",
+        "tc": "AM Best：全球再保專屬資本6630億美元創紀錄 資金利用率降至77%"
+      },
+      "summary": {
+        "sc": "AM Best：2025年末全球专属再保资本6630亿美元创纪录（上年6070亿），传统再保资本5400亿、第三方资本同创新高；资金利用率由85%降至77%，可用资本增而所需资本平稳，缓冲垫增厚。美欧占73%，百慕大升至16%，前五大公司份额54.2%创2018年以来新低。[EN原文]",
+        "tc": "AM Best：2025年末全球專屬再保資本6630億美元創紀錄（上年6070億），傳統再保資本5400億、第三方資本同創新高；資金利用率由85%降至77%，可用資本增而所需資本平穩，緩衝墊增厚。美歐佔73%，百慕大升至16%，前五大公司份額54.2%創2018年以來新低。[EN原文]"
+      },
+      "why": {
+        "sc": "再保资本过剩而风险需求平稳=续保定价进入「买方市场」观察期；对港险直保与再保谈判，可用容量与费率松动空间是明年续转的关键变量。",
+        "tc": "再保資本過剩而風險需求平穩=續保定價進入「買方市場」觀察期；對港險直保與再保談判，可用容量與費率鬆動空間是明年續轉的關鍵變量。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "再保续保议价空间评估",
+          "tc": "再保續保議價空間評估"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "全球再保容量与费率坐标",
+          "tc": "全球再保容量與費率座標"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 2,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Asia（AM Best报告）",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reinsurance",
+        "capacity"
+      ],
+      "tags": {
+        "sc": [
+          "AM Best",
+          "再保险",
+          "承保能力",
+          "资本利用率"
+        ],
+        "tc": [
+          "AM Best",
+          "再保險",
+          "承保能力",
+          "資本利用率"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-18T05:30:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/reinsurers-pile-record-663b-risk-needs-stay-flat",
+      "ingestedAt": "2026-08-18T18:18:06+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ia-insurtech-asia-600m-q2-20260818",
+      "clusterCount": 1,
+      "score": 63,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "CB Insights：亚洲保险科技Q2融资6亿美元仅8笔 两笔巨额轮贡献5亿",
+        "tc": "CB Insights：亞洲保險科技Q2融資6億美元僅8筆 兩筆巨額輪貢獻5億"
+      },
+      "summary": {
+        "sc": "CB Insights：亚洲保险科技创企二季度融资6亿美元、仅8笔交易，占全球107笔约一成；两笔巨额轮贡献5亿——韩国Upstage两轮C轮共5.03亿美元（估值10亿美元），马来西亚PolicyStreet获2100万美元C轮。亚洲独角兽维持3家，中国元芯科技估值43亿美元列全球第七。[EN原文]",
+        "tc": "CB Insights：亞洲保險科技創企二季度融資6億美元、僅8筆交易，佔全球107筆約一成；兩筆巨額輪貢獻5億——韓國Upstage兩輪C輪共5.03億美元（估值10億美元），馬來西亞PolicyStreet獲2100萬美元C輪。亞洲獨角獸維持3家，中國元芯科技估值43億美元列全球第七。[EN原文]"
+      },
+      "why": {
+        "sc": "融资向头部集中、笔数收缩，资本对保险科技更挑剔；估值标杆与赛道风向是判断本土insurtech生态合作与竞争格局的参照，也呼应保监局AI促进计划的行业底色。",
+        "tc": "融資向頭部集中、筆數收縮，資本對保險科技更挑剔；估值標桿與賽道風向是判斷本土insurtech生態合作與競爭格局的參照，也呼應保監局AI促進計劃的行業底色。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "保险科技融资风向=生态合作筛选参考",
+          "tc": "保險科技融資風向=生態合作篩選參考"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "亚洲insurtech估值坐标",
+          "tc": "亞洲insurtech估值座標"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "tech"
+      ],
+      "themes": [
+        "insurtech",
+        "funding"
+      ],
+      "tags": {
+        "sc": [
+          "保险科技",
+          "insurtech",
+          "融资",
+          "CB Insights",
+          "亚洲"
+        ],
+        "tc": [
+          "保險科技",
+          "insurtech",
+          "融資",
+          "CB Insights",
+          "亞洲"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-18T05:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/asia-insurance-tech-raises-600m-across-just-eight-deals",
+      "ingestedAt": "2026-08-18T18:18:06+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "caixin-hk-banks-sfof-decl-20260818",
+      "clusterCount": 1,
+      "score": 65,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "caixin",
+      "title": {
+        "sc": "香港银行启动存量内地客户资金来源声明 汇丰要求9月12日前提交",
+        "tc": "香港銀行啟動存量內地客戶資金來源聲明 匯豐要求9月12日前提交"
+      },
+      "summary": {
+        "sc": "财新报道：按香港金管局5月通函指引，各银行近日启动存量内地投资账户资金来源声明要求；汇丰香港已通知部分内地存量客户，须于9月12日前经App提交《开立/维持账户之声明书》并更新联系信息，确认投资资金均来自内地以外合法来源，同时排查僵尸账户。",
+        "tc": "財新報道：按香港金管局5月通函指引，各銀行近日啟動存量內地投資賬戶資金來源聲明要求；匯豐香港已通知部分內地存量客戶，須於9月12日前經App提交《開立/維持賬戶之聲明書》並更新聯繫信息，確認投資資金均來自內地以外合法來源，同時排查殭屍賬戶。"
+      },
+      "why": {
+        "sc": "资金端合规口径从「新开户」扩至「存量账户」：内地客户赴港投保的保费资金来源审查持续趋严，与征税、CRS议题叠加，跨境财富叙事进入「合规三件套」阶段，客户沟通须前置资金来源合规提示。",
+        "tc": "資金端合規口徑從「新開戶」擴至「存量賬戶」：內地客戶赴港投保的保費資金來源審查持續趨嚴，與徵稅、CRS議題疊加，跨境財富敘事進入「合規三件套」階段，客戶溝通須前置資金來源合規提示。"
+      },
+      "actions": {
+        "front": {
+          "sc": "提醒内地存量客户准备资金来源凭证",
+          "tc": "提醒內地存量客戶準備資金來源憑證"
+        },
+        "midback": {
+          "sc": "跨境资金合规流程更新",
+          "tc": "跨境資金合規流程更新"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "财新网",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "cross-border",
+        "compliance"
+      ],
+      "tags": {
+        "sc": [
+          "财新",
+          "资金来源声明",
+          "香港银行",
+          "内地客户",
+          "合规"
+        ],
+        "tc": [
+          "財新",
+          "資金來源聲明",
+          "香港銀行",
+          "內地客戶",
+          "合規"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-18T18:05:00+08:00",
+      "originalUrl": "https://finance.caixin.com/m/2026-08-18/102475388.html",
+      "ingestedAt": "2026-08-18T18:18:06+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "aia-h1-2026-results-date-20260818",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "aia",
+      "title": {
+        "sc": "友邦保险8月20日公布2026年中期业绩 上午9时网络直播分析员简报会",
+        "tc": "友邦保險8月20日公佈2026年中期業績 上午9時網絡直播分析員簡報會"
+      },
+      "summary": {
+        "sc": "友邦集团投资者关系页面更新：将于8月20日（周四）公布2026年中期业绩，CEO李源祥及执委会成员当日上午9时透过网络直播主持分析员简报会。友邦首季新业务价值增长13%，市场聚焦征税风波后内地访客业务指引与下半年展望。[EN原文]",
+        "tc": "友邦集團投資者關係頁面更新：將於8月20日（週四）公佈2026年中期業績，CEO李源祥及執委會成員當日上午9時透過網絡直播主持分析員簡報會。友邦首季新業務價值增長13%，市場聚焦徵稅風波後內地訪客業務指引與下半年展望。[EN原文]"
+      },
+      "why": {
+        "sc": "中期业绩是检验MCV征税风波后香港业务韧性的关键数据点：新业务价值增速与内地访客占比指引，将直接左右下半年渠道信心与客户预期管理节奏。",
+        "tc": "中期業績是檢驗MCV徵稅風波後香港業務韌性的關鍵數據點：新業務價值增速與內地訪客佔比指引，將直接左右下半年渠道信心與客戶預期管理節奏。"
+      },
+      "actions": {
+        "front": {
+          "sc": "8月20日业绩前备好客户预期管理素材",
+          "tc": "8月20日業績前備好客戶預期管理素材"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "业绩发布后第一时间解读VONB与MCV口径",
+          "tc": "業績發佈後第一時間解讀VONB與MCV口徑"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "友邦保险投资者关系",
+        "lang": "zh"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "results",
+        "h1"
+      ],
+      "tags": {
+        "sc": [
+          "友邦",
+          "AIA",
+          "中期业绩",
+          "2026 H1"
+        ],
+        "tc": [
+          "友邦",
+          "AIA",
+          "中期業績",
+          "2026 H1"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-18T11:59:00+08:00",
+      "originalUrl": "https://www.aia.com/zh-hk/investor-relations/overview",
+      "ingestedAt": "2026-08-18T18:18:06+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "nfra-xiao-hui-hk-20260818",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "nfra",
+      "title": {
+        "sc": "金融监管总局副局长肖远企会见香港财库局局长许正宇：支持内地保险资金参与互联互通",
+        "tc": "金融監管總局副局長肖遠企會見香港財庫局局長許正宇：支持內地保險資金參與互聯互通"
+      },
+      "summary": {
+        "sc": "8月18日，金融监管总局副局长肖远企会见香港财经事务及库务局局长许正宇一行，就两地金融业最新发展、支持香港巩固提升国际金融中心地位等议题交流；肖远企明确支持内地保险资金参与内地与香港金融市场互联互通，支持内地保险机构通过沪深港通投资港股ETF。",
+        "tc": "8月18日，金融監管總局副局長肖遠企會見香港財經事務及庫務局局長許正宇一行，就兩地金融業最新發展、支持香港鞏固提升國際金融中心地位等議題交流；肖遠企明確支持內地保險資金參與內地與香港金融市場互聯互通，支持內地保險機構通過滬深港通投資港股ETF。"
+      },
+      "why": {
+        "sc": "监管高层同日表态「保险资金+互联互通」双支持，是内地险资配置港股的官方正面信号；对港险资金端与跨境配置叙事，这是征税风波后罕见的官方暖风。",
+        "tc": "監管高層同日表態「保險資金+互聯互通」雙支持，是內地險資配置港股的官方正面信號；對港險資金端與跨境配置敘事，這是徵稅風波後罕見的官方暖風。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "两地互联互通政策温度监测",
+          "tc": "兩地互聯互通政策溫度監測"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "内地险资港股配置动向跟踪",
+          "tc": "內地險資港股配置動向跟蹤"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 1,
+        "cross": 2
+      },
+      "source": {
+        "sc": "财联社（转引金融监管总局官网）",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "connectivity",
+        "cross-border"
+      ],
+      "tags": {
+        "sc": [
+          "金融监管总局",
+          "肖远企",
+          "许正宇",
+          "互联互通",
+          "保险资金"
+        ],
+        "tc": [
+          "金融監管總局",
+          "肖遠企",
+          "許正宇",
+          "互聯互通",
+          "保險資金"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-18T17:02:00+08:00",
+      "originalUrl": "https://www.cls.cn/detail/2457221",
+      "ingestedAt": "2026-08-18T18:18:06+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
     {
       "id": "ibmag-aon-sidecarx-20260817",
       "clusterCount": 1,
@@ -42613,19 +43054,19 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 518 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 518 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 524 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 524 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 518,
+      "totalItems": 524,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 190,
+          "count": 191,
           "label": "监管一手"
         },
         {
           "tier": "insurer",
-          "count": 126,
+          "count": 127,
           "label": "保司公告"
         },
         {
@@ -42635,7 +43076,7 @@
         },
         {
           "tier": "media",
-          "count": 121,
+          "count": 125,
           "label": "媒体报道"
         },
         {
@@ -42733,14 +43174,14 @@
           "label": "产品"
         },
         {
+          "theme": "compliance",
+          "count": 70,
+          "label": "合规"
+        },
+        {
           "theme": "offshore",
           "count": 70,
           "label": "跨境"
-        },
-        {
-          "theme": "compliance",
-          "count": 69,
-          "label": "合规"
         },
         {
           "theme": "macro",
@@ -42754,13 +43195,13 @@
         },
         {
           "theme": "reinsurance",
-          "count": 30,
+          "count": 31,
           "label": "再保险"
         },
         {
-          "theme": "family-office",
+          "theme": "cross-border",
           "count": 29,
-          "label": "家办"
+          "label": "跨境"
         }
       ],
       "dateRange": {

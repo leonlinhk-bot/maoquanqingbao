@@ -1,9 +1,87 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-17T16:40:46Z",
-  "itemCount": 518,
+  "generatedAt": "2026-08-18T10:18:09Z",
+  "itemCount": 524,
   "items": [
+    {
+      "id": "ib-china-life-slower-growth-20260818",
+      "title": "惠誉：内地寿险增速放缓 银保新费用规则挤压短期销售 利润率回升",
+      "sourceTier": "media",
+      "themes": [
+        "bancassurance",
+        "margin"
+      ],
+      "publishedAt": "2026-08-18T00:49:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ib-china-life-slower-growth-20260818",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/chinas-life-insurers-face-slower-growth-as-beijing-tightens-rules-586393.aspx"
+    },
+    {
+      "id": "ia-reinsurers-record-663b-20260818",
+      "title": "AM Best：全球再保专属资本6630亿美元创纪录 资金利用率降至77%",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "capacity"
+      ],
+      "publishedAt": "2026-08-18T05:30:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-reinsurers-record-663b-20260818",
+      "originalUrl": "https://insuranceasia.com/insurance/news/reinsurers-pile-record-663b-risk-needs-stay-flat"
+    },
+    {
+      "id": "ia-insurtech-asia-600m-q2-20260818",
+      "title": "CB Insights：亚洲保险科技Q2融资6亿美元仅8笔 两笔巨额轮贡献5亿",
+      "sourceTier": "media",
+      "themes": [
+        "insurtech",
+        "funding"
+      ],
+      "publishedAt": "2026-08-18T05:00:00+08:00",
+      "score": 63,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-insurtech-asia-600m-q2-20260818",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/asia-insurance-tech-raises-600m-across-just-eight-deals"
+    },
+    {
+      "id": "caixin-hk-banks-sfof-decl-20260818",
+      "title": "香港银行启动存量内地客户资金来源声明 汇丰要求9月12日前提交",
+      "sourceTier": "media",
+      "themes": [
+        "cross-border",
+        "compliance"
+      ],
+      "publishedAt": "2026-08-18T18:05:00+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=caixin-hk-banks-sfof-decl-20260818",
+      "originalUrl": "https://finance.caixin.com/m/2026-08-18/102475388.html"
+    },
+    {
+      "id": "aia-h1-2026-results-date-20260818",
+      "title": "友邦保险8月20日公布2026年中期业绩 上午9时网络直播分析员简报会",
+      "sourceTier": "insurer",
+      "themes": [
+        "results",
+        "h1"
+      ],
+      "publishedAt": "2026-08-18T11:59:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-h1-2026-results-date-20260818",
+      "originalUrl": "https://www.aia.com/zh-hk/investor-relations/overview"
+    },
+    {
+      "id": "nfra-xiao-hui-hk-20260818",
+      "title": "金融监管总局副局长肖远企会见香港财库局局长许正宇：支持内地保险资金参与互联互通",
+      "sourceTier": "official",
+      "themes": [
+        "connectivity",
+        "cross-border"
+      ],
+      "publishedAt": "2026-08-18T17:02:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-xiao-hui-hk-20260818",
+      "originalUrl": "https://www.cls.cn/detail/2457221"
+    },
     {
       "id": "ibmag-aon-sidecarx-20260817",
       "title": "Aon推出Sidecar X平台：为R&W及税务保险提供2亿美元专属承保容量",
