@@ -1,9 +1,152 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-18T10:18:09Z",
-  "itemCount": 524,
+  "generatedAt": "2026-08-19T10:24:04Z",
+  "itemCount": 535,
   "items": [
+    {
+      "id": "ibmag-gallagherre-digital-risk-20260819",
+      "title": "Gallagher Re成立数字风险部门：AI重塑风险累积 将AI责任险、数据中心与网络险纳入统一框架",
+      "sourceTier": "pro",
+      "themes": [
+        "ai",
+        "cyber"
+      ],
+      "publishedAt": "2026-08-19T17:11:11+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibmag-gallagherre-digital-risk-20260819",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/gallagher-re-creates-digital-risk-unit-as-ai-reshapes-accumulation-586647.aspx"
+    },
+    {
+      "id": "aastocks-ubs-fwd-coverage-20260819",
+      "title": "瑞银首次覆盖富卫集团：给予「中性」评级 目标价32港元",
+      "sourceTier": "pro",
+      "themes": [
+        "channel",
+        "results"
+      ],
+      "publishedAt": "2026-08-19T13:02:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aastocks-ubs-fwd-coverage-20260819",
+      "originalUrl": "https://wdatacn.aastocks.com/en/mobile/news.aspx?newsid=NOW.1539244&newssource=AAFN"
+    },
+    {
+      "id": "prudential-taikoo-hq-20260819",
+      "title": "保诚与太古地产签署租赁协议 扩充太古坊香港总部至约8.3万方呎",
+      "sourceTier": "insurer",
+      "themes": [
+        "firm",
+        "career"
+      ],
+      "publishedAt": "2026-08-19T12:03:10+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=prudential-taikoo-hq-20260819",
+      "originalUrl": "http://m.toutiao.com/group/7675588382818386478/"
+    },
+    {
+      "id": "ia-cyber-factory-gaps-20260819",
+      "title": "InsuranceAsia：亚太互联工厂网络风险上升 网络险与财产险承保缺口暴露",
+      "sourceTier": "media",
+      "themes": [
+        "cyber",
+        "uw"
+      ],
+      "publishedAt": "2026-08-19T05:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-cyber-factory-gaps-20260819",
+      "originalUrl": "https://insuranceasia.com/insurance/exclusive/how-cyber-insurance-gaps-can-leave-factory-damage-uncovered"
+    },
+    {
+      "id": "bowtie-stillcover-20260818",
+      "title": "Bowtie推出StillCover补充医疗险：面向慢性病患者及公院使用者",
+      "sourceTier": "media",
+      "themes": [
+        "health",
+        "insurtech"
+      ],
+      "publishedAt": "2026-08-18T18:08:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=bowtie-stillcover-20260818",
+      "originalUrl": "https://www.insurtechinsights.com/knowledge-bank/"
+    },
+    {
+      "id": "manulife-new-fluidity-20260818",
+      "title": "宏利×FT Longitude研究：长寿趋势重塑港人财富规划 仅18%富裕人士拥有整合财富计划",
+      "sourceTier": "insurer",
+      "themes": [
+        "family-office",
+        "retirement"
+      ],
+      "publishedAt": "2026-08-18T10:00:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-new-fluidity-20260818",
+      "originalUrl": "https://www.manulife.com.hk/en/individual/about/newsroom/hong-kongs-affluent-rethink-retirement-and-wealth-strategies.html"
+    },
+    {
+      "id": "chinanews-hkgov-insurance-funds-20260818",
+      "title": "香港特区政府欢迎内地保险资金参与互联互通 李家超：巩固香港国际金融中心地位",
+      "sourceTier": "media",
+      "themes": [
+        "connectivity",
+        "cross-border"
+      ],
+      "publishedAt": "2026-08-18T20:38:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=chinanews-hkgov-insurance-funds-20260818",
+      "originalUrl": "http://m.chinanews.com/wap/detail/chs/zw/10679880.shtml"
+    },
+    {
+      "id": "stcn-sfc-hkex-etf-20260818",
+      "title": "证监会、港交所齐发声欢迎内地险资投资港股ETF 称将提升市场流动性",
+      "sourceTier": "media",
+      "themes": [
+        "connectivity",
+        "cross-border"
+      ],
+      "publishedAt": "2026-08-18T19:51:00+08:00",
+      "score": 63,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=stcn-sfc-hkex-etf-20260818",
+      "originalUrl": "https://www.stcn.com/article/detail/4084550.html"
+    },
+    {
+      "id": "scmp-beijing-insurers-hk-etfs-20260818",
+      "title": "SCMP：北京鼓励内地保险公司投资香港上市ETF 深化两地市场联通[EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "connectivity",
+        "cross-border"
+      ],
+      "publishedAt": "2026-08-18T19:51:37+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-beijing-insurers-hk-etfs-20260818",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3364453/beijing-urges-mainland-insurers-buy-hong-kong-listed-etfs"
+    },
+    {
+      "id": "ibmag-aon-working-capital-apac-20260819",
+      "title": "Aon：亚太企业平均79天回款 香港76天按年恶化3天 建筑行业143天最长",
+      "sourceTier": "media",
+      "themes": [
+        "credit",
+        "trade-credit"
+      ],
+      "publishedAt": "2026-08-19T00:43:00+08:00",
+      "score": 61,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibmag-aon-working-capital-apac-20260819",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/cash-flow-squeeze-persists-across-asiapacific-new-aon-benchmarking-shows-586512.aspx"
+    },
+    {
+      "id": "ibmag-qbe-data-centre-20260819",
+      "title": "QBE设立全球数据中心保险主管 标普预计数据中心险2026年新增保费约100亿美元",
+      "sourceTier": "media",
+      "themes": [
+        "data-centre",
+        "emerging-risk"
+      ],
+      "publishedAt": "2026-08-19T00:41:00+08:00",
+      "score": 61,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibmag-qbe-data-centre-20260819",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/qbe-has-created-a-global-data-centre-role--and-asia-brokers-should-watch-what-it-does-next-586549.aspx"
+    },
     {
       "id": "ib-china-life-slower-growth-20260818",
       "title": "惠誉：内地寿险增速放缓 银保新费用规则挤压短期销售 利润率回升",

@@ -1,11 +1,11 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-08-18T18:18:06+08:00",
-    "itemCount": 524,
+    "generatedAt": "2026-08-19T18:23:59+08:00",
+    "itemCount": 535,
     "windowNote": {
-      "sc": "本库524条。",
-      "tc": "本庫524條。"
+      "sc": "本库535条。",
+      "tc": "本庫535條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -264,6 +264,839 @@ window.HKII_DATA = {
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "ibmag-gallagherre-digital-risk-20260819",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "insurancebusinessmag",
+      "title": {
+        "sc": "Gallagher Re成立数字风险部门：AI重塑风险累积 将AI责任险、数据中心与网络险纳入统一框架",
+        "tc": "Gallagher Re成立數字風險部門：AI重塑風險累積 將AI責任險、數據中心與網絡險納入統一框架"
+      },
+      "summary": {
+        "sc": "再保险经纪Gallagher Re新设数字风险部门，将AI责任、数据中心与网络风险纳入同一承保与顾问框架，应对跨险类技术风险累积。公司称随着AI采用加速，传统风险累积模型被打破，需以跨学科团队整合承保、风险工程与数据能力，为不断增长的数字化暴露提供再保容量。[EN原文]",
+        "tc": "再保險經紀Gallagher Re新設數字風險部門，將AI責任、數據中心與網絡風險納入同一承保與顧問框架，應對跨險類技術風險累積。公司稱隨著AI採用加速，傳統風險累積模型被打破，需以跨學科團隊整合承保、風險工程與數據能力，為不斷增長的數字化暴露提供再保容量。[EN原文]"
+      },
+      "why": {
+        "sc": "AI、数据中心与网络风险正从分散险类走向聚合管理，再保端以专门部门承接跨险类技术风险，预示新兴风险承保能力与条款创新方向，对港险再保与科技险布局有前瞻参照。",
+        "tc": "AI、數據中心與網絡風險正從分散險類走向聚合管理，再保端以專門部門承接跨險類技術風險，預示新興風險承保能力與條款創新方向，對港險再保與科技險佈局有前瞻參照。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "新兴风险再保容量与条款调研",
+          "tc": "新興風險再保容量與條款調研"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "AI/数据中心险全球格局跟踪",
+          "tc": "AI/數據中心險全球格局跟蹤"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 2,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Business Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "tech"
+      ],
+      "themes": [
+        "ai",
+        "cyber"
+      ],
+      "tags": {
+        "sc": [
+          "Gallagher Re",
+          "数字风险",
+          "AI责任险",
+          "数据中心",
+          "网络风险"
+        ],
+        "tc": [
+          "Gallagher Re",
+          "數字風險",
+          "AI責任險",
+          "數據中心",
+          "網絡風險"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-19T17:11:11+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/gallagher-re-creates-digital-risk-unit-as-ai-reshapes-accumulation-586647.aspx",
+      "ingestedAt": "2026-08-19T18:23:59+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "aastocks-ubs-fwd-coverage-20260819",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "aastocks",
+      "title": {
+        "sc": "瑞银首次覆盖富卫集团：给予「中性」评级 目标价32港元",
+        "tc": "瑞銀首次覆蓋富衛集團：給予「中性」評級 目標價32港元"
+      },
+      "summary": {
+        "sc": "瑞银发表研报首次覆盖富卫集团（01828.HK），给予「中性」评级，目标价32港元。报告指亚洲保险市场受保障缺口扩大、财富创造及政策支持推动具结构性吸引力；预测富卫2025-2030年新业务价值及税后营运利润年均复合增长12%及16%，但公司高度依赖第三方渠道（2025年占新业务价值78%），面临监管风险与佣金竞争，2025年内含价值仅相当于友邦的8.9%。[EN原文]",
+        "tc": "瑞銀發表研報首次覆蓋富衛集團（01828.HK），給予「中性」評級，目標價32港元。報告指亞洲保險市場受保障缺口擴大、財富創造及政策支持推動具結構性吸引力；預測富衛2025-2030年新業務價值及稅後營運利潤年均複合增長12%及16%，但公司高度依賴第三方渠道（2025年佔新業務價值78%），面臨監管風險與佣金競爭，2025年內含價值僅相當於友邦的8.9%。[EN原文]"
+      },
+      "why": {
+        "sc": "上市刚满一年的富卫迎来首家覆盖研报，大行对其经纪渠道依赖与监管风险的定性，是评估港险新势力估值与渠道格局的重要坐标，对中介与同业竞争判断有直接参考价值。",
+        "tc": "上市剛滿一年的富衛迎來首家覆蓋研報，大行對其經紀渠道依賴與監管風險的定性，是評估港險新勢力估值與渠道格局的重要座標，對中介與同業競爭判斷有直接參考價值。"
+      },
+      "actions": {
+        "front": {
+          "sc": "富卫渠道与产品定位话术",
+          "tc": "富衛渠道與產品定位話術"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "港险新势力估值对照",
+          "tc": "港險新勢力估值對照"
+        },
+        "cross": {
+          "sc": "大行港险覆盖跟踪",
+          "tc": "大行港險覆蓋跟蹤"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 0,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "阿思达克财经网（AASTOCKS，瑞银研报）",
+        "lang": "zh+en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "channel",
+        "results"
+      ],
+      "tags": {
+        "sc": [
+          "瑞银",
+          "富卫集团",
+          "首次覆盖",
+          "中性评级",
+          "目标价32港元"
+        ],
+        "tc": [
+          "瑞銀",
+          "富衛集團",
+          "首次覆蓋",
+          "中性評級",
+          "目標價32港元"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-19T13:02:00+08:00",
+      "originalUrl": "https://wdatacn.aastocks.com/en/mobile/news.aspx?newsid=NOW.1539244&newssource=AAFN",
+      "ingestedAt": "2026-08-19T18:23:59+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "prudential-taikoo-hq-20260819",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "pending",
+      "sourceTier": "insurer",
+      "sourceKey": "prudential",
+      "title": {
+        "sc": "保诚与太古地产签署租赁协议 扩充太古坊香港总部至约8.3万方呎",
+        "tc": "保誠與太古地產簽署租賃協議 擴充太古坊香港總部至約8.3萬方呎"
+      },
+      "summary": {
+        "sc": "保诚保险与太古地产签署租赁协议，扩充及提升其于太古坊的办公空间，总部楼面面积将增至约8.3万平方呎，并整合营运至太古坊一座及港岛东中心。保诚自2011年进驻太古坊，行政总裁林智刚表示，扩充体现保诚对香港长远发展前景的信心，持续投入人才发展与业务能力建设，应对长期健康保障、财富管理及退休规划需求的增长。",
+        "tc": "保誠保險與太古地產簽署租賃協議，擴充及提升其於太古坊的辦公空間，總部樓面面積將增至約8.3萬平方呎，並整合營運至太古坊一座及港島東中心。保誠自2011年進駐太古坊，行政總裁林智剛表示，擴充體現保誠對香港長遠發展前景的信心，持續投入人才發展與業務能力建設，應對長期健康保障、財富管理及退休規劃需求的增長。"
+      },
+      "why": {
+        "sc": "保诚以扩容总部巩固香港根基，是2026年港险竞争白热化下保司加码本地布局的微观信号；太古坊办公生态扩容亦与中环-东区保险业聚集带变化相关，值得渠道与同业观察。",
+        "tc": "保誠以擴容總部鞏固香港根基，是2026年港險競爭白熱化下保司加碼本地佈局的微觀信號；太古坊辦公生態擴容亦與中環-東區保險業聚集帶變化相關，值得渠道與同業觀察。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "保诚香港布局动态跟踪",
+          "tc": "保誠香港佈局動態跟蹤"
+        },
+        "cross": {
+          "sc": "保司写字楼与人才投入信号",
+          "tc": "保司寫字樓與人才投入信號"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "观点地产网（保诚公告）",
+        "lang": "zh"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "firm",
+        "career"
+      ],
+      "tags": {
+        "sc": [
+          "保诚",
+          "太古坊",
+          "太古地产",
+          "总部扩容",
+          "香港"
+        ],
+        "tc": [
+          "保誠",
+          "太古坊",
+          "太古地產",
+          "總部擴容",
+          "香港"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-19T12:03:10+08:00",
+      "originalUrl": "http://m.toutiao.com/group/7675588382818386478/",
+      "ingestedAt": "2026-08-19T18:23:59+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ia-cyber-factory-gaps-20260819",
+      "clusterCount": 1,
+      "score": 66,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "InsuranceAsia：亚太互联工厂网络风险上升 网络险与财产险承保缺口暴露",
+        "tc": "InsuranceAsia：亞太互聯工廠網絡風險上升 網絡險與財產險承保缺口暴露"
+      },
+      "summary": {
+        "sc": "InsuranceAsia独家报道指，亚太互联工厂正面临日益增长的网络风险，攻击已延伸至运营技术系统，暴露出网络保险与财产保险之间的承保缺口。工厂物理损坏若源于网络事件，可能因保单措辞差异而得不到赔偿；报告呼吁企业与经纪重新审视风险累积、条款衔接及网络-财产险整合方案。[EN原文]",
+        "tc": "InsuranceAsia獨家報道指，亞太互聯工廠正面臨日益增長的網絡風險，攻擊已延伸至運營技術系統，暴露出網絡保險與財產保險之間的承保缺口。工廠物理損壞若源於網絡事件，可能因保單措辭差異而得不到賠償；報告呼籲企業與經紀重新審視風險累積、條款銜接及網絡-財產險整合方案。[EN原文]"
+      },
+      "why": {
+        "sc": "网络事件引发物理损失的「网络-财产险断层」是2026年新兴风险焦点，直接影响工商业客户的保障设计与经纪方案，对港险一般保险与科技险产品开发有直接参照价值。",
+        "tc": "網絡事件引發物理損失的「網絡-財產險斷層」是2026年新興風險焦點，直接影響工商業客戶的保障設計與經紀方案，對港險一般保險與科技險產品開發有直接參照價值。"
+      },
+      "actions": {
+        "front": {
+          "sc": "工商业客户网络-财产险方案话术",
+          "tc": "工商業客戶網絡-財產險方案話術"
+        },
+        "midback": {
+          "sc": "网络/财产险条款衔接调研",
+          "tc": "網絡/財產險條款銜接調研"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "新兴风险承保缺口跟踪",
+          "tc": "新興風險承保缺口跟蹤"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 0,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "tech"
+      ],
+      "themes": [
+        "cyber",
+        "uw"
+      ],
+      "tags": {
+        "sc": [
+          "网络保险",
+          "财产险",
+          "互联工厂",
+          "承保缺口",
+          "运营技术"
+        ],
+        "tc": [
+          "網絡保險",
+          "財產險",
+          "互聯工廠",
+          "承保缺口",
+          "運營技術"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-19T05:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/exclusive/how-cyber-insurance-gaps-can-leave-factory-damage-uncovered",
+      "ingestedAt": "2026-08-19T18:23:59+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "bowtie-stillcover-20260818",
+      "clusterCount": 1,
+      "score": 64,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "insurtechinsights",
+      "title": {
+        "sc": "Bowtie推出StillCover补充医疗险：面向慢性病患者及公院使用者",
+        "tc": "Bowtie推出StillCover補充醫療險：面向慢性病患者及公院使用者"
+      },
+      "summary": {
+        "sc": "香港虚拟保险公司Bowtie推出补充医疗险计划Bowtie StillCover，为依赖公营医院服务或患有慢性疾病、较难投保传统私家医疗保障的香港居民提供额外保障。产品针对公立医疗轮候与保障缺口设计，是本地虚拟险企向细分人群延展产品的又一尝试。[EN原文]",
+        "tc": "香港虛擬保險公司Bowtie推出補充醫療險計劃Bowtie StillCover，為依賴公營醫院服務或患有慢性疾病、較難投保傳統私家醫療保障的香港居民提供額外保障。產品針對公立醫療輪候與保障缺口設計，是本地虛擬險企向細分人群延展產品的又一嘗試。[EN原文]"
+      },
+      "why": {
+        "sc": "虚拟险企以细分人群切入补充医疗市场，反映港险健康险竞争从标准体向次标准体与公院使用者延展，是产品创新与渠道数字化的观察样本。",
+        "tc": "虛擬險企以細分人群切入補充醫療市場，反映港險健康險競爭從標準體向次標準體與公院使用者延展，是產品創新與渠道數字化的觀察樣本。"
+      },
+      "actions": {
+        "front": {
+          "sc": "健康险细分人群产品对比",
+          "tc": "健康險細分人群產品對比"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {
+          "sc": "虚拟险企产品线跟踪",
+          "tc": "虛擬險企產品線跟蹤"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 0,
+        "lead": 0,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurtech Insights（Bowtie发布）",
+        "lang": "en"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "health",
+        "insurtech"
+      ],
+      "tags": {
+        "sc": [
+          "Bowtie",
+          "StillCover",
+          "补充医疗险",
+          "慢性病",
+          "虚拟保险"
+        ],
+        "tc": [
+          "Bowtie",
+          "StillCover",
+          "補充醫療險",
+          "慢性病",
+          "虛擬保險"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-18T18:08:00+08:00",
+      "originalUrl": "https://www.insurtechinsights.com/knowledge-bank/",
+      "ingestedAt": "2026-08-19T18:23:59+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "manulife-new-fluidity-20260818",
+      "clusterCount": 1,
+      "score": 78,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "manulife",
+      "title": {
+        "sc": "宏利×FT Longitude研究：长寿趋势重塑港人财富规划 仅18%富裕人士拥有整合财富计划",
+        "tc": "宏利×FT Longitude研究：長壽趨勢重塑港人財富規劃 僅18%富裕人士擁有整合財富計劃"
+      },
+      "summary": {
+        "sc": "宏利香港与FT Longitude联合发布《The New Fluidity》研究，访问亚太及中东11地共1000名高净值及大众富裕人士。结果显示香港富裕人士正按更长、更多元的人生阶段重构工作、投资与财富管理策略，但仅18%已制定整合投资、税务、传承、法律架构与家族治理的全面财富计划；32%计划较传统退休年龄多工作5至10年，「退而不休」成新常态。",
+        "tc": "宏利香港與FT Longitude聯合發佈《The New Fluidity》研究，訪問亞太及中東11地共1000名高淨值及大眾富裕人士。結果顯示香港富裕人士正按更長、更多元的人生階段重構工作、投資與財富管理策略，但僅18%已制定整合投資、稅務、傳承、法律架構與家族治理的全面財富計劃；32%計劃較傳統退休年齡多工作5至10年，「退而不休」成新常態。"
+      },
+      "why": {
+        "sc": "头部保司联合国际研究机构揭示港人财富规划从「单一退休」转向「多阶段人生」，财富整合规划缺口即业务机会所在，对高净值客群经营、家办与传承服务有直接指引意义。",
+        "tc": "頭部保司聯合國際研究機構揭示港人財富規劃從「單一退休」轉向「多階段人生」，財富整合規劃缺口即業務機會所在，對高淨值客群經營、家辦與傳承服務有直接指引意義。"
+      },
+      "actions": {
+        "front": {
+          "sc": "高净值多阶段人生规划话术",
+          "tc": "高淨值多階段人生規劃話術"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "财富整合规划缺口商机",
+          "tc": "財富整合規劃缺口商機"
+        },
+        "cross": {
+          "sc": "家办/传承服务趋势跟踪",
+          "tc": "家辦/傳承服務趨勢跟蹤"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 0,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "宏利香港新闻稿（FT Longitude研究）",
+        "lang": "zh+en"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "family-office",
+        "retirement"
+      ],
+      "tags": {
+        "sc": [
+          "宏利",
+          "The New Fluidity",
+          "FT Longitude",
+          "财富规划",
+          "长寿趋势"
+        ],
+        "tc": [
+          "宏利",
+          "The New Fluidity",
+          "FT Longitude",
+          "財富規劃",
+          "長壽趨勢"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-18T10:00:00+08:00",
+      "originalUrl": "https://www.manulife.com.hk/en/individual/about/newsroom/hong-kongs-affluent-rethink-retirement-and-wealth-strategies.html",
+      "ingestedAt": "2026-08-19T18:23:59+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "chinanews-hkgov-insurance-funds-20260818",
+      "clusterCount": 1,
+      "score": 64,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "chinanews",
+      "title": {
+        "sc": "香港特区政府欢迎内地保险资金参与互联互通 李家超：巩固香港国际金融中心地位",
+        "tc": "香港特區政府歡迎內地保險資金參與互聯互通 李家超：鞏固香港國際金融中心地位"
+      },
+      "summary": {
+        "sc": "肖远企8月18日会见许正宇，宣布支持内地保险资金参与互联互通、经沪深港通投资港股ETF；特区政府当晚热烈欢迎，李家超称便利内地险企多元配置、壮大香港ETF生态，陈茂波指将深化两地资本市场联动。",
+        "tc": "肖遠企8月18日會見許正宇，宣佈支持內地保險資金參與互聯互通、經滬深港通投資港股ETF；特區政府當晚熱烈歡迎，李家超稱便利內地險企多元配置、壯大香港ETF生態，陳茂波指將深化兩地資本市場聯動。"
+      },
+      "why": {
+        "sc": "征税风波后罕见的官方暖风第二弹：特区政府最高层表态确认政策含金量，标志「保险资金+互联互通」进入落地通道，是内地险资南向配置与跨境财富叙事的政策温度计。",
+        "tc": "徵稅風波後罕見的官方暖風第二彈：特區政府最高層表態確認政策含金量，標誌「保險資金+互聯互通」進入落地通道，是內地險資南向配置與跨境財富敘事的政策溫度計。"
+      },
+      "actions": {
+        "front": {
+          "sc": "向高净值客户传达内地险资南向配置信号",
+          "tc": "向高淨值客戶傳達內地險資南向配置信號"
+        },
+        "midback": {
+          "sc": "互联互通政策温度监测",
+          "tc": "互聯互通政策溫度監測"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "内地险资港股配置动向跟踪",
+          "tc": "內地險資港股配置動向跟蹤"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 1,
+        "cross": 2
+      },
+      "source": {
+        "sc": "中新社（引特区政府新闻处）",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "connectivity",
+        "cross-border"
+      ],
+      "tags": {
+        "sc": [
+          "中新社",
+          "特区政府",
+          "李家超",
+          "陈茂波",
+          "互联互通",
+          "保险资金"
+        ],
+        "tc": [
+          "中新社",
+          "特區政府",
+          "李家超",
+          "陳茂波",
+          "互聯互通",
+          "保險資金"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-18T20:38:00+08:00",
+      "originalUrl": "http://m.chinanews.com/wap/detail/chs/zw/10679880.shtml",
+      "ingestedAt": "2026-08-19T00:55:16+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "stcn-sfc-hkex-etf-20260818",
+      "clusterCount": 1,
+      "score": 63,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "stcn",
+      "title": {
+        "sc": "证监会、港交所齐发声欢迎内地险资投资港股ETF 称将提升市场流动性",
+        "tc": "證監會、港交所齊發聲歡迎內地險資投資港股ETF 稱將提升市場流動性"
+      },
+      "summary": {
+        "sc": "金融监管总局宣布支持内地险资参与互联互通后，香港证监会主席黄天祐、行政总裁梁凤仪与港交所行政总裁陈翊庭相继表态欢迎；梁凤仪指将便利更多内地中长期资金以香港为平台作国际资产配置，陈翊庭称将显著提升香港ETF市场流动性。",
+        "tc": "金融監管總局宣佈支持內地險資參與互聯互通後，香港證監會主席黃天祐、行政總裁梁鳳儀與港交所行政總裁陳翊庭相繼表態歡迎；梁鳳儀指將便利更多內地中長期資金以香港為平台作國際資產配置，陳翊庭稱將顯著提升香港ETF市場流動性。"
+      },
+      "why": {
+        "sc": "市场端监管与交易所集体背书，标志「保险资金+互联互通」从部委表态进入两地机构协同落地阶段；南向ETF资金流与流动性变化是后续最直接的观察指标。",
+        "tc": "市場端監管與交易所集體背書，標誌「保險資金+互聯互通」從部委表態進入兩地機構協同落地階段；南向ETF資金流與流動性變化是後續最直接的觀察指標。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {},
+        "cross": {
+          "sc": "沪深港通ETF资金流跟踪",
+          "tc": "滬深港通ETF資金流跟蹤"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 1,
+        "cross": 2
+      },
+      "source": {
+        "sc": "证券时报",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "connectivity",
+        "cross-border"
+      ],
+      "tags": {
+        "sc": [
+          "证券时报",
+          "香港证监会",
+          "港交所",
+          "ETF",
+          "保险资金"
+        ],
+        "tc": [
+          "證券時報",
+          "香港證監會",
+          "港交所",
+          "ETF",
+          "保險資金"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-18T19:51:00+08:00",
+      "originalUrl": "https://www.stcn.com/article/detail/4084550.html",
+      "ingestedAt": "2026-08-19T00:55:16+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "scmp-beijing-insurers-hk-etfs-20260818",
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "scmp",
+      "title": {
+        "sc": "SCMP：北京鼓励内地保险公司投资香港上市ETF 深化两地市场联通[EN原文]",
+        "tc": "SCMP：北京鼓勵內地保險公司投資香港上市ETF 深化兩地市場聯通[EN原文]"
+      },
+      "summary": {
+        "sc": "SCMP报道，肖远企在北京会见许正宇时宣布支持内地保险资金经沪深港通投资香港上市ETF；与会者还包括证监会投资产品部执行董事黄颖嘉及港交所行政总裁陈翊庭，许正宇称此举是深化两地市场联通的关键一步。[EN原文]",
+        "tc": "SCMP報道，肖遠企在北京會見許正宇時宣佈支持內地保險資金經滬深港通投資香港上市ETF；與會者還包括證監會投資產品部執行董事黃穎嘉及港交所行政總裁陳翊庭，許正宇稱此舉是深化兩地市場聯通的關鍵一步。[EN原文]"
+      },
+      "why": {
+        "sc": "英文主流媒体对同一政策的独立报道，补充会议细节与官方英文口径，适合对外沟通与英文素材引用，与中文信源互为印证。",
+        "tc": "英文主流媒體對同一政策的獨立報道，補充會議細節與官方英文口徑，適合對外溝通與英文素材引用，與中文信源互為印證。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {},
+        "cross": {
+          "sc": "两地互联互通英文资料库",
+          "tc": "兩地互聯互通英文資料庫"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 1,
+        "cross": 2
+      },
+      "source": {
+        "sc": "South China Morning Post",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "connectivity",
+        "cross-border"
+      ],
+      "tags": {
+        "sc": [
+          "南华早报",
+          "SCMP",
+          "ETF",
+          "互联互通",
+          "保险资金"
+        ],
+        "tc": [
+          "南華早報",
+          "SCMP",
+          "ETF",
+          "互聯互通",
+          "保險資金"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-18T19:51:37+08:00",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3364453/beijing-urges-mainland-insurers-buy-hong-kong-listed-etfs",
+      "ingestedAt": "2026-08-19T00:55:16+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ibmag-aon-working-capital-apac-20260819",
+      "clusterCount": 1,
+      "score": 61,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "title": {
+        "sc": "Aon：亚太企业平均79天回款 香港76天按年恶化3天 建筑行业143天最长",
+        "tc": "Aon：亞太企業平均79天回款 香港76天按年惡化3天 建築行業143天最長"
+      },
+      "summary": {
+        "sc": "Aon《亚太营运资金基准报告2026》显示，3805家上市公司平均应收账期79天；中国内地最长99天，香港76天、按年恶化3天，工程建筑行业143天居首。高融资成本下，贸易信用保险与应收账款融资是缓解回款压力的主要工具。[EN原文]",
+        "tc": "Aon《亞太營運資金基準報告2026》顯示，3805家上市公司平均應收賬期79天；中國內地最長99天，香港76天、按年惡化3天，工程建築行業143天居首。高融資成本下，貿易信用保險與應收賬款融資是緩解回款壓力的主要工具。[EN原文]"
+      },
+      "why": {
+        "sc": "香港企业回款周期按年拉长叠加高融资成本，企业流动性压力上升——贸易信用险与应收账款融资是港险一般保险与金融险的潜在增长点，也是企业客户触达话题。",
+        "tc": "香港企業回款周期按年拉長疊加高融資成本，企業流動性壓力上升——貿易信用險與應收賬款融資是港險一般保險與金融險的潛在增長點，也是企業客戶觸達話題。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "贸易信用险需求评估",
+          "tc": "貿易信用險需求評估"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "亚太企业信用风险坐标",
+          "tc": "亞太企業信用風險座標"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Business Asia（Aon报告）",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "credit",
+        "trade-credit"
+      ],
+      "tags": {
+        "sc": [
+          "Aon",
+          "营运资金",
+          "应收账款",
+          "贸易信用保险",
+          "亚太"
+        ],
+        "tc": [
+          "Aon",
+          "營運資金",
+          "應收賬款",
+          "貿易信用保險",
+          "亞太"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-19T00:43:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/cash-flow-squeeze-persists-across-asiapacific-new-aon-benchmarking-shows-586512.aspx",
+      "ingestedAt": "2026-08-19T00:55:16+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ibmag-qbe-data-centre-20260819",
+      "clusterCount": 1,
+      "score": 61,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "title": {
+        "sc": "QBE设立全球数据中心保险主管 标普预计数据中心险2026年新增保费约100亿美元",
+        "tc": "QBE設立全球數據中心保險主管 標普預計數據中心險2026年新增保費約100億美元"
+      },
+      "summary": {
+        "sc": "QBE委任资深员工出任新设全球数据中心保险总监，统筹核保、风险工程、理赔与分销。标普估计数据中心险2026年可带来约100亿美元新增保费，约为全球航空险年保费两倍；亚太近九成数据中心位于热旱压力区域，建设标准缺口明显。[EN原文]",
+        "tc": "QBE委任資深員工出任新設全球數據中心保險總監，統籌核保、風險工程、理賠與分銷。標普估計數據中心險2026年可帶來約100億美元新增保費，約為全球航空險年保費兩倍；亞太近九成數據中心位於熱旱壓力區域，建設標準缺口明顯。[EN原文]"
+      },
+      "why": {
+        "sc": "数据中心作为高集中新兴风险类别正催生新保费池；亚太气候暴露与建设标准缺口意味着承保能力与条款创新机会，对港险一般保险与再保布局有前瞻参照。",
+        "tc": "數據中心作為高集中新興風險類別正催生新保費池；亞太氣候暴露與建設標準缺口意味著承保能力與條款創新機會，對港險一般保險與再保佈局有前瞻參照。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "数据中心险承保能力与条款调研",
+          "tc": "數據中心險承保能力與條款調研"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "新兴风险保费池跟踪",
+          "tc": "新興風險保費池跟蹤"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Business Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "data-centre",
+        "emerging-risk"
+      ],
+      "tags": {
+        "sc": [
+          "QBE",
+          "数据中心",
+          "标普",
+          "新兴风险",
+          "保险容量"
+        ],
+        "tc": [
+          "QBE",
+          "數據中心",
+          "標普",
+          "新興風險",
+          "保險容量"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-19T00:41:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/qbe-has-created-a-global-data-centre-role--and-asia-brokers-should-watch-what-it-does-next-586549.aspx",
+      "ingestedAt": "2026-08-19T00:55:16+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
     {
       "id": "ib-china-life-slower-growth-20260818",
       "clusterCount": 1,
@@ -43054,10 +43887,10 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 524 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 524 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 535 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 535 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 524,
+      "totalItems": 535,
       "sourceTiers": [
         {
           "tier": "official",
@@ -43066,7 +43899,7 @@ window.HKII_DATA = {
         },
         {
           "tier": "insurer",
-          "count": 127,
+          "count": 129,
           "label": "保司公告"
         },
         {
@@ -43076,12 +43909,12 @@ window.HKII_DATA = {
         },
         {
           "tier": "media",
-          "count": 125,
+          "count": 132,
           "label": "媒体报道"
         },
         {
           "tier": "pro",
-          "count": 53,
+          "count": 55,
           "label": "专业解读"
         },
         {
@@ -43165,7 +43998,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "firm",
-          "count": 97,
+          "count": 98,
           "label": "保司"
         },
         {
@@ -43184,29 +44017,29 @@ window.HKII_DATA = {
           "label": "跨境"
         },
         {
+          "theme": "channel",
+          "count": 48,
+          "label": "渠道"
+        },
+        {
           "theme": "macro",
           "count": 48,
           "label": "宏观"
         },
         {
-          "theme": "channel",
-          "count": 47,
-          "label": "渠道"
+          "theme": "cross-border",
+          "count": 32,
+          "label": "跨境"
         },
         {
           "theme": "reinsurance",
           "count": 31,
           "label": "再保险"
-        },
-        {
-          "theme": "cross-border",
-          "count": 29,
-          "label": "跨境"
         }
       ],
       "dateRange": {
-        "sc": "2013-03-05 ~ 2026-08-18",
-        "tc": "2013-03-05 ~ 2026-08-18"
+        "sc": "2013-03-05 ~ 2026-08-19",
+        "tc": "2013-03-05 ~ 2026-08-19"
       }
     },
     "marketData": {
