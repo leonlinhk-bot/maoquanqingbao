@@ -1,11 +1,11 @@
 {
  "meta": {
   "product": "猫圈儿港险情报站",
-  "generatedAt": "2026-08-19T21:17:08+08:00",
-  "itemCount": 536,
+  "generatedAt": "2026-08-20T03:54:46+08:00",
+  "itemCount": 537,
   "windowNote": {
-   "sc": "本库536条。",
-   "tc": "本庫536條。"
+   "sc": "本库537条。",
+   "tc": "本庫537條。"
   },
   "sourcesPrimary": [
    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -264,6 +264,81 @@
   "ia-20260712-speech"
  ],
  "items": [
+  {
+   "id": "chinalife-h1-2026-briefing-20260819",
+   "clusterCount": 1,
+   "score": 75,
+   "verifyStatus": "verified",
+   "sourceTier": "insurer",
+   "sourceKey": "chinalife",
+   "title": {
+    "sc": "中国人寿：8月27日公布2026年中期业绩 28日举行网络业绩简报会",
+    "tc": "中國人壽：8月27日公佈2026年中期業績 28日舉行網絡業績簡報會"
+   },
+   "summary": {
+    "sc": "中国人寿（2628.HK）公告将于8月27日在港交所披露2026年中期业绩，并于8月28日上午11时至12时举行网络业绩简报会，执行董事兼总裁李明光及高级管理层出席；投资者可于8月26日前电邮提问，会后视频将上载公司官网。",
+    "tc": "中國人壽（2628.HK）公告將於8月27日在港交所披露2026年中期業績，並於8月28日上午11時至12時舉行網絡業績簡報會，執行董事兼總裁李明光及高級管理層出席；投資者可於8月26日前電郵提問，會後視頻將上載公司官網。"
+   },
+   "why": {
+    "sc": "内地寿险龙头中报时点确认，与友邦业绩日前后相接，形成中港中报季对照窗口；中资险企基本面与分红节奏是评估内地客户配置需求的背景信息，对渠道有跟踪价值。",
+    "tc": "內地壽險龍頭中報時點確認，與友邦業績日前後相接，形成中港中報季對照窗口；中資險企基本面與分紅節奏是評估內地客戶配置需求的背景信息，對渠道有跟蹤價值。"
+   },
+   "actions": {
+    "front": {},
+    "midback": {},
+    "lead": {
+     "sc": "中资险企中报季跟踪",
+     "tc": "中資險企中報季跟蹤"
+    },
+    "cross": {
+     "sc": "中港保险中报对照",
+     "tc": "中港保險中報對照"
+    }
+   },
+   "rolesImpact": {
+    "front": 0,
+    "midback": 0,
+    "lead": 1,
+    "cross": 1
+   },
+   "source": {
+    "sc": "港交所披露易（中国人寿公告）",
+    "lang": "zh+en"
+   },
+   "boards": [
+    "insurer"
+   ],
+   "themes": [
+    "results",
+    "market"
+   ],
+   "tags": {
+    "sc": [
+     "中国人寿",
+     "中期业绩",
+     "业绩简报会",
+     "2628.HK",
+     "中报季"
+    ],
+    "tc": [
+     "中國人壽",
+     "中期業績",
+     "業績簡報會",
+     "2628.HK",
+     "中報季"
+    ]
+   },
+   "contentKind": "news",
+   "publishedAt": "2026-08-19",
+   "originalUrl": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0819/2026081900310.pdf",
+   "ingestedAt": "2026-08-20T03:54:46+08:00",
+   "contentRole": {
+    "sc": "本站导读",
+    "tc": "本站導讀"
+   },
+   "featured": false,
+   "evergreen": false
+  },
   {
    "id": "hkex-h1-2026-results-20260819",
    "clusterCount": 1,
