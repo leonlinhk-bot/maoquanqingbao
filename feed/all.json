@@ -1,9 +1,87 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-19T10:24:04Z",
-  "itemCount": 535,
+  "generatedAt": "2026-08-20T16:24:21Z",
+  "itemCount": 541,
   "items": [
+    {
+      "id": "ia-premium-financing-circular-20260820",
+      "title": "保监局发通函：保费融资上半年占新造业务保费约36% 要求险企检讨产品与风控",
+      "sourceTier": "official",
+      "themes": [
+        "premium-financing",
+        "compliance"
+      ],
+      "publishedAt": "2026-08-20",
+      "score": 90,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-premium-financing-circular-20260820",
+      "originalUrl": "https://brdr.hkma.gov.hk/eng/doc-ldg/current/20260818-1-EN"
+    },
+    {
+      "id": "aia-h1-2026-results-20260820",
+      "title": "友邦中期业绩：新业务价值32.12亿美元增10% 香港利润率升至72% 中期息增10%",
+      "sourceTier": "insurer",
+      "themes": [
+        "results",
+        "market"
+      ],
+      "publishedAt": "2026-08-20T09:00:00+08:00",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-h1-2026-results-20260820",
+      "originalUrl": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0820/2026082000001.pdf"
+    },
+    {
+      "id": "aia-h1-results-market-reaction-20260820",
+      "title": "彭博/花旗点评友邦中报：内地访客需求旺盛 股价跌约1.8% 花旗维持买入 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "results",
+        "market"
+      ],
+      "publishedAt": "2026-08-20T13:05:00+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-h1-results-market-reaction-20260820",
+      "originalUrl": "https://www.theedgesingapore.com/news/insurance/aia-posts-growth-new-business-value-hong-kong-china"
+    },
+    {
+      "id": "hkma-fake-doc-scam-alert-20260820",
+      "title": "金管局提醒：提防伪冒金管局文件 假借「数码港元」诱骗投资",
+      "sourceTier": "official",
+      "themes": [
+        "compliance",
+        "market"
+      ],
+      "publishedAt": "2026-08-20",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-fake-doc-scam-alert-20260820",
+      "originalUrl": "https://www.hkma.gov.hk/gb_chi/news-and-media/press-releases/2026/08/20260820-3/"
+    },
+    {
+      "id": "chinalife-h1-2026-briefing-20260819",
+      "title": "中国人寿：8月27日公布2026年中期业绩 28日举行网络业绩简报会",
+      "sourceTier": "insurer",
+      "themes": [
+        "results",
+        "market"
+      ],
+      "publishedAt": "2026-08-19",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=chinalife-h1-2026-briefing-20260819",
+      "originalUrl": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0819/2026081900310.pdf"
+    },
+    {
+      "id": "hkex-h1-2026-results-20260819",
+      "title": "港交所中期业绩：上半年溢利105.7亿港元(+24%) 沪深港通收入28.5亿港元创新高",
+      "sourceTier": "pro",
+      "themes": [
+        "crossborder",
+        "results"
+      ],
+      "publishedAt": "2026-08-19T12:20:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkex-h1-2026-results-20260819",
+      "originalUrl": "https://www.jiemian.com/article/14949228.html"
+    },
     {
       "id": "ibmag-gallagherre-digital-risk-20260819",
       "title": "Gallagher Re成立数字风险部门：AI重塑风险累积 将AI责任险、数据中心与网络险纳入统一框架",
