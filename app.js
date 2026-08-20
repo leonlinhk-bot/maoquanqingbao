@@ -45445,6 +45445,22 @@ window.HKII_DATA = {
     const tags = (it.tags && (it.tags[state.lang]||it.tags.sc)) || [];
     return [tx(it.title), tx(it.summary), tx(it.why), tags.join(" ")].join(" ").toLowerCase().includes(q);
   }
+  // 语义搜索（本地轻量实现：字符 bigram + Jaccard 相似度，无需外部 API）
+  function bigrams(s){
+    const t = String(s||"").toLowerCase().replace(/[\s\p{P}\p{S}]+/gu,"");
+    const set = new Set();
+    for(let i=0; i<t.length-1; i++) set.add(t.slice(i, i+2));
+    return set;
+  }
+  function jaccard(a, b){
+    if(!a.size || !b.size) return 0;
+    let inter = 0;
+    for(const x of a) if(b.has(x)) inter++;
+    return inter / (a.size + b.size - inter);
+  }
+  function itemText(it){
+    return [tx(it.title), tx(it.summary), tx(it.why), ((it.tags&&(it.tags.sc||[]))||[]).join(" ")].join(" ");
+  }
   // Fav tags
   state.favTag = null;
 
@@ -45473,7 +45489,17 @@ window.HKII_DATA = {
       // 脉搏等：仍可用主题码（非六大板块）
       arr = arr.filter(i => (i.themes || []).includes(state.themeFilter) || (i.boards || []).includes(state.themeFilter));
     }
+    const _pool = arr.slice(); // matches 过滤前的池（已含 tier/theme 过滤）
     arr = arr.filter(matches);
+    // 语义搜索兜底：关键词 0 命中时，用 bigram 相似度推荐相关条目
+    if(state.q.trim() && arr.length === 0 && !pulseSort){
+      const qs = bigrams(state.q);
+      arr = _pool.map(i => ({i, s: jaccard(qs, bigrams(itemText(i)))}))
+        .filter(x => x.s >= 0.03)
+        .sort((a,b) => b.s - a.s)
+        .slice(0, 12)
+        .map(x => x.i);
+    }
     // 今日脉搏：动态评分排序
   if (pulseSort && roleWeights) {
     // 统一门槛：score ≥ 80，控制精选数量
