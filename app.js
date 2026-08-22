@@ -1,7 +1,7 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-08-22T15:02:00+08:00",
+    "generatedAt": "2026-08-22T18:06:00+08:00",
     "itemCount": 546,
     "windowNote": {
       "sc": "本库546条。",
@@ -146,7 +146,7 @@ window.HKII_DATA = {
       ],
       "registryFile": "data/sources.yaml"
     },
-    "asOf": "2026-08-17",
+    "asOf": "2026-08-22",
     "roles": [
       {
         "id": "front",
