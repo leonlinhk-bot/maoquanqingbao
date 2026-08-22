@@ -1,9 +1,48 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-22T10:06:26Z",
-  "itemCount": 546,
+  "generatedAt": "2026-08-22T13:19:10Z",
+  "itemCount": 549,
   "items": [
+    {
+      "id": "nfra-nonauto-governance-20260822",
+      "title": "金融监管总局印发《非车险综合治理行动方案》：分险种分阶段推进存量产品重新备案",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "product"
+      ],
+      "publishedAt": "2026-08-22T07:54:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-nonauto-governance-20260822",
+      "originalUrl": "https://news.qq.com/rain/a/20260822A02B8200"
+    },
+    {
+      "id": "nfra-alm-measures-20260822",
+      "title": "金融监管总局发布《保险公司资产负债管理办法》：2027年起施行 暂不达标险企设3年过渡期",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "capital"
+      ],
+      "publishedAt": "2026-08-22T07:48:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-alm-measures-20260822",
+      "originalUrl": "https://finance.eastmoney.com/a/202608223849824419.html"
+    },
+    {
+      "id": "caixin-evergrande-life-license-20260822",
+      "title": "财新：金融监管总局吊销恒大寿险牌照 涉违规运用保险资金与利益输送 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "regulatory",
+        "compliance"
+      ],
+      "publishedAt": "2026-08-22T02:35:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=caixin-evergrande-life-license-20260822",
+      "originalUrl": "https://www.caixinglobal.com/2026-08-22/china-revokes-evergrande-lifes-license-over-illegal-fund-use-102476710.html"
+    },
     {
       "id": "ia-aia-h1-profit-20260821",
       "title": "InsuranceAsia：友邦2026上半年净利大增69.2%至43亿美元 股东获返还36亿美元 [EN原文]",
