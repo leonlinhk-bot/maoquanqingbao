@@ -1,9 +1,74 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-20T16:38:23Z",
-  "itemCount": 541,
+  "generatedAt": "2026-08-22T07:04:00Z",
+  "itemCount": 546,
   "items": [
+    {
+      "id": "ia-aia-h1-profit-20260821",
+      "title": "InsuranceAsia：友邦2026上半年净利大增69.2%至43亿美元 股东获返还36亿美元 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "results",
+        "market"
+      ],
+      "publishedAt": "2026-08-21T05:15:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-aia-h1-profit-20260821",
+      "originalUrl": "https://insuranceasia.com/insurance/news/aia-profit-surges-692-43b-in-h1-2026"
+    },
+    {
+      "id": "ia-week-in-insurance-20260822",
+      "title": "InsuranceAsia一周速览：Chubb危疾系列登场 保诚扩充太古坊 友邦平安纯利大增 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "market",
+        "results"
+      ],
+      "publishedAt": "2026-08-22T05:00:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-week-in-insurance-20260822",
+      "originalUrl": "https://insuranceasia.com/insurance/news/week-in-insurance-new-products-launch-insurers-expand-aia-and-ping-profits-surge"
+    },
+    {
+      "id": "scmp-pingan-hk-etf-20260821",
+      "title": "南华早报：平安获准跨境投资后拟投香港ETF 淡化征税影响 上半年纯利增36% [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "cross-border",
+        "market"
+      ],
+      "publishedAt": "2026-08-21T18:31:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-pingan-hk-etf-20260821",
+      "originalUrl": "https://www.msn.com/en-xl/money/investment/chinese-insurer-ping-an-eyes-hong-kong-etfs-as-beijing-greenlights-cross-border-investment/ar-AA2aEauA"
+    },
+    {
+      "id": "ib-mainland-etf-access-20260821",
+      "title": "Insurance Business：内地险企获ETF通道 散户同类渠道却被收紧 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "cross-border",
+        "market"
+      ],
+      "publishedAt": "2026-08-21T23:35:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ib-mainland-etf-access-20260821",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/mainland-insurers-gain-etf-access-retail-traders-just-lost-587035.aspx"
+    },
+    {
+      "id": "crntt-aia-mcv-demand-20260822",
+      "title": "友邦管理层：内地客来港投保需求持续 征税属既有政策非针对港险「新香港人」占本地新业务约30%",
+      "sourceTier": "media",
+      "themes": [
+        "mcv",
+        "taxation"
+      ],
+      "publishedAt": "2026-08-22T00:40:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=crntt-aia-mcv-demand-20260822",
+      "originalUrl": "https://hk.crntt.com/doc/1072/2/6/3/107226380.html?coluid=7&kindid=0&docid=107226380&mdate=0822004037"
+    },
     {
       "id": "ia-premium-financing-circular-20260820",
       "title": "保监局发通函：保费融资上半年占新造业务保费约36% 要求险企检讨产品与风控",

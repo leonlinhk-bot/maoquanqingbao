@@ -1,20 +1,19 @@
-import re, html, os, json
+import json
 
-FDIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'fetch')
+c = json.load(open('.tmp/cands.json'))
+e = json.load(open('.tmp/extra-cands.json'))
 
-# window.json links
-w = json.load(open(os.path.join(FDIR, 'window.json')))
-for key in ['g_insurtech', 'g_family', 'g_prudential', 'g_en_prudential']:
-    for i in w.get(key, []):
-        print(key, '|', i['pubDate'][:16], '|', i['title'][:60], '|', i['link'][:100])
-
-print("\n--- bn_insurtech.html hrefs ---")
-raw = open(os.path.join(FDIR, 'bn_insurtech.html'), encoding='utf-8', errors='replace').read()
-cards = re.findall(r'<div class="news-card[^"]*"[^>]*>(.*?)(?=<div class="news-card|$)', raw, re.S)
-for c in cards:
-    t = re.search(r'class="title"[^>]*href="([^"]+)"[^>]*>(.*?)</a>', c, re.S)
-    if not t:
-        continue
-    title = html.unescape(re.sub(r'<[^>]+>', '', t.group(2))).strip()
-    href = html.unescape(t.group(1))
-    print('-', title[:70], '|', href[:130])
+want = ["AIA profit surges", "This week in insurance", "Offshore reinsurance expands",
+        "people moves", "Taikoo"]
+print("== cands.json ==")
+for k, v in c.items():
+    for x in v:
+        t = x.get("full_title") or x["title"]
+        if any(w.lower() in t.lower() for w in want):
+            print(k, "|", t[:70], "|", x["link"])
+print("== extra-cands.json ==")
+for q, v in e.items():
+    for x in v:
+        t = x["title"]
+        if any(w.lower() in t.lower() for w in want + ["Ping An eyes", "Mainland insurers gain", "內地客來港"]):
+            print("|", t[:75], "|", x["link"])
