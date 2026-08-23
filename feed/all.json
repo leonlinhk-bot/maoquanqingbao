@@ -1,9 +1,48 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-22T23:43:07Z",
-  "itemCount": 549,
+  "generatedAt": "2026-08-23T13:18:04Z",
+  "itemCount": 552,
   "items": [
+    {
+      "id": "oncc-bluecross-zhi-anxin-20260823",
+      "title": "医疗通胀升温 蓝十字推升级版「摯安心精選」团体医保 转工退休可延续保障",
+      "sourceTier": "media",
+      "themes": [
+        "health",
+        "cross-border"
+      ],
+      "publishedAt": "2026-08-23T16:06:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=oncc-bluecross-zhi-anxin-20260823",
+      "originalUrl": "https://hk.on.cc/hk/bkn/cnt/finance/20260823/bkn-20260823160604835-0823_00842_001.html"
+    },
+    {
+      "id": "hkcna-hk-ifc-policy-package-20260823",
+      "title": "中央密集下发政策「大礼包」 香港国际金融中心面临哪些战略重构？",
+      "sourceTier": "media",
+      "themes": [
+        "reg",
+        "capital"
+      ],
+      "publishedAt": "2026-08-23T16:28:00+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkcna-hk-ifc-policy-package-20260823",
+      "originalUrl": "https://www.hkcna.hk/docDetail.jsp?id=101402576&channel=4372"
+    },
+    {
+      "id": "hkcna-hk-market-infra-20260823",
+      "title": "香港完善金融市场配套 多线并进巩固金融中心地位",
+      "sourceTier": "media",
+      "themes": [
+        "market",
+        "capital"
+      ],
+      "publishedAt": "2026-08-23T16:25:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkcna-hk-market-infra-20260823",
+      "originalUrl": "https://www.hkcna.hk/docDetail.jsp?id=101402535&channel=2803"
+    },
     {
       "id": "nfra-nonauto-governance-20260822",
       "title": "金融监管总局印发《非车险综合治理行动方案》：分险种分阶段推进存量产品重新备案",
