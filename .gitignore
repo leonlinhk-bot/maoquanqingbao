@@ -10,3 +10,6 @@ scripts/_*.py
 data/_raw/
 data/existing-keys.txt
 *-scan-*.json
+
+# 采集临时缓存
+.tmp/
