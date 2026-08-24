@@ -1,9 +1,113 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-23T13:18:04Z",
-  "itemCount": 552,
+  "generatedAt": "2026-08-24T16:51:52Z",
+  "itemCount": 560,
   "items": [
+    {
+      "id": "hkma-annuity-cross-boundary-20260824",
+      "title": "香港年金公司推跨境年金支付服务 内地养老港人可收人民币年金",
+      "sourceTier": "official",
+      "themes": [
+        "cross-border",
+        "pension"
+      ],
+      "publishedAt": "2026-08-24",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-annuity-cross-boundary-20260824",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260824-3/"
+    },
+    {
+      "id": "hkma-hkicl-fraud-alert-20260824",
+      "title": "香港银行同业结算公司提示两假冒网站 警惕FPS钓鱼诈骗",
+      "sourceTier": "official",
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "publishedAt": "2026-08-24",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-hkicl-fraud-alert-20260824",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260824-4/"
+    },
+    {
+      "id": "axa-shkp-igc-lease-20260824",
+      "title": "新鸿基与AXA安盛签署IGC重大租赁协议 承租两层半楼面拓展分销网络",
+      "sourceTier": "insurer",
+      "themes": [
+        "distribution",
+        "wealth"
+      ],
+      "publishedAt": "2026-08-24T10:01:00+08:00",
+      "score": 80,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=axa-shkp-igc-lease-20260824",
+      "originalUrl": "https://www.axa.com.hk/zh/article/shkp-and-axa-sign-major-lease-agreement-at-igcaccelerating-axas-agency-growth-and-market-leadership"
+    },
+    {
+      "id": "ia-pru-india-health-20260824",
+      "title": "保诚印度独立健康险业务启航 HCL持股三成 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "health",
+        "digital"
+      ],
+      "publishedAt": "2026-08-24T05:30:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-pru-india-health-20260824",
+      "originalUrl": "https://insuranceasia.com/insurance/news/prudential-enters-india-health-insurance-amidst-16b-premium-pool"
+    },
+    {
+      "id": "ia-pingan-h1-20260824",
+      "title": "中国平安中期纯利升36.1%至139亿美元 中期息每股0.98元人民币 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "earnings",
+        "china"
+      ],
+      "publishedAt": "2026-08-24T06:30:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-pingan-h1-20260824",
+      "originalUrl": "https://insuranceasia.com/insurance/news/ping-net-profit-jumps-361-14b-in-h1-2026"
+    },
+    {
+      "id": "ia-allianz-apac-h1-20260824",
+      "title": "安联亚太上半年经营利润升11.4% 中国新业务价值大增79.4% [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "earnings",
+        "nbv"
+      ],
+      "publishedAt": "2026-08-24T05:15:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-allianz-apac-h1-20260824",
+      "originalUrl": "https://insuranceasia.com/insurance/news/allianz-asia-pacific-lifts-profit-114-5291m-in-h1-2026"
+    },
+    {
+      "id": "ia-allianz-trade-china-ceo-20260824",
+      "title": "安联贸易委任Scott Munafò为中国区CEO 驻上海 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "talent",
+        "china"
+      ],
+      "publishedAt": "2026-08-24T06:15:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-allianz-trade-china-ceo-20260824",
+      "originalUrl": "https://insuranceasia.com/insurance/news/allianz-trade-names-scott-munafo-china-ceo"
+    },
+    {
+      "id": "ia-ai-profit-engine-20260824",
+      "title": "险企AI试点难兑现收益 麦肯锡：分销成本吞噬保费美元八毛 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "digital"
+      ],
+      "publishedAt": "2026-08-24T10:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-ai-profit-engine-20260824",
+      "originalUrl": "https://insuranceasia.com/insurance/expert-opinion/can-insurers-turn-ai-pilots-profit-engine"
+    },
     {
       "id": "oncc-bluecross-zhi-anxin-20260823",
       "title": "医疗通胀升温 蓝十字推升级版「摯安心精選」团体医保 转工退休可延续保障",

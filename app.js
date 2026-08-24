@@ -1,11 +1,11 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-08-23T21:08:00+08:00",
-    "itemCount": 552,
+    "generatedAt": "2026-08-24T21:20:00+08:00",
+    "itemCount": 560,
     "windowNote": {
-      "sc": "本库552条。",
-      "tc": "本庫552條。"
+      "sc": "本库560条。",
+      "tc": "本庫560條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -264,6 +264,592 @@ window.HKII_DATA = {
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "hkma-annuity-cross-boundary-20260824",
+      "clusterCount": 1,
+      "score": 88,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "香港年金公司推跨境年金支付服务 内地养老港人可收人民币年金",
+        "tc": "香港年金公司推跨境年金支付服務 內地養老港人可收人民幣年金"
+      },
+      "summary": {
+        "sc": "香港按揭证券公司旗下香港年金公司宣布，即日起客户可申请将保证每月年金款项经「Payment Connect」跨境汇款以人民币存入内地银行账户，支持在内地养老的港人每月稳定收款，汇率按市场波动。",
+        "tc": "香港按揭證券公司旗下香港年金公司宣佈，即日起客戶可申請將保證每月年金款項經「Payment Connect」跨境匯款以人民幣存入內地銀行賬戶，支持在內地養老的港人每月穩定收款，匯率按市場波動。"
+      },
+      "why": {
+        "sc": "跨境养老支付正式落地，打通港人内地养老的现金流闭环；年金跨境发放对高净值客户养老规划与跨境资金安排有直接参考价值，家办及跨境业务可跟进同类服务升级。",
+        "tc": "跨境養老支付正式落地，打通港人內地養老的現金流閉環；年金跨境發放對高淨值客戶養老規劃與跨境資金安排有直接參考價值，家辦及跨境業務可跟進同類服務升級。"
+      },
+      "actions": {
+        "front": {
+          "sc": "高净值客户养老规划新工具",
+          "tc": "高淨值客戶養老規劃新工具"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {
+          "sc": "内地养老港人年金收款方案",
+          "tc": "內地養老港人年金收款方案"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 0,
+        "lead": 0,
+        "cross": 1
+      },
+      "source": {
+        "sc": "香港金融管理局 HKMA",
+        "lang": "en"
+      },
+      "boards": [
+        "cross"
+      ],
+      "themes": [
+        "cross-border",
+        "pension"
+      ],
+      "tags": {
+        "sc": [
+          "跨境养老",
+          "年金",
+          "人民币",
+          "Payment Connect"
+        ],
+        "tc": [
+          "跨境養老",
+          "年金",
+          "人民幣",
+          "Payment Connect"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-08-24",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260824-3/",
+      "ingestedAt": "2026-08-24T21:20:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "hkma-hkicl-fraud-alert-20260824",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "香港银行同业结算公司提示两假冒网站 警惕FPS钓鱼诈骗",
+        "tc": "香港銀行同業結算公司提示兩假冒網站 警惕FPS釣魚詐騙"
+      },
+      "summary": {
+        "sc": "香港银行同业结算公司(HKICL)发现两个冒充其官网的假冒网站，澄清与该公司无任何关联；HKICL不会直接向公众提供FPS转数快服务，呼吁市民警惕可疑来电、网站及通讯，保护个人资料。",
+        "tc": "香港銀行同業結算公司(HKICL)發現兩個冒充其官網的假冒網站，澄清與該公司無任何關聯；HKICL不會直接向公眾提供FPS轉數快服務，呼籲市民警惕可疑來電、網站及通訊，保護個人資料。"
+      },
+      "why": {
+        "sc": "转数快相关钓鱼网站再度出现，跨境资金往来与保单缴费环节的中介及客户均需提高警惕；官方警示可直接用作渠道风控提示与客户教育的即时素材。",
+        "tc": "轉數快相關釣魚網站再度出現，跨境資金往來與保單繳費環節的中介及客戶均需提高警惕；官方警示可直接用作渠道風控提示與客戶教育的即時素材。"
+      },
+      "actions": {
+        "front": {
+          "sc": "客户防诈提醒素材",
+          "tc": "客戶防詐提醒素材"
+        },
+        "midback": {
+          "sc": "渠道风控与缴费环节警示",
+          "tc": "渠道風控與繳費環節警示"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "香港金融管理局 HKMA",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "tags": {
+        "sc": [
+          "钓鱼网站",
+          "转数快",
+          "防诈骗",
+          "HKICL"
+        ],
+        "tc": [
+          "釣魚網站",
+          "轉數快",
+          "防詐騙",
+          "HKICL"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-08-24",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260824-4/",
+      "ingestedAt": "2026-08-24T21:20:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "axa-shkp-igc-lease-20260824",
+      "clusterCount": 1,
+      "score": 80,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "axa",
+      "title": {
+        "sc": "新鸿基与AXA安盛签署IGC重大租赁协议 承租两层半楼面拓展分销网络",
+        "tc": "新鴻基與AXA安盛簽署IGC重大租賃協議 承租兩層半樓面拓展分銷網絡"
+      },
+      "summary": {
+        "sc": "新鸿基地产与AXA安盛香港及澳门宣布签署重要租赁协议：AXA承租环球汇(IGC)约9.75万平方呎楼面，打造全新分销办公室及旗舰一站式财富管理中心，预计2028年初进驻，租期十年。",
+        "tc": "新鴻基地產與AXA安盛香港及澳門宣佈簽署重要租賃協議：AXA承租環球匯(IGC)約9.75萬平方呎樓面，打造全新分銷辦公室及旗艦一站式財富管理中心，預計2028年初進駐，租期十年。"
+      },
+      "why": {
+        "sc": "AXA以十年租约押注西九龙高铁上盖商圈，反映大型险企加码香港分销与财富管理布局；选址与渠道扩张信号对同业渠道策略及区域写字楼市场具参照意义。",
+        "tc": "AXA以十年租約押注西九龍高鐵上蓋商圈，反映大型險企加碼香港分銷與財富管理佈局；選址與渠道擴張信號對同業渠道策略及區域寫字樓市場具參照意義。"
+      },
+      "actions": {
+        "front": {
+          "sc": "AXA渠道扩张与财富管理中心动向",
+          "tc": "AXA渠道擴張與財富管理中心動向"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "同业渠道扩张对标",
+          "tc": "同業渠道擴張對標"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 0,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "AXA安盛 新闻中心",
+        "lang": "zh"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "distribution",
+        "wealth"
+      ],
+      "tags": {
+        "sc": [
+          "AXA",
+          "新鸿基",
+          "环球汇",
+          "财富管理",
+          "分销网络"
+        ],
+        "tc": [
+          "AXA",
+          "新鴻基",
+          "環球匯",
+          "財富管理",
+          "分銷網絡"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-08-24T10:01:00+08:00",
+      "originalUrl": "https://www.axa.com.hk/zh/article/shkp-and-axa-sign-major-lease-agreement-at-igcaccelerating-axas-agency-growth-and-market-leadership",
+      "ingestedAt": "2026-08-24T21:20:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ia-pru-india-health-20260824",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "保诚印度独立健康险业务启航 HCL持股三成 [EN原文]",
+        "tc": "保誠印度獨立健康險業務啟航 HCL持股三成 [EN原文]"
+      },
+      "summary": {
+        "sc": "保诚宣布旗下独立健康险公司Prudential Health India正式营运，保诚为控股股东，HCL集团持股30%；计划以数字化工具简化投保与理赔流程，印度2026财年健康险总保费规模约160亿美元。",
+        "tc": "保誠宣佈旗下獨立健康險公司Prudential Health India正式營運，保誠為控股股東，HCL集團持股30%；計劃以數字化工具簡化投保與理賠流程，印度2026財年健康險總保費規模約160億美元。"
+      },
+      "why": {
+        "sc": "保诚将东南亚数字化健康险打法复制到印度，全球健康险版图再扩；对关注保诚基本面的渠道是重要公司动态，亦折射亚洲健康险数字化竞争加剧。",
+        "tc": "保誠將東南亞數字化健康險打法複製到印度，全球健康險版圖再擴；對關注保誠基本面的渠道是重要公司動態，亦折射亞洲健康險數字化競爭加劇。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "保诚全球业务布局观察",
+          "tc": "保誠全球業務佈局觀察"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "health",
+        "digital"
+      ],
+      "tags": {
+        "sc": [
+          "保诚",
+          "印度",
+          "健康险",
+          "HCL",
+          "数字化"
+        ],
+        "tc": [
+          "保誠",
+          "印度",
+          "健康險",
+          "HCL",
+          "數字化"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-24T05:30:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/prudential-enters-india-health-insurance-amidst-16b-premium-pool",
+      "ingestedAt": "2026-08-24T21:20:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ia-pingan-h1-20260824",
+      "clusterCount": 1,
+      "score": 78,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "中国平安中期纯利升36.1%至139亿美元 中期息每股0.98元人民币 [EN原文]",
+        "tc": "中國平安中期純利升36.1%至139億美元 中期息每股0.98元人民幣 [EN原文]"
+      },
+      "summary": {
+        "sc": "中国平安2026年上半年归母净利润按年升36.1%至139亿美元(约925.85亿元人民币)，收入升12.6%；经营利润升8.3%，中期息每股0.98元人民币按年增3.2%，总权益较年初增2.8%。",
+        "tc": "中國平安2026年上半年歸母淨利潤按年升36.1%至139億美元(約925.85億元人民幣)，收入升12.6%；經營利潤升8.3%，中期息每股0.98元人民幣按年增3.2%，總權益較年初增2.8%。"
+      },
+      "why": {
+        "sc": "平安H1业绩超预期，叠加境外追税热议下管理层多次回应；内地头部险企业绩与政策解读是港险渠道理解内地客源与监管风向的重要参照。",
+        "tc": "平安H1業績超預期，疊加境外追稅熱議下管理層多次回應；內地頭部險企業績與政策解讀是港險渠道理解內地客源與監管風向的重要參照。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "内地险企业绩与客源风向",
+          "tc": "內地險企業績與客源風向"
+        },
+        "cross": {
+          "sc": "内地保险业景气观察",
+          "tc": "內地保險業景氣觀察"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "earnings",
+        "china"
+      ],
+      "tags": {
+        "sc": [
+          "中国平安",
+          "中期业绩",
+          "H1 2026",
+          "内地险企"
+        ],
+        "tc": [
+          "中國平安",
+          "中期業績",
+          "H1 2026",
+          "內地險企"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-24T06:30:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/ping-net-profit-jumps-361-14b-in-h1-2026",
+      "ingestedAt": "2026-08-24T21:20:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ia-allianz-apac-h1-20260824",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "安联亚太上半年经营利润升11.4% 中国新业务价值大增79.4% [EN原文]",
+        "tc": "安聯亞太上半年經營利潤升11.4% 中國新業務價值大增79.4% [EN原文]"
+      },
+      "summary": {
+        "sc": "安联亚太(不含印度)上半年经营利润按年升11.4%至5.291亿美元，寿健业务升6.4%、财险升35%；新业务价值升3.9%，剔除泰国后升16.5%，中国(+79.4%)、印尼(+22.5%)领涨。",
+        "tc": "安聯亞太(不含印度)上半年經營利潤按年升11.4%至5.291億美元，壽健業務升6.4%、財險升35%；新業務價值升3.9%，剔除泰國後升16.5%，中國(+79.4%)、印尼(+22.5%)領漲。"
+      },
+      "why": {
+        "sc": "安联亚太H1数据凸显中国市场新业务价值动能；外资险企在华布局与NBV趋势是评估大中华区寿险景气度的窗口，对渠道解读市场格局有参考意义。",
+        "tc": "安聯亞太H1數據凸顯中國市場新業務價值動能；外資險企在華佈局與NBV趨勢是評估大中華區壽險景氣度的窗口，對渠道解讀市場格局有參考意義。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "外资险企亚太业绩对标",
+          "tc": "外資險企亞太業績對標"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "earnings",
+        "nbv"
+      ],
+      "tags": {
+        "sc": [
+          "安联",
+          "亚太",
+          "新业务价值",
+          "中国",
+          "H1 2026"
+        ],
+        "tc": [
+          "安聯",
+          "亞太",
+          "新業務價值",
+          "中國",
+          "H1 2026"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-24T05:15:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/allianz-asia-pacific-lifts-profit-114-5291m-in-h1-2026",
+      "ingestedAt": "2026-08-24T21:20:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ia-allianz-trade-china-ceo-20260824",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "安联贸易委任Scott Munafò为中国区CEO 驻上海 [EN原文]",
+        "tc": "安聯貿易委任Scott Munafò為中國區CEO 駐上海 [EN原文]"
+      },
+      "summary": {
+        "sc": "安联贸易(Allianz Trade)亚太区委任Scott Munafò为中国区首席执行官，驻上海；其2015年加入公司，历任跨国客户、北欧区域客户总监及集团经纪管理与伙伴关系主管，将统领在华商业与分销策略。",
+        "tc": "安聯貿易(Allianz Trade)亞太區委任Scott Munafò為中國區首席執行官，駐上海；其2015年加入公司，歷任跨國客戶、北歐區域客戶總監及集團經紀管理與夥伴關係主管，將統領在華商業與分銷策略。"
+      },
+      "why": {
+        "sc": "外资信用保险机构中国区换帅，反映安联在华商业布局加码；外资险企高管人事变动是在华策略的风向标，适合渠道管理层关注。",
+        "tc": "外資信用保險機構中國區換帥，反映安聯在華商業佈局加碼；外資險企高管人事變動是在華策略的風向標，適合渠道管理層關注。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "外资险企在华人事动向",
+          "tc": "外資險企在華人事動向"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "talent",
+        "china"
+      ],
+      "tags": {
+        "sc": [
+          "安联贸易",
+          "中国区",
+          "人事任命",
+          "信用保险"
+        ],
+        "tc": [
+          "安聯貿易",
+          "中國區",
+          "人事任命",
+          "信用保險"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-24T06:15:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/allianz-trade-names-scott-munafo-china-ceo",
+      "ingestedAt": "2026-08-24T21:20:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ia-ai-profit-engine-20260824",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "险企AI试点难兑现收益 麦肯锡：分销成本吞噬保费美元八毛 [EN原文]",
+        "tc": "險企AI試點難兌現收益 麥肯錫：分銷成本吞噬保費美元八毛 [EN原文]"
+      },
+      "summary": {
+        "sc": "麦肯锡7月报告指全球保费2005年以来年增4.9%至约8.3万亿美元，税前利润年增仅4.3%；财险每美元保费佣金占0.10-0.25美元，成本率较2005年高17%，AI困于孤立试点难成利润引擎。NTT Data称战略对齐的险企85.8%实现AI利润增长逾5%。",
+        "tc": "麥肯錫7月報告指全球保費2005年以來年增4.9%至約8.3萬億美元，稅前利潤年增僅4.3%；財險每美元保費佣金佔0.10-0.25美元，成本率較2005年高17%，AI困於孤立試點難成利潤引擎。NTT Data稱戰略對齊的險企85.8%實現AI利潤增長逾5%。"
+      },
+      "why": {
+        "sc": "全球头部机构数据揭示AI落地与成本结构痛点；对港险渠道数字化投入与效率转型是及时的外部参照，管理层可借报告校准AI投入预期与路线图。",
+        "tc": "全球頭部機構數據揭示AI落地與成本結構痛點；對港險渠道數字化投入與效率轉型是及時的外部參照，管理層可借報告校準AI投入預期與路線圖。"
+      },
+      "actions": {
+        "front": {
+          "sc": "数字化工具效率参照",
+          "tc": "數字化工具效率參照"
+        },
+        "midback": {
+          "sc": "成本结构与运营效率对标",
+          "tc": "成本結構與運營效率對標"
+        },
+        "lead": {
+          "sc": "AI投入策略校准",
+          "tc": "AI投入策略校準"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "tech"
+      ],
+      "themes": [
+        "ai",
+        "digital"
+      ],
+      "tags": {
+        "sc": [
+          "AI",
+          "麦肯锡",
+          "数字化",
+          "分销成本",
+          "效率转型"
+        ],
+        "tc": [
+          "AI",
+          "麥肯錫",
+          "數字化",
+          "分銷成本",
+          "效率轉型"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-24T10:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/expert-opinion/can-insurers-turn-ai-pilots-profit-engine",
+      "ingestedAt": "2026-08-24T21:20:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
     {
       "id": "oncc-bluecross-zhi-anxin-20260823",
       "clusterCount": 1,
@@ -45486,19 +46072,19 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 552 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 552 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 560 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 560 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 552,
+      "totalItems": 560,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 195,
+          "count": 197,
           "label": "监管一手"
         },
         {
           "tier": "insurer",
-          "count": 131,
+          "count": 132,
           "label": "保司公告"
         },
         {
@@ -45508,7 +46094,7 @@ window.HKII_DATA = {
         },
         {
           "tier": "media",
-          "count": 140,
+          "count": 145,
           "label": "媒体报道"
         },
         {
@@ -45627,7 +46213,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "cross-border",
-          "count": 35,
+          "count": 36,
           "label": "跨境"
         },
         {
@@ -45637,8 +46223,8 @@ window.HKII_DATA = {
         }
       ],
       "dateRange": {
-        "sc": "2013-03-05 ~ 2026-08-23",
-        "tc": "2013-03-05 ~ 2026-08-23"
+        "sc": "2013-03-05 ~ 2026-08-24",
+        "tc": "2013-03-05 ~ 2026-08-24"
       }
     },
     "marketData": {
