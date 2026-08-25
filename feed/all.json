@@ -1,9 +1,61 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-24T16:51:52Z",
-  "itemCount": 560,
+  "generatedAt": "2026-08-25T04:37:37Z",
+  "itemCount": 564,
   "items": [
+    {
+      "id": "iaa-wealthy-140b-20260825",
+      "title": "麦肯锡：亚洲高净值保险市场2030年年新保费可达1000-1400亿美元 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "hnw",
+        "wealth-transfer"
+      ],
+      "publishedAt": "2026-08-25T05:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-wealthy-140b-20260825",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/asia-wealthy-insurance-market-could-hit-140b-2030"
+    },
+    {
+      "id": "iaa-bluecross-medical-20260825",
+      "title": "蓝十字升级团体医疗附加保障 转工或退休可延续投保 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "group-medical",
+        "healthcare-cost"
+      ],
+      "publishedAt": "2026-08-25T05:15:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-bluecross-medical-20260825",
+      "originalUrl": "https://insuranceasia.com/insurance/news/blue-cross-expands-cover-healthcare-costs-pressure-firms"
+    },
+    {
+      "id": "iaa-sp-aia-20260825",
+      "title": "标普：友邦未来两年增长动能稳固 内地访客需求具韧性 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "rating",
+        "mainland-visitors"
+      ],
+      "publishedAt": "2026-08-25T05:30:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-sp-aia-20260825",
+      "originalUrl": "https://insuranceasia.com/insurance/news/sp-global-ratings-sees-aia-growth-holding-despite-china-sales-risk"
+    },
+    {
+      "id": "iaa-allianz-my-h1-20260825",
+      "title": "安联马来西亚上半年总保费升11.5%至10.8亿美元 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "regional",
+        "earnings"
+      ],
+      "publishedAt": "2026-08-25T05:45:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-allianz-my-h1-20260825",
+      "originalUrl": "https://insuranceasia.com/insurance/news/allianz-malaysia-premiums-jump-115-11b-in-h1-2026"
+    },
     {
       "id": "hkma-annuity-cross-boundary-20260824",
       "title": "香港年金公司推跨境年金支付服务 内地养老港人可收人民币年金",

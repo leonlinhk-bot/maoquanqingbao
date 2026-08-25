@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-08-24T21:20:00+08:00",
-    "itemCount": 560,
+    "generatedAt": "2026-08-25T12:45:00+08:00",
+    "itemCount": 564,
     "windowNote": {
-      "sc": "本库560条。",
-      "tc": "本庫560條。"
+      "sc": "本库564条。",
+      "tc": "本庫564條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -264,6 +264,295 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "iaa-wealthy-140b-20260825",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "麦肯锡：亚洲高净值保险市场2030年年新保费可达1000-1400亿美元 [EN原文]",
+        "tc": "麥肯錫：亞洲高淨值保險市場2030年年新保費可達1000-1400億美元 [EN原文]"
+      },
+      "summary": {
+        "sc": "麦肯锡估计，到2030年亚洲高净值人群保险市场年新业务保费可达1000亿至1400亿美元；目前亚洲仅15%-20%高净值人士将人寿保险纳入财富规划，区域个人金融资产2030年料达120万亿美元，约占全球四成。",
+        "tc": "麥肯錫估計，到2030年亞洲高淨值人群保險市場年新業務保費可達1000億至1400億美元；目前亞洲僅15%-20%高淨值人士將人壽保險納入財富規劃，區域個人金融資產2030年料達120萬億美元，約佔全球四成。"
+      },
+      "why": {
+        "sc": "高净值客群保险渗透率低、世代传承需求上升，家族办公室与私人银行在跨境保单安排中的角色被点明；对港险渠道服务内地及亚洲高净值客户有直接指引意义。",
+        "tc": "高淨值客群保險滲透率低、世代傳承需求上升，家族辦公室與私人銀行在跨境保單安排中的角色被點明；對港險渠道服務內地及亞洲高淨值客戶有直接指引意義。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "高净值与家族办公室客群机会",
+          "tc": "高淨值與家族辦公室客群機會"
+        },
+        "cross": {
+          "sc": "财富传承与跨境保单需求",
+          "tc": "財富傳承與跨境保單需求"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "hnw",
+        "wealth-transfer"
+      ],
+      "tags": {
+        "sc": [
+          "高净值保险",
+          "财富传承",
+          "家族办公室",
+          "麦肯锡"
+        ],
+        "tc": [
+          "高淨值保險",
+          "財富傳承",
+          "家族辦公室",
+          "麥肯錫"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-25T05:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/asia-wealthy-insurance-market-could-hit-140b-2030",
+      "ingestedAt": "2026-08-25T12:45:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "iaa-bluecross-medical-20260825",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "蓝十字升级团体医疗附加保障 转工或退休可延续投保 [EN原文]",
+        "tc": "藍十字升級團體醫療附加保障 轉工或退休可延續投保 [EN原文]"
+      },
+      "summary": {
+        "sc": "蓝十字推出升级版「守护医疗保险Plus」，供现有团体医疗保险成员加购个人及家人保障；成员转工或退休可延续保障，住院及手术基本保障全球适用，另设门诊、牙科及附加医疗三项自选保障。",
+        "tc": "藍十字推出升級版「守護醫療保險Plus」，供現有團體醫療保險成員加購個人及家人保障；成員轉工或退休可延續保障，住院及手術基本保障全球適用，另設門診、牙科及附加醫療三項自選保障。"
+      },
+      "why": {
+        "sc": "香港团体医疗通胀率预计今年达10.5%，雇主控制福利成本压力上升；「转工/退休可续保」的个人化团体医疗升级是港险产品创新方向，对渠道产品对比与客户教育有参考价值。",
+        "tc": "香港團體醫療通脹率預計今年達10.5%，僱主控制福利成本壓力上升；「轉工/退休可續保」的個人化團體醫療升級是港險產品創新方向，對渠道產品對比與客戶教育有參考價值。"
+      },
+      "actions": {
+        "front": {
+          "sc": "团体医疗转个人续保卖点",
+          "tc": "團體醫療轉個人續保賣點"
+        },
+        "midback": {
+          "sc": "产品对比与客户教育素材",
+          "tc": "產品對比與客戶教育素材"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "group-medical",
+        "healthcare-cost"
+      ],
+      "tags": {
+        "sc": [
+          "蓝十字",
+          "团体医疗保险",
+          "医疗通胀",
+          "大湾区"
+        ],
+        "tc": [
+          "藍十字",
+          "團體醫療保險",
+          "醫療通脹",
+          "大灣區"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-25T05:15:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/blue-cross-expands-cover-healthcare-costs-pressure-firms",
+      "ingestedAt": "2026-08-25T12:45:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "iaa-sp-aia-20260825",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "标普：友邦未来两年增长动能稳固 内地访客需求具韧性 [EN原文]",
+        "tc": "標普：友邦未來兩年增長動能穩固 內地訪客需求具韌性 [EN原文]"
+      },
+      "summary": {
+        "sc": "标普全球评级指友邦未来两年可保持盈利增长，成熟代理渠道支持向内地客户销售财富管理及保障产品；内地访客对多元货币资产配置及医疗保障需求仍具韧性，可缓冲境外投资征税预期带来的波动。",
+        "tc": "標普全球評級指友邦未來兩年可保持盈利增長，成熟代理渠道支持向內地客戶銷售財富管理及保障產品；內地訪客對多元貨幣資產配置及醫療保障需求仍具韌性，可緩衝境外投資徵稅預期帶來的波動。"
+      },
+      "why": {
+        "sc": "评级机构正面背书友邦香港业务与内地访客需求韧性，回应近期境外追税热议；是渠道向客户解释港险需求基本面与友邦财务实力的直接素材。",
+        "tc": "評級機構正面背書友邦香港業務與內地訪客需求韌性，回應近期境外追稅熱議；是渠道向客戶解釋港險需求基本面與友邦財務實力的直接素材。"
+      },
+      "actions": {
+        "front": {
+          "sc": "友邦实力与需求韧性话术",
+          "tc": "友邦實力與需求韌性話術"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "内地访客需求观察",
+          "tc": "內地訪客需求觀察"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 0,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "rating",
+        "mainland-visitors"
+      ],
+      "tags": {
+        "sc": [
+          "标普",
+          "友邦",
+          "评级",
+          "内地访客"
+        ],
+        "tc": [
+          "標普",
+          "友邦",
+          "評級",
+          "內地訪客"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-25T05:30:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/sp-global-ratings-sees-aia-growth-holding-despite-china-sales-risk",
+      "ingestedAt": "2026-08-25T12:45:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "iaa-allianz-my-h1-20260825",
+      "clusterCount": 1,
+      "score": 68,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "安联马来西亚上半年总保费升11.5%至10.8亿美元 [EN原文]",
+        "tc": "安聯馬來西亞上半年總保費升11.5%至10.8億美元 [EN原文]"
+      },
+      "summary": {
+        "sc": "安联马来西亚2026年上半年总业务量升7%至8.079亿美元，总保费收入升11.5%至10.8亿美元，受车险、银保及员工福利业务带动；寿险年化新保费升8.7%，新业务价值升8.7%。",
+        "tc": "安聯馬來西亞2026年上半年總業務量升7%至8.079億美元，總保費收入升11.5%至10.8億美元，受車險、銀保及員工福利業務帶動；壽險年化新保費升8.7%，新業務價值升8.7%。"
+      },
+      "why": {
+        "sc": "安联亚洲区子公司中报持续报喜，银保渠道与员工福利业务驱动增长；区域同业增长结构是港险渠道观察东南亚保险市场景气与集团动向的参考。",
+        "tc": "安聯亞洲區子公司中報持續報喜，銀保渠道與員工福利業務驅動增長；區域同業增長結構是港險渠道觀察東南亞保險市場景氣與集團動向的參考。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "区域保险市场景气对标",
+          "tc": "區域保險市場景氣對標"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "regional",
+        "earnings"
+      ],
+      "tags": {
+        "sc": [
+          "安联",
+          "马来西亚",
+          "中期业绩",
+          "银保"
+        ],
+        "tc": [
+          "安聯",
+          "馬來西亞",
+          "中期業績",
+          "銀保"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-25T05:45:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/allianz-malaysia-premiums-jump-115-11b-in-h1-2026",
+      "ingestedAt": "2026-08-25T12:45:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
     {
       "id": "hkma-annuity-cross-boundary-20260824",
       "clusterCount": 1,
@@ -46072,10 +46361,10 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 560 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 560 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 564 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 564 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 560,
+      "totalItems": 564,
       "sourceTiers": [
         {
           "tier": "official",
@@ -46094,7 +46383,7 @@
         },
         {
           "tier": "media",
-          "count": 145,
+          "count": 149,
           "label": "媒体报道"
         },
         {
@@ -46223,8 +46512,8 @@
         }
       ],
       "dateRange": {
-        "sc": "2013-03-05 ~ 2026-08-24",
-        "tc": "2013-03-05 ~ 2026-08-24"
+        "sc": "2013-03-05 ~ 2026-08-25",
+        "tc": "2013-03-05 ~ 2026-08-25"
       }
     },
     "marketData": {
