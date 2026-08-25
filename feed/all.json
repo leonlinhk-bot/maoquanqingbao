@@ -1,9 +1,48 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-25T04:37:37Z",
-  "itemCount": 564,
+  "generatedAt": "2026-08-25T10:18:25Z",
+  "itemCount": 567,
   "items": [
+    {
+      "id": "ibm-freight-green-switch-20260825",
+      "title": "AXA XL联合路透社报告：货运脱碳加速催生保险缺口 电动货车维修费高企 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "marine",
+        "esg"
+      ],
+      "publishedAt": "2026-08-25T14:46:10+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-freight-green-switch-20260825",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/marine/freights-green-switch-is-creating-a-claims-gap-for-brokers-587302.aspx"
+    },
+    {
+      "id": "hkma-hkicl-fraud-alert-20260825",
+      "title": "香港银行同业结算公司再揭假冒网站 仿冒「买家网上保障」骗FPS用户 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "publishedAt": "2026-08-25T18:06:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-hkicl-fraud-alert-20260825",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260825-6/"
+    },
+    {
+      "id": "hkma-bank-scam-alert-20260825",
+      "title": "金管局汇总多家银行诈骗警示：假冒网站、钓鱼电邮频现 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "publishedAt": "2026-08-25T16:26:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-bank-scam-alert-20260825",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260825-5/"
+    },
     {
       "id": "iaa-wealthy-140b-20260825",
       "title": "麦肯锡：亚洲高净值保险市场2030年年新保费可达1000-1400亿美元 [EN原文]",

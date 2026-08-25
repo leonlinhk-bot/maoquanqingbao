@@ -1,11 +1,11 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-08-25T12:45:00+08:00",
-    "itemCount": 564,
+    "generatedAt": "2026-08-25T18:18:01+08:00",
+    "itemCount": 567,
     "windowNote": {
-      "sc": "本库564条。",
-      "tc": "本庫564條。"
+      "sc": "本库567条。",
+      "tc": "本庫567條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -264,6 +264,222 @@ window.HKII_DATA = {
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "ibm-freight-green-switch-20260825",
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "title": {
+        "sc": "AXA XL联合路透社报告：货运脱碳加速催生保险缺口 电动货车维修费高企 [EN原文]",
+        "tc": "AXA XL聯合路透社報告：貨運脫碳加速催生保險缺口 電動貨車維修費高企 [EN原文]"
+      },
+      "summary": {
+        "sc": "路透社活动与AXA XL联合报告《货运低碳经济：风险管理》指出，货运脱碳在公路、海运及空运催生新的保险风险：电动货车维修成本较燃油车高最多25%，船舶燃料策略未定，行业仍沿用数月前才正式化的指引。运输业为全球第二大碳排放源。",
+        "tc": "路透社活動與AXA XL聯合報告《貨運低碳經濟：風險管理》指出，貨運脫碳在公路、海運及空運催生新的保險風險：電動貨車維修成本較燃油車高最多25%，船舶燃料策略未定，行業仍沿用數月前才正式化的指引。運輸業為全球第二大碳排放源。"
+      },
+      "why": {
+        "sc": "新能源货运带来的维修成本、责任与承保定价缺口是新兴议题，对港险货运险、物流险产品开发及核保定价有前瞻参考价值。",
+        "tc": "新能源貨運帶來的維修成本、責任與承保定價缺口是新興議題，對港險貨運險、物流險產品開發及核保定價有前瞻參考價值。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "货运物流险核保与产品开发参考",
+          "tc": "貨運物流險核保與產品開發參考"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Business",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "marine",
+        "esg"
+      ],
+      "tags": {
+        "sc": [
+          "货运险",
+          "脱碳",
+          "电动货车",
+          "AXA XL"
+        ],
+        "tc": [
+          "貨運險",
+          "脫碳",
+          "電動貨車",
+          "AXA XL"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-25T14:46:10+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/marine/freights-green-switch-is-creating-a-claims-gap-for-brokers-587302.aspx",
+      "ingestedAt": "2026-08-25T18:18:01+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "hkma-hkicl-fraud-alert-20260825",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "香港银行同业结算公司再揭假冒网站 仿冒「买家网上保障」骗FPS用户 [EN原文]",
+        "tc": "香港銀行同業結算公司再揭假冒網站 仿冒「買家網上保障」騙FPS用戶 [EN原文]"
+      },
+      "summary": {
+        "sc": "香港银行同业结算公司(HKICL)提示多个假冒网站及连结，冒充「买家网上保障」服务，声称可提供买家退款、未经授权交易报告及网上交易支援，诱骗经转数快(FPS)付款的用户。HKICL提醒公众不会经上述网站索取敏感资料，遇可疑应即举报。",
+        "tc": "香港銀行同業結算公司(HKICL)提示多個假冒網站及連結，冒充「買家網上保障」服務，聲稱可提供買家退款、未經授權交易報告及網上交易支援，誘騙經轉數快(FPS)付款的用戶。HKICL提醒公眾不會經上述網站索取敏感資料，遇可疑應即舉報。"
+      },
+      "why": {
+        "sc": "继8月24日警示后连续第二日发布同类通告，FPS钓鱼手法升级为仿冒「买家保障」交易场景；转数快及跨境缴费用户风险上升，宜纳入客户防诈提示与渠道风控关注。",
+        "tc": "繼8月24日警示後連續第二日發佈同類通告，FPS釣魚手法升級為仿冒「買家保障」交易場景；轉數快及跨境繳費用戶風險上升，宜納入客戶防詐提示與渠道風控關注。"
+      },
+      "actions": {
+        "front": {
+          "sc": "客户防诈提醒素材",
+          "tc": "客戶防詐提醒素材"
+        },
+        "midback": {
+          "sc": "缴费环节风控关注",
+          "tc": "繳費環節風控關注"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "香港金融管理局 HKMA",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "tags": {
+        "sc": [
+          "假冒网站",
+          "转数快",
+          "防诈骗",
+          "HKICL"
+        ],
+        "tc": [
+          "假冒網站",
+          "轉數快",
+          "防詐騙",
+          "HKICL"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-08-25T18:06:00+08:00",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260825-6/",
+      "ingestedAt": "2026-08-25T18:18:01+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "hkma-bank-scam-alert-20260825",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "金管局汇总多家银行诈骗警示：假冒网站、钓鱼电邮频现 [EN原文]",
+        "tc": "金管局匯總多家銀行詐騙警示：假冒網站、釣魚電郵頻現 [EN原文]"
+      },
+      "summary": {
+        "sc": "金管局发布诈骗警示汇总，多家银行近日就假冒网站、网上银行登录页面、钓鱼电邮或其它骗案发出新闻稿。金管局提醒公众：银行不会经短信或电邮内嵌链接引导客户进行交易，也不会通过电话、电邮或短信索取登录密码或一次性验证码。",
+        "tc": "金管局發佈詐騙警示匯總，多家銀行近日就假冒網站、網上銀行登錄頁面、釣魚電郵或其它騙案發出新聞稿。金管局提醒公眾：銀行不會經短信或電郵內嵌連結引導客戶進行交易，也不會透過電話、電郵或短信索取登錄密碼或一次性驗證碼。"
+      },
+      "why": {
+        "sc": "假冒银行网站与钓鱼链接威胁客户资金安全，跨境投保、缴费场景尤须警惕；官方警示连续发布，渠道端可同步更新客户防诈教育与交易提醒素材。",
+        "tc": "假冒銀行網站與釣魚連結威脅客戶資金安全，跨境投保、繳費場景尤須警惕；官方警示連續發佈，渠道端可同步更新客戶防詐教育與交易提醒素材。"
+      },
+      "actions": {
+        "front": {
+          "sc": "客户防诈提醒素材",
+          "tc": "客戶防詐提醒素材"
+        },
+        "midback": {
+          "sc": "渠道风控与缴费环节警示",
+          "tc": "渠道風控與繳費環節警示"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "香港金融管理局 HKMA",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "tags": {
+        "sc": [
+          "诈骗警示",
+          "假冒网站",
+          "钓鱼电邮",
+          "金管局"
+        ],
+        "tc": [
+          "詐騙警示",
+          "假冒網站",
+          "釣魚電郵",
+          "金管局"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-08-25T16:26:00+08:00",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260825-5/",
+      "ingestedAt": "2026-08-25T18:18:01+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
     {
       "id": "iaa-wealthy-140b-20260825",
       "clusterCount": 1,
@@ -46361,14 +46577,14 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 564 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 564 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 567 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 567 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 564,
+      "totalItems": 567,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 197,
+          "count": 199,
           "label": "监管一手"
         },
         {
@@ -46383,7 +46599,7 @@ window.HKII_DATA = {
         },
         {
           "tier": "media",
-          "count": 149,
+          "count": 150,
           "label": "媒体报道"
         },
         {
