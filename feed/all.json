@@ -1,9 +1,178 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-25T10:18:25Z",
-  "itemCount": 567,
+  "generatedAt": "2026-08-27T10:15:29Z",
+  "itemCount": 580,
   "items": [
+    {
+      "id": "ibm-nepal-glacier-travel-cover-20260827",
+      "title": "尼泊尔洪水确认由冰川崩塌引发 旅游及探险险条款响应成焦点 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "natcat",
+        "product"
+      ],
+      "publishedAt": "2026-08-27T17:17:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-nepal-glacier-travel-cover-20260827",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/catastrophe/nepal-flood-was-triggered-by-a-glacier-not-an-earthquake--for-brokers-the-cause-is-the-question-587700.aspx"
+    },
+    {
+      "id": "hkma-bank-scam-alert-20260827",
+      "title": "金管局汇总三银行诈骗警示：汇立银行假冒App、华侨银行(香港)假网站、恒生钓鱼短信 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "publishedAt": "2026-08-27",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-bank-scam-alert-20260827",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260827-4/"
+    },
+    {
+      "id": "hkma-genai-sandbox-cohort-20260827",
+      "title": "金管局联同证监会、保监局及积金局公布「生成式人工智能沙盒++」首批36个用例 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "ai",
+        "insurtech"
+      ],
+      "publishedAt": "2026-08-27",
+      "score": 90,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-genai-sandbox-cohort-20260827",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260827-3/"
+    },
+    {
+      "id": "hkma-hkicl-fraud-alert-20260826",
+      "title": "香港银行同业结算公司再揭两假冒网站 仿「买家网上保障」骗FPS用户 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "publishedAt": "2026-08-26",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-hkicl-fraud-alert-20260826",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260826-5/"
+    },
+    {
+      "id": "hkma-bank-scam-alert-20260826",
+      "title": "金管局汇总四银行诈骗警示：假冒网站及网银登入画面 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "publishedAt": "2026-08-26",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-bank-scam-alert-20260826",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260826-4/"
+    },
+    {
+      "id": "hkma-north-metro-taskforce-20260826",
+      "title": "北部都会区金融咨询专责小组举行第二次会议 探讨多元融资模式 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "capital",
+        "cross-border"
+      ],
+      "publishedAt": "2026-08-26",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-north-metro-taskforce-20260826",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260826-3/"
+    },
+    {
+      "id": "iaa-fwd-h1-profit-20260826",
+      "title": "富卫集团上半年净利润增3倍至1.72亿美元创新高 四大分部齐增长 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "results",
+        "market"
+      ],
+      "publishedAt": "2026-08-26T05:15:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-fwd-h1-profit-20260826",
+      "originalUrl": "https://insuranceasia.com/insurance/news/fwd-profit-triples-record-172m-in-h1-2026"
+    },
+    {
+      "id": "iaa-manulife-ai-drive-20260826",
+      "title": "宏利亚洲CEO：以AI驱动健康与财富业务 目标2027年AI创造超10亿美元价值 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "insurtech"
+      ],
+      "publishedAt": "2026-08-26T05:00:00+08:00",
+      "score": 73,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-manulife-ai-drive-20260826",
+      "originalUrl": "https://insuranceasia.com/insurance/exclusive/manulife-asia-pushes-ai-drive-health-wealth-growth"
+    },
+    {
+      "id": "iaa-china-nonmotor-moodys-20260827",
+      "title": "穆迪：中国非车险新规见效或慢于车险 产品多元市场复杂拖累 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "china",
+        "reg"
+      ],
+      "publishedAt": "2026-08-27T05:30:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-china-nonmotor-moodys-20260827",
+      "originalUrl": "https://insuranceasia.com/insurance/news/china-non-motor-reforms-face-slower-payoff-moodys"
+    },
+    {
+      "id": "iaa-taiwan-spillover-20260826",
+      "title": "台湾外溢效应保单上半年新单保费暴增152% [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "product",
+        "health"
+      ],
+      "publishedAt": "2026-08-26T07:00:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-taiwan-spillover-20260826",
+      "originalUrl": "https://insuranceasia.com/insurance/news/taiwan-spillover-effect-premiums-surge-152"
+    },
+    {
+      "id": "ibm-prudential-h1-20260827",
+      "title": "保诚上半年新业务利润增8%至13.8亿美元 银保渠道成增长引擎 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "results",
+        "channel"
+      ],
+      "publishedAt": "2026-08-27T15:08:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-prudential-h1-20260827",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/prudential-posts-8-new-business-profit-growth--the-bancassurance-channel-drove-it-587680.aspx"
+    },
+    {
+      "id": "ibm-guy-carpenter-pacific-ceo-20260827",
+      "title": "Guy Carpenter委任Justin Ward为太平洋区CEO 再保费率市场转趋买方 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "pricing"
+      ],
+      "publishedAt": "2026-08-27T14:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-guy-carpenter-pacific-ceo-20260827",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/guy-carpenter-appoints-new-pacific-ceo-for-reinsurance-broking-587670.aspx"
+    },
+    {
+      "id": "ibm-prudential-ipamc-sale-20260826",
+      "title": "保诚拟出售ICICI保诚资管最多2%股权 套现约3.11亿至3.27亿美元 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "firm",
+        "capital"
+      ],
+      "publishedAt": "2026-08-27T00:59:54+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-prudential-ipamc-sale-20260826",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/prudentials-327-million-ipamc-sale-is-a-compliance-event-not-a-retreat-587610.aspx"
+    },
     {
       "id": "ibm-freight-green-switch-20260825",
       "title": "AXA XL联合路透社报告：货运脱碳加速催生保险缺口 电动货车维修费高企 [EN原文]",
