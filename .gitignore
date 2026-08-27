@@ -13,3 +13,4 @@ data/existing-keys.txt
 
 # 采集临时缓存
 .tmp/
+/.tmp_*
