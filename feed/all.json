@@ -1,9 +1,126 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-27T10:15:29Z",
-  "itemCount": 580,
+  "generatedAt": "2026-08-27T17:29:12Z",
+  "itemCount": 589,
   "items": [
+    {
+      "id": "ibm-skorea-h1-20260828",
+      "title": "韩国上半年险企利润增13%至9.1万亿韩元 投资收益掩盖承保压力 车险由盈转亏 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "results",
+        "underwriting"
+      ],
+      "publishedAt": "2026-08-28T08:14:33+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-skorea-h1-20260828",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/investment-income-masks-underwriting-stress-in-south-koreas-h1-results-587760.aspx"
+    },
+    {
+      "id": "ibm-chiba-auto-gap-20260828",
+      "title": "千叶水灾暴露日本车险保障缺口：近半驾驶者无自愿车损险 费率上调抑制投保 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "pricing",
+        "market"
+      ],
+      "publishedAt": "2026-08-28T07:32:09+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-chiba-auto-gap-20260828",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/auto-motor/chiba-flooding-exposes-japans-stagnant-auto-insurance-enrolment-gap-587754.aspx"
+    },
+    {
+      "id": "ibm-kazakhstan-branch-20260828",
+      "title": "哈萨克斯坦拟解除外资保险分支机构准入禁令 以A-评级取代5亿美元资产门槛 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reg",
+        "market"
+      ],
+      "publishedAt": "2026-08-28T06:46:38+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-kazakhstan-branch-20260828",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/kazakhstan-moves-to-end-its-foreign-insurance-branch-lockout-587742.aspx"
+    },
+    {
+      "id": "ibm-vietnam-banks-own-20260827",
+      "title": "越南银行从卖保险转向自营保险：ACB获准设立非寿险子公司 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "channel",
+        "market"
+      ],
+      "publishedAt": "2026-08-27T07:20:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-vietnam-banks-own-20260827",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/vietnams-banks-are-done-selling-insurance--now-they-want-to-own-it-587594.aspx"
+    },
+    {
+      "id": "ibm-hormuz-warrisk-20260827",
+      "title": "特朗普称霍尔木兹海峡已通航 保险市场维持3%-8%战争险费率 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "pricing",
+        "market"
+      ],
+      "publishedAt": "2026-08-27T05:01:06+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-hormuz-warrisk-20260827",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/trump-says-hormuz-is-clear--the-insurance-market-disagrees-587553.aspx"
+    },
+    {
+      "id": "iaa-singlife-foreigners-20260827",
+      "title": "Singlife向在坡外国人开放医疗险：私立医院计划年限额最高200万新元 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "health",
+        "cross-border"
+      ],
+      "publishedAt": "2026-08-27T11:58:54+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-singlife-foreigners-20260827",
+      "originalUrl": "https://insuranceasia.com/insurance/news/foreigners-gain-access-singlife-health-plans-in-singapore"
+    },
+    {
+      "id": "iaa-apac-catgap-20260827",
+      "title": "Aon：亚太巨灾保障缺口上半年约90% 传统保险难以单靠承保弥合 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "pricing"
+      ],
+      "publishedAt": "2026-08-27T11:47:36+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-apac-catgap-20260827",
+      "originalUrl": "https://insuranceasia.com/videos/apac-catastrophe-gap-persists-cover-stays-unaffordable"
+    },
+    {
+      "id": "nfra-audit-liability-qa-20260827",
+      "title": "财政部与金融监管总局印发《会计师事务所职业责任保险实施办法》：重点业务保额上限升至1亿元",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "product"
+      ],
+      "publishedAt": "2026-08-27T18:02:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-audit-liability-qa-20260827",
+      "originalUrl": "https://finance.sina.com.cn/money/insurance/bxdt/2026-08-27/doc-inipucsr9070189.shtml"
+    },
+    {
+      "id": "nfra-gyirong-mudslide-20260827",
+      "title": "金融监管总局启动保险业二级救灾应急响应 指导应对吉隆口岸泥石流灾害",
+      "sourceTier": "official",
+      "themes": [
+        "catastrophe",
+        "claims"
+      ],
+      "publishedAt": "2026-08-27T12:14:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-gyirong-mudslide-20260827",
+      "originalUrl": "https://finance.sina.com.cn/money/bank/gsdt/2026-08-27/doc-iniptnux5508817.shtml"
+    },
     {
       "id": "ibm-nepal-glacier-travel-cover-20260827",
       "title": "尼泊尔洪水确认由冰川崩塌引发 旅游及探险险条款响应成焦点 [EN原文]",
