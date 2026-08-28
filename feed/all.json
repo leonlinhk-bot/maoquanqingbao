@@ -1,9 +1,126 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-27T17:29:12Z",
-  "itemCount": 589,
+  "generatedAt": "2026-08-28T10:16:52Z",
+  "itemCount": 598,
   "items": [
+    {
+      "id": "iaa-manulife-genai-sandbox-20260828",
+      "title": "宏利香港入选第一期GenA.I.沙盒++ 两项用例覆盖保险及强积金 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "insurtech"
+      ],
+      "publishedAt": "2026-08-28T11:55:05+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-manulife-genai-sandbox-20260828",
+      "originalUrl": "https://insuranceasia.com/news/manulife-hong-kong-joins-genai-sandbox-two-use-cases"
+    },
+    {
+      "id": "scmp-prudential-buyback-20260827",
+      "title": "保诚中期新业务利润增8%至13.84亿美元 宣布额外3亿美元回购 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "results",
+        "capital"
+      ],
+      "publishedAt": "2026-08-27T18:45:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-prudential-buyback-20260827",
+      "originalUrl": "https://www.scmp.com/business/companies/article/3365379/prudential-sees-new-business-profit-growth-slow-announces-us300m-share-buy-back"
+    },
+    {
+      "id": "hkma-hkmc-social-bond-report-20260828",
+      "title": "HKMC发布社责债券资金配置及影响力报告2026 披露两笔社责债投放",
+      "sourceTier": "official",
+      "themes": [
+        "esg",
+        "capital"
+      ],
+      "publishedAt": "2026-08-28",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-hkmc-social-bond-report-20260828",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260828-4/"
+    },
+    {
+      "id": "nfra-cpa-liability-ins-method-20260828",
+      "title": "财政部与金融监管总局印发《会计师事务所职业责任保险实施办法》2027年起施行",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "professional-liability"
+      ],
+      "publishedAt": "2026-08-28",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-cpa-liability-ins-method-20260828",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/08-28/10685813.shtml"
+    },
+    {
+      "id": "iaa-week-in-insurance-20260828",
+      "title": "保险业一周速览：保诚进军印度健康险 印尼推行5%共付 Singlife向外国人开放 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "channel",
+        "health"
+      ],
+      "publishedAt": "2026-08-28T14:53:46+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-week-in-insurance-20260828",
+      "originalUrl": "https://insuranceasia.com/insurance/news/week-in-insurance-prudential-enters-india-health-indonesia-imposes-5-co-pay-singlife-opens-foreigners"
+    },
+    {
+      "id": "iaa-manulife-sg-wholelife-20260828",
+      "title": "宏利新加坡推两款美元终身寿险 瞄准高净值客群 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "product",
+        "hwn"
+      ],
+      "publishedAt": "2026-08-28T05:30:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-manulife-sg-wholelife-20260828",
+      "originalUrl": "https://insuranceasia.com/insurance/news/manulife-eyes-affluent-market-two-whole-life-insurance-plans"
+    },
+    {
+      "id": "iaa-singapore-travel-86-20260828",
+      "title": "新加坡旅游险覆盖率86%居全球之首 人均旅游预算2818美元 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "travel",
+        "market"
+      ],
+      "publishedAt": "2026-08-28T11:51:45+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-singapore-travel-86-20260828",
+      "originalUrl": "https://insuranceasia.com/news/singapore-leads-global-travel-insurance-coverage-86"
+    },
+    {
+      "id": "ibm-hdi-cfo-20260828",
+      "title": "HDI International委任策略主管出任首席财务官 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "people",
+        "leadership"
+      ],
+      "publishedAt": "2026-08-28T13:52:53+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-hdi-cfo-20260828",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/hdi-international-has-given-a-strategist-the-cfo-chair-587801.aspx"
+    },
+    {
+      "id": "qianlong-familyoffice-hk-hub-20260828",
+      "title": "投资推广署家办环球总裁：香港成全球最大跨境财富管理中心 家办枢纽地位稳固",
+      "sourceTier": "media",
+      "themes": [
+        "family-office",
+        "hwn"
+      ],
+      "publishedAt": "2026-08-28T13:24:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=qianlong-familyoffice-hk-hub-20260828",
+      "originalUrl": "https://china.qianlong.com/2026/0828/8719070.shtml"
+    },
     {
       "id": "ibm-skorea-h1-20260828",
       "title": "韩国上半年险企利润增13%至9.1万亿韩元 投资收益掩盖承保压力 车险由盈转亏 [EN原文]",

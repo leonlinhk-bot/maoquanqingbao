@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-08-28T01:29:06+08:00",
-    "itemCount": 589,
+    "generatedAt": "2026-08-28T18:15:00+08:00",
+    "itemCount": 598,
     "windowNote": {
-      "sc": "本库589条。",
-      "tc": "本庫589條。"
+      "sc": "本库598条。",
+      "tc": "本庫598條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -264,6 +264,641 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "iaa-manulife-genai-sandbox-20260828",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "宏利香港入选第一期GenA.I.沙盒++ 两项用例覆盖保险及强积金 [EN原文]",
+        "tc": "宏利香港入選第一期GenA.I.沙盒++ 兩項用例覆蓋保險及強積金 [EN原文]"
+      },
+      "summary": {
+        "sc": "宏利香港获选进入第一期GenA.I.沙盒++，两项用例分属保险与强积金两大业务；其中BetterClaims AI是以核准保单内容为基准的理赔知识助理，辅助理财顾问回应医疗及危疾索偿查询，理赔评估仍由合资格理赔人员负责。",
+        "tc": "宏利香港獲選進入第一期GenA.I.沙盒++，兩項用例分屬保險與強積金兩大業務；其中BetterClaims AI是以核准保單內容為基準的理賠知識助理，輔助理財顧問回應醫療及危疾索償查詢，理賠評估仍由合資格理賠人員負責。"
+      },
+      "why": {
+        "sc": "四大监管机构联合推出的AI沙盒是港险科技监管风向标；宏利为保险业首批入选者，其理赔AI落地路径对同业有直接参考价值。",
+        "tc": "四大監管機構聯合推出的AI沙盒是港險科技監管風向標；宏利為保險業首批入選者，其理賠AI落地路徑對同業有直接參考價值。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "AI用例监管观察",
+          "tc": "AI用例监管观察"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer",
+        "tech"
+      ],
+      "themes": [
+        "ai",
+        "insurtech"
+      ],
+      "tags": {
+        "sc": [
+          "宏利",
+          "GenA.I.沙盒++",
+          "BetterClaims AI",
+          "强积金"
+        ],
+        "tc": [
+          "宏利",
+          "GenA.I.沙盒++",
+          "BetterClaims AI",
+          "強積金"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-28T11:55:05+08:00",
+      "originalUrl": "https://insuranceasia.com/news/manulife-hong-kong-joins-genai-sandbox-two-use-cases",
+      "ingestedAt": "2026-08-28T18:15:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "scmp-prudential-buyback-20260827",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "scmp",
+      "title": {
+        "sc": "保诚中期新业务利润增8%至13.84亿美元 宣布额外3亿美元回购 [EN原文]",
+        "tc": "保誠中期新業務利潤增8%至13.84億美元 宣佈額外3億美元回購 [EN原文]"
+      },
+      "summary": {
+        "sc": "保诚公布2026年上半年业绩：新业务利润增8%至13.84亿美元，增速较此前放缓；同时宣布在原12亿美元回购计划基础上额外回购约3亿美元，12月18日前完成；并增持马来西亚寿险业务至70%、收购印度Bharti Life 75%股权。",
+        "tc": "保誠公佈2026年上半年業績：新業務利潤增8%至13.84億美元，增速較此前放緩；同時宣佈在原12億美元回購計劃基礎上額外回購約3億美元，12月18日前完成；並增持馬來西亞壽險業務至70%、收購印度Bharti Life 75%股權。"
+      },
+      "why": {
+        "sc": "保诚为香港主要上市险企，中期业绩与额外回购直接牵动港险板块资金面；新业务利润增速放缓反映高基数与竞争压力。",
+        "tc": "保誠為香港主要上市險企，中期業績與額外回購直接牽動港險板塊資金面；新業務利潤增速放緩反映高基數與競爭壓力。"
+      },
+      "actions": {
+        "front": {
+          "sc": "保诚产品与股价动态跟踪",
+          "tc": "保诚产品与股价动态跟踪"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 0,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "SCMP",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer",
+        "market"
+      ],
+      "themes": [
+        "results",
+        "capital"
+      ],
+      "tags": {
+        "sc": [
+          "保诚",
+          "中期业绩",
+          "股份回购",
+          "新业务利润"
+        ],
+        "tc": [
+          "保誠",
+          "中期業績",
+          "股份回購",
+          "新業務利潤"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-27T18:45:00+08:00",
+      "originalUrl": "https://www.scmp.com/business/companies/article/3365379/prudential-sees-new-business-profit-growth-slow-announces-us300m-share-buy-back",
+      "ingestedAt": "2026-08-28T18:15:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "hkma-hkmc-social-bond-report-20260828",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "HKMC发布社责债券资金配置及影响力报告2026 披露两笔社责债投放",
+        "tc": "HKMC發佈社責債券資金配置及影響力報告2026 披露兩筆社責債投放"
+      },
+      "summary": {
+        "sc": "香港按揭证券有限公司(HKMC)8月28日发布《社责债券资金配置及影响力报告2026》，披露2023及2024年发行的两笔社责债券募集资金截至2026年6月30日的配置情况及社会影响力，普华永道就相关数据出具独立有限保证鉴证报告。",
+        "tc": "香港按揭證券有限公司(HKMC)8月28日發佈《社責債券資金配置及影響力報告2026》，披露2023及2024年發行的兩筆社責債券募集資金截至2026年6月30日的配置情況及社會影響力，普華永道就相關數據出具獨立有限保證鑒證報告。"
+      },
+      "why": {
+        "sc": "HKMC社责债是香港可持续金融的重要工具，资金配置与影响力披露为ESG投资及保险资金配置提供参照。",
+        "tc": "HKMC社責債是香港可持續金融的重要工具，資金配置與影響力披露為ESG投資及保險資金配置提供參照。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {},
+        "cross": {
+          "sc": "可持续投资配置参考",
+          "tc": "可持续投资配置参考"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 0,
+        "cross": 1
+      },
+      "source": {
+        "sc": "HKMA",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "esg",
+        "capital"
+      ],
+      "tags": {
+        "sc": [
+          "HKMC",
+          "社责债券",
+          "ESG",
+          "影响力报告"
+        ],
+        "tc": [
+          "HKMC",
+          "社責債券",
+          "ESG",
+          "影響力報告"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-08-28",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260828-4/",
+      "ingestedAt": "2026-08-28T18:15:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "nfra-cpa-liability-ins-method-20260828",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "nfra",
+      "title": {
+        "sc": "财政部与金融监管总局印发《会计师事务所职业责任保险实施办法》2027年起施行",
+        "tc": "財政部與金融監管總局印發《會計師事務所職業責任保險實施辦法》2027年起施行"
+      },
+      "summary": {
+        "sc": "财政部与金融监管总局联合印发《会计师事务所职业责任保险实施办法》，2027年1月1日施行：涉资本市场及公共利益审计业务的投保额度下限由5000万上调至1亿元，执业年限、行政处罚、涉诉情况等纳入费率浮动机制；承保公司近三年综合偿付能力充足率须不低于180%。",
+        "tc": "財政部與金融監管總局聯合印發《會計師事務所職業責任保險實施辦法》，2027年1月1日施行：涉資本市場及公共利益審計業務的投保額度下限由5000萬上調至1億元，執業年限、行政處罰、涉訴情況等納入費率浮動機制；承保公司近三年綜合償付能力充足率須不低於180%。"
+      },
+      "why": {
+        "sc": "职业责任险新规同时影响会计师事务所与承保险企两端，费率浮动机制与偿付能力门槛是财险公司产品定价的重要参照。",
+        "tc": "職業責任險新規同時影響會計師事務所與承保險企兩端，費率浮動機制與償付能力門檻是財險公司產品定價的重要參照。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "财险责任险新规跟进",
+          "tc": "财险责任险新规跟进"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "中新网",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg",
+        "product"
+      ],
+      "themes": [
+        "reg",
+        "professional-liability"
+      ],
+      "tags": {
+        "sc": [
+          "职业责任保险",
+          "会计师事务所",
+          "金融监管总局",
+          "费率机制"
+        ],
+        "tc": [
+          "職業責任保險",
+          "會計師事務所",
+          "金融監管總局",
+          "費率機制"
+        ]
+      },
+      "contentKind": "circular",
+      "publishedAt": "2026-08-28",
+      "originalUrl": "https://www.chinanews.com.cn/cj/2026/08-28/10685813.shtml",
+      "ingestedAt": "2026-08-28T18:15:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "iaa-week-in-insurance-20260828",
+      "clusterCount": 1,
+      "score": 65,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "保险业一周速览：保诚进军印度健康险 印尼推行5%共付 Singlife向外国人开放 [EN原文]",
+        "tc": "保險業一週速覽：保誠進軍印度健康險 印尼推行5%共付 Singlife向外國人開放 [EN原文]"
+      },
+      "summary": {
+        "sc": "InsuranceAsia一周回顾：保诚在印度设立独立健康险业务；印尼新规对部分理赔设5%共付上限；Singlife向在坡外国人开放医疗险；Allianz Trade任命新任中国区CEO，亚太保险业动态密集。",
+        "tc": "InsuranceAsia一週回顧：保誠在印度設立獨立健康險業務；印尼新規對部分理賠設5%共付上限；Singlife向在坡外國人開放醫療險；Allianz Trade任命新任中國區CEO，亞太保險業動態密集。"
+      },
+      "why": {
+        "sc": "一周速览覆盖亚太多市场监管与业务动态，可快速掌握跨境保险竞争格局变化。",
+        "tc": "一週速覽覆蓋亞太多市場監管與業務動態，可快速掌握跨境保險競爭格局變化。"
+      },
+      "actions": {
+        "front": {
+          "sc": "亚太竞品动态速览",
+          "tc": "亚太竞品动态速览"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 0,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "channel",
+        "health"
+      ],
+      "tags": {
+        "sc": [
+          "一周速览",
+          "保诚",
+          "印尼",
+          "Singlife"
+        ],
+        "tc": [
+          "一週速覽",
+          "保誠",
+          "印尼",
+          "Singlife"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-28T14:53:46+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/week-in-insurance-prudential-enters-india-health-indonesia-imposes-5-co-pay-singlife-opens-foreigners",
+      "ingestedAt": "2026-08-28T18:15:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "iaa-manulife-sg-wholelife-20260828",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "宏利新加坡推两款美元终身寿险 瞄准高净值客群 [EN原文]",
+        "tc": "宏利新加坡推兩款美元終身壽險 瞄準高淨值客群 [EN原文]"
+      },
+      "summary": {
+        "sc": "宏利新加坡面向高净值客户推出两款美元计价终身寿险产品，均提供保证身故保障，强化财富传承与遗产规划功能，扩充其富裕客群产品线。",
+        "tc": "宏利新加坡面向高淨值客戶推出兩款美元計價終身壽險產品，均提供保證身故保障，強化財富傳承與遺產規劃功能，擴充其富裕客群產品線。"
+      },
+      "why": {
+        "sc": "美元终身寿险是港险高净值客群对标品类，宏利新加坡的产品设计对香港同类产品有参照意义。",
+        "tc": "美元終身壽險是港險高淨值客群對標品類，宏利新加坡的產品設計對香港同類產品有參照意義。"
+      },
+      "actions": {
+        "front": {
+          "sc": "高净值产品对标",
+          "tc": "高净值产品对标"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 0,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "product",
+        "insurer"
+      ],
+      "themes": [
+        "product",
+        "hwn"
+      ],
+      "tags": {
+        "sc": [
+          "宏利",
+          "美元终身寿险",
+          "高净值",
+          "传承"
+        ],
+        "tc": [
+          "宏利",
+          "美元終身壽險",
+          "高淨值",
+          "傳承"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-28T05:30:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/manulife-eyes-affluent-market-two-whole-life-insurance-plans",
+      "ingestedAt": "2026-08-28T18:15:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "iaa-singapore-travel-86-20260828",
+      "clusterCount": 1,
+      "score": 65,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "新加坡旅游险覆盖率86%居全球之首 人均旅游预算2818美元 [EN原文]",
+        "tc": "新加坡旅遊險覆蓋率86%居全球之首 人均旅遊預算2818美元 [EN原文]"
+      },
+      "summary": {
+        "sc": "调查显示86%的新加坡旅客购买旅游保险，覆盖率居全球首位；新加坡旅客亦是全球消费最高群体之一，人均旅游预算达2818美元，旅游险渗透与消费能力同步领先。",
+        "tc": "調查顯示86%的新加坡旅客購買旅遊保險，覆蓋率居全球首位；新加坡旅客亦是全球消費最高群體之一，人均旅遊預算達2818美元，旅遊險滲透與消費能力同步領先。"
+      },
+      "why": {
+        "sc": "旅游险渗透率数据反映亚太零售险增长机会，为产品与渠道布局提供参照。",
+        "tc": "旅遊險滲透率數據反映亞太零售險增長機會，為產品與渠道佈局提供參照。"
+      },
+      "actions": {
+        "front": {
+          "sc": "零售险市场数据",
+          "tc": "零售险市场数据"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 0,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "product",
+        "market"
+      ],
+      "themes": [
+        "travel",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "新加坡",
+          "旅游险",
+          "渗透率",
+          "消费"
+        ],
+        "tc": [
+          "新加坡",
+          "旅遊險",
+          "滲透率",
+          "消費"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-28T11:51:45+08:00",
+      "originalUrl": "https://insuranceasia.com/news/singapore-leads-global-travel-insurance-coverage-86",
+      "ingestedAt": "2026-08-28T18:15:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ibm-hdi-cfo-20260828",
+      "clusterCount": 1,
+      "score": 65,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "title": {
+        "sc": "HDI International委任策略主管出任首席财务官 [EN原文]",
+        "tc": "HDI International委任策略主管出任首席財務官 [EN原文]"
+      },
+      "summary": {
+        "sc": "德国保险集团HDI International擢升其策略主管为首席财务官，延续管理层内部晋升路线；新CFO将主导集团资本与财务战略，应对再保与财险市场承保周期变化。",
+        "tc": "德國保險集團HDI International擢升其策略主管為首席財務官，延續管理層內部晉升路線；新CFO將主導集團資本與財務戰略，應對再保與財險市場承保週期變化。"
+      },
+      "why": {
+        "sc": "国际保险集团高管变动是观察其战略重心转移的信号，对亚洲再保与财险格局有间接影响。",
+        "tc": "國際保險集團高管變動是觀察其戰略重心轉移的信號，對亞洲再保與財險格局有間接影響。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "同业人事与战略观察",
+          "tc": "同业人事与战略观察"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Business",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "people",
+        "leadership"
+      ],
+      "tags": {
+        "sc": [
+          "HDI",
+          "首席财务官",
+          "人事变动",
+          "再保险"
+        ],
+        "tc": [
+          "HDI",
+          "首席財務官",
+          "人事變動",
+          "再保險"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-28T13:52:53+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/hdi-international-has-given-a-strategist-the-cfo-chair-587801.aspx",
+      "ingestedAt": "2026-08-28T18:15:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "qianlong-familyoffice-hk-hub-20260828",
+      "clusterCount": 1,
+      "score": 60,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "qianlong",
+      "title": {
+        "sc": "投资推广署家办环球总裁：香港成全球最大跨境财富管理中心 家办枢纽地位稳固",
+        "tc": "投資推廣署家辦環球總裁：香港成全球最大跨境財富管理中心 家辦樞紐地位穩固"
+      },
+      "summary": {
+        "sc": "香港投资推广署家族办公室环球总裁方展光在第三届全球家族办公室（上海）论坛上表示，香港已成为全球最大跨境财富管理中心，海外家族持续选择落户香港，税务优惠、新资本投资者入境计划等家办生态配套渐成体系。",
+        "tc": "香港投資推廣署家族辦公室環球總裁方展光在第三屆全球家族辦公室（上海）論壇上表示，香港已成為全球最大跨境財富管理中心，海外家族持續選擇落戶香港，稅務優惠、新資本投資者入境計劃等家辦生態配套漸成體系。"
+      },
+      "why": {
+        "sc": "家办生态是港险高净值与跨境业务的重要客群来源，官方口径的定位表述对业务叙事有直接价值。",
+        "tc": "家辦生態是港險高淨值與跨境業務的重要客群來源，官方口徑的定位表述對業務敘事有直接價值。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {},
+        "cross": {
+          "sc": "家办客群业务参考",
+          "tc": "家办客群业务参考"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 0,
+        "cross": 1
+      },
+      "source": {
+        "sc": "千龙网",
+        "lang": "zh"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "family-office",
+        "hwn"
+      ],
+      "tags": {
+        "sc": [
+          "家族办公室",
+          "香港",
+          "跨境财富管理",
+          "投资推广署"
+        ],
+        "tc": [
+          "家族辦公室",
+          "香港",
+          "跨境財富管理",
+          "投資推廣署"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-28T13:24:00+08:00",
+      "originalUrl": "https://china.qianlong.com/2026/0828/8719070.shtml",
+      "ingestedAt": "2026-08-28T18:15:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
     {
       "id": "ibm-skorea-h1-20260828",
       "clusterCount": 1,
@@ -48136,14 +48771,14 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 589 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 589 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 598 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 598 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 589,
+      "totalItems": 598,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 206,
+          "count": 208,
           "label": "监管一手"
         },
         {
@@ -48158,7 +48793,7 @@
         },
         {
           "tier": "media",
-          "count": 165,
+          "count": 172,
           "label": "媒体报道"
         },
         {
@@ -48237,12 +48872,12 @@
       "topThemes": [
         {
           "theme": "market",
-          "count": 176,
+          "count": 177,
           "label": "市场"
         },
         {
           "theme": "reg",
-          "count": 115,
+          "count": 116,
           "label": "监管"
         },
         {
@@ -48252,7 +48887,7 @@
         },
         {
           "theme": "product",
-          "count": 83,
+          "count": 84,
           "label": "产品"
         },
         {
@@ -48267,7 +48902,7 @@
         },
         {
           "theme": "channel",
-          "count": 50,
+          "count": 51,
           "label": "渠道"
         },
         {
