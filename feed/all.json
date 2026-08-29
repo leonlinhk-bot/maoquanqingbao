@@ -1,9 +1,48 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-28T10:16:52Z",
-  "itemCount": 598,
+  "generatedAt": "2026-08-29T01:08:04Z",
+  "itemCount": 601,
   "items": [
+    {
+      "id": "ibm-peakre-moodys-a3-20260829",
+      "title": "穆迪上调鼎睿再保险评级至A3：认可其治理独立性于复星集团 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "rating"
+      ],
+      "publishedAt": "2026-08-29T00:22:26+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-peakre-moodys-a3-20260829",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/asia-reinsurer-sheds-parents-credit-shadow-in-moodys-upgrade-587893.aspx"
+    },
+    {
+      "id": "ibm-agentic-ai-hk-20260828",
+      "title": "代理式AI进入香港保险业：经纪中介尚未入局 合规责任框架待建 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "reg"
+      ],
+      "publishedAt": "2026-08-28T23:47:22+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-agentic-ai-hk-20260828",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/agentic-ai-enters-hong-kong-insurance--and-brokers-arent-in-the-room-587889.aspx"
+    },
+    {
+      "id": "ibm-tune-protect-q2-20260828",
+      "title": "Tune Protect二季度扭亏为盈 航空旅行险走软 转投车险火险个人险 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "channel",
+        "market"
+      ],
+      "publishedAt": "2026-08-28T22:18:35+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-tune-protect-q2-20260828",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/tune-protect-returns-to-quarterly-profit-as-airlinelinked-travel-volumes-soften-587874.aspx"
+    },
     {
       "id": "iaa-manulife-genai-sandbox-20260828",
       "title": "宏利香港入选第一期GenA.I.沙盒++ 两项用例覆盖保险及强积金 [EN原文]",
