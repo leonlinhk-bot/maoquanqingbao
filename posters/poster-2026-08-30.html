@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1080,initial-scale=1">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;background:linear-gradient(180deg,#0d1117 0%,#161b22 40%,#1a1f2e 100%);color:#e6edf3;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif}
+.poster{min-height:1920px;padding:0;display:flex;flex-direction:column}
+
+/* 顶部品牌区 */
+.hero{text-align:center;padding:80px 60px 50px;position:relative}
+.hero .logo{font-size:26px;color:#f0a040;letter-spacing:3px;margin-bottom:10px}
+.hero h1{font-size:72px;font-weight:900;letter-spacing:-1px;background:linear-gradient(135deg,#f0a040,#ffd080);-webkit-background-clip:text;-webkit-text-fill-color:transparent;margin-bottom:6px}
+.hero .sub{font-size:22px;color:#8b949e;letter-spacing:1px}
+.hero::after{content:'';position:absolute;bottom:0;left:80px;right:80px;height:1px;background:linear-gradient(90deg,transparent,rgba(240,160,64,.3),transparent)}
+
+/* 日期 */
+.date-badge{text-align:center;padding:30px 0 20px}
+.date-badge .day{font-size:120px;font-weight:900;line-height:1;color:#f0a040;letter-spacing:-2px}
+.date-badge .week{font-size:28px;color:#8b949e;margin-top:4px}
+
+/* 标题栏 */
+.section-title{display:flex;align-items:center;gap:14px;padding:0 60px 24px}
+.section-title .dot{width:10px;height:10px;border-radius:50%;background:#f0a040}
+.section-title span{font-size:24px;color:#f0a040;letter-spacing:2px}
+
+/* 卡片区 */
+.cards{padding:0 50px;flex:1;display:flex;flex-direction:column;gap:20px}
+
+.card{background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.06);border-radius:20px;padding:30px 36px;position:relative;overflow:hidden}
+.card::before{content:'';position:absolute;left:0;top:20px;bottom:20px;width:4px;border-radius:2px;background:linear-gradient(180deg,#f0a040,#d07020)}
+.card .meta{display:flex;align-items:center;gap:10px;margin-bottom:14px}
+.card .tag{font-size:18px;color:#f0a040;background:rgba(240,160,64,.12);padding:4px 14px;border-radius:6px;font-weight:600}
+.card .source-name{font-size:18px;color:#8b949e}
+.card h3{font-size:30px;font-weight:700;line-height:1.45;margin-bottom:10px;color:#f0f6fc}
+.card p{font-size:22px;color:#8b949e;line-height:1.7}
+.card .action-hint{font-size:18px;color:#f0a040;margin-top:12px;opacity:.8}
+
+/* 底部 */
+.footer{text-align:center;padding:50px 60px 70px;margin-top:auto}
+.footer .qr-box{display:flex;align-items:center;justify-content:center;gap:20px;margin-bottom:20px}
+.footer .qr{width:110px;height:110px;border-radius:16px;border:2px solid rgba(255,255,255,.08);background:rgba(255,255,255,.04)}
+.footer .qr-text{text-align:left}
+.footer .qr-text .line1{font-size:26px;color:#e6edf3;font-weight:600}
+.footer .qr-text .line2{font-size:20px;color:#8b949e;margin-top:4px}
+.footer .url{font-size:20px;color:#8b949e;opacity:.7;margin-top:16px}
+.footer .motto{font-size:22px;color:#f0a040;margin-top:16px;letter-spacing:1px}
+</style>
+</head>
+<body>
+<div class="poster">
+
+<div class="hero">
+<div class="logo">🐱 猫圈儿港险情报站</div>
+<h1>今日脉搏</h1>
+<div class="sub">Hong Kong Insurance Daily Pulse</div>
+</div>
+
+<div class="date-badge">
+<div class="day">30</div>
+<div class="week">8月 · 星期日</div>
+</div>
+
+<div class="section-title">
+<div class="dot"></div><span>精选导读</span>
+</div>
+
+<div class="cards">
+<div class="card">
+<div class="meta">
+<span class="tag">🏛 监管</span>
+<span class="source-name">财库局/IA</span>
+</div>
+<h3>香港风险为本资本制度(RBC)正式生效。</h3>
+<p>2024年7月1日，香港保险业风险为本资本制度正式生效。标志性里程碑：以模块化方式评估保司风险，与国际标准(IAIS)对齐。涵盖三大支柱：定量资本要求、管治与风险管理、公开披露。</p>
+<div class="action-hint">→ RBC，也是香港保险监管体系最大单次升级，影响所有保司资本管理。</div>
+</div>
+<div class="card">
+<div class="meta">
+<span class="tag">🏛 监管</span>
+<span class="source-name">IA 保监局通函</span>
+</div>
+<h3>分红保单演示利率上限正式生效：非港元6.5%/港元6.0%。</h3>
+<p>保监局2024年2月发布的演示利率上限框架于2025年7月1日生效。非港元保单演示IRR上限6.5%，港元保单6.0%。新规为分红保单销售三项措施的第一环，后续包括转介费基准(10月)和佣金分摊(20</p>
+<div class="action-hint">→ 演示利率上限是分红险监管的里程碑，彻底改变产品展示方式。</div>
+</div>
+<div class="card">
+<div class="meta">
+<span class="tag">🏛 监管</span>
+<span class="source-name">IA 保监局新闻稿</span>
+</div>
+<h3>保监局公布RBC制度优化咨询结论：鼓励基建投资、巩固风险管理中心。</h3>
+<p>保监局2026年5月8日公布对《保险业（估值及资本）规则》拟议修订的咨询结论。目标在维持审慎的同时，激励保险人投资基建、增强香港作为全球风险管理中心的竞争力。修订涵盖基建投资优惠、离岸再保险宽免、IU</p>
+<div class="action-hint">→ RBC首次大修，储蓄险资本翻倍、IUL权重上调50%+，直接影响产品供给。</div>
+</div>
+<div class="card">
+<div class="meta">
+<span class="tag">📌 资讯</span>
+<span class="source-name">保监局规管通函 2025-09-01</span>
+</div>
+<h3>分红保单转介费监管期望：50%基准（2025-09-01，10-01起遵从）。</h3>
+<p>保监局2025年9月1日通函就持牌经纪公司就分红保单支付转介费提出监管期望：转介费以佣金总额50%为基准；超基准须加强披露并可能面对巡查与续牌审视。市场预期自2025年10月1日起遵从。</p>
+<div class="action-hint">→ 转介模式必须阳光化；超标分账是高风险区。</div>
+</div>
+        </div>
+
+</div>
+
+<div class="footer">
+<div class="qr-box">
+<div class="qr"><img src="../assets/qr-wechat.jpg" width="110" height="110" style="border-radius:14px"></div>
+<div class="qr-text">
+<div class="line1">关注「维港猫圈儿」</div>
+<div class="line2">获取每日港险解读</div>
+</div>
+</div>
+<div class="motto">🎗️ 每天1%，越来越好</div>
+<div class="url">hkmaoquanqingbao.com</div>
+</div>
+
+</div>
+</body>
+</html>

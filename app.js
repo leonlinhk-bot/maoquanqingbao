@@ -1,11 +1,11 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-08-29T09:01:58+08:00",
-    "itemCount": 601,
+    "generatedAt": "2026-08-30T21:14:21+08:00",
+    "itemCount": 604,
     "windowNote": {
-      "sc": "本库601条。",
-      "tc": "本庫601條。"
+      "sc": "本库604条。",
+      "tc": "本庫604條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -146,7 +146,7 @@ window.HKII_DATA = {
       ],
       "registryFile": "data/sources.yaml"
     },
-    "asOf": "2026-08-22",
+    "asOf": "2026-08-29",
     "roles": [
       {
         "id": "front",
@@ -264,6 +264,231 @@ window.HKII_DATA = {
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "oncc-flmi-cheating-20260828",
+      "clusterCount": 8,
+      "score": 82,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "oncc",
+      "title": {
+        "sc": "保监局伙警方捣破FLMI资格试代考集团 拘15人 即日暂停认可涉案中心资格",
+        "tc": "保監局夥警方搗破FLMI資格試代考集團 拘15人 即日暫停認可涉案中心資格"
+      },
+      "summary": {
+        "sc": "保监局伙警方「雾泽」行动瓦解FLMI资格试作弊集团：观塘考场电脑预装遥距操控程式代答，考生额外缴付1.4万港元，拘6男9女；即日暂停认可涉案中心获取的FLMI资格，将详细审核相关人士。",
+        "tc": "保監局夥警方「霧澤」行動瓦解FLMI資格試作弊集團：觀塘考場電腦預裝遙距操控程式代答，考生額外繳付1.4萬港元，拘6男9女；即日暫停認可涉案中心獲取的FLMI資格，將詳細審核相關人士。"
+      },
+      "why": {
+        "sc": "中介人须以诚实方式取得学历资格，向保监局提供误导资料最高可罚5万港元；IA首次就资格试作弊联合警方执法并复核已获资格人士，直接影响持牌中介合规风险与培训生态。",
+        "tc": "中介人須以誠實方式取得學歷資格，向保監局提供誤導資料最高可罰5萬港元；IA首次就資格試作弊聯合警方執法並覆核已獲資格人士，直接影響持牌中介合規風險與培訓生態。"
+      },
+      "actions": {
+        "front": {
+          "sc": "持牌中介自查资格来源与培训合规",
+          "tc": "持牌中介自查資格來源與培訓合規"
+        },
+        "midback": {
+          "sc": "IA执法与牌照复核动态跟踪",
+          "tc": "IA執法與牌照覆核動態跟蹤"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "on.cc東網",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg",
+        "market"
+      ],
+      "themes": [
+        "fraud",
+        "compliance"
+      ],
+      "tags": {
+        "sc": [
+          "保监局",
+          "FLMI",
+          "资格考试",
+          "执法",
+          "持牌中介"
+        ],
+        "tc": [
+          "保監局",
+          "FLMI",
+          "資格考試",
+          "執法",
+          "持牌中介"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-28T14:30:00+08:00",
+      "originalUrl": "https://hk.on.cc/hk/bkn/cnt/news/20260828/bkn-20260828143015880-0828_00822_001.html",
+      "ingestedAt": "2026-08-30T21:14:21+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "tvb-hui-5yr-finance-20260830",
+      "clusterCount": 4,
+      "score": 78,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "tvb",
+      "title": {
+        "sc": "许正宇：首份五年规划金融三大方向 家族办公室增至3000间",
+        "tc": "許正宇：首份五年規劃金融三大方向 家族辦公室增至3,000間"
+      },
+      "summary": {
+        "sc": "许正宇指首份五年规划金融范畴聚焦三大方向：扩大融资、风险管理、资产管理等优势；放大金融红利结合其他产业；开拓大宗商品及黄金交易。家办由1,600间增至3,000间，规划下月16日与施政报告同日公布。",
+        "tc": "許正宇指首份五年規劃金融範疇聚焦三大方向：擴大融資、風險管理、資產管理等優勢；放大金融紅利結合其他產業；開拓大宗商品及黃金交易。家辦由1,600間增至3,000間，規劃下月16日與施政報告同日公佈。"
+      },
+      "why": {
+        "sc": "五年规划首次为金融业定指导性方向，家办数量倍增印证政策成效；大宗商品与黄金交易被列为新增长点，预示香港金融结构扩容，对保险资金运用与财富管理配置具风向标意义。",
+        "tc": "五年規劃首次為金融業定指導性方向，家辦數量倍增印證政策成效；大宗商品與黃金交易被列為新增長點，預示香港金融結構擴容，對保險資金運用與財富管理配置具風向標意義。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "五年规划金融政策要点转内训材料",
+          "tc": "五年規劃金融政策要點轉內訓材料"
+        },
+        "cross": {
+          "sc": "家办与跨境财富政策跟踪",
+          "tc": "家辦與跨境財富政策跟蹤"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "TVB News",
+        "lang": "zh"
+      },
+      "boards": [
+        "family",
+        "reg"
+      ],
+      "themes": [
+        "family-office",
+        "reg"
+      ],
+      "tags": {
+        "sc": [
+          "许正宇",
+          "五年规划",
+          "家族办公室",
+          "大宗商品",
+          "黄金交易"
+        ],
+        "tc": [
+          "許正宇",
+          "五年規劃",
+          "家族辦公室",
+          "大宗商品",
+          "黃金交易"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-30T11:44:00+08:00",
+      "originalUrl": "https://news.tvb.com/tc/1192228-許正宇︰家族辦公室增至三千間五年規劃將為市場提供明確方向",
+      "ingestedAt": "2026-08-30T21:14:21+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "uhk-pet-insurance-20260829",
+      "clusterCount": 2,
+      "score": 68,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "uhk",
+      "title": {
+        "sc": "消委会调查24个宠物保险计划：年费差近14倍 约七成限8岁前首次投保",
+        "tc": "消委會調查24個寵物保險計劃：年費差近14倍 約七成限8歲前首次投保"
+      },
+      "summary": {
+        "sc": "消委会6月调查7间公司24个宠物保险计划：年缴保费约1,000至14,000元差近14倍；23个承保猫狗、1个仅限龟鸟；约七成限8岁前首次投保。提醒细阅医疗保额、自负额、等候期及第三者责任保障。",
+        "tc": "消委會6月調查7間公司24個寵物保險計劃：年繳保費約1,000至14,000元差近14倍；23個承保貓狗、1個僅限龜鳥；約七成限8歲前首次投保。提醒細閱醫療保額、自負額、等候期及第三者責任保障。"
+      },
+      "why": {
+        "sc": "宠物保险属新兴个人险种，保费与条款差异大，投保年龄限制是最大门槛；对前线IFA拓展家庭保障需求与客户教育有直接参考价值。",
+        "tc": "寵物保險屬新興個人險種，保費與條款差異大，投保年齡限制是最大門檻；對前線IFA拓展家庭保障需求與客戶教育有直接參考價值。"
+      },
+      "actions": {
+        "front": {
+          "sc": "宠物保险客户教育与需求挖掘",
+          "tc": "寵物保險客戶教育與需求挖掘"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 0,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "UHK 港生活",
+        "lang": "zh"
+      },
+      "boards": [
+        "product",
+        "market"
+      ],
+      "themes": [
+        "product",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "消委会",
+          "宠物保险",
+          "投保年龄",
+          "医疗保额",
+          "家庭保障"
+        ],
+        "tc": [
+          "消委會",
+          "寵物保險",
+          "投保年齡",
+          "醫療保額",
+          "家庭保障"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-29T12:19:04+08:00",
+      "originalUrl": "https://hk.ulifestyle.com.hk/topic/detail/20102396/%E6%B6%88%E5%A7%94%E6%9C%83%E5%AF%B5%E7%89%A9%E4%BF%9D%E9%9A%AA-%E7%AC%AC%E4%B8%89%E8%80%85%E8%B2%AC%E4%BB%BB%E4%BF%9D%E9%9A%AA-%E5%B9%B4%E9%95%B7%E5%AF%B5%E7%89%A9%E9%A6%96%E6%AC%A1%E6%8A%95%E4%BF%9D-%E8%B2%93%E7%8B%97%E5%AF%B5%E7%89%A9%E4%BF%9D%E9%9A%AA-%E5%AF%B5%E7%89%A9%E4%BF%9D%E9%9A%AA%E8%87%AA%E8%B2%A0%E9%A1%8D",
+      "ingestedAt": "2026-08-30T21:14:21+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
     {
       "id": "ibm-peakre-moodys-a3-20260829",
       "clusterCount": 1,
@@ -12819,7 +13044,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "中银人寿 · 2026年8月",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "market"
@@ -14828,7 +15053,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "国家金融监管总局 · 2026年7月31日",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "market"
@@ -15110,7 +15335,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "国家金融监管总局 · 2026年7月30日",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "market"
@@ -16875,7 +17100,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "公开活动信息 · MEHK/IA",
-        "tc": "公開活動信息 · MEHK/IA"
+        "tc": "公開活動信息 · MEHK/IA",
+        "lang": "en"
       },
       "sourceTier": "pro",
       "tags": {
@@ -17103,7 +17329,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "行业媒体 · Insurance Asia 等",
-        "tc": "行業媒體 · Insurance Asia 等"
+        "tc": "行業媒體 · Insurance Asia 等",
+        "lang": "en"
       },
       "sourceTier": "pro",
       "tags": {
@@ -17170,7 +17397,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "行业媒体报道 · 援引保监局临时统计（2026-07-24）",
-        "tc": "行業媒體報道 · 援引保監局臨時統計（2026-07-24）"
+        "tc": "行業媒體報道 · 援引保監局臨時統計（2026-07-24）",
+        "lang": "en"
       },
       "sourceTier": "pro",
       "tags": {
@@ -17253,7 +17481,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "香港金融管理局 · 新闻稿 2026-07-24",
-        "tc": "香港金融管理局 · 新聞稿 2026-07-24"
+        "tc": "香港金融管理局 · 新聞稿 2026-07-24",
+        "lang": "en"
       },
       "sourceTier": "official",
       "tags": {
@@ -18025,7 +18254,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "国家移民管理局 · 2026年7月",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "family"
@@ -18424,7 +18653,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "国家外汇管理局 · 2026年7月17日",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "family"
@@ -18642,7 +18871,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局演辞/文章 2026-07-16",
-        "tc": "保監局演辭/文章 2026-07-16"
+        "tc": "保監局演辭/文章 2026-07-16",
+        "lang": "zh"
       },
       "sourceTier": "official",
       "tags": {
@@ -18933,7 +19163,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "行业媒体线索 · 待核一手",
-        "tc": "行業媒體線索 · 待核一手"
+        "tc": "行業媒體線索 · 待核一手",
+        "lang": "en"
       },
       "sourceTier": "pro",
       "tags": {
@@ -19290,7 +19521,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保险业监管局 · 保险中介牌照统计",
-        "tc": "保險業監管局 · 保險中介牌照統計"
+        "tc": "保險業監管局 · 保險中介牌照統計",
+        "lang": "en"
       },
       "sourceTier": "official",
       "tags": {
@@ -20012,7 +20244,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "国家金融监管总局 · 2026年7月10日",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "market"
@@ -20136,7 +20368,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局规管通函 2026-07-10",
-        "tc": "保監局規管通函 2026-07-10"
+        "tc": "保監局規管通函 2026-07-10",
+        "lang": "en"
       },
       "sourceTier": "official",
       "tags": {
@@ -20429,7 +20662,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局新闻稿 2026-07-08",
-        "tc": "保監局新聞稿 2026-07-08"
+        "tc": "保監局新聞稿 2026-07-08",
+        "lang": "zh"
       },
       "sourceTier": "official",
       "tags": {
@@ -20796,7 +21030,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "国家金融监管总局 · 2026年7月7日",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "market"
@@ -21131,7 +21365,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局 RBC 相关文件 2026-07-03",
-        "tc": "保監局 RBC 相關文件 2026-07-03"
+        "tc": "保監局 RBC 相關文件 2026-07-03",
+        "lang": "en"
       },
       "sourceTier": "official",
       "tags": {
@@ -23737,7 +23972,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保险业监管局 · 新闻稿 2026-06-15",
-        "tc": "保險業監管局 · 新聞稿 2026-06-15"
+        "tc": "保險業監管局 · 新聞稿 2026-06-15",
+        "lang": "zh"
       },
       "sourceTier": "official",
       "tags": {
@@ -25161,7 +25397,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局通函 2026-06-05 / 金管局平行通函",
-        "tc": "保監局通函 2026-06-05 / 金管局平行通函"
+        "tc": "保監局通函 2026-06-05 / 金管局平行通函",
+        "lang": "en"
       },
       "sourceTier": "official",
       "tags": {
@@ -25855,7 +26092,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局规管通函 2026-05-29",
-        "tc": "保監局規管通函 2026-05-29"
+        "tc": "保監局規管通函 2026-05-29",
+        "lang": "en"
       },
       "sourceTier": "official",
       "tags": {
@@ -26745,7 +26983,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局规管通函 2026-05-13",
-        "tc": "保監局規管通函 2026-05-13"
+        "tc": "保監局規管通函 2026-05-13",
+        "lang": "en"
       },
       "sourceTier": "official",
       "tags": {
@@ -27033,7 +27272,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局新闻稿 2026-05-08",
-        "tc": "保監局新聞稿 2026-05-08"
+        "tc": "保監局新聞稿 2026-05-08",
+        "lang": "en"
       },
       "sourceTier": "official",
       "tags": {
@@ -27577,7 +27817,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局新闻稿 2026-04-24",
-        "tc": "保監局新聞稿 2026-04-24"
+        "tc": "保監局新聞稿 2026-04-24",
+        "lang": "en"
       },
       "sourceTier": "official",
       "tags": {
@@ -28013,7 +28254,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局演辞 2026-04-22",
-        "tc": "保監局演辭 2026-04-22"
+        "tc": "保監局演辭 2026-04-22",
+        "lang": "zh"
       },
       "sourceTier": "official",
       "tags": {
@@ -28371,7 +28613,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局演辞 2026-04-16",
-        "tc": "保監局演辭 2026-04-16"
+        "tc": "保監局演辭 2026-04-16",
+        "lang": "zh"
       },
       "sourceTier": "official",
       "tags": {
@@ -28886,7 +29129,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局新闻稿 2026-04-09",
-        "tc": "保監局新聞稿 2026-04-09"
+        "tc": "保監局新聞稿 2026-04-09",
+        "lang": "en"
       },
       "sourceTier": "official",
       "tags": {
@@ -29239,7 +29483,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局规管通函 2026-03-31",
-        "tc": "保監局規管通函 2026-03-31"
+        "tc": "保監局規管通函 2026-03-31",
+        "lang": "en"
       },
       "sourceTier": "official",
       "tags": {
@@ -29526,7 +29771,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局《监管通讯》Issue 12",
-        "tc": "保監局《監管通訊》Issue 12"
+        "tc": "保監局《監管通訊》Issue 12",
+        "lang": "en"
       },
       "sourceTier": "official",
       "tags": {
@@ -29604,7 +29850,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局演辞 2026-03-26",
-        "tc": "保監局演辭 2026-03-26"
+        "tc": "保監局演辭 2026-03-26",
+        "lang": "zh"
       },
       "sourceTier": "official",
       "tags": {
@@ -29812,7 +30059,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局演辞 2026-03-25",
-        "tc": "保監局演辭 2026-03-25"
+        "tc": "保監局演辭 2026-03-25",
+        "lang": "zh"
       },
       "sourceTier": "official",
       "tags": {
@@ -30983,7 +31231,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局新闻稿/联合通函 2026-03-05",
-        "tc": "保監局新聞稿/聯合通函 2026-03-05"
+        "tc": "保監局新聞稿/聯合通函 2026-03-05",
+        "lang": "zh"
       },
       "sourceTier": "official",
       "tags": {
@@ -31340,7 +31589,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "投资推广署 · 2026年3月1日",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "family"
@@ -31533,7 +31782,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保险业监管局 · 新闻稿 2026-02-25",
-        "tc": "保險業監管局 · 新聞稿 2026-02-25"
+        "tc": "保險業監管局 · 新聞稿 2026-02-25",
+        "lang": "zh"
       },
       "sourceTier": "official",
       "tags": {
@@ -31610,7 +31860,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局规管通函 2026-02-24",
-        "tc": "保監局規管通函 2026-02-24"
+        "tc": "保監局規管通函 2026-02-24",
+        "lang": "en"
       },
       "sourceTier": "official",
       "tags": {
@@ -31826,7 +32077,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局文章 2026-02-13",
-        "tc": "保監局文章 2026-02-13"
+        "tc": "保監局文章 2026-02-13",
+        "lang": "zh"
       },
       "sourceTier": "official",
       "tags": {
@@ -31906,7 +32158,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局新闻稿/咨询 2026-02-11",
-        "tc": "保監局新聞稿/諮詢 2026-02-11"
+        "tc": "保監局新聞稿/諮詢 2026-02-11",
+        "lang": "zh"
       },
       "sourceTier": "official",
       "tags": {
@@ -32441,7 +32694,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局规管通函 2026-02-06",
-        "tc": "保監局規管通函 2026-02-06"
+        "tc": "保監局規管通函 2026-02-06",
+        "lang": "en"
       },
       "sourceTier": "official",
       "tags": {
@@ -32664,7 +32918,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局演辞 2026-01-26",
-        "tc": "保監局演辭 2026-01-26"
+        "tc": "保監局演辭 2026-01-26",
+        "lang": "zh"
       },
       "sourceTier": "official",
       "tags": {
@@ -32821,7 +33076,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局新闻稿 2026-01-23",
-        "tc": "保監局新聞稿 2026-01-23"
+        "tc": "保監局新聞稿 2026-01-23",
+        "lang": "en"
       },
       "sourceTier": "official",
       "tags": {
@@ -33060,7 +33316,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "法律专业解读 · 保监局 GL34 修订",
-        "tc": "法律專業解讀 · 保監局 GL34 修訂"
+        "tc": "法律專業解讀 · 保監局 GL34 修訂",
+        "lang": "en"
       },
       "sourceTier": "pro",
       "tags": {
@@ -33420,7 +33677,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "深圳市财政局 · 2026年1月",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "family"
@@ -33893,7 +34150,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "中银人寿 · 2025年",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "market"
@@ -34042,7 +34299,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局 · 2025年12月",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "market"
@@ -34401,7 +34658,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局规管通函 2025-11-20",
-        "tc": "保監局規管通函 2025-11-20"
+        "tc": "保監局規管通函 2025-11-20",
+        "lang": "en"
       },
       "sourceTier": "official",
       "tags": {
@@ -34750,7 +35008,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局新闻稿 2025-10-24",
-        "tc": "保監局新聞稿 2025-10-24"
+        "tc": "保監局新聞稿 2025-10-24",
+        "lang": "zh"
       },
       "sourceTier": "official",
       "tags": {
@@ -35050,7 +35309,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局规管通函 2025-10-14",
-        "tc": "保監局規管通函 2025-10-14"
+        "tc": "保監局規管通函 2025-10-14",
+        "lang": "en"
       },
       "sourceTier": "official",
       "tags": {
@@ -35266,7 +35526,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局联合通函 2025-09-19",
-        "tc": "保監局聯合通函 2025-09-19"
+        "tc": "保監局聯合通函 2025-09-19",
+        "lang": "en"
       },
       "sourceTier": "official",
       "tags": {
@@ -35558,7 +35819,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "周大福人寿 · 2025年",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "product"
@@ -35977,7 +36238,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局规管通函 2025-09-01",
-        "tc": "保監局規管通函 2025-09-01"
+        "tc": "保監局規管通函 2025-09-01",
+        "lang": "en"
       },
       "sourceTier": "official",
       "tags": {
@@ -36144,7 +36406,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "太保寿险香港 · 2025年",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "product"
@@ -36414,7 +36676,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局通函/实务说明 · 行业报道交叉",
-        "tc": "保監局通函/實務說明 · 行業報道交叉"
+        "tc": "保監局通函/實務說明 · 行業報道交叉",
+        "lang": "en"
       },
       "sourceTier": "official",
       "tags": {
@@ -36494,7 +36757,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局规管通函 2025-08-08",
-        "tc": "保監局規管通函 2025-08-08"
+        "tc": "保監局規管通函 2025-08-08",
+        "lang": "en"
       },
       "sourceTier": "official",
       "tags": {
@@ -36646,7 +36910,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "国家金融监管总局 · 2025年",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "market"
@@ -36842,7 +37106,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "宏利香港 · 2025年",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "product"
@@ -36984,7 +37248,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "宏利香港 · 2025年",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "market"
@@ -37123,7 +37387,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局规管通函 2025-07-11",
-        "tc": "保監局規管通函 2025-07-11"
+        "tc": "保監局規管通函 2025-07-11",
+        "lang": "en"
       },
       "sourceTier": "official",
       "tags": {
@@ -37500,7 +37765,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "金管局 · 2025年6月",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "family"
@@ -38002,7 +38267,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "行业综合 · 2025年",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "market"
@@ -38142,7 +38407,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "香港特区政府 · 2025年5月",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "market"
@@ -38757,7 +39022,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局 · 2025年4月起",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "market"
@@ -38897,7 +39162,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局演辞/文章 2025-03-30",
-        "tc": "保監局演辭/文章 2025-03-30"
+        "tc": "保監局演辭/文章 2025-03-30",
+        "lang": "zh"
       },
       "sourceTier": "official",
       "tags": {
@@ -39285,7 +39551,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局联合通函 2025-03-13",
-        "tc": "保監局聯合通函 2025-03-13"
+        "tc": "保監局聯合通函 2025-03-13",
+        "lang": "en"
       },
       "sourceTier": "official",
       "tags": {
@@ -39525,7 +39792,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局应用说明 2025-02-28",
-        "tc": "保監局應用說明 2025-02-28"
+        "tc": "保監局應用說明 2025-02-28",
+        "lang": "en"
       },
       "sourceTier": "official",
       "tags": {
@@ -39731,7 +39999,8 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局规管通函 2025-02-06",
-        "tc": "保監局規管通函 2025-02-06"
+        "tc": "保監局規管通函 2025-02-06",
+        "lang": "en"
       },
       "sourceTier": "official",
       "tags": {
@@ -39812,7 +40081,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局 / 宏利香港 · 2025年1月",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "market"
@@ -39959,7 +40228,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "国家金融监管总局 · 2025年1月",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "market"
@@ -40497,7 +40766,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局 / 金融监管总局 · 2024年11月",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "family"
@@ -40626,7 +40895,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局 · 2024年10月29日",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "market"
@@ -40822,7 +41091,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保诚香港 · 2024年10月",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "product"
@@ -41185,7 +41454,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "国务院 · 2024年9月11日",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "market"
@@ -41544,7 +41813,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "国家金融监管总局 · 2024年8月",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "market"
@@ -42735,7 +43004,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局 · 2024年4月",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "reg"
@@ -42866,7 +43135,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局 · 2024年4月",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "reg"
@@ -43002,7 +43271,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "保监局 · 2024年",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "market"
@@ -43072,7 +43341,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "国家金融监管总局 · 2024年3月",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "market"
@@ -43346,7 +43615,7 @@ window.HKII_DATA = {
       },
       "source": {
         "sc": "中国人民银行 · 2024年2月",
-        "lang": "sc"
+        "lang": "zh"
       },
       "boards": [
         "family"
@@ -48984,10 +49253,10 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 601 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 601 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 604 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 604 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 601,
+      "totalItems": 604,
       "sourceTiers": [
         {
           "tier": "official",
@@ -49006,7 +49275,7 @@ window.HKII_DATA = {
         },
         {
           "tier": "media",
-          "count": 175,
+          "count": 178,
           "label": "媒体报道"
         },
         {
@@ -49085,12 +49354,12 @@ window.HKII_DATA = {
       "topThemes": [
         {
           "theme": "market",
-          "count": 178,
+          "count": 179,
           "label": "市场"
         },
         {
           "theme": "reg",
-          "count": 117,
+          "count": 118,
           "label": "监管"
         },
         {
@@ -49100,12 +49369,12 @@ window.HKII_DATA = {
         },
         {
           "theme": "product",
-          "count": 84,
+          "count": 85,
           "label": "产品"
         },
         {
           "theme": "compliance",
-          "count": 73,
+          "count": 74,
           "label": "合规"
         },
         {
@@ -49135,8 +49404,8 @@ window.HKII_DATA = {
         }
       ],
       "dateRange": {
-        "sc": "2013-03-05 ~ 2026-08-29",
-        "tc": "2013-03-05 ~ 2026-08-29"
+        "sc": "2013-03-05 ~ 2026-08-30",
+        "tc": "2013-03-05 ~ 2026-08-30"
       }
     },
     "marketData": {

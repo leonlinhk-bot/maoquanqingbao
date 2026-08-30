@@ -1,9 +1,48 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-29T01:08:04Z",
-  "itemCount": 601,
+  "generatedAt": "2026-08-30T17:52:59Z",
+  "itemCount": 604,
   "items": [
+    {
+      "id": "oncc-flmi-cheating-20260828",
+      "title": "保监局伙警方捣破FLMI资格试代考集团 拘15人 即日暂停认可涉案中心资格",
+      "sourceTier": "media",
+      "themes": [
+        "fraud",
+        "compliance"
+      ],
+      "publishedAt": "2026-08-28T14:30:00+08:00",
+      "score": 82,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=oncc-flmi-cheating-20260828",
+      "originalUrl": "https://hk.on.cc/hk/bkn/cnt/news/20260828/bkn-20260828143015880-0828_00822_001.html"
+    },
+    {
+      "id": "tvb-hui-5yr-finance-20260830",
+      "title": "许正宇：首份五年规划金融三大方向 家族办公室增至3000间",
+      "sourceTier": "media",
+      "themes": [
+        "family-office",
+        "reg"
+      ],
+      "publishedAt": "2026-08-30T11:44:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=tvb-hui-5yr-finance-20260830",
+      "originalUrl": "https://news.tvb.com/tc/1192228-許正宇︰家族辦公室增至三千間五年規劃將為市場提供明確方向"
+    },
+    {
+      "id": "uhk-pet-insurance-20260829",
+      "title": "消委会调查24个宠物保险计划：年费差近14倍 约七成限8岁前首次投保",
+      "sourceTier": "media",
+      "themes": [
+        "product",
+        "market"
+      ],
+      "publishedAt": "2026-08-29T12:19:04+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=uhk-pet-insurance-20260829",
+      "originalUrl": "https://hk.ulifestyle.com.hk/topic/detail/20102396/%E6%B6%88%E5%A7%94%E6%9C%83%E5%AF%B5%E7%89%A9%E4%BF%9D%E9%9A%AA-%E7%AC%AC%E4%B8%89%E8%80%85%E8%B2%AC%E4%BB%BB%E4%BF%9D%E9%9A%AA-%E5%B9%B4%E9%95%B7%E5%AF%B5%E7%89%A9%E9%A6%96%E6%AC%A1%E6%8A%95%E4%BF%9D-%E8%B2%93%E7%8B%97%E5%AF%B5%E7%89%A9%E4%BF%9D%E9%9A%AA-%E5%AF%B5%E7%89%A9%E4%BF%9D%E9%9A%AA%E8%87%AA%E8%B2%A0%E9%A1%8D"
+    },
     {
       "id": "ibm-peakre-moodys-a3-20260829",
       "title": "穆迪上调鼎睿再保险评级至A3：认可其治理独立性于复星集团 [EN原文]",
