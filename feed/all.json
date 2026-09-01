@@ -1,9 +1,79 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-08-30T17:52:59Z",
-  "itemCount": 604,
+  "generatedAt": "2026-09-01T01:39:20Z",
+  "itemCount": 609,
   "items": [
+    {
+      "id": "xinhuanet-chinare-h1-20260831",
+      "title": "中国再保中期业绩：净利71.87亿元增15.1% 一带一路共同体保费增183%",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "results",
+        "cross-border"
+      ],
+      "publishedAt": "2026-08-31T18:41:16+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=xinhuanet-chinare-h1-20260831",
+      "originalUrl": "https://app.xinhuanet.com/news/article.html?articleId=202608316546bdbdbbb146578e179db12bccb35e"
+    },
+    {
+      "id": "iaa-asia-ai-cost-20260831",
+      "title": "亚太险企技术成本比率逆势降27% AI从试点走向落地 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "insurtech",
+        "ai",
+        "tech"
+      ],
+      "publishedAt": "2026-08-31T11:50:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-asia-ai-cost-20260831",
+      "originalUrl": "https://insuranceasia.com/commentary/how-asias-insurers-are-using-ai-and-where-it-could-take-them"
+    },
+    {
+      "id": "ibm-flmi-licence-review-20260831",
+      "title": "保监局审查FLMI相关牌照个案：暂停FLMI学历资格认可 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "licensing",
+        "fraud",
+        "compliance"
+      ],
+      "publishedAt": "2026-08-31",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-flmi-licence-review-20260831",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/hong-kong-ai-to-review-flmilinked-licences-after-exam-centre-raid-588015.aspx"
+    },
+    {
+      "id": "gmteight-chan-crs-tax-20260901",
+      "title": "保险界议员陈沛良：征税传闻与CRS落实相关 未见官方文件",
+      "sourceTier": "media",
+      "themes": [
+        "taxation",
+        "cross-border",
+        "crs"
+      ],
+      "publishedAt": "2026-09-01",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=gmteight-chan-crs-tax-20260901",
+      "originalUrl": "https://gmteight.com/flash/detail/1503750"
+    },
+    {
+      "id": "hkfi-tax-rumor-response-20260901",
+      "title": "香港保险业联会回应「境外保单收益征20%个税」传闻：未见官方文件 港险仍具吸引力",
+      "sourceTier": "pro",
+      "themes": [
+        "taxation",
+        "cross-border",
+        "mcv"
+      ],
+      "publishedAt": "2026-09-01T06:54:00+08:00",
+      "score": 80,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkfi-tax-rumor-response-20260901",
+      "originalUrl": "https://gmt8press.com/flash/detail/1502684"
+    },
     {
       "id": "oncc-flmi-cheating-20260828",
       "title": "保监局伙警方捣破FLMI资格试代考集团 拘15人 即日暂停认可涉案中心资格",

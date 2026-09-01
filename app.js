@@ -1,11 +1,11 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-08-30T21:14:21+08:00",
-    "itemCount": 604,
+    "generatedAt": "2026-09-01T09:39:07+08:00",
+    "itemCount": 609,
     "windowNote": {
-      "sc": "本库604条。",
-      "tc": "本庫604條。"
+      "sc": "本库609条。",
+      "tc": "本庫609條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -264,6 +264,343 @@ window.HKII_DATA = {
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "xinhuanet-chinare-h1-20260831",
+      "clusterCount": 1,
+      "score": 66,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "xinhuanet",
+      "title": {
+        "sc": "中国再保中期业绩：净利71.87亿元增15.1% 一带一路共同体保费增183%",
+        "tc": "中國再保中期業績：淨利71.87億元增15.1% 一帶一路共同體保費增183%"
+      },
+      "summary": {
+        "sc": "中国再保8月31日发布2026年中期业绩：合并保险服务收入524.49亿元增2.7%，归母净利71.87亿元增15.1%。人身再保险服务业绩增426%，一带一路再保险共同体保障境外资产523亿元、保费收入增183%，并协助10家头部险企完成气候风险压力测试。",
+        "tc": "中國再保8月31日發布2026年中期業績：合併保險服務收入524.49億元增2.7%，歸母淨利71.87億元增15.1%。人身再保險服務業績增426%，一帶一路再保險共同體保障境外資產523億元、保費收入增183%，並協助10家頭部險企完成氣候風險壓力測試。"
+      },
+      "why": {
+        "sc": "内地再保龙头中报显示人身再保与「一带一路」境外风险保障高速增长，为跨境再保与巨灾风险布局提供风向标。",
+        "tc": "內地再保龍頭中報顯示人身再保與「一帶一路」境外風險保障高速增長，為跨境再保與巨災風險佈局提供風向標。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "关注再保市场趋势与承保能力变化",
+          "tc": "關注再保市場趨勢與承保能力變化"
+        },
+        "cross": {
+          "sc": "境外资产保障需求上升的参考信号",
+          "tc": "境外資產保障需求上升的參考信號"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "新华网",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reinsurance",
+        "results",
+        "cross-border"
+      ],
+      "tags": {
+        "sc": [
+          "中国再保",
+          "再保险",
+          "中期业绩"
+        ],
+        "tc": [
+          "中國再保",
+          "再保險",
+          "中期業績"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-31T18:41:16+08:00",
+      "originalUrl": "https://app.xinhuanet.com/news/article.html?articleId=202608316546bdbdbbb146578e179db12bccb35e"
+    },
+    {
+      "id": "iaa-asia-ai-cost-20260831",
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "亚太险企技术成本比率逆势降27% AI从试点走向落地 [EN原文]",
+        "tc": "亞太險企技術成本比率逆勢降27% AI從試點走向落地 [EN原文]"
+      },
+      "summary": {
+        "sc": "InsuranceAsia评论指出：过去二十年全球险企技术成本上升17%、北美升60%，亚太是唯一实现成本比率下降27%的地区。AI正从试验转向实践，理赔自动化、客户体验与风控是主要用例，各市场推进速度的差异将塑造未来数年的行业竞争格局。",
+        "tc": "InsuranceAsia評論指出：過去二十年全球險企技術成本上升17%、北美升60%，亞太是唯一實現成本比率下降27%的地區。AI正從試驗轉向實踐，理賠自動化、客戶體驗與風控是主要用例，各市場推進速度的差異將塑造未來數年的行業競爭格局。"
+      },
+      "why": {
+        "sc": "亚太险企AI落地进度与成本效率对比，可作技术投入与转型节奏的参照坐标，与香港GenAI沙盒++首批用例相呼应。",
+        "tc": "亞太險企AI落地進度與成本效率對比，可作技術投入與轉型節奏的參照座標，與香港GenAI沙盒++首批用例相呼應。"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解AI在核保理赔中的进展",
+          "tc": "了解AI在核保理賠中的進展"
+        },
+        "midback": {
+          "sc": "关注AI应用的合规与风控边界",
+          "tc": "關注AI應用的合規與風控邊界"
+        },
+        "lead": {
+          "sc": "AI是行业效率的下一个十年核心",
+          "tc": "AI是行業效率的下一個十年核心"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "InsuranceAsia",
+        "lang": "en"
+      },
+      "boards": [
+        "tech"
+      ],
+      "themes": [
+        "insurtech",
+        "ai",
+        "tech"
+      ],
+      "tags": {
+        "sc": [
+          "保险科技",
+          "生成式AI",
+          "成本效率"
+        ],
+        "tc": [
+          "保險科技",
+          "生成式AI",
+          "成本效率"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-31T11:50:00+08:00",
+      "originalUrl": "https://insuranceasia.com/commentary/how-asias-insurers-are-using-ai-and-where-it-could-take-them"
+    },
+    {
+      "id": "ibm-flmi-licence-review-20260831",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "title": {
+        "sc": "保监局审查FLMI相关牌照个案：暂停FLMI学历资格认可 [EN原文]",
+        "tc": "保監局審查FLMI相關牌照個案：暫停FLMI學歷資格認可 [EN原文]"
+      },
+      "summary": {
+        "sc": "保监局在捣破FLMI代考集团后进一步行动：暂停FLMI资格作为中介人牌照学历要求，并全面复核经涉事考试中心取得的牌照个案。8月27日联合行动共拘15人，含3名现任及3名前持牌中介人；保监局未称会自动撤销既有牌照，但复核令业内招聘与任命审查再度受关注。",
+        "tc": "保監局在搗破FLMI代考集團後進一步行動：暫停FLMI資格作為中介人牌照學歷要求，並全面覆核經涉事考試中心取得的牌照個案。8月27日聯合行動共拘15人，含3名現任及3名前持牌中介人；保監局未稱會自動撤銷既有牌照，但覆核令業內招聘與任命審查再度受關注。"
+      },
+      "why": {
+        "sc": "FLMI风波从执法延伸到牌照复核，直接影响中介人资质管理与招聘尽调，中后台合规需跟进复核进展。",
+        "tc": "FLMI風波從執法延伸到牌照覆核，直接影響中介人資質管理與招聘盡調，中後台合規需跟進覆核進展。"
+      },
+      "actions": {
+        "front": {
+          "sc": "持牌中介自查资格来源与培训合规",
+          "tc": "持牌中介自查資格來源與培訓合規"
+        },
+        "midback": {
+          "sc": "跟踪IA牌照复核及LOMA中心名单变化",
+          "tc": "跟蹤IA牌照覆核及LOMA中心名單變化"
+        },
+        "lead": {
+          "sc": "招聘时加强学历与资质直接核验",
+          "tc": "招聘時加強學歷與資質直接核驗"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Business",
+        "lang": "en"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "licensing",
+        "fraud",
+        "compliance"
+      ],
+      "tags": {
+        "sc": [
+          "FLMI",
+          "牌照复核",
+          "中介人监管"
+        ],
+        "tc": [
+          "FLMI",
+          "牌照覆核",
+          "中介人監管"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-31",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/hong-kong-ai-to-review-flmilinked-licences-after-exam-centre-raid-588015.aspx"
+    },
+    {
+      "id": "gmteight-chan-crs-tax-20260901",
+      "clusterCount": 1,
+      "score": 66,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "gmteight",
+      "title": {
+        "sc": "保险界议员陈沛良：征税传闻与CRS落实相关 未见官方文件",
+        "tc": "保險界議員陳沛良：徵稅傳聞與CRS落實相關 未見官方文件"
+      },
+      "summary": {
+        "sc": "保险界立法会议员陈沛良9月1日回应「20%个税」传闻：讨论主要涉及CRS申报及境外收入申报安排，目前未见正式政策文件。他指出内地居民本就须就境外投资收益申报纳税，并非针对保险；即使未来调整税制，短期或影响港险，长期有助跨境资本有序闭环，港险净收益优势仍在。",
+        "tc": "保險界立法會議員陳沛良9月1日回應「20%個稅」傳聞：討論主要涉及CRS申報及境外收入申報安排，目前未見正式政策文件。他指出內地居民本就須就境外投資收益申報納稅，並非針對保險；即使未來調整稅制，短期或影響港險，長期有助跨境資本有序閉環，港險淨收益優勢仍在。"
+      },
+      "why": {
+        "sc": "从立法会视角拆解传闻与CRS的关联，点明「申报义务一直都在、并非新政策」，并给出净收益对比视角，供沟通参考。",
+        "tc": "從立法會視角拆解傳聞與CRS的關聯，點明「申報義務一直都在、並非新政策」，並給出淨收益對比視角，供溝通參考。"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解CRS申报框架以专业回应客户",
+          "tc": "了解CRS申報框架以專業回應客戶"
+        },
+        "midback": {
+          "sc": "关注CRS2.0本地立法进展",
+          "tc": "關注CRS2.0本地立法進展"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "跨境架构客户提前梳理申报义务",
+          "tc": "跨境架構客戶提前梳理申報義務"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 1
+      },
+      "source": {
+        "sc": "GMT EIGHT",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "taxation",
+        "cross-border",
+        "crs"
+      ],
+      "tags": {
+        "sc": [
+          "港险征税",
+          "CRS",
+          "陈沛良"
+        ],
+        "tc": [
+          "港險徵稅",
+          "CRS",
+          "陳沛良"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-01",
+      "originalUrl": "https://gmteight.com/flash/detail/1503750"
+    },
+    {
+      "id": "hkfi-tax-rumor-response-20260901",
+      "clusterCount": 1,
+      "score": 80,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "hkfi",
+      "title": {
+        "sc": "香港保险业联会回应「境外保单收益征20%个税」传闻：未见官方文件 港险仍具吸引力",
+        "tc": "香港保險業聯會回應「境外保單收益徵20%個稅」傳聞：未見官方文件 港險仍具吸引力"
+      },
+      "summary": {
+        "sc": "针对「内地将对境外保单收益征收20%个税」传闻，香港保险业联会9月1日回应第一财经称，相关部门尚未发布官方政策文件或实施细节，联会正密切关注事态。联会强调客户保障、财富传承与资产配置需求依然强劲，港险在产品设计、货币配置及传承规划上仍具吸引力与竞争力。",
+        "tc": "針對「內地將對境外保單收益徵收20%個稅」傳聞，香港保險業聯會9月1日回應第一財經稱，相關部門尚未發布官方政策文件或實施細節，聯會正密切關注事態。聯會強調客戶保障、財富傳承與資產配置需求依然強勁，港險在產品設計、貨幣配置及傳承規劃上仍具吸引力與競爭力。"
+      },
+      "why": {
+        "sc": "8月以来「港险征税」传闻反复扰动市场，这是行业公会首次正面回应：未出新政、需求未变，可用于向客户澄清与安抚。",
+        "tc": "8月以來「港險徵稅」傳聞反覆擾動市場，這是行業公會首次正面回應：未出新政、需求未變，可用於向客戶澄清與安撫。"
+      },
+      "actions": {
+        "front": {
+          "sc": "用联会官方口径回应客户征税疑虑",
+          "tc": "用聯會官方口徑回應客戶徵稅疑慮"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "团队统一话术，避免夸大或过度解读",
+          "tc": "團隊統一話術，避免誇大或過度解讀"
+        },
+        "cross": {
+          "sc": "跨境客户重点跟进税制落地动态",
+          "tc": "跨境客戶重點跟進稅制落地動態"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 0,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "香港保险业联会/第一财经",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "taxation",
+        "cross-border",
+        "mcv"
+      ],
+      "tags": {
+        "sc": [
+          "港险征税",
+          "香港保险业联会",
+          "内地访客"
+        ],
+        "tc": [
+          "港險徵稅",
+          "香港保險業聯會",
+          "內地訪客"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-01T06:54:00+08:00",
+      "originalUrl": "https://gmt8press.com/flash/detail/1502684"
+    },
     {
       "id": "oncc-flmi-cheating-20260828",
       "clusterCount": 8,
@@ -49253,10 +49590,10 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 604 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 604 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 609 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 609 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 604,
+      "totalItems": 609,
       "sourceTiers": [
         {
           "tier": "official",
@@ -49275,12 +49612,12 @@ window.HKII_DATA = {
         },
         {
           "tier": "media",
-          "count": 178,
+          "count": 182,
           "label": "媒体报道"
         },
         {
           "tier": "pro",
-          "count": 58,
+          "count": 59,
           "label": "专业解读"
         },
         {
@@ -49374,7 +49711,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "compliance",
-          "count": 74,
+          "count": 75,
           "label": "合规"
         },
         {
@@ -49394,18 +49731,18 @@ window.HKII_DATA = {
         },
         {
           "theme": "cross-border",
-          "count": 38,
+          "count": 41,
           "label": "跨境"
         },
         {
           "theme": "reinsurance",
-          "count": 34,
+          "count": 35,
           "label": "再保险"
         }
       ],
       "dateRange": {
-        "sc": "2013-03-05 ~ 2026-08-30",
-        "tc": "2013-03-05 ~ 2026-08-30"
+        "sc": "2013-03-05 ~ 2026-09-01",
+        "tc": "2013-03-05 ~ 2026-09-01"
       }
     },
     "marketData": {
