@@ -1,9 +1,51 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-01T01:39:20Z",
-  "itemCount": 609,
+  "generatedAt": "2026-09-01T02:12:56Z",
+  "itemCount": 612,
   "items": [
+    {
+      "id": "fstb-malaysia-fo-roadshow-20260722",
+      "title": "许正宇出访马来西亚招揽家办：会见双威/成功集团 出席香港信托协会跨境论坛",
+      "sourceTier": "media",
+      "themes": [
+        "family-office",
+        "offshore",
+        "fo-ecosystem"
+      ],
+      "publishedAt": "2026-07-22T21:19:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fstb-malaysia-fo-roadshow-20260722",
+      "originalUrl": "http://m.toutiao.com/group/7665341175590699530/?upstream_biz=VolcEngine"
+    },
+    {
+      "id": "fstb-carried-interest-clarify-20260812",
+      "title": "财库局澄清：自营交易业务酬金不符附带权益免税资格 基金/家控工具税改边界厘清",
+      "sourceTier": "official",
+      "themes": [
+        "taxation",
+        "family-office",
+        "fund"
+      ],
+      "publishedAt": "2026-08-12T19:58:00+08:00",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fstb-carried-interest-clarify-20260812",
+      "originalUrl": "https://www.news.gov.hk/chi/2026/08/20260812/20260812_171802_940.html"
+    },
+    {
+      "id": "hk-sg-fo-competition-20260826",
+      "title": "新港家办竞争2026：香港扩免税抢人才 vs 新加坡收紧13O/13U审查",
+      "sourceTier": "pro",
+      "themes": [
+        "family-office",
+        "benchmark",
+        "offshore"
+      ],
+      "publishedAt": "2026-08-26T23:46:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hk-sg-fo-competition-20260826",
+      "originalUrl": "https://www.sina.cn/news/detail/5336311277817093.html"
+    },
     {
       "id": "xinhuanet-chinare-h1-20260831",
       "title": "中国再保中期业绩：净利71.87亿元增15.1% 一带一路共同体保费增183%",
