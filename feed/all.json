@@ -1,9 +1,65 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-01T02:12:56Z",
-  "itemCount": 612,
+  "generatedAt": "2026-09-01T04:06:59Z",
+  "itemCount": 616,
   "items": [
+    {
+      "id": "indiafirst-agentforce-20260831",
+      "title": "印度IndiaFirst Life选用Salesforce Agentforce 在承保/客服/理赔部署AI智能体",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "agentic-ai",
+        "insurtech"
+      ],
+      "publishedAt": "2026-08-31",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=indiafirst-agentforce-20260831",
+      "originalUrl": "https://www.cioandleader.com/indiafirst-lifes-ai-driven-transformation-with-salesforce-agentforce/"
+    },
+    {
+      "id": "kpmg-insurtech-h1-2026",
+      "title": "KPMG：全球保险科技融资上半年降至37亿美元 交易量或创2016年来新低",
+      "sourceTier": "pro",
+      "themes": [
+        "insurtech",
+        "funding",
+        "ai"
+      ],
+      "publishedAt": "2026-08-28",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=kpmg-insurtech-h1-2026",
+      "originalUrl": "https://assets.kpmg.com/content/dam/kpmgsites/xx/pdf/2026/08/pulse-of-fintech-h1-2026.pdf"
+    },
+    {
+      "id": "chinalife-500-agents-20260828",
+      "title": "中国人寿打造超500个智能体 理赔时效降至0.36天 A股险企AI加速落地",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "agentic-ai",
+        "insurtech"
+      ],
+      "publishedAt": "2026-08-28T19:31:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=chinalife-500-agents-20260828",
+      "originalUrl": "https://finance-app.people.cn/n1/2026/0828/c1004-40788240.html"
+    },
+    {
+      "id": "igloo-preseries-c-20260901",
+      "title": "东南亚保险科技Igloo完成3600万美元Pre-C轮融资 法欧瑞泽与BNP Paribas Cardif领投",
+      "sourceTier": "media",
+      "themes": [
+        "insurtech",
+        "funding",
+        "regional"
+      ],
+      "publishedAt": "2026-09-01T03:49:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=igloo-preseries-c-20260901",
+      "originalUrl": "https://www.indotelko.com/amp/read/1701779742/igloo-dapatkan-pendanaan-pra-seri-c-senilai-us-36-juta"
+    },
     {
       "id": "fstb-malaysia-fo-roadshow-20260722",
       "title": "许正宇出访马来西亚招揽家办：会见双威/成功集团 出席香港信托协会跨境论坛",
