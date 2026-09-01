@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-01T12:06:57+08:00",
-    "itemCount": 616,
+    "generatedAt": "2026-09-01T18:09:00+08:00",
+    "itemCount": 622,
     "windowNote": {
-      "sc": "本库616条。",
-      "tc": "本庫616條。"
+      "sc": "本库622条。",
+      "tc": "本庫622條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -264,6 +264,396 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "hkma-scam-alert-20260901",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "金管局汇总五银行诈骗警示：假冒网站及网银登入画面 [EN原文]",
+        "tc": "金管局匯總五銀行詐騙警示：假冒網站及網銀登入畫面 [EN原文]"
+      },
+      "summary": {
+        "sc": "金管局提醒公众留意东亚银行、上海商业银行、创兴银行、集友银行及Ele Bank五间银行发布的诈骗警示，涉及假冒网站及网银登入画面。金管局重申银行不会经短信或电邮内嵌链接引导客户交易，亦不会索取登入密码或一次性验证码，呼吁市民提高警觉。",
+        "tc": "金管局提醒公眾留意東亞銀行、上海商業銀行、創興銀行、集友銀行及Ele Bank五間銀行發布的詐騙警示，涉及假冒網站及網銀登入畫面。金管局重申銀行不會經短信或電郵內嵌連結引導客戶交易，亦不會索取登入密碼或一次性驗證碼，呼籲市民提高警覺。"
+      },
+      "why": {
+        "sc": "假冒银行网站与网银登入画面持续翻新，诈骗目标覆盖零售银行客户；保险缴费、转账环节的客户防诈教育可同步引用，前台可作提醒素材。",
+        "tc": "假冒銀行網站與網銀登入畫面持續翻新，詐騙目標覆蓋零售銀行客戶；保險繳費、轉賬環節的客戶防詐教育可同步引用，前台可作提醒素材。"
+      },
+      "actions": {
+        "front": {
+          "sc": "客户防诈提醒素材",
+          "tc": "客戶防詐提醒素材"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 0,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "香港金融管理局 HKMA",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "tags": {
+        "sc": [
+          "金管局",
+          "假冒网站",
+          "网银登入",
+          "防诈"
+        ],
+        "tc": [
+          "金管局",
+          "假冒網站",
+          "網銀登入",
+          "防詐"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-01",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260901-4/",
+      "ingestedAt": "2026-09-01T18:09:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "iaa-macau-mic-underwriting-20260901",
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "AM Best：澳门保险公司加强核保纪律砍掉亏损业务 承保表现料回升 [EN原文]",
+        "tc": "AM Best：澳門保險公司加強核保紀律砍掉虧損業務 承保表現料回升 [EN原文]"
+      },
+      "summary": {
+        "sc": "AM Best报告指澳门保险公司(MIC)收紧核保纪律并停掉部分亏损业务线，承保业绩有望恢复；2025年底资产负债表处于历来最强水平，经营业绩连续20年为正。MIC表示未来将拓展大湾区业务并推进数字化，同时料维持较高股票投资占比，或带来营运表现波动。",
+        "tc": "AM Best報告指澳門保險公司(MIC)收緊核保紀律並停掉部分虧損業務線，承保業績有望恢復；2025年底資產負債表處於歷來最強水平，經營業績連續20年為正。MIC表示未來將拓展大灣區業務並推進數字化，同時料維持較高股票投資佔比，或帶來營運表現波動。"
+      },
+      "why": {
+        "sc": "澳门本地险企主动收缩亏损业务、强化核保纪律，是观察大湾区保险市场竞争格局与澳门市场结构变化的样本。",
+        "tc": "澳門本地險企主動收縮虧損業務、強化核保紀律，是觀察大灣區保險市場競爭格局與澳門市場結構變化的樣本。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "关注澳门市场业务结构调整",
+          "tc": "關注澳門市場業務結構調整"
+        },
+        "lead": {
+          "sc": "大湾区保险竞争格局观察",
+          "tc": "大灣區保險競爭格局觀察"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "InsuranceAsia",
+        "lang": "en"
+      },
+      "boards": [
+        "market",
+        "insurer"
+      ],
+      "themes": [
+        "macau",
+        "gba"
+      ],
+      "tags": {
+        "sc": [
+          "AM Best",
+          "澳门",
+          "核保纪律",
+          "大湾区"
+        ],
+        "tc": [
+          "AM Best",
+          "澳門",
+          "核保紀律",
+          "大灣區"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-01T15:26:39+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/macau-insurance-underwriting-recovery-set-after-loss-making-lines-cut"
+    },
+    {
+      "id": "iaa-prudential-icici-stake-20260901",
+      "clusterCount": 1,
+      "score": 63,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "保诚减持ICICI资产管理约2%股权套现约3亿美元 收益用于股份回购 [EN原文]",
+        "tc": "保誠減持ICICI資產管理約2%股權套現約3億美元 收益用於股份回購 [EN原文]"
+      },
+      "summary": {
+        "sc": "保诚旗下Prudential Corporation Holdings于8月27日以每股32.1美元（约3,065卢比）出售ICICI资产管理公司股份，减持约2%股权、套现约3亿美元。保诚表示净收益将按中期业绩宣布的安排用于股份回购，实际美元金额视汇率、费用及税项而定。",
+        "tc": "保誠旗下Prudential Corporation Holdings於8月27日以每股32.1美元（約3,065盧比）出售ICICI資產管理公司股份，減持約2%股權、套現約3億美元。保誠表示淨收益將按中期業績宣布的安排用於股份回購，實際美元金額視匯率、費用及稅項而定。"
+      },
+      "why": {
+        "sc": "保诚减持印度资产管理股权回笼资金支持回购，反映其资本配置与股东回报导向，可作保诚系资本动向跟踪。",
+        "tc": "保誠減持印度資產管理股權回籠資金支持回購，反映其資本配置與股東回報導向，可作保誠系資本動向跟蹤。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "关注资本配置与回购动向",
+          "tc": "關注資本配置與回購動向"
+        },
+        "lead": {
+          "sc": "股东回报导向观察",
+          "tc": "股東回報導向觀察"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "InsuranceAsia",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "prudential",
+        "capital"
+      ],
+      "tags": {
+        "sc": [
+          "保诚",
+          "ICICI",
+          "减持",
+          "回购"
+        ],
+        "tc": [
+          "保誠",
+          "ICICI",
+          "減持",
+          "回購"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-01T12:02:39+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/prudential-cuts-icici-amc-stake-2-03b"
+    },
+    {
+      "id": "iaa-malaysian-life-re-20260901",
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "AM Best：马来西亚人寿再保资本水平最强 连续五年盈利 [EN原文]",
+        "tc": "AM Best：馬來西亞人壽再保資本水平最強 連續五年盈利 [EN原文]"
+      },
+      "summary": {
+        "sc": "AM Best指出马来西亚人寿再保险公司(Malaysian Life Re)截至2025年底风险调整资本处于最强水平，2021至2025年连续五年录得盈利，2025年股本回报率10.8%，主要受投资收益支持，营运盈利则受利率波动影响。该公司为马来西亚唯一本地人寿再保险公司，获再保集团RGA少数股权支持。",
+        "tc": "AM Best指出馬來西亞人壽再保險公司(Malaysian Life Re)截至2025年底風險調整資本處於最強水平，2021至2025年連續五年錄得盈利，2025年股本回報率10.8%，主要受投資收益支持，營運盈利則受利率波動影響。該公司為馬來西亞唯一本地人壽再保險公司，獲再保集團RGA少數股權支持。"
+      },
+      "why": {
+        "sc": "东南亚寿险再保龙头评级与资本状况更新，可观察区域再保市场承保与投资结构，作再保链条判断参考。",
+        "tc": "東南亞壽險再保龍頭評級與資本狀況更新，可觀察區域再保市場承保與投資結構，作再保鏈條判斷參考。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "再保链条与资本状况观察",
+          "tc": "再保鏈條與資本狀況觀察"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "InsuranceAsia",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reinsurance",
+        "malaysia"
+      ],
+      "tags": {
+        "sc": [
+          "AM Best",
+          "马来西亚",
+          "再保险",
+          "资本"
+        ],
+        "tc": [
+          "AM Best",
+          "馬來西亞",
+          "再保險",
+          "資本"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-01T12:32:22+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/malaysian-life-re-stays-well-capitalised-despite-volatile-earnings"
+    },
+    {
+      "id": "ibm-verisk-cat-losses-20260901",
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "title": {
+        "sc": "Verisk：全球年均巨灾保险损失基准升至1710亿美元 再创新高 [EN原文]",
+        "tc": "Verisk：全球年均巨災保險損失基準升至1710億美元 再創新高 [EN原文]"
+      },
+      "summary": {
+        "sc": "Verisk《2026全球模拟巨灾损失报告》显示，行业平均年巨灾损失升至1,710亿美元，较上次上调190亿美元并创该基准发布以来最高（2012年为590亿美元）。2025年虽无美国飓风登陆，伊顿与帕利塞兹山火及强雷暴仍令保险损失连续第六年突破千亿美元。",
+        "tc": "Verisk《2026全球模擬巨災損失報告》顯示，行業平均年巨災損失升至1,710億美元，較上次上調190億美元並創該基準發布以來最高（2012年為590億美元）。2025年雖無美國颶風登陸，伊頓與帕利塞茲山火及強雷暴仍令保險損失連續第六年突破千億美元。"
+      },
+      "why": {
+        "sc": "全球巨灾损失基准持续上调直接关系再保定价与亚太巨灾保障缺口判断，是理解全球保费上行趋势的关键背景数据。",
+        "tc": "全球巨災損失基準持續上調直接關係再保定價與亞太巨災保障缺口判斷，是理解全球保費上行趨勢的關鍵背景數據。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "巨灾风险与再保定价趋势",
+          "tc": "巨災風險與再保定價趨勢"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Business",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "cat-risk",
+        "climate"
+      ],
+      "tags": {
+        "sc": [
+          "Verisk",
+          "巨灾",
+          "再保定价",
+          "气候变化"
+        ],
+        "tc": [
+          "Verisk",
+          "巨災",
+          "再保定價",
+          "氣候變化"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-01",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/catastrophe/insurers-must-brace-for-us171-billion-in-annual-cat-losses-study-finds-588118.aspx"
+    },
+    {
+      "id": "iaa-sk-health-insurance-20260901",
+      "clusterCount": 1,
+      "score": 61,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "韩国国民健康保险财政缺口扩大 政府拨款占比连续低于法定目标 [EN原文]",
+        "tc": "韓國國民健康保險財政缺口擴大 政府撥款佔比連續低於法定目標 [EN原文]"
+      },
+      "summary": {
+        "sc": "韩国国民健康保险法定政府补助为保费的20%，但2026年预算拨款仅占预计保费收入14.2%，较去年再降0.2个百分点。2016至2025年政府累计拨款较法定要求少19.45万亿韩元（约140亿美元），卫生部计划显示该计划今年收支将转负。",
+        "tc": "韓國國民健康保險法定政府補助為保費的20%，但2026年預算撥款僅佔預計保費收入14.2%，較去年再降0.2個百分點。2016至2025年政府累計撥款較法定要求少19.45萬億韓元（約140億美元），衛生部計劃顯示該計劃今年收支將轉負。"
+      },
+      "why": {
+        "sc": "韩国公营健保财政缺口扩大影响区域健康险政策与商保补充需求判断，可作亚太健康险市场参照。",
+        "tc": "韓國公營健保財政缺口擴大影響區域健康險政策與商保補充需求判斷，可作亞太健康險市場參照。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "区域健康险政策走向",
+          "tc": "區域健康險政策走向"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "InsuranceAsia",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "health-insurance",
+        "korea"
+      ],
+      "tags": {
+        "sc": [
+          "韩国",
+          "国民健康保险",
+          "财政缺口"
+        ],
+        "tc": [
+          "韓國",
+          "國民健康保險",
+          "財政缺口"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-01T12:02:34+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/south-korea-underfunds-health-insurance-deficit-nears"
+    },
     {
       "id": "indiafirst-agentforce-20260831",
       "clusterCount": 1,
@@ -50075,14 +50465,14 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 616 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 616 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 622 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 622 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 616,
+      "totalItems": 622,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 209,
+          "count": 210,
           "label": "监管一手"
         },
         {
@@ -50097,7 +50487,7 @@
         },
         {
           "tier": "media",
-          "count": 186,
+          "count": 191,
           "label": "媒体报道"
         },
         {
@@ -50220,9 +50610,9 @@
           "label": "跨境"
         },
         {
-          "theme": "family-office",
-          "count": 35,
-          "label": "家办"
+          "theme": "reinsurance",
+          "count": 36,
+          "label": "再保险"
         }
       ],
       "dateRange": {

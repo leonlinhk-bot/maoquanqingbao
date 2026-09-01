@@ -1,9 +1,87 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-01T04:06:59Z",
-  "itemCount": 616,
+  "generatedAt": "2026-09-01T10:13:42Z",
+  "itemCount": 622,
   "items": [
+    {
+      "id": "hkma-scam-alert-20260901",
+      "title": "金管局汇总五银行诈骗警示：假冒网站及网银登入画面 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "publishedAt": "2026-09-01",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-scam-alert-20260901",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260901-4/"
+    },
+    {
+      "id": "iaa-macau-mic-underwriting-20260901",
+      "title": "AM Best：澳门保险公司加强核保纪律砍掉亏损业务 承保表现料回升 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "macau",
+        "gba"
+      ],
+      "publishedAt": "2026-09-01T15:26:39+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-macau-mic-underwriting-20260901",
+      "originalUrl": "https://insuranceasia.com/insurance/news/macau-insurance-underwriting-recovery-set-after-loss-making-lines-cut"
+    },
+    {
+      "id": "iaa-prudential-icici-stake-20260901",
+      "title": "保诚减持ICICI资产管理约2%股权套现约3亿美元 收益用于股份回购 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "prudential",
+        "capital"
+      ],
+      "publishedAt": "2026-09-01T12:02:39+08:00",
+      "score": 63,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-prudential-icici-stake-20260901",
+      "originalUrl": "https://insuranceasia.com/insurance/news/prudential-cuts-icici-amc-stake-2-03b"
+    },
+    {
+      "id": "iaa-malaysian-life-re-20260901",
+      "title": "AM Best：马来西亚人寿再保资本水平最强 连续五年盈利 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "malaysia"
+      ],
+      "publishedAt": "2026-09-01T12:32:22+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-malaysian-life-re-20260901",
+      "originalUrl": "https://insuranceasia.com/insurance/news/malaysian-life-re-stays-well-capitalised-despite-volatile-earnings"
+    },
+    {
+      "id": "ibm-verisk-cat-losses-20260901",
+      "title": "Verisk：全球年均巨灾保险损失基准升至1710亿美元 再创新高 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "cat-risk",
+        "climate"
+      ],
+      "publishedAt": "2026-09-01",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-verisk-cat-losses-20260901",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/catastrophe/insurers-must-brace-for-us171-billion-in-annual-cat-losses-study-finds-588118.aspx"
+    },
+    {
+      "id": "iaa-sk-health-insurance-20260901",
+      "title": "韩国国民健康保险财政缺口扩大 政府拨款占比连续低于法定目标 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "health-insurance",
+        "korea"
+      ],
+      "publishedAt": "2026-09-01T12:02:34+08:00",
+      "score": 61,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-sk-health-insurance-20260901",
+      "originalUrl": "https://insuranceasia.com/insurance/news/south-korea-underfunds-health-insurance-deficit-nears"
+    },
     {
       "id": "indiafirst-agentforce-20260831",
       "title": "印度IndiaFirst Life选用Salesforce Agentforce 在承保/客服/理赔部署AI智能体",
