@@ -1,11 +1,11 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-01T18:09:00+08:00",
-    "itemCount": 622,
+    "generatedAt": "2026-09-01T21:10:00+08:00",
+    "itemCount": 626,
     "windowNote": {
-      "sc": "本库622条。",
-      "tc": "本庫622條。"
+      "sc": "本库626条。",
+      "tc": "本庫626條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -264,6 +264,297 @@ window.HKII_DATA = {
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "hkma-hkicl-fraud-alert-20260901",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "HKICL再发诈骗警示：假冒「买家网上保障」及退款平台网站冒充结算机构 [EN原文]",
+        "tc": "HKICL再發詐騙警示：假冒「買家網上保障」及退款平台網站冒充結算機構 [EN原文]"
+      },
+      "summary": {
+        "sc": "金管局辖下香港银行同业结算公司(HKICL)提醒公众留意多组假冒网站，包括fpshkicl[.]courses、fpshkicl[.]garden及hkrefundplatform[.]click等，假称提供「买家网上保障」退款、未经授权交易申报等服务，诱导用户经转数快(FPS)付款，并要求提供敏感资料。HKICL重申不会经上述渠道索取资料或收款。",
+        "tc": "金管局轄下香港銀行同業結算公司(HKICL)提醒公眾留意多組假冒網站，包括fpshkicl[.]courses、fpshkicl[.]garden及hkrefundplatform[.]click等，假稱提供「買家網上保障」退款、未經授權交易申報等服務，誘導用戶經轉數快(FPS)付款，並要求提供敏感資料。HKICL重申不會經上述渠道索取資料或收款。"
+      },
+      "why": {
+        "sc": "假冒结算机构与退款平台的诈骗网站直指FPS转账环节，保费缴付多经转数快，客户教育可同步引用，前台可作防诈提醒素材。",
+        "tc": "假冒結算機構與退款平台的詐騙網站直指FPS轉賬環節，保費繳付多經轉數快，客戶教育可同步引用，前台可作防詐提醒素材。"
+      },
+      "actions": {
+        "front": {
+          "sc": "客户防诈提醒素材",
+          "tc": "客戶防詐提醒素材"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 0,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "香港金融管理局 HKMA",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "tags": {
+        "sc": [
+          "金管局",
+          "HKICL",
+          "假冒网站",
+          "转数快防诈"
+        ],
+        "tc": [
+          "金管局",
+          "HKICL",
+          "假冒網站",
+          "轉數快防詐"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-01",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260901-5/",
+      "ingestedAt": "2026-09-01T21:10:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "mof-expat-dividend-tax-20260901",
+      "clusterCount": 1,
+      "score": 88,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "mof",
+      "title": {
+        "sc": "财政部税务总局2026年第27号公告：外籍个人股息红利免税终止 今起按20%缴个税",
+        "tc": "財政部稅務總局2026年第27號公告：外籍個人股息紅利免稅終止 今起按20%繳個稅"
+      },
+      "summary": {
+        "sc": "财政部、税务总局发布2026年第27号公告：外籍个人从外商投资企业取得的股息红利所得按「利息、股息、红利所得」缴纳20%个人所得税，由支付企业代扣代缴；未扣缴的须于次年6月30日前自行申报。公告自2026年9月1日起执行，同步废止财税字〔1994〕20号中的免税条款。",
+        "tc": "財政部、稅務總局發布2026年第27號公告：外籍個人從外商投資企業取得的股息紅利所得按「利息、股息、紅利所得」繳納20%個人所得稅，由支付企業代扣代繳；未扣繳的須於次年6月30日前自行申報。公告自2026年9月1日起執行，同步廢止財稅字〔1994〕20號中的免稅條款。"
+      },
+      "why": {
+        "sc": "沿用了三十余年的外籍个人股息免税政策正式终止，与近期内地清理税收优惠、港险收益征税传闻同属跨境税务收紧主线，直接影响跨境财富规划、保单架构与分红安排讨论。",
+        "tc": "沿用了三十餘年的外籍個人股息免稅政策正式終止，與近期內地清理稅收優惠、港險收益徵稅傳聞同屬跨境稅務收緊主線，直接影響跨境財富規劃、保單架構與分紅安排討論。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "跨境税务政策趋势跟踪",
+          "tc": "跨境稅務政策趨勢跟蹤"
+        },
+        "cross": {
+          "sc": "跨境财富规划影响评估",
+          "tc": "跨境財富規劃影響評估"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "财政部/税务总局 MOF-STA",
+        "lang": "zh"
+      },
+      "boards": [
+        "cross"
+      ],
+      "themes": [
+        "mainland-tax",
+        "cross-border"
+      ],
+      "tags": {
+        "sc": [
+          "财政部",
+          "税务总局",
+          "外籍个人",
+          "股息红利",
+          "个税"
+        ],
+        "tc": [
+          "財政部",
+          "稅務總局",
+          "外籍個人",
+          "股息紅利",
+          "個稅"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-01",
+      "originalUrl": "https://fgk.chinatax.gov.cn/zcfgk/c102416/c5252107/content.html",
+      "ingestedAt": "2026-09-01T21:10:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "goldman-pru-tp-cut-20260901",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "pending",
+      "sourceTier": "pro",
+      "sourceKey": "goldman",
+      "title": {
+        "sc": "高盛下调保诚港股目标价至149港元 维持「买入」 重申全年NBP双位数增长目标",
+        "tc": "高盛下調保誠港股目標價至149港元 維持「買入」 重申全年NBP雙位數增長目標"
+      },
+      "summary": {
+        "sc": "高盛将保诚港股目标价由152港元下调2%至149港元，维持「买入」。高盛指保诚2026上半年业绩大致符合预期，新业务价值呈高单位数增长，营业利润及经营自由盈余均双位数增长；管理层重申全年NBP双位数增长目标，料增长集中于第四季，第三季业绩对股价表现至关重要。",
+        "tc": "高盛將保誠港股目標價由152港元下調2%至149港元，維持「買入」。高盛指保誠2026上半年業績大致符合預期，新業務價值呈高單位數增長，營業利潤及經營自由盈餘均雙位數增長；管理層重申全年NBP雙位數增長目標，料增長集中於第四季，第三季業績對股價表現至關重要。"
+      },
+      "why": {
+        "sc": "高盛对保诚H1业绩与全年NBP目标的解读，提供卖方视角跟踪保诚系香港及内地业务动能；目标价微调反映利润率改善与销售承压并存。",
+        "tc": "高盛對保誠H1業績與全年NBP目標的解讀，提供賣方視角跟蹤保誠系香港及內地業務動能；目標價微調反映利潤率改善與銷售承壓並存。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "关注NBP增长兑现节奏",
+          "tc": "關注NBP增長兌現節奏"
+        },
+        "lead": {
+          "sc": "卖方观点跟踪",
+          "tc": "賣方觀點跟蹤"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "高盛 Goldman Sachs（转引智通财经/同花顺）",
+        "lang": "zh"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "prudential",
+        "analyst"
+      ],
+      "tags": {
+        "sc": [
+          "高盛",
+          "保诚",
+          "目标价",
+          "新业务价值"
+        ],
+        "tc": [
+          "高盛",
+          "保誠",
+          "目標價",
+          "新業務價值"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-01T10:32:00+08:00",
+      "originalUrl": "https://stock.10jqka.com.cn/20260901/c679479396.shtml",
+      "ingestedAt": "2026-09-01T21:10:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "pru-coming-home-plan-20260831",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "pending",
+      "sourceTier": "insurer",
+      "sourceKey": "prudential",
+      "title": {
+        "sc": "保诚推全港首创「来港安居宝」：专为新来港移居人士设计 涵盖医疗、意外与子女教育",
+        "tc": "保誠推全港首創「來港安居寶」：專為新來港移居人士設計 涵蓋醫療、意外與子女教育"
+      },
+      "summary": {
+        "sc": "保诚宣布推出全港首创、专为新来港移居人士而设的保诚精选「来港安居宝」保障计划，涵盖基本医疗、意外、居所、紧急返乡及受保子女教育保障，可加购门诊保障。9月4日至12月31日投保享首年保费五折。保诚调查指94%新来港人士初期遇挑战，八成因医疗需求购买或考虑购买保险。",
+        "tc": "保誠宣布推出全港首創、專為新來港移居人士而設的保誠精選「來港安居寶」保障計劃，涵蓋基本醫療、意外、居所、緊急返鄉及受保子女教育保障，可加購門診保障。9月4日至12月31日投保享首年保費五折。保誠調查指94%新來港人士初期遇挑戰，八成因醫療需求購買或考慮購買保險。"
+      },
+      "why": {
+        "sc": "保诚针对新来港移居人群推出首创产品并配首年保费优惠，反映港险市场借人才计划争夺新客群的竞争动向，是与内地访客投保并行的增量客群。",
+        "tc": "保誠針對新來港移居人群推出首創產品並配首年保費優惠，反映港險市場借人才計劃爭奪新客群的競爭動向，是與內地訪客投保並行的增量客群。"
+      },
+      "actions": {
+        "front": {
+          "sc": "新客群产品话术参考",
+          "tc": "新客群產品話術參考"
+        },
+        "midback": {
+          "sc": "同类产品对比跟进",
+          "tc": "同類產品對比跟進"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "保诚保险 Prudential（转引星岛头条）",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "prudential",
+        "new-customer"
+      ],
+      "tags": {
+        "sc": [
+          "保诚",
+          "来港安居宝",
+          "新来港人士",
+          "新产品"
+        ],
+        "tc": [
+          "保誠",
+          "來港安居寶",
+          "新來港人士",
+          "新產品"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-08-31T12:19:00+08:00",
+      "originalUrl": "https://www.stheadline.com/zh-hans/realtime-finance/3609986/%E4%BF%9D%E8%AF%9A%E9%A6%96%E6%8E%A8%E6%9D%A5%E6%B8%AF%E5%AE%89%E5%B1%85%E5%AE%9D-%E4%B8%93%E4%B8%BA%E6%96%B0%E6%9D%A5%E6%B8%AF%E4%BA%BA%E5%A3%AB%E8%80%8C%E8%AE%BE-%E6%B6%B5%E7%9B%96%E5%8C%BB%E7%96%97%E5%8F%8A%E7%B4%A7%E6%80%A5%E8%BF%94%E4%B9%A1%E7%AD%89%E9%9C%80%E6%B1%82",
+      "ingestedAt": "2026-09-01T21:10:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
     {
       "id": "hkma-scam-alert-20260901",
       "clusterCount": 1,
@@ -50465,19 +50756,19 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 622 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 622 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 626 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 626 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 622,
+      "totalItems": 626,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 210,
+          "count": 212,
           "label": "监管一手"
         },
         {
           "tier": "insurer",
-          "count": 132,
+          "count": 133,
           "label": "保司公告"
         },
         {
@@ -50492,7 +50783,7 @@ window.HKII_DATA = {
         },
         {
           "tier": "pro",
-          "count": 61,
+          "count": 62,
           "label": "专业解读"
         },
         {
@@ -50606,7 +50897,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "cross-border",
-          "count": 41,
+          "count": 42,
           "label": "跨境"
         },
         {
