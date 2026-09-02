@@ -1,9 +1,126 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-01T13:12:56Z",
-  "itemCount": 626,
+  "generatedAt": "2026-09-02T08:53:28Z",
+  "itemCount": 635,
   "items": [
+    {
+      "id": "ia-hk-flmi-exam-fraud-arrests-20260902",
+      "title": "保监局与警方联合执法拘15人 涉FLMI资格考试作弊 即停该资格作发牌学历 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "compliance",
+        "enforcement"
+      ],
+      "publishedAt": "2026-09-02T05:45:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-hk-flmi-exam-fraud-arrests-20260902",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-arrests-15-in-insurance-qualification-fraud-case"
+    },
+    {
+      "id": "aia-wealth-plan3-20260902",
+      "title": "友邦香港推「财富恒裕」人寿保险计划3：高净值终身分红寿险 最高逾6倍保障杠杆",
+      "sourceTier": "insurer",
+      "themes": [
+        "hnw",
+        "par"
+      ],
+      "publishedAt": "2026-09-02T15:06:00+08:00",
+      "score": 80,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-wealth-plan3-20260902",
+      "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2026/aia-press-release-20260902"
+    },
+    {
+      "id": "ibm-mas-fsti4-ai-20260902",
+      "title": "新加坡金管局3年注资2.2亿坡元推FSTI 4.0 设AI Pathfinder轨道对接官方审核AI工具 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "insurtech",
+        "ai"
+      ],
+      "publishedAt": "2026-09-02T09:28:16+08:00",
+      "score": 63,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-mas-fsti4-ai-20260902",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/mass-s220m-fintech-scheme-has-an-ai-onramp-insurers-should-know-about-588193.aspx"
+    },
+    {
+      "id": "ibm-cathay-life-gaip-20260902",
+      "title": "台湾国泰人寿加入GAIP成为主要伙伴 亚洲保障缺口逼近1万亿美元 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "market",
+        "health"
+      ],
+      "publishedAt": "2026-09-02T09:24:21+08:00",
+      "score": 61,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-cathay-life-gaip-20260902",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/cathay-life-joins-gaip-as-asias-protection-gap-approaches-1-trillion-588192.aspx"
+    },
+    {
+      "id": "ibm-moodys-ils-record-20260902",
+      "title": "穆迪：上半年保险连接证券未偿资本1445亿美元创纪录 巨灾债同比增17% [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "capital"
+      ],
+      "publishedAt": "2026-09-02T10:20:21+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-moodys-ils-record-20260902",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/moodys-sees-record-ils-capital-funding-riskier-hardertoplace-perils-588258.aspx"
+    },
+    {
+      "id": "iaa-tokio-marine-direct-commercial-20260902",
+      "title": "东京海上拟以3.61亿美元收购英国商业车险MGA Direct Commercial 料9月完成 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ma",
+        "distribution"
+      ],
+      "publishedAt": "2026-09-02T06:00:00+08:00",
+      "score": 63,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-tokio-marine-direct-commercial-20260902",
+      "originalUrl": "https://insuranceasia.com/insurance/news/tokio-marine-buys-direct-commercial-361m"
+    },
+    {
+      "id": "iaa-pru-japan-sales-halt-20260902",
+      "title": "日本保德信人寿停售后新契约年化保费挫84% 涉106名在职及离职员工不当行为 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "compliance",
+        "distribution"
+      ],
+      "publishedAt": "2026-09-02T05:30:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-pru-japan-sales-halt-20260902",
+      "originalUrl": "https://insuranceasia.com/insurance/news/prudential-life-insurances-new-contracts-plunge-91-after-sales-halt"
+    },
+    {
+      "id": "iaa-apac-retirement-gap-20260902",
+      "title": "麦肯锡：亚太退休产品未满足「健康+财富」整合需求 仅14%持长期护理保障 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "retirement",
+        "health"
+      ],
+      "publishedAt": "2026-09-02T05:00:00+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-apac-retirement-gap-20260902",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/apac-retirement-products-fail-consumers-seeking-combined-cover"
+    },
+    {
+      "id": "jefferies-aia-tp-20260901",
+      "title": "富瑞上调友邦目标价至114港元 维持「买入」 认为ROEV是最可靠估值指标",
+      "sourceTier": "pro",
+      "themes": [
+        "aia",
+        "analyst"
+      ],
+      "publishedAt": "2026-09-01T15:10:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=jefferies-aia-tp-20260901",
+      "originalUrl": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-01/doc-iniqiatv8215773.shtml"
+    },
     {
       "id": "hkma-hkicl-fraud-alert-20260901",
       "title": "HKICL再发诈骗警示：假冒「买家网上保障」及退款平台网站冒充结算机构 [EN原文]",

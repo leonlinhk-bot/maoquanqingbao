@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-01T21:10:00+08:00",
-    "itemCount": 626,
+    "generatedAt": "2026-09-02T16:53:08+08:00",
+    "itemCount": 635,
     "windowNote": {
-      "sc": "本库626条。",
-      "tc": "本庫626條。"
+      "sc": "本库635条。",
+      "tc": "本庫635條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -264,6 +264,679 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "ia-hk-flmi-exam-fraud-arrests-20260902",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "保监局与警方联合执法拘15人 涉FLMI资格考试作弊 即停该资格作发牌学历 [EN原文]",
+        "tc": "保監局與警方聯合執法拘15人 涉FLMI資格考試作弊 即停該資格作發牌學歷 [EN原文]"
+      },
+      "summary": {
+        "sc": "保监局与香港警方8月27日联合执法拘捕15人，涉FLMI资格考试作弊，被捕者含3名现职及3名前持牌中介人。保监局即时停用FLMI为发牌认可学历并全面复核相关牌照个案，属2024年双方备忘录后首次联合行动。",
+        "tc": "保監局與香港警方8月27日聯合執法拘捕15人，涉FLMI資格考試作弊，被捕者含3名現職及3名前持牌中介人。保監局即時停用FLMI為發牌認可學歷並全面覆核相關牌照個案，屬2024年雙方備忘錄後首次聯合行動。"
+      },
+      "why": {
+        "sc": "资格考试造假牵动发牌学历与行业诚信底线：FLMI资格被停用后，经涉事考试中心取证的牌照个案将全面复核，直接影响保险中介招聘尽调与持牌合规流程，是保监局与警方2024年备忘录后首次联合执法的标志性案件。",
+        "tc": "資格考試造假牽動發牌學歷與行業誠信底線：FLMI資格被停用後，經涉事考試中心取證的牌照個案將全面覆核，直接影響保險中介招聘盡調與持牌合規流程，是保監局與警方2024年備忘錄後首次聯合執法的標誌性案件。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "招聘尽调与持牌资格核查提醒",
+          "tc": "招聘盡調與持牌資格核查提醒"
+        },
+        "lead": {
+          "sc": "保监局中介人执法动向跟踪",
+          "tc": "保監局中介人執法動向跟蹤"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "InsuranceAsia 保险亚洲",
+        "lang": "en"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "compliance",
+        "enforcement"
+      ],
+      "tags": {
+        "sc": [
+          "保监局",
+          "FLMI",
+          "LOMA",
+          "考试作弊",
+          "持牌中介人"
+        ],
+        "tc": [
+          "保監局",
+          "FLMI",
+          "LOMA",
+          "考試作弊",
+          "持牌中介人"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-02T05:45:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-arrests-15-in-insurance-qualification-fraud-case",
+      "ingestedAt": "2026-09-02T16:53:08+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "aia-wealth-plan3-20260902",
+      "clusterCount": 1,
+      "score": 80,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "aia",
+      "title": {
+        "sc": "友邦香港推「财富恒裕」人寿保险计划3：高净值终身分红寿险 最高逾6倍保障杠杆",
+        "tc": "友邦香港推「財富恆裕」人壽保險計劃3：高淨值終身分紅壽險 最高逾6倍保障槓桿"
+      },
+      "summary": {
+        "sc": "友邦香港及澳门9月2日推出专为高净值客户设计的终身分红寿险「财富恒裕3」：指定情况下保障可达保费6倍以上，设保单分拆选项，属按证「保单逆按计划」合资格寿险可转终身退休收入，传承功能含市场首创「未来心愿安排」等。",
+        "tc": "友邦香港及澳門9月2日推出專為高淨值客戶設計的終身分紅壽險「財富恆裕3」：指定情況下保障可達保費6倍以上，設保單分拆選項，屬按證「保單逆按計劃」合資格壽險可轉終身退休收入，傳承功能含市場首創「未來心願安排」等。"
+      },
+      "why": {
+        "sc": "高净值终身寿险加码保单分拆、逆按转换与预设传承指示等结构，直击高净值客户财富传承痛点，是友邦强化HNW产品线、应对长寿时代需求的重要落子，也是同类产品对标的基准。",
+        "tc": "高淨值終身壽險加碼保單分拆、逆按轉換與預設傳承指示等結構，直擊高淨值客戶財富傳承痛點，是友邦強化HNW產品線、應對長壽時代需求的重要落子，也是同類產品對標的基準。"
+      },
+      "actions": {
+        "front": {
+          "sc": "高净值客户产品对位话术",
+          "tc": "高淨值客戶產品對位話術"
+        },
+        "midback": {
+          "sc": "传承功能条款拆解与竞品对比",
+          "tc": "傳承功能條款拆解與競品對比"
+        },
+        "lead": {
+          "sc": "HNW终身寿险产品动向跟踪",
+          "tc": "HNW終身壽險產品動向跟蹤"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "友邦保险 AIA（官方新闻稿）",
+        "lang": "zh"
+      },
+      "boards": [
+        "product",
+        "family"
+      ],
+      "themes": [
+        "hnw",
+        "par"
+      ],
+      "tags": {
+        "sc": [
+          "友邦",
+          "财富恒裕3",
+          "高净值",
+          "终身分红寿险",
+          "保单逆按"
+        ],
+        "tc": [
+          "友邦",
+          "財富恆裕3",
+          "高淨值",
+          "終身分紅壽險",
+          "保單逆按"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-02T15:06:00+08:00",
+      "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2026/aia-press-release-20260902",
+      "ingestedAt": "2026-09-02T15:46:48+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ibm-mas-fsti4-ai-20260902",
+      "clusterCount": 1,
+      "score": 63,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusiness",
+      "title": {
+        "sc": "新加坡金管局3年注资2.2亿坡元推FSTI 4.0 设AI Pathfinder轨道对接官方审核AI工具 [EN原文]",
+        "tc": "新加坡金管局3年注資2.2億坡元推FSTI 4.0 設AI Pathfinder軌道對接官方審核AI工具 [EN原文]"
+      },
+      "summary": {
+        "sc": "新加坡金管局3年投2.2亿坡元推FSTI 4.0：AI Pathfinder轨道经PathFin.ai平台助金融机构部署官方审核AI工具，人力轨道3年支援至少1000个实习，AI已成融资主流。",
+        "tc": "新加坡金管局3年投2.2億坡元推FSTI 4.0：AI Pathfinder軌道經PathFin.ai平台助金融機構部署官方審核AI工具，人力軌道3年支援至少1000個實習，AI已成融資主流。"
+      },
+      "why": {
+        "sc": "区域监管将AI工具纳入官方审核与对接轨道，为保险公司采用AI提供合规捷径；对香港GenA.I.沙盒++及保险科技生态建设具直接参照意义。",
+        "tc": "區域監管將AI工具納入官方審核與對接軌道，為保險公司採用AI提供合規捷徑；對香港GenA.I.沙盒++及保險科技生態建設具直接參照意義。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "AI工具合规采用路径跟踪",
+          "tc": "AI工具合規採用路徑跟蹤"
+        },
+        "lead": {
+          "sc": "区域AI监管动向参考",
+          "tc": "區域AI監管動向參考"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Business 保险商业",
+        "lang": "en"
+      },
+      "boards": [
+        "tech"
+      ],
+      "themes": [
+        "insurtech",
+        "ai"
+      ],
+      "tags": {
+        "sc": [
+          "新加坡金管局",
+          "MAS",
+          "FSTI 4.0",
+          "AI Pathfinder",
+          "保险科技"
+        ],
+        "tc": [
+          "新加坡金管局",
+          "MAS",
+          "FSTI 4.0",
+          "AI Pathfinder",
+          "保險科技"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-02T09:28:16+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/mass-s220m-fintech-scheme-has-an-ai-onramp-insurers-should-know-about-588193.aspx",
+      "ingestedAt": "2026-09-02T15:46:48+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ibm-cathay-life-gaip-20260902",
+      "clusterCount": 1,
+      "score": 61,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusiness",
+      "title": {
+        "sc": "台湾国泰人寿加入GAIP成为主要伙伴 亚洲保障缺口逼近1万亿美元 [EN原文]",
+        "tc": "台灣國泰人壽加入GAIP成為主要夥伴 亞洲保障缺口逼近1萬億美元 [EN原文]"
+      },
+      "summary": {
+        "sc": "台湾最大寿险国泰人寿加入GAIP成主要伙伴，参与保障缺口、健康与退休及气候风险工作组。亚太保障缺口2022年达8860亿美元，瑞士再保险估2023年9050亿美元，主席称现接近1万亿美元。",
+        "tc": "台灣最大壽險國泰人壽加入GAIP成主要夥伴，參與保障缺口、健康與退休及氣候風險工作組。亞太保障缺口2022年達8860億美元，瑞士再保險估2023年9050億美元，主席稱現接近1萬億美元。"
+      },
+      "why": {
+        "sc": "亚洲保障缺口近万亿美元是港险跨境客群与亚洲业务叙事的核心数据；国泰人寿以台湾最大寿险身份加入GAIP，反映区域头部险企参与缺口治理的布局动向。",
+        "tc": "亞洲保障缺口近萬億美元是港險跨境客群與亞洲業務敘事的核心數據；國泰人壽以台灣最大壽險身份加入GAIP，反映區域頭部險企參與缺口治理的佈局動向。"
+      },
+      "actions": {
+        "front": {
+          "sc": "保障缺口客户叙事数据点",
+          "tc": "保障缺口客戶敘事數據點"
+        },
+        "midback": {
+          "sc": "区域险企合作格局观察",
+          "tc": "區域險企合作格局觀察"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Business 保险商业",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "market",
+        "health"
+      ],
+      "tags": {
+        "sc": [
+          "国泰人寿",
+          "GAIP",
+          "保障缺口",
+          "台湾",
+          "亚洲保险"
+        ],
+        "tc": [
+          "國泰人壽",
+          "GAIP",
+          "保障缺口",
+          "台灣",
+          "亞洲保險"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-02T09:24:21+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/cathay-life-joins-gaip-as-asias-protection-gap-approaches-1-trillion-588192.aspx",
+      "ingestedAt": "2026-09-02T15:46:48+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ibm-moodys-ils-record-20260902",
+      "clusterCount": 1,
+      "score": 64,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusiness",
+      "title": {
+        "sc": "穆迪：上半年保险连接证券未偿资本1445亿美元创纪录 巨灾债同比增17% [EN原文]",
+        "tc": "穆迪：上半年保險連接證券未償資本1445億美元創紀錄 巨災債同比增17% [EN原文]"
+      },
+      "summary": {
+        "sc": "穆迪：2026上半年保险连接证券(ILS)未偿资本1445亿美元创纪录，巨灾债约634亿美元增17%、较2021年近翻倍，再保侧车约230亿美元增50%；传统再保费率年内跌16%，为近30年最大跌幅。",
+        "tc": "穆迪：2026上半年保險連接證券(ILS)未償資本1445億美元創紀錄，巨災債約634億美元增17%、較2021年近翻倍，再保側車約230億美元增50%；傳統再保費率年內跌16%，為近30年最大跌幅。"
+      },
+      "why": {
+        "sc": "ILS资本持续膨胀与传统再保价格加速下行并存，标志再保市场资本过剩格局加深，直接影响香港市场巨灾风险定价、再保安排与分出策略。",
+        "tc": "ILS資本持續膨脹與傳統再保價格加速下行並存，標誌再保市場資本過剩格局加深，直接影響香港市場巨災風險定價、再保安排與分出策略。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "再保资本与定价趋势跟踪",
+          "tc": "再保資本與定價趨勢跟蹤"
+        },
+        "lead": {
+          "sc": "再保成本谈判与安排参考",
+          "tc": "再保成本談判與安排參考"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Business 保险商业",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reinsurance",
+        "capital"
+      ],
+      "tags": {
+        "sc": [
+          "穆迪",
+          "ILS",
+          "巨灾债",
+          "再保险",
+          "费率下行"
+        ],
+        "tc": [
+          "穆迪",
+          "ILS",
+          "巨災債",
+          "再保險",
+          "費率下行"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-02T10:20:21+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/moodys-sees-record-ils-capital-funding-riskier-hardertoplace-perils-588258.aspx",
+      "ingestedAt": "2026-09-02T15:46:48+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "iaa-tokio-marine-direct-commercial-20260902",
+      "clusterCount": 1,
+      "score": 63,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "东京海上拟以3.61亿美元收购英国商业车险MGA Direct Commercial 料9月完成 [EN原文]",
+        "tc": "東京海上擬以3.61億美元收購英國商業車險MGA Direct Commercial 料9月完成 [EN原文]"
+      },
+      "summary": {
+        "sc": "东京海上拟经旗下Tokio Marine HCC以3.61亿美元收购英国商业车险MGA Direct Commercial，已获监管批准料9月完成。标的年毛保费逾2.72亿美元，与HCC业务互补。",
+        "tc": "東京海上擬經旗下Tokio Marine HCC以3.61億美元收購英國商業車險MGA Direct Commercial，已獲監管批准料9月完成。標的年毛保費逾2.72億美元，與HCC業務互補。"
+      },
+      "why": {
+        "sc": "全球头部险企并购与分销形态变化样本：MGA模式在商业车险承保链条的价值上升，对香港经纪与承保格局具参照意义。",
+        "tc": "全球頭部險企併購與分銷形態變化樣本：MGA模式在商業車險承保鏈條的價值上升，對香港經紀與承保格局具參照意義。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "全球险企并购格局跟踪",
+          "tc": "全球險企併購格局跟蹤"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "InsuranceAsia 保险亚洲",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "ma",
+        "distribution"
+      ],
+      "tags": {
+        "sc": [
+          "东京海上",
+          "Tokio Marine",
+          "MGA",
+          "并购",
+          "商业车险"
+        ],
+        "tc": [
+          "東京海上",
+          "Tokio Marine",
+          "MGA",
+          "併購",
+          "商業車險"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-02T06:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/tokio-marine-buys-direct-commercial-361m",
+      "ingestedAt": "2026-09-02T13:36:35+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "iaa-pru-japan-sales-halt-20260902",
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "日本保德信人寿停售后新契约年化保费挫84% 涉106名在职及离职员工不当行为 [EN原文]",
+        "tc": "日本保德信人壽停售後新契約年化保費挫84% 涉106名在職及離職員工不當行為 [EN原文]"
+      },
+      "summary": {
+        "sc": "保德信金融旗下日本保德信人寿因员工不当行为自2月停售新单并延长，首季新契约年化保费跌84%至1,760万美元、件数跌91%；涉106名在职及离职员工，数百客户损失约1,940万美元，靠准备金净利反升65%。",
+        "tc": "保德信金融旗下日本保德信人壽因員工不當行為自2月停售新單並延長，首季新契約年化保費跌84%至1,760萬美元、件數跌91%；涉106名在職及離職員工，數百客戶損失約1,940萬美元，靠準備金淨利反升65%。"
+      },
+      "why": {
+        "sc": "同业销售不当行为与停售整改的完整案例：涉百人规模、跨季影响新业务与客户赔偿，在销售行为监管趋严背景下具合规借鉴价值。",
+        "tc": "同業銷售不當行為與停售整改的完整案例：涉百人規模、跨季影響新業務與客戶賠償，在銷售行為監管趨嚴背景下具合規借鑑價值。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "销售不当行为停售整改案例库",
+          "tc": "銷售不當行為停售整改案例庫"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "InsuranceAsia 保险亚洲",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "compliance",
+        "distribution"
+      ],
+      "tags": {
+        "sc": [
+          "保德信",
+          "Prudential Financial",
+          "销售停售",
+          "不当行为",
+          "合规"
+        ],
+        "tc": [
+          "保德信",
+          "Prudential Financial",
+          "銷售停售",
+          "不當行為",
+          "合規"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-02T05:30:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/prudential-life-insurances-new-contracts-plunge-91-after-sales-halt",
+      "ingestedAt": "2026-09-02T13:36:35+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "iaa-apac-retirement-gap-20260902",
+      "clusterCount": 1,
+      "score": 65,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "麦肯锡：亚太退休产品未满足「健康+财富」整合需求 仅14%持长期护理保障 [EN原文]",
+        "tc": "麥肯錫：亞太退休產品未滿足「健康+財富」整合需求 僅14%持長期護理保障 [EN原文]"
+      },
+      "summary": {
+        "sc": "麦肯锡2026亚洲退休客户调查：约30%受访者期望退休产品兼含健康与财富保障，但两类产品仍割裂；长护保障覆盖率仅14%，26%想加购；26%不满缺乏通胀保障，31%最想要随通胀调整的给付。",
+        "tc": "麥肯錫2026亞洲退休客戶調查：約30%受訪者期望退休產品兼含健康與財富保障，但兩類產品仍割裂；長護保障覆蓋率僅14%，26%想加購；26%不滿缺乏通脹保障，31%最想要隨通脹調整的給付。"
+      },
+      "why": {
+        "sc": "退休规划是港险主力场景：健康与财富整合、通胀挂钩给付、长护缺口三组数据，可直接用于客户退休需求诊断与产品对位。",
+        "tc": "退休規劃是港險主力場景：健康與財富整合、通脹掛鈎給付、長護缺口三組數據，可直接用於客戶退休需求診斷與產品對位。"
+      },
+      "actions": {
+        "front": {
+          "sc": "客户退休需求诊断数据点",
+          "tc": "客戶退休需求診斷數據點"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "退休+长护产品对位素材",
+          "tc": "退休+長護產品對位素材"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 0,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "InsuranceAsia 保险亚洲",
+        "lang": "en"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "retirement",
+        "health"
+      ],
+      "tags": {
+        "sc": [
+          "麦肯锡",
+          "退休调查",
+          "长期护理",
+          "健康财富整合",
+          "通胀"
+        ],
+        "tc": [
+          "麥肯錫",
+          "退休調查",
+          "長期護理",
+          "健康財富整合",
+          "通脹"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-02T05:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/apac-retirement-products-fail-consumers-seeking-combined-cover",
+      "ingestedAt": "2026-09-02T13:36:35+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "jefferies-aia-tp-20260901",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "pending",
+      "sourceTier": "pro",
+      "sourceKey": "jefferies",
+      "title": {
+        "sc": "富瑞上调友邦目标价至114港元 维持「买入」 认为ROEV是最可靠估值指标",
+        "tc": "富瑞上調友邦目標價至114港元 維持「買入」 認為ROEV是最可靠估值指標"
+      },
+      "summary": {
+        "sc": "富瑞：友邦第二季业绩符预期，上半年新业务价值增速高于市场预测0.4%、税后经营溢利高4.1%；认为ROEV是最可靠估值指标，目标价由111港元升至114港元，维持「买入」，并上调2026财年每股盈测3.5%。",
+        "tc": "富瑞：友邦第二季業績符預期，上半年新業務價值增速高於市場預測0.4%、稅後經營溢利高4.1%；認為ROEV是最可靠估值指標，目標價由111港元升至114港元，維持「買入」，並上調2026財年每股盈測3.5%。"
+      },
+      "why": {
+        "sc": "继高盛点评保诚后卖方对友邦中报的又一解读：ROEV估值框架与盈测上调，反映对香港业务质量及内地客需求的正面判断。",
+        "tc": "繼高盛點評保誠後賣方對友邦中報的又一解讀：ROEV估值框架與盈測上調，反映對香港業務質量及內地客需求的正面判斷。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "卖方估值观点跟踪",
+          "tc": "賣方估值觀點跟蹤"
+        },
+        "lead": {
+          "sc": "AIA中报后评级动向跟踪",
+          "tc": "AIA中報後評級動向跟蹤"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "富瑞 Jefferies（转引智通财经/新浪财经）",
+        "lang": "zh"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "aia",
+        "analyst"
+      ],
+      "tags": {
+        "sc": [
+          "富瑞",
+          "Jefferies",
+          "友邦",
+          "目标价",
+          "ROEV"
+        ],
+        "tc": [
+          "富瑞",
+          "Jefferies",
+          "友邦",
+          "目標價",
+          "ROEV"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-01T15:10:00+08:00",
+      "originalUrl": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-01/doc-iniqiatv8215773.shtml",
+      "ingestedAt": "2026-09-02T13:36:35+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
     {
       "id": "hkma-hkicl-fraud-alert-20260901",
       "clusterCount": 1,
@@ -50756,10 +51429,10 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 626 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 626 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 635 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 635 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 626,
+      "totalItems": 635,
       "sourceTiers": [
         {
           "tier": "official",
@@ -50768,7 +51441,7 @@
         },
         {
           "tier": "insurer",
-          "count": 133,
+          "count": 134,
           "label": "保司公告"
         },
         {
@@ -50778,12 +51451,12 @@
         },
         {
           "tier": "media",
-          "count": 191,
+          "count": 198,
           "label": "媒体报道"
         },
         {
           "tier": "pro",
-          "count": 62,
+          "count": 63,
           "label": "专业解读"
         },
         {
@@ -50857,7 +51530,7 @@
       "topThemes": [
         {
           "theme": "market",
-          "count": 179,
+          "count": 180,
           "label": "市场"
         },
         {
@@ -50877,7 +51550,7 @@
         },
         {
           "theme": "compliance",
-          "count": 75,
+          "count": 77,
           "label": "合规"
         },
         {
@@ -50902,13 +51575,13 @@
         },
         {
           "theme": "reinsurance",
-          "count": 36,
+          "count": 37,
           "label": "再保险"
         }
       ],
       "dateRange": {
-        "sc": "2013-03-05 ~ 2026-09-01",
-        "tc": "2013-03-05 ~ 2026-09-01"
+        "sc": "2013-03-05 ~ 2026-09-02",
+        "tc": "2013-03-05 ~ 2026-09-02"
       }
     },
     "marketData": {
