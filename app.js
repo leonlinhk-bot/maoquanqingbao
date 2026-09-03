@@ -1,11 +1,11 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-02T16:53:08+08:00",
-    "itemCount": 635,
+    "generatedAt": "2026-09-03T11:35:46+08:00",
+    "itemCount": 641,
     "windowNote": {
-      "sc": "本库635条。",
-      "tc": "本庫635條。"
+      "sc": "本库641条。",
+      "tc": "本庫641條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -264,6 +264,451 @@ window.HKII_DATA = {
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "hkfi-tax-rumor-response-20260903",
+      "clusterCount": 1,
+      "score": 63,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "gmteight",
+      "title": {
+        "sc": "香港保险业联会回应「内地拟对境外保单收益征20%个税」传闻：相关部门未发正式文件 [EN原文]",
+        "tc": "香港保險業聯會回應「內地擬對境外保單收益徵20%個稅」傳聞：相關部門未發正式文件 [EN原文]"
+      },
+      "summary": {
+        "sc": "香港保险业联会9月3日回应「内地拟对境外保单收益征20%个税」传闻：相关部门未发布正式文件或细则，正密切跟进、不作猜测；强调客户保障、传承与资产配置需求仍强，港险产品设计灵活、货币配置多元，市场仍具吸引力。",
+        "tc": "香港保險業聯會9月3日回應「內地擬對境外保單收益徵20%個稅」傳聞：相關部門未發布正式文件或細則，正密切跟進、不作猜測；強調客戶保障、傳承與資產配置需求仍強，港險產品設計靈活、貨幣配置多元，市場仍具吸引力。"
+      },
+      "why": {
+        "sc": "近期该传闻发酵并拖累港险板块，业界机构首次正式回应：未见官方文件、需求基础未变，有助厘清政策预期、稳定客户与渠道信心，也是回应客户税务疑虑时的重要口径参考。",
+        "tc": "近期該傳聞發酵並拖累港險板塊，業界機構首次正式回應：未見官方文件、需求基礎未變，有助釐清政策預期、穩定客戶與渠道信心，也是回應客戶稅務疑慮時的重要口徑參考。"
+      },
+      "actions": {
+        "front": {
+          "sc": "客户对20%个税疑虑的回应口径",
+          "tc": "客戶對20%個稅疑慮的回應口徑"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {
+          "sc": "跟踪内地对境外保单税务政策动向",
+          "tc": "跟蹤內地對境外保單稅務政策動向"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 0,
+        "lead": 0,
+        "cross": 1
+      },
+      "source": {
+        "sc": "GMT EIGHT 快讯（据第一财经报道）",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "mainland-tax",
+        "cross-border"
+      ],
+      "tags": {
+        "sc": [
+          "香港保险业联会",
+          "HKFI",
+          "20%个税",
+          "境外保单",
+          "传闻回应"
+        ],
+        "tc": [
+          "香港保險業聯會",
+          "HKFI",
+          "20%個稅",
+          "境外保單",
+          "傳聞回應"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-03",
+      "originalUrl": "https://www.gmt8press.com/flash/detail/1502684",
+      "ingestedAt": "2026-09-03T11:35:46+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "aia-hk-hedgefunds-cautious-20260903",
+      "clusterCount": 1,
+      "score": 63,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "富瑞：香港对冲基金对友邦新业务价值转审慎 国际长仓视回调为买点 [EN原文]",
+        "tc": "富瑞：香港對沖基金對友邦新業務價值轉審慎 國際長倉視回調為買點 [EN原文]"
+      },
+      "summary": {
+        "sc": "富瑞指香港对冲基金对友邦新业务价值转审慎：高基数已拖累首季、料续压二三季，美长仓视监管风波回调为买点、港基观望。友邦次季VONB超共识0.4%、经营溢利超4.1%符预期；富瑞上调2026年每股盈利预测3.5%。",
+        "tc": "富瑞指香港對沖基金對友邦新業務價值轉審慎：高基數已拖累首季、料續壓二三季，美長倉視監管風波回調為買點、港基觀望。友邦次季VONB超共識0.4%、經營溢利超4.1%符預期；富瑞上調2026年每股盈利預測3.5%。"
+      },
+      "why": {
+        "sc": "反映税务传闻扰动下国际长仓与本地对冲基金对友邦估值框架(ROEV对比VONB增速)的分歧，是观察外资如何定价港险龙头监管风险、判断板块情绪的关键信号。",
+        "tc": "反映稅務傳聞擾動下國際長倉與本地對沖基金對友邦估值框架(ROEV對比VONB增速)的分歧，是觀察外資如何定價港險龍頭監管風險、判斷板塊情緒的關鍵信號。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "跟踪大行对友邦及港险板块评级观点",
+          "tc": "跟蹤大行對友邦及港險板塊評級觀點"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "InsuranceAsia 保险亚洲",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "aia",
+        "analyst"
+      ],
+      "tags": {
+        "sc": [
+          "友邦",
+          "富瑞",
+          "对冲基金",
+          "新业务价值",
+          "港股保险"
+        ],
+        "tc": [
+          "友邦",
+          "富瑞",
+          "對沖基金",
+          "新業務價值",
+          "港股保險"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-03T06:15:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/aia-growth-concerns-keep-hong-kong-hedge-funds-cautious",
+      "ingestedAt": "2026-09-03T11:35:46+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ncl-bancassurance-margin-20260903",
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "新华保险次季新业务价值同比跌8% 银保价值率降至22% 下半年盈利承压 [EN原文]",
+        "tc": "新華保險次季新業務價值同比跌8% 銀保價值率降至22% 下半年盈利承壓 [EN原文]"
+      },
+      "summary": {
+        "sc": "新华保险次季新业务价值同比跌8%(首季曾增25%)；银保渠道NBV仅增2%、新业务价值利润率降至22%。CGS国际指其约九成股权投资按公允价值入账，料下半年净利润低于上半年228亿元。",
+        "tc": "新華保險次季新業務價值同比跌8%(首季曾增25%)；銀保渠道NBV僅增2%、新業務價值利潤率降至22%。CGS國際指其約九成股權投資按公允價值入賬，料下半年淨利潤低於上半年228億元。"
+      },
+      "why": {
+        "sc": "内地银保渠道费用管控与股市波动正传导至险企报表：头部银保系寿险价值率下滑、次季NBV转负，是观察内地监管新规实际冲击的典型样本。",
+        "tc": "內地銀保渠道費用管控與股市波動正傳導至險企報表：頭部銀保系壽險價值率下滑、次季NBV轉負，是觀察內地監管新規實際衝擊的典型樣本。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "内地银保新规对险企价值率影响跟踪",
+          "tc": "內地銀保新規對險企價值率影響跟蹤"
+        },
+        "lead": {
+          "sc": "内地头部寿险业绩与渠道趋势参考",
+          "tc": "內地頭部壽險業績與渠道趨勢參考"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "InsuranceAsia 保险亚洲",
+        "lang": "en"
+      },
+      "boards": [
+        "market",
+        "insurer"
+      ],
+      "themes": [
+        "bancassurance",
+        "mainland"
+      ],
+      "tags": {
+        "sc": [
+          "新华保险",
+          "银保渠道",
+          "新业务价值",
+          "权益投资",
+          "内地寿险"
+        ],
+        "tc": [
+          "新華保險",
+          "銀保渠道",
+          "新業務價值",
+          "權益投資",
+          "內地壽險"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-03T06:30:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/new-china-life-bancassurance-margins-fall-amid-rule-risks",
+      "ingestedAt": "2026-09-03T11:35:46+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "swissre-cyber-gap-20260903",
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "瑞再：2026年全球网络险保费估164亿美元 亚太仅占一成 费率连跌四年 [EN原文]",
+        "tc": "瑞再：2026年全球網絡險保費估164億美元 亞太僅佔一成 費率連跌四年 [EN原文]"
+      },
+      "summary": {
+        "sc": "瑞再年度报告估计2026年全球网络险保费164亿美元，亚太仅占10%、费率连跌四年且跌幅由13%收窄至5%。AI主要放大既有风险而非创造新损失类型，相关索赔仍有限；大型企业保额缺口突出，部分或需倍增保额。",
+        "tc": "瑞再年度報告估計2026年全球網絡險保費164億美元，亞太僅佔10%、費率連跌四年且跌幅由13%收窄至5%。AI主要放大既有風險而非創造新損失類型，相關索賠仍有限；大型企業保額缺口突出，部分或需倍增保額。"
+      },
+      "why": {
+        "sc": "网络险费率下行与AI风险敞口扩大并存，亚太渗透率远低于欧美，是企业客户网络保障缺口评估、再保安排与新产品机会的重要基准数据。",
+        "tc": "網絡險費率下行與AI風險敞口擴大並存，亞太滲透率遠低於歐美，是企業客戶網絡保障缺口評估、再保安排與新產品機會的重要基準數據。"
+      },
+      "actions": {
+        "front": {
+          "sc": "企业客户网络险缺口沟通素材",
+          "tc": "企業客戶網絡險缺口溝通素材"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "网络险定价与承保趋势跟踪",
+          "tc": "網絡險定價與承保趨勢跟蹤"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 0,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "InsuranceAsia 保险亚洲",
+        "lang": "en"
+      },
+      "boards": [
+        "tech",
+        "market"
+      ],
+      "themes": [
+        "cyber",
+        "ai"
+      ],
+      "tags": {
+        "sc": [
+          "瑞再",
+          "网络保险",
+          "网络风险",
+          "AI",
+          "保障缺口"
+        ],
+        "tc": [
+          "瑞再",
+          "網絡保險",
+          "網絡風險",
+          "AI",
+          "保障缺口"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-03T05:45:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/cyber-protection-gap-widens-digital-dependence-grows",
+      "ingestedAt": "2026-09-03T11:35:46+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "samsung-insurers-ma-canopius-principal-20260903",
+      "clusterCount": 1,
+      "score": 64,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusiness",
+      "title": {
+        "sc": "三星旗下保险公司洽购Canopius余下股权并入股Principal Financial 涉资最高58亿美元 [EN原文]",
+        "tc": "三星旗下保險公司洽購Canopius餘下股權並入股Principal Financial 涉資最高58億美元 [EN原文]"
+      },
+      "summary": {
+        "sc": "韩媒引述：三星火灾海上保险拟以约20亿至22亿美元收购承保商Canopius余下60%股权(现持40%)；三星人寿洽购Principal Financial约15%股权(涉36亿至44亿美元)。",
+        "tc": "韓媒引述：三星火災海上保險擬以約20億至22億美元收購承保商Canopius餘下60%股權(現持40%)；三星人壽洽購Principal Financial約15%股權(涉36億至44億美元)。"
+      },
+      "why": {
+        "sc": "韩国头部险企借并购把Lloyd's亚洲最大承保平台收入囊中、并跻身美国退休资产管理巨头主要股东，显示亚洲保险资本出海提速，对Lloyd's平台股权格局及全球退休资产竞争具参考意义。",
+        "tc": "韓國頭部險企藉併購把Lloyd's亞洲最大承保平台收入囊中、並躋身美國退休資產管理巨頭主要股東，顯示亞洲保險資本出海提速，對Lloyd's平台股權格局及全球退休資產競爭具參考意義。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "亚洲险企跨境并购动向跟踪",
+          "tc": "亞洲險企跨境併購動向跟蹤"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Business 保险商业",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer",
+        "market"
+      ],
+      "themes": [
+        "ma",
+        "korea"
+      ],
+      "tags": {
+        "sc": [
+          "三星保险",
+          "Canopius",
+          "Principal",
+          "并购",
+          "韩国保险"
+        ],
+        "tc": [
+          "三星保險",
+          "Canopius",
+          "Principal",
+          "併購",
+          "韓國保險"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-03",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/samsungs-insurers-plot-record-5-8bn-ukus-buying-spree-588421.aspx",
+      "ingestedAt": "2026-09-03T11:35:46+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "picc-life-health-trails-20260903",
+      "clusterCount": 1,
+      "score": 60,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "晨星：人保集团寿险健康险新业务价值增速落后同业 长期险保费跌25% [EN原文]",
+        "tc": "晨星：人保集團壽險健康險新業務價值增速落後同業 長期險保費跌25% [EN原文]"
+      },
+      "summary": {
+        "sc": "晨星指人保集团上半年寿险、健康险新业务价值增速仅5%与1%，远低于同业11%-34%：主因依赖银保渠道且监管严控费用、分红险转型较慢，长期险保费跌25%，料2026年寿险健康险NBV仅中个位数增长。",
+        "tc": "晨星指人保集團上半年壽險、健康險新業務價值增速僅5%與1%，遠低於同業11%-34%：主因依賴銀保渠道且監管嚴控費用、分紅險轉型較慢，長期險保費跌25%，料2026年壽險健康險NBV僅中個位數增長。"
+      },
+      "why": {
+        "sc": "人保个案展示「银保依赖+费用监管+分红转型慢」对内地头部险企价值增长的拖累，叠加财险巨灾成本正常化压力，是跟踪内地保险业中期盈利与监管传导的参考样本。",
+        "tc": "人保個案展示「銀保依賴+費用監管+分紅轉型慢」對內地頭部險企價值增長的拖累，疊加財險巨災成本正常化壓力，是跟蹤內地保險業中期盈利與監管傳導的參考樣本。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "内地险企价值增长与渠道结构跟踪",
+          "tc": "內地險企價值增長與渠道結構跟蹤"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "InsuranceAsia 保险亚洲",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer",
+        "market"
+      ],
+      "themes": [
+        "analyst",
+        "mainland"
+      ],
+      "tags": {
+        "sc": [
+          "人保集团",
+          "晨星",
+          "新业务价值",
+          "银保渠道",
+          "综合成本率"
+        ],
+        "tc": [
+          "人保集團",
+          "晨星",
+          "新業務價值",
+          "銀保渠道",
+          "綜合成本率"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-03T06:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/picc-groups-life-and-health-growth-trails-peers",
+      "ingestedAt": "2026-09-03T11:35:46+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
     {
       "id": "ia-hk-flmi-exam-fraud-arrests-20260902",
       "clusterCount": 1,
@@ -51429,10 +51874,10 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 635 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 635 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 641 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 641 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 635,
+      "totalItems": 641,
       "sourceTiers": [
         {
           "tier": "official",
@@ -51451,7 +51896,7 @@ window.HKII_DATA = {
         },
         {
           "tier": "media",
-          "count": 198,
+          "count": 204,
           "label": "媒体报道"
         },
         {
@@ -51570,7 +52015,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "cross-border",
-          "count": 42,
+          "count": 43,
           "label": "跨境"
         },
         {
@@ -51580,8 +52025,8 @@ window.HKII_DATA = {
         }
       ],
       "dateRange": {
-        "sc": "2013-03-05 ~ 2026-09-02",
-        "tc": "2013-03-05 ~ 2026-09-02"
+        "sc": "2013-03-05 ~ 2026-09-03",
+        "tc": "2013-03-05 ~ 2026-09-03"
       }
     },
     "marketData": {

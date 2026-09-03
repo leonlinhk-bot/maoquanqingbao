@@ -1,9 +1,87 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-02T08:53:28Z",
-  "itemCount": 635,
+  "generatedAt": "2026-09-03T03:37:36Z",
+  "itemCount": 641,
   "items": [
+    {
+      "id": "hkfi-tax-rumor-response-20260903",
+      "title": "香港保险业联会回应「内地拟对境外保单收益征20%个税」传闻：相关部门未发正式文件 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "mainland-tax",
+        "cross-border"
+      ],
+      "publishedAt": "2026-09-03",
+      "score": 63,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkfi-tax-rumor-response-20260903",
+      "originalUrl": "https://www.gmt8press.com/flash/detail/1502684"
+    },
+    {
+      "id": "aia-hk-hedgefunds-cautious-20260903",
+      "title": "富瑞：香港对冲基金对友邦新业务价值转审慎 国际长仓视回调为买点 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "aia",
+        "analyst"
+      ],
+      "publishedAt": "2026-09-03T06:15:00+08:00",
+      "score": 63,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-hk-hedgefunds-cautious-20260903",
+      "originalUrl": "https://insuranceasia.com/insurance/news/aia-growth-concerns-keep-hong-kong-hedge-funds-cautious"
+    },
+    {
+      "id": "ncl-bancassurance-margin-20260903",
+      "title": "新华保险次季新业务价值同比跌8% 银保价值率降至22% 下半年盈利承压 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "bancassurance",
+        "mainland"
+      ],
+      "publishedAt": "2026-09-03T06:30:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ncl-bancassurance-margin-20260903",
+      "originalUrl": "https://insuranceasia.com/insurance/news/new-china-life-bancassurance-margins-fall-amid-rule-risks"
+    },
+    {
+      "id": "swissre-cyber-gap-20260903",
+      "title": "瑞再：2026年全球网络险保费估164亿美元 亚太仅占一成 费率连跌四年 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "cyber",
+        "ai"
+      ],
+      "publishedAt": "2026-09-03T05:45:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=swissre-cyber-gap-20260903",
+      "originalUrl": "https://insuranceasia.com/insurance/news/cyber-protection-gap-widens-digital-dependence-grows"
+    },
+    {
+      "id": "samsung-insurers-ma-canopius-principal-20260903",
+      "title": "三星旗下保险公司洽购Canopius余下股权并入股Principal Financial 涉资最高58亿美元 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ma",
+        "korea"
+      ],
+      "publishedAt": "2026-09-03",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=samsung-insurers-ma-canopius-principal-20260903",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/samsungs-insurers-plot-record-5-8bn-ukus-buying-spree-588421.aspx"
+    },
+    {
+      "id": "picc-life-health-trails-20260903",
+      "title": "晨星：人保集团寿险健康险新业务价值增速落后同业 长期险保费跌25% [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "analyst",
+        "mainland"
+      ],
+      "publishedAt": "2026-09-03T06:00:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=picc-life-health-trails-20260903",
+      "originalUrl": "https://insuranceasia.com/insurance/news/picc-groups-life-and-health-growth-trails-peers"
+    },
     {
       "id": "ia-hk-flmi-exam-fraud-arrests-20260902",
       "title": "保监局与警方联合执法拘15人 涉FLMI资格考试作弊 即停该资格作发牌学历 [EN原文]",
