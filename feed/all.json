@@ -1,9 +1,61 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-03T03:37:36Z",
-  "itemCount": 641,
+  "generatedAt": "2026-09-03T10:12:03Z",
+  "itemCount": 645,
   "items": [
+    {
+      "id": "iaa-picc-pc-catastrophe-20260903",
+      "title": "人保财险中期盈利升32% 晨星警示巨灾损失及定价压力回归 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "analyst",
+        "mainland"
+      ],
+      "publishedAt": "2026-09-03T17:35:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-picc-pc-catastrophe-20260903",
+      "originalUrl": "https://insuranceasia.com/insurance/news/picc-property-and-casualty-faces-renewed-catastrophe-pressure"
+    },
+    {
+      "id": "hkma-bank-scam-alert-20260903",
+      "title": "金管局防诈警示：六银行现钓鱼讯息、钓鱼电邮及假冒网站 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "publishedAt": "2026-09-03",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-bank-scam-alert-20260903",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260903-3/"
+    },
+    {
+      "id": "ibm-lloyds-h1-2026-softening-20260903",
+      "title": "劳合社H1风险调整费率降6.7% 软化速度近倍 承保纪律成焦点 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "rate-cycle",
+        "lloyds"
+      ],
+      "publishedAt": "2026-09-03",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-lloyds-h1-2026-softening-20260903",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/lloyds-rates-fell-6-7-in-h1--nearly-twice-the-pace-of-last-year--brokers-should-be-watching-588465.aspx"
+    },
+    {
+      "id": "ibm-reinsurers-record-capital-20260903",
+      "title": "再保资本创6880亿美元新高 2027续转料成十年最强买方市场 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "rate-cycle"
+      ],
+      "publishedAt": "2026-09-03",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-reinsurers-record-capital-20260903",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/reinsurers-enter-2027-renewals-with-record-capital-588494.aspx"
+    },
     {
       "id": "hkfi-tax-rumor-response-20260903",
       "title": "香港保险业联会回应「内地拟对境外保单收益征20%个税」传闻：相关部门未发正式文件 [EN原文]",

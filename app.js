@@ -1,11 +1,11 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-03T11:35:46+08:00",
-    "itemCount": 641,
+    "generatedAt": "2026-09-03T18:10:00+08:00",
+    "itemCount": 645,
     "windowNote": {
-      "sc": "本库641条。",
-      "tc": "本庫641條。"
+      "sc": "本库645条。",
+      "tc": "本庫645條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -264,6 +264,304 @@ window.HKII_DATA = {
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "iaa-picc-pc-catastrophe-20260903",
+      "clusterCount": 1,
+      "score": 60,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "人保财险中期盈利升32% 晨星警示巨灾损失及定价压力回归 [EN原文]",
+        "tc": "人保財險中期盈利升32% 晨星警示巨災損失及定價壓力回歸 [EN原文]"
+      },
+      "summary": {
+        "sc": "晨星报告：人保财险上半年盈利按年升32%、综合成本率改善0.8个百分点至94%，惟警告巨灾损失将正常化、非车险定价持续受压，预测2026至2028年非车险综合成本率介乎99%至100%。",
+        "tc": "晨星報告：人保財險上半年盈利按年升32%、綜合成本率改善0.8個百分點至94%，惟警告巨災損失將正常化、非車險定價持續受壓，預測2026至2028年非車險綜合成本率介乎99%至100%。"
+      },
+      "why": {
+        "sc": "内地最大财险公司的承保周期与巨灾风险走向，是港险再保定价、巨灾风险管理及中资险企对标的重要参照。",
+        "tc": "內地最大財險公司的承保週期與巨災風險走向，是港險再保定價、巨災風險管理及中資險企對標的重要參照。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "跟踪内地财险承保周期与巨灾压力",
+          "tc": "跟蹤內地財險承保週期與巨災壓力"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "InsuranceAsia 保险亚洲",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer",
+        "market"
+      ],
+      "themes": [
+        "analyst",
+        "mainland"
+      ],
+      "tags": {
+        "sc": [
+          "人保财险",
+          "晨星",
+          "巨灾",
+          "综合成本率",
+          "非车险"
+        ],
+        "tc": [
+          "人保財險",
+          "晨星",
+          "巨災",
+          "綜合成本率",
+          "非車險"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-03T17:35:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/picc-property-and-casualty-faces-renewed-catastrophe-pressure",
+      "ingestedAt": "2026-09-03T18:10:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "hkma-bank-scam-alert-20260903",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "金管局防诈警示：六银行现钓鱼讯息、钓鱼电邮及假冒网站 [EN原文]",
+        "tc": "金管局防詐警示：六銀行現釣魚訊息、釣魚電郵及假冒網站 [EN原文]"
+      },
+      "summary": {
+        "sc": "金管局汇总六家银行骗案通报：中银香港现钓鱼即时讯息、星展现钓鱼电邮，东亚、上海商业银行、创兴及集友均现假冒网站及网银登入画面，提醒公众勿经讯息内嵌链接登入银行或交出密码及一次性验证码。",
+        "tc": "金管局匯總六家銀行騙案通報：中銀香港現釣魚即時訊息、星展現釣魚電郵，東亞、上海商業銀行、創興及集友均現假冒網站及網銀登入畫面，提醒公眾勿經訊息內嵌連結登入銀行或交出密碼及一次性驗證碼。"
+      },
+      "why": {
+        "sc": "中银香港、集友等均为港险银保主力渠道，银行户口安全直接牵动保单缴费与理赔资金链；前线宜主动提醒客户辨伪防诈。",
+        "tc": "中銀香港、集友等均為港險銀保主力渠道，銀行戶口安全直接牽動保單繳費與理賠資金鏈；前線宜主動提醒客戶辨偽防詐。"
+      },
+      "actions": {
+        "front": {
+          "sc": "提醒客户勿点短信/电邮内嵌链接，遇骗向银行及警方2860 5012报案",
+          "tc": "提醒客戶勿點短訊/電郵內嵌連結，遇騙向銀行及警方2860 5012報案"
+        },
+        "midback": {
+          "sc": "将防诈提示纳入客户服务及续保沟通SOP",
+          "tc": "將防詐提示納入客戶服務及續保溝通SOP"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "香港金融管理局 HKMA",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "tags": {
+        "sc": [
+          "金管局",
+          "中银香港",
+          "假冒网站",
+          "钓鱼",
+          "防诈"
+        ],
+        "tc": [
+          "金管局",
+          "中銀香港",
+          "假冒網站",
+          "釣魚",
+          "防詐"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-03",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260903-3/",
+      "ingestedAt": "2026-09-03T18:10:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ibm-lloyds-h1-2026-softening-20260903",
+      "clusterCount": 1,
+      "score": 64,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusiness",
+      "title": {
+        "sc": "劳合社H1风险调整费率降6.7% 软化速度近倍 承保纪律成焦点 [EN原文]",
+        "tc": "勞合社H1風險調整費率降6.7% 軟化速度近倍 承保紀律成焦點 [EN原文]"
+      },
+      "summary": {
+        "sc": "劳合社中期毛保费升6.9%至347亿英镑、综合成本率90.8%优于去年同期的92.5%；惟风险调整费率按年降6.7%（2025年同期-3.5%），剔除巨灾偏轻及储备释放后的底层综合成本率由82.1%升至84%，巨灾、网络及专业线软化最快。",
+        "tc": "勞合社中期毛保費升6.9%至347億英鎊、綜合成本率90.8%優於去年同期的92.5%；惟風險調整費率按年降6.7%（2025年同期-3.5%），剔除巨災偏輕及儲備釋放後的底層綜合成本率由82.1%升至84%，巨災、網絡及專業線軟化最快。"
+      },
+      "why": {
+        "sc": "劳合社是香港专业分保及高净值复杂风险的主要承保来源，费率软化节奏直接影响本地经纪安排策略与2027续转定价预期。",
+        "tc": "勞合社是香港專業分保及高淨值複雜風險的主要承保來源，費率軟化節奏直接影響本地經紀安排策略與2027續轉定價預期。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "跟踪劳合社费率周期与承保纪律，预判分保定价",
+          "tc": "跟蹤勞合社費率週期與承保紀律，預判分保定價"
+        },
+        "cross": {
+          "sc": "复杂风险及离岸安排关注专业线费率走向",
+          "tc": "複雜風險及離岸安排關注專業線費率走向"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Business 保险商业",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "rate-cycle",
+        "lloyds"
+      ],
+      "tags": {
+        "sc": [
+          "劳合社",
+          "费率软化",
+          "综合成本率",
+          "承保纪律",
+          "再保周期"
+        ],
+        "tc": [
+          "勞合社",
+          "費率軟化",
+          "綜合成本率",
+          "承保紀律",
+          "再保週期"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-03",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/lloyds-rates-fell-6-7-in-h1--nearly-twice-the-pace-of-last-year--brokers-should-be-watching-588465.aspx",
+      "ingestedAt": "2026-09-03T18:10:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ibm-reinsurers-record-capital-20260903",
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusiness",
+      "title": {
+        "sc": "再保资本创6880亿美元新高 2027续转料成十年最强买方市场 [EN原文]",
+        "tc": "再保資本創6880億美元新高 2027續轉料成十年最強買方市場 [EN原文]"
+      },
+      "summary": {
+        "sc": "Gallagher Re中期报告：专项再保资本年中近6880亿美元创新高，非寿另类资本增至约1470亿，再保组合股本回报19.9%为十年次高；买家议价处十年最强，惟Fitch予全球再保前景「转差」、Moody's警示美国长尾责任储备发展。",
+        "tc": "Gallagher Re中期報告：專項再保資本年中近6880億美元創新高，非壽另類資本增至約1470億，再保組合股本回報19.9%為十年次高；買家議價處十年最強，惟Fitch予全球再保前景「轉差」、Moody's警示美國長尾責任儲備發展。"
+      },
+      "why": {
+        "sc": "香港定位区域再保险枢纽并推广巨灾债券，续转市况直接影响本地分出业务成本、再保竞争格局及另类资本工具环境。",
+        "tc": "香港定位區域再保險樞紐並推廣巨災債券，續轉市況直接影響本地分出業務成本、再保競爭格局及另類資本工具環境。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "关注2027续转买方市况与再保成本走势",
+          "tc": "關注2027續轉買方市況與再保成本走勢"
+        },
+        "cross": {
+          "sc": "再保/巨灾债相关跨境架构留意资本宽松窗口",
+          "tc": "再保/巨災債相關跨境架構留意資本寬鬆窗口"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Business 保险商业",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reinsurance",
+        "rate-cycle"
+      ],
+      "tags": {
+        "sc": [
+          "再保险",
+          "Gallagher Re",
+          "另类资本",
+          "续转",
+          "巨灾债券"
+        ],
+        "tc": [
+          "再保險",
+          "Gallagher Re",
+          "另類資本",
+          "續轉",
+          "巨災債券"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-03",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/reinsurers-enter-2027-renewals-with-record-capital-588494.aspx",
+      "ingestedAt": "2026-09-03T18:10:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
     {
       "id": "hkfi-tax-rumor-response-20260903",
       "clusterCount": 1,
@@ -51874,14 +52172,14 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 641 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 641 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 645 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 645 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 641,
+      "totalItems": 645,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 212,
+          "count": 213,
           "label": "监管一手"
         },
         {
@@ -51896,7 +52194,7 @@ window.HKII_DATA = {
         },
         {
           "tier": "media",
-          "count": 204,
+          "count": 207,
           "label": "媒体报道"
         },
         {
@@ -52020,7 +52318,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "reinsurance",
-          "count": 37,
+          "count": 38,
           "label": "再保险"
         }
       ],
