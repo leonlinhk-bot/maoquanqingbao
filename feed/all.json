@@ -1,9 +1,87 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-03T10:12:03Z",
-  "itemCount": 645,
+  "generatedAt": "2026-09-04T10:14:20Z",
+  "itemCount": 651,
   "items": [
+    {
+      "id": "nfra-insurance-law-amendment-draft-20260904",
+      "title": "金融监管总局就《保险法（修订草案）》征求意见：8章214条强化股东穿透与消保",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "mainland"
+      ],
+      "publishedAt": "2026-09-04",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-insurance-law-amendment-draft-20260904",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1270936&itemId=951"
+    },
+    {
+      "id": "hkma-banks-scam-alert-20260904",
+      "title": "金管局再发防诈警示：东亚、上海商业银行及华侨香港现假冒网站与网银登入画面 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "publishedAt": "2026-09-04",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-banks-scam-alert-20260904",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260904-3/"
+    },
+    {
+      "id": "hkma-senior-appointment-gc-20260904",
+      "title": "金管局委任Mayanna To出任法律总顾问（总裁级） 明年2月接替退休的Karen Kemp [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "career",
+        "people"
+      ],
+      "publishedAt": "2026-09-04",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-senior-appointment-gc-20260904",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260904-4/"
+    },
+    {
+      "id": "iaa-aia-wealth-elite3-20260904",
+      "title": "友邦香港推「财富恒裕3」分红终身寿险 专攻高净值客户传承需求 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "hnw",
+        "wealth-transfer"
+      ],
+      "publishedAt": "2026-09-04T05:45:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-aia-wealth-elite3-20260904",
+      "originalUrl": "https://insuranceasia.com/insurance/news/aia-launches-new-wealth-plan-23-lack-succession-prep"
+    },
+    {
+      "id": "iaa-ambest-apac-reinsurers-20260904",
+      "title": "AM Best：亚太再保2025年收入回升4% 海外非比例业务成引擎 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "analyst"
+      ],
+      "publishedAt": "2026-09-04T05:00:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-ambest-apac-reinsurers-20260904",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/asia-pacific-reinsurers-lean-overseas-pricing-softens"
+    },
+    {
+      "id": "iaa-zurich-apac-commercial-20260904",
+      "title": "苏黎世重组亚太商业险高层：新设跨国业务与自保公司主管一职 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "career",
+        "captive"
+      ],
+      "publishedAt": "2026-09-04T06:00:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-zurich-apac-commercial-20260904",
+      "originalUrl": "https://insuranceasia.com/insurance/news/zurich-reshapes-apac-commercial-insurance-leadership"
+    },
     {
       "id": "iaa-picc-pc-catastrophe-20260903",
       "title": "人保财险中期盈利升32% 晨星警示巨灾损失及定价压力回归 [EN原文]",

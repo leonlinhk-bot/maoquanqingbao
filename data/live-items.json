@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-03T18:10:00+08:00",
-    "itemCount": 645,
+    "generatedAt": "2026-09-04T18:20:00+08:00",
+    "itemCount": 651,
     "windowNote": {
-      "sc": "本库645条。",
-      "tc": "本庫645條。"
+      "sc": "本库651条。",
+      "tc": "本庫651條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -264,6 +264,452 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "nfra-insurance-law-amendment-draft-20260904",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "nfra",
+      "title": {
+        "sc": "金融监管总局就《保险法（修订草案）》征求意见：8章214条强化股东穿透与消保",
+        "tc": "金融監管總局就《保險法（修訂草案）》徵求意見：8章214條強化股東穿透與消保"
+      },
+      "summary": {
+        "sc": "金融监管总局就《保险法（修订草案征求意见稿）》公开征求意见：草案共8章214条，涵盖股东穿透监管、审慎监管、风险处置、消费者保护与提高违法成本五大方向，意见反馈于10月3日截止。",
+        "tc": "金融監管總局就《保險法（修訂草案徵求意見稿）》公開徵求意見：草案共8章214條，涵蓋股東穿透監管、審慎監管、風險處置、消費者保護與提高違法成本五大方向，意見反饋於10月3日截止。"
+      },
+      "why": {
+        "sc": "内地是港险最大客源地，保险法修订将重塑机构监管、资金运用与销售行为规则，牵动跨境投保的监管语境与合规预期，持牌中介宜持续跟踪立法走向。",
+        "tc": "內地是港險最大客源地，保險法修訂將重塑機構監管、資金運用與銷售行為規則，牽動跨境投保的監管語境與合規預期，持牌中介宜持續跟蹤立法走向。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "留意修订对跨境销售合规及宣传口径的潜在影响",
+          "tc": "留意修訂對跨境銷售合規及宣傳口徑的潛在影響"
+        },
+        "lead": {
+          "sc": "提示团队跟进内地监管立法动向",
+          "tc": "提示團隊跟進內地監管立法動向"
+        },
+        "cross": {
+          "sc": "评估对内地客户赴港投保合规预期的中长期影响",
+          "tc": "評估對內地客戶赴港投保合規預期的中長期影響"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "国家金融监督管理总局 NFRA",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "reg",
+        "mainland"
+      ],
+      "tags": {
+        "sc": [
+          "保险法",
+          "金融监管总局",
+          "征求意见",
+          "内地监管"
+        ],
+        "tc": [
+          "保險法",
+          "金融監管總局",
+          "徵求意見",
+          "內地監管"
+        ]
+      },
+      "contentKind": "circular",
+      "publishedAt": "2026-09-04",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1270936&itemId=951",
+      "ingestedAt": "2026-09-04T18:20:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "hkma-banks-scam-alert-20260904",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "金管局再发防诈警示：东亚、上海商业银行及华侨香港现假冒网站与网银登入画面 [EN原文]",
+        "tc": "金管局再發防詐警示：東亞、上海商業銀行及華僑香港現假冒網站與網銀登入畫面 [EN原文]"
+      },
+      "summary": {
+        "sc": "金管局汇总三家银行骗案通报：东亚银行、上海商业银行及华侨银行（香港）现假冒网站及网银登入画面；提醒公众银行不会经短讯或电邮内嵌链接引导登入或索取密码及一次性验证码，怀疑受骗应即联络银行并报警。",
+        "tc": "金管局匯總三家銀行騙案通報：東亞銀行、上海商業銀行及華僑銀行（香港）現假冒網站及網銀登入畫面；提醒公眾銀行不會經短訊或電郵內嵌連結引導登入或索取密碼及一次性驗證碼，懷疑受騙應即聯絡銀行並報警。"
+      },
+      "why": {
+        "sc": "前一日刚点名六行、今日再涉三行，假冒银行网站更新频繁；银行户口是保单缴费与理赔资金链入口，前线宜持续提醒客户辨伪防诈。",
+        "tc": "前一日剛點名六行、今日再涉三行，假冒銀行網站更新頻繁；銀行戶口是保單繳費與理賠資金鏈入口，前線宜持續提醒客戶辨偽防詐。"
+      },
+      "actions": {
+        "front": {
+          "sc": "提醒客户核实银行网址、勿点短讯/电邮内嵌链接，遇骗联络银行并向警方报案",
+          "tc": "提醒客戶核實銀行網址、勿點短訊/電郵內嵌連結，遇騙聯絡銀行並向警方報案"
+        },
+        "midback": {
+          "sc": "将最新假冒银行名单纳入客户防诈提醒素材",
+          "tc": "將最新假冒銀行名單納入客戶防詐提醒素材"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "香港金融管理局 HKMA",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "tags": {
+        "sc": [
+          "金管局",
+          "东亚银行",
+          "上海商业银行",
+          "华侨银行",
+          "防诈"
+        ],
+        "tc": [
+          "金管局",
+          "東亞銀行",
+          "上海商業銀行",
+          "華僑銀行",
+          "防詐"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-04",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260904-3/",
+      "ingestedAt": "2026-09-04T18:20:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "hkma-senior-appointment-gc-20260904",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "金管局委任Mayanna To出任法律总顾问（总裁级） 明年2月接替退休的Karen Kemp [EN原文]",
+        "tc": "金管局委任Mayanna To出任法律總顧問（總裁級） 明年2月接替退休的Karen Kemp [EN原文]"
+      },
+      "summary": {
+        "sc": "金管局宣布财政司司长批准委任Mayanna To为法律总顾问（总裁级），2027年2月12日生效，接替将退休的Karen Kemp，负责就金管局职能提供法律意见。",
+        "tc": "金管局宣佈財政司司長批准委任Mayanna To為法律總顧問（總裁級），2027年2月12日生效，接替將退休的Karen Kemp，負責就金管局職能提供法律意見。"
+      },
+      "why": {
+        "sc": "金管局是港险银保渠道与存款保障体系的主要监管者，法务掌舵人换届属机构治理关键人事，可供把握与监管机构沟通的窗口节奏。",
+        "tc": "金管局是港險銀保渠道與存款保障體系的主要監管者，法務掌舵人換屆屬機構治理關鍵人事，可供把握與監管機構溝通的窗口節奏。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "知悉监管机构高层更替节奏，把握沟通窗口",
+          "tc": "知悉監管機構高層更替節奏，把握溝通窗口"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "香港金融管理局 HKMA",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "career",
+        "people"
+      ],
+      "tags": {
+        "sc": [
+          "金管局",
+          "高层任命",
+          "法律总顾问",
+          "人事"
+        ],
+        "tc": [
+          "金管局",
+          "高層任命",
+          "法律總顧問",
+          "人事"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-04",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260904-4/",
+      "ingestedAt": "2026-09-04T18:20:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "iaa-aia-wealth-elite3-20260904",
+      "clusterCount": 1,
+      "score": 60,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "友邦香港推「财富恒裕3」分红终身寿险 专攻高净值客户传承需求 [EN原文]",
+        "tc": "友邦香港推「財富恆裕3」分紅終身壽險 專攻高淨值客戶傳承需求 [EN原文]"
+      },
+      "summary": {
+        "sc": "友邦香港推出高净值客户专属的分红终身寿险「财富恒裕3」，特定条件下保障额可超总保费六倍，并设保单分拆、后续持有人、预设指示及身故赔偿分期等传承安排，亦可参与保单逆按揭计划。",
+        "tc": "友邦香港推出高淨值客戶專屬的分紅終身壽險「財富恆裕3」，特定條件下保障額可超總保費六倍，並設保單分拆、後續持有人、預設指示及身故賠償分期等傳承安排，亦可參與保單逆按揭計劃。"
+      },
+      "why": {
+        "sc": "高净值传承是港险主力赛道：友邦将保单分拆、身故金分期等安排标准化，部分对标家族信托功能，前线谈资与同业竞品参照价值兼备。",
+        "tc": "高淨值傳承是港險主力賽道：友邦將保單分拆、身故金分期等安排標準化，部分對標家族信託功能，前線談資與同業競品參照價值兼備。"
+      },
+      "actions": {
+        "front": {
+          "sc": "以「长寿缺口+23%高净值人士无传承安排」作高客需求对谈切入点",
+          "tc": "以「長壽缺口+23%高淨值人士無傳承安排」作高客需求對談切入點"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "纳入HNW产品竞赛对标（保单分拆/后续持有人渐成标配）",
+          "tc": "納入HNW產品競賽對標（保單分拆/後續持有人漸成標配）"
+        },
+        "cross": {
+          "sc": "留意保单逆按揭与跨境高客退休收入的衔接场景",
+          "tc": "留意保單逆按揭與跨境高客退休收入的銜接場景"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 0,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "InsuranceAsia News",
+        "lang": "en"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "hnw",
+        "wealth-transfer"
+      ],
+      "tags": {
+        "sc": [
+          "友邦",
+          "财富恒裕3",
+          "高净值",
+          "财富传承",
+          "终身寿险"
+        ],
+        "tc": [
+          "友邦",
+          "財富恆裕3",
+          "高淨值",
+          "財富傳承",
+          "終身壽險"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-04T05:45:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/aia-launches-new-wealth-plan-23-lack-succession-prep",
+      "ingestedAt": "2026-09-04T18:20:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "iaa-ambest-apac-reinsurers-20260904",
+      "clusterCount": 1,
+      "score": 60,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "AM Best：亚太再保2025年收入回升4% 海外非比例业务成引擎 [EN原文]",
+        "tc": "AM Best：亞太再保2025年收入回升4% 海外非比例業務成引擎 [EN原文]"
+      },
+      "summary": {
+        "sc": "AM Best报告指亚太再保公司2025年净保险服务收入按年回升4%、综合成本率92%，海外非比例业务成增长引擎；预期2026年续转季供给充裕、费率续降，2027年未受损失影响的合约费率料进一步回落。",
+        "tc": "AM Best報告指亞太再保公司2025年淨保險服務收入按年回升4%、綜合成本率92%，海外非比例業務成增長引擎；預期2026年續轉季供給充裕、費率續降，2027年未受損失影響的合約費率料進一步回落。"
+      },
+      "why": {
+        "sc": "再保周期直接传导港险直保公司的分保成本与定价空间，续转议价环境对中介机构为客户争取条件具参照意义。",
+        "tc": "再保週期直接傳導港險直保公司的分保成本與定價空間，續轉議價環境對中介機構為客戶爭取條件具參照意義。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "掌握再保费率环境，评估对在售产品定价与分保安排的影响",
+          "tc": "掌握再保費率環境，評估對在售產品定價與分保安排的影響"
+        },
+        "lead": {
+          "sc": "跟踪2026/27续转费率走向",
+          "tc": "跟蹤2026/27續轉費率走向"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "InsuranceAsia News",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reinsurance",
+        "analyst"
+      ],
+      "tags": {
+        "sc": [
+          "AM Best",
+          "亚太再保",
+          "续转",
+          "费率",
+          "再保险"
+        ],
+        "tc": [
+          "AM Best",
+          "亞太再保",
+          "續轉",
+          "費率",
+          "再保險"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-04T05:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/asia-pacific-reinsurers-lean-overseas-pricing-softens",
+      "ingestedAt": "2026-09-04T18:20:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "iaa-zurich-apac-commercial-20260904",
+      "clusterCount": 1,
+      "score": 60,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "苏黎世重组亚太商业险高层：新设跨国业务与自保公司主管一职 [EN原文]",
+        "tc": "蘇黎世重組亞太商業險高層：新設跨國業務與自保公司主管一職 [EN原文]"
+      },
+      "summary": {
+        "sc": "苏黎世保险委任Dylan Bryant为新设的亚太区跨国业务与自保主管，统一统筹跨国保单与自保业务；Patrick Fyson则出任亚洲财产险主管。",
+        "tc": "蘇黎世保險委任Dylan Bryant為新設的亞太區跨國業務與自保主管，統一統籌跨國保單與自保業務；Patrick Fyson則出任亞洲財產險主管。"
+      },
+      "why": {
+        "sc": "跨国企业保单与自保方案首次由单一主管统筹，反映商业客户跨境风险管理需求上升；香港作为跨国保单枢纽及自保中心，相关生态动向值得跟踪。",
+        "tc": "跨國企業保單與自保方案首次由單一主管統籌，反映商業客戶跨境風險管理需求上升；香港作為跨國保單樞紐及自保中心，相關生態動向值得跟蹤。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {},
+        "cross": {
+          "sc": "关注跨国保单/自保统筹趋势对香港枢纽地位及中介分工的影响",
+          "tc": "關注跨國保單/自保統籌趨勢對香港樞紐地位及中介分工的影響"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 0,
+        "cross": 1
+      },
+      "source": {
+        "sc": "InsuranceAsia News",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "career",
+        "captive"
+      ],
+      "tags": {
+        "sc": [
+          "苏黎世",
+          "亚太商业险",
+          "自保公司",
+          "跨国保单",
+          "人事"
+        ],
+        "tc": [
+          "蘇黎世",
+          "亞太商業險",
+          "自保公司",
+          "跨國保單",
+          "人事"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-04T06:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/zurich-reshapes-apac-commercial-insurance-leadership",
+      "ingestedAt": "2026-09-04T18:20:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
     {
       "id": "iaa-picc-pc-catastrophe-20260903",
       "clusterCount": 1,
@@ -52172,14 +52618,14 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 645 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 645 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 651 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 651 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 645,
+      "totalItems": 651,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 213,
+          "count": 216,
           "label": "监管一手"
         },
         {
@@ -52194,7 +52640,7 @@
         },
         {
           "tier": "media",
-          "count": 207,
+          "count": 210,
           "label": "媒体报道"
         },
         {
@@ -52278,7 +52724,7 @@
         },
         {
           "theme": "reg",
-          "count": 118,
+          "count": 119,
           "label": "监管"
         },
         {
@@ -52318,13 +52764,13 @@
         },
         {
           "theme": "reinsurance",
-          "count": 38,
+          "count": 39,
           "label": "再保险"
         }
       ],
       "dateRange": {
-        "sc": "2013-03-05 ~ 2026-09-03",
-        "tc": "2013-03-05 ~ 2026-09-03"
+        "sc": "2013-03-05 ~ 2026-09-04",
+        "tc": "2013-03-05 ~ 2026-09-04"
       }
     },
     "marketData": {
