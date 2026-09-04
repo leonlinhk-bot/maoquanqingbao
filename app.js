@@ -1,11 +1,11 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-04T18:20:00+08:00",
-    "itemCount": 651,
+    "generatedAt": "2026-09-05T04:30:00+08:00",
+    "itemCount": 654,
     "windowNote": {
-      "sc": "本库651条。",
-      "tc": "本庫651條。"
+      "sc": "本库654条。",
+      "tc": "本庫654條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -264,6 +264,226 @@ window.HKII_DATA = {
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "hkma-contactless-payment-binding-alert-20260904",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "金管局防诈警示：骗徒套取银行卡资料诱批准绑卡至非接触式手机支付 再盗刷 [EN原文]",
+        "tc": "金管局防詐警示：騙徒套取銀行卡資料誘批准綁卡至非接觸式手機支付 再盜刷 [EN原文]"
+      },
+      "summary": {
+        "sc": "金管局接银行通报：骗徒假扮商户或机构，经钓鱼讯息、假冒网站或来电，以退款补偿等借口骗取银行卡资料及提款卡PIN码，再诱使受害人经手机银行或双向短讯批准将卡绑定至非接触式手机支付，继而作未经授权交易。提醒公众勿点不明连结、勿向任何人透露卡资料及一次性验证码，拒绝非本人发起的绑卡请求，受骗即联络银行并报警。",
+        "tc": "金管局接銀行通報：騙徒假扮商戶或機構，經釣魚訊息、假冒網站或來電，以退款補償等藉口騙取銀行卡資料及提款卡PIN碼，再誘使受害人經手機銀行或雙向短訊批准將卡綁定至非接觸式手機支付，繼而作未經授權交易。提醒公眾勿點不明連結、勿向任何人透露卡資料及一次性驗證碼，拒絶非本人發起的綁卡請求，受騙即聯絡銀行並報警。"
+      },
+      "why": {
+        "sc": "绑卡类新诈骗手法直指非接触式手机支付绑卡环节，银行户口多与保单缴费资金链相连，前线可将金管局防诈指引纳入客户提醒话术。",
+        "tc": "綁卡類新詐騙手法直指非接觸式手機支付綁卡環節，銀行戶口多與保單繳費資金鏈相連，前線可將金管局防詐指引納入客戶提醒話術。"
+      },
+      "actions": {
+        "front": {
+          "sc": "提醒客户勿批准非本人发起的绑卡请求，勿向他人透露银行卡资料、PIN码及一次性验证码",
+          "tc": "提醒客戶勿批准非本人發起的綁卡請求，勿向他人透露銀行卡資料、PIN碼及一次性驗證碼"
+        },
+        "midback": {
+          "sc": "将绑卡骗案手法纳入客户防诈提醒素材",
+          "tc": "將綁卡騙案手法納入客戶防詐提醒素材"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "香港金融管理局 HKMA",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "tags": {
+        "sc": [
+          "金管局",
+          "防诈",
+          "银行卡绑定",
+          "非接触式手机支付",
+          "钓鱼"
+        ],
+        "tc": [
+          "金管局",
+          "防詐",
+          "銀行卡綁定",
+          "非接觸式手機支付",
+          "釣魚"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-04",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260904-6/",
+      "ingestedAt": "2026-09-05T04:30:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "hkma-hkicl-fraud-alert-20260904",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "HKICL警示假冒网站kichkfips[.]com 冒充「买家网上保障」经FPS套取个人及银行资料 [EN原文]",
+        "tc": "HKICL警示假冒網站kichkfips[.]com 冒充「買家網上保障」經FPS套取個人及銀行資料 [EN原文]"
+      },
+      "summary": {
+        "sc": "金管局辖下香港银行同业结算公司(HKICL)发现假冒网站kichkfips[.]com冒充其机构，假称提供「买家网上保障」退款及未经授权交易申报服务，诱导用户提供证件号码、证件相片及电话作实名认证，并套取银行名称、户口及持有人资料经转数快(FPS)充值提现。HKICL重申不会直接向公众提供FPS服务，官方网址仅hkicl.com.hk及fps.hkicl.com.hk。",
+        "tc": "金管局轄下香港銀行同業結算公司(HKICL)發現假冒網站kichkfips[.]com冒充其機構，假稱提供「買家網上保障」退款及未經授權交易申報服務，誘導用戶提供證件號碼、證件相片及電話作實名認證，並套取銀行名稱、戶口及持有人資料經轉數快(FPS)充值提現。HKICL重申不會直接向公眾提供FPS服務，官方網址僅hkicl.com.hk及fps.hkicl.com.hk。"
+      },
+      "why": {
+        "sc": "假冒结算机构与退款平台的新域名再度冒头，直指FPS转账环节；保费缴付多经转数快，客户防诈教育可同步引用。",
+        "tc": "假冒結算機構與退款平台的新域名再度冒頭，直指FPS轉賬環節；保費繳付多經轉數快，客戶防詐教育可同步引用。"
+      },
+      "actions": {
+        "front": {
+          "sc": "提醒客户核实HKICL/FPS官方网址，勿向自称平台客服人士提供证件及银行户口资料",
+          "tc": "提醒客戶核實HKICL/FPS官方網址，勿向自稱平台客服人士提供證件及銀行戶口資料"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 0,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "香港金融管理局 HKMA",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "tags": {
+        "sc": [
+          "金管局",
+          "HKICL",
+          "假冒网站",
+          "转数快防诈",
+          "买家网上保障"
+        ],
+        "tc": [
+          "金管局",
+          "HKICL",
+          "假冒網站",
+          "轉數快防詐",
+          "買家網上保障"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-04",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260904-5/",
+      "ingestedAt": "2026-09-05T04:30:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ambest-china-nonlife-stable-20260904",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "ambest",
+      "title": {
+        "sc": "AM Best维持中国非寿险展望「稳定」：监管强化+数位创新支撑 惟承保利润薄 [EN原文]",
+        "tc": "AM Best維持中國非壽險展望「穩定」：監管強化+數碼創新支撐 惟承保利潤薄 [EN原文]"
+      },
+      "summary": {
+        "sc": "AM Best市场细分报告维持中国非寿险业前景「稳定」：对财产及责任等非车险线的监管强化，有助定价纪律、分销规范与审慎经营；「十五五」科技/绿色/普惠/养老/数字金融及中国利益海外业务提供新增长点。惟行业承保利润率薄、盈利倚重投资收益，险企重心由规模增长转向可持续盈利与运营效率。",
+        "tc": "AM Best市場細分報告維持中國非壽險業前景「穩定」：對財產及責任等非車險線的監管強化，有助定價紀律、分銷規範與審慎經營；「十五五」科技/綠色/普惠/養老/數字金融及中國利益海外業務提供新增長點。惟行業承保利潤率薄、盈利倚重投資收益，險企重心由規模增長轉向可持續盈利與運營效率。"
+      },
+      "why": {
+        "sc": "内地财险承保周期与监管走向是港险再保定价的参照；报告点名「中国利益」海外业务扩张或带来陌生风险，值得再保及跨境风险条线留意。",
+        "tc": "內地財險承保週期與監管走向是港險再保定價的參照；報告點名「中國利益」海外業務擴張或帶來陌生風險，值得再保及跨境風險條線留意。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "跟踪内地非寿险承保利润与「中国利益」海外业务风险",
+          "tc": "跟蹤內地非壽險承保利潤與「中國利益」海外業務風險"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "AM Best",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer",
+        "market"
+      ],
+      "themes": [
+        "analyst",
+        "mainland"
+      ],
+      "tags": {
+        "sc": [
+          "AM Best",
+          "中国非寿险",
+          "市场展望",
+          "定价纪律",
+          "再保风险"
+        ],
+        "tc": [
+          "AM Best",
+          "中國非壽險",
+          "市場展望",
+          "定價紀律",
+          "再保風險"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-04T22:00:00+08:00",
+      "originalUrl": "https://news.ambest.com/pr/PressContent.aspx?refnum=37745&altsrc=2",
+      "ingestedAt": "2026-09-05T04:30:00+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
     {
       "id": "nfra-insurance-law-amendment-draft-20260904",
       "clusterCount": 1,
@@ -52618,14 +52838,14 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 651 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 651 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 654 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 654 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 651,
+      "totalItems": 654,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 216,
+          "count": 218,
           "label": "监管一手"
         },
         {
@@ -52645,7 +52865,7 @@ window.HKII_DATA = {
         },
         {
           "tier": "pro",
-          "count": 63,
+          "count": 64,
           "label": "专业解读"
         },
         {

@@ -1,9 +1,48 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-04T10:14:20Z",
-  "itemCount": 651,
+  "generatedAt": "2026-09-04T20:20:27Z",
+  "itemCount": 654,
   "items": [
+    {
+      "id": "hkma-contactless-payment-binding-alert-20260904",
+      "title": "金管局防诈警示：骗徒套取银行卡资料诱批准绑卡至非接触式手机支付 再盗刷 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "publishedAt": "2026-09-04",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-contactless-payment-binding-alert-20260904",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260904-6/"
+    },
+    {
+      "id": "hkma-hkicl-fraud-alert-20260904",
+      "title": "HKICL警示假冒网站kichkfips[.]com 冒充「买家网上保障」经FPS套取个人及银行资料 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "publishedAt": "2026-09-04",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-hkicl-fraud-alert-20260904",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260904-5/"
+    },
+    {
+      "id": "ambest-china-nonlife-stable-20260904",
+      "title": "AM Best维持中国非寿险展望「稳定」：监管强化+数位创新支撑 惟承保利润薄 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "analyst",
+        "mainland"
+      ],
+      "publishedAt": "2026-09-04T22:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ambest-china-nonlife-stable-20260904",
+      "originalUrl": "https://news.ambest.com/pr/PressContent.aspx?refnum=37745&altsrc=2"
+    },
     {
       "id": "nfra-insurance-law-amendment-draft-20260904",
       "title": "金融监管总局就《保险法（修订草案）》征求意见：8章214条强化股东穿透与消保",
