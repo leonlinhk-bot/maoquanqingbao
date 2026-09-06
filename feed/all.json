@@ -1,9 +1,48 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-06T03:07:31Z",
-  "itemCount": 655,
+  "generatedAt": "2026-09-06T10:12:52Z",
+  "itemCount": 658,
   "items": [
+    {
+      "id": "ia-integrity-mgmt-circular-20260831",
+      "title": "保监局发通函：授权保险公司须于2027年1月1日前制定诚信管理政策 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "compliance",
+        "reg"
+      ],
+      "publishedAt": "2026-08-31",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-integrity-mgmt-circular-20260831",
+      "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_20260831_Integrity_Management_Policy.pdf"
+    },
+    {
+      "id": "iaa-sunlife-ph-wealthprosper7-20260904",
+      "title": "永明菲律宾推保证入息寿险Wealth Prosper 7 保证年派付4.5% [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "product",
+        "market"
+      ],
+      "publishedAt": "2026-09-04T09:56:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-sunlife-ph-wealthprosper7-20260904",
+      "originalUrl": "https://insuranceasia.com/insurance/news/sun-life-ph-launches-guaranteed-income-plan-45-annual-payout"
+    },
+    {
+      "id": "ibm-china-inslaw-fivefold-20260905",
+      "title": "内地拟将新设险企最低资本提高5倍至10亿元 保险法修订草案首纳股票黄金为法定投资 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reg",
+        "capital"
+      ],
+      "publishedAt": "2026-09-05",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-china-inslaw-fivefold-20260905",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/china-moves-to-raise-insurer-capital-bar-fivefold-in-biggest-insurance-law-rewrite-since-2015-588799.aspx"
+    },
     {
       "id": "nfra-bank-insurer-disclosure-method-20260904",
       "title": "金融监管总局就《银行保险机构信息披露管理办法（征求意见稿）》公开征求意见 10月3日截止",

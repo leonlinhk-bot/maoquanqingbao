@@ -630,14 +630,14 @@
       "tc": "情報密度"
     },
     "subtitle": {
-      "sc": "自动从 655 条资讯聚合 · sourceKey 标准化完成",
-      "tc": "自動從 655 條資訊聚合 · sourceKey 標準化完成"
+      "sc": "自动从 658 条资讯聚合 · sourceKey 标准化完成",
+      "tc": "自動從 658 條資訊聚合 · sourceKey 標準化完成"
     },
-    "totalItems": 655,
+    "totalItems": 658,
     "sourceTiers": [
       {
         "tier": "official",
-        "count": 219,
+        "count": 220,
         "label": "监管一手"
       },
       {
@@ -652,7 +652,7 @@
       },
       {
         "tier": "media",
-        "count": 210,
+        "count": 212,
         "label": "媒体报道"
       },
       {
@@ -731,12 +731,12 @@
     "topThemes": [
       {
         "theme": "market",
-        "count": 180,
+        "count": 181,
         "label": "市场"
       },
       {
         "theme": "reg",
-        "count": 120,
+        "count": 122,
         "label": "监管"
       },
       {
@@ -746,12 +746,12 @@
       },
       {
         "theme": "product",
-        "count": 85,
+        "count": 86,
         "label": "产品"
       },
       {
         "theme": "compliance",
-        "count": 77,
+        "count": 78,
         "label": "合规"
       },
       {
@@ -781,8 +781,8 @@
       }
     ],
     "dateRange": {
-      "sc": "2013-03-05 ~ 2026-09-04",
-      "tc": "2013-03-05 ~ 2026-09-04"
+      "sc": "2013-03-05 ~ 2026-09-05",
+      "tc": "2013-03-05 ~ 2026-09-05"
     }
   },
   "marketData": {

@@ -1,11 +1,11 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-06T11:07:29.658582+08:00",
-    "itemCount": 655,
+    "generatedAt": "2026-09-06T18:12:31.209080+08:00",
+    "itemCount": 658,
     "windowNote": {
-      "sc": "本库655条。",
-      "tc": "本庫655條。"
+      "sc": "本库658条。",
+      "tc": "本庫658條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -264,6 +264,226 @@ window.HKII_DATA = {
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "ia-integrity-mgmt-circular-20260831",
+      "clusterCount": 1,
+      "score": 88,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia_circular",
+      "title": {
+        "sc": "保监局发通函：授权保险公司须于2027年1月1日前制定诚信管理政策 [EN原文]",
+        "tc": "保監局發通函：授權保險公司須於2027年1月1日前制定誠信管理政策 [EN原文]"
+      },
+      "summary": {
+        "sc": "保监局8月31日发通函：授权保险公司须于2027年1月1日前参照附件范本制定或完善诚信管理政策，涵盖反贿赂、利益冲突、保密及违规举报配合执法；香港及指定保险公司按实体层面适用，非香港保险公司适用于其在港业务。",
+        "tc": "保監局8月31日發通函：授權保險公司須於2027年1月1日前參照附件範本制定或完善誠信管理政策，涵蓋反賄賂、利益衝突、保密及違規舉報配合執法；香港及指定保險公司按實體層面適用，非香港保險公司適用於其在港業務。"
+      },
+      "why": {
+        "sc": "诚信管理属公司治理与内控基石，通函将廉洁要求制度化并提供政策范本；中后台合规可对照范本检查现行政策与举报机制缺口，明年1月1日生效，约有四个月整改窗口。",
+        "tc": "誠信管理屬公司治理與內控基石，通函將廉潔要求制度化並提供政策範本；中後台合規可對照範本檢查現行政策與舉報機制缺口，明年1月1日生效，約有四個月整改窗口。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "对照通函附件范本自查公司诚信管理政策及违规举报机制",
+          "tc": "對照通函附件範本自查公司誠信管理政策及違規舉報機制"
+        },
+        "lead": {
+          "sc": "将诚信政策落地与董事会文化建设纳入治理议程",
+          "tc": "將誠信政策落地與董事會文化建設納入治理議程"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 2,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "香港保监局通函",
+        "lang": "en"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "compliance",
+        "reg"
+      ],
+      "tags": {
+        "sc": [
+          "诚信管理",
+          "公司治理",
+          "利益冲突",
+          "反贿赂",
+          "内控"
+        ],
+        "tc": [
+          "誠信管理",
+          "公司治理",
+          "利益衝突",
+          "反賄賂",
+          "內控"
+        ]
+      },
+      "contentKind": "circular",
+      "publishedAt": "2026-08-31",
+      "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_20260831_Integrity_Management_Policy.pdf",
+      "ingestedAt": "2026-09-06T18:12:31.209080+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "iaa-sunlife-ph-wealthprosper7-20260904",
+      "clusterCount": 1,
+      "score": 60,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "永明菲律宾推保证入息寿险Wealth Prosper 7 保证年派付4.5% [EN原文]",
+        "tc": "永明菲律賓推保證入息壽險Wealth Prosper 7 保證年派付4.5% [EN原文]"
+      },
+      "summary": {
+        "sc": "永明人寿（菲律宾）限期推出Wealth Prosper 7：保障期7年，保证每年派发整付保费之4.5%入息，期满返还100%本金，面向兼需人寿保障与稳定现金流的客户；2025年该公司赔付超8400万美元。",
+        "tc": "永明人壽（菲律賓）限期推出Wealth Prosper 7：保障期7年，保證每年派發整付保費之4.5%入息，期滿返還100%本金，面向兼需人壽保障與穩定現金流的客戶；2025年該公司賠付超8400萬美元。"
+      },
+      "why": {
+        "sc": "低息环境下「保证派息+期满保本」产品形态持续成为亚太储蓄险竞争焦点，海外同系产品动向可供观察储蓄型产品定价与客需趋势，作产品对标参照。",
+        "tc": "低息環境下「保證派息+期滿保本」產品形態持續成為亞太儲蓄險競爭焦點，海外同系產品動向可供觀察儲蓄型產品定價與客需趨勢，作產品對標參照。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "InsuranceAsia News",
+        "lang": "en"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "product",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "永明",
+          "Sun Life",
+          "保证入息",
+          "菲律宾",
+          "储蓄型寿险"
+        ],
+        "tc": [
+          "永明",
+          "Sun Life",
+          "保證入息",
+          "菲律賓",
+          "儲蓄型壽險"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-04T09:56:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/sun-life-ph-launches-guaranteed-income-plan-45-annual-payout",
+      "ingestedAt": "2026-09-06T18:12:31.209080+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ibm-china-inslaw-fivefold-20260905",
+      "clusterCount": 1,
+      "score": 65,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusiness",
+      "title": {
+        "sc": "内地拟将新设险企最低资本提高5倍至10亿元 保险法修订草案首纳股票黄金为法定投资 [EN原文]",
+        "tc": "內地擬將新設險企最低資本提高5倍至10億元 保險法修訂草案首納股票黃金為法定投資 [EN原文]"
+      },
+      "summary": {
+        "sc": "Insurance Business解读NFRA《保险法》修订草案：新设险企实缴资本下限拟由2亿提至10亿元人民币，首次将股票、黄金等纳入法定投资范围，并新增限薪限分红、资本工具减记、责令注资等处置问题险企工具。",
+        "tc": "Insurance Business解讀NFRA《保險法》修訂草案：新設險企實繳資本下限擬由2億提至10億元人民幣，首次將股票、黃金等納入法定投資範圍，並新增限薪限分紅、資本工具減記、責令注資等處置問題險企工具。"
+      },
+      "why": {
+        "sc": "注册资本门槛5倍上调将压缩中小险企准入与股权退出弹性，投资范围入法则拓宽资产端配置；关注中资保司股权与资金流向的跨境渠道，宜跟踪草案后续与配套规则走向。",
+        "tc": "註冊資本門檻5倍上調將壓縮中小險企准入與股權退出彈性，投資範圍入法則拓寬資產端配置；關注中資保司股權與資金流向的跨境渠道，宜跟蹤草案後續與配套規則走向。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "跟踪内地保险法修订进程及资本门槛配套细则",
+          "tc": "跟蹤內地保險法修訂進程及資本門檻配套細則"
+        },
+        "cross": {
+          "sc": "评估内地险企股权与资金出海对跨境架构的中长期影响",
+          "tc": "評估內地險企股權與資金出海對跨境架構的中長期影響"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Business 保险商业",
+        "lang": "en"
+      },
+      "boards": [
+        "reg",
+        "market"
+      ],
+      "themes": [
+        "reg",
+        "capital"
+      ],
+      "tags": {
+        "sc": [
+          "保险法修订",
+          "注册资本",
+          "内地监管",
+          "股权投资",
+          "处置工具"
+        ],
+        "tc": [
+          "保險法修訂",
+          "註冊資本",
+          "內地監管",
+          "股權投資",
+          "處置工具"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-05",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/china-moves-to-raise-insurer-capital-bar-fivefold-in-biggest-insurance-law-rewrite-since-2015-588799.aspx",
+      "ingestedAt": "2026-09-06T18:12:31.209080+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
     {
       "id": "nfra-bank-insurer-disclosure-method-20260904",
       "clusterCount": 1,
@@ -52916,14 +53136,14 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 655 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 655 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 658 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 658 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 655,
+      "totalItems": 658,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 219,
+          "count": 220,
           "label": "监管一手"
         },
         {
@@ -52938,7 +53158,7 @@ window.HKII_DATA = {
         },
         {
           "tier": "media",
-          "count": 210,
+          "count": 212,
           "label": "媒体报道"
         },
         {
@@ -53017,12 +53237,12 @@ window.HKII_DATA = {
       "topThemes": [
         {
           "theme": "market",
-          "count": 180,
+          "count": 181,
           "label": "市场"
         },
         {
           "theme": "reg",
-          "count": 120,
+          "count": 122,
           "label": "监管"
         },
         {
@@ -53032,12 +53252,12 @@ window.HKII_DATA = {
         },
         {
           "theme": "product",
-          "count": 85,
+          "count": 86,
           "label": "产品"
         },
         {
           "theme": "compliance",
-          "count": 77,
+          "count": 78,
           "label": "合规"
         },
         {
@@ -53067,8 +53287,8 @@ window.HKII_DATA = {
         }
       ],
       "dateRange": {
-        "sc": "2013-03-05 ~ 2026-09-04",
-        "tc": "2013-03-05 ~ 2026-09-04"
+        "sc": "2013-03-05 ~ 2026-09-05",
+        "tc": "2013-03-05 ~ 2026-09-05"
       }
     },
     "marketData": {
