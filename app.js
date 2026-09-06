@@ -1,11 +1,11 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-05T04:30:00+08:00",
-    "itemCount": 654,
+    "generatedAt": "2026-09-06T11:07:29.658582+08:00",
+    "itemCount": 655,
     "windowNote": {
-      "sc": "本库654条。",
-      "tc": "本庫654條。"
+      "sc": "本库655条。",
+      "tc": "本庫655條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -264,6 +264,84 @@ window.HKII_DATA = {
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "nfra-bank-insurer-disclosure-method-20260904",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "nfra",
+      "title": {
+        "sc": "金融监管总局就《银行保险机构信息披露管理办法（征求意见稿）》公开征求意见 10月3日截止",
+        "tc": "金融監管總局就《銀行保險機構信息披露管理辦法（徵求意見稿）》公開徵求意見 10月3日截止"
+      },
+      "summary": {
+        "sc": "金融监管总局9月4日就《银行保险机构信息披露管理办法（征求意见稿）》征求意见：吸收整合银行、保险、信托既有披露规则并统一标准，适用范围扩展至各类型银保机构；要求机构建立披露管理制度，压实董监高及股东、实控人责任，董事长为第一责任人，反馈截止10月3日。",
+        "tc": "金融監管總局9月4日就《銀行保險機構信息披露管理辦法（徵求意見稿）》徵求意見：吸收整合銀行、保險、信託既有披露規則並統一標準，適用範圍擴展至各類型銀保機構；要求機構建立披露管理制度，壓實董監高及股東、實控人責任，董事長為第一責任人，反饋截止10月3日。"
+      },
+      "why": {
+        "sc": "与《保险法》修订草案同日发布，内地银保机构治理与披露规则同步收紧，是评估合作保司治理透明度与尽调成本的参照；新规覆盖寿险、财险、保险资管及再保公司。",
+        "tc": "與《保險法》修訂草案同日發佈，內地銀保機構治理與披露規則同步收緊，是評估合作保司治理透明度與盡調成本的參照；新規覆蓋壽險、財險、保險資管及再保公司。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "留意内地保司披露与治理新规对合作尽调口径的影响",
+          "tc": "留意內地保司披露與治理新規對合作盡調口徑的影響"
+        },
+        "lead": {
+          "sc": "提示团队跟进内地监管配套立法动向",
+          "tc": "提示團隊跟進內地監管配套立法動向"
+        },
+        "cross": {
+          "sc": "评估内地监管框架收紧对跨境投保合规预期的中长期影响",
+          "tc": "評估內地監管框架收緊對跨境投保合規預期的中長期影響"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "国家金融监督管理总局 NFRA",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "reg",
+        "mainland"
+      ],
+      "tags": {
+        "sc": [
+          "信息披露",
+          "银行保险机构",
+          "金融监管总局",
+          "征求意见",
+          "公司治理"
+        ],
+        "tc": [
+          "信息披露",
+          "銀行保險機構",
+          "金融監管總局",
+          "徵求意見",
+          "公司治理"
+        ]
+      },
+      "contentKind": "circular",
+      "publishedAt": "2026-09-04",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1270944&generaltype=2&itemId=951",
+      "ingestedAt": "2026-09-06T11:07:29.658582+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
     {
       "id": "hkma-contactless-payment-binding-alert-20260904",
       "clusterCount": 1,
@@ -52838,14 +52916,14 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 654 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 654 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 655 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 655 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 654,
+      "totalItems": 655,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 218,
+          "count": 219,
           "label": "监管一手"
         },
         {
@@ -52944,7 +53022,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "reg",
-          "count": 119,
+          "count": 120,
           "label": "监管"
         },
         {

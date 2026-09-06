@@ -1,9 +1,22 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-04T20:20:27Z",
-  "itemCount": 654,
+  "generatedAt": "2026-09-06T03:07:31Z",
+  "itemCount": 655,
   "items": [
+    {
+      "id": "nfra-bank-insurer-disclosure-method-20260904",
+      "title": "金融监管总局就《银行保险机构信息披露管理办法（征求意见稿）》公开征求意见 10月3日截止",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "mainland"
+      ],
+      "publishedAt": "2026-09-04",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-bank-insurer-disclosure-method-20260904",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1270944&generaltype=2&itemId=951"
+    },
     {
       "id": "hkma-contactless-payment-binding-alert-20260904",
       "title": "金管局防诈警示：骗徒套取银行卡资料诱批准绑卡至非接触式手机支付 再盗刷 [EN原文]",
