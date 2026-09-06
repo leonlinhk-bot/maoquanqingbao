@@ -1,11 +1,11 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-06T18:12:31.209080+08:00",
-    "itemCount": 658,
+    "generatedAt": "2026-09-07T00:52:43.556277+08:00",
+    "itemCount": 659,
     "windowNote": {
-      "sc": "本库658条。",
-      "tc": "本庫658條。"
+      "sc": "本库659条。",
+      "tc": "本庫659條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -264,6 +264,83 @@ window.HKII_DATA = {
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "stcn-mof-capital-injection-20260906",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "stcn",
+      "title": {
+        "sc": "财政部9月6日注资近3000亿元 工行农行定增+国寿/人保/太平/中信保等险企获注资",
+        "tc": "財政部9月6日注資近3000億元 工行農行定增+國壽/人保/太平/中信保等險企獲注資"
+      },
+      "summary": {
+        "sc": "财政部9月6日（周日）集中注资约2970亿元：现金认购工行700亿、农行1300亿元A股定增以补充核心一级资本，向进出口银行注资300亿；险企侧向中国人寿集团注资350亿、人保150亿、中国太平70亿、中国出口信用保险100亿元，同步夯实银行与国有险企资本实力。",
+        "tc": "財政部9月6日（週日）集中注資約2970億元：現金認購工行700億、農行1300億元A股定增以補充核心一級資本，向進出口銀行注資300億；險企側向中國人壽集團注資350億、人保150億、中國太平70億、中國出口信用保險100億元，同步夯實銀行與國有險企資本實力。"
+      },
+      "why": {
+        "sc": "内地2024年起国有大行资本补充序列延伸至保险业：头部国有险企获财政部集中注资，资本与偿付能力同步增厚。中国太平为总部在港、三地上市的央企险企，其资本变化直接影响香港市场主体格局；中资险企资本充裕亦支撑海外与跨境布局，宜跟踪注资后资本运用及潜在并购动向。",
+        "tc": "內地2024年起國有大行資本補充序列延伸至保險業：頭部國有險企獲財政部集中注資，資本與償付能力同步增厚。中國太平為總部在港、三地上市的央企險企，其資本變化直接影響香港市場主體格局；中資險企資本充裕亦支撐海外與跨境佈局，宜跟蹤注資後資本運用及潛在併購動向。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "跟踪注资后国有险企资本运用、偿付能力与潜在并购/海外布局动向",
+          "tc": "跟蹤注資後國有險企資本運用、償付能力與潛在併購/海外佈局動向"
+        },
+        "cross": {
+          "sc": "评估中资险企资本增厚对香港市场竞争格局及渠道合作的传导",
+          "tc": "評估中資險企資本增厚對香港市場競爭格局及渠道合作的傳導"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "证券时报网（新华社稿）",
+        "lang": "zh"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "capital",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "财政部注资",
+          "国有险企",
+          "资本补充",
+          "偿付能力",
+          "中国太平",
+          "中国人寿"
+        ],
+        "tc": [
+          "財政部注資",
+          "國有險企",
+          "資本補充",
+          "償付能力",
+          "中國太平",
+          "中國人壽"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-06T19:31:00+08:00",
+      "originalUrl": "https://www.stcn.com/article/detail/4173988.html",
+      "ingestedAt": "2026-09-07T00:52:43.556277+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
     {
       "id": "ia-integrity-mgmt-circular-20260831",
       "clusterCount": 1,
@@ -53136,10 +53213,10 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 658 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 658 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 659 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 659 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 658,
+      "totalItems": 659,
       "sourceTiers": [
         {
           "tier": "official",
@@ -53158,7 +53235,7 @@ window.HKII_DATA = {
         },
         {
           "tier": "media",
-          "count": 212,
+          "count": 213,
           "label": "媒体报道"
         },
         {
@@ -53237,7 +53314,7 @@ window.HKII_DATA = {
       "topThemes": [
         {
           "theme": "market",
-          "count": 181,
+          "count": 182,
           "label": "市场"
         },
         {
@@ -53287,8 +53364,8 @@ window.HKII_DATA = {
         }
       ],
       "dateRange": {
-        "sc": "2013-03-05 ~ 2026-09-05",
-        "tc": "2013-03-05 ~ 2026-09-05"
+        "sc": "2013-03-05 ~ 2026-09-06",
+        "tc": "2013-03-05 ~ 2026-09-06"
       }
     },
     "marketData": {

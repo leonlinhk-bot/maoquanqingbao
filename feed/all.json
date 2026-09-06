@@ -1,9 +1,22 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-06T10:12:52Z",
-  "itemCount": 658,
+  "generatedAt": "2026-09-06T16:52:59Z",
+  "itemCount": 659,
   "items": [
+    {
+      "id": "stcn-mof-capital-injection-20260906",
+      "title": "财政部9月6日注资近3000亿元 工行农行定增+国寿/人保/太平/中信保等险企获注资",
+      "sourceTier": "media",
+      "themes": [
+        "capital",
+        "market"
+      ],
+      "publishedAt": "2026-09-06T19:31:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=stcn-mof-capital-injection-20260906",
+      "originalUrl": "https://www.stcn.com/article/detail/4173988.html"
+    },
     {
       "id": "ia-integrity-mgmt-circular-20260831",
       "title": "保监局发通函：授权保险公司须于2027年1月1日前制定诚信管理政策 [EN原文]",
