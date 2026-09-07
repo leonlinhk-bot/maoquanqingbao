@@ -1,9 +1,74 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-06T16:52:59Z",
-  "itemCount": 659,
+  "generatedAt": "2026-09-07T20:03:43Z",
+  "itemCount": 664,
   "items": [
+    {
+      "id": "hkma-taxonomy-2b-consult-20260907",
+      "title": "金管局就香港可持续金融分类目录第二阶段B原型展开公众咨询 10月7日截止 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "esg",
+        "reg"
+      ],
+      "publishedAt": "2026-09-07",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-taxonomy-2b-consult-20260907",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260907-3/"
+    },
+    {
+      "id": "hkma-banks-scam-alert-20260907",
+      "title": "金管局再发防诈警示：东亚、上海商业银行、创兴、集友及瑞士宝盛现假冒网站与网银登入画面 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "publishedAt": "2026-09-07",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-banks-scam-alert-20260907",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260907-4/"
+    },
+    {
+      "id": "hkma-hkicl-fraud-alert-20260907",
+      "title": "HKICL警示多个假冒网站冒称FPS「买家网上保障」 诱导实名认证及转账 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "publishedAt": "2026-09-07",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-hkicl-fraud-alert-20260907",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260907-5/"
+    },
+    {
+      "id": "ibm-willis-captive-apac-20260907",
+      "title": "Willis委任Madden掌亚太专属自保业务 由都柏林调驻新加坡 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "captive",
+        "competition"
+      ],
+      "publishedAt": "2026-09-07",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-willis-captive-apac-20260907",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/willis-deploys-dublin-captive-chief-to-singapore-as-regional-demand-builds-588906.aspx"
+    },
+    {
+      "id": "iaa-life-reinsurers-altcap-20260908",
+      "title": "AM Best维持全球寿险再保展望「稳定」：私募股权入局添竞争 离岸架构监管趋严 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "analyst"
+      ],
+      "publishedAt": "2026-09-08T03:36:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-life-reinsurers-altcap-20260908",
+      "originalUrl": "https://insuranceasia.com/insurance/news/life-reinsurers-face-pressure-alternative-capital"
+    },
     {
       "id": "stcn-mof-capital-injection-20260906",
       "title": "财政部9月6日注资近3000亿元 工行农行定增+国寿/人保/太平/中信保等险企获注资",

@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-07T00:52:43.556277+08:00",
-    "itemCount": 659,
+    "generatedAt": "2026-09-08T04:03:06+08:00",
+    "itemCount": 664,
     "windowNote": {
-      "sc": "本库659条。",
-      "tc": "本庫659條。"
+      "sc": "本库664条。",
+      "tc": "本庫664條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -264,6 +264,378 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "hkma-taxonomy-2b-consult-20260907",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "金管局就香港可持续金融分类目录第二阶段B原型展开公众咨询 10月7日截止 [EN原文]",
+        "tc": "金管局就香港可持續金融分類目錄第二階段B原型展開公眾諮詢 10月7日截止 [EN原文]"
+      },
+      "summary": {
+        "sc": "金管局7日就香港可持续金融分类目录Phase 2B原型启动咨询：新增10项经济活动使总数由25增至39，涵盖电池制造回收及航空、钢铁等难减排行业过渡路径，并引入24项气候适应措施，咨询至10月7日。",
+        "tc": "金管局7日就香港可持續金融分類目錄Phase 2B原型啟動諮詢：新增10項經濟活動使總數由25增至39，涵蓋電池製造回收及航空、鋼鐵等難減排行業過渡路徑，並引入24項氣候適應措施，諮詢至10月7日。"
+      },
+      "why": {
+        "sc": "分类目录是绿色保险资金投向与绿色债券/基建项目识别的共通语言；Phase 2B扩大过渡活动范围，影响保险资金ESG配置标的与绿色产品设计口径。",
+        "tc": "分類目錄是綠色保險資金投向與綠色債券/基建項目識別的共通語言；Phase 2B擴大過渡活動範圍，影響保險資金ESG配置標的與綠色產品設計口徑。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "关注咨询稿中对过渡活动及适应措施的界定，评估对保险资金绿色配置与产品标签口径的潜在影响",
+          "tc": "關注諮詢稿中對過渡活動及適應措施的界定，評估對保險資金綠色配置與產品標籤口徑的潛在影響"
+        },
+        "lead": {
+          "sc": "若客户涉绿色金融/ESG投资，可留意分类目录更新作为尽调参照",
+          "tc": "若客戶涉綠色金融/ESG投資，可留意分類目錄更新作為盡調參照"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "香港金融管理局 HKMA",
+        "lang": "en"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "esg",
+        "reg"
+      ],
+      "tags": {
+        "sc": [
+          "金管局",
+          "可持续金融",
+          "分类目录",
+          "ESG",
+          "咨询"
+        ],
+        "tc": [
+          "金管局",
+          "可持續金融",
+          "分類目錄",
+          "ESG",
+          "諮詢"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-07",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260907-3/",
+      "ingestedAt": "2026-09-08T04:03:06+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "hkma-banks-scam-alert-20260907",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "金管局再发防诈警示：东亚、上海商业银行、创兴、集友及瑞士宝盛现假冒网站与网银登入画面 [EN原文]",
+        "tc": "金管局再發防詐警示：東亞、上海商業銀行、創興、集友及瑞士寶盛現假冒網站與網銀登入畫面 [EN原文]"
+      },
+      "summary": {
+        "sc": "金管局汇总五家银行骗案通报：东亚银行、上海商业银行、创兴银行、集友银行及瑞士宝盛（Julius Baer）出现假冒网站及网银登入画面；提醒公众银行不会经短信或电邮内嵌链接索取密码及一次性验证码。",
+        "tc": "金管局匯總五家銀行騙案通報：東亞銀行、上海商業銀行、創興銀行、集友銀行及瑞士寶盛（Julius Baer）出現假冒網站及網銀登入畫面；提醒公眾銀行不會經短訊或電郵內嵌連結索取密碼及一次性驗證碼。"
+      },
+      "why": {
+        "sc": "银行户口是保单缴费、理赔与保费融资资金链入口；假冒网站名单每周更新，前线宜持续提醒客户辨伪，防范保费资金被骗转。",
+        "tc": "銀行戶口是保單繳費、理賠與保費融資資金鏈入口；假冒網站名單每週更新，前線宜持續提醒客戶辨偽，防範保費資金被騙轉。"
+      },
+      "actions": {
+        "front": {
+          "sc": "提醒客户核实银行/机构网址，勿点短信或电邮内嵌链接；已泄露资料或转账应即联络相关机构并报警",
+          "tc": "提醒客戶核實銀行/機構網址，勿點短訊或電郵內嵌連結；已洩露資料或轉賬應即聯絡相關機構並報警"
+        },
+        "midback": {
+          "sc": "将最新假冒网站名单纳入客户防诈提醒素材库",
+          "tc": "將最新假冒網站名單納入客戶防詐提醒素材庫"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "香港金融管理局 HKMA",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "tags": {
+        "sc": [
+          "金管局",
+          "防诈",
+          "假冒网站",
+          "东亚银行",
+          "瑞士宝盛"
+        ],
+        "tc": [
+          "金管局",
+          "防詐",
+          "假冒網站",
+          "東亞銀行",
+          "瑞士寶盛"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-07",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260907-4/",
+      "ingestedAt": "2026-09-08T04:03:06+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "hkma-hkicl-fraud-alert-20260907",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "HKICL警示多个假冒网站冒称FPS「买家网上保障」 诱导实名认证及转账 [EN原文]",
+        "tc": "HKICL警示多個假冒網站冒稱FPS「買家網上保障」 誘導實名認證及轉賬 [EN原文]"
+      },
+      "summary": {
+        "sc": "香港银行同业结算公司（HKICL）警示三类假冒网站（含64.176.54.120、zksttgf.xyz、hkrefundplatform.sbs等），冒充「买家网上保障」以退款、异常交易报告为名，诱骗用户上传身份证件、银行资料经FPS转账，并导流至假冒客服。",
+        "tc": "香港銀行同業結算公司（HKICL）警示三類假冒網站（含64.176.54.120、zksttgf.xyz、hkrefundplatform.sbs等），冒充「買家網上保障」以退款、異常交易報告為名，誘騙用戶上傳身份證件、銀行資料經FPS轉賬，並導流至假冒客服。"
+      },
+      "why": {
+        "sc": "假冒FPS退款平台是涉保单缴费/理赔资金的新型诈骗链路，客户多经WhatsApp被引导操作；提示客户HKICL不直接向公众提供FPS服务，官方网址仅hkicl.com.hk及fps.hkicl.com.hk。",
+        "tc": "假冒FPS退款平台是涉保單繳費/理賠資金的新型詐騙鏈路，客戶多經WhatsApp被引導操作；提示客戶HKICL不直接向公眾提供FPS服務，官方網址僅hkicl.com.hk及fps.hkicl.com.hk。"
+      },
+      "actions": {
+        "front": {
+          "sc": "提醒客户核实银行/机构网址，勿点短信或电邮内嵌链接；已泄露资料或转账应即联络相关机构并报警",
+          "tc": "提醒客戶核實銀行/機構網址，勿點短訊或電郵內嵌連結；已洩露資料或轉賬應即聯絡相關機構並報警"
+        },
+        "midback": {
+          "sc": "将最新假冒网站名单纳入客户防诈提醒素材库",
+          "tc": "將最新假冒網站名單納入客戶防詐提醒素材庫"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "香港金融管理局 HKMA",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "tags": {
+        "sc": [
+          "金管局",
+          "HKICL",
+          "FPS",
+          "假冒网站",
+          "防诈"
+        ],
+        "tc": [
+          "金管局",
+          "HKICL",
+          "FPS",
+          "假冒網站",
+          "防詐"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-07",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260907-5/",
+      "ingestedAt": "2026-09-08T04:03:06+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ibm-willis-captive-apac-20260907",
+      "clusterCount": 1,
+      "score": 65,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusiness",
+      "title": {
+        "sc": "Willis委任Madden掌亚太专属自保业务 由都柏林调驻新加坡 [EN原文]",
+        "tc": "Willis委任Madden掌亞太專屬自保業務 由都柏林調駐新加坡 [EN原文]"
+      },
+      "summary": {
+        "sc": "WTW旗下Willis委任Trevor Madden为亚太区专属自保及保险管理方案主管（11月1日生效），由都柏林调驻新加坡，接替离任的Joyce Chua；紧随Zurich于9月2日新设亚太Multinational & Captives主管一职，反映区域自保需求升温。",
+        "tc": "WTW旗下Willis委任Trevor Madden為亞太區專屬自保及保險管理方案主管（11月1日生效），由都柏林調駐新加坡，接替離任的Joyce Chua；緊隨Zurich於9月2日新設亞太Multinational & Captives主管一職，反映區域自保需求升溫。"
+      },
+      "why": {
+        "sc": "两巨头同周强化亚太自保布局，配合新加坡PCC框架咨询推进；香港与新加坡在亚太专属自保中心地位竞争加剧，留意对香港自保业务及高客企业风险融资方案的潜在分流。",
+        "tc": "兩巨頭同週強化亞太自保佈局，配合新加坡PCC框架諮詢推進；香港與新加坡在亞太專屬自保中心地位競爭加劇，留意對香港自保業務及高客企業風險融資方案的潛在分流。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "服务企业客户时可关注自保/替代风险融资方案作为增额与续保谈判的备选结构",
+          "tc": "服務企業客戶時可關注自保/替代風險融資方案作為增額與續保談判的備選結構"
+        },
+        "cross": {
+          "sc": "留意新加坡PCC框架进展，对照香港自保政策竞争力",
+          "tc": "留意新加坡PCC框架進展，對照香港自保政策競爭力"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Business Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "captive",
+        "competition"
+      ],
+      "tags": {
+        "sc": [
+          "Willis",
+          "WTW",
+          "专属自保",
+          "新加坡",
+          "亚太"
+        ],
+        "tc": [
+          "Willis",
+          "WTW",
+          "專屬自保",
+          "新加坡",
+          "亞太"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-07",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/willis-deploys-dublin-captive-chief-to-singapore-as-regional-demand-builds-588906.aspx",
+      "ingestedAt": "2026-09-08T04:03:06+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "iaa-life-reinsurers-altcap-20260908",
+      "clusterCount": 1,
+      "score": 60,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "AM Best维持全球寿险再保展望「稳定」：私募股权入局添竞争 离岸架构监管趋严 [EN原文]",
+        "tc": "AM Best維持全球壽險再保展望「穩定」：私募股權入局添競爭 離岸架構監管趨嚴 [EN原文]"
+      },
+      "summary": {
+        "sc": "AM Best《全球寿险再保险市场细分展望》维持「稳定」：承保与投资收益稳健、资本充足，市场高度集中；惟私募股权及资产管理公司持续进入寿险再保，离岸年金再保机构增多，监管对涉及资产管理人及离岸实体的架构关注上升。",
+        "tc": "AM Best《全球壽險再保險市場細分展望》維持「穩定」：承保與投資收益穩健、資本充足，市場高度集中；惟私募股權及資產管理公司持續進入壽險再保，離岸年金再保機構增多，監管對涉及資產管理人及離岸實體的架構關注上升。"
+      },
+      "why": {
+        "sc": "私募股权/资管资本持续渗透寿险再保并推高离岸架构监管关注；香港作为区域再保及保险相连证券枢纽，宜跟踪其对外包再保合作方偿付与监管合规的影响。",
+        "tc": "私募股權/資管資本持續滲透壽險再保並推高離岸架構監管關注；香港作為區域再保及保險相連證券樞紐，宜跟蹤其對外包再保合作方償付與監管合規的影響。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "关注再保对手方资本结构变化及离岸架构监管动态，纳入再保合作方尽调视角",
+          "tc": "關注再保對手方資本結構變化及離岸架構監管動態，納入再保合作方盡調視角"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reinsurance",
+        "analyst"
+      ],
+      "tags": {
+        "sc": [
+          "AM Best",
+          "寿险再保",
+          "展望",
+          "私募股权",
+          "离岸监管"
+        ],
+        "tc": [
+          "AM Best",
+          "壽險再保",
+          "展望",
+          "私募股權",
+          "離岸監管"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-08T03:36:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/life-reinsurers-face-pressure-alternative-capital",
+      "ingestedAt": "2026-09-08T04:03:06+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
     {
       "id": "stcn-mof-capital-injection-20260906",
       "clusterCount": 1,
@@ -53213,14 +53585,14 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 659 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 659 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 664 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 664 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 659,
+      "totalItems": 664,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 220,
+          "count": 223,
           "label": "监管一手"
         },
         {
@@ -53235,7 +53607,7 @@
         },
         {
           "tier": "media",
-          "count": 213,
+          "count": 215,
           "label": "媒体报道"
         },
         {
@@ -53319,7 +53691,7 @@
         },
         {
           "theme": "reg",
-          "count": 122,
+          "count": 123,
           "label": "监管"
         },
         {
@@ -53359,13 +53731,13 @@
         },
         {
           "theme": "reinsurance",
-          "count": 39,
+          "count": 40,
           "label": "再保险"
         }
       ],
       "dateRange": {
-        "sc": "2013-03-05 ~ 2026-09-06",
-        "tc": "2013-03-05 ~ 2026-09-06"
+        "sc": "2013-03-05 ~ 2026-09-08",
+        "tc": "2013-03-05 ~ 2026-09-08"
       }
     },
     "marketData": {
