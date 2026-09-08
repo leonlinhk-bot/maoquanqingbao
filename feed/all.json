@@ -1,9 +1,22 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-08T15:31:16Z",
-  "itemCount": 670,
+  "generatedAt": "2026-09-08T17:28:17Z",
+  "itemCount": 671,
   "items": [
+    {
+      "id": "hkma-banks-scam-alert-20260908",
+      "title": "金管局再发防诈警示：建行亚洲与瑞士宝盛现假冒网站及网银登入画面 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "publishedAt": "2026-09-08",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-banks-scam-alert-20260908",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260908-4/"
+    },
     {
       "id": "hkma-sfc-investment-product-sales-survey-20260908",
       "title": "证监会×金管局联合调查：2025年香港投资产品销售9.9万亿港元创新高 [EN原文]",

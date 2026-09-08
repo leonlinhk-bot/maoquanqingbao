@@ -1,11 +1,11 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-08T18:12:21+08:00",
-    "itemCount": 670,
+    "generatedAt": "2026-09-09T01:28:14.207272+08:00",
+    "itemCount": 671,
     "windowNote": {
-      "sc": "本库670条。",
-      "tc": "本庫670條。"
+      "sc": "本库671条。",
+      "tc": "本庫671條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -277,6 +277,81 @@ window.HKII_DATA = {
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "hkma-banks-scam-alert-20260908",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "金管局再发防诈警示：建行亚洲与瑞士宝盛现假冒网站及网银登入画面 [EN原文]",
+        "tc": "金管局再發防詐警示：建行亞洲與瑞士寶盛現假冒網站及網銀登入畫面 [EN原文]"
+      },
+      "summary": {
+        "sc": "金管局汇总两家银行骗案通报：中国建设银行（亚洲）出现假冒网站及网银登入画面，瑞士宝盛（Bank Julius Baer）出现假冒网站；提醒公众银行不会经短信或电邮内嵌链接索取密码及一次性验证码，受骗应即联络相关银行并向警方报案。",
+        "tc": "金管局匯總兩家銀行騙案通報：中國建設銀行（亞洲）出現假冒網站及網銀登入畫面，瑞士寶盛（Bank Julius Baer）出現假冒網站；提醒公眾銀行不會經短訊或電郵內嵌連結索取密碼及一次性驗證碼，受騙應即聯絡相關銀行並向警方報案。"
+      },
+      "why": {
+        "sc": "银行户口是保单缴费、理赔与保费融资资金链入口；本次名单涉及私人银行瑞士宝盛，高净值客户保费及投资资金往来更需防冒充；假冒网站名单持续更新，前线宜提醒客户核实网址、勿点内嵌链接。",
+        "tc": "銀行戶口是保單繳費、理賠與保費融資資金鏈入口；本次名單涉及私人銀行瑞士寶盛，高淨值客戶保費及投資資金往來更需防冒充；假冒網站名單持續更新，前線宜提醒客戶核實網址、勿點內嵌連結。"
+      },
+      "actions": {
+        "front": {
+          "sc": "提醒客户核实银行/机构网址，勿点短信或电邮内嵌链接；已泄露资料或转账应即联络相关机构并报警",
+          "tc": "提醒客戶核實銀行/機構網址，勿點短訊或電郵內嵌連結；已洩露資料或轉賬應即聯絡相關機構並報警"
+        },
+        "midback": {
+          "sc": "将最新假冒网站名单纳入客户防诈提醒素材库",
+          "tc": "將最新假冒網站名單納入客戶防詐提醒素材庫"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "香港金融管理局 HKMA",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "tags": {
+        "sc": [
+          "金管局",
+          "防诈",
+          "假冒网站",
+          "建行亚洲",
+          "瑞士宝盛"
+        ],
+        "tc": [
+          "金管局",
+          "防詐",
+          "假冒網站",
+          "建行亞洲",
+          "瑞士寶盛"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-08",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260908-4/",
+      "ingestedAt": "2026-09-09T01:28:14.207272+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
     {
       "id": "hkma-sfc-investment-product-sales-survey-20260908",
       "clusterCount": 1,
@@ -56642,14 +56717,14 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 670 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 670 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 671 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 671 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 670,
+      "totalItems": 671,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 224,
+          "count": 225,
           "label": "监管一手"
         },
         {
