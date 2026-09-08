@@ -117,6 +117,55 @@ try:
                              'tc': f"{dates[0][:10]} ~ {dates[-1][:10]}"}
 except Exception as e:
     print(f'[warn] intelligence auto-refresh failed: {e}')
+
+# --- Auto-sync: digests 自动补桶（daily/weekly/monthly/yearly 跟随时段最新日期） ---
+# 历史 digests 是手动构建的静态数据（曾停在 2026-07-30 不随每日更新）。
+# 规则：按 publishedAt 归入对应日/周/月/年桶；已有桶的 key 不重建（保留 itemIds 语义），只补缺的桶。
+try:
+    from datetime import datetime as _dts, timedelta as _td
+    _dig = data.setdefault('digests', {})
+    _have_d = set(x.get('key') for x in _dig.get('daily', []))
+    _have_w = set(x.get('key') for x in _dig.get('weekly', []))
+    _have_m = set(x.get('key') for x in _dig.get('monthly', []))
+    _have_y = set(x.get('key') for x in _dig.get('yearly', []))
+    # 只对「当日之前」的条目建桶，防止未来日期污染
+    _today = _dt.now(_tz.utc).strftime('%Y-%m-%d')
+    _bk_d, _bk_w, _bk_m, _bk_y = {}, {}, {}, {}
+    for _i in items:
+        _s = (_i.get('publishedAt') or '')[:10]
+        if not _s or _s > _today:
+            continue
+        try:
+            _dd = _dt.strptime(_s, '%Y-%m-%d')
+        except Exception:
+            continue
+        # ISO 周号（与历史 2026-W31 格式一致）
+        _iso = _dd.isocalendar()
+        _wk = f"{_iso[0]}-W{_iso[1]:02d}"
+        _bk_d.setdefault(_s, []).append(_i['id'])
+        _bk_w.setdefault(_wk, []).append(_i['id'])
+        _bk_m.setdefault(_s[:7], []).append(_i['id'])
+        _bk_y.setdefault(_s[:4], []).append(_i['id'])
+    def _mk(key, ids, suffix=''):
+        return {'key': key, 'label': {'sc': key + suffix, 'tc': key + suffix},
+                'itemCount': len(ids), 'itemIds': ids}
+    # 各粒度：新桶 + 已有桶合并，按 key 倒序统一排序（无条件执行，幂等修正历史乱序）
+    def _merged(existing, newmap, newkeys, suffix=''):
+        out = [_mk(k, newmap[k], suffix) for k in newkeys]
+        return sorted(out + (existing or []), key=lambda x: x.get('key',''), reverse=True)
+    _new_d = sorted((k for k in _bk_d if k not in _have_d), reverse=True)
+    _dig['daily'] = _merged(_dig.get('daily', []), _bk_d, _new_d)
+    _new_w = sorted((k for k in _bk_w if k not in _have_w), reverse=True)
+    _dig['weekly'] = _merged(_dig.get('weekly', []), _bk_w, _new_w)
+    _new_m = sorted((k for k in _bk_m if k not in _have_m), reverse=True)
+    _dig['monthly'] = _merged(_dig.get('monthly', []), _bk_m, _new_m)
+    _new_y = sorted((k for k in _bk_y if k not in _have_y), reverse=True)
+    _dig['yearly'] = _merged(_dig.get('yearly', []), _bk_y, _new_y, suffix=' 年')
+    if _new_d or _new_w or _new_m or _new_y:
+        print(f"[digests] 补桶 daily+{len(_new_d)} weekly+{len(_new_w)} monthly+{len(_new_m)} yearly+{len(_new_y)}")
+except Exception as e:
+    print(f'[warn] digests auto-fill failed: {e}')
+
 LIVE.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding='utf-8')
 
 app_path = ROOT / 'app.js'

@@ -48991,6 +48991,666 @@
   "digests": {
     "daily": [
       {
+        "key": "2026-09-08",
+        "label": {
+          "sc": "2026-09-08",
+          "tc": "2026-09-08"
+        },
+        "itemCount": 7,
+        "itemIds": [
+          "hkma-sfc-investment-product-sales-survey-20260908",
+          "iaa-hk-reinsurance-hub-20260908",
+          "iaa-hk-premium-financing-scrutiny-20260908",
+          "iaa-manulife-ant-health-mou-20260908",
+          "iaa-aia-thailand-nb-18-20260908",
+          "iaa-apac-insurtech-funding-shift-20260908",
+          "iaa-life-reinsurers-altcap-20260908"
+        ]
+      },
+      {
+        "key": "2026-09-07",
+        "label": {
+          "sc": "2026-09-07",
+          "tc": "2026-09-07"
+        },
+        "itemCount": 4,
+        "itemIds": [
+          "hkma-taxonomy-2b-consult-20260907",
+          "hkma-banks-scam-alert-20260907",
+          "hkma-hkicl-fraud-alert-20260907",
+          "ibm-willis-captive-apac-20260907"
+        ]
+      },
+      {
+        "key": "2026-09-06",
+        "label": {
+          "sc": "2026-09-06",
+          "tc": "2026-09-06"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "stcn-mof-capital-injection-20260906"
+        ]
+      },
+      {
+        "key": "2026-09-05",
+        "label": {
+          "sc": "2026-09-05",
+          "tc": "2026-09-05"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ibm-china-inslaw-fivefold-20260905"
+        ]
+      },
+      {
+        "key": "2026-09-04",
+        "label": {
+          "sc": "2026-09-04",
+          "tc": "2026-09-04"
+        },
+        "itemCount": 11,
+        "itemIds": [
+          "iaa-sunlife-ph-wealthprosper7-20260904",
+          "nfra-bank-insurer-disclosure-method-20260904",
+          "hkma-contactless-payment-binding-alert-20260904",
+          "hkma-hkicl-fraud-alert-20260904",
+          "ambest-china-nonlife-stable-20260904",
+          "nfra-insurance-law-amendment-draft-20260904",
+          "hkma-banks-scam-alert-20260904",
+          "hkma-senior-appointment-gc-20260904",
+          "iaa-aia-wealth-elite3-20260904",
+          "iaa-ambest-apac-reinsurers-20260904",
+          "iaa-zurich-apac-commercial-20260904"
+        ]
+      },
+      {
+        "key": "2026-09-03",
+        "label": {
+          "sc": "2026-09-03",
+          "tc": "2026-09-03"
+        },
+        "itemCount": 10,
+        "itemIds": [
+          "iaa-picc-pc-catastrophe-20260903",
+          "hkma-bank-scam-alert-20260903",
+          "ibm-lloyds-h1-2026-softening-20260903",
+          "ibm-reinsurers-record-capital-20260903",
+          "hkfi-tax-rumor-response-20260903",
+          "aia-hk-hedgefunds-cautious-20260903",
+          "ncl-bancassurance-margin-20260903",
+          "swissre-cyber-gap-20260903",
+          "samsung-insurers-ma-canopius-principal-20260903",
+          "picc-life-health-trails-20260903"
+        ]
+      },
+      {
+        "key": "2026-09-02",
+        "label": {
+          "sc": "2026-09-02",
+          "tc": "2026-09-02"
+        },
+        "itemCount": 8,
+        "itemIds": [
+          "ia-hk-flmi-exam-fraud-arrests-20260902",
+          "aia-wealth-plan3-20260902",
+          "ibm-mas-fsti4-ai-20260902",
+          "ibm-cathay-life-gaip-20260902",
+          "ibm-moodys-ils-record-20260902",
+          "iaa-tokio-marine-direct-commercial-20260902",
+          "iaa-pru-japan-sales-halt-20260902",
+          "iaa-apac-retirement-gap-20260902"
+        ]
+      },
+      {
+        "key": "2026-09-01",
+        "label": {
+          "sc": "2026-09-01",
+          "tc": "2026-09-01"
+        },
+        "itemCount": 13,
+        "itemIds": [
+          "jefferies-aia-tp-20260901",
+          "hkma-hkicl-fraud-alert-20260901",
+          "mof-expat-dividend-tax-20260901",
+          "goldman-pru-tp-cut-20260901",
+          "hkma-scam-alert-20260901",
+          "iaa-macau-mic-underwriting-20260901",
+          "iaa-prudential-icici-stake-20260901",
+          "iaa-malaysian-life-re-20260901",
+          "ibm-verisk-cat-losses-20260901",
+          "iaa-sk-health-insurance-20260901",
+          "igloo-preseries-c-20260901",
+          "gmteight-chan-crs-tax-20260901",
+          "hkfi-tax-rumor-response-20260901"
+        ]
+      },
+      {
+        "key": "2026-08-31",
+        "label": {
+          "sc": "2026-08-31",
+          "tc": "2026-08-31"
+        },
+        "itemCount": 6,
+        "itemIds": [
+          "ia-integrity-mgmt-circular-20260831",
+          "pru-coming-home-plan-20260831",
+          "indiafirst-agentforce-20260831",
+          "xinhuanet-chinare-h1-20260831",
+          "iaa-asia-ai-cost-20260831",
+          "ibm-flmi-licence-review-20260831"
+        ]
+      },
+      {
+        "key": "2026-08-30",
+        "label": {
+          "sc": "2026-08-30",
+          "tc": "2026-08-30"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "tvb-hui-5yr-finance-20260830"
+        ]
+      },
+      {
+        "key": "2026-08-29",
+        "label": {
+          "sc": "2026-08-29",
+          "tc": "2026-08-29"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "uhk-pet-insurance-20260829",
+          "ibm-peakre-moodys-a3-20260829"
+        ]
+      },
+      {
+        "key": "2026-08-28",
+        "label": {
+          "sc": "2026-08-28",
+          "tc": "2026-08-28"
+        },
+        "itemCount": 16,
+        "itemIds": [
+          "kpmg-insurtech-h1-2026",
+          "chinalife-500-agents-20260828",
+          "oncc-flmi-cheating-20260828",
+          "ibm-agentic-ai-hk-20260828",
+          "ibm-tune-protect-q2-20260828",
+          "iaa-manulife-genai-sandbox-20260828",
+          "hkma-hkmc-social-bond-report-20260828",
+          "nfra-cpa-liability-ins-method-20260828",
+          "iaa-week-in-insurance-20260828",
+          "iaa-manulife-sg-wholelife-20260828",
+          "iaa-singapore-travel-86-20260828",
+          "ibm-hdi-cfo-20260828",
+          "qianlong-familyoffice-hk-hub-20260828",
+          "ibm-skorea-h1-20260828",
+          "ibm-chiba-auto-gap-20260828",
+          "ibm-kazakhstan-branch-20260828"
+        ]
+      },
+      {
+        "key": "2026-08-27",
+        "label": {
+          "sc": "2026-08-27",
+          "tc": "2026-08-27"
+        },
+        "itemCount": 14,
+        "itemIds": [
+          "scmp-prudential-buyback-20260827",
+          "ibm-vietnam-banks-own-20260827",
+          "ibm-hormuz-warrisk-20260827",
+          "iaa-singlife-foreigners-20260827",
+          "iaa-apac-catgap-20260827",
+          "nfra-audit-liability-qa-20260827",
+          "nfra-gyirong-mudslide-20260827",
+          "ibm-nepal-glacier-travel-cover-20260827",
+          "hkma-bank-scam-alert-20260827",
+          "hkma-genai-sandbox-cohort-20260827",
+          "iaa-china-nonmotor-moodys-20260827",
+          "ibm-prudential-h1-20260827",
+          "ibm-guy-carpenter-pacific-ceo-20260827",
+          "ibm-prudential-ipamc-sale-20260826"
+        ]
+      },
+      {
+        "key": "2026-08-26",
+        "label": {
+          "sc": "2026-08-26",
+          "tc": "2026-08-26"
+        },
+        "itemCount": 7,
+        "itemIds": [
+          "hk-sg-fo-competition-20260826",
+          "hkma-hkicl-fraud-alert-20260826",
+          "hkma-bank-scam-alert-20260826",
+          "hkma-north-metro-taskforce-20260826",
+          "iaa-fwd-h1-profit-20260826",
+          "iaa-manulife-ai-drive-20260826",
+          "iaa-taiwan-spillover-20260826"
+        ]
+      },
+      {
+        "key": "2026-08-25",
+        "label": {
+          "sc": "2026-08-25",
+          "tc": "2026-08-25"
+        },
+        "itemCount": 7,
+        "itemIds": [
+          "ibm-freight-green-switch-20260825",
+          "hkma-hkicl-fraud-alert-20260825",
+          "hkma-bank-scam-alert-20260825",
+          "iaa-wealthy-140b-20260825",
+          "iaa-bluecross-medical-20260825",
+          "iaa-sp-aia-20260825",
+          "iaa-allianz-my-h1-20260825"
+        ]
+      },
+      {
+        "key": "2026-08-24",
+        "label": {
+          "sc": "2026-08-24",
+          "tc": "2026-08-24"
+        },
+        "itemCount": 8,
+        "itemIds": [
+          "hkma-annuity-cross-boundary-20260824",
+          "hkma-hkicl-fraud-alert-20260824",
+          "axa-shkp-igc-lease-20260824",
+          "ia-pru-india-health-20260824",
+          "ia-pingan-h1-20260824",
+          "ia-allianz-apac-h1-20260824",
+          "ia-allianz-trade-china-ceo-20260824",
+          "ia-ai-profit-engine-20260824"
+        ]
+      },
+      {
+        "key": "2026-08-23",
+        "label": {
+          "sc": "2026-08-23",
+          "tc": "2026-08-23"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "oncc-bluecross-zhi-anxin-20260823",
+          "hkcna-hk-ifc-policy-package-20260823",
+          "hkcna-hk-market-infra-20260823"
+        ]
+      },
+      {
+        "key": "2026-08-22",
+        "label": {
+          "sc": "2026-08-22",
+          "tc": "2026-08-22"
+        },
+        "itemCount": 5,
+        "itemIds": [
+          "nfra-nonauto-governance-20260822",
+          "nfra-alm-measures-20260822",
+          "caixin-evergrande-life-license-20260822",
+          "ia-week-in-insurance-20260822",
+          "crntt-aia-mcv-demand-20260822"
+        ]
+      },
+      {
+        "key": "2026-08-21",
+        "label": {
+          "sc": "2026-08-21",
+          "tc": "2026-08-21"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "ia-aia-h1-profit-20260821",
+          "scmp-pingan-hk-etf-20260821",
+          "ib-mainland-etf-access-20260821"
+        ]
+      },
+      {
+        "key": "2026-08-20",
+        "label": {
+          "sc": "2026-08-20",
+          "tc": "2026-08-20"
+        },
+        "itemCount": 4,
+        "itemIds": [
+          "ia-premium-financing-circular-20260820",
+          "aia-h1-2026-results-20260820",
+          "aia-h1-results-market-reaction-20260820",
+          "hkma-fake-doc-scam-alert-20260820"
+        ]
+      },
+      {
+        "key": "2026-08-19",
+        "label": {
+          "sc": "2026-08-19",
+          "tc": "2026-08-19"
+        },
+        "itemCount": 8,
+        "itemIds": [
+          "chinalife-h1-2026-briefing-20260819",
+          "hkex-h1-2026-results-20260819",
+          "ibmag-gallagherre-digital-risk-20260819",
+          "aastocks-ubs-fwd-coverage-20260819",
+          "prudential-taikoo-hq-20260819",
+          "ia-cyber-factory-gaps-20260819",
+          "ibmag-aon-working-capital-apac-20260819",
+          "ibmag-qbe-data-centre-20260819"
+        ]
+      },
+      {
+        "key": "2026-08-18",
+        "label": {
+          "sc": "2026-08-18",
+          "tc": "2026-08-18"
+        },
+        "itemCount": 12,
+        "itemIds": [
+          "bowtie-stillcover-20260818",
+          "manulife-new-fluidity-20260818",
+          "chinanews-hkgov-insurance-funds-20260818",
+          "stcn-sfc-hkex-etf-20260818",
+          "scmp-beijing-insurers-hk-etfs-20260818",
+          "ib-china-life-slower-growth-20260818",
+          "ia-reinsurers-record-663b-20260818",
+          "ia-insurtech-asia-600m-q2-20260818",
+          "caixin-hk-banks-sfof-decl-20260818",
+          "aia-h1-2026-results-date-20260818",
+          "nfra-xiao-hui-hk-20260818",
+          "toutiao-dadi-fine-20260818"
+        ]
+      },
+      {
+        "key": "2026-08-17",
+        "label": {
+          "sc": "2026-08-17",
+          "tc": "2026-08-17"
+        },
+        "itemCount": 8,
+        "itemIds": [
+          "ibmag-aon-sidecarx-20260817",
+          "toutiao-h1-insurers-profit-20260817",
+          "boclife-hygge-eldercare-alliance-20260817",
+          "nfra-solvency-q2-5-insurers-20260817",
+          "ce-insurance-funds-40trillion-20260817",
+          "chubb-care-crit-illness-series-20260817",
+          "fwd-ebeyond-medical-20260817",
+          "steadfast-takeover-final-stages-20260817"
+        ]
+      },
+      {
+        "key": "2026-08-15",
+        "label": {
+          "sc": "2026-08-15",
+          "tc": "2026-08-15"
+        },
+        "itemCount": 4,
+        "itemIds": [
+          "toutiao-fwd-juntian-broker-20260815",
+          "hkfi-wong-insurtech-interview-20260815",
+          "toutiao-baobian-tax-20260815",
+          "scmp-ia-mainland-client-definition-20260815"
+        ]
+      },
+      {
+        "key": "2026-08-14",
+        "label": {
+          "sc": "2026-08-14",
+          "tc": "2026-08-14"
+        },
+        "itemCount": 8,
+        "itemIds": [
+          "stheadline-hashkey-yflife-hkdap-20260814",
+          "nfra-q2-insurance-indicators-20260814",
+          "insuranceasianews-howden-financial-lines-20260814",
+          "govhk-ia-ceo-reappointment-20260814",
+          "insurancebusiness-qbe-h1-20260814",
+          "insuranceasia-ambest-reinsurers-capital-20260814",
+          "insuranceasia-deal-insurance-rw-20260814",
+          "insuranceasia-philippine-cat-pool-20260814"
+        ]
+      },
+      {
+        "key": "2026-08-13",
+        "label": {
+          "sc": "2026-08-13",
+          "tc": "2026-08-13"
+        },
+        "itemCount": 8,
+        "itemIds": [
+          "xchange-first-cycle-loi-20260813",
+          "ce-inscap-stakes-20260813",
+          "scmp-offshore-tax-opinion-20260813",
+          "aastocks-sp-tax-sales-20260813",
+          "nandu-offshore-trust-case-20260813",
+          "insuranceasia-hk-insurers-slide-tax-20260813",
+          "bambooworks-tax-edge-20260813",
+          "boclife-deloitte-hnw-succession-20260813"
+        ]
+      },
+      {
+        "key": "2026-08-12",
+        "label": {
+          "sc": "2026-08-12",
+          "tc": "2026-08-12"
+        },
+        "itemCount": 7,
+        "itemIds": [
+          "fstb-carried-interest-clarify-20260812",
+          "scmp-hsbc-insurance-reshuffle-20260812",
+          "picc-tan-jiong-chairman-20260812",
+          "typhoon-dolphin-178m-20260812",
+          "scmp-hk-property-tax-net-20260812",
+          "nfra-natcat-claims-20260812",
+          "gx-broker-name-compliance-20260812"
+        ]
+      },
+      {
+        "key": "2026-08-11",
+        "label": {
+          "sc": "2026-08-11",
+          "tc": "2026-08-11"
+        },
+        "itemCount": 14,
+        "itemIds": [
+          "toutiao-husao-tax-mechanics-20260811",
+          "toutiao-irr-cap-enforcement-20260811",
+          "21jingji-hk-tax-framework-20260811",
+          "toutiao-participating-1trillion-20260811",
+          "ib-swissre-natcat-h1-2026",
+          "hk-tax-prop-trading-20260811",
+          "toutiao-crs-tax-timeline-20260811",
+          "ia-mitti-rebrand-20260811",
+          "ia-asia-wealth-transfer-20260811",
+          "ib-typhoon-dolphin-20260811",
+          "ia-aon-wars-tighten-20260811",
+          "ia-china-tax-sales-20260811",
+          "ia-trade-disruption-demand-20260811",
+          "ia-japan-unwind-stakes-20260811"
+        ]
+      },
+      {
+        "key": "2026-08-10",
+        "label": {
+          "sc": "2026-08-10",
+          "tc": "2026-08-10"
+        },
+        "itemCount": 10,
+        "itemIds": [
+          "oncc-hsbc-aia-tp-20260810",
+          "stcn-netmarketing-20260810",
+          "ib-openai-cyber-20260810",
+          "ia-ai-datacenter-risks-20260810",
+          "cmbi-mcv-downside-20260810",
+          "hk-retirement-family-202608",
+          "ia-sompo-life-re-bermuda-20260810",
+          "ib-bhsi-macau-20260810",
+          "ib-soft-market-fraying-20260810",
+          "hkma-dfsa-climate-conf-20260810"
+        ]
+      },
+      {
+        "key": "2026-08-09",
+        "label": {
+          "sc": "2026-08-09",
+          "tc": "2026-08-09"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "mox-travel-cover-202607"
+        ]
+      },
+      {
+        "key": "2026-08-08",
+        "label": {
+          "sc": "2026-08-08",
+          "tc": "2026-08-08"
+        },
+        "itemCount": 4,
+        "itemIds": [
+          "ib-sk-ai-datacenter-20260808",
+          "ib-sk-nonclaim-clinics-20260808",
+          "ib-dando-rates-20260808",
+          "qbe-asia-leadership-202608"
+        ]
+      },
+      {
+        "key": "2026-08-07",
+        "label": {
+          "sc": "2026-08-07",
+          "tc": "2026-08-07"
+        },
+        "itemCount": 9,
+        "itemIds": [
+          "lee-crossborder-insurance-202608",
+          "hkma-hkmca-boclife-annuity",
+          "scmp-beijing-tax-not-new-aug07",
+          "sunlife-asia-q2-2026",
+          "munichre-h1-2026-record",
+          "ziyu-aia-api-20260807",
+          "manulife-asia-q2-2026",
+          "thailand-life-digital-channel-aug07",
+          "axa-xl-srm-cyber-aug07"
+        ]
+      },
+      {
+        "key": "2026-08-06",
+        "label": {
+          "sc": "2026-08-06",
+          "tc": "2026-08-06"
+        },
+        "itemCount": 11,
+        "itemIds": [
+          "zurich-apac-h1-2026",
+          "swissre-pnc-h1-2026",
+          "ia-tax-response-aug06",
+          "scmp-levy-next-steps-aug06",
+          "sunlife-mpf-concentration-aug06",
+          "manulife-q2-2026-hk-ape37",
+          "swissre-h1-2026-results",
+          "hk-policy-tax-selloff-aug06",
+          "prudential-cuts-china-risk-aug06",
+          "howden-cancer-cover-aug06",
+          "hsbc-h1-insurance-sales-26pct"
+        ]
+      },
+      {
+        "key": "2026-08-05",
+        "label": {
+          "sc": "2026-08-05",
+          "tc": "2026-08-05"
+        },
+        "itemCount": 10,
+        "itemIds": [
+          "china-hk-policy-tax-aug05",
+          "beazley-h1-profits-halve-aug05",
+          "nfra-audit-liability-aug05",
+          "korea-health-gap-brokers-aug05",
+          "boclife-ai-cohort-2026",
+          "maybank-etiqa-202608",
+          "jefferies-hk-sales-soar-aug05",
+          "etiqa-index-endowment-aug05",
+          "cupi-am-best-profits-aug05",
+          "apac-natcat-h1-2026-aug05"
+        ]
+      },
+      {
+        "key": "2026-08-04",
+        "label": {
+          "sc": "2026-08-04",
+          "tc": "2026-08-04"
+        },
+        "itemCount": 7,
+        "itemIds": [
+          "aon-indonesia-ceo-aug04",
+          "moodys-ai-distribution-aug04",
+          "product-rename-2026-wave",
+          "taihe-9w-policies-202608",
+          "hk-plan-rename-aug04",
+          "sg-captive-pcc-aug04",
+          "msig-cyber-sme-aug04"
+        ]
+      },
+      {
+        "key": "2026-08-03",
+        "label": {
+          "sc": "2026-08-03",
+          "tc": "2026-08-03"
+        },
+        "itemCount": 7,
+        "itemIds": [
+          "hkma-sme-credit-aug03",
+          "goldman-aia-1h26-aug03",
+          "prudential-eason-brand-aug03",
+          "cyber-insurer-profit-aug03",
+          "ia-mcv-definition-aug03",
+          "jefferies-hk-channels-aug03",
+          "aia-crossborder-care-aug03"
+        ]
+      },
+      {
+        "key": "2026-08-02",
+        "label": {
+          "sc": "2026-08-02",
+          "tc": "2026-08-02"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "fwd-cancer-claims-202608"
+        ]
+      },
+      {
+        "key": "2026-08-01",
+        "label": {
+          "sc": "2026-08-01",
+          "tc": "2026-08-01"
+        },
+        "itemCount": 6,
+        "itemIds": [
+          "mainland-insurers-tsimshatsui-202608",
+          "msig-claims-ratio-202608",
+          "fstb-captive-blog-202608",
+          "hsbc-ai-claims-5min",
+          "hkfi-ci-standardization-202609",
+          "jll-tsim-vacancy-aug01"
+        ]
+      },
+      {
+        "key": "2026-07-31",
+        "label": {
+          "sc": "2026-07-31",
+          "tc": "2026-07-31"
+        },
+        "itemCount": 4,
+        "itemIds": [
+          "hkma-monetary-stats-jun26",
+          "rga-hk-outlook-2026",
+          "nfra-governance-20260731",
+          "overseas-invest-reg-20260731"
+        ]
+      },
+      {
         "key": "2026-07-30",
         "label": {
           "sc": "2026-07-30",
@@ -49113,6 +49773,52 @@
         ]
       },
       {
+        "key": "2026-07-21",
+        "label": {
+          "sc": "2026-07-21",
+          "tc": "2026-07-21"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "julius-baer-record-2026"
+        ]
+      },
+      {
+        "key": "2026-07-20",
+        "label": {
+          "sc": "2026-07-20",
+          "tc": "2026-07-20"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "generali-go-green-2026",
+          "clio-shengyi-annuity-202607"
+        ]
+      },
+      {
+        "key": "2026-07-18",
+        "label": {
+          "sc": "2026-07-18",
+          "tc": "2026-07-18"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "taiping-h1-2026-profit"
+        ]
+      },
+      {
+        "key": "2026-07-17",
+        "label": {
+          "sc": "2026-07-17",
+          "tc": "2026-07-17"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "safe-qdii-20260717",
+          "genai-sandbox-plus-jul17"
+        ]
+      },
+      {
         "key": "2026-07-16",
         "label": {
           "sc": "2026-07-16",
@@ -49150,6 +49856,17 @@
         ]
       },
       {
+        "key": "2026-07-13",
+        "label": {
+          "sc": "2026-07-13",
+          "tc": "2026-07-13"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "taiping-yueche-nanxia-2026"
+        ]
+      },
+      {
         "key": "2026-07-12",
         "label": {
           "sc": "2026-07-12",
@@ -49171,6 +49888,17 @@
           "ia-20260710-illustration",
           "tiger21-uhnw-allocation-2026",
           "ia-20260710-illustration-review"
+        ]
+      },
+      {
+        "key": "2026-07-09",
+        "label": {
+          "sc": "2026-07-09",
+          "tc": "2026-07-09"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "aia-mdrt-seven-global-202607"
         ]
       },
       {
@@ -49198,6 +49926,29 @@
         ]
       },
       {
+        "key": "2026-07-06",
+        "label": {
+          "sc": "2026-07-06",
+          "tc": "2026-07-06"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "investhk-fo-2p0-20260706",
+          "pcpd-ai-sandbox-jul06"
+        ]
+      },
+      {
+        "key": "2026-07-05",
+        "label": {
+          "sc": "2026-07-05",
+          "tc": "2026-07-05"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "aia-health-campus-202607"
+        ]
+      },
+      {
         "key": "2026-07-03",
         "label": {
           "sc": "2026-07-03",
@@ -49206,6 +49957,17 @@
         "itemCount": 1,
         "itemIds": [
           "ia-20260703-rfyc"
+        ]
+      },
+      {
+        "key": "2026-07-02",
+        "label": {
+          "sc": "2026-07-02",
+          "tc": "2026-07-02"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "manulife-fr-2026-overview"
         ]
       },
       {
@@ -49292,6 +50054,18 @@
         "itemCount": 1,
         "itemIds": [
           "ia-20260624-rga-trends"
+        ]
+      },
+      {
+        "key": "2026-06-22",
+        "label": {
+          "sc": "2026-06-22",
+          "tc": "2026-06-22"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "censtatd-intermediary-table-202606",
+          "picc-evtol-2026"
         ]
       },
       {
@@ -49498,6 +50272,30 @@
         ]
       },
       {
+        "key": "2026-05-25",
+        "label": {
+          "sc": "2026-05-25",
+          "tc": "2026-05-25"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-ci-definitions-16-2026"
+        ]
+      },
+      {
+        "key": "2026-05-22",
+        "label": {
+          "sc": "2026-05-22",
+          "tc": "2026-05-22"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "ia-public-disclosure-rules-202605",
+          "ia-rbc-amend-20261231",
+          "ia-public-disclosure-transition-2026"
+        ]
+      },
+      {
         "key": "2026-05-20",
         "label": {
           "sc": "2026-05-20",
@@ -49541,6 +50339,18 @@
         "itemIds": [
           "ia-20260513-cross-ref",
           "ia-20260513-cross-refcheck"
+        ]
+      },
+      {
+        "key": "2026-05-10",
+        "label": {
+          "sc": "2026-05-10",
+          "tc": "2026-05-10"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "pru-2025-claims-report",
+          "sunlife-galaxy2-fr-2026"
         ]
       },
       {
@@ -49691,6 +50501,39 @@
         ]
       },
       {
+        "key": "2026-04-05",
+        "label": {
+          "sc": "2026-04-05",
+          "tc": "2026-04-05"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ctflife-fr-disclosure-2026"
+        ]
+      },
+      {
+        "key": "2026-04-03",
+        "label": {
+          "sc": "2026-04-03",
+          "tc": "2026-04-03"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "sunlife-sungift-global-ii-202604"
+        ]
+      },
+      {
+        "key": "2026-04-01",
+        "label": {
+          "sc": "2026-04-01",
+          "tc": "2026-04-01"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "boclife-fr-disclosure-2026"
+        ]
+      },
+      {
         "key": "2026-03-31",
         "label": {
           "sc": "2026-03-31",
@@ -49701,6 +50544,17 @@
           "ia-20260331-gn16-revised",
           "gn16-revised-20260331",
           "ia-20260331-cpd-reporting"
+        ]
+      },
+      {
+        "key": "2026-03-30",
+        "label": {
+          "sc": "2026-03-30",
+          "tc": "2026-03-30"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "fwd-wealth2-upgrade-202603"
         ]
       },
       {
@@ -49828,6 +50682,17 @@
         ]
       },
       {
+        "key": "2026-03-04",
+        "label": {
+          "sc": "2026-03-04",
+          "tc": "2026-03-04"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-3brokers-aml-429k-202603"
+        ]
+      },
+      {
         "key": "2026-03-01",
         "label": {
           "sc": "2026-03-01",
@@ -49836,6 +50701,18 @@
         "itemCount": 1,
         "itemIds": [
           "newcies-2026-3200apps-95b"
+        ]
+      },
+      {
+        "key": "2026-02-26",
+        "label": {
+          "sc": "2026-02-26",
+          "tc": "2026-02-26"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "ils-grant-scheme-2028-2026",
+          "generali-10life-5star-2026"
         ]
       },
       {
@@ -49858,6 +50735,17 @@
         "itemCount": 1,
         "itemIds": [
           "ia-20260224-kpim-handbook"
+        ]
+      },
+      {
+        "key": "2026-02-20",
+        "label": {
+          "sc": "2026-02-20",
+          "tc": "2026-02-20"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "prudential-bonus-mechanism-2026"
         ]
       },
       {
@@ -49978,6 +50866,17 @@
         ]
       },
       {
+        "key": "2026-01-06",
+        "label": {
+          "sc": "2026-01-06",
+          "tc": "2026-01-06"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "sztax-gba-202601"
+        ]
+      },
+      {
         "key": "2026-01-05",
         "label": {
           "sc": "2026-01-05",
@@ -49989,6 +50888,18 @@
         ]
       },
       {
+        "key": "2025-12-31",
+        "label": {
+          "sc": "2025-12-31",
+          "tc": "2025-12-31"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "aia-2025-annual-vonb-202603",
+          "ctflife-fy2025-nbv"
+        ]
+      },
+      {
         "key": "2025-12-30",
         "label": {
           "sc": "2025-12-30",
@@ -49997,6 +50908,39 @@
         "itemCount": 1,
         "itemIds": [
           "zhihu-2025-top10"
+        ]
+      },
+      {
+        "key": "2025-12-20",
+        "label": {
+          "sc": "2025-12-20",
+          "tc": "2025-12-20"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "fwd-hk-2025-nbp-93pct"
+        ]
+      },
+      {
+        "key": "2025-12-19",
+        "label": {
+          "sc": "2025-12-19",
+          "tc": "2025-12-19"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-wangfuk-fire-claims-202512"
+        ]
+      },
+      {
+        "key": "2025-12-15",
+        "label": {
+          "sc": "2025-12-15",
+          "tc": "2025-12-15"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "boclife-2025-record"
         ]
       },
       {
@@ -50019,6 +50963,17 @@
         "itemCount": 1,
         "itemIds": [
           "ia-2024-annual-stats"
+        ]
+      },
+      {
+        "key": "2025-11-28",
+        "label": {
+          "sc": "2025-11-28",
+          "tc": "2025-11-28"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "prudential-wangfuk-relief-202511"
         ]
       },
       {
@@ -50056,6 +51011,39 @@
         ]
       },
       {
+        "key": "2025-11-10",
+        "label": {
+          "sc": "2025-11-10",
+          "tc": "2025-11-10"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "yflife-furao-wanjia-2025"
+        ]
+      },
+      {
+        "key": "2025-11-05",
+        "label": {
+          "sc": "2025-11-05",
+          "tc": "2025-11-05"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "manulife-q3-2025-hk"
+        ]
+      },
+      {
+        "key": "2025-10-31",
+        "label": {
+          "sc": "2025-10-31",
+          "tc": "2025-10-31"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "hsbc-insurance-h1-2025"
+        ]
+      },
+      {
         "key": "2025-10-24",
         "label": {
           "sc": "2025-10-24",
@@ -50068,6 +51056,28 @@
         ]
       },
       {
+        "key": "2025-10-22",
+        "label": {
+          "sc": "2025-10-22",
+          "tc": "2025-10-22"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-2025-annual-report"
+        ]
+      },
+      {
+        "key": "2025-10-17",
+        "label": {
+          "sc": "2025-10-17",
+          "tc": "2025-10-17"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-dsii-20251017"
+        ]
+      },
+      {
         "key": "2025-10-14",
         "label": {
           "sc": "2025-10-14",
@@ -50076,6 +51086,17 @@
         "itemCount": 1,
         "itemIds": [
           "ia-ro-cpd-20251014"
+        ]
+      },
+      {
+        "key": "2025-09-20",
+        "label": {
+          "sc": "2025-09-20",
+          "tc": "2025-09-20"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "aia-cancer-under40-2025"
         ]
       },
       {
@@ -50091,6 +51112,17 @@
         ]
       },
       {
+        "key": "2025-09-18",
+        "label": {
+          "sc": "2025-09-18",
+          "tc": "2025-09-18"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "hkfo-200-target-hit-2025"
+        ]
+      },
+      {
         "key": "2025-09-17",
         "label": {
           "sc": "2025-09-17",
@@ -50099,6 +51131,29 @@
         "itemCount": 1,
         "itemIds": [
           "ia-20250917-product-naming"
+        ]
+      },
+      {
+        "key": "2025-09-15",
+        "label": {
+          "sc": "2025-09-15",
+          "tc": "2025-09-15"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-2025-hkfi-monthly-brief"
+        ]
+      },
+      {
+        "key": "2025-09-10",
+        "label": {
+          "sc": "2025-09-10",
+          "tc": "2025-09-10"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "ctflife-artisan-heritage2-2025",
+          "fstb-fo-guide-202509"
         ]
       },
       {
@@ -50136,6 +51191,29 @@
         ]
       },
       {
+        "key": "2025-08-20",
+        "label": {
+          "sc": "2025-08-20",
+          "tc": "2025-08-20"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "cpic-incremental-whole-life-2025"
+        ]
+      },
+      {
+        "key": "2025-08-18",
+        "label": {
+          "sc": "2025-08-18",
+          "tc": "2025-08-18"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "captive-insurers-6-202508",
+          "ia-ai-cohort-launch-202508"
+        ]
+      },
+      {
         "key": "2025-08-15",
         "label": {
           "sc": "2025-08-15",
@@ -50156,6 +51234,83 @@
         "itemIds": [
           "ia-commission-20260101",
           "ia-20250808-rbc-disclosure"
+        ]
+      },
+      {
+        "key": "2025-08-06",
+        "label": {
+          "sc": "2025-08-06",
+          "tc": "2025-08-06"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "fwd-iul-20250806"
+        ]
+      },
+      {
+        "key": "2025-08-02",
+        "label": {
+          "sc": "2025-08-02",
+          "tc": "2025-08-02"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "nfra-pricing-mechanism-2025"
+        ]
+      },
+      {
+        "key": "2025-08-01",
+        "label": {
+          "sc": "2025-08-01",
+          "tc": "2025-08-01"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "gl24-cpd-2025"
+        ]
+      },
+      {
+        "key": "2025-07-30",
+        "label": {
+          "sc": "2025-07-30",
+          "tc": "2025-07-30"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-commission-spread-note-20250730"
+        ]
+      },
+      {
+        "key": "2025-07-28",
+        "label": {
+          "sc": "2025-07-28",
+          "tc": "2025-07-28"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "manulife-bupa-mou-2025"
+        ]
+      },
+      {
+        "key": "2025-07-25",
+        "label": {
+          "sc": "2025-07-25",
+          "tc": "2025-07-25"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "h1-2025-record-99b-202507"
+        ]
+      },
+      {
+        "key": "2025-07-20",
+        "label": {
+          "sc": "2025-07-20",
+          "tc": "2025-07-20"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "manulife-redomiciliation-done-2025"
         ]
       },
       {
@@ -50203,6 +51358,30 @@
         ]
       },
       {
+        "key": "2025-06-30",
+        "label": {
+          "sc": "2025-06-30",
+          "tc": "2025-06-30"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "par-fulfillment-2025-10life",
+          "aia-cancer-young-2025"
+        ]
+      },
+      {
+        "key": "2025-06-20",
+        "label": {
+          "sc": "2025-06-20",
+          "tc": "2025-06-20"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "crossborder-payment-link-202506",
+          "ia-green-bond-rbc-202506"
+        ]
+      },
+      {
         "key": "2025-06-15",
         "label": {
           "sc": "2025-06-15",
@@ -50215,6 +51394,17 @@
         ]
       },
       {
+        "key": "2025-06-10",
+        "label": {
+          "sc": "2025-06-10",
+          "tc": "2025-06-10"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "prudential-claims-speed-2025"
+        ]
+      },
+      {
         "key": "2025-06-01",
         "label": {
           "sc": "2025-06-01",
@@ -50223,6 +51413,85 @@
         "itemCount": 1,
         "itemIds": [
           "fstb-2024-density"
+        ]
+      },
+      {
+        "key": "2025-05-31",
+        "label": {
+          "sc": "2025-05-31",
+          "tc": "2025-05-31"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "manulife-claim-2025-report"
+        ]
+      },
+      {
+        "key": "2025-05-28",
+        "label": {
+          "sc": "2025-05-28",
+          "tc": "2025-05-28"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "mainland-capital-surge-2025"
+        ]
+      },
+      {
+        "key": "2025-05-23",
+        "label": {
+          "sc": "2025-05-23",
+          "tc": "2025-05-23"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "people-hk-selling-202505"
+        ]
+      },
+      {
+        "key": "2025-05-15",
+        "label": {
+          "sc": "2025-05-15",
+          "tc": "2025-05-15"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "redomiciliation-2025-act"
+        ]
+      },
+      {
+        "key": "2025-05-08",
+        "label": {
+          "sc": "2025-05-08",
+          "tc": "2025-05-08"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "fwd-q1-2025-csm"
+        ]
+      },
+      {
+        "key": "2025-05-07",
+        "label": {
+          "sc": "2025-05-07",
+          "tc": "2025-05-07"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "manulife-q1-2025-results"
+        ]
+      },
+      {
+        "key": "2025-04-30",
+        "label": {
+          "sc": "2025-04-30",
+          "tc": "2025-04-30"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "aia-q1-2025-vonb",
+          "prudential-claim-report-2025",
+          "aia-q1-2025-vonb-13"
         ]
       },
       {
@@ -50328,6 +51597,28 @@
         ]
       },
       {
+        "key": "2025-02-17",
+        "label": {
+          "sc": "2025-02-17",
+          "tc": "2025-02-17"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "manulife-deloitte-hnw-202502"
+        ]
+      },
+      {
+        "key": "2025-02-10",
+        "label": {
+          "sc": "2025-02-10",
+          "tc": "2025-02-10"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "manulife-heritage-plan-202502"
+        ]
+      },
+      {
         "key": "2025-02-06",
         "label": {
           "sc": "2025-02-06",
@@ -50336,6 +51627,17 @@
         "itemCount": 1,
         "itemIds": [
           "ia-20250206-claims-mgmt"
+        ]
+      },
+      {
+        "key": "2025-01-20",
+        "label": {
+          "sc": "2025-01-20",
+          "tc": "2025-01-20"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "manulife-ai-cohort-202501"
         ]
       },
       {
@@ -50361,6 +51663,28 @@
         ]
       },
       {
+        "key": "2025-01-08",
+        "label": {
+          "sc": "2025-01-08",
+          "tc": "2025-01-08"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "aia-flexi-achiever-202501"
+        ]
+      },
+      {
+        "key": "2024-12-17",
+        "label": {
+          "sc": "2024-12-17",
+          "tc": "2024-12-17"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-tahoe-managers-change-202412"
+        ]
+      },
+      {
         "key": "2024-12-05",
         "label": {
           "sc": "2024-12-05",
@@ -50383,6 +51707,17 @@
         ]
       },
       {
+        "key": "2024-11-25",
+        "label": {
+          "sc": "2024-11-25",
+          "tc": "2024-11-25"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "aia-extreme-ultimate-medical-202411"
+        ]
+      },
+      {
         "key": "2024-11-20",
         "label": {
           "sc": "2024-11-20",
@@ -50394,6 +51729,50 @@
         ]
       },
       {
+        "key": "2024-11-15",
+        "label": {
+          "sc": "2024-11-15",
+          "tc": "2024-11-15"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-nfra-gba-motor-202411"
+        ]
+      },
+      {
+        "key": "2024-11-12",
+        "label": {
+          "sc": "2024-11-12",
+          "tc": "2024-11-12"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-antis scam-charter-202411"
+        ]
+      },
+      {
+        "key": "2024-10-29",
+        "label": {
+          "sc": "2024-10-29",
+          "tc": "2024-10-29"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-fintech-week-202410"
+        ]
+      },
+      {
+        "key": "2024-10-16",
+        "label": {
+          "sc": "2024-10-16",
+          "tc": "2024-10-16"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-policy-address-202410"
+        ]
+      },
+      {
         "key": "2024-10-15",
         "label": {
           "sc": "2024-10-15",
@@ -50402,6 +51781,17 @@
         "itemCount": 1,
         "itemIds": [
           "manulife-hiv-coverage-2024"
+        ]
+      },
+      {
+        "key": "2024-10-10",
+        "label": {
+          "sc": "2024-10-10",
+          "tc": "2024-10-10"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "prudential-vhis-digital-202410"
         ]
       },
       {
@@ -50426,6 +51816,17 @@
         "itemCount": 1,
         "itemIds": [
           "ia-2024h1-stats"
+        ]
+      },
+      {
+        "key": "2024-09-11",
+        "label": {
+          "sc": "2024-09-11",
+          "tc": "2024-09-11"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "statecouncil-insurance-ten-202409"
         ]
       },
       {
@@ -50462,6 +51863,28 @@
         ]
       },
       {
+        "key": "2024-08-13",
+        "label": {
+          "sc": "2024-08-13",
+          "tc": "2024-08-13"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-aia-aml-fine-202408"
+        ]
+      },
+      {
+        "key": "2024-08-02",
+        "label": {
+          "sc": "2024-08-02",
+          "tc": "2024-08-02"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "nfra-rate-cut-202408"
+        ]
+      },
+      {
         "key": "2024-08-01",
         "label": {
           "sc": "2024-08-01",
@@ -50470,6 +51893,17 @@
         "itemCount": 1,
         "itemIds": [
           "nfra-2024-crossborder-no"
+        ]
+      },
+      {
+        "key": "2024-07-27",
+        "label": {
+          "sc": "2024-07-27",
+          "tc": "2024-07-27"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-taihe-bermuda-joint-202407"
         ]
       },
       {
@@ -50561,6 +51995,17 @@
         ]
       },
       {
+        "key": "2024-05-28",
+        "label": {
+          "sc": "2024-05-28",
+          "tc": "2024-05-28"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-referral-fee-circular-202405"
+        ]
+      },
+      {
         "key": "2024-05-22",
         "label": {
           "sc": "2024-05-22",
@@ -50569,6 +52014,17 @@
         "itemCount": 1,
         "itemIds": [
           "ia-20240522-referral-fee-circular"
+        ]
+      },
+      {
+        "key": "2024-05-06",
+        "label": {
+          "sc": "2024-05-06",
+          "tc": "2024-05-06"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-wb-catbond-jamaica-202405"
         ]
       },
       {
@@ -50583,6 +52039,50 @@
         ]
       },
       {
+        "key": "2024-04-26",
+        "label": {
+          "sc": "2024-04-26",
+          "tc": "2024-04-26"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "mcv-q1-2024-record"
+        ]
+      },
+      {
+        "key": "2024-04-15",
+        "label": {
+          "sc": "2024-04-15",
+          "tc": "2024-04-15"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-cashier-order-circular-202404"
+        ]
+      },
+      {
+        "key": "2024-04-12",
+        "label": {
+          "sc": "2024-04-12",
+          "tc": "2024-04-12"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-gl4-fit-proper-202404"
+        ]
+      },
+      {
+        "key": "2024-04-10",
+        "label": {
+          "sc": "2024-04-10",
+          "tc": "2024-04-10"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-icac-joint-action-202404"
+        ]
+      },
+      {
         "key": "2024-03-24",
         "label": {
           "sc": "2024-03-24",
@@ -50591,6 +52091,28 @@
         "itemCount": 1,
         "itemIds": [
           "fstb-fo-policy-202403"
+        ]
+      },
+      {
+        "key": "2024-03-20",
+        "label": {
+          "sc": "2024-03-20",
+          "tc": "2024-03-20"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-gl33-ils-2024"
+        ]
+      },
+      {
+        "key": "2024-03-18",
+        "label": {
+          "sc": "2024-03-18",
+          "tc": "2024-03-18"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "nfra-insurer-rating-202403"
         ]
       },
       {
@@ -50605,6 +52127,17 @@
         ]
       },
       {
+        "key": "2024-02-29",
+        "label": {
+          "sc": "2024-02-29",
+          "tc": "2024-02-29"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-licensing-fees-consultation-202402"
+        ]
+      },
+      {
         "key": "2024-02-28",
         "label": {
           "sc": "2024-02-28",
@@ -50614,9 +52147,394 @@
         "itemIds": [
           "hsbc-life-250m-record-20240228"
         ]
+      },
+      {
+        "key": "2024-02-26",
+        "label": {
+          "sc": "2024-02-26",
+          "tc": "2024-02-26"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "safe-crossborder-wmc-202402"
+        ]
+      },
+      {
+        "key": "2024-02-20",
+        "label": {
+          "sc": "2024-02-20",
+          "tc": "2024-02-20"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "hkfi-climate-charter-202402"
+        ]
+      },
+      {
+        "key": "2024-01-25",
+        "label": {
+          "sc": "2024-01-25",
+          "tc": "2024-01-25"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-issb-climate-disclosure-202401"
+        ]
+      },
+      {
+        "key": "2024-01-15",
+        "label": {
+          "sc": "2024-01-15",
+          "tc": "2024-01-15"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "fstb-pps-consultation-conclusion-202401"
+        ]
+      },
+      {
+        "key": "2024-01-02",
+        "label": {
+          "sc": "2024-01-02",
+          "tc": "2024-01-02"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "aia-power-multicurrency3-202401"
+        ]
+      },
+      {
+        "key": "2013-03-05",
+        "label": {
+          "sc": "2013-03-05",
+          "tc": "2013-03-05"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "uk-rdr-ifa-benchmark-2013"
+        ]
       }
     ],
     "weekly": [
+      {
+        "key": "2026-W37",
+        "label": {
+          "sc": "2026-W37",
+          "tc": "2026-W37"
+        },
+        "itemCount": 11,
+        "itemIds": [
+          "hkma-sfc-investment-product-sales-survey-20260908",
+          "iaa-hk-reinsurance-hub-20260908",
+          "iaa-hk-premium-financing-scrutiny-20260908",
+          "iaa-manulife-ant-health-mou-20260908",
+          "iaa-aia-thailand-nb-18-20260908",
+          "iaa-apac-insurtech-funding-shift-20260908",
+          "hkma-taxonomy-2b-consult-20260907",
+          "hkma-banks-scam-alert-20260907",
+          "hkma-hkicl-fraud-alert-20260907",
+          "ibm-willis-captive-apac-20260907",
+          "iaa-life-reinsurers-altcap-20260908"
+        ]
+      },
+      {
+        "key": "2026-W36",
+        "label": {
+          "sc": "2026-W36",
+          "tc": "2026-W36"
+        },
+        "itemCount": 50,
+        "itemIds": [
+          "stcn-mof-capital-injection-20260906",
+          "ia-integrity-mgmt-circular-20260831",
+          "iaa-sunlife-ph-wealthprosper7-20260904",
+          "ibm-china-inslaw-fivefold-20260905",
+          "nfra-bank-insurer-disclosure-method-20260904",
+          "hkma-contactless-payment-binding-alert-20260904",
+          "hkma-hkicl-fraud-alert-20260904",
+          "ambest-china-nonlife-stable-20260904",
+          "nfra-insurance-law-amendment-draft-20260904",
+          "hkma-banks-scam-alert-20260904",
+          "hkma-senior-appointment-gc-20260904",
+          "iaa-aia-wealth-elite3-20260904",
+          "iaa-ambest-apac-reinsurers-20260904",
+          "iaa-zurich-apac-commercial-20260904",
+          "iaa-picc-pc-catastrophe-20260903",
+          "hkma-bank-scam-alert-20260903",
+          "ibm-lloyds-h1-2026-softening-20260903",
+          "ibm-reinsurers-record-capital-20260903",
+          "hkfi-tax-rumor-response-20260903",
+          "aia-hk-hedgefunds-cautious-20260903",
+          "ncl-bancassurance-margin-20260903",
+          "swissre-cyber-gap-20260903",
+          "samsung-insurers-ma-canopius-principal-20260903",
+          "picc-life-health-trails-20260903",
+          "ia-hk-flmi-exam-fraud-arrests-20260902",
+          "aia-wealth-plan3-20260902",
+          "ibm-mas-fsti4-ai-20260902",
+          "ibm-cathay-life-gaip-20260902",
+          "ibm-moodys-ils-record-20260902",
+          "iaa-tokio-marine-direct-commercial-20260902",
+          "iaa-pru-japan-sales-halt-20260902",
+          "iaa-apac-retirement-gap-20260902",
+          "jefferies-aia-tp-20260901",
+          "hkma-hkicl-fraud-alert-20260901",
+          "mof-expat-dividend-tax-20260901",
+          "goldman-pru-tp-cut-20260901",
+          "pru-coming-home-plan-20260831",
+          "hkma-scam-alert-20260901",
+          "iaa-macau-mic-underwriting-20260901",
+          "iaa-prudential-icici-stake-20260901",
+          "iaa-malaysian-life-re-20260901",
+          "ibm-verisk-cat-losses-20260901",
+          "iaa-sk-health-insurance-20260901",
+          "indiafirst-agentforce-20260831",
+          "igloo-preseries-c-20260901",
+          "xinhuanet-chinare-h1-20260831",
+          "iaa-asia-ai-cost-20260831",
+          "ibm-flmi-licence-review-20260831",
+          "gmteight-chan-crs-tax-20260901",
+          "hkfi-tax-rumor-response-20260901"
+        ]
+      },
+      {
+        "key": "2026-W35",
+        "label": {
+          "sc": "2026-W35",
+          "tc": "2026-W35"
+        },
+        "itemCount": 55,
+        "itemIds": [
+          "kpmg-insurtech-h1-2026",
+          "chinalife-500-agents-20260828",
+          "hk-sg-fo-competition-20260826",
+          "oncc-flmi-cheating-20260828",
+          "tvb-hui-5yr-finance-20260830",
+          "uhk-pet-insurance-20260829",
+          "ibm-peakre-moodys-a3-20260829",
+          "ibm-agentic-ai-hk-20260828",
+          "ibm-tune-protect-q2-20260828",
+          "iaa-manulife-genai-sandbox-20260828",
+          "scmp-prudential-buyback-20260827",
+          "hkma-hkmc-social-bond-report-20260828",
+          "nfra-cpa-liability-ins-method-20260828",
+          "iaa-week-in-insurance-20260828",
+          "iaa-manulife-sg-wholelife-20260828",
+          "iaa-singapore-travel-86-20260828",
+          "ibm-hdi-cfo-20260828",
+          "qianlong-familyoffice-hk-hub-20260828",
+          "ibm-skorea-h1-20260828",
+          "ibm-chiba-auto-gap-20260828",
+          "ibm-kazakhstan-branch-20260828",
+          "ibm-vietnam-banks-own-20260827",
+          "ibm-hormuz-warrisk-20260827",
+          "iaa-singlife-foreigners-20260827",
+          "iaa-apac-catgap-20260827",
+          "nfra-audit-liability-qa-20260827",
+          "nfra-gyirong-mudslide-20260827",
+          "ibm-nepal-glacier-travel-cover-20260827",
+          "hkma-bank-scam-alert-20260827",
+          "hkma-genai-sandbox-cohort-20260827",
+          "hkma-hkicl-fraud-alert-20260826",
+          "hkma-bank-scam-alert-20260826",
+          "hkma-north-metro-taskforce-20260826",
+          "iaa-fwd-h1-profit-20260826",
+          "iaa-manulife-ai-drive-20260826",
+          "iaa-china-nonmotor-moodys-20260827",
+          "iaa-taiwan-spillover-20260826",
+          "ibm-prudential-h1-20260827",
+          "ibm-guy-carpenter-pacific-ceo-20260827",
+          "ibm-prudential-ipamc-sale-20260826",
+          "ibm-freight-green-switch-20260825",
+          "hkma-hkicl-fraud-alert-20260825",
+          "hkma-bank-scam-alert-20260825",
+          "iaa-wealthy-140b-20260825",
+          "iaa-bluecross-medical-20260825",
+          "iaa-sp-aia-20260825",
+          "iaa-allianz-my-h1-20260825",
+          "hkma-annuity-cross-boundary-20260824",
+          "hkma-hkicl-fraud-alert-20260824",
+          "axa-shkp-igc-lease-20260824",
+          "ia-pru-india-health-20260824",
+          "ia-pingan-h1-20260824",
+          "ia-allianz-apac-h1-20260824",
+          "ia-allianz-trade-china-ceo-20260824",
+          "ia-ai-profit-engine-20260824"
+        ]
+      },
+      {
+        "key": "2026-W34",
+        "label": {
+          "sc": "2026-W34",
+          "tc": "2026-W34"
+        },
+        "itemCount": 43,
+        "itemIds": [
+          "oncc-bluecross-zhi-anxin-20260823",
+          "hkcna-hk-ifc-policy-package-20260823",
+          "hkcna-hk-market-infra-20260823",
+          "nfra-nonauto-governance-20260822",
+          "nfra-alm-measures-20260822",
+          "caixin-evergrande-life-license-20260822",
+          "ia-aia-h1-profit-20260821",
+          "ia-week-in-insurance-20260822",
+          "scmp-pingan-hk-etf-20260821",
+          "ib-mainland-etf-access-20260821",
+          "crntt-aia-mcv-demand-20260822",
+          "ia-premium-financing-circular-20260820",
+          "aia-h1-2026-results-20260820",
+          "aia-h1-results-market-reaction-20260820",
+          "hkma-fake-doc-scam-alert-20260820",
+          "chinalife-h1-2026-briefing-20260819",
+          "hkex-h1-2026-results-20260819",
+          "ibmag-gallagherre-digital-risk-20260819",
+          "aastocks-ubs-fwd-coverage-20260819",
+          "prudential-taikoo-hq-20260819",
+          "ia-cyber-factory-gaps-20260819",
+          "bowtie-stillcover-20260818",
+          "manulife-new-fluidity-20260818",
+          "chinanews-hkgov-insurance-funds-20260818",
+          "stcn-sfc-hkex-etf-20260818",
+          "scmp-beijing-insurers-hk-etfs-20260818",
+          "ibmag-aon-working-capital-apac-20260819",
+          "ibmag-qbe-data-centre-20260819",
+          "ib-china-life-slower-growth-20260818",
+          "ia-reinsurers-record-663b-20260818",
+          "ia-insurtech-asia-600m-q2-20260818",
+          "caixin-hk-banks-sfof-decl-20260818",
+          "aia-h1-2026-results-date-20260818",
+          "nfra-xiao-hui-hk-20260818",
+          "ibmag-aon-sidecarx-20260817",
+          "toutiao-h1-insurers-profit-20260817",
+          "toutiao-dadi-fine-20260818",
+          "boclife-hygge-eldercare-alliance-20260817",
+          "nfra-solvency-q2-5-insurers-20260817",
+          "ce-insurance-funds-40trillion-20260817",
+          "chubb-care-crit-illness-series-20260817",
+          "fwd-ebeyond-medical-20260817",
+          "steadfast-takeover-final-stages-20260817"
+        ]
+      },
+      {
+        "key": "2026-W33",
+        "label": {
+          "sc": "2026-W33",
+          "tc": "2026-W33"
+        },
+        "itemCount": 51,
+        "itemIds": [
+          "fstb-carried-interest-clarify-20260812",
+          "toutiao-fwd-juntian-broker-20260815",
+          "hkfi-wong-insurtech-interview-20260815",
+          "toutiao-baobian-tax-20260815",
+          "scmp-ia-mainland-client-definition-20260815",
+          "stheadline-hashkey-yflife-hkdap-20260814",
+          "nfra-q2-insurance-indicators-20260814",
+          "insuranceasianews-howden-financial-lines-20260814",
+          "govhk-ia-ceo-reappointment-20260814",
+          "insurancebusiness-qbe-h1-20260814",
+          "insuranceasia-ambest-reinsurers-capital-20260814",
+          "insuranceasia-deal-insurance-rw-20260814",
+          "insuranceasia-philippine-cat-pool-20260814",
+          "xchange-first-cycle-loi-20260813",
+          "ce-inscap-stakes-20260813",
+          "scmp-offshore-tax-opinion-20260813",
+          "aastocks-sp-tax-sales-20260813",
+          "nandu-offshore-trust-case-20260813",
+          "insuranceasia-hk-insurers-slide-tax-20260813",
+          "bambooworks-tax-edge-20260813",
+          "boclife-deloitte-hnw-succession-20260813",
+          "scmp-hsbc-insurance-reshuffle-20260812",
+          "picc-tan-jiong-chairman-20260812",
+          "typhoon-dolphin-178m-20260812",
+          "scmp-hk-property-tax-net-20260812",
+          "nfra-natcat-claims-20260812",
+          "gx-broker-name-compliance-20260812",
+          "toutiao-husao-tax-mechanics-20260811",
+          "toutiao-irr-cap-enforcement-20260811",
+          "21jingji-hk-tax-framework-20260811",
+          "toutiao-participating-1trillion-20260811",
+          "ib-swissre-natcat-h1-2026",
+          "hk-tax-prop-trading-20260811",
+          "toutiao-crs-tax-timeline-20260811",
+          "ia-mitti-rebrand-20260811",
+          "ia-asia-wealth-transfer-20260811",
+          "ib-typhoon-dolphin-20260811",
+          "ia-aon-wars-tighten-20260811",
+          "ia-china-tax-sales-20260811",
+          "ia-trade-disruption-demand-20260811",
+          "ia-japan-unwind-stakes-20260811",
+          "oncc-hsbc-aia-tp-20260810",
+          "stcn-netmarketing-20260810",
+          "ib-openai-cyber-20260810",
+          "ia-ai-datacenter-risks-20260810",
+          "cmbi-mcv-downside-20260810",
+          "hk-retirement-family-202608",
+          "ia-sompo-life-re-bermuda-20260810",
+          "ib-bhsi-macau-20260810",
+          "ib-soft-market-fraying-20260810",
+          "hkma-dfsa-climate-conf-20260810"
+        ]
+      },
+      {
+        "key": "2026-W32",
+        "label": {
+          "sc": "2026-W32",
+          "tc": "2026-W32"
+        },
+        "itemCount": 49,
+        "itemIds": [
+          "mox-travel-cover-202607",
+          "ib-sk-ai-datacenter-20260808",
+          "ib-sk-nonclaim-clinics-20260808",
+          "ib-dando-rates-20260808",
+          "qbe-asia-leadership-202608",
+          "lee-crossborder-insurance-202608",
+          "hkma-hkmca-boclife-annuity",
+          "scmp-beijing-tax-not-new-aug07",
+          "sunlife-asia-q2-2026",
+          "munichre-h1-2026-record",
+          "ziyu-aia-api-20260807",
+          "manulife-asia-q2-2026",
+          "thailand-life-digital-channel-aug07",
+          "axa-xl-srm-cyber-aug07",
+          "zurich-apac-h1-2026",
+          "swissre-pnc-h1-2026",
+          "ia-tax-response-aug06",
+          "scmp-levy-next-steps-aug06",
+          "sunlife-mpf-concentration-aug06",
+          "manulife-q2-2026-hk-ape37",
+          "swissre-h1-2026-results",
+          "hk-policy-tax-selloff-aug06",
+          "prudential-cuts-china-risk-aug06",
+          "howden-cancer-cover-aug06",
+          "hsbc-h1-insurance-sales-26pct",
+          "china-hk-policy-tax-aug05",
+          "beazley-h1-profits-halve-aug05",
+          "nfra-audit-liability-aug05",
+          "korea-health-gap-brokers-aug05",
+          "boclife-ai-cohort-2026",
+          "maybank-etiqa-202608",
+          "jefferies-hk-sales-soar-aug05",
+          "etiqa-index-endowment-aug05",
+          "cupi-am-best-profits-aug05",
+          "apac-natcat-h1-2026-aug05",
+          "aon-indonesia-ceo-aug04",
+          "moodys-ai-distribution-aug04",
+          "product-rename-2026-wave",
+          "taihe-9w-policies-202608",
+          "hk-plan-rename-aug04",
+          "sg-captive-pcc-aug04",
+          "msig-cyber-sme-aug04",
+          "hkma-sme-credit-aug03",
+          "goldman-aia-1h26-aug03",
+          "prudential-eason-brand-aug03",
+          "cyber-insurer-profit-aug03",
+          "ia-mcv-definition-aug03",
+          "jefferies-hk-channels-aug03",
+          "aia-crossborder-care-aug03"
+        ]
+      },
       {
         "key": "2026-W31",
         "label": {
@@ -50988,6 +52906,17 @@
         ]
       },
       {
+        "key": "2026-W08",
+        "label": {
+          "sc": "2026-W08",
+          "tc": "2026-W08"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "prudential-bonus-mechanism-2026"
+        ]
+      },
+      {
         "key": "2026-W07",
         "label": {
           "sc": "2026-W07",
@@ -51077,6 +53006,19 @@
         ]
       },
       {
+        "key": "2025-W51",
+        "label": {
+          "sc": "2025-W51",
+          "tc": "2025-W51"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "fwd-hk-2025-nbp-93pct",
+          "ia-wangfuk-fire-claims-202512",
+          "boclife-2025-record"
+        ]
+      },
+      {
         "key": "2025-W50",
         "label": {
           "sc": "2025-W50",
@@ -51096,6 +53038,17 @@
         "itemCount": 1,
         "itemIds": [
           "ia-2024-annual-stats"
+        ]
+      },
+      {
+        "key": "2025-W48",
+        "label": {
+          "sc": "2025-W48",
+          "tc": "2025-W48"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "prudential-wangfuk-relief-202511"
         ]
       },
       {
@@ -51120,6 +53073,28 @@
         "itemCount": 1,
         "itemIds": [
           "sfc-2025-wmc-insurance"
+        ]
+      },
+      {
+        "key": "2025-W45",
+        "label": {
+          "sc": "2025-W45",
+          "tc": "2025-W45"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "manulife-q3-2025-hk"
+        ]
+      },
+      {
+        "key": "2025-W44",
+        "label": {
+          "sc": "2025-W44",
+          "tc": "2025-W44"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "hsbc-insurance-h1-2025"
         ]
       },
       {
@@ -51156,6 +53131,18 @@
           "ia-202508-iul-sandbox",
           "ia-20250919-product-naming",
           "ia-20250917-product-naming"
+        ]
+      },
+      {
+        "key": "2025-W37",
+        "label": {
+          "sc": "2025-W37",
+          "tc": "2025-W37"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "ctflife-artisan-heritage2-2025",
+          "fstb-fo-guide-202509"
         ]
       },
       {
@@ -51206,6 +53193,31 @@
         ]
       },
       {
+        "key": "2025-W31",
+        "label": {
+          "sc": "2025-W31",
+          "tc": "2025-W31"
+        },
+        "itemCount": 4,
+        "itemIds": [
+          "nfra-pricing-mechanism-2025",
+          "gl24-cpd-2025",
+          "ia-commission-spread-note-20250730",
+          "manulife-bupa-mou-2025"
+        ]
+      },
+      {
+        "key": "2025-W30",
+        "label": {
+          "sc": "2025-W30",
+          "tc": "2025-W30"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "h1-2025-record-99b-202507"
+        ]
+      },
+      {
         "key": "2025-W29",
         "label": {
           "sc": "2025-W29",
@@ -51240,6 +53252,18 @@
         ]
       },
       {
+        "key": "2025-W25",
+        "label": {
+          "sc": "2025-W25",
+          "tc": "2025-W25"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "crossborder-payment-link-202506",
+          "ia-green-bond-rbc-202506"
+        ]
+      },
+      {
         "key": "2025-W24",
         "label": {
           "sc": "2025-W24",
@@ -51260,6 +53284,40 @@
         "itemCount": 1,
         "itemIds": [
           "fstb-2024-density"
+        ]
+      },
+      {
+        "key": "2025-W21",
+        "label": {
+          "sc": "2025-W21",
+          "tc": "2025-W21"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "people-hk-selling-202505"
+        ]
+      },
+      {
+        "key": "2025-W20",
+        "label": {
+          "sc": "2025-W20",
+          "tc": "2025-W20"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "redomiciliation-2025-act"
+        ]
+      },
+      {
+        "key": "2025-W19",
+        "label": {
+          "sc": "2025-W19",
+          "tc": "2025-W19"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "fwd-q1-2025-csm",
+          "manulife-q1-2025-results"
         ]
       },
       {
@@ -51335,6 +53393,28 @@
         ]
       },
       {
+        "key": "2025-W08",
+        "label": {
+          "sc": "2025-W08",
+          "tc": "2025-W08"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "manulife-deloitte-hnw-202502"
+        ]
+      },
+      {
+        "key": "2025-W07",
+        "label": {
+          "sc": "2025-W07",
+          "tc": "2025-W07"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "manulife-heritage-plan-202502"
+        ]
+      },
+      {
         "key": "2025-W06",
         "label": {
           "sc": "2025-W06",
@@ -51343,6 +53423,17 @@
         "itemCount": 1,
         "itemIds": [
           "ia-20250206-claims-mgmt"
+        ]
+      },
+      {
+        "key": "2025-W04",
+        "label": {
+          "sc": "2025-W04",
+          "tc": "2025-W04"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "manulife-ai-cohort-202501"
         ]
       },
       {
@@ -51365,6 +53456,17 @@
         "itemCount": 1,
         "itemIds": [
           "axa-20250110-shengli"
+        ]
+      },
+      {
+        "key": "2024-W51",
+        "label": {
+          "sc": "2024-W51",
+          "tc": "2024-W51"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-tahoe-managers-change-202412"
         ]
       },
       {
@@ -51401,6 +53503,29 @@
         ]
       },
       {
+        "key": "2024-W46",
+        "label": {
+          "sc": "2024-W46",
+          "tc": "2024-W46"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "ia-nfra-gba-motor-202411",
+          "ia-antis scam-charter-202411"
+        ]
+      },
+      {
+        "key": "2024-W44",
+        "label": {
+          "sc": "2024-W44",
+          "tc": "2024-W44"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-fintech-week-202410"
+        ]
+      },
+      {
         "key": "2024-W42",
         "label": {
           "sc": "2024-W42",
@@ -51409,6 +53534,17 @@
         "itemCount": 1,
         "itemIds": [
           "manulife-hiv-coverage-2024"
+        ]
+      },
+      {
+        "key": "2024-W41",
+        "label": {
+          "sc": "2024-W41",
+          "tc": "2024-W41"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "prudential-vhis-digital-202410"
         ]
       },
       {
@@ -51456,6 +53592,17 @@
         "itemCount": 1,
         "itemIds": [
           "ia-2024-crossborder"
+        ]
+      },
+      {
+        "key": "2024-W33",
+        "label": {
+          "sc": "2024-W33",
+          "tc": "2024-W33"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-aia-aml-fine-202408"
         ]
       },
       {
@@ -51539,6 +53686,17 @@
         ]
       },
       {
+        "key": "2024-W19",
+        "label": {
+          "sc": "2024-W19",
+          "tc": "2024-W19"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-wb-catbond-jamaica-202405"
+        ]
+      },
+      {
         "key": "2024-W18",
         "label": {
           "sc": "2024-W18",
@@ -51547,6 +53705,40 @@
         "itemCount": 1,
         "itemIds": [
           "chubb-cies-ilas-2024"
+        ]
+      },
+      {
+        "key": "2024-W17",
+        "label": {
+          "sc": "2024-W17",
+          "tc": "2024-W17"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "mcv-q1-2024-record"
+        ]
+      },
+      {
+        "key": "2024-W16",
+        "label": {
+          "sc": "2024-W16",
+          "tc": "2024-W16"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-cashier-order-circular-202404"
+        ]
+      },
+      {
+        "key": "2024-W15",
+        "label": {
+          "sc": "2024-W15",
+          "tc": "2024-W15"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "ia-gl4-fit-proper-202404",
+          "ia-icac-joint-action-202404"
         ]
       },
       {
@@ -51571,9 +53763,350 @@
           "newcies-20240301-launch",
           "hsbc-life-250m-record-20240228"
         ]
+      },
+      {
+        "key": "2024-W08",
+        "label": {
+          "sc": "2024-W08",
+          "tc": "2024-W08"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "hkfi-climate-charter-202402"
+        ]
+      },
+      {
+        "key": "2024-W04",
+        "label": {
+          "sc": "2024-W04",
+          "tc": "2024-W04"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "ia-issb-climate-disclosure-202401"
+        ]
+      },
+      {
+        "key": "2024-W03",
+        "label": {
+          "sc": "2024-W03",
+          "tc": "2024-W03"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "fstb-pps-consultation-conclusion-202401"
+        ]
+      },
+      {
+        "key": "2024-W01",
+        "label": {
+          "sc": "2024-W01",
+          "tc": "2024-W01"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "aia-power-multicurrency3-202401"
+        ]
+      },
+      {
+        "key": "2013-W10",
+        "label": {
+          "sc": "2013-W10",
+          "tc": "2013-W10"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "uk-rdr-ifa-benchmark-2013"
+        ]
       }
     ],
     "monthly": [
+      {
+        "key": "2026-09",
+        "label": {
+          "sc": "2026-09",
+          "tc": "2026-09"
+        },
+        "itemCount": 55,
+        "itemIds": [
+          "hkma-sfc-investment-product-sales-survey-20260908",
+          "iaa-hk-reinsurance-hub-20260908",
+          "iaa-hk-premium-financing-scrutiny-20260908",
+          "iaa-manulife-ant-health-mou-20260908",
+          "iaa-aia-thailand-nb-18-20260908",
+          "iaa-apac-insurtech-funding-shift-20260908",
+          "hkma-taxonomy-2b-consult-20260907",
+          "hkma-banks-scam-alert-20260907",
+          "hkma-hkicl-fraud-alert-20260907",
+          "ibm-willis-captive-apac-20260907",
+          "iaa-life-reinsurers-altcap-20260908",
+          "stcn-mof-capital-injection-20260906",
+          "iaa-sunlife-ph-wealthprosper7-20260904",
+          "ibm-china-inslaw-fivefold-20260905",
+          "nfra-bank-insurer-disclosure-method-20260904",
+          "hkma-contactless-payment-binding-alert-20260904",
+          "hkma-hkicl-fraud-alert-20260904",
+          "ambest-china-nonlife-stable-20260904",
+          "nfra-insurance-law-amendment-draft-20260904",
+          "hkma-banks-scam-alert-20260904",
+          "hkma-senior-appointment-gc-20260904",
+          "iaa-aia-wealth-elite3-20260904",
+          "iaa-ambest-apac-reinsurers-20260904",
+          "iaa-zurich-apac-commercial-20260904",
+          "iaa-picc-pc-catastrophe-20260903",
+          "hkma-bank-scam-alert-20260903",
+          "ibm-lloyds-h1-2026-softening-20260903",
+          "ibm-reinsurers-record-capital-20260903",
+          "hkfi-tax-rumor-response-20260903",
+          "aia-hk-hedgefunds-cautious-20260903",
+          "ncl-bancassurance-margin-20260903",
+          "swissre-cyber-gap-20260903",
+          "samsung-insurers-ma-canopius-principal-20260903",
+          "picc-life-health-trails-20260903",
+          "ia-hk-flmi-exam-fraud-arrests-20260902",
+          "aia-wealth-plan3-20260902",
+          "ibm-mas-fsti4-ai-20260902",
+          "ibm-cathay-life-gaip-20260902",
+          "ibm-moodys-ils-record-20260902",
+          "iaa-tokio-marine-direct-commercial-20260902",
+          "iaa-pru-japan-sales-halt-20260902",
+          "iaa-apac-retirement-gap-20260902",
+          "jefferies-aia-tp-20260901",
+          "hkma-hkicl-fraud-alert-20260901",
+          "mof-expat-dividend-tax-20260901",
+          "goldman-pru-tp-cut-20260901",
+          "hkma-scam-alert-20260901",
+          "iaa-macau-mic-underwriting-20260901",
+          "iaa-prudential-icici-stake-20260901",
+          "iaa-malaysian-life-re-20260901",
+          "ibm-verisk-cat-losses-20260901",
+          "iaa-sk-health-insurance-20260901",
+          "igloo-preseries-c-20260901",
+          "gmteight-chan-crs-tax-20260901",
+          "hkfi-tax-rumor-response-20260901"
+        ]
+      },
+      {
+        "key": "2026-08",
+        "label": {
+          "sc": "2026-08",
+          "tc": "2026-08"
+        },
+        "itemCount": 211,
+        "itemIds": [
+          "ia-integrity-mgmt-circular-20260831",
+          "pru-coming-home-plan-20260831",
+          "indiafirst-agentforce-20260831",
+          "kpmg-insurtech-h1-2026",
+          "chinalife-500-agents-20260828",
+          "fstb-carried-interest-clarify-20260812",
+          "hk-sg-fo-competition-20260826",
+          "xinhuanet-chinare-h1-20260831",
+          "iaa-asia-ai-cost-20260831",
+          "ibm-flmi-licence-review-20260831",
+          "oncc-flmi-cheating-20260828",
+          "tvb-hui-5yr-finance-20260830",
+          "uhk-pet-insurance-20260829",
+          "ibm-peakre-moodys-a3-20260829",
+          "ibm-agentic-ai-hk-20260828",
+          "ibm-tune-protect-q2-20260828",
+          "iaa-manulife-genai-sandbox-20260828",
+          "scmp-prudential-buyback-20260827",
+          "hkma-hkmc-social-bond-report-20260828",
+          "nfra-cpa-liability-ins-method-20260828",
+          "iaa-week-in-insurance-20260828",
+          "iaa-manulife-sg-wholelife-20260828",
+          "iaa-singapore-travel-86-20260828",
+          "ibm-hdi-cfo-20260828",
+          "qianlong-familyoffice-hk-hub-20260828",
+          "ibm-skorea-h1-20260828",
+          "ibm-chiba-auto-gap-20260828",
+          "ibm-kazakhstan-branch-20260828",
+          "ibm-vietnam-banks-own-20260827",
+          "ibm-hormuz-warrisk-20260827",
+          "iaa-singlife-foreigners-20260827",
+          "iaa-apac-catgap-20260827",
+          "nfra-audit-liability-qa-20260827",
+          "nfra-gyirong-mudslide-20260827",
+          "ibm-nepal-glacier-travel-cover-20260827",
+          "hkma-bank-scam-alert-20260827",
+          "hkma-genai-sandbox-cohort-20260827",
+          "hkma-hkicl-fraud-alert-20260826",
+          "hkma-bank-scam-alert-20260826",
+          "hkma-north-metro-taskforce-20260826",
+          "iaa-fwd-h1-profit-20260826",
+          "iaa-manulife-ai-drive-20260826",
+          "iaa-china-nonmotor-moodys-20260827",
+          "iaa-taiwan-spillover-20260826",
+          "ibm-prudential-h1-20260827",
+          "ibm-guy-carpenter-pacific-ceo-20260827",
+          "ibm-prudential-ipamc-sale-20260826",
+          "ibm-freight-green-switch-20260825",
+          "hkma-hkicl-fraud-alert-20260825",
+          "hkma-bank-scam-alert-20260825",
+          "iaa-wealthy-140b-20260825",
+          "iaa-bluecross-medical-20260825",
+          "iaa-sp-aia-20260825",
+          "iaa-allianz-my-h1-20260825",
+          "hkma-annuity-cross-boundary-20260824",
+          "hkma-hkicl-fraud-alert-20260824",
+          "axa-shkp-igc-lease-20260824",
+          "ia-pru-india-health-20260824",
+          "ia-pingan-h1-20260824",
+          "ia-allianz-apac-h1-20260824",
+          "ia-allianz-trade-china-ceo-20260824",
+          "ia-ai-profit-engine-20260824",
+          "oncc-bluecross-zhi-anxin-20260823",
+          "hkcna-hk-ifc-policy-package-20260823",
+          "hkcna-hk-market-infra-20260823",
+          "nfra-nonauto-governance-20260822",
+          "nfra-alm-measures-20260822",
+          "caixin-evergrande-life-license-20260822",
+          "ia-aia-h1-profit-20260821",
+          "ia-week-in-insurance-20260822",
+          "scmp-pingan-hk-etf-20260821",
+          "ib-mainland-etf-access-20260821",
+          "crntt-aia-mcv-demand-20260822",
+          "ia-premium-financing-circular-20260820",
+          "aia-h1-2026-results-20260820",
+          "aia-h1-results-market-reaction-20260820",
+          "hkma-fake-doc-scam-alert-20260820",
+          "chinalife-h1-2026-briefing-20260819",
+          "hkex-h1-2026-results-20260819",
+          "ibmag-gallagherre-digital-risk-20260819",
+          "aastocks-ubs-fwd-coverage-20260819",
+          "prudential-taikoo-hq-20260819",
+          "ia-cyber-factory-gaps-20260819",
+          "bowtie-stillcover-20260818",
+          "manulife-new-fluidity-20260818",
+          "chinanews-hkgov-insurance-funds-20260818",
+          "stcn-sfc-hkex-etf-20260818",
+          "scmp-beijing-insurers-hk-etfs-20260818",
+          "ibmag-aon-working-capital-apac-20260819",
+          "ibmag-qbe-data-centre-20260819",
+          "ib-china-life-slower-growth-20260818",
+          "ia-reinsurers-record-663b-20260818",
+          "ia-insurtech-asia-600m-q2-20260818",
+          "caixin-hk-banks-sfof-decl-20260818",
+          "aia-h1-2026-results-date-20260818",
+          "nfra-xiao-hui-hk-20260818",
+          "ibmag-aon-sidecarx-20260817",
+          "toutiao-h1-insurers-profit-20260817",
+          "toutiao-dadi-fine-20260818",
+          "boclife-hygge-eldercare-alliance-20260817",
+          "nfra-solvency-q2-5-insurers-20260817",
+          "ce-insurance-funds-40trillion-20260817",
+          "chubb-care-crit-illness-series-20260817",
+          "fwd-ebeyond-medical-20260817",
+          "steadfast-takeover-final-stages-20260817",
+          "toutiao-fwd-juntian-broker-20260815",
+          "hkfi-wong-insurtech-interview-20260815",
+          "toutiao-baobian-tax-20260815",
+          "scmp-ia-mainland-client-definition-20260815",
+          "stheadline-hashkey-yflife-hkdap-20260814",
+          "nfra-q2-insurance-indicators-20260814",
+          "insuranceasianews-howden-financial-lines-20260814",
+          "govhk-ia-ceo-reappointment-20260814",
+          "insurancebusiness-qbe-h1-20260814",
+          "insuranceasia-ambest-reinsurers-capital-20260814",
+          "insuranceasia-deal-insurance-rw-20260814",
+          "insuranceasia-philippine-cat-pool-20260814",
+          "xchange-first-cycle-loi-20260813",
+          "ce-inscap-stakes-20260813",
+          "scmp-offshore-tax-opinion-20260813",
+          "aastocks-sp-tax-sales-20260813",
+          "nandu-offshore-trust-case-20260813",
+          "insuranceasia-hk-insurers-slide-tax-20260813",
+          "bambooworks-tax-edge-20260813",
+          "boclife-deloitte-hnw-succession-20260813",
+          "scmp-hsbc-insurance-reshuffle-20260812",
+          "picc-tan-jiong-chairman-20260812",
+          "typhoon-dolphin-178m-20260812",
+          "scmp-hk-property-tax-net-20260812",
+          "nfra-natcat-claims-20260812",
+          "gx-broker-name-compliance-20260812",
+          "toutiao-husao-tax-mechanics-20260811",
+          "toutiao-irr-cap-enforcement-20260811",
+          "21jingji-hk-tax-framework-20260811",
+          "toutiao-participating-1trillion-20260811",
+          "ib-swissre-natcat-h1-2026",
+          "hk-tax-prop-trading-20260811",
+          "toutiao-crs-tax-timeline-20260811",
+          "ia-mitti-rebrand-20260811",
+          "ia-asia-wealth-transfer-20260811",
+          "ib-typhoon-dolphin-20260811",
+          "ia-aon-wars-tighten-20260811",
+          "ia-china-tax-sales-20260811",
+          "ia-trade-disruption-demand-20260811",
+          "ia-japan-unwind-stakes-20260811",
+          "oncc-hsbc-aia-tp-20260810",
+          "stcn-netmarketing-20260810",
+          "ib-openai-cyber-20260810",
+          "ia-ai-datacenter-risks-20260810",
+          "cmbi-mcv-downside-20260810",
+          "hk-retirement-family-202608",
+          "ia-sompo-life-re-bermuda-20260810",
+          "ib-bhsi-macau-20260810",
+          "ib-soft-market-fraying-20260810",
+          "hkma-dfsa-climate-conf-20260810",
+          "mox-travel-cover-202607",
+          "ib-sk-ai-datacenter-20260808",
+          "ib-sk-nonclaim-clinics-20260808",
+          "ib-dando-rates-20260808",
+          "qbe-asia-leadership-202608",
+          "lee-crossborder-insurance-202608",
+          "hkma-hkmca-boclife-annuity",
+          "scmp-beijing-tax-not-new-aug07",
+          "sunlife-asia-q2-2026",
+          "munichre-h1-2026-record",
+          "ziyu-aia-api-20260807",
+          "manulife-asia-q2-2026",
+          "thailand-life-digital-channel-aug07",
+          "axa-xl-srm-cyber-aug07",
+          "zurich-apac-h1-2026",
+          "swissre-pnc-h1-2026",
+          "ia-tax-response-aug06",
+          "scmp-levy-next-steps-aug06",
+          "sunlife-mpf-concentration-aug06",
+          "manulife-q2-2026-hk-ape37",
+          "swissre-h1-2026-results",
+          "hk-policy-tax-selloff-aug06",
+          "prudential-cuts-china-risk-aug06",
+          "howden-cancer-cover-aug06",
+          "hsbc-h1-insurance-sales-26pct",
+          "china-hk-policy-tax-aug05",
+          "beazley-h1-profits-halve-aug05",
+          "nfra-audit-liability-aug05",
+          "korea-health-gap-brokers-aug05",
+          "boclife-ai-cohort-2026",
+          "maybank-etiqa-202608",
+          "jefferies-hk-sales-soar-aug05",
+          "etiqa-index-endowment-aug05",
+          "cupi-am-best-profits-aug05",
+          "apac-natcat-h1-2026-aug05",
+          "aon-indonesia-ceo-aug04",
+          "moodys-ai-distribution-aug04",
+          "product-rename-2026-wave",
+          "taihe-9w-policies-202608",
+          "hk-plan-rename-aug04",
+          "sg-captive-pcc-aug04",
+          "msig-cyber-sme-aug04",
+          "hkma-sme-credit-aug03",
+          "goldman-aia-1h26-aug03",
+          "prudential-eason-brand-aug03",
+          "cyber-insurer-profit-aug03",
+          "ia-mcv-definition-aug03",
+          "jefferies-hk-channels-aug03",
+          "aia-crossborder-care-aug03",
+          "fwd-cancer-claims-202608",
+          "mainland-insurers-tsimshatsui-202608",
+          "msig-claims-ratio-202608",
+          "fstb-captive-blog-202608",
+          "hsbc-ai-claims-5min",
+          "hkfi-ci-standardization-202609",
+          "jll-tsim-vacancy-aug01"
+        ]
+      },
       {
         "key": "2026-07",
         "label": {
@@ -51900,6 +54433,22 @@
         ]
       },
       {
+        "key": "2025-05",
+        "label": {
+          "sc": "2025-05",
+          "tc": "2025-05"
+        },
+        "itemCount": 6,
+        "itemIds": [
+          "manulife-claim-2025-report",
+          "mainland-capital-surge-2025",
+          "people-hk-selling-202505",
+          "redomiciliation-2025-act",
+          "fwd-q1-2025-csm",
+          "manulife-q1-2025-results"
+        ]
+      },
+      {
         "key": "2025-04",
         "label": {
           "sc": "2025-04",
@@ -52057,6 +54606,20 @@
         ]
       },
       {
+        "key": "2024-04",
+        "label": {
+          "sc": "2024-04",
+          "tc": "2024-04"
+        },
+        "itemCount": 4,
+        "itemIds": [
+          "mcv-q1-2024-record",
+          "ia-cashier-order-circular-202404",
+          "ia-gl4-fit-proper-202404",
+          "ia-icac-joint-action-202404"
+        ]
+      },
+      {
         "key": "2024-03",
         "label": {
           "sc": "2024-03",
@@ -52077,6 +54640,30 @@
         "itemCount": 1,
         "itemIds": [
           "hsbc-life-250m-record-20240228"
+        ]
+      },
+      {
+        "key": "2024-01",
+        "label": {
+          "sc": "2024-01",
+          "tc": "2024-01"
+        },
+        "itemCount": 3,
+        "itemIds": [
+          "ia-issb-climate-disclosure-202401",
+          "fstb-pps-consultation-conclusion-202401",
+          "aia-power-multicurrency3-202401"
+        ]
+      },
+      {
+        "key": "2013-03",
+        "label": {
+          "sc": "2013-03",
+          "tc": "2013-03"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "uk-rdr-ifa-benchmark-2013"
         ]
       }
     ],
@@ -52334,6 +54921,17 @@
           "fstb-fo-policy-202403",
           "newcies-20240301-launch",
           "hsbc-life-250m-record-20240228"
+        ]
+      },
+      {
+        "key": "2013",
+        "label": {
+          "sc": "2013",
+          "tc": "2013"
+        },
+        "itemCount": 1,
+        "itemIds": [
+          "uk-rdr-ifa-benchmark-2013"
         ]
       }
     ]
