@@ -5,6 +5,11 @@ name = "hkii-usage"
 main = "src/index.js"
 compatibility_date = "2026-07-01"
 
+# 自定义域名路由（Worker 挂到主站子域，绕开被墙的 workers.dev）
+routes = [
+  { pattern = "stats.hkmaoquanqingbao.com", custom_domain = true }
+]
+
 # 部署后把 account_id 填上（Cloudflare 仪表盘右侧，或 wrangler whoami）
 # account_id = "YOUR_ACCOUNT_ID"
 
@@ -12,8 +17,7 @@ compatibility_date = "2026-07-01"
 binding = "USAGE_KV"
 # 先跑：npx wrangler kv namespace create USAGE_KV
 # 再把返回的 id 填这里
-id = "REPLACE_WITH_KV_NAMESPACE_ID"
-# preview_id = "REPLACE_WITH_PREVIEW_ID"
+id = "b68ca0e688184e279ce0b4f7f294be77"
 
 [vars]
 # CORS 允许源（生产域名）

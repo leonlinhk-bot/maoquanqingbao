@@ -2,6 +2,8 @@
 # 一键部署使用度 Worker，并把 endpoint 写回 index.html
 # 用法：bash scripts/deploy-usage-worker.sh
 set -euo pipefail
+# 环境里的 zone-scoped API token 会干扰 OAuth 凭据（wrangler 优先读 env），一律忽略
+unset CLOUDFLARE_API_TOKEN
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 cd "$ROOT/workers/usage"
 
