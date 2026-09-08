@@ -197,11 +197,13 @@ if start >= 0:
     app_path.write_text(app, encoding='utf-8')
 
 # 更新 index.html 的 app.js 版本号（cache-busting，避免浏览器缓存旧版）
-import re as _re
+# 版本号 = 条数 + 构建时间戳：改 app.js 逻辑但条数不变时，时间戳变化照样强制浏览器拉新版
+import re as _re, time as _time
 _idx_path = ROOT / 'index.html'
 if _idx_path.exists():
     _idx = _idx_path.read_text(encoding='utf-8')
-    _idx_new = _re.sub(r'app\.js(\?v=[^"]*)?', f'app.js?v={n}', _idx)
+    _ver = f"{n}.{int(_time.time())}"
+    _idx_new = _re.sub(r'app\.js(\?v=[^"]*)?', f'app.js?v={_ver}', _idx)
     if _idx_new != _idx:
         _idx_path.write_text(_idx_new, encoding='utf-8')
 
