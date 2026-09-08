@@ -1,9 +1,87 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-07T20:03:43Z",
-  "itemCount": 664,
+  "generatedAt": "2026-09-08T10:12:30Z",
+  "itemCount": 670,
   "items": [
+    {
+      "id": "hkma-sfc-investment-product-sales-survey-20260908",
+      "title": "证监会×金管局联合调查：2025年香港投资产品销售9.9万亿港元创新高 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "channel",
+        "macro"
+      ],
+      "publishedAt": "2026-09-08",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-sfc-investment-product-sales-survey-20260908",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260908-3/"
+    },
+    {
+      "id": "iaa-hk-reinsurance-hub-20260908",
+      "title": "评论：香港凭RBC与优惠税率可成亚洲再保险枢纽 区内巨灾仅17%获保障 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "cross-border"
+      ],
+      "publishedAt": "2026-09-08T12:39:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-hk-reinsurance-hub-20260908",
+      "originalUrl": "https://insuranceasia.com/commentary/reinsurance-beyond-borders-how-hong-kong-can-strengthen-asias-risk-sharing-architecture"
+    },
+    {
+      "id": "iaa-hk-premium-financing-scrutiny-20260908",
+      "title": "香港2025新造长期保费3309亿升50.6% 评论：保费融资监管趋严考验高额保单 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "premium-financing",
+        "family-office"
+      ],
+      "publishedAt": "2026-09-08T10:05:00+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-hk-premium-financing-scrutiny-20260908",
+      "originalUrl": "https://insuranceasia.com/commentary/hong-kongs-insurance-boom-facing-financing-test"
+    },
+    {
+      "id": "iaa-manulife-ant-health-mou-20260908",
+      "title": "宏利亚洲与蚂蚁健康签MOU 探索中港跨境医疗与保险科技合作 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "cross-border",
+        "insurtech"
+      ],
+      "publishedAt": "2026-09-08T09:51:00+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-manulife-ant-health-mou-20260908",
+      "originalUrl": "https://insuranceasia.com/insurance/news/manulife-asia-ant-health-mou-streamline-cross-border-healthcare"
+    },
+    {
+      "id": "iaa-aia-thailand-nb-18-20260908",
+      "title": "AIA泰国新业务保费升18%跑赢持平大市 高基数成2026隐忧 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "results",
+        "firm"
+      ],
+      "publishedAt": "2026-09-08T07:00:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-aia-thailand-nb-18-20260908",
+      "originalUrl": "https://insuranceasia.com/insurance/news/aia-thailand-grows-new-premiums-18-despite-flat-market"
+    },
+    {
+      "id": "iaa-apac-insurtech-funding-shift-20260908",
+      "title": "亚太保险科技融资由虚转实：资金流向嵌入式保险与基建 星印印尼份额升 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "insurtech",
+        "funding"
+      ],
+      "publishedAt": "2026-09-08T05:00:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-apac-insurtech-funding-shift-20260908",
+      "originalUrl": "https://insuranceasia.com/insurance/exclusive/asias-insurtech-shifts-hype-heft"
+    },
     {
       "id": "hkma-taxonomy-2b-consult-20260907",
       "title": "金管局就香港可持续金融分类目录第二阶段B原型展开公众咨询 10月7日截止 [EN原文]",

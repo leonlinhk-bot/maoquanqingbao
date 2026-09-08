@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-08T04:03:06+08:00",
-    "itemCount": 664,
+    "generatedAt": "2026-09-08T18:12:21+08:00",
+    "itemCount": 670,
     "windowNote": {
-      "sc": "本库664条。",
-      "tc": "本庫664條。"
+      "sc": "本库670条。",
+      "tc": "本庫670條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -264,6 +264,452 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "hkma-sfc-investment-product-sales-survey-20260908",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "证监会×金管局联合调查：2025年香港投资产品销售9.9万亿港元创新高 [EN原文]",
+        "tc": "證監會×金管局聯合調查：2025年香港投資產品銷售9.9萬億港元創新高 [EN原文]"
+      },
+      "summary": {
+        "sc": "证监会与金管局8日公布2025年联合调查：非交易所买卖投资产品销售按年增63%至9.9万亿港元创纪录，参与客户升33%至逾160万；集体投资计划(CIS)首度超越结构性产品居销售榜首（占42%），货币市场基金主导热销CIS，线上销售占比升至21%。",
+        "tc": "證監會與金管局8日公佈2025年聯合調查：非交易所買賣投資產品銷售按年增63%至9.9萬億港元創紀錄，參與客戶升33%至逾160萬；集體投資計劃(CIS)首度超越結構性產品居銷售榜首（佔42%），貨幣市場基金主導熱銷CIS，線上銷售佔比升至21%。"
+      },
+      "why": {
+        "sc": "反映香港财富管理分销渠道景气与资金流向：定息及货币类产品受捧、线上化提速；银行、券商与保险中介持牌销售同场竞逐，销售行为与投资者保障监管口径值得中介参照。",
+        "tc": "反映香港財富管理分銷渠道景氣與資金流向：定息及貨幣類產品受捧、線上化提速；銀行、券商與保險中介持牌銷售同場競逐，銷售行為與投資者保障監管口徑值得中介參照。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "对照投资相连及储蓄产品销售流程的适当性与线上销售留痕要求，检视保险中介与银行券商渠道的合规差异",
+          "tc": "對照投資相連及儲蓄產品銷售流程的適當性與線上銷售留痕要求，檢視保險中介與銀行券商渠道的合規差異"
+        },
+        "lead": {
+          "sc": "高净值客户资产配置活跃，可借势梳理保险+投资跨产品线的协同服务话术",
+          "tc": "高淨值客戶資產配置活躍，可藉勢梳理保險+投資跨產品線的協同服務話術"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "香港金融管理局 HKMA",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "channel",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "金管局",
+          "证监会",
+          "投资产品销售",
+          "FICC",
+          "联合调查"
+        ],
+        "tc": [
+          "金管局",
+          "證監會",
+          "投資產品銷售",
+          "FICC",
+          "聯合調查"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-08",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260908-3/",
+      "ingestedAt": "2026-09-08T18:12:21+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "iaa-hk-reinsurance-hub-20260908",
+      "clusterCount": 1,
+      "score": 60,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "评论：香港凭RBC与优惠税率可成亚洲再保险枢纽 区内巨灾仅17%获保障 [EN原文]",
+        "tc": "評論：香港憑RBC與優惠稅率可成亞洲再保險樞紐 區內巨災僅17%獲保障 [EN原文]"
+      },
+      "summary": {
+        "sc": "保险亚洲评论指：2024年亚洲健康与寿险保障缺口约3900亿美元，同年自然灾害经济损失约910亿美元中仅约160亿获保险覆盖；文章称香港凭RBC制度、专业再保及专属自保8.25%优惠税率与资本市场深度，可成为亚洲再保险与风险分担枢纽。",
+        "tc": "保險亞洲評論指：2024年亞洲健康與壽險保障缺口約3900億美元，同年自然災害經濟損失約910億美元中僅約160億獲保險覆蓋；文章稱香港憑RBC制度、專業再保及專屬自保8.25%優惠稅率與資本市場深度，可成為亞洲再保險與風險分擔樞紐。"
+      },
+      "why": {
+        "sc": "再保承保能力加上香港政策组合（RBC+优惠税率+保险相连证券生态）是港险市场竞争力叙事关键一环，对高额保单及跨国风险安排的再保合作方选择有背景参考价值。",
+        "tc": "再保承保能力加上香港政策組合（RBC+優惠稅率+保險相連證券生態）是港險市場競爭力敘事關鍵一環，對高額保單及跨國風險安排的再保合作方選擇有背景參考價值。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "服务企业客户时可用香港再保枢纽及专属自保政策配套，作为跨国风险融资方案的卖点",
+          "tc": "服務企業客戶時可用香港再保樞紐及專屬自保政策配套，作為跨國風險融資方案的賣點"
+        },
+        "cross": {
+          "sc": "关注香港与新加坡争夺区域再保枢纽地位的政策竞争与资金流向",
+          "tc": "關注香港與新加坡爭奪區域再保樞紐地位的政策競爭與資金流向"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reinsurance",
+        "cross-border"
+      ],
+      "tags": {
+        "sc": [
+          "再保险",
+          "香港枢纽",
+          "保障缺口",
+          "巨灾",
+          "专属自保"
+        ],
+        "tc": [
+          "再保險",
+          "香港樞紐",
+          "保障缺口",
+          "巨災",
+          "專屬自保"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-08T12:39:00+08:00",
+      "originalUrl": "https://insuranceasia.com/commentary/reinsurance-beyond-borders-how-hong-kong-can-strengthen-asias-risk-sharing-architecture",
+      "ingestedAt": "2026-09-08T18:12:21+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "iaa-hk-premium-financing-scrutiny-20260908",
+      "clusterCount": 1,
+      "score": 65,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "香港2025新造长期保费3309亿升50.6% 评论：保费融资监管趋严考验高额保单 [EN原文]",
+        "tc": "香港2025新造長期保費3309億升50.6% 評論：保費融資監管趨嚴考驗高額保單 [EN原文]"
+      },
+      "summary": {
+        "sc": "保险亚洲评论：2025年香港新造长期保险保费3309亿港元按年升50.6%，单一家办数年底破3380家；惟金管局审视保费融资业务后，对2026年1月1日起新承做融资要求更清晰披露机制、风险说明及贷款年期适配，未对冲的跨境币种错配恐成保单断供风险。",
+        "tc": "保險亞洲評論：2025年香港新造長期保險保費3309億港元按年升50.6%，單一家辦數年底破3380家；惟金管局審視保費融資業務後，對2026年1月1日起新承做融資要求更清晰披露機制、風險說明及貸款年期適配，未對沖的跨境幣種錯配恐成保單斷供風險。"
+      },
+      "why": {
+        "sc": "高净值大额保单普遍依赖保费融资成交；金管局强化融资披露与贷款年期审查，直接改变高额个案的结构设计与销售流程，前线需防范汇率波动引发追缴保证金的售后风险。",
+        "tc": "高淨值大額保單普遍依賴保費融資成交；金管局強化融資披露與貸款年期審查，直接改變高額個案的結構設計與銷售流程，前線需防範匯率波動引發追繳保證金的售後風險。"
+      },
+      "actions": {
+        "front": {
+          "sc": "大额融资个案须核对贷款年期与保单年期适配，跨境融资留意汇率对冲安排，向客户讲清追缴保证金风险",
+          "tc": "大額融資個案須核對貸款年期與保單年期適配，跨境融資留意匯率對沖安排，向客戶講清追繳保證金風險"
+        },
+        "midback": {
+          "sc": "融资型高额保单的销售与承保流程应留痕风险披露，对照金管局2026年1月起强化的新做融资要求自查",
+          "tc": "融資型高額保單的銷售與承保流程應留痕風險披露，對照金管局2026年1月起強化的新做融資要求自查"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "market",
+        "family"
+      ],
+      "themes": [
+        "premium-financing",
+        "family-office"
+      ],
+      "tags": {
+        "sc": [
+          "保费融资",
+          "高净值",
+          "金管局",
+          "单一家办",
+          "大额保单"
+        ],
+        "tc": [
+          "保費融資",
+          "高淨值",
+          "金管局",
+          "單一家辦",
+          "大額保單"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-08T10:05:00+08:00",
+      "originalUrl": "https://insuranceasia.com/commentary/hong-kongs-insurance-boom-facing-financing-test",
+      "ingestedAt": "2026-09-08T18:12:21+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "iaa-manulife-ant-health-mou-20260908",
+      "clusterCount": 1,
+      "score": 65,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "宏利亚洲与蚂蚁健康签MOU 探索中港跨境医疗与保险科技合作 [EN原文]",
+        "tc": "宏利亞洲與螞蟻健康簽MOU 探索中港跨境醫療與保險科技合作 [EN原文]"
+      },
+      "summary": {
+        "sc": "宏利亚洲与蚂蚁健康（安护健康科技香港）8日签署合作备忘录：拟就健康管理服务、跨境医疗保障、数字健康能力及保险科技协作，首阶段为宏利香港及内地客户提供个案管理与医疗网络支持，并探索理赔及支付支援，其后拟扩展至其他亚洲市场。",
+        "tc": "宏利亞洲與螞蟻健康（安護健康科技香港）8日簽署合作備忘錄：擬就健康管理服務、跨境醫療保障、數字健康能力及保險科技協作，首階段為宏利香港及內地客戶提供個案管理與醫療網絡支持，並探索理賠及支付支援，其後擬擴展至其他亞洲市場。"
+      },
+      "why": {
+        "sc": "跨境医疗体验是中港保单增值服务的核心卖点之一；蚂蚁生态的医疗网络与数字化能力若接入宏利服务体系，可能重塑高客医疗服务格局，反映保司与内地科技平台在保险+医疗价值链上的合作加深。",
+        "tc": "跨境醫療體驗是中港保單增值服務的核心賣點之一；螞蟻生態的醫療網絡與數字化能力若接入宏利服務體系，可能重塑高客醫療服務格局，反映保司與內地科技平台在保險+醫療價值鏈上的合作加深。"
+      },
+      "actions": {
+        "front": {
+          "sc": "向跨境客群介绍保单医疗增值服务时，留意宏利与蚂蚁生态协同带来的就医与理赔体验变化",
+          "tc": "向跨境客群介紹保單醫療增值服務時，留意宏利與螞蟻生態協同帶來的就醫與理賠體驗變化"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {
+          "sc": "内地科技平台与港险保司的跨境医疗合作模式值得跟踪，作为中港服务生态竞争观察样本",
+          "tc": "內地科技平台與港險保司的跨境醫療合作模式值得跟蹤，作為中港服務生態競爭觀察樣本"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 0,
+        "lead": 0,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer",
+        "tech"
+      ],
+      "themes": [
+        "cross-border",
+        "insurtech"
+      ],
+      "tags": {
+        "sc": [
+          "宏利",
+          "蚂蚁健康",
+          "跨境医疗",
+          "保险科技",
+          "MOU"
+        ],
+        "tc": [
+          "宏利",
+          "螞蟻健康",
+          "跨境醫療",
+          "保險科技",
+          "MOU"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-08T09:51:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/manulife-asia-ant-health-mou-streamline-cross-border-healthcare",
+      "ingestedAt": "2026-09-08T18:12:21+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "iaa-aia-thailand-nb-18-20260908",
+      "clusterCount": 1,
+      "score": 60,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "AIA泰国新业务保费升18%跑赢持平大市 高基数成2026隐忧 [EN原文]",
+        "tc": "AIA泰國新業務保費升18%跑贏持平大市 高基數成2026隱憂 [EN原文]"
+      },
+      "summary": {
+        "sc": "保险亚洲引述Jefferies月度数据：AIA泰国新业务保费按年升18%，同期泰国寿险市场整体持平；整付保费大升183%、年化新保费增4%。泰国为AIA第三大市场，占集团上半年新业务价值15%，惟2025年强劲表现垫高基数，维持增长难度上升。",
+        "tc": "保險亞洲引述Jefferies月度數據：AIA泰國新業務保費按年升18%，同期泰國壽險市場整體持平；整付保費大升183%、年化新保費增4%。泰國為AIA第三大市場，佔集團上半年新業務價值15%，惟2025年強勁表現墊高基數，維持增長難度上升。"
+      },
+      "why": {
+        "sc": "泰国是友邦集团香港以外关键增长引擎，其保护类产品占新业务价值77%的结构与高基数消化路径，可作观察友邦亚太渠道效率与集团策略重心分配的参照样本。",
+        "tc": "泰國是友邦集團香港以外關鍵增長引擎，其保護類產品佔新業務價值77%的結構與高基數消化路徑，可作觀察友邦亞太渠道效率與集團策略重心分配的參照樣本。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "解读区域同业业绩时可对照AIA泰国高保护占比+银行渠道结构，理解集团价值增长驱动逻辑",
+          "tc": "解讀區域同業業績時可對照AIA泰國高保護佔比+銀行渠道結構，理解集團價值增長驅動邏輯"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "results",
+        "firm"
+      ],
+      "tags": {
+        "sc": [
+          "AIA",
+          "泰国",
+          "新业务保费",
+          "Jefferies",
+          "友邦集团"
+        ],
+        "tc": [
+          "AIA",
+          "泰國",
+          "新業務保費",
+          "Jefferies",
+          "友邦集團"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-08T07:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/aia-thailand-grows-new-premiums-18-despite-flat-market",
+      "ingestedAt": "2026-09-08T18:12:21+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "iaa-apac-insurtech-funding-shift-20260908",
+      "clusterCount": 1,
+      "score": 60,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "亚太保险科技融资由虚转实：资金流向嵌入式保险与基建 星印印尼份额升 [EN原文]",
+        "tc": "亞太保險科技融資由虛轉實：資金流向嵌入式保險與基建 星印印尼份額升 [EN原文]"
+      },
+      "summary": {
+        "sc": "保险亚洲分析指：亚太保险科技融资2022至2025年降至约41亿美元，远低于2018至2021年的91亿美元，交易宗数由383宗减至202宗；资金转向嵌入式保险、分销平台及基础设施等盈利路径清晰的生态公司，中国占比下降，新加坡、印度与印尼吸金份额上升。",
+        "tc": "保險亞洲分析指：亞太保險科技融資2022至2025年降至約41億美元，遠低於2018至2021年的91億美元，交易宗數由383宗減至202宗；資金轉向嵌入式保險、分銷平台及基礎設施等盈利路徑清晰的生態公司，中國佔比下降，新加坡、印度與印尼吸金份額上升。"
+      },
+      "why": {
+        "sc": "融资退潮与「生态编排者」转向预示保险科技工具供给洗牌；为港险团队评估数字化工具与代理赋能方案时，合作方资金链稳健度与盈利路径清晰度应纳入筛选标准。",
+        "tc": "融資退潮與「生態編排者」轉向預示保險科技工具供給洗牌；為港險團隊評估數字化工具與代理賦能方案時，合作方資金鏈穩健度與盈利路徑清晰度應納入篩選標準。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "选型数字化工具/嵌入式分销合作方时，将盈利路径清晰度与融资稳健度纳入尽调标准",
+          "tc": "選型數字化工具/嵌入式分銷合作方時，將盈利路徑清晰度與融資穩健度納入盡調標準"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "tech"
+      ],
+      "themes": [
+        "insurtech",
+        "funding"
+      ],
+      "tags": {
+        "sc": [
+          "保险科技",
+          "融资",
+          "嵌入式保险",
+          "新加坡",
+          "NTT DATA"
+        ],
+        "tc": [
+          "保險科技",
+          "融資",
+          "嵌入式保險",
+          "新加坡",
+          "NTT DATA"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-08T05:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/exclusive/asias-insurtech-shifts-hype-heft",
+      "ingestedAt": "2026-09-08T18:12:21+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
     {
       "id": "hkma-taxonomy-2b-consult-20260907",
       "clusterCount": 1,
@@ -53585,14 +54031,14 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 664 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 664 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 670 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 670 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 664,
+      "totalItems": 670,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 223,
+          "count": 224,
           "label": "监管一手"
         },
         {
@@ -53607,7 +54053,7 @@
         },
         {
           "tier": "media",
-          "count": 215,
+          "count": 220,
           "label": "媒体报道"
         },
         {
@@ -53696,7 +54142,7 @@
         },
         {
           "theme": "firm",
-          "count": 99,
+          "count": 100,
           "label": "保司"
         },
         {
@@ -53716,22 +54162,22 @@
         },
         {
           "theme": "channel",
-          "count": 52,
+          "count": 53,
           "label": "渠道"
         },
         {
           "theme": "macro",
-          "count": 48,
+          "count": 49,
           "label": "宏观"
         },
         {
           "theme": "cross-border",
-          "count": 43,
+          "count": 45,
           "label": "跨境"
         },
         {
           "theme": "reinsurance",
-          "count": 40,
+          "count": 41,
           "label": "再保险"
         }
       ],
