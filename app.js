@@ -54869,12 +54869,14 @@ window.HKII_DATA = {
   if (pulseSort && roleWeights) {
     // 统一门槛：score ≥ 80，控制精选数量
     arr = arr.filter(i => (i.score||0) >= 80);
-    arr.sort((a,b) => {
-      const sa = (a.score||0)*0.7 + ((a.rolesImpact||{}).front||0)*(roleWeights.front||0) + ((a.rolesImpact||{}).midback||0)*(roleWeights.midback||0) + ((a.rolesImpact||{}).lead||0)*(roleWeights.lead||0) + ((a.rolesImpact||{}).cross||0)*(roleWeights.cross||0);
-      const sb = (b.score||0)*0.7 + ((b.rolesImpact||{}).front||0)*(roleWeights.front||0) + ((b.rolesImpact||{}).midback||0)*(roleWeights.midback||0) + ((b.rolesImpact||{}).lead||0)*(roleWeights.lead||0) + ((b.rolesImpact||{}).cross||0)*(roleWeights.cross||0);
-      return sb - sa;
-    });
-    return arr.slice(0, 50);
+    // 时间优先：近14天排前（时间倒序），历史精选排后（角色加权）——避免「角色匹配高」的老条目永久霸榜
+    const _w = (i) => (i.score||0)*0.7 + ((i.rolesImpact||{}).front||0)*(roleWeights.front||0) + ((i.rolesImpact||{}).midback||0)*(roleWeights.midback||0) + ((i.rolesImpact||{}).lead||0)*(roleWeights.lead||0) + ((i.rolesImpact||{}).cross||0)*(roleWeights.cross||0);
+    const _cut = new Date(Date.now() - 14*24*3600*1000).toISOString().slice(0,10);
+    const recent = arr.filter(i => (i.publishedAt||"").slice(0,10) >= _cut)
+      .sort((a,b) => (b.publishedAt||"").localeCompare(a.publishedAt||"") || (b.score||0)-(a.score||0));
+    const history = arr.filter(i => (i.publishedAt||"").slice(0,10) < _cut)
+      .sort((a,b) => _w(b) - _w(a));
+    return recent.concat(history).slice(0, 50);
   }
   // 收藏：支持标签筛选；筛选不改变排序键
     if (forceTime || true) {
