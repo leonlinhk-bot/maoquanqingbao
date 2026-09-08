@@ -180,6 +180,19 @@ window.HKII_DATA = {
     "cleanedBy": "humanizer v2 - targeted",
     "changelog": [
       {
+        "date": "2026-09-08",
+        "title": {
+          "sc": "v2.5 — 使用度追踪 · 今日脉搏时间优先",
+          "tc": "v2.5 — 使用度追蹤 · 今日脈搏時間優先"
+        },
+        "items": [
+          "使用度两层：Cloudflare Web Analytics（宏观 PV/UV）+ 微观事件 Worker（搜索/打开/角色/海报）",
+          "「大家都在搜」接后端聚合：本机累计 + 大家热搜双源，拼音中间态过滤保留",
+          "今日脉搏排序改为时间优先：近 14 天按时间倒序，历史精选按角色加权——修复老条目永久霸榜",
+          "Worker 端点可配置（HKII_USAGE_ENDPOINT），未部署时前端静默降级，不影响现有功能"
+        ]
+      },
+      {
         "date": "2026-08-11",
         "title": {
           "sc": "v2.4 — 450 条里程碑 · 情报看板全面刷新",
@@ -54720,14 +54733,31 @@ window.HKII_DATA = {
   const tx = (o) => !o ? "" : (typeof o === "string" ? o : (o[state.lang] || o.sc || o.tc || ""));
   const esc = (s) => String(s??"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
 
-  // ===== 搜索累计（本地）—— 预留后端聚合接口（方案 B，时机成熟再接） =====
+  // ===== 搜索累计（本地）+ 使用度上报（方案 B：Cloudflare Worker） =====
   const SEARCH_LOG_KEY = "hkii_search_log";
+  const USAGE_ENDPOINT = (typeof window !== "undefined" && window.HKII_USAGE_ENDPOINT) || "";
+  const GLOBAL_HOT_KEY = "hkii_global_hot";
+  const GLOBAL_HOT_TS = "hkii_global_hot_ts";
   function loadSearchLog(){
     try { return JSON.parse(localStorage.getItem(SEARCH_LOG_KEY) || "{}"); }
     catch(e){ return {}; }
   }
   // 拼音中间态特征：纯字母 + 含撇号（如 zhuan'jie、zhuan'ji'er），应过滤
   const isPinyinJunk = (k) => /^[a-z']+$/i.test(k) && k.includes("'");
+  // fire-and-forget 上报；无 endpoint 时静默跳过（本地开发/未部署）
+  function trackEvent(type, value){
+    if(!USAGE_ENDPOINT) return;
+    const payload = { t: String(type||"").slice(0,16), v: value == null ? undefined : String(value).slice(0,80), r: state.role || undefined };
+    try {
+      const body = JSON.stringify(payload);
+      if(navigator.sendBeacon){
+        const blob = new Blob([body], { type: "application/json" });
+        navigator.sendBeacon(USAGE_ENDPOINT.replace(/\/$/,"") + "/e", blob);
+      } else {
+        fetch(USAGE_ENDPOINT.replace(/\/$/,"") + "/e", { method:"POST", headers:{"Content-Type":"application/json"}, body, keepalive:true, mode:"cors" }).catch(()=>{});
+      }
+    } catch(e){}
+  }
   function recordSearch(term){
     const t = String(term||"").trim();
     if(!t || t.length < 2) return;
@@ -54735,18 +54765,48 @@ window.HKII_DATA = {
     const log = loadSearchLog();
     log[t] = (log[t]||0) + 1;
     try { localStorage.setItem(SEARCH_LOG_KEY, JSON.stringify(log)); } catch(e){}
-    // 【预留 B】后端上报接口位置：未来接 Cloudflare Worker 时，在此调用
-    // reportToServer(t);  // POST /search-log {term:t} → Worker 聚合
+    trackEvent("search", t);
   }
   function loadHotTerms(){
+    // 优先「大家」热搜（Worker 聚合，缓存 1h），再拼本地 + 默认词
+    let global = [];
+    try {
+      const ts = parseInt(localStorage.getItem(GLOBAL_HOT_TS)||"0",10)||0;
+      if(Date.now() - ts < 3600*1000){
+        global = JSON.parse(localStorage.getItem(GLOBAL_HOT_KEY)||"[]") || [];
+      }
+    } catch(e){ global = []; }
     const log = loadSearchLog();
-    const sorted = Object.entries(log)
-      .filter(([k]) => !isPinyinJunk(k)) // 排除已积累的拼音垃圾词
+    const local = Object.entries(log)
+      .filter(([k]) => !isPinyinJunk(k))
       .sort((a,b)=>b[1]-a[1]).map(x=>x[0]);
-    // 本地真实热搜在前，默认词补齐（冷启动/不足时兜底）
     const defaults = T().hotSearchTerms || [];
-    const merged = [...sorted, ...defaults.filter(d=>!sorted.includes(d))];
-    return merged.slice(0, 10);
+    const seen = new Set();
+    const merged = [];
+    for(const x of [...global, ...local, ...defaults]){
+      if(!x || seen.has(x) || isPinyinJunk(x)) continue;
+      seen.add(x); merged.push(x);
+      if(merged.length >= 10) break;
+    }
+    return merged;
+  }
+  // 后台拉「大家」热搜（有 endpoint 才跑；失败静默）
+  function refreshGlobalHot(){
+    if(!USAGE_ENDPOINT) return;
+    try {
+      const ts = parseInt(localStorage.getItem(GLOBAL_HOT_TS)||"0",10)||0;
+      if(Date.now() - ts < 3600*1000) return; // 1h 内不重拉
+    } catch(e){}
+    fetch(USAGE_ENDPOINT.replace(/\/$/,"") + "/hot?n=20&days=14", { mode:"cors" })
+      .then(r => r.ok ? r.json() : null)
+      .then(d => {
+        if(!d || !d.ok || !Array.isArray(d.items)) return;
+        const terms = d.items.map(x => x.term).filter(Boolean);
+        try {
+          localStorage.setItem(GLOBAL_HOT_KEY, JSON.stringify(terms));
+          localStorage.setItem(GLOBAL_HOT_TS, String(Date.now()));
+        } catch(e){}
+      }).catch(()=>{});
   }
 
 
@@ -55597,6 +55657,7 @@ ${t.brandName} · ${t.disc}
         a.download=`猫圈儿-海报-${suffix}-${it.id}.png`;
         document.body.appendChild(a); a.click(); a.remove();
         toast(t.posterDl+" ✓");
+        trackEvent("poster", theme);
       }catch(err){ toast("下载失败，请长按图片保存"); }
       drawPoster(it, state.posterTheme); // 恢复当前版式
     }
@@ -55615,6 +55676,7 @@ ${t.brandName} · ${t.disc}
 
   function openDrawer(id){
     const it=byId(id); if(!it) return;
+    trackEvent("open", id);
     const t=T(); state.selectedId=id;
     $("#dTitle").textContent=tx(it.title);
     const roleLabel=(t.roles.find(r=>r.id===state.role)||{}).label;
@@ -55650,8 +55712,8 @@ ${t.brandName} · ${t.disc}
   }
   function closeDrawer(){ state.selectedId=null; $("#drawer").classList.remove("open"); $("#backdrop").classList.remove("open"); render(); }
 
-  $("#nav").addEventListener("click", e=>{ const b=e.target.closest("[data-view]"); if(!b) return; state.view=b.dataset.view; state.themeFilter="all"; state.feedTier="all"; state.feedKind="all"; if(b.dataset.view!=="themes") state.themeBoard=null; $("#sidebar").classList.remove("open"); render(); });
-  $("#rolePills").addEventListener("click", e=>{ const b=e.target.closest("[data-role]"); if(!b) return; state.role=b.dataset.role; localStorage.setItem("hkii_role", state.role); render(); });
+  $("#nav").addEventListener("click", e=>{ const b=e.target.closest("[data-view]"); if(!b) return; state.view=b.dataset.view; state.themeFilter="all"; state.feedTier="all"; state.feedKind="all"; if(b.dataset.view!=="themes") state.themeBoard=null; trackEvent("view", state.view); $("#sidebar").classList.remove("open"); render(); });
+  $("#rolePills").addEventListener("click", e=>{ const b=e.target.closest("[data-role]"); if(!b) return; state.role=b.dataset.role; localStorage.setItem("hkii_role", state.role); trackEvent("role", state.role); render(); });
   let _isComposing = false;
   $("#q").addEventListener("compositionstart", ()=>{ _isComposing = true; });
   $("#q").addEventListener("compositionend", (e)=>{ _isComposing = false; recordSearch(e.target.value); });
@@ -55661,7 +55723,7 @@ ${t.brandName} · ${t.disc}
   $("#content").addEventListener("click", e=>{
     const ft2=e.target.closest("#facetToggle"); if(ft2){ const fm=document.getElementById("facetMore"); if(fm) fm.style.display=fm.style.display==="none"?"":"none"; ft2.textContent=fm.style.display==="none"?"文种 ▾":"文种 ▴"; return; }const hc=e.target.closest("[data-hot]"); if(hc){ state.q=hc.dataset.hot; document.getElementById("q").value=state.q; recordSearch(state.q); render(); return; }
     const email=e.target.closest("[data-email-digest]"); if(email){ e.stopPropagation(); const box=email.parentElement.nextElementSibling; box.style.display=box.style.display==="none"?"block":"none"; return; }
-    const fav=e.target.closest("[data-fav]"); if(fav){ e.stopPropagation(); const id=fav.dataset.fav; state.fav.has(id)?state.fav.delete(id):state.fav.add(id); localStorage.setItem("hkii_fav", JSON.stringify([...state.fav])); render(); return; }
+    const fav=e.target.closest("[data-fav]"); if(fav){ e.stopPropagation(); const id=fav.dataset.fav; state.fav.has(id)?state.fav.delete(id):state.fav.add(id); localStorage.setItem("hkii_fav", JSON.stringify([...state.fav])); trackEvent("fav", id); render(); return; }
     const favtag=e.target.closest("[data-favtag]"); if(favtag){ state.favTag = favtag.dataset.favtag || null; render(); return; }
     const o=e.target.closest("[data-open]"); if(o){ openDrawer(o.dataset.open); return; }
     // 主题雷达：进板块页（不跳全部动态）
@@ -55678,7 +55740,7 @@ ${t.brandName} · ${t.disc}
     const ak=e.target.closest("[data-arch-key]"); if(ak){ state.archiveKey=ak.dataset.archKey; render(); return; }
     const apg=e.target.closest("[data-arch-page]"); if(apg){ state.archivePage=parseInt(apg.dataset.archPage); render(); return; }
     const j=e.target.closest("[data-jump-theme]"); if(j){ state.view="themes"; state.themeBoard=j.dataset.jumpTheme; render(); return; }
-    const em=e.target.closest("[data-export-md]"); if(em){ e.stopPropagation(); const it=byId(em.dataset.exportMd); if(!it) return; downloadText(`猫圈儿-${it.id}.md`, itemToMarkdown(it)); toast(T().mdDone); return; }
+    const em=e.target.closest("[data-export-md]"); if(em){ e.stopPropagation(); const it=byId(em.dataset.exportMd); if(!it) return; downloadText(`猫圈儿-${it.id}.md`, itemToMarkdown(it)); trackEvent("export", it.id); toast(T().mdDone); return; }
     const po=e.target.closest("[data-poster]"); if(po){ e.stopPropagation(); openPoster(po.dataset.poster); return; }
     const ed=e.target.closest("[data-export-digest]"); if(ed){
       e.stopPropagation();
@@ -55695,7 +55757,7 @@ ${t.brandName} · ${t.disc}
   });
   // drawer action buttons (export live in drawer body)
   $("#dBody").addEventListener("click", e=>{
-    const em=e.target.closest("[data-export-md]"); if(em){ const it=byId(em.dataset.exportMd); if(it) downloadText(`猫圈儿-${it.id}.md`, itemToMarkdown(it)); toast(T().mdDone); return; }
+    const em=e.target.closest("[data-export-md]"); if(em){ const it=byId(em.dataset.exportMd); if(it){ downloadText(`猫圈儿-${it.id}.md`, itemToMarkdown(it)); trackEvent("export", it.id); } toast(T().mdDone); return; }
     const po=e.target.closest("[data-poster]"); if(po){ openPoster(po.dataset.poster); }
   });
   const pm=$("#posterModal");
@@ -55712,5 +55774,7 @@ ${t.brandName} · ${t.disc}
     const th=e.target.closest("[data-theme-btn]"); if(th){ state.theme=th.dataset.themeBtn; localStorage.setItem("hkii_theme", state.theme); render(); }
   });
   $("#menuBtn").addEventListener("click", ()=>$("#sidebar").classList.toggle("open"));
+  refreshGlobalHot();
+  trackEvent("view", state.view || "pulse");
   render();
 })();

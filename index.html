@@ -101,7 +101,24 @@
   </div>
 </div>
 
+<!-- 使用度配置：部署 Worker 后填 HKII_USAGE_ENDPOINT；CF Web Analytics 仪表盘拿 token 填 HKII_CF_BEACON -->
+<script>
+  window.HKII_USAGE_ENDPOINT = window.HKII_USAGE_ENDPOINT || ""; // e.g. "https://hkii-usage.<sub>.workers.dev"
+  window.HKII_CF_BEACON = window.HKII_CF_BEACON || ""; // Cloudflare Web Analytics token
+</script>
 <script src="app.js?v=670"></script>
+<!-- Cloudflare Web Analytics（有 token 才加载；免费、无 cookie） -->
+<script>
+(function(){
+  var t = window.HKII_CF_BEACON;
+  if(!t) return;
+  var s = document.createElement("script");
+  s.defer = true;
+  s.src = "https://static.cloudflareinsights.com/beacon.min.js";
+  s.setAttribute("data-cf-beacon", JSON.stringify({token: t}));
+  document.head.appendChild(s);
+})();
+</script>
 
 <div class="qr-backdrop" id="qrBackdrop" onclick="document.getElementById('qrPopup').classList.remove('show');document.getElementById('qrBackdrop').classList.remove('show')"></div>
 <div class="qr-popup" id="qrPopup">
