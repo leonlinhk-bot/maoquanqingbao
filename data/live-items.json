@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-09T01:28:14.207272+08:00",
-    "itemCount": 671,
+    "generatedAt": "2026-09-09T21:39:10.565533+08:00",
+    "itemCount": 677,
     "windowNote": {
-      "sc": "本库671条。",
-      "tc": "本庫671條。"
+      "sc": "本库677条。",
+      "tc": "本庫677條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -277,6 +277,462 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "pru-ai-underwriter-alibaba-20260909",
+      "clusterCount": 1,
+      "score": 80,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "prudential",
+      "title": {
+        "sc": "保诚香港推AI核保员：阿里云合作开发 全渠道顾问数分钟获初步核保指引 [EN原文]",
+        "tc": "保誠香港推AI核保員：阿里雲合作開發 全渠道顧問數分鐘獲初步核保指引 [EN原文]"
+      },
+      "summary": {
+        "sc": "保诚香港9日宣布正式推出与阿里云共同开发的AI核保工具：理财顾问在销售点经聊天机器人输入客户财务、医疗、职业及居住资料，数分钟内获接受、除外、加费或需补资料等初步核保指引，取代以往数天等待；RAG技术驱动，准确率逾95%、幻觉率低于2%，开发不足三个月，最终核保决定仍由核保师把关。",
+        "tc": "保誠香港9日宣佈正式推出與阿里雲共同開發的AI核保工具：理財顧問在銷售點經聊天機械人輸入客戶財務、醫療、職業及居住資料，數分鐘內獲接受、除外、加費或需補資料等初步核保指引，取代以往數天等待；RAG技術驅動，準確率逾95%、幻覺率低於2%，開發不足三個月，最終核保決定仍由核保師把關。"
+      },
+      "why": {
+        "sc": "首阶段覆盖自家理财顾问、下一步扩至银保与经纪渠道并引入核保团队，标志港险AI核保从试点进入核心业务运营；「AI+人核」分工模式与95%准确率指标是前线可感知的效率变化，也预示保险科技竞争从销售端转向核保等中台环节。",
+        "tc": "首階段覆蓋自家理財顧問、下一步擴至銀保與經紀渠道並引入核保團隊，標誌港險AI核保從試點進入核心業務營運；「AI+人核」分工模式與95%準確率指標是前線可感知的效率變化，也預示保險科技競爭從銷售端轉向核保等中台環節。"
+      },
+      "actions": {
+        "front": {
+          "sc": "投保前初步核保指引可数分钟给出，向客户报价与方案沟通节奏或加快；同业跟进AI核保时留意保障责任除外/加费判定口径变化",
+          "tc": "投保前初步核保指引可數分鐘給出，向客戶報價與方案溝通節奏或加快；同業跟進AI核保時留意保障責任除外/加費判定口徑變化"
+        },
+        "midback": {
+          "sc": "将保诚AI核保案例纳入「港险AI工具竞品扫描」，跟踪后续银保/经纪渠道开放进度",
+          "tc": "將保誠AI核保案例納入「港險AI工具競品掃描」，跟蹤後續銀保/經紀渠道開放進度"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "保诚保险 Prudential Hong Kong",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer",
+        "tech"
+      ],
+      "themes": [
+        "ai",
+        "insurtech"
+      ],
+      "tags": {
+        "sc": [
+          "保诚",
+          "AI核保",
+          "阿里云",
+          "千问",
+          "保险科技"
+        ],
+        "tc": [
+          "保誠",
+          "AI核保",
+          "阿里雲",
+          "千問",
+          "保險科技"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-09",
+      "originalUrl": "https://www.prudential.com.hk/en/about-us/newsroom/prudential-launches-brand-new-ai-underwriter-powered-by-alibaba-cloud/",
+      "ingestedAt": "2026-09-09T21:39:10.565533+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "scmp-hk-insurers-tech-alliances-20260909",
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "scmp",
+      "title": {
+        "sc": "港险商竞组科技联盟应对内地税改：保诚联阿里云、宏利联蚂蚁、中银人寿联德勤 [EN原文]",
+        "tc": "港險商競組科技聯盟應對內地稅改：保誠聯阿里雲、宏利聯螞蟻、中銀人壽聯德勤 [EN原文]"
+      },
+      "summary": {
+        "sc": "南华早报9日报道，多家香港保险公司竞相建立跨界科技联盟以应对内地收紧跨境税务规则：保诚与阿里云合作推AI核保，宏利与蚂蚁健康合作，中银人寿与德勤联手；保诚香港CEO林嘉德称AI核保令顾问数分钟获初步结果而非数天，并指保险公司单靠自身难应付新技术，善用AI者将胜出。",
+        "tc": "南華早報9日報道，多家香港保險公司競相建立跨界科技聯盟以應對內地收緊跨境稅務規則：保誠與阿里雲合作推AI核保，宏利與螞蟻健康合作，中銀人壽與德勤聯手；保誠香港CEO林嘉德稱AI核保令顧問數分鐘獲初步結果而非數天，並指保險公司單靠自身難應付新技術，善用AI者將勝出。"
+      },
+      "why": {
+        "sc": "主流财经媒体将保司科技联盟与内地税改并列解读：监管/税务压力下保司转向以AI与生态合作降本增效，这组趋势信号对判断港险竞争格局（谁在加码科技投入）有参考价值。",
+        "tc": "主流財經媒體將保司科技聯盟與內地稅改並列解讀：監管/稅務壓力下保司轉向以AI與生態合作降本增效，這組趨勢信號對判斷港險競爭格局（誰在加碼科技投入）有參考價值。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "跟踪各保司科技联盟名单（保诚/宏利/中银人寿为样本），作为渠道与产品叙事变化的背景资料",
+          "tc": "跟蹤各保司科技聯盟名單（保誠/宏利/中銀人壽為樣本），作為渠道與產品敘事變化的背景資料"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "内地税改后港险保司的「科技化应对」叙事值得观察，留意是否成为新的市场宣传主线",
+          "tc": "內地稅改後港險保司的「科技化應對」敘事值得觀察，留意是否成為新的市場宣傳主線"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 0,
+        "cross": 1
+      },
+      "source": {
+        "sc": "South China Morning Post",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer",
+        "tech"
+      ],
+      "themes": [
+        "insurtech",
+        "cross-border"
+      ],
+      "tags": {
+        "sc": [
+          "SCMP",
+          "保诚",
+          "宏利",
+          "中银人寿",
+          "AI核保",
+          "科技联盟"
+        ],
+        "tc": [
+          "SCMP",
+          "保誠",
+          "宏利",
+          "中銀人壽",
+          "AI核保",
+          "科技聯盟"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-09T16:30:00+08:00",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3366902/insurers-prudential-manulife-seal-tech-alliances-amid-beijings-tightened-tax-rules",
+      "ingestedAt": "2026-09-09T21:39:10.565533+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "hkma-hkmca-ctf-life-annuity-20260909",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "香港年金公司与周大福人寿策略结盟：指定持牌中介可介绍香港公共年金 [EN原文]",
+        "tc": "香港年金公司與周大福人壽策略結盟：指定持牌中介可介紹香港公共年金 [EN原文]"
+      },
+      "summary": {
+        "sc": "按揭证券公司旗下香港年金公司（HKMCA）9日宣布与周大福人寿策略合作：周大福人寿的指定持牌保险中介可向客户介绍香港公共年金计划并转介合资格客户。HKMCA指2026年下半年新增两家保险公司伙伴，现时合作保司共三家，将持续扩展转介网络以协助公众应对高龄化社会与长寿风险管理。",
+        "tc": "按揭證券公司旗下香港年金公司（HKMCA）9日宣佈與周大福人壽策略合作：周大福人壽的指定持牌保險中介可向客戶介紹香港公共年金計劃並轉介合資格客戶。HKMCA指2026年下半年新增兩家保險公司夥伴，現時合作保司共三家，將持續擴展轉介網絡以協助公眾應對高齡化社會與長壽風險管理。"
+      },
+      "why": {
+        "sc": "香港公共年金（HKMC年金计划）是港府主推的长寿风险对冲工具，现借保险公司中介网络扩阔分销；对退休规划客群而言，公共年金与商业年金/储蓄险形成「政府选项vs市场产品」互补格局，是顾问做退休方案时的必备背景知识。",
+        "tc": "香港公共年金（HKMC年金計劃）是港府主推的長壽風險對沖工具，現借保險公司中介網絡擴闊分銷；對退休規劃客群而言，公共年金與商業年金/儲蓄險形成「政府選項vs市場產品」互補格局，是顧問做退休方案時的必備背景知識。"
+      },
+      "actions": {
+        "front": {
+          "sc": "服务退休规划客群时厘清香港公共年金（65岁或以上、一筆過繳付）与商业年金的差异与互补，避免方案混淆",
+          "tc": "服務退休規劃客群時釐清香港公共年金（65歲或以上、一筆過繳付）與商業年金的差異與互補，避免方案混淆"
+        },
+        "midback": {
+          "sc": "跟踪HKMCA转介网络扩张名单（中银人寿后新增两家、现共三家），留意渠道竞争变化",
+          "tc": "跟蹤HKMCA轉介網絡擴張名單（中銀人壽後新增兩家、現共三家），留意渠道競爭變化"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "香港金融管理局 HKMA（香港按揭证券有限公司旗下香港年金公司）",
+        "lang": "en"
+      },
+      "boards": [
+        "product",
+        "insurer"
+      ],
+      "themes": [
+        "annuity",
+        "retirement"
+      ],
+      "tags": {
+        "sc": [
+          "香港年金",
+          "按揭证券公司",
+          "周大福人寿",
+          "长寿风险",
+          "退休规划"
+        ],
+        "tc": [
+          "香港年金",
+          "按揭證券公司",
+          "周大福人壽",
+          "長壽風險",
+          "退休規劃"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-09",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260909-3/",
+      "ingestedAt": "2026-09-09T21:39:10.565533+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "hkma-banks-scam-alert-20260909",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "金管局再发防诈警示：中银香港现钓鱼短讯、华侨银行（香港）现假冒网站及网银登入画面 [EN原文]",
+        "tc": "金管局再發防詐警示：中銀香港現釣魚短訊、華僑銀行（香港）現假冒網站及網銀登入畫面 [EN原文]"
+      },
+      "summary": {
+        "sc": "金管局汇总两家银行骗案通报：中银香港出现钓鱼即时短讯，华侨银行（香港）出现假冒网站及网银登入画面；提醒公众银行不会经短信或电邮内嵌链接引导交易，亦不会以电话、电邮或短讯索取登入密码或一次性验证码；已泄露资料或曾交易者应即联络相关银行并向警方报案。",
+        "tc": "金管局匯總兩家銀行騙案通報：中銀香港出現釣魚即時短訊，華僑銀行（香港）出現假冒網站及網銀登入畫面；提醒公眾銀行不會經短訊或電郵內嵌連結引導交易，亦不會以電話、電郵或短訊索取登入密碼或一次性驗證碼；已洩露資料或曾交易者應即聯絡相關銀行並向警方報案。"
+      },
+      "why": {
+        "sc": "银行户口是保单缴费、理赔与保费融资的资金入口；中银香港与华侨银行（香港）均是常见保费扣款行，前线宜持续提醒客户警惕钓鱼短讯与假冒网银页面，核实网址、勿点内嵌链接。",
+        "tc": "銀行戶口是保單繳費、理賠與保費融資的資金入口；中銀香港與華僑銀行（香港）均是常見保費扣款行，前線宜持續提醒客戶警惕釣魚短訊與假冒網銀頁面，核實網址、勿點內嵌連結。"
+      },
+      "actions": {
+        "front": {
+          "sc": "提醒客户核实银行网址、勿点短信或电邮内嵌链接；已泄露资料或转账应即联络相关银行并报警",
+          "tc": "提醒客戶核實銀行網址、勿點短訊或電郵內嵌連結；已洩露資料或轉賬應即聯絡相關銀行並報警"
+        },
+        "midback": {
+          "sc": "将最新假冒网站/钓鱼名单纳入客户防诈提醒素材库",
+          "tc": "將最新假冒網站/釣魚名單納入客戶防詐提醒素材庫"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "香港金融管理局 HKMA",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "tags": {
+        "sc": [
+          "金管局",
+          "防诈",
+          "中银香港",
+          "华侨银行",
+          "钓鱼短讯"
+        ],
+        "tc": [
+          "金管局",
+          "防詐",
+          "中銀香港",
+          "華僑銀行",
+          "釣魚短訊"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-09",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260909-4/",
+      "ingestedAt": "2026-09-09T21:39:10.565533+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "hkma-hkicl-fraud-alert-20260909",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "香港银行同业结算公司（HKICL）警示假冒网站：涉FPS「买家网上保障」退款骗局 [EN原文]",
+        "tc": "香港銀行同業結算公司（HKICL）警示假冒網站：涉FPS「買家網上保障」退款騙局 [EN原文]"
+      },
+      "summary": {
+        "sc": "香港银行同业结算公司（HKICL）发现多个假冒网站（fpshk.cc、fpshkicl.homes、refundrequesthk.xyz等），冒充「买家网上保障」提供FPS转账退款、未授权交易申报等服务，更诱导用户交出证件号码、身份证照片、手机号及银行资料以充值虚拟钱包，再转往假冒客服WhatsApp对话。HKICL强调与FPS无关，官方网址为hkicl.com.hk及fps.hkicl.com.hk。",
+        "tc": "香港銀行同業結算公司（HKICL）發現多個假冒網站（fpshk.cc、fpshkicl.homes、refundrequesthk.xyz等），冒充「買家網上保障」提供FPS轉賬退款、未授權交易申報等服務，更誘導用戶交出證件號碼、身份證照片、手機號及銀行資料以充值虛擬錢包，再轉往假冒客服WhatsApp對話。HKICL強調與FPS無關，官方網址為hkicl.com.hk及fps.hkicl.com.hk。"
+      },
+      "why": {
+        "sc": "骗局以FPS「退款」为饵索取身份证与银行资料，直接威胁客户资金与隐私；保单缴费常用FPS转账，客户一旦误信「买家保障」类假冒网站，轻则泄露证件、重则虚拟钱包被盗刷，前线宜将此案例纳入防诈提示。",
+        "tc": "騙局以FPS「退款」為餌索取身份證與銀行資料，直接威脅客戶資金與私隱；保單繳費常用FPS轉賬，客戶一旦誤信「買家保障」類假冒網站，輕則洩露證件、重則虛擬錢包被盜刷，前線宜將此案例納入防詐提示。"
+      },
+      "actions": {
+        "front": {
+          "sc": "提醒客户：HKICL/FPS不会主动接触公众提供退款服务；转账前核实收款方，谨防索取身份证照片与银行资料的网站",
+          "tc": "提醒客戶：HKICL/FPS不會主動接觸公眾提供退款服務；轉賬前核實收款方，謹防索取身份證照片與銀行資料的網站"
+        },
+        "midback": {
+          "sc": "将新假冒网址清单纳入客户防诈提醒素材库",
+          "tc": "將新假冒網址清單納入客戶防詐提醒素材庫"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "香港金融管理局 HKMA",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "tags": {
+        "sc": [
+          "金管局",
+          "HKICL",
+          "FPS",
+          "假冒网站",
+          "防诈"
+        ],
+        "tc": [
+          "金管局",
+          "HKICL",
+          "FPS",
+          "假冒網站",
+          "防詐"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-09",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260909-5/",
+      "ingestedAt": "2026-09-09T21:39:10.565533+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "iaa-swissre-ai-infra-premiums-20260909",
+      "clusterCount": 1,
+      "score": 60,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "瑞士再保险预警2026年峰值巨灾损失或达3200亿美元；AI数据中心料2030年前催生约910亿美元保费 [EN原文]",
+        "tc": "瑞士再保險預警2026年峰值巨災損失或達3200億美元；AI數據中心料2030年前催生約910億美元保費 [EN原文]"
+      },
+      "summary": {
+        "sc": "瑞士再保险在九月Rendez-Vous年会前发布风险展望：2026年峰值情景下全球承保损失或达约3200亿美元；自然巨灾年损失以每年5-7%递增；AI基建方面，数据中心累计投资2030年前料超6万亿美元，将产生约910亿美元保费，惟美国约四成数据中心位处龙卷风显著或高风险区；美国商业责任险2025年损失达1740亿美元，超过当年全球巨灾损失。",
+        "tc": "瑞士再保險在九月Rendez-Vous年會前發佈風險展望：2026年峰值情景下全球承保損失或達約3200億美元；自然巨災年損失以每年5-7%遞增；AI基建方面，數據中心累計投資2030年前料超6萬億美元，將產生約910億美元保費，惟美國約四成數據中心位處龍捲風顯著或高風險區；美國商業責任險2025年損失達1740億美元，超過當年全球巨災損失。"
+      },
+      "why": {
+        "sc": "再保定价与巨灾损失趋势会经再保成本传导至直保保费；AI数据中心成为新保费引擎同时积聚高集中度风险，属「科技×保险」交叉观察点，港险市场科技险/网络险需求升温背景下有参考价值。",
+        "tc": "再保定價與巨災損失趨勢會經再保成本傳導至直保保費；AI數據中心成為新保費引擎同時積聚高集中度風險，屬「科技×保險」交叉觀察點，港險市場科技險/網絡險需求升溫背景下有參考價值。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "再保成本趋势（巨灾/责任险）作为直保产品定价与核保政策的背景变量持续跟踪",
+          "tc": "再保成本趨勢（巨災/責任險）作為直保產品定價與核保政策的背景變量持續跟蹤"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "AI数据中心保险需求是科技险新增长点，留意港险市场是否出现同类科技基建保障产品",
+          "tc": "AI數據中心保險需求是科技險新增長點，留意港險市場是否出現同類科技基建保障產品"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 0,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "market",
+        "tech"
+      ],
+      "themes": [
+        "reinsurance",
+        "ai"
+      ],
+      "tags": {
+        "sc": [
+          "Swiss Re",
+          "巨灾",
+          "AI基建",
+          "数据中心",
+          "再保险"
+        ],
+        "tc": [
+          "Swiss Re",
+          "巨災",
+          "AI基建",
+          "數據中心",
+          "再保險"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-09",
+      "originalUrl": "https://insuranceasia.com/insurance/news/swiss-re-sees-320b-insured-loss-risk-in-2026",
+      "ingestedAt": "2026-09-09T21:39:10.565533+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
     {
       "id": "hkma-banks-scam-alert-20260908",
       "clusterCount": 1,
@@ -49066,6 +49522,22 @@
   "digests": {
     "daily": [
       {
+        "key": "2026-09-09",
+        "label": {
+          "sc": "2026-09-09",
+          "tc": "2026-09-09"
+        },
+        "itemCount": 6,
+        "itemIds": [
+          "pru-ai-underwriter-alibaba-20260909",
+          "scmp-hk-insurers-tech-alliances-20260909",
+          "hkma-hkmca-ctf-life-annuity-20260909",
+          "hkma-banks-scam-alert-20260909",
+          "hkma-hkicl-fraud-alert-20260909",
+          "iaa-swissre-ai-infra-premiums-20260909"
+        ]
+      },
+      {
         "key": "2026-09-08",
         "label": {
           "sc": "2026-09-08",
@@ -56717,19 +57189,19 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 671 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 671 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 677 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 677 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 671,
+      "totalItems": 677,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 225,
+          "count": 228,
           "label": "监管一手"
         },
         {
           "tier": "insurer",
-          "count": 134,
+          "count": 135,
           "label": "保司公告"
         },
         {
@@ -56739,7 +57211,7 @@
         },
         {
           "tier": "media",
-          "count": 220,
+          "count": 222,
           "label": "媒体报道"
         },
         {
@@ -56858,18 +57330,18 @@
         },
         {
           "theme": "cross-border",
-          "count": 45,
+          "count": 46,
           "label": "跨境"
         },
         {
           "theme": "reinsurance",
-          "count": 41,
+          "count": 42,
           "label": "再保险"
         }
       ],
       "dateRange": {
-        "sc": "2013-03-05 ~ 2026-09-08",
-        "tc": "2013-03-05 ~ 2026-09-08"
+        "sc": "2013-03-05 ~ 2026-09-09",
+        "tc": "2013-03-05 ~ 2026-09-09"
       }
     },
     "marketData": {

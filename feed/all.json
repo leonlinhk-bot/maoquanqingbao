@@ -1,9 +1,87 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-08T17:28:17Z",
-  "itemCount": 671,
+  "generatedAt": "2026-09-09T13:39:25Z",
+  "itemCount": 677,
   "items": [
+    {
+      "id": "pru-ai-underwriter-alibaba-20260909",
+      "title": "保诚香港推AI核保员：阿里云合作开发 全渠道顾问数分钟获初步核保指引 [EN原文]",
+      "sourceTier": "insurer",
+      "themes": [
+        "ai",
+        "insurtech"
+      ],
+      "publishedAt": "2026-09-09",
+      "score": 80,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=pru-ai-underwriter-alibaba-20260909",
+      "originalUrl": "https://www.prudential.com.hk/en/about-us/newsroom/prudential-launches-brand-new-ai-underwriter-powered-by-alibaba-cloud/"
+    },
+    {
+      "id": "scmp-hk-insurers-tech-alliances-20260909",
+      "title": "港险商竞组科技联盟应对内地税改：保诚联阿里云、宏利联蚂蚁、中银人寿联德勤 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "insurtech",
+        "cross-border"
+      ],
+      "publishedAt": "2026-09-09T16:30:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-hk-insurers-tech-alliances-20260909",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3366902/insurers-prudential-manulife-seal-tech-alliances-amid-beijings-tightened-tax-rules"
+    },
+    {
+      "id": "hkma-hkmca-ctf-life-annuity-20260909",
+      "title": "香港年金公司与周大福人寿策略结盟：指定持牌中介可介绍香港公共年金 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "annuity",
+        "retirement"
+      ],
+      "publishedAt": "2026-09-09",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-hkmca-ctf-life-annuity-20260909",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260909-3/"
+    },
+    {
+      "id": "hkma-banks-scam-alert-20260909",
+      "title": "金管局再发防诈警示：中银香港现钓鱼短讯、华侨银行（香港）现假冒网站及网银登入画面 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "publishedAt": "2026-09-09",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-banks-scam-alert-20260909",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260909-4/"
+    },
+    {
+      "id": "hkma-hkicl-fraud-alert-20260909",
+      "title": "香港银行同业结算公司（HKICL）警示假冒网站：涉FPS「买家网上保障」退款骗局 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "publishedAt": "2026-09-09",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-hkicl-fraud-alert-20260909",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260909-5/"
+    },
+    {
+      "id": "iaa-swissre-ai-infra-premiums-20260909",
+      "title": "瑞士再保险预警2026年峰值巨灾损失或达3200亿美元；AI数据中心料2030年前催生约910亿美元保费 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "ai"
+      ],
+      "publishedAt": "2026-09-09",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-swissre-ai-infra-premiums-20260909",
+      "originalUrl": "https://insuranceasia.com/insurance/news/swiss-re-sees-320b-insured-loss-risk-in-2026"
+    },
     {
       "id": "hkma-banks-scam-alert-20260908",
       "title": "金管局再发防诈警示：建行亚洲与瑞士宝盛现假冒网站及网银登入画面 [EN原文]",
