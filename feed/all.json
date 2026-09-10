@@ -1,9 +1,178 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-10T10:11:45Z",
-  "itemCount": 686,
+  "generatedAt": "2026-09-10T16:50:03Z",
+  "itemCount": 699,
   "items": [
+    {
+      "id": "censtatd-q2-2026-business-receipts-insurance-60-7",
+      "title": "统计处：第二季保险业业务收益指数按年升60.7% 升幅居主要服务行业之首 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "statistics",
+        "market"
+      ],
+      "publishedAt": "2026-09-10T16:30:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=censtatd-q2-2026-business-receipts-insurance-60-7",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202609/10/P2026091000338.htm"
+    },
+    {
+      "id": "10life-ci-standard-comparison-20260910",
+      "title": "10Life比对7款危疾产品：新标准属最低门槛 癌症诊断与通波仔条件反而更严",
+      "sourceTier": "pro",
+      "themes": [
+        "uw",
+        "claims"
+      ],
+      "publishedAt": "2026-09-10T19:06:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=10life-ci-standard-comparison-20260910",
+      "originalUrl": "https://www.stheadline.com/realtime-finance/3613897/"
+    },
+    {
+      "id": "ms-hk-life-vnb-diverge-20260910",
+      "title": "大摩：香港寿险上半年VNB普升但分化加剧 料第三季偏弱、第四季起正常化",
+      "sourceTier": "pro",
+      "themes": [
+        "analyst",
+        "mcv"
+      ],
+      "publishedAt": "2026-09-10T15:07:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ms-hk-life-vnb-diverge-20260910",
+      "originalUrl": "https://hk.investing.com/news/stock-market-news/article-1650468"
+    },
+    {
+      "id": "nfra-financial-power-15th-plan-20260910",
+      "title": "内地发布《金融强国建设「十五五」规划》 金监总局：大力整治「价格战」「高息高返」",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "mainland"
+      ],
+      "publishedAt": "2026-09-10",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-financial-power-15th-plan-20260910",
+      "originalUrl": "https://www.bjnews.com.cn/detail/1789029958129265.html"
+    },
+    {
+      "id": "hku-wealth-management-academy-20260908",
+      "title": "港大经管学院成立首个大学牵头「财富管理学院」 中银香港赞助、9月8日举行成立典礼",
+      "sourceTier": "pro",
+      "themes": [
+        "family-office",
+        "talent"
+      ],
+      "publishedAt": "2026-09-08",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hku-wealth-management-academy-20260908",
+      "originalUrl": "https://www.hkubs.hku.hk/tc/media/in-the-media/hku-business-school-launches-the-first-wealth-management-academy-nurturing-future-leaders-and-strengthening-hong-kongs-global-leadership/"
+    },
+    {
+      "id": "hkma-dfsa-nasdaq-dubai-swg-20260910",
+      "title": "金管局、港交所与迪拜金管局、Nasdaq Dubai成立策略工作组 深化港迪金融市场合作 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "cross-border",
+        "connectivity"
+      ],
+      "publishedAt": "2026-09-10",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-dfsa-nasdaq-dubai-swg-20260910",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260910-5/"
+    },
+    {
+      "id": "hkma-banks-scam-alert-20260910",
+      "title": "金管局防诈警示：星展银行（香港）现假网站与钓鱼电邮、富邦银行（香港）现假网站 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "publishedAt": "2026-09-10",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-banks-scam-alert-20260910",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260910-3/"
+    },
+    {
+      "id": "ibm-hk-ai-point-of-sale-20260910",
+      "title": "港险AI推进至销售点：保诚AI核保师与宏利代理AI助手并行 经纪渠道尚未接入 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "distribution"
+      ],
+      "publishedAt": "2026-09-10",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-hk-ai-point-of-sale-20260910",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/hong-kong-insurers-take-ai-closer-to-the-point-of-sale-589343.aspx"
+    },
+    {
+      "id": "ibm-belt-road-pri-gap-20260910",
+      "title": "一带一路投资创2,135亿美元新高、首由民企主导 政治风险保障缺口突出 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "cross-border",
+        "sme"
+      ],
+      "publishedAt": "2026-09-10",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-belt-road-pri-gap-20260910",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/chinas-belt-and-road-engagement-hits-record-level-as-private-capital-grows-589354.aspx"
+    },
+    {
+      "id": "fitch-reinsurance-margin-2027-20260910",
+      "title": "惠誉：2027年再保价格续跌、理赔成本上升 综合成本率与ROE料温和恶化 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "pricing"
+      ],
+      "publishedAt": "2026-09-10",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fitch-reinsurance-margin-2027-20260910",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/reinsurance-faces-margin-erosion-in-2027-prices-decline-and-claims-mount"
+    },
+    {
+      "id": "howden-re-novark-platform-20260910",
+      "title": "Howden Re推出Novark平台 为另类资本进入保险风险提供近乎实时数据与行政管理 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ils",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-09-07",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=howden-re-novark-platform-20260910",
+      "originalUrl": "https://insuranceasia.com/insurance/news/howden-re-launches-novark-bridge-alternative-capital-gap"
+    },
+    {
+      "id": "ambest-ping-an-health-capital-20260910",
+      "title": "AM Best：平安健康资本盈余增15.9%至17亿美元 ROE逾20%、内地健康险份额约2% [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "health",
+        "capital"
+      ],
+      "publishedAt": "2026-09-10",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ambest-ping-an-health-capital-20260910",
+      "originalUrl": "https://insuranceasia.com/insurance/news/ping-health-balance-sheet-very-strong-amidst-china-reform"
+    },
+    {
+      "id": "manulife-hk-just-feel-mental-health-day-20260910",
+      "title": "宏利香港与JUST FEEL感讲合办「世界精神健康日」系列活动 10月办家长讲座与My旗日",
+      "sourceTier": "insurer",
+      "themes": [
+        "health",
+        "esg"
+      ],
+      "publishedAt": "2026-09-10",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-hk-just-feel-mental-health-day-20260910",
+      "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom/manulife-hong-kong-and-just-feel-launch-world-mental-day-campaign.html"
+    },
     {
       "id": "axa-byteplus-ai-mou-20260910",
       "title": "安盛香港澳门与字节跳动BytePlus签AI合作备忘录 覆盖核保、理赔与多渠道分销 [EN原文]",

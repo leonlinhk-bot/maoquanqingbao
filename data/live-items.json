@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-10T18:11:36.554478+08:00",
-    "itemCount": 686,
+    "generatedAt": "2026-09-11T00:49:48.299775+08:00",
+    "itemCount": 699,
     "windowNote": {
-      "sc": "本库686条。",
-      "tc": "本庫686條。"
+      "sc": "本库699条。",
+      "tc": "本庫699條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -277,6 +277,992 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "censtatd-q2-2026-business-receipts-insurance-60-7",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "censtatd",
+      "title": {
+        "sc": "统计处：第二季保险业业务收益指数按年升60.7% 升幅居主要服务行业之首 [EN原文]",
+        "tc": "統計處：第二季保險業業務收益指數按年升60.7% 升幅居主要服務行業之首 [EN原文]"
+      },
+      "summary": {
+        "sc": "政府统计处9月10日公布第二季业务收益指数：保险业按年升60.7%，升幅为各主要服务行业最高；进出口贸易升37.7%、金融业（银行除外）升29.1%、银行业升26.2%、运输业升16.5%；货仓及仓库业跌4.1%。",
+        "tc": "政府統計處9月10日公佈第二季業務收益指數：保險業按年升60.7%，升幅為各主要服務行業最高；進出口貿易升37.7%、金融業（銀行除外）升29.1%、銀行業升26.2%、運輸業升16.5%；貨倉及倉庫業跌4.1%。"
+      },
+      "why": {
+        "sc": "保险业收益按年升六成属官方口径的市场温度计，反映2026年上半年港险销售与投资端同步扩张；可作为向客户说明行业景气与监管透明度的客观依据，亦提醒团队在高增长期更要落实适当性管理。",
+        "tc": "保險業收益按年升六成屬官方口徑的市場溫度計，反映2026年上半年港險銷售與投資端同步擴張；可作為向客戶說明行業景氣與監管透明度的客觀依據，亦提醒團隊在高增長期更要落實適當性管理。"
+      },
+      "actions": {
+        "front": {
+          "sc": "用官方业务收益指数说明行业景气（只引统计数据，不谈产品收益）",
+          "tc": "用官方業務收益指數說明行業景氣（只引統計數據，不談產品收益）"
+        },
+        "midback": {
+          "sc": "将保险业收益指数纳入市场脉搏看板季度更新来源",
+          "tc": "將保險業收益指數納入市場脈搏看板季度更新來源"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "香港政府统计处（政府新闻公报）",
+        "lang": "zh"
+      },
+      "boards": [
+        "market",
+        "reg"
+      ],
+      "themes": [
+        "statistics",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "统计处",
+          "业务收益指数",
+          "保险业",
+          "60.7%",
+          "第二季"
+        ],
+        "tc": [
+          "統計處",
+          "業務收益指數",
+          "保險業",
+          "60.7%",
+          "第二季"
+        ]
+      },
+      "contentKind": "stats",
+      "publishedAt": "2026-09-10T16:30:00+08:00",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202609/10/P2026091000338.htm",
+      "ingestedAt": "2026-09-11T00:49:48.299775+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "10life-ci-standard-comparison-20260910",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "10life",
+      "title": {
+        "sc": "10Life比对7款危疾产品：新标准属最低门槛 癌症诊断与通波仔条件反而更严",
+        "tc": "10Life比對7款危疾產品：新標準屬最低門檻 癌症診斷與通波仔條件反而更嚴"
+      },
+      "summary": {
+        "sc": "保联《危疾定义标准化最佳行业准则》9月1日生效后，10Life比对7款现售主流危疾产品发现：新标准属最低门槛，个别索偿条件反而更严——重大癌症要求「切除后最终组织病理学报告」，通波仔门槛升至60%并排除分支血管。",
+        "tc": "保聯《危疾定義標準化最佳行業準則》9月1日生效後，10Life比對7款現售主流危疾產品發現：新標準屬最低門檻，個別索償條件反而更嚴——重大癌症要求「切除後最終組織病理學報告」，通波仔門檻升至60%並排除分支血管。"
+      },
+      "why": {
+        "sc": "标准化不等于保障提升：对前线而言，把「符合新准则=最低门槛」讲清楚，既避免误将新标准当作卖点，也可据此与客户逐条比对实际条款（尤其癌症诊断证明与通波仔狭窄度），降低日后理赔争议与销售陈述风险。",
+        "tc": "標準化不等於保障提升：對前線而言，把「符合新準則=最低門檻」講清楚，既避免誤將新標準當作賣點，也可據此與客戶逐條比對實際條款（尤其癌症診斷證明與通波仔狹窄度），降低日後理賠爭議與銷售陳述風險。"
+      },
+      "actions": {
+        "front": {
+          "sc": "向客户说明标准化只属最低门槛，比较不同产品时逐条核对诊断证明与通波仔定义，毋须因新准则急于投保",
+          "tc": "向客戶說明標準化只屬最低門檻，比較不同產品時逐條核對診斷證明與通波仔定義，毋須因新準則急於投保"
+        },
+        "midback": {
+          "sc": "把10Life指出的两项争议点（切除后病理报告、分支血管排除）纳入产品比较表与新单讲解要点",
+          "tc": "把10Life指出的兩項爭議點（切除後病理報告、分支血管排除）納入產品比較表與新單講解要點"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "10Life（星岛头条报道）",
+        "lang": "zh"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "uw",
+        "claims"
+      ],
+      "tags": {
+        "sc": [
+          "危疾定义",
+          "标准化",
+          "10Life",
+          "通波仔",
+          "癌症"
+        ],
+        "tc": [
+          "危疾定義",
+          "標準化",
+          "10Life",
+          "通波仔",
+          "癌症"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-10T19:06:00+08:00",
+      "originalUrl": "https://www.stheadline.com/realtime-finance/3613897/",
+      "ingestedAt": "2026-09-11T00:49:48.299775+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ms-hk-life-vnb-diverge-20260910",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "morganstanley",
+      "title": {
+        "sc": "大摩：香港寿险上半年VNB普升但分化加剧 料第三季偏弱、第四季起正常化",
+        "tc": "大摩：香港壽險上半年VNB普升但分化加劇 料第三季偏弱、第四季起正常化"
+      },
+      "summary": {
+        "sc": "摩根士丹利研报指，香港寿险商上半年新业务价值普遍上升但分化加剧：富卫VNB增25%居首，友邦、保诚、宏利在港增8%至11%；在岸业务明显跑赢内地访客（MCV），友邦及保诚MCV均跌2%。该行料第三季偏弱、第四季起正常化。",
+        "tc": "摩根士丹利研報指，香港壽險商上半年新業務價值普遍上升但分化加劇：富衛VNB增25%居首，友邦、保誠、宏利在港增8%至11%；在岸業務明顯跑贏內地訪客（MCV），友邦及保誠MCV均跌2%。該行料第三季偏弱、第四季起正常化。"
+      },
+      "why": {
+        "sc": "投行首次以「在岸跑赢MCV、渠道分化」框架拆解香港寿险，并点名经纪销售对监管时机最敏感；对判断下半年新单节奏、MCV业务比重与渠道策略调整有直接参考，也印证税务新闻对中小额MCV保单的短期压制。",
+        "tc": "投行首次以「在岸跑贏MCV、渠道分化」框架拆解香港壽險，並點名經紀銷售對監管時機最敏感；對判斷下半年新單節奏、MCV業務比重與渠道策略調整有直接參考，也印證稅務新聞對中小額MCV保單的短期壓制。"
+      },
+      "actions": {
+        "front": {
+          "sc": "调整下半年预期管理：核心本地客户需求稳定、MCV中小额保单短期偏弱",
+          "tc": "調整下半年預期管理：核心本地客戶需求穩定、MCV中小額保單短期偏弱"
+        },
+        "midback": {
+          "sc": "把「经纪渠道对监管时机最敏感」纳入渠道风险提示",
+          "tc": "把「經紀渠道對監管時機最敏感」納入渠道風險提示"
+        },
+        "lead": {
+          "sc": "按在岸/MCV结构与VNB利润率分化，检视团队产能与产品组合",
+          "tc": "按在岸/MCV結構與VNB利潤率分化，檢視團隊產能與產品組合"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "摩根士丹利研报（智通财经／Investing 香港）",
+        "lang": "zh"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "analyst",
+        "mcv"
+      ],
+      "tags": {
+        "sc": [
+          "大摩",
+          "摩根士丹利",
+          "VNB",
+          "MCV",
+          "内地访客"
+        ],
+        "tc": [
+          "大摩",
+          "摩根士丹利",
+          "VNB",
+          "MCV",
+          "內地訪客"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-09-10T15:07:00+08:00",
+      "originalUrl": "https://hk.investing.com/news/stock-market-news/article-1650468",
+      "ingestedAt": "2026-09-11T00:49:48.299775+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "nfra-financial-power-15th-plan-20260910",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "nfra",
+      "title": {
+        "sc": "内地发布《金融强国建设「十五五」规划》 金监总局：大力整治「价格战」「高息高返」",
+        "tc": "內地發佈《金融強國建設「十五五」規劃》 金監總局：大力整治「價格戰」「高息高返」"
+      },
+      "summary": {
+        "sc": "国务院新闻办9月10日举行「十五五」系列发布会，金融监管总局介绍《金融强国建设「十五五」规划》：将大力整治「价格战」、违规返佣及「高息高返」，全面推行保险业「报行合一」与非车险综合治理，并加强产品适当性和营销行为管理。",
+        "tc": "國務院新聞辦9月10日舉行「十五五」系列發佈會，金融監管總局介紹《金融強國建設「十五五」規劃》：將大力整治「價格戰」、違規返佣及「高息高返」，全面推行保險業「報行合一」與非車險綜合治理，並加強產品適當性和營銷行為管理。"
+      },
+      "why": {
+        "sc": "内地监管五年规划把「反内卷式价格战、违规返佣、高息高返」写入执行口径，并强调适当性管理；与近期内地税改、跨境税务收紧叠加，直接影响内地渠道生态与MCV客户来源的合规边界，是港险前线与合规岗位的下半年主线之一。",
+        "tc": "內地監管五年規劃把「反內卷式價格戰、違規返佣、高息高返」寫入執行口徑，並強調適當性管理；與近期內地稅改、跨境稅務收緊疊加，直接影響內地渠道生態與MCV客戶來源的合規邊界，是港險前線與合規崗位的下半年主線之一。"
+      },
+      "actions": {
+        "front": {
+          "sc": "向内地背景客户沟通时严守返佣红线，不承诺任何返现安排",
+          "tc": "向內地背景客戶溝通時嚴守返佣紅線，不承諾任何返現安排"
+        },
+        "midback": {
+          "sc": "把「报行合一+反高息高返」纳入跨境渠道合规提示与培训素材",
+          "tc": "把「報行合一+反高息高返」納入跨境渠道合規提示與培訓素材"
+        },
+        "lead": {
+          "sc": "检视合作内地渠道的推广话术是否触及价格战与返佣表述",
+          "tc": "檢視合作內地渠道的推廣話術是否觸及價格戰與返佣表述"
+        },
+        "cross": {
+          "sc": "关注规划落地后内地保险资金互联互通与跨境配置安排的后续细则",
+          "tc": "關注規劃落地後內地保險資金互聯互通與跨境配置安排的後續細則"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 3,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "国家金融监督管理总局（新京报贝壳财经报道）",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "reg",
+        "mainland"
+      ],
+      "tags": {
+        "sc": [
+          "金融监管总局",
+          "十五五",
+          "价格战",
+          "违规返佣",
+          "报行合一"
+        ],
+        "tc": [
+          "金融監管總局",
+          "十五五",
+          "價格戰",
+          "違規返佣",
+          "報行合一"
+        ]
+      },
+      "contentKind": "speech",
+      "publishedAt": "2026-09-10",
+      "originalUrl": "https://www.bjnews.com.cn/detail/1789029958129265.html",
+      "ingestedAt": "2026-09-11T00:49:48.299775+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "hku-wealth-management-academy-20260908",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "hkubs",
+      "title": {
+        "sc": "港大经管学院成立首个大学牵头「财富管理学院」 中银香港赞助、9月8日举行成立典礼",
+        "tc": "港大經管學院成立首個大學牽頭「財富管理學院」 中銀香港贊助、9月8日舉行成立典禮"
+      },
+      "summary": {
+        "sc": "港大经管学院获中银香港赞助，成立首个由大学牵头的「财富管理学院」，9月8日举行成立典礼，逾180名商界领袖及学者出席；财库局局长许正宇称政府持续优化基金、单一家办及附带权益优惠税制，并扩大合资格投资范围。",
+        "tc": "港大經管學院獲中銀香港贊助，成立首個由大學牽頭的「財富管理學院」，9月8日舉行成立典禮，逾180名商界領袖及學者出席；財庫局局長許正宇稱政府持續優化基金、單一家辦及附帶權益優惠稅制，並擴大合資格投資範圍。"
+      },
+      "why": {
+        "sc": "香港跃居全球最大跨境财富管理中心后，首个大学主导的财富管理学院落地，意味着高客/家办人才供给与产学研通道正在制度化；对团队招募、专业背书与高客服务叙事（慈善规划、跨代传承）有直接可用性，也是家办生态圈的新节点。",
+        "tc": "香港躍居全球最大跨境財富管理中心後，首個大學主導的財富管理學院落地，意味高客/家辦人才供給與產學研通道正在制度化；對團隊招募、專業背書與高客服務敘事（慈善規劃、跨代傳承）有直接可用性，也是家辦生態圈的新節點。"
+      },
+      "actions": {
+        "front": {
+          "sc": "可作为顾问专业化与进修路径的公开背书（引大学官方资料）",
+          "tc": "可作為顧問專業化與進修路徑的公開背書（引大學官方資料）"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "关注学院实习、论坛与挑战赛机会，评估团队招募与培训合作切入点",
+          "tc": "關注學院實習、論壇與挑戰賽機會，評估團隊招募與培訓合作切入點"
+        },
+        "cross": {
+          "sc": "结合家办/高客业务留意学院顾问委员会与产学研合作机会",
+          "tc": "結合家辦/高客業務留意學院顧問委員會與產學研合作機會"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 0,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "香港大学经管学院 HKU Business School",
+        "lang": "zh"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "family-office",
+        "talent"
+      ],
+      "tags": {
+        "sc": [
+          "港大经管学院",
+          "财富管理学院",
+          "中银香港",
+          "家族办公室",
+          "人才"
+        ],
+        "tc": [
+          "港大經管學院",
+          "財富管理學院",
+          "中銀香港",
+          "家族辦公室",
+          "人才"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-08",
+      "originalUrl": "https://www.hkubs.hku.hk/tc/media/in-the-media/hku-business-school-launches-the-first-wealth-management-academy-nurturing-future-leaders-and-strengthening-hong-kongs-global-leadership/",
+      "ingestedAt": "2026-09-11T00:49:48.299775+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "hkma-dfsa-nasdaq-dubai-swg-20260910",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "金管局、港交所与迪拜金管局、Nasdaq Dubai成立策略工作组 深化港迪金融市场合作 [EN原文]",
+        "tc": "金管局、港交所與迪拜金管局、Nasdaq Dubai成立策略工作組 深化港迪金融市場合作 [EN原文]"
+      },
+      "summary": {
+        "sc": "金管局、港交所、迪拜金管局及纳斯达克迪拜9月10日成立策略工作组，深化香港与迪拜国际金融中心（DIFC）市场联系，范畴涵盖可持续金融、伊斯兰金融、创新及市场互联互通，为「中东—亚洲」经济走廊建立协作框架。",
+        "tc": "金管局、港交所、迪拜金管局及納斯達克迪拜9月10日成立策略工作組，深化香港與迪拜國際金融中心（DIFC）市場聯繫，範疇涵蓋可持續金融、伊斯蘭金融、創新及市場互聯互通，為「中東—亞洲」經濟走廊建立協作框架。"
+      },
+      "why": {
+        "sc": "官方为「中东资本↔亚洲市场」搭建常态化框架，与同日金发局报告互相呼应；中东主权资本、伊斯兰金融（Sukuk）相关的跨境高客与家办配置需求正在制度化，是跨境架构与家办业务的政策顺风。",
+        "tc": "官方為「中東資本↔亞洲市場」搭建常態化框架，與同日金發局報告互相呼應；中東主權資本、伊斯蘭金融（Sukuk）相關的跨境高客與家辦配置需求正在制度化，是跨境架構與家辦業務的政策順風。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "把中东资本市场互联互通纳入跨境业务政策背景资料",
+          "tc": "把中東資本市場互聯互通納入跨境業務政策背景資料"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "关注伊斯兰金融（Sukuk）与可持续金融在港的产品与架构机会",
+          "tc": "關注伊斯蘭金融（Sukuk）與可持續金融在港的產品與架構機會"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 2
+      },
+      "source": {
+        "sc": "香港金融管理局 HKMA",
+        "lang": "en"
+      },
+      "boards": [
+        "market",
+        "family"
+      ],
+      "themes": [
+        "cross-border",
+        "connectivity"
+      ],
+      "tags": {
+        "sc": [
+          "金管局",
+          "迪拜",
+          "DIFC",
+          "Nasdaq Dubai",
+          "中东资本"
+        ],
+        "tc": [
+          "金管局",
+          "迪拜",
+          "DIFC",
+          "Nasdaq Dubai",
+          "中東資本"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-10",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260910-5/",
+      "ingestedAt": "2026-09-11T00:49:48.299775+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "hkma-banks-scam-alert-20260910",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "金管局防诈警示：星展银行（香港）现假网站与钓鱼电邮、富邦银行（香港）现假网站 [EN原文]",
+        "tc": "金管局防詐警示：星展銀行（香港）現假網站與釣魚電郵、富邦銀行（香港）現假網站 [EN原文]"
+      },
+      "summary": {
+        "sc": "金管局9月10日汇总两家银行骗案通报：星展银行（香港）出现假冒网站、网银登入画面及钓鱼电邮，富邦银行（香港）出现假冒网站及网银登入画面；提醒银行不会以短讯或电邮内嵌链接引导交易，亦不会索取登入密码或一次性验证码。",
+        "tc": "金管局9月10日匯總兩家銀行騙案通報：星展銀行（香港）出現假冒網站、網銀登入畫面及釣魚電郵，富邦銀行（香港）出現假冒網站及網銀登入畫面；提醒銀行不會以短訊或電郵內嵌連結引導交易，亦不會索取登入密碼或一次性驗證碼。"
+      },
+      "why": {
+        "sc": "缴费户口与理赔收款账户是保单资金链入口，两家涉事银行在香港零售与高客市场均有覆盖；前线持续提醒客户核实网址、勿点内嵌链接，是低成本高价值的客户保护动作，亦可作为顾问专业度的体现。",
+        "tc": "繳費戶口與理賠收款賬戶是保單資金鏈入口，兩家涉事銀行在香港零售與高客市場均有覆蓋；前線持續提醒客戶核實網址、勿點內嵌連結，是低成本高價值的客戶保護動作，亦可作為顧問專業度的體現。"
+      },
+      "actions": {
+        "front": {
+          "sc": "向客户转发防诈要点：核实银行网址、勿点短讯或电邮内嵌链接、勿提供验证码",
+          "tc": "向客戶轉發防詐要點：核實銀行網址、勿點短訊或電郵內嵌連結、勿提供驗證碼"
+        },
+        "midback": {
+          "sc": "将最新假冒网站与钓鱼名单纳入客户防诈素材库",
+          "tc": "將最新假冒網站與釣魚名單納入客戶防詐素材庫"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "香港金融管理局 HKMA",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "fraud",
+        "cyber"
+      ],
+      "tags": {
+        "sc": [
+          "金管局",
+          "防诈",
+          "星展银行",
+          "富邦银行",
+          "钓鱼电邮"
+        ],
+        "tc": [
+          "金管局",
+          "防詐",
+          "星展銀行",
+          "富邦銀行",
+          "釣魚電郵"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-10",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260910-3/",
+      "ingestedAt": "2026-09-11T00:49:48.299775+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ibm-hk-ai-point-of-sale-20260910",
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "title": {
+        "sc": "港险AI推进至销售点：保诚AI核保师与宏利代理AI助手并行 经纪渠道尚未接入 [EN原文]",
+        "tc": "港險AI推進至銷售點：保誠AI核保師與宏利代理AI助手並行 經紀渠道尚未接入 [EN原文]"
+      },
+      "summary": {
+        "sc": "报道指保诚香港9月9日推出的AI核保师把初步核保指引提前至提交申请前，宏利亦有面向代理的AI助手与销售赋能工具，两大寿险商同时在代理端运行AI；经纪渠道尚未参与设计，但操守责任不变，保监局AI监管指引至报道日仍未发布。",
+        "tc": "報道指保誠香港9月9日推出的AI核保師把初步核保指引提前至提交申請前，宏利亦有面向代理的AI助手與銷售賦能工具，兩大壽險商同時在代理端運行AI；經紀渠道尚未參與設計，但操守責任不變，保監局AI監管指引至報道日仍未發布。"
+      },
+      "why": {
+        "sc": "AI核保提速会抬高「提交前资料质量」的行业基准，经纪渠道在下一阶段接入后，若自身流程与资料完整度跟不上，将直接体现为核保往返与成交效率差距；同时提醒AI改变了流程但未改变中介操守责任。",
+        "tc": "AI核保提速會抬高「提交前資料質量」的行業基準，經紀渠道在下一階段接入後，若自身流程與資料完整度跟不上，將直接體現為核保往返與成交效率差距；同時提醒AI改變了流程但未改變中介操守責任。"
+      },
+      "actions": {
+        "front": {
+          "sc": "整理客户财务/医疗/职业/居住资料的提交前清单，提升一次过件率",
+          "tc": "整理客戶財務/醫療/職業/居住資料的提交前清單，提升一次過件率"
+        },
+        "midback": {
+          "sc": "跟踪保监局AI监管指引出台与经纪渠道接入进度，前瞻调整提交流程",
+          "tc": "跟蹤保監局AI監管指引出台與經紀渠道接入進度，前瞻調整提交流程"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Business",
+        "lang": "en"
+      },
+      "boards": [
+        "tech"
+      ],
+      "themes": [
+        "ai",
+        "distribution"
+      ],
+      "tags": {
+        "sc": [
+          "AI核保",
+          "保诚",
+          "宏利",
+          "经纪渠道",
+          "保监局"
+        ],
+        "tc": [
+          "AI核保",
+          "保誠",
+          "宏利",
+          "經紀渠道",
+          "保監局"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-10",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/hong-kong-insurers-take-ai-closer-to-the-point-of-sale-589343.aspx",
+      "ingestedAt": "2026-09-11T00:49:48.299775+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ibm-belt-road-pri-gap-20260910",
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "title": {
+        "sc": "一带一路投资创2,135亿美元新高、首由民企主导 政治风险保障缺口突出 [EN原文]",
+        "tc": "一帶一路投資創2,135億美元新高、首由民企主導 政治風險保障缺口突出 [EN原文]"
+      },
+      "summary": {
+        "sc": "2025年一带一路投资及工程合约达2,135亿美元创新高、首次由民企主导；保监局9月9日在峰会座谈中定位香港为「端到端风险顾问」。Howden调查指51%跨国企业曾遇政治风险损失，但73%非买家未投保。",
+        "tc": "2025年一帶一路投資及工程合約達2,135億美元創新高、首次由民企主導；保監局9月9日在峰會座談中定位香港為「端到端風險顧問」。Howden調查指51%跨國企業曾遇政治風險損失，但73%非買家未投保。"
+      },
+      "why": {
+        "sc": "民企出海的保障缺口＝企业险与专责险（政治风险、贸易信用、工程货运）的真实需求池（数据来源：格里菲斯亚洲研究所）；香港被官方定位为「端到端风险顾问」，与新加坡同一赛道竞争，对具备内地出海客户的经纪与顾问是可主动开发的增量场景。",
+        "tc": "民企出海的保障缺口＝企業險與專責險（政治風險、貿易信用、工程貨運）的真實需求池（數據來源：格里菲斯亞洲研究所）；香港被官方定位為「端到端風險顧問」，與新加坡同一賽道競爭，對具備內地出海客戶的經紀與顧問是可主動開發的增量場景。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "整理政治风险/贸易信用/工程货运保障的产品与承保能力清单",
+          "tc": "整理政治風險/貿易信用/工程貨運保障的產品與承保能力清單"
+        },
+        "lead": {
+          "sc": "识别现有客户中具一带一路投资或跨境供应链敞口者，主动做风险盘点",
+          "tc": "識別現有客戶中具一帶一路投資或跨境供應鏈敞口者，主動做風險盤點"
+        },
+        "cross": {
+          "sc": "关注香港与新加坡在专责险与政治风险承保能力上的竞争与差异",
+          "tc": "關注香港與新加坡在專責險與政治風險承保能力上的競爭與差異"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "Insurance Business",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "cross-border",
+        "sme"
+      ],
+      "tags": {
+        "sc": [
+          "一带一路",
+          "政治风险",
+          "专责险",
+          "保监局",
+          "民企出海"
+        ],
+        "tc": [
+          "一帶一路",
+          "政治風險",
+          "專責險",
+          "保監局",
+          "民企出海"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-10",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/chinas-belt-and-road-engagement-hits-record-level-as-private-capital-grows-589354.aspx",
+      "ingestedAt": "2026-09-11T00:49:48.299775+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "fitch-reinsurance-margin-2027-20260910",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "fitch",
+      "title": {
+        "sc": "惠誉：2027年再保价格续跌、理赔成本上升 综合成本率与ROE料温和恶化 [EN原文]",
+        "tc": "惠譽：2027年再保價格續跌、理賠成本上升 綜合成本率與ROE料溫和惡化 [EN原文]"
+      },
+      "summary": {
+        "sc": "惠誉9月评论指，2024年中以来再保价格下跌将于2027年更充分反映于盈利，叠加经济与医疗通胀、气候变化及AI与地缘政治相关新兴责任，再保综合成本率与ROE料温和恶化，但资本仍非常强，承保纪律与往年准备金释放可缓解影响。",
+        "tc": "惠譽9月評論指，2024年中以來再保價格下跌將於2027年更充分反映於盈利，疊加經濟與醫療通脹、氣候變化及AI與地緣政治相關新興責任，再保綜合成本率與ROE料溫和惡化，但資本仍非常強，承保紀律與往年準備金釋放可緩解影響。"
+      },
+      "why": {
+        "sc": "再保价格与承保纪律是下游责任险、财产险定价与核保口径的先行指标；「AI相关新兴责任」再被评级机构列为理赔压力来源，与责任险条款界定（AI损失是否在保）形成跨国呼应，可作为企业客户风险教育素材。",
+        "tc": "再保價格與承保紀律是下游責任險、財產險定價與核保口徑的先行指標；「AI相關新興責任」再被評級機構列為理賠壓力來源，與責任險條款界定（AI損失是否在保）形成跨國呼應，可作為企業客戶風險教育素材。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "将2027年再保定价与理赔趋势纳入责任险/财产险核保口径观察清单",
+          "tc": "將2027年再保定價與理賠趨勢納入責任險/財產險核保口徑觀察清單"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "企业客户谈保障缺口时可引用再保市场承保纪律与AI责任趋势",
+          "tc": "企業客戶談保障缺口時可引用再保市場承保紀律與AI責任趨勢"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 2,
+        "lead": 0,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Fitch Ratings（Insurance Asia 报道）",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reinsurance",
+        "pricing"
+      ],
+      "tags": {
+        "sc": [
+          "惠誉",
+          "再保险",
+          "综合成本率",
+          "AI责任",
+          "2027"
+        ],
+        "tc": [
+          "惠譽",
+          "再保險",
+          "綜合成本率",
+          "AI責任",
+          "2027"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-09-10",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/reinsurance-faces-margin-erosion-in-2027-prices-decline-and-claims-mount",
+      "ingestedAt": "2026-09-11T00:49:48.299775+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "howden-re-novark-platform-20260910",
+      "clusterCount": 1,
+      "score": 60,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "Howden Re推出Novark平台 为另类资本进入保险风险提供近乎实时数据与行政管理 [EN原文]",
+        "tc": "Howden Re推出Novark平台 為另類資本進入保險風險提供近乎實時數據與行政管理 [EN原文]"
+      },
+      "summary": {
+        "sc": "Howden Re于9月7日推出保险管理与证券行政平台Novark，为机构投资者提供近乎实时的保险投资数据，并让保司与再保更易接入及管理第三方资本，覆盖风险转移全周期，回应另类资本市场基建落后于ILS增长的问题。",
+        "tc": "Howden Re於9月7日推出保險管理與證券行政平台Novark，為機構投資者提供近乎實時的保險投資數據，並讓保司與再保更易接入及管理第三方資本，覆蓋風險轉移全週期，回應另類資本市場基建落後於ILS增長的問題。"
+      },
+      "why": {
+        "sc": "ILS与另类资本是香港做再保险枢纽与巨灾风险承接的关键要素；经纪系再保平台把「投资人—风险」通道标准化，长期影响本地承接能力与巨灾/专责险定价条件，属结构性趋势观察点。",
+        "tc": "ILS與另類資本是香港做再保險樞紐與巨災風險承接的關鍵要素；經紀系再保平台把「投資人—風險」通道標準化，長期影響本地承接能力與巨災/專責險定價條件，屬結構性趨勢觀察點。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "跟踪ILS与另类资本平台化对本地再保承接能力的影响",
+          "tc": "跟蹤ILS與另類資本平台化對本地再保承接能力的影響"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 0,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "ils",
+        "reinsurance"
+      ],
+      "tags": {
+        "sc": [
+          "Howden Re",
+          "Novark",
+          "ILS",
+          "另类资本",
+          "再保险"
+        ],
+        "tc": [
+          "Howden Re",
+          "Novark",
+          "ILS",
+          "另類資本",
+          "再保險"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-07",
+      "originalUrl": "https://insuranceasia.com/insurance/news/howden-re-launches-novark-bridge-alternative-capital-gap",
+      "ingestedAt": "2026-09-11T00:49:48.299775+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ambest-ping-an-health-capital-20260910",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "ambest",
+      "title": {
+        "sc": "AM Best：平安健康资本盈余增15.9%至17亿美元 ROE逾20%、内地健康险份额约2% [EN原文]",
+        "tc": "AM Best：平安健康資本盈餘增15.9%至17億美元 ROE逾20%、內地健康險份額約2% [EN原文]"
+      },
+      "summary": {
+        "sc": "AM Best 9月4日报告指，平安健康2025年资本与盈余增15.9%至17亿美元，ROE逾20%，承保业绩与投资收益支撑盈利；在内地健康险竞争与医改推进下，公司控制承保质量、压低费用率以实现承保利润，市场份额约2%。",
+        "tc": "AM Best 9月4日報告指，平安健康2025年資本與盈餘增15.9%至17億美元，ROE逾20%，承保業績與投資收益支撐盈利；在內地健康險競爭與醫改推進下，公司控制承保質量、壓低費用率以實現承保利潤，市場份額約2%。"
+      },
+      "why": {
+        "sc": "内地健康险在医改与竞争双重压力下仍能做出承保利润，是判断跨境医疗与内地医疗险竞争格局的参照；对主打大湾区/跨境医疗方案的港险而言，内地在岸产品的成本与费用控制能力是长期竞争变量。",
+        "tc": "內地健康險在醫改與競爭雙重壓力下仍能做出承保利潤，是判斷跨境醫療與內地醫療險競爭格局的參照；對主打大灣區/跨境醫療方案的港險而言，內地在岸產品的成本與費用控制能力是長期競爭變量。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "把内地健康险主体偿付能力与承保表现纳入跨境医疗竞争资料",
+          "tc": "把內地健康險主體償付能力與承保表現納入跨境醫療競爭資料"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 0,
+        "cross": 1
+      },
+      "source": {
+        "sc": "AM Best（Insurance Asia 报道）",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "health",
+        "capital"
+      ],
+      "tags": {
+        "sc": [
+          "AM Best",
+          "平安健康",
+          "偿付能力",
+          "健康险",
+          "医改"
+        ],
+        "tc": [
+          "AM Best",
+          "平安健康",
+          "償付能力",
+          "健康險",
+          "醫改"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-09-10",
+      "originalUrl": "https://insuranceasia.com/insurance/news/ping-health-balance-sheet-very-strong-amidst-china-reform",
+      "ingestedAt": "2026-09-11T00:49:48.299775+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "manulife-hk-just-feel-mental-health-day-20260910",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "manulife",
+      "title": {
+        "sc": "宏利香港与JUST FEEL感讲合办「世界精神健康日」系列活动 10月办家长讲座与My旗日",
+        "tc": "宏利香港與JUST FEEL感講合辦「世界精神健康日」系列活動 10月辦家長講座與My旗日"
+      },
+      "summary": {
+        "sc": "宏利香港9月10日宣布与情绪教育慈善机构JUST FEEL感讲合作，响应10月10日「世界精神健康日」：10月3日举办免费善意沟通家长讲座及体验工作坊，10月10日在社区举办「My旗日」，推动情绪健康与同理心文化。",
+        "tc": "宏利香港9月10日宣佈與情緒教育慈善機構JUST FEEL感講合作，響應10月10日「世界精神健康日」：10月3日舉辦免費善意溝通家長講座及體驗工作坊，10月10日在社區舉辦「My旗日」，推動情緒健康與同理心文化。"
+      },
+      "why": {
+        "sc": "保司把精神健康议题纳入客户与社区活动，属健康保障叙事的延伸（由「保疾病」走向「管健康」）；类似活动常伴随后续健康保障与增值服务推广，值得留意保司在家庭客群健康议题上的渠道投入方向。",
+        "tc": "保司把精神健康議題納入客戶與社區活動，屬健康保障敘事的延伸（由「保疾病」走向「管健康」）；類似活動常伴隨後續健康保障與增值服務推廣，值得留意保司在家庭客群健康議題上的渠道投入方向。"
+      },
+      "actions": {
+        "front": {
+          "sc": "可用作家庭客群活动的免费资源（家长沟通工作坊、社区旗日）",
+          "tc": "可用作家庭客群活動的免費資源（家長溝通工作坊、社區旗日）"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "观察保司以健康议题带动家庭客群触达的渠道策略",
+          "tc": "觀察保司以健康議題帶動家庭客群觸達的渠道策略"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 0,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "宏利香港 Manulife Hong Kong",
+        "lang": "zh"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "health",
+        "esg"
+      ],
+      "tags": {
+        "sc": [
+          "宏利",
+          "精神健康",
+          "JUST FEEL",
+          "社区活动",
+          "健康保障"
+        ],
+        "tc": [
+          "宏利",
+          "精神健康",
+          "JUST FEEL",
+          "社區活動",
+          "健康保障"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-10",
+      "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom/manulife-hong-kong-and-just-feel-launch-world-mental-day-campaign.html",
+      "ingestedAt": "2026-09-11T00:49:48.299775+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
     {
       "id": "axa-byteplus-ai-mou-20260910",
       "clusterCount": 1,
@@ -57882,19 +58868,19 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 686 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 686 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 699 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 699 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 686,
+      "totalItems": 699,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 230,
+          "count": 234,
           "label": "监管一手"
         },
         {
           "tier": "insurer",
-          "count": 138,
+          "count": 139,
           "label": "保司公告"
         },
         {
@@ -57904,12 +58890,12 @@
         },
         {
           "tier": "media",
-          "count": 226,
+          "count": 229,
           "label": "媒体报道"
         },
         {
           "tier": "pro",
-          "count": 64,
+          "count": 69,
           "label": "专业解读"
         },
         {
@@ -57983,12 +58969,12 @@
       "topThemes": [
         {
           "theme": "market",
-          "count": 182,
+          "count": 183,
           "label": "市场"
         },
         {
           "theme": "reg",
-          "count": 124,
+          "count": 125,
           "label": "监管"
         },
         {
@@ -58017,18 +59003,18 @@
           "label": "渠道"
         },
         {
+          "theme": "cross-border",
+          "count": 50,
+          "label": "跨境"
+        },
+        {
           "theme": "macro",
           "count": 49,
           "label": "宏观"
         },
         {
-          "theme": "cross-border",
-          "count": 48,
-          "label": "跨境"
-        },
-        {
           "theme": "reinsurance",
-          "count": 43,
+          "count": 45,
           "label": "再保险"
         }
       ],
