@@ -1,9 +1,126 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-09T13:39:25Z",
-  "itemCount": 677,
+  "generatedAt": "2026-09-10T10:11:45Z",
+  "itemCount": 686,
   "items": [
+    {
+      "id": "axa-byteplus-ai-mou-20260910",
+      "title": "安盛香港澳门与字节跳动BytePlus签AI合作备忘录 覆盖核保、理赔与多渠道分销 [EN原文]",
+      "sourceTier": "insurer",
+      "themes": [
+        "ai",
+        "insurtech"
+      ],
+      "publishedAt": "2026-09-10",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=axa-byteplus-ai-mou-20260910",
+      "originalUrl": "https://www.prnewswire.com/apac/news-releases/axa-and-byteplus-sign-strategic-mou-pioneering-ai-driven-transformation-across-insurance-value-chain-302874655.html"
+    },
+    {
+      "id": "pru-mdrt-2026-global-no2-20260910",
+      "title": "保诚2026年MDRT跨国企业排名续居全球第二 首次达标人数增14% [EN原文]",
+      "sourceTier": "insurer",
+      "themes": [
+        "agency",
+        "talent"
+      ],
+      "publishedAt": "2026-09-10",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=pru-mdrt-2026-global-no2-20260910",
+      "originalUrl": "https://thesun.my/business/corporate-news/media-outreach-486356"
+    },
+    {
+      "id": "ibm-beazley-digital-health-ai-20260910",
+      "title": "贝氏：数字健康业AI采用快于保单覆盖 单一AI医疗事件可同时触发四类责任险 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "liability"
+      ],
+      "publishedAt": "2026-09-10T17:18:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-beazley-digital-health-ai-20260910",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/professional-liability/digital-health-ai-adoption-is-outpacing-the-policies-covering-it-589319.aspx"
+    },
+    {
+      "id": "fsdc-regional-connectivity-reports-20260910",
+      "title": "香港金融发展局发布《促进区域联通》两份报告 倡引中东北非主权资本与东盟中亚投融资",
+      "sourceTier": "official",
+      "themes": [
+        "family-office",
+        "cross-border"
+      ],
+      "publishedAt": "2026-09-10T17:50:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fsdc-regional-connectivity-reports-20260910",
+      "originalUrl": "http://m.toutiao.com/group/7683841743774646820/"
+    },
+    {
+      "id": "ibm-pacicc-insurer-failures-20260910",
+      "title": "PACICC第四版目录：2000年以来全球1,273家险企倒闭 逾65%呈集群式 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "solvency",
+        "reg"
+      ],
+      "publishedAt": "2026-09-10T13:11:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-pacicc-insurer-failures-20260910",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/1273-insurers-have-failed-globally-since-2000-new-pacicc-catalogue-finds-589283.aspx"
+    },
+    {
+      "id": "ia-climate-insurance-lab-20260909",
+      "title": "保监局于香港绿色周推出「气候保险实验室」并发布气候策略 设产品创新平台 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "climate",
+        "cat-risk"
+      ],
+      "publishedAt": "2026-09-09T23:25:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-climate-insurance-lab-20260909",
+      "originalUrl": "https://insurancebusinessmag.com/asia/news/catastrophe/hong-kong-moves-to-turn-climate-data-into-placeable-insurance-products-589211.aspx"
+    },
+    {
+      "id": "rn-pacific-life-re-hk-airs-20260908",
+      "title": "太平洋人寿再保在香港完成首宗资产密集型再保险交易 涉泛亚保司终身寿险负债 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "capital"
+      ],
+      "publishedAt": "2026-09-08",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-pacific-life-re-hk-airs-20260908",
+      "originalUrl": "https://www.reinsurancene.ws/pacific-life-re-completes-first-asset-intensive-reinsurance-transaction-in-hong-kong/"
+    },
+    {
+      "id": "axa-gba-everguard-medical-20260907",
+      "title": "安盛香港澳门推「大湾区EverGuard医疗保障」 覆盖内地住院手术及出院后康复 [EN原文]",
+      "sourceTier": "insurer",
+      "themes": [
+        "health",
+        "cross-border"
+      ],
+      "publishedAt": "2026-09-07T19:28:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=axa-gba-everguard-medical-20260907",
+      "originalUrl": "https://www.thestandard.com.hk/finance/article/342082/AXA-unveils-cross-border-GBA-health-insurance"
+    },
+    {
+      "id": "ibm-axa-governed-ai-hub-20260908",
+      "title": "安盛在五个实体上线管治式AI基础设施中枢 AXA XL已基于其开发理赔与邮件应用 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "governance"
+      ],
+      "publishedAt": "2026-09-08T16:27:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-axa-governed-ai-hub-20260908",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/axa-scales-governed-ai-infrastructure-across-global-operations-589000.aspx"
+    },
     {
       "id": "pru-ai-underwriter-alibaba-20260909",
       "title": "保诚香港推AI核保员：阿里云合作开发 全渠道顾问数分钟获初步核保指引 [EN原文]",

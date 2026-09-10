@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-09T21:39:10.565533+08:00",
-    "itemCount": 677,
+    "generatedAt": "2026-09-10T18:11:36.554478+08:00",
+    "itemCount": 686,
     "windowNote": {
-      "sc": "本库677条。",
-      "tc": "本庫677條。"
+      "sc": "本库686条。",
+      "tc": "本庫686條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -277,6 +277,684 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "axa-byteplus-ai-mou-20260910",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "axa",
+      "title": {
+        "sc": "安盛香港澳门与字节跳动BytePlus签AI合作备忘录 覆盖核保、理赔与多渠道分销 [EN原文]",
+        "tc": "安盛香港澳門與字節跳動BytePlus簽AI合作備忘錄 覆蓋核保、理賠與多渠道分銷 [EN原文]"
+      },
+      "summary": {
+        "sc": "安盛香港及澳门10日与字节跳动旗下企业技术公司BytePlus签署AI合作备忘录，聚焦三大方向：共同研发保险专用AI模型与应用；以预测分析与客户画像强化客户洞察；以多模态生成式AI建「创意中枢」提升营销内容效率。",
+        "tc": "安盛香港及澳門10日與字節跳動旗下企業技術公司BytePlus簽署AI合作備忘錄，聚焦三大方向：共同研發保險專用AI模型與應用；以預測分析與客戶畫像強化客戶洞察；以多模態生成式AI建「創意中樞」提升營銷內容效率。"
+      },
+      "why": {
+        "sc": "同日保诚刚公布与阿里云AI核保合作，安盛转向字节系，显示港险AI竞赛由单点工具升级为「集团级合作+模型共建」；对判断保司数字化能力差距与中介端工具供给有参考价值。",
+        "tc": "同日保誠剛公佈與阿里雲AI核保合作，安盛轉向字節系，顯示港險AI競賽由單點工具升級為「集團級合作+模型共建」；對判斷保司數字化能力差距與中介端工具供給有參考價值。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "跟踪保司AI合作伙伴名单（阿里云、蚂蚁、德勤、BytePlus）及落地场景，预判渠道工具与核保流程变化",
+          "tc": "跟蹤保司AI合作夥伴名單（阿里雲、螞蟻、德勤、BytePlus）及落地場景，預判渠道工具與核保流程變化"
+        },
+        "lead": {
+          "sc": "将「AI合作与自建能力」纳入保司渠道支持力度评估维度",
+          "tc": "將「AI合作與自建能力」納入保司渠道支持力度評估維度"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "AXA Hong Kong and Macau（PR Newswire）",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer",
+        "tech"
+      ],
+      "themes": [
+        "ai",
+        "insurtech"
+      ],
+      "tags": {
+        "sc": [
+          "安盛",
+          "BytePlus",
+          "字节跳动",
+          "AI",
+          "合作备忘录"
+        ],
+        "tc": [
+          "安盛",
+          "BytePlus",
+          "字節跳動",
+          "AI",
+          "合作備忘錄"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-10",
+      "originalUrl": "https://www.prnewswire.com/apac/news-releases/axa-and-byteplus-sign-strategic-mou-pioneering-ai-driven-transformation-across-insurance-value-chain-302874655.html",
+      "ingestedAt": "2026-09-10T18:11:36.554478+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "pru-mdrt-2026-global-no2-20260910",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "prudential",
+      "title": {
+        "sc": "保诚2026年MDRT跨国企业排名续居全球第二 首次达标人数增14% [EN原文]",
+        "tc": "保誠2026年MDRT跨國企業排名續居全球第二 首次達標人數增14% [EN原文]"
+      },
+      "summary": {
+        "sc": "保诚集团10日公布2026年MDRT排名：续居跨国企业第二，首次达标人数按年增14%。香港跃升三位至全球第三、区内第二，TOT及COT人数第二多；新加坡会员留存率83.8%；中国内地上半年MDRT人数增40%。",
+        "tc": "保誠集團10日公佈2026年MDRT排名：續居跨國企業第二，首次達標人數按年增14%。香港躍升三位至全球第三、區內第二，TOT及COT人數第二多；新加坡會員留存率83.8%；中國內地上半年MDRT人數增40%。"
+      },
+      "why": {
+        "sc": "MDRT达标数是代理渠道产能与专业化的可比指标；香港排名与首次达标增速反映港险中介专业化竞赛进展，可作团队管理与招募叙事的参照。",
+        "tc": "MDRT達標數是代理渠道產能與專業化的可比指標；香港排名與首次達標增速反映港險中介專業化競賽進展，可作團隊管理與招募敘事的參照。"
+      },
+      "actions": {
+        "front": {
+          "sc": "可作为向客户说明顾问专业化程度的行业参照，避免涉及产品收益表述",
+          "tc": "可作為向客戶說明顧問專業化程度的行業參照，避免涉及產品收益表述"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "对照集团MDRT口径检视自身团队达标结构（首次达标vs续任、TOT/COT占比）与培训路径",
+          "tc": "對照集團MDRT口徑檢視自身團隊達標結構（首次達標vs續任、TOT/COT佔比）與培訓路徑"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 0,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Prudential plc（Media OutReach）",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer",
+        "market"
+      ],
+      "themes": [
+        "agency",
+        "talent"
+      ],
+      "tags": {
+        "sc": [
+          "保诚",
+          "MDRT",
+          "代理团队",
+          "人才",
+          "香港"
+        ],
+        "tc": [
+          "保誠",
+          "MDRT",
+          "代理團隊",
+          "人才",
+          "香港"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-10",
+      "originalUrl": "https://thesun.my/business/corporate-news/media-outreach-486356",
+      "ingestedAt": "2026-09-10T18:11:36.554478+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ibm-beazley-digital-health-ai-20260910",
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "title": {
+        "sc": "贝氏：数字健康业AI采用快于保单覆盖 单一AI医疗事件可同时触发四类责任险 [EN原文]",
+        "tc": "貝氏：數字健康業AI採用快於保單覆蓋 單一AI醫療事件可同時觸發四類責任險 [EN原文]"
+      },
+      "summary": {
+        "sc": "贝氏《2026数字健康》报告指，数字健康企业AI采用速度快于保险市场覆盖：单一AI辅助医疗伤害可同时触发医疗专业责任、网络、科技E&O及一般责任索偿；购买单一多风险保单比例由2024年40%升至2026年53%。",
+        "tc": "貝氏《2026數字健康》報告指，數字健康企業AI採用速度快於保險市場覆蓋：單一AI輔助醫療傷害可同時觸發醫療專業責任、網絡、科技E&O及一般責任索償；購買單一多風險保單比例由2024年40%升至2026年53%。"
+      },
+      "why": {
+        "sc": "AI医疗责任的「一事件多险种」传导，对保单条款界定（AI相关损失是否在保）提出新问题，属责任险核保口径与客户风险教育的前沿观察点。",
+        "tc": "AI醫療責任的「一事件多險種」傳導，對保單條款界定（AI相關損失是否在保）提出新問題，屬責任險核保口徑與客戶風險教育的前沿觀察點。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "检视科技/医疗类客户保障衔接，留意保单条款对AI相关损失的表述空白",
+          "tc": "檢視科技/醫療類客戶保障銜接，留意保單條款對AI相關損失的表述空白"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "跨境虚拟医疗平台涉及多地监管，多险种保障与合规衔接值得关注",
+          "tc": "跨境虛擬醫療平台涉及多地監管，多險種保障與合規銜接值得關注"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 0,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Business",
+        "lang": "en"
+      },
+      "boards": [
+        "tech",
+        "market"
+      ],
+      "themes": [
+        "ai",
+        "liability"
+      ],
+      "tags": {
+        "sc": [
+          "Beazley",
+          "数字健康",
+          "AI责任",
+          "专业责任险",
+          "理赔"
+        ],
+        "tc": [
+          "Beazley",
+          "數字健康",
+          "AI責任",
+          "專業責任險",
+          "理賠"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-10T17:18:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/professional-liability/digital-health-ai-adoption-is-outpacing-the-policies-covering-it-589319.aspx",
+      "ingestedAt": "2026-09-10T18:11:36.554478+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "fsdc-regional-connectivity-reports-20260910",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "pending",
+      "sourceTier": "official",
+      "sourceKey": "family_office",
+      "title": {
+        "sc": "香港金融发展局发布《促进区域联通》两份报告 倡引中东北非主权资本与东盟中亚投融资",
+        "tc": "香港金融發展局發布《促進區域聯通》兩份報告 倡引中東北非主權資本與東盟中亞投融資"
+      },
+      "summary": {
+        "sc": "香港金融发展局10日于一带一路高峰论坛发布《促进区域联通》两份报告，探讨香港在中东北非及东盟中亚资本流动中的枢纽作用：引导以逾6万亿美元主权财富基金为核心的资本投向亚洲增长板块。",
+        "tc": "香港金融發展局10日於一帶一路高峰論壇發布《促進區域聯通》兩份報告，探討香港在中東北非及東盟中亞資本流動中的樞紐作用：引導以逾6萬億美元主權財富基金為核心的資本投向亞洲增長板塊。"
+      },
+      "why": {
+        "sc": "家办与高客资产配置的核心命题是资本走廊；官方主动为「中东北非主权资本↔亚洲增长板块」搭桥，为面向跨境高客与家办客户的叙事与机会判断提供政策背景。",
+        "tc": "家辦與高客資產配置的核心命題是資本走廊；官方主動為「中東北非主權資本↔亞洲增長板塊」搭橋，為面向跨境高客與家辦客戶的敘事與機會判斷提供政策背景。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "可作为向家办/高客说明香港资本枢纽定位的政策依据（引用公开报告，不作收益表述）",
+          "tc": "可作為向家辦/高客說明香港資本樞紐定位的政策依據（引用公開報告，不作收益表述）"
+        },
+        "cross": {
+          "sc": "关注中东北非主权资本与家办资金流向亚洲的通道机会及相关投资主题",
+          "tc": "關注中東北非主權資本與家辦資金流向亞洲的通道機會及相關投資主題"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "香港金融发展局 FSDC（财华社报道）",
+        "lang": "zh"
+      },
+      "boards": [
+        "family",
+        "market"
+      ],
+      "themes": [
+        "family-office",
+        "cross-border"
+      ],
+      "tags": {
+        "sc": [
+          "金发局",
+          "家族办公室",
+          "主权财富基金",
+          "一带一路",
+          "资本枢纽"
+        ],
+        "tc": [
+          "金發局",
+          "家族辦公室",
+          "主權財富基金",
+          "一帶一路",
+          "資本樞紐"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-10T17:50:00+08:00",
+      "originalUrl": "http://m.toutiao.com/group/7683841743774646820/",
+      "ingestedAt": "2026-09-10T18:11:36.554478+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ibm-pacicc-insurer-failures-20260910",
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "title": {
+        "sc": "PACICC第四版目录：2000年以来全球1,273家险企倒闭 逾65%呈集群式 [EN原文]",
+        "tc": "PACICC第四版目錄：2000年以來全球1,273家險企倒閉 逾65%呈集群式 [EN原文]"
+      },
+      "summary": {
+        "sc": "加拿大PACICC发布第四版倒闭险企目录：2000年以来98个国家共1,273家险企倒闭；65.7%属三年内三家以上的集群式倒闭，多出现在长期平静之后；北美以外多数受影响保单持有人当时无保单保障基金或赔偿机制。",
+        "tc": "加拿大PACICC發布第四版倒閉險企目錄：2000年以來98個國家共1,273家險企倒閉；65.7%屬三年內三家以上的集群式倒閉，多出現在長期平靜之後；北美以外多數受影響保單持有人當時無保單保障基金或賠償機制。"
+      },
+      "why": {
+        "sc": "倒闭的集群特征与保单持有人保障机制缺口，是评估承保方稳健度与跨境保单对手方风险的结构性参照，对长期高额保单的保司选择与分散策略有提示意义。",
+        "tc": "倒閉的集群特徵與保單持有人保障機制缺口，是評估承保方穩健度與跨境保單對手方風險的結構性參照，對長期高額保單的保司選擇與分散策略有提示意義。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "做保司对手方评估时纳入「集群式倒闭」与当地保单持有人保障机制两项结构性因子",
+          "tc": "做保司對手方評估時納入「集群式倒閉」與當地保單持有人保障機制兩項結構性因子"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "跨境/离岸保单客户可先了解所属司法区是否设保单持有人保障基金",
+          "tc": "跨境/離岸保單客戶可先了解所屬司法區是否設保單持有人保障基金"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 0,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Business",
+        "lang": "en"
+      },
+      "boards": [
+        "reg",
+        "market"
+      ],
+      "themes": [
+        "solvency",
+        "reg"
+      ],
+      "tags": {
+        "sc": [
+          "PACICC",
+          "险企倒闭",
+          "保单持有人保障",
+          "偿付能力",
+          "IAIS"
+        ],
+        "tc": [
+          "PACICC",
+          "險企倒閉",
+          "保單持有人保障",
+          "償付能力",
+          "IAIS"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-10T13:11:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/1273-insurers-have-failed-globally-since-2000-new-pacicc-catalogue-finds-589283.aspx",
+      "ingestedAt": "2026-09-10T18:11:36.554478+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ia-climate-insurance-lab-20260909",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "ia",
+      "title": {
+        "sc": "保监局于香港绿色周推出「气候保险实验室」并发布气候策略 设产品创新平台 [EN原文]",
+        "tc": "保監局於香港綠色周推出「氣候保險實驗室」並發布氣候策略 設產品創新平台 [EN原文]"
+      },
+      "summary": {
+        "sc": "保监局8日在香港绿色周启动气候保险实验室（CIL）并公布气候策略，聚焦共享数据基建、气候风险监管指引与产品创新平台；与保联及科大的气候建模项目按空间评估风险，或令个别物业与基建按不同风险定价。",
+        "tc": "保監局8日在香港綠色周啟動氣候保險實驗室（CIL）並公佈氣候策略，聚焦共享數據基建、氣候風險監管指引與產品創新平台；與保聯及科大的氣候建模項目按空間評估風險，或令個別物業與基建按不同風險定價。"
+      },
+      "why": {
+        "sc": "气候风险正由披露议题转为承保与定价议题；由监管设产品创新平台意味着气候相关产品设计将受官方框架引导，对财产、基建及工程险的保障范围与定价趋势有先行指示意义。",
+        "tc": "氣候風險正由披露議題轉為承保與定價議題；由監管設產品創新平台意味氣候相關產品設計將受官方框架引導，對財產、基建及工程險的保障範圍與定價趨勢有先行指示意義。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "跟踪CIL三大方向与气候建模项目产出，评估对财产/基建/工程险核保与定价口径的影响",
+          "tc": "跟蹤CIL三大方向與氣候建模項目產出，評估對財產/基建/工程險核保與定價口徑的影響"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "绿色基建与可持续金融客户可留意分类目录与CIL产品平台的衔接机会",
+          "tc": "綠色基建與可持續金融客戶可留意分類目錄與CIL產品平台的銜接機會"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 0,
+        "cross": 1
+      },
+      "source": {
+        "sc": "香港保险业监管局 IA（Insurance Business 报道）",
+        "lang": "en"
+      },
+      "boards": [
+        "reg",
+        "market"
+      ],
+      "themes": [
+        "climate",
+        "cat-risk"
+      ],
+      "tags": {
+        "sc": [
+          "保监局",
+          "气候保险实验室",
+          "气候策略",
+          "香港绿色周",
+          "巨灾"
+        ],
+        "tc": [
+          "保監局",
+          "氣候保險實驗室",
+          "氣候策略",
+          "香港綠色周",
+          "巨災"
+        ]
+      },
+      "contentKind": "speech",
+      "publishedAt": "2026-09-09T23:25:00+08:00",
+      "originalUrl": "https://insurancebusinessmag.com/asia/news/catastrophe/hong-kong-moves-to-turn-climate-data-into-placeable-insurance-products-589211.aspx",
+      "ingestedAt": "2026-09-10T18:11:36.554478+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "rn-pacific-life-re-hk-airs-20260908",
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "reinsurancenews",
+      "title": {
+        "sc": "太平洋人寿再保在香港完成首宗资产密集型再保险交易 涉泛亚保司终身寿险负债 [EN原文]",
+        "tc": "太平洋人壽再保在香港完成首宗資產密集型再保險交易 涉泛亞保司終身壽險負債 [EN原文]"
+      },
+      "summary": {
+        "sc": "再保险新闻8日报道：太平洋人寿再保（Pacific Life Re）在香港完成其首宗资产密集型再保险交易，为一家泛亚保险商的一批终身寿险负债提供再保，标志其储蓄与退休业务进入香港市场。",
+        "tc": "再保險新聞8日報道：太平洋人壽再保（Pacific Life Re）在香港完成其首宗資產密集型再保險交易，為一家泛亞保險商的一批終身壽險負債提供再保，標誌其儲蓄與退休業務進入香港市場。"
+      },
+      "why": {
+        "sc": "资产密集型再保是寿险资本管理与偿付能力优化的工具；香港首宗落地反映本地再保市场承接能力提升，与RBC新规下保司资本运作需求相呼应。",
+        "tc": "資產密集型再保是壽險資本管理與償付能力優化的工具；香港首宗落地反映本地再保市場承接能力提升，與RBC新規下保司資本運作需求相呼應。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "跟踪香港资产密集型再保交易案例，作为理解保司资本管理与产品定价空间的背景",
+          "tc": "跟蹤香港資產密集型再保交易案例，作為理解保司資本管理與產品定價空間的背景"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Reinsurance News",
+        "lang": "en"
+      },
+      "boards": [
+        "market",
+        "insurer"
+      ],
+      "themes": [
+        "reinsurance",
+        "capital"
+      ],
+      "tags": {
+        "sc": [
+          "Pacific Life Re",
+          "资产密集型再保",
+          "香港",
+          "终身寿险",
+          "资本管理"
+        ],
+        "tc": [
+          "Pacific Life Re",
+          "資產密集型再保",
+          "香港",
+          "終身壽險",
+          "資本管理"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-08",
+      "originalUrl": "https://www.reinsurancene.ws/pacific-life-re-completes-first-asset-intensive-reinsurance-transaction-in-hong-kong/",
+      "ingestedAt": "2026-09-10T18:11:36.554478+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "axa-gba-everguard-medical-20260907",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "axa",
+      "title": {
+        "sc": "安盛香港澳门推「大湾区EverGuard医疗保障」 覆盖内地住院手术及出院后康复 [EN原文]",
+        "tc": "安盛香港澳門推「大灣區EverGuard醫療保障」 覆蓋內地住院手術及出院後康復 [EN原文]"
+      },
+      "summary": {
+        "sc": "安盛香港及澳门7日推出大湾区EverGuard医疗保障，回应跨境医疗需求。产品覆盖大中华区自选医院，提供免找数安排、医疗绿通、标准私家房，内地住院及手术全额保障并延伸至出院后康复支援与符合条件中医治疗。",
+        "tc": "安盛香港及澳門7日推出大灣區EverGuard醫療保障，回應跨境醫療需求。產品覆蓋大中華區自選醫院，提供免找數安排、醫療綠通、標準私家房，內地住院及手術全額保障並延伸至出院後康復支援與符合條件中醫治療。"
+      },
+      "why": {
+        "sc": "跨境医疗是大湾区客户高频需求；产品把「内地就医＋出院后康复＋中医」打包，是观察港险医疗保障竞争由「保额战」转向「医疗资源网络战」的样本。",
+        "tc": "跨境醫療是大灣區客戶高頻需求；產品把「內地就醫＋出院後康復＋中醫」打包，是觀察港險醫療保障競爭由「保額戰」轉向「醫療資源網絡戰」的樣本。"
+      },
+      "actions": {
+        "front": {
+          "sc": "面对有内地就医需求的客户，可比较此类跨境医疗产品的医院网络、免找数安排与出院后保障衔接",
+          "tc": "面對有內地就醫需求的客戶，可比較此類跨境醫療產品的醫院網絡、免找數安排與出院後保障銜接"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 0,
+        "lead": 0,
+        "cross": 1
+      },
+      "source": {
+        "sc": "AXA Hong Kong and Macau（The Standard 报道）",
+        "lang": "en"
+      },
+      "boards": [
+        "product",
+        "market"
+      ],
+      "themes": [
+        "health",
+        "cross-border"
+      ],
+      "tags": {
+        "sc": [
+          "安盛",
+          "大湾区",
+          "医疗保障",
+          "跨境医疗",
+          "免找数"
+        ],
+        "tc": [
+          "安盛",
+          "大灣區",
+          "醫療保障",
+          "跨境醫療",
+          "免找數"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-07T19:28:00+08:00",
+      "originalUrl": "https://www.thestandard.com.hk/finance/article/342082/AXA-unveils-cross-border-GBA-health-insurance",
+      "ingestedAt": "2026-09-10T18:11:36.554478+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ibm-axa-governed-ai-hub-20260908",
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "title": {
+        "sc": "安盛在五个实体上线管治式AI基础设施中枢 AXA XL已基于其开发理赔与邮件应用 [EN原文]",
+        "tc": "安盛在五個實體上線管治式AI基礎設施中樞 AXA XL已基於其開發理賠與郵件應用 [EN原文]"
+      },
+      "summary": {
+        "sc": "报道指安盛已在五个实体上线其「厂商中立」的管治式AI基础设施中枢，AXA XL是其中正基于该平台构建理赔与邮件应用者之一，显示大型险企AI应用正由单点试验转向集团级统一治理与规模化部署。",
+        "tc": "報道指安盛已在五個實體上線其「廠商中立」的管治式AI基礎設施中樞，AXA XL是其中正基於該平台構建理賠與郵件應用者之一，顯示大型險企AI應用正由單點試驗轉向集團級統一治理與規模化部署。"
+      },
+      "why": {
+        "sc": "保司AI治理架构（模型接入、权限与合规管控统一化）是AI应用能否规模化的关键瓶颈；对判断保司数字化成熟度与未来中介端工具能力有参考价值。",
+        "tc": "保司AI治理架構（模型接入、權限與合規管控統一化）是AI應用能否規模化的關鍵瓶頸；對判斷保司數字化成熟度與未來中介端工具能力有參考價值。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "关注保司AI治理架构与合规管控模式，作为评估合作方数字化成熟度的维度",
+          "tc": "關注保司AI治理架構與合規管控模式，作為評估合作方數字化成熟度的維度"
+        },
+        "lead": {
+          "sc": "AI规模化依赖治理先行，可对照检视团队内部AI工具使用规范",
+          "tc": "AI規模化依賴治理先行，可對照檢視團隊內部AI工具使用規範"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Business",
+        "lang": "en"
+      },
+      "boards": [
+        "tech",
+        "insurer"
+      ],
+      "themes": [
+        "ai",
+        "governance"
+      ],
+      "tags": {
+        "sc": [
+          "安盛",
+          "AI治理",
+          "AXA XL",
+          "基础设施",
+          "规模化"
+        ],
+        "tc": [
+          "安盛",
+          "AI治理",
+          "AXA XL",
+          "基礎設施",
+          "規模化"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-08T16:27:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/axa-scales-governed-ai-infrastructure-across-global-operations-589000.aspx",
+      "ingestedAt": "2026-09-10T18:11:36.554478+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
     {
       "id": "pru-ai-underwriter-alibaba-20260909",
       "clusterCount": 1,
@@ -49522,6 +50200,21 @@
   "digests": {
     "daily": [
       {
+        "key": "2026-09-10",
+        "label": {
+          "sc": "2026-09-10",
+          "tc": "2026-09-10"
+        },
+        "itemCount": 5,
+        "itemIds": [
+          "axa-byteplus-ai-mou-20260910",
+          "pru-mdrt-2026-global-no2-20260910",
+          "ibm-beazley-digital-health-ai-20260910",
+          "fsdc-regional-connectivity-reports-20260910",
+          "ibm-pacicc-insurer-failures-20260910"
+        ]
+      },
+      {
         "key": "2026-09-09",
         "label": {
           "sc": "2026-09-09",
@@ -57189,19 +57882,19 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 677 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 677 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 686 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 686 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 677,
+      "totalItems": 686,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 228,
+          "count": 230,
           "label": "监管一手"
         },
         {
           "tier": "insurer",
-          "count": 135,
+          "count": 138,
           "label": "保司公告"
         },
         {
@@ -57211,7 +57904,7 @@
         },
         {
           "tier": "media",
-          "count": 222,
+          "count": 226,
           "label": "媒体报道"
         },
         {
@@ -57295,7 +57988,7 @@
         },
         {
           "theme": "reg",
-          "count": 123,
+          "count": 124,
           "label": "监管"
         },
         {
@@ -57330,18 +58023,18 @@
         },
         {
           "theme": "cross-border",
-          "count": 46,
+          "count": 48,
           "label": "跨境"
         },
         {
           "theme": "reinsurance",
-          "count": 42,
+          "count": 43,
           "label": "再保险"
         }
       ],
       "dateRange": {
-        "sc": "2013-03-05 ~ 2026-09-09",
-        "tc": "2013-03-05 ~ 2026-09-09"
+        "sc": "2013-03-05 ~ 2026-09-10",
+        "tc": "2013-03-05 ~ 2026-09-10"
       }
     },
     "marketData": {
