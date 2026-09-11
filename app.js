@@ -1,11 +1,11 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-11T00:49:48.299775+08:00",
-    "itemCount": 699,
+    "generatedAt": "2026-09-12T01:50:35.862793+08:00",
+    "itemCount": 712,
     "windowNote": {
-      "sc": "本库699条。",
-      "tc": "本庫699條。"
+      "sc": "本库712条。",
+      "tc": "本庫712條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -277,6 +277,1018 @@ window.HKII_DATA = {
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "clusterCount": 1,
+      "verifyStatus": "verified",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-12T01:50:35.862793+08:00",
+      "id": "govhk-silver-bond-2026-allotment-20260911",
+      "score": 85,
+      "sourceTier": "official",
+      "sourceKey": "govhk",
+      "title": {
+        "sc": "政府公布第11批银色债券认购及配发结果：476,703份有效申请涉1,193亿元 最终发行550亿元",
+        "tc": "政府公佈第11批銀色債券認購及配發結果：476,703份有效申請涉1,193億元 最終發行550億元"
+      },
+      "summary": {
+        "sc": "政府9月11日公布第11批银色债券结果：9月4日截止时共收476,703份有效申请、涉本金1,193.06亿港元，最终发行额上调至550亿港元（目标500亿）。申请12手或以下者获全数配发；其余先配12手再抽签，其中97,396份多获1手。债券9月15日发行。",
+        "tc": "政府9月11日公佈第11批銀色債券結果：9月4日截止時共收476,703份有效申請、涉本金1,193.06億港元，最終發行額上調至550億港元（目標500億）。申請12手或以下者獲全數配發；其餘先配12手再抽籤，其中97,396份多獲1手。債券9月15日發行。"
+      },
+      "why": {
+        "sc": "银债认购与配发金额再创纪录，反映香港长者及零售资金对保证回报固定收益需求极强；可作为理解客户在「保证收益 vs 长期分红」之间取态的公开市场参照（仅市场观察，不作产品比较或收益承诺）。",
+        "tc": "銀債認購與配發金額再創紀錄，反映香港長者及零售資金對保證回報固定收益需求極強；可作為理解客戶在「保證收益 vs 長期分紅」之間取態的公開市場參照（僅市場觀察，不作產品比較或收益承諾）。"
+      },
+      "actions": {
+        "front": {
+          "sc": "向客户说明零售保证收益产品的官方配发口径与风险属性（严禁比较收益或承诺回报）",
+          "tc": "向客戶說明零售保證收益產品的官方配發口徑與風險屬性（嚴禁比較收益或承諾回報）"
+        },
+        "midback": {
+          "sc": "将银债结果纳入零售资金流向与竞争性产品观察表",
+          "tc": "將銀債結果納入零售資金流向與競爭性產品觀察表"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "香港特区政府新闻公报（财经事务及库务局）",
+        "lang": "zh"
+      },
+      "boards": [
+        "market",
+        "product"
+      ],
+      "themes": [
+        "market",
+        "retirement"
+      ],
+      "tags": {
+        "sc": [
+          "银色债券",
+          "配发结果",
+          "550亿",
+          "金管局",
+          "零售债券"
+        ],
+        "tc": [
+          "銀色債券",
+          "配發結果",
+          "550億",
+          "金管局",
+          "零售債券"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-11T18:15:00+08:00",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202609/11/P2026091100567.htm"
+    },
+    {
+      "clusterCount": 1,
+      "verifyStatus": "verified",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-12T01:50:35.862793+08:00",
+      "id": "govhk-golden-week-visitor-prep-20260911",
+      "score": 85,
+      "sourceTier": "official",
+      "sourceKey": "govhk",
+      "title": {
+        "sc": "文体旅局统筹国庆黄金周接待准备 旅监局9月7日吊销2间旅行社及1名导游牌照",
+        "tc": "文體旅局統籌國慶黃金周接待準備 旅監局9月7日吊銷2間旅行社及1名導遊牌照"
+      },
+      "summary": {
+        "sc": "文化体育及旅游局9月11日召开跨部门会议，统筹10月1至7日内地国庆黄金周访港旅客接待，警务处、入境处、海关、运输署、卫生署等参与。旅监局9月7日因强迫购物吊销2间旅行社及1名导游牌照，年内并已暂停一间注册商店。当局同时提示9月25至27日中秋长周末接待准备。",
+        "tc": "文化體育及旅遊局9月11日召開跨部門會議，統籌10月1至7日內地國慶黃金周訪港旅客接待，警務處、入境處、海關、運輸署、衞生署等參與。旅監局9月7日因強迫購物吊銷2間旅行社及1名導遊牌照，年內並已暫停一間註冊商店。當局同時提示9月25至27日中秋長周末接待準備。"
+      },
+      "why": {
+        "sc": "黄金周与中秋长周末是访港高峰，也是港险业传统销售旺季；提前掌握接待部署与执法强度，有助理清档期安排，并提醒前线在任何销售场景都不容强制、不当销售或回佣等违规风险。",
+        "tc": "黃金周與中秋長周末是訪港高峰，也是港險業傳統銷售旺季；提前掌握接待部署與執法強度，有助理清檔期安排，並提醒前線在任何銷售場景都不容強制、不當銷售或回佣等違規風險。"
+      },
+      "actions": {
+        "front": {
+          "sc": "旺季前重温销售流程与客户保障要求，确保高峰期服务不降质",
+          "tc": "旺季前重溫銷售流程與客戶保障要求，確保高峰期服務不降質"
+        },
+        "midback": {
+          "sc": "按黄金周客流量排班与值班安排，预留合规复核人力",
+          "tc": "按黃金周客流量排班與值班安排，預留合規覆核人力"
+        },
+        "lead": {
+          "sc": "以客流与监管执法数据支持旺季经营预判",
+          "tc": "以客流與監管執法數據支持旺季經營預判"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "香港特区政府新闻公报（文化体育及旅游局）",
+        "lang": "zh"
+      },
+      "boards": [
+        "market",
+        "channel"
+      ],
+      "themes": [
+        "market",
+        "channel"
+      ],
+      "tags": {
+        "sc": [
+          "国庆黄金周",
+          "旅监局",
+          "强迫购物",
+          "访港旅客",
+          "旺季"
+        ],
+        "tc": [
+          "國慶黃金周",
+          "旅監局",
+          "強迫購物",
+          "訪港旅客",
+          "旺季"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-11T17:15:00+08:00",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202609/11/P2026091100338.htm"
+    },
+    {
+      "clusterCount": 1,
+      "verifyStatus": "verified",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-12T01:50:35.862793+08:00",
+      "id": "govhk-belt-road-summit-11-20260911",
+      "score": 85,
+      "sourceTier": "official",
+      "sourceKey": "govhk",
+      "title": {
+        "sc": "第11届「一带一路高峰论坛」闭幕：逾6,200名政商领袖出席、签署逾60份备忘录 总值逾31亿美元",
+        "tc": "第11屆「一帶一路高峰論壇」閉幕：逾6,200名政商領袖出席、簽署逾60份備忘錄 總值逾31億美元"
+      },
+      "summary": {
+        "sc": "论坛9月10日闭幕，两日汇聚70多个国家和地区逾6,200名政商领袖，展示300多个投资项目、促成800多场一对一洽谈，签署逾60份合作备忘录创纪录；连同会前及会上敲定的新项目总值逾31亿美元。今年新设「企业出海」专章、主权财富基金环节、低空经济、Health Silk Road，并首设中亚专区与大学专区。",
+        "tc": "論壇9月10日閉幕，兩日匯聚70多個國家和地區逾6,200名政商領袖，展示300多個投資項目、促成800多場一對一洽談，簽署逾60份合作備忘錄創紀錄；連同會前及會上敲定的新項目總值逾31億美元。今年新設「企業出海」專章、主權財富基金環節、低空經濟、Health Silk Road，並首設中亞專區與大學專區。"
+      },
+      "why": {
+        "sc": "主权财富基金、内地企业出海与基建项目集中对接，正好对应跨境风险管理、专属自保与保险相连证券的需求场景；可作为与企业及高客客户谈风险管理国际化的公开背景材料。",
+        "tc": "主權財富基金、內地企業出海與基建項目集中對接，正好對應跨境風險管理、專屬自保與保險相連證券的需求場景；可作為與企業及高客客戶談風險管理國際化的公開背景材料。"
+      },
+      "actions": {
+        "front": {
+          "sc": "与企业家客户交流时可引论坛数据说明香港风险管理平台功能（只述公开信息）",
+          "tc": "與企業家客戶交流時可引論壇數據說明香港風險管理平台功能（只述公開信息）"
+        },
+        "midback": {
+          "sc": "梳理出海企业的保障需求清单，为跨境项目提供风险检视框架",
+          "tc": "梳理出海企業的保障需求清單，為跨境項目提供風險檢視框架"
+        },
+        "lead": {
+          "sc": "把论坛成果纳入跨境业务与机构合作机会清单",
+          "tc": "把論壇成果納入跨境業務與機構合作機會清單"
+        },
+        "cross": {
+          "sc": "跟进中亚、中东专区的项目与主权基金动向",
+          "tc": "跟進中亞、中東專區的項目與主權基金動向"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "香港特区政府新闻公报",
+        "lang": "zh"
+      },
+      "boards": [
+        "market",
+        "family"
+      ],
+      "themes": [
+        "offshore",
+        "family-office"
+      ],
+      "tags": {
+        "sc": [
+          "一带一路",
+          "高峰论坛",
+          "主权财富基金",
+          "企业出海",
+          "专属自保"
+        ],
+        "tc": [
+          "一帶一路",
+          "高峰論壇",
+          "主權財富基金",
+          "企業出海",
+          "專屬自保"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-11T23:59:00+08:00",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202609/11/P2026091100795.htm"
+    },
+    {
+      "clusterCount": 1,
+      "verifyStatus": "verified",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-12T01:50:35.862793+08:00",
+      "id": "investhk-bund-conference-20260911",
+      "score": 85,
+      "sourceTier": "official",
+      "sourceKey": "investhk",
+      "title": {
+        "sc": "投资推广署赴上海外滩大会：以「金融+」「AI+」支持内地企业出海 设香港论坛",
+        "tc": "投資推廣署赴上海外灘大會：以「金融+」「AI+」支持內地企業出海 設香港論壇"
+      },
+      "summary": {
+        "sc": "投资推广署9月9至10日参与上海Inclusion Conference on the Bund 2026（主题「共创AI新经济」），举办「香港论坛：数字蓝海——香港『金融+』赋能内地企业出海」，联同财库局、创科局、金管局及港交所代表，讨论融资、跨境财资管理、跨境合规与供应链等议题，并设香港展位推广香港金融科技周x StartmeupHK。",
+        "tc": "投資推廣署9月9至10日參與上海Inclusion Conference on the Bund 2026（主題「共創AI新經濟」），舉辦「香港論壇：數字藍海——香港『金融+』賦能內地企業出海」，聯同財庫局、創科局、金管局及港交所代表，討論融資、跨境財資管理、跨境合規與供應鏈等議題，並設香港展位推廣香港金融科技周x StartmeupHK。"
+      },
+      "why": {
+        "sc": "官方持续以「超级联系人」定位吸引内地企业经香港出海，跨境财资、合规与家族架构需求同步上升；可作为与内地背景高客及企业主沟通政策环境、在港设立平台的客观依据。",
+        "tc": "官方持續以「超級聯繫人」定位吸引內地企業經香港出海，跨境財資、合規與家族架構需求同步上升；可作為與內地背景高客及企業主溝通政策環境、在港設立平台的客觀依據。"
+      },
+      "actions": {
+        "front": {
+          "sc": "对内地企业家客户可引官方口径说明香港平台功能（不涉税务或法律意见）",
+          "tc": "對內地企業家客戶可引官方口徑說明香港平台功能（不涉稅務或法律意見）"
+        },
+        "midback": {
+          "sc": "整理出海企业常见跨境合规议题清单供团队参考",
+          "tc": "整理出海企業常見跨境合規議題清單供團隊參考"
+        },
+        "lead": {
+          "sc": "评估与投资推广署、内地园区的合作触点",
+          "tc": "評估與投資推廣署、內地園區的合作觸點"
+        },
+        "cross": {
+          "sc": "纳入跨境客户来源与转介合规视角的观察",
+          "tc": "納入跨境客戶來源與轉介合規視角的觀察"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "香港投资推广署（政府新闻公报）",
+        "lang": "zh"
+      },
+      "boards": [
+        "family",
+        "market"
+      ],
+      "themes": [
+        "offshore",
+        "family-office"
+      ],
+      "tags": {
+        "sc": [
+          "投资推广署",
+          "外滩大会",
+          "企业出海",
+          "跨境合规",
+          "金融科技周"
+        ],
+        "tc": [
+          "投資推廣署",
+          "外灘大會",
+          "企業出海",
+          "跨境合規",
+          "金融科技週"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-11T12:12:00+08:00",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202609/11/P2026090800331.htm"
+    },
+    {
+      "clusterCount": 1,
+      "verifyStatus": "verified",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-12T01:50:35.862793+08:00",
+      "id": "hkma-green-fintech-symposium-20260911",
+      "score": 85,
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "金管局2026绿色金融科技研讨会：余伟文称要「更精准配置资本」 逾450人参与",
+        "tc": "金管局2026綠色金融科技研討會：余偉文稱要「更精準配置資本」 逾450人參與"
+      },
+      "summary": {
+        "sc": "金管局9月11日举办2026绿色金融科技研讨会，为香港绿色周压轴活动，逾450人线上线下一同参与。总裁余伟文指达致净零与气候韧性不只是动员更多资本，而是更精准配置资本，须防止漂绿并灵活回应实体经济转型；环节涵盖智能转型基建、AI驱动的可持续金融与本地绿色金融科技方案展示。",
+        "tc": "金管局9月11日舉辦2026綠色金融科技研討會，為香港綠色周壓軸活動，逾450人線上線下一同參與。總裁余偉文指達致淨零與氣候韌性不只是動員更多資本，而是更精準配置資本，須防止漂綠並靈活回應實體經濟轉型；環節涵蓋智能轉型基建、AI驅動的可持續金融與本地綠色金融科技方案展示。"
+      },
+      "why": {
+        "sc": "气候风险数据、ESG披露与AI应用是再保险与气候保险产品创新的上游基建；保监局早前已推「气候保险实验室」，本会议可补上气候风险议题的官方脉络，有助理解巨灾保障缺口的产品化路径。",
+        "tc": "氣候風險數據、ESG披露與AI應用是再保險與氣候保險產品創新的上游基建；保監局早前已推「氣候保險實驗室」，本會議可補上氣候風險議題的官方脈絡，有助理解巨災保障缺口的產品化路徑。"
+      },
+      "actions": {
+        "front": {
+          "sc": "向关注ESG的企业客户说明气候风险披露趋势（不作绿色产品收益宣传）",
+          "tc": "向關注ESG的企業客戶說明氣候風險披露趨勢（不作綠色產品收益宣傳）"
+        },
+        "midback": {
+          "sc": "把气候风险数据与披露要求纳入企业客户风险检视要点",
+          "tc": "把氣候風險數據與披露要求納入企業客戶風險檢視要點"
+        },
+        "lead": {
+          "sc": "跟踪气候保险产品创新平台的参与机会",
+          "tc": "跟蹤氣候保險產品創新平台的參與機會"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "香港金融管理局（新闻稿）",
+        "lang": "en"
+      },
+      "boards": [
+        "tech",
+        "reg"
+      ],
+      "themes": [
+        "tech",
+        "esg"
+      ],
+      "tags": {
+        "sc": [
+          "金管局",
+          "绿色金融科技",
+          "气候风险",
+          "ESG披露",
+          "余伟文"
+        ],
+        "tc": [
+          "金管局",
+          "綠色金融科技",
+          "氣候風險",
+          "ESG披露",
+          "余偉文"
+        ]
+      },
+      "contentKind": "speech",
+      "publishedAt": "2026-09-11",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260911-3/"
+    },
+    {
+      "clusterCount": 1,
+      "verifyStatus": "verified",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-12T01:50:35.862793+08:00",
+      "id": "hkma-hkicl-fraud-websites-20260911",
+      "score": 85,
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "金管局通报：香港银行同业结算公司警示4个假冒FPS「买家网上保障」网站",
+        "tc": "金管局通報：香港銀行同業結算公司警示4個假冒FPS「買家網上保障」網站"
+      },
+      "summary": {
+        "sc": "香港银行同业结算有限公司（HKICL）9月11日警示4个假冒网站（fpshkicl.lat、fpshkicl.xyz、fpshkicl.lol、fpshkicl.mom），冒充FPS「买家网上保障」提供退款、未获授权网上交易申报及网上交易支援，并引导市民联络假冒客服。HKICL强调与该等网站无任何关联，亦不会主动接触市民，真正官网为hkicl.com.hk及fps.hkicl.com.hk，可疑来电应致电2533 1111核实。",
+        "tc": "香港銀行同業結算有限公司（HKICL）9月11日警示4個假冒網站（fpshkicl.lat、fpshkicl.xyz、fpshkicl.lol、fpshkicl.mom），冒充FPS「買家網上保障」提供退款、未獲授權網上交易申報及網上交易支援，並引導市民聯絡假冒客服。HKICL強調與該等網站無任何關聯，亦不會主動接觸市民，真正官網為hkicl.com.hk及fps.hkicl.com.hk，可疑來電應致電2533 1111核實。"
+      },
+      "why": {
+        "sc": "假冒支付平台客服是近期高发诈骗手法，客户一旦在缴费、退保或退款环节被诱导，可能同时损失资金与个人资料；可作为向客户提示「只经官方渠道缴费、可疑即致电官方核实」的现实案例。",
+        "tc": "假冒支付平台客服是近期高發詐騙手法，客戶一旦在繳費、退保或退款環節被誘導，可能同時損失資金與個人資料；可作為向客戶提示「只經官方渠道繳費、可疑即致電官方核實」的現實案例。"
+      },
+      "actions": {
+        "front": {
+          "sc": "向客户重申缴费与退保只经官方渠道，并示范如何核实来电",
+          "tc": "向客戶重申繳費與退保只經官方渠道，並示範如何核實來電"
+        },
+        "midback": {
+          "sc": "把诈骗警示纳入客户通知模板，按季更新",
+          "tc": "把詐騙警示納入客戶通知模板，按季更新"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "香港金融管理局（新闻稿／HKICL）",
+        "lang": "en"
+      },
+      "boards": [
+        "reg",
+        "tech"
+      ],
+      "themes": [
+        "reg",
+        "cyber"
+      ],
+      "tags": {
+        "sc": [
+          "金管局",
+          "HKICL",
+          "FPS",
+          "假冒网站",
+          "防诈"
+        ],
+        "tc": [
+          "金管局",
+          "HKICL",
+          "FPS",
+          "假冒網站",
+          "防詐"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-11",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260911-4/"
+    },
+    {
+      "clusterCount": 1,
+      "verifyStatus": "pending",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-12T01:50:35.862793+08:00",
+      "id": "ibm-china-flexible-workforce-health-gap-20260911",
+      "score": 66,
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "title": {
+        "sc": "媒体报道：内地灵活就业群体医疗保障覆盖不均 补充商业健康险仍有产品空间 [EN原文]",
+        "tc": "媒體報道：內地靈活就業群體醫療保障覆蓋不均 補充商業健康險仍有產品空間 [EN原文]"
+      },
+      "summary": {
+        "sc": "Insurance Business Asia 9月11日报道，内地公共保障持续扩面，但灵活就业与平台劳动者的待遇差异与负担能力问题仍然存在，形成雇主团体医疗与个人补充健康险的产品空间，指向内地就业结构变化下的补充保障需求。",
+        "tc": "Insurance Business Asia 9月11日報道，內地公共保障持續擴面，但靈活就業與平台勞動者的待遇差異與負擔能力問題仍然存在，形成僱主團體醫療與個人補充健康險的產品空間，指向內地就業結構變化下的補充保障需求。"
+      },
+      "why": {
+        "sc": "内地就业结构变化牵动团体福利与跨境医疗保障需求；可作为与内地背景客户讨论医疗缺口时的行业媒体视角（仅为导读，不构成销售建议或产品比较）。",
+        "tc": "內地就業結構變化牽動團體福利與跨境醫療保障需求；可作為與內地背景客戶討論醫療缺口時的行業媒體視角（僅為導讀，不構成銷售建議或產品比較）。"
+      },
+      "actions": {
+        "front": {
+          "sc": "与内地背景客户谈医疗缺口时引用公开报道口径，不作产品比较",
+          "tc": "與內地背景客戶談醫療缺口時引用公開報道口徑，不作產品比較"
+        },
+        "midback": {
+          "sc": "纳入大湾区医疗与团体福利需求观察清单",
+          "tc": "納入大灣區醫療與團體福利需求觀察清單"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Business Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "product",
+        "market"
+      ],
+      "themes": [
+        "health",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "灵活就业",
+          "医疗保障",
+          "团体福利",
+          "大湾区",
+          "补充健康险"
+        ],
+        "tc": [
+          "靈活就業",
+          "醫療保障",
+          "團體福利",
+          "大灣區",
+          "補充健康險"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-11",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/chinas-flexible-workforce-exposes-a-gap-in-employee-health-coverage-589490.aspx"
+    },
+    {
+      "clusterCount": 1,
+      "verifyStatus": "pending",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-12T01:50:35.862793+08:00",
+      "id": "ibm-seoul-learn-from-british-insurers-20260911",
+      "score": 62,
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "title": {
+        "sc": "媒体报道：韩国监管以英国保险中介制度为参照 探讨强化销售与佣金监管 [EN原文]",
+        "tc": "媒體報道：韓國監管以英國保險中介制度為參照 探討強化銷售與佣金監管 [EN原文]"
+      },
+      "summary": {
+        "sc": "Insurance Business Asia 9月11日报道，韩国监管在检视中介销售行为与佣金结构改革时，以英国保险中介及顾问制度为参照，探索加强销售流程规范与佣金披露的可行路径。",
+        "tc": "Insurance Business Asia 9月11日報道，韓國監管在檢視中介銷售行為與佣金結構改革時，以英國保險中介及顧問制度為參照，探索加強銷售流程規範與佣金披露的可行路徑。"
+      },
+      "why": {
+        "sc": "亚洲各市场正同步收紧中介佣金与销售行为监管，与香港自2025年起推行转介费上限、首年佣金不超过总佣金七成等改革方向一致；可作为说明区域监管趋同的背景资料。",
+        "tc": "亞洲各市場正同步收緊中介佣金與銷售行為監管，與香港自2025年起推行轉介費上限、首年佣金不超過總佣金七成等改革方向一致；可作為說明區域監管趨同的背景資料。"
+      },
+      "actions": {
+        "front": {
+          "sc": "向团队说明区域佣金监管趋势，强化长期服务导向共识",
+          "tc": "向團隊說明區域佣金監管趨勢，強化長期服務導向共識"
+        },
+        "midback": {
+          "sc": "把区域中介监管动态纳入合规月报的观察项",
+          "tc": "把區域中介監管動態納入合規月報的觀察項"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Business Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "reg",
+        "channel"
+      ],
+      "themes": [
+        "reg",
+        "channel"
+      ],
+      "tags": {
+        "sc": [
+          "韩国",
+          "保险中介",
+          "佣金监管",
+          "英国制度",
+          "销售行为"
+        ],
+        "tc": [
+          "韓國",
+          "保險中介",
+          "佣金監管",
+          "英國制度",
+          "銷售行為"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-11",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/learn-from-british-insurers-says-seoul-589464.aspx"
+    },
+    {
+      "clusterCount": 1,
+      "verifyStatus": "pending",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-12T01:50:35.862793+08:00",
+      "id": "ibm-biological-ai-insurance-20260911",
+      "score": 60,
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "title": {
+        "sc": "媒体报道：AI被用于生物研究等滥用场景 保险业需重估责任与网络风险 [EN原文]",
+        "tc": "媒體報道：AI被用於生物研究等濫用場景 保險業需重估責任與網絡風險 [EN原文]"
+      },
+      "summary": {
+        "sc": "Insurance Business Asia 9月11日报道，Anthropic披露曾阻止与国家背景相关的AI网络及研究滥用事件，涉及AI被用于生物研究等场景；报道指相关风险已横跨多条保险业务线，影响责任险、网络险与人身险的核保与再保险安排。",
+        "tc": "Insurance Business Asia 9月11日報道，Anthropic披露曾阻止與國家背景相關的AI網絡及研究濫用事件，涉及AI被用於生物研究等場景；報道指相關風險已橫跨多條保險業務線，影響責任險、網絡險與人身險的核保與再保險安排。"
+      },
+      "why": {
+        "sc": "AI滥用风险外溢至责任与网络险，属核保问答与再保条款需关注的新变量；可作为企业客户风险检视中纳入AI使用场景的依据（仅作趋势导读）。",
+        "tc": "AI濫用風險外溢至責任與網絡險，屬核保問答與再保條款需關注的新變量；可作為企業客戶風險檢視中納入AI使用場景的依據（僅作趨勢導讀）。"
+      },
+      "actions": {
+        "front": {
+          "sc": "企业客户风险检视时增补AI使用与网络责任问项",
+          "tc": "企業客戶風險檢視時增補AI使用與網絡責任問項"
+        },
+        "midback": {
+          "sc": "整理科技风险议题清单供核保沟通参考",
+          "tc": "整理科技風險議題清單供核保溝通參考"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Business Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "tech",
+        "product"
+      ],
+      "themes": [
+        "cyber",
+        "ai"
+      ],
+      "tags": {
+        "sc": [
+          "AI风险",
+          "网络险",
+          "责任险",
+          "核保",
+          "科技风险"
+        ],
+        "tc": [
+          "AI風險",
+          "網絡險",
+          "責任險",
+          "核保",
+          "科技風險"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-11",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/biological-weapons-researchers-were-using-ai--insurers-should-know-589444.aspx"
+    },
+    {
+      "clusterCount": 1,
+      "verifyStatus": "pending",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-12T01:50:35.862793+08:00",
+      "id": "iasea-korea-life-ai-projects-20260911",
+      "score": 65,
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "保险亚洲：韩国寿险协会拟2027年前推进17个AI项目 覆盖法律与合同审查 [EN原文]",
+        "tc": "保險亞洲：韓國壽險協會擬2027年前推進17個AI項目 覆蓋法律與合同審查 [EN原文]"
+      },
+      "summary": {
+        "sc": "Insurance Asia 9月11日报道，韩国寿险协会计划至2027年推进17个人工智能项目，范围涵盖法律审查、合同审查与数据核验等，显示韩国寿险业把AI应用由前端客户服务延伸至中后台的合规与合约处理环节。",
+        "tc": "Insurance Asia 9月11日報道，韓國壽險協會計劃至2027年推進17個人工智能項目，範圍涵蓋法律審查、合同審查與數據核驗等，顯示韓國壽險業把AI應用由前端客戶服務延伸至中後台的合規與合約處理環節。"
+      },
+      "why": {
+        "sc": "与保诚、宏利、安盛等在港推出的AI核保与代理助手互相呼应，说明AI正由销售端走向中后台；可作为团队理解「AI＋合规」落地路径的区域对照案例。",
+        "tc": "與保誠、宏利、安盛等在港推出的AI核保與代理助手互相呼應，說明AI正由銷售端走向中後台；可作為團隊理解「AI＋合規」落地路徑的區域對照案例。"
+      },
+      "actions": {
+        "front": {
+          "sc": "向团队分享AI在中后台应用的同行案例，减少工具焦虑",
+          "tc": "向團隊分享AI在中後台應用的同行案例，減少工具焦慮"
+        },
+        "midback": {
+          "sc": "评估法律与合同审查类AI工具在合规流程的可用性",
+          "tc": "評估法律與合同審查類AI工具在合規流程的可用性"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "关注区域内AI项目标准化动向，为跨境协作预研",
+          "tc": "關注區域內AI項目標準化動向，為跨境協作預研"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "tech",
+        "insurer"
+      ],
+      "themes": [
+        "tech",
+        "ai"
+      ],
+      "tags": {
+        "sc": [
+          "韩国寿险",
+          "AI项目",
+          "合同审查",
+          "中后台",
+          "保险科技"
+        ],
+        "tc": [
+          "韓國壽險",
+          "AI項目",
+          "合同審查",
+          "中後台",
+          "保險科技"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-11",
+      "originalUrl": "https://insuranceasia.com/insurance/news/korea-life-insurance-association-targets-17-ai-projects-2027"
+    },
+    {
+      "clusterCount": 1,
+      "verifyStatus": "pending",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-12T01:50:35.862793+08:00",
+      "id": "iasea-hsbc-life-singapore-iul-20260911",
+      "score": 63,
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "保险亚洲：汇丰人寿新加坡推定期寿险与IUL III指数型万能寿险新品 [EN原文]",
+        "tc": "保險亞洲：滙豐人壽新加坡推定期壽險與IUL III指數型萬能壽險新品 [EN原文]"
+      },
+      "summary": {
+        "sc": "Insurance Asia 9月11日报道，汇丰人寿新加坡推出两款保险方案：HSBC Life Term Protect Secure定期寿险，以及HSBC Life Diamond Prestige IUL III指数型万能寿险，属高端财富传承产品线的延伸。",
+        "tc": "Insurance Asia 9月11日報道，滙豐人壽新加坡推出兩款保險方案：HSBC Life Term Protect Secure定期壽險，以及HSBC Life Diamond Prestige IUL III指數型萬能壽險，屬高端財富傳承產品線的延伸。"
+      },
+      "why": {
+        "sc": "IUL在亚洲高端市场持续扩品，与香港把指数型万能寿险业务纳入风险为本资本制度优化措施的监管动向互相印证；可作为高客产品谱系与区域比较的观察点（仅产品动向，不作推介）。",
+        "tc": "IUL在亞洲高端市場持續擴品，與香港把指數型萬能壽險業務納入風險為本資本制度優化措施的監管動向互相印證；可作為高客產品譜系與區域比較的觀察點（僅產品動向，不作推介）。"
+      },
+      "actions": {
+        "front": {
+          "sc": "了解区域IUL产品设计趋势，用于专业对话而非产品推介",
+          "tc": "了解區域IUL產品設計趨勢，用於專業對話而非產品推介"
+        },
+        "midback": {
+          "sc": "更新高客产品比较表的产品谱系条目",
+          "tc": "更新高客產品比較表的產品譜系條目"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "product",
+        "insurer"
+      ],
+      "themes": [
+        "product",
+        "family-office"
+      ],
+      "tags": {
+        "sc": [
+          "汇丰人寿",
+          "新加坡",
+          "IUL",
+          "定期寿险",
+          "产品动态"
+        ],
+        "tc": [
+          "滙豐人壽",
+          "新加坡",
+          "IUL",
+          "定期壽險",
+          "產品動態"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-11",
+      "originalUrl": "https://insuranceasia.com/news/hsbc-life-singapore-unveil-new-term-life-and-iul-plans"
+    },
+    {
+      "clusterCount": 1,
+      "verifyStatus": "pending",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-12T01:50:35.862793+08:00",
+      "id": "iasea-philippines-farm-losses-20260911",
+      "score": 60,
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "保险亚洲：菲律宾台风农损大部分不在保险覆盖内 国有保险机构独担承保风险 [EN原文]",
+        "tc": "保險亞洲：菲律賓颱風農損大部分不在保險覆蓋內 國有保險機構獨擔承保風險 [EN原文]"
+      },
+      "summary": {
+        "sc": "Insurance Asia 9月11日报道并获Insurance Business 9月12日跟进：菲律宾台风受灾农户损失中大部分不在保险覆盖范围，PCIC作为国有保险机构承担全部承保风险而未作风险转移，报道指当天气事件跨区域集群发生时，财政敞口会不断扩大。",
+        "tc": "Insurance Asia 9月11日報道並獲Insurance Business 9月12日跟進：菲律賓颱風受災農戶損失中大部分不在保險覆蓋範圍，PCIC作為國有保險機構承擔全部承保風險而未作風險轉移，報道指當天氣事件跨區域集群發生時，財政敞口會不斷擴大。"
+      },
+      "why": {
+        "sc": "巨灾保障缺口与国有机构独担风险的模式，与香港发展气候保险、巨灾债券及专属自保的定位形成对照；可作为向企业客户说明气候风险与再保需求的案例素材。",
+        "tc": "巨災保障缺口與國有機構獨擔風險的模式，與香港發展氣候保險、巨災債券及專屬自保的定位形成對照；可作為向企業客戶說明氣候風險與再保需求的案例素材。"
+      },
+      "actions": {
+        "front": {
+          "sc": "用区域巨灾案例说明风险转移必要性（不作收益宣传）",
+          "tc": "用區域巨災案例說明風險轉移必要性（不作收益宣傳）"
+        },
+        "midback": {
+          "sc": "把巨灾保障缺口纳入气候风险议题库",
+          "tc": "把巨災保障缺口納入氣候風險議題庫"
+        },
+        "lead": {
+          "sc": "关注巨灾风险转移的市场机会与监管取向",
+          "tc": "關注巨災風險轉移的市場機會與監管取向"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "market",
+        "product"
+      ],
+      "themes": [
+        "esg",
+        "reinsurance"
+      ],
+      "tags": {
+        "sc": [
+          "巨灾保障缺口",
+          "菲律宾",
+          "再保险",
+          "气候风险",
+          "主权保险"
+        ],
+        "tc": [
+          "巨災保障缺口",
+          "菲律賓",
+          "再保險",
+          "氣候風險",
+          "主權保險"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-11",
+      "originalUrl": "https://insuranceasia.com/insurance/news/pcic-sets-aside-299m-typhoon-hit-filipino-farmers"
+    },
+    {
+      "clusterCount": 1,
+      "verifyStatus": "pending",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-12T01:50:35.862793+08:00",
+      "id": "ibm-tongyang-life-data-penalty-20260910",
+      "score": 64,
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "title": {
+        "sc": "媒体报道：韩国下调东洋人寿数据违规罚款 关联销售网络的数据治理受关注 [EN原文]",
+        "tc": "媒體報道：韓國下調東洋人壽數據違規罰款 關聯銷售網絡的數據治理受關注 [EN原文]"
+      },
+      "summary": {
+        "sc": "Insurance Business Asia报道，韩国监管在重新审视后下调了对东洋人寿的数据违规处罚；报道指集团内的关联分销与交叉销售网络，在数据治理、客户同意及集团内共用客户资料方面引发监管疑问。",
+        "tc": "Insurance Business Asia報道，韓國監管在重新審視後下調了對東洋人壽的數據違規處罰；報道指集團內的關聯分銷與交叉銷售網絡，在數據治理、客戶同意及集團內共用客戶資料方面引發監管疑問。"
+      },
+      "why": {
+        "sc": "关联分销与集团内客户资料共用，是香港代理及经纪集团同样面对的合规议题，涉及个人资料（私隐）条例与持牌人操守要求；可作为客户资料使用与同意管理的对照提醒。",
+        "tc": "關聯分銷與集團內客戶資料共用，是香港代理及經紀集團同樣面對的合規議題，涉及個人資料（私隱）條例與持牌人操守要求；可作為客戶資料使用與同意管理的對照提醒。"
+      },
+      "actions": {
+        "front": {
+          "sc": "提醒团队客户资料只在授权范围内使用，转介须符合持牌要求",
+          "tc": "提醒團隊客戶資料只在授權範圍內使用，轉介須符合持牌要求"
+        },
+        "midback": {
+          "sc": "复核集团内客户资料共用与同意记录流程",
+          "tc": "覆核集團內客戶資料共用與同意記錄流程"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Business Asia",
+        "lang": "en"
+      },
+      "boards": [
+        "reg",
+        "market"
+      ],
+      "themes": [
+        "reg",
+        "compliance"
+      ],
+      "tags": {
+        "sc": [
+          "韩国",
+          "东洋人寿",
+          "数据治理",
+          "客户同意",
+          "持牌操守"
+        ],
+        "tc": [
+          "韓國",
+          "東洋人壽",
+          "數據治理",
+          "客戶同意",
+          "持牌操守"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-10",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/south-korea-slashes-tongyang-life-data-penalty-after-regulatory-rethink-589363.aspx"
+    },
     {
       "id": "censtatd-q2-2026-business-receipts-insurance-60-7",
       "clusterCount": 1,
@@ -51186,6 +52198,28 @@ window.HKII_DATA = {
   "digests": {
     "daily": [
       {
+        "key": "2026-09-11",
+        "label": {
+          "sc": "2026-09-11",
+          "tc": "2026-09-11"
+        },
+        "itemCount": 12,
+        "itemIds": [
+          "govhk-silver-bond-2026-allotment-20260911",
+          "govhk-golden-week-visitor-prep-20260911",
+          "govhk-belt-road-summit-11-20260911",
+          "investhk-bund-conference-20260911",
+          "hkma-green-fintech-symposium-20260911",
+          "hkma-hkicl-fraud-websites-20260911",
+          "ibm-china-flexible-workforce-health-gap-20260911",
+          "ibm-seoul-learn-from-british-insurers-20260911",
+          "ibm-biological-ai-insurance-20260911",
+          "iasea-korea-life-ai-projects-20260911",
+          "iasea-hsbc-life-singapore-iul-20260911",
+          "iasea-philippines-farm-losses-20260911"
+        ]
+      },
+      {
         "key": "2026-09-10",
         "label": {
           "sc": "2026-09-10",
@@ -58868,14 +59902,14 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 699 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 699 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 712 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 712 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 699,
+      "totalItems": 712,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 234,
+          "count": 240,
           "label": "监管一手"
         },
         {
@@ -58890,7 +59924,7 @@ window.HKII_DATA = {
         },
         {
           "tier": "media",
-          "count": 229,
+          "count": 236,
           "label": "媒体报道"
         },
         {
@@ -58969,12 +60003,12 @@ window.HKII_DATA = {
       "topThemes": [
         {
           "theme": "market",
-          "count": 183,
+          "count": 185,
           "label": "市场"
         },
         {
           "theme": "reg",
-          "count": 125,
+          "count": 128,
           "label": "监管"
         },
         {
@@ -58984,22 +60018,22 @@ window.HKII_DATA = {
         },
         {
           "theme": "product",
-          "count": 86,
+          "count": 88,
           "label": "产品"
         },
         {
           "theme": "compliance",
-          "count": 78,
+          "count": 79,
           "label": "合规"
         },
         {
           "theme": "offshore",
-          "count": 72,
+          "count": 74,
           "label": "跨境"
         },
         {
           "theme": "channel",
-          "count": 53,
+          "count": 55,
           "label": "渠道"
         },
         {
@@ -59014,13 +60048,13 @@ window.HKII_DATA = {
         },
         {
           "theme": "reinsurance",
-          "count": 45,
+          "count": 46,
           "label": "再保险"
         }
       ],
       "dateRange": {
-        "sc": "2013-03-05 ~ 2026-09-10",
-        "tc": "2013-03-05 ~ 2026-09-10"
+        "sc": "2013-03-05 ~ 2026-09-11",
+        "tc": "2013-03-05 ~ 2026-09-11"
       }
     },
     "marketData": {

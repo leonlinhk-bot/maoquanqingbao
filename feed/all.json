@@ -1,9 +1,178 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-10T16:50:03Z",
-  "itemCount": 699,
+  "generatedAt": "2026-09-11T17:50:41Z",
+  "itemCount": 712,
   "items": [
+    {
+      "id": "govhk-silver-bond-2026-allotment-20260911",
+      "title": "政府公布第11批银色债券认购及配发结果：476,703份有效申请涉1,193亿元 最终发行550亿元",
+      "sourceTier": "official",
+      "themes": [
+        "market",
+        "retirement"
+      ],
+      "publishedAt": "2026-09-11T18:15:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=govhk-silver-bond-2026-allotment-20260911",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202609/11/P2026091100567.htm"
+    },
+    {
+      "id": "govhk-golden-week-visitor-prep-20260911",
+      "title": "文体旅局统筹国庆黄金周接待准备 旅监局9月7日吊销2间旅行社及1名导游牌照",
+      "sourceTier": "official",
+      "themes": [
+        "market",
+        "channel"
+      ],
+      "publishedAt": "2026-09-11T17:15:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=govhk-golden-week-visitor-prep-20260911",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202609/11/P2026091100338.htm"
+    },
+    {
+      "id": "govhk-belt-road-summit-11-20260911",
+      "title": "第11届「一带一路高峰论坛」闭幕：逾6,200名政商领袖出席、签署逾60份备忘录 总值逾31亿美元",
+      "sourceTier": "official",
+      "themes": [
+        "offshore",
+        "family-office"
+      ],
+      "publishedAt": "2026-09-11T23:59:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=govhk-belt-road-summit-11-20260911",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202609/11/P2026091100795.htm"
+    },
+    {
+      "id": "investhk-bund-conference-20260911",
+      "title": "投资推广署赴上海外滩大会：以「金融+」「AI+」支持内地企业出海 设香港论坛",
+      "sourceTier": "official",
+      "themes": [
+        "offshore",
+        "family-office"
+      ],
+      "publishedAt": "2026-09-11T12:12:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=investhk-bund-conference-20260911",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202609/11/P2026090800331.htm"
+    },
+    {
+      "id": "hkma-green-fintech-symposium-20260911",
+      "title": "金管局2026绿色金融科技研讨会：余伟文称要「更精准配置资本」 逾450人参与",
+      "sourceTier": "official",
+      "themes": [
+        "tech",
+        "esg"
+      ],
+      "publishedAt": "2026-09-11",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-green-fintech-symposium-20260911",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260911-3/"
+    },
+    {
+      "id": "hkma-hkicl-fraud-websites-20260911",
+      "title": "金管局通报：香港银行同业结算公司警示4个假冒FPS「买家网上保障」网站",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "cyber"
+      ],
+      "publishedAt": "2026-09-11",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-hkicl-fraud-websites-20260911",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260911-4/"
+    },
+    {
+      "id": "ibm-china-flexible-workforce-health-gap-20260911",
+      "title": "媒体报道：内地灵活就业群体医疗保障覆盖不均 补充商业健康险仍有产品空间 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "health",
+        "product"
+      ],
+      "publishedAt": "2026-09-11",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-china-flexible-workforce-health-gap-20260911",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/chinas-flexible-workforce-exposes-a-gap-in-employee-health-coverage-589490.aspx"
+    },
+    {
+      "id": "ibm-seoul-learn-from-british-insurers-20260911",
+      "title": "媒体报道：韩国监管以英国保险中介制度为参照 探讨强化销售与佣金监管 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reg",
+        "channel"
+      ],
+      "publishedAt": "2026-09-11",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-seoul-learn-from-british-insurers-20260911",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/learn-from-british-insurers-says-seoul-589464.aspx"
+    },
+    {
+      "id": "ibm-biological-ai-insurance-20260911",
+      "title": "媒体报道：AI被用于生物研究等滥用场景 保险业需重估责任与网络风险 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "cyber",
+        "ai"
+      ],
+      "publishedAt": "2026-09-11",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-biological-ai-insurance-20260911",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/biological-weapons-researchers-were-using-ai--insurers-should-know-589444.aspx"
+    },
+    {
+      "id": "iasea-korea-life-ai-projects-20260911",
+      "title": "保险亚洲：韩国寿险协会拟2027年前推进17个AI项目 覆盖法律与合同审查 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "tech",
+        "ai"
+      ],
+      "publishedAt": "2026-09-11",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasea-korea-life-ai-projects-20260911",
+      "originalUrl": "https://insuranceasia.com/insurance/news/korea-life-insurance-association-targets-17-ai-projects-2027"
+    },
+    {
+      "id": "iasea-hsbc-life-singapore-iul-20260911",
+      "title": "保险亚洲：汇丰人寿新加坡推定期寿险与IUL III指数型万能寿险新品 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "product",
+        "family-office"
+      ],
+      "publishedAt": "2026-09-11",
+      "score": 63,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasea-hsbc-life-singapore-iul-20260911",
+      "originalUrl": "https://insuranceasia.com/news/hsbc-life-singapore-unveil-new-term-life-and-iul-plans"
+    },
+    {
+      "id": "iasea-philippines-farm-losses-20260911",
+      "title": "保险亚洲：菲律宾台风农损大部分不在保险覆盖内 国有保险机构独担承保风险 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "esg",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-09-11",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasea-philippines-farm-losses-20260911",
+      "originalUrl": "https://insuranceasia.com/insurance/news/pcic-sets-aside-299m-typhoon-hit-filipino-farmers"
+    },
+    {
+      "id": "ibm-tongyang-life-data-penalty-20260910",
+      "title": "媒体报道：韩国下调东洋人寿数据违规罚款 关联销售网络的数据治理受关注 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reg",
+        "compliance"
+      ],
+      "publishedAt": "2026-09-10",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-tongyang-life-data-penalty-20260910",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/south-korea-slashes-tongyang-life-data-penalty-after-regulatory-rethink-589363.aspx"
+    },
     {
       "id": "censtatd-q2-2026-business-receipts-insurance-60-7",
       "title": "统计处：第二季保险业业务收益指数按年升60.7% 升幅居主要服务行业之首 [EN原文]",

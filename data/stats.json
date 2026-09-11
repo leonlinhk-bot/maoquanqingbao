@@ -630,14 +630,14 @@
       "tc": "情報密度"
     },
     "subtitle": {
-      "sc": "自动从 699 条资讯聚合 · sourceKey 标准化完成",
-      "tc": "自動從 699 條資訊聚合 · sourceKey 標準化完成"
+      "sc": "自动从 712 条资讯聚合 · sourceKey 标准化完成",
+      "tc": "自動從 712 條資訊聚合 · sourceKey 標準化完成"
     },
-    "totalItems": 699,
+    "totalItems": 712,
     "sourceTiers": [
       {
         "tier": "official",
-        "count": 234,
+        "count": 240,
         "label": "监管一手"
       },
       {
@@ -652,7 +652,7 @@
       },
       {
         "tier": "media",
-        "count": 229,
+        "count": 236,
         "label": "媒体报道"
       },
       {
@@ -731,12 +731,12 @@
     "topThemes": [
       {
         "theme": "market",
-        "count": 183,
+        "count": 185,
         "label": "市场"
       },
       {
         "theme": "reg",
-        "count": 125,
+        "count": 128,
         "label": "监管"
       },
       {
@@ -746,22 +746,22 @@
       },
       {
         "theme": "product",
-        "count": 86,
+        "count": 88,
         "label": "产品"
       },
       {
         "theme": "compliance",
-        "count": 78,
+        "count": 79,
         "label": "合规"
       },
       {
         "theme": "offshore",
-        "count": 72,
+        "count": 74,
         "label": "跨境"
       },
       {
         "theme": "channel",
-        "count": 53,
+        "count": 55,
         "label": "渠道"
       },
       {
@@ -776,13 +776,13 @@
       },
       {
         "theme": "reinsurance",
-        "count": 45,
+        "count": 46,
         "label": "再保险"
       }
     ],
     "dateRange": {
-      "sc": "2013-03-05 ~ 2026-09-10",
-      "tc": "2013-03-05 ~ 2026-09-10"
+      "sc": "2013-03-05 ~ 2026-09-11",
+      "tc": "2013-03-05 ~ 2026-09-11"
     }
   },
   "marketData": {
