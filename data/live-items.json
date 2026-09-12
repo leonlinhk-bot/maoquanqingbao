@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-12T18:06:01.049728+08:00",
-    "itemCount": 715,
+    "generatedAt": "2026-09-12T18:14:33.174636+08:00",
+    "itemCount": 722,
     "windowNote": {
-      "sc": "本库715条。",
-      "tc": "本庫715條。"
+      "sc": "本库722条。",
+      "tc": "本庫722條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -277,6 +277,546 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "clusterCount": 1,
+      "verifyStatus": "pending",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-12T18:14:33.174636+08:00",
+      "id": "iasea-week-in-insurance-home-reinsurers-20260912",
+      "score": 62,
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "Insurance Asia 周报：家居保险理赔受审查 亚太再保险商维持审慎承保纪律",
+        "tc": "Insurance Asia 週報：家居保險理賠受審查 亞太再保險商維持審慎承保紀律"
+      },
+      "summary": {
+        "sc": "Insurance Asia 9月11日周报：澳洲家居保险理赔正受监管审查，逾半数评估报价仅依赖单一维修估算；同期亚太再保险商在续保中仍维持承保纪律、未见价格战。周报另汇总韩国寿险业17个AI项目、保诚香港AI核保师、HSBC Life新加坡新IUL等区域动向。[EN原文]",
+        "tc": "Insurance Asia 9月11日週報：澳洲家居保險理賠正受監管審查，逾半數評估報價僅依賴單一維修估算；同期亞太再保險商在續保中仍維持承保紀律、未見價格戰。週報另匯總韓國壽險業17個AI項目、保誠香港AI核保師、HSBC Life新加坡新IUL等區域動向。[EN原文]"
+      },
+      "why": {
+        "sc": "一条周报把当周区域监管口径与承保纪律变化压缩在一起；理赔审查尺度与再保定价纪律，是判断产品与保障承诺可持续性的公开线索。",
+        "tc": "一條週報把當週區域監管口徑與承保紀律變化壓縮在一起；理賠審查尺度與再保定價紀律，是判斷產品與保障承諾可持續性的公開線索。"
+      },
+      "actions": {
+        "front": {
+          "sc": "与客户谈家居/财产保障时，只引监管对理赔估算口径的公开关注，不评论个别公司",
+          "tc": "與客戶談家居/財產保障時，只引監管對理賠估算口徑的公開關注，不評論個別公司"
+        },
+        "midback": {
+          "sc": "把区域再保承保纪律纳入续保与产品可持续性观察表",
+          "tc": "把區域再保承保紀律納入續保與產品可持續性觀察表"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Asia（周报）",
+        "lang": "zh+en"
+      },
+      "boards": [
+        "market",
+        "product"
+      ],
+      "themes": [
+        "market",
+        "uw"
+      ],
+      "tags": {
+        "sc": [
+          "周报",
+          "家居保险",
+          "再保险",
+          "承保纪律",
+          "理赔审查"
+        ],
+        "tc": [
+          "週報",
+          "家居保險",
+          "再保險",
+          "承保紀律",
+          "理賠審查"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-12T05:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/week-in-insurance-home-insurance-claims-face-scrutiny-reinsurers-stay-resilient"
+    },
+    {
+      "clusterCount": 1,
+      "verifyStatus": "pending",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-12T18:14:33.174636+08:00",
+      "id": "ibm-philippine-farm-losses-outside-insured-pool-20260912",
+      "score": 60,
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "title": {
+        "sc": "IB：菲律宾多数农业损失落在承保范围之外 承保池覆盖不足放大财政敞口",
+        "tc": "IB：菲律賓多數農業損失落在承保範圍之外 承保池覆蓋不足放大財政敞口"
+      },
+      "summary": {
+        "sc": "Insurance Business Asia 9月12日报道：菲律宾近期台风暴雨造成的农业损失大部分不在保险承保范围内；国营保险公司独力承担全部承保风险而未作风险转移，报道指当极端天气同时在多个区域出现时，其财政敞口将逐次累积。[EN原文]",
+        "tc": "Insurance Business Asia 9月12日報道：菲律賓近期颱風暴雨造成的農業損失大部分不在保險承保範圍內；國營保險公司獨力承擔全部承保風險而未作風險轉移，報道指當極端天氣同時在多個區域出現時，其財政敞口將逐次累積。[EN原文]"
+      },
+      "why": {
+        "sc": "巨灾保障缺口与政府风险自留是亚洲市场的结构性问题，对应巨灾债、参数式保险与再保转移的公开需求线索，也是香港发展ILS与风险管理的参照。",
+        "tc": "巨災保障缺口與政府風險自留是亞洲市場的結構性問題，對應巨災債、參數式保險與再保轉移的公開需求線索，也是香港發展ILS與風險管理的參照。"
+      },
+      "actions": {
+        "front": {
+          "sc": "向客户解释「有巨灾事件≠有保险赔付」的保障边界（不提个别市场产品）",
+          "tc": "向客戶解釋「有巨災事件≠有保險賠付」的保障邊界（不提個別市場產品）"
+        },
+        "midback": {
+          "sc": "将巨灾保障缺口数据纳入区域风险观察库",
+          "tc": "將巨災保障缺口數據納入區域風險觀察庫"
+        },
+        "lead": {
+          "sc": "跟进亚洲巨灾债与风险转移机制的政策动向",
+          "tc": "跟進亞洲巨災債與風險轉移機制的政策動向"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Business Asia",
+        "lang": "zh+en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reinsurance",
+        "esg"
+      ],
+      "tags": {
+        "sc": [
+          "菲律宾",
+          "农业保险",
+          "巨灾缺口",
+          "风险自留",
+          "财政敞口"
+        ],
+        "tc": [
+          "菲律賓",
+          "農業保險",
+          "巨災缺口",
+          "風險自留",
+          "財政敞口"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-12",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/catastrophe/most-philippine-farm-losses-fall-outside-the-insured-pool-589508.aspx"
+    },
+    {
+      "clusterCount": 1,
+      "verifyStatus": "verified",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-12T18:14:33.174636+08:00",
+      "id": "ibm-bolttech-kennedys-hk-wi-partner-20260911",
+      "score": 62,
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "title": {
+        "sc": "IB：bolttech同时轮调亚太与北美CEO Kennedys香港增聘并购保证保险（W&I）合伙人",
+        "tc": "IB：bolttech同時輪調亞太與北美CEO Kennedys香港增聘併購保證保險（W&I）合夥人"
+      },
+      "summary": {
+        "sc": "Insurance Business Asia 9月11日报道：新加坡保险科技bolttech同时轮调两大区CEO——Emma Butler出任亚太CEO、Philip Weiner转任北美CEO并加入集团执委会；律所Kennedys在香港委任Andrew Carpenter为合伙人，专长并购保证与赔偿保险（W&I）及香港保险监管事务，香港办公室现有逾70名律师、10名合伙人。",
+        "tc": "Insurance Business Asia 9月11日報道：新加坡保險科技bolttech同時輪調兩大區CEO——Emma Butler出任亞太CEO、Philip Weiner轉任北美CEO並加入集團執委會；律所Kennedys在香港委任Andrew Carpenter為合夥人，專長併購保證與賠償保險（W&I）及香港保險監管事務，香港辦公室現有逾70名律師、10名合夥人。"
+      },
+      "why": {
+        "sc": "亚太保险科技领导层轮调＋香港W&I专才到任，反映区域承保与分销重心位移；W&I法律与保险能力增强，利好香港并购交易的风险转移需求。",
+        "tc": "亞太保險科技領導層輪調＋香港W&I專才到任，反映區域承保與分銷重心位移；W&I法律與保險能力增強，利好香港併購交易的風險轉移需求。"
+      },
+      "actions": {
+        "front": {
+          "sc": "与企业家客户谈并购风险时，可提W&I保险作为交易保障工具的公开背景",
+          "tc": "與企業家客戶談併購風險時，可提W&I保險作為交易保障工具的公開背景"
+        },
+        "midback": {
+          "sc": "把保险科技区域人事变动纳入合作方与渠道观察表",
+          "tc": "把保險科技區域人事變動納入合作方與渠道觀察表"
+        },
+        "lead": {
+          "sc": "留意保险科技平台在亚太的组织调整对合作窗口的影响",
+          "tc": "留意保險科技平台在亞太的組織調整對合作窗口的影響"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Business Asia",
+        "lang": "zh+en"
+      },
+      "boards": [
+        "insurer",
+        "tech"
+      ],
+      "themes": [
+        "insurtech",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "bolttech",
+          "Kennedys",
+          "W&I保险",
+          "人事任命",
+          "香港"
+        ],
+        "tc": [
+          "bolttech",
+          "Kennedys",
+          "W&I保險",
+          "人事任命",
+          "香港"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-11",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/insurance-moves-bolttech-bharti-axa-life-insurance-kennedys-589495.aspx"
+    },
+    {
+      "clusterCount": 1,
+      "verifyStatus": "pending",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-12T18:14:33.174636+08:00",
+      "id": "ibm-bermuda-lloyds-managing-agency-20260911",
+      "score": 60,
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "title": {
+        "sc": "IB：百慕达新进劳合社成员为何仍租用他人的管理代理",
+        "tc": "IB：百慕達新進勞合社成員為何仍租用他人的管理代理"
+      },
+      "summary": {
+        "sc": "Insurance Business Asia 9月11日分析：百慕达新一批劳合社（Lloyd's）成员沿用「租用现有管理代理（managing agency）」的入场模式而非自建平台，反映新资本在合规、承保能力与运营成本之间作出的实际取舍，以及市场集中度对承保能力获取的影响。[EN原文]",
+        "tc": "Insurance Business Asia 9月11日分析：百慕達新一批勞合社（Lloyd's）成員沿用「租用現有管理代理（managing agency）」的入場模式而非自建平台，反映新資本在合規、承保能力與運營成本之間作出的實際取捨，以及市場集中度對承保能力獲取的影響。[EN原文]"
+      },
+      "why": {
+        "sc": "理解新型资本进入特殊风险市场的实际路径，对香港发展专属自保、ILS及吸引保险集团落户有对照意义（属公开市场观察）。",
+        "tc": "理解新型資本進入特殊風險市場的實際路徑，對香港發展專屬自保、ILS及吸引保險集團落戶有對照意義（屬公開市場觀察）。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "把劳合社市场准入模式纳入特殊风险与自保业务参考资料",
+          "tc": "把勞合社市場准入模式納入特殊風險與自保業務參考資料"
+        },
+        "lead": {
+          "sc": "对照香港专属自保与ILS政策，观察承接新资本的能力短板",
+          "tc": "對照香港專屬自保與ILS政策，觀察承接新資本的能力短板"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Business Asia",
+        "lang": "zh+en"
+      },
+      "boards": [
+        "market",
+        "insurer"
+      ],
+      "themes": [
+        "reinsurance",
+        "captive"
+      ],
+      "tags": {
+        "sc": [
+          "劳合社",
+          "百慕达",
+          "管理代理",
+          "专属自保",
+          "市场准入"
+        ],
+        "tc": [
+          "勞合社",
+          "百慕達",
+          "管理代理",
+          "專屬自保",
+          "市場准入"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-11",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/why-bermudas-newest-lloyds-entrants-keep-renting-someone-elses-managing-agency-589462.aspx"
+    },
+    {
+      "clusterCount": 1,
+      "verifyStatus": "pending",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-12T18:14:33.174636+08:00",
+      "id": "iasea-singlife-foodpanda-ridercare-20260911",
+      "score": 60,
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "Insurance Asia：平台工作者医疗缺口仍存 Singlife与foodpanda推RiderCare计划",
+        "tc": "Insurance Asia：平台工作者醫療缺口仍存 Singlife與foodpanda推RiderCare計劃"
+      },
+      "summary": {
+        "sc": "Insurance Asia 9月10日报道：新加坡平台工作者面对医疗开支缺口，部分人因费用延误就医。Singlife与foodpanda合作推出RiderCare，合资格骑手可在逾1,000间诊所等医疗服务点享较低收费；报道指即使法律保障扩大，保障缺口仍待填补。[EN原文]",
+        "tc": "Insurance Asia 9月10日報道：新加坡平台工作者面對醫療開支缺口，部分人因費用延誤就醫。Singlife與foodpanda合作推出RiderCare，合資格騎手可在逾1,000間診所等醫療服務點享較低收費；報道指即使法律保障擴大，保障缺口仍待填補。[EN原文]"
+      },
+      "why": {
+        "sc": "平台经济从业者的保障缺口＝传统团体医疗与个人健康险之间的空白；是观察「非标准雇佣」客群保障需求的公开案例，香港亦有同类零工客群。",
+        "tc": "平台經濟從業者的保障缺口＝傳統團體醫療與個人健康險之間的空白；是觀察「非標準僱傭」客群保障需求的公開案例，香港亦有同類零工客群。"
+      },
+      "actions": {
+        "front": {
+          "sc": "与自由职业/平台接单客户谈保障时，先做需求分析再谈缺口（不贬低任何渠道）",
+          "tc": "與自由職業/平台接單客戶談保障時，先做需求分析再談缺口（不貶低任何渠道）"
+        },
+        "midback": {
+          "sc": "将零工经济保障方案纳入新兴客群产品观察表",
+          "tc": "將零工經濟保障方案納入新興客群產品觀察表"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Asia",
+        "lang": "zh+en"
+      },
+      "boards": [
+        "product",
+        "market"
+      ],
+      "themes": [
+        "health",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "平台工作者",
+          "医疗缺口",
+          "Singlife",
+          "嵌入式保障",
+          "新加坡"
+        ],
+        "tc": [
+          "平台工作者",
+          "醫療缺口",
+          "Singlife",
+          "嵌入式保障",
+          "新加坡"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-11T05:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/exclusive/platform-workers-still-face-healthcare-gap-despite-legal-protections"
+    },
+    {
+      "clusterCount": 1,
+      "verifyStatus": "pending",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-12T18:14:33.174636+08:00",
+      "id": "scmp-pru-manulife-tech-alliances-20260910",
+      "score": 65,
+      "sourceTier": "media",
+      "sourceKey": "scmp",
+      "title": {
+        "sc": "SCMP：保诚、宏利相继签署科技合作 在内地收紧税务与跨境规管下巩固客户体验",
+        "tc": "SCMP：保誠、宏利相繼簽署科技合作 在內地收緊稅務與跨境規管下鞏固客戶體驗"
+      },
+      "summary": {
+        "sc": "南华早报报道：保诚香港与阿里云合作推出「AI核保师」，保诚香港行政总裁林智刚在媒体简报会上称AI核保可在数分钟内给出初步核保结果而非数日；宏利亚洲此前与蚂蚁健康签订合作备忘录推动跨境健康服务互联互通。报道指内地收紧离岸保险税务与跨境规管下，保司以科技合作维持分销效率与客户体验。",
+        "tc": "南華早報報道：保誠香港與阿里雲合作推出「AI核保師」，保誠香港行政總裁林智剛在媒體簡報會上稱AI核保可在數分鐘內給出初步核保結果而非數日；宏利亞洲此前與螞蟻健康簽訂合作備忘錄推動跨境健康服務互聯互通。報道指內地收緊離岸保險稅務與跨境規管下，保司以科技合作維持分銷效率與客戶體驗。"
+      },
+      "why": {
+        "sc": "两大港险保司在规管收紧期选择加码科技合作，是「以工具提升前线效率」的公开案例；AI核保时长与跨境健康服务是可对外引用的公开事实（不涉产品比较）。",
+        "tc": "兩大港險保司在規管收緊期選擇加碼科技合作，是「以工具提升前線效率」的公開案例；AI核保時長與跨境健康服務是可對外引用的公開事實（不涉產品比較）。"
+      },
+      "actions": {
+        "front": {
+          "sc": "与客户谈投保流程可提「AI辅助初步核保缩短等候」的行业公开趋势（不承诺核保结果）",
+          "tc": "與客戶談投保流程可提「AI輔助初步核保縮短等候」的行業公開趨勢（不承諾核保結果）"
+        },
+        "midback": {
+          "sc": "把AI核保与跨境医疗服务纳入客户体验对比观察",
+          "tc": "把AI核保與跨境醫療服務納入客戶體驗對比觀察"
+        },
+        "lead": {
+          "sc": "跟进云服务商与保司的合作模式，评估自身科技伙伴策略",
+          "tc": "跟進雲服務商與保司的合作模式，評估自身科技夥伴策略"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "South China Morning Post",
+        "lang": "en"
+      },
+      "boards": [
+        "tech",
+        "insurer"
+      ],
+      "themes": [
+        "ai",
+        "insurtech"
+      ],
+      "tags": {
+        "sc": [
+          "保诚",
+          "宏利",
+          "阿里云",
+          "蚂蚁健康",
+          "AI核保"
+        ],
+        "tc": [
+          "保誠",
+          "宏利",
+          "阿里雲",
+          "螞蟻健康",
+          "AI核保"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-10",
+      "originalUrl": "https://scmp.com/business/banking-finance/article/3366902/insurers-prudential-manulife-seal-tech-alliances-amid-beijings-tightened-tax-rules"
+    },
+    {
+      "clusterCount": 1,
+      "verifyStatus": "pending",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-12T18:14:33.174636+08:00",
+      "id": "gooval-pingan-pc-shipping-secure-20260911",
+      "score": 60,
+      "sourceTier": "media",
+      "sourceKey": "insurtech",
+      "title": {
+        "sc": "Gooval联同平安产险推出Shipping Secure：AI风控秒级处理跨境电商物流理赔",
+        "tc": "Gooval聯同平安產險推出Shipping Secure：AI風控秒級處理跨境電商物流理賠"
+      },
+      "summary": {
+        "sc": "深圳「2026 DTC品牌全球增长战略峰会」上，Gooval发布面向跨境电商卖家的Shipping Secure服务包，分三层覆盖货物丢失、损坏与延误；平台实时追踪包裹、简单案件数秒内处理，AI风控系统即时识别并拦截欺诈索赔。Gooval与平安产险签署全面战略合作。",
+        "tc": "深圳「2026 DTC品牌全球增長戰略峰會」上，Gooval發布面向跨境電商賣家的Shipping Secure服務包，分三層覆蓋貨物丟失、損壞與延誤；平台實時追蹤包裹、簡單案件數秒內處理，AI風控系統即時識別並攔截欺詐索賠。Gooval與平安產險簽署全面戰略合作。"
+      },
+      "why": {
+        "sc": "内地保险与科技平台在跨境电商保障上的嵌入式合作，展示「AI风控＋秒级理赔」的产品化路径，可对照香港跨境物流与货运保障场景。",
+        "tc": "內地保險與科技平台在跨境電商保障上的嵌入式合作，展示「AI風控＋秒級理賠」的產品化路徑，可對照香港跨境物流與貨運保障場景。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "把嵌入式货运保障方案纳入电商/物流客群产品观察表",
+          "tc": "把嵌入式貨運保障方案納入電商/物流客群產品觀察表"
+        },
+        "lead": {
+          "sc": "观察科技平台与险企合作模式对分销渠道的影响",
+          "tc": "觀察科技平台與險企合作模式對分銷渠道的影響"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Asia News Network（EQS 新闻稿）",
+        "lang": "zh"
+      },
+      "boards": [
+        "tech",
+        "product"
+      ],
+      "themes": [
+        "insurtech",
+        "ai"
+      ],
+      "tags": {
+        "sc": [
+          "平安产险",
+          "跨境电商",
+          "货运保障",
+          "AI风控",
+          "嵌入式保险"
+        ],
+        "tc": [
+          "平安產險",
+          "跨境電商",
+          "貨運保障",
+          "AI風控",
+          "嵌入式保險"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-11",
+      "originalUrl": "https://asianews.network/gooval-launches-shipping-secure-service-in-partnership-with-ping-an-pc-insurance/"
+    },
     {
       "clusterCount": 1,
       "verifyStatus": "verified",
@@ -52397,6 +52937,18 @@
   "digests": {
     "daily": [
       {
+        "key": "2026-09-12",
+        "label": {
+          "sc": "2026-09-12",
+          "tc": "2026-09-12"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "iasea-week-in-insurance-home-reinsurers-20260912",
+          "ibm-philippine-farm-losses-outside-insured-pool-20260912"
+        ]
+      },
+      {
         "key": "2026-09-11",
         "label": {
           "sc": "2026-09-11",
@@ -60101,10 +60653,10 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 715 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 715 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 722 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 722 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 715,
+      "totalItems": 722,
       "sourceTiers": [
         {
           "tier": "official",
@@ -60123,7 +60675,7 @@
         },
         {
           "tier": "media",
-          "count": 236,
+          "count": 243,
           "label": "媒体报道"
         },
         {
@@ -60202,7 +60754,7 @@
       "topThemes": [
         {
           "theme": "market",
-          "count": 185,
+          "count": 187,
           "label": "市场"
         },
         {
@@ -60217,7 +60769,7 @@
         },
         {
           "theme": "product",
-          "count": 88,
+          "count": 89,
           "label": "产品"
         },
         {
@@ -60247,13 +60799,13 @@
         },
         {
           "theme": "reinsurance",
-          "count": 47,
+          "count": 49,
           "label": "再保险"
         }
       ],
       "dateRange": {
-        "sc": "2013-03-05 ~ 2026-09-11",
-        "tc": "2013-03-05 ~ 2026-09-11"
+        "sc": "2013-03-05 ~ 2026-09-12",
+        "tc": "2013-03-05 ~ 2026-09-12"
       }
     },
     "marketData": {

@@ -1,9 +1,100 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-12T10:06:03Z",
-  "itemCount": 715,
+  "generatedAt": "2026-09-12T10:14:49Z",
+  "itemCount": 722,
   "items": [
+    {
+      "id": "iasea-week-in-insurance-home-reinsurers-20260912",
+      "title": "Insurance Asia 周报：家居保险理赔受审查 亚太再保险商维持审慎承保纪律",
+      "sourceTier": "media",
+      "themes": [
+        "market",
+        "uw"
+      ],
+      "publishedAt": "2026-09-12T05:00:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasea-week-in-insurance-home-reinsurers-20260912",
+      "originalUrl": "https://insuranceasia.com/insurance/news/week-in-insurance-home-insurance-claims-face-scrutiny-reinsurers-stay-resilient"
+    },
+    {
+      "id": "ibm-philippine-farm-losses-outside-insured-pool-20260912",
+      "title": "IB：菲律宾多数农业损失落在承保范围之外 承保池覆盖不足放大财政敞口",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "esg"
+      ],
+      "publishedAt": "2026-09-12",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-philippine-farm-losses-outside-insured-pool-20260912",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/catastrophe/most-philippine-farm-losses-fall-outside-the-insured-pool-589508.aspx"
+    },
+    {
+      "id": "ibm-bolttech-kennedys-hk-wi-partner-20260911",
+      "title": "IB：bolttech同时轮调亚太与北美CEO Kennedys香港增聘并购保证保险（W&I）合伙人",
+      "sourceTier": "media",
+      "themes": [
+        "insurtech",
+        "market"
+      ],
+      "publishedAt": "2026-09-11",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-bolttech-kennedys-hk-wi-partner-20260911",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/insurance-moves-bolttech-bharti-axa-life-insurance-kennedys-589495.aspx"
+    },
+    {
+      "id": "ibm-bermuda-lloyds-managing-agency-20260911",
+      "title": "IB：百慕达新进劳合社成员为何仍租用他人的管理代理",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "captive"
+      ],
+      "publishedAt": "2026-09-11",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-bermuda-lloyds-managing-agency-20260911",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/why-bermudas-newest-lloyds-entrants-keep-renting-someone-elses-managing-agency-589462.aspx"
+    },
+    {
+      "id": "iasea-singlife-foodpanda-ridercare-20260911",
+      "title": "Insurance Asia：平台工作者医疗缺口仍存 Singlife与foodpanda推RiderCare计划",
+      "sourceTier": "media",
+      "themes": [
+        "health",
+        "product"
+      ],
+      "publishedAt": "2026-09-11T05:00:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasea-singlife-foodpanda-ridercare-20260911",
+      "originalUrl": "https://insuranceasia.com/insurance/exclusive/platform-workers-still-face-healthcare-gap-despite-legal-protections"
+    },
+    {
+      "id": "scmp-pru-manulife-tech-alliances-20260910",
+      "title": "SCMP：保诚、宏利相继签署科技合作 在内地收紧税务与跨境规管下巩固客户体验",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "insurtech"
+      ],
+      "publishedAt": "2026-09-10",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-pru-manulife-tech-alliances-20260910",
+      "originalUrl": "https://scmp.com/business/banking-finance/article/3366902/insurers-prudential-manulife-seal-tech-alliances-amid-beijings-tightened-tax-rules"
+    },
+    {
+      "id": "gooval-pingan-pc-shipping-secure-20260911",
+      "title": "Gooval联同平安产险推出Shipping Secure：AI风控秒级处理跨境电商物流理赔",
+      "sourceTier": "media",
+      "themes": [
+        "insurtech",
+        "ai"
+      ],
+      "publishedAt": "2026-09-11",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=gooval-pingan-pc-shipping-secure-20260911",
+      "originalUrl": "https://asianews.network/gooval-launches-shipping-secure-service-in-partnership-with-ping-an-pc-insurance/"
+    },
     {
       "id": "govhk-silver-bond-2026-allotment-20260911",
       "title": "政府公布第11批银色债券认购及配发结果：476,703份有效申请涉1,193亿元 最终发行550亿元",
