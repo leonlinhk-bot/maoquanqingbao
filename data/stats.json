@@ -630,10 +630,10 @@
       "tc": "情報密度"
     },
     "subtitle": {
-      "sc": "自动从 712 条资讯聚合 · sourceKey 标准化完成",
-      "tc": "自動從 712 條資訊聚合 · sourceKey 標準化完成"
+      "sc": "自动从 715 条资讯聚合 · sourceKey 标准化完成",
+      "tc": "自動從 715 條資訊聚合 · sourceKey 標準化完成"
     },
-    "totalItems": 712,
+    "totalItems": 715,
     "sourceTiers": [
       {
         "tier": "official",
@@ -662,7 +662,7 @@
       },
       {
         "tier": "research",
-        "count": 22,
+        "count": 25,
         "label": "机构研究"
       }
     ],
@@ -765,18 +765,18 @@
         "label": "渠道"
       },
       {
+        "theme": "macro",
+        "count": 51,
+        "label": "宏观"
+      },
+      {
         "theme": "cross-border",
         "count": 50,
         "label": "跨境"
       },
       {
-        "theme": "macro",
-        "count": 49,
-        "label": "宏观"
-      },
-      {
         "theme": "reinsurance",
-        "count": 46,
+        "count": 47,
         "label": "再保险"
       }
     ],
