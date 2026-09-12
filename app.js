@@ -1,11 +1,11 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-12T18:14:33.174636+08:00",
-    "itemCount": 722,
+    "generatedAt": "2026-09-13T00:51:21.016477+08:00",
+    "itemCount": 725,
     "windowNote": {
-      "sc": "本库722条。",
-      "tc": "本庫722條。"
+      "sc": "本库725条。",
+      "tc": "本庫725條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -14,7 +14,8 @@ window.HKII_DATA = {
       "https://www.hkma.gov.hk/eng/news-and-media/press-releases/",
       "data/sources.yaml",
       "data/ia-fulfillment-insurers.json",
-      "data/ia-authorized-insurers.json"
+      "data/ia-authorized-insurers.json",
+      "https://brdr.hkma.gov.hk/eng/doc-ldg/docId/getPdf/20260522-10-EN/20260522-10-EN.pdf"
     ],
     "archive": {
       "principle": {
@@ -277,6 +278,243 @@ window.HKII_DATA = {
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "hkma-mainland-dormant-investment-account-declaration-20260912",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "金管局通函落地：内地投资者在港「投资不动户」须交资金来源声明 9月12日为大限",
+        "tc": "金管局通函落地：內地投資者在港「投資不動戶」須交資金來源聲明 9月12日為大限"
+      },
+      "summary": {
+        "sc": "在港多间银行按金管局2026年5月22日通函及其附件要求，向内地投资客户发出《开立／维持账户之声明书》，须确认用于投资及结算的资金全部来自中国内地以外的合法来源，并承诺以本人名义的香港持牌银行账户结算；若资金来源日后被认定不合法或违反内地资本管制，银行可关闭账户。核查设两个节点：8月20日未交或暂停投资服务，9月12日未交或终止投资服务。汇丰香港、中银香港、渣打香港等均已通知相关客户。",
+        "tc": "在港多間銀行按金管局2026年5月22日通函及其附件要求，向內地投資客戶發出《開立／維持賬戶之聲明書》，須確認用於投資及結算的資金全部來自中國內地以外的合法來源，並承諾以本人名義的香港持牌銀行賬戶結算；若資金來源日後被認定不合法或違反內地資本管制，銀行可關閉賬戶。核查設兩個節點：8月20日未交或暫停投資服務，9月12日未交或終止投資服務。滙豐香港、中銀香港、渣打香港等均已通知相關客戶。"
+      },
+      "why": {
+        "sc": "跨境资金通道是内地客户配置港险、缴付保费的底层基础设施。本次核查把「资金来源声明＋同名账户结算」变成常态要求，前线宜提前梳理客户在港账户状态与缴费路径，避免因银行端投资功能被暂停或终止而影响续期缴费与保单服务；对以内地客户为主的中介，这是继20%税负讨论之后的第二道合规前置工序。",
+        "tc": "跨境資金通道是內地客戶配置港險、繳付保費的底層基礎設施。本次核查把「資金來源聲明＋同名賬戶結算」變成常態要求，前線宜提前梳理客戶在港賬戶狀態與繳費路徑，避免因銀行端投資功能被暫停或終止而影響續期繳費與保單服務；對以內地客戶為主的中介，這是繼20%稅負討論之後的第二道合規前置工序。"
+      },
+      "actions": {
+        "front": {
+          "sc": "逐户检视客户在港账户状态与缴费路径（同名账户、非内地资金）",
+          "tc": "逐戶檢視客戶在港賬戶狀態與繳費路徑（同名賬戶、非內地資金）"
+        },
+        "midback": {
+          "sc": "把「账户声明／资金来源」纳入投保前客户资料核对清单",
+          "tc": "把「賬戶聲明／資金來源」納入投保前客戶資料核對清單"
+        },
+        "lead": {
+          "sc": "关注金管局后续账户开立与不动户巡查对注册机构的限制措施",
+          "tc": "關注金管局後續賬戶開立與不動戶巡查對註冊機構的限制措施"
+        },
+        "cross": {
+          "sc": "与银行渠道对齐开户、声明与结算流程的时点安排",
+          "tc": "與銀行渠道對齊開戶、聲明與結算流程的時點安排"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 1,
+        "cross": 2
+      },
+      "source": {
+        "sc": "金管局通函附件（2026-05-22）；《每日经济新闻》/界面新闻报道",
+        "lang": "zh+en"
+      },
+      "boards": [
+        "reg",
+        "market"
+      ],
+      "themes": [
+        "compliance",
+        "crossborder",
+        "taxation"
+      ],
+      "tags": {
+        "sc": [
+          "金管局",
+          "内地投资者",
+          "资金来源声明",
+          "不动户",
+          "跨境合规"
+        ],
+        "tc": [
+          "金管局",
+          "內地投資者",
+          "資金來源聲明",
+          "不動戶",
+          "跨境合規"
+        ]
+      },
+      "contentKind": "circular",
+      "publishedAt": "2026-09-12",
+      "originalUrl": "https://brdr.hkma.gov.hk/eng/doc-ldg/docId/getPdf/20260522-10-EN/20260522-10-EN.pdf",
+      "ingestedAt": "2026-09-13T00:51:21.016477+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "brics-new-delhi-declaration-insurance-20260912",
+      "clusterCount": 1,
+      "score": 60,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "firstpost",
+      "title": {
+        "sc": "BRICS《新德里宣言》纳入保险议程：设「保险韧性中心」并拟在GIFT City建风险实验室",
+        "tc": "BRICS《新德里宣言》納入保險議程：設「保險韌性中心」並擬於GIFT City建風險實驗室"
+      },
+      "summary": {
+        "sc": "9月12日于第十八届BRICS峰会通过的140段《新德里宣言》在金融合作部分纳入保险与再保险议题：欢迎继续讨论设立「BRICS保险韧性中心」（BIRC），作为开发共同风险模型、交流最佳实务与培育专业能力的自愿共享平台；并支持印度提出在古吉拉特GIFT城国际金融服务中心（IFSC）设立「BRICS风险实验室」，同时研究在监管机构与再保险公司自愿参与下提升成员国（再）保险承保能力。",
+        "tc": "9月12日於第十八屆BRICS峰會通過的140段《新德里宣言》在金融合作部分納入保險與再保險議題：歡迎繼續討論設立「BRICS保險韌性中心」（BIRC），作為開發共同風險模型、交流最佳實務與培育專業能力的自願共享平台；並支持印度提出在古吉拉特GIFT城國際金融服務中心（IFSC）設立「BRICS風險實驗室」，同時研究在監管機構與再保險公司自願參與下提升成員國（再）保險承保能力。"
+      },
+      "why": {
+        "sc": "新兴市场正尝试自建再保险与巨灾风险能力，长期可能分流部分原本流向香港、新加坡与伦敦的转分保需求。香港以国际风险管理中心为定位，宜把BRICS与GIFT City的机制建设列为中长期对照变量，观察其是否形成与香港相互竞争的再保险枢纽。",
+        "tc": "新興市場正嘗試自建再保險與巨災風險能力，長期可能分流部分原本流向香港、新加坡與倫敦的轉分保需求。香港以國際風險管理中心為定位，宜把BRICS與GIFT City的機制建設列為中長期對照變量，觀察其是否形成與香港相互競爭的再保險樞紐。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "把GIFT City／BRICS再保险机制纳入区域竞争观察清单",
+          "tc": "把GIFT City／BRICS再保險機制納入區域競爭觀察清單"
+        },
+        "lead": {
+          "sc": "审视香港吸引专属自保与再保险落地的相对优势与差距",
+          "tc": "審視香港吸引專屬自保與再保險落地的相對優勢與差距"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Firstpost / News18（《新德里宣言》摘要报道）",
+        "lang": "en"
+      },
+      "boards": [
+        "market",
+        "reg"
+      ],
+      "themes": [
+        "reinsurance",
+        "geopolitics",
+        "cat"
+      ],
+      "tags": {
+        "sc": [
+          "BRICS",
+          "再保险",
+          "GIFT City",
+          "保险韧性中心",
+          "风险实验室"
+        ],
+        "tc": [
+          "BRICS",
+          "再保險",
+          "GIFT City",
+          "保險韌性中心",
+          "風險實驗室"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-12T21:00:00+08:00",
+      "originalUrl": "https://www.firstpost.com/business/brics-eyes-self-reliant-insurance-ecosystem-india-proposes-risk-lab-at-gift-city-14045317.html",
+      "ingestedAt": "2026-09-13T00:51:21.016477+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "id": "ambest-bocom-insurance-outlook-negative-20260911",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "ambest",
+      "title": {
+        "sc": "AM Best：中银集团保险（香港）A-评级维持、展望转负 未上市股权投资集中拖累资本充足 [EN原文]",
+        "tc": "AM Best：中銀集團保險（香港）A-評級維持、展望轉負 未上市股權投資集中拖累資本充足 [EN原文]"
+      },
+      "summary": {
+        "sc": "AM Best 9月11日把中银集团保险（CBIC，香港）评级展望由稳定下调至负面，维持财务实力评级A-（优秀）及长期发行人信用评级「a-」。公司2025年末风险调整后资本（BCAR）仍处最强水平，但因未上市股权投资的股权风险上升而回落；2025年财务杠杆17.5%，在香港风险为本资本制度下偿付能力稳健，承保赔付率低于市场平均，但营运费用相对偏小的保费基数偏高。",
+        "tc": "AM Best 9月11日把中銀集團保險（CBIC，香港）評級展望由穩定下調至負面，維持財務實力評級A-（優秀）及長期發行人信用評級「a-」。公司2025年末風險調整後資本（BCAR）仍處最強水平，但因未上市股權投資的股權風險上升而回落；2025年財務槓桿17.5%，在香港風險為本資本制度下償付能力穩健，承保賠付率低於市場平均，但營運費用相對偏小的保費基數偏高。"
+      },
+      "why": {
+        "sc": "这是对「保费基数偏小、靠投资收益撑利润」的一般保险商业模式的直接提醒：RBC制度下偿付能力稳健，但资本充足的质量正被资产端拖累。与保司开展再保或渠道合作前，宜把资产端集中度与母公司支持力度一并纳入交易对手评估。",
+        "tc": "這是對「保費基數偏小、靠投資收益撐利潤」的一般保險商業模式的直接提醒：RBC制度下償付能力穩健，但資本充足的質量正被資產端拖累。與保司開展再保或渠道合作前，宜把資產端集中度與母公司支持力度一併納入交易對手評估。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "把资产端集中度纳入保司／再保交易对手评估表",
+          "tc": "把資產端集中度納入保司／再保交易對手評估表"
+        },
+        "lead": {
+          "sc": "关注本地一般保险板块评级展望变化与整合机会",
+          "tc": "關注本地一般保險板塊評級展望變化與整合機會"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "AM Best（Business Wire 发布）",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer",
+        "reg"
+      ],
+      "themes": [
+        "capital",
+        "ratings",
+        "pnl"
+      ],
+      "tags": {
+        "sc": [
+          "AM Best",
+          "中银集团保险",
+          "评级展望",
+          "RBC",
+          "偿付能力"
+        ],
+        "tc": [
+          "AM Best",
+          "中銀集團保險",
+          "評級展望",
+          "RBC",
+          "償付能力"
+        ]
+      },
+      "contentKind": "report",
+      "publishedAt": "2026-09-11",
+      "originalUrl": "https://www.businesswire.com/news/home/20260911053758/en/",
+      "ingestedAt": "2026-09-13T00:51:21.016477+08:00",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
     {
       "clusterCount": 1,
       "verifyStatus": "pending",
@@ -60653,14 +60891,14 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 722 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 722 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 725 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 725 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 722,
+      "totalItems": 725,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 240,
+          "count": 241,
           "label": "监管一手"
         },
         {
@@ -60675,12 +60913,12 @@ window.HKII_DATA = {
         },
         {
           "tier": "media",
-          "count": 243,
+          "count": 244,
           "label": "媒体报道"
         },
         {
           "tier": "pro",
-          "count": 69,
+          "count": 70,
           "label": "专业解读"
         },
         {
@@ -60774,7 +61012,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "compliance",
-          "count": 79,
+          "count": 80,
           "label": "合规"
         },
         {
@@ -60793,14 +61031,14 @@ window.HKII_DATA = {
           "label": "宏观"
         },
         {
+          "theme": "reinsurance",
+          "count": 50,
+          "label": "再保险"
+        },
+        {
           "theme": "cross-border",
           "count": 50,
           "label": "跨境"
-        },
-        {
-          "theme": "reinsurance",
-          "count": 49,
-          "label": "再保险"
         }
       ],
       "dateRange": {

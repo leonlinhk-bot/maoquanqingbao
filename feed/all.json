@@ -1,9 +1,51 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-12T10:14:49Z",
-  "itemCount": 722,
+  "generatedAt": "2026-09-12T16:51:25Z",
+  "itemCount": 725,
   "items": [
+    {
+      "id": "hkma-mainland-dormant-investment-account-declaration-20260912",
+      "title": "金管局通函落地：内地投资者在港「投资不动户」须交资金来源声明 9月12日为大限",
+      "sourceTier": "official",
+      "themes": [
+        "compliance",
+        "crossborder",
+        "taxation"
+      ],
+      "publishedAt": "2026-09-12",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-mainland-dormant-investment-account-declaration-20260912",
+      "originalUrl": "https://brdr.hkma.gov.hk/eng/doc-ldg/docId/getPdf/20260522-10-EN/20260522-10-EN.pdf"
+    },
+    {
+      "id": "brics-new-delhi-declaration-insurance-20260912",
+      "title": "BRICS《新德里宣言》纳入保险议程：设「保险韧性中心」并拟在GIFT City建风险实验室",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "geopolitics",
+        "cat"
+      ],
+      "publishedAt": "2026-09-12T21:00:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=brics-new-delhi-declaration-insurance-20260912",
+      "originalUrl": "https://www.firstpost.com/business/brics-eyes-self-reliant-insurance-ecosystem-india-proposes-risk-lab-at-gift-city-14045317.html"
+    },
+    {
+      "id": "ambest-bocom-insurance-outlook-negative-20260911",
+      "title": "AM Best：中银集团保险（香港）A-评级维持、展望转负 未上市股权投资集中拖累资本充足 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "capital",
+        "ratings",
+        "pnl"
+      ],
+      "publishedAt": "2026-09-11",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ambest-bocom-insurance-outlook-negative-20260911",
+      "originalUrl": "https://www.businesswire.com/news/home/20260911053758/en/"
+    },
     {
       "id": "iasea-week-in-insurance-home-reinsurers-20260912",
       "title": "Insurance Asia 周报：家居保险理赔受审查 亚太再保险商维持审慎承保纪律",
