@@ -1,9 +1,22 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-13T13:12:12Z",
-  "itemCount": 733,
+  "generatedAt": "2026-09-13T16:49:08Z",
+  "itemCount": 734,
   "items": [
+    {
+      "id": "brics-putin-reinsurance-mechanism-20260913",
+      "title": "金砖峰会闭幕：普京提议在金砖框架内建立再保险机制 以减少对欧美再保市场依赖",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "macro"
+      ],
+      "publishedAt": "2026-09-13T21:23:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=brics-putin-reinsurance-mechanism-20260913",
+      "originalUrl": "https://www.thehindubusinessline.com/economy/putin-asks-brics-to-consider-swift-alternative-a-grain-exchange-own-re-insurance-firm/article71463285.ece"
+    },
     {
       "id": "ia-nfra-beijing-visit-20260910",
       "title": "保监局主席与行政总监访问国家金融监管总局 9月3日与副局长肖远企会面",

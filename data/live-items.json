@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-13T19:10:00.405069+08:00",
-    "itemCount": 733,
+    "generatedAt": "2026-09-14T00:49:06.602856+08:00",
+    "itemCount": 734,
     "windowNote": {
-      "sc": "本库733条。",
-      "tc": "本庫733條。"
+      "sc": "本库734条。",
+      "tc": "本庫734條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -278,6 +278,81 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "clusterCount": 2,
+      "verifyStatus": "verified",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-14T00:49:06.602856+08:00",
+      "id": "brics-putin-reinsurance-mechanism-20260913",
+      "score": 62,
+      "sourceTier": "media",
+      "sourceKey": "businessline",
+      "title": {
+        "sc": "金砖峰会闭幕：普京提议在金砖框架内建立再保险机制 以减少对欧美再保市场依赖",
+        "tc": "金磚峰會閉幕：普京提議在金磚框架內建立再保險機制 以減少對歐美再保市場依賴"
+      },
+      "summary": {
+        "sc": "2026年9月13日晚（印度时间18:53发稿），俄罗斯总统普京在印度主办的第十八届金砖峰会（BRICS）闭幕环节提出多项倡议，包括在金砖框架内建立「再保险机制」，以及支付、托管与清算基础设施和粮食交易所。报道指金砖内部贸易额已达1.2万亿美元，设立金砖再保险机构可使成员国保险人不再完全依赖欧美再保主体。背景是七国集团、欧盟及英国禁止西方公司为运载俄罗斯原油的船舶承保，相关制裁已影响俄原油出口。普京未披露具体时间表与参与主体。[EN原文]",
+        "tc": "2026年9月13日晚（印度時間18:53發稿），俄羅斯總統普京在印度主辦的第十八屆金磚峰會（BRICS）閉幕環節提出多項倡議，包括在金磚框架內建立「再保險機制」，以及支付、託管與清算基礎設施和糧食交易所。報道指金磚內部貿易額已達1.2萬億美元，設立金磚再保險機構可使成員國保險人不再完全依賴歐美再保主體。背景是七國集團、歐盟及英國禁止西方公司為運載俄羅斯原油的船舶承保，相關制裁已影響俄原油出口。普京未披露具體時間表與參與主體。[EN原文]"
+      },
+      "why": {
+        "sc": "这是《新德里宣言》纳入保险议程后的次日跟进。金砖层面的「再保险机制」若成形，指向的是绕过欧美再保险与制裁体系的替代性风险分担通道，与香港「国际风险管理中心＋ILS（保险相连证券）」的定位处在同一赛道。对服务企业客户与跨境风险的团队，这是观察全球再保容量阵营变化的信号；但目前仅为主席国表态，无时间表、无参与主体、无资本安排，不宜过度解读。",
+        "tc": "這是《新德里宣言》納入保險議程後的次日跟進。金磚層面的「再保險機制」若成形，指向的是繞過歐美再保險與制裁體系的替代性風險分擔通道，與香港「國際風險管理中心＋ILS（保險相連證券）」的定位處在同一賽道。對服務企業客戶與跨境風險的團隊，這是觀察全球再保容量陣營變化的信號；但目前僅為主席國表態，無時間表、無參與主體、無資本安排，不宜過度解讀。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "把金砖再保险倡议纳入全球再保格局观察清单，评估对跨境与海运营业风险容量的中长期影响",
+          "tc": "把金磚再保險倡議納入全球再保格局觀察清單，評估對跨境與海運營業風險容量的中長期影響"
+        },
+        "lead": {
+          "sc": "跟踪后续是否落地为实体机构或平台，以及是否涉及香港或亚洲市场参与",
+          "tc": "跟進後續是否落地為實體機構或平台，以及是否涉及香港或亞洲市場參與"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 2,
+        "cross": 0
+      },
+      "source": {
+        "sc": "《印度商业线报》（The Hindu Business Line，PTI/ANI通稿）",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reinsurance",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "金砖峰会",
+          "再保险机制",
+          "制裁",
+          "地缘政治",
+          "新开发银行"
+        ],
+        "tc": [
+          "金磚峰會",
+          "再保險機制",
+          "制裁",
+          "地緣政治",
+          "新開發銀行"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-13T21:23:00+08:00",
+      "originalUrl": "https://www.thehindubusinessline.com/economy/putin-asks-brics-to-consider-swift-alternative-a-grain-exchange-own-re-insurance-firm/article71463285.ece"
+    },
     {
       "clusterCount": 1,
       "verifyStatus": "verified",
@@ -61530,10 +61605,10 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 733 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 733 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 734 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 734 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 733,
+      "totalItems": 734,
       "sourceTiers": [
         {
           "tier": "official",
@@ -61552,7 +61627,7 @@
         },
         {
           "tier": "media",
-          "count": 245,
+          "count": 246,
           "label": "媒体报道"
         },
         {
@@ -61665,19 +61740,19 @@
           "label": "渠道"
         },
         {
-          "theme": "cross-border",
-          "count": 52,
-          "label": "跨境"
-        },
-        {
           "theme": "reinsurance",
-          "count": 51,
+          "count": 52,
           "label": "再保险"
         },
         {
           "theme": "macro",
-          "count": 51,
+          "count": 52,
           "label": "宏观"
+        },
+        {
+          "theme": "cross-border",
+          "count": 52,
+          "label": "跨境"
         }
       ],
       "dateRange": {
