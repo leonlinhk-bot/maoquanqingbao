@@ -1,9 +1,113 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-12T16:51:25Z",
-  "itemCount": 725,
+  "generatedAt": "2026-09-13T11:10:53Z",
+  "itemCount": 733,
   "items": [
+    {
+      "id": "ia-nfra-beijing-visit-20260910",
+      "title": "保监局主席与行政总监访问国家金融监管总局 9月3日与副局长肖远企会面",
+      "sourceTier": "official",
+      "themes": [
+        "cross-border",
+        "compliance"
+      ],
+      "publishedAt": "2026-09-10",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-nfra-beijing-visit-20260910",
+      "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260910.html"
+    },
+    {
+      "id": "ia-belt-road-one-stop-risk-20260909",
+      "title": "保监局在一带一路高峰论坛办专题会议：香港定位内地企业出海「一站式」风险管理顾问",
+      "sourceTier": "official",
+      "themes": [
+        "cross-border",
+        "market"
+      ],
+      "publishedAt": "2026-09-09",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-belt-road-one-stop-risk-20260909",
+      "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260909.html"
+    },
+    {
+      "id": "iasea-japan-jics-solvency-20260909",
+      "title": "日本新偿付能力制度JICS：公允价值计量＋极端压力资本要求 推动险企重构资产负债管理",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "capital"
+      ],
+      "publishedAt": "2026-09-09T05:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasea-japan-jics-solvency-20260909",
+      "originalUrl": "https://insuranceasia.com/videos/japan-insurers-reassess-capital-under-new-solvency-rules"
+    },
+    {
+      "id": "iasea-singapore-hiring-outlook-q4-2026",
+      "title": "万宝盛华调查：新加坡第四季净就业展望+13% 远低于亚太中东均值33% 保险雇员福利需求或受压",
+      "sourceTier": "pro",
+      "themes": [
+        "career",
+        "market"
+      ],
+      "publishedAt": "2026-09-09T05:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasea-singapore-hiring-outlook-q4-2026",
+      "originalUrl": "https://insuranceasia.com/insurance/news/singapore-insurers-face-pressure-hiring-outlook-slips"
+    },
+    {
+      "id": "iasea-australia-insurers-q1-profit-20260909",
+      "title": "APRA数据：澳洲保险业2026年首季持续经营利润降至1.21亿澳元 投资回报近乎腰斩",
+      "sourceTier": "pro",
+      "themes": [
+        "market",
+        "capital"
+      ],
+      "publishedAt": "2026-09-09T05:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasea-australia-insurers-q1-profit-20260909",
+      "originalUrl": "https://insuranceasia.com/insurance/news/australian-insurers-see-profit-sink-871m-in-q1-2026"
+    },
+    {
+      "id": "iasea-pcic-typhoon-crop-claims-20260911",
+      "title": "菲律宾作物保险公司预留1.87亿比索理赔2.5万农户 已保赔付远低于41.3亿比索农业损失",
+      "sourceTier": "pro",
+      "themes": [
+        "natcat",
+        "esg"
+      ],
+      "publishedAt": "2026-09-11T05:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasea-pcic-typhoon-crop-claims-20260911",
+      "originalUrl": "https://insuranceasia.com/insurance/news/pcic-sets-aside-299m-typhoon-hit-filipino-farmers"
+    },
+    {
+      "id": "nfra-financial-dispute-resolution-20260912",
+      "title": "金融监管总局联合央行、证监会召开第五次消保监管联络员会议 会商金融纠纷多元化解",
+      "sourceTier": "official",
+      "themes": [
+        "compliance",
+        "reg"
+      ],
+      "publishedAt": "2026-09-12",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-financial-dispute-resolution-20260912",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1271656&itemId=915"
+    },
+    {
+      "id": "toutiao-tax-rumor-one-month-20260913",
+      "title": "自媒体汇总：港险征税传闻满月 保诚、友邦管理层称内地客投保需求未见降温",
+      "sourceTier": "media",
+      "themes": [
+        "taxation",
+        "mcv"
+      ],
+      "publishedAt": "2026-09-13T13:15:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=toutiao-tax-rumor-one-month-20260913",
+      "originalUrl": "http://m.toutiao.com/group/7684564049934238248/?upstream_biz=VolcEngine"
+    },
     {
       "id": "hkma-mainland-dormant-investment-account-declaration-20260912",
       "title": "金管局通函落地：内地投资者在港「投资不动户」须交资金来源声明 9月12日为大限",
