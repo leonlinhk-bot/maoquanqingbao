@@ -1,9 +1,87 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-14T10:12:41Z",
-  "itemCount": 745,
+  "generatedAt": "2026-09-14T16:20:54Z",
+  "itemCount": 751,
   "items": [
+    {
+      "id": "eaic-malaysian-re-asia-protection-gap-20260914",
+      "title": "东亚保险大会（EAIC）：马来西亚再保险CEO指亚洲「风险增速快于保障」 绝对保障缺口可能随经济增长扩大",
+      "sourceTier": "pro",
+      "themes": [
+        "protection_gap",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-09-14T21:18:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=eaic-malaysian-re-asia-protection-gap-20260914",
+      "originalUrl": "https://www.intelligentinsurer.com/eaic-today/asia-is-building-risk-faster-than-protection-as-economies-expand-malaysian-re"
+    },
+    {
+      "id": "eaic-fitch-apac-soft-pricing-20260914",
+      "title": "EAIC场刊：惠誉指亚太竞争加剧令（再）保险定价转软 条款条件放松或压制承保盈利",
+      "sourceTier": "pro",
+      "themes": [
+        "pricing",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-09-14",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=eaic-fitch-apac-soft-pricing-20260914",
+      "originalUrl": "https://www.intelligentinsurer.com/eaic-today/softer-pricing-could-pressure-underwriting-earnings-fitch-ratings"
+    },
+    {
+      "id": "ian-starr-sharon-ho-hk-ah-head-20260914",
+      "title": "史带（Starr）委任 Sharon Ho 为香港意外及健康险（A&H）主管",
+      "sourceTier": "pro",
+      "themes": [
+        "people",
+        "health"
+      ],
+      "publishedAt": "2026-09-14",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-starr-sharon-ho-hk-ah-head-20260914",
+      "originalUrl": "https://insuranceasianews.com/starr-appoints-sharon-ho-as-head-of-ah-for-hong-kong/"
+    },
+    {
+      "id": "tvb-crossborder-offshore-tax-impact-20260914",
+      "title": "TVB《时事多面睇》：内地加强规管跨境投资与境外收入 业界称每日接客户查询 短期冲击香港",
+      "sourceTier": "media",
+      "themes": [
+        "crossborder",
+        "taxation"
+      ],
+      "publishedAt": "2026-09-14T19:05:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=tvb-crossborder-offshore-tax-impact-20260914",
+      "originalUrl": "https://news.tvb.com/tc/1195158-%E6%99%82%E4%BA%8B%E5%A4%9A%E9%9D%A2%E7%9D%87%E5%85%A7%E5%9C%B0%E5%8A%A0%E5%BC%B7%E8%A6%8F%E7%AE%A1%E8%B7%A8%E5%A2%83%E6%8A%95%E8%B3%87%E5%8F%8A%E5%A2%83%E5%A4%96%E6%94%B6%E5%85%A5%E5%B0%8D%E6%9C%AC%E6%B8%AF%E9%87%91%E8%9E%8D%E6%A5%AD%E6%9C%89%E7%84%A1%E5%BD%B1%E9%9F%BF"
+    },
+    {
+      "id": "tw-fsc-medical-necessity-disclosure-20260914",
+      "title": "台湾金管会要求医疗险销售加强「医疗必要性」揭露 接受非必要性医疗可能遭拒赔",
+      "sourceTier": "official",
+      "themes": [
+        "claims",
+        "conduct"
+      ],
+      "publishedAt": "2026-09-14T22:55:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=tw-fsc-medical-necessity-disclosure-20260914",
+      "originalUrl": "https://udn.com/news/story/7239/9754459"
+    },
+    {
+      "id": "dahsing-investor-confidence-index-20260914",
+      "title": "大新银行「投资者信心指数」68与去年相若 88%受访者未来一年维持或增加投资 高资产值客群信心达75",
+      "sourceTier": "pro",
+      "themes": [
+        "wealth_management",
+        "investor_sentiment"
+      ],
+      "publishedAt": "2026-09-14T15:17:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=dahsing-investor-confidence-index-20260914",
+      "originalUrl": "https://hk.finance.yahoo.com/news/%E5%A4%A7%E6%96%B0%E9%8A%80%E8%A1%8C-88-%E5%8F%97%E8%A8%AA%E8%80%85%E8%A1%A8%E7%A4%BA%E6%9C%AA%E4%BE%8612%E5%80%8B%E6%9C%88%E5%B0%87%E7%B6%AD%E6%8C%81%E6%88%96%E5%A2%9E%E5%8A%A0%E6%8A%95%E8%B3%87%E8%B3%87%E9%87%91-071752204.html"
+    },
     {
       "id": "nfra-insurance-penalties-jan-aug-20260914",
       "title": "前八个月内地保险业被罚没近1.95亿元：899张罚单、54人禁业、11人终身禁业",
