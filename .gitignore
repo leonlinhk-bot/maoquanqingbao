@@ -15,3 +15,5 @@ data/existing-keys.txt
 .tmp/
 /.tmp_*
 scripts/.tmp_*
+
+data/live-items.json.bak-*
