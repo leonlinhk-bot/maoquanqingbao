@@ -1,11 +1,11 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-14T00:49:06.602856+08:00",
-    "itemCount": 734,
+    "generatedAt": "2026-09-14T18:08:00+08:00",
+    "itemCount": 745,
     "windowNote": {
-      "sc": "本库734条。",
-      "tc": "本庫734條。"
+      "sc": "本库745条。",
+      "tc": "本庫745條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -147,7 +147,7 @@ window.HKII_DATA = {
       ],
       "registryFile": "data/sources.yaml"
     },
-    "asOf": "2026-08-29",
+    "asOf": "2026-09-14",
     "roles": [
       {
         "id": "front",
@@ -278,6 +278,811 @@ window.HKII_DATA = {
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "nfra-insurance-penalties-jan-aug-20260914",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "nfra",
+      "title": {
+        "sc": "前八个月内地保险业被罚没近1.95亿元：899张罚单、54人禁业、11人终身禁业",
+        "tc": "前八個月內地保險業被罰沒近1.95億元：899張罰單、54人禁業、11人終身禁業"
+      },
+      "summary": {
+        "sc": "新华财经9月14日报道，今年前8个月保险机构（含分支机构）收到金融监管总局及派出机构、央行、证监会罚单合计899张，同比增10.44%，罚没金额约1.95亿元。财险被罚486张、寿险408张；销售行为违规罚单450张居首，其中「给予合同外利益」162张、「虚假中介业务套取费用」131张。1454名责任人被同步追责，54人被禁业、11人终身禁业，百万元以上罚单16张。",
+        "tc": "新華財經9月14日報道，今年前8個月保險機構（含分支機構）收到金融監管總局及派出機構、央行、證監會罰單合計899張，同比增10.44%，罰沒金額約1.95億元。財險被罰486張、壽險408張；銷售行為違規罰單450張居首，其中「給予合同外利益」162張、「虛假中介業務套取費用」131張。1454名責任人被同步追責，54人被禁業、11人終身禁業，百萬元以上罰單16張。"
+      },
+      "why": {
+        "sc": "内地处罚口径与香港保监局「双罚制」思路同向：机构与个人同步追责、销售环节与信息披露是重灾区。对做跨境客户教育的团队，这是「返佣/合同外利益、虚假宣传、误导销售」风险最直接的量化旁证，可用于说明两地监管都在收紧销售行为，而不是单看香港一地。",
+        "tc": "內地處罰口徑與香港保監局「雙罰制」思路同向：機構與個人同步追責、銷售環節與信息披露是重災區。對做跨境客戶教育的團隊，這是「返傭/合同外利益、虛假宣傳、誤導銷售」風險最直接的量化旁證，可用於說明兩地監管都在收緊銷售行為，而不是單看香港一地。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "把内地处罚高频事由（合同外利益、虚假宣传、套取费用）纳入团队合规培训案例库",
+          "tc": "把內地處罰高頻事由（合同外利益、虛假宣傳、套取費用）納入團隊合規培訓案例庫"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 2,
+        "cross": 0
+      },
+      "source": {
+        "sc": "新华财经/《经济参考报》（新浪财经转载）",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "reg",
+        "compliance"
+      ],
+      "tags": {
+        "sc": [
+          "监管处罚",
+          "销售违规",
+          "双罚制",
+          "禁业",
+          "内地监管"
+        ],
+        "tc": [
+          "監管處罰",
+          "銷售違規",
+          "雙罰制",
+          "禁業",
+          "內地監管"
+        ]
+      },
+      "contentKind": "stats",
+      "publishedAt": "2026-09-14T07:19:00+08:00",
+      "originalUrl": "https://finance.sina.cn/2026-09-14/detail-inirtwie9744986.d.html",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-14T18:08:00+08:00"
+    },
+    {
+      "id": "cctv-insurance-law-cooling-off-period-20260914",
+      "clusterCount": 2,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "cctv",
+      "title": {
+        "sc": "《保险法》大修拟将长期人身险「犹豫期」直接入法 并新增个人信息保护与禁止销售误导",
+        "tc": "《保險法》大修擬將長期人身險「猶豫期」直接入法 並新增個人信息保護與禁止銷售誤導"
+      },
+      "summary": {
+        "sc": "央视9月14日报道《保险法（修订草案征求意见稿）》落地要点：保险期一年以上的人身保险合同须按监管规定设置犹豫期，投保人期内解约应获及时退还保费，长期险「犹豫期」由行业惯例上升为法定权利；草案同时新增个人信息保护规则，明确禁止销售误导等侵害消费者权益行为。意见反馈截止2026年10月3日。",
+        "tc": "央視9月14日報道《保險法（修訂草案徵求意見稿）》落地要點：保險期一年以上的人身保險合同須按監管規定設置猶豫期，投保人期內解約應獲及時退還保費，長期險「猶豫期」由行業慣例上升為法定權利；草案同時新增個人信息保護規則，明確禁止銷售誤導等侵害消費者權益行為。意見反饋截止2026年10月3日。"
+      },
+      "why": {
+        "sc": "这是9月4日征求意见稿的消保细读版本，是本轮修订中与前线最直接相关的一条：犹豫期一旦法定化，「口头犹豫期」与话术腾挪的空间消失，退保时限、书面通知、渠道差异都必须按规则讲清楚。香港这边同期的非亲身销售渠道冷静期、GN16+披露要求也在收紧，两地消费者保护的时间轴正在靠拢。",
+        "tc": "這是9月4日徵求意見稿的消保細讀版本，是本輪修訂中與前線最直接相關的一條：猶豫期一旦法定化，「口頭猶豫期」與話術騰挪的空間消失，退保時限、書面通知、渠道差異都必須按規則講清楚。香港這邊同期的非親身銷售渠道冷靜期、GN16+披露要求也在收緊，兩地消費者保護的時間軸正在靠攏。"
+      },
+      "actions": {
+        "front": {
+          "sc": "梳理内地客户常见疑问：犹豫期起算、退保书面要求、投资相连产品的市值调整",
+          "tc": "梳理內地客戶常見疑問：猶豫期起算、退保書面要求、投資相連產品的市值調整"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "跟踪10月3日意见反馈截止后的定稿条文与配套细则",
+          "tc": "跟蹤10月3日意見反饋截止後的定稿條文與配套細則"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 0,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "央视新闻（今日头条转载）",
+        "lang": "zh"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "reg",
+        "consumer"
+      ],
+      "tags": {
+        "sc": [
+          "保险法修订",
+          "犹豫期",
+          "冷静期",
+          "消费者保护",
+          "销售误导"
+        ],
+        "tc": [
+          "保險法修訂",
+          "猶豫期",
+          "冷靜期",
+          "消費者保護",
+          "銷售誤導"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-14T16:54:00+08:00",
+      "originalUrl": "http://m.toutiao.com/group/7685304725466432042/",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-14T18:08:00+08:00"
+    },
+    {
+      "id": "21jingji-insurance-ai-8hao-wen-20260914",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "21jingji",
+      "title": {
+        "sc": "「8号文」后保险AI叙事转向约束落地：承保理赔列为高风险场景 须留人工监督并向监管报备",
+        "tc": "「8號文」後保險AI敘事轉向約束落地：承保理賠列為高風險場景 須留人工監督並向監管報備"
+      },
+      "summary": {
+        "sc": "21世纪经济报道9月14日复盘外滩大会保险见解论坛：金融监管总局《关于银行业保险业人工智能安全开发应用的指导意见》（金发〔2026〕8号，6月18日印发）以七方面32项意见，把AI监管基调从「鼓励探索」改为「约束落地」。涉承保理赔、信贷审批、风险管理的生成式AI须经风险管理委员会批准，关键环节保留人工监督、向监管报备，「谁使用谁负责」。",
+        "tc": "21世紀經濟報道9月14日復盤外灘大會保險見解論壇：金融監管總局《關於銀行業保險業人工智能安全開發應用的指導意見》（金發〔2026〕8號，6月18日印發）以七方面32項意見，把AI監管基調從「鼓勵探索」改為「約束落地」。涉承保理賠、信貸審批、風險管理的生成式AI須經風險管理委員會批准，關鍵環節保留人工監督、向監管報備，「誰使用誰負責」。"
+      },
+      "why": {
+        "sc": "与香港市场当下正在发生的方向正好互文：保诚、宏利把AI推到销售前端核保，保监局2026年更新的AI监管指引仍未出台。内地已用「承保理赔不得全自动、须人工监督」划出红线，这条线大概率会成为香港AI核保工具设计的参照系——谁在卖点里夸大「无人核保」，谁就先承担解释成本。",
+        "tc": "與香港市場當下正在發生的方向正好互文：保誠、宏利把AI推到銷售前端核保，保監局2026年更新的AI監管指引仍未出台。內地已用「承保理賠不得全自動、須人工監督」劃出紅線，這條線大概率會成為香港AI核保工具設計的參照系——誰在賣點裡誇大「無人核保」，誰就先承擔解釋成本。"
+      },
+      "actions": {
+        "front": {
+          "sc": "向客户介绍AI核保时明确「初步指示不等于承保结论」，保留人工复核与完整告知记录",
+          "tc": "向客戶介紹AI核保時明確「初步指示不等於承保結論」，保留人工複核與完整告知記錄"
+        },
+        "midback": {
+          "sc": "盘点内地客户对AI核保、AI客服的接受度与数据授权顾虑",
+          "tc": "盤點內地客戶對AI核保、AI客服的接受度與數據授權顧慮"
+        },
+        "lead": {
+          "sc": "跟踪保监局2026年AI监管指引更新与AI Cohort Programme后续",
+          "tc": "跟蹤保監局2026年AI監管指引更新與AI Cohort Programme後續"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 1,
+        "lead": 2,
+        "cross": 0
+      },
+      "source": {
+        "sc": "《21世纪经济报道》（外滩大会保险见解论坛）",
+        "lang": "zh"
+      },
+      "boards": [
+        "tech",
+        "reg"
+      ],
+      "themes": [
+        "tech",
+        "ai"
+      ],
+      "tags": {
+        "sc": [
+          "8号文",
+          "AI治理",
+          "AI核保",
+          "承保理赔",
+          "外滩大会"
+        ],
+        "tc": [
+          "8號文",
+          "AI治理",
+          "AI核保",
+          "承保理賠",
+          "外灘大會"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-14T17:22:00+08:00",
+      "originalUrl": "http://m.toutiao.com/group/7685318939525546502/",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-14T18:08:00+08:00"
+    },
+    {
+      "id": "iasea-swiss-re-hk-tw-life-head-20260914",
+      "clusterCount": 1,
+      "score": 65,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "瑞士再保险委任 Iris Cheung 为香港及台湾人寿与健康再保险主管 11月1日生效 [EN原文]",
+        "tc": "瑞士再保險委任 Iris Cheung 為香港及台灣人壽與健康再保險主管 11月1日生效 [EN原文]"
+      },
+      "summary": {
+        "sc": "InsuranceAsia报道，瑞士再保险（Swiss Re）宣布委任 Iris Cheung 为香港及台湾人寿与健康再保险（Life & Health Reinsurance）主管，2026年11月1日生效，负责两地寿险与健康再保险业务及客户关系拓展；她接替转任技术与运营卓越主管的 Torben Swart。Cheung 有逾20年经验、在瑞再任职15年，此前为亚太区大客户经理，并曾于毕马威风险咨询任职。",
+        "tc": "InsuranceAsia報道，瑞士再保險（Swiss Re）宣布委任 Iris Cheung 為香港及台灣人壽與健康再保險（Life & Health Reinsurance）主管，2026年11月1日生效，負責兩地壽險與健康再保險業務及客戶關係拓展；她接替轉任技術與運營卓越主管的 Torben Swart。Cheung 有逾20年經驗、在瑞再任職15年，此前為亞太區大客戶經理，並曾於畢馬威風險諮詢任職。"
+      },
+      "why": {
+        "sc": "再保层的香港配置继续加码：把香港与台湾合并由一位主管统筹，说明瑞再把两地的寿险与健康业务看作同一增长板块。对分销端而言，再保核保口径与产品设计支持的上游联系人更换，通常先影响新型保障与健康险的落地节奏。",
+        "tc": "再保層的香港配置繼續加碼：把香港與台灣合併由一位主管統籌，說明瑞再把兩地的壽險與健康業務看作同一增長板塊。對分銷端而言，再保核保口徑與產品設計支持的上游聯繫人更換，通常先影響新型保障與健康險的落地節奏。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "更新再保伙伴联系人清单，留意新主管上任后的核保口径与合作方向",
+          "tc": "更新再保伙伴聯繫人清單，留意新主管上任後的核保口徑與合作方向"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "InsuranceAsia",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "reinsurance",
+        "people"
+      ],
+      "tags": {
+        "sc": [
+          "瑞士再保险",
+          "人事任命",
+          "香港",
+          "台湾",
+          "寿险再保"
+        ],
+        "tc": [
+          "瑞士再保險",
+          "人事任命",
+          "香港",
+          "台灣",
+          "壽險再保"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-14T06:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/swiss-re-appoints-new-lead-hong-kong-and-taiwan-life-reinsurance",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-14T18:08:00+08:00"
+    },
+    {
+      "id": "iasea-china-nonlife-profit-shift-20260914",
+      "clusterCount": 1,
+      "score": 65,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "AM Best：中国非寿险业从保费规模转向盈利 分支机构大量退场、2025年总保费增速降至7.4% [EN原文]",
+        "tc": "AM Best：中國非壽險業從保費規模轉向盈利 分支機構大量退場、2025年總保費增速降至7.4% [EN原文]"
+      },
+      "summary": {
+        "sc": "InsuranceAsia引述AM Best 9月报告：中国非寿险业重心从增长转向盈利与成本控制，近年数千家实体分支机构退出市场、营运线上化、传统代理人队伍收缩；消费者需求疲弱与房地产下行仍拖累经济。安联研究指2025年中国总保费增速放缓至7.4%，但全球份额由十年前的7.5%升至10.9%，保费收入8670亿美元（非寿险2220亿美元），预计2036年份额升至13.4%。",
+        "tc": "InsuranceAsia引述AM Best 9月報告：中國非壽險業重心從增長轉向盈利與成本控制，近年數千家實體分支機構退出市場、營運線上化、傳統代理人隊伍收縮；消費者需求疲弱與房地產下行仍拖累經濟。安聯研究指2025年中國總保費增速放緩至7.4%，但全球份額由十年前的7.5%升至10.9%，保費收入8670億美元（非壽險2220億美元），預計2036年份額升至13.4%。"
+      },
+      "why": {
+        "sc": "「关店＋线上化」是内地寿险与财险共同的成本路径，反映的是代理人红利结束后的效率重构。对香港的对照意义在于：内地客户获取保险的入口正在从线下团队转向平台化与AI工具，这会改变跨境客户对「服务」的预期——他们要的不是更多见面，而是更快的响应与更清楚的资料。",
+        "tc": "「關店＋線上化」是內地壽險與財險共同的成本路徑，反映的是代理人紅利結束後的效率重構。對香港的對照意義在於：內地客戶獲取保險的入口正在從線下團隊轉向平台化與AI工具，這會改變跨境客戶對「服務」的預期——他們要的不是更多見面，而是更快的響應與更清楚的資料。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "对照内地线上化服务标准，检视自身客户响应时效与资料清单完整度",
+          "tc": "對照內地線上化服務標準，檢視自身客戶響應時效與資料清單完整度"
+        },
+        "lead": {
+          "sc": "跟踪AM Best与安联对中国保险市场的评级与规模预测更新",
+          "tc": "跟蹤AM Best與安聯對中國保險市場的評級與規模預測更新"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "InsuranceAsia",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "market",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "中国保险市场",
+          "非寿险",
+          "AM Best",
+          "安联研究",
+          "保费规模"
+        ],
+        "tc": [
+          "中國保險市場",
+          "非壽險",
+          "AM Best",
+          "安聯研究",
+          "保費規模"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-14T09:25:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/expert-opinion/how-can-chinas-insurers-protect-profits-in-slowing-market",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-14T18:08:00+08:00"
+    },
+    {
+      "id": "iasea-cfar-travel-market-20260914",
+      "clusterCount": 1,
+      "score": 60,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "全球「任意理由取消」旅游险市场2026年将达29.8亿美元 亚太为增速最快区域 [EN原文]",
+        "tc": "全球「任意理由取消」旅遊險市場2026年將達29.8億美元 亞太為增速最快區域 [EN原文]"
+      },
+      "summary": {
+        "sc": "InsuranceAsia引述The Business Research Company数据：全球「任意理由取消」（CFAR）旅游险市场将由2025年的26.7亿美元增至2026年的29.8亿美元，年复合增长11.7%，2030年有望达45.8亿美元；CFAR属标准行程取消条款之外的可选加保，通常对不可退预付款项给予部分补偿。需求受国际旅游增长、航班取消延误增多、线上预订平台扩张与休闲旅游支出上升推动，亚太为增长最快区域。",
+        "tc": "InsuranceAsia引述The Business Research Company數據：全球「任意理由取消」（CFAR）旅遊險市場將由2025年的26.7億美元增至2026年的29.8億美元，年複合增長11.7%，2030年有望達45.8億美元；CFAR屬標準行程取消條款之外的可選加保，通常對不可退預付款項給予部分補償。需求受國際旅遊增長、航班取消延誤增多、線上預訂平台擴張與休閒旅遊支出上升推動，亞太為增長最快區域。"
+      },
+      "why": {
+        "sc": "保障边界的生意正在从「赔付确定损失」走向「赔付计划变更」，这与地缘与气候不确定性直接相关。对服务家庭客户的团队，CFAR 的思路可以借鉴到港险附加保障的设计逻辑：客户愿意为「确定性」付费，而不是为更高演示收益付费。",
+        "tc": "保障邊界的生意正在從「賠付確定損失」走向「賠付計劃變更」，這與地緣與氣候不確定性直接相關。對服務家庭客戶的團隊，CFAR 的思路可以借鑒到港險附加保障的設計邏輯：客戶願意為「確定性」付費，而不是為更高演示收益付費。"
+      },
+      "actions": {
+        "front": {
+          "sc": "向有频繁出行需求的客户提示旅游险的除外责任与可选加保范围",
+          "tc": "向有頻繁出行需求的客戶提示旅遊險的除外責任與可選加保範圍"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 0,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "InsuranceAsia（引The Business Research Company）",
+        "lang": "en"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "product",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "旅游保险",
+          "CFAR",
+          "市场预测",
+          "亚太"
+        ],
+        "tc": [
+          "旅遊保險",
+          "CFAR",
+          "市場預測",
+          "亞太"
+        ]
+      },
+      "contentKind": "stats",
+      "publishedAt": "2026-09-14T07:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/cancel-any-reason-travel-insurance-hit-3b-in-2026",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-14T18:08:00+08:00"
+    },
+    {
+      "id": "iasea-singapore-climate-insurance-gap-20260914",
+      "clusterCount": 1,
+      "score": 60,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "Singlife×NUS调查：新加坡仅16%受访者已购气候相关风险保险 另有40%计划一年内购买 [EN原文]",
+        "tc": "Singlife×NUS調查：新加坡僅16%受訪者已購氣候相關風險保險 另有40%計劃一年內購買 [EN原文]"
+      },
+      "summary": {
+        "sc": "InsuranceAsia报道Singlife与新加坡国立大学可持续与绿色金融研究院（SGFIN）《2026可持续未来指数》白皮书：全国代表性调查1500名新加坡公民及永久居民（2025年9月12日至10月17日），仅16%已购买针对气候相关风险的保险产品，另有40%计划在未来12个月购买。研究指「已持有」对可持续行动的解释力达74%，远高于认知（18%）与知识（8%）；整体可持续行动得分56/100。",
+        "tc": "InsuranceAsia報道Singlife與新加坡國立大學可持續與綠色金融研究院（SGFIN）《2026可持續未來指數》白皮書：全國代表性調查1500名新加坡公民及永久居民（2025年9月12日至10月17日），僅16%已購買針對氣候相關風險的保險產品，另有40%計劃在未來12個月購買。研究指「已持有」對可持續行動的解釋力達74%，遠高於認知（18%）與知識（8%）；整體可持續行動得分56/100。"
+      },
+      "why": {
+        "sc": "与保监局9月8日推出「气候保险实验室」形成呼应：亚洲气候保障缺口既有供给端（产品与模型）问题，也有需求端「知而不买」的转化问题。40%的购买意向说明市场不缺意识，缺的是把气候风险转译成具体保单与保额的动作——这正是前线可以介入的位置。",
+        "tc": "與保監局9月8日推出「氣候保險實驗室」形成呼應：亞洲氣候保障缺口既有供給端（產品與模型）問題，也有需求端「知而不買」的轉化問題。40%的購買意向說明市場不缺意識，缺的是把氣候風險轉譯成具體保單與保額的動作——這正是前線可以介入的位置。"
+      },
+      "actions": {
+        "front": {
+          "sc": "为高暴露客户（沿海物业、户外生意）准备气候风险与财产保障的检视清单",
+          "tc": "為高暴露客戶（沿海物業、戶外生意）準備氣候風險與財產保障的檢視清單"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "跟踪保监局气候保险实验室与气候建模项目的产品化进展",
+          "tc": "跟蹤保監局氣候保險實驗室與氣候建模項目的產品化進展"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 0,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "InsuranceAsia（Singlife×NUS SGFIN）",
+        "lang": "en"
+      },
+      "boards": [
+        "market",
+        "product"
+      ],
+      "themes": [
+        "climate",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "气候风险",
+          "保障缺口",
+          "新加坡",
+          "可持续金融"
+        ],
+        "tc": [
+          "氣候風險",
+          "保障缺口",
+          "新加坡",
+          "可持續金融"
+        ]
+      },
+      "contentKind": "stats",
+      "publishedAt": "2026-09-14T05:15:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/only-16-singaporeans-purchased-insurance-climate-related-risks",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-14T18:08:00+08:00"
+    },
+    {
+      "id": "iasea-australia-june-quarter-profit-20260914",
+      "clusterCount": 1,
+      "score": 60,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "title": {
+        "sc": "APRA：澳洲一般保险6月季度税后利润回升至25.3亿澳元 净资产回报率由1.6%升至5.4% [EN原文]",
+        "tc": "APRA：澳洲一般保險6月季度稅後利潤回升至25.3億澳元 淨資產回報率由1.6%升至5.4% [EN原文]"
+      },
+      "summary": {
+        "sc": "InsuranceAsia引述APRA数据：澳洲一般保险业2026年6月季度税后利润升至25.3亿澳元（约16亿美元），远高于3月季度的6.37亿澳元；保险服务结果由12.43亿升至23.99亿澳元，保险服务费用由164.07亿降至153.53亿澳元。投资结果由5.34亿澳元升至19.68亿澳元。净资产回报率由1.6%升至5.4%，承保资本覆盖率由1.81倍升至1.86倍，统计覆盖88家实体。",
+        "tc": "InsuranceAsia引述APRA數據：澳洲一般保險業2026年6月季度稅後利潤升至25.3億澳元（約16億美元），遠高於3月季度的6.37億澳元；保險服務結果由12.43億升至23.99億澳元，保險服務費用由164.07億降至153.53億澳元。投資結果由5.34億澳元升至19.68億澳元。淨資產回報率由1.6%升至5.4%，承保資本覆蓋率由1.81倍升至1.86倍，統計覆蓋88家實體。"
+      },
+      "why": {
+        "sc": "与3月季度的季度利润近乎腰斩形成对比，说明短尾财产险的承保结果在巨灾季之间波动极大，投资端仍是最主要的稳定器。对关注亚太财险资本与再保定价的团队，这类季度数据是判断区域承保周期松紧的先行指标。",
+        "tc": "與3月季度的季度利潤近乎腰斬形成對比，說明短尾財產險的承保結果在巨災季之間波動極大，投資端仍是最主要的穩定器。對關注亞太財險資本與再保定價的團隊，這類季度數據是判斷區域承保週期鬆緊的先行指標。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "把APRA季度承保数据纳入亚太财险周期观察口径",
+          "tc": "把APRA季度承保數據納入亞太財險週期觀察口徑"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "InsuranceAsia（引APRA）",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "market",
+        "general-insurance"
+      ],
+      "tags": {
+        "sc": [
+          "澳洲",
+          "APRA",
+          "一般保险",
+          "承保利润",
+          "再保险"
+        ],
+        "tc": [
+          "澳洲",
+          "APRA",
+          "一般保險",
+          "承保利潤",
+          "再保險"
+        ]
+      },
+      "contentKind": "stats",
+      "publishedAt": "2026-09-14T06:45:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/australian-insurers-lift-profit-2b-in-june-2026",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-14T18:08:00+08:00"
+    },
+    {
+      "id": "ibm-ai-slowdown-hinton-20260914",
+      "clusterCount": 1,
+      "score": 60,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "title": {
+        "sc": "Hinton 加入呼吁放缓AI：主张模型发布前强制测试 称失控风险显著 [EN原文]",
+        "tc": "Hinton 加入呼籲放緩AI：主張模型發布前強制測試 稱失控風險顯著 [EN原文]"
+      },
+      "summary": {
+        "sc": "Insurance Business报道，AI奠基学者Geoffrey Hinton 加入放缓AI发展的呼吁，指技术脱离人类控制的风险显著，并称当前风险评估多凭直觉而非证据；他主张任何聊天模型发布前须强制测试，合成生物材料企业须筛查产出物。同期刊出Anthropic CEO Dario Amodei 的三步「pacing the frontier」方案：第三方评估员进驻、民主国家共享安全基准、与包括中国在内的政府协调；Altman与Musk表态支持，美国总统特朗普则明确拒绝放缓。",
+        "tc": "Insurance Business報道，AI奠基學者Geoffrey Hinton 加入放緩AI發展的呼籲，指技術脫離人類控制的風險顯著，並稱當前風險評估多憑直覺而非證據；他主張任何聊天模型發布前須強制測試，合成生物材料企業須篩查產出物。同期刊出Anthropic CEO Dario Amodei 的三步「pacing the frontier」方案：第三方評估員進駐、民主國家共享安全基準、與包括中國在內的政府協調；Altman與Musk表態支持，美國總統特朗普則明確拒絕放緩。"
+      },
+      "why": {
+        "sc": "AI治理的「减速」议程正在从学者边缘声音变成大厂之间的公开分歧，而这恰好是保监局AI监管指引出台前的背景噪音。对使用AI工具的团队，实用含义是两句话：工具可以加速流程，但核保结论、告知义务与销售话术的责任不能外包给模型。",
+        "tc": "AI治理的「減速」議程正在從學者邊緣聲音變成大廠之間的公開分歧，而這恰好是保監局AI監管指引出台前的背景噪音。對使用AI工具的團隊，實用含義是兩句話：工具可以加速流程，但核保結論、告知義務與銷售話術的責任不能外包給模型。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "在AI工具使用规范中明确「模型输出不等於核保或销售结论」的边界",
+          "tc": "在AI工具使用規範中明確「模型輸出不等於核保或銷售結論」的邊界"
+        },
+        "lead": {
+          "sc": "跟踪IA 2026年AI监管指引更新与主要市场AI安全要求变化",
+          "tc": "跟蹤IA 2026年AI監管指引更新與主要市場AI安全要求變化"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Business（Insurance Business Asia）",
+        "lang": "en"
+      },
+      "boards": [
+        "tech"
+      ],
+      "themes": [
+        "tech",
+        "ai"
+      ],
+      "tags": {
+        "sc": [
+          "AI治理",
+          "AI安全",
+          "前沿风险",
+          "监管"
+        ],
+        "tc": [
+          "AI治理",
+          "AI安全",
+          "前沿風險",
+          "監管"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-14",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/godfather-of-ai-joins-calls-to-slow-artificial-intelligence-589570.aspx",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-14T18:08:00+08:00"
+    },
+    {
+      "id": "hkma-exchange-fund-analytical-accounts-20260914",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "title": {
+        "sc": "金管局公布外汇基金分析账目：8月底境外资产减418亿港元至36,527亿港元",
+        "tc": "金管局公布外匯基金分析賬目：8月底境外資產減418億港元至36,527億港元"
+      },
+      "summary": {
+        "sc": "香港金管局9月14日公布2026年8月底外汇基金分析账目：外汇基金境外资产（对外资产）按月减少418亿港元至36,527亿港元；货币基础（负债证明书、政府发行纸币及硬币、银行体系结余、外汇基金票据及债券）为20,802亿港元；对香港私营部门债权4,031亿港元；对外负债1,403亿港元。该数据按IMF数据公布特殊标准（SDDS）发布。",
+        "tc": "香港金管局9月14日公布2026年8月底外匯基金分析賬目：外匯基金境外資產（對外資產）按月減少418億港元至36,527億港元；貨幣基礎（負債證明書、政府發行紙幣及硬幣、銀行體系結餘、外匯基金票據及債券）為20,802億港元；對香港私營部門債權4,031億港元；對外負債1,403億港元。該數據按IMF數據公布特殊標準（SDDS）發布。"
+      },
+      "why": {
+        "sc": "外汇基金对外资产按月减少、货币基础规模稳定，是观察港元利率环境与银行体系流动性的常规输入项。对分红险与储蓄险的现实意义在投资端：保险公司分红账户的投资回报与港元/美元利率环境同向，这类月度数据是拆解「演示收益 vs 实际投资环境」时的背景板。",
+        "tc": "外匯基金對外資產按月減少、貨幣基礎規模穩定，是觀察港元利率環境與銀行體系流動性的常規輸入項。對分紅險與儲蓄險的現實意義在投資端：保險公司分紅賬戶的投資回報與港元/美元利率環境同向，這類月度數據是拆解「演示收益 vs 實際投資環境」時的背景板。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "按金管局9月30日发布日程同步更新国际储备与外汇基金资产负债表数据",
+          "tc": "按金管局9月30日發布日程同步更新國際儲備與外匯基金資產負債表數據"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 0,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "香港金融管理局",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "macro",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "金管局",
+          "外汇基金",
+          "货币基础",
+          "港元流动性"
+        ],
+        "tc": [
+          "金管局",
+          "外匯基金",
+          "貨幣基礎",
+          "港元流動性"
+        ]
+      },
+      "contentKind": "stats",
+      "publishedAt": "2026-09-14",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260914-3/",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-14T18:08:00+08:00"
+    },
+    {
+      "id": "familyoffice-citi-apac-forum-20260914",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "family_office",
+      "title": {
+        "sc": "花旗私人银行亚太家族办公室高管论坛在港举行 逾150位家办决策人出席 主题「智能十年」[EN原文]",
+        "tc": "花旗私人銀行亞太家族辦公室高管論壇在港舉行 逾150位家辦決策人出席 主題「智能十年」[EN原文]"
+      },
+      "summary": {
+        "sc": "花旗私人银行9月14日于香港举办年度亚太家族办公室高管论坛（Asia Pacific Family Office Executive Forum），逾150位家办决策人、二代领袖与投资者出席，为历届规模最大。主题为「智能十年：AI、资本与新亚洲秩序」，议题涵盖AI、直接投资、家办治理、传承规划与慈善。演讲嘉宾包括 Brookfield 行政总裁 Bruce Flatt、EQT 主席 Jean Eric Salata、铠侠财务总监川村喜彦及港大李成教授。",
+        "tc": "花旗私人銀行9月14日於香港舉辦年度亞太家族辦公室高管論壇（Asia Pacific Family Office Executive Forum），逾150位家辦決策人、二代領袖與投資者出席，為歷屆規模最大。主題為「智能十年：AI、資本與新亞洲秩序」，議題涵蓋AI、直接投資、家辦治理、傳承規劃與慈善。演講嘉賓包括 Brookfield 行政總裁 Bruce Flatt、EQT 主席 Jean Eric Salata、鎧俠財務總監川村喜彥及港大李成教授。"
+      },
+      "why": {
+        "sc": "家办议题的重心已从「资产保值」转向「直接投资＋治理＋二代交接」，而AI被放在主题首位——这正好对应高客对保险的功能期待：不再是收益比较，而是资产隔离、传承结构与治理工具的完整性。高客团队可把「家办治理」语言接入保险方案的讲解框架。",
+        "tc": "家辦議題的重心已從「資產保值」轉向「直接投資＋治理＋二代交接」，而AI被放在主題首位——這正好對應高客對保險的功能期待：不再是收益比較，而是資產隔離、傳承結構與治理工具的完整性。高客團隊可把「家辦治理」語言接入保險方案的講解框架。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "把家办治理／传承语言纳入高客方案讲解模板，跟踪Q4家办与高客活动排期",
+          "tc": "把家辦治理／傳承語言納入高客方案講解模板，跟蹤Q4家辦與高客活動排期"
+        },
+        "cross": {
+          "sc": "留意家办直接投资偏好变化对保险资金与另类资产配置的联动",
+          "tc": "留意家辦直接投資偏好變化對保險資金與另類資產配置的聯動"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Citi Private Bank（Media OutReach Newswire）",
+        "lang": "en"
+      },
+      "boards": [
+        "family"
+      ],
+      "themes": [
+        "family-office",
+        "high-net-worth"
+      ],
+      "tags": {
+        "sc": [
+          "家族办公室",
+          "高净值",
+          "财富传承",
+          "花旗私人银行"
+        ],
+        "tc": [
+          "家族辦公室",
+          "高淨值",
+          "財富傳承",
+          "花旗私人銀行"
+        ]
+      },
+      "contentKind": "press",
+      "publishedAt": "2026-09-14",
+      "originalUrl": "https://macaubusiness.com/citi-private-bank-convenes-asias-leading-family-offices-in-hong-kong-to-explore-the-next-decade-of-wealth-creation/",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-14T18:08:00+08:00"
+    },
     {
       "clusterCount": 2,
       "verifyStatus": "verified",
@@ -53878,6 +54683,27 @@ window.HKII_DATA = {
   "digests": {
     "daily": [
       {
+        "key": "2026-09-14",
+        "label": {
+          "sc": "2026-09-14",
+          "tc": "2026-09-14"
+        },
+        "itemCount": 11,
+        "itemIds": [
+          "nfra-insurance-penalties-jan-aug-20260914",
+          "cctv-insurance-law-cooling-off-period-20260914",
+          "21jingji-insurance-ai-8hao-wen-20260914",
+          "iasea-swiss-re-hk-tw-life-head-20260914",
+          "iasea-china-nonlife-profit-shift-20260914",
+          "iasea-cfar-travel-market-20260914",
+          "iasea-singapore-climate-insurance-gap-20260914",
+          "iasea-australia-june-quarter-profit-20260914",
+          "ibm-ai-slowdown-hinton-20260914",
+          "hkma-exchange-fund-analytical-accounts-20260914",
+          "familyoffice-citi-apac-forum-20260914"
+        ]
+      },
+      {
         "key": "2026-09-13",
         "label": {
           "sc": "2026-09-13",
@@ -57179,6 +58005,27 @@ window.HKII_DATA = {
       }
     ],
     "weekly": [
+      {
+        "key": "2026-W38",
+        "label": {
+          "sc": "2026-W38",
+          "tc": "2026-W38"
+        },
+        "itemCount": 11,
+        "itemIds": [
+          "nfra-insurance-penalties-jan-aug-20260914",
+          "cctv-insurance-law-cooling-off-period-20260914",
+          "21jingji-insurance-ai-8hao-wen-20260914",
+          "iasea-swiss-re-hk-tw-life-head-20260914",
+          "iasea-china-nonlife-profit-shift-20260914",
+          "iasea-cfar-travel-market-20260914",
+          "iasea-singapore-climate-insurance-gap-20260914",
+          "iasea-australia-june-quarter-profit-20260914",
+          "ibm-ai-slowdown-hinton-20260914",
+          "hkma-exchange-fund-analytical-accounts-20260914",
+          "familyoffice-citi-apac-forum-20260914"
+        ]
+      },
       {
         "key": "2026-W37",
         "label": {
@@ -61605,14 +62452,14 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 734 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 734 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 745 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 745 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 734,
+      "totalItems": 745,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 244,
+          "count": 247,
           "label": "监管一手"
         },
         {
@@ -61627,12 +62474,12 @@ window.HKII_DATA = {
         },
         {
           "tier": "media",
-          "count": 246,
+          "count": 253,
           "label": "媒体报道"
         },
         {
           "tier": "pro",
-          "count": 74,
+          "count": 75,
           "label": "专业解读"
         },
         {
@@ -61706,12 +62553,12 @@ window.HKII_DATA = {
       "topThemes": [
         {
           "theme": "market",
-          "count": 190,
+          "count": 195,
           "label": "市场"
         },
         {
           "theme": "reg",
-          "count": 129,
+          "count": 131,
           "label": "监管"
         },
         {
@@ -61721,12 +62568,12 @@ window.HKII_DATA = {
         },
         {
           "theme": "product",
-          "count": 89,
+          "count": 90,
           "label": "产品"
         },
         {
           "theme": "compliance",
-          "count": 82,
+          "count": 83,
           "label": "合规"
         },
         {
@@ -61740,14 +62587,14 @@ window.HKII_DATA = {
           "label": "渠道"
         },
         {
-          "theme": "reinsurance",
-          "count": 52,
-          "label": "再保险"
+          "theme": "macro",
+          "count": 54,
+          "label": "宏观"
         },
         {
-          "theme": "macro",
-          "count": 52,
-          "label": "宏观"
+          "theme": "reinsurance",
+          "count": 53,
+          "label": "再保险"
         },
         {
           "theme": "cross-border",
@@ -61756,8 +62603,8 @@ window.HKII_DATA = {
         }
       ],
       "dateRange": {
-        "sc": "2013-03-05 ~ 2026-09-13",
-        "tc": "2013-03-05 ~ 2026-09-13"
+        "sc": "2013-03-05 ~ 2026-09-14",
+        "tc": "2013-03-05 ~ 2026-09-14"
       }
     },
     "marketData": {

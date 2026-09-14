@@ -1,9 +1,152 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-13T16:49:08Z",
-  "itemCount": 734,
+  "generatedAt": "2026-09-14T10:12:41Z",
+  "itemCount": 745,
   "items": [
+    {
+      "id": "nfra-insurance-penalties-jan-aug-20260914",
+      "title": "前八个月内地保险业被罚没近1.95亿元：899张罚单、54人禁业、11人终身禁业",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "compliance"
+      ],
+      "publishedAt": "2026-09-14T07:19:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-insurance-penalties-jan-aug-20260914",
+      "originalUrl": "https://finance.sina.cn/2026-09-14/detail-inirtwie9744986.d.html"
+    },
+    {
+      "id": "cctv-insurance-law-cooling-off-period-20260914",
+      "title": "《保险法》大修拟将长期人身险「犹豫期」直接入法 并新增个人信息保护与禁止销售误导",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "consumer"
+      ],
+      "publishedAt": "2026-09-14T16:54:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=cctv-insurance-law-cooling-off-period-20260914",
+      "originalUrl": "http://m.toutiao.com/group/7685304725466432042/"
+    },
+    {
+      "id": "21jingji-insurance-ai-8hao-wen-20260914",
+      "title": "「8号文」后保险AI叙事转向约束落地：承保理赔列为高风险场景 须留人工监督并向监管报备",
+      "sourceTier": "media",
+      "themes": [
+        "tech",
+        "ai"
+      ],
+      "publishedAt": "2026-09-14T17:22:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=21jingji-insurance-ai-8hao-wen-20260914",
+      "originalUrl": "http://m.toutiao.com/group/7685318939525546502/"
+    },
+    {
+      "id": "iasea-swiss-re-hk-tw-life-head-20260914",
+      "title": "瑞士再保险委任 Iris Cheung 为香港及台湾人寿与健康再保险主管 11月1日生效 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "people"
+      ],
+      "publishedAt": "2026-09-14T06:00:00+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasea-swiss-re-hk-tw-life-head-20260914",
+      "originalUrl": "https://insuranceasia.com/insurance/news/swiss-re-appoints-new-lead-hong-kong-and-taiwan-life-reinsurance"
+    },
+    {
+      "id": "iasea-china-nonlife-profit-shift-20260914",
+      "title": "AM Best：中国非寿险业从保费规模转向盈利 分支机构大量退场、2025年总保费增速降至7.4% [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "market",
+        "macro"
+      ],
+      "publishedAt": "2026-09-14T09:25:00+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasea-china-nonlife-profit-shift-20260914",
+      "originalUrl": "https://insuranceasia.com/insurance/expert-opinion/how-can-chinas-insurers-protect-profits-in-slowing-market"
+    },
+    {
+      "id": "iasea-cfar-travel-market-20260914",
+      "title": "全球「任意理由取消」旅游险市场2026年将达29.8亿美元 亚太为增速最快区域 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "product",
+        "market"
+      ],
+      "publishedAt": "2026-09-14T07:00:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasea-cfar-travel-market-20260914",
+      "originalUrl": "https://insuranceasia.com/insurance/news/cancel-any-reason-travel-insurance-hit-3b-in-2026"
+    },
+    {
+      "id": "iasea-singapore-climate-insurance-gap-20260914",
+      "title": "Singlife×NUS调查：新加坡仅16%受访者已购气候相关风险保险 另有40%计划一年内购买 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "climate",
+        "market"
+      ],
+      "publishedAt": "2026-09-14T05:15:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasea-singapore-climate-insurance-gap-20260914",
+      "originalUrl": "https://insuranceasia.com/insurance/news/only-16-singaporeans-purchased-insurance-climate-related-risks"
+    },
+    {
+      "id": "iasea-australia-june-quarter-profit-20260914",
+      "title": "APRA：澳洲一般保险6月季度税后利润回升至25.3亿澳元 净资产回报率由1.6%升至5.4% [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "market",
+        "general-insurance"
+      ],
+      "publishedAt": "2026-09-14T06:45:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasea-australia-june-quarter-profit-20260914",
+      "originalUrl": "https://insuranceasia.com/insurance/news/australian-insurers-lift-profit-2b-in-june-2026"
+    },
+    {
+      "id": "ibm-ai-slowdown-hinton-20260914",
+      "title": "Hinton 加入呼吁放缓AI：主张模型发布前强制测试 称失控风险显著 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "tech",
+        "ai"
+      ],
+      "publishedAt": "2026-09-14",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-ai-slowdown-hinton-20260914",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/godfather-of-ai-joins-calls-to-slow-artificial-intelligence-589570.aspx"
+    },
+    {
+      "id": "hkma-exchange-fund-analytical-accounts-20260914",
+      "title": "金管局公布外汇基金分析账目：8月底境外资产减418亿港元至36,527亿港元",
+      "sourceTier": "official",
+      "themes": [
+        "macro",
+        "market"
+      ],
+      "publishedAt": "2026-09-14",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-exchange-fund-analytical-accounts-20260914",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260914-3/"
+    },
+    {
+      "id": "familyoffice-citi-apac-forum-20260914",
+      "title": "花旗私人银行亚太家族办公室高管论坛在港举行 逾150位家办决策人出席 主题「智能十年」[EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "family-office",
+        "high-net-worth"
+      ],
+      "publishedAt": "2026-09-14",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=familyoffice-citi-apac-forum-20260914",
+      "originalUrl": "https://macaubusiness.com/citi-private-bank-convenes-asias-leading-family-offices-in-hong-kong-to-explore-the-next-decade-of-wealth-creation/"
+    },
     {
       "id": "brics-putin-reinsurance-mechanism-20260913",
       "title": "金砖峰会闭幕：普京提议在金砖框架内建立再保险机制 以减少对欧美再保市场依赖",
