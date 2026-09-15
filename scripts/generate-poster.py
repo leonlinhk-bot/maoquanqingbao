@@ -7,15 +7,26 @@ TEMPLATE_PATH = os.path.join(os.path.dirname(__file__), "..", "assets", "poster-
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "..", "posters")
 
 def load_top_items(n=4):
-    """Load top N featured items from live-items.json"""
+    """Load top N items: prefer recent (last 3 days) by score, fill with all-time top score."""
     data_path = os.path.join(os.path.dirname(__file__), "..", "data", "live-items.json")
     with open(data_path) as f:
         data = json.load(f)
     items = data["items"]
-    # Sort by score descending, take top N
-    items.sort(key=lambda x: x.get("score", 0), reverse=True)
-    top = items[:n]
-    return top
+    today = datetime.date.today()
+    cutoff = (today - datetime.timedelta(days=2)).isoformat()
+
+    def pub_date(it):
+        return (it.get("publishedAt") or "")[:10]
+
+    recent = [it for it in items if pub_date(it) >= cutoff]
+    recent.sort(key=lambda x: (x.get("score", 0), pub_date(x)), reverse=True)
+    picked = recent[:n]
+    if len(picked) < n:
+        seen = {x.get("id") for x in picked}
+        rest = [it for it in items if it.get("id") not in seen]
+        rest.sort(key=lambda x: x.get("score", 0), reverse=True)
+        picked += rest[: n - len(picked)]
+    return picked
 
 def gen_card(item):
     """Generate HTML card for one item"""
@@ -27,10 +38,10 @@ def gen_card(item):
     board = boards[0] if boards else "regulatory"
     
     board_map = {
-        "regulatory": "🏛 监管", "compliance": "⚖ 合规",
-        "product": "📦 产品", "firm": "🏢 保司",
-        "cross": "🌏 跨境", "tech": "🤖 科技",
-        "macro": "📊 宏观", "intl": "🌍 国际",
+        "reg": "🏛 监管", "regulatory": "🏛 监管", "compliance": "⚖ 合规",
+        "product": "📦 产品", "insurer": "🏢 保司", "firm": "🏢 保司",
+        "market": "📊 市场", "family": "🏛 家办", "cross": "🌏 跨境",
+        "tech": "🤖 科技", "macro": "📊 宏观", "intl": "🌍 国际",
         "channel": "👥 渠道", "offshore": "🏝 离岸"
     }
     tag = board_map.get(board, "📌 资讯")
@@ -64,7 +75,7 @@ def generate(today=None):
     cards_html = "\n".join(gen_card(it) for it in items)
     # Find the cards div and replace content
     import re
-    pattern = r'(<div class="cards">)(.*?)(</div>\s*</div>\s*<div class="footer">)'
+    pattern = r'(<div class="cards">)(.*?)(</div>\s*<div class="footer">)'
     replacement = rf'\1\n{cards_html}\n        \3'
     html = re.sub(pattern, replacement, html, flags=re.DOTALL)
     

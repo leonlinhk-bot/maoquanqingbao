@@ -1,9 +1,204 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-14T16:20:54Z",
-  "itemCount": 751,
+  "generatedAt": "2026-09-15T17:43:26Z",
+  "itemCount": 766,
   "items": [
+    {
+      "id": "hkfi-offshore-policy-tax-rumor-reply-20260915",
+      "title": "香港保险业联会回应「内地对境外保单收益征20%个税」传闻：至今未见官方政策文件，港险对相关客户仍具竞争力",
+      "sourceTier": "official",
+      "themes": [
+        "taxation",
+        "offshore"
+      ],
+      "publishedAt": "2026-09-15",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkfi-offshore-policy-tax-rumor-reply-20260915",
+      "originalUrl": "https://gmteight.com/flash/detail/1502684"
+    },
+    {
+      "id": "ia-mainland-financial-products-tax-monitoring-20260915",
+      "title": "保监局：政府与局方正密切留意内地金融产品税务安排最新发展 居民申报境外投资收入的规定一向存在、市场毋须过度解读",
+      "sourceTier": "official",
+      "themes": [
+        "taxation",
+        "reg"
+      ],
+      "publishedAt": "2026-09-15",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-mainland-financial-products-tax-monitoring-20260915",
+      "originalUrl": "https://gmt8press.com/flash/detail/1504667"
+    },
+    {
+      "id": "legco-chan-pui-leung-crs-tax-view-20260915",
+      "title": "保险界立法会议员陈沛良：传闻与CRS落实及个人境外收入申报安排有关 又称未见正式文件、无意在立会提出质询",
+      "sourceTier": "media",
+      "themes": [
+        "taxation",
+        "compliance"
+      ],
+      "publishedAt": "2026-09-15",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=legco-chan-pui-leung-crs-tax-view-20260915",
+      "originalUrl": "https://gmteight.com/flash/detail/1503750"
+    },
+    {
+      "id": "hkma-scam-alert-banks-phishing-20260915",
+      "title": "金管局就4间银行伪冒网站及网上银行登录画面发出提示 重申银行不会以短讯／电邮内嵌链接要求交易或索取密码 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "fraud",
+        "consumer"
+      ],
+      "publishedAt": "2026-09-15",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-scam-alert-banks-phishing-20260915",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260915-4/"
+    },
+    {
+      "id": "nfra-picc-jinzhou-branch-penalty-20260915",
+      "title": "内地监管：人保财险锦州市分公司因财务数据不真实、将直销业务虚构为代理业务套取费用 被警告并合计罚款44万元",
+      "sourceTier": "official",
+      "themes": [
+        "compliance",
+        "reg"
+      ],
+      "publishedAt": "2026-09-15T13:30:00+08:00",
+      "score": 84,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-picc-jinzhou-branch-penalty-20260915",
+      "originalUrl": "https://insurance.eastmoney.com/a/cjgdt.html"
+    },
+    {
+      "id": "nfra-shanghai-tech-insurance-17-measures-20260915",
+      "title": "金融监管总局上海监管局发布《关于推进上海银行业保险业科技金融提质增效的意见》17条：鼓励保险机构建立科技保险创新容错机制",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "tech"
+      ],
+      "publishedAt": "2026-09-15T07:45:00+08:00",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-shanghai-tech-insurance-17-measures-20260915",
+      "originalUrl": "http://m.toutiao.com/group/7685541231937471014/"
+    },
+    {
+      "id": "axa-growing-forward-ai-target-20260915",
+      "title": "安盛公布2027–2029三年战略「Growing Forward」：AXA XL在大额商业险选择「守利润率不追份额」，全集团AI部署目标2029年前年化税前收益5–7亿欧元 [EN原文]",
+      "sourceTier": "insurer",
+      "themes": [
+        "firm",
+        "ai"
+      ],
+      "publishedAt": "2026-09-15",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=axa-growing-forward-ai-target-20260915",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/axa-tells-brokers-where-it-will-and-wont-compete-for-the-next-three-years-589760.aspx"
+    },
+    {
+      "id": "ibm-willis-power-soft-market-bi-gap-20260915",
+      "title": "Willis年度电力市场回顾：费率降幅最高达40%，但变压器、涡轮机等交期较2021年近乎翻倍，既有营业中断保额可能不足 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "pricing",
+        "claims"
+      ],
+      "publishedAt": "2026-09-15",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-willis-power-soft-market-bi-gap-20260915",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/soft-power-insurance-market-hides-a-harder-renewal-problem-589784.aspx"
+    },
+    {
+      "id": "ibm-canopius-analytics-chief-specialty-20260915",
+      "title": "Canopius新设分析总监职位：集团首席精算师转任，整合AI、定价与数据科学，反映特殊险承保的AI竞赛 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "uw"
+      ],
+      "publishedAt": "2026-09-15",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-canopius-analytics-chief-specialty-20260915",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/canopius-creates-analytics-chief-as-ai-race-reshapes-specialty-underwriting-589795.aspx"
+    },
+    {
+      "id": "iasia-asia-wealth-insurance-6pct-underpenetrated-20260916",
+      "title": "Utmost×NMG研究：亚洲国际财富保险销售两年增6%至86亿美元、渗透率仍显著偏低，私人银行经国际经纪行支持日益普遍 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "hnw",
+        "global-wealth"
+      ],
+      "publishedAt": "2026-09-16",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasia-asia-wealth-insurance-6pct-underpenetrated-20260916",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/asia-wealth-insurance-grows-6-despite-low-penetration"
+    },
+    {
+      "id": "iasia-on-demand-insurance-25b-2035-20260916",
+      "title": "SNS Insider：按需保险2025年68.5亿美元、2035年料达246亿美元；亚太增速最快、中国占亚太2025年收入38.6% [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "insurtech",
+        "product"
+      ],
+      "publishedAt": "2026-09-16",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasia-on-demand-insurance-25b-2035-20260916",
+      "originalUrl": "https://insuranceasia.com/insurance/news/demand-insurance-hit-25b-2035"
+    },
+    {
+      "id": "iasia-aia-thailand-vonb-jefferies-20260916",
+      "title": "Jefferies：友邦泰国占集团2026上半年新业务价值15%、内含价值12%，逾90%销售来自保障或收费型产品、代理市场占有率44% [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "results",
+        "channel"
+      ],
+      "publishedAt": "2026-09-16",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasia-aia-thailand-vonb-jefferies-20260916",
+      "originalUrl": "https://insuranceasia.com/insurance/news/aia-thailand-faces-tougher-growth-after-strong-2025"
+    },
+    {
+      "id": "iasia-cbic-ambest-negative-outlook-20260916",
+      "title": "AM Best：香港注册的中国交银保险展望负面，非上市投资集中度上升拖累资本指标；2025年末财务杠杆17.5%、监管偿付能力稳健 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "capital",
+        "rating"
+      ],
+      "publishedAt": "2026-09-16",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasia-cbic-ambest-negative-outlook-20260916",
+      "originalUrl": "https://insuranceasia.com/insurance/news/china-bocom-insurance-investment-concentration-weighs-capital-metrics"
+    },
+    {
+      "id": "iasia-zurich-tesla-fsd-australia-pricing-20260916",
+      "title": "苏黎世保险将特斯拉FSD自动驾驶数据纳入澳洲与新西兰车险定价 车主累计使用里程已逾1.32亿公里 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "tech",
+        "pricing"
+      ],
+      "publishedAt": "2026-09-16",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasia-zurich-tesla-fsd-australia-pricing-20260916",
+      "originalUrl": "https://insuranceasia.com/insurance/news/zurich-adds-tesla-self-driving-australian-insurance-pricing"
+    },
+    {
+      "id": "promo-claim-check-7-2pct-20260915",
+      "title": "网传9月港险优惠海报「预缴7.2%」被指查无此数：作者核对五家保司官网与推广单张后称该数字属「首年高息＋回赠＋折扣」折算的等效值",
+      "sourceTier": "media",
+      "themes": [
+        "compliance",
+        "product"
+      ],
+      "publishedAt": "2026-09-15T12:59:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=promo-claim-check-7-2pct-20260915",
+      "originalUrl": "https://www.163.com/dy/article/L6SAUEFQ0556PQK3.html"
+    },
     {
       "id": "eaic-malaysian-re-asia-protection-gap-20260914",
       "title": "东亚保险大会（EAIC）：马来西亚再保险CEO指亚洲「风险增速快于保障」 绝对保障缺口可能随经济增长扩大",
