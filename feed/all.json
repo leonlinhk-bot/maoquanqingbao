@@ -1,9 +1,243 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-15T17:43:26Z",
-  "itemCount": 766,
+  "generatedAt": "2026-09-16T10:20:38Z",
+  "itemCount": 784,
   "items": [
+    {
+      "id": "ia-policy-address-2026-response-20260916",
+      "title": "保监局欢迎《施政报告》及首个五年规划 姚建华：培育专属自保及保险相连证券生态圈、扩大航运专项风险池承保能力",
+      "sourceTier": "official",
+      "themes": [
+        "captive",
+        "cross-border"
+      ],
+      "publishedAt": "2026-09-16T16:37:00+08:00",
+      "score": 90,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-policy-address-2026-response-20260916",
+      "originalUrl": "https://www.stheadline.com/zh-hans/realtime-finance/3616013/%E5%95%86%E7%95%8C%E5%9B%9E%E5%BA%94%E4%BA%94%E5%B9%B4%E8%A7%84%E5%88%92%E5%8F%8A%E6%96%BD%E6%94%BF%E6%8A%A5%E5%91%8A-%E4%BF%9D%E7%9B%91%E5%9F%B9%E8%82%B2%E4%B8%93%E5%B1%9E%E8%87%AA%E4%BF%9D%E5%8F%8A%E4%BF%9D%E9%99%A9%E7%9B%B8%E8%BF%9E%E8%AF%81%E5%88%B8%E7%94%9F%E6%80%81%E5%9C%88"
+    },
+    {
+      "id": "hk-5yearplan-risk-management-hub-20260916",
+      "title": "首个五年规划定调「国际风险管理中心」：发挥保险相连证券、专属自保、航运专项风险池叠加效应 鼓励保险资金投资港及内地基建",
+      "sourceTier": "media",
+      "themes": [
+        "captive",
+        "cat-risk"
+      ],
+      "publishedAt": "2026-09-16T11:45:00+08:00",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hk-5yearplan-risk-management-hub-20260916",
+      "originalUrl": "http://finance.stockstar.com/IG2026091600015452.shtml"
+    },
+    {
+      "id": "policy-address-2026-specialty-insurance-captive-20260916",
+      "title": "施政报告保险篇：发展专项保险覆盖黄金储存、大宗商品交易、绿色燃料加注 研修例降低设自保公司成本、扩大承保胃纳",
+      "sourceTier": "media",
+      "themes": [
+        "captive",
+        "taxation"
+      ],
+      "publishedAt": "2026-09-16T17:30:00+08:00",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=policy-address-2026-specialty-insurance-captive-20260916",
+      "originalUrl": "http://finance.sina.cn/2026-09-16/detail-inirzmyw2818655.d.html"
+    },
+    {
+      "id": "gfci40-hk-third-insurance-first-20260916",
+      "title": "第40期全球金融中心指数：香港维持全球第三（756分） 保险业与融资稳居全球第一、金融科技第一",
+      "sourceTier": "official",
+      "themes": [
+        "benchmark",
+        "market"
+      ],
+      "publishedAt": "2026-09-16T15:23:00+08:00",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=gfci40-hk-third-insurance-first-20260916",
+      "originalUrl": "https://www.news.gov.hk/chi/2026/09/20260916/20260916_152359_195.html"
+    },
+    {
+      "id": "hk-5yearplan-family-office-tax-20260916",
+      "title": "首个五年规划：优化基金、单一家族办公室及附带权益税制 驱动更多国际与内地家族资本落户香港",
+      "sourceTier": "media",
+      "themes": [
+        "family-office",
+        "taxation"
+      ],
+      "publishedAt": "2026-09-16T12:52:00+08:00",
+      "score": 82,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hk-5yearplan-family-office-tax-20260916",
+      "originalUrl": "http://m.163.com/dy/article/L6UTB4L60519QIKK.html"
+    },
+    {
+      "id": "policy-address-2026-ai-governance-deepfake-20260916",
+      "title": "施政报告AI治理：研立法规管深伪相关罪案 财库局年内就打击滥用生成式内容的金融诈骗展开公众咨询",
+      "sourceTier": "media",
+      "themes": [
+        "fraud",
+        "ai"
+      ],
+      "publishedAt": "2026-09-16T13:07:00+08:00",
+      "score": 84,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=policy-address-2026-ai-governance-deepfake-20260916",
+      "originalUrl": "https://c.m.163.com/news/a/L6UU6VHP05568W0A.html"
+    },
+    {
+      "id": "policy-address-2026-ai-talent-training-20260916",
+      "title": "施政报告：推动全民AI培训（200多项课程活动） 人才清单研纳入更多AI应用相关类别、放宽初创科企高才通续签",
+      "sourceTier": "official",
+      "themes": [
+        "ai",
+        "talent"
+      ],
+      "publishedAt": "2026-09-16T12:39:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=policy-address-2026-ai-talent-training-20260916",
+      "originalUrl": "https://finance.eastmoney.com/a/202609163875899216.html"
+    },
+    {
+      "id": "aia-welcome-5yearplan-policyaddress-20260916",
+      "title": "友邦香港欢迎《香港第一个五年规划》及《2026年施政报告》：尤欢迎聚焦国际化优势、高端人才、健康养老与大湾区医疗合作",
+      "sourceTier": "insurer",
+      "themes": [
+        "gba",
+        "health"
+      ],
+      "publishedAt": "2026-09-16T16:35:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-welcome-5yearplan-policyaddress-20260916",
+      "originalUrl": "https://hk.news.yahoo.com/%E5%8F%8B%E9%82%A6%E9%A6%99%E6%B8%AF%E6%AD%A1%E8%BF%8E%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8D%80%E6%94%BF%E5%BA%9C%E5%85%AC%E5%B8%83-%E9%A6%99%E6%B8%AF%E7%AC%AC-%E5%80%8B%E4%BA%94%E5%B9%B4%E8%A6%8F%E5%8A%83-%E5%8F%8A-2026%E5%B9%B4%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-083500092.html"
+    },
+    {
+      "id": "prudential-welcome-gba-healthcare-20260916",
+      "title": "保诚香港林智刚：欢迎施政报告加强大湾区医疗协作及深化医疗体系改革 指保险业正逐步融入香港整体发展战略",
+      "sourceTier": "insurer",
+      "themes": [
+        "gba",
+        "product"
+      ],
+      "publishedAt": "2026-09-16T15:50:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=prudential-welcome-gba-healthcare-20260916",
+      "originalUrl": "https://www.hkej.com/instantnews/hongkong/article/3904613/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A%E4%B8%A8%E4%BF%9D%E8%AA%A0%E6%AD%A1%E8%BF%8E%E5%8A%A0%E5%BC%B7%E5%A4%A7%E7%81%A3%E5%8D%80%E9%86%AB%E7%99%82%E5%8D%94%E4%BD%9C"
+    },
+    {
+      "id": "nfra-internet-insurance-negative-list-20260916",
+      "title": "内地拟以负面清单规范互联网保险：禁止免费赠险诱导投保、静默续保与设置退保障碍 业内指非车险为重点",
+      "sourceTier": "media",
+      "themes": [
+        "conduct",
+        "digital"
+      ],
+      "publishedAt": "2026-09-16T07:51:00+08:00",
+      "score": 80,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-internet-insurance-negative-list-20260916",
+      "originalUrl": "http://finance.sina.cn/2026-09-16/detail-inirykpe6621261.d.html"
+    },
+    {
+      "id": "hkma-scam-alert-hkicl-fake-website-20260916",
+      "title": "金管局发布与银行有关的诈骗提示及伪冒网站警示 银行不会以短讯或电邮内嵌链接要求交易或索取密码 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "fraud",
+        "conduct"
+      ],
+      "publishedAt": "2026-09-16",
+      "score": 80,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-scam-alert-hkicl-fake-website-20260916",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260916-3/"
+    },
+    {
+      "id": "insuranceasia-ai-in-insurance-market-154b-2034-20260916",
+      "title": "报告：保险业AI市场料由2026年134.5亿美元增至2034年1,543.9亿美元 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "insurtech"
+      ],
+      "publishedAt": "2026-09-16T06:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-ai-in-insurance-market-154b-2034-20260916",
+      "originalUrl": "https://insuranceasia.com/insurance/news/insurance-ai-market-hit-154b-2034"
+    },
+    {
+      "id": "insuranceasia-icici-prudential-ai-automation-20260916",
+      "title": "ICICI Prudential 升级伙伴平台：AI工具令最多七成投保申请实现自动化 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "digital"
+      ],
+      "publishedAt": "2026-09-16T05:30:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-icici-prudential-ai-automation-20260916",
+      "originalUrl": "https://insuranceasia.com/insurance/news/icici-prudential-automates-70-applications"
+    },
+    {
+      "id": "insuranceasia-cosco-shipping-captive-loss-20260916",
+      "title": "中远海运自保公司承保录得轻微亏损 AM Best 预期中期展望稳定 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "captive",
+        "underwriting"
+      ],
+      "publishedAt": "2026-09-16T05:45:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-cosco-shipping-captive-loss-20260916",
+      "originalUrl": "https://insuranceasia.com/insurance/news/cosco-shipping-captive-posts-marginal-underwriting-losses"
+    },
+    {
+      "id": "insuranceasia-malaysia-motor-fourth-loss-year-20260916",
+      "title": "马来西亚车险连续第四年承保亏损 AM Best 仍维持非寿险业稳定展望 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "pricing",
+        "underwriting"
+      ],
+      "publishedAt": "2026-09-16T05:00:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-malaysia-motor-fourth-loss-year-20260916",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/malaysia-motor-insurers-suffer-fourth-straight-loss-year"
+    },
+    {
+      "id": "ibm-miller-malaysia-labuan-launch-20260916",
+      "title": "Miller 于马来西亚纳闽持牌成立分公司 初期聚焦合约再保险与临时分保 计划年底前继续增聘 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "broking",
+        "captive"
+      ],
+      "publishedAt": "2026-09-16",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-miller-malaysia-labuan-launch-20260916",
+      "originalUrl": "https://insurancebusinessmag.com/asia/news/breaking-news/miller-malaysia-opens-under-labuan-licence-with-treaty-and-fac-focus-589771.aspx"
+    },
+    {
+      "id": "peak3-graphene-v4-ai-dlc-20260915",
+      "title": "Peak3 发布 Graphene v4 AI 原生保险核心系统与全球首个保险业 AI 交付生命周期（AI-DLC） [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "agentic-ai",
+        "insurtech"
+      ],
+      "publishedAt": "2026-09-15T09:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=peak3-graphene-v4-ai-dlc-20260915",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/peak3-launches-the-first-global-insurance-ai-dlc-alongside-its-ai-native-core-system-302877508.html"
+    },
+    {
+      "id": "insuranceasia-manulife-philippines-coo-20260916",
+      "title": "宏利菲律宾委任 Erica Jurilla Santos 为首席运营官 9月15日生效 [EN原文]",
+      "sourceTier": "insurer",
+      "themes": [
+        "career",
+        "firm"
+      ],
+      "publishedAt": "2026-09-16T06:15:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-manulife-philippines-coo-20260916",
+      "originalUrl": "https://insuranceasia.com/insurance/news/manulife-philippines-appoints-santos-operations-chief"
+    },
     {
       "id": "hkfi-offshore-policy-tax-rumor-reply-20260915",
       "title": "香港保险业联会回应「内地对境外保单收益征20%个税」传闻：至今未见官方政策文件，港险对相关客户仍具竞争力",
