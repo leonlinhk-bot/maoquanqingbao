@@ -1,9 +1,204 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-16T16:10:12Z",
-  "itemCount": 794,
+  "generatedAt": "2026-09-17T10:13:05Z",
+  "itemCount": 809,
   "items": [
+    {
+      "id": "hkma-base-rate-425-fed-hike-20260917",
+      "title": "金管局上调基本利率25基点至4.25%：美联储三年来首次加息，港银仍维持最优惠利率不变 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "interest-rate",
+        "premium-financing"
+      ],
+      "publishedAt": "2026-09-17",
+      "score": 90,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-base-rate-425-fed-hike-20260917",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260917-3/"
+    },
+    {
+      "id": "hsbc-fed-hike-dec-again-rates-higher-longer-20260917",
+      "title": "汇丰：预期美联储12月再加息25基点，2027年联邦基金利率维持4.00%—4.25% [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "interest-rate",
+        "macro-outlook"
+      ],
+      "publishedAt": "2026-09-17",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hsbc-fed-hike-dec-again-rates-higher-longer-20260917",
+      "originalUrl": "https://www.hsbc.com.hk/zh-cn/wealth/insights/pn/article/"
+    },
+    {
+      "id": "iaasia-sunlife-hk-pretreatment-healthcare-20260917",
+      "title": "永明把香港医疗支援前移至「治疗前」：联合3家香港医疗集团覆盖咨询—治疗—康复 [EN原文]",
+      "sourceTier": "insurer",
+      "themes": [
+        "medical",
+        "health-services"
+      ],
+      "publishedAt": "2026-09-17T05:15:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-sunlife-hk-pretreatment-healthcare-20260917",
+      "originalUrl": "https://insuranceasia.com/news/sun-life-shifts-healthcare-support-treatment"
+    },
+    {
+      "id": "iaasia-axa-2029-earnings-growth-target-20260917",
+      "title": "安盛定调2029年前财务目标：基本盈利年增7%—9%、股本回报率15%—17% [EN原文]",
+      "sourceTier": "insurer",
+      "themes": [
+        "insurer-strategy",
+        "capital"
+      ],
+      "publishedAt": "2026-09-17T05:45:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-axa-2029-earnings-growth-target-20260917",
+      "originalUrl": "https://insuranceasia.com/insurance/news/axa-targets-7-9-earnings-growth-through-2029"
+    },
+    {
+      "id": "iaasia-prudential-india-stake-cut-buyback-20260917",
+      "title": "保诚须把印度合资寿险持股由22%降至10%，同时加快股份回购 [EN原文]",
+      "sourceTier": "insurer",
+      "themes": [
+        "insurer-strategy",
+        "capital"
+      ],
+      "publishedAt": "2026-09-17T05:30:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-prudential-india-stake-cut-buyback-20260917",
+      "originalUrl": "https://insuranceasia.com/insurance/news/prudential-faces-india-stake-cuts-buybacks-climb"
+    },
+    {
+      "id": "iaasia-protec-ai-native-insurance-core-20260917",
+      "title": "新获授权一般保险商Protec以单一模块化平台同承保零售与商业产品，主打开源AI原生核心 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "insurtech",
+        "core-system"
+      ],
+      "publishedAt": "2026-09-17T06:30:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-protec-ai-native-insurance-core-20260917",
+      "originalUrl": "https://insuranceasia.com/insurance/news/newly-licensed-protec-general-insurance-builds-ai-native-insurance-core"
+    },
+    {
+      "id": "iaasia-apac-parametric-market-148-growth-20260917",
+      "title": "亚太参数化保险市场料年增14.8%，指数型产品已占全球市场约35% [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "parametric",
+        "cat-risk"
+      ],
+      "publishedAt": "2026-09-17T06:15:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-apac-parametric-market-148-growth-20260917",
+      "originalUrl": "https://insuranceasia.com/insurance/news/asia-pacific-parametric-market-eyes-148-annual-growth"
+    },
+    {
+      "id": "iaasia-ms-amlin-natural-resources-expansion-20260917",
+      "title": "MS Amlin扩展自然资源与建筑险承保能力，覆盖项目开发至运营全周期 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "commercial-risk",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-09-17T06:00:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-ms-amlin-natural-resources-expansion-20260917",
+      "originalUrl": "https://insuranceasia.com/insurance/news/ms-amlin-expands-natural-resources-construction"
+    },
+    {
+      "id": "ibm-cyber-rates-softer-harder-underwriting-20260917",
+      "title": "网络保险费率回落但核保问询更严：定价重心转向客户风险控制能力 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "cyber-risk",
+        "underwriting"
+      ],
+      "publishedAt": "2026-09-17T06:32:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-cyber-rates-softer-harder-underwriting-20260917",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/cyber-rates-are-falling-but-insurers-are-asking-harder-questions-590039.aspx"
+    },
+    {
+      "id": "toutiao-shandong-yuandong-loss-adjuster-penalty-20260917",
+      "title": "山东远东保险公估被罚：未建规范公估档案、未开立独立资金专用账户，机构与责任人各罚2万元",
+      "sourceTier": "media",
+      "themes": [
+        "enforcement",
+        "intermediary-compliance"
+      ],
+      "publishedAt": "2026-09-17",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=toutiao-shandong-yuandong-loss-adjuster-penalty-20260917",
+      "originalUrl": "http://m.toutiao.com/group/7686428316361867782/"
+    },
+    {
+      "id": "prudential-2026-first-interim-dividend-0888-20260917",
+      "title": "保诚派发2026年第一次中期股息每股8.88美分，10月2日前可改选港元／美元或以股代息",
+      "sourceTier": "insurer",
+      "themes": [
+        "dividend",
+        "insurer-financials"
+      ],
+      "publishedAt": "2026-09-17T17:59:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=prudential-2026-first-interim-dividend-0888-20260917",
+      "originalUrl": "https://stock.10jqka.com.cn/hks/20260917/c680021848.shtml"
+    },
+    {
+      "id": "pwc-policyaddress-etf-connect-insurance-capital-20260917",
+      "title": "罗兵咸永道评五年规划与施政报告：ETF通助内地保险资金投资香港上市ETF，家办与基金税制优化增吸引力",
+      "sourceTier": "pro",
+      "themes": [
+        "family-office",
+        "taxation"
+      ],
+      "publishedAt": "2026-09-17T16:49:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=pwc-policyaddress-etf-connect-insurance-capital-20260917",
+      "originalUrl": "http://m.toutiao.com/group/7686423512127259170/"
+    },
+    {
+      "id": "chinanews-fiveyearplan-crossborder-elderly-care-20260917",
+      "title": "五年规划与施政报告的长者篇章受关注：银发产业、长者照顾服务容量与跨境养老安排",
+      "sourceTier": "media",
+      "themes": [
+        "elderly-care",
+        "cross-border"
+      ],
+      "publishedAt": "2026-09-17T17:24:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=chinanews-fiveyearplan-crossborder-elderly-care-20260917",
+      "originalUrl": "http://m.toutiao.com/group/7686432682502341155/"
+    },
+    {
+      "id": "covee-insurtech-boutique-broker-ai-platform-20260916",
+      "title": "CXA创办人再创业Covee：AI平台把团体保险续保审阅由30小时压至数分钟，获75万美元pre-seed [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "insurtech",
+        "broker-workflow"
+      ],
+      "publishedAt": "2026-09-16T14:33:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=covee-insurtech-boutique-broker-ai-platform-20260916",
+      "originalUrl": "https://www.techinasia.com/cxa-founder-insurtech-platform-covee"
+    },
+    {
+      "id": "mdrt-china-day-shanghai-20260917",
+      "title": "2026百万圆桌中国日在上海举行，近500名金融服务业人士参与，主题「以全人之名，筑保障之基」",
+      "sourceTier": "media",
+      "themes": [
+        "professional-standards",
+        "talent"
+      ],
+      "publishedAt": "2026-09-17T16:54:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=mdrt-china-day-shanghai-20260917",
+      "originalUrl": "http://m.toutiao.com/group/7686424815191802403/"
+    },
     {
       "id": "scmp-hk-primary-care-premature-death-69-20260916",
       "title": "施政报告医疗篇：香港目标2030年把主要慢性病早逝风险降至6.9% 并建首间综合日间医疗医院 [EN原文]",
