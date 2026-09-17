@@ -1,9 +1,74 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-17T10:13:05Z",
-  "itemCount": 809,
+  "generatedAt": "2026-09-17T13:14:00Z",
+  "itemCount": 814,
   "items": [
+    {
+      "id": "ia-industry-fiveyearplan-responses-20260917",
+      "title": "保监局回应五年规划与施政报告：培育自保及保险相连证券生态圈、发展贵金属等大宗商品专项保险、扩大航运专项风险池承保能力；保诚友邦同步表态",
+      "sourceTier": "official",
+      "themes": [
+        "five-year-plan",
+        "captive"
+      ],
+      "publishedAt": "2026-09-17T16:40:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-industry-fiveyearplan-responses-20260917",
+      "originalUrl": "https://www.hk01.com/article/60390580"
+    },
+    {
+      "id": "fwd-lau-fiveyearplan-support-risk-hub-20260917",
+      "title": "富卫柳志坚回应五年规划与施政报告：全力支持香港发展亚洲领先风险管理中心，以跨境医疗方案打造「健康湾区」",
+      "sourceTier": "insurer",
+      "themes": [
+        "five-year-plan",
+        "cross-border"
+      ],
+      "publishedAt": "2026-09-17T15:47:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fwd-lau-fiveyearplan-support-risk-hub-20260917",
+      "originalUrl": "https://hk.on.cc/hk/bkn/cnt/finance/20260917/bkn-20260917154728934-0917_00842_001.html"
+    },
+    {
+      "id": "fwd-care-upgrade-hksh-sashcc-20260917",
+      "title": "富卫 FWD Care 支援服务全面升级：联同养和医疗集团与灵实司务道宁养院，新增免费阿兹海默症早期筛查、扩展市场首创免费癌症第二医疗意见及宁养服务转介",
+      "sourceTier": "media",
+      "themes": [
+        "critical-illness",
+        "health-services"
+      ],
+      "publishedAt": "2026-09-17T18:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fwd-care-upgrade-hksh-sashcc-20260917",
+      "originalUrl": "https://www.hkej.com/instantnews/hongkong/article/4516219/"
+    },
+    {
+      "id": "mpfa-suspends-intermediary-28m-20260917",
+      "title": "积金局暂时撤销永明金融强积金附属中介人区智仁注册28个月：未获授权使用旧客户个人资料转移账户",
+      "sourceTier": "media",
+      "themes": [
+        "enforcement",
+        "data-privacy"
+      ],
+      "publishedAt": "2026-09-17T17:13:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=mpfa-suspends-intermediary-28m-20260917",
+      "originalUrl": "https://www.am730.com.hk/%E8%B2%A1%E7%B6%93/1053732/"
+    },
+    {
+      "id": "ibm-life-insurers-retention-advisor-20260917",
+      "title": "《World Life Insurance Report 2027》：客户流失主因不是产品，而是成交后无人再沟通；67%消费者仍要真人顾问",
+      "sourceTier": "pro",
+      "themes": [
+        "customer-retention",
+        "distribution"
+      ],
+      "publishedAt": "2026-09-17T20:28:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-life-insurers-retention-advisor-20260917",
+      "originalUrl": "https://insurancebusinessmag.com/us/news/life-insurance/why-life-insurers-are-losing-clients-they-already-won-590123.aspx"
+    },
     {
       "id": "hkma-base-rate-425-fed-hike-20260917",
       "title": "金管局上调基本利率25基点至4.25%：美联储三年来首次加息，港银仍维持最优惠利率不变 [EN原文]",
