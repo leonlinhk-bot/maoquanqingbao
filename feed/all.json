@@ -1,9 +1,139 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-17T13:14:00Z",
-  "itemCount": 814,
+  "generatedAt": "2026-09-18T02:41:31Z",
+  "itemCount": 824,
   "items": [
+    {
+      "id": "iaasia-apac-reinsurance-fitch-pricing-20260918",
+      "title": "惠誉：亚太再保险2026年定价风险上升、承保利润受压，次级灾害与新型资本制度成关键变量",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "pricing"
+      ],
+      "publishedAt": "2026-09-18",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-apac-reinsurance-fitch-pricing-20260918",
+      "originalUrl": "https://insuranceasia.com/insurance/news/apac-reinsurance-faces-pricing-and-margin-pressure-in-2026"
+    },
+    {
+      "id": "iaasia-hsbc-insurance-sale-portfolio-20260918",
+      "title": "汇丰21亿美元出售新加坡寿险被评「组合简化」而非亚洲银行撤离保险：资本要求上升下「制造＋分销」模式遇考验",
+      "sourceTier": "pro",
+      "themes": [
+        "bancassurance",
+        "m-and-a"
+      ],
+      "publishedAt": "2026-09-18",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-hsbc-insurance-sale-portfolio-20260918",
+      "originalUrl": "https://insuranceasia.com/insurance/exclusive/hsbc-insurance-sale-seen-portfolio-move-not-regional-shift"
+    },
+    {
+      "id": "ibm-hk-fiveyearplan-broker-compliance-20260918",
+      "title": "从经纪角度看《五年规划》：自保与ILS、贵金属专项保险、航运风险池四项承诺均无时间表，AI指引未落地成最大合规空白",
+      "sourceTier": "pro",
+      "themes": [
+        "five-year-plan",
+        "ai-governance"
+      ],
+      "publishedAt": "2026-09-18",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-hk-fiveyearplan-broker-compliance-20260918",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/hong-kong-plan-puts-new-insurance-markets-on-brokers-radar-590158.aspx"
+    },
+    {
+      "id": "ibm-5star-innovators-apac-2026-20260918",
+      "title": "《5-Star Insurance Innovators 2026》选出亚太25家保险创新企业：评选门槛从概念转向已落地并可衡量的结果",
+      "sourceTier": "pro",
+      "themes": [
+        "insurtech",
+        "innovation"
+      ],
+      "publishedAt": "2026-09-18",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-5star-innovators-apac-2026-20260918",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/insurance-business-reveals-25-insurance-innovation-winners-across-asiapacific-590202.aspx"
+    },
+    {
+      "id": "ibm-surety-vs-bank-guarantee-20260918",
+      "title": "保证保险替代银行担保的商业逻辑：工程企业10%—15%营业额被担保占用，分流正在发生但受标书条款限制",
+      "sourceTier": "pro",
+      "themes": [
+        "surety",
+        "construction"
+      ],
+      "publishedAt": "2026-09-18",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-surety-vs-bank-guarantee-20260918",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/construction/what-brokers-weigh-when-surety-replaces-a-bank-guarantee-590071.aspx"
+    },
+    {
+      "id": "ibm-india-life-digital-first-irdai-20260918",
+      "title": "印度寿险全面转向数字优先分销：ICICI保诚99%申请数字化、54%储蓄保单当日出单；IRDAI明年起强制销售可追溯",
+      "sourceTier": "pro",
+      "themes": [
+        "distribution",
+        "ai-governance"
+      ],
+      "publishedAt": "2026-09-18",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-india-life-digital-first-irdai-20260918",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/indias-life-insurers-converge-on-digitalfirst-distribution-590139.aspx"
+    },
+    {
+      "id": "ibm-china-motor-pingan-road-safety-20260918",
+      "title": "平安「红绿灯」道路安全项目：1620个高风险路口春节车险理赔同比降50.4%、五一降32.1%，风险干预进入核保定价",
+      "sourceTier": "pro",
+      "themes": [
+        "motor",
+        "risk-prevention"
+      ],
+      "publishedAt": "2026-09-18",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-china-motor-pingan-road-safety-20260918",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/auto-motor/china-motor-insurance-shifts-attention-from-predicting-risk-to-preventing-it-590133.aspx"
+    },
+    {
+      "id": "ibm-cfc-ai-cyber-fi-blended-20260918",
+      "title": "CFC把AI相关风险写入金融机构一揽子保单：以「明示承保」替代「沉默AI」，与Beazley同期动作显示行业口径转向",
+      "sourceTier": "pro",
+      "themes": [
+        "cyber",
+        "ai-governance"
+      ],
+      "publishedAt": "2026-09-18",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-cfc-ai-cyber-fi-blended-20260918",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/cfc-folds-cyber-ai-wording-into-financial-institutions-suite-590130.aspx"
+    },
+    {
+      "id": "ian-willis-natcat-fac-demand-asia-20260917",
+      "title": "韦莱韬悦：自然灾害风险推高亚洲临时分保需求，同时承保能力充裕、部分安排费率年降最多30%",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "catastrophe"
+      ],
+      "publishedAt": "2026-09-17",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-willis-natcat-fac-demand-asia-20260917",
+      "originalUrl": "https://insuranceasianews.com/nat-cat-risk-driving-fac-demand-across-asia-willis/"
+    },
+    {
+      "id": "ian-kumamoto-quake-payouts-20260917",
+      "title": "日本熊本地震住宅地震保险赔付达238亿日元（1.522亿美元），理赔逾11万件、熊本县占九成以上",
+      "sourceTier": "pro",
+      "themes": [
+        "catastrophe",
+        "claims"
+      ],
+      "publishedAt": "2026-09-17",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-kumamoto-quake-payouts-20260917",
+      "originalUrl": "https://insuranceasianews.com/kumamoto-earthquake-payouts-top-us152m-as-claims-exceed-110000-giaj/"
+    },
     {
       "id": "ia-industry-fiveyearplan-responses-20260917",
       "title": "保监局回应五年规划与施政报告：培育自保及保险相连证券生态圈、发展贵金属等大宗商品专项保险、扩大航运专项风险池承保能力；保诚友邦同步表态",
