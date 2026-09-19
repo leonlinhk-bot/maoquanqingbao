@@ -445,7 +445,7 @@
     {
       "id": "nfra-agri-insurance-plan-20260917",
       "clusterCount": 1,
-      "score": 85,
+      "score": 86,
       "verifyStatus": "verified",
       "sourceTier": "official",
       "sourceKey": "nfra",
@@ -526,7 +526,7 @@
     {
       "id": "iaasia-hk-ia-risk-management-hub-5yp-20260919",
       "clusterCount": 1,
-      "score": 75,
+      "score": 88,
       "verifyStatus": "verified",
       "sourceTier": "media",
       "sourceKey": "insuranceasia",
@@ -612,7 +612,7 @@
     {
       "id": "scmp-mpf-offshore-trust-tax-flag-20260918",
       "clusterCount": 1,
-      "score": 65,
+      "score": 87,
       "verifyStatus": "verified",
       "sourceTier": "media",
       "sourceKey": "scmp",
@@ -696,7 +696,7 @@
     {
       "id": "edigest-commission-cap-timetable-20260919",
       "clusterCount": 1,
-      "score": 60,
+      "score": 86,
       "verifyStatus": "verified",
       "sourceTier": "media",
       "sourceKey": "edigest",
@@ -1018,7 +1018,7 @@
     {
       "id": "ian-ccb-vesttoo-bribery-sentence-20260918",
       "clusterCount": 1,
-      "score": 72,
+      "score": 86,
       "verifyStatus": "verified",
       "sourceTier": "pro",
       "sourceKey": "insuranceasianews",
@@ -1100,7 +1100,7 @@
     {
       "id": "ian-full-capacity-eaic-weekly-20260919",
       "clusterCount": 1,
-      "score": 62,
+      "score": 72,
       "verifyStatus": "verified",
       "sourceTier": "pro",
       "sourceKey": "insuranceasianews",
