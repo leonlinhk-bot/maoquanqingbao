@@ -1,9 +1,165 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-18T02:41:31Z",
-  "itemCount": 824,
+  "generatedAt": "2026-09-19T15:42:37Z",
+  "itemCount": 836,
   "items": [
+    {
+      "id": "hkma-payment-cards-q2-2026-stats-20260918",
+      "title": "金管局：2026年第二季信用卡流通量3,103萬張（同比增36.1%），交易額2,865億港元",
+      "sourceTier": "official",
+      "themes": [
+        "payment",
+        "consumer"
+      ],
+      "publishedAt": "2026-09-18",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-payment-cards-q2-2026-stats-20260918",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260918-3/"
+    },
+    {
+      "id": "hkma-svf-q2-2026-stats-20260918",
+      "title": "金管局：2026年第二季儲值支付工具賬戶9,038萬個，交易額2,647億港元（同比減7.4%）",
+      "sourceTier": "official",
+      "themes": [
+        "payment",
+        "fintech"
+      ],
+      "publishedAt": "2026-09-18",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-svf-q2-2026-stats-20260918",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260918-4/"
+    },
+    {
+      "id": "nfra-agri-insurance-plan-20260917",
+      "title": "四部門印發《關於加快農業保險高質量發展的實施方案》：2030年基本建成多層次農業保險體系，並研究建立大災風險基金",
+      "sourceTier": "official",
+      "themes": [
+        "policy",
+        "catastrophe"
+      ],
+      "publishedAt": "2026-09-17",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-agri-insurance-plan-20260917",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1272327&itemId=928"
+    },
+    {
+      "id": "iaasia-hk-ia-risk-management-hub-5yp-20260919",
+      "title": "保監局主席姚建華：《五年規劃》下擴展風險管理樞紐，培育自保與ILS生態、開發貴金屬等大宗商品專項保險、擴大海運專項風險池承保能力",
+      "sourceTier": "media",
+      "themes": [
+        "policy",
+        "ils"
+      ],
+      "publishedAt": "2026-09-19",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-hk-ia-risk-management-hub-5yp-20260919",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-ia-expand-risk-management-hub-under-five-year-plan"
+    },
+    {
+      "id": "scmp-mpf-offshore-trust-tax-flag-20260918",
+      "title": "內地稅務核查將部分香港強積金（MPF）賬戶誤列為「離岸信託」，前港工作內地居民被要求解釋",
+      "sourceTier": "media",
+      "themes": [
+        "taxation",
+        "cross-border"
+      ],
+      "publishedAt": "2026-09-18T19:00:00+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-mpf-offshore-trust-tax-flag-20260918",
+      "originalUrl": "https://www.scmp.com/economy/china-economy/article/3368032/mainland-tax-drive-flags-hong-kong-mpf-accounts-offshore-trusts"
+    },
+    {
+      "id": "edigest-commission-cap-timetable-20260919",
+      "title": "分紅保單首年佣金不超過總佣金70%、經紀轉介費上限50%、銀行2027/2028年分兩階段收緊——中介酬勞結構規定時間表",
+      "sourceTier": "media",
+      "themes": [
+        "commission",
+        "compliance"
+      ],
+      "publishedAt": "2026-09-19",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=edigest-commission-cap-timetable-20260919",
+      "originalUrl": "https://www.edigest.hk/%E7%90%86%E8%B2%A1/%E4%BF%9D%E9%9A%AA%E7%B6%93%E7%B4%80%E4%BD%A3%E9%87%91-2041095/"
+    },
+    {
+      "id": "iaasia-taiwan-fx-policy-sales-43pct-20260918",
+      "title": "台灣壽險外幣保單新契約保費上半年達90.1億美元（同比增43%），投資型產品銷售翻倍至18億美元",
+      "sourceTier": "media",
+      "themes": [
+        "forex",
+        "market"
+      ],
+      "publishedAt": "2026-09-18",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-taiwan-fx-policy-sales-43pct-20260918",
+      "originalUrl": "https://insuranceasia.com/insurance/news/taiwan-life-insurers-fx-policy-sales-jump-43-9b"
+    },
+    {
+      "id": "iaasia-week-in-insurance-20260919",
+      "title": "本週保險摘要（9月14–18日）：氣候保險覆蓋率低、參數保險市場擴容、多家機構高管任命",
+      "sourceTier": "media",
+      "themes": [
+        "market",
+        "talent"
+      ],
+      "publishedAt": "2026-09-19",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-week-in-insurance-20260919",
+      "originalUrl": "https://insuranceasia.com/insurance/news/week-in-insurance-climate-cover-uptake-low-parametric-market-expands-insurers-name-new-leaders"
+    },
+    {
+      "id": "iaasia-absli-equity-pension-plan-20260919",
+      "title": "印度Aditya Birla Sun Life推出掛鈎股票基金退休金計劃，屆滿可免稅提取60%",
+      "sourceTier": "media",
+      "themes": [
+        "retirement",
+        "taxation"
+      ],
+      "publishedAt": "2026-09-19",
+      "score": 58,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-absli-equity-pension-plan-20260919",
+      "originalUrl": "https://insuranceasia.com/news/absli-launches-pension-plan-equity-linked-retirement-fund"
+    },
+    {
+      "id": "ian-ccb-vesttoo-bribery-sentence-20260918",
+      "title": "香港法院判前建行（亞洲）客戶經理監禁四年：收受Vesttoo員工賄款47萬美元，認證偽造信用證與抵押文件涉逾16億美元",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "enforcement"
+      ],
+      "publishedAt": "2026-09-18",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-ccb-vesttoo-bribery-sentence-20260918",
+      "originalUrl": "https://insuranceasianews.com/former-ccb-manager-sentenced-to-four-years-in-jail-for-us470000-vesttoo-bribery/"
+    },
+    {
+      "id": "ian-full-capacity-eaic-weekly-20260919",
+      "title": "InsuranceAsia News周報：香港推保險相關舉措（ILS、大宗商品方案、海運保險）並研究引入受保護細胞公司（PCC）架構",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "policy"
+      ],
+      "publishedAt": "2026-09-19",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-full-capacity-eaic-weekly-20260919",
+      "originalUrl": "https://insuranceasianews.com/eaic-reads-the-room-on-rates-risk-and-resilience/"
+    },
+    {
+      "id": "iaasia-am-best-samsung-fire-capital-20260918",
+      "title": "AM Best：三星火災資本維持最強水平，Canopius持股升至19%後貢獻料增加",
+      "sourceTier": "media",
+      "themes": [
+        "capital",
+        "m-and-a"
+      ],
+      "publishedAt": "2026-09-18",
+      "score": 58,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-am-best-samsung-fire-capital-20260918",
+      "originalUrl": "https://insuranceasia.com/insurance/news/am-best-sees-samsung-fire-capital-staying-strongest"
+    },
     {
       "id": "iaasia-apac-reinsurance-fitch-pricing-20260918",
       "title": "惠誉：亚太再保险2026年定价风险上升、承保利润受压，次级灾害与新型资本制度成关键变量",
