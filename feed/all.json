@@ -1,9 +1,61 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-19T15:43:45Z",
-  "itemCount": 836,
+  "generatedAt": "2026-09-19T16:48:57Z",
+  "itemCount": 840,
   "items": [
+    {
+      "id": "ibm-berkshire-buffett-succession-howard-chairman-20260918",
+      "title": "巴菲特转任名誉董事长、其子Howard当选董事长：伯克希尔完成接班布局，保险浮存金约1,775亿美元",
+      "sourceTier": "pro",
+      "themes": [
+        "leadership",
+        "capital"
+      ],
+      "publishedAt": "2026-09-18",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-berkshire-buffett-succession-howard-chairman-20260918",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/berkshire-completes-buffett-succession-with-howard-named-chairman-590320.aspx"
+    },
+    {
+      "id": "ibm-aig-hancock-retire-general-insurance-ceo-20260918",
+      "title": "AIG通用保险CEO Jon Hancock年底退休转任高级顾问，继任人未公布：商业险承保条线再面临交接",
+      "sourceTier": "pro",
+      "themes": [
+        "leadership",
+        "channel"
+      ],
+      "publishedAt": "2026-09-18",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-aig-hancock-retire-general-insurance-ceo-20260918",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/jon-hancock-to-retire-as-aig-general-insurance-ceo-590313.aspx"
+    },
+    {
+      "id": "ibm-dive-in-final-festival-ai-talent-challenge-20260918",
+      "title": "Dive In办完最后一届：Aon与WTW指AI正在重塑保险业招聘与留才，行业对年轻人仍缺可见度",
+      "sourceTier": "pro",
+      "themes": [
+        "talent",
+        "ai"
+      ],
+      "publishedAt": "2026-09-18",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-dive-in-final-festival-ai-talent-challenge-20260918",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/diversity-inclusion/as-dive-in-bows-out-ai-reshapes-insurances-talent-challenge-590324.aspx"
+    },
+    {
+      "id": "ibm-skorea-ai-insurance-fraud-forum-legislation-20260918",
+      "title": "韩国国会启动「预防保险犯罪论坛」推动新立法：2025年保险欺诈赔付1.16万亿韩元，FSC估总暴露近9万亿",
+      "sourceTier": "pro",
+      "themes": [
+        "fraud",
+        "ai"
+      ],
+      "publishedAt": "2026-09-18",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-skorea-ai-insurance-fraud-forum-legislation-20260918",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/south-korea-targets-ai-insurance-fraud-as-detection-systems-come-under-strain-590289.aspx"
+    },
     {
       "id": "hkma-payment-cards-q2-2026-stats-20260918",
       "title": "金管局：2026年第二季信用卡流通量3,103萬張（同比增36.1%），交易額2,865億港元",

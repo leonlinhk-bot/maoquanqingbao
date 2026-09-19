@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-19T23:42:31+08:00",
-    "itemCount": 836,
+    "generatedAt": "2026-09-20T00:48:50+08:00",
+    "itemCount": 840,
     "windowNote": {
-      "sc": "本库836条。",
-      "tc": "本庫836條。"
+      "sc": "本库840条。",
+      "tc": "本庫840條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -147,7 +147,7 @@
       ],
       "registryFile": "data/sources.yaml"
     },
-    "asOf": "2026-09-19",
+    "asOf": "2026-09-20",
     "roles": [
       {
         "id": "front",
@@ -278,6 +278,342 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "ibm-berkshire-buffett-succession-howard-chairman-20260918",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "insurancebusinessmag",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "title": {
+        "sc": "巴菲特转任名誉董事长、其子Howard当选董事长：伯克希尔完成接班布局，保险浮存金约1,775亿美元",
+        "tc": "巴菲特轉任名譽董事長、其子Howard當選董事長：伯克希爾完成接班佈局，保險浮存金約1,775億美元"
+      },
+      "summary": {
+        "sc": "伯克希尔·哈撒韦宣布，巴菲特转任名誉董事长并留任董事，其子Howard G. Buffett（1993年起任董事）当选董事长；Greg Abel自2026年1月1日起任总裁兼CEO。Ajit Jain继续担任保险业务副董事长，统管GEICO、伯克希尔再保险集团及Primary Group；截至6月30日保险浮存金约1,775亿美元（较2025年底增11亿），上半年保险承保录税前利润、浮存金成本为负。Gen Re董事长Charlie Shamieh已定为Jain的继任人。",
+        "tc": "伯克希爾·哈撒韋宣佈，巴菲特轉任名譽董事長並留任董事，其子Howard G. Buffett（1993年起任董事）當選董事長；Greg Abel自2026年1月1日起任總裁兼CEO。Ajit Jain繼續擔任保險業務副董事長，統管GEICO、伯克希爾再保險集團及Primary Group；截至6月30日保險浮存金約1,775億美元（較2025年底增11億），上半年保險承保錄税前利潤、浮存金成本為負。Gen Re董事長Charlie Shamieh已定為Jain的繼任人。"
+      },
+      "why": {
+        "sc": "全球再保险市场最重要的对手方之一完成治理交接：浮存金规模与承保盈利决定其资本配置取向，也牵动再保容量与定价议价。对香港市场的意义在对手方稳定性与专业险容量的长期预期，而非单一年度业绩。巴菲特致股东信以「保单」比喻治理安排，值得作为公司治理叙事参考。",
+        "tc": "全球再保險市場最重要的對手方之一完成治理交接：浮存金規模與承保盈利決定其資本配置取向，也牽動再保容量與定價議價。對香港市場的意義在對手方穩定性與專業險容量的長期預期，而非單一年度業績。巴菲特致股東信以「保單」比喻治理安排，值得作為公司治理敍事參考。"
+      },
+      "actions": {
+        "front": {
+          "sc": "与客户谈长期分红与偿付能力时，可引用全球再保对手方治理连续性作为「制度而非个人」的例子",
+          "tc": "與客户談長期分紅與償付能力時，可引用全球再保對手方治理連續性作為「制度而非個人」的例子"
+        },
+        "midback": {
+          "sc": "把再保/供应商对手方的治理连续性加入年度尽调清单，而非只看评级",
+          "tc": "把再保/供應商對手方的治理連續性加入年度盡調清單，而非只看評級"
+        },
+        "lead": {
+          "sc": "关注Abel时代的资本配置取向（回购、并购、承保纪律）对亚太再保供给的影响",
+          "tc": "關注Abel時代的資本配置取向（回購、併購、承保紀律）對亞太再保供給的影響"
+        },
+        "cross": {
+          "sc": "把全球再保容量变化与香港自保中心、ILS 生态建设放进同一张观察表",
+          "tc": "把全球再保容量變化與香港自保中心、ILS 生態建設放進同一張觀察表"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Business Asia（2026-09-18）[EN原文]",
+        "tc": "Insurance Business Asia（2026-09-18）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer",
+        "market"
+      ],
+      "themes": [
+        "leadership",
+        "capital"
+      ],
+      "tags": {
+        "sc": [
+          "伯克希尔",
+          "巴菲特",
+          "Ajit Jain",
+          "保险浮存金",
+          "公司治理",
+          "再保险"
+        ],
+        "tc": [
+          "伯克希爾",
+          "巴菲特",
+          "Ajit Jain",
+          "保險浮存金",
+          "公司治理",
+          "再保險"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-18",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/berkshire-completes-buffett-succession-with-howard-named-chairman-590320.aspx",
+      "ingestedAt": "2026-09-20T00:48:50+08:00"
+    },
+    {
+      "id": "ibm-aig-hancock-retire-general-insurance-ceo-20260918",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "insurancebusinessmag",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "title": {
+        "sc": "AIG通用保险CEO Jon Hancock年底退休转任高级顾问，继任人未公布：商业险承保条线再面临交接",
+        "tc": "AIG通用保險CEO Jon Hancock年底退休轉任高級顧問，繼任人未公佈：商業險承保條線再面臨交接"
+      },
+      "summary": {
+        "sc": "AIG宣布通用保险（General Insurance）CEO Jon Hancock将于2026年底退休，12月31日起转任高级顾问，直接向总裁兼CEO Eric Andersen汇报，继任人未公布。该部门涵盖北美商业险、国际商业险、全球个人险、理赔及首席承保办公室。Hancock于2025年上任，此前原定人选、前劳合社CEO John Neal决定不加入AIG。Andersen于2026年6月1日接替Peter Zaffino出任CEO，公司高层持续调整。",
+        "tc": "AIG宣佈通用保險（General Insurance）CEO Jon Hancock將於2026年底退休，12月31日起轉任高級顧問，直接向總裁兼CEO Eric Andersen匯報，繼任人未公佈。該部門涵蓋北美商業險、國際商業險、全球個人險、理賠及首席承保辦公室。Hancock於2025年上任，此前原定人選、前勞合社CEO John Neal決定不加入AIG。Andersen於2026年6月1日接替Peter Zaffino出任CEO，公司高層持續調整。"
+      },
+      "why": {
+        "sc": "商业险条线负责人更替会牵动亚太及香港经纪市场的核保口径、承保授权与资源投放。对中介而言，观察点不是人事本身，而是继任安排后承保权限与本地决策链是否改变——这直接决定报价效率与例外处理空间。",
+        "tc": "商業險條線負責人更替會牽動亞太及香港經紀市場的核保口徑、承保授權與資源投放。對中介而言，觀察點不是人事本身，而是繼任安排後承保權限與本地決策鏈是否改變——這直接決定報價效率與例外處理空間。"
+      },
+      "actions": {
+        "front": {
+          "sc": "对商业险客户，如实说明对手方人事变动属正常轮替，避免以「政策会变」制造不必要的紧迫感",
+          "tc": "對商業險客户，如實説明對手方人事變動屬正常輪替，避免以「政策會變」製造不必要的緊迫感"
+        },
+        "midback": {
+          "sc": "在商业险续保时间表上预留因承保口径调整带来的报价延迟",
+          "tc": "在商業險續保時間表上預留因承保口徑調整帶來的報價延遲"
+        },
+        "lead": {
+          "sc": "盘点依赖单一保司承保能力的业务线，评估分散安排的必要性",
+          "tc": "盤點依賴單一保司承保能力的業務線，評估分散安排的必要性"
+        },
+        "cross": {
+          "sc": "留意国际商业险条线调整对跨境客户保单结构与再保安排的影响",
+          "tc": "留意國際商業險條線調整對跨境客户保單結構與再保安排的影響"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Business Asia（2026-09-18）[EN原文]",
+        "tc": "Insurance Business Asia（2026-09-18）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer",
+        "market"
+      ],
+      "themes": [
+        "leadership",
+        "channel"
+      ],
+      "tags": {
+        "sc": [
+          "AIG",
+          "商业险",
+          "高管变动",
+          "核保",
+          "经纪渠道"
+        ],
+        "tc": [
+          "AIG",
+          "商業險",
+          "高管變動",
+          "核保",
+          "經紀渠道"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-18",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/jon-hancock-to-retire-as-aig-general-insurance-ceo-590313.aspx",
+      "ingestedAt": "2026-09-20T00:48:50+08:00"
+    },
+    {
+      "id": "ibm-dive-in-final-festival-ai-talent-challenge-20260918",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "insurancebusinessmag",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "title": {
+        "sc": "Dive In办完最后一届：Aon与WTW指AI正在重塑保险业招聘与留才，行业对年轻人仍缺可见度",
+        "tc": "Dive In辦完最後一屆：Aon與WTW指AI正在重塑保險業招聘與留才，行業對年輕人仍缺可見度"
+      },
+      "summary": {
+        "sc": "运行12年的多元与包容活动Dive In完成最后一届。Aon包容事务负责人Katherine Conway与WTW全球包容与多元负责人Jen Denby表示，议题已从性别与「商业理由」扩展到心理健康、生育、更年期、家暴、残障与神经多样性；同时AI正改变招聘、培养与留才方式，带来筛选偏误与技能重估等新问题。两人指保险业对年轻求职者可见度仍低，多数人「误打误撞入行」，毕业生与学徒计划扩张未能根本改变认知。",
+        "tc": "運行12年的多元與包容活動Dive In完成最後一屆。Aon包容事務負責人Katherine Conway與WTW全球包容與多元負責人Jen Denby表示，議題已從性別與「商業理由」擴展到心理健康、生育、更年期、家暴、殘障與神經多樣性；同時AI正改變招聘、培養與留才方式，帶來篩選偏誤與技能重估等新問題。兩人指保險業對年輕求職者可見度仍低，多數人「誤打誤撞入行」，畢業生與學徒計劃擴張未能根本改變認知。"
+      },
+      "why": {
+        "sc": "把「AI＋人才」放在一起看：工具改造工作内容的同时也在改造招聘与培养逻辑，这决定未来三年团队复制与新人产能爬坡的方式。对以人力驱动的中介团队，招聘叙事、培训体系与工具熟练度需要同步调整，而不是分开处理。",
+        "tc": "把「AI＋人才」放在一起看：工具改造工作內容的同時也在改造招聘與培養邏輯，這決定未來三年團隊複製與新人產能爬坡的方式。對以人力驅動的中介團隊，招聘敍事、培訓體系與工具熟練度需要同步調整，而不是分開處理。"
+      },
+      "actions": {
+        "front": {
+          "sc": "在增员沟通中明确「有工具支持的成长路径」，回应年轻人对行业「慢、旧」的刻板印象",
+          "tc": "在增員溝通中明確「有工具支持的成長路徑」，回應年輕人對行業「慢、舊」的刻板印象"
+        },
+        "midback": {
+          "sc": "把AI辅助记录、核保问答等纳入新人培训与合规话术的必修部分",
+          "tc": "把AI輔助記錄、核保問答等納入新人培訓與合規話術的必修部分"
+        },
+        "lead": {
+          "sc": "复盘团队招聘漏斗：哪些环节可用AI提效、哪些环节必须保留人工判断",
+          "tc": "復盤團隊招聘漏鬥：哪些環節可用AI提效、哪些環節必須保留人工判斷"
+        },
+        "cross": {
+          "sc": "关注区域内对AI招聘与筛选偏误的监管口径变化",
+          "tc": "關注區域內對AI招聘與篩選偏誤的監管口徑變化"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Business Asia（2026-09-18）[EN原文]",
+        "tc": "Insurance Business Asia（2026-09-18）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer",
+        "tech"
+      ],
+      "themes": [
+        "talent",
+        "ai"
+      ],
+      "tags": {
+        "sc": [
+          "保险人才",
+          "多元共融",
+          "生成式AI",
+          "招聘",
+          "培训体系"
+        ],
+        "tc": [
+          "保險人才",
+          "多元共融",
+          "生成式AI",
+          "招聘",
+          "培訓體系"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-18",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/diversity-inclusion/as-dive-in-bows-out-ai-reshapes-insurances-talent-challenge-590324.aspx",
+      "ingestedAt": "2026-09-20T00:48:50+08:00"
+    },
+    {
+      "id": "ibm-skorea-ai-insurance-fraud-forum-legislation-20260918",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "insurancebusinessmag",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "title": {
+        "sc": "韩国国会启动「预防保险犯罪论坛」推动新立法：2025年保险欺诈赔付1.16万亿韩元，FSC估总暴露近9万亿",
+        "tc": "韓國國會啓動「預防保險犯罪論壇」推動新立法：2025年保險欺詐賠付1.16萬億韓元，FSC估總暴露近9萬億"
+      },
+      "summary": {
+        "sc": "韩国国会9月16日成立「预防保险犯罪论坛」并举行首次研讨会，跨党派议员共同主办，推动新法应对生成式AI规避侦测的保险欺诈。韩国金融监督院（FSS）数据：2025年欺诈赔付1.16万亿韩元（约7.57亿美元），较2022年1.08万亿、2023年1.12万亿持续上升；金融委员会（FSC）估计含未侦测案件的总暴露约9万亿韩元，约为已确认赔付的8倍。按险种，长期非寿险占44.7%、车险22.4%、寿险21.8%、一般非寿险11.2%。",
+        "tc": "韓國國會9月16日成立「預防保險犯罪論壇」並舉行首次研討會，跨黨派議員共同主辦，推動新法應對生成式AI規避偵測的保險欺詐。韓國金融監督院（FSS）數據：2025年欺詐賠付1.16萬億韓元（約7.57億美元），較2022年1.08萬億、2023年1.12萬億持續上升；金融委員會（FSC）估計含未偵測案件的總暴露約9萬億韓元，約為已確認賠付的8倍。按險種，長期非壽險佔44.7%、車險22.4%、壽險21.8%、一般非壽險11.2%。"
+      },
+      "why": {
+        "sc": "AI造假与侦测的军备竞赛已经在亚洲落地为立法。对核保、理赔与医疗险风控而言，需要重新评估「生成式AI伪造证据」的风险敞口；区域内医疗通胀（WTW预测亚太2026年涨14%）与欺诈支出被视为同一链条上的两个推手，可作香港同类内控与培训议题的参照。",
+        "tc": "AI造假與偵測的軍備競賽已經在亞洲落地為立法。對核保、理賠與醫療險風控而言，需要重新評估「生成式AI偽造證據」的風險敞口；區域內醫療通脹（WTW預測亞太2026年漲14%）與欺詐支出被視為同一鏈條上的兩個推手，可作香港同類內控與培訓議題的參照。"
+      },
+      "actions": {
+        "front": {
+          "sc": "在理赔材料沟通中提醒客户：伪造或加工医疗、事故文件属违法且将被追责",
+          "tc": "在理賠材料溝通中提醒客户：偽造或加工醫療、事故文件屬違法且將被追責"
+        },
+        "midback": {
+          "sc": "复盘理赔与核保影像/文件核验流程，识别可被生成式AI伪造的环节",
+          "tc": "復盤理賠與核保影像/文件核驗流程，識別可被生成式AI偽造的環節"
+        },
+        "lead": {
+          "sc": "把反欺诈指标纳入团队健康险与医疗险业务的日常管理看板",
+          "tc": "把反欺詐指標納入團隊健康險與醫療險業務的日常管理看板"
+        },
+        "cross": {
+          "sc": "关注亚太各市场监管与立法动向对跨境医疗险理赔处理的影响",
+          "tc": "關注亞太各市場監管與立法動向對跨境醫療險理賠處理的影響"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Business Asia（2026-09-18），数字来自 FSS/FSC 与《The Asia Business Daily》[EN原文]",
+        "tc": "Insurance Business Asia（2026-09-18），數字來自 FSS/FSC 與《The Asia Business Daily》[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "reg",
+        "tech"
+      ],
+      "themes": [
+        "fraud",
+        "ai"
+      ],
+      "tags": {
+        "sc": [
+          "韩国",
+          "保险欺诈",
+          "生成式AI",
+          "理赔核验",
+          "医疗通胀",
+          "反欺诈立法"
+        ],
+        "tc": [
+          "韓國",
+          "保險欺詐",
+          "生成式AI",
+          "理賠核驗",
+          "醫療通脹",
+          "反欺詐立法"
+        ]
+      },
+      "contentKind": "news",
+      "publishedAt": "2026-09-18",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/south-korea-targets-ai-insurance-fraud-as-detection-systems-come-under-strain-590289.aspx",
+      "ingestedAt": "2026-09-20T00:48:50+08:00"
+    },
     {
       "id": "hkma-payment-cards-q2-2026-stats-20260918",
       "clusterCount": 1,
@@ -69992,10 +70328,10 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 836 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 836 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 840 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 840 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 836,
+      "totalItems": 840,
       "sourceTiers": [
         {
           "tier": "official",
@@ -70019,7 +70355,7 @@
         },
         {
           "tier": "pro",
-          "count": 100,
+          "count": 104,
           "label": "专业解读"
         },
         {
@@ -70127,14 +70463,14 @@
           "label": "再保险"
         },
         {
+          "theme": "channel",
+          "count": 57,
+          "label": "渠道"
+        },
+        {
           "theme": "cross-border",
           "count": 56,
           "label": "跨境"
-        },
-        {
-          "theme": "channel",
-          "count": 56,
-          "label": "渠道"
         },
         {
           "theme": "macro",
