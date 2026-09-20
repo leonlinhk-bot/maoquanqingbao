@@ -1,9 +1,61 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-19T16:48:57Z",
-  "itemCount": 840,
+  "generatedAt": "2026-09-20T16:30:05Z",
+  "itemCount": 844,
   "items": [
+    {
+      "id": "ian-canopius-apac-leadership-20260921",
+      "title": "Canopius强化亚太领导团队：澳新理赔主管、亚太财产险主管、信用及政治风险主管三线补位",
+      "sourceTier": "pro",
+      "themes": [
+        "leadership",
+        "talent"
+      ],
+      "publishedAt": "2026-09-21T00:01:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-canopius-apac-leadership-20260921",
+      "originalUrl": "https://insuranceasianews.com/canopius-bolsters-apac-leadership-team-with-senior-claims-and-underwriting-appointments/"
+    },
+    {
+      "id": "ian-aig-apac-trade-credit-head-20260920",
+      "title": "AIG委任Daina Muceniece为亚太区贸易信用主管，由伦敦调驻新加坡",
+      "sourceTier": "pro",
+      "themes": [
+        "leadership",
+        "talent"
+      ],
+      "publishedAt": "2026-09-20T14:36:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-aig-apac-trade-credit-head-20260920",
+      "originalUrl": "https://insuranceasianews.com/aig-appoints-daina-muceniece-as-regional-head-of-trade-credit-for-apac/"
+    },
+    {
+      "id": "bbtnews-mainland-agency-hk-insurance-lead-20260920",
+      "title": "北京商报追踪：内地保险代理公司认证账号疑引流港险销售，记者查询后认证信息已移除",
+      "sourceTier": "media",
+      "themes": [
+        "compliance",
+        "cross-border"
+      ],
+      "publishedAt": "2026-09-20",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=bbtnews-mainland-agency-hk-insurance-lead-20260920",
+      "originalUrl": "http://www.bbtnews.com.cn/2026/0920/606413.shtml"
+    },
+    {
+      "id": "sina-hk-insurance-decision-mood-tax-20260920",
+      "title": "自媒体复盘「赴港投保后悔」：税务疑虑拉长决策周期，首季新造保费仍增51.1%",
+      "sourceTier": "media",
+      "themes": [
+        "taxation",
+        "par"
+      ],
+      "publishedAt": "2026-09-20T15:02:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sina-hk-insurance-decision-mood-tax-20260920",
+      "originalUrl": "https://finance.sina.com.cn/wm/2026-09-20/doc-inisnhax2497850.shtml"
+    },
     {
       "id": "ibm-berkshire-buffett-succession-howard-chairman-20260918",
       "title": "巴菲特转任名誉董事长、其子Howard当选董事长：伯克希尔完成接班布局，保险浮存金约1,775亿美元",
