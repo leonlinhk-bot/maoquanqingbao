@@ -1,9 +1,203 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-20T16:30:05Z",
-  "itemCount": 844,
+  "generatedAt": "2026-09-21T10:12:54Z",
+  "itemCount": 858,
   "items": [
+    {
+      "id": "ctflife-sky-leap-88-savings-20260921",
+      "title": "周大福人寿推「飞扬．88」储蓄保险计划：预缴全数保费享最少8%、最高10%首年折扣",
+      "sourceTier": "insurer",
+      "themes": [
+        "product",
+        "channel"
+      ],
+      "publishedAt": "2026-09-21T16:18:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ctflife-sky-leap-88-savings-20260921",
+      "originalUrl": "https://www.stheadline.com/realtime-finance/3617749/%E5%91%A8%E5%A4%A7%E7%A6%8F%E4%BA%BA%E5%A3%BD%E6%8E%A8%E5%84%B2%E8%93%84%E4%BF%9D%E9%9A%AA%E8%A8%88%E5%8A%83-%E9%A0%90%E7%B9%B3%E4%BF%9D%E8%B2%BB%E4%BA%AB%E6%9C%80%E5%B0%918%E6%8A%98%E6%89%A3"
+    },
+    {
+      "id": "lockton-hk-people-solutions-head-20260921",
+      "title": "Lockton香港委任Victoria Yow为People Solutions主管：加码雇员福利与健康险咨询",
+      "sourceTier": "insurer",
+      "themes": [
+        "leadership",
+        "talent",
+        "health"
+      ],
+      "publishedAt": "2026-09-21T12:40:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=lockton-hk-people-solutions-head-20260921",
+      "originalUrl": "https://global.lockton.com/greater-china/en/news-insights/lockton-hong-kong-appoints-victoria-yow-as-head-of-people-solutions"
+    },
+    {
+      "id": "ian-hdi-global-north-asia-hires-20260921",
+      "title": "HDI Global增聘北亚承保团队：Rebekah Khew与LiLian Lau加入",
+      "sourceTier": "pro",
+      "themes": [
+        "leadership",
+        "talent",
+        "marine"
+      ],
+      "publishedAt": "2026-09-21",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-hdi-global-north-asia-hires-20260921",
+      "originalUrl": "https://insuranceasianews.com/hdi-global-adds-rebekah-khew-lilian-lau-to-north-asia-underwriting-team/"
+    },
+    {
+      "id": "ian-peak-re-kuk-discipline-20260921",
+      "title": "鼎睿CEO Victor Kuk：软市场下「守纪律」比追求规模更重要",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "pricing",
+        "leadership"
+      ],
+      "publishedAt": "2026-09-21",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-peak-re-kuk-discipline-20260921",
+      "originalUrl": "https://theinsurer.com/company/peak-re"
+    },
+    {
+      "id": "bcg-greater-china-ma-2026-20260921",
+      "title": "BCG《Greater China M&A 2026》：香港正成为区域的「融资与退出桥梁」",
+      "sourceTier": "research",
+      "themes": [
+        "ma",
+        "family-office",
+        "cross-border"
+      ],
+      "publishedAt": "2026-09-21",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=bcg-greater-china-ma-2026-20260921",
+      "originalUrl": "https://www.bcg.com/publications/2026/greater-china-m-and-a-buyouts-rising"
+    },
+    {
+      "id": "hkma-rmb-bills-20260921",
+      "title": "金管局：中国人民银行将于本港发行人民币央行票据",
+      "sourceTier": "official",
+      "themes": [
+        "macro",
+        "cross-border"
+      ],
+      "publishedAt": "2026-09-21",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-rmb-bills-20260921",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260921-3/"
+    },
+    {
+      "id": "iaasia-ai-datacenter-insurance-20260921",
+      "title": "AI数据中心成商业险新增长极：瑞再估2026–2030带来约2,000亿美元保费",
+      "sourceTier": "pro",
+      "themes": [
+        "ai",
+        "tech",
+        "pricing"
+      ],
+      "publishedAt": "2026-09-21T10:30:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-ai-datacenter-insurance-20260921",
+      "originalUrl": "https://insuranceasia.com/insurance/expert-opinion/can-insurers-keep-pace-ai-data-centre-boom"
+    },
+    {
+      "id": "sunlife-hk-mpf-navigator-award-20260921",
+      "title": "永明香港MPF Navigator夺HK Business Technology Excellence Awards金融科技类别奖",
+      "sourceTier": "insurer",
+      "themes": [
+        "retirement",
+        "digital",
+        "insurtech"
+      ],
+      "publishedAt": "2026-09-21T10:10:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sunlife-hk-mpf-navigator-award-20260921",
+      "originalUrl": "https://hongkongbusiness.hk/co-written-partner/event-news/sun-life-hong-kong-limited-showcases-mpf-innovation-hong-kong-business-technology-excellence-awards-2026"
+    },
+    {
+      "id": "ibm-chubb-digital-heads-20260921",
+      "title": "Chubb把全球数字业务拆成两条线：技术交付与伙伴增长各设专属主管",
+      "sourceTier": "pro",
+      "themes": [
+        "leadership",
+        "distribution",
+        "insurtech"
+      ],
+      "publishedAt": "2026-09-21T09:43:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-chubb-digital-heads-20260921",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/chubb-names-two-digital-heads-to-fill-ringsteds-former-remit-590398.aspx"
+    },
+    {
+      "id": "ibm-ai-agent-breach-cyber-cover-20260921",
+      "title": "Google Gemini在测试中自主入侵三家真实企业：网络安全险措辞面临覆盖缺口",
+      "sourceTier": "pro",
+      "themes": [
+        "ai",
+        "cyber",
+        "ai-governance"
+      ],
+      "publishedAt": "2026-09-21T09:38:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-ai-agent-breach-cyber-cover-20260921",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/what-the-gemini-and-claude-hacking-incidents-mean-for-cyber-insurers-590393.aspx"
+    },
+    {
+      "id": "hk01-elderly-deposit-to-insurance-20260921",
+      "title": "香港01：长者「定期变储蓄保」个案续增，传媒人亲述母亲经历的销售话术",
+      "sourceTier": "media",
+      "themes": [
+        "conduct",
+        "consumer",
+        "premium-financing"
+      ],
+      "publishedAt": "2026-09-21T07:00:00+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hk01-elderly-deposit-to-insurance-20260921",
+      "originalUrl": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389852/%E9%95%B7%E8%80%85%E9%8A%80%E8%A1%8C%E5%81%9A%E5%AE%9A%E6%9C%9F%E8%AE%8A%E8%B2%B7%E9%95%B7%E5%91%BD%E4%BF%9D%E9%9A%AA-%E8%B3%87%E6%B7%B1%E5%82%B3%E5%AA%92%E4%BA%BA%E8%A6%AA%E8%BA%AB%E7%B6%93%E6%AD%B7%E6%8F%AD%E5%88%B6%E5%BA%A6%E5%8A%A9%E9%95%B7%E9%A8%99%E8%80%81"
+    },
+    {
+      "id": "ibm-broker-facilities-liberty-20260921",
+      "title": "Liberty亚太首席承保官警告：经纪facility已蔓延至大型复杂账户",
+      "sourceTier": "pro",
+      "themes": [
+        "channel",
+        "pricing",
+        "underwriting"
+      ],
+      "publishedAt": "2026-09-21T05:12:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-broker-facilities-liberty-20260921",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/broker-facilities-no-longer-just-an-sme-problem-liberty-veteran-warns-590242.aspx"
+    },
+    {
+      "id": "scmp-hk-medical-inflation-gba-20260920",
+      "title": "SCMP深挖：香港医疗通胀料达10.5%，部分港人转向大湾区就医",
+      "sourceTier": "media",
+      "themes": [
+        "health",
+        "medical",
+        "gba"
+      ],
+      "publishedAt": "2026-09-20T22:45:00+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-hk-medical-inflation-gba-20260920",
+      "originalUrl": "https://www.scmp.com/yp/learning-zone/study-tools/deep-dive/article/3367597/deep-dive-hong-kongs-rising-healthcare-costs-prompt-some-head-mainland-china"
+    },
+    {
+      "id": "govhk-hk-asean-investment-protocol-20260920",
+      "title": "香港签署修订与东盟《投资协定》第一议定书：港企在东盟十国享不低于当地企业待遇",
+      "sourceTier": "official",
+      "themes": [
+        "cross-border",
+        "policy",
+        "family-office"
+      ],
+      "publishedAt": "2026-09-20",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=govhk-hk-asean-investment-protocol-20260920",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202609/20/P2026092000405.htm"
+    },
     {
       "id": "ian-canopius-apac-leadership-20260921",
       "title": "Canopius强化亚太领导团队：澳新理赔主管、亚太财产险主管、信用及政治风险主管三线补位",
