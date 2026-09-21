@@ -1,9 +1,100 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-21T10:12:54Z",
-  "itemCount": 858,
+  "generatedAt": "2026-09-21T13:15:55Z",
+  "itemCount": 865,
   "items": [
+    {
+      "id": "nfra-asean-regulatory-cooperation-seminar-20260921",
+      "title": "金融监管总局举行中国与东盟及周边国家金融监管合作研讨会：12国监管机构共议跨境风险与AI监管",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "cross-border"
+      ],
+      "publishedAt": "2026-09-21T17:03:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-asean-regulatory-cooperation-seminar-20260921",
+      "originalUrl": "https://www.stcn.com/article/detail/4193277.html"
+    },
+    {
+      "id": "nfra-ding-xiangqun-meets-aia-chairman-du-20260920",
+      "title": "金融监管总局局长丁向群会见友邦保险集团董事会主席杜嘉祺：交流保险业最新发展与友邦在华经营",
+      "sourceTier": "official",
+      "themes": [
+        "insurer",
+        "cross-border"
+      ],
+      "publishedAt": "2026-09-20T18:02:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-ding-xiangqun-meets-aia-chairman-du-20260920",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1272131&itemId=915"
+    },
+    {
+      "id": "zhongbaoxie-par-demo-clauses-consultation-20260921",
+      "title": "中保协就终身寿险、两全、年金三类分红险示范条款公开征求意见：统一红利分配与现金价值规则",
+      "sourceTier": "pro",
+      "themes": [
+        "product",
+        "conduct"
+      ],
+      "publishedAt": "2026-09-21T09:28:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=zhongbaoxie-par-demo-clauses-consultation-20260921",
+      "originalUrl": "http://www.cnr.cn/jingji/gstj/20260921/t20260921_527820021.shtml"
+    },
+    {
+      "id": "hkma-climate-finance-taxonomy-disclosure-20260921",
+      "title": "金管局研推银行气候融资披露：明年调查银行使用可持续金融分类目录的情况",
+      "sourceTier": "media",
+      "themes": [
+        "esg",
+        "reg"
+      ],
+      "publishedAt": "2026-09-21T12:49:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-climate-finance-taxonomy-disclosure-20260921",
+      "originalUrl": "https://www.chinadailyhk.com/hk/article/639896"
+    },
+    {
+      "id": "bbtnews-insurance-short-video-misleading-20260921",
+      "title": "北京商报调查保险短视频「毒流量」：高息话术、焦虑营销与港险导流仍未停息",
+      "sourceTier": "media",
+      "themes": [
+        "compliance",
+        "cross-border"
+      ],
+      "publishedAt": "2026-09-21T10:11:00+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=bbtnews-insurance-short-video-misleading-20260921",
+      "originalUrl": "https://m.sohu.com/a/1078886354_120415370/"
+    },
+    {
+      "id": "xinhuanet-insurer-capital-bonds-20260921",
+      "title": "险企密集发债增资：年内16家险企发行永续债与资本补充债合计525.1亿元，永续债票面利率进入「1字头」",
+      "sourceTier": "media",
+      "themes": [
+        "capital",
+        "market"
+      ],
+      "publishedAt": "2026-09-21T09:11:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=xinhuanet-insurer-capital-bonds-20260921",
+      "originalUrl": "http://www.xinhuanet.com/20260921/1eb8b2b2d217498cbde4883dae472fe1/c.html"
+    },
+    {
+      "id": "toutiao-mainland-claims-hospital-list-20260921",
+      "title": "内地投保人常问：香港保单理赔一定要过关？关键在保障地域与认可医院名单",
+      "sourceTier": "media",
+      "themes": [
+        "claims",
+        "cross-border"
+      ],
+      "publishedAt": "2026-09-21T16:30:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=toutiao-mainland-claims-hospital-list-20260921",
+      "originalUrl": "http://m.toutiao.com/group/7687622056427176491/?upstream_biz=VolcEngine"
+    },
     {
       "id": "ctflife-sky-leap-88-savings-20260921",
       "title": "周大福人寿推「飞扬．88」储蓄保险计划：预缴全数保费享最少8%、最高10%首年折扣",

@@ -630,14 +630,14 @@
       "tc": "情報密度"
     },
     "subtitle": {
-      "sc": "自动从 858 条资讯聚合 · sourceKey 标准化完成",
-      "tc": "自動從 858 條資訊聚合 · sourceKey 標準化完成"
+      "sc": "自动从 865 条资讯聚合 · sourceKey 标准化完成",
+      "tc": "自動從 865 條資訊聚合 · sourceKey 標準化完成"
     },
-    "totalItems": 858,
+    "totalItems": 865,
     "sourceTiers": [
       {
         "tier": "official",
-        "count": 264,
+        "count": 266,
         "label": "监管一手"
       },
       {
@@ -652,12 +652,12 @@
       },
       {
         "tier": "media",
-        "count": 297,
+        "count": 301,
         "label": "媒体报道"
       },
       {
         "tier": "pro",
-        "count": 112,
+        "count": 113,
         "label": "专业解读"
       },
       {
@@ -731,12 +731,12 @@
     "topThemes": [
       {
         "theme": "market",
-        "count": 198,
+        "count": 199,
         "label": "市场"
       },
       {
         "theme": "reg",
-        "count": 134,
+        "count": 136,
         "label": "监管"
       },
       {
@@ -746,12 +746,12 @@
       },
       {
         "theme": "product",
-        "count": 94,
+        "count": 95,
         "label": "产品"
       },
       {
         "theme": "compliance",
-        "count": 88,
+        "count": 89,
         "label": "合规"
       },
       {
@@ -760,14 +760,14 @@
         "label": "跨境"
       },
       {
+        "theme": "cross-border",
+        "count": 64,
+        "label": "跨境"
+      },
+      {
         "theme": "reinsurance",
         "count": 60,
         "label": "再保险"
-      },
-      {
-        "theme": "cross-border",
-        "count": 60,
-        "label": "跨境"
       },
       {
         "theme": "channel",
