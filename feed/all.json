@@ -1,9 +1,120 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-21T13:15:55Z",
-  "itemCount": 865,
+  "generatedAt": "2026-09-21T17:04:52Z",
+  "itemCount": 873,
   "items": [
+    {
+      "id": "ian-alpha-tr-wi-mga-axa-xl-aviva-20260921",
+      "title": "并购保证险（W&I）专业MGA「Alpha TR」启动：Axa XL 领头承保、Aviva Syndicates 提供承保纸，单一风险可承保5,400万美元 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ma",
+        "hnw"
+      ],
+      "publishedAt": "2026-09-21T21:25:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-alpha-tr-wi-mga-axa-xl-aviva-20260921",
+      "originalUrl": "https://insuranceasianews.com/transactional-risk-lloyds-coverholder-alpha-launches-backed-by-axa-xl-aviva/"
+    },
+    {
+      "id": "ian-apac-decommissioning-insurance-transition-20260921",
+      "title": "亚太拆解（decommissioning）保险进入过渡期：印尼约630座海上平台、澳洲相关负债达450亿美元 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "esg",
+        "reinsurance",
+        "market"
+      ],
+      "publishedAt": "2026-09-21T21:40:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-apac-decommissioning-insurance-transition-20260921",
+      "originalUrl": "https://insuranceasianews.com/apac-decommissioning-market-enters-transitional-phase-as-ageing-energy-assets-reach-end-of-life/"
+    },
+    {
+      "id": "ibm-nippon-life-data-centre-project-finance-20260921",
+      "title": "日本生命拟投放2万亿日元（127.5亿美元）于基建项目融资：数据中心保险成为融资前置条件 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "capital",
+        "market"
+      ],
+      "publishedAt": "2026-09-21T22:50:00+08:00",
+      "score": 63,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-nippon-life-data-centre-project-finance-20260921",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/nippon-lifes-us12-75bn-data-centre-move-is-an-insurance-placement-story-not-just-a-finance-one-590508.aspx"
+    },
+    {
+      "id": "ibm-marine-war-voyage-by-voyage-iumi-20260921",
+      "title": "IUMI：海上战争险转向逐航次核保，全球性开口保单「已不再是选项」 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "marine",
+        "uw",
+        "market"
+      ],
+      "publishedAt": "2026-09-21T23:10:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-marine-war-voyage-by-voyage-iumi-20260921",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/marine/marine-war-cover-shifts-to-voyagebyvoyage-underwriting-590498.aspx"
+    },
+    {
+      "id": "ibm-airline-insurers-selective-q4-renewals-20260921",
+      "title": "航空险转向选择性承保：容量充足但投放收紧，第四季完成全年机身及责任保费约65% [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "pricing",
+        "uw",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-09-21T23:30:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-airline-insurers-selective-q4-renewals-20260921",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/airline-insurers-turn-more-selective-ahead-of-q4-renewals-590504.aspx"
+    },
+    {
+      "id": "iaasia-ai-datacentre-fire-concentration-allianz-20260922",
+      "title": "AI数据中心承保风险画像：安联分析约8亿美元损失中逾半由火灾造成，亚太（除中国）容量2030年将由约9吉瓦升至逾28吉瓦 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "market",
+        "tech"
+      ],
+      "publishedAt": "2026-09-22T00:35:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-ai-datacentre-fire-concentration-allianz-20260922",
+      "originalUrl": "https://insuranceasia.com/insurance/expert-opinion/can-insurers-keep-pace-ai-data-centre-boom"
+    },
+    {
+      "id": "iaasia-fwd-care-palliative-awareness-hk-20260922",
+      "title": "富卫香港扩展 FWD Care 服务：新增长者认知筛查与宁养转介；调查指69%受访者不了解宁养服务、本港认知障碍症患者2045年料达55万 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "health",
+        "consumer",
+        "claims"
+      ],
+      "publishedAt": "2026-09-22T00:35:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-fwd-care-palliative-awareness-hk-20260922",
+      "originalUrl": "https://insuranceasia.com/insurance/news/fwd-hong-kong-expands-care-awareness-gaps-persist"
+    },
+    {
+      "id": "ibm-japan-typhoon-dujuan-soft-market-test-20260922",
+      "title": "台风「杜鹃」登陆日本：软市场下搭建的再保结构面临检验，4月续保曾降价最多20% [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "catastrophe",
+        "reinsurance",
+        "pricing"
+      ],
+      "publishedAt": "2026-09-22",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-japan-typhoon-dujuan-soft-market-test-20260922",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/catastrophe/japans-soft-reinsurance-market-faces-a-new-catastrophe-test-590527.aspx"
+    },
     {
       "id": "nfra-asean-regulatory-cooperation-seminar-20260921",
       "title": "金融监管总局举行中国与东盟及周边国家金融监管合作研讨会：12国监管机构共议跨境风险与AI监管",
