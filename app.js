@@ -1,7 +1,7 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-22T01:06:00+08:00",
+    "generatedAt": "2026-09-22T01:10:00+08:00",
     "itemCount": 873,
     "windowNote": {
       "sc": "本库873条。",
@@ -886,7 +886,7 @@ window.HKII_DATA = {
           "軟市場"
         ]
       },
-      "publishedAt": "2026-09-22",
+      "publishedAt": "2026-09-22T00:20:00+08:00",
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/catastrophe/japans-soft-reinsurance-market-faces-a-new-catastrophe-test-590527.aspx"
     },
     {
