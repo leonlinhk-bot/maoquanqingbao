@@ -1,9 +1,187 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-21T17:05:06Z",
-  "itemCount": 873,
+  "generatedAt": "2026-09-22T10:14:58Z",
+  "itemCount": 886,
   "items": [
+    {
+      "id": "toutiao-chinalife-sales-penalties-20260922",
+      "title": "星岛统计：中国人寿年内69条监管罚单、逾六成涉销售违规；9月20日海晏支公司再因销售行为不合规被罚8.5万元",
+      "sourceTier": "media",
+      "themes": [
+        "sales-conduct",
+        "enforcement",
+        "commission"
+      ],
+      "publishedAt": "2026-09-22T17:21:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=toutiao-chinalife-sales-penalties-20260922",
+      "originalUrl": "http://m.toutiao.com/group/7688284611860660772/"
+    },
+    {
+      "id": "ian-tower-reinsurance-limit-increase-20260921",
+      "title": "新西兰 Tower 将再保限额提升至5.55亿美元并降低成本：FY27 再保费用预计约占毛保费9.5%（FY26 为10.6%） [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "pricing"
+      ],
+      "publishedAt": "2026-09-21",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-tower-reinsurance-limit-increase-20260921",
+      "originalUrl": "https://insuranceasianews.com/tower-grows-reinsurance-limit-to-us555m-reduces-costs/"
+    },
+    {
+      "id": "ibm-gulf-war-marine-claims-iumi-20260922",
+      "title": "IUMI：海湾冲突海上战争险索赔已达15–20亿美元、涉约70艘船舶；经纪人估最终账单或超该险种一整年全球保费 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "marine",
+        "war-risk",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-09-22T15:06:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-gulf-war-marine-claims-iumi-20260922",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/marine/marine-insurers-count-2bn-bill-as-rotterdam-gathering-weighs-market-dependent-on-politicians-590612.aspx"
+    },
+    {
+      "id": "ibm-iumi-digital-cargo-certificates-20260922",
+      "title": "IUMI 主席 Denèfle：全面数字化的货运保险凭证「不会太远」，须获银行等金融机构统一认可 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "marine",
+        "digitalisation",
+        "ai-adoption"
+      ],
+      "publishedAt": "2026-09-22T17:32:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-iumi-digital-cargo-certificates-20260922",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/iumis-denefle-fully-digitised-insurance-certificates-coming-not-too-far-in-the-future-590632.aspx"
+    },
+    {
+      "id": "iaasia-niva-bupa-capital-am-best-20260922",
+      "title": "AM Best：印度健康险 Niva Bupa 风险调整后资本维持最强级，连续四个财年靠投资收益维持正营运盈利 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "health-insurance",
+        "capital"
+      ],
+      "publishedAt": "2026-09-22T05:15:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-niva-bupa-capital-am-best-20260922",
+      "originalUrl": "https://insuranceasia.com/insurance/news/niva-bupa-absorbs-underwriting-losses-despite-strong-capital"
+    },
+    {
+      "id": "iaasia-india-data-centre-cover-gaps-howden-20260922",
+      "title": "Howden：印度数据中心扩张暴露传统保险缺口——无实体损失停机、网络集中度与「在营施工」风险 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "data-centre",
+        "cyber",
+        "parametric"
+      ],
+      "publishedAt": "2026-09-22T05:00:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-india-data-centre-cover-gaps-howden-20260922",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/india-data-centres-expose-gaps-in-traditional-insurance"
+    },
+    {
+      "id": "iaasia-reinsurance-soft-pricing-sp-20260922",
+      "title": "标普：再保定价2027年前继续走软，资本充裕压低财产险利润率；AI 优先落在后台与风控 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "pricing",
+        "ai-adoption"
+      ],
+      "publishedAt": "2026-09-22T05:30:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-reinsurance-soft-pricing-sp-20260922",
+      "originalUrl": "https://insuranceasia.com/insurance/news/reinsurers-lose-pricing-power-capital-floods-market"
+    },
+    {
+      "id": "iaasia-swiss-re-h1-profit-am-best-20260922",
+      "title": "AM Best：瑞再上半年净利28亿美元，全年45亿美元目标已完成逾六成，年化 ROE 22.7% [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "earnings"
+      ],
+      "publishedAt": "2026-09-22T05:45:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-swiss-re-h1-profit-am-best-20260922",
+      "originalUrl": "https://insuranceasia.com/insurance/news/swiss-re-earns-28b-profit-target-comes-within-reach-am-best"
+    },
+    {
+      "id": "iaasia-iais-2026-gme-systemic-risk-20260922",
+      "title": "IAIS《2026全球监测》初步结果：全球保险集团系统性风险评分小幅上升，聚焦寿险宏观敏感度、地缘风险传导与 AI 韧性 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "iais",
+        "systemic-risk",
+        "ai-governance"
+      ],
+      "publishedAt": "2026-09-22T06:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-iais-2026-gme-systemic-risk-20260922",
+      "originalUrl": "https://insuranceasia.com/insurance/news/global-insurers-face-rising-systemic-risk-despite-stability"
+    },
+    {
+      "id": "hkma-scam-alert-banks-20260922",
+      "title": "金管局发出与银行有关的骗案警示（2026年9月22日）",
+      "sourceTier": "official",
+      "themes": [
+        "fraud",
+        "consumer-protection"
+      ],
+      "publishedAt": "2026-09-22",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-scam-alert-banks-20260922",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260922-3/"
+    },
+    {
+      "id": "hkma-hkicl-fraudulent-fps-websites-20260922",
+      "title": "金管局：香港银行同业结算公司提醒两个冒充 HKICL 的欺诈网站，涉转数快交易「买家保障」与实名认证套取证件资料",
+      "sourceTier": "official",
+      "themes": [
+        "fraud",
+        "fps",
+        "consumer-protection"
+      ],
+      "publishedAt": "2026-09-22",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-hkicl-fraudulent-fps-websites-20260922",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260922-4/"
+    },
+    {
+      "id": "hkfi-overseas-policy-tax-rumor-response-20260922",
+      "title": "香港保险业联会就「内地对境外保单收益征20%个税」传闻回应《第一财经》：有关部门尚未发布正式政策文件或执行细则",
+      "sourceTier": "pro",
+      "themes": [
+        "tax",
+        "cross-border",
+        "hkfi"
+      ],
+      "publishedAt": "2026-09-22",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkfi-overseas-policy-tax-rumor-response-20260922",
+      "originalUrl": "https://gmteight.com/flash/detail/1502684"
+    },
+    {
+      "id": "nfra-ding-xiangqun-paul-chan-meeting-20260922",
+      "title": "金融监管总局局长丁向群会见香港财政司司长陈茂波一行：财库局局长许正宇、金管局总裁余伟文、证监会行政总裁梁凤仪同场",
+      "sourceTier": "official",
+      "themes": [
+        "cross-border",
+        "regulation",
+        "gba"
+      ],
+      "publishedAt": "2026-09-22T12:45:00+08:00",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-ding-xiangqun-paul-chan-meeting-20260922",
+      "originalUrl": "https://finance.sina.com.cn/trust/2026-09-22/doc-inissuif5658899.shtml"
+    },
     {
       "id": "ian-alpha-tr-wi-mga-axa-xl-aviva-20260921",
       "title": "并购保证险（W&I）专业MGA「Alpha TR」启动：Axa XL 领头承保、Aviva Syndicates 提供承保纸，单一风险可承保5,400万美元 [EN原文]",
