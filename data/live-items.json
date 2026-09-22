@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-22T22:20:28+08:00",
-    "itemCount": 896,
+    "generatedAt": "2026-09-23T00:37:00+08:00",
+    "itemCount": 902,
     "windowNote": {
-      "sc": "本库896条。",
-      "tc": "本庫896條。"
+      "sc": "本库902条。",
+      "tc": "本庫902條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -147,7 +147,7 @@
       ],
       "registryFile": "data/sources.yaml"
     },
-    "asOf": "2026-09-22T22:20:28+08:00",
+    "asOf": "2026-09-23T00:37:00+08:00",
     "roles": [
       {
         "id": "front",
@@ -278,6 +278,486 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "artemis-casualty-sidecar-third-pillar-hcma-20260922",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "artemis",
+      "contentKind": "news",
+      "title": {
+        "sc": "Howden：意外险侧挂车成再保险之外的「第三支柱」，保荐人应尽早布局 [EN原文]",
+        "tc": "Howden：意外險側掛車成再保險之外的「第三支柱」，保薦人應盡早布局 [EN原文]"
+      },
+      "summary": {
+        "sc": "Howden 资本市场与咨询（HCMA）团队指出，在传统意外险承保能力持续受限下，意外险侧挂车（casualty sidecar）正从少数成熟投资者的专门产品，转为与再保险、自有资本并列的第三支柱。其观察是客户日益倾向与投资者建立合伙关系以优化资本结构、把部分承保收入转为更稳定的费用收入；投资端则有信用类资产管理机构以寿险年金的长久期策略切入，意外险保费先收后赔形成约七年的资金池。",
+        "tc": "Howden 資本市場與諮詢（HCMA）團隊指出，在傳統意外險承保能力持續受限下，意外險側掛車（casualty sidecar）正從少數成熟投資者的專門產品，轉為與再保險、自有資本並列的第三支柱。其觀察是客戶日益傾向與投資者建立合伙關係以優化資本結構、把部分承保收入轉為更穩定的費用收入；投資端則有信用類資產管理機構以壽險年金的長久期策略切入，意外險保費先收後賠形成約七年的資金池。"
+      },
+      "why": {
+        "sc": "香港正推動 ILS 與受保護細胞公司（PCC）立法，市場關注的是「資本如何進場」而非只有發行端。側掛車這條路徑說明：長尾險種的資本工具化已在亞洲以外成熟，若 PCC 與投資者限制放寬，同類結構在香港有落地的空間，值得提前理解其投資者偏好與費用結構邏輯。",
+        "tc": "香港正推動 ILS 與受保護細胞公司（PCC）立法，市場關注的是「資本如何進場」而非只有發行端。側掛車這條路徑說明：長尾險種的資本工具化已在亞洲以外成熟，若 PCC 與投資者限制放寬，同類結構在香港有落地的空間，值得提前理解其投資者偏好與費用結構邏輯。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "关注侧挂车对长尾险种分出条件的影响，留意再保结构变化对客户条款的传导",
+          "tc": "關注側掛車對長尾險種分出條件的影響，留意再保結構變化對客戶條款的傳導"
+        },
+        "lead": {
+          "sc": "理解「承保收入转费用收入」的资本运作逻辑，评估对承保策略与资本效率的中期含义",
+          "tc": "理解「承保收入轉費用收入」的資本運作邏輯，評估對承保策略與資本效率的中期含義"
+        },
+        "cross": {
+          "sc": "关注 Bermuda/Lloyd's 平台的侧挂车结构，作为跨境资本工具的知识储备",
+          "tc": "關注 Bermuda/Lloyd's 平台的側掛車結構，作為跨境資本工具的知識儲備"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "Artemis.bm（2026-09-22，引述 Howden Capital Markets & Advisory 圆桌）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "ils",
+        "reinsurance"
+      ],
+      "tags": {
+        "sc": [
+          "侧挂车",
+          "Howden",
+          "HCMA",
+          "另类资本",
+          "长尾险",
+          "ILS"
+        ],
+        "tc": [
+          "側掛車",
+          "Howden",
+          "HCMA",
+          "另類資本",
+          "長尾險",
+          "ILS"
+        ]
+      },
+      "publishedAt": "2026-09-22T18:30:00+08:00",
+      "originalUrl": "https://www.artemis.bm/news/casualty-sidecars-emerging-as-third-pillar-sponsors-urged-to-act-hcma/",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-23T00:37:00+08:00"
+    },
+    {
+      "id": "ian-typhoon-dujuan-japan-losses-20260922",
+      "clusterCount": 2,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "insuranceasianews",
+      "contentKind": "news",
+      "title": {
+        "sc": "台风「杜鹃」重创日本东部：伊豆大岛48小时雨量832毫米破纪录，4死22伤、逾4.5万户停电 [EN原文]",
+        "tc": "颱風「杜鵑」重創日本東部：伊豆大島48小時雨量832毫米破紀錄，4死22傷、逾4.5萬戶停電 [EN原文]"
+      },
+      "summary": {
+        "sc": "台风「杜鹃」（今年第25号）为日本东部带来破纪录降雨：伊豆大岛48小时雨量832毫米、超过9月全月均值两倍，东京江户川区24小时282.5毫米创纪录。千叶与神奈川发生山泥倾泻，日本消防厅确认4人死亡、22人受伤、6人失踪；千叶逾4.5万户停电、460多栋房屋受损，日航与全日空合计取消275班航班。风暴已远离日本海岸，多数大雨与山泥倾泻预警降级。",
+        "tc": "颱風「杜鵑」（今年第25號）為日本東部帶來破紀錄降雨：伊豆大島48小時雨量832毫米、超過9月全月均值兩倍，東京江戶川區24小時282.5毫米創紀錄。千葉與神奈川發生山泥傾瀉，日本消防廳確認4人死亡、22人受傷、6人失蹤；千葉逾4.5萬戶停電、460多棟房屋受損，日航與全日空合計取消275班航班。風暴已遠離日本海岸，多數大雨與山泥傾瀉預警降級。"
+      },
+      "why": {
+        "sc": "这是本月继广东多台风之后，亚太又一次落在高密度都市圈的自然灾害损失事件，且发生在此前被形容为「软市场」的日本再保结构之上。对香港的意义在于两点：一是都市内涝与山泥倾泻的累积损失口径（经济损失与保险损失差距）会被再保人重新检视，二是灾后 30–60 天的理赔数据将是明年续保定价的谈判筹码。",
+        "tc": "這是本月繼廣東多颱風之後，亞太又一次落在高密度都市圈的自然災害損失事件，且發生在此前被形容為「軟市」的日本再保結構之上。對香港的意義在於兩點：一是都市內澇與山泥傾瀉的累積損失口徑（經濟損失與保險損失差距）會被再保人重新檢視，二是災後 30–60 天的理賠數據將是明年續保定價的談判籌碼。"
+      },
+      "actions": {
+        "front": {
+          "sc": "与客户谈财产及家居保障时，用都市内涝与山泥倾泻案例说明保障范围与免赔额的边界",
+          "tc": "與客戶談財產及家居保障時，用都市內澇與山泥傾瀉案例說明保障範圍與免賠額的邊界"
+        },
+        "midback": {
+          "sc": "跟踪本次灾害的行业损失估算与理赔口径，作为年末再保及条款复盘的输入",
+          "tc": "跟蹤本次災害的行業損失估算與理賠口徑，作為年末再保及條款復盤的輸入"
+        },
+        "lead": {
+          "sc": "留意软市场下巨灾事件是否触发条款与费率转向，提前评估明年财产险续保策略",
+          "tc": "留意軟市場下巨災事件是否觸發條款與費率轉向，提前評估明年財產險續保策略"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 2,
+        "cross": 0
+      },
+      "source": {
+        "sc": "InsuranceAsia News（2026-09-22）[EN原文]；损失数据经日本消防厅／NHK 公开报道交叉核对",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "natcat",
+        "reinsurance"
+      ],
+      "tags": {
+        "sc": [
+          "台风杜鹃",
+          "日本",
+          "巨灾损失",
+          "都市内涝",
+          "再保险",
+          "软市场"
+        ],
+        "tc": [
+          "颱風杜鵑",
+          "日本",
+          "巨災損失",
+          "都市內澇",
+          "再保險",
+          "軟市場"
+        ]
+      },
+      "publishedAt": "2026-09-22T16:45:00+08:00",
+      "originalUrl": "https://insuranceasianews.com/typhoon-dujuan-triggers-record-rainfaill-landslides-flooding-in-japan/",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-23T00:37:00+08:00"
+    },
+    {
+      "id": "ian-lockton-asia-financial-lines-cross-border-20260922",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "pending",
+      "sourceTier": "pro",
+      "sourceKey": "insuranceasianews",
+      "contentKind": "news",
+      "title": {
+        "sc": "Lockton：诉讼上升、监管趋严与跨境风险扩大推升亚洲金融线保险需求，软市场提供扩保窗口 [EN原文]",
+        "tc": "Lockton：訴訟上升、監管趨嚴與跨境風險擴大推升亞洲金融線保險需求，軟市場提供擴保窗口 [EN原文]"
+      },
+      "summary": {
+        "sc": "InsuranceAsia News 分析栏引述 Lockton 亚洲金融线主管 Frederic Boles：诉讼增加、监管趋严，加上跨境风险范围扩大，正在为亚洲的董事责任（D&O）、职业责任及网络等金融线保险打开增长空间；同时当前软市场环境让客户有机会拓宽保障范围。该报道属付费内容，本文仅据公开摘要与标题归纳，具体数据与条款观点待复核。",
+        "tc": "InsuranceAsia News 分析欄引述 Lockton 亞洲金融線主管 Frederic Boles：訴訟增加、監管趨嚴，加上跨境風險範圍擴大，正在為亞洲的董事責任（D&O）、職業責任及網絡等金融線保險打開增長空間；同時當前軟市場環境讓客戶有機會擴寬保障範圍。該報道屬付費內容，本文僅據公開摘要與標題歸納，具體數據與條款觀點待復核。"
+      },
+      "why": {
+        "sc": "跨境合规是今年香港与内地客户讨论最密集的议题之一，而金融线保险正是把「合规风险」变成可保风险的接口。这条线索的价值在于把监管趋严与承保机会连起来：当客户开始问 D&O 与跨境责任保障时，话术与资料准备应先于价格比较。",
+        "tc": "跨境合規是今年香港與內地客戶討論最密集的議題之一，而金融線保險正是把「合規風險」變成可保風險的接口。這條線索的價值在於把監管趨嚴與承保機會連起來：當客戶開始問 D&O 與跨境責任保障時，話術與資料準備應先於價格比較。"
+      },
+      "actions": {
+        "front": {
+          "sc": "梳理有跨境业务的中小企与家族企业客户的董事责任需求清单，作为明年保障复盘的切入点",
+          "tc": "梳理有跨境業務的中小企與家族企業客戶的董事責任需求清單，作為明年保障復盤的切入點"
+        },
+        "midback": {
+          "sc": "关注监管趋严下 D&O 与职业责任的除外条款变化，提前向客户提示免责风险点",
+          "tc": "關注監管趨嚴下 D&O 與職業責任的除外條款變化，提前向客戶提示免責風險點"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "把跨境责任风险纳入高客与企业客户的整体风险清单，与合规团队同步口径",
+          "tc": "把跨境責任風險納入高客與企業客戶的整體風險清單，與合規團隊同步口徑"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 1,
+        "lead": 1,
+        "cross": 2
+      },
+      "source": {
+        "sc": "InsuranceAsia News（2026-09-22，付费墙，仅摘要可见）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "cross-border",
+        "uw"
+      ],
+      "tags": {
+        "sc": [
+          "金融线",
+          "董事责任",
+          "职业责任",
+          "跨境合规",
+          "Lockton",
+          "软市场"
+        ],
+        "tc": [
+          "金融線",
+          "董事責任",
+          "職業責任",
+          "跨境合規",
+          "Lockton",
+          "軟市場"
+        ]
+      },
+      "publishedAt": "2026-09-22T07:30:00+08:00",
+      "originalUrl": "https://insuranceasianews.com/stricter-rules-cross-border-risks-drive-asia-financial-lines-growth-locktons-frederic-boles/",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-23T00:37:00+08:00"
+    },
+    {
+      "id": "artemis-mas-ils-infrastructure-datacentre-20260921",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "artemis",
+      "contentKind": "speech",
+      "title": {
+        "sc": "新加坡金管局：ILS 可作大型基建风险转移与融资的补充机制，指东南亚每年需约2,100亿美元基建投资 [EN原文]",
+        "tc": "新加坡金管局：ILS 可作大型基建風險轉移與融資的補充機制，指東南亞每年需約2,100億美元基建投資 [EN原文]"
+      },
+      "summary": {
+        "sc": "新加坡金管局金融市场发展部执行总监 Lim Cheng Khai 在国际工程保险人协会（IMIA）年会上表示，巨灾债券等保险相连证券（ILS）可作为基建项目风险转移与融资的补充机制。他引述亚开行估算，东南亚每年需约2,100亿美元基建投资以维持增长与应对气候影响；亚太到2030年需新增逾2,800亿美元数据中心容量。他称保险业的角色分三部分：理解风险、降低风险、把风险连到资本。",
+        "tc": "新加坡金管局金融市場發展部執行總監 Lim Cheng Khai 在國際工程保險人協會（IMIA）年會上表示，巨災債券等保險相連證券（ILS）可作為基建項目風險轉移與融資的補充機制。他引述亞開行估算，東南亞每年需約2,100億美元基建投資以維持增長與應對氣候影響；亞太到2030年需新增逾2,800億美元數據中心容量。他稱保險業的角色分三部分：理解風險、降低風險、把風險連到資本。"
+      },
+      "why": {
+        "sc": "香港与新加坡在 ILS 上是直接竞合：新加坡以基建与数据中心风险为切入点争取发行与资本落地，香港则刚在《五年规划》写入 PCC 与投资者限制检讨。这条发声给出了对手方的叙事框架与量化需求，可用于判断香港 ILS 政策的紧迫度与差异化空间。",
+        "tc": "香港與新加坡在 ILS 上是直接競合：新加坡以基建與數據中心風險為切入點爭取發行與資本落地，香港則剛在《五年規劃》寫入 PCC 與投資者限制檢討。這條發聲給出了對手方的敘事框架與量化需求，可用於判斷香港 ILS 政策的緊迫度與差異化空間。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "把新加坡 ILS 叙事纳入对标材料：关注基建与数据中心风险作为发行标的的可行性",
+          "tc": "把新加坡 ILS 敘事納入對標材料：關注基建與數據中心風險作為發行標的的可行性"
+        },
+        "cross": {
+          "sc": "面向跨境客户解释 ILS 与自保、PCC 的关系，作为风险融资工具箱的一环",
+          "tc": "面向跨境客戶解釋 ILS 與自保、PCC 的關係，作為風險融資工具箱的一環"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "Artemis.bm（2026-09-21，新加坡金管局 Lim Cheng Khai 在 IMIA 年会发言）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "ils",
+        "reinsurance"
+      ],
+      "tags": {
+        "sc": [
+          "ILS",
+          "巨灾债券",
+          "基建风险",
+          "数据中心",
+          "新加坡金管局",
+          "风险管理中心"
+        ],
+        "tc": [
+          "ILS",
+          "巨災債券",
+          "基建風險",
+          "數據中心",
+          "新加坡金管局",
+          "風險管理中心"
+        ]
+      },
+      "publishedAt": "2026-09-21T18:30:00+08:00",
+      "originalUrl": "https://www.artemis.bm/news/ils-complementary-for-transferring-funding-risks-of-large-infrastructure-projects-singapores-mas/",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-23T00:37:00+08:00"
+    },
+    {
+      "id": "artemis-ils-capital-cyber-ai-datacentre-leadenhall-20260921",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "artemis",
+      "contentKind": "news",
+      "title": {
+        "sc": "Leadenhall CEO：把 ILS 资本投进网络、AI 与数据中心须匹配的基金结构；ESMA 巨灾债券纳入 UCITS 建议暂无实施时间表 [EN原文]",
+        "tc": "Leadenhall CEO：把 ILS 資本投進網絡、AI 與數據中心須匹配的基金結構；ESMA 巨災債券納入 UCITS 建議暫無實施時間表 [EN原文]"
+      },
+      "summary": {
+        "sc": "Leadenhall Capital Partners 首席执行官 Luca Albertini 向 Artemis 表示，网络、数据中心与AI正在形成新的重大风险累积，需要资本承接，难点在于投资者能否承保这些风险、并选择最合适的基金结构；行业首先要就承保纪律与资本合理回报达成共识。他并指 ESMA 关于把巨灾债券纳入 UCITS 基金的建议，可能令部分 ILS 市场结构需要重整，但目前未设实施时间表，欧委会态度保留。",
+        "tc": "Leadenhall Capital Partners 首席執行官 Luca Albertini 向 Artemis 表示，網絡、數據中心與 AI 正在形成新的重大風險累積，需要資本承接，難點在於投資者能否承保這些風險、並選擇最合適的基金結構；行業首先要就承保紀律與資本合理回報達成共識。他並指 ESMA 關於把巨災債券納入 UCITS 基金的建議，可能令部分 ILS 市場結構需要重整，但目前未設實施時間表，歐委會態度保留。"
+      },
+      "why": {
+        "sc": "「新风险找不到合适资本结构」是当下承保端最真实的瓶颈：AI 与数据中心的累积风险已具备证券化讨论的条件，但投资者结构、监管口径都还没定型。对香港而言，这正是 PCC 立法与投资者限制检讨要回答的问题。",
+        "tc": "「新風險找不到合適資本結構」是當下承保端最真實的瓶頸：AI 與數據中心的累積風險已具備證券化討論的條件，但投資者結構、監管口徑都還沒定型。對香港而言，這正是 PCC 立法與投資者限制檢討要回答的問題。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "跟踪 ESMA 对 UCITS 纳入巨灾债券的最终取向，评估对 ILS 基金合规路径的影响",
+          "tc": "跟蹤 ESMA 對 UCITS 納入巨災債券的最終取向，評估對 ILS 基金合規路徑的影響"
+        },
+        "lead": {
+          "sc": "把 AI／数据中心累积风险纳入资本工具评估，作为产品与服务创新的长期观察点",
+          "tc": "把 AI／數據中心累積風險納入資本工具評估，作為產品與服務創新的長期觀察點"
+        },
+        "cross": {
+          "sc": "了解基金结构差异（UCITS／私募／侧挂车）对跨境投资者的可及性差异",
+          "tc": "了解基金結構差異（UCITS／私募／側掛車）對跨境投資者的可及性差異"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Artemis.bm（2026-09-21，专访 Leadenhall Capital Partners CEO Luca Albertini）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "tech"
+      ],
+      "themes": [
+        "ils",
+        "cyber"
+      ],
+      "tags": {
+        "sc": [
+          "ILS",
+          "网络风险",
+          "AI风险",
+          "数据中心",
+          "UCITS",
+          "基金结构"
+        ],
+        "tc": [
+          "ILS",
+          "網絡風險",
+          "AI風險",
+          "數據中心",
+          "UCITS",
+          "基金結構"
+        ]
+      },
+      "publishedAt": "2026-09-21T16:00:00+08:00",
+      "originalUrl": "https://www.artemis.bm/news/deploying-ils-capital-into-cyber-ai-data-centres-requires-right-fund-structures-albertini-leadenhall/",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-23T00:37:00+08:00"
+    },
+    {
+      "id": "ian-datacentre-insurance-code-gap-20260921",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "insuranceasianews",
+      "contentKind": "news",
+      "title": {
+        "sc": "数据中心保险的风险评估赶不上建设速度：工程规范滞后、专业承包商与供应链紧张成承保变量 [EN原文]",
+        "tc": "數據中心保險的風險評估趕不上建設速度：工程規範滯後、專業承包商與供應鏈緊張成承保變量 [EN原文]"
+      },
+      "summary": {
+        "sc": "工程风险咨询机构 Halliwell 在 InsuranceAsia News 撰文指出，亚太数据中心单体用电已超100MW，仅马来西亚在建及规划容量约13GW，但工程规范与指南的更新落后于技术与需求演进，叠加高度专业化的承包商稀缺、供应链紧张，火灾等复合风险的后果未被充分计入。该行业尚未经历市场级重大赔付，作者认为提前识别并修正设计与运营风险的窗口就在当下。",
+        "tc": "工程風險諮詢機構 Halliwell 在 InsuranceAsia News 撰文指出，亞太數據中心單體用電已超100MW，僅馬來西亞在建及規劃容量約13GW，但工程規範與指南的更新落後於技術與需求演進，疊加高度專業化的承包商稀缺、供應鏈緊張，火災等複合風險的後果未被充分計入。該行業尚未經歷市場級重大賠付，作者認為提前識別並修正設計與運營風險的窗口就在當下。"
+      },
+      "why": {
+        "sc": "AI 基建是当前最集中的新建风险敞口，而这篇文章点出了承保实务的真空：规范与人力都跟不上建设速度，意味着「没有大赔付」并不等于风险可控。香港正推动数据中心与专项保险配套，理解这条风险链条有助于在商谈工程险与营运中断保障时提出正确的问题。",
+        "tc": "AI 基建是當前最集中的新建風險敞口，而這篇文章點出了承保實務的真空：規範與人力都跟不上建設速度，意味着「沒有大賠付」並不等於風險可控。香港正推動數據中心與專項保險配套，理解這條風險鏈條有助於在商談工程險與營運中斷保障時提出正確的問題。"
+      },
+      "actions": {
+        "front": {
+          "sc": "面对数据中心与AI基建客户时，先问设计与调试阶段的规范依据与承包商资质，再谈保额",
+          "tc": "面對數據中心與AI基建客戶時，先問設計與調試階段的規範依據與承包商資質，再談保額"
+        },
+        "midback": {
+          "sc": "把工程规范滞后与供应链风险写入承保资料清单，作为核保沟通的支撑材料",
+          "tc": "把工程規範滯後與供應鏈風險寫入承保資料清單，作為核保溝通的支撐材料"
+        },
+        "lead": {
+          "sc": "关注数据中心工程险与营运中断的条款演进，评估新基建客群的准入标准",
+          "tc": "關注數據中心工程險與營運中斷的條款演進，評估新基建客群的准入標準"
+        },
+        "cross": {
+          "sc": "留意跨区域数据中心的累积暴露口径，与风险团队同步",
+          "tc": "留意跨區域數據中心的累積暴露口徑，與風險團隊同步"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "InsuranceAsia News（2026-09-21，Halliwell 评论文章）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "tech"
+      ],
+      "themes": [
+        "ai",
+        "uw"
+      ],
+      "tags": {
+        "sc": [
+          "数据中心",
+          "AI基建",
+          "工程险",
+          "火灾风险",
+          "营运中断",
+          "马来西亚"
+        ],
+        "tc": [
+          "數據中心",
+          "AI基建",
+          "工程險",
+          "火災風險",
+          "營運中斷",
+          "馬來西亞"
+        ]
+      },
+      "publishedAt": "2026-09-21T14:20:00+08:00",
+      "originalUrl": "https://insuranceasianews.com/data-centres-are-racing-ahead-of-the-rules-built-to-insure-them/",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-23T00:37:00+08:00"
+    },
     {
       "clusterCount": 1,
       "score": 68,
@@ -74779,10 +75259,10 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 896 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 896 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 902 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 902 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 896,
+      "totalItems": 902,
       "sourceTiers": [
         {
           "tier": "official",
@@ -74806,7 +75286,7 @@
         },
         {
           "tier": "pro",
-          "count": 124,
+          "count": 130,
           "label": "专业解读"
         },
         {
@@ -74910,12 +75390,12 @@
         },
         {
           "theme": "reinsurance",
-          "count": 69,
+          "count": 72,
           "label": "再保险"
         },
         {
           "theme": "cross-border",
-          "count": 67,
+          "count": 68,
           "label": "跨境"
         },
         {

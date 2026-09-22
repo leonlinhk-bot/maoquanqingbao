@@ -1,9 +1,87 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-22T14:20:36Z",
-  "itemCount": 896,
+  "generatedAt": "2026-09-22T16:45:14Z",
+  "itemCount": 902,
   "items": [
+    {
+      "id": "artemis-casualty-sidecar-third-pillar-hcma-20260922",
+      "title": "Howden：意外险侧挂车成再保险之外的「第三支柱」，保荐人应尽早布局 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-09-22T18:30:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-casualty-sidecar-third-pillar-hcma-20260922",
+      "originalUrl": "https://www.artemis.bm/news/casualty-sidecars-emerging-as-third-pillar-sponsors-urged-to-act-hcma/"
+    },
+    {
+      "id": "ian-typhoon-dujuan-japan-losses-20260922",
+      "title": "台风「杜鹃」重创日本东部：伊豆大岛48小时雨量832毫米破纪录，4死22伤、逾4.5万户停电 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "natcat",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-09-22T16:45:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-typhoon-dujuan-japan-losses-20260922",
+      "originalUrl": "https://insuranceasianews.com/typhoon-dujuan-triggers-record-rainfaill-landslides-flooding-in-japan/"
+    },
+    {
+      "id": "ian-lockton-asia-financial-lines-cross-border-20260922",
+      "title": "Lockton：诉讼上升、监管趋严与跨境风险扩大推升亚洲金融线保险需求，软市场提供扩保窗口 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "cross-border",
+        "uw"
+      ],
+      "publishedAt": "2026-09-22T07:30:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-lockton-asia-financial-lines-cross-border-20260922",
+      "originalUrl": "https://insuranceasianews.com/stricter-rules-cross-border-risks-drive-asia-financial-lines-growth-locktons-frederic-boles/"
+    },
+    {
+      "id": "artemis-mas-ils-infrastructure-datacentre-20260921",
+      "title": "新加坡金管局：ILS 可作大型基建风险转移与融资的补充机制，指东南亚每年需约2,100亿美元基建投资 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-09-21T18:30:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-mas-ils-infrastructure-datacentre-20260921",
+      "originalUrl": "https://www.artemis.bm/news/ils-complementary-for-transferring-funding-risks-of-large-infrastructure-projects-singapores-mas/"
+    },
+    {
+      "id": "artemis-ils-capital-cyber-ai-datacentre-leadenhall-20260921",
+      "title": "Leadenhall CEO：把 ILS 资本投进网络、AI 与数据中心须匹配的基金结构；ESMA 巨灾债券纳入 UCITS 建议暂无实施时间表 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "cyber"
+      ],
+      "publishedAt": "2026-09-21T16:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-ils-capital-cyber-ai-datacentre-leadenhall-20260921",
+      "originalUrl": "https://www.artemis.bm/news/deploying-ils-capital-into-cyber-ai-data-centres-requires-right-fund-structures-albertini-leadenhall/"
+    },
+    {
+      "id": "ian-datacentre-insurance-code-gap-20260921",
+      "title": "数据中心保险的风险评估赶不上建设速度：工程规范滞后、专业承包商与供应链紧张成承保变量 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ai",
+        "uw"
+      ],
+      "publishedAt": "2026-09-21T14:20:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-datacentre-insurance-code-gap-20260921",
+      "originalUrl": "https://insuranceasianews.com/data-centres-are-racing-ahead-of-the-rules-built-to-insure-them/"
+    },
     {
       "id": "ibm-allianz-captive-head-20260922",
       "title": "安联聘请 AIG 老将执掌全球专属自保前端与解决方案业务 [EN原文]",
