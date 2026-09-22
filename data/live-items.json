@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-22T18:15:00+08:00",
-    "itemCount": 886,
+    "generatedAt": "2026-09-22T22:20:28+08:00",
+    "itemCount": 896,
     "windowNote": {
-      "sc": "本库886条。",
-      "tc": "本庫886條。"
+      "sc": "本库896条。",
+      "tc": "本庫896條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -147,7 +147,7 @@
       ],
       "registryFile": "data/sources.yaml"
     },
-    "asOf": "2026-09-21T21:15:48+08:00",
+    "asOf": "2026-09-22T22:20:28+08:00",
     "roles": [
       {
         "id": "front",
@@ -278,6 +278,725 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "clusterCount": 1,
+      "score": 68,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "留意专属自保与 PCC/ILS 框架配套，评估自保客户方案的再保与前端对接渠道",
+          "tc": "留意專屬自保與 PCC/ILS 框架配套，評估自保客户方案的再保與前端對接渠道"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Business Asia（2026-09-22）",
+        "lang": "en"
+      },
+      "contentKind": "news",
+      "id": "ibm-allianz-captive-head-20260922",
+      "sourceKey": "insurancebusinessmag",
+      "title": {
+        "sc": "安联聘请 AIG 老将执掌全球专属自保前端与解决方案业务 [EN原文]",
+        "tc": "安聯聘請 AIG 老將執掌全球專屬自保前端與解決方案業務 [EN原文]"
+      },
+      "summary": {
+        "sc": "安联商业（Allianz Commercial）任命 Stephen Morton 为全球专属自保前端及自保解决方案主管，2027年3月1日生效，常驻巴黎并向另类风险转移（ART）全球主管 Lara Martiner 汇报，接替服务约七年后退休的 Brian McNamara。Morton 有逾30年保险经验，此前任 AIG 前端与跨国业务全球首席承保官。安联称该业务组合过去15年增长强劲，涵盖单一险种前端承保到多年期、多险种跨境结构；Martiner 引述全球自保市场约600亿美元保费、约6,000家自保公司。",
+        "tc": "安聯商業（Allianz Commercial）任命 Stephen Morton 為全球專屬自保前端及自保解決方案主管，2027年3月1日生效，常駐巴黎並向另類風險轉移（ART）全球主管 Lara Martiner 匯報，接替服務約七年後退休的 Brian McNamara。Morton 有逾30年保險經驗，此前任 AIG 前端與跨國業務全球首席承保官。安聯稱該業務組合過去15年增長強勁，涵蓋單一險種前端承保到多年期、多險種跨境結構；Martiner 引述全球自保市場約600億美元保費、約6,000家自保公司。"
+      },
+      "why": {
+        "sc": "专属自保是香港「风险管理中心」定位下的政策抓手之一（五年规划已提出自保与 PCC 框架、ILS 投资者限制检讨）。国际集团承保团队换人，会直接影响跨国自保与前端方案的对接人与承保口径，值得在客户谈「自保+前端+再保」架构时同步留意。",
+        "tc": "專屬自保是香港「風險管理中心」定位下的政策抓手之一（五年規劃已提出自保與 PCC 框架、ILS 投資者限制檢討）。國際集團承保團隊換人，會直接影響跨國自保與前端方案的對接人與承保口徑，值得在客户談「自保+前端+再保」架構時同步留意。"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "leadership",
+        "reinsurance"
+      ],
+      "tags": {
+        "sc": [
+          "安联",
+          "专属自保",
+          "前端承保",
+          "人事",
+          "另类风险转移"
+        ],
+        "tc": [
+          "安聯",
+          "專屬自保",
+          "前端承保",
+          "人事",
+          "另類風險轉移"
+        ]
+      },
+      "publishedAt": "2026-09-22T21:54:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/allianz-taps-aig-veteran-to-lead-global-captive-solutions-business-590677.aspx",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "关注并购完成后网络险与专业险条线的承保口径及授权变化",
+          "tc": "關注併購完成後網絡險與專業險條線的承保口徑及授權變化"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Business Asia（2026-09-22）",
+        "lang": "en"
+      },
+      "contentKind": "news",
+      "id": "ibm-zurich-beazley-court-20260922",
+      "sourceKey": "insurancebusinessmag",
+      "title": {
+        "sc": "伦敦高等法院放行苏黎世81亿英镑收购 Beazley，10月1日完成 [EN原文]",
+        "tc": "倫敦高等法院放行蘇黎世81億英鎊收購 Beazley，10月1日完成 [EN原文]"
+      },
+      "summary": {
+        "sc": "英格兰及威尔士高等法院周二批准苏黎世收购劳合社专业险商 Beazley 的安排计划，庭上无人提出反对，董事会此前已一致支持。交易对价为每股1,310便士现金另加25便士股息（合计1,335便士），较1月中收市价820便士溢价59.8%，作价约81亿英镑（约109亿美元）。苏黎世9月14日确认监管批准齐备，交易将于10月1日生效，股东两周内收到现金。分析师称此为十余年来专业险最重大整合之一，可能引发同业竞争性回应，并推动网络风险建模与威胁情报投资。",
+        "tc": "英格蘭及威爾斯高等法院周二批准蘇黎世收購勞合社專業險商 Beazley 的安排計劃，庭上無人提出反對，董事會此前已一致支持。交易對價為每股1,310便士現金另加25便士股息（合計1,335便士），較1月中收市價820便士溢價59.8%，作價約81億英鎊（約109億美元）。蘇黎世9月14日確認監管批准齊備，交易將於10月1日生效，股東兩周內收到現金。分析師稱此為十餘年來專業險最重大整合之一，可能引發同業競爭性回應，並推動網絡風險建模與威脅情報投資。"
+      },
+      "why": {
+        "sc": "Beazley 的网络险与劳合社牌照是本次收购的核心资产。对做企业/高净值专业险渠道的团队，供应商集中度上升意味着承保口径与容量排布可能调整，续保年度宜提前确认条线策略。",
+        "tc": "Beazley 的網絡險與勞合社牌照是本次收購的核心資產。對做企業/高淨值專業險渠道的團隊，供應商集中度上升意味着承保口徑與容量排布可能調整，續保年度宜提前確認條線策略。"
+      },
+      "boards": [
+        "insurer",
+        "market"
+      ],
+      "themes": [
+        "ma",
+        "cyber"
+      ],
+      "tags": {
+        "sc": [
+          "苏黎世",
+          "Beazley",
+          "劳合社",
+          "并购",
+          "网络险"
+        ],
+        "tc": [
+          "蘇黎世",
+          "Beazley",
+          "勞合社",
+          "併購",
+          "網絡險"
+        ]
+      },
+      "publishedAt": "2026-09-22T21:03:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/zurichs-8-1bn-swoop-for-beazley-gets-the-green-light-from-londons-high-court-590666.aspx",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "提醒财产/农业/能源客户在续保前检视分区限额、免赔与累积假设",
+          "tc": "提醒財產/農業/能源客户在續保前檢視分區限額、免賠與累積假設"
+        },
+        "lead": {
+          "sc": "评估再保结构与巨灾模型情景是否需要按更高海温情景重算",
+          "tc": "評估再保結構與巨災模型情景是否需要按更高海温情景重算"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Business Asia（2026-09-22）",
+        "lang": "en"
+      },
+      "contentKind": "news",
+      "id": "ibm-el-nino-record-2026-losses-20260922",
+      "sourceKey": "insurancebusinessmag",
+      "title": {
+        "sc": "「史上最强厄尔尼诺」成形：海温破150年纪录，损失已进账 [EN原文]",
+        "tc": "「史上最強厄爾尼諾」成形：海温破150年紀錄，損失已進賬 [EN原文]"
+      },
+      "summary": {
+        "sc": "2026–2027年厄尔尼诺关键海区海温较1991–2020年均值高3.05℃，超越2015年11月的3.02℃纪录。气候学家 Zeke Hausfather 预计11–12月或升至4.0℃；英国气象局称其为「19世纪以来最大」，世界气象组织称至少千年最强，NOAA 给出9月至明年1月持续概率≥90%。2026年已出现夏威夷飓风、美国洪水、智利风暴与秘鲁高温等事件，8月为有记录以来最热8月（较工业化前高1.65℃）。距峰值约8–10周。",
+        "tc": "2026–2027年厄爾尼諾關鍵海區海温較1991–2020年均值高3.05℃，超越2015年11月的3.02℃紀錄。氣候學家 Zeke Hausfather 預計11–12月或升至4.0℃；英國氣象局稱其為「19世紀以來最大」，世界氣象組織稱至少千年最強，NOAA 給出9月至明年1月持續概率≥90%。2026年已出現夏威夷颶風、美國洪水、智利風暴與秘魯高温等事件，8月為有記錄以來最熱8月（較工業化前高1.65℃）。距峯值約8–10周。"
+      },
+      "why": {
+        "sc": "巨灾累积是承保端最真实的「尾部」问题：若巨灾模型按3.0℃校准，4.0℃情景下的超赔层与再保结构可能不足。财产、农业、能源及供应链客户在续保前值得重检分区限额、免赔与累积管理假设。",
+        "tc": "巨災累積是承保端最真實的「尾部」問題：若巨災模型按3.0℃校準，4.0℃情景下的超賠層與再保結構可能不足。財產、農業、能源及供應鏈客户在續保前值得重檢分區限額、免賠與累積管理假設。"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "catastrophe",
+        "reinsurance"
+      ],
+      "tags": {
+        "sc": [
+          "厄尔尼诺",
+          "巨灾模型",
+          "累积风险",
+          "再保险",
+          "气候变化"
+        ],
+        "tc": [
+          "厄爾尼諾",
+          "巨災模型",
+          "累積風險",
+          "再保險",
+          "氣候變化"
+        ]
+      },
+      "publishedAt": "2026-09-22T18:16:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/the-strongest-el-nino-in-recorded-history-is-building--insurers-are-already-paying-the-price-590647.aspx",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "clusterCount": 1,
+      "score": 66,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "留意北亚项目型业务新容量的授权边界与承保偏好",
+          "tc": "留意北亞項目型業務新容量的授權邊界與承保偏好"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Business Asia（2026-09-21）",
+        "lang": "en"
+      },
+      "contentKind": "news",
+      "id": "ibm-insurance-moves-canopius-hdi-20260921",
+      "sourceKey": "insurancebusinessmag",
+      "title": {
+        "sc": "人事动向：Canopius 亚太补三席，HDI Global 推进北亚项目型业务 [EN原文]",
+        "tc": "人事動向：Canopius 亞太補三席，HDI Global 推進北亞項目型業務 [EN原文]"
+      },
+      "summary": {
+        "sc": "报道指 Canopius 在亚太新增三名人员，分别覆盖理赔、财产及信用风险条线；HDI Global 同步推进北亚的项目型业务（programmes）。同期区域人事动态还包括 Lockton 与 Manulife 的相关任命。亚洲专业险与项目险的承保团队正在重新排布，本地承保人才竞争随之升温。",
+        "tc": "報道指 Canopius 在亞太新增三名人員，分別覆蓋理賠、財產及信用風險條線；HDI Global 同步推進北亞的項目型業務（programmes）。同期區域人事動態還包括 Lockton 與 Manulife 的相關任命。亞洲專業險與項目險的承保團隊正在重新排布，本地承保人才競爭隨之升温。"
+      },
+      "why": {
+        "sc": "专业险团队补位往往先于承保口径调整；北亚项目型业务（programmes）活跃度提升，意味着大型企业客户的分层承保结构会有更多本地选项，值得在续保谈判前摸清各家的授权边界。",
+        "tc": "專業險團隊補位往往先於承保口徑調整；北亞項目型業務（programmes）活躍度提升，意味着大型企業客户的分層承保結構會有更多本地選項，值得在續保談判前摸清各家的授權邊界。"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "talent",
+        "underwriting"
+      ],
+      "tags": {
+        "sc": [
+          "Canopius",
+          "HDI Global",
+          "北亚",
+          "项目型业务",
+          "人事"
+        ],
+        "tc": [
+          "Canopius",
+          "HDI Global",
+          "北亞",
+          "項目型業務",
+          "人事"
+        ]
+      },
+      "publishedAt": "2026-09-21T23:42:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/insurance-moves-lockton-canopius-manulife-hdi-global-590521.aspx",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "pending",
+      "sourceTier": "pro",
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "留意经纪渠道全球条线负责人更替对复杂风险方案协调节奏的影响",
+          "tc": "留意經紀渠道全球條線負責人更替對複雜風險方案協調節奏的影響"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 0,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "InsuranceAsia News（2026-09-22）",
+        "lang": "en"
+      },
+      "contentKind": "news",
+      "id": "ian-aon-jane-drummond-global-cco-20260922",
+      "sourceKey": "insuranceasianews",
+      "title": {
+        "sc": "怡安擢升亚太首席商务官 Jane Drummond 为全球首席商务官 [EN原文]",
+        "tc": "怡安擢升亞太首席商務官 Jane Drummond 為全球首席商務官 [EN原文]"
+      },
+      "summary": {
+        "sc": "怡安（Aon）宣布将现任亚太区首席商务官 Jane Drummond 擢升为全球首席商务官，自1月1日起生效。该任命是亚太区人才进入集团全球决策层的最新一例；Aon 近期在亚洲区亦有多项人事与业务布局。",
+        "tc": "怡安（Aon）宣佈將現任亞太區首席商務官 Jane Drummond 擢升為全球首席商務官，自1月1日起生效。該任命是亞太區人才進入集團全球決策層的最新一例；Aon 近期在亞洲區亦有多項人事與業務佈局。"
+      },
+      "why": {
+        "sc": "经纪渠道的决策权进一步向全球总部集中，对香港复杂风险方案的全球协调、再保安排与跨境客户服务节奏有间接影响；对前线而言，意味着复杂个案（跨境架构、大额企业险）的解决路径可能更依赖区域—全球联动。",
+        "tc": "經紀渠道的決策權進一步向全球總部集中，對香港複雜風險方案的全球協調、再保安排與跨境客户服務節奏有間接影響；對前線而言，意味着複雜個案（跨境架構、大額企業險）的解決路徑可能更依賴區域—全球聯動。"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "talent",
+        "channel"
+      ],
+      "tags": {
+        "sc": [
+          "怡安",
+          "保险经纪",
+          "人事",
+          "亚太",
+          "全球总部"
+        ],
+        "tc": [
+          "怡安",
+          "保險經紀",
+          "人事",
+          "亞太",
+          "全球總部"
+        ]
+      },
+      "publishedAt": "2026-09-22T21:30:00+08:00",
+      "originalUrl": "https://insuranceasianews.com/aon-promotes-jane-drummond-to-global-chief-commercial-officer/",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "pending",
+      "sourceTier": "pro",
+      "actions": {
+        "front": {
+          "sc": "接触虚拟资产/家办客户前先确认数字资产责任险可用容量与免责范围",
+          "tc": "接觸虛擬資產/家辦客户前先確認數字資產責任險可用容量與免責範圍"
+        },
+        "midback": {},
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 1,
+        "cross": 2
+      },
+      "source": {
+        "sc": "InsuranceAsia News（2026-09-22）",
+        "lang": "en"
+      },
+      "contentKind": "news",
+      "id": "ian-oneglobal-fraction-hk-crypto-20260922",
+      "sourceKey": "insuranceasianews",
+      "title": {
+        "sc": "Oneglobal 完成收购香港加密资产专业经纪 Fraction [EN原文]",
+        "tc": "Oneglobal 完成收購香港加密資產專業經紀 Fraction [EN原文]"
+      },
+      "summary": {
+        "sc": "国际经纪集团 Oneglobal 宣布完成对香港加密资产专业经纪商 Fraction 的收购，金额未披露。该交易归入金融责任险（financial lines）与香港市场条线，反映香港虚拟资产生态在牌照与稳定币制度落地后，对专业责任、托管与合规类保险安排的需求上升；Oneglobal 借此扩充香港及亚太专业险团队。",
+        "tc": "國際經紀集團 Oneglobal 宣佈完成對香港加密資產專業經紀商 Fraction 的收購，金額未披露。該交易歸入金融責任險（financial lines）與香港市場條線，反映香港虛擬資產生態在牌照與穩定幣制度落地後，對專業責任、託管與合規類保險安排的需求上升；Oneglobal 藉此擴充香港及亞太專業險團隊。"
+      },
+      "why": {
+        "sc": "数字资产相关责任险是香港专业险少见的增量赛道，但承保能力高度依赖少数再保方。团队若接触持牌虚拟资产平台或家族办公室客户，宜先确认可用容量与免责边界，避免口头承诺。",
+        "tc": "數字資產相關責任險是香港專業險少見的增量賽道，但承保能力高度依賴少數再保方。團隊若接觸持牌虛擬資產平台或家族辦公室客户，宜先確認可用容量與免責邊界，避免口頭承諾。"
+      },
+      "boards": [
+        "insurer",
+        "market"
+      ],
+      "themes": [
+        "ma",
+        "cyber"
+      ],
+      "tags": {
+        "sc": [
+          "虚拟资产",
+          "专业责任险",
+          "Oneglobal",
+          "香港",
+          "并购"
+        ],
+        "tc": [
+          "虛擬資產",
+          "專業責任險",
+          "Oneglobal",
+          "香港",
+          "併購"
+        ]
+      },
+      "publishedAt": "2026-09-22T07:42:00+08:00",
+      "originalUrl": "https://insuranceasianews.com/oneglobal-completes-takeover-of-hong-kong-crypto-specialist-fraction/",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "pending",
+      "sourceTier": "pro",
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "留意区域临分承保能力变化对非标财产个案报价节奏的影响",
+          "tc": "留意區域臨分承保能力變化對非標財產個案報價節奏的影響"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "InsuranceAsia News（2026-09-22）",
+        "lang": "en"
+      },
+      "contentKind": "news",
+      "id": "ian-munich-re-specialty-property-df-20260922",
+      "sourceKey": "insuranceasianews",
+      "title": {
+        "sc": "慕尼黑再保险专业险增聘财产直接与临分承保人 Johnny Ng [EN原文]",
+        "tc": "慕尼黑再保險專業險增聘財產直接與臨分承保人 Johnny Ng [EN原文]"
+      },
+      "summary": {
+        "sc": "慕尼黑再保险专业险（Munich Re Specialty）任命 Johnny Ng 为财产险直接与临分（direct & facultative）承保人，常驻新加坡，从怡安（Aon）过档。该 Lloyd's 平台持续在亚洲补强财产险承保能力，反映亚太财产与临分需求仍在扩张。",
+        "tc": "慕尼黑再保險專業險（Munich Re Specialty）任命 Johnny Ng 為財產險直接與臨分（direct & facultative）承保人，常駐新加坡，從怡安（Aon）過檔。該 Lloyd's 平台持續在亞洲補強財產險承保能力，反映亞太財產與臨分需求仍在擴張。"
+      },
+      "why": {
+        "sc": "临分承保人到位通常先改善大额、非标财产风险的报价效率。对有大型财产或工程项目客户的中介，区域临分能力增强意味着个案安排路径更多元。",
+        "tc": "臨分承保人到位通常先改善大額、非標財產風險的報價效率。對有大型財產或工程項目客户的中介，區域臨分能力增強意味着個案安排路徑更多元。"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "talent",
+        "underwriting"
+      ],
+      "tags": {
+        "sc": [
+          "慕尼黑再保险",
+          "临分",
+          "财产险",
+          "新加坡",
+          "人事"
+        ],
+        "tc": [
+          "慕尼黑再保險",
+          "臨分",
+          "財產險",
+          "新加坡",
+          "人事"
+        ]
+      },
+      "publishedAt": "2026-09-22T18:00:00+08:00",
+      "originalUrl": "https://insuranceasianews.com/munich-re-specialty-hires-johnny-ng-as-property-df-underwriter/",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "clusterCount": 1,
+      "score": 68,
+      "verifyStatus": "pending",
+      "sourceTier": "pro",
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "留意信用险条线专业力量变化对贸易融资类客户方案的影响",
+          "tc": "留意信用險條線專業力量變化對貿易融資類客户方案的影響"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "InsuranceAsia News（2026-09-22）",
+        "lang": "en"
+      },
+      "contentKind": "news",
+      "id": "ian-lockton-alex-bursak-credit-asia-20260922",
+      "sourceKey": "insuranceasianews",
+      "title": {
+        "sc": "Lockton 任命 Alex Bursak 为亚洲区信用险总监 [EN原文]",
+        "tc": "Lockton 任命 Alex Bursak 為亞洲區信用險總監 [EN原文]"
+      },
+      "summary": {
+        "sc": "Lockton 宣布任命 Alex Bursak 为亚洲区信用险（credit）总监。他由韦莱韬悦（WTW）过档，此前在安联贸易（Allianz Trade）亚太区任职逾八年，其中两年出任雅加达印尼区总经理。这是 Lockton 近期在亚洲的又一项人事布局。",
+        "tc": "Lockton 宣佈任命 Alex Bursak 為亞洲區信用險（credit）總監。他由韋萊韜悦（WTW）過檔，此前在安聯貿易（Allianz Trade）亞太區任職逾八年，其中兩年出任雅加達印尼區總經理。這是 Lockton 近期在亞洲的又一項人事佈局。"
+      },
+      "why": {
+        "sc": "信用与贸易险条线的人才流动往往伴随产品与服务升级。对做贸易融资、应收账款保障客户的中介，区域信用险专业度提升意味着更细分的额度与条款设计空间。",
+        "tc": "信用與貿易險條線的人才流動往往伴隨產品與服務升級。對做貿易融資、應收賬款保障客户的中介，區域信用險專業度提升意味着更細分的額度與條款設計空間。"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "talent",
+        "underwriting"
+      ],
+      "tags": {
+        "sc": [
+          "Lockton",
+          "信用险",
+          "安联贸易",
+          "亚洲",
+          "人事"
+        ],
+        "tc": [
+          "Lockton",
+          "信用險",
+          "安聯貿易",
+          "亞洲",
+          "人事"
+        ]
+      },
+      "publishedAt": "2026-09-22T12:56:00+08:00",
+      "originalUrl": "https://insuranceasianews.com/lockton-appoints-alex-bursak-as-regional-credit-director-for-asia/",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "pending",
+      "sourceTier": "pro",
+      "actions": {
+        "front": {},
+        "midback": {},
+        "lead": {
+          "sc": "观察东南亚数字渠道平台承保能力提升对区域费率与条款供给的影响",
+          "tc": "觀察東南亞數字渠道平台承保能力提升對區域費率與條款供給的影響"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "InsuranceAsia News（2026-09-22）",
+        "lang": "en"
+      },
+      "contentKind": "news",
+      "id": "ian-policystreet-cuo-hannover-re-20260922",
+      "sourceKey": "insuranceasianews",
+      "title": {
+        "sc": "马来西亚数字保险商 PolicyStreet 延揽 Hannover Re 的 Firdaus Kasman 任首席承保官 [EN原文]",
+        "tc": "馬來西亞數字保險商 PolicyStreet 延攬 Hannover Re 的 Firdaus Kasman 任首席承保官 [EN原文]"
+      },
+      "summary": {
+        "sc": "马来西亚数字保险平台 PolicyStreet 任命 Firdaus Kasman 为首席承保官（CUO），他此前任职于汉诺威再保险（Hannover Re）。该任命显示东南亚 insurtech 正从流量与分销竞争，转向补强精算定价与承保核心能力。",
+        "tc": "馬來西亞數字保險平台 PolicyStreet 任命 Firdaus Kasman 為首席承保官（CUO），他此前任職於漢諾威再保險（Hannover Re）。該任命顯示東南亞 insurtech 正從流量與分銷競爭，轉向補強精算定價與承保核心能力。"
+      },
+      "why": {
+        "sc": "数字渠道平台补强承保核心，意味着其与再保方的定价与条款谈判能力上升，长期将改变东南亚嵌入式保险的费率与条款供给。对以东南亚为延伸市场的团队，可关注其后续产品结构与再保支持。",
+        "tc": "數字渠道平台補強承保核心，意味着其與再保方的定價與條款談判能力上升，長期將改變東南亞嵌入式保險的費率與條款供給。對以東南亞為延伸市場的團隊，可關注其後續產品結構與再保支持。"
+      },
+      "boards": [
+        "tech",
+        "insurer"
+      ],
+      "themes": [
+        "insurtech",
+        "talent"
+      ],
+      "tags": {
+        "sc": [
+          "PolicyStreet",
+          "insurtech",
+          "承保",
+          "东南亚",
+          "人事"
+        ],
+        "tc": [
+          "PolicyStreet",
+          "insurtech",
+          "承保",
+          "東南亞",
+          "人事"
+        ]
+      },
+      "publishedAt": "2026-09-22T10:55:00+08:00",
+      "originalUrl": "https://insuranceasianews.com/policystreet-snaps-up-hannover-res-firdaus-kasman-as-new-cuo/",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
+    {
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "actions": {
+        "front": {
+          "sc": "用于向客户解释资产端宏观环境，严格避免衍生收益承诺",
+          "tc": "用於向客户解釋資產端宏觀環境，嚴格避免衍生收益承諾"
+        },
+        "midback": {},
+        "lead": {
+          "sc": "留意险资跨境配置政策口径对投资型产品的间接影响",
+          "tc": "留意險資跨境配置政策口徑對投資型產品的間接影響"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "South China Morning Post（2026-09-22）",
+        "lang": "en"
+      },
+      "contentKind": "news",
+      "id": "scmp-mainland-insurers-hk-etf-inflows-20260922",
+      "sourceKey": "scmp",
+      "title": {
+        "sc": "内地险资获准经互联互通买港股 ETF 满月：多只 ETF 成交放量",
+        "tc": "內地險資獲準經互聯互通買港股 ETF 滿月：多隻 ETF 成交放量"
+      },
+      "summary": {
+        "sc": "南华早报报道，内地41万亿元人民币（约6.1万亿美元）的保险业资金正成为港股新变量：国家金融监督管理总局上月批准保险公司经「股票通」（互联互通）机制投资香港上市 ETF，市场观察人士以周一多只港股 ETF 成交放量作为险资入场的迹象。若配置持续，将改变港股流动性与 ETF 生态结构。",
+        "tc": "南華早報報道，內地41萬億元人民幣（約6.1萬億美元）的保險業資金正成為港股新變量：國家金融監督管理總局上月批准保險公司經「股票通」（互聯互通）機制投資香港上市 ETF，市場觀察人士以周一多隻港股 ETF 成交放量作為險資入場的跡象。若配置持續，將改變港股流動性與 ETF 生態結構。"
+      },
+      "why": {
+        "sc": "险资跨境配置是内地资金「出海」的又一合规通道，也间接影响以港股资产为底层的储蓄型与投资型产品的外部环境。销售端可用作解释资产端环境的背景信息，但不应延伸为任何收益表述。",
+        "tc": "險資跨境配置是內地資金「出海」的又一合規通道，也間接影響以港股資產為底層的儲蓄型與投資型產品的外部環境。銷售端可用作解釋資產端環境的背景信息，但不應延伸為任何收益表述。"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "cross-border",
+        "capital"
+      ],
+      "tags": {
+        "sc": [
+          "内地险资",
+          "港股ETF",
+          "互联互通",
+          "跨境配置",
+          "流动性"
+        ],
+        "tc": [
+          "內地險資",
+          "港股ETF",
+          "互聯互通",
+          "跨境配置",
+          "流動性"
+        ]
+      },
+      "publishedAt": "2026-09-22T12:20:00+08:00",
+      "originalUrl": "https://www.scmp.com/business/china-business/article/3368329/hong-kong-stocks-eye-fresh-inflows-mainland-chinas-insurers-sitting-us6-trillion",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false
+    },
     {
       "clusterCount": 1,
       "score": 62,
@@ -74060,10 +74779,10 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 886 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 886 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 896 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 896 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 886,
+      "totalItems": 896,
       "sourceTiers": [
         {
           "tier": "official",
@@ -74082,12 +74801,12 @@
         },
         {
           "tier": "media",
-          "count": 313,
+          "count": 318,
           "label": "媒体报道"
         },
         {
           "tier": "pro",
-          "count": 119,
+          "count": 124,
           "label": "专业解读"
         },
         {
@@ -74191,17 +74910,17 @@
         },
         {
           "theme": "reinsurance",
-          "count": 67,
+          "count": 69,
           "label": "再保险"
         },
         {
           "theme": "cross-border",
-          "count": 66,
+          "count": 67,
           "label": "跨境"
         },
         {
           "theme": "channel",
-          "count": 59,
+          "count": 60,
           "label": "渠道"
         },
         {

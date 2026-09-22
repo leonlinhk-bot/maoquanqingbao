@@ -1,9 +1,139 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-22T10:14:58Z",
-  "itemCount": 886,
+  "generatedAt": "2026-09-22T14:20:36Z",
+  "itemCount": 896,
   "items": [
+    {
+      "id": "ibm-allianz-captive-head-20260922",
+      "title": "安联聘请 AIG 老将执掌全球专属自保前端与解决方案业务 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "leadership",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-09-22T21:54:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-allianz-captive-head-20260922",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/allianz-taps-aig-veteran-to-lead-global-captive-solutions-business-590677.aspx"
+    },
+    {
+      "id": "ibm-zurich-beazley-court-20260922",
+      "title": "伦敦高等法院放行苏黎世81亿英镑收购 Beazley，10月1日完成 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ma",
+        "cyber"
+      ],
+      "publishedAt": "2026-09-22T21:03:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-zurich-beazley-court-20260922",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/zurichs-8-1bn-swoop-for-beazley-gets-the-green-light-from-londons-high-court-590666.aspx"
+    },
+    {
+      "id": "ibm-el-nino-record-2026-losses-20260922",
+      "title": "「史上最强厄尔尼诺」成形：海温破150年纪录，损失已进账 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "catastrophe",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-09-22T18:16:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-el-nino-record-2026-losses-20260922",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/the-strongest-el-nino-in-recorded-history-is-building--insurers-are-already-paying-the-price-590647.aspx"
+    },
+    {
+      "id": "ibm-insurance-moves-canopius-hdi-20260921",
+      "title": "人事动向：Canopius 亚太补三席，HDI Global 推进北亚项目型业务 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "talent",
+        "underwriting"
+      ],
+      "publishedAt": "2026-09-21T23:42:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-insurance-moves-canopius-hdi-20260921",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/insurance-moves-lockton-canopius-manulife-hdi-global-590521.aspx"
+    },
+    {
+      "id": "ian-aon-jane-drummond-global-cco-20260922",
+      "title": "怡安擢升亚太首席商务官 Jane Drummond 为全球首席商务官 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "talent",
+        "channel"
+      ],
+      "publishedAt": "2026-09-22T21:30:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-aon-jane-drummond-global-cco-20260922",
+      "originalUrl": "https://insuranceasianews.com/aon-promotes-jane-drummond-to-global-chief-commercial-officer/"
+    },
+    {
+      "id": "ian-oneglobal-fraction-hk-crypto-20260922",
+      "title": "Oneglobal 完成收购香港加密资产专业经纪 Fraction [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ma",
+        "cyber"
+      ],
+      "publishedAt": "2026-09-22T07:42:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-oneglobal-fraction-hk-crypto-20260922",
+      "originalUrl": "https://insuranceasianews.com/oneglobal-completes-takeover-of-hong-kong-crypto-specialist-fraction/"
+    },
+    {
+      "id": "ian-munich-re-specialty-property-df-20260922",
+      "title": "慕尼黑再保险专业险增聘财产直接与临分承保人 Johnny Ng [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "talent",
+        "underwriting"
+      ],
+      "publishedAt": "2026-09-22T18:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-munich-re-specialty-property-df-20260922",
+      "originalUrl": "https://insuranceasianews.com/munich-re-specialty-hires-johnny-ng-as-property-df-underwriter/"
+    },
+    {
+      "id": "ian-lockton-alex-bursak-credit-asia-20260922",
+      "title": "Lockton 任命 Alex Bursak 为亚洲区信用险总监 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "talent",
+        "underwriting"
+      ],
+      "publishedAt": "2026-09-22T12:56:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-lockton-alex-bursak-credit-asia-20260922",
+      "originalUrl": "https://insuranceasianews.com/lockton-appoints-alex-bursak-as-regional-credit-director-for-asia/"
+    },
+    {
+      "id": "ian-policystreet-cuo-hannover-re-20260922",
+      "title": "马来西亚数字保险商 PolicyStreet 延揽 Hannover Re 的 Firdaus Kasman 任首席承保官 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "insurtech",
+        "talent"
+      ],
+      "publishedAt": "2026-09-22T10:55:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-policystreet-cuo-hannover-re-20260922",
+      "originalUrl": "https://insuranceasianews.com/policystreet-snaps-up-hannover-res-firdaus-kasman-as-new-cuo/"
+    },
+    {
+      "id": "scmp-mainland-insurers-hk-etf-inflows-20260922",
+      "title": "内地险资获准经互联互通买港股 ETF 满月：多只 ETF 成交放量",
+      "sourceTier": "media",
+      "themes": [
+        "cross-border",
+        "capital"
+      ],
+      "publishedAt": "2026-09-22T12:20:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-mainland-insurers-hk-etf-inflows-20260922",
+      "originalUrl": "https://www.scmp.com/business/china-business/article/3368329/hong-kong-stocks-eye-fresh-inflows-mainland-chinas-insurers-sitting-us6-trillion"
+    },
     {
       "id": "toutiao-chinalife-sales-penalties-20260922",
       "title": "星岛统计：中国人寿年内69条监管罚单、逾六成涉销售违规；9月20日海晏支公司再因销售行为不合规被罚8.5万元",
