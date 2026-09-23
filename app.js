@@ -1,11 +1,11 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-23T18:08:00+08:00",
-    "itemCount": 912,
+    "generatedAt": "2026-09-23T22:10:00+08:00",
+    "itemCount": 922,
     "windowNote": {
-      "sc": "本库912条。",
-      "tc": "本庫912條。"
+      "sc": "本库922条。",
+      "tc": "本庫922條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -147,7 +147,7 @@ window.HKII_DATA = {
       ],
       "registryFile": "data/sources.yaml"
     },
-    "asOf": "2026-09-23T18:08:00+08:00",
+    "asOf": "2026-09-23T22:10:00+08:00",
     "roles": [
       {
         "id": "front",
@@ -267,7 +267,31 @@ window.HKII_DATA = {
           "CNAME + Cloudflare Pages 双栈"
         ]
       }
-    ]
+    ],
+    "digests": {
+      "daily": [
+        {
+          "key": "2026-09-23",
+          "label": {
+            "sc": "2026-09-23",
+            "tc": "2026-09-23"
+          },
+          "itemCount": 10,
+          "itemIds": [
+            "hkma-scam-alert-banks-20260923",
+            "hkma-pboc-rmb-bills-tender-result-20260923",
+            "ibm-typhoon-dujuan-japan-property-gap-20260923",
+            "ibm-korea-ga-commission-bills-20260923",
+            "ibm-kumamoto-eq-residential-claims-20260923",
+            "artemis-hurricane-polo-mexico-catbond-20260922",
+            "artemis-twelve-securis-blended-ils-20260922",
+            "artemis-catiq-montreal-flood-442m-20260922",
+            "ian-chubb-darren-cook-delta-fl-20260923",
+            "ian-qbe-jonathan-groves-apac-ceo-20260922"
+          ]
+        }
+      ]
+    }
   },
   "hot": [
     "ia-public-disclosure-2026",
@@ -278,6 +302,772 @@ window.HKII_DATA = {
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "hkma-scam-alert-banks-20260923",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "contentKind": "press",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-23T22:10:00+08:00",
+      "title": {
+        "sc": "金管局发出与银行有关的骗案警示（2026年9月23日）：东亚/上海商业/创兴/集友伪冒网站及登录画面、大新伪冒网站 [EN原文]",
+        "tc": "金管局發出與銀行有關的騙案警示（2026年9月23日）：東亞/上海商業/創興/集友偽冒網站及登錄畫面、大新偽冒網站 [EN原文]"
+      },
+      "summary": {
+        "sc": "金管局9月23日发布「Scam alert related to banks」，转述东亚银行、上海商业银行、创兴银行、集友银行有关伪冒网站及网上银行登录画面，以及大新银行伪冒网站的提示。局方重申：银行不会以短讯/电邮内嵌链接引导交易，亦不会以电话、电邮或短讯索取密码或一次性密码。",
+        "tc": "金管局9月23日發布「Scam alert related to banks」，轉述東亞銀行、上海商業銀行、創興銀行、集友銀行有關偽冒網站及網上銀行登錄畫面，以及大新銀行偽冒網站的提示。局方重申：銀行不會以短訊/電郵內嵌連結引導交易，亦不會以電話、電郵或短訊索取密碼或一次性密碼。"
+      },
+      "why": {
+        "sc": "保费缴交、保单服务与客户银行账户高度绑定，伪冒银行渠道是跨境客户最常踩的坑。当日具名银行名单可直接做成客户防骗提醒。",
+        "tc": "保費繳交、保單服務與客戶銀行賬戶高度綁定，偽冒銀行渠道是跨境客戶最常踩的坑。當日具名銀行名單可直接做成客戶防騙提醒。"
+      },
+      "actions": {
+        "front": {
+          "sc": "把具名银行名单转成一条客户防骗提示，强调不点链接、不报OTP",
+          "tc": "把具名銀行名單轉成一條客戶防騙提示，強調不點連結、不報OTP"
+        },
+        "midback": {
+          "sc": "对照本司收款与退款流程，确认无异常域名或仿冒客服渠道",
+          "tc": "對照本司收款與退款流程，確認無異常域名或仿冒客服渠道"
+        },
+        "lead": {},
+        "cross": {
+          "sc": "提醒内地访客客户：港险缴费也只走保司/银行官方渠道",
+          "tc": "提醒內地訪客客戶：港險繳費也只走保司/銀行官方渠道"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 1,
+        "lead": 0,
+        "cross": 1
+      },
+      "source": {
+        "sc": "香港金融管理局新闻稿（2026-09-23）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "fraud",
+        "consumer-protection"
+      ],
+      "tags": {
+        "sc": [
+          "金管局",
+          "骗案警示",
+          "伪冒银行",
+          "防骗"
+        ],
+        "tc": [
+          "金管局",
+          "騙案警示",
+          "偽冒銀行",
+          "防騙"
+        ]
+      },
+      "publishedAt": "2026-09-23T18:00:00+08:00",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260923-5/"
+    },
+    {
+      "id": "hkma-pboc-rmb-bills-tender-result-20260923",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "contentKind": "press",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-23T22:10:00+08:00",
+      "title": {
+        "sc": "金管局公布人行6个月人民币票据投标结果：发行600亿元、认购1.27035万亿元、平均接受票息1.30% [EN原文]",
+        "tc": "金管局公布人行6個月人民幣票據投標結果：發行600億元、認購1.27035萬億元、平均接受票息1.30% [EN原文]"
+      },
+      "summary": {
+        "sc": "金管局公布2026年9月23日中国人民银行六个月人民币票据投标结果：编号BCHKFP26041，发行日9月28日、到期约2027年3月29日；申请额人民币1.27035万亿元，发行额600亿元；平均接受票息1.30%，最高1.37%、最低1.15%，最高价位分配比例约36.74%。",
+        "tc": "金管局公布2026年9月23日中國人民銀行六個月人民幣票據投標結果：編號BCHKFP26041，發行日9月28日、到期約2027年3月29日；申請額人民幣1.27035萬億元，發行額600億元；平均接受票息1.30%，最高1.37%、最低1.15%，最高價位分配比例約36.74%。"
+      },
+      "why": {
+        "sc": "人行在港常态化发行央票是离岸人民币流动性的核心调节工具。认购倍数与票息直接反映CNH资金面，影响人民币保单资产端定价与跨境固收配置节奏。",
+        "tc": "人行在港常態化發行央票是離岸人民幣流動性的核心調節工具。認購倍數與票息直接反映CNH資金面，影響人民幣保單資產端定價與跨境固收配置節奏。"
+      },
+      "actions": {
+        "front": {
+          "sc": "向持有人民币保单客户说明离岸利率波动属常态，勿以单次投标结果做退保/加保决定",
+          "tc": "向持有人民幣保單客戶說明離岸利率波動屬常態，勿以單次投標結果做退保/加保決定"
+        },
+        "midback": {
+          "sc": "把本次600亿规模与1.30%平均票息记入市场月报的人民币资金面栏目",
+          "tc": "把本次600億規模與1.30%平均票息記入市場月報的人民幣資金面欄目"
+        },
+        "lead": {
+          "sc": "关注连续投标对离岸人民币资产供给与分红基金固收仓的边际影响",
+          "tc": "關注連續投標對離岸人民幣資產供給與分紅基金固收倉的邊際影響"
+        },
+        "cross": {
+          "sc": "跨境人民币配置需同步看内地与香港两端资金与监管约束",
+          "tc": "跨境人民幣配置需同步看內地與香港兩端資金與監管約束"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 1,
+        "cross": 2
+      },
+      "source": {
+        "sc": "香港金融管理局新闻稿（2026-09-23）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "rmb",
+        "bond-market"
+      ],
+      "tags": {
+        "sc": [
+          "金管局",
+          "人行",
+          "人民币票据",
+          "离岸人民币",
+          "CMU"
+        ],
+        "tc": [
+          "金管局",
+          "人行",
+          "人民幣票據",
+          "離岸人民幣",
+          "CMU"
+        ]
+      },
+      "publishedAt": "2026-09-23T17:30:00+08:00",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260923-3/"
+    },
+    {
+      "id": "ibm-typhoon-dujuan-japan-property-gap-20260923",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "contentKind": "news",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-23T22:10:00+08:00",
+      "title": {
+        "sc": "台风「杜鹃」暴露日本财产险保障缺口：火险几乎全覆盖风灾，水灾可选附加、滑坡多数不在标准条款 [EN原文]",
+        "tc": "颱風「杜鵑」暴露日本財產險保障缺口：火險幾乎全覆蓋風災，水災可選附加、滑坡多數不在標準條款 [EN原文]"
+      },
+      "summary": {
+        "sc": "Insurance Business报道，台风「杜鹃」在日本东部造成至少6死、6失踪、逾470栋建筑受损；模式上滑坡与暴雨是主因。日本火险通常自动覆盖风灾，但水灾为可选附加（家庭持有率由2013年约80%降至2022年刚过60%），降雨引发的滑坡一般不在标准火险，仅当地震触发才可能走地震险。文中指亚太巨灾保障缺口约88%。",
+        "tc": "Insurance Business報道，颱風「杜鵑」在日本東部造成至少6死、6失踪、逾470棟建築受損；模式上滑坡與暴雨是主因。日本火險通常自動覆蓋風災，但水災為可選附加（家庭持有率由2013年約80%降至2022年剛過60%），降雨引發的滑坡一般不在標準火險，僅當地震觸發才可能走地震險。文中指亞太巨災保障缺口約88%。"
+      },
+      "why": {
+        "sc": "同一场风灾下「有没有保到」取决于条款结构，不是保额数字。对服务有日本物业/供应链客户的团队，可对照港险家居与商业火险的水灾、山泥附加是否默认包含。",
+        "tc": "同一場風災下「有沒有保到」取決於條款結構，不是保額數字。對服務有日本物業/供應鏈客戶的團隊，可對照港險家居與商業火險的水災、山泥附加是否默認包含。"
+      },
+      "actions": {
+        "front": {
+          "sc": "有日本物业客户时，核对火险是否含水灾附加、滑坡是否明示除外",
+          "tc": "有日本物業客戶時，核對火險是否含水災附加、滑坡是否明示除外"
+        },
+        "midback": {
+          "sc": "把「风灾默认/水灾可选/滑坡缺口」写入亚太财产险条款对照表",
+          "tc": "把「風災默認/水災可選/滑坡缺口」寫入亞太財產險條款對照表"
+        },
+        "lead": {
+          "sc": "用亚太88%保障缺口数字支撑「保障完整性」培训，而不只讲价格",
+          "tc": "用亞太88%保障缺口數字支撐「保障完整性」培訓，而不只講價格"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Business Asia（2026-09-23）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "catastrophe",
+        "property"
+      ],
+      "tags": {
+        "sc": [
+          "台风杜鹃",
+          "日本",
+          "财产险",
+          "保障缺口",
+          "水灾"
+        ],
+        "tc": [
+          "颱風杜鵑",
+          "日本",
+          "財產險",
+          "保障缺口",
+          "水災"
+        ]
+      },
+      "publishedAt": "2026-09-23T20:00:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/catastrophe/typhoon-dujuan-exposes-gaps-in-japans-property-insurance-cover-590853.aspx"
+    },
+    {
+      "id": "ibm-korea-ga-commission-bills-20260923",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "contentKind": "news",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-23T22:10:00+08:00",
+      "title": {
+        "sc": "韩国拟立法赋予大型GA正式议佣权：与FSC压降首年佣金、拉长摊分形成对冲 [EN原文]",
+        "tc": "韓國擬立法賦予大型GA正式議傭權：與FSC壓降首年佣金、拉長攤分形成對沖 [EN原文]"
+      },
+      "summary": {
+        "sc": "Insurance Business称，韩国朝野正推进法案，允许符合条件的大型总代理（GA）登记为「保险销售专门会社」，可议定佣金与业务费用，并承接保单维护、理赔受理等。行业担忧大型GA议价推高佣金；而FSC已自2026年7月对GA个人代理人延伸1200%规则，2027年起新单佣金四年摊分、2029年延至七年。文中对照香港IA分红险首年佣金≤70%、余额至少分五年。",
+        "tc": "Insurance Business稱，韓國朝野正推進法案，允許符合條件的大型總代理（GA）登記為「保險銷售專門會社」，可議定佣金與業務費用，並承接保單維護、理賠受理等。行業擔憂大型GA議價推高佣金；而FSC已自2026年7月對GA個人代理人延伸1200%規則，2027年起新單佣金四年攤分、2029年延至七年。文中對照香港IA分紅險首年佣金≤70%、餘額至少分五年。"
+      },
+      "why": {
+        "sc": "渠道议价权与监管压佣是同一枚硬币的两面。韩国GA立法若落地，可与香港佣金三件套对照，帮助团队解释「为什么监管要管首年比例与摊分年限」。",
+        "tc": "渠道議價權與監管壓傭是同一枚硬幣的兩面。韓國GA立法若落地，可與香港佣金三件套對照，幫助團隊解釋「為什麼監管要管首年比例與攤分年限」。"
+      },
+      "actions": {
+        "front": {
+          "sc": "客户问佣金改革时，可用韩国「议价权扩张 vs 摊分收紧」作中性对照，不比较具体比例",
+          "tc": "客戶問佣金改革時，可用韓國「議價權擴張 vs 攤分收緊」作中性對照，不比較具體比例"
+        },
+        "midback": {
+          "sc": "关注法案对销售组织主体责任与E&O的要求，对照本司转介/合作协议",
+          "tc": "關注法案對銷售組織主體責任與E&O的要求，對照本司轉介/合作協議"
+        },
+        "lead": {
+          "sc": "把「渠道集中度上升→监管更重行为与报酬结构」纳入团队合规例会",
+          "tc": "把「渠道集中度上升→監管更重行為與報酬結構」納入團隊合規例會"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 2,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Business Asia（2026-09-23）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "channel",
+        "commission"
+      ],
+      "tags": {
+        "sc": [
+          "韩国",
+          "GA",
+          "佣金",
+          "渠道",
+          "监管对照"
+        ],
+        "tc": [
+          "韓國",
+          "GA",
+          "佣金",
+          "渠道",
+          "監管對照"
+        ]
+      },
+      "publishedAt": "2026-09-23T19:30:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/south-korea-bills-put-ga-commission-bargaining-power-in-focus-590849.aspx"
+    },
+    {
+      "id": "ibm-kumamoto-eq-residential-claims-20260923",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "contentKind": "news",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-23T22:10:00+08:00",
+      "title": {
+        "sc": "日本损保协会：熊本地震住宅理赔已付237.8亿日元/30838件；已完成调查约六分之一未获赔 [EN原文]",
+        "tc": "日本損保協會：熊本地震住宅理賠已付237.8億日元/30838件；已完成調查約六分之一未獲賠 [EN原文]"
+      },
+      "summary": {
+        "sc": "Insurance Business引述日本损害保险协会（GIAJ）9月17日数据：截至8月28日，2026年7月28日熊本地震相关住宅理赔已支付237.8亿日元、30838件；受理110809件中仅36514件完成调查，约67%仍在处理。已完成调查中约16%未获赔。Verisk估整体保损约2200–3400亿日元；家庭地震险渗透率仅约35.1%。",
+        "tc": "Insurance Business引述日本損害保險協會（GIAJ）9月17日數據：截至8月28日，2026年7月28日熊本地震相關住宅理賠已支付237.8億日元、30838件；受理110809件中僅36514件完成調查，約67%仍在處理。已完成調查中約16%未獲賠。Verisk估整體保損約2200–3400億日元；家庭地震險滲透率僅約35.1%。"
+      },
+      "why": {
+        "sc": "「有火险不等于有地震险」是经典保障缺口。对有日本物业或供应链的客户，理赔转化率与渗透率数字可用来做保障检视，而非只谈巨灾新闻。",
+        "tc": "「有火險不等於有地震險」是經典保障缺口。對有日本物業或供應鏈的客戶，理賠轉化率與滲透率數字可用來做保障檢視，而非只談巨災新聞。"
+      },
+      "actions": {
+        "front": {
+          "sc": "日本风险客户：确认是否单独附加地震险，勿假设火险自动覆盖",
+          "tc": "日本風險客戶：確認是否單獨附加地震險，勿假設火險自動覆蓋"
+        },
+        "midback": {
+          "sc": "供应链客户检视CBI是否要求具名地点实体损毁才触发",
+          "tc": "供應鏈客戶檢視CBI是否要求具名地點實體損毀才觸發"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Business Asia（2026-09-23）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "catastrophe",
+        "claims"
+      ],
+      "tags": {
+        "sc": [
+          "熊本地震",
+          "日本",
+          "地震险",
+          "理赔",
+          "保障缺口"
+        ],
+        "tc": [
+          "熊本地震",
+          "日本",
+          "地震險",
+          "理賠",
+          "保障缺口"
+        ]
+      },
+      "publishedAt": "2026-09-23T19:00:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/catastrophe/japans-nonlife-insurers-report-residential-claims-after-kumamoto-earthquake-590851.aspx"
+    },
+    {
+      "id": "artemis-hurricane-polo-mexico-catbond-20260922",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "artemis",
+      "contentKind": "news",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-23T22:10:00+08:00",
+      "title": {
+        "sc": "飓风Polo增强至最高级别附近：1.75亿美元IBRD墨西哥太平洋参数巨灾债券进入观察 [EN原文]",
+        "tc": "颶風Polo增強至最高級別附近：1.75億美元IBRD墨西哥太平洋參數巨災債券進入觀察 [EN原文]"
+      },
+      "summary": {
+        "sc": "Artemis报道，飓风Polo在墨西哥西南外海快速增强，一度接近/达到五级，中心气压估约926mb（低于触发所需约937mb阈值），但主流路径仍偏外海。1.75亿美元IBRD CAR Mexico 2024（Pacific）参数巨灾债券以气压+路径盒触发，赔付可在本金25%–100%。次级市场报价已出现风险溢价调整。",
+        "tc": "Artemis報道，颶風Polo在墨西哥西南外海快速增強，一度接近/達到五級，中心氣壓估約926mb（低於觸發所需約937mb閾值），但主流路徑仍偏外海。1.75億美元IBRD CAR Mexico 2024（Pacific）參數巨災債券以氣壓+路徑盒觸發，賠付可在本金25%–100%。次級市場報價已出現風險溢價調整。"
+      },
+      "why": {
+        "sc": "参数巨灾债「路径一偏、定价即变」的特性，是理解ILS与传统赔付型再保差异的活教材。对讲解香港发展ILS/风险证券化的团队有公开案例价值。",
+        "tc": "參數巨災債「路徑一偏、定價即變」的特性，是理解ILS與傳統賠付型再保差異的活教材。對講解香港發展ILS/風險證券化的團隊有公開案例價值。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "把参数触发（气压阈值+地理盒）记入ILS产品知识库",
+          "tc": "把參數觸發（氣壓閾值+地理盒）記入ILS產品知識庫"
+        },
+        "lead": {
+          "sc": "对内培训可用此例说明「实时风险」如何瞬时反映到二级市场",
+          "tc": "對內培訓可用此例說明「實時風險」如何瞬時反映到二級市場"
+        },
+        "cross": {
+          "sc": "联系香港政策地址中发展ILS生态的表述，补充国际案例",
+          "tc": "聯繫香港政策地址中發展ILS生態的表述，補充國際案例"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Artemis（2026-09-22）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "ils",
+        "catastrophe"
+      ],
+      "tags": {
+        "sc": [
+          "巨灾债券",
+          "参数触发",
+          "墨西哥",
+          "ILS",
+          "飓风"
+        ],
+        "tc": [
+          "巨災債券",
+          "參數觸發",
+          "墨西哥",
+          "ILS",
+          "颶風"
+        ]
+      },
+      "publishedAt": "2026-09-22T22:00:00+08:00",
+      "originalUrl": "https://www.artemis.bm/news/strengthening-hurricane-polo-brings-mexico-catastrophe-bond-into-focus"
+    },
+    {
+      "id": "artemis-twelve-securis-blended-ils-20260922",
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "artemis",
+      "contentKind": "news",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-23T22:10:00+08:00",
+      "title": {
+        "sc": "Twelve Securis：机构需求转向「流动性巨灾债+精选私募ILS」混合组合，AI不能替代核保判断 [EN原文]",
+        "tc": "Twelve Securis：機構需求轉向「流動性巨災債+精選私募ILS」混合組合，AI不能替代核保判斷 [EN原文]"
+      },
+      "summary": {
+        "sc": "Artemis专访Twelve Securis ILS投资总监Cahal Doris：除纯巨灾债扩张外，机构更希望以流动巨灾债搭配私募ILS，在流动性、分散与风险回报间取得平衡；参数与特种风险亦可扩容。对AI，其强调可用于研究、数据与运营，但投资判断须保持人类监督与治理，不能替代巨灾风险专业判断。",
+        "tc": "Artemis專訪Twelve Securis ILS投資總監Cahal Doris：除純巨災債擴張外，機構更希望以流動巨災債搭配私募ILS，在流動性、分散與風險回報間取得平衡；參數與特種風險亦可擴容。對AI，其強調可用於研究、數據與運營，但投資判斷須保持人類監督與治理，不能替代巨災風險專業判斷。"
+      },
+      "why": {
+        "sc": "保司与再保资产端、以及高客另类配置，越来越多听到「ILS」字样。混合组合与AI治理边界，是把概念落到可沟通框架的关键。",
+        "tc": "保司與再保資產端、以及高客另類配置，越來越多聽到「ILS」字樣。混合組合與AI治理邊界，是把概念落到可溝通框架的關鍵。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "整理「上市巨灾债 vs 私募ILS」流动性/透明度差异供内部问答",
+          "tc": "整理「上市巨災債 vs 私募ILS」流動性/透明度差異供內部問答"
+        },
+        "lead": {
+          "sc": "AI工具培训须同步讲治理与人工复核，避免「全自动核保」误读",
+          "tc": "AI工具培訓須同步講治理與人工複核，避免「全自動核保」誤讀"
+        },
+        "cross": {
+          "sc": "家办另类配置讨论中，ILS可作为风险溢价来源的一种公开叙事",
+          "tc": "家辦另類配置討論中，ILS可作為風險溢價來源的一種公開敘事"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Artemis（2026-09-22）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "ils",
+        "tech"
+      ],
+      "tags": {
+        "sc": [
+          "ILS",
+          "巨灾债",
+          "Twelve Securis",
+          "AI治理",
+          "机构配置"
+        ],
+        "tc": [
+          "ILS",
+          "巨災債",
+          "Twelve Securis",
+          "AI治理",
+          "機構配置"
+        ]
+      },
+      "publishedAt": "2026-09-22T21:00:00+08:00",
+      "originalUrl": "https://www.artemis.bm/news/twelve-securis-sees-demand-for-blended-liquid-cat-bond-and-private-ils-portfolios-doris"
+    },
+    {
+      "id": "artemis-catiq-montreal-flood-442m-20260922",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "artemis",
+      "contentKind": "news",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-23T22:10:00+08:00",
+      "title": {
+        "sc": "CatIQ上调蒙特利尔西岛洪涝保损至4.42亿加元：今夏安大略/魁北克六场以积水为主的巨灾 [EN原文]",
+        "tc": "CatIQ上調蒙特利爾西島洪澇保損至4.42億加元：今夏安大略/魁北克六場以積水為主的巨災 [EN原文]"
+      },
+      "summary": {
+        "sc": "加拿大保损指数机构CatIQ将2026年6月蒙特利尔西岛及周边洪涝第三次行业损失估计上调至4.42亿加元，较8月第二次估计4.11亿加元升约7.5%，主要来自住宅与商业财产。CatIQ指6–8月安大略与魁北克录得六场以城市积水/倒灌为主的巨灾，个人财产索赔逾3万件；预计12月22日发布第四次更新。",
+        "tc": "加拿大保損指數機構CatIQ將2026年6月蒙特利爾西島及周邊洪澇第三次行業損失估計上調至4.42億加元，較8月第二次估計4.11億加元升約7.5%，主要來自住宅與商業財產。CatIQ指6–8月安大略與魁北克錄得六場以城市積水/倒灌為主的巨災，個人財產索賠逾3萬件；預計12月22日發布第四次更新。"
+      },
+      "why": {
+        "sc": "城市暴雨积水（pluvial）正在成为成熟市场索赔主力，与传统河流洪水不同。对香港台风季家居/商业水险沟通，有「损失会随查勘深入上修」的公开参照。",
+        "tc": "城市暴雨積水（pluvial）正在成為成熟市場索賠主力，與傳統河流洪水不同。對香港颱風季家居/商業水險溝通，有「損失會隨查勘深入上修」的公開參照。"
+      },
+      "actions": {
+        "front": {
+          "sc": "台风季后回访：提醒客户水浸/倒灌理赔需保留现场与维修单据",
+          "tc": "颱風季後回訪：提醒客戶水浸/倒灌理賠需保留現場與維修單據"
+        },
+        "midback": {
+          "sc": "关注再保合约对城市洪水定义与起赔是否与河流洪水区分",
+          "tc": "關注再保合約對城市洪水定義與起賠是否與河流洪水區分"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Artemis（2026-09-22）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "catastrophe",
+        "flood"
+      ],
+      "tags": {
+        "sc": [
+          "洪水",
+          "加拿大",
+          "CatIQ",
+          "城市积水",
+          "保损"
+        ],
+        "tc": [
+          "洪水",
+          "加拿大",
+          "CatIQ",
+          "城市積水",
+          "保損"
+        ]
+      },
+      "publishedAt": "2026-09-22T20:30:00+08:00",
+      "originalUrl": "https://www.artemis.bm/news/catiq-raises-montreal-west-island-flooding-insured-loss-estimate-to-c442m"
+    },
+    {
+      "id": "ian-chubb-darren-cook-delta-fl-20260923",
+      "clusterCount": 1,
+      "score": 68,
+      "verifyStatus": "pending",
+      "sourceTier": "pro",
+      "sourceKey": "insuranceasianews",
+      "contentKind": "news",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-23T22:10:00+08:00",
+      "title": {
+        "sc": "Chubb的Darren Cook加盟Delta Insurance Australia任金融线承保经理 [EN原文]",
+        "tc": "Chubb的Darren Cook加盟Delta Insurance Australia任金融線承保經理 [EN原文]"
+      },
+      "summary": {
+        "sc": "InsuranceAsia News称，Darren Cook加盟Delta Insurance Australia出任金融线承保经理；其自2012年加入Chubb，近期为数字合作领域负责人。金融线（D&O/职业责任等）在亚太监管趋严与跨境诉讼上升背景下持续吸引承保人才流动。",
+        "tc": "InsuranceAsia News稱，Darren Cook加盟Delta Insurance Australia出任金融線承保經理；其自2012年加入Chubb，近期為數字合作領域負責人。金融線（D&O/職業責任等）在亞太監管趨嚴與跨境訴訟上升背景下持續吸引承保人才流動。"
+      },
+      "why": {
+        "sc": "金融线承保人才从国际大社流向区域平台，往往预示该险种费率、条款与个案审查标准的下一步调整。",
+        "tc": "金融線承保人才從國際大社流向區域平台，往往預示該險種費率、條款與個案審查標準的下一步調整。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "留意澳洲/亚太金融线报价是否出现新承保主体与条款差异",
+          "tc": "留意澳洲/亞太金融線報價是否出現新承保主體與條款差異"
+        },
+        "lead": {},
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 0,
+        "cross": 0
+      },
+      "source": {
+        "sc": "InsuranceAsia News（2026-09-23）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "talent",
+        "financial-lines"
+      ],
+      "tags": {
+        "sc": [
+          "Chubb",
+          "Delta",
+          "金融线",
+          "人事",
+          "澳洲"
+        ],
+        "tc": [
+          "Chubb",
+          "Delta",
+          "金融線",
+          "人事",
+          "澳洲"
+        ]
+      },
+      "publishedAt": "2026-09-23T16:23:00+08:00",
+      "originalUrl": "https://insuranceasianews.com/chubbs-darren-cook-joins-delta-insurance-australia-as-a-financial-lines-underwriting-manager/"
+    },
+    {
+      "id": "ian-qbe-jonathan-groves-apac-ceo-20260922",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "pending",
+      "sourceTier": "pro",
+      "sourceKey": "insuranceasianews",
+      "contentKind": "news",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-23T22:10:00+08:00",
+      "title": {
+        "sc": "QBE任命Jonathan Groves接替Sue Houghton出任澳大利亚及太平洋区CEO [EN原文]",
+        "tc": "QBE任命Jonathan Groves接替Sue Houghton出任澳大利亞及太平洋區CEO [EN原文]"
+      },
+      "summary": {
+        "sc": "InsuranceAsia News报道，Jonathan Groves将接替Sue Houghton出任QBE澳大利亚及太平洋区行政总裁；Groves在QBE任职约13年，曾包括太平洋区CEO等职务。QBE是亚太重要的商业与个人非寿险集团，区域一把手更迭通常伴随承保策略与渠道重点的再校准。",
+        "tc": "InsuranceAsia News報道，Jonathan Groves將接替Sue Houghton出任QBE澳大利亞及太平洋區行政總裁；Groves在QBE任職約13年，曾包括太平洋區CEO等職務。QBE是亞太重要的商業與個人非壽險集團，區域一把手更迭通常伴隨承保策略與渠道重點的再校準。"
+      },
+      "why": {
+        "sc": "大型非寿险区域CEO更迭是观察下一阶段费率周期与巨灾合约态度的信号灯，对有澳洲/太平洋风险的客户有参考价值。",
+        "tc": "大型非壽險區域CEO更迭是觀察下一階段費率周期與巨災合約態度的信號燈，對有澳洲/太平洋風險的客戶有參考價值。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "关注QBE澳太区续保指引是否在新任CEO后调整巨灾与车险口径",
+          "tc": "關注QBE澳太區續保指引是否在新任CEO後調整巨災與車險口徑"
+        },
+        "lead": {
+          "sc": "记录同业区域人事，用于季度市场环境简报",
+          "tc": "記錄同業區域人事，用於季度市場環境簡報"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "InsuranceAsia News（2026-09-22）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "talent",
+        "non-life"
+      ],
+      "tags": {
+        "sc": [
+          "QBE",
+          "CEO",
+          "澳洲",
+          "人事",
+          "非寿险"
+        ],
+        "tc": [
+          "QBE",
+          "CEO",
+          "澳洲",
+          "人事",
+          "非壽險"
+        ]
+      },
+      "publishedAt": "2026-09-22T10:26:00+08:00",
+      "originalUrl": "https://insuranceasianews.com/jonathan-groves-succeeds-sue-houghton-as-qbes-australia-pacific-ceo/"
+    },
     {
       "clusterCount": 1,
       "score": 70,
@@ -76061,14 +76851,14 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 912 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 912 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 922 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 922 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 912,
+      "totalItems": 922,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 270,
+          "count": 272,
           "label": "监管一手"
         },
         {
@@ -76083,12 +76873,12 @@ window.HKII_DATA = {
         },
         {
           "tier": "media",
-          "count": 320,
+          "count": 323,
           "label": "媒体报道"
         },
         {
           "tier": "pro",
-          "count": 137,
+          "count": 142,
           "label": "专业解读"
         },
         {
@@ -76202,7 +76992,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "channel",
-          "count": 60,
+          "count": 61,
           "label": "渠道"
         },
         {

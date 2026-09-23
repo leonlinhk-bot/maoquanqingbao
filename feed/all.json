@@ -1,9 +1,139 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-23T10:12:19Z",
-  "itemCount": 912,
+  "generatedAt": "2026-09-23T14:16:04Z",
+  "itemCount": 922,
   "items": [
+    {
+      "id": "hkma-scam-alert-banks-20260923",
+      "title": "金管局发出与银行有关的骗案警示（2026年9月23日）：东亚/上海商业/创兴/集友伪冒网站及登录画面、大新伪冒网站 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "fraud",
+        "consumer-protection"
+      ],
+      "publishedAt": "2026-09-23T18:00:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-scam-alert-banks-20260923",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260923-5/"
+    },
+    {
+      "id": "hkma-pboc-rmb-bills-tender-result-20260923",
+      "title": "金管局公布人行6个月人民币票据投标结果：发行600亿元、认购1.27035万亿元、平均接受票息1.30% [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "rmb",
+        "bond-market"
+      ],
+      "publishedAt": "2026-09-23T17:30:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-pboc-rmb-bills-tender-result-20260923",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260923-3/"
+    },
+    {
+      "id": "ibm-typhoon-dujuan-japan-property-gap-20260923",
+      "title": "台风「杜鹃」暴露日本财产险保障缺口：火险几乎全覆盖风灾，水灾可选附加、滑坡多数不在标准条款 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "catastrophe",
+        "property"
+      ],
+      "publishedAt": "2026-09-23T20:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-typhoon-dujuan-japan-property-gap-20260923",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/catastrophe/typhoon-dujuan-exposes-gaps-in-japans-property-insurance-cover-590853.aspx"
+    },
+    {
+      "id": "ibm-korea-ga-commission-bills-20260923",
+      "title": "韩国拟立法赋予大型GA正式议佣权：与FSC压降首年佣金、拉长摊分形成对冲 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "channel",
+        "commission"
+      ],
+      "publishedAt": "2026-09-23T19:30:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-korea-ga-commission-bills-20260923",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/south-korea-bills-put-ga-commission-bargaining-power-in-focus-590849.aspx"
+    },
+    {
+      "id": "ibm-kumamoto-eq-residential-claims-20260923",
+      "title": "日本损保协会：熊本地震住宅理赔已付237.8亿日元/30838件；已完成调查约六分之一未获赔 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "catastrophe",
+        "claims"
+      ],
+      "publishedAt": "2026-09-23T19:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-kumamoto-eq-residential-claims-20260923",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/catastrophe/japans-nonlife-insurers-report-residential-claims-after-kumamoto-earthquake-590851.aspx"
+    },
+    {
+      "id": "artemis-hurricane-polo-mexico-catbond-20260922",
+      "title": "飓风Polo增强至最高级别附近：1.75亿美元IBRD墨西哥太平洋参数巨灾债券进入观察 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "catastrophe"
+      ],
+      "publishedAt": "2026-09-22T22:00:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-hurricane-polo-mexico-catbond-20260922",
+      "originalUrl": "https://www.artemis.bm/news/strengthening-hurricane-polo-brings-mexico-catastrophe-bond-into-focus"
+    },
+    {
+      "id": "artemis-twelve-securis-blended-ils-20260922",
+      "title": "Twelve Securis：机构需求转向「流动性巨灾债+精选私募ILS」混合组合，AI不能替代核保判断 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "tech"
+      ],
+      "publishedAt": "2026-09-22T21:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-twelve-securis-blended-ils-20260922",
+      "originalUrl": "https://www.artemis.bm/news/twelve-securis-sees-demand-for-blended-liquid-cat-bond-and-private-ils-portfolios-doris"
+    },
+    {
+      "id": "artemis-catiq-montreal-flood-442m-20260922",
+      "title": "CatIQ上调蒙特利尔西岛洪涝保损至4.42亿加元：今夏安大略/魁北克六场以积水为主的巨灾 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "catastrophe",
+        "flood"
+      ],
+      "publishedAt": "2026-09-22T20:30:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-catiq-montreal-flood-442m-20260922",
+      "originalUrl": "https://www.artemis.bm/news/catiq-raises-montreal-west-island-flooding-insured-loss-estimate-to-c442m"
+    },
+    {
+      "id": "ian-chubb-darren-cook-delta-fl-20260923",
+      "title": "Chubb的Darren Cook加盟Delta Insurance Australia任金融线承保经理 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "talent",
+        "financial-lines"
+      ],
+      "publishedAt": "2026-09-23T16:23:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-chubb-darren-cook-delta-fl-20260923",
+      "originalUrl": "https://insuranceasianews.com/chubbs-darren-cook-joins-delta-insurance-australia-as-a-financial-lines-underwriting-manager/"
+    },
+    {
+      "id": "ian-qbe-jonathan-groves-apac-ceo-20260922",
+      "title": "QBE任命Jonathan Groves接替Sue Houghton出任澳大利亚及太平洋区CEO [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "talent",
+        "non-life"
+      ],
+      "publishedAt": "2026-09-22T10:26:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-qbe-jonathan-groves-apac-ceo-20260922",
+      "originalUrl": "https://insuranceasianews.com/jonathan-groves-succeeds-sue-houghton-as-qbes-australia-pacific-ceo/"
+    },
     {
       "id": "ian-hannover-re-louise-austin-20260923",
       "title": "Hannover Re 增聘 Louise Austin 任澳洲临分意外险高级承保人 [EN原文]",
