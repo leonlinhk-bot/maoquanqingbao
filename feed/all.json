@@ -1,9 +1,139 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-22T16:45:14Z",
-  "itemCount": 902,
+  "generatedAt": "2026-09-23T10:12:19Z",
+  "itemCount": 912,
   "items": [
+    {
+      "id": "ian-hannover-re-louise-austin-20260923",
+      "title": "Hannover Re 增聘 Louise Austin 任澳洲临分意外险高级承保人 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "talent",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-09-23T17:18:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-hannover-re-louise-austin-20260923",
+      "originalUrl": "https://insuranceasianews.com/louise-austin-makes-bittersweet-move-to-hannover-re-as-senior-underwriter-for-australian-fac-cas/"
+    },
+    {
+      "id": "hkma-treasury-markets-summit-20260923",
+      "title": "金管局与财资市场公会举办「2026 财资市场峰会」：推动债券市场深度、离岸人民币流动性与数字化基建",
+      "sourceTier": "official",
+      "themes": [
+        "bond-market",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-09-23T17:00:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-treasury-markets-summit-20260923",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260923-4/"
+    },
+    {
+      "id": "ian-sp-ai-credit-factors-20260923",
+      "title": "S&P：AI 的效益与风险将成(再)保险信用评级的实质考量（121家机构调研）[EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ai",
+        "rating"
+      ],
+      "publishedAt": "2026-09-23T16:07:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-sp-ai-credit-factors-20260923",
+      "originalUrl": "https://insuranceasianews.com/ai-benefits-risks-to-become-relevant-credit-factors-for-reinsurers-sp-ratings/"
+    },
+    {
+      "id": "ian-sompo-joe-wee-apac-construction-20260923",
+      "title": "损保（Sompo）委任 Joe Wee 为亚太区建筑工程承保主管 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "talent",
+        "construction"
+      ],
+      "publishedAt": "2026-09-23T15:50:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-sompo-joe-wee-apac-construction-20260923",
+      "originalUrl": "https://insuranceasianews.com/sompo-names-joe-wee-as-apac-construction-underwriting-head/"
+    },
+    {
+      "id": "sina-aia-zhonghong-hsbc-re-fund-20260923",
+      "title": "友邦人寿、中宏人寿、汇丰人寿联手认缴 23.22 亿元，投资华平 25.8 亿元不动产基金",
+      "sourceTier": "media",
+      "themes": [
+        "insurance-fund",
+        "real-estate"
+      ],
+      "publishedAt": "2026-09-23T12:42:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sina-aia-zhonghong-hsbc-re-fund-20260923",
+      "originalUrl": "https://finance.sina.com.cn/roll/2026-09-23/doc-inisusyf8609866.shtml"
+    },
+    {
+      "id": "ian-india-broker-dividend-rules-20260923",
+      "title": "印度监管放宽外资持股保险经纪公司的分红派发规则 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "regulation",
+        "broker"
+      ],
+      "publishedAt": "2026-09-23T12:13:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-india-broker-dividend-rules-20260923",
+      "originalUrl": "https://insuranceasianews.com/indian-regulator-eases-dividend-distribution-rules-for-foreign-owned-brokers/"
+    },
+    {
+      "id": "ian-lockton-arthur-wong-analytics-20260923",
+      "title": "Lockton 委任 Arthur Wong 为太平洋区分析（Analytics）主管 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "broker",
+        "data-analytics"
+      ],
+      "publishedAt": "2026-09-23T12:05:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-lockton-arthur-wong-analytics-20260923",
+      "originalUrl": "https://insuranceasianews.com/lockton-appoints-arthur-wong-as-pacific-head-of-analytics/"
+    },
+    {
+      "id": "ian-iag-rac-accc-20260923",
+      "title": "澳洲 ACCC 叫停 IAG 收购 RAC Insurance，IAG 转向「公共利益」审批路径 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ma",
+        "regulation"
+      ],
+      "publishedAt": "2026-09-23T09:54:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-iag-rac-accc-20260923",
+      "originalUrl": "https://insuranceasianews.com/iag-to-seek-public-benefits-approval-after-accc-halts-rac-insurance-acquisition/"
+    },
+    {
+      "id": "ian-hormuz-marine-calculated-risk-20260923",
+      "title": "荷莫兹海峡冲突下，海险承保人被吁视为「可计算风险」而非不可保，继续承保 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "marine",
+        "war-risk"
+      ],
+      "publishedAt": "2026-09-23T07:30:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-hormuz-marine-calculated-risk-20260923",
+      "originalUrl": "https://insuranceasianews.com/calculated-risk-not-uninsurable-marine-insurers-urged-to-stay-the-course-amid-strait-of-hormuz-conflict/"
+    },
+    {
+      "id": "scmp-family-offices-china-investments-20260923",
+      "title": "报告：欧洲、中东及非洲家办在地缘缓和下增配中国资产，组合分散成主因",
+      "sourceTier": "media",
+      "themes": [
+        "family-office",
+        "cross-border"
+      ],
+      "publishedAt": "2026-09-22T20:31:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-family-offices-china-investments-20260923",
+      "originalUrl": "https://www.scmp.com/business/money/article/3368416/some-family-offices-eyeing-chinese-investments-us-china-tensions-ease-report"
+    },
     {
       "id": "artemis-casualty-sidecar-third-pillar-hcma-20260922",
       "title": "Howden：意外险侧挂车成再保险之外的「第三支柱」，保荐人应尽早布局 [EN原文]",
