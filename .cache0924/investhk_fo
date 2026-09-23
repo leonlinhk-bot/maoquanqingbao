@@ -1,0 +1,1077 @@
+
+
+<!DOCTYPE html>
+<html lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>404 Error Page | InvestHK</title>
+    
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="title" content="404 Error Page" />
+<meta name="description" content="InvestHK&#x2019;s vision is to strengthen Hong Kong&#x2019;s status as the leading international business location in Asia." />
+<meta name="keywords" content="" />
+<meta name="robots" content="INDEX" />
+
+<meta property="og:site_name" content="404 Error Page | InvestHK" />
+    <meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.investhk.gov.hk/en/404-error-page" />
+<meta property="og:title" content="Invest Hong Kong" />
+<meta property="og:description" content="InvestHK&#x2019;s vision is to strengthen Hong Kong&#x2019;s status as the leading international business location in Asia." />
+<meta property="og:image" content="https://www.investhk.gov.hk/media/mokp3gxz/og-image-for-ihk-website.jpg">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="404 Error Page">
+<meta name="twitter:description" content="InvestHK&#x2019;s vision is to strengthen Hong Kong&#x2019;s status as the leading international business location in Asia.">
+<meta name="twitter:image" content="">
+
+    <script type="application/ld+json">{"@context":"https://schema.org/","@type":"website","name":"InvestHK - Government Department of Foreign Direct Investment","url": "https://www.investhk.gov.hk/","image":["https://www.investhk.gov.hk/media/mokp3gxz/og-image-for-ihk-website.jpg"],"datePublished":"2021-08-31","description":"InvestHK’s vision is to strengthen Hong Kong’s status as the leading international business location in Asia."}</script>
+    <script type="application/ld+json">{"@context": "http://schema.org/","@type": "Organization","name": "InvestHK","url": "https://www.investhk.gov.hk/","sameAs": ["https://www.youtube.com/user/investhk/","https://twitter.com/InvestHK/","http://www.flickr.com/photos/investhk/","https://www.linkedin.com/company/invest-hong-kong/"]}</script>
+
+<link rel="icon" type="image/png" href="/favicon.png">
+<link rel="canonical" href="https://www.investhk.gov.hk/en/404-error-page" />
+<link rel="apple-touch-icon" sizes="57x57" href="/favicon.png?width=57&amp;height=57">
+<link rel="apple-touch-icon" sizes="60x60" href="/favicon.png?width=60&amp;height=60">
+<link rel="apple-touch-icon" sizes="72x72" href="/favicon.png?width=72&amp;height=72">
+<link rel="apple-touch-icon" sizes="76x76" href="/favicon.png?width=76&amp;height=76">
+<link rel="apple-touch-icon" sizes="114x114" href="/favicon.png?width=114&amp;height=114">
+<link rel="apple-touch-icon" sizes="120x120" href="/favicon.png?width=120&amp;height=120">
+<link rel="apple-touch-icon" sizes="144x144" href="/favicon.png?width=144&amp;height=144">
+<link rel="apple-touch-icon" sizes="152x152" href="/favicon.png?width=152&amp;height=152">
+<link rel="apple-touch-icon" sizes="180x180" href="/favicon.png?width=180&amp;height=180">
+
+<link rel="canonical" href="https://www.investhk.gov.hk/en/404-error-page" />
+    <link rel="alternate" hreflang="zh-cn" href="https://www.investhk.gov.hk/zh-cn/404-error-page" />
+    <link rel="alternate" hreflang="zh-hk" href="https://www.investhk.gov.hk/zh-hk/404-error-page" />
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.png">
+
+    <!-- Core Plugins CSS -->
+    <link rel="stylesheet" href="/assets/css/core-plugins.css" />
+
+    <!-- Plugins CSS -->
+    <link rel="stylesheet" href="/assets/css/plugins.css" />
+
+    <!-- Theme Styles CSS -->
+    <link rel="stylesheet" href="/assets/css/styles.css" />
+
+    <!-- Interim Fix Ar Styles CSS -->
+    <link rel="stylesheet" href="/css/styles-ar.css" />
+    <link rel="stylesheet" href="/css/Rich Text Editor Styles.css" />
+
+    <!-- Interim fix-->
+    <style>
+        .textBlock .published_date {
+            display: none;
+        }
+    </style>
+
+    <style>
+    /* LinkedIn */
+    .headerNetwork .headerNetwork__item:nth-child(1),
+    .header__megamenu--network .header__megamenu--network-item:nth-child(1),
+    .footer__social-network .footer__social-network--link:nth-child(1) {
+        background-color: #0A66C2;
+    }
+
+    /* Facebook */
+    .headerNetwork .headerNetwork__item:nth-child(2),
+    .header__megamenu--network .header__megamenu--network-item:nth-child(2),
+    .footer__social-network .footer__social-network--link:nth-child(2) {
+        background-color: #1877F2;
+    }
+
+    /* Instagram */
+    .headerNetwork .headerNetwork__item:nth-child(3),
+    .header__megamenu--network .header__megamenu--network-item:nth-child(3),
+    .footer__social-network .footer__social-network--link:nth-child(3) {
+        background-color: #E4405F;
+    }
+
+    /* YouTube */
+    .headerNetwork .headerNetwork__item:nth-child(4),
+    .header__megamenu--network .header__megamenu--network-item:nth-child(4),
+    .footer__social-network .footer__social-network--link:nth-child(4) {
+        background-color: #FF0000;
+    }
+
+    /* WeChat */
+    .headerNetwork .headerNetwork__item:nth-child(5),
+    .header__megamenu--network .header__megamenu--network-item:nth-child(5),
+    .footer__social-network .footer__social-network--link:nth-child(5) {
+        background-color: #07C160;
+    }
+
+    /* RedNote (Xiaohongshu) */
+    .headerNetwork .headerNetwork__item:nth-child(6),
+    .header__megamenu--network .header__megamenu--network-item:nth-child(6),
+    .footer__social-network .footer__social-network--link:nth-child(6) {
+        background-color: #FF2442;
+    }
+
+    /* WhatsApp */
+    .headerNetwork .headerNetwork__item:nth-child(7),
+    .header__megamenu--network .header__megamenu--network-item:nth-child(7),
+    .footer__social-network .footer__social-network--link:nth-child(7) {
+        background-color: #25D366;
+    }
+
+    @media (max-width: 1400px) {
+        .headerNetwork {
+            right: 42%;
+            padding-left: 0px;
+        }
+    }
+
+    @media (max-width: 1400px) {
+        .homePage .headerNetwork {
+            right: 45%;
+        }
+    }
+
+    @media (max-width: 1080px) {
+        .homePage .headerNetwork {
+            display: none;
+        }
+    }
+
+    @media (max-width: 1300px) {
+    .headerNetwork__item [class^=ihk-], .headerNetwork__item [class*=" ihk-"], .headerNetwork__item span {
+        font-size: 12px;
+        }
+    }
+
+    @media (max-width: 1300px) {
+        .headerNetwork__item {
+            margin-left: 4px;
+            height: 30px;
+            width: 30px;
+            line-height: 10px;
+        }
+    }
+
+    @media (max-width: 1300px) {
+        .headerNetwork__item .ihk-common {
+            width: 16px;
+            height: 16px;
+        }
+    }
+
+    .header__megamenu--network {
+        padding-top: 20px;
+    }
+
+    .header__megamenu--middle {
+        display: block !important;
+    }
+
+    @media (max-width: 991px) {
+        .header__megamenu--middle {
+            display: none !important;
+        }
+    }
+
+    .footer__social-network--link {
+        margin-left: 6px;
+    }
+    </style>
+
+    <script type="text/javascript" src="/assets/js/libs/plyr.js"></script>
+
+        <script type="text/javascript">
+            (function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-TLJRGBM4');
+        </script>
+
+    
+    <script>
+        window.apiEndpoint = !window.location.hostname.endsWith(".investhk.hksarg") ? "https://www2.investhk.gov.hk" : "";
+
+        //Endpoints
+        window.Endpoints = {
+            "events": {
+                "list": window.apiEndpoint + "/api/{lang}/events",
+                "latest": window.apiEndpoint + "/api/{lang}/events/latest",
+                "interested": window.apiEndpoint + "/api/{lang}/events/interest"
+            },
+            "clientCase": {
+                "list": window.apiEndpoint + "/api/{lang}/clients",
+                "filter": window.apiEndpoint + "/api/{lang}/clients/filter"
+            },
+            "resourcesCentre": {
+                "list": window.apiEndpoint + "/api/{lang}/resources"
+            },
+            "careers": {
+                "list": window.apiEndpoint + "/api/{lang}/careers"
+            },
+            "news": {
+                "list": window.apiEndpoint + "/api/{lang}/news",
+                "filter": window.apiEndpoint + "/api/{lang}/news/filter",
+                "get": window.apiEndpoint + "/api/{lang}/news/get"
+            }
+        };
+        window.Templates = {};
+
+        window.ShareButtonDataURL = {
+        "facebook": "https://www.facebook.com/sharer/sharer.php?u={{url}}",
+        "linkedin":"https://www.linkedin.com/cws/share?url={{url}}",
+        "x":"https://x.com/share?url={{url}}",
+        "wechat":"{{url}}",
+        "mail":"mailto:?subject=Check out the following link from InvestHK website.&body=Check out the following link from InvestHK website:{{url}}",
+        "qrModalTitle" : "Share To WeChat",
+        "qrModalSubtitle" : "Use Scan QR Code in WeChat and click to share."
+        }
+    </script>
+
+</head>
+
+<body class="innerPage errorPage">
+            <noscript>
+                <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TLJRGBM4" height="0" width="0"
+                        style="display:none;visibility:hidden"></iframe>
+            </noscript>
+
+<!-- Header -->
+<header class="header">
+    <div class="container">
+        <div class="header__wrapper d-flex">
+            <div class="header__mobile "></div>
+            <div class="headerNetwork">
+                <a href="https://www.linkedin.com/company/invest-hong-kong" target="_blank" class="headerNetwork__item" aria-label="ihk-likedin"><span class="ihk-likedin"></span></a><a href="https://www.facebook.com/investhkgovhk/" target="_blank" class="headerNetwork__item" aria-label="Icon Facebook White"><img src="/media/uzrjbcbi/icon_facebook_white.svg" data-fallback-img="/media/uzrjbcbi/icon_facebook_white.svg" class="ihk-common" alt="Icon Facebook White" /></a><a href="https://www.instagram.com/investhk.gov.hk/" target="_blank" class="headerNetwork__item" aria-label="Instagram White Icon"><img src="/media/hgia1wvb/instagram-white-icon.svg" data-fallback-img="/media/hgia1wvb/instagram-white-icon.svg" class="ihk-common" alt="Instagram White Icon" /></a><a href="https://www.youtube.com/user/investhk" target="_blank" class="headerNetwork__item" aria-label="ihk-youtube"><span class="ihk-youtube"></span></a><a href="javascript:void(0)" class="headerNetwork__item" onclick="openWechatLightbox(event, this, 'http://weixin.qq.com/r/FSkhOeXEhbj6raFa93wH')" data-logo="true" data-title="WeChat" data-subtitle="Scan the QR code in WeChat App and follow our official account on WeChat." data-bs-toggle="modal" data-bs-target="#wechatModal"aria-label="ihk-wechat"><span class="ihk-wechat"></span></a><a href="https://www.xiaohongshu.com/user/profile/6686432c000000000f0371bd" target="_blank" class="headerNetwork__item" aria-label="ihk-xiaohongshu"><span class="ihk-xiaohongshu"></span></a><a href="https://wa.me/message/IDMB3NTVMXPZE1" target="_blank" class="headerNetwork__item" aria-label="Whatsapp White Icon"><img src="/media/tlsj3pha/whatsapp-white-icon.svg" data-fallback-img="/media/tlsj3pha/whatsapp-white-icon.svg" class="ihk-common" alt="Whatsapp White Icon" /></a>
+            </div>
+            <div class="header__logo">
+                <a href="/en/">
+                    <img src="/media/xaalrqfm/logo_newpng.png" class="header__logo--image no-greyscale" alt="InvestHK" />
+                </a>
+            </div>
+            <div class="header__right flex-fill align-self-center" style="z-index: 10;">
+                <div class="header__navigation">
+                    <button type="button" class="header__navigation--button global-search js-search-open"
+                            aria-label="Search">
+                        <span class="ihk-search"></span>
+                    </button>
+                    <button type="button" class="header__navigation--button hamburger-menu js-menu-open"
+                            aria-label="Menu">
+                        <span class="ihk-menu"></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="header__megamenu js-megamenu">
+    <div class="container">
+        <div class="header__wrapper d-flex">
+            <div class="header__logo">
+                <a href="/en/"><img src="/media/xaalrqfm/logo_newpng.png" class="header__logo--image no-greyscale" alt="InvestHK" /></a>
+            </div>
+            <div class="header__right flex-fill align-self-center" style="z-index: 10;">
+                <div class="header__navigation">
+                        <button onclick="window.open(&#x27;/en/how-to-change-text-size/&#x27;, &#x27;_self&#x27;)" type="button" class="header__navigation--button global-language" aria-label="button-global-search"><span class="ihk-fonts"></span></button>
+                    <button type="button" class="header__navigation--button global-language js-language-dropdown-button"
+                            data-bs-toggle="dropdown" aria-expanded="false" aria-label="button-language-selector">
+                        <span class="ihk-language"></span>
+                    </button>
+                    <button type="button" class="header__navigation--button hamburger-menu js-menu-close"
+                            aria-label="Close">
+                        <span class="ihk-menu-close"></span>
+                    </button>
+                    <ul class="header__megamenu--language-dropdown dropdown-menu">
+                        <li><a class="header__megamenu--list-dropdown" href="/en/404-error-page/">EN</a></li><li><a class="header__megamenu--list-dropdown" href="/zh-hk/404-error-page/">繁</a></li><li><a class="header__megamenu--list-dropdown" href="/zh-cn/404-error-page/">简</a></li>
+                        <button class="header__megamenu--list-dropdown" aria-label="button-close" aria-label="button-close"><img src="/assets/images/icons/close.svg" alt="close-icon"></button>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <ul class="header__megamenu--language-dropdown language-dropdown-mobile js-language-dropdown-mobile">
+        <li><a class="header__megamenu--list-dropdown" href="/en/404-error-page/">EN</a></li><li><a class="header__megamenu--list-dropdown" href="/zh-hk/404-error-page/">繁</a></li><li><a class="header__megamenu--list-dropdown" href="/zh-cn/404-error-page/">简</a></li>
+        <li><button class="header__megamenu--list-dropdown js-language-dropdown-mobile-close" aria-label="button-close"><img src="/assets/images/icons/close.svg" alt="close-icon"></button></li>
+    </ul>
+    <div class="header__megamenu--body">
+        <div class="container">
+            <div class="header__megamenu--main">
+                <div class="header__megamenu--network media-not-desktop">
+                    <a href="https://www.linkedin.com/company/invest-hong-kong" target="_blank" class="header__megamenu--network-item" aria-label="ihk-likedin"><span class="ihk-likedin"></span></a><a href="https://www.facebook.com/investhkgovhk/" target="_blank" class="header__megamenu--network-item" aria-label="Icon Facebook White"><img src="/media/uzrjbcbi/icon_facebook_white.svg" data-fallback-img="/media/uzrjbcbi/icon_facebook_white.svg" class="ihk-common" alt="Icon Facebook White" /></a><a href="https://www.instagram.com/investhk.gov.hk/" target="_blank" class="header__megamenu--network-item" aria-label="Instagram White Icon"><img src="/media/hgia1wvb/instagram-white-icon.svg" data-fallback-img="/media/hgia1wvb/instagram-white-icon.svg" class="ihk-common" alt="Instagram White Icon" /></a><a href="https://www.youtube.com/user/investhk" target="_blank" class="header__megamenu--network-item" aria-label="ihk-youtube"><span class="ihk-youtube"></span></a><a href="javascript:void(0)" class="header__megamenu--network-item" onclick="openWechatLightbox(event, this, 'http://weixin.qq.com/r/FSkhOeXEhbj6raFa93wH')" data-logo="true" data-title="WeChat" data-subtitle="Scan the QR code in WeChat App and follow our official account on WeChat." data-bs-toggle="modal" data-bs-target="#wechatModal"aria-label="ihk-wechat"><span class="ihk-wechat"></span></a><a href="https://www.xiaohongshu.com/user/profile/6686432c000000000f0371bd" target="_blank" class="header__megamenu--network-item" aria-label="ihk-xiaohongshu"><span class="ihk-xiaohongshu"></span></a><a href="https://wa.me/message/IDMB3NTVMXPZE1" target="_blank" class="header__megamenu--network-item" aria-label="Whatsapp White Icon"><img src="/media/tlsj3pha/whatsapp-white-icon.svg" data-fallback-img="/media/tlsj3pha/whatsapp-white-icon.svg" class="ihk-common" alt="Whatsapp White Icon" /></a>
+                </div>
+                <div class="header__megamenu--search media-not-desktop">
+                    <form class="header__megamenu--search-form">
+                        <div class="input-wrapper">
+                            <input name="globalSearch-mobile" class="input-control input-control__icon js-search-bar-input" data-search-page="/en/search/" placeholder="Search" aria-label="Search" />
+                            <span class="ihk-search input-icon"></span>
+                        </div>
+                    </form>
+                </div>
+
+                <div id="mainMenuListing" class="header__megamenu--listing">
+                        <span class="header__megamenu--listing-heading media-not-desktop"></span>
+                            <div class="header__megamenu--item">
+                                <button type="button" class="header__megamenu--parent collapsed" data-bs-toggle="collapse" data-bs-target="#whyHongKong1564186823">Why Hong Kong</button>
+                                <div id="whyHongKong1564186823" class="collapse" data-bs-parent="#mainMenuListing">
+                                    <div class="header__megamenu--dropdown">
+                                            <a href="/en/why-hong-kong/fostering-global-trade-and-innovation/" class="header__megamenu--child">Fostering Global Trade and Innovation</a>
+                                            <a href="/en/why-hong-kong/competitive-two-tiered-profits-tax-rate/" class="header__megamenu--child">Competitive Two-Tiered Profits Tax Rate</a>
+                                            <a href="/en/why-hong-kong/hong-kong-thrives-on-diversity-skill-and-opportunity/" class="header__megamenu--child">Hong Kong Thrives on Diversity, Skill, and Opportunity</a>
+                                            <a href="https://www.goglobal.gov.hk/en/" class="header__megamenu--child">Launchpad for Global Expansion</a>
+                                            <a href="/en/why-hong-kong/super-connector-to-china-and-the-world/" class="header__megamenu--child">Super-Connector to China and The World</a>
+                                            <a href="/en/why-hong-kong/your-pefect-urban-playground/" class="header__megamenu--child">Your Perfect Urban Playground</a>
+                                            <a href="/en/why-hong-kong/over-11-000-companies-in-hong-kong-with-overseas-or-mainland-parent-companies/" class="header__megamenu--child">Over 11,000 Companies in Hong Kong with Overseas or Mainland Parent Companies</a>
+                                            <a href="/en/why-hong-kong/government-funding-schemes/" class="header__megamenu--child">Government Funding Schemes</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="header__megamenu--item">
+                                <button type="button" class="header__megamenu--parent collapsed" data-bs-toggle="collapse" data-bs-target="#ourClients-590978255">Our Clients</button>
+                                <div id="ourClients-590978255" class="collapse" data-bs-parent="#mainMenuListing">
+                                    <div class="header__megamenu--dropdown">
+                                            <a href="/en/our-clients/client-profiles/" class="header__megamenu--child">Client Profiles</a>
+                                            <a href="/en/our-clients/client-stories/" class="header__megamenu--child">Client Stories</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="header__megamenu--item">
+                                <button type="button" class="header__megamenu--parent collapsed" data-bs-toggle="collapse" data-bs-target="#news&amp;Events225403878">News &amp; Events</button>
+                                <div id="news&amp;Events225403878" class="collapse" data-bs-parent="#mainMenuListing">
+                                    <div class="header__megamenu--dropdown">
+                                            <a href="/en/news/" class="header__megamenu--child">News</a>
+                                            <a href="/en/events/" class="header__megamenu--child">Events</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="header__megamenu--item">
+                                <button type="button" class="header__megamenu--parent collapsed" data-bs-toggle="collapse" data-bs-target="#keyIndustries-244627326">Key Industries</button>
+                                <div id="keyIndustries-244627326" class="collapse" data-bs-parent="#mainMenuListing">
+                                    <div class="header__megamenu--dropdown">
+                                            <a href="/en/key-industries/business-professional-services/" class="header__megamenu--child">Business &amp; Professional Services</a>
+                                            <a href="/en/key-industries/consumer-and-hospitality/" class="header__megamenu--child">Consumer and Hospitality</a>
+                                            <a href="/en/key-industries/creative-industries-sports-entertainment/" class="header__megamenu--child">Creative Industries, Sports &amp; Entertainment</a>
+                                            <a href="/en/key-industries/family-office/" class="header__megamenu--child">Family Office</a>
+                                            <a href="/en/key-industries/financial-services/" class="header__megamenu--child">Financial Services</a>
+                                            <a href="/en/key-industries/fintech/" class="header__megamenu--child">FinTech</a>
+                                            <a href="/en/key-industries/innovation-technology/" class="header__megamenu--child">Innovation &amp; Technology</a>
+                                            <a href="/en/key-industries/life-health-sciences/" class="header__megamenu--child">Life &amp; Health Sciences</a>
+                                            <a href="/en/key-industries/transport-logistics-industrials/" class="header__megamenu--child">Transport, Logistics &amp; Industrials</a>
+                                            <a href="/en/key-industries/sustainability/" class="header__megamenu--child">Sustainability</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="header__megamenu--item">
+                                <a href="/en/setting-up-in-hong-kong/" class="header__megamenu--parent collapsed">Setting Up in Hong Kong</a>
+                            </div>
+                            <div class="header__megamenu--item">
+                                <a href="/en/about-us/" class="header__megamenu--parent collapsed">About Us</a>
+                            </div>
+                            <div class="header__megamenu--item">
+                                <a href="/en/contact-us/" class="header__megamenu--parent collapsed">Contact Us</a>
+                            </div>
+                </div>
+                <div class="header__megamenu--middle d-flex">
+                    <div class="header__megamenu--search">
+                        <form class="header__megamenu--search-form">
+                            <div class="input-wrapper">
+                                <input name="searchGlobal-desktop" class="input-control input-control__icon js-search-bar-input" data-search-page="/en/search/" placeholder="Search" aria-label="Search" />
+                                <span class="ihk-search input-icon"></span>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="header__megamenu--network flex-fill align-self-center">
+                        <a href="https://www.linkedin.com/company/invest-hong-kong" target="_blank" class="header__megamenu--network-item" aria-label="ihk-likedin"><span class="ihk-likedin"></span></a><a href="https://www.facebook.com/investhkgovhk/" target="_blank" class="header__megamenu--network-item" aria-label="Icon Facebook White"><img src="/media/uzrjbcbi/icon_facebook_white.svg" data-fallback-img="/media/uzrjbcbi/icon_facebook_white.svg" class="ihk-common" alt="Icon Facebook White" /></a><a href="https://www.instagram.com/investhk.gov.hk/" target="_blank" class="header__megamenu--network-item" aria-label="Instagram White Icon"><img src="/media/hgia1wvb/instagram-white-icon.svg" data-fallback-img="/media/hgia1wvb/instagram-white-icon.svg" class="ihk-common" alt="Instagram White Icon" /></a><a href="https://www.youtube.com/user/investhk" target="_blank" class="header__megamenu--network-item" aria-label="ihk-youtube"><span class="ihk-youtube"></span></a><a href="javascript:void(0)" class="header__megamenu--network-item" onclick="openWechatLightbox(event, this, 'http://weixin.qq.com/r/FSkhOeXEhbj6raFa93wH')" data-logo="true" data-title="WeChat" data-subtitle="Scan the QR code in WeChat App and follow our official account on WeChat." data-bs-toggle="modal" data-bs-target="#wechatModal"aria-label="ihk-wechat"><span class="ihk-wechat"></span></a><a href="https://www.xiaohongshu.com/user/profile/6686432c000000000f0371bd" target="_blank" class="header__megamenu--network-item" aria-label="ihk-xiaohongshu"><span class="ihk-xiaohongshu"></span></a><a href="https://wa.me/message/IDMB3NTVMXPZE1" target="_blank" class="header__megamenu--network-item" aria-label="Whatsapp White Icon"><img src="/media/tlsj3pha/whatsapp-white-icon.svg" data-fallback-img="/media/tlsj3pha/whatsapp-white-icon.svg" class="ihk-common" alt="Whatsapp White Icon" /></a>
+                    </div>
+                </div>
+                <div class="header__megamenu--quicklink">
+                    <h3 class="header__megamenu--quicklink-heading">Quick links</h3>
+                        <div class="header__megamenu--quicklink-listing">
+                                <a href="/en/resource-centre/" target="" class="header__megamenu--quicklink-item">Resource Centre</a>
+                                <a href="/en/faq/" target="" class="header__megamenu--quicklink-item">FAQ</a>
+                                <a href="/en/business-opportunities-government-tender-notices/" target="" class="header__megamenu--quicklink-item">Business Opportunities: Government Tender Notices</a>
+                                <a href="/en/referral-form/" class="header__megamenu--quicklink-item">Referral Form</a>
+                                <a href="/en/content-in-other-languages/" target="" class="header__megamenu--quicklink-item">Content in Other Languages</a>
+                                <a href="/en/careers/" target="" class="header__megamenu--quicklink-item">Careers</a>
+                        </div>
+                </div>
+                <div class="header__megamenu--affiliateSite">
+                    <h3 class="header__megamenu--affiliateSite-heading">Affiliate Sites</h3>
+                        <div class="header__megamenu--affiliateSite-listing">
+                                <a href="https://www.familyofficehk.gov.hk/" target="_blank" class="header__megamenu--affiliateSite-item">FamilyOfficeHK</a>
+                                <a href="http://www.hongkong-fintech.hk/" target="_blank" class="header__megamenu--affiliateSite-item">FintechHK</a>
+                                <a href="https://www.newcies.gov.hk/en/" target="_blank" class="header__megamenu--affiliateSite-item">New Capital Investment Entrant Scheme</a>
+                                <a href="https://www.startmeup.hk" target="_blank" class="header__megamenu--affiliateSite-item">StartmeupHK</a>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="header__overlay js-header-overlay"></div>
+<div class="header__search js-global-search">
+    <div class="header__search--body">
+        <div class="container">
+            <div class="input-wrapper">
+                <input type="text" name="searchGlobal" class="input-control input-control__icon js-search-bar-input"
+                       aria-label="Search" data-search-page="/en/search/" placeholder="Search" />
+                <span class="ihk-search input-icon" data-target-input="#overlay-search"></span>
+            </div>
+        </div>
+    </div>
+    <div class="header__search--overflow js-search-overflow"></div>
+</div>
+<!-- End Header -->            <div class="page__sparator"></div>
+        <!-- Start Main -->
+        <main class="innerPage__main">
+            <div class="popupShare">
+    <div class="popupShare__list">
+        <a href="#" class="popupShare__list--link" target="_blank" data-url="https://www.facebook.com/sharer/sharer.php?u={{url}}"><img src="/assets/images/icons/facebook.svg" class="popupShare__list--icon" alt="Share To Facebook" /></a>
+        <a href="#" class="popupShare__list--link" target="_blank" data-url="https://www.linkedin.com/cws/share?url={{url}}"><img src="/assets/images/icons/linkedin.svg" class="popupShare__list--icon" alt="Share To LinkedIn" /></a>
+        <a href="#" class="popupShare__list--link" target="_blank" data-url="https://x.com/share?url={{url}}"><img src="/assets/images/icons/x.svg" class="popupShare__list--icon" alt="Share to X" /></a>
+        <a href="#" class="popupShare__list--link" data-url="{{url}}" onclick="openWechatLightbox(event, this, this.getAttribute('href'))" data-title="Share To WeChat" data-subtitle="Use Scan QR Code in WeChat and click to share." data-bs-toggle="modal" data-bs-target="#wechatModal"><img src="/assets/images/icons/wechat.svg" class="popupShare__list--icon" alt="Share To WeChat" /></a>
+        <a href="#" class="popupShare__list--link" target="_blank" data-url="mailto:?subject=Check out the following link from InvestHK website.&amp;body=Check out the following link from InvestHK website:{{url}}"><img src="/assets/images/icons/mail.svg" class="popupShare__list--icon" alt="Share To Mail" /></a>
+        <button class="js-share-close popupShare__close" type="button"><img src="/assets/images/icons/close.svg" class="popupShare__close--iconButton" alt="Close" /></button>
+    </div>
+</div>
+            <section class="innerPage__container">
+	<div class="container">
+		<div class="breadcrumbRow">
+    <div class="container">
+        
+                <a href="/en/" class="breadcrumbRow__link">Invest Hong Kong</a>
+
+
+        <span class="breadcrumbRow__label">404 Error Page</span>
+
+       
+    </div>
+</div>
+		<div class="articlesDetail__container">
+			<h1 class="innerPage__heading mb-1">404</h1>
+			<div class="content-area">
+				<div class="textBlock">
+					<h2 class="text-center text-uppercase">Page Not Found&#xA;&#x9801;&#x9762;&#x672A;&#x627E;&#x5230;</h2>
+					<p class="text-center">The requested URL was not found on this server. You can return to our homepage.&#xA;&#x4F60;&#x6B63;&#x5728;&#x627E;&#x5C0B;&#x7684;&#x9801;&#x9762;&#x4E0D;&#x5B58;&#x5728;&#x3002;&#x5B83;&#x53EF;&#x80FD;&#x5DF2;&#x88AB;&#x522A;&#x9664;&#xFF0C;&#x6216;&#x8005;&#x4F60;&#x6240;&#x8F38;&#x5165;&#x93C8;&#x7D50;&#x4E0D;&#x6B63;&#x78BA;&#x3002;&#x60A8;&#x5C07;&#x5728;5&#x79D2;&#x5167;&#x91CD;&#x5B9A;&#x5411;&#x5230;&#x6211;&#x5011;&#x7684;&#x7DB2;&#x7AD9;&#x3002;</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+            
+        </main>
+        <!-- End Main -->
+        <!-- Start Footer -->
+    <section class="logoSection">
+        <div class="container">
+            <img class="no-greyscale lazyload-image-unload" data-src="/media/z2rpiccx/ihk-logo-2022_en__ver1.webp" data-fallback-img="/media/z2rpiccx/ihk-logo-2022_en__ver1.png" 
+                 alt="About Invest HK " />
+        </div>
+    </section>
+<!-- Footer-->
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <!-- Contact Navigation Link Start -->
+            <div class="col-lg-8 col-xl-9">
+                <div class="accordion footer__accordion" id="footer14899">
+                    <!-- Contact Main Navigation Start -->
+                        <div class="row footer__linklist--top">
+                                <div class="col-lg-3">
+                                        <div class="footer__group">
+                                                <div class="footer__title">Why Hong Kong</div>
+                                                    <div class="footer__title footer__title--collapse collapsed" data-bs-toggle="collapse" data-bs-target="#whyHongKong1223930451">Why Hong Kong</div>
+                                                    <div id="whyHongKong1223930451" class="accordion-collapse collapse" data-bs-parent="#footer14899">
+                                                        <div class="footer__accordion--body">
+                                                            <ul class="footer__linklist">
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="/en/why-hong-kong/fostering-global-trade-and-innovation/" class="footer__linklist--link">
+                                                                            Fostering Global Trade and Innovation
+                                                                        </a>
+                                                                    </li>
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="/en/why-hong-kong/competitive-two-tiered-profits-tax-rate/" class="footer__linklist--link">
+                                                                            Competitive Two-Tiered Profits Tax Rate
+                                                                        </a>
+                                                                    </li>
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="/en/why-hong-kong/hong-kong-thrives-on-diversity-skill-and-opportunity/" class="footer__linklist--link">
+                                                                            Hong Kong Thrives on Diversity, Skill, and Opportunity
+                                                                        </a>
+                                                                    </li>
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="https://www.goglobal.gov.hk/en/" class="footer__linklist--link">
+                                                                            Launchpad for Global Expansion
+                                                                        </a>
+                                                                    </li>
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="/en/why-hong-kong/your-pefect-urban-playground/" class="footer__linklist--link">
+                                                                            Your Perfect Urban Playground
+                                                                        </a>
+                                                                    </li>
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="/en/why-hong-kong/super-connector-to-china-and-the-world/" class="footer__linklist--link">
+                                                                            Super-Connector to China and The World
+                                                                        </a>
+                                                                    </li>
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="/en/why-hong-kong/over-11-000-companies-in-hong-kong-with-overseas-or-mainland-parent-companies/" class="footer__linklist--link">
+                                                                            Over 11,000 Companies in Hong Kong with Overseas or Mainland Parent Companies
+                                                                        </a>
+                                                                    </li>
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="/en/why-hong-kong/government-funding-schemes/" class="footer__linklist--link">
+                                                                            Government Funding Schemes
+                                                                        </a>
+                                                                    </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                        </div>
+                                </div>
+                                <div class="col-lg-3">
+                                        <div class="footer__group">
+                                                <div class="footer__title">Key Industries</div>
+                                                    <div class="footer__title footer__title--collapse collapsed" data-bs-toggle="collapse" data-bs-target="#keyIndustries-154213863">Key Industries</div>
+                                                    <div id="keyIndustries-154213863" class="accordion-collapse collapse" data-bs-parent="#footer14899">
+                                                        <div class="footer__accordion--body">
+                                                            <ul class="footer__linklist">
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="/en/key-industries/business-professional-services/" class="footer__linklist--link">
+                                                                            Business &amp; Professional Services
+                                                                        </a>
+                                                                    </li>
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="/en/key-industries/consumer-and-hospitality/" class="footer__linklist--link">
+                                                                            Consumer and Hospitality
+                                                                        </a>
+                                                                    </li>
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="/en/key-industries/creative-industries-sports-entertainment/" class="footer__linklist--link">
+                                                                            Creative Industries, Sports &amp; Entertainment
+                                                                        </a>
+                                                                    </li>
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="/en/key-industries/family-office/" class="footer__linklist--link">
+                                                                            Family Office
+                                                                        </a>
+                                                                    </li>
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="/en/key-industries/financial-services/" class="footer__linklist--link">
+                                                                            Financial Services
+                                                                        </a>
+                                                                    </li>
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="/en/key-industries/fintech/" class="footer__linklist--link">
+                                                                            FinTech
+                                                                        </a>
+                                                                    </li>
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="/en/key-industries/innovation-technology/" class="footer__linklist--link">
+                                                                            Innovation &amp; Technology
+                                                                        </a>
+                                                                    </li>
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="/en/key-industries/life-health-sciences/" class="footer__linklist--link">
+                                                                            Life &amp; Health Sciences
+                                                                        </a>
+                                                                    </li>
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="/en/key-industries/sustainability/" class="footer__linklist--link">
+                                                                            Sustainability
+                                                                        </a>
+                                                                    </li>
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="/en/key-industries/transport-logistics-industrials/" class="footer__linklist--link">
+                                                                            Transport, Logistics &amp; Industrials
+                                                                        </a>
+                                                                    </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                        </div>
+                                </div>
+                                <div class="col-lg-3">
+                                        <div class="footer__group">
+                                                <div class="footer__title">Our Clients</div>
+                                                    <div class="footer__title footer__title--collapse collapsed" data-bs-toggle="collapse" data-bs-target="#ourClients1837396698">Our Clients</div>
+                                                    <div id="ourClients1837396698" class="accordion-collapse collapse" data-bs-parent="#footer14899">
+                                                        <div class="footer__accordion--body">
+                                                            <ul class="footer__linklist">
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="/en/our-clients/client-profiles/" class="footer__linklist--link">
+                                                                            Client Profiles
+                                                                        </a>
+                                                                    </li>
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="/en/our-clients/client-stories/" class="footer__linklist--link">
+                                                                            Client Stories
+                                                                        </a>
+                                                                    </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                        </div>
+                                        <div class="footer__group">
+                                                <div class="footer__title"><a class="footer__title--main-title" href="/en/setting-up-in-hong-kong/">Setting Up in Hong Kong</a></div>
+                                                <div class="footer__title media-not-desktop"><a class="footer__title--main-title" href="/en/setting-up-in-hong-kong/">Setting Up in Hong Kong</a></div>
+                                        </div>
+                                        <div class="footer__group">
+                                                <div class="footer__title">News &amp; Events</div>
+                                                    <div class="footer__title footer__title--collapse collapsed" data-bs-toggle="collapse" data-bs-target="#news&amp;Events1107596123">News &amp; Events</div>
+                                                    <div id="news&amp;Events1107596123" class="accordion-collapse collapse" data-bs-parent="#footer14899">
+                                                        <div class="footer__accordion--body">
+                                                            <ul class="footer__linklist">
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="/en/news/" target="" class="footer__linklist--link">
+                                                                            News
+                                                                        </a>
+                                                                    </li>
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="/en/events/" class="footer__linklist--link">
+                                                                            Events
+                                                                        </a>
+                                                                    </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                        </div>
+                                        <div class="footer__group">
+                                                <div class="footer__title"><a class="footer__title--main-title" href="/en/about-us/">About Us</a></div>
+                                                <div class="footer__title media-not-desktop"><a class="footer__title--main-title" href="/en/about-us/">About Us</a></div>
+                                        </div>
+                                        <div class="footer__group">
+                                                <div class="footer__title"><a class="footer__title--main-title" href="/en/careers/">Careers</a></div>
+                                                <div class="footer__title media-not-desktop"><a class="footer__title--main-title" href="/en/careers/">Careers</a></div>
+                                        </div>
+                                        <div class="footer__group">
+                                                <div class="footer__title"><a class="footer__title--main-title" href="/en/contact-us/">Contact Us</a></div>
+                                                <div class="footer__title media-not-desktop"><a class="footer__title--main-title" href="/en/contact-us/">Contact Us</a></div>
+                                        </div>
+                                </div>
+                                <div class="col-lg-3">
+                                        <div class="footer__group">
+                                                <div class="footer__title">Quick links</div>
+                                                    <div class="footer__title footer__title--collapse collapsed" data-bs-toggle="collapse" data-bs-target="#quicklinks-651507787">Quick links</div>
+                                                    <div id="quicklinks-651507787" class="accordion-collapse collapse" data-bs-parent="#footer14899">
+                                                        <div class="footer__accordion--body">
+                                                            <ul class="footer__linklist">
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="/en/resource-centre/" class="footer__linklist--link">
+                                                                            Resource Centre
+                                                                        </a>
+                                                                    </li>
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="/en/faq/" class="footer__linklist--link">
+                                                                            FAQ
+                                                                        </a>
+                                                                    </li>
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="/en/content-in-other-languages/" class="footer__linklist--link">
+                                                                            Content in Other Languages
+                                                                        </a>
+                                                                    </li>
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="/en/business-opportunities-government-tender-notices/" class="footer__linklist--link">
+                                                                            Business Opportunities: Government Tender Notices
+                                                                        </a>
+                                                                    </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                        </div>
+                                        <div class="footer__group">
+                                                <div class="footer__title">Affiliate Sites</div>
+                                                    <div class="footer__title footer__title--collapse collapsed" data-bs-toggle="collapse" data-bs-target="#affiliateSites-1637469778">Affiliate Sites</div>
+                                                    <div id="affiliateSites-1637469778" class="accordion-collapse collapse" data-bs-parent="#footer14899">
+                                                        <div class="footer__accordion--body">
+                                                            <ul class="footer__linklist">
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="https://www.familyofficehk.gov.hk/" target="_blank" class="footer__linklist--link">
+                                                                            FamilyOfficeHK
+                                                                        </a>
+                                                                    </li>
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="http://www.hongkong-fintech.hk/" target="_blank" class="footer__linklist--link">
+                                                                            FintechHK
+                                                                        </a>
+                                                                    </li>
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="https://www.newcies.gov.hk/en/" target="_blank" class="footer__linklist--link">
+                                                                            New Capital Investment Entrant Scheme
+                                                                        </a>
+                                                                    </li>
+                                                                    <li class="footer__linklist--item">
+                                                                        <a href="https://www.startmeup.hk/" target="_blank" class="footer__linklist--link">
+                                                                            StartmeupHK
+                                                                        </a>
+                                                                    </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                        </div>
+                                </div>
+                        </div>
+                    <!-- Contact Main Navigation End -->
+                    <!-- Contact Secondary Navigation Start -->
+                        <div class="footer__title">Links</div>
+                        <div class="footer__title footer__title--collapse collapsed" data-bs-toggle="collapse" data-bs-target="#links">
+                            Links
+                        </div>
+                        <div id="links" class="accordion-collapse collapse" data-bs-parent="#footer14899">
+                            <div class="footer__accordion--body">
+                                <div class="row">
+                                        <div class="col-lg-4">
+                                            <div class="footer__group">
+                                                <ul class="footer__linklist">
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://www.itib.gov.hk/en/payloadexpert/index.html" target="_blank" class="footer__linklist--link">
+                                                                A Shared Cosmic Vision For National Rejuvenation
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://www.hk5yplan.gov.hk/2026-2030/en/index.html" target="_blank" class="footer__linklist--link">
+                                                                The First Five-Year Plan for Economic and Social Development (2026-2030)
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://www.policyaddress.gov.hk/2026/en/index.html" target="_blank" class="footer__linklist--link">
+                                                                The Chief Executive&#x27;s 2026 Policy Address
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://www.budget.gov.hk/2026/eng/index.html" target="_blank" class="footer__linklist--link">
+                                                                The 2026-27 Budget
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="http://www.beltandroad.gov.hk/" target="_blank" class="footer__linklist--link">
+                                                                Belt and Road Initiative: Hong Kong
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="http://www.cr.gov.hk/en/home/" target="_blank" class="footer__linklist--link">
+                                                                Companies Registry
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://cpas.icac.hk/EN/" target="_blank" class="footer__linklist--link">
+                                                                Corruption Prevention Advisory Service
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://www.ccidahk.gov.hk/en/index.html" target="_blank" class="footer__linklist--link">
+                                                                Cultural and Creative Industries Development Agency (CCIDA)
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://www.gov.hk/en/theme/etendering/ets/" target="_blank" class="footer__linklist--link">
+                                                                e-Tendering System
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://www.gov.hk/" target="_blank" class="footer__linklist--link">
+                                                                GovHK
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://www.bayarea.gov.hk/en/home/" target="_blank" class="footer__linklist--link">
+                                                                Guangdong-Hong Kong-Macao Greater Bay Area
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://cyberport.hk/en" target="_blank" class="footer__linklist--link">
+                                                                HK Cyberport
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://www.hkstp.org/" target="_blank" class="footer__linklist--link">
+                                                                HK Science Park
+                                                            </a>
+                                                        </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4">
+                                            <div class="footer__group">
+                                                <ul class="footer__linklist">
+                                                        <li class="footer__linklist--item">
+                                                            <a href="http://www.discoverhongkong.com/eng/index.jsp" target="_blank" class="footer__linklist--link">
+                                                                HK Tourism Board
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://ip.gov.hk/en/home/index.html" target="_blank" class="footer__linklist--link">
+                                                                Hong Kong - Regional IP Trading Centre
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://www.hkma.gov.hk/eng/smart-consumers/account-opening/" target="_blank" class="footer__linklist--link">
+                                                                HKMA - Account Opening
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://www.hkpc.org/en/" class="footer__linklist--link">
+                                                                Hong Kong Productivity Council
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://www.hsitp.org/en" target="_blank" class="footer__linklist--link">
+                                                                Hong Kong-Shenzhen Innovation and Technology Park Limited
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://www.smartcity.gov.hk/index.html" class="footer__linklist--link">
+                                                                Hong Kong Smart City Portal
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://www.hkengage.gov.hk/en/" target="_blank" class="footer__linklist--link">
+                                                                Hong Kong Talent Engage
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://home.hktdc.com/" target="_blank" class="footer__linklist--link">
+                                                                Hong Kong Trade Development Council
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://www.legalhub.gov.hk/eng/index.html" target="_blank" class="footer__linklist--link">
+                                                                Hong Kong&#x27;s Legal Services
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="http://www.iamsmart.gov.hk/en/" class="footer__linklist--link">
+                                                                iAM Smart Safe and Swift
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://yst.gdzwfw.gov.cn/default_investment/?cityCode=440000" class="footer__linklist--link">
+                                                                Invest Guangdong
+                                                            </a>
+                                                        </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4">
+                                            <div class="footer__group">
+                                                <ul class="footer__linklist">
+                                                        <li class="footer__linklist--item">
+                                                            <a href="http://mehongkong.com/" target="_blank" class="footer__linklist--link">
+                                                                MEHK
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="http://www.news.gov.hk/eng/index.html" target="_blank" class="footer__linklist--link">
+                                                                News.gov.hk
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://www.nm.gov.hk/en/" target="_blank" class="footer__linklist--link">
+                                                                Northern Metropolis
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://www.oases.gov.hk/en/index.html" target="_blank" class="footer__linklist--link">
+                                                                Office for Attracting Strategic Enterprises (OASES)
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://www1.smartlab.gov.hk/en/index.xhtml" target="_blank" class="footer__linklist--link">
+                                                                Smart Government Innovation Lab
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://www.smelink.gov.hk/en/web/sme-portal/home.html" target="_blank" class="footer__linklist--link">
+                                                                SME Link
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://smereachout.hkpc.org/#" target="_blank" class="footer__linklist--link">
+                                                                SME ReachOut
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://www.itib.gov.hk/en/attractingenterprises" target="_blank" class="footer__linklist--link">
+                                                                Setting up I&amp;T business in Hong Kong
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://www.cr.gov.hk/en/scr/index.htm" target="_blank" class="footer__linklist--link">
+                                                                Significant Controllers Registers by Company
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://www.talentlist.gov.hk/en/index.html" target="_blank" class="footer__linklist--link">
+                                                                Talent List Hong Kong
+                                                            </a>
+                                                        </li>
+                                                        <li class="footer__linklist--item">
+                                                            <a href="https://www.itc.gov.hk/en/techtas/index.htm" target="_blank" class="footer__linklist--link">
+                                                                Technology Talent Admission Scheme
+                                                            </a>
+                                                        </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                    <!-- Contact Secondary Navigation Start -->
+                </div>
+            </div>
+            <!-- Contact Navigation Link End -->
+            <!-- Contact Section Start -->
+            <div class="col-lg-4 col-xl-3">
+                <div class="footer__contact">
+                    <div class="footer__contact--title">InvestHK Head Office</div>
+                        <div class="footer__contact--item">
+                            <span class="ihk-marker footer__contact--item-icons"></span>
+                            24/F, Fairmont House, 8 Cotton Tree Drive, Central, Hong Kong
+                        </div>
+                        <div class="footer__contact--item">
+                            <span class="ihk-phone-call footer__contact--item-icons"></span>
+                            +852 3107 1000
+                        </div>
+                        <div class="footer__contact--item">
+                            <span class="ihk-mail footer__contact--item-icons"></span>
+                            <a class="footer__title--main-title" href="mailto:enq@investhk.gov.hk" aria-label="Enquiry Email">enq@investhk.gov.hk</a>
+                        </div>
+                        <div class="footer__contact--item">
+                            <span class="ihk-clock footer__contact--item-icons"></span>
+                            8:45 a.m. - 12:30 p.m.<br>1:30 p.m. - 6:00 p.m.<br>Monday to Friday (Closed on Saturday, Sunday and public holidays)
+                        </div>
+                </div>
+                <div class="footer__social-network">
+                                <a href="https://www.linkedin.com/company/invest-hong-kong" target="_blank"
+                                   class="footer__social-network--link"
+                                   aria-label="ihk-likedin">
+                                        <span class="ihk-likedin footer__social-network--icon"></span>
+                                </a>
+                                <a href="https://www.facebook.com/investhkgovhk/" target="_blank"
+                                   class="footer__social-network--link"
+                                   aria-label="Icon Facebook White">
+                                        <img src="/media/uzrjbcbi/icon_facebook_white.svg" 
+                                             data-fallback-img="/media/uzrjbcbi/icon_facebook_white.svg" 
+                                             class="ihk-common footer__social-network--icon" alt="Icon Facebook White" />
+                                </a>
+                                <a href="https://www.instagram.com/investhk.gov.hk/" target="_blank"
+                                   class="footer__social-network--link"
+                                   aria-label="Instagram White Icon">
+                                        <img src="/media/hgia1wvb/instagram-white-icon.svg" 
+                                             data-fallback-img="/media/hgia1wvb/instagram-white-icon.svg" 
+                                             class="ihk-common footer__social-network--icon" alt="Instagram White Icon" />
+                                </a>
+                                <a href="https://www.youtube.com/user/investhk" target="_blank"
+                                   class="footer__social-network--link"
+                                   aria-label="ihk-youtube">
+                                        <span class="ihk-youtube footer__social-network--icon"></span>
+                                </a>
+                                <a href="javascript:void(0);"
+                                   class="footer__social-network--link"
+                                   onclick="openWechatLightbox(event, this, 'http://weixin.qq.com/r/FSkhOeXEhbj6raFa93wH')"
+                                   data-logo="true" data-title="WeChat" data-subtitle="Scan the QR code in WeChat App and follow our official account on WeChat." data-bs-toggle="modal"
+                                   data-bs-target="#wechatModal"
+                                   aria-label="ihk-wechat">
+                                    <span class="ihk-wechat footer__social-network--icon"></span>
+                                </a>
+                                <a href="https://www.xiaohongshu.com/user/profile/6686432c000000000f0371bd" target="_blank"
+                                   class="footer__social-network--link"
+                                   aria-label="ihk-xiaohongshu">
+                                        <span class="ihk-xiaohongshu footer__social-network--icon"></span>
+                                </a>
+                                <a href="https://wa.me/message/IDMB3NTVMXPZE1" target="_blank"
+                                   class="footer__social-network--link"
+                                   aria-label="Whatsapp White Icon">
+                                        <img src="/media/tlsj3pha/whatsapp-white-icon.svg" 
+                                             data-fallback-img="/media/tlsj3pha/whatsapp-white-icon.svg" 
+                                             class="ihk-common footer__social-network--icon" alt="Whatsapp White Icon" />
+                                </a>
+                </div>
+            </div>
+            <!-- Contact Section End -->
+        </div>
+    </div>
+    <div class="footer__bottom">
+        <div class="container">
+            <div class="footer__bottom--row d-flex">
+                <div class="footer_bottom--wrapper d-flex gap-2 align-items-center">
+                            <a class="footer__bottom__image" href="https://www.brandhk.gov.hk/" target="_blank" aria-label="BrandHK">
+                                <img src="/media/z5va0yf5/bhk-logo_en_202005_0.webp" data-fallback-img="/media/z5va0yf5/bhk-logo_en_202005_0.jpg" class="footer__bottom--logo media-desktop" alt="Brand HK Logo" />
+                            </a>
+                            <a class="footer__bottom__image" href="https://www.w3.org/WAI/WCAG2AA-Conformance" target="_blank">
+                                <img src="/media/2b3bzsxl/wcag21aa-v2.webp" data-fallback-img="/media/2b3bzsxl/wcag21aa-v2.png" class="footer__bottom--logo media-desktop" alt="W3" />
+                            </a>
+                </div>
+                <div class="footer__bottom--content flex-fill align-self-center">
+                    <div class="footer__bottom--hyperlink">
+                                <a href="/en/tender-quotation-notice/" class="footer__bottom--hyperlink-item">Tender / Quotation Notice</a>
+                                <a href="/en/privacy-policy/" class="footer__bottom--hyperlink-item">Privacy Policy</a>
+                                <a href="/en/copyright-notices-disclaimer/" class="footer__bottom--hyperlink-item">Copyright Notices &amp; Disclaimer</a>
+                                <a href="/en/other-information/" class="footer__bottom--hyperlink-item">Other Information</a>
+                                <a href="/en/sitemap/" class="footer__bottom--hyperlink-item">Sitemap</a>
+                    </div>
+                    <div class="footer__bottom--copyright">
+                        Copyright &#xA9; 2026 InvestHK. All rights reserved. Last modified on 02.10.2025
+                    </div>
+                </div>
+                <div class="footer_bottom--wrapper d-flex gap-2 align-items-center justify-content-center ">
+                            <a class="footer__bottom__image--mobile" href="https://www.brandhk.gov.hk/" target="_blank" aria-label="BrandHK">
+                                <img src="/media/z5va0yf5/bhk-logo_en_202005_0.webp" class="footer__bottom--logo media-not-desktop" alt="Brand HK Logo" />
+                            </a>
+                            <a class="footer__bottom__image--mobile" href="https://www.w3.org/WAI/WCAG2AA-Conformance" target="_blank" aria-label="W3">
+                                <img src="/media/2b3bzsxl/wcag21aa-v2.webp" class="footer__bottom--logo media-not-desktop" alt="W3" />
+                            </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- End Footer -->        <!-- End Footer -->
+<div class="modal modalWechat fade" id="wechatModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modalWechat__dialog">
+        <div class="modal-content modalWechat__content">
+            <button type="button" class="modalWechat__close" data-bs-dismiss="modal" aria-label="Close">
+                <img src="/assets/images/icons/close-black.svg" class="modalWechat__close--icon" alt="Close icon" />
+            </button>
+            <div class="modalWechat__body">
+                <div class="js-wechat-body">
+                    <div class="content-area">
+                        <div class="textBlock modalWechat__subTitle">
+                            <p class="text-center"></p>
+                        </div>
+                        <div class="textBlock text-center modalWechat__imageWrapper">
+                            <div class="modalWechat__image" id="canvas"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>        <button type="button" id="back-to-top" class="back-to-top" aria-label="Back to Top Button"><span class="ihk-arrow-up-circle"></span></button>
+        <!-- Theme Scripts -->
+        <script src="/scripts/app.js"></script>
+<script src="/scripts/templates/cards.js"></script>
+<script src="/scripts/templates/listing-page-template.js"></script>        <script src="/scripts/commons.js"></script>
+        <!--
+        <script src="/scripts/accordions.js"></script>
+        -->
+
+	<script>
+		setTimeout(function (){
+			const paths = window.location.pathname.split("/");
+			const newPath = paths.length > 1 ? paths[1].match(/^\S(.*\S)?$/) ? "/" + paths[1] : "/en" : "/en";
+			window.location = newPath
+		}, 4000)
+	</script>
+</body>
+</html>

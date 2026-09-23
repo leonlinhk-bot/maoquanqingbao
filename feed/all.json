@@ -1,9 +1,178 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-23T14:16:04Z",
-  "itemCount": 922,
+  "generatedAt": "2026-09-23T16:40:03Z",
+  "itemCount": 934,
   "items": [
+    {
+      "id": "ibm-ai-bottleneck-brokers-20260924",
+      "title": "经纪AI提速被「链条另一端」卡住：Dive In论坛指碎片化采纳削弱客户体验 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "channel",
+        "distribution"
+      ],
+      "publishedAt": "2026-09-24T00:01:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-ai-bottleneck-brokers-20260924",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/the-ai-bottleneck-brokers-cant-solve-alone-590886.aspx"
+    },
+    {
+      "id": "artemis-pggm-ils-diversification-20260923",
+      "title": "PGGM：尚未配置ILS的机构投资者应认真考虑，分散化与独立风险回报是主因 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "capital",
+        "global-allocation"
+      ],
+      "publishedAt": "2026-09-23T23:53:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-pggm-ils-diversification-20260923",
+      "originalUrl": "https://www.artemis.bm/news/investors-should-consider-ils-for-diversification-and-strong-risk-return-profile-pggms-takken-somers/"
+    },
+    {
+      "id": "artemis-marsh-anger-ils-diversity-20260923",
+      "title": "Marsh Securities的Anger：ILS投资者基数规模与多样性前所未有，须持续扩品类 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "reinsurance",
+        "capital"
+      ],
+      "publishedAt": "2026-09-23T21:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-marsh-anger-ils-diversity-20260923",
+      "originalUrl": "https://www.artemis.bm/news/ils-diversity-never-been-larger-market-must-continue-expanding-opportunities-anger-marsh-securities/"
+    },
+    {
+      "id": "artemis-sage-catbond-risk-premium-20260923",
+      "title": "Sage Advisory：巨灾债价差虽走软，净风险溢价仍是各市场最宽之一，年内前8个月回报7.6% [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "cat-risk",
+        "capital"
+      ],
+      "publishedAt": "2026-09-23T18:30:00+08:00",
+      "score": 73,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-sage-catbond-risk-premium-20260923",
+      "originalUrl": "https://www.artemis.bm/news/despite-softening-spreads-cat-bond-risk-premium-remains-among-widest-available-sage-advisory/"
+    },
+    {
+      "id": "artemis-marsh-re-direct-institutional-20260923",
+      "title": "Marsh Re：2025年直接机构投资者配置再保增速最快，第三方资本年底料达约1300亿美元 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "capital",
+        "pricing"
+      ],
+      "publishedAt": "2026-09-23T16:00:00+08:00",
+      "score": 73,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-marsh-re-direct-institutional-20260923",
+      "originalUrl": "https://www.artemis.bm/news/direct-institutional-investor-allocations-to-reinsurance-grew-at-fastest-rate-in-2025-marsh-re/"
+    },
+    {
+      "id": "artemis-fitch-reinsurance-survey-20260923",
+      "title": "Fitch蒙特卡洛调研：86%料条款进一步放宽、60%料财产巨灾费率下跌，寿险健康成资本最高优先 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "pricing",
+        "uw"
+      ],
+      "publishedAt": "2026-09-23T15:00:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-fitch-reinsurance-survey-20260923",
+      "originalUrl": "https://www.artemis.bm/news/60-expect-property-cat-rates-to-fall-86-expect-tcs-to-loosen-fitch-reinsurance-survey/"
+    },
+    {
+      "id": "ibm-iumi-freight-forwarding-liability-20260923",
+      "title": "IUMI鹿特丹年会辩论：货运代理人责任险缺全球统一措辞与聚合数据 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "marine",
+        "uw",
+        "benchmark"
+      ],
+      "publishedAt": "2026-09-23T14:19:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-iumi-freight-forwarding-liability-20260923",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/marine/iumi-weighs-bigger-role-in-freight-forwarding-liability-590811.aspx"
+    },
+    {
+      "id": "iaasia-ctf-life-sky-leap-88-20260923",
+      "title": "周大福人寿推「Sky Leap 88」储蓄险：预缴享8%–10%首年折扣，另设8%传承利益 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "product",
+        "wealth-transfer",
+        "hnw"
+      ],
+      "publishedAt": "2026-09-23T06:15:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-ctf-life-sky-leap-88-20260923",
+      "originalUrl": "https://insuranceasia.com/insurance/news/ctf-life-cuts-premiums-wealth-transfer-accelerates"
+    },
+    {
+      "id": "iaasia-ping-an-globalcare-ai-20260923",
+      "title": "平安好医生推「GlobalCare」AI跨境医疗：深圳试运行，19种语言实时翻译、198国手机号可注册 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "health",
+        "cross-border"
+      ],
+      "publishedAt": "2026-09-23T06:00:00+08:00",
+      "score": 69,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-ping-an-globalcare-ai-20260923",
+      "originalUrl": "https://insuranceasia.com/insurance/news/ping-launches-ai-healthcare-service-expats"
+    },
+    {
+      "id": "iaasia-singlife-ai-email-agent-20260923",
+      "title": "Singlife：AI邮件代理已处理逾20%客户查询，Buddy令平均处理时长降30% [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "insurtech",
+        "digital"
+      ],
+      "publishedAt": "2026-09-23T05:30:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-singlife-ai-email-agent-20260923",
+      "originalUrl": "https://insuranceasia.com/insurance/news/singlife-ai-handles-over-20-email-enquiries"
+    },
+    {
+      "id": "iaasia-emerging-industries-risk-models-20260923",
+      "title": "麦肯锡：18个高增长产业2040年营收可达29–48万亿美元，倒逼险企改写风险模型 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "uw",
+        "health",
+        "tech",
+        "cat-risk"
+      ],
+      "publishedAt": "2026-09-23T05:15:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-emerging-industries-risk-models-20260923",
+      "originalUrl": "https://insuranceasia.com/insurance/news/emerging-industries-force-insurers-rewrite-risk-models"
+    },
+    {
+      "id": "iaasia-ai-scale-81-premium-gains-20260923",
+      "title": "Accenture调研：81%险企AI项目带动毛保费增至少5%，但仅23%实现全企业级落地 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "insurtech",
+        "benchmark"
+      ],
+      "publishedAt": "2026-09-23T05:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-ai-scale-81-premium-gains-20260923",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/insurers-struggle-scale-ai-despite-81-premium-gains"
+    },
     {
       "id": "hkma-scam-alert-banks-20260923",
       "title": "金管局发出与银行有关的骗案警示（2026年9月23日）：东亚/上海商业/创兴/集友伪冒网站及登录画面、大新伪冒网站 [EN原文]",

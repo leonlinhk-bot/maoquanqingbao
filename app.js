@@ -1,11 +1,11 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-23T22:10:00+08:00",
-    "itemCount": 922,
+    "generatedAt": "2026-09-24T00:55:00+08:00",
+    "itemCount": 934,
     "windowNote": {
-      "sc": "本库922条。",
-      "tc": "本庫922條。"
+      "sc": "本库934条。",
+      "tc": "本庫934條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -147,7 +147,7 @@ window.HKII_DATA = {
       ],
       "registryFile": "data/sources.yaml"
     },
-    "asOf": "2026-09-23T22:10:00+08:00",
+    "asOf": "2026-09-24T00:55:00+08:00",
     "roles": [
       {
         "id": "front",
@@ -302,6 +302,972 @@ window.HKII_DATA = {
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "ibm-ai-bottleneck-brokers-20260924",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "contentKind": "news",
+      "title": {
+        "sc": "经纪AI提速被「链条另一端」卡住：Dive In论坛指碎片化采纳削弱客户体验 [EN原文]",
+        "tc": "經紀AI提速被「鏈條另一端」卡住：Dive In論壇指碎片化採納削弱客戶體驗 [EN原文]"
+      },
+      "summary": {
+        "sc": "Insurance Business报道，在Dive In Festival「AI与数字化转型」论坛上，Artificial联合创始人David King指出，经纪内部流程即使压缩到现有时间的20%，只要报价环节仍需数日、20个报价有18个要等一周，客户体验仍是一周；行业缺的不是单点工具，而是跨经纪、险企与生态的连接。Arch Insurance International数字主管Ed Short称，技术令险企与经纪的技术人员直接对接，取代传统分保团队逐层转达；伦敦与批发业务则从高度复杂的关系型交易入手，识别其中可数字化的环节。",
+        "tc": "Insurance Business報道，在Dive In Festival「AI與數字化轉型」論壇上，Artificial聯合創始人David King指出，經紀內部流程即使壓縮到現有時間的20%，只要報價環節仍需數日、20個報價有18個要等一週，客戶體驗仍是一週；行業缺的不是單點工具，而是跨經紀、險企與生態的連接。Arch Insurance International數字主管Ed Short稱，技術令險企與經紀的技術人員直接對接，取代傳統分保團隊逐層轉達；倫敦與批發業務則從高度複雜的關係型交易入手，識別其中可數字化的環節。"
+      },
+      "why": {
+        "sc": "「AI提速但客户无感」是前线最真实的落差来源，本文把瓶颈落在组织协同而非模型能力，可直接用于团队AI项目复盘。",
+        "tc": "「AI提速但客戶無感」是前線最真實的落差來源，本文把瓶頸落在組織協同而非模型能力，可直接用於團隊AI項目復盤。"
+      },
+      "actions": {
+        "front": {
+          "sc": "内部提效后主动核对「客户等到结果」的端到端时长，而不只报内部工时",
+          "tc": "內部提效後主動核對「客戶等到結果」的端到端時長，而不只報內部工時"
+        },
+        "midback": {
+          "sc": "梳理与主要合作保司的线上接口清单，标注仍在人工的环节",
+          "tc": "梳理與主要合作保司的線上接口清單，標註仍在人工的環節"
+        },
+        "lead": {
+          "sc": "把团队AI项目KPI从「节省工时」改为「客户等待时长」",
+          "tc": "把團隊AI項目KPI從「節省工時」改為「客戶等待時長」"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 2,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Business Asia（2026-09-23，网站标注24日）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "tech"
+      ],
+      "themes": [
+        "ai",
+        "channel",
+        "distribution"
+      ],
+      "tags": {
+        "sc": [
+          "经纪",
+          "AI",
+          "客户体验",
+          "Dive In",
+          "数字化转型"
+        ],
+        "tc": [
+          "經紀",
+          "AI",
+          "客戶體驗",
+          "Dive In",
+          "數字化轉型"
+        ]
+      },
+      "publishedAt": "2026-09-24T00:01:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/the-ai-bottleneck-brokers-cant-solve-alone-590886.aspx",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-24T00:55:00+08:00"
+    },
+    {
+      "id": "artemis-pggm-ils-diversification-20260923",
+      "clusterCount": 1,
+      "score": 76,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "artemis",
+      "contentKind": "news",
+      "title": {
+        "sc": "PGGM：尚未配置ILS的机构投资者应认真考虑，分散化与独立风险回报是主因 [EN原文]",
+        "tc": "PGGM：尚未配置ILS的機構投資者應認真考慮，分散化與獨立風險回報是主因 [EN原文]"
+      },
+      "summary": {
+        "sc": "Artemis报道，荷兰养老基金服务机构PGGM的保险相连投资主管Eveline Takken-Somers在Aon主持的网络研讨会上表示，未涉足ILS的机构投资者应考虑配置，理由是分散化收益，加上独立于股债市场的风险回报特性。她提出吸引长期资本的三项条件：穿越完整周期的信任（好年份与坏年份都要有定价与承保纪律）、看得懂的透明度（风险敞口、模型与条款），以及让投资委员会能据此批出配置。该研讨会主题为第三方资本如何支持再保与ILS市场继续增长。",
+        "tc": "Artemis報道，荷蘭養老基金服務機構PGGM的保險相連投資主管Eveline Takken-Somers在Aon主持的網絡研討會上表示，未涉足ILS的機構投資者應考慮配置，理由是分散化收益，加上獨立於股債市場的風險回報特性。她提出吸引長期資本的三項條件：穿越完整週期的信任（好年份與壞年份都要有定價與承保紀律）、看得懂的透明度（風險敞口、模型與條款），以及讓投資委員會能據此批出配置。該研討會主題為第三方資本如何支持再保與ILS市場繼續增長。"
+      },
+      "why": {
+        "sc": "这是「香港要发展ILS生态」的需求侧证据：机构买家在意的是纪律与透明度，而非产品数量，对自保与ILS政策讨论有参照价值。",
+        "tc": "這是「香港要發展ILS生態」的需求側證據：機構買家在意的是紀律與透明度，而非產品數量，對自保與ILS政策討論有參照價值。"
+      },
+      "actions": {
+        "front": {
+          "sc": "高客提到另类资产配置时，可说明ILS与股债相关性低的特性（不作任何收益陈述）",
+          "tc": "高客提到另類資產配置時，可說明ILS與股債相關性低的特性（不作任何收益陳述）"
+        },
+        "midback": {
+          "sc": "把「信任／纪律／透明度」三条件列入ILS相关产品准入评估维度",
+          "tc": "把「信任／紀律／透明度」三條件列入ILS相關產品准入評估維度"
+        },
+        "lead": {
+          "sc": "对内培训可说明机构资本进场的真实门槛，避免只用回报讲ILS",
+          "tc": "對內培訓可說明機構資本進場的真實門檻，避免只用回報講ILS"
+        },
+        "cross": {
+          "sc": "对接香港五年规划中ILS与自保生态的机构投资者视角",
+          "tc": "對接香港五年規劃中ILS與自保生態的機構投資者視角"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 1,
+        "cross": 2
+      },
+      "source": {
+        "sc": "Artemis.bm（2026-09-23）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "ils",
+        "capital",
+        "global-allocation"
+      ],
+      "tags": {
+        "sc": [
+          "ILS",
+          "PGGM",
+          "机构投资者",
+          "分散化",
+          "透明度"
+        ],
+        "tc": [
+          "ILS",
+          "PGGM",
+          "機構投資者",
+          "分散化",
+          "透明度"
+        ]
+      },
+      "publishedAt": "2026-09-23T23:53:00+08:00",
+      "originalUrl": "https://www.artemis.bm/news/investors-should-consider-ils-for-diversification-and-strong-risk-return-profile-pggms-takken-somers/",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-24T00:55:00+08:00"
+    },
+    {
+      "id": "artemis-marsh-anger-ils-diversity-20260923",
+      "clusterCount": 1,
+      "score": 74,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "artemis",
+      "contentKind": "news",
+      "title": {
+        "sc": "Marsh Securities的Anger：ILS投资者基数规模与多样性前所未有，须持续扩品类 [EN原文]",
+        "tc": "Marsh Securities的Anger：ILS投資者基數規模與多樣性前所未有，須持續擴品類 [EN原文]"
+      },
+      "summary": {
+        "sc": "Artemis报道，Marsh Securities董事总经理Cory Anger指出，ILS投资者基数与规模从未如此庞大，市场极为健康：传统资本市场波动持续印证配置ILS的价值，结构虽更复杂但条款与条件质量仍强健。她认为挑战在于成熟再保市场的限额需求增速放缓（重置成本通胀缓和），改善结构性覆盖因此更重要——透过whole account承保多条线、拓展离岸风电等新类型，以及开拓意外险等新ILS机会，扩大可投资范围。Marsh Securities是Marsh Re旗下的全球资本与咨询部门。",
+        "tc": "Artemis報道，Marsh Securities董事總經理Cory Anger指出，ILS投資者基數與規模從未如此龐大，市場極為健康：傳統資本市場波動持續印證配置ILS的價值，結構雖更複雜但條款與條件質量仍強健。她認為挑戰在於成熟再保市場的限額需求增速放緩（重置成本通脹緩和），改善結構性覆蓋因此更重要——透過whole account承保多條線、拓展離岸風電等新類型，以及開拓意外險等新ILS機會，擴大可投資範圍。Marsh Securities是Marsh Re旗下的全球資本與諮詢部門。"
+      },
+      "why": {
+        "sc": "与同日Marsh Re「直接机构投资者增速最快」互相印证：ILS扩张已从「加量」转向「扩品类」，意外险与新能源是明确方向。",
+        "tc": "與同日Marsh Re「直接機構投資者增速最快」互相印證：ILS擴張已從「加量」轉向「擴品類」，意外險與新能源是明確方向。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "把「whole account、离岸风电、意外险」列为ILS品类跟踪清单",
+          "tc": "把「whole account、離岸風電、意外險」列為ILS品類跟蹤清單"
+        },
+        "lead": {
+          "sc": "培训时用「扩品类而非加杠杆」解释软市场下的增长逻辑",
+          "tc": "培訓時用「擴品類而非加槓桿」解釋軟市場下的增長邏輯"
+        },
+        "cross": {
+          "sc": "联系香港PCC架构探索，补充国际品类扩张案例",
+          "tc": "聯繫香港PCC架構探索，補充國際品類擴張案例"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 2,
+        "lead": 1,
+        "cross": 2
+      },
+      "source": {
+        "sc": "Artemis.bm（2026-09-23）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "ils",
+        "reinsurance",
+        "capital"
+      ],
+      "tags": {
+        "sc": [
+          "ILS",
+          "Marsh Securities",
+          "意外险",
+          "离岸风电",
+          "分保费率"
+        ],
+        "tc": [
+          "ILS",
+          "Marsh Securities",
+          "意外險",
+          "離岸風電",
+          "分保費率"
+        ]
+      },
+      "publishedAt": "2026-09-23T21:00:00+08:00",
+      "originalUrl": "https://www.artemis.bm/news/ils-diversity-never-been-larger-market-must-continue-expanding-opportunities-anger-marsh-securities/",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-24T00:55:00+08:00"
+    },
+    {
+      "id": "artemis-sage-catbond-risk-premium-20260923",
+      "clusterCount": 1,
+      "score": 73,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "artemis",
+      "contentKind": "news",
+      "title": {
+        "sc": "Sage Advisory：巨灾债价差虽走软，净风险溢价仍是各市场最宽之一，年内前8个月回报7.6% [EN原文]",
+        "tc": "Sage Advisory：巨災債價差雖走軟，淨風險溢價仍是各市場最寬之一，年內前8個月回報7.6% [EN原文]"
+      },
+      "summary": {
+        "sc": "Artemis报道，Sage Advisory副总裁Andrew Poreda的报告指，尽管创纪录资金流入压低价差，巨灾债提供的净风险溢价仍属各金融市场中最宽之一；Swiss Re Global Cat Bond Index在2026年前8个月回报7.6%（2025年全年为4.1%），并已连续八个月稳定正回报、波动极小。Poreda强调巨灾债收益来源与股债市场今年反复定价的两个问题（利率走向、AI与数据中心资本开支能否回本）完全无关，具独立分散价值。Sage于去年与百慕大Cedar Trace合作首次进入ILS市场。",
+        "tc": "Artemis報道，Sage Advisory副總裁Andrew Poreda的報告指，儘管創紀錄資金流入壓低價差，巨災債提供的淨風險溢價仍屬各金融市場中最寬之一；Swiss Re Global Cat Bond Index在2026年前8個月回報7.6%（2025年全年為4.1%），並已連續八個月穩定正回報、波動極小。Poreda強調巨災債收益來源與股債市場今年反覆定價的兩個問題（利率走向、AI與數據中心資本開支能否回本）完全無關，具獨立分散價值。Sage於去年與百慕大Cedar Trace合作首次進入ILS市場。"
+      },
+      "why": {
+        "sc": "提供「巨灾债与股债脱钩」最直观的量化论据，适合讲解ILS在组合中的位置——注意所有回报数字均为历史数据，不可用作演示或承诺。",
+        "tc": "提供「巨災債與股債脫鉤」最直觀的量化論據，適合講解ILS在組合中的位置——注意所有回報數字均為歷史數據，不可用作演示或承諾。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "把指数回报与波动数据标注为历史数据，仅内部参考不得对外演示",
+          "tc": "把指數回報與波動數據標註為歷史數據，僅內部參考不得對外演示"
+        },
+        "lead": {
+          "sc": "培训用「回报来源不同」讲清分散化原理，而非比较回报高低",
+          "tc": "培訓用「回報來源不同」講清分散化原理，而非比較回報高低"
+        },
+        "cross": {
+          "sc": "联系香港巨灾债券发行与ILS基金交易，用于投资者教育素材",
+          "tc": "聯繫香港巨災債券發行與ILS基金交易，用於投資者教育素材"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 2,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Artemis.bm（2026-09-23）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "ils",
+        "cat-risk",
+        "capital"
+      ],
+      "tags": {
+        "sc": [
+          "巨灾债",
+          "ILS",
+          "风险溢价",
+          "分散化",
+          "Sage Advisory"
+        ],
+        "tc": [
+          "巨災債",
+          "ILS",
+          "風險溢價",
+          "分散化",
+          "Sage Advisory"
+        ]
+      },
+      "publishedAt": "2026-09-23T18:30:00+08:00",
+      "originalUrl": "https://www.artemis.bm/news/despite-softening-spreads-cat-bond-risk-premium-remains-among-widest-available-sage-advisory/",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-24T00:55:00+08:00"
+    },
+    {
+      "id": "artemis-marsh-re-direct-institutional-20260923",
+      "clusterCount": 1,
+      "score": 73,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "artemis",
+      "contentKind": "news",
+      "title": {
+        "sc": "Marsh Re：2025年直接机构投资者配置再保增速最快，第三方资本年底料达约1300亿美元 [EN原文]",
+        "tc": "Marsh Re：2025年直接機構投資者配置再保增速最快，第三方資本年底料達約1300億美元 [EN原文]"
+      },
+      "summary": {
+        "sc": "Artemis引述Marsh Re数据，2025年直接机构投资者对再保的配置增速最快，估计增加约57%，快于独立ILS管理人及再保人自设管理人。第三方资本（经另类资本工具、巨灾债与ILS部署）2025年底达1230亿美元，预计2026年底增至约1300亿美元：2025年增长15%、今年预计再增近6%；2013至2025年另类与ILS资本累计增长逾250%。行业超额资本处历史高位，再保人盈利强劲、大型损失活动相对温和，共同推升资本基数。",
+        "tc": "Artemis引述Marsh Re數據，2025年直接機構投資者對再保的配置增速最快，估計增加約57%，快於獨立ILS管理人及再保人自設管理人。第三方資本（經另類資本工具、巨災債與ILS部署）2025年底達1230億美元，預計2026年底增至約1300億美元：2025年增長15%、今年預計再增近6%；2013至2025年另類與ILS資本累計增長逾250%。行業超額資本處歷史高位，再保人盈利強勁、大型損失活動相對溫和，共同推升資本基數。"
+      },
+      "why": {
+        "sc": "资本供给端数据可直接支撑「软市场还会延续」的判断，也是理解2027年续保定价与条款走向的起点。",
+        "tc": "資本供給端數據可直接支撐「軟市場還會延續」的判斷，也是理解2027年續保定價與條款走向的起點。"
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "更新再保资本供给与增速数据，用于续保前的市场简报",
+          "tc": "更新再保資本供給與增速數據，用於續保前的市場簡報"
+        },
+        "lead": {
+          "sc": "用「资本增速快、损失温和」解释费率走软的结构性原因",
+          "tc": "用「資本增速快、損失溫和」解釋費率走軟的結構性原因"
+        },
+        "cross": {
+          "sc": "与香港ILS生态建设对话时，引用第三方资本规模作背景数据",
+          "tc": "與香港ILS生態建設對話時，引用第三方資本規模作背景數據"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Artemis.bm（2026-09-23）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reinsurance",
+        "capital",
+        "pricing"
+      ],
+      "tags": {
+        "sc": [
+          "再保险",
+          "第三方资本",
+          "ILS",
+          "资本供给",
+          "Marsh Re"
+        ],
+        "tc": [
+          "再保險",
+          "第三方資本",
+          "ILS",
+          "資本供給",
+          "Marsh Re"
+        ]
+      },
+      "publishedAt": "2026-09-23T16:00:00+08:00",
+      "originalUrl": "https://www.artemis.bm/news/direct-institutional-investor-allocations-to-reinsurance-grew-at-fastest-rate-in-2025-marsh-re/",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-24T00:55:00+08:00"
+    },
+    {
+      "id": "artemis-fitch-reinsurance-survey-20260923",
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "artemis",
+      "contentKind": "news",
+      "title": {
+        "sc": "Fitch蒙特卡洛调研：86%料条款进一步放宽、60%料财产巨灾费率下跌，寿险健康成资本最高优先 [EN原文]",
+        "tc": "Fitch蒙特卡洛調研：86%料條款進一步放寬、60%料財產巨災費率下跌，壽險健康成資本最高優先 [EN原文]"
+      },
+      "summary": {
+        "sc": "Artemis报道，Fitch Ratings在蒙特卡洛再保年会期间调研显示，再保人以资本充裕姿态进入续保谈判，但多数预期结果艰难：86%受访者预计2027年续保条款放宽（58%选择性放宽、28%更广泛放宽），60%预计财产巨灾费率下跌。不到10%把财产及财产巨灾列为资本高优先；寿险健康取而代之成为最高优先，其次为金融方案、特殊险，最后才是财产与巨灾；美国及国际意外险作为2027年高优先仅各1%。Fitch指资本供给持续超需求，将延长买方友好的财险市场条件。",
+        "tc": "Artemis報道，Fitch Ratings在蒙特卡洛再保年會期間調研顯示，再保人以資本充裕姿態進入續保談判，但多數預期結果艱難：86%受訪者預計2027年續保條款放寬（58%選擇性放寬、28%更廣泛放寬），60%預計財產巨災費率下跌。不到10%把財產及財產巨災列為資本高優先；壽險健康取而代之成為最高優先，其次為金融方案、特殊險，最後才是財產與巨災；美國及國際意外險作為2027年高優先僅各1%。Fitch指資本供給持續超需求，將延長買方友好的財險市場條件。"
+      },
+      "why": {
+        "sc": "一张调研表看清2027年续保方向与再保人资本偏好迁移，是财产险客户续保沟通与预期管理的现成依据（属预测，非承诺）。",
+        "tc": "一張調研表看清2027年續保方向與再保人資本偏好遷移，是財產險客戶續保溝通與預期管理的現成依據（屬預測，非承諾）。"
+      },
+      "actions": {
+        "front": {
+          "sc": "财产险客户续保前，先就条款与费率方向管理预期，避免年底落差",
+          "tc": "財產險客戶續保前，先就條款與費率方向管理預期，避免年底落差"
+        },
+        "midback": {
+          "sc": "把费率与条款预期写入2027续保预判文件，并标注为调研预测",
+          "tc": "把費率與條款預期寫入2027續保預判文件，並標註為調研預測"
+        },
+        "lead": {
+          "sc": "培训时用「资本偏好从财险转向寿险健康」讲清再保人取向变化",
+          "tc": "培訓時用「資本偏好從財險轉向壽險健康」講清再保人取向變化"
+        },
+        "cross": {
+          "sc": "提示涉及跨境分保安排的客户关注条款放宽节奏",
+          "tc": "提示涉及跨境分保安排的客戶關注條款放寬節奏"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Artemis.bm（2026-09-23）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "reinsurance",
+        "pricing",
+        "uw"
+      ],
+      "tags": {
+        "sc": [
+          "再保险",
+          "续保",
+          "财产巨灾",
+          "费率",
+          "Fitch"
+        ],
+        "tc": [
+          "再保險",
+          "續保",
+          "財產巨災",
+          "費率",
+          "Fitch"
+        ]
+      },
+      "publishedAt": "2026-09-23T15:00:00+08:00",
+      "originalUrl": "https://www.artemis.bm/news/60-expect-property-cat-rates-to-fall-86-expect-tcs-to-loosen-fitch-reinsurance-survey/",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-24T00:55:00+08:00"
+    },
+    {
+      "id": "ibm-iumi-freight-forwarding-liability-20260923",
+      "clusterCount": 1,
+      "score": 68,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "contentKind": "news",
+      "title": {
+        "sc": "IUMI鹿特丹年会辩论：货运代理人责任险缺全球统一措辞与聚合数据 [EN原文]",
+        "tc": "IUMI鹿特丹年會辯論：貨運代理人責任險缺全球統一措辭與聚合數據 [EN原文]"
+      },
+      "summary": {
+        "sc": "Insurance Business报道，国际海上保险联盟（IUMI）在鹿特丹年会上讨论货运代理人责任险是否需更系统性的行业关注。IUMI执委兼该环节主持人Matthias Kirchner指，货运代理人在全球供应链中日益居于战略位置，但与货物险不同，该分线长期缺乏全球一致的条款措辞，各国法律与监管框架差异大，也缺少可比的聚合保费与损失数据，使定价与资本配置缺少依据。此前IUMI已就数字化货运凭证与海湾战争险索赔发出行业观察。",
+        "tc": "Insurance Business報道，國際海上保險聯盟（IUMI）在鹿特丹年會上討論貨運代理人責任險是否需更系統性的行業關注。IUMI執委兼該環節主持人Matthias Kirchner指，貨運代理人在全球供應鏈中日益居於戰略位置，但與貨物險不同，該分線長期缺乏全球一致的條款措辭，各國法律與監管框架差異大，也缺少可比的聚合保費與損失數據，使定價與資本配置缺少依據。此前IUMI已就數字化貨運憑證與海灣戰爭險索賠發出行業觀察。"
+      },
+      "why": {
+        "sc": "与前期IUMI数字货运凭证、海湾战争险索赔两条连读，可看出该分线正从「数据缺口」升级为行业议程，对航运与物流客户的风险咨询有直接价值。",
+        "tc": "與前期IUMI數字貨運憑證、海灣戰爭險索賠兩條連讀，可看出該分線正從「數據缺口」升級為行業議程，對航運與物流客戶的風險諮詢有直接價值。"
+      },
+      "actions": {
+        "front": {
+          "sc": "有物流／货代客户时，先确认其责任险措辞版本与适用法域",
+          "tc": "有物流／貨代客戶時，先確認其責任險措辭版本與適用法域"
+        },
+        "midback": {
+          "sc": "在特殊险清单中单列「货运代理人责任」，标注无统一全球条款",
+          "tc": "在特殊險清單中單列「貨運代理人責任」，標註無統一全球條款"
+        },
+        "lead": {
+          "sc": "用IUMI三条动向（凭证数字化／战争险／代理人责任）讲清航运险的拐点",
+          "tc": "用IUMI三條動向（憑證數字化／戰爭險／代理人責任）講清航運險的拐點"
+        },
+        "cross": {
+          "sc": "涉及多法域运输的客户，提示条款适用法域差异带来的缺口",
+          "tc": "涉及多法域運輸的客戶，提示條款適用法域差異帶來的缺口"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 1,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Business Asia（2026-09-23）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "marine",
+        "uw",
+        "benchmark"
+      ],
+      "tags": {
+        "sc": [
+          "货运代理人责任",
+          "IUMI",
+          "海上保险",
+          "条款措辞",
+          "供应链"
+        ],
+        "tc": [
+          "貨運代理人責任",
+          "IUMI",
+          "海上保險",
+          "條款措辭",
+          "供應鏈"
+        ]
+      },
+      "publishedAt": "2026-09-23T14:19:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/marine/iumi-weighs-bigger-role-in-freight-forwarding-liability-590811.aspx",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-24T00:55:00+08:00"
+    },
+    {
+      "id": "iaasia-ctf-life-sky-leap-88-20260923",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "contentKind": "news",
+      "title": {
+        "sc": "周大福人寿推「Sky Leap 88」储蓄险：预缴享8%–10%首年折扣，另设8%传承利益 [EN原文]",
+        "tc": "周大福人壽推「Sky Leap 88」儲蓄險：預繳享8%–10%首年折扣，另設8%傳承利益 [EN原文]"
+      },
+      "summary": {
+        "sc": "Insurance Asia报道，周大福人寿推出「Sky Leap 88」储蓄保险计划，客户附加「增值选项」并一次性预缴基本计划保费，可获8%至10%限时首年保费折扣；该选项同时提高保证现金价值与保单总价值，并把保证及预期回本年期各缩短一年。公司称第20个保单年度预期内部回报率为6.5%，并引述财库局数据指未来二三十年内全球约83万亿美元私人财富将跨代转移。",
+        "tc": "Insurance Asia報道，周大福人壽推出「Sky Leap 88」儲蓄保險計劃，客戶附加「增值選項」並一次性預繳基本計劃保費，可獲8%至10%限時首年保費折扣；該選項同時提高保證現金價值與保單總價值，並把保證及預期回本年期各縮短一年。公司稱第20個保單年度預期內部回報率為6.5%，並引述財庫局數據指未來二三十年內全球約83萬億美元私人財富將跨代轉移。"
+      },
+      "why": {
+        "sc": "产品条款细节（折扣口径、回本年期、IRR演示）是前线最常被问的点；本站只导读结构，不转述任何收益承诺，客户询问须回到建议书与保单条款。",
+        "tc": "產品條款細節（折扣口徑、回本年數、IRR演示）是前線最常被問的點；本站只導讀結構，不轉述任何收益承諾，客戶詢問須回到建議書與保單條款。"
+      },
+      "actions": {
+        "front": {
+          "sc": "客户问到「8%」时先区分是保费折扣还是传承利益，避免混为一谈",
+          "tc": "客戶問到「8%」時先區分是保費折扣還是傳承利益，避免混為一談"
+        },
+        "midback": {
+          "sc": "把「折扣／传承利益／回本年期」三项拆开写入产品对比表，均标注非保证演示",
+          "tc": "把「折扣／傳承利益／回本年數」三項拆開寫入產品對比表，均標註非保證演示"
+        },
+        "lead": {
+          "sc": "团队培训用此例练习「演示利益不等于承诺」的口径",
+          "tc": "團隊培訓用此例練習「演示利益不等於承諾」的口徑"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Asia（2026-09-23）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "product",
+        "wealth-transfer",
+        "hnw"
+      ],
+      "tags": {
+        "sc": [
+          "周大福人寿",
+          "储蓄险",
+          "财富传承",
+          "保费折扣",
+          "高净值"
+        ],
+        "tc": [
+          "周大福人壽",
+          "儲蓄險",
+          "財富傳承",
+          "保費折扣",
+          "高淨值"
+        ]
+      },
+      "publishedAt": "2026-09-23T06:15:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/ctf-life-cuts-premiums-wealth-transfer-accelerates",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-24T00:55:00+08:00"
+    },
+    {
+      "id": "iaasia-ping-an-globalcare-ai-20260923",
+      "clusterCount": 1,
+      "score": 69,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "contentKind": "news",
+      "title": {
+        "sc": "平安好医生推「GlobalCare」AI跨境医疗：深圳试运行，19种语言实时翻译、198国手机号可注册 [EN原文]",
+        "tc": "平安好醫生推「GlobalCare」AI跨境醫療：深圳試運行，19種語言即時翻譯、198國手機號可註冊 [EN原文]"
+      },
+      "summary": {
+        "sc": "Insurance Asia报道，平安好医生推出AI跨境医疗服务「Ping An GlobalCare」，先在深圳试运行，针对外籍人士在华就医的语言障碍、流程不熟悉与服务碎片化问题。服务支持19种语言（含医学术语）的双向语音与文字实时翻译，可使用198个国家及地区手机号注册，流程涵盖线上评估、专属个案协调员转诊及到院陪诊；文中举例一名美国用户三小时内完成线上问诊并被陪诊到底。家庭医生团队已取得北大医疗认证，医生多来自内地三甲医院。",
+        "tc": "Insurance Asia報道，平安好醫生推出AI跨境醫療服務「Ping An GlobalCare」，先在深圳試運行，針對外籍人士在華就醫的語言障礙、流程不熟悉與服務碎片化問題。服務支持19種語言（含醫學術語）的雙向語音與文字即時翻譯，可使用198個國家及地區手機號註冊，流程涵蓋線上評估、專屬個案協調員轉診及到院陪診；文中舉例一名美國用戶三小時內完成線上問診並被陪診到底。家庭醫生團隊已取得北大醫療認證，醫生多來自內地三甲醫院。"
+      },
+      "why": {
+        "sc": "跨境医疗「服务+AI」模式对港险医疗险与高客健康服务的差异化有直接参考，也贴合大湾区跨境医疗衔接的政策热点。",
+        "tc": "跨境醫療「服務+AI」模式對港險醫療險與高客健康服務的差異化有直接參考，也貼合大灣區跨境醫療銜接的政策熱點。"
+      },
+      "actions": {
+        "front": {
+          "sc": "有内地就医需求客户时，可用「线上评估—转诊—陪诊」流程对照自家服务承诺",
+          "tc": "有內地就醫需求客戶時，可用「線上評估—轉診—陪診」流程對照自家服務承諾"
+        },
+        "midback": {
+          "sc": "评估同类跨境医疗服务外包方的资质与数据合规（外籍客户资料出境）",
+          "tc": "評估同類跨境醫療服務外包方的資質與數據合規（外籍客戶資料出境）"
+        },
+        "lead": {
+          "sc": "培训用此例说明「保障之外的服务能力」如何形成渠道差异",
+          "tc": "培訓用此例說明「保障之外的服務能力」如何形成渠道差異"
+        },
+        "cross": {
+          "sc": "对接大湾区跨境医疗与港人就医安排的政策讨论",
+          "tc": "對接大灣區跨境醫療與港人就醫安排的政策討論"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 1,
+        "lead": 1,
+        "cross": 2
+      },
+      "source": {
+        "sc": "Insurance Asia（2026-09-23）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "tech",
+        "product"
+      ],
+      "themes": [
+        "ai",
+        "health",
+        "cross-border"
+      ],
+      "tags": {
+        "sc": [
+          "平安好医生",
+          "跨境医疗",
+          "AI翻译",
+          "大湾区",
+          "健康服务"
+        ],
+        "tc": [
+          "平安好醫生",
+          "跨境醫療",
+          "AI翻譯",
+          "大灣區",
+          "健康服務"
+        ]
+      },
+      "publishedAt": "2026-09-23T06:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/ping-launches-ai-healthcare-service-expats",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-24T00:55:00+08:00"
+    },
+    {
+      "id": "iaasia-singlife-ai-email-agent-20260923",
+      "clusterCount": 1,
+      "score": 68,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "contentKind": "news",
+      "title": {
+        "sc": "Singlife：AI邮件代理已处理逾20%客户查询，Buddy令平均处理时长降30% [EN原文]",
+        "tc": "Singlife：AI郵件代理已處理逾20%客戶查詢，Buddy令平均處理時長降30% [EN原文]"
+      },
+      "summary": {
+        "sc": "Insurance Asia报道，新加坡Singlife与Salesforce合作扩展AI应用：一般保险邮件AI代理实时判断查询性质与紧急程度，简单个案即时回复、复杂或敏感个案转人工，目前已处理逾20%的邮件查询；在今年查询量高峰期仍把多数邮件于两日内解决。去年推出的内部AI助手Buddy把平均处理时长降低30%，新人培训时间由四周缩至两周（减50%）。公司计划把Buddy升级为可让保单持有人直接查询保单与办理自助服务的数字代理。",
+        "tc": "Insurance Asia報道，新加坡Singlife與Salesforce合作擴展AI應用：一般保險郵件AI代理實時判斷查詢性質與緊急程度，簡單個案即時回覆、複雜或敏感個案轉人工，目前已處理逾20%的郵件查詢；在今年查詢量高峰期仍把多數郵件於兩日內解決。去年推出的內部AI助手Buddy把平均處理時長降低30%，新人培訓時間由四週縮至兩週（減50%）。公司計劃把Buddy升級為可讓保單持有人直接查詢保單與辦理自助服務的數字代理。"
+      },
+      "why": {
+        "sc": "「先内部助手、后客户直面」的两步走路径，是本地团队引入AI客服时可复制的顺序，量化锚点为平均处理时长减30%、培训时长减半。",
+        "tc": "「先內部助手、後客戶直面」的兩步走路徑，是本地團隊引入AI客服時可複製的順序，量化錨點為平均處理時長減30%、培訓時長減半。"
+      },
+      "actions": {
+        "front": {
+          "sc": "用「两日内回复」对标自家团队的服务时效与承诺",
+          "tc": "用「兩日內回覆」對標自家團隊的服務時效與承諾"
+        },
+        "midback": {
+          "sc": "上线客户直面AI前，先明确转人工规则、留痕与责任归属",
+          "tc": "上線客戶直面AI前，先明確轉人工規則、留痕與責任歸屬"
+        },
+        "lead": {
+          "sc": "规划AI客服按「内部助手→客户自助」两步走，避免一步直面客户",
+          "tc": "規劃AI客服按「內部助手→客戶自助」兩步走，避免一步直面客戶"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 2,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Asia（2026-09-23）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "tech"
+      ],
+      "themes": [
+        "ai",
+        "insurtech",
+        "digital"
+      ],
+      "tags": {
+        "sc": [
+          "Singlife",
+          "AI客服",
+          "邮件代理",
+          "处理时长",
+          "数字代理"
+        ],
+        "tc": [
+          "Singlife",
+          "AI客服",
+          "郵件代理",
+          "處理時長",
+          "數字代理"
+        ]
+      },
+      "publishedAt": "2026-09-23T05:30:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/singlife-ai-handles-over-20-email-enquiries",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-24T00:55:00+08:00"
+    },
+    {
+      "id": "iaasia-emerging-industries-risk-models-20260923",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "contentKind": "news",
+      "title": {
+        "sc": "麦肯锡：18个高增长产业2040年营收可达29–48万亿美元，倒逼险企改写风险模型 [EN原文]",
+        "tc": "麥肯錫：18個高增長產業2040年營收可達29–48萬億美元，倒逼險企改寫風險模型 [EN原文]"
+      },
+      "summary": {
+        "sc": "Insurance Asia引述麦肯锡研究，指18个高增长产业2022至2025年营收增速为整体经济十倍，三年来新增市值近18万亿美元，2040年合计营收预计29万亿至48万亿美元，其中AI基础技术贡献10.77万亿美元。文中列举对承保假设的实质冲击：GLP-1减重药令主要心血管事件减少20%，慕再估计可在20年内每年改善死亡率0.2%至0.5%；电动车维修成本比传统车高20%至30%，电池损伤常导致全损；超大规模数据中心保额常超100亿美元，在轨卫星由2019年约2,000颗增至逾1.8万颗。",
+        "tc": "Insurance Asia引述麥肯錫研究，指18個高增長產業2022至2025年營收增速為整體經濟十倍，三年來新增市值近18萬億美元，2040年合計營收預計29萬億至48萬億美元，其中AI基礎技術貢獻10.77萬億美元。文中列舉對承保假設的實質衝擊：GLP-1減重藥令主要心血管事件減少20%，慕再估計可在20年內每年改善死亡率0.2%至0.5%；電動車維修成本比傳統車高20%至30%，電池損傷常導致全損；超大規模數據中心保額常超100億美元，在軌衛星由2019年約2,000顆增至逾1.8萬顆。"
+      },
+      "why": {
+        "sc": "寿命、车险、数据中心、航天四条线的精算与承保假设正在被技术与产业变化改写，是「为何要定期复核产品假设」的公开论证素材。",
+        "tc": "壽命、車險、數據中心、航天四條線的精算與承保假設正在被技術與產業變化改寫，是「為何要定期複核產品假設」的公開論證素材。"
+      },
+      "actions": {
+        "front": {
+          "sc": "高客谈到长寿与健康趋势时，可用死亡率改善0.2–0.5%解释年金与寿险定价逻辑",
+          "tc": "高客談到長壽與健康趨勢時，可用死亡率改善0.2–0.5%解釋年金與壽險定價邏輯"
+        },
+        "midback": {
+          "sc": "把GLP-1、电动车、数据中心三项列入年度承保假设复核清单",
+          "tc": "把GLP-1、電動車、數據中心三項列入年度承保假設複核清單"
+        },
+        "lead": {
+          "sc": "用「18个赛道」框架讲清行业风险敞口迁移方向，作为增员与培训话题",
+          "tc": "用「18個賽道」框架講清行業風險敞口遷移方向，作為增員與培訓話題"
+        },
+        "cross": {
+          "sc": "数据中心与航天保额规模可对接跨境特殊风险与再保安排话题",
+          "tc": "數據中心與航天保額規模可對接跨境特殊風險與再保安排話題"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "source": {
+        "sc": "Insurance Asia（2026-09-23）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "market",
+        "tech"
+      ],
+      "themes": [
+        "uw",
+        "health",
+        "tech",
+        "cat-risk"
+      ],
+      "tags": {
+        "sc": [
+          "麦肯锡",
+          "高增长产业",
+          "承保假设",
+          "GLP-1",
+          "数据中心"
+        ],
+        "tc": [
+          "麥肯錫",
+          "高增長產業",
+          "承保假設",
+          "GLP-1",
+          "數據中心"
+        ]
+      },
+      "publishedAt": "2026-09-23T05:15:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/emerging-industries-force-insurers-rewrite-risk-models",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-24T00:55:00+08:00"
+    },
+    {
+      "id": "iaasia-ai-scale-81-premium-gains-20260923",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "contentKind": "news",
+      "title": {
+        "sc": "Accenture调研：81%险企AI项目带动毛保费增至少5%，但仅23%实现全企业级落地 [EN原文]",
+        "tc": "Accenture調研：81%險企AI項目帶動毛保費增至少5%，但僅23%實現全企業級落地 [EN原文]"
+      },
+      "summary": {
+        "sc": "Insurance Asia引述埃森哲《How insurers drive revenue by deploying AI with intent》报告，调查亚太、欧洲及美洲263名负责数据、AI与业务转型的保险高管：81%受访者称数据与AI项目令毛保费至少增5%，其中55%增幅为5%至10%、19%为10%至20%、7%超20%；但仅23%实现全企业级AI整合，49%在多个职能扩围、19%仅在局部使用。投资动因上，客户体验与留存（52%）高于承保与定价准确性、理赔效率（各48%）；约83%机构存在员工把AI与业务连接能力的中重度缺口。",
+        "tc": "Insurance Asia引述埃森哲《How insurers drive revenue by deploying AI with intent》報告，調查亞太、歐洲及美洲263名負責數據、AI與業務轉型的保險高管：81%受訪者稱數據與AI項目令毛保費至少增5%，其中55%增幅為5%至10%、19%為10%至20%、7%超20%；但僅23%實現全企業級AI整合，49%在多個職能擴圍、19%僅在局部使用。投資動因上，客戶體驗與留存（52%）高於承保與定價準確性、理賠效率（各48%）；約83%機構存在員工把AI與業務連接能力的中重度缺口。"
+      },
+      "why": {
+        "sc": "81%／23%／83%三个数字正好说明「工具好用不等于组织落地」，可作为团队AI赋能阶段的诊断标尺。",
+        "tc": "81%／23%／83%三個數字正好說明「工具好用不等於組織落地」，可作為團隊AI賦能階段的診斷標尺。"
+      },
+      "actions": {
+        "front": {
+          "sc": "用「81%已见增收、仅23%全企业落地」说明个人效率领先的空间",
+          "tc": "用「81%已見增收、僅23%全企業落地」說明個人效率領先的空間"
+        },
+        "midback": {
+          "sc": "把AI落地程度（试点／多职能／全企业）列为团队能力评估维度",
+          "tc": "把AI落地程度（試點／多職能／全企業）列為團隊能力評估維度"
+        },
+        "lead": {
+          "sc": "对照83%技能缺口，规划分层培训（工具使用→流程重构）",
+          "tc": "對照83%技能缺口，規劃分層培訓（工具使用→流程重構）"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 2,
+        "cross": 0
+      },
+      "source": {
+        "sc": "Insurance Asia（2026-09-23）[EN原文]",
+        "lang": "en"
+      },
+      "boards": [
+        "tech"
+      ],
+      "themes": [
+        "ai",
+        "insurtech",
+        "benchmark"
+      ],
+      "tags": {
+        "sc": [
+          "Accenture",
+          "AI落地",
+          "毛保费",
+          "技能缺口",
+          "调研"
+        ],
+        "tc": [
+          "Accenture",
+          "AI落地",
+          "毛保費",
+          "技能缺口",
+          "調研"
+        ]
+      },
+      "publishedAt": "2026-09-23T05:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/insurers-struggle-scale-ai-despite-81-premium-gains",
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-24T00:55:00+08:00"
+    },
     {
       "id": "hkma-scam-alert-banks-20260923",
       "clusterCount": 1,
@@ -68875,17 +69841,28 @@ window.HKII_DATA = {
           "sc": "2026-09-23",
           "tc": "2026-09-23"
         },
-        "itemCount": 9,
+        "itemCount": 20,
         "itemIds": [
+          "artemis-pggm-ils-diversification-20260923",
+          "artemis-marsh-anger-ils-diversity-20260923",
+          "artemis-sage-catbond-risk-premium-20260923",
           "ian-hannover-re-louise-austin-20260923",
           "hkma-treasury-markets-summit-20260923",
           "ian-sp-ai-credit-factors-20260923",
+          "artemis-marsh-re-direct-institutional-20260923",
           "ian-sompo-joe-wee-apac-construction-20260923",
+          "artemis-fitch-reinsurance-survey-20260923",
+          "ibm-iumi-freight-forwarding-liability-20260923",
           "sina-aia-zhonghong-hsbc-re-fund-20260923",
           "ian-india-broker-dividend-rules-20260923",
           "ian-lockton-arthur-wong-analytics-20260923",
           "ian-iag-rac-accc-20260923",
-          "ian-hormuz-marine-calculated-risk-20260923"
+          "ian-hormuz-marine-calculated-risk-20260923",
+          "iaasia-ctf-life-sky-leap-88-20260923",
+          "iaasia-ping-an-globalcare-ai-20260923",
+          "iaasia-singlife-ai-email-agent-20260923",
+          "iaasia-emerging-industries-risk-models-20260923",
+          "iaasia-ai-scale-81-premium-gains-20260923"
         ]
       },
       {
@@ -76851,10 +77828,10 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 922 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 922 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 934 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 934 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 922,
+      "totalItems": 934,
       "sourceTiers": [
         {
           "tier": "official",
@@ -76873,12 +77850,12 @@ window.HKII_DATA = {
         },
         {
           "tier": "media",
-          "count": 323,
+          "count": 330,
           "label": "媒体报道"
         },
         {
           "tier": "pro",
-          "count": 142,
+          "count": 147,
           "label": "专业解读"
         },
         {
@@ -76967,7 +77944,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "product",
-          "count": 95,
+          "count": 96,
           "label": "产品"
         },
         {
@@ -76976,23 +77953,23 @@ window.HKII_DATA = {
           "label": "合规"
         },
         {
+          "theme": "reinsurance",
+          "count": 76,
+          "label": "再保险"
+        },
+        {
           "theme": "offshore",
           "count": 75,
           "label": "跨境"
         },
         {
-          "theme": "reinsurance",
-          "count": 73,
-          "label": "再保险"
-        },
-        {
           "theme": "cross-border",
-          "count": 69,
+          "count": 70,
           "label": "跨境"
         },
         {
           "theme": "channel",
-          "count": 61,
+          "count": 62,
           "label": "渠道"
         },
         {
@@ -77002,8 +77979,8 @@ window.HKII_DATA = {
         }
       ],
       "dateRange": {
-        "sc": "2013-03-05 ~ 2026-09-23",
-        "tc": "2013-03-05 ~ 2026-09-23"
+        "sc": "2013-03-05 ~ 2026-09-24",
+        "tc": "2013-03-05 ~ 2026-09-24"
       }
     },
     "marketData": {

@@ -19,7 +19,9 @@ def load_top_items(n=4):
         return (it.get("publishedAt") or "")[:10]
 
     recent = [it for it in items if pub_date(it) >= cutoff]
-    recent.sort(key=lambda x: (x.get("score", 0), pub_date(x)), reverse=True)
+    # 当日条目优先（海报=「当日」朋友圈发布物），其余按分数回填，避免两日前的高分旧条目长期霸榜
+    today_s = today.isoformat()
+    recent.sort(key=lambda x: (pub_date(x) == today_s, x.get("score", 0), pub_date(x)), reverse=True)
     picked = recent[:n]
     if len(picked) < n:
         seen = {x.get("id") for x in picked}
