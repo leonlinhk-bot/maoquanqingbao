@@ -1,0 +1,653 @@
+<?xml version="1.0"?>
+<rss version="2.0" xml:base="link" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:media="http://www.rssboard.org/media-rss" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <channel>
+    <title>News - South China Morning Post</title>
+    <link>https://www.scmp.com/rss/91/feed</link>
+    <description>All the latest breaking news from Hong Kong, China and around the world</description>
+    <language>en</language>
+    <image>
+      <url>https://assets-v2.i-scmp.com/production/static/img/icons/scmp-meta-1200x630.png</url>
+      <title>News - South China Morning Post</title>
+      <link>https://www.scmp.com</link>
+    </image>
+    <atom:link href="https://www.scmp.com/rss/91/feed" rel="self" type="application/rss+xml"/>
+    <item>
+      <author>dpa</author>
+      <dc:creator>dpa</dc:creator>
+      <description>Palestinian President Mahmoud Abbas on Thursday warned that the Palestinian people were facing “one of the most dangerous phases in their history” in a speech at the United Nations recorded in advance as the Palestinian delegation was denied US visas by Washington.
+Addressing the UN General Assembly’s annual debate, Abbas accused Israel of waging a “genocidal war” in Gaza and “fragmenting” the occupied West Bank through the expansion of settlements, warning that “settler terrorism” was on the...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/world/united-states-canada/article/3368717/abbas-accuses-israel-waging-genocidal-war-gaza-pre-recorded-un-speech?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/world/united-states-canada/article/3368717/abbas-accuses-israel-waging-genocidal-war-gaza-pre-recorded-un-speech?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 17:40:03 +0000</pubDate>
+      <title>Abbas accuses Israel of waging ‘genocidal war’ in Gaza, in pre-recorded UN address</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/25/22bc8d22-1e7a-4d12-ba12-31f5610536c1_e31eeae4.jpg?itok=nuCCeWHq&amp;v=1790271321"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/25/22bc8d22-1e7a-4d12-ba12-31f5610536c1_e31eeae4.jpg?itok=nuCCeWHq&amp;v=1790271321" width="4095"/>
+    </item>
+    <item>
+      <author>Associated Press</author>
+      <dc:creator>Associated Press</dc:creator>
+      <description>A Croatian court has approved the extradition of a Ukrainian man who is wanted in Germany in connection with the 2022 undersea explosions that damaged the Nord Stream gas pipelines, state media said on Thursday.
+The report from HRT Television quoted the suspect’s lawyer Ljubo Pavaskovic as saying that he will appeal the September 18 ruling. It was not immediately clear when the man could be handed over to Germany.
+He was arrested on a European warrant in the northern Croatian town of Pula in...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/world/europe/article/3368715/croatian-court-approves-extradition-nord-stream-blast-suspect-germany?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/world/europe/article/3368715/croatian-court-approves-extradition-nord-stream-blast-suspect-germany?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 16:46:52 +0000</pubDate>
+      <title>Croatian court approves extradition of Nord Stream blast suspect to Germany</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/25/c695dad0-4268-46c1-97bc-7f5bb702089e_c0f24087.jpg?itok=3HMobKby&amp;v=1790268212"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/25/c695dad0-4268-46c1-97bc-7f5bb702089e_c0f24087.jpg?itok=3HMobKby&amp;v=1790268212" width="4095"/>
+    </item>
+    <item>
+      <author>Dewey Sim,Ji Siqi,Vincent Chow</author>
+      <dc:creator>Dewey Sim,Ji Siqi,Vincent Chow</dc:creator>
+      <description>Chinese President Xi Jinping and his American counterpart Donald Trump delivered remarks at the White House on Thursday morning at the start of the second day of Xi’s closely watched state visit.
+Both leaders spoke warmly of their countries’ ties and pledged deeper cooperation in comments that sought to project an image of stability between the two sides.
+Trump said he and Xi would work together to build a “better future for both our countries” while Xi called for the two powers to “coexist in...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3368716/b-2-spirit-ai-cooperation-no-us-china-conflict-key-xi-trump-takeaways-so-far?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3368716/b-2-spirit-ai-cooperation-no-us-china-conflict-key-xi-trump-takeaways-so-far?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 16:44:16 +0000</pubDate>
+      <title>B-2 Spirit, AI cooperation, no US-China conflict: key Xi-Trump takeaways so far</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/25/3f09a434-d25f-417f-ade3-d0ef9faeb1ca_e9027346.jpg?itok=p0bXPGfW&amp;v=1790268256"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/25/3f09a434-d25f-417f-ade3-d0ef9faeb1ca_e9027346.jpg?itok=p0bXPGfW&amp;v=1790268256" width="4095"/>
+    </item>
+    <item>
+      <author>Jess Ma</author>
+      <dc:creator>Jess Ma</dc:creator>
+      <description>An intergovernmental mediation body headquartered in Hong Kong is poised to play an important role in resolving cross-border disputes within the Greater Bay Area, as well as multinational disagreements tied to countries in the Belt and Road Initiative, former and incumbent justice ministers have said.
+The secretary general of the International Organisation for Mediation (IOMed), Teresa Cheng Yeuk-wah, highlighted the organisation’s role in handling disputes within the bay area at a forum...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/law-and-crime/article/3368714/hong-kongs-iomed-poised-play-key-role-resolving-greater-bay-area-disputes?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/law-and-crime/article/3368714/hong-kongs-iomed-poised-play-key-role-resolving-greater-bay-area-disputes?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 15:44:27 +0000</pubDate>
+      <title>Hong Kong’s IOMed poised to play key role in resolving Greater Bay Area disputes</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/4ef5766d-f242-476e-8b63-eafec4c8a1a9_83fc161e.jpg?itok=kOocalLb&amp;v=1790264546"/>
+      <media:content height="2877" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/4ef5766d-f242-476e-8b63-eafec4c8a1a9_83fc161e.jpg?itok=kOocalLb&amp;v=1790264546" width="4096"/>
+    </item>
+    <item>
+      <author>Agence France-Presse</author>
+      <dc:creator>Agence France-Presse</dc:creator>
+      <description>The eviction of an 87-year-old from her Madrid home has highlighted a political paralysis that has thwarted efforts to resolve Spain’s chronic housing crisis, fuelling debate before next year’s election.
+Maricarmen Abascal’s 70-year stay at her home in upmarket central Madrid ended on Wednesday when she left escorted on a stretcher, flanked by protesters on one side and police on the other – a traumatic event broadcast live on TV.
+Unable to afford a 275-per cent increase to the monthly rent...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/world/europe/article/3368712/spains-housing-crisis-spotlight-eviction-pensioner-87?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/world/europe/article/3368712/spains-housing-crisis-spotlight-eviction-pensioner-87?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 14:56:09 +0000</pubDate>
+      <title>Spain’s housing crisis in spotlight with eviction of pensioner, 87</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/e7d18c9c-0a2e-43f8-8148-ed5a5a997b4d_fe6974ad.jpg?itok=lwmIr2vQ&amp;v=1790261764"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/e7d18c9c-0a2e-43f8-8148-ed5a5a997b4d_fe6974ad.jpg?itok=lwmIr2vQ&amp;v=1790261764" width="4095"/>
+    </item>
+    <item>
+      <author>Mark Magnier</author>
+      <dc:creator>Mark Magnier</dc:creator>
+      <description>After weeks of frustration, delays and posturing, Chinese President Xi Jinping and US President Donald Trump got down to business on Thursday, kicking off their high-stakes summit, Xi’s first on US soil since 2015.
+The two started the morning with a formal arrival ceremony on the White House South Lawn and Rose Garden that included nearly 500 military personnel, the Chinese and American national anthems played by the US Marine Band and opening remarks from both leaders.
+Both leaders sought to...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/us/diplomacy/article/3368709/beyond-rose-garden-and-military-review-trump-and-xi-get-down-business?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/us/diplomacy/article/3368709/beyond-rose-garden-and-military-review-trump-and-xi-get-down-business?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 14:32:56 +0000</pubDate>
+      <title>Beyond the Rose Garden and the military review, Trump and Xi get down to business</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/609f4723-ebcd-475f-b90c-08a6e201f800_a1c5251d.jpg?itok=V6bmVkSy&amp;v=1790265739"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/609f4723-ebcd-475f-b90c-08a6e201f800_a1c5251d.jpg?itok=V6bmVkSy&amp;v=1790265739" width="4095"/>
+    </item>
+    <item>
+      <author>Bloomberg</author>
+      <dc:creator>Bloomberg</dc:creator>
+      <description>Singapore’s major financial institutions have pledged to train more than 80,000 local employees in AI skills as the country moves to cushion white-collar workers from potential job disruption.
+A pioneer batch of 23 banks, insurers and asset managers has committed to train all their Singapore staff by 2028, and more than half of them have already gone through programmes recognised by an industry association, according to Deputy Prime Minister Gan Kim Yong.
+The firms would also study how jobs were...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/asia/southeast-asia/article/3368707/singapores-finance-firms-pledge-train-80000-local-staff-ai-skills?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/asia/southeast-asia/article/3368707/singapores-finance-firms-pledge-train-80000-local-staff-ai-skills?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 14:01:44 +0000</pubDate>
+      <title>Singapore’s finance firms pledge to train 80,000 local staff in AI skills</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/84b738dd-5431-4980-aa58-c7d0fb9840d8_03abab8b.jpg?itok=0Z0tqvix&amp;v=1790258500"/>
+      <media:content height="2725" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/84b738dd-5431-4980-aa58-c7d0fb9840d8_03abab8b.jpg?itok=0Z0tqvix&amp;v=1790258500" width="4096"/>
+    </item>
+    <item>
+      <author>SCMP Reporters</author>
+      <dc:creator>SCMP Reporters</dc:creator>
+      <description>This live article is freely available to our registered users. Please log in or create an account.
+Unrivalled Xi-Trump summit analysis: get real-time updates and exclusive boots-on-the-ground reporting from our US and China bureaus. Subscribe now with great savings to stay ahead.
+President Xi Jinping and China’s first lady Peng Liyuan arrived at the White House on Thursday, on Xi’s first trip to the US in nearly a decade, following US President Donald Trump trip to Beijing in May.
+Trump greeted...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3368706/xi-begins-first-full-day-us-visit-meet-trump-white-house-ceremony?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3368706/xi-begins-first-full-day-us-visit-meet-trump-white-house-ceremony?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 13:53:20 +0000</pubDate>
+      <title>Xi stresses Beijing’s Taiwan position to Trump in White House meeting</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/25/f5624075-13b7-4ce0-901d-a6b646e124a9_c25343b4.jpg?itok=pg0I3BRk&amp;v=1790269398"/>
+      <media:content height="2732" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/25/f5624075-13b7-4ce0-901d-a6b646e124a9_c25343b4.jpg?itok=pg0I3BRk&amp;v=1790269398" width="4096"/>
+    </item>
+    <item>
+      <author>Matthew Cheng</author>
+      <dc:creator>Matthew Cheng</dc:creator>
+      <description>Updated declarations of interest by members of Hong Kong’s top decision-making body have revealed new business ventures and corporate board appointments for several former veteran lawmakers, while constitutional affairs chief Janice Tse Siu-wa remains the biggest landlord among ministers.
+The Executive Council’s annually updated declarations of interest were published on Thursday in accordance with regulations requiring all members, including senior politically appointed officials, to declare...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/politics/article/3368705/exco-declarations-reveal-new-roles-ex-lawmakers-minister-retains-22-flats?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/politics/article/3368705/exco-declarations-reveal-new-roles-ex-lawmakers-minister-retains-22-flats?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 13:50:44 +0000</pubDate>
+      <title>Exco declarations reveal new roles for ex-lawmakers as minister retains 22 flats</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/fb7122b7-f7c9-4dca-8f8a-3d471675692a_5b031c61.jpg?itok=R1WePZZp&amp;v=1790257634"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/fb7122b7-f7c9-4dca-8f8a-3d471675692a_5b031c61.jpg?itok=R1WePZZp&amp;v=1790257634" width="4095"/>
+    </item>
+    <item>
+      <author>Brian Wong</author>
+      <dc:creator>Brian Wong</dc:creator>
+      <description>Slain Hong Kong socialite Abby Choi Tin-fung’s former husband and brother-in-law have pleaded guilty to illegally disposing of her dismembered body, but will still stand trial alongside their father on murder charges as prosecutors prepare to open their case on Monday.
+The pleas on the two charges were revealed on Thursday after the High Court empanelled a nine-member jury for the high-profile trial, which is expected to last about eight weeks.
+The seven men and two women will hear evidence and...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/law-and-crime/article/3368703/hong-kong-model-abby-chois-former-relatives-admit-body-disposal-deny-murder?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/law-and-crime/article/3368703/hong-kong-model-abby-chois-former-relatives-admit-body-disposal-deny-murder?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 13:15:26 +0000</pubDate>
+      <title>Hong Kong model Abby Choi’s former relatives admit body disposal, deny murder</title>
+      <enclosure length="1080" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/76ccda67-558d-4095-8172-a631d1f14ae4_565c4581.jpg?itok=9xp8rwb2&amp;v=1790255726"/>
+      <media:content height="1350" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/76ccda67-558d-4095-8172-a631d1f14ae4_565c4581.jpg?itok=9xp8rwb2&amp;v=1790255726" width="1080"/>
+    </item>
+    <item>
+      <author>Associated Press</author>
+      <dc:creator>Associated Press</dc:creator>
+      <description>A far-right activist who had led protests against migrants crossing the English Channel in small boats has been arrested for allegedly slashing a dinghy in the water, police said Thursday.
+The incident comes as agitators against immigration adopt a confrontational new tactic of trying to stop the boats landing on England’s shores, clashing with police and rescuers in the process.
+A video posted on Tuesday on social media appears to show Daniel Thomas, 37, taking a knife to an inflatable boat,...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/world/europe/article/3368701/uk-far-right-activist-arrested-after-migrant-boat-slashed-english-channel?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/world/europe/article/3368701/uk-far-right-activist-arrested-after-migrant-boat-slashed-english-channel?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 13:11:35 +0000</pubDate>
+      <title>UK far-right activist arrested after migrant boat slashed in English Channel</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/8d7c64a5-2923-4f0d-9c1c-5f9f842e4b46_2b57e08e.jpg?itok=fw_u4Y2S&amp;v=1790255494"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/8d7c64a5-2923-4f0d-9c1c-5f9f842e4b46_2b57e08e.jpg?itok=fw_u4Y2S&amp;v=1790255494" width="4095"/>
+    </item>
+    <item>
+      <author>Gabriel Dominguez</author>
+      <dc:creator>Gabriel Dominguez</dc:creator>
+      <description>China’s next aircraft carrier could be longer than the US Navy’s largest warship, according to new satellite images that offer fresh clues about how far from home Beijing intends to operate its fleet – and the logistics it will need to do so.
+Captured on September 4, the images show that work has begun on the bulbous bow of the carrier under construction at Dalian Shipyard in northeastern China, defence intelligence company Janes reported last week.
+Measurements from the stern to the projected...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/military/article/3368690/chinas-next-carrier-could-be-its-longest-what-are-beijings-plans?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/china/military/article/3368690/chinas-next-carrier-could-be-its-longest-what-are-beijings-plans?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 13:00:19 +0000</pubDate>
+      <title>China’s next carrier could be its longest – what are Beijing’s plans?</title>
+      <enclosure length="3780" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/ba6d8773-007f-4244-a236-1657f8f29d9f_78bc3bc4.jpg?itok=PfjvSKYC&amp;v=1790250590"/>
+      <media:content height="2362" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/ba6d8773-007f-4244-a236-1657f8f29d9f_78bc3bc4.jpg?itok=PfjvSKYC&amp;v=1790250590" width="3780"/>
+    </item>
+    <item>
+      <author>Khushboo Razdan,William Zheng,Nayan Seth</author>
+      <dc:creator>Khushboo Razdan,William Zheng,Nayan Seth</dc:creator>
+      <description>A small group of Chinese CEOs holding US visas has arrived in Washington after travelling separately from President Xi Jinping’s official entourage, according to multiple sources familiar with the matter.
+But with the clock ticking and the business optics of the Chinese leader’s White House visit hanging on the final twists of diplomatic negotiations, the executives are still waiting to find out whether they will secure a seat at Thursday’s state dinner for Xi.
+“Beijing’s security protocol is...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3368683/chinese-ceos-fly-us-own-await-invites-trumps-state-dinner-xi-jinping?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3368683/chinese-ceos-fly-us-own-await-invites-trumps-state-dinner-xi-jinping?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 12:41:59 +0000</pubDate>
+      <title>Chinese CEOs fly to US on own, await invites to Trump’s state dinner for Xi Jinping</title>
+      <enclosure length="4080" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/917e4500-5389-41f5-947b-8a6a2a9422f7_975f5616.jpg?itok=Q33wL218&amp;v=1790248702"/>
+      <media:content height="2880" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/917e4500-5389-41f5-947b-8a6a2a9422f7_975f5616.jpg?itok=Q33wL218&amp;v=1790248702" width="4080"/>
+    </item>
+    <item>
+      <author>Cannix Yau</author>
+      <dc:creator>Cannix Yau</dc:creator>
+      <description>From restaurants and hotels to cafes and market stalls, Hong Kong’s catering industry has banded together to offer discounts of up to 30 per cent at more than 3,800 outlets to celebrate National Day on October 1.
+Food and catering businesses said on Thursday they would provide an array of tasty deals across the city to mark the 77th anniversary of the founding of the People’s Republic of China.
+Offers include meal sets at 30 per cent off, fresh food items such as vegetable packs for HK$7 (89 US...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368699/3800-hong-kong-food-outlets-offering-30-celebrate-national-day?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368699/3800-hong-kong-food-outlets-offering-30-celebrate-national-day?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 12:37:21 +0000</pubDate>
+      <title>3,800 Hong Kong food outlets offering up to 30% off to celebrate National Day</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/0e38ee77-45fe-40b9-a928-b7ebe833cfa1_ead45690.jpg?itok=vNVfsW7d&amp;v=1790253229"/>
+      <media:content height="2561" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/0e38ee77-45fe-40b9-a928-b7ebe833cfa1_ead45690.jpg?itok=vNVfsW7d&amp;v=1790253229" width="4095"/>
+    </item>
+    <item>
+      <author>Alice Li</author>
+      <dc:creator>Alice Li</dc:creator>
+      <description>China’s outbound direct investment reached a record high of US$214 billion last year, even as investment in the United States plunged to its lowest level in more than a decade amid growing geopolitical and regulatory uncertainty, latest official data showed.
+Outbound direct investment was up 11.1 per cent in 2025 compared to the previous year, making China the world’s second-largest source of global capital, behind only the US and ranking ahead of Japan, according to an annual report jointly...</description>
+      <guid isPermaLink="true">https://www.scmp.com/economy/global-economy/article/3368642/chinas-overseas-investment-hits-record-us214-billion-why-are-us-bound-flows-plunging?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/economy/global-economy/article/3368642/chinas-overseas-investment-hits-record-us214-billion-why-are-us-bound-flows-plunging?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 12:30:19 +0000</pubDate>
+      <title>China’s overseas investment hits record US$214 billion. Why are US-bound flows plunging?</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/52dc5c5e-f98f-4d3f-a9a6-90c22a111982_7da656d7.jpg?itok=lYaezw9u&amp;v=1790240051"/>
+      <media:content height="2619" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/52dc5c5e-f98f-4d3f-a9a6-90c22a111982_7da656d7.jpg?itok=lYaezw9u&amp;v=1790240051" width="4096"/>
+    </item>
+    <item>
+      <author>Quentin Parker</author>
+      <dc:creator>Quentin Parker</dc:creator>
+      <description>More than three years ago, I articulated concerns regarding the existential threat of artificial intelligence in a piece entitled “How Hong Kong can play a role in preventing AI Armageddon”.
+There is an increasing number of articles about exactly this. Here I concentrate on a more insidious encroachment on our humanity – how AI is capturing our creative expression and replacing us in a way that is making it harder to discern what is creatively human.
+As a scientist, my inclination is to filter...</description>
+      <guid isPermaLink="true">https://www.scmp.com/opinion/world-opinion/article/3368408/dont-let-ai-take-over-our-human-creative-expression?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/opinion/world-opinion/article/3368408/dont-let-ai-take-over-our-human-creative-expression?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 12:30:14 +0000</pubDate>
+      <title>Don’t let AI take over our human creative expression</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/fe526ea3-3524-4877-9c28-a90cc8117a90_3afb4d7c.jpg?itok=0Orrl1XT&amp;v=1790222866"/>
+      <media:content height="2674" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/fe526ea3-3524-4877-9c28-a90cc8117a90_3afb4d7c.jpg?itok=0Orrl1XT&amp;v=1790222866" width="4096"/>
+    </item>
+    <item>
+      <author>Fan Chen</author>
+      <dc:creator>Fan Chen</dc:creator>
+      <description>Starkly contrasting receptions for the Japanese leader and the Chinese president in the United States have sparked debate over Washington’s treatment of Tokyo as an ally.
+Sanae Takaichi arrived in New York at the start of the working week, beginning a trip where she addressed the United Nations General Assembly for the first time as the country’s prime minister.
+A photo taken on her arrival shows her waving across a relatively empty tarmac at John F. Kennedy International Airport. Footage...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3368696/red-carpet-vs-empty-tarmac-xis-us-welcome-fuels-debate-over-takaichis-no-show-reception?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3368696/red-carpet-vs-empty-tarmac-xis-us-welcome-fuels-debate-over-takaichis-no-show-reception?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 12:20:23 +0000</pubDate>
+      <title>Red carpet vs empty tarmac: Xi’s US welcome fuels debate over Takaichi’s no-show reception</title>
+      <enclosure length="1338" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/529ab350-f6b6-4e24-8fb2-5efb5fa20402_4504c5a3.jpg?itok=D_NHpcT5&amp;v=1790252422"/>
+      <media:content height="1163" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/529ab350-f6b6-4e24-8fb2-5efb5fa20402_4504c5a3.jpg?itok=D_NHpcT5&amp;v=1790252422" width="1338"/>
+    </item>
+    <item>
+      <author>Fiona Sun</author>
+      <dc:creator>Fiona Sun</dc:creator>
+      <description>Hong Kong will admit “only a few hundred” skilled foreign domestic carers for the elderly annually under a new pilot scheme, the welfare minister has said, promising a “rigorous” approach in response to concerns about possible disruptions to the existing helper market.
+Secretary for Labour and Welfare Chris Sun Yuk-han also said on Thursday that those recruited under the scheme would need skills equivalent to those of health workers at Hong Kong’s care homes for the elderly.
+He added that...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/society/article/3368695/hong-kong-only-admit-few-hundred-foreign-carers-year-under-pilot-scheme?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/society/article/3368695/hong-kong-only-admit-few-hundred-foreign-carers-year-under-pilot-scheme?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 12:12:39 +0000</pubDate>
+      <title>Hong Kong to only admit ‘few hundred’ foreign carers a year under pilot scheme</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/4fb370b4-a91a-43b8-beda-6698bbb0227f_fe376cae.jpg?itok=vSXzde_V&amp;v=1790251955"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/4fb370b4-a91a-43b8-beda-6698bbb0227f_fe376cae.jpg?itok=vSXzde_V&amp;v=1790251955" width="4095"/>
+    </item>
+    <item>
+      <author>Danny Mok</author>
+      <dc:creator>Danny Mok</dc:creator>
+      <description>A mechanical fault on a private jet triggered a precautionary “local standby” at Hong Kong’s airport on Thursday, with the aircraft later landing safely.
+The Gulfstream G650 reported a flap problem at around 5.21pm and estimated an arrival time of 5.53pm, prompting the Fire Services Department and other airport rescue units to deploy personnel to strategic positions along the runway in readiness to offer immediate assistance.
+An ambulance was also dispatched as part of the initial emergency...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/society/article/3368692/private-jet-flap-scare-triggers-local-standby-hong-kong-airport?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/society/article/3368692/private-jet-flap-scare-triggers-local-standby-hong-kong-airport?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 11:52:24 +0000</pubDate>
+      <title>Private jet flap scare triggers ‘local standby’ at Hong Kong airport</title>
+      <enclosure length="2625" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/f8e128ea-d684-4d42-aa5c-f83df23e97b7_692b6cc9.jpg?itok=foRzCD8z&amp;v=1790250743"/>
+      <media:content height="1692" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/f8e128ea-d684-4d42-aa5c-f83df23e97b7_692b6cc9.jpg?itok=foRzCD8z&amp;v=1790250743" width="2625"/>
+    </item>
+    <item>
+      <author>SCMP</author>
+      <dc:creator>SCMP</dc:creator>
+      <description>We have put together stories from our coverage of Xi and Trump’s meeting in the US so far. If you would like to see more of our reporting, please consider subscribing.
+1. Big picture or big deals? What the Xi-Trump summit holds for China and the US
+With the balance of power shifting between the US and China, the success of this week’s summit hinges not on headline-grabbing deals, but on practical, cautious consensus under a new strategic stability framework, according to Chinese researchers.
+2....</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3368686/xi-trump-summit-day-1-highlights-red-carpet-chinas-leader-rubio-defends-visit-and-more?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3368686/xi-trump-summit-day-1-highlights-red-carpet-chinas-leader-rubio-defends-visit-and-more?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 11:50:07 +0000</pubDate>
+      <title>Xi-Trump summit day 1 highlights: red carpet for China’s leader, Rubio defends visit, and more</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/3cb6dca2-06d1-435c-9680-953688ca3515_37e4048e.jpg?itok=n0WbuU0i&amp;v=1790249608"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/3cb6dca2-06d1-435c-9680-953688ca3515_37e4048e.jpg?itok=n0WbuU0i&amp;v=1790249608" width="4095"/>
+    </item>
+    <item>
+      <author>Associated Press</author>
+      <dc:creator>Associated Press</dc:creator>
+      <description>When Iran shut down the Strait of Hormuz at the start of the war, choking off sea passage for some 15 million barrels of oil a day, many feared that prices would skyrocket, cratering the world economy.
+Instead, nearly seven months on, oil is expensive but not exorbitant, and analysts say there is enough oil available to meet current global needs, even as the higher prices cause political problems for US President Donald Trump and others.
+That’s because Saudi Arabia and other Gulf producers...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/world/middle-east/article/3368688/gulf-nations-keep-oil-flowing-amid-iran-war-its-getting-costly?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/world/middle-east/article/3368688/gulf-nations-keep-oil-flowing-amid-iran-war-its-getting-costly?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 11:40:36 +0000</pubDate>
+      <title>Gulf nations keep oil flowing amid Iran war, but it’s getting costly</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/27f725f1-2a18-4843-83c9-73cd8b4fc6e2_ab31ce9c.jpg?itok=jcnDfsv-&amp;v=1790250032"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/27f725f1-2a18-4843-83c9-73cd8b4fc6e2_ab31ce9c.jpg?itok=jcnDfsv-&amp;v=1790250032" width="4095"/>
+    </item>
+    <item>
+      <author>Howard Liu</author>
+      <dc:creator>Howard Liu</dc:creator>
+      <description>China’s technology sector is facing fresh pressure in the United States as lawmakers seek to broaden the range of products that can be placed on a trade blacklist, while Lenovo Group has been drawn into a patent dispute involving memory devices.
+The Communications and Technology Transparency Act, unveiled by the US House Energy and Commerce Committee on Wednesday, would expand the Federal Communications Commission’s (FCC) Covered List from “communications equipment or service” to the much...</description>
+      <guid isPermaLink="true">https://www.scmp.com/tech/tech-war/article/3368633/china-tech-faces-fresh-scrutiny-us-blacklist-bill-introduced-lenovo-case-emerges?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/tech/tech-war/article/3368633/china-tech-faces-fresh-scrutiny-us-blacklist-bill-introduced-lenovo-case-emerges?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 11:30:25 +0000</pubDate>
+      <title>China tech faces fresh scrutiny as US blacklist bill introduced, Lenovo case emerges</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/ebf58e4b-5315-455c-b661-7be08b1eb881_8cefacd8.jpg?itok=9EFkGAcH&amp;v=1790246869"/>
+      <media:content height="2720" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/ebf58e4b-5315-455c-b661-7be08b1eb881_8cefacd8.jpg?itok=9EFkGAcH&amp;v=1790246869" width="4095"/>
+    </item>
+    <item>
+      <author>Fran Lu</author>
+      <dc:creator>Fran Lu</dc:creator>
+      <description>Retail tycoon Yu Donglai, widely known as China’s “most conscientious” boss, recently triggered public controversy with a proposal to sign only a four-year “training initiative” contract with future new hires, without renewing it.
+Yu has been nationally acclaimed for the many unconventionally humanistic rules he set up for Pangdonglai, a supermarket chain he founded in central China’s Henan province in 1995.
+Yu, for example, once said his 8,000 employees’ after-tax monthly salaries average 9,000...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/people-culture/trending-china/article/3368684/chinese-retail-chain-faces-rare-backlash-limiting-new-hires-4-year-contracts?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/people-culture/trending-china/article/3368684/chinese-retail-chain-faces-rare-backlash-limiting-new-hires-4-year-contracts?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 11:19:21 +0000</pubDate>
+      <title>Chinese retail chain faces rare backlash for limiting new hires to 4-year contracts</title>
+      <enclosure length="3000" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/e8299616-057b-46e2-8a72-177baff613b9_364a939f.jpg?itok=m7gMecbN&amp;v=1790248761"/>
+      <media:content height="1688" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/e8299616-057b-46e2-8a72-177baff613b9_364a939f.jpg?itok=m7gMecbN&amp;v=1790248761" width="3000"/>
+    </item>
+    <item>
+      <author>Caroline Lin</author>
+      <dc:creator>Caroline Lin</dc:creator>
+      <description>American tenor Christopher Macchio will perform at the White House banquet for Chinese President Xi Jinping during his first state visit to the United States in more than a decade.
+“An honour to return to Washington DC to perform for the State Dinner with Donald Trump (originally @realDonaldTrump) and President Xi,” Macchio said on social media, tagging the official accounts of Trump, the White House, and the Trump campaign.
+Often referred to as “America’s Tenor”, Macchio is a...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3368682/us-tenor-christopher-macchio-booked-xi-trump-state-dinner-performance?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3368682/us-tenor-christopher-macchio-booked-xi-trump-state-dinner-performance?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 11:18:20 +0000</pubDate>
+      <title>US tenor Christopher Macchio booked for Xi-Trump state dinner performance</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/d1cdf7c6-86fe-4c87-b1ba-be985d59f23a_b8c17af1.jpg?itok=H0H-EjZo&amp;v=1790248700"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/d1cdf7c6-86fe-4c87-b1ba-be985d59f23a_b8c17af1.jpg?itok=H0H-EjZo&amp;v=1790248700" width="4095"/>
+    </item>
+    <item>
+      <author>Reuters</author>
+      <dc:creator>Reuters</dc:creator>
+      <description>Sri Lanka’s main opposition took to the streets on Thursday to protest against judicial reforms, including raising the retirement age for judges, that the government says are needed to reduce legal delays.
+Opposition leader Sajith Premadasa told thousands of supporters outside parliament that the legislation proposed by President Anura Kumara Dissanayake’s left-wing administration would “annihilate” judicial independence.
+The government unveiled two bills last month to increase the number of...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/asia/south-asia/article/3368676/sri-lankas-opposition-protests-against-contentious-judicial-reforms?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/asia/south-asia/article/3368676/sri-lankas-opposition-protests-against-contentious-judicial-reforms?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 11:15:06 +0000</pubDate>
+      <title>Sri Lanka’s opposition protests against contentious judicial reforms</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/9da1d350-ae4b-4cdb-9c85-477f2867bbd9_e55a5bf7.jpg?itok=t0Dxfavm&amp;v=1790247261"/>
+      <media:content height="2776" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/9da1d350-ae4b-4cdb-9c85-477f2867bbd9_e55a5bf7.jpg?itok=t0Dxfavm&amp;v=1790247261" width="4095"/>
+    </item>
+    <item>
+      <author>Cao Jiaxuan</author>
+      <dc:creator>Cao Jiaxuan</dc:creator>
+      <description>China’s first lady Peng Liyuan has sparked online buzz over her English-language exchanges with the US first lady without an interpreter during her visit to Washington with President Xi Jinping this week.
+On Wednesday, US President Donald Trump and first lady Melania Trump greeted Xi and Peng at Joint Base Andrews in a rare diplomatic move.
+After Xi and Peng stepped off the plane, the two couples spoke with the help of interpreters.
+
+
+But as they walked along the red carpet, Peng and Melania...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3368672/first-lady-peng-liyuans-english-takes-spotlight-exchange-melania-trump?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3368672/first-lady-peng-liyuans-english-takes-spotlight-exchange-melania-trump?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 10:43:41 +0000</pubDate>
+      <title>First lady Peng Liyuan’s English takes the spotlight in exchange with Melania Trump</title>
+      <enclosure length="3360" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/75c2357c-dc72-4dfa-89c0-5090e791733e_dacdbb75.jpg?itok=Ujbk1gB_&amp;v=1790246580"/>
+      <media:content height="1888" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/75c2357c-dc72-4dfa-89c0-5090e791733e_dacdbb75.jpg?itok=Ujbk1gB_&amp;v=1790246580" width="3360"/>
+    </item>
+    <item>
+      <author>Sylvia Ma,Frank Chen</author>
+      <dc:creator>Sylvia Ma,Frank Chen</dc:creator>
+      <description>An extension of the US-China trade truce, agreed upon at an unscheduled meeting between the two countries’ top economic officials, underscores a willingness to contain trade tensions, according to analysts who deemed it a positive signal for this week’s presidential summit.
+While the rollover extends the truce by only two months, the analysts said it provided businesses with a measure of short-term certainty while raising the stakes for the next round of talks to determine whether the truce can...</description>
+      <guid isPermaLink="true">https://www.scmp.com/economy/global-economy/article/3368663/what-2-month-trade-truce-extension-between-china-and-us-reveals-rifts-persist?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/economy/global-economy/article/3368663/what-2-month-trade-truce-extension-between-china-and-us-reveals-rifts-persist?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 10:30:15 +0000</pubDate>
+      <title>What a 2-month trade-truce extension between China and the US reveals as rifts persist</title>
+      <enclosure length="3701" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/541842aa-b8cc-47fa-b022-9ca4f0ae50b7_122dc7aa.jpg?itok=s4A-SLKX&amp;v=1790243502"/>
+      <media:content height="2421" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/541842aa-b8cc-47fa-b022-9ca4f0ae50b7_122dc7aa.jpg?itok=s4A-SLKX&amp;v=1790243502" width="3701"/>
+    </item>
+    <item>
+      <author>Vivian Au</author>
+      <dc:creator>Vivian Au</dc:creator>
+      <description>Plans to build 12,000 public flats on part of Hong Kong’s oldest golf course have been thrown into serious doubt after the government chose not to appeal a court’s decision to uphold a ruling revoking the project’s environmental approval.
+Authorities said on Thursday that they had decided against appealing after “holistically” considering legal advice following the Court of Appeal’s decision to uphold the overturning of conditional approval for the construction of 12,000 flats on part of the...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/society/article/3368668/hong-kong-authorities-wont-appeal-court-halt-12000-flat-project-golf-course?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/society/article/3368668/hong-kong-authorities-wont-appeal-court-halt-12000-flat-project-golf-course?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 10:16:19 +0000</pubDate>
+      <title>Hong Kong authorities won’t appeal court halt to 12,000-flat project on golf course</title>
+      <enclosure length="3661" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/3339a81e-926c-4812-bc5d-f647ddd8b606_b7232b82.jpg?itok=GSI1XSqH&amp;v=1790244977"/>
+      <media:content height="2207" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/3339a81e-926c-4812-bc5d-f647ddd8b606_b7232b82.jpg?itok=GSI1XSqH&amp;v=1790244977" width="3661"/>
+    </item>
+    <item>
+      <author>Reuters</author>
+      <dc:creator>Reuters</dc:creator>
+      <description>Russian drone and missile strikes on Ukraine’s capital Kyiv and its northeast killed eight people on Thursday in attacks that included a maternity hospital and a farm, officials said.
+Moscow has stepped up its air ‌war in recent months, deploying more of its faster and harder-to-stop drones while Ukraine is short of interceptors to down ballistic missiles.
+Two people died in the latest assault on Kyiv, according to President Volodymyr Zelensky, who was in New York for the UN General...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/world/russia-central-asia/article/3368667/8-killed-russian-strikes-ukraine-maternity-clinic-damaged?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/world/russia-central-asia/article/3368667/8-killed-russian-strikes-ukraine-maternity-clinic-damaged?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 10:08:42 +0000</pubDate>
+      <title>8 killed in Russian strikes on Ukraine, maternity clinic damaged</title>
+      <enclosure length="2080" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/049d4382-cfb1-40f9-8789-f880a8004318_b429dfb8.jpg?itok=bBz3Qk9X&amp;v=1790244516"/>
+      <media:content height="1560" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/049d4382-cfb1-40f9-8789-f880a8004318_b429dfb8.jpg?itok=bBz3Qk9X&amp;v=1790244516" width="2080"/>
+    </item>
+    <item>
+      <author>Xinmei Shen</author>
+      <dc:creator>Xinmei Shen</dc:creator>
+      <description>Efforts to detect multiple cancers through a single blood draw are gathering momentum after US regulators endorsed the technology for the first time, although experts say wider adoption in Hong Kong still faces challenges as doctors remain cautious about its clinical value.
+In a landmark decision for the emerging field of multi-cancer early detection (MCED) blood tests, a US Food and Drug Administration (FDA) panel on Thursday voted in favour of US company Grail’s “Galleri test”, recommending it...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/companies/article/3368665/us-regulators-back-multi-cancer-blood-test-hong-kong-doctors-remain-cautious?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/companies/article/3368665/us-regulators-back-multi-cancer-blood-test-hong-kong-doctors-remain-cautious?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 10:05:00 +0000</pubDate>
+      <title>US regulators back multi-cancer blood test – but Hong Kong doctors remain cautious</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/d8f114d1-273f-4885-b04f-b6c2cb453eab_85b10a09.jpg?itok=OiO2qZ0O&amp;v=1790243956"/>
+      <media:content height="2712" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/d8f114d1-273f-4885-b04f-b6c2cb453eab_85b10a09.jpg?itok=OiO2qZ0O&amp;v=1790243956" width="4095"/>
+    </item>
+    <item>
+      <author>Biman Mukherji</author>
+      <dc:creator>Biman Mukherji</dc:creator>
+      <description>For millions of Indians, buying a cup of chai or groceries from roadside vendors has come to mean reaching for their phones rather than wallets – a habit made possible by a system that has so far charged consumers nothing for such everyday transactions.
+Now, a decade after the government launched the Unified Payments Interface (UPI), India is asking some merchants to pay for the hugely popular system – raising questions over whether it can preserve the low-cost model that drove its mass adoption...</description>
+      <guid isPermaLink="true">https://www.scmp.com/week-asia/economics/article/3368661/what-can-asia-global-south-learn-indias-new-digital-payment-fee?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/week-asia/economics/article/3368661/what-can-asia-global-south-learn-indias-new-digital-payment-fee?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 10:02:05 +0000</pubDate>
+      <title>What can Asia, Global South learn from India’s new digital payment fee?</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/8278413f-282a-479b-a307-6eb1a073a94b_b6f21a42.jpg?itok=ZybdLIT8&amp;v=1790243148"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/8278413f-282a-479b-a307-6eb1a073a94b_b6f21a42.jpg?itok=ZybdLIT8&amp;v=1790243148" width="4095"/>
+    </item>
+    <item>
+      <author>Carol Yang</author>
+      <dc:creator>Carol Yang</dc:creator>
+      <description>Chinese President Xi Jinping’s visit to the US is his first to the country since 2023 and his eighth face-to-face meeting with Donald Trump. From informal walk-and-talks to a state dinner, Xi’s meetings across four American administrations show how personal rapport and official diplomacy reflect the growing complexity of US-China relations.
+Xi’s first US visit as president: a shirtsleeves summit
+In June 2013, just months after assuming the presidency, Xi travelled to the United States following...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3368664/summits-all-diplomatic-seasons-how-us-has-set-stage-xi-jinping?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3368664/summits-all-diplomatic-seasons-how-us-has-set-stage-xi-jinping?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 09:52:15 +0000</pubDate>
+      <title>Summits for all diplomatic seasons: how the US has set the stage for Xi Jinping</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/fe8af20e-ef7f-4829-8cef-8fc128440d9c_26681c04.jpg?itok=z7mHBJaK&amp;v=1790243533"/>
+      <media:content height="2899" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/fe8af20e-ef7f-4829-8cef-8fc128440d9c_26681c04.jpg?itok=z7mHBJaK&amp;v=1790243533" width="4095"/>
+    </item>
+    <item>
+      <author>Wency Chen</author>
+      <dc:creator>Wency Chen</dc:creator>
+      <description>The artificial intelligence road map presented at its flagship Apsara Conference this week showcased a pragmatic pivot by Chinese tech giant Alibaba Group Holding, offering a clearer path to monetisation despite a sharp escalation in capital expenditure, analysts said.
+The conference, which ran from Tuesday to Thursday under the theme “Intelligence goes beyond”, highlighted “Alibaba’s disciplined execution across its full-stack AI ecosystem”, said Cathy Chan, an analyst at CCB International.
+She...</description>
+      <guid isPermaLink="true">https://www.scmp.com/tech/big-tech/article/3368650/alibaba-unveils-pragmatic-ai-road-map-drive-monetisation-infrastructure-efficiency?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/tech/big-tech/article/3368650/alibaba-unveils-pragmatic-ai-road-map-drive-monetisation-infrastructure-efficiency?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 09:30:22 +0000</pubDate>
+      <title>Alibaba unveils ‘pragmatic’ AI road map to drive monetisation, infrastructure efficiency</title>
+      <enclosure length="4000" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/53bc0611-a201-47c9-b7da-63b6acb9da06_0d1bac5c.jpg?itok=eighogWB&amp;v=1790241253"/>
+      <media:content height="2667" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/53bc0611-a201-47c9-b7da-63b6acb9da06_0d1bac5c.jpg?itok=eighogWB&amp;v=1790241253" width="4000"/>
+    </item>
+    <item>
+      <author>Brian Rhoads,Raymond Ma</author>
+      <dc:creator>Brian Rhoads,Raymond Ma</dc:creator>
+      <description>China and the United States agreed to extend a trade-war truce by two months to January 10, as President Xi Jinping arrived in Washington for a summit with US President Donald Trump.
+The short extension will let the US assess whether China is meeting trade commitments, Treasury Secretary Scott Bessent told Fox News on Wednesday following “unscheduled” extra talks with Chinese Vice-Premier He Lifeng. China had sought to stretch the “Busan Agreement” pause until January 2029, when Trump’s term in...</description>
+      <guid isPermaLink="true">https://www.scmp.com/plus/news/china/diplomacy/article/3368652/us-china-agree-two-month-trade-truce-extension-ahead-summit?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/plus/news/china/diplomacy/article/3368652/us-china-agree-two-month-trade-truce-extension-ahead-summit?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 09:17:46 +0000</pubDate>
+      <title>US, China agree two-month trade truce extension ahead of summit</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/309889c1-5336-46b3-b386-2be479f7651d_7c76a773.jpg?itok=xBZpxcfy&amp;v=1790241463"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/309889c1-5336-46b3-b386-2be479f7651d_7c76a773.jpg?itok=xBZpxcfy&amp;v=1790241463" width="4096"/>
+    </item>
+    <item>
+      <author>SCMP’s Asia desk</author>
+      <dc:creator>SCMP’s Asia desk</dc:creator>
+      <description>Singapore police have launched an investigation after a video of a man allegedly filming female students using smart glasses went viral, sparking concerns about privacy and safety.
+In the social media video, a man wearing black-rimmed glasses and a face mask is seen walking behind two female students wearing what appear to be uniforms from Raffles Institution, a premier school in the city state. The girls seem unaware of his presence.
+The man clutches his phone to his chest and presses what...</description>
+      <guid isPermaLink="true">https://www.scmp.com/week-asia/people/article/3368651/were-smart-glasses-used-singapore-film-2-female-students?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/week-asia/people/article/3368651/were-smart-glasses-used-singapore-film-2-female-students?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 09:17:36 +0000</pubDate>
+      <title>Were smart glasses used in Singapore to film 2 female students?</title>
+      <enclosure length="1701" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/eabce42e-efe7-48bd-82e3-3bbd3da40d7b_0f3c521a.jpg?itok=HCmR1HKI&amp;v=1790241454"/>
+      <media:content height="1182" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/eabce42e-efe7-48bd-82e3-3bbd3da40d7b_0f3c521a.jpg?itok=HCmR1HKI&amp;v=1790241454" width="1701"/>
+    </item>
+    <item>
+      <author>SCMP’s Asia desk</author>
+      <dc:creator>SCMP’s Asia desk</dc:creator>
+      <description>Philippine President Ferdinand Marcos Jnr is weighing an absolute pardon for Mary Jane Veloso, a former death row inmate detained since her 2010 conviction for drug trafficking in Indonesia.
+“The Office of the President is seriously considering granting an absolute pardon to Mary Jane Veloso on humanitarian grounds in support of the government’s commitment to protecting Filipino migrant workers,” lawmaker Albert Garcia said on Wednesday, as quoted by the Philippine Daily Inquirer. “There will be...</description>
+      <guid isPermaLink="true">https://www.scmp.com/week-asia/politics/article/3368646/philippines-weighs-pardon-death-row-inmate-repatriated-indonesia?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/week-asia/politics/article/3368646/philippines-weighs-pardon-death-row-inmate-repatriated-indonesia?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 09:06:44 +0000</pubDate>
+      <title>Philippines weighs pardon for death row inmate repatriated from Indonesia</title>
+      <enclosure length="3001" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/93809de4-5104-405b-bd1c-ed198156602e_5cb13fb3.jpg?itok=COw1tgCs&amp;v=1790240802"/>
+      <media:content height="2276" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/93809de4-5104-405b-bd1c-ed198156602e_5cb13fb3.jpg?itok=COw1tgCs&amp;v=1790240802" width="3001"/>
+    </item>
+    <item>
+      <author>Eric Jiang</author>
+      <dc:creator>Eric Jiang</dc:creator>
+      <description>The recent strength in Hong Kong’s exports extended into August, with the value jumping by 53 per cent to HK$667.9 billion (US$85.6 billion) – the second-highest level on record after July’s peak – on strong demand for artificial intelligence-related products.
+Provisional figures released by the Census and Statistics Department on Thursday showed that the total value of exports rose to HK$667.9 billion last month, following a 50.7 per cent surge in July.
+Imports, meanwhile, rose by 60 per cent...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368645/hong-kong-exports-surge-53-hk6679-billion-second-highest-record?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368645/hong-kong-exports-surge-53-hk6679-billion-second-highest-record?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 09:01:51 +0000</pubDate>
+      <title>Hong Kong exports surge 53% to HK$667.9 billion, second highest on record</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/35a22af3-0d4b-4c81-8d41-3417d42064a4_c4fbc507.jpg?itok=F4gs7Olm&amp;v=1790240463"/>
+      <media:content height="2732" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/35a22af3-0d4b-4c81-8d41-3417d42064a4_c4fbc507.jpg?itok=F4gs7Olm&amp;v=1790240463" width="4096"/>
+    </item>
+    <item>
+      <author>Sam Beltran</author>
+      <dc:creator>Sam Beltran</dc:creator>
+      <description>The Philippine Senate has made it mathematically easier to convict Vice-President Sara Duterte-Carpio, but observers say the ruling could intensify a battle over an impeachment trial already viewed by the public as deeply divisive.
+The Senate, sitting as an impeachment court, ruled on Wednesday that only senator-judges who are able to take part in the trial should be counted in determining the threshold for conviction.
+Under the Philippine constitution, a two-thirds vote of the Senate is...</description>
+      <guid isPermaLink="true">https://www.scmp.com/week-asia/politics/article/3368631/philippines-impeachment-path-now-clear-convict-sara-duterte?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/week-asia/politics/article/3368631/philippines-impeachment-path-now-clear-convict-sara-duterte?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 09:00:07 +0000</pubDate>
+      <title>Philippines impeachment: is path now clear to convict Sara Duterte?</title>
+      <enclosure length="3000" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/c1762cb6-7e9f-401c-b919-38ee076879cb_859842bc.jpg?itok=3tTjSzyD&amp;v=1790237377"/>
+      <media:content height="2000" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/c1762cb6-7e9f-401c-b919-38ee076879cb_859842bc.jpg?itok=3tTjSzyD&amp;v=1790237377" width="3000"/>
+    </item>
+    <item>
+      <author>Brian Wong</author>
+      <dc:creator>Brian Wong</dc:creator>
+      <description>Former Hong Kong television actress Leila Tong Ning has been sued for allegedly breaching her management contract by abandoning her professional duties while suffering from depression and dyeing her hair without her agency’s consent.
+The High Court writ, filed by agency Tenjinmura Ongaku Limited, also accuses the 44-year-old former Television Broadcasts (TVB) artist of “coercive conduct” and accepting commercial engagements without the company’s approval after their relationship broke down in...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/law-and-crime/article/3368644/actress-leila-tong-sued-over-alleged-contract-breach-and-manipulative-conduct?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/law-and-crime/article/3368644/actress-leila-tong-sued-over-alleged-contract-breach-and-manipulative-conduct?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 08:59:21 +0000</pubDate>
+      <title>Actress Leila Tong sued over alleged contract breach and ‘manipulative conduct’</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/27aa8d9c-62e5-4244-828e-d9191d8f6f3f_72078f0e.jpg?itok=GPJyollN&amp;v=1790240357"/>
+      <media:content height="2796" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/27aa8d9c-62e5-4244-828e-d9191d8f6f3f_72078f0e.jpg?itok=GPJyollN&amp;v=1790240357" width="4096"/>
+    </item>
+    <item>
+      <author>Fan Chen</author>
+      <dc:creator>Fan Chen</dc:creator>
+      <description>China and the United States must prevent their AI competition from escalating into a cold war, a top Chinese policy adviser has warned, while asserting that a complete decoupling would be difficult.
+The remarks from Zheng Yongnian, a leading political scientist and dean of the school of public policy at the Chinese University of Hong Kong, Shenzhen, come ahead of the Xi-Trump summit in Washington, where artificial intelligence (AI) is expected to be among the top items on the agenda.
+Chinese...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3368543/american-ai-development-cannot-separate-itself-china-zheng-yongnian?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3368543/american-ai-development-cannot-separate-itself-china-zheng-yongnian?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 08:57:33 +0000</pubDate>
+      <title>American AI development ‘cannot separate itself from China’: Zheng Yongnian</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/48435f4a-ac0c-4fff-b8c3-30636dc68324_631bc75c.jpg?itok=kbGuzhJC&amp;v=1790168848"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/48435f4a-ac0c-4fff-b8c3-30636dc68324_631bc75c.jpg?itok=kbGuzhJC&amp;v=1790168848" width="4095"/>
+    </item>
+    <item>
+      <author>Iman Muttaqin Yusof</author>
+      <dc:creator>Iman Muttaqin Yusof</dc:creator>
+      <description>Malaysia’s haze crisis has flared again just weeks after emergency measures and cloud-seeding operations brought temporary relief, with experts warning that smoke from Indonesian fires could continue drifting across the country until monsoon winds change.
+All 108 schools in Serian, a district in the state of Sarawak on Malaysian Borneo, were ordered to close on Thursday after the air pollutant index (API) breached 200 on Wednesday night, forcing pupils back to home-based learning.
+By noon,...</description>
+      <guid isPermaLink="true">https://www.scmp.com/week-asia/health-environment/article/3368641/open-close-reopen-return-choking-haze-traps-malaysian-schools-limbo?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/week-asia/health-environment/article/3368641/open-close-reopen-return-choking-haze-traps-malaysian-schools-limbo?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 08:53:37 +0000</pubDate>
+      <title>‘Open, close, reopen’: return of choking haze traps Malaysian schools in limbo</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/19559320-32c6-4556-826e-f69511d8006c_e25046f7.jpg?itok=RXZ-eWjT&amp;v=1790240013"/>
+      <media:content height="2726" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/19559320-32c6-4556-826e-f69511d8006c_e25046f7.jpg?itok=RXZ-eWjT&amp;v=1790240013" width="4095"/>
+    </item>
+    <item>
+      <author>Nicholas Spiro</author>
+      <dc:creator>Nicholas Spiro</dc:creator>
+      <description>As Chinese President Xi Jinping arrives in Washington for his much-anticipated summit with US President Donald Trump, it is clear which country emerged stronger from the tariff shock. Last month, China’s exports rose 25 per cent in annualised terms, causing the country’s trade surplus to swell to US$119 billion and putting it on track to exceed last year’s record of US$1.2 trillion.
+Moreover, China’s surplus with the US rose 44 per cent to US$29 billion, the widest gap since Trump returned to...</description>
+      <guid isPermaLink="true">https://www.scmp.com/opinion/china-opinion/article/3368593/who-has-upper-hand-financial-markets-us-or-china?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/opinion/china-opinion/article/3368593/who-has-upper-hand-financial-markets-us-or-china?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 08:30:04 +0000</pubDate>
+      <title>Who has the upper hand in financial markets, the US or China?</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/efc33894-ac78-4b12-b490-2d693e472579_3a470ee8.jpg?itok=BGBaLxD0&amp;v=1790221737"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/efc33894-ac78-4b12-b490-2d693e472579_3a470ee8.jpg?itok=BGBaLxD0&amp;v=1790221737" width="4095"/>
+    </item>
+    <item>
+      <author>Joseph Sipalan</author>
+      <dc:creator>Joseph Sipalan</dc:creator>
+      <description>A fundraiser to help pay disgraced former leader Najib Razak’s 50 million ringgit (US$12.3 million) fine has become a lightning rod for insults and mockery, as Malaysians continue to pile criticism on a decision last week to allow him to spend the rest of his jail sentence under house arrest.
+King Sultan Ibrahim Iskandar last Friday granted Najib a “conditional pardon”, which will allow the jailed ex-prime minister to complete his term in the comfort of his home – provided he first pays off his...</description>
+      <guid isPermaLink="true">https://www.scmp.com/week-asia/politics/article/3368629/najib-razaks-fundraising-malaysia-draws-1-sen-donations-mockery?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/week-asia/politics/article/3368629/najib-razaks-fundraising-malaysia-draws-1-sen-donations-mockery?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 08:05:13 +0000</pubDate>
+      <title>Najib Razak’s fundraising in Malaysia draws 1 sen donations, mockery</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/80f44808-fa7e-43b1-b6a3-50cbeda7cb03_5e4d34ea.jpg?itok=6wxCjIy0&amp;v=1790237106"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/80f44808-fa7e-43b1-b6a3-50cbeda7cb03_5e4d34ea.jpg?itok=6wxCjIy0&amp;v=1790237106" width="4095"/>
+    </item>
+    <item>
+      <author>Morning Studio editors</author>
+      <dc:creator>Morning Studio editors</dc:creator>
+      <description>The synergy between sports and philanthropy took centre stage earlier this month at the two-day PBC (Philanthropy for Better Cities) Forum 2026, convened by The Hong Kong Jockey Club Charities Trust, in association with the Institute of Philanthropy (IoP), at Hong Kong’s West Kowloon Cultural District.
+IoP was established by the Club and its Charities Trust in 2023, and is dedicated to promoting philanthropic thought leadership and enhancing sector capabilities at local, regional and global...</description>
+      <guid isPermaLink="true">https://www.scmp.com/native/news/hong-kong/topics/when-sport-meets-purpose/article/3368516/how-sport-inspires-inclusion-shared-purpose-and-global-solidarity?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/native/news/hong-kong/topics/when-sport-meets-purpose/article/3368516/how-sport-inspires-inclusion-shared-purpose-and-global-solidarity?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 08:00:09 +0000</pubDate>
+      <title>How sport inspires inclusion, shared purpose and global solidarity</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/a1659b7e-1b5d-4a69-964a-3cee8ce4f8df_650fb8aa.jpg?itok=jjFVnt8M&amp;v=1790159875"/>
+      <media:content height="2713" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/a1659b7e-1b5d-4a69-964a-3cee8ce4f8df_650fb8aa.jpg?itok=jjFVnt8M&amp;v=1790159875" width="4096"/>
+    </item>
+    <item>
+      <author>Associated Press</author>
+      <dc:creator>Associated Press</dc:creator>
+      <description>Indonesia’s navy commissioned its first aircraft carrier on Thursday after acquiring the former Italian vessel to strengthen its maritime defences and disaster response.
+The Italian flag on the former ITS Giuseppe Garibaldi was replaced with the Indonesian flag on the carrier renamed the KRI Sriwijaya-100 as part of its official transfer at the ceremony held at Tanjung Priok seaport in North Jakarta.
+“The ship, which previously served in the Italian navy, now bears the name KRI Sriwijaya-100,...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/asia/southeast-asia/article/3368625/indonesia-commissions-first-aircraft-carrier-bolstering-sea-defence?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/asia/southeast-asia/article/3368625/indonesia-commissions-first-aircraft-carrier-bolstering-sea-defence?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 07:52:49 +0000</pubDate>
+      <title>Indonesia commissions first aircraft carrier, bolstering sea defence</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/8d1ded27-ca6b-4dee-89f1-73b13f2e4709_db6d1b55.jpg?itok=ZsceSK6r&amp;v=1790236365"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/8d1ded27-ca6b-4dee-89f1-73b13f2e4709_db6d1b55.jpg?itok=ZsceSK6r&amp;v=1790236365" width="4095"/>
+    </item>
+    <item>
+      <author>Albee Zhang</author>
+      <dc:creator>Albee Zhang</dc:creator>
+      <description>At Joint Base Andrews where Donald Trump rolled out the red carpet for the visiting Chinese president, Xi Jinping appeared unfazed during a ceremonial flyover by a screeching US bomber while the US president visibly winced at the noise.
+As Xi arrived at the military base just outside Washington, he was greeted with a ceremony that included the US Air Force band playing the American and Chinese national anthems, a 21-gun salute, a guard of honour, a display of six F-16 and six F-22 fighter jets,...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/military/article/3368621/xi-maintains-composure-during-us-military-flyover-historic-tarmac-welcome?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/china/military/article/3368621/xi-maintains-composure-during-us-military-flyover-historic-tarmac-welcome?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 07:43:39 +0000</pubDate>
+      <title>Trump grimaces, Xi unfazed during US military flyover for historic tarmac welcome</title>
+      <enclosure length="3840" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/c94cd6f6-32c6-4001-899f-30e3f416d625_3981bdd8.jpg?itok=TXEZ6s-0&amp;v=1790234934"/>
+      <media:content height="2560" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/c94cd6f6-32c6-4001-899f-30e3f416d625_3981bdd8.jpg?itok=TXEZ6s-0&amp;v=1790234934" width="3840"/>
+    </item>
+    <item>
+      <author>Elizabeth Cheung</author>
+      <dc:creator>Elizabeth Cheung</dc:creator>
+      <description>Hong Kong has cut its cancer-related death rate by more than 40 per cent over the past three decades, the health minister has said, as the chief executive renewed his pledge to make the city a hub for medical innovation.
+Secretary for Health Lo Chung-mau outlined the city’s progress in controlling the disease at the World Cancer Congress, which is being held in Hong Kong for the first time.
+Citing figures from 1993 to 2023, Lo said Hong Kong’s age-standardised cancer mortality rate had fallen by...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/health-environment/article/3368624/hong-kong-reports-more-40-drop-cancer-related-death-rate-over-30-years?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/health-environment/article/3368624/hong-kong-reports-more-40-drop-cancer-related-death-rate-over-30-years?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 07:34:32 +0000</pubDate>
+      <title>Hong Kong reports more than 40% drop in cancer-related death rate over 30 years</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/c23f463a-73fa-43d7-8269-4d60fc883bb3_95e851ff.jpg?itok=-FX79AWR&amp;v=1790235270"/>
+      <media:content height="2508" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/c23f463a-73fa-43d7-8269-4d60fc883bb3_95e851ff.jpg?itok=-FX79AWR&amp;v=1790235270" width="4096"/>
+    </item>
+    <item>
+      <author>Cao Jiaxuan</author>
+      <dc:creator>Cao Jiaxuan</dc:creator>
+      <description>US President Donald Trump’s choice of attire at Joint Base Andrews on Wednesday drew online attention as he made a rare personal appearance to welcome Xi Jinping.
+Trump was on the tarmac to greet Xi on Wednesday evening as the Chinese president arrived in Washington for his first US state visit in more than a decade.
+But while temperatures at the airbase were around 19 degrees Celsius (66 Fahrenheit), Trump was the only one wearing a dark overcoat and gloves as he and first lady Melania Trump...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3368619/why-did-trump-wear-gloves-greet-chinas-xi-jinping-joint-base-andrews?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3368619/why-did-trump-wear-gloves-greet-chinas-xi-jinping-joint-base-andrews?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 07:29:02 +0000</pubDate>
+      <title>Why did Trump wear gloves to greet China’s Xi Jinping at Joint Base Andrews?</title>
+      <enclosure length="4040" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/ee9246be-0ad9-438a-b5e4-bfcee9d578fb_7b914f44.jpg?itok=eX7cIHxJ&amp;v=1790234036"/>
+      <media:content height="2600" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/ee9246be-0ad9-438a-b5e4-bfcee9d578fb_7b914f44.jpg?itok=eX7cIHxJ&amp;v=1790234036" width="4040"/>
+    </item>
+    <item>
+      <author>Agence France-Presse</author>
+      <dc:creator>Agence France-Presse</dc:creator>
+      <description>As a Rohingya exile who abandoned his life in Malaysia to return to Myanmar, Ismail’s bleak prospects may portend what awaits others caught in Kuala Lumpur’s migrant crackdown.
+Weeks ago, the 25-year-old was eking out a living at a Malaysian fish market, one of legions of the Muslim minority group who left Myanmar to escape violence some monitors say amounted to genocide.
+But a wave of anti-Rohingya sentiment, migrant arrests and a government plan to repatriate Myanmar nationals drove Ismail...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/asia/southeast-asia/article/3368618/rohingya-who-fled-myanmar-chaos-now-dread-return-malaysia?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/asia/southeast-asia/article/3368618/rohingya-who-fled-myanmar-chaos-now-dread-return-malaysia?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 07:08:01 +0000</pubDate>
+      <title>Rohingya who fled Myanmar chaos now dread return from Malaysia</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/c87fdc78-abec-4a01-8094-9ea6b9899f97_5c750257.jpg?itok=KUoVd3oW&amp;v=1790233679"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/c87fdc78-abec-4a01-8094-9ea6b9899f97_5c750257.jpg?itok=KUoVd3oW&amp;v=1790233679" width="4095"/>
+    </item>
+    <item>
+      <author>Yulu Ao</author>
+      <dc:creator>Yulu Ao</dc:creator>
+      <description>China Asset Management (Hong Kong), the offshore arm of one of mainland China’s largest asset managers, launched three exchange-traded funds (ETFs) in the city on Thursday, expanding its product line-up as investors seek more diversified strategies amid market volatility and a broader boom in the ETF market.
+The three products – a Hong Kong high-dividend ETF, a Hong Kong growth ETF and a Hong Kong-US “Halo” ETF – are scheduled to list on the Hong Kong stock exchange on September 30, with trading...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/china-business/article/3368617/chinaamc-launches-3-hong-kong-etfs-demand-targeted-strategies-grows?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/china-business/article/3368617/chinaamc-launches-3-hong-kong-etfs-demand-targeted-strategies-grows?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 07:00:36 +0000</pubDate>
+      <title>ChinaAMC launches 3 Hong Kong ETFs as demand for targeted strategies grows</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/25b5fcb7-cc36-4e5f-a768-ea6d8a1b0192_7ba576a6.jpg?itok=-rzTDudU&amp;v=1790233228"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/25b5fcb7-cc36-4e5f-a768-ea6d8a1b0192_7ba576a6.jpg?itok=-rzTDudU&amp;v=1790233228" width="4095"/>
+    </item>
+  </channel>
+</rss>

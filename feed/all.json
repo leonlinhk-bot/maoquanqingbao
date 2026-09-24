@@ -1,9 +1,481 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-23T16:40:03Z",
-  "itemCount": 934,
+  "generatedAt": "2026-09-24T18:08:01Z",
+  "itemCount": 970,
   "items": [
+    {
+      "id": "artemis-liberty-mutual-brooks-ils-20260924",
+      "title": "Liberty Mutual Investments首设ILS专员：聘Paschal Brooks掌保险方案与资本市场 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "talent"
+      ],
+      "publishedAt": "2026-09-24T22:00:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-liberty-mutual-brooks-ils-20260924",
+      "originalUrl": "https://www.artemis.bm/news/liberty-mutual-investments-hires-brooks-as-md-head-of-insurance-solutions-capital-markets/"
+    },
+    {
+      "id": "ibm-hk-aml-fine-broker-controls-20260924",
+      "title": "港AML罚款牵出经纪与保司管控考题：付款核验、PEP筛查、交易监察贯穿整条分销链 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reg",
+        "aml",
+        "distribution"
+      ],
+      "publishedAt": "2026-09-24T20:26:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-hk-aml-fine-broker-controls-20260924",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/hong-kong-aml-fine-puts-broker-and-insurer-controls-under-scrutiny-591045.aspx"
+    },
+    {
+      "id": "artemis-dbrs-florida-reinsurance-stability-20260924",
+      "title": "Morningstar DBRS：可负担且可获得的再保险仍是佛州市场稳定关键 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "us"
+      ],
+      "publishedAt": "2026-09-24T20:00:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-dbrs-florida-reinsurance-stability-20260924",
+      "originalUrl": "https://www.artemis.bm/news/affordable-and-accessible-reinsurance-remains-critical-to-florida-markets-stability-morningstar-dbrs/"
+    },
+    {
+      "id": "ibm-pru-regional-ceo-irshad-20260924",
+      "title": "保诚把印尼、菲律宾、非洲三市场交给一位常驻香港的区域CEO，并兼管集团健康与产品 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "insurer",
+        "leadership",
+        "asia"
+      ],
+      "publishedAt": "2026-09-24T19:43:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-pru-regional-ceo-irshad-20260924",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/prudential-puts-three-growth-markets-under-one-regional-ceo-591042.aspx"
+    },
+    {
+      "id": "artemis-aeolus-ils-strategic-possibility-20260924",
+      "title": "Aeolus的Dutt：ILS不应只被视为资金来源，更是「策略可能性」 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "capital"
+      ],
+      "publishedAt": "2026-09-24T19:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-aeolus-ils-strategic-possibility-20260924",
+      "originalUrl": "https://www.artemis.bm/news/ils-should-be-seen-as-a-source-of-strategic-possibility-not-just-capital-aeolus-dutt/"
+    },
+    {
+      "id": "ibm-korea-700-wholelife-halt-20260924",
+      "title": "韩国金监院叫停「700终身寿」销售：七年退还全保费的设计被认定像储蓄而非保险 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reg",
+        "product-design"
+      ],
+      "publishedAt": "2026-09-24T18:47:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-korea-700-wholelife-halt-20260924",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/south-korea-halts-sales-of-sevenyear-wholelife-insurance-products-591041.aspx"
+    },
+    {
+      "id": "hkma-hkicl-fraudulent-websites-20260924",
+      "title": "香港银行同业结算警示两类伪冒网站：fps.money 与 fps-refund.top [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "fraud",
+        "fps"
+      ],
+      "publishedAt": "2026-09-24T18:10:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-hkicl-fraudulent-websites-20260924",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260924-7/"
+    },
+    {
+      "id": "scmp-multi-cancer-blood-test-hk-20260924",
+      "title": "美国监管放行多癌种血液检测，香港医生态度审慎",
+      "sourceTier": "media",
+      "themes": [
+        "health",
+        "screening"
+      ],
+      "publishedAt": "2026-09-24T18:05:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-multi-cancer-blood-test-hk-20260924",
+      "originalUrl": "https://www.scmp.com/business/companies/article/3368665/us-regulators-back-multi-cancer-blood-test-hong-kong-doctors-remain-cautious"
+    },
+    {
+      "id": "hkma-scam-alert-banks-20260924",
+      "title": "金管局发出与银行有关的骗案警示（2026年9月24日）：东亚/上海商业/创兴/集友等伪冒网站及登录画面",
+      "sourceTier": "official",
+      "themes": [
+        "fraud",
+        "consumer-protection"
+      ],
+      "publishedAt": "2026-09-24T18:00:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-scam-alert-banks-20260924",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260924-6/"
+    },
+    {
+      "id": "ibm-irdai-commission-cap-20260924",
+      "title": "印度IRDAI拟重启佣金上限：《保险分销经济学再校准》咨询稿，保险科技股当日跌停 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reg",
+        "commission"
+      ],
+      "publishedAt": "2026-09-24T17:53:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-irdai-commission-cap-20260924",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/india-moves-to-rein-in-insurance-commissions-just-as-foreign-insurers-are-handed-the-keys-591032.aspx"
+    },
+    {
+      "id": "artemis-catiq-prairies-storms-1.8bn-20260924",
+      "title": "CatIQ：今夏加拿大草原三省十场极端天气致逾18亿加元保损，暴雨洪水为主因 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "cat",
+        "canada"
+      ],
+      "publishedAt": "2026-09-24T17:30:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-catiq-prairies-storms-1.8bn-20260924",
+      "originalUrl": "https://www.artemis.bm/news/summer-storms-across-the-canadian-prairies-caused-over-1-8bn-in-insured-losses-catiq/"
+    },
+    {
+      "id": "ian-crawford-typhoon-dujuan-losses-20260924",
+      "title": "Crawford Japan：台风「杜鹃」理赔规模料接近8月千叶水灾 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "cat",
+        "japan"
+      ],
+      "publishedAt": "2026-09-24T16:48:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-crawford-typhoon-dujuan-losses-20260924",
+      "originalUrl": "https://insuranceasianews.com/typhoon-dujuan-losses-to-be-close-to-august-chiba-flood-figures-crawford/"
+    },
+    {
+      "id": "ia-fwd-aml-fine-1950w-20260924",
+      "title": "保监局纪律处分富卫人寿（百慕达）：违反打击洗钱条例，罚款1,950万港元",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "aml",
+        "enforcement"
+      ],
+      "publishedAt": "2026-09-24T16:45:00+08:00",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-fwd-aml-fine-1950w-20260924",
+      "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20260924.html"
+    },
+    {
+      "id": "ian-miller-malaysia-chandrasegar-20260924",
+      "title": "新设 Miller Malaysia 委任 Vinnisha Chandrasegar 为条约业务副总监 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "people",
+        "broker"
+      ],
+      "publishedAt": "2026-09-24T16:33:00+08:00",
+      "score": 58,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-miller-malaysia-chandrasegar-20260924",
+      "originalUrl": "https://insuranceasianews.com/newly-launched-miller-malaysia-appoints-vinnisha-chandrasegar-as-associate-director-for-treaty/"
+    },
+    {
+      "id": "hkma-bank-indonesia-qr-mou-20260924",
+      "title": "金管局与印尼央行签署备忘录：加强二维码跨境支付合作 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "crossborder",
+        "payments"
+      ],
+      "publishedAt": "2026-09-24T16:30:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-bank-indonesia-qr-mou-20260924",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260924-4/"
+    },
+    {
+      "id": "artemis-nascent-re-40m-preferred-ils-20260924",
+      "title": "Nascent Re发行两笔各2,000万美元优先股私人ILS：Quinton及Stevenage [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "issuance"
+      ],
+      "publishedAt": "2026-09-24T16:05:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-nascent-re-40m-preferred-ils-20260924",
+      "originalUrl": "https://www.artemis.bm/news/nascent-re-issues-20m-quinton-20m-stevenage-preferred-share-insurance-linked-securities/"
+    },
+    {
+      "id": "hkma-dps-20th-anniversary-20260924",
+      "title": "存款保障计划20周年：保障上限由10万港元升至80万港元，升幅高于同期累计通胀 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "deposit-protection",
+        "hk"
+      ],
+      "publishedAt": "2026-09-24T16:00:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-dps-20th-anniversary-20260924",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260924-5/"
+    },
+    {
+      "id": "ian-iumi-president-dalton-20260924",
+      "title": "Sean Dalton 当选IUMI主席：定调多元共融、教育、AI与可持续 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "marine",
+        "leadership"
+      ],
+      "publishedAt": "2026-09-24T15:12:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-iumi-president-dalton-20260924",
+      "originalUrl": "https://insuranceasianews.com/new-iumi-president-sean-dalton-sets-course-for-diversity-and-inclusion-education-ai-sustainability/"
+    },
+    {
+      "id": "artemis-moodys-ils-protection-gap-20260924",
+      "title": "穆迪：ILS可在收窄全球保障缺口上扮演更大角色，美国约84%地震敞口未投保 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "protection-gap"
+      ],
+      "publishedAt": "2026-09-24T15:08:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-moodys-ils-protection-gap-20260924",
+      "originalUrl": "https://www.artemis.bm/news/ils-can-play-a-broader-role-in-narrowing-the-global-protection-gap-moodys/"
+    },
+    {
+      "id": "nfra-shanghai-ai-insurance-measures-20260924",
+      "title": "上海金融监管局印发《推动上海银行业保险业人工智能应用的若干措施》",
+      "sourceTier": "official",
+      "themes": [
+        "ai",
+        "china"
+      ],
+      "publishedAt": "2026-09-24T14:43:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-shanghai-ai-insurance-measures-20260924",
+      "originalUrl": "https://www.stcn.com/article/detail/4198004.html"
+    },
+    {
+      "id": "fstb-fiveyearplan-finance-measures-20260924",
+      "title": "财经事务及库务局局长谈《香港第一个五年规划》与2026年《施政报告》内的金融发展措施",
+      "sourceTier": "official",
+      "themes": [
+        "policy",
+        "hk"
+      ],
+      "publishedAt": "2026-09-24T12:08:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fstb-fiveyearplan-finance-measures-20260924",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202609/24/P2026092400347.htm"
+    },
+    {
+      "id": "ian-africa-specialty-risks-vitruvian-20260924",
+      "title": "非洲专业险公司ASR获Vitruvian策略投资，拟拓印度与东南亚 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "m&a",
+        "specialty"
+      ],
+      "publishedAt": "2026-09-24T11:12:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-africa-specialty-risks-vitruvian-20260924",
+      "originalUrl": "https://insuranceasianews.com/africa-specialty-risks-eyes-expansion-following-vitruvian-partners-strategic-investment/"
+    },
+    {
+      "id": "ibm-axa-xl-ai-governance-20260924",
+      "title": "AXA XL与S-RM报告：AI治理跟不上采用速度，须把AI风险当企业韧性议题 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "governance"
+      ],
+      "publishedAt": "2026-09-24T10:30:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-axa-xl-ai-governance-20260924",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/ai-governance-isnt-keeping-pace-with-ai-adoption-axa-xl-warns-591020.aspx"
+    },
+    {
+      "id": "ibm-cfc-ai-ip-cover-20260924",
+      "title": "CFC在知识产权险加入明示AI承保：澄清训练数据与生成内容引发的侵权责任 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "liability"
+      ],
+      "publishedAt": "2026-09-24T09:42:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-cfc-ai-ip-cover-20260924",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/cfc-adds-affirmative-ai-cover-to-its-ip-policy-590983.aspx"
+    },
+    {
+      "id": "ibm-iumi-loss-prevention-shift-20260924",
+      "title": "IUMI防损委员会：海险须从「事后修复」转向「事前预防」，把防损纳入核保与公共政策 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "marine",
+        "climate"
+      ],
+      "publishedAt": "2026-09-24T09:37:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-iumi-loss-prevention-shift-20260924",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/marine/marine-insurance-must-shift-from-repair-to-prevention--iumi-590978.aspx"
+    },
+    {
+      "id": "ian-cargo-crime-dali-marine-20260924",
+      "title": "货运犯罪遇上「达利号」30亿美元余波：亚洲货运险与船东互保双侧承压 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "marine",
+        "crime"
+      ],
+      "publishedAt": "2026-09-24T07:30:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-cargo-crime-dali-marine-20260924",
+      "originalUrl": "https://insuranceasianews.com/cargo-crime-crisis-meets-us3bn-dali-fallout-as-global-marine-insurance-buckles-under-twin-threats/"
+    },
+    {
+      "id": "iaasia-cigna-hk-online-visits-38pct-20260924",
+      "title": "信诺香港网上投保平台浏览量同比增38%，上线「Choose Your Insurance」推荐工具 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "digital",
+        "health",
+        "hk"
+      ],
+      "publishedAt": "2026-09-24T06:45:00+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-cigna-hk-online-visits-38pct-20260924",
+      "originalUrl": "https://insuranceasia.com/insurance/news/cigna-hong-kong-online-insurance-visits-jump-38"
+    },
+    {
+      "id": "iaasia-marine-premiums-iumi-43b-20260924",
+      "title": "IUMI：2025年全球海险保费升至426亿美元，中国市场货运业务增19% [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "marine",
+        "premium"
+      ],
+      "publishedAt": "2026-09-24T06:30:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-marine-premiums-iumi-43b-20260924",
+      "originalUrl": "https://insuranceasia.com/insurance/news/marine-premiums-hit-43b-despite-softer-conditions"
+    },
+    {
+      "id": "iaasia-china-life-nbv-fitch-20260924",
+      "title": "惠誉：中国人寿上半年新业务价值增33.7%至382亿元人民币，ROE升至21.4% [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "results",
+        "china"
+      ],
+      "publishedAt": "2026-09-24T06:15:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-china-life-nbv-fitch-20260924",
+      "originalUrl": "https://insuranceasia.com/insurance/news/china-life-lifts-new-business-value-337-equity-risk-rises"
+    },
+    {
+      "id": "iaasia-nippon-life-capital-fitch-20260924",
+      "title": "惠誉：日本生命核心利润率升至20%，收购Resolution Life推高海外盈利占比 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "results",
+        "japan"
+      ],
+      "publishedAt": "2026-09-24T06:00:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-nippon-life-capital-fitch-20260924",
+      "originalUrl": "https://insuranceasia.com/insurance/news/nippon-life-profit-seen-supporting-capital-global-earnings-expand"
+    },
+    {
+      "id": "iaasia-airline-hull-rates-wtw-20260924",
+      "title": "WTW：航空险市场分化，机身与责任险费率上行、战争险费率下滑 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "aviation",
+        "pricing"
+      ],
+      "publishedAt": "2026-09-24T05:45:00+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-airline-hull-rates-wtw-20260924",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/airline-insurers-raise-hull-rates-war-cover-falls"
+    },
+    {
+      "id": "iaasia-etiqa-travel-rewards-programme-20260924",
+      "title": "Etiqa新加坡把旅险消费绑进会员分级：延误3小时自动赔付并享eSIM等权益 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "travel",
+        "retention"
+      ],
+      "publishedAt": "2026-09-24T05:30:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-etiqa-travel-rewards-programme-20260924",
+      "originalUrl": "https://insuranceasia.com/insurance/news/etiqa-ties-travel-insurance-rewards-repeat-spending"
+    },
+    {
+      "id": "iaasia-abhicl-biometric-health-outcomes-20260924",
+      "title": "印度Aditya Birla健康险追踪210万保单持有人：87%健康状态维持或改善 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "health",
+        "data"
+      ],
+      "publishedAt": "2026-09-24T05:15:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-abhicl-biometric-health-outcomes-20260924",
+      "originalUrl": "https://insuranceasia.com/insurance/news/aditya-birla-health-insurance-health-outcomes-improve-biometric-tracking-expands"
+    },
+    {
+      "id": "scmp-hk-yuan-trading-timeline-20260923",
+      "title": "香港定出人民币交易时间表，配合北京推升人民币国际使用",
+      "sourceTier": "media",
+      "themes": [
+        "rmb",
+        "hk"
+      ],
+      "publishedAt": "2026-09-23T19:49:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-hk-yuan-trading-timeline-20260923",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3368537/hong-kong-sets-yuan-trading-timeline-backing-beijings-push-boost-currencys-use"
+    },
+    {
+      "id": "iaasia-aca-inhouse-ai-data-privacy-20260923",
+      "title": "印尼ACA倾向自建AI模型保客户数据私密：宁可训练更慢也不外流 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "data-privacy"
+      ],
+      "publishedAt": "2026-09-23T12:34:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-aca-inhouse-ai-data-privacy-20260923",
+      "originalUrl": "https://insuranceasia.com/exclusive/aca-favours-slower-in-house-ai-keep-customer-data-private"
+    },
+    {
+      "id": "artemis-verisk-us-claims-severity-2026-0922",
+      "title": "Verisk：美国财产险理赔次数跌但单均成本升，2026年二季度或成近年最贵季度 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "claims",
+        "us"
+      ],
+      "publishedAt": "2026-09-22T15:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-verisk-us-claims-severity-2026-0922",
+      "originalUrl": "https://www.artemis.bm/news/us-property-claims-severity-and-costs-rising-even-with-stable-designated-cat-events-verisk/"
+    },
     {
       "id": "ibm-ai-bottleneck-brokers-20260924",
       "title": "经纪AI提速被「链条另一端」卡住：Dive In论坛指碎片化采纳削弱客户体验 [EN原文]",

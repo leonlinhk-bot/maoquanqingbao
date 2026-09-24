@@ -630,14 +630,14 @@
       "tc": "情報密度"
     },
     "subtitle": {
-      "sc": "自动从 934 条资讯聚合 · sourceKey 标准化完成",
-      "tc": "自動從 934 條資訊聚合 · sourceKey 標準化完成"
+      "sc": "自动从 970 条资讯聚合 · sourceKey 标准化完成",
+      "tc": "自動從 970 條資訊聚合 · sourceKey 標準化完成"
     },
-    "totalItems": 934,
+    "totalItems": 970,
     "sourceTiers": [
       {
         "tier": "official",
-        "count": 272,
+        "count": 279,
         "label": "监管一手"
       },
       {
@@ -652,12 +652,12 @@
       },
       {
         "tier": "media",
-        "count": 330,
+        "count": 347,
         "label": "媒体报道"
       },
       {
         "tier": "pro",
-        "count": 147,
+        "count": 159,
         "label": "专业解读"
       },
       {
@@ -736,7 +736,7 @@
       },
       {
         "theme": "reg",
-        "count": 136,
+        "count": 140,
         "label": "监管"
       },
       {
@@ -756,7 +756,7 @@
       },
       {
         "theme": "reinsurance",
-        "count": 76,
+        "count": 77,
         "label": "再保险"
       },
       {

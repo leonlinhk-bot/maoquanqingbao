@@ -1,0 +1,652 @@
+<?xml version="1.0"?>
+<rss version="2.0" xml:base="link" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:media="http://www.rssboard.org/media-rss" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <channel>
+    <title>Hong Kong - South China Morning Post</title>
+    <link>https://www.scmp.com/rss/2/feed</link>
+    <description>Breaking news, analysis and opinion from the SCMP's Hong Kong edition.</description>
+    <language>en</language>
+    <image>
+      <url>https://assets-v2.i-scmp.com/production/static/img/icons/scmp-meta-1200x630.png</url>
+      <title>Hong Kong - South China Morning Post</title>
+      <link>https://www.scmp.com</link>
+    </image>
+    <atom:link href="https://www.scmp.com/rss/2/feed" rel="self" type="application/rss+xml"/>
+    <item>
+      <author>Eric Jiang</author>
+      <dc:creator>Eric Jiang</dc:creator>
+      <description>The recent strength in Hong Kong’s exports extended into August, with the value jumping by 53 per cent to HK$667.9 billion (US$85.6 billion) – the second-highest level on record after July’s peak – on strong demand for artificial intelligence-related products.
+Provisional figures released by the Census and Statistics Department on Thursday showed that the total value of exports rose to HK$667.9 billion last month, following a 50.7 per cent surge in July.
+Imports, meanwhile, rose 60 per cent to...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368645/hong-kong-exports-surge-53-hk6679-billion-second-highest-record?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368645/hong-kong-exports-surge-53-hk6679-billion-second-highest-record?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 09:01:51 +0000</pubDate>
+      <title>Hong Kong exports surge 53% to HK$667.9 billion, second highest on record</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/35a22af3-0d4b-4c81-8d41-3417d42064a4_c4fbc507.jpg?itok=F4gs7Olm&amp;v=1790240463"/>
+      <media:content height="2732" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/35a22af3-0d4b-4c81-8d41-3417d42064a4_c4fbc507.jpg?itok=F4gs7Olm&amp;v=1790240463" width="4096"/>
+    </item>
+    <item>
+      <author>Brian Wong</author>
+      <dc:creator>Brian Wong</dc:creator>
+      <description>Former Hong Kong television actress Leila Tong Ning has been sued for allegedly breaching her management contract by abandoning her professional duties while suffering from depression and dyeing her hair without her agency’s consent.
+The High Court writ, filed by agency Tenjinmura Ongaku Limited, also accuses the 44-year-old former Television Broadcasts (TVB) artist of “coercive conduct” and accepting commercial engagements without the company’s approval after their relationship broke down in...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/law-and-crime/article/3368644/actress-leila-tong-sued-over-alleged-contract-breach-and-manipulative-conduct?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/law-and-crime/article/3368644/actress-leila-tong-sued-over-alleged-contract-breach-and-manipulative-conduct?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 08:59:21 +0000</pubDate>
+      <title>Actress Leila Tong sued over alleged contract breach and ‘manipulative conduct’</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/27aa8d9c-62e5-4244-828e-d9191d8f6f3f_72078f0e.jpg?itok=GPJyollN&amp;v=1790240357"/>
+      <media:content height="2796" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/27aa8d9c-62e5-4244-828e-d9191d8f6f3f_72078f0e.jpg?itok=GPJyollN&amp;v=1790240357" width="4096"/>
+    </item>
+    <item>
+      <author>Morning Studio editors</author>
+      <dc:creator>Morning Studio editors</dc:creator>
+      <description>The synergy between sports and philanthropy took centre stage earlier this month at the two-day PBC (Philanthropy for Better Cities) Forum 2026, convened by The Hong Kong Jockey Club Charities Trust, in association with the Institute of Philanthropy (IoP), at Hong Kong’s West Kowloon Cultural District.
+IoP was established by the Club and its Charities Trust in 2023, and is dedicated to promoting philanthropic thought leadership and enhancing sector capabilities at local, regional and global...</description>
+      <guid isPermaLink="true">https://www.scmp.com/native/news/hong-kong/topics/when-sport-meets-purpose/article/3368516/how-sport-inspires-inclusion-shared-purpose-and-global-solidarity?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/native/news/hong-kong/topics/when-sport-meets-purpose/article/3368516/how-sport-inspires-inclusion-shared-purpose-and-global-solidarity?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 08:00:09 +0000</pubDate>
+      <title>How sport inspires inclusion, shared purpose and global solidarity</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/a1659b7e-1b5d-4a69-964a-3cee8ce4f8df_650fb8aa.jpg?itok=jjFVnt8M&amp;v=1790159875"/>
+      <media:content height="2713" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/a1659b7e-1b5d-4a69-964a-3cee8ce4f8df_650fb8aa.jpg?itok=jjFVnt8M&amp;v=1790159875" width="4096"/>
+    </item>
+    <item>
+      <author>Elizabeth Cheung</author>
+      <dc:creator>Elizabeth Cheung</dc:creator>
+      <description>Hong Kong has cut its rate of cancer-related deaths by more than 40 per cent over the past three decades, the health minister said, as the city’s leader renewed his pledge to make it a hub for medical innovation.
+Secretary for Health Lo Chung-mau outlined the city’s progress in cancer control at the World Cancer Congress, which is being held in Hong Kong for the first time.
+Citing figures from 1993 to 2023, Lo said Hong Kong’s age-standardised cancer mortality rate had fallen by more than 40 per...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/health-environment/article/3368624/hong-kong-reports-more-40-drop-cancer-related-death-rate-over-30-years?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/health-environment/article/3368624/hong-kong-reports-more-40-drop-cancer-related-death-rate-over-30-years?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 07:34:32 +0000</pubDate>
+      <title>Hong Kong reports more than 40% drop in cancer-related death rate over 30 years</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/c23f463a-73fa-43d7-8269-4d60fc883bb3_95e851ff.jpg?itok=-FX79AWR&amp;v=1790235270"/>
+      <media:content height="2508" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/c23f463a-73fa-43d7-8269-4d60fc883bb3_95e851ff.jpg?itok=-FX79AWR&amp;v=1790235270" width="4096"/>
+    </item>
+    <item>
+      <author>Simpson Cheung</author>
+      <dc:creator>Simpson Cheung</dc:creator>
+      <description>Hong Kong will introduce security arrangements, including contingency plans for potential terrorist attacks, for the coming Apec meeting to ensure it is held safely and smoothly while minimising disruption to residents’ daily lives, the security chief has said.
+The Apec Finance Ministers’ Meeting will be held in the city for the first time on October 20 and 21, at the Hong Kong Convention and Exhibition Centre in Wan Chai.
+About 500 guests, including finance ministers and senior officials from...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/article/3368612/hong-kong-vows-safe-apec-meeting-plans-terror-and-cyberattack-threats?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/article/3368612/hong-kong-vows-safe-apec-meeting-plans-terror-and-cyberattack-threats?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 06:24:47 +0000</pubDate>
+      <title>Hong Kong vows safe Apec meeting with plans for terror and cyberattack threats</title>
+      <enclosure length="4094" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/084feab2-868e-4201-b0bb-8e94439c555b_812e1884.jpg?itok=CULO6Tqu&amp;v=1790242095"/>
+      <media:content height="2626" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/084feab2-868e-4201-b0bb-8e94439c555b_812e1884.jpg?itok=CULO6Tqu&amp;v=1790242095" width="4094"/>
+    </item>
+    <item>
+      <author>Lo Hoi-ying</author>
+      <dc:creator>Lo Hoi-ying</dc:creator>
+      <description>Hong Kong’s Electrical and Mechanical Services Department (EMSD) is considering an appeal against the non-custodial sentence of an engineer held liable for faulty lift installation work at Queen Mary Hospital’s new clinical block.
+The department said on Thursday it was seeking legal advice on whether to apply for a review of lift engineer Law Wing-chai’s sentence after he was deemed responsible for issuing false safety certifications and failing to spot problems that led to malfunctions.
+Its...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/law-and-crime/article/3368611/authorities-may-appeal-engineers-non-custodial-sentence-queen-mary-hospital-lift-case?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/law-and-crime/article/3368611/authorities-may-appeal-engineers-non-custodial-sentence-queen-mary-hospital-lift-case?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 06:13:22 +0000</pubDate>
+      <title>Authorities may appeal engineer’s non-custodial sentence in Queen Mary Hospital lift case</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/acd7f0b8-1b07-4ada-9b09-47cb19f2f227_5d6e08f6.jpg?itok=OYLCn7Xx&amp;v=1790230391"/>
+      <media:content height="2725" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/acd7f0b8-1b07-4ada-9b09-47cb19f2f227_5d6e08f6.jpg?itok=OYLCn7Xx&amp;v=1790230391" width="4095"/>
+    </item>
+    <item>
+      <author>Lo Hoi-ying</author>
+      <dc:creator>Lo Hoi-ying</dc:creator>
+      <description>Hong Kong police are searching for a woman after the body of her colleague was found on a chair outside a commercial building in Tsim Sha Tsui early on Thursday.
+Officers also arrested a 28-year-old bar worker, charging him with unlawful burial of a body, operating a drug den and failing to produce proof of identity. He told police he had helped the woman, who also worked at the bar, move the body to a car park.
+Police said they received a report at about 1.40am about an unconscious man sitting...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/law-and-crime/article/3368594/hong-kong-police-search-woman-after-man-found-dead-outside-commercial-building?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/law-and-crime/article/3368594/hong-kong-police-search-woman-after-man-found-dead-outside-commercial-building?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 03:59:48 +0000</pubDate>
+      <title>Hong Kong police search for woman after man found dead outside building</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/6f84bb72-fc89-4ab4-9f9a-6fc2d2e8c347_d833f34d.jpg?itok=AcH6mAVV&amp;v=1790222384"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/6f84bb72-fc89-4ab4-9f9a-6fc2d2e8c347_d833f34d.jpg?itok=AcH6mAVV&amp;v=1790222384" width="4095"/>
+    </item>
+    <item>
+      <author>Connor Mycroft</author>
+      <dc:creator>Connor Mycroft</dc:creator>
+      <description>Hong Kong’s existing animal welfare laws are no longer “fit for purpose” to deal with issues around pet abandonment and strays, legal experts have said, urging authorities to expedite long-delayed reforms to the city’s ordinances following a spate of dog attacks.
+The calls echo comments by Secretary for Environment and Ecology Tse Chin-wan, who said on Wednesday that authorities would look at whether existing penalties for pet abandonment should be strengthened and bring suggestions to the...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/law-and-crime/article/3368545/hong-kongs-animal-welfare-laws-fail-meet-modern-demands-experts-say?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/law-and-crime/article/3368545/hong-kongs-animal-welfare-laws-fail-meet-modern-demands-experts-say?utm_source=rss_feed</link>
+      <pubDate>Thu, 24 Sep 2026 00:30:07 +0000</pubDate>
+      <title>Hong Kong’s animal welfare laws fail to meet modern demands, experts say</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/9ebb6a2b-fb52-46bc-a45b-dfe2587b0a00_f988efb1.jpg?itok=ioaRV1_N&amp;v=1790169825"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/9ebb6a2b-fb52-46bc-a45b-dfe2587b0a00_f988efb1.jpg?itok=ioaRV1_N&amp;v=1790169825" width="4095"/>
+    </item>
+    <item>
+      <author>Cannix Yau</author>
+      <dc:creator>Cannix Yau</dc:creator>
+      <description>From moongazing and picnics to bus rides and a lantern extravaganza, the Mid-Autumn Festival in Hong Kong has plenty of activities for everyone.
+This year the festival falls on September 25, a Friday, with the following day designated as a public holiday in Hong Kong.
+The South China Morning Post rounds up Mid-Autumn Festival offerings.
+1. What are the highlights at night?
+At Victoria Park in Causeway Bay, the Hong Kong Tourism Board has organised the city’s first International Lantern...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368553/moongazing-bus-tours-how-celebrate-mid-autumn-festival-hong-kong?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368553/moongazing-bus-tours-how-celebrate-mid-autumn-festival-hong-kong?utm_source=rss_feed</link>
+      <pubDate>Wed, 23 Sep 2026 14:54:04 +0000</pubDate>
+      <title>From moongazing to bus tours: how to celebrate Mid-Autumn Festival in Hong Kong</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/b4401bf7-1d75-4788-9220-4daeb5050b3d_45321f4c.jpg?itok=OLaW_1K4&amp;v=1790175168"/>
+      <media:content height="2709" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/b4401bf7-1d75-4788-9220-4daeb5050b3d_45321f4c.jpg?itok=OLaW_1K4&amp;v=1790175168" width="4095"/>
+    </item>
+    <item>
+      <author>Danny Mok</author>
+      <dc:creator>Danny Mok</dc:creator>
+      <description>Hong Kong authorities have charged an animal welfare activist after a stray dog captured during an investigation into a suspected fatal canine attack on a cyclist in Yuen Long was found to have a microchip registered in his name.
+The Agriculture, Fisheries and Conservation Department and police have been conducting operations to capture stray dogs in the area following the suspected attack on Sunday.
+Police suspect a pack of dogs attacked a 27-year-old woman, who was found unconscious beside a...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/law-and-crime/article/3368549/activist-charged-after-microchipped-dog-caught-probe-suspected-attack?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/law-and-crime/article/3368549/activist-charged-after-microchipped-dog-caught-probe-suspected-attack?utm_source=rss_feed</link>
+      <pubDate>Wed, 23 Sep 2026 14:24:53 +0000</pubDate>
+      <title>Activist charged after microchipped dog caught in probe into suspected attack</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/6da9f4d6-2a3f-408e-a7bf-28c06c1baab7_5c608f96.jpg?itok=9N6EqozP&amp;v=1790173377"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/6da9f4d6-2a3f-408e-a7bf-28c06c1baab7_5c608f96.jpg?itok=9N6EqozP&amp;v=1790173377" width="4095"/>
+    </item>
+    <item>
+      <author>Edith Lin</author>
+      <dc:creator>Edith Lin</dc:creator>
+      <description>Hong Kong is expected to welcome about 1.29 million mainland Chinese travellers over the National Day “golden week” break, with city authorities planning to step up crowd management and tighten supervision of tour agencies and retail outlets.
+Chief Secretary Eric Chan Kwok-ki, Hong Kong’s No 2 official, chaired a meeting with various government departments on Wednesday to discuss preparations for the holiday on the mainland, which spans October 1 to 7.
+On top of the expected influx of about 1.29...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368547/hong-kong-welcome-129-million-mainland-chinese-visitors-national-day-break?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368547/hong-kong-welcome-129-million-mainland-chinese-visitors-national-day-break?utm_source=rss_feed</link>
+      <pubDate>Wed, 23 Sep 2026 14:03:40 +0000</pubDate>
+      <title>Hong Kong to welcome 1.29 million mainland Chinese visitors for National Day break</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/0fc544dc-196f-4b54-949a-fe4cc726e37d_9ccd9656.jpg?itok=CIiLEBA_&amp;v=1790172210"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/0fc544dc-196f-4b54-949a-fe4cc726e37d_9ccd9656.jpg?itok=CIiLEBA_&amp;v=1790172210" width="4095"/>
+    </item>
+    <item>
+      <author>Fiona Sun</author>
+      <dc:creator>Fiona Sun</dc:creator>
+      <description>Child abuse can impair victims’ development and increase their risk of long-term health problems such as obesity and heightened inflammatory responses, a Hong Kong NGO has said, calling for a tiered prevention strategy to strengthen protections.
+Against Child Abuse on Wednesday shared the results of an overview of local studies from recent years on the effects of abuse on children, while calling for more resources and enhanced measures to safeguard youngsters.
+One cited study, published in 2024,...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/society/article/3368541/abused-children-higher-risk-long-term-health-problems-hong-kong-ngo-warns?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/society/article/3368541/abused-children-higher-risk-long-term-health-problems-hong-kong-ngo-warns?utm_source=rss_feed</link>
+      <pubDate>Wed, 23 Sep 2026 12:44:29 +0000</pubDate>
+      <title>Abused children at higher risk of long-term health problems, Hong Kong NGO warns</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/a8250720-f5a9-4503-a0f6-9415718b52dc_6542e247.jpg?itok=_iiPN3hf&amp;v=1790167459"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/a8250720-f5a9-4503-a0f6-9415718b52dc_6542e247.jpg?itok=_iiPN3hf&amp;v=1790167459" width="4095"/>
+    </item>
+    <item>
+      <author>Danny Mok</author>
+      <dc:creator>Danny Mok</dc:creator>
+      <description>Hong Kong police have found no foreign or toxic substances in a brand of sports drink linked to 16 secondary school students who fell ill, saying the reported “pinholes” on the bottles are likely to be perforated lines in the plastic wrapping.
+The update came a day after 16 students from Maryknoll Secondary School in Kwun Tong reported feeling unwell after drinking free bottles of “Scream” sports drink during lunch at an athletics meet on Tuesday at Hammer Hill Road Sports Ground in Wong Tai...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/society/article/3368538/no-toxic-substance-found-sports-drinks-linked-students-illness-police?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/society/article/3368538/no-toxic-substance-found-sports-drinks-linked-students-illness-police?utm_source=rss_feed</link>
+      <pubDate>Wed, 23 Sep 2026 11:51:12 +0000</pubDate>
+      <title>No toxic substance found in sports drinks linked to students’ illness: police</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/05132c43-1a3b-4883-9632-8ea30bbc103e_08de3381.jpg?itok=LPn40KH2&amp;v=1790164194"/>
+      <media:content height="2820" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/05132c43-1a3b-4883-9632-8ea30bbc103e_08de3381.jpg?itok=LPn40KH2&amp;v=1790164194" width="4095"/>
+    </item>
+    <item>
+      <author>Matthew Cheng</author>
+      <dc:creator>Matthew Cheng</dc:creator>
+      <description>Hong Kong authorities have pledged to take a lenient approach when approving applications for a new scheme granting civil servants 10 to 12 hours of family care leave annually from next year.
+The initiative, first announced in last week’s annual policy address, will allow staff to leave work temporarily to deal with personal matters, such as accompanying family members to hospital or attending parent-teacher meetings.
+Secretary for the Civil Service Ingrid Yeung Ho Poi-yan told a Legislative...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/society/article/3368530/hong-kong-pledges-lenient-approach-10-12-hours-civil-service-family-leave?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/society/article/3368530/hong-kong-pledges-lenient-approach-10-12-hours-civil-service-family-leave?utm_source=rss_feed</link>
+      <pubDate>Wed, 23 Sep 2026 11:15:50 +0000</pubDate>
+      <title>Hong Kong pledges lenient approach on 10-12 hours of civil service family leave</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/01d0163c-528c-4601-a0be-c5190af341b3_0bf3d90b.jpg?itok=KVAKtbGX&amp;v=1790161420"/>
+      <media:content height="2706" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/01d0163c-528c-4601-a0be-c5190af341b3_0bf3d90b.jpg?itok=KVAKtbGX&amp;v=1790161420" width="4095"/>
+    </item>
+    <item>
+      <author>Theodora Yu</author>
+      <dc:creator>Theodora Yu</dc:creator>
+      <description>A planned supercomputing hub at the Northern Metropolis megadevelopment in Hong Kong’s border area will start phased operations earlier than expected in mid-2027, according to electricity supplier CLP Power.
+The power supplier said it had sufficient capacity to support energy demand not only for the Sandy Ridge data facility cluster, but for the equivalent of three to four supercomputing centres of a similar scale over the next decade.
+CLP added it planned to procure more zero-carbon energy from...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368520/northern-metropolis-data-hub-start-phased-operations-mid-2027-clp-power?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368520/northern-metropolis-data-hub-start-phased-operations-mid-2027-clp-power?utm_source=rss_feed</link>
+      <pubDate>Wed, 23 Sep 2026 10:02:12 +0000</pubDate>
+      <title>Northern Metropolis data hub to start phased operations in mid-2027: CLP Power</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/54feddd3-2cd4-4c87-a18a-c333fbd11f45_edb8c157.jpg?itok=KLI8vWMJ&amp;v=1790157259"/>
+      <media:content height="2454" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/54feddd3-2cd4-4c87-a18a-c333fbd11f45_edb8c157.jpg?itok=KLI8vWMJ&amp;v=1790157259" width="4095"/>
+    </item>
+    <item>
+      <author>Advertising partner</author>
+      <dc:creator>Advertising partner</dc:creator>
+      <description>[The content of this article has been produced by our advertising partner.]
+The Construction Industry Council (CIC) has sent its largest construction squad to the WorldSkills Competition, but executive director Ir Albert Cheng Ting-ning is already thinking about what the nine young competitors will bring home from Shanghai.Medals count, of course. So do confidence, ambition and a clearer idea of where a trade can take them. “If they come back more open, with confidence and a target, I count that...</description>
+      <guid isPermaLink="true">https://www.scmp.com/presented/news/hong-kong/topics/constructing-careers-through-worldskills/article/3368323/skills-new-generation?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/presented/news/hong-kong/topics/constructing-careers-through-worldskills/article/3368323/skills-new-generation?utm_source=rss_feed</link>
+      <pubDate>Wed, 23 Sep 2026 09:10:28 +0000</pubDate>
+      <title>Skills for a new generation</title>
+      <enclosure length="6000" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/2026/09/23/CIC_ep1_hero.JPG?itok=ogn-TNS8"/>
+      <media:content height="4000" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/2026/09/23/CIC_ep1_hero.JPG?itok=ogn-TNS8" width="6000"/>
+    </item>
+    <item>
+      <author>Michael Jinghan Zeng</author>
+      <dc:creator>Michael Jinghan Zeng</dc:creator>
+      <description>Hong Kong’s first five-year plan gives its universities an opportunity to show what their research can do for the city. Its ambitions for technology, regional development and international cooperation depend on decisions about institutions and people’s lives. Social scientists should help shape those decisions from the outset.
+The blueprint explicitly addresses public governance, including civil service performance, departmental coordination and digital administration. It also provides for...</description>
+      <guid isPermaLink="true">https://www.scmp.com/opinion/hong-kong-opinion/article/3368356/hong-kong-needs-social-science-help-deliver-its-5-year-plan?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/opinion/hong-kong-opinion/article/3368356/hong-kong-needs-social-science-help-deliver-its-5-year-plan?utm_source=rss_feed</link>
+      <pubDate>Wed, 23 Sep 2026 08:30:06 +0000</pubDate>
+      <title>Hong Kong needs social science to help deliver on its 5-year plan</title>
+      <enclosure length="4000" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/64f917f8-5c5b-43de-9b14-1f8470dc3c27_7cf4936c.jpg?itok=Nu12NOjB&amp;v=1790132509"/>
+      <media:content height="2667" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/64f917f8-5c5b-43de-9b14-1f8470dc3c27_7cf4936c.jpg?itok=Nu12NOjB&amp;v=1790132509" width="4000"/>
+    </item>
+    <item>
+      <author>Lo Hoi-ying</author>
+      <dc:creator>Lo Hoi-ying</dc:creator>
+      <description>A Hong Kong and Macau youth delegation trip to Beijing to pay tribute to the national flag has showcased the “fruitful results” of the two cities’ patriotic education efforts, according to the central government.
+A commentary published by the Hong Kong and Macau Affairs Office on Tuesday also said that President Xi Jinping and the central government attached great importance to the five-day visit, during which the delegation received “vivid patriotic education” through immersive visits and...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/politics/article/3368485/hong-kong-macau-student-trip-beijing-shows-fruitful-results-patriotic-push?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/politics/article/3368485/hong-kong-macau-student-trip-beijing-shows-fruitful-results-patriotic-push?utm_source=rss_feed</link>
+      <pubDate>Wed, 23 Sep 2026 07:37:45 +0000</pubDate>
+      <title>Hong Kong, Macau student trip to Beijing shows ‘fruitful results’ of patriotic push</title>
+      <enclosure length="2333" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/b9e283c1-d4eb-46f3-ad45-39a3b202dbfe_1fbc35b0.jpg?itok=5tMGeGaG&amp;v=1790148579"/>
+      <media:content height="1689" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/b9e283c1-d4eb-46f3-ad45-39a3b202dbfe_1fbc35b0.jpg?itok=5tMGeGaG&amp;v=1790148579" width="2333"/>
+    </item>
+    <item>
+      <author>Brian Wong</author>
+      <dc:creator>Brian Wong</dc:creator>
+      <description>A Hong Kong man has admitted repeatedly raping his daughter over six years, using threats and promises to ensure her cooperation.
+The defendant, identified in court only by his initials, FKY, pleaded guilty on Wednesday to 14 counts of rape for the persistent sexual abuse of his daughter between December 2015 and November 2021, when she was aged six to 11.
+But the High Court heard that the actual number of offences could be much higher. The girl said she was raped almost weekly after the...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/law-and-crime/article/3368486/hong-kong-father-admits-repeatedly-raping-daughter-over-6-year-period?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/law-and-crime/article/3368486/hong-kong-father-admits-repeatedly-raping-daughter-over-6-year-period?utm_source=rss_feed</link>
+      <pubDate>Wed, 23 Sep 2026 07:32:56 +0000</pubDate>
+      <title>Hong Kong father admits repeatedly raping daughter over a 6-year period</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/b4c22bdb-9c7e-4742-afa9-156b2d15138e_63296a55.jpg?itok=tdhARlPl&amp;v=1790148775"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/b4c22bdb-9c7e-4742-afa9-156b2d15138e_63296a55.jpg?itok=tdhARlPl&amp;v=1790148775" width="4095"/>
+    </item>
+    <item>
+      <author>Fiona Chow</author>
+      <dc:creator>Fiona Chow</dc:creator>
+      <description>A Hong Kong-registered lift engineer held liable for faulty installation work at Queen Mary Hospital’s new block has been sentenced to 160 hours of community service after being convicted of submitting misleading documents and improperly issuing safety certificates.
+Eastern Court sentenced Law Wing-chai, 54, on Wednesday for two summary offences under the Lifts and Escalators Ordinance. The sentence came a month after authorities revealed that 24 of the 28 lifts in the new block of Hong Kong...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/law-and-crime/article/3368479/engineer-gets-160-hours-community-service-over-queen-mary-hospital-lift-defects?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/law-and-crime/article/3368479/engineer-gets-160-hours-community-service-over-queen-mary-hospital-lift-defects?utm_source=rss_feed</link>
+      <pubDate>Wed, 23 Sep 2026 06:37:40 +0000</pubDate>
+      <title>Engineer gets 160 hours’ community service over Queen Mary Hospital lift defects</title>
+      <enclosure length="4000" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/06a13dd3-d45b-47a6-8bfa-175ba532e740_912c55d5.jpg?itok=f18lRu7v&amp;v=1790145452"/>
+      <media:content height="2666" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/06a13dd3-d45b-47a6-8bfa-175ba532e740_912c55d5.jpg?itok=f18lRu7v&amp;v=1790145452" width="4000"/>
+    </item>
+    <item>
+      <author>Leopold Chen</author>
+      <dc:creator>Leopold Chen</dc:creator>
+      <description>The number of young people arrested in Hong Kong in the first half of the year jumped by around 20 per cent, driven by cases of serious assault and criminal damage linked to debt collection activities.
+Commissioner of Police Joe Chow Yat-ming said on Wednesday that the force had arrested 1,580 young people aged between 10 and 20 from January to June, an increase of about 20 per cent year-on-year.
+Among them, 283 were arrested on suspicion of serious assault, representing a 47 per cent...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/law-and-crime/article/3368475/juvenile-arrests-20-first-half-2026-driven-assault-damage-cases?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/law-and-crime/article/3368475/juvenile-arrests-20-first-half-2026-driven-assault-damage-cases?utm_source=rss_feed</link>
+      <pubDate>Wed, 23 Sep 2026 05:50:11 +0000</pubDate>
+      <title>Youth arrests in Hong Kong rise 20%, driven by assault and criminal-damage cases</title>
+      <enclosure length="4094" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/5c3ab07d-9019-4f3d-814b-45b7100e6499_d0dbf4fd.jpg?itok=-jw6lsID&amp;v=1790142608"/>
+      <media:content height="2526" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/5c3ab07d-9019-4f3d-814b-45b7100e6499_d0dbf4fd.jpg?itok=-jw6lsID&amp;v=1790142608" width="4094"/>
+    </item>
+    <item>
+      <author>Advertising partner</author>
+      <dc:creator>Advertising partner</dc:creator>
+      <description>[The content of this article has been produced by our advertising partner.]
+Nearly 100 students from 10 US universities who travelled through China under Future Makers 2026 jointly wrote to President Xi Jinping after the programme, sharing what they had seen and experienced during the trip. 
+In his reply to the students, Xi encouraged young people from both countries to promote friendship and co-operation and deepen mutual understanding between the two peoples.
+People-to-people exchanges can...</description>
+      <guid isPermaLink="true">https://www.scmp.com/presented/news/hong-kong/topics/future-makers-2026/article/3367988/president-xi-encourages-china-us-youth-ties-after-exchange?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/presented/news/hong-kong/topics/future-makers-2026/article/3367988/president-xi-encourages-china-us-youth-ties-after-exchange?utm_source=rss_feed</link>
+      <pubDate>Wed, 23 Sep 2026 04:42:20 +0000</pubDate>
+      <title>President Xi encourages China-US youth ties after exchange</title>
+      <enclosure length="3060" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/2026/09/18/Image-(2).jpg?itok=J2T-X-qD"/>
+      <media:content height="2119" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/2026/09/18/Image-(2).jpg?itok=J2T-X-qD" width="3060"/>
+    </item>
+    <item>
+      <author>Emily Hung</author>
+      <dc:creator>Emily Hung</dc:creator>
+      <description>The Hong Kong government has rejected an annual European Union report alleging that the administration is undermining the city’s fundamental freedoms, calling its claims “unfounded and biased”.
+The more than 4,500-word statement, issued early on Wednesday, followed the publication on Tuesday of the EU’s 2025 annual report on Hong Kong. The report was jointly issued by the European Commission and the EU’s high representative for foreign affairs and security policy, Kaja Kallas.
+It highlighted...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/politics/article/3368464/hong-kong-rejects-eu-reports-claims-freedoms-unfounded-and-biased?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/politics/article/3368464/hong-kong-rejects-eu-reports-claims-freedoms-unfounded-and-biased?utm_source=rss_feed</link>
+      <pubDate>Wed, 23 Sep 2026 04:23:01 +0000</pubDate>
+      <title>Hong Kong rejects EU report’s claims on freedoms as ‘unfounded and biased’</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/2f9fecb3-c49a-4d24-a784-bebf1c112d2b_b7a1f6a2.jpg?itok=Jpur2hFf&amp;v=1790137379"/>
+      <media:content height="2914" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/2f9fecb3-c49a-4d24-a784-bebf1c112d2b_b7a1f6a2.jpg?itok=Jpur2hFf&amp;v=1790137379" width="4095"/>
+    </item>
+    <item>
+      <author>Fiona Chow</author>
+      <dc:creator>Fiona Chow</dc:creator>
+      <description>A coach accused of slapping an eight-year-old boy and ordering him to stand under the hot sun during a training camp in Hong Kong has been spared from criminal prosecution after she agreed to a three-year good behaviour bond.
+Chief Magistrate Victor So Wai-tak on Wednesday imposed the bond on Zhao Yiqun, 51, who faced two child abuse charges after she was alleged to have mistreated the boy during a training programme at the Jockey Club Ming Fai Camp, located on Cheung Chau island, on August 8,...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/law-and-crime/article/3368462/coach-who-slapped-boy-8-hong-kong-training-camp-spared-criminal-charges?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/law-and-crime/article/3368462/coach-who-slapped-boy-8-hong-kong-training-camp-spared-criminal-charges?utm_source=rss_feed</link>
+      <pubDate>Wed, 23 Sep 2026 04:13:06 +0000</pubDate>
+      <title>Coach who slapped boy, 8, at Hong Kong training camp spared criminal charges</title>
+      <enclosure length="3975" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/b5e97d62-be5d-429e-b226-fcaf965fdd20_981ae83f.jpg?itok=kis6h7kD&amp;v=1790136785"/>
+      <media:content height="2755" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/b5e97d62-be5d-429e-b226-fcaf965fdd20_981ae83f.jpg?itok=kis6h7kD&amp;v=1790136785" width="3975"/>
+    </item>
+    <item>
+      <author>Eric Jiang,Theodora Yu</author>
+      <dc:creator>Eric Jiang,Theodora Yu</dc:creator>
+      <description>Poor treatment of guard dogs at warehouses before ditching them in unfamiliar environments could make the animals easier to agitate, rescuers have said, calling for a “trap, neuter and release” approach, among other solutions.
+Concerns about the handling of stray dogs entered the media spotlight after a 27-year-old woman was discovered along a cycle path in Yuen Long after suffering lacerations to her head, face, neck, arms and legs. She was later pronounced dead at Pok Oi Hospital.
+On Saturday...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/society/article/3368433/shelters-warn-against-poor-treatment-warehouse-guard-dogs-new-territories?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/society/article/3368433/shelters-warn-against-poor-treatment-warehouse-guard-dogs-new-territories?utm_source=rss_feed</link>
+      <pubDate>Wed, 23 Sep 2026 00:30:15 +0000</pubDate>
+      <title>Shelters warn against poor treatment of warehouse guard dogs in New Territories</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/50b88f5f-f3ca-4f68-a9a9-a6c3a2bbd873_832e2b87.jpg?itok=qYsJuGwu&amp;v=1790089031"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/50b88f5f-f3ca-4f68-a9a9-a6c3a2bbd873_832e2b87.jpg?itok=qYsJuGwu&amp;v=1790089031" width="4095"/>
+    </item>
+    <item>
+      <author>Vera Yuen</author>
+      <dc:creator>Vera Yuen</dc:creator>
+      <description>Hong Kong does not lack institutions that speak the language of service and responsibility. What it lacks, too often, is a clear account of what difference they actually make. That is why the Hong Kong Jockey Club (HKJC) Charities Trust’s first impact report deserves attention.
+Publishing such a report may seem like routine institutional business. Up to a point, it is. But its publication opens up a bigger question, one Hong Kong has tended to skirt round: how should organisations with a public...</description>
+      <guid isPermaLink="true">https://www.scmp.com/opinion/hong-kong-opinion/article/3367888/question-hong-kong-charities-must-answer?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/opinion/hong-kong-opinion/article/3367888/question-hong-kong-charities-must-answer?utm_source=rss_feed</link>
+      <pubDate>Tue, 22 Sep 2026 21:30:05 +0000</pubDate>
+      <title>The question Hong Kong charities must answer</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/032ddf85-bc4a-4ca4-b72d-71c76b494041_38fda9bc.jpg?itok=HnuNmfvr&amp;v=1790051268"/>
+      <media:content height="2733" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/032ddf85-bc4a-4ca4-b72d-71c76b494041_38fda9bc.jpg?itok=HnuNmfvr&amp;v=1790051268" width="4095"/>
+    </item>
+    <item>
+      <author>Emily Hung,Vivian Au</author>
+      <dc:creator>Emily Hung,Vivian Au</dc:creator>
+      <description>The Chinese University of Hong Kong (CUHK) has told a top economist to be mindful of his words and other people’s feelings after he faced a backlash over his discussion of the costs and benefits of women marrying for money in a campus talk.
+The controversy erupted shortly after Terence Chong Tai-leung, an associate professor of economics, spoke about investing in one’s life at an assembly held every two weeks at New Asia College on Tuesday.
+Chong is also the executive director of the Lau Chor...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/education/article/3368435/cuhk-economist-apologises-over-talk-examined-women-marrying-money?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/education/article/3368435/cuhk-economist-apologises-over-talk-examined-women-marrying-money?utm_source=rss_feed</link>
+      <pubDate>Tue, 22 Sep 2026 16:17:26 +0000</pubDate>
+      <title>CUHK gives top economist warning over talk on women ‘marrying for money’</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/ed302d73-c4ce-4a11-b9ca-27a8d528dc78_81106c71.jpg?itok=883VJr5D&amp;v=1790093843"/>
+      <media:content height="2523" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/ed302d73-c4ce-4a11-b9ca-27a8d528dc78_81106c71.jpg?itok=883VJr5D&amp;v=1790093843" width="4096"/>
+    </item>
+    <item>
+      <author>Emily Hung</author>
+      <dc:creator>Emily Hung</dc:creator>
+      <description>Hong Kong’s workforce is forecast to shrink by around 20,000 a year until 2028 despite measures to import labour and talent, with shortages remaining most acute among skilled technical workers.
+A government report on manpower projections on Tuesday found that although the labour shortfall would narrow to 130,000 by 2028, down by nearly a third from the original estimate of 180,000, the city would continue to face critical manpower challenges across key sectors.
+“Due to economic transformation,...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368430/hong-kong-workforce-shrink-20000-yearly-key-sectors-face-shortages?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368430/hong-kong-workforce-shrink-20000-yearly-key-sectors-face-shortages?utm_source=rss_feed</link>
+      <pubDate>Tue, 22 Sep 2026 14:30:35 +0000</pubDate>
+      <title>Hong Kong workforce to shrink by 20,000 yearly as key sectors face shortages</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/3db7ca74-ce72-452d-9ffb-42633b24ae92_f92c1536.jpg?itok=4ryjg-qN&amp;v=1790090074"/>
+      <media:content height="2639" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/3db7ca74-ce72-452d-9ffb-42633b24ae92_f92c1536.jpg?itok=4ryjg-qN&amp;v=1790090074" width="4095"/>
+    </item>
+    <item>
+      <author>Vivian Au</author>
+      <dc:creator>Vivian Au</dc:creator>
+      <description>Hong Kong authorities have appointed a five-member supervisory committee to investigate the conviction of a district councillor for having sex with a 13-year-old girl 15 years ago.
+Yuen Long district councillor Sei Chun-hing, 39, is the first elected officeholder to face possible imprisonment for a criminal offence since Beijing’s 2021 electoral overhaul, which restricted candidates to those vetted as “patriots”.
+The offence is punishable by up to five years in jail..
+Secretary for Home and...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/politics/article/3368429/hong-kong-appoints-committee-investigate-councillors-sex-crime-conviction?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/politics/article/3368429/hong-kong-appoints-committee-investigate-councillors-sex-crime-conviction?utm_source=rss_feed</link>
+      <pubDate>Tue, 22 Sep 2026 14:01:14 +0000</pubDate>
+      <title>Committee to investigate Hong Kong district councillor’s sex crime conviction</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/4a2b2bdb-9d5f-4f74-a884-6d0529af03cc_18beae01.jpg?itok=S4f7p3NP&amp;v=1790085672"/>
+      <media:content height="2852" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/4a2b2bdb-9d5f-4f74-a884-6d0529af03cc_18beae01.jpg?itok=S4f7p3NP&amp;v=1790085672" width="4096"/>
+    </item>
+    <item>
+      <author>Eric Jiang</author>
+      <dc:creator>Eric Jiang</dc:creator>
+      <description>Hong Kong risks losing its status as an international aviation hub if it fails to secure a reliable, credibly certified supply of sustainable aviation fuel (SAF), the head of the government’s think tank has warned.
+Stephen Wong Yuen-shan, head of the Chief Executive’s Policy Unit, made the remarks at the Sustainable Aviation Futures China Congress on Tuesday, days after the government set out its fuel strategy in the city’s first five-year plan and policy address amid mounting global...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368421/hong-kong-urged-secure-sustainable-fuel-supply-safeguard-aviation-hub-status?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368421/hong-kong-urged-secure-sustainable-fuel-supply-safeguard-aviation-hub-status?utm_source=rss_feed</link>
+      <pubDate>Tue, 22 Sep 2026 13:06:28 +0000</pubDate>
+      <title>Hong Kong on way to securing green fuel supply to safeguard aviation hub status</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/e269d2ad-ecd6-4384-ab2f-5397110d65f9_6702108e.jpg?itok=LUsHlQ4B&amp;v=1790082387"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/e269d2ad-ecd6-4384-ab2f-5397110d65f9_6702108e.jpg?itok=LUsHlQ4B&amp;v=1790082387" width="4095"/>
+    </item>
+    <item>
+      <author>Theodora Yu,Lo Hoi-ying</author>
+      <dc:creator>Theodora Yu,Lo Hoi-ying</dc:creator>
+      <description>The death of a cyclist in a suspected canine attack in Hong Kong’s Yuen Long on Saturday night has sparked fierce discussion on social media, with users sharing similar encounters and debating how to stay safe.
+The woman was discovered along Pok Wai South Road in the early hours of Sunday. She had suffered lacerations to her head, face, neck, arms and legs, with the wounds to her head and neck believed to have been fatal.
+Nearly a month earlier, a 33-year-old dog handler was found dead near her...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/society/article/3368419/fatal-dog-attacks-trigger-safety-fears-hong-kong-heres-how-protect-yourself?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/society/article/3368419/fatal-dog-attacks-trigger-safety-fears-hong-kong-heres-how-protect-yourself?utm_source=rss_feed</link>
+      <pubDate>Tue, 22 Sep 2026 12:59:11 +0000</pubDate>
+      <title>Fatal dog attacks trigger safety fears in Hong Kong. Here’s how to protect yourself</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/4f702bfc-299a-43ab-835d-f8437a2ac54a_9219e66a.jpg?itok=F4nuTNmY&amp;v=1790081951"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/4f702bfc-299a-43ab-835d-f8437a2ac54a_9219e66a.jpg?itok=F4nuTNmY&amp;v=1790081951" width="4095"/>
+    </item>
+    <item>
+      <author>Edith Lin</author>
+      <dc:creator>Edith Lin</dc:creator>
+      <description>Hong Kong building maintenance consultants and contractors prosecuted or convicted of integrity-related offences in the past three years will be excluded from pre-qualified lists set up for owners undertaking renovation projects, the development minister has said.
+Secretary for Development Bernadette Linn Hon-ho said on Tuesday that applications to join the lists – covering inspection consultants, supervision consultants and building works contractors – would open next Wednesday and close on...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/society/article/3368412/hong-kong-bar-firms-integrity-offences-building-renovation-lists?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/society/article/3368412/hong-kong-bar-firms-integrity-offences-building-renovation-lists?utm_source=rss_feed</link>
+      <pubDate>Tue, 22 Sep 2026 12:17:59 +0000</pubDate>
+      <title>Hong Kong to bar firms with integrity offences from building renovation lists</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/f39d0618-6033-435a-9395-d275716a981e_2c57bed8.jpg?itok=S-uDQ7uA&amp;v=1790079239"/>
+      <media:content height="2699" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/f39d0618-6033-435a-9395-d275716a981e_2c57bed8.jpg?itok=S-uDQ7uA&amp;v=1790079239" width="4095"/>
+    </item>
+    <item>
+      <author>Cannix Yau</author>
+      <dc:creator>Cannix Yau</dc:creator>
+      <description>Hong Kong’s Labour Department has terminated Kwai Chung-based catering firm Happy Up Corporation’s application to import workers after it failed to meet the required local hiring ratio.
+The company has also been barred from applying to import workers for a year.
+A department spokesman said on Tuesday that the administrative sanctions had taken immediate effect under the Enhanced Supplementary Labour Scheme (ESLS) following an application previously submitted by the company.
+He added that...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/society/article/3368399/hong-kong-bans-caterer-importing-workers-year-over-local-hiring-breach?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/society/article/3368399/hong-kong-bans-caterer-importing-workers-year-over-local-hiring-breach?utm_source=rss_feed</link>
+      <pubDate>Tue, 22 Sep 2026 10:33:10 +0000</pubDate>
+      <title>Hong Kong bans caterer from importing workers for year over local hiring breach</title>
+      <enclosure length="4032" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/f97d3f3f-4658-4444-b9f5-bc36d2775fd9_b3274061.jpg?itok=Gu52coKk&amp;v=1790073183"/>
+      <media:content height="3024" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/f97d3f3f-4658-4444-b9f5-bc36d2775fd9_b3274061.jpg?itok=Gu52coKk&amp;v=1790073183" width="4032"/>
+    </item>
+    <item>
+      <author>Fiona Chow</author>
+      <dc:creator>Fiona Chow</dc:creator>
+      <description>A former acting chief editor of the now-defunct Stand News was fulfilling his duty to publish articles and had no intent to undermine national security in Hong Kong, his lawyer has said while appealing his conviction for sedition.
+A panel of High Court justices pointed out on Tuesday that the presiding trial judge had ruled Patrick Lam Shiu-tung’s decision to run material containing false information from interviewees had the seditious effect of inciting hatred against authorities.
+They noted...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/law-and-crime/article/3368395/stand-news-editor-had-no-intention-harming-national-security-court-hears?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/law-and-crime/article/3368395/stand-news-editor-had-no-intention-harming-national-security-court-hears?utm_source=rss_feed</link>
+      <pubDate>Tue, 22 Sep 2026 10:02:13 +0000</pubDate>
+      <title>Stand News editor had no intention of harming national security, court hears</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/5492d8e3-5176-4100-9b65-b67ff4eafdb0_076a6471.jpg?itok=iZH2XRvC&amp;v=1790071332"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/5492d8e3-5176-4100-9b65-b67ff4eafdb0_076a6471.jpg?itok=iZH2XRvC&amp;v=1790071332" width="4095"/>
+    </item>
+    <item>
+      <author>Cheryl Arcibal</author>
+      <dc:creator>Cheryl Arcibal</dc:creator>
+      <description>Foreign investors continue to pile into Hong Kong’s commercial real estate, with a unit of online retail giant Amazon and Singapore-headquartered Shorea Capital among the latest to snap up assets, according to agents.
+Shorea won the tender for The Pemberton, a mixed office and retail property in Sheung Wan, for an undisclosed amount, Colliers said, underscoring Southeast Asian investors’ continuing robust demand for real estate assets in Hong Kong. Colliers was the lead agent and broker for the...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/article/3368331/amazon-and-shorea-capital-deals-underscore-foreign-interest-commercial-property?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/article/3368331/amazon-and-shorea-capital-deals-underscore-foreign-interest-commercial-property?utm_source=rss_feed</link>
+      <pubDate>Tue, 22 Sep 2026 10:00:06 +0000</pubDate>
+      <title>Amazon and Shorea Capital deals underscore foreign interest in commercial property</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/e9772fcd-42f8-494c-8541-206a24f186b7_2c60aedd.jpg?itok=HCKACm5P&amp;v=1790051732"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/e9772fcd-42f8-494c-8541-206a24f186b7_2c60aedd.jpg?itok=HCKACm5P&amp;v=1790051732" width="4095"/>
+    </item>
+    <item>
+      <author>Danny Mok</author>
+      <dc:creator>Danny Mok</dc:creator>
+      <description>At least 14 students have been sent to hospital after drinking free beverages that were found with suspicious pinhole marks near a sports ground in Hong Kong, prompting a police investigation.
+Students from Maryknoll Secondary School in Kwun Tong reportedly posted messages on social media claiming that free bottles of a sports drink had been handed out during lunch on Wing Ting Road, a short distance from the Hammer Hill Road Sports Ground, where the school was holding an athletics meet on...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/law-and-crime/article/3368393/free-sports-drinks-suspicious-pinhole-marks-leave-10-hong-kong-students-ill?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/law-and-crime/article/3368393/free-sports-drinks-suspicious-pinhole-marks-leave-10-hong-kong-students-ill?utm_source=rss_feed</link>
+      <pubDate>Tue, 22 Sep 2026 09:59:46 +0000</pubDate>
+      <title>Free sports drinks with suspicious pinhole marks leave 14 Hong Kong students ill</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/f7a5474c-3e04-462b-9222-9ab568221755_e141479c.jpg?itok=oJVeLotl&amp;v=1790075834"/>
+      <media:content height="2501" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/f7a5474c-3e04-462b-9222-9ab568221755_e141479c.jpg?itok=oJVeLotl&amp;v=1790075834" width="4096"/>
+    </item>
+    <item>
+      <author>Leopold Chen</author>
+      <dc:creator>Leopold Chen</dc:creator>
+      <description>Hong Kong does not need to emulate Singapore’s generous childbirth incentives, a senior official has said, defending the city’s latest 11-measure policy drive to encourage births as a “comprehensive” approach.
+Addressing concerns that Hong Kong’s approach was too incremental compared with Singapore’s multi-tier sustained funding, Deputy Chief Secretary Warner Cheuk Wing-hing said on Tuesday that each jurisdiction has its own unique set of circumstances.
+“Some people ask, ‘Why don’t you learn...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/society/article/3368388/no-need-hong-kong-match-singapores-hk400000-birth-perk-top-official-says?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/society/article/3368388/no-need-hong-kong-match-singapores-hk400000-birth-perk-top-official-says?utm_source=rss_feed</link>
+      <pubDate>Tue, 22 Sep 2026 09:36:35 +0000</pubDate>
+      <title>No need for Hong Kong to match Singapore’s HK$400,000 birth perk, top official says</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/3568d48a-c95c-4e52-813c-05df12674a24_eba1e39a.jpg?itok=0Acy986N&amp;v=1790069579"/>
+      <media:content height="2782" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/3568d48a-c95c-4e52-813c-05df12674a24_eba1e39a.jpg?itok=0Acy986N&amp;v=1790069579" width="4095"/>
+    </item>
+    <item>
+      <author>Simpson Cheung</author>
+      <dc:creator>Simpson Cheung</dc:creator>
+      <description>Senior Hong Kong police officer Kelvin Kong Hok-lai has taken over the force’s National Security Department, succeeding Andrew Kan Kai-yan, who began pre-retirement leave on Tuesday.
+Chief Executive John Lee Ka-chiu appointed Kong as deputy police commissioner (national security) under Article 16 (2) of the national security law. The appointment took effect immediately after Kong took the oath of office.
+Lee said Kong, formerly the director of national security, had served with the Hong Kong...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/article/3368374/john-lee-appoints-kelvin-kong-head-polices-national-security-department?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/article/3368374/john-lee-appoints-kelvin-kong-head-polices-national-security-department?utm_source=rss_feed</link>
+      <pubDate>Tue, 22 Sep 2026 08:42:31 +0000</pubDate>
+      <title>John Lee appoints Kelvin Kong head of police’s National Security Department</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/b6bdfcaf-31b7-4694-9772-21d5aa88d391_af1e0fa4.jpg?itok=ukhbnSxU&amp;v=1790068075"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/b6bdfcaf-31b7-4694-9772-21d5aa88d391_af1e0fa4.jpg?itok=ukhbnSxU&amp;v=1790068075" width="4095"/>
+    </item>
+    <item>
+      <author>Christine Loh</author>
+      <dc:creator>Christine Loh</dc:creator>
+      <description>Hong Kong deserves credit for its first five-year plan, accompanied by a detailed policy address. The plan establishes a useful framework beyond the annual policy cycle. Precisely because this is an important first effort, it is worth asking what could make the framework even stronger.
+One striking omission is that the five-year plan never explicitly mentions climate change. This does not mean Hong Kong is failing to act.
+On the contrary, the plan and policy address contain many measures dealing...</description>
+      <guid isPermaLink="true">https://www.scmp.com/opinion/hong-kong-opinion/article/3368261/hong-kong-lacks-climate-narrative-unify-its-efforts?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/opinion/hong-kong-opinion/article/3368261/hong-kong-lacks-climate-narrative-unify-its-efforts?utm_source=rss_feed</link>
+      <pubDate>Tue, 22 Sep 2026 08:30:05 +0000</pubDate>
+      <title>Hong Kong lacks a climate narrative to unify its efforts</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/21/8822032d-0602-49be-a7df-bf735a150441_671d2bd3.jpg?itok=iZM9l7Mc&amp;v=1789984348"/>
+      <media:content height="2646" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/21/8822032d-0602-49be-a7df-bf735a150441_671d2bd3.jpg?itok=iZM9l7Mc&amp;v=1789984348" width="4095"/>
+    </item>
+    <item>
+      <author>Brian Wong</author>
+      <dc:creator>Brian Wong</dc:creator>
+      <description>A Hong Kong man suffering from a severe mental illness has been sentenced to an indefinite period in a psychiatric hospital for stabbing two women to death in a frenzied knife attack at a shopping centre three years ago.
+The High Court on Tuesday ordered former warehouse worker Szeto Sing-kwong to receive mandatory psychiatric treatment and supervision at the Siu Lam Psychiatric Centre in Tuen Mun, noting that he continued to display limited insight into his mental condition after killing two...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/law-and-crime/article/3368349/indefinite-time-psychiatric-ward-hong-kong-man-who-fatally-stabbed-2-mall?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/law-and-crime/article/3368349/indefinite-time-psychiatric-ward-hong-kong-man-who-fatally-stabbed-2-mall?utm_source=rss_feed</link>
+      <pubDate>Tue, 22 Sep 2026 06:51:41 +0000</pubDate>
+      <title>Indefinite time in psychiatric ward for Hong Kong man who fatally stabbed 2 in mall</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/78906467-7c4b-4468-961b-3596dfebea0b_8ac6fcfb.jpg?itok=v0XCynd3&amp;v=1790059900"/>
+      <media:content height="2363" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/78906467-7c4b-4468-961b-3596dfebea0b_8ac6fcfb.jpg?itok=v0XCynd3&amp;v=1790059900" width="4096"/>
+    </item>
+    <item>
+      <author>William Yiu</author>
+      <dc:creator>William Yiu</dc:creator>
+      <description>At least four Hong Kong kindergartens will hold Mid-Autumn Festival open days and parties on a night traditionally set aside for family reunions, sparking criticism that teachers are being forced to work overtime to bring in pupils amid falling enrolment.
+In a reply to the South China Morning Post, the Education Bureau said on Monday that preschools should maintain good communication with stakeholders, including teachers and staff, to make appropriate arrangements when planning various...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/education/article/3368343/do-teachers-not-have-families-kindergartens-mid-autumn-events-draw-backlash?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/education/article/3368343/do-teachers-not-have-families-kindergartens-mid-autumn-events-draw-backlash?utm_source=rss_feed</link>
+      <pubDate>Tue, 22 Sep 2026 06:23:29 +0000</pubDate>
+      <title>‘Do teachers not have families?’: kindergartens’ Mid-Autumn events draw backlash</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/e49af768-544b-4a54-a329-f483244ede2d_736d4a65.jpg?itok=KsG0Th2R&amp;v=1790058208"/>
+      <media:content height="2709" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/e49af768-544b-4a54-a329-f483244ede2d_736d4a65.jpg?itok=KsG0Th2R&amp;v=1790058208" width="4095"/>
+    </item>
+    <item>
+      <author>Leopold Chen</author>
+      <dc:creator>Leopold Chen</dc:creator>
+      <description>Hong Kong authorities have expanded their search radius to capture stray dogs and installed new surveillance cameras in the area where a suspected fatal canine attack took place, in a bid to “completely remove” safety risks in the neighbourhood.
+The heightened measures came three days after a 27-year-old woman was found dead on a cycling path in Yuen Long after being chased by three dogs. She suffered lacerations to her head, face, neck, arms and legs, with some of the wounds believed to have...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/society/article/3368339/search-expanded-new-cctv-cameras-installed-yuen-long-capture-stray-dogs?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/society/article/3368339/search-expanded-new-cctv-cameras-installed-yuen-long-capture-stray-dogs?utm_source=rss_feed</link>
+      <pubDate>Tue, 22 Sep 2026 05:34:01 +0000</pubDate>
+      <title>Search for stray dogs expanded as new CCTV cameras installed in Yuen Long</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/659ac7db-3164-4d5c-85fe-28b497c60cb6_a6738238.jpg?itok=EgT_UXaU&amp;v=1790055237"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/659ac7db-3164-4d5c-85fe-28b497c60cb6_a6738238.jpg?itok=EgT_UXaU&amp;v=1790055237" width="4096"/>
+    </item>
+    <item>
+      <author>Theodora Yu</author>
+      <dc:creator>Theodora Yu</dc:creator>
+      <description>Animal welfare groups in Hong Kong have called for a legal loophole in pet ownership laws to be closed to better protect public safety, after authorities pledged to review stray dog policies following Sunday’s suspected fatal mauling of a woman.
+The groups said that, based on their experience, the 27-year-old victim was more likely to have been attacked by former warehouse guard dogs than strays.
+But existing legal provisions made it difficult to prosecute owners who failed to microchip or...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/society/article/3368298/hong-kong-animal-groups-call-tighter-pet-laws-after-suspected-fatal-mauling?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/society/article/3368298/hong-kong-animal-groups-call-tighter-pet-laws-after-suspected-fatal-mauling?utm_source=rss_feed</link>
+      <pubDate>Tue, 22 Sep 2026 00:30:07 +0000</pubDate>
+      <title>Hong Kong animal groups call for tighter pet laws after suspected fatal mauling</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/21/4683c4f1-5cd7-47a9-8fa0-461c1c65fa96_2ee5f460.jpg?itok=2E_uQp9q&amp;v=1790004411"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/21/4683c4f1-5cd7-47a9-8fa0-461c1c65fa96_2ee5f460.jpg?itok=2E_uQp9q&amp;v=1790004411" width="4095"/>
+    </item>
+    <item>
+      <author>Simpson Cheung</author>
+      <dc:creator>Simpson Cheung</dc:creator>
+      <description>Retiring deputy police commissioner Andrew Kan Kai-yan has said artificial intelligence (AI) poses a new threat to national security in Hong Kong, with the force turning to the emerging technology to help combat the issue.
+Kan raised the alarm after state security minister Chen Yixin warned last week of rising national security risks posed by AI. The senior mainland Chinese official also called for robust risk prevention frameworks and stronger global governance of the technology.
+Chief...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/law-and-crime/article/3368258/ai-poses-new-national-security-threat-outgoing-hong-kong-deputy-police-chief-warns?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/law-and-crime/article/3368258/ai-poses-new-national-security-threat-outgoing-hong-kong-deputy-police-chief-warns?utm_source=rss_feed</link>
+      <pubDate>Mon, 21 Sep 2026 23:00:08 +0000</pubDate>
+      <title>AI poses new national security threat, outgoing Hong Kong deputy police chief warns</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/21/0b87a798-cbfd-483b-b977-a26086115f95_5e0e88dd.jpg?itok=p40AQwsJ&amp;v=1789984098"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/21/0b87a798-cbfd-483b-b977-a26086115f95_5e0e88dd.jpg?itok=p40AQwsJ&amp;v=1789984098" width="4095"/>
+    </item>
+    <item>
+      <author>Edith Lin,Danny Mok</author>
+      <dc:creator>Edith Lin,Danny Mok</dc:creator>
+      <description>President Xi Jinping has expressed hope that the younger generation will advance Sino-US cooperation, foster mutual understanding and ensure steady, long-term development of bilateral ties, according to Chinese state media.
+Xinhua reported on Monday that Xi’s remarks came in his reply to a letter from students at 10 US universities who shared their thoughts and experiences after attending a youth exchange programme in China earlier this month.
+“Young people from China and the United States share...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/education/article/3368300/president-xi-jinping-calls-china-us-youth-advance-bilateral-cooperation?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/education/article/3368300/president-xi-jinping-calls-china-us-youth-advance-bilateral-cooperation?utm_source=rss_feed</link>
+      <pubDate>Mon, 21 Sep 2026 16:30:59 +0000</pubDate>
+      <title>President Xi Jinping calls on China, US youth to advance bilateral cooperation</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/6aaaa72e-59ff-4692-a5fd-43d7bf5faf58_3940bed4.jpg?itok=BArojX5u&amp;v=1790013328"/>
+      <media:content height="2729" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/6aaaa72e-59ff-4692-a5fd-43d7bf5faf58_3940bed4.jpg?itok=BArojX5u&amp;v=1790013328" width="4096"/>
+    </item>
+    <item>
+      <author>Edith Lin</author>
+      <dc:creator>Edith Lin</dc:creator>
+      <description>A leading Hong Kong secondary school has expressed regret and withdrawn guidelines accused of banning Cantonese from graduation videos after the policy sparked controversy.
+Good Hope School issued a public statement on Monday evening, saying it had heard concerns from the wider community and had “fully and formally withdrawn” the guidance paper for next year’s Form Six graduation class video.
+“Good Hope School wishes to state unequivocally that it has never been our ethos to constrain the mother...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/education/article/3368290/hong-kong-school-withdraws-cantonese-graduation-video-guideline-after-backlash?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/education/article/3368290/hong-kong-school-withdraws-cantonese-graduation-video-guideline-after-backlash?utm_source=rss_feed</link>
+      <pubDate>Mon, 21 Sep 2026 13:45:10 +0000</pubDate>
+      <title>Hong Kong school withdraws graduation video guideline on Cantonese after backlash</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/21/605cce61-84f3-4409-bc53-b09e2f7f99d4_780b3448.jpg?itok=PRZN855N&amp;v=1789998308"/>
+      <media:content height="2561" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/21/605cce61-84f3-4409-bc53-b09e2f7f99d4_780b3448.jpg?itok=PRZN855N&amp;v=1789998308" width="4096"/>
+    </item>
+    <item>
+      <author>Jess Ma</author>
+      <dc:creator>Jess Ma</dc:creator>
+      <description>Representatives of foreign business chambers who met Hong Kong’s leader have said the five-year plan provided clear policy priorities for companies’ strategic planning, but called for more concrete timelines and visible progress on the Northern Metropolis project to attract investment.
+Chief Executive John Lee Ka-chiu held a briefing on Monday for consuls general and heads of foreign chambers of commerce, during which he stressed that Hong Kong’s five-year plan was not a planned economy. The...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368284/foreign-chambers-back-hong-kong-5-year-plan-urge-progress-northern-metropolis?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368284/foreign-chambers-back-hong-kong-5-year-plan-urge-progress-northern-metropolis?utm_source=rss_feed</link>
+      <pubDate>Mon, 21 Sep 2026 13:05:09 +0000</pubDate>
+      <title>Foreign chambers back Hong Kong 5-year plan, urge progress on Northern Metropolis</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/21/ca1f86aa-6f97-4c88-9c73-d9b193b80b1c_6b612838.jpg?itok=FjW9NHv5&amp;v=1789995718"/>
+      <media:content height="2623" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/21/ca1f86aa-6f97-4c88-9c73-d9b193b80b1c_6b612838.jpg?itok=FjW9NHv5&amp;v=1789995718" width="4095"/>
+    </item>
+    <item>
+      <author>William Yiu</author>
+      <dc:creator>William Yiu</dc:creator>
+      <description>Hong Kong education authorities have cut the number of subsidised places for physiotherapy and occupational therapy programmes at three self-financing institutions by about a third for the 2027-28 academic year, amid a jobs crunch for graduates.
+A physiotherapy association backed the reduction to avoid worsening unemployment in the sector, saying any future increase in places would depend on government funding.
+The Education Bureau on Monday announced that its Study Subsidy Scheme for Designated...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/education/article/3368286/subsidised-physiotherapy-places-slashed-third-amid-graduate-job-crunch?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/education/article/3368286/subsidised-physiotherapy-places-slashed-third-amid-graduate-job-crunch?utm_source=rss_feed</link>
+      <pubDate>Mon, 21 Sep 2026 13:05:04 +0000</pubDate>
+      <title>Subsidised physiotherapy places slashed by third amid graduate job crunch</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/21/76ec25c3-8f95-49cd-9eec-9dc68088b3ad_01a0d854.jpg?itok=H7u80L4f&amp;v=1789995901"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/21/76ec25c3-8f95-49cd-9eec-9dc68088b3ad_01a0d854.jpg?itok=H7u80L4f&amp;v=1789995901" width="4095"/>
+    </item>
+    <item>
+      <author>Danny Mok</author>
+      <dc:creator>Danny Mok</dc:creator>
+      <description>An 80‑year‑old woman has lost HK$6 million (US$764,772) to a fake investment expert she met online, Hong Kong police have disclosed.
+The case was among more than 50 investment scams reported over the past week, with total losses approaching HK$30 million, according to a post on the force’s CyberDefender social media page.
+The victim, a retiree, first met the fraudster posing as an investment expert on Facebook before moving their conversations to WhatsApp, where the suspect built a relationship...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/law-and-crime/article/3368267/hong-kong-woman-80-loses-hk6-million-fake-online-investment-expert?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/law-and-crime/article/3368267/hong-kong-woman-80-loses-hk6-million-fake-online-investment-expert?utm_source=rss_feed</link>
+      <pubDate>Mon, 21 Sep 2026 10:33:54 +0000</pubDate>
+      <title>Hong Kong woman, 80, loses HK$6 million to fake online investment expert</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/21/a185dd58-0c80-4b11-9ef3-53fa9ce88bee_0fbc7df7.jpg?itok=I5JH5HdP&amp;v=1789986314"/>
+      <media:content height="2658" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/21/a185dd58-0c80-4b11-9ef3-53fa9ce88bee_0fbc7df7.jpg?itok=I5JH5HdP&amp;v=1789986314" width="4096"/>
+    </item>
+    <item>
+      <author>Lo Hoi-ying</author>
+      <dc:creator>Lo Hoi-ying</dc:creator>
+      <description>A top official will determine where responsibility lies when a public complaint spans multiple departments under a new handling mechanism for the 1823 hotline, set to be implemented early next year.
+Deputy Chief Secretary for Administration Warner Cheuk Wing-hing said on Monday that he would ensure a “very fair” distribution of responsibility when assigning complaints that involved more than one government department.
+The reform, which will take effect in the first quarter of next year, will see...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/politics/article/3368239/no-more-not-our-job-top-official-pick-lead-department-complex-1823-cases?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/politics/article/3368239/no-more-not-our-job-top-official-pick-lead-department-complex-1823-cases?utm_source=rss_feed</link>
+      <pubDate>Mon, 21 Sep 2026 08:40:01 +0000</pubDate>
+      <title>Top official to determine responsible department in complex 1823 cases</title>
+      <enclosure length="2000" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/21/b843307d-1355-4029-8380-b386d3e22981_ae94cd94.jpg?itok=OrwJg7gC&amp;v=1789979995"/>
+      <media:content height="1125" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/21/b843307d-1355-4029-8380-b386d3e22981_ae94cd94.jpg?itok=OrwJg7gC&amp;v=1789979995" width="2000"/>
+    </item>
+  </channel>
+</rss>

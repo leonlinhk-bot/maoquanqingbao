@@ -1,0 +1,520 @@
+<?xml version="1.0"?>
+<rss version="2.0" xml:base="link" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:media="http://www.rssboard.org/media-rss" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <channel>
+    <title>Debates - South China Morning Post</title>
+    <link>https://www.scmp.com/rss/20/feed</link>
+    <description>Join SCMP’s debates on the big issues in Hong Kong and China including education &amp; the Chinese Communist Party</description>
+    <language>en</language>
+    <image>
+      <url>https://assets-v2.i-scmp.com/production/static/img/icons/scmp-meta-1200x630.png</url>
+      <title>Debates - South China Morning Post</title>
+      <link>https://www.scmp.com</link>
+    </image>
+    <atom:link href="https://www.scmp.com/rss/20/feed" rel="self" type="application/rss+xml"/>
+    <item>
+      <description>Tokyo 2020 should be held next year “at any cost” given athletes’ efforts to be ready, Japan’s Olympic minister said Tuesday, a day after the IOC’s John Coates told AFP that the postponed Games would go ahead in 2021 “with or without Covid”.
+“For the Games next year, athletes are continuing to work hard in the environments they find themselves in. So I feel we have to hold it at any cost,” Seiko Hashimoto said when asked about International Olympic Committee vice-president Coates’s remarks.
+“I...</description>
+      <guid isPermaLink="true">https://www.scmp.com/sport/other-sport/article/3100658/tokyo-2020-it-realistic-press-ahead-olympics-spite-continued?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/sport/other-sport/article/3100658/tokyo-2020-it-realistic-press-ahead-olympics-spite-continued?utm_source=rss_feed</link>
+      <pubDate>Tue, 08 Sep 2020 06:50:34 +0000</pubDate>
+      <title>Tokyo 2020: is it realistic to press ahead with the Olympics in spite of the continued Covid-19 threat?</title>
+      <enclosure length="1440" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/2020/09/08/rsz_032aa64e-acbf-4981-ae53-0f9592122655.jpg?itok=Tms4P_lC"/>
+      <media:content height="750" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/2020/09/08/rsz_032aa64e-acbf-4981-ae53-0f9592122655.jpg?itok=Tms4P_lC" width="1440"/>
+    </item>
+    <item>
+      <description>The Hong Kong dollar is heading for its biggest monthly gain in 18 months, fuelled by mounting expectations over tighter liquidity in the city.
+The currency was little changed at HK$7.8094 per US dollar on Thursday, and is poised to gain 0.2 per cent this month, the biggest advance since March 2016.
+Federal Reserve Chairman Janet Yellen’s comments on Tuesday that the US needed to continue gradual rate increases despite broad uncertainty about the path of inflation, triggered expectations of a US...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/money/markets-investing/article/2113189/hong-kong-dollar-set-biggest-monthly-advance-18?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/money/markets-investing/article/2113189/hong-kong-dollar-set-biggest-monthly-advance-18?utm_source=rss_feed</link>
+      <pubDate>Thu, 28 Sep 2017 04:45:45 +0000</pubDate>
+      <title>Hong Kong dollar set for biggest monthly advance in 18 months as central bank drains funds</title>
+      <enclosure length="4000" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/09/28/3dec5092-a406-11e7-84b5-dfc1701cb40c_image_hires_165440.JPG?itok=h2OXJUnt&amp;v=1506588884"/>
+      <media:content height="3046" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/09/28/3dec5092-a406-11e7-84b5-dfc1701cb40c_image_hires_165440.JPG?itok=h2OXJUnt&amp;v=1506588884" width="4000"/>
+    </item>
+    <item>
+      <description>New York-based investment manager Aristeia Capital has launched a proxy battle against Chinese internet company Sina, following what it described as years of corporate governance shortcomings.
+Aristeia proposed that two of its nominees be added to the company’s board, and made a number of suggestions for increasing the company’s value, including a sale or merger of Sina. Sina rejected these suggestions.
+In its statement issued late Monday in the US, the investment manager said that Sina did not...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/companies/article/2111946/new-york-investment-manager-aristeia-targets-sina-proxy-battle?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/companies/article/2111946/new-york-investment-manager-aristeia-targets-sina-proxy-battle?utm_source=rss_feed</link>
+      <pubDate>Wed, 20 Sep 2017 02:05:41 +0000</pubDate>
+      <title>New York investment manager Aristeia targets Sina in proxy battle</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/09/20/19d7640a-9d51-11e7-9b91-f74e36ea6345_image_hires_100539.JPG?itok=pTzGfxuU&amp;v=1505873141"/>
+      <media:content height="2732" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/09/20/19d7640a-9d51-11e7-9b91-f74e36ea6345_image_hires_100539.JPG?itok=pTzGfxuU&amp;v=1505873141" width="4096"/>
+    </item>
+    <item>
+      <description>From Hong Kong to Canada for APEC meetings this week, there is a surreal and improbable sense of - so different, but so sneakily similar.
+Take the front page story in Toronto’s Globe and Mail reporting that Canada’s Supreme Court had quashed a regulatory permit for an oil-exploration programme that Inuit residents on Baffin Island feared would damage their rights to hunt narwhal, bowhead whales and polar bears.
+Or the feature about a cannabis investment forum in Toronto, stimulated by...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/china-business/article/2104520/hong-kong-and-canada-surprisingly-have-lot-learn-each-other?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/china-business/article/2104520/hong-kong-and-canada-surprisingly-have-lot-learn-each-other?utm_source=rss_feed</link>
+      <pubDate>Fri, 28 Jul 2017 09:45:45 +0000</pubDate>
+      <title>Hong Kong and Canada, surprisingly, have a lot to learn from each other</title>
+      <enclosure length="6000" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/07/28/995abc54-7376-11e7-9a9a-a7d2083b6658_image_hires_174624.JPG?itok=AEH6qPij&amp;v=1501235189"/>
+      <media:content height="4000" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/07/28/995abc54-7376-11e7-9a9a-a7d2083b6658_image_hires_174624.JPG?itok=AEH6qPij&amp;v=1501235189" width="6000"/>
+    </item>
+    <item>
+      <description>The Court of Appeal yesterday rejected the appeal by Moody’s Investors Service against the Securities and Futures Commission’s decision to publicly reprimand the agency ... for breaching the code of conduct by issuing a “red flag” report on mainland companies in July 2011.
+SCMP, June 9
+You cannot really blame the Court of Appeal for upholding this seriously flawed judgement against Moody’s, well, not really.
+I mean, it is not the court’s fault the Legislative Council was deceived some years back...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/banking-finance/article/2097950/sfc-issues-red-card-moodys-reg-flag-credit-report?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/banking-finance/article/2097950/sfc-issues-red-card-moodys-reg-flag-credit-report?utm_source=rss_feed</link>
+      <pubDate>Mon, 12 Jun 2017 07:48:27 +0000</pubDate>
+      <title>SFC rap on the knuckles for Moody’s – but rating firm’s ‘Red Flag’ credit report was an excellent idea</title>
+      <enclosure length="4903" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/06/12/b8f0c55a-4f3f-11e7-b896-7f2d3a4d650b_image_hires_165042.JPG?itok=4hWQsj8f&amp;v=1497257445"/>
+      <media:content height="3227" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/06/12/b8f0c55a-4f3f-11e7-b896-7f2d3a4d650b_image_hires_165042.JPG?itok=4hWQsj8f&amp;v=1497257445" width="4903"/>
+    </item>
+    <item>
+      <description>No one likes a party pooper, but every so often someone in the room with a long memory punctures the celebratory atmosphere with recollections of things that have happened in the past and thus dampens the party mood.
+Shamefacedly, I am about to become that very person, even though I missed this week’s big party in Beijing, celebrating the Belt and Road Forum.
+It’s a fair bet most of the attendees would not have welcomed a recitation of the rather sad history of regional cooperation alliances,...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/global-economy/article/2094600/track-records-trade-blocs-mixed-best-so-belt-and-road?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/global-economy/article/2094600/track-records-trade-blocs-mixed-best-so-belt-and-road?utm_source=rss_feed</link>
+      <pubDate>Wed, 17 May 2017 03:00:00 +0000</pubDate>
+      <title>Track records of trade blocs is mixed at best – so Belt and Road grouping has to be ultra-careful in its planning and purpose</title>
+      <enclosure length="4000" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/05/17/cbaa422a-3aa9-11e7-8ee3-761f02c18070_image_hires_173042.jpg?itok=BSzrVA5k&amp;v=1495013447"/>
+      <media:content height="2667" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/05/17/cbaa422a-3aa9-11e7-8ee3-761f02c18070_image_hires_173042.jpg?itok=BSzrVA5k&amp;v=1495013447" width="4000"/>
+    </item>
+    <item>
+      <description>A flight attendant once told me that passengers today are called, “self-loading cargo”.
+This took on a whole new meaning in recent days, as United Airlines attracted a tonne of the wrong kind of headlines after rather forcibly offloaded a passenger, causing more damage usually done to crates of cargo.
+My recent column on Cathay Pacific unloaded such a level of emotional passenger truth, that I was labelled “vulgar”, “tasteless”, and “inaccurate.”
+Funnily enough, passengers sent me pictures of...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/article/2088039/airline-industry-eternal-minefield-investors?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/article/2088039/airline-industry-eternal-minefield-investors?utm_source=rss_feed</link>
+      <pubDate>Sun, 16 Apr 2017 09:57:47 +0000</pubDate>
+      <title>The airline industry: an eternal minefield for investors</title>
+      <enclosure length="3000" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/04/16/3443bc1c-2286-11e7-ba38-4217a96bb749_image_hires_185719.jpg?itok=YXJoLkCT&amp;v=1492340242"/>
+      <media:content height="2000" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/04/16/3443bc1c-2286-11e7-ba38-4217a96bb749_image_hires_185719.jpg?itok=YXJoLkCT&amp;v=1492340242" width="3000"/>
+    </item>
+    <item>
+      <description>Bond issuance volumes have picked up in the early months of this year, as borrowers have capitalised on low volatility and interest rates.
+Issuances have reached some US$950 billion year-to-date, which is up 5 per cent over the same period last year, and those from Asian high-yield issuers (with credit ratings below “BBB” or “Baa”), are of particular interest, which count over US$6.2 billion in offshore debt year-to-date.
+This is over four times the total amount issued in 2016 whereas the...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/article/2078406/strong-resurgence-asian-high-yield-bonds?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/article/2078406/strong-resurgence-asian-high-yield-bonds?utm_source=rss_feed</link>
+      <pubDate>Mon, 13 Mar 2017 08:43:31 +0000</pubDate>
+      <title>Strong resurgence in Asian high-yield bonds</title>
+      <enclosure length="2624" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/03/13/919abb42-07c7-11e7-8938-48dffbf7165d_image_hires.JPG?itok=ftrrvLT9&amp;v=1489394611"/>
+      <media:content height="2144" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/03/13/919abb42-07c7-11e7-8938-48dffbf7165d_image_hires.JPG?itok=ftrrvLT9&amp;v=1489394611" width="2624"/>
+    </item>
+    <item>
+      <description>Discussions over whether the pan-democrats should nominate and vote for establishment candidates in the Chief Executive elections have been intense.
+Last week an overwhelming number of them nominated John Tsang and Woo Kwok-Hing. Subsequently the pan-democrats decided to cast all their votes in favour of the candidate with the highest public poll standing. This is a major break with their past as it backs away from populist democracy and represents a significant step towards liberal...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/article/2076686/arrows-theorem-and-pan-democratic-vote-establishment-candidates?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/article/2076686/arrows-theorem-and-pan-democratic-vote-establishment-candidates?utm_source=rss_feed</link>
+      <pubDate>Tue, 07 Mar 2017 05:15:45 +0000</pubDate>
+      <title>Arrow’s theorem and the Pan-Democratic vote for establishment candidates</title>
+      <enclosure length="2949" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/03/07/d2f16a0c-02f2-11e7-be53-dd0689cdbd13_image_hires.JPG?itok=DmG_qq4w&amp;v=1488865770"/>
+      <media:content height="2123" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/03/07/d2f16a0c-02f2-11e7-be53-dd0689cdbd13_image_hires.JPG?itok=DmG_qq4w&amp;v=1488865770" width="2949"/>
+    </item>
+    <item>
+      <description>Now the Donald Trump presidency is a reality, it does seem to argue for investments in more US-centric parts of the market.
+At Schroders we believe he will achieve many of his goals, but they seem to be close to fully priced in. Wall Street tends to get ahead of itself at times, and this appears to be one of those times. While Trump’s hostility to foreign trade agreements is troubling, his policies do seem to offer some investment possibilities.
+Thanks to the “Trump Rally”, US equities were the...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/article/2075811/us-small-and-mid-cap-equities-will-be-ones-follow-age-trump?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/article/2075811/us-small-and-mid-cap-equities-will-be-ones-follow-age-trump?utm_source=rss_feed</link>
+      <pubDate>Fri, 03 Mar 2017 08:00:00 +0000</pubDate>
+      <title>US small and mid-cap equities will be the ones to follow, in the age of Trump</title>
+      <enclosure length="3000" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/03/03/67f51e80-ffe4-11e6-bf00-4be039112d75_image_hires.JPG?itok=j_SX_SMZ&amp;v=1488527884"/>
+      <media:content height="2001" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/03/03/67f51e80-ffe4-11e6-bf00-4be039112d75_image_hires.JPG?itok=j_SX_SMZ&amp;v=1488527884" width="3000"/>
+    </item>
+    <item>
+      <description>In the 1960s, French President Charles De Gaulle described Europe as “a coach and horses, with Germany the horse and France the coachman.”
+But that vision, if it was ever truly realistic in the long term, now seems curiously dated.
+In 2017, an admittedly economically strong German horse seems increasingly tired of being expected to pull along a heavy euro zone coach whose wheels are close to falling off. As for the French coachman, he lost control of the reins a long time ago, but is only now...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/global-economy/article/2072524/asian-investors-be-very-wary-about-euro-zone?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/global-economy/article/2072524/asian-investors-be-very-wary-about-euro-zone?utm_source=rss_feed</link>
+      <pubDate>Tue, 21 Feb 2017 01:03:41 +0000</pubDate>
+      <title>Asian investors: be very wary about the euro zone</title>
+      <enclosure length="4000" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/02/21/a3bd4094-f7cb-11e6-bcc4-de1d4609fc98_image_hires.JPG?itok=WZlQK3LS&amp;v=1487639021"/>
+      <media:content height="2667" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/02/21/a3bd4094-f7cb-11e6-bcc4-de1d4609fc98_image_hires.JPG?itok=WZlQK3LS&amp;v=1487639021" width="4000"/>
+    </item>
+    <item>
+      <description>Mainland regulators and prosecutors are tightening the screws on traders and corporate raiders who are perceived to have taken advantage of regulatory gaps to enrich themselves, particularly during the 2015 equity market crash that wiped out trillions of wealth.
+- SCMP, February 14
+I think that bit about “taken advantage of regulatory gaps” best tells the story here. Regulations did not cover what these people did. This leaves me with some questions to ask: Let me also propose the answers:
+What...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/china-business/article/2071097/era-exploiting-regulatory-gaps-make-killing-rapidly-coming?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/china-business/article/2071097/era-exploiting-regulatory-gaps-make-killing-rapidly-coming?utm_source=rss_feed</link>
+      <pubDate>Wed, 15 Feb 2017 09:12:53 +0000</pubDate>
+      <title>Era of exploiting ‘regulatory gaps’ to make a killing is rapidly coming to an end</title>
+      <enclosure length="3680" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/02/15/51ece0a2-f35d-11e6-8a92-5a4126ffa8eb_image_hires.JPG?itok=ToKyzrM8&amp;v=1487149972"/>
+      <media:content height="2456" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/02/15/51ece0a2-f35d-11e6-8a92-5a4126ffa8eb_image_hires.JPG?itok=ToKyzrM8&amp;v=1487149972" width="3680"/>
+    </item>
+    <item>
+      <description>If Asia, and indeed the rest of the world, is to get to grips with US President Donald Trump’s apparent agenda on currencies, jobs and trade, then it is important not to think of him as a maverick but rather to recognise that Trump’s positions, at least on economic policy, fit into a historical narrative.
+It would currently appear he believes that his nation can essentially be economically self-sufficient, that the rest of the world needs the United States more than America needs it, and that if...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/article/2068682/world-must-accept-trump-firmly-believes-it-needs-us-more-us-needs-it?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/article/2068682/world-must-accept-trump-firmly-believes-it-needs-us-more-us-needs-it?utm_source=rss_feed</link>
+      <pubDate>Tue, 07 Feb 2017 01:42:47 +0000</pubDate>
+      <title>The world must accept that Trump firmly believes it needs the US, more than the US needs it</title>
+      <enclosure length="3500" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/02/07/79c00ba4-ecd2-11e6-8960-2c6b8565de23_image_hires.JPG?itok=NtHjCIqj&amp;v=1486431767"/>
+      <media:content height="2369" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/02/07/79c00ba4-ecd2-11e6-8960-2c6b8565de23_image_hires.JPG?itok=NtHjCIqj&amp;v=1486431767" width="3500"/>
+    </item>
+    <item>
+      <description>Over the past three decades, opinion polls have shown time and again that housing is the top policy concern of the public. Unfortunately, the housing challenge remains unsolved. I believe this is because we have tried to tackle it as a housing problem and failed to appreciate it is also a problem of economic inequality.
+Solving the housing challenge requires directly confronting the consequences of increasing economic inequality in a rising housing market. Increasing housing supply on its own...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/article/2066745/turning-hong-kongs-housing-challenge-housing-solution?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/article/2066745/turning-hong-kongs-housing-challenge-housing-solution?utm_source=rss_feed</link>
+      <pubDate>Wed, 01 Feb 2017 03:42:24 +0000</pubDate>
+      <title>Turning Hong Kong’s housing challenge into a housing solution</title>
+      <enclosure length="5362" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/02/01/8257f980-e768-11e6-925a-a992a025ddf7_image_hires.JPG?itok=U4JOM-4n&amp;v=1485920543"/>
+      <media:content height="3248" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/02/01/8257f980-e768-11e6-925a-a992a025ddf7_image_hires.JPG?itok=U4JOM-4n&amp;v=1485920543" width="5362"/>
+    </item>
+    <item>
+      <description>“Power is not a means; it is an end.”
+This guiding principle drove the superstate in George Orwell’s iconic novel, 1984. Power was held exclusively by an inner elite who persecuted individualism as a thought crime.
+Never in history have we lived in a world where personal freedom is so prevalent. Yes, benevolent and malevolent governments still restrict individual behaviour, but much of humankind lives today in an historically liberal time that takes pride in equality of opportunity, fairness,...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/article/2063530/arrival-big-data-means-1984s-big-brothers-already-here?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/article/2063530/arrival-big-data-means-1984s-big-brothers-already-here?utm_source=rss_feed</link>
+      <pubDate>Thu, 19 Jan 2017 05:15:45 +0000</pubDate>
+      <title>The arrival of Big Data means 1984’s Big Brother’s already here</title>
+      <enclosure length="2500" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/01/19/b05ba5b8-de01-11e6-8fcb-68eb4ed74971_image_hires.JPG?itok=UHf9-3iH&amp;v=1484802522"/>
+      <media:content height="1638" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/01/19/b05ba5b8-de01-11e6-8fcb-68eb4ed74971_image_hires.JPG?itok=UHf9-3iH&amp;v=1484802522" width="2500"/>
+    </item>
+    <item>
+      <description>A lack of take-off and landing slots for private jets at Hong Kong International Airport is harming business and has at least two companies trying to sell their aircraft, according to an industry veteran.
+- SCMP, January 16
+There are a few things that the private jet lobby does not tell you about its business when it regularly bemoans the shortage of landing slots in Hong Kong.
+The first is that you probably have the wrong impression of the business if you think private jets are owned by rich...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/article/2062549/private-jets-bemoan-shortage-landing-slots-hong-hong-so-let-em-moan?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/article/2062549/private-jets-bemoan-shortage-landing-slots-hong-hong-so-let-em-moan?utm_source=rss_feed</link>
+      <pubDate>Mon, 16 Jan 2017 08:51:07 +0000</pubDate>
+      <title>Private jet owners bemoan shortage of landing slots in Hong Hong: but I say let ‘em moan’</title>
+      <enclosure length="3000" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/01/16/cdb667f8-dbc5-11e6-8fcb-68eb4ed74971_image_hires.JPG?itok=LEaaFWGh&amp;v=1484559900"/>
+      <media:content height="2000" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/01/16/cdb667f8-dbc5-11e6-8fcb-68eb4ed74971_image_hires.JPG?itok=LEaaFWGh&amp;v=1484559900" width="3000"/>
+    </item>
+    <item>
+      <description>I was challenged recently to apply the pop culture economics of “Freakonomics”– the rogue side of economics popularised by Steven D. Levitt and Stephen J. Dubner.
+It’s not easy to joke about economic models based on rational utility maximisation, but I tried by linking similar woes that confront both Hong Kong and the US.
+Chinese people aren’t fans of irony, but nothing is more hilarious than comparing how China is unwinding Marxism and interpreting capitalism at its own end-of-history pace,...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/article/2062322/just-how-apply-pop-culture-freakonomics-use-chinas-transition-example?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/article/2062322/just-how-apply-pop-culture-freakonomics-use-chinas-transition-example?utm_source=rss_feed</link>
+      <pubDate>Sun, 15 Jan 2017 08:00:00 +0000</pubDate>
+      <title>Just how to apply pop culture to Freakonomics: use China’s transition as an example</title>
+      <enclosure length="525" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/01/16/52754ba0-daf7-11e6-bbb7-6a43a6f882fe_image_hires.JPG?itok=bSkg6tSA&amp;v=1484525180"/>
+      <media:content height="300" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/01/16/52754ba0-daf7-11e6-bbb7-6a43a6f882fe_image_hires.JPG?itok=bSkg6tSA&amp;v=1484525180" width="525"/>
+    </item>
+    <item>
+      <description>In the teeth of Donald Trump’s all-devouring megalomania, in which he will take credit for others’ successes if he can, and blame others for his failures if he can get away with it, there is an urgent need to audit the Obama legacy as meticulously as possible.
+This is important not just because of Trump’s hard-wired habit of grabbing credit from others wherever he can, but because the danger of Obama getting a bad rap is high.
+As a non-American with no party prejudice, my own verdict is simple:...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/article/2062315/obamas-farewell-address-modest-balanced-tolerant-such-contrast-man-set?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/article/2062315/obamas-farewell-address-modest-balanced-tolerant-such-contrast-man-set?utm_source=rss_feed</link>
+      <pubDate>Sun, 15 Jan 2017 06:21:41 +0000</pubDate>
+      <title>Obama’s farewell address: modest, balanced, tolerant. Such a contrast to the man set to succeed him</title>
+      <enclosure length="4555" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/01/15/5bcb2e54-dae8-11e6-bbb7-6a43a6f882fe_image_hires.jpg?itok=1WCxTVmZ&amp;v=1484461301"/>
+      <media:content height="2938" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/01/15/5bcb2e54-dae8-11e6-bbb7-6a43a6f882fe_image_hires.jpg?itok=1WCxTVmZ&amp;v=1484461301" width="4555"/>
+    </item>
+    <item>
+      <description>In October 2013, a month after the government’s Long Term Housing Strategy (LTHS) consultation document was released, I came to the conclusion that its estimate of a net annual increase of 29,400 new households in the decade 2015-25 had significantly underestimated future housing demand growth.
+Ever since then residential housing prices have continued to rise rapidly in spite of the imposition of hefty punitive stamp duties. This is strong evidence that my conclusion was correct.
+The prices of...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/article/2060814/societal-changes-will-continue-determine-hong-kongs-housing-demand?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/article/2060814/societal-changes-will-continue-determine-hong-kongs-housing-demand?utm_source=rss_feed</link>
+      <pubDate>Tue, 10 Jan 2017 04:30:15 +0000</pubDate>
+      <title>Societal changes will continue to determine Hong Kong’s housing demand</title>
+      <enclosure length="4242" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/01/10/eeb054d4-d6eb-11e6-bbb7-6a43a6f882fe_image_hires.JPG?itok=tJ-CUPxn&amp;v=1484022790"/>
+      <media:content height="2615" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/01/10/eeb054d4-d6eb-11e6-bbb7-6a43a6f882fe_image_hires.JPG?itok=tJ-CUPxn&amp;v=1484022790" width="4242"/>
+    </item>
+    <item>
+      <description>Exactly a year ago, global equity markets were plunging.
+On the first day of trading of 2016, the Dow Jones Industrial Average, one of the main US stock market indices, suffered its worst start to a year since 2008.
+The benchmark S&amp;P 500 index, meanwhile, experienced its sixth-worst start since 1927, according to data from Bloomberg, while European stocks suffered their worst start ever.
+The main trigger for the sell-off was a resurgence of fears about the health of China’s economy.
+What a...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/article/2059496/repositioning-investor-portfolios-has-been-dubbed-great-rotation-money?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/article/2059496/repositioning-investor-portfolios-has-been-dubbed-great-rotation-money?utm_source=rss_feed</link>
+      <pubDate>Thu, 05 Jan 2017 01:32:59 +0000</pubDate>
+      <title>The repositioning of investor portfolios has been dubbed the ‘great rotation’, with money gushing out of bonds and flowing into stocks. But will it last?</title>
+      <enclosure length="3280" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/01/05/252c9090-d2e1-11e6-86a3-82dfe61732b8_image_hires.JPG?itok=LDANTKQg&amp;v=1483579979"/>
+      <media:content height="2592" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2017/01/05/252c9090-d2e1-11e6-86a3-82dfe61732b8_image_hires.JPG?itok=LDANTKQg&amp;v=1483579979" width="3280"/>
+    </item>
+    <item>
+      <description>The dollar has bossed the financial markets for a decade. And all the signs are that this will continue; driven by safe haven worries and rising US interest rates. The dollar is king – or is it?
+It has been a good ride for us and the Hong Kong dollar, pegged as we are to the world’s strongest currency in the last few years.
+Our money is worth a lot more on the world stage and recently even in China. The rising dollar has depressed inflation – although looking at supermarket inflation over the...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/article/2050400/us-dollar-peg-has-served-hong-kong-well-34-years?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/article/2050400/us-dollar-peg-has-served-hong-kong-well-34-years?utm_source=rss_feed</link>
+      <pubDate>Wed, 30 Nov 2016 05:25:56 +0000</pubDate>
+      <title>The US dollar peg has served Hong Kong well for 34 years</title>
+      <enclosure length="3500" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2016/11/30/0ceee0f0-b6bc-11e6-a8ef-4657c68d1ed0_image_hires.JPG?itok=VpfYsEuM&amp;v=1480488378"/>
+      <media:content height="2329" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2016/11/30/0ceee0f0-b6bc-11e6-a8ef-4657c68d1ed0_image_hires.JPG?itok=VpfYsEuM&amp;v=1480488378" width="3500"/>
+    </item>
+    <item>
+      <description>Some high times have emerged following the recent polls in the United States and I’m not talking about the feeling of intoxication surging through the veins of those who feel it is once again safe to say really crude things about race or sex or about minorities, not forgetting the half of the population that country is not male.
+I’m talking about the decision of citizens in California, Maine Massachusetts and Nevada who, while choosing the next president, also voted to legalise the sale of...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/article/2050393/drink-sir-and-spliff-go-it?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/article/2050393/drink-sir-and-spliff-go-it?utm_source=rss_feed</link>
+      <pubDate>Wed, 30 Nov 2016 04:45:00 +0000</pubDate>
+      <title>A drink, sir? And a spliff to go with it?</title>
+      <enclosure length="4256" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2016/11/30/98aac82c-b6b5-11e6-a8ef-4657c68d1ed0_image_hires.jpg?itok=vEDI9Mku&amp;v=1480482309"/>
+      <media:content height="2832" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/images/methode/2016/11/30/98aac82c-b6b5-11e6-a8ef-4657c68d1ed0_image_hires.jpg?itok=vEDI9Mku&amp;v=1480482309" width="4256"/>
+    </item>
+    <item>
+      <description>Once upon a time investment success was built upon strategies that involved a lifetime of studying stocks and market movements. But today it has evolved into another stage that eliminates the tedium of analysing financial statements and charts. Now tech-savvy investors simply cut ahead of everyone else in the electronic trading process.
+Depending on who you talk to, algorithmic and high frequency trading (HFT) is either the greatest evil or mightiest innovation. Fund managers are divided over...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/banking-finance/article/1770599/regulators-face-tech-dilemma-age-electronic-trading?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/banking-finance/article/1770599/regulators-face-tech-dilemma-age-electronic-trading?utm_source=rss_feed</link>
+      <pubDate>Sun, 19 Apr 2015 10:15:00 +0000</pubDate>
+      <title>Regulators face tech dilemma in age of electronic trading</title>
+      <enclosure length="3842" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2015/04/19/327d63f11e1dd8472d5b502281eda718.jpg?itok=j0novsKS"/>
+      <media:content height="1033" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2015/04/19/327d63f11e1dd8472d5b502281eda718.jpg?itok=j0novsKS" width="3842"/>
+    </item>
+    <item>
+      <description>Australia was rocked this week by pictures of a seven-year-old Sydney boy holding up the severed head of a Syrian soldier. His proud father, Khaled Sharrouf, who escaped Australia last year with his wife and three sons to fight for the rebel group Islamic State in Syria and Iraq, captioned the tweeted photos "That's my boy!"
+Sharrouf's tweets are an ugly reminder of how the jihadi ideology transcends national boundaries and why any country with a substantial Muslim population needs to pay...</description>
+      <guid isPermaLink="true">https://www.scmp.com/comment/debates/article/1573053/chasing-jihad-bogey-chinas-xinjiang?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/comment/debates/article/1573053/chasing-jihad-bogey-chinas-xinjiang?utm_source=rss_feed</link>
+      <pubDate>Wed, 13 Aug 2014 20:29:32 +0000</pubDate>
+      <title>Chasing the jihad bogey in China's Xinjiang</title>
+      <enclosure length="3740" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2014/08/14/china-unrest-security_wh4797_43427931.jpg?itok=9_5arIm5"/>
+      <media:content height="2634" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2014/08/14/china-unrest-security_wh4797_43427931.jpg?itok=9_5arIm5" width="3740"/>
+    </item>
+    <item>
+      <description>Every Hong Kong voter will get to cast a ballot in the 2017 chief executive election. But what say will they have in nominating candidates? For the second part of the Post's debate series on electoral reform, we asked politicians, business leaders and academics for the best way to select candidates.
+ 
+Q1 How can the nominating committee for naming chief executive candidates become more representative of Hong Kong’s social, economic and political diversity?
+Q2 How many chief executive candidates...</description>
+      <guid isPermaLink="true">https://www.scmp.com/comment/debates/article/1570706/scmp-debate-what-say-will-voters-have-nominating-2017-chief?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/comment/debates/article/1570706/scmp-debate-what-say-will-voters-have-nominating-2017-chief?utm_source=rss_feed</link>
+      <pubDate>Sun, 10 Aug 2014 22:15:00 +0000</pubDate>
+      <title>SCMP Debate: What say will voters have in nominating 2017 chief executive candidates?</title>
+      <enclosure length="1920" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2014/08/10/0ed118c790bdbafec5812883a4ccca1a.jpg?itok=Bs7eLbcn"/>
+      <media:content height="1277" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2014/08/10/0ed118c790bdbafec5812883a4ccca1a.jpg?itok=Bs7eLbcn" width="1920"/>
+    </item>
+    <item>
+      <description>The SCMP begins a two-part series about the chief executive election in 2017, the most important - and contentious - electoral reform since the implementation of "one country, two systems" in 1997. We ask leading politicians and academics for their views on how the nominating committee should be formed and the best way to nominate candidates.
+ 
+Q1 How could the nominating committee, that would select chief executive candidates, be more representative of Hong Kong's social, economic and political...</description>
+      <guid isPermaLink="true">https://www.scmp.com/comment/debates/article/1560575/scmp-debate-how-could-chief-executive-nominating-committee-be-more?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/comment/debates/article/1560575/scmp-debate-how-could-chief-executive-nominating-committee-be-more?utm_source=rss_feed</link>
+      <pubDate>Sun, 27 Jul 2014 22:00:00 +0000</pubDate>
+      <title>SCMP Debate: How could the chief executive nominating committee be more representative?</title>
+      <enclosure length="1920" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2014/07/27/0ed118c790bdbafec5812883a4ccca1a.jpg?itok=QAUIh5Vg"/>
+      <media:content height="1277" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2014/07/27/0ed118c790bdbafec5812883a4ccca1a.jpg?itok=QAUIh5Vg" width="1920"/>
+    </item>
+    <item>
+      <description>When the Basic Law was drafted in the 1980s, it was not possible to foresee what Hong Kong would be like 20 or 30 years down the road. Understandably, the drafters used general language regarding future elections.
+Thus, Article 45 says that the "ultimate aim is the selection of the chief executive by universal suffrage upon nomination by a broadly representative nominating committee in accordance with democratic procedures". It also says that the exact method "shall be specified in light of the...</description>
+      <guid isPermaLink="true">https://www.scmp.com/comment/debates/article/1384227/how-make-nominating-committee-broadly-representative-2017-vote?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/comment/debates/article/1384227/how-make-nominating-committee-broadly-representative-2017-vote?utm_source=rss_feed</link>
+      <pubDate>Tue, 17 Dec 2013 12:00:45 +0000</pubDate>
+      <title>How to make nominating committee ‘broadly representative’ for 2017 vote</title>
+      <enclosure length="747" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2013/12/17/electoral_reform.jpg?itok=x_8O2Ote"/>
+      <media:content height="444" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2013/12/17/electoral_reform.jpg?itok=x_8O2Ote" width="747"/>
+    </item>
+    <item>
+      <description>In Tuesday’s Business section, the Monitor column on the back page decided to pick a fight with the front page’s Jake’s View.
+Columnist Jake van der Kamp tore into a statement about household debt made by Hong Kong Monetary Authority chief Norman Chan Tak-lam. Chan contended on Friday that the city’s economy was at risk of overheating because of “household debt and rampant consumer overspending”.
+Van der Kamp points out that Chan has been misled by a “superficial” take on the ratio of private...</description>
+      <guid isPermaLink="true">https://www.scmp.com/comment/debates/article/1232093/jake-van-der-kamp-versus-tom-holland-who-right-hong-kong-consumer?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/comment/debates/article/1232093/jake-van-der-kamp-versus-tom-holland-who-right-hong-kong-consumer?utm_source=rss_feed</link>
+      <pubDate>Tue, 07 May 2013 02:27:24 +0000</pubDate>
+      <title>Jake van der Kamp versus Tom Holland: who is right on Hong Kong consumer debt risk?</title>
+      <enclosure length="400" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2013/05/07/biz2.jpg?itok=_rB7Ob-i"/>
+      <media:content height="248" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2013/05/07/biz2.jpg?itok=_rB7Ob-i" width="400"/>
+    </item>
+    <item>
+      <description>Reporters Victoria Ruan and Celine Sun spoke to senior executives and observers from several countries on the sidelines of this month's Boao Forum. Many believe China will maintain its rapid economic growth despite rising labour costs. But they said President Xi Jinping will have to tackle the embedded vested interests at the state-owned sector, reduce government interventions in the market and ensure policies are executed well at a local level. Most believe Xi will make changes but think it is...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/article/1219924/scmp-debate-whats-your-expectation-chinas-gdp-growth?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/china/article/1219924/scmp-debate-whats-your-expectation-chinas-gdp-growth?utm_source=rss_feed</link>
+      <pubDate>Sun, 21 Apr 2013 16:00:00 +0000</pubDate>
+      <title>SCMP Debate: What's your expectation for China's GDP growth?</title>
+      <enclosure length="1920" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2013/04/21/2ba83695305bad3b8cfb8a0377ad99f6.jpg?itok=Vw91OEKf"/>
+      <media:content height="1259" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2013/04/21/2ba83695305bad3b8cfb8a0377ad99f6.jpg?itok=Vw91OEKf" width="1920"/>
+    </item>
+    <item>
+      <description>Looking for love, wealth or health? Then Jetstar Asia may have just the thing for you.
+The airline, a low-cost subsidiary of Qantas, has come up with a novel marketing wheeze: it has hired Singaporean fung shui master David Tong to determine the fung shui of its aircraft, to better enable passengers to choose their seats and flight times depending on whether they are seeking success in love, wealth, career, friendship or health.
+The airline has a website at fengshui.jetstar.com where passengers...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/article/1145551/find-love-wealth-and-friendship-fung-shui-flying?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/article/1145551/find-love-wealth-and-friendship-fung-shui-flying?utm_source=rss_feed</link>
+      <pubDate>Thu, 07 Feb 2013 16:00:00 +0000</pubDate>
+      <title>Find love, wealth and friendship with fung shui flying</title>
+      <enclosure length="1920" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2013/02/07/e5edfe6abbcf293dbe1ce885f6864431.jpg?itok=_lkc09i6"/>
+      <media:content height="1278" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2013/02/07/e5edfe6abbcf293dbe1ce885f6864431.jpg?itok=_lkc09i6" width="1920"/>
+    </item>
+    <item>
+      <description>Housing was the dominant theme of Chief Executive Leung Chun-ying's maiden policy address last month. His plans include rezoning green-belt land, reclamation outside Victoria Harbour and stepping up production of public housing flats after 2018. But the range of measures he announced has drawn criticism, both from those who feel he has done too little and those who say he is taking the wrong options. We speak to developers, planners, academics and property agents about Leung's plans to fight...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/article/1142621/scmp-debate-do-you-think-cy-leungs-measures-boost-housing-supply-will?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/article/1142621/scmp-debate-do-you-think-cy-leungs-measures-boost-housing-supply-will?utm_source=rss_feed</link>
+      <pubDate>Sun, 03 Feb 2013 16:00:00 +0000</pubDate>
+      <title>SCMP Debate: Do you think CY Leung's measures to boost housing supply will be effective?</title>
+      <enclosure length="1920" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2013/02/03/ec16cd853c51f4d23bf3f7c0c914f62e.jpg?itok=sSbDcMG7"/>
+      <media:content height="1222" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2013/02/03/ec16cd853c51f4d23bf3f7c0c914f62e.jpg?itok=sSbDcMG7" width="1920"/>
+    </item>
+    <item>
+      <description>Leung Chun-ying's maiden policy address lasted for more than two hours and covered everything from housing supply to help for the disabled. But the chief executive has faced a growing wave of criticism, with claims that he failed to fully address vital issues and did not set out how he would achieve many of his manifesto pledges. We asked academics, businesspeople, representatives of concern groups and a member of the twenty-something generation for their views on Leung's speech and his...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/article/1137413/scmp-debate-what-do-you-think-about-leung-chun-yings-maiden-policy?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/article/1137413/scmp-debate-what-do-you-think-about-leung-chun-yings-maiden-policy?utm_source=rss_feed</link>
+      <pubDate>Sun, 27 Jan 2013 16:00:00 +0000</pubDate>
+      <title>SCMP Debate: What do you think about Leung Chun-ying's maiden policy address?</title>
+      <enclosure length="1000" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2013/01/28/78fe8a20940edefa01ac264afaeadf4e.jpg?itok=8suq0v9X"/>
+      <media:content height="620" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2013/01/28/78fe8a20940edefa01ac264afaeadf4e.jpg?itok=8suq0v9X" width="1000"/>
+    </item>
+    <item>
+      <description>The appearance of colonial-era flags at recent demonstrations in the city has infuriated mainland commentators and former top officials. Even President Hu Jintao, in his speech to the party congress last week, was prompted to call on Hongkongers to "share the dignity and pride of being Chinese". We asked experts, political figures and concerned Hongkongers whether this use of colonial-era symbols was a genuine sign of a pro-independence sentiment or merely reflected growing frustration with the...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/article/1085626/scmp-debate-what-do-appearances-colonial-era-flags-recent-protests?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/article/1085626/scmp-debate-what-do-appearances-colonial-era-flags-recent-protests?utm_source=rss_feed</link>
+      <pubDate>Sun, 18 Nov 2012 16:00:00 +0000</pubDate>
+      <title>SCMP Debate: What do the appearances of colonial-era flags at recent protests indicate?</title>
+      <enclosure length="1920" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2012/11/18/d2ebcc61b65555032f5a5184f0aab2e9.jpg?itok=b588TuSb"/>
+      <media:content height="1212" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2012/11/18/d2ebcc61b65555032f5a5184f0aab2e9.jpg?itok=b588TuSb" width="1920"/>
+    </item>
+    <item>
+      <description>Plans for a HK$2,200 per month Old Age Living Allowance forthe elderly have divided the city due to the inclusion of a means test. Many lawmakers say the allowance, to be voted on by the Legislative Council's finance committee on Friday, should be available to all. We asked the welfare minister, lawmakers, campaigners and experts whether the means test should be scrapped and whether a universal pension was needed to cope with the city's ageing population.
+Q1 Should a means test be applied to the...</description>
+      <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/article/1066705/scmp-debate-should-means-test-be-applied-old-age-allowance?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/news/hong-kong/article/1066705/scmp-debate-should-means-test-be-applied-old-age-allowance?utm_source=rss_feed</link>
+      <pubDate>Sun, 21 Oct 2012 16:00:00 +0000</pubDate>
+      <title>SCMP Debate: Should a means test be applied to old age allowance?</title>
+      <enclosure length="1680" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2012/10/21/88fc279cf98be38e02f8b93a415ddd38.jpg?itok=MYfvfQzA"/>
+      <media:content height="1680" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2012/10/21/88fc279cf98be38e02f8b93a415ddd38.jpg?itok=MYfvfQzA" width="1680"/>
+    </item>
+    <item>
+      <description>The English Schools Foundation has long pleaded for more money from the government, having seen its government subvention of HK$283 million frozen for a decade. Its announcement last month of the introduction of a HK$500,000 debenture charge to reserve a place prompted outrage. We asked parents, educators and experts what direction the foundation should take and whether it is worth more government cash.
+Q1 Should the government continue or increase its HK$283 million subvention for the English...</description>
+      <guid isPermaLink="true">https://www.scmp.com/comment/debates/article/1061019/scmp-debate-english-schools-foundation-worth-its-government?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/comment/debates/article/1061019/scmp-debate-english-schools-foundation-worth-its-government?utm_source=rss_feed</link>
+      <pubDate>Sun, 14 Oct 2012 16:00:00 +0000</pubDate>
+      <title>SCMP Debate: is English Schools Foundation worth its government subvention?</title>
+      <enclosure length="1303" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2012/10/14/4ce1ae897cf74dea94709f9a4026f5f9.jpg?itok=n-85R5gW"/>
+      <media:content height="1680" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2012/10/14/4ce1ae897cf74dea94709f9a4026f5f9.jpg?itok=n-85R5gW" width="1303"/>
+    </item>
+    <item>
+      <description>A meeting held by the Chinese Communist Party's leadership at Beidaihe about two month ago reportedly decided that the Standing Committee of the Party's Politburo, or China's top decision-making body, would reduce its members from the current nine to seven people. Instead of being automatically granted seats at the top table, the Party's propaganda chief and head of the security apparatus are likely to be downgraded to normal Politburo members.
+How will this decision, if upheld at the 18th Party...</description>
+      <guid isPermaLink="true">https://www.scmp.com/comment/debates/article/1056361/chinas-top-leadership-smaller-club-good-or-bad?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/comment/debates/article/1056361/chinas-top-leadership-smaller-club-good-or-bad?utm_source=rss_feed</link>
+      <pubDate>Mon, 08 Oct 2012 06:38:26 +0000</pubDate>
+      <title>China's top leadership: is a smaller club good or bad?</title>
+    </item>
+    <item>
+      <description>Anger continues to increase among Hong Kong people towards the rising number of mainland visitors coming to the city each day. The latest crackdown on parallel trading has fuelled further resentment towards mainlanders.
+Last year saw a 24 per cent rise in mainland visitors coming to Hong Kong from 2010 – bringing the total figure in 2011 to 28 million. Many commentators and government officials say the huge influx of visitors has brought Hong Kong significant economic benefits. Much of the...</description>
+      <guid isPermaLink="true">https://www.scmp.com/comment/debates/article/1050220/should-hong-kong-now-curb-number-mainland-chinese-visitors-it-lets?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/comment/debates/article/1050220/should-hong-kong-now-curb-number-mainland-chinese-visitors-it-lets?utm_source=rss_feed</link>
+      <pubDate>Sat, 29 Sep 2012 09:50:05 +0000</pubDate>
+      <title>Should Hong Kong now curb the number of mainland Chinese visitors it lets in?</title>
+    </item>
+    <item>
+      <description>Hong Kong gave pay raises to two groups of people recently. The city's 300,000 foreign domestic helpers had their minimum wage bumped up 4.8%, or HK$180 per month. "Too big," says a representative of their employers, who believes 3% would have been much more reasonable. 
+Meanwhile, the city's judicial elite of 144 judges got a 5.66% pay rise. The response from concerned groups -- lawmakers and lawyers -- however, is quite different. They believe the judges' pay, which ranges between HK$200,000...</description>
+      <guid isPermaLink="true">https://www.scmp.com/comment/debates/article/1041362/maids-and-judges-who-deserve-bigger-raise?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/comment/debates/article/1041362/maids-and-judges-who-deserve-bigger-raise?utm_source=rss_feed</link>
+      <pubDate>Thu, 20 Sep 2012 04:26:54 +0000</pubDate>
+      <title>Maids and judges: who deserve a bigger raise?</title>
+    </item>
+    <item>
+      <description>Is Hong Kong still the free harbour that embraces diversity and upholds openness, efficiency and pragmatism above all else? Recent changes in government policies and popular sentiments, such as Leung Chun-ying’s "Hongkongers only" housing scheme, the shelving of new multi-entry permits to more mainlanders, ethnic minorities' long struggle for permanent resident status, curbs on cross-border trading activities by mainland traders, all point towards a more walled-off, protective attitude. The...</description>
+      <guid isPermaLink="true">https://www.scmp.com/comment/debates/article/1040453/hong-kong-losing-touch-its-openness?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/comment/debates/article/1040453/hong-kong-losing-touch-its-openness?utm_source=rss_feed</link>
+      <pubDate>Wed, 19 Sep 2012 02:22:31 +0000</pubDate>
+      <title>Is Hong Kong losing touch with its openness?</title>
+      <enclosure length="4256" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2012/09/19/hong_kong.jpg?itok=FlFOcx73"/>
+      <media:content height="2832" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2012/09/19/hong_kong.jpg?itok=FlFOcx73" width="4256"/>
+    </item>
+    <item>
+      <description>Hip, hip, hooray!
+The World Economic Forum has just published its league table of global competitiveness, and Hong Kong is back in the top 10, moving up to ninth place from 11th last year.
+So let's all pat ourselves on the back and congratulate ourselves on what a good job the city has done at enhancing its business environment.
+Or perhaps not - because if you look a little more closely at the WEF's report, you'll find that business conditions have not improved one bit in Hong Kong since last...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/article/1030358/hks-politicians-ranked-murderers-rapists-and-slavers?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/article/1030358/hks-politicians-ranked-murderers-rapists-and-slavers?utm_source=rss_feed</link>
+      <pubDate>Wed, 05 Sep 2012 16:00:00 +0000</pubDate>
+      <title>HK's politicians ranked with murderers, rapists and slavers</title>
+      <enclosure length="1920" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2012/09/05/a8f63d977e6d05a2c24bb73192f4a534.jpg?itok=SyIsZdtG"/>
+      <media:content height="1280" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/2012/09/05/a8f63d977e6d05a2c24bb73192f4a534.jpg?itok=SyIsZdtG" width="1920"/>
+    </item>
+    <item>
+      <description>As a new school term starts, headaches abound for parents: food and campus safety, rising tuition fees, various after-school programmes, and the debate about national education. But more fundamentally, what kind of parent are you, and what kind do you want to be? The Tiger Mom, the Eagle Dad, or the stereotypical western laissez-faire "Sheep Parent"?</description>
+      <guid isPermaLink="true">https://www.scmp.com/comment/debates/article/1028790/tiger-mom-eagle-dad-or-sheep-parent?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/comment/debates/article/1028790/tiger-mom-eagle-dad-or-sheep-parent?utm_source=rss_feed</link>
+      <pubDate>Mon, 03 Sep 2012 10:10:52 +0000</pubDate>
+      <title>Tiger Mom, Eagle Dad, or Sheep Parent?</title>
+    </item>
+    <item>
+      <description>A new policy in Shenzhen makes it easier for several million more non-permanent residents in the city to visit Hong Kong, starting September 1. Is it another welcome boon for Hong Kong businesses, or will the additional crowds further stretch Hong Kong's infrastructure?</description>
+      <guid isPermaLink="true">https://www.scmp.com/comment/debates/article/1025141/more-visitors-shenzhen-threat-or-business-opportunity?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/comment/debates/article/1025141/more-visitors-shenzhen-threat-or-business-opportunity?utm_source=rss_feed</link>
+      <pubDate>Wed, 29 Aug 2012 01:13:49 +0000</pubDate>
+      <title>More visitors from Shenzhen: a threat or a business opportunity? </title>
+    </item>
+    <item>
+      <description>Hong Kong's Chinese nationality scheme is increasingly coming under criticism for its rigidity and perceived discrimination against certain ethnic or income groups. Should Hong Kong favor only the rich, famous and powerful foreign nationals while granting the coveted Chinese Hong Kong citizenship? Or should Hong Kong be more open and embracing, to all those who are Hong Kong-born, or have lived here for many years and have strong roots here?</description>
+      <guid isPermaLink="true">https://www.scmp.com/comment/debates/article/1017827/should-hk-government-open-gates-more-foreign-nationals-obtain?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/comment/debates/article/1017827/should-hk-government-open-gates-more-foreign-nationals-obtain?utm_source=rss_feed</link>
+      <pubDate>Sat, 18 Aug 2012 04:31:30 +0000</pubDate>
+      <title>Should the HK government open the gates for more foreign nationals to obtain Chinese citizenship?</title>
+    </item>
+    <item>
+      <description>Without assessing the social costs of the [proposed] third runway project, Hong Kong Airport Authority swiftly submitted a project profile to the Environmental Protection Department in late June so it could embark on an environmental impact assessment.
+However, the authority appears, on purpose, to have omitted a health impact assessment and carbon dioxide (CO {-2}) emissions assessment from the profile for the department on which it will base the project's study brief. As a member of the...</description>
+      <guid isPermaLink="true">https://www.scmp.com/comment/debates/article/1008764/environmental-assessment-third-runway-inadequate?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/comment/debates/article/1008764/environmental-assessment-third-runway-inadequate?utm_source=rss_feed</link>
+      <pubDate>Sun, 12 Aug 2012 16:00:00 +0000</pubDate>
+      <title>Environmental assessment for third runway inadequate</title>
+    </item>
+    <item>
+      <description>Pui Ching Middle School and Hoi Ping Chamber of Commerce Secondary School, who faced off in the first round of the 12th Nesta-SCMP Debating Competition, tackled the motion: 'Pseudo models phenomenon is a cause for concern in Hong Kong.'
+Hoi Ping, the negative side, came out on top in the debate which was held  on March 14 at Pui Ching Middle School. Barrie Bidmead, a native English teacher from Kowloon Sam Yuk Secondary School, was the adjudicator.  
+Pui Ching said the photos of pseudo models...</description>
+      <guid isPermaLink="true">https://www.scmp.com/comment/debates/article/741590/hoi-ping-tops-pseudo-models-debate?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/comment/debates/article/741590/hoi-ping-tops-pseudo-models-debate?utm_source=rss_feed</link>
+      <pubDate>Mon, 21 Mar 2011 16:00:00 +0000</pubDate>
+      <title>Hoi Ping tops pseudo models debate</title>
+    </item>
+    <item>
+      <description>The nuclear power plant crisis in quake-hit Japan has renewed debate in Hong Kong as to whether the city should go for a plan to import more nuclear energy from the mainland.
+
+At the same time, China's energy chief has urged that lessons be drawn from the accidents in Japan to ensure that China's rapidly growing nuclear energy sector develops safely.
+
+Hong Kong is pondering whether to take more nuclear energy from Guangdong, so that nuclear will satisfy half of electricity demand in the city of...</description>
+      <guid isPermaLink="true">https://www.scmp.com/comment/debates/article/740949/crisis-japan-refuels-hk-nuclear-debate?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/comment/debates/article/740949/crisis-japan-refuels-hk-nuclear-debate?utm_source=rss_feed</link>
+      <pubDate>Mon, 14 Mar 2011 16:00:00 +0000</pubDate>
+      <title>Crisis in Japan refuels HK nuclear debate</title>
+    </item>
+    <item>
+      <description>TWGHs Kap Yan Directors' College will battle Ying Wa College in the grand final of the 11th Nesta-SCMP Debating Competition today.
+The two schools will debate the motion: 'The 'Tiger Mother' approach is a good way to bring up teenagers in Hong Kong', with Kap Yan as the affirmative side and Ying Wa the negative.
+The debate will be adjudicated by five native English speaking teachers - Perry Bayer from CCC Ming Kei College, Tom Derbyshire (Stewards Pooi Kei College), Barbara Robson (St Antonius...</description>
+      <guid isPermaLink="true">https://www.scmp.com/comment/debates/article/740192/final-face-between-debaters?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/comment/debates/article/740192/final-face-between-debaters?utm_source=rss_feed</link>
+      <pubDate>Mon, 07 Mar 2011 16:00:00 +0000</pubDate>
+      <title>Final face-off between debaters</title>
+    </item>
+    <item>
+      <description>Lawmakers are set for a final showdown today on the controversial amendments to the Legislative Council electoral reform bill.
+After six hours of debate last night, legislators voted 36 to 10 in favour of the second reading of the bill.
+The next stage will be to tackle the 10 amendments tabled by four lawmakers that include proposals to abolish corporate votes in functional constituencies, lower the nomination threshold for five 'super lawmaker' seats and allow former district councillors to...</description>
+      <guid isPermaLink="true">https://www.scmp.com/comment/debates/article/739770/lawmakers-vote-continue-debate-electoral-reform-bill?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/comment/debates/article/739770/lawmakers-vote-continue-debate-electoral-reform-bill?utm_source=rss_feed</link>
+      <pubDate>Thu, 03 Mar 2011 16:00:00 +0000</pubDate>
+      <title>Lawmakers vote to continue debate on electoral reform bill</title>
+    </item>
+    <item>
+      <description>Kirk Leech's article ('Celebrity shark's fin crusade leaves bitter taste', January 25) has missed so many points in the debate about shark finning that it seems to be an attack on celebrity rather than anything else.
+ Personally, I take almost zero notice of what celebrities do or say.
+However, it seems to me that if George Clooney wants to spend his money attempting to do something to help people, that seems a more worthwhile choice than using it for binges on drugs, alcohol or obscene...</description>
+      <guid isPermaLink="true">https://www.scmp.com/comment/debates/article/736970/fin-debate-about-peoples-choices-them-or-not?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/comment/debates/article/736970/fin-debate-about-peoples-choices-them-or-not?utm_source=rss_feed</link>
+      <pubDate>Thu, 27 Jan 2011 16:00:00 +0000</pubDate>
+      <title>Fin debate is about people's choices - like them or not</title>
+    </item>
+    <item>
+      <description>The Nesta-SCMP Inter-school Debating Competition, which began in 2000, has become Hong Kong's largest debating competition. 
+The competition, jointly organised by the Native English Speaking Teachers' Association and the South China Morning Post, is sponsored by the Hong Kong Jockey Club. 
+The 2010 event  has now reached the semi-finals  The first  semi-final will take place tomorrow between Pui Tak Canossian College and Ying Wa College at the Mariners' Club. They will debate the motion 'Hong...</description>
+      <guid isPermaLink="true">https://www.scmp.com/comment/debates/article/735976/matter-debate-gets-serious?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/comment/debates/article/735976/matter-debate-gets-serious?utm_source=rss_feed</link>
+      <pubDate>Mon, 17 Jan 2011 16:00:00 +0000</pubDate>
+      <title>Matter of debate gets serious</title>
+    </item>
+  </channel>
+</rss>
