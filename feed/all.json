@@ -1,9 +1,308 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-24T18:08:01Z",
-  "itemCount": 970,
+  "generatedAt": "2026-09-25T10:13:19Z",
+  "itemCount": 993,
   "items": [
+    {
+      "id": "hkma-scam-alert-banks-20260925",
+      "title": "金管局发出与银行有关的骗案警示（2026年9月25日）：大新银行就「欺詐社交媒体帖文」发稿 [EN原文]",
+      "sourceTier": "official",
+      "themes": [
+        "fraud",
+        "compliance"
+      ],
+      "publishedAt": "2026-09-25T16:45:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-scam-alert-banks-20260925",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202609/25/P2026092500465.htm"
+    },
+    {
+      "id": "hkma-retail-bond-coupons-3-85-4-75-20260925",
+      "title": "银债与绿色零售债券同日定息：银债3.85厘、绿债4.75厘，均于2026年10月12日付息",
+      "sourceTier": "official",
+      "themes": [
+        "market",
+        "product"
+      ],
+      "publishedAt": "2026-09-25T16:30:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-retail-bond-coupons-3-85-4-75-20260925",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202609/25/P2026092500486.htm"
+    },
+    {
+      "id": "nfra-ctp-insurance-2025-loss-230bn-20260924",
+      "title": "金融监管总局公布2025年交强险业务：赔付2,524亿元增11.6%、经营亏损230亿元",
+      "sourceTier": "official",
+      "themes": [
+        "results",
+        "pricing"
+      ],
+      "publishedAt": "2026-09-24T17:15:00+08:00",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-ctp-insurance-2025-loss-230bn-20260924",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1273369&itemId=925&generaltype=0"
+    },
+    {
+      "id": "aia-health-festival-2026-wrap-20260924",
+      "title": "友邦香港「友邦健康生活节2026」圆满举行：三日旗舰活动主打「再想健康」，同期披露19,000名财务策划顾问、逾370万客户",
+      "sourceTier": "insurer",
+      "themes": [
+        "brand",
+        "health"
+      ],
+      "publishedAt": "2026-09-24",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-health-festival-2026-wrap-20260924",
+      "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2026/aia-press-release-20260924"
+    },
+    {
+      "id": "ian-iag-credit-suisse-greensill-20260925",
+      "title": "IAG就Greensill Capital倒闭与瑞信达成和解：瑞信方索偿总额曾达20亿美元另加利息 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "claims",
+        "ma"
+      ],
+      "publishedAt": "2026-09-25T07:42:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-iag-credit-suisse-greensill-20260925",
+      "originalUrl": "https://insuranceasianews.com/iag-reaches-settlement-with-credit-suisse-over-greensill-capital-collapse/"
+    },
+    {
+      "id": "ian-chubb-lulu-tsai-hk-marine-20260925",
+      "title": "安达（Chubb）擢升Lulu Tsai为香港海运及专项业务主管 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "marine",
+        "talent"
+      ],
+      "publishedAt": "2026-09-25T12:37:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-chubb-lulu-tsai-hk-marine-20260925",
+      "originalUrl": "https://insuranceasianews.com/chubb-elevates-lulu-tsai-to-head-of-marine-specialty-for-hong-kong/"
+    },
+    {
+      "id": "ian-verdant-rock-30pct-quota-share-20260925",
+      "title": "新兴市场信用保证人Verdant Rock签出30%成数分出协议 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "capital"
+      ],
+      "publishedAt": "2026-09-25T10:02:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-verdant-rock-30pct-quota-share-20260925",
+      "originalUrl": "https://insuranceasianews.com/emerging-markets-credit-guarantor-verdant-rock-strikes-30-quota-share-deal/"
+    },
+    {
+      "id": "ian-iumi-rotterdam-three-takeaways-20260925",
+      "title": "IUMI鹿特丹年会三要点：海险市场在「战争迷雾」中航行 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "marine",
+        "underwriting"
+      ],
+      "publishedAt": "2026-09-25T07:30:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-iumi-rotterdam-three-takeaways-20260925",
+      "originalUrl": "https://insuranceasianews.com/3-takeaways-from-rotterdam-as-the-marine-market-navigates-the-fog-of-war/"
+    },
+    {
+      "id": "iaasia-prudential-sg-unit-trusts-5400-20260925",
+      "title": "保诚新加坡2027年起开放5,400名专属代理销售单位信托 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "distribution",
+        "channel"
+      ],
+      "publishedAt": "2026-09-25T05:30:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-prudential-sg-unit-trusts-5400-20260925",
+      "originalUrl": "https://insuranceasia.com/insurance/news/prudential-opens-unit-trusts-5400-agents"
+    },
+    {
+      "id": "iaasia-prudential-gba-travel-lite-20260925",
+      "title": "保诚香港推「PRUChoice旅游乐」短途版 瞄准大湾区一小时生活圈 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "cross-border",
+        "product"
+      ],
+      "publishedAt": "2026-09-25T06:15:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-prudential-gba-travel-lite-20260925",
+      "originalUrl": "https://insuranceasia.com/insurance/news/prudential-targets-gba-travel-new-short-haul-cover"
+    },
+    {
+      "id": "iaasia-singlife-388y-heritage-reserve-20260925",
+      "title": "Singlife推388年期美元分红终身寿「Heritage Reserve」：可换受保人、可跨代拆单 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "family-office",
+        "product"
+      ],
+      "publishedAt": "2026-09-25T05:45:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-singlife-388y-heritage-reserve-20260925",
+      "originalUrl": "https://insuranceasia.com/insurance/news/singlife-launches-388-year-legacy-insurance-plan"
+    },
+    {
+      "id": "iaasia-taiwan-life-q2-investment-gains-20260925",
+      "title": "台湾寿险二季度靠投资收益拉动盈利：国泰人寿保费增速领先、CSM利润率仍低于同业 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "results",
+        "market"
+      ],
+      "publishedAt": "2026-09-25T05:15:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-taiwan-life-q2-investment-gains-20260925",
+      "originalUrl": "https://insuranceasia.com/insurance/news/taiwan-life-insurers-lift-earnings-investment-gains"
+    },
+    {
+      "id": "iaasia-apac-reinsurers-overseas-705b-20260925",
+      "title": "亚太再保人转向海外寻增长：全球再保资本2026年料创7,050亿美元纪录 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "capital"
+      ],
+      "publishedAt": "2026-09-25T05:00:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-apac-reinsurers-overseas-705b-20260925",
+      "originalUrl": "https://insuranceasia.com/insurance/exclusive/asia-pacific-reinsurers-look-overseas-competition-heats"
+    },
+    {
+      "id": "ibm-cyber-alerts-falling-risk-20260925",
+      "title": "网络告警量跌79%未必代表风险下降：续保时的「干净报告」可能只证明没被抓到 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "cyber",
+        "uw"
+      ],
+      "publishedAt": "2026-09-25T17:34:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-cyber-alerts-falling-risk-20260925",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/falling-cyber-alerts-may-not-mean-lower-risk-at-renewal-591208.aspx"
+    },
+    {
+      "id": "ibm-offshore-energy-hard-pocket-20260925",
+      "title": "离岸能源险整体偏软但已出现「硬口袋」：建造与调试风险或率先收紧 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "pricing",
+        "underwriting"
+      ],
+      "publishedAt": "2026-09-25T17:13:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-offshore-energy-hard-pocket-20260925",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/construction/offshore-energys-soft-market-has-a-hard-pocket--and-its-about-to-get-bigger-591214.aspx"
+    },
+    {
+      "id": "ibm-sp-ai-governance-credit-factor-20260925",
+      "title": "标普：AI治理成熟度将决定险企分化，AI风险已与信用质量挂钩 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "ai-governance"
+      ],
+      "publishedAt": "2026-09-25T14:13:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-sp-ai-governance-credit-factor-20260925",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/ai-governance-will-separate-winning-insurers-from-laggards--sandp-global-ratings-591174.aspx"
+    },
+    {
+      "id": "ibm-hull-premium-9-4-softening-iumi-20260925",
+      "title": "IUMI：全球船舶险保费升9.4%至105亿美元 但费率一条未涨 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "marine",
+        "pricing"
+      ],
+      "publishedAt": "2026-09-25T10:22:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-hull-premium-9-4-softening-iumi-20260925",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/marine/hull-premium-growth-of-9-4-masks-a-softening-market--iumi-591143.aspx"
+    },
+    {
+      "id": "artemis-ils-datacentre-capacity-stahel-lgt-20260925",
+      "title": "LGT的Stahel：ILS资本很适合补位数据中心巨灾产能缺口 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "cat-risk"
+      ],
+      "publishedAt": "2026-09-25",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-ils-datacentre-capacity-stahel-lgt-20260925",
+      "originalUrl": "https://www.artemis.bm/news/ils-capital-providers-well-positioned-to-complement-reinsurers-data-centre-needs-stahel-lgt/"
+    },
+    {
+      "id": "artemis-am-best-cat-bond-selectivity-20260925",
+      "title": "AM Best：巨灾债券损失倍数收窄 建议投资者提高选择性 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "cat-risk"
+      ],
+      "publishedAt": "2026-09-25",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-am-best-cat-bond-selectivity-20260925",
+      "originalUrl": "https://www.artemis.bm/news/as-cat-bond-loss-multiples-tighten-am-best-urges-investors-towards-greater-selectivity/"
+    },
+    {
+      "id": "artemis-liberty-mutual-sinniah-capital-solutions-20260925",
+      "title": "Liberty Mutual Insurance自Miller延揽Shaun Sinniah 掌全球风险解决方案资本方案 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "talent"
+      ],
+      "publishedAt": "2026-09-25",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-liberty-mutual-sinniah-capital-solutions-20260925",
+      "originalUrl": "https://www.artemis.bm/news/liberty-mutual-insurance-hires-sinniah-as-head-of-capital-solutions-global-risk-solutions/"
+    },
+    {
+      "id": "scmp-family-wealth-nextgen-hk-3380-family-offices-20260925",
+      "title": "香港家族财富进入新阶段：财库局署理局长指单一家办已逾3,380间、两年增25%",
+      "sourceTier": "media",
+      "themes": [
+        "family-office",
+        "taxation"
+      ],
+      "publishedAt": "2026-09-25T07:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-family-wealth-nextgen-hk-3380-family-offices-20260925",
+      "originalUrl": "https://www.scmp.com/presented/business/topics/remarketing/article/3368473/live-conversation-family-wealth-enters-new-era"
+    },
+    {
+      "id": "scmp-hsbc-hangseng-unify-staff-benefits-20260925",
+      "title": "汇丰与恒生明年1月起统一香港员工福利：病假上限180天、高管住院保障上调、医疗弹性账户可家庭共用",
+      "sourceTier": "media",
+      "themes": [
+        "channel",
+        "talent"
+      ],
+      "publishedAt": "2026-09-25T13:26:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-hsbc-hangseng-unify-staff-benefits-20260925",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3368763/hsbc-hang-seng-unify-staff-benefits-across-hong-kong-january-internal-memos"
+    },
+    {
+      "id": "scmp-hk-bank-branches-down-40pct-20260925",
+      "title": "香港银行分行数目较1,500间减四成至约900间 银行CEO：客户凌晨两点也在交易，实体网点模式已变",
+      "sourceTier": "media",
+      "themes": [
+        "channel",
+        "digital"
+      ],
+      "publishedAt": "2026-09-25T18:01:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-hk-bank-branches-down-40pct-20260925",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3368820/why-hong-kong-banks-have-shut-down-40-branches-recent-years"
+    },
     {
       "id": "artemis-liberty-mutual-brooks-ils-20260924",
       "title": "Liberty Mutual Investments首设ILS专员：聘Paschal Brooks掌保险方案与资本市场 [EN原文]",

@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-25T02:15:00+08:00",
-    "itemCount": 970,
+    "generatedAt": "2026-09-25T18:08:00+08:00",
+    "itemCount": 993,
     "windowNote": {
-      "sc": "本库970条。",
-      "tc": "本庫970條。"
+      "sc": "本库993条。",
+      "tc": "本庫993條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -302,6 +302,1853 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "contentKind": "press",
+      "actions": {
+        "front": {
+          "sc": "提醒客户：任何自称银行的社媒私信、广告或链接一律不回覆、不点击",
+          "tc": "提醒客户：任何自称银行的社媒私信、广告或链接一律不回覆、不点击"
+        },
+        "midback": {
+          "sc": "把当日骗案警示同步进客服与前台FAQ，避免口径不一",
+          "tc": "把当日骗案警示同步进客服与前台FAQ，避免口径不一"
+        },
+        "lead": {
+          "sc": "早会用两分钟通报最新伪冒手法，统一对外回应口径",
+          "tc": "早会用两分钟通报最新伪冒手法，统一对外回应口径"
+        },
+        "cross": {
+          "sc": "内地客户经社交媒体接触港险信息时，同步提示同类伪冒风险",
+          "tc": "内地客户经社交媒体接触港险信息时，同步提示同类伪冒风险"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "boards": [
+        "reg",
+        "fraud"
+      ],
+      "themes": [
+        "fraud",
+        "compliance"
+      ],
+      "tags": {
+        "sc": [
+          "金管局",
+          "大新银行",
+          "欺诈社交媒体帖文",
+          "防骗"
+        ],
+        "tc": [
+          "金管局",
+          "大新銀行",
+          "欺詐社交媒體帖文",
+          "防騙"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-25T18:08:00+08:00",
+      "id": "hkma-scam-alert-banks-20260925",
+      "publishedAt": "2026-09-25T16:45:00+08:00",
+      "title": {
+        "sc": "金管局发出与银行有关的骗案警示（2026年9月25日）：大新银行就「欺詐社交媒体帖文」发稿 [EN原文]",
+        "tc": "金管局发出与银行有关的骗案警示（2026年9月25日）：大新银行就「欺詐社交媒体帖文」发稿 [EN原文]"
+      },
+      "summary": {
+        "sc": "金管局呼吁市民提高警觉，指大新银行有限公司已就「欺詐社交媒体帖文」发出新闻稿并向金管局汇报，相关超链接已上载至金管局网站。金管局重申：银行不会透过短讯或电邮超链接引导客户到其网站进行交易，亦不会以电话、电邮或手机短讯（包括以超链接方式）要求客户提供登入密码和一次性密码等敏感资料；若曾提供个人资料或进行交易，应联络银行并致电2860 5012向警方刑事总部资讯中心报案。",
+        "tc": "金管局呼吁市民提高警觉，指大新银行有限公司已就「欺詐社交媒体帖文」发出新闻稿并向金管局汇报，相关超链接已上载至金管局网站。金管局重申：银行不会透过短讯或电邮超链接引导客户到其网站进行交易，亦不会以电话、电邮或手机短讯（包括以超链接方式）要求客户提供登入密码和一次性密码等敏感资料；若曾提供个人资料或进行交易，应联络银行并致电2860 5012向警方刑事总部资讯中心报案。"
+      },
+      "why": {
+        "sc": "保司与银行的伪冒渠道正由假网站扩散到社交媒体私信，是本周最容易被客户顺手转问的一类问题。",
+        "tc": "保司与银行的伪冒渠道正由假网站扩散到社交媒体私信，是本周最容易被客户顺手转问的一类问题。"
+      },
+      "source": {
+        "sc": "香港金融管理局新闻稿（2026-09-25）[EN原文]",
+        "tc": "香港金融管理局新聞稿（2026-09-25）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://www.info.gov.hk/gia/general/202609/25/P2026092500465.htm"
+    },
+    {
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "contentKind": "press",
+      "actions": {
+        "front": {
+          "sc": "与客户谈长期储蓄回报时，引用银债／绿债最新定息作公开对照",
+          "tc": "与客户谈长期储蓄回报时，引用银债／绿债最新定息作公开对照"
+        },
+        "midback": {
+          "sc": "更新产品对比表中的无风险利率基准与派息日",
+          "tc": "更新产品对比表中的无风险利率基准与派息日"
+        },
+        "lead": {
+          "sc": "在团队内做一次「保证与不保证」话术校准，说明两者性质完全不同",
+          "tc": "在团队内做一次「保证与不保证」话术校准，说明两者性质完全不同"
+        },
+        "cross": {
+          "sc": "跨境客户比较不同币种定息产品时，先厘清利率与汇率两重风险",
+          "tc": "跨境客户比较不同币种定息产品时，先厘清利率与汇率两重风险"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "boards": [
+        "market",
+        "product"
+      ],
+      "themes": [
+        "market",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "银色债券",
+          "绿色零售债券",
+          "付息率",
+          "金管局"
+        ],
+        "tc": [
+          "銀色債券",
+          "綠色零售債券",
+          "付息率",
+          "金管局"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-25T18:08:00+08:00",
+      "id": "hkma-retail-bond-coupons-3-85-4-75-20260925",
+      "publishedAt": "2026-09-25T16:30:00+08:00",
+      "title": {
+        "sc": "银债与绿色零售债券同日定息：银债3.85厘、绿债4.75厘，均于2026年10月12日付息",
+        "tc": "银债与绿色零售债券同日定息：银债3.85厘、绿债4.75厘，均于2026年10月12日付息"
+      },
+      "summary": {
+        "sc": "金管局以政府代表身分公布两笔零售债券付息率：2028年到期的银色债券系列（发行编号03GB2810R）第二个付息日（2026年10月12日）按浮息+1.80%、定息+3.85%取较高者，定息3.85厘；政府可持续债券计划下2026年到期的绿色零售债券（03GR2610R／股份代号4273）第六个付息日同为10月12日，按浮息+1.80%、定息+4.75%取较高者，定息4.75厘。",
+        "tc": "金管局以政府代表身分公布两笔零售债券付息率：2028年到期的银色债券系列（发行编号03GB2810R）第二个付息日（2026年10月12日）按浮息+1.80%、定息+3.85%取较高者，定息3.85厘；政府可持续债券计划下2026年到期的绿色零售债券（03GR2610R／股份代号4273）第六个付息日同为10月12日，按浮息+1.80%、定息+4.75%取较高者，定息4.75厘。"
+      },
+      "why": {
+        "sc": "两条同日公布的定息是港人「无风险收益锚」最直接的公开刻度，与客户谈储蓄替代时可直接引用。",
+        "tc": "两条同日公布的定息是港人「无风险收益锚」最直接的公开刻度，与客户谈储蓄替代时可直接引用。"
+      },
+      "source": {
+        "sc": "香港金融管理局／政府新闻处（2026-09-25）",
+        "tc": "香港金融管理局／政府新聞處（2026-09-25）",
+        "lang": "zh"
+      },
+      "originalUrl": "https://www.info.gov.hk/gia/general/202609/25/P2026092500486.htm"
+    },
+    {
+      "clusterCount": 1,
+      "score": 88,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "nfra",
+      "contentKind": "stats",
+      "actions": {
+        "front": {
+          "sc": "不适用（内地强制险，非港险前线议题）",
+          "tc": "不适用（内地强制险，非港险前线议题）"
+        },
+        "midback": {
+          "sc": "把赔付增速与保费增速背离列为费率改革的观察指标",
+          "tc": "把赔付增速与保费增速背离列为费率改革的观察指标"
+        },
+        "lead": {
+          "sc": "在车险／一般险板块讨论会上引用这组官方数据",
+          "tc": "在车险／一般险板块讨论会上引用这组官方数据"
+        },
+        "cross": {
+          "sc": "跨境车主客户问及两地强制险差异时，可引官方口径说明两地制度不同",
+          "tc": "跨境车主客户问及两地强制险差异时，可引官方口径说明两地制度不同"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "boards": [
+        "reg",
+        "market"
+      ],
+      "themes": [
+        "results",
+        "pricing"
+      ],
+      "tags": {
+        "sc": [
+          "交强险",
+          "金融监管总局",
+          "车险",
+          "承保亏损"
+        ],
+        "tc": [
+          "交強險",
+          "金融監管總局",
+          "車險",
+          "承保虧損"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-25T18:08:00+08:00",
+      "id": "nfra-ctp-insurance-2025-loss-230bn-20260924",
+      "publishedAt": "2026-09-24T17:15:00+08:00",
+      "title": {
+        "sc": "金融监管总局公布2025年交强险业务：赔付2,524亿元增11.6%、经营亏损230亿元",
+        "tc": "金融监管总局公布2025年交强险业务：赔付2,524亿元增11.6%、经营亏损230亿元"
+      },
+      "summary": {
+        "sc": "金融监管总局公布2025年度交强险业务情况：参保机动车3.86亿辆（+3.8%），其中汽车3.47亿辆（+3.9%）；保障金额76.8万亿元（+3.4%）；赔付支出2,524亿元（+11.6%）；保费收入2,852亿元（+5.2%）；车均保费762.1元（-0.1%）。受人伤保障赔付标准提升、新能源车占比提高等因素影响，当年交强险经营亏损230亿元。局方并指2026年1—8月行业车险综合成本率降至95.8%。",
+        "tc": "金融监管总局公布2025年度交强险业务情况：参保机动车3.86亿辆（+3.8%），其中汽车3.47亿辆（+3.9%）；保障金额76.8万亿元（+3.4%）；赔付支出2,524亿元（+11.6%）；保费收入2,852亿元（+5.2%）；车均保费762.1元（-0.1%）。受人伤保障赔付标准提升、新能源车占比提高等因素影响，当年交强险经营亏损230亿元。局方并指2026年1—8月行业车险综合成本率降至95.8%。"
+      },
+      "why": {
+        "sc": "强制险的「保费微增、赔付两位数增长、承保亏损」是内地车险运行的底层读数，对理解费率与承保纪律走向有参照价值。",
+        "tc": "强制险的「保费微增、赔付两位数增长、承保亏损」是内地车险运行的底层读数，对理解费率与承保纪律走向有参照价值。"
+      },
+      "source": {
+        "sc": "国家金融监督管理总局（2026-09-24）",
+        "tc": "國家金融監督管理總局（2026-09-24）",
+        "lang": "zh"
+      },
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1273369&itemId=925&generaltype=0"
+    },
+    {
+      "clusterCount": 1,
+      "score": 75,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "aia",
+      "contentKind": "press",
+      "actions": {
+        "front": {
+          "sc": "对照自家客户年龄结构与健康议题触点，评估可借用的健康主题由头",
+          "tc": "对照自家客户年龄结构与健康议题触点，评估可借用的健康主题由头"
+        },
+        "midback": {
+          "sc": "把19,000顾问／370万客户纳入同业规模参照表",
+          "tc": "把19,000顾问／370万客户纳入同业规模参照表"
+        },
+        "lead": {
+          "sc": "借「健康＋财务健康」双主题检视下季度客户活动方向",
+          "tc": "借「健康＋财务健康」双主题检视下季度客户活动方向"
+        },
+        "cross": {
+          "sc": "高净值客户健康管理需求可与AIA Vitality类机制作比照",
+          "tc": "高净值客户健康管理需求可与AIA Vitality类机制作比照"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "boards": [
+        "insurer",
+        "market"
+      ],
+      "themes": [
+        "brand",
+        "health"
+      ],
+      "tags": {
+        "sc": [
+          "友邦香港",
+          "健康生活节",
+          "AIA Vitality",
+          "顾问规模"
+        ],
+        "tc": [
+          "友邦香港",
+          "健康生活節",
+          "AIA Vitality",
+          "顧問規模"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-25T18:08:00+08:00",
+      "id": "aia-health-festival-2026-wrap-20260924",
+      "publishedAt": "2026-09-24",
+      "title": {
+        "sc": "友邦香港「友邦健康生活节2026」圆满举行：三日旗舰活动主打「再想健康」，同期披露19,000名财务策划顾问、逾370万客户",
+        "tc": "友邦香港「友邦健康生活节2026」圆满举行：三日旗舰活动主打「再想健康」，同期披露19,000名财务策划顾问、逾370万客户"
+      },
+      "summary": {
+        "sc": "友邦香港年度旗舰活动「友邦健康生活节 2026」于9月18日至20日一连三日在湾仔合和酒店举行，首日设社区伙伴优先体验日（含AIA健康校园计划师生及友邦奖学金得主），其后两日开放公众，带来8场「星级名人讲堂」及「AIA运动场」「AIA Vitality活力升级站」。新闻稿并披露：截至2026年6月30日，友邦香港及澳门拥有超过19,000名财务策划顾问、服务超过370万名客户。",
+        "tc": "友邦香港年度旗舰活动「友邦健康生活节 2026」于9月18日至20日一连三日在湾仔合和酒店举行，首日设社区伙伴优先体验日（含AIA健康校园计划师生及友邦奖学金得主），其后两日开放公众，带来8场「星级名人讲堂」及「AIA运动场」「AIA Vitality活力升级站」。新闻稿并披露：截至2026年6月30日，友邦香港及澳门拥有超过19,000名财务策划顾问、服务超过370万名客户。"
+      },
+      "why": {
+        "sc": "活动本身是品牌动作，但附带披露的最新顾问与客户规模，是观察头部保司香港基本盘的一手数字。",
+        "tc": "活动本身是品牌动作，但附带披露的最新顾问与客户规模，是观察头部保司香港基本盘的一手数字。"
+      },
+      "source": {
+        "sc": "友邦香港新闻稿（2026-09-24）",
+        "tc": "友邦香港新聞稿（2026-09-24）",
+        "lang": "zh"
+      },
+      "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2026/aia-press-release-20260924"
+    },
+    {
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "insuranceasianews",
+      "contentKind": "news",
+      "actions": {
+        "front": {
+          "sc": "与中小企业客户谈贸易应收风险时，用本案例说明信用险与保证险的边界",
+          "tc": "与中小企业客户谈贸易应收风险时，用本案例说明信用险与保证险的边界"
+        },
+        "midback": {
+          "sc": "复核现有贸易信用／供应链类方案的除外责任条款",
+          "tc": "复核现有贸易信用／供应链类方案的除外责任条款"
+        },
+        "lead": {
+          "sc": "在风险案例库中新增一条「供应链金融」尾部损失案例",
+          "tc": "在风险案例库中新增一条「供应链金融」尾部损失案例"
+        },
+        "cross": {
+          "sc": "跨境贸易客户问及融资与保险叠加风险时，提示承保主体已变更的历史包袱",
+          "tc": "跨境贸易客户问及融资与保险叠加风险时，提示承保主体已变更的历史包袱"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "boards": [
+        "insurer",
+        "market"
+      ],
+      "themes": [
+        "claims",
+        "ma"
+      ],
+      "tags": {
+        "sc": [
+          "IAG",
+          "Greensill",
+          "瑞信",
+          "贸易信用"
+        ],
+        "tc": [
+          "IAG",
+          "Greensill",
+          "瑞信",
+          "貿易信用"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-25T18:08:00+08:00",
+      "id": "ian-iag-credit-suisse-greensill-20260925",
+      "publishedAt": "2026-09-25T07:42:00+08:00",
+      "title": {
+        "sc": "IAG就Greensill Capital倒闭与瑞信达成和解：瑞信方索偿总额曾达20亿美元另加利息 [EN原文]",
+        "tc": "IAG就Greensill Capital倒闭与瑞信达成和解：瑞信方索偿总额曾达20亿美元另加利息 [EN原文]"
+      },
+      "summary": {
+        "sc": "澳洲保险集团IAG宣布已就Greensill Capital倒闭一事与瑞信（现已并入瑞银）达成和解，财务条款未披露；据报瑞信方索偿总额为20亿美元另加利息。Greensill的贸易融资应收帐款曾由IAG子公司承保，是近年供应链金融保险风险最受关注的案例之一，此次和解为该争议划上阶段性句号。",
+        "tc": "澳洲保险集团IAG宣布已就Greensill Capital倒闭一事与瑞信（现已并入瑞银）达成和解，财务条款未披露；据报瑞信方索偿总额为20亿美元另加利息。Greensill的贸易融资应收帐款曾由IAG子公司承保，是近年供应链金融保险风险最受关注的案例之一，此次和解为该争议划上阶段性句号。"
+      },
+      "why": {
+        "sc": "供应链金融／贸易信用险的尾部风险在这一单和解中落地，做企业客户应收帐款与贸易风险课题时可作实证引用。",
+        "tc": "供应链金融／贸易信用险的尾部风险在这一单和解中落地，做企业客户应收帐款与贸易风险课题时可作实证引用。"
+      },
+      "source": {
+        "sc": "InsuranceAsia News（2026-09-25）[EN原文]",
+        "tc": "InsuranceAsia News（2026-09-25）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://insuranceasianews.com/iag-reaches-settlement-with-credit-suisse-over-greensill-capital-collapse/"
+    },
+    {
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "insuranceasianews",
+      "contentKind": "news",
+      "actions": {
+        "front": {
+          "sc": "向有货运或艺术品保障需求的客户提及保司香港专项团队强化",
+          "tc": "向有货运或艺术品保障需求的客户提及保司香港专项团队强化"
+        },
+        "midback": {
+          "sc": "更新香港海运／专项承保负责人对接名单",
+          "tc": "更新香港海运／专项承保负责人对接名单"
+        },
+        "lead": {
+          "sc": "把该人事变动纳入保司组织架构动态跟踪表",
+          "tc": "把该人事变动纳入保司组织架构动态跟踪表"
+        },
+        "cross": {
+          "sc": "艺术品与贵重物品保障是跨境高客议题，可留意对接窗口变化",
+          "tc": "艺术品与贵重物品保障是跨境高客议题，可留意对接窗口变化"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "boards": [
+        "insurer",
+        "marine"
+      ],
+      "themes": [
+        "marine",
+        "talent"
+      ],
+      "tags": {
+        "sc": [
+          "Chubb",
+          "安达",
+          "海运",
+          "专项保险",
+          "人事"
+        ],
+        "tc": [
+          "Chubb",
+          "安達",
+          "海運",
+          "專項保險",
+          "人事"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-25T18:08:00+08:00",
+      "id": "ian-chubb-lulu-tsai-hk-marine-20260925",
+      "publishedAt": "2026-09-25T12:37:00+08:00",
+      "title": {
+        "sc": "安达（Chubb）擢升Lulu Tsai为香港海运及专项业务主管 [EN原文]",
+        "tc": "安达（Chubb）擢升Lulu Tsai为香港海运及专项业务主管 [EN原文]"
+      },
+      "summary": {
+        "sc": "Chubb宣布擢升Lulu Tsai为香港海运及专项（marine & specialty）业务主管。据报她拥有近二十年经验，专长涵盖货运、货运代理责任、船舶，以及艺术品与贵重物品（fine art & specie）保险。",
+        "tc": "Chubb宣布擢升Lulu Tsai为香港海运及专项（marine & specialty）业务主管。据报她拥有近二十年经验，专长涵盖货运、货运代理责任、船舶，以及艺术品与贵重物品（fine art & specie）保险。"
+      },
+      "why": {
+        "sc": "保监局把海运与专项险列为香港建设国际风险管理中心的重点板块，头部保司在香港补位专项主管理应是可跟踪的人事信号。",
+        "tc": "保监局把海运与专项险列为香港建设国际风险管理中心的重点板块，头部保司在香港补位专项主管理应是可跟踪的人事信号。"
+      },
+      "source": {
+        "sc": "InsuranceAsia News（2026-09-25）[EN原文]",
+        "tc": "InsuranceAsia News（2026-09-25）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://insuranceasianews.com/chubb-elevates-lulu-tsai-to-head-of-marine-specialty-for-hong-kong/"
+    },
+    {
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "insuranceasianews",
+      "contentKind": "news",
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "把信用与保证类风险资本动向纳入季度同业观察",
+          "tc": "把信用与保证类风险资本动向纳入季度同业观察"
+        },
+        "lead": {
+          "sc": "在再保／资本板块讨论中引用本单比例分出案例",
+          "tc": "在再保／资本板块讨论中引用本单比例分出案例"
+        },
+        "cross": {
+          "sc": "新兴市场债券与结构性产品客户，留意其保证方的再保安排",
+          "tc": "新兴市场债券与结构性产品客户，留意其保证方的再保安排"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "boards": [
+        "insurer",
+        "market"
+      ],
+      "themes": [
+        "reinsurance",
+        "capital"
+      ],
+      "tags": {
+        "sc": [
+          "Verdant Rock",
+          "成数分出",
+          "信用保证",
+          "百慕大"
+        ],
+        "tc": [
+          "Verdant Rock",
+          "成數分出",
+          "信用保證",
+          "百慕達"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-25T18:08:00+08:00",
+      "id": "ian-verdant-rock-30pct-quota-share-20260925",
+      "publishedAt": "2026-09-25T10:02:00+08:00",
+      "title": {
+        "sc": "新兴市场信用保证人Verdant Rock签出30%成数分出协议 [EN原文]",
+        "tc": "新兴市场信用保证人Verdant Rock签出30%成数分出协议 [EN原文]"
+      },
+      "summary": {
+        "sc": "百慕大专业保险公司Verdant Rock就新兴市场信用及保证业务签订30%成数分出（quota share）安排。该公司为亚洲、非洲、拉美及东欧的债券、结构性贷款与复杂金融工具提供财务保证，此次分出被视为其扩张资本基座的一步。",
+        "tc": "百慕大专业保险公司Verdant Rock就新兴市场信用及保证业务签订30%成数分出（quota share）安排。该公司为亚洲、非洲、拉美及东欧的债券、结构性贷款与复杂金融工具提供财务保证，此次分出被视为其扩张资本基座的一步。"
+      },
+      "why": {
+        "sc": "信用与保证业务的风险分散结构正在扩容，是「香港做区域风险枢纽」叙事在再保层面的一条具体证据。",
+        "tc": "信用与保证业务的风险分散结构正在扩容，是「香港做区域风险枢纽」叙事在再保层面的一条具体证据。"
+      },
+      "source": {
+        "sc": "InsuranceAsia News（2026-09-25）[EN原文]",
+        "tc": "InsuranceAsia News（2026-09-25）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://insuranceasianews.com/emerging-markets-credit-guarantor-verdant-rock-strikes-30-quota-share-deal/"
+    },
+    {
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "pending",
+      "sourceTier": "pro",
+      "sourceKey": "insuranceasianews",
+      "contentKind": "report",
+      "actions": {
+        "front": {
+          "sc": "向有海运保障的客户预告战争险与制裁条款或将收紧",
+          "tc": "向有海运保障的客户预告战争险与制裁条款或将收紧"
+        },
+        "midback": {
+          "sc": "提前比对现有海运／货运条款的战争与制裁除外写法",
+          "tc": "提前比对现有海运／货运条款的战争与制裁除外写法"
+        },
+        "lead": {
+          "sc": "在专项险团队内组织一次IUMI要点内部分享",
+          "tc": "在专项险团队内组织一次IUMI要点内部分享"
+        },
+        "cross": {
+          "sc": "涉及中东航线的跨境客户，先厘清航程区域的承保覆盖",
+          "tc": "涉及中东航线的跨境客户，先厘清航程区域的承保覆盖"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "boards": [
+        "marine",
+        "market"
+      ],
+      "themes": [
+        "marine",
+        "underwriting"
+      ],
+      "tags": {
+        "sc": [
+          "IUMI",
+          "海运保险",
+          "战争风险",
+          "鹿特丹"
+        ],
+        "tc": [
+          "IUMI",
+          "海運保險",
+          "戰爭風險",
+          "鹿特丹"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-25T18:08:00+08:00",
+      "id": "ian-iumi-rotterdam-three-takeaways-20260925",
+      "publishedAt": "2026-09-25T07:30:00+08:00",
+      "title": {
+        "sc": "IUMI鹿特丹年会三要点：海险市场在「战争迷雾」中航行 [EN原文]",
+        "tc": "IUMI鹿特丹年会三要点：海险市场在「战争迷雾」中航行 [EN原文]"
+      },
+      "summary": {
+        "sc": "逾700名海险保险人出席国际海上保险联盟（IUMI）鹿特丹年会，战争风险、货运、制裁与地缘政治成为主议题。InsuranceAsia News 归纳三要点，聚焦霍尔木兹冲突下的可保性判断、制裁与战争条款的措辞分歧，以及货运犯罪与科技手段升级对承保的挑战。",
+        "tc": "逾700名海险保险人出席国际海上保险联盟（IUMI）鹿特丹年会，战争风险、货运、制裁与地缘政治成为主议题。InsuranceAsia News 归纳三要点，聚焦霍尔木兹冲突下的可保性判断、制裁与战争条款的措辞分歧，以及货运犯罪与科技手段升级对承保的挑战。"
+      },
+      "why": {
+        "sc": "海险是本港重点专项板块，年会结论等于下一年度条款与费率谈判的起手框架。",
+        "tc": "海险是本港重点专项板块，年会结论等于下一年度条款与费率谈判的起手框架。"
+      },
+      "source": {
+        "sc": "InsuranceAsia News（2026-09-25）[EN原文]",
+        "tc": "InsuranceAsia News（2026-09-25）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://insuranceasianews.com/3-takeaways-from-rotterdam-as-the-marine-market-navigates-the-fog-of-war/"
+    },
+    {
+      "clusterCount": 1,
+      "score": 68,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "contentKind": "news",
+      "actions": {
+        "front": {
+          "sc": "留意客户对「一次咨询解决保障与投资」的期待正在上升",
+          "tc": "留意客户对「一次咨询解决保障与投资」的期待正在上升"
+        },
+        "midback": {
+          "sc": "检视现有咨询流程能否在同一场会谈覆盖保障与财富配置",
+          "tc": "检视现有咨询流程能否在同一场会谈覆盖保障与财富配置"
+        },
+        "lead": {
+          "sc": "就「代理渠道可否销售基金类产品」在香港的合规边界做一次厘清",
+          "tc": "就「代理渠道可否销售基金类产品」在香港的合规边界做一次厘清"
+        },
+        "cross": {
+          "sc": "跨境客户比较新港两地代理货架差异时，说明两地发牌与产品规则不同",
+          "tc": "跨境客户比较新港两地代理货架差异时，说明两地发牌与产品规则不同"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 3,
+        "cross": 1
+      },
+      "boards": [
+        "insurer",
+        "channel"
+      ],
+      "themes": [
+        "distribution",
+        "channel"
+      ],
+      "tags": {
+        "sc": [
+          "保诚新加坡",
+          "单位信托",
+          "代理渠道",
+          "财富管理"
+        ],
+        "tc": [
+          "保誠新加坡",
+          "單位信託",
+          "代理渠道",
+          "財富管理"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-25T18:08:00+08:00",
+      "id": "iaasia-prudential-sg-unit-trusts-5400-20260925",
+      "publishedAt": "2026-09-25T05:30:00+08:00",
+      "title": {
+        "sc": "保诚新加坡2027年起开放5,400名专属代理销售单位信托 [EN原文]",
+        "tc": "保诚新加坡2027年起开放5,400名专属代理销售单位信托 [EN原文]"
+      },
+      "summary": {
+        "sc": "保诚新加坡宣布，旗下全部5,400名专属代理自2027年起可销售单位信托及其他财富累积产品；此前客户只能经由其财务顾问子公司Prudential Financial Advisers Singapore（PFA）购买。保诚称此举回应客户对更全面财务建议的需求，让保障、健康、储蓄与退休规划在同一次咨询中完成，成为新加坡首家允许全体专属代理分销单位信托的寿险公司。",
+        "tc": "保诚新加坡宣布，旗下全部5,400名专属代理自2027年起可销售单位信托及其他财富累积产品；此前客户只能经由其财务顾问子公司Prudential Financial Advisers Singapore（PFA）购买。保诚称此举回应客户对更全面财务建议的需求，让保障、健康、储蓄与退休规划在同一次咨询中完成，成为新加坡首家允许全体专属代理分销单位信托的寿险公司。"
+      },
+      "why": {
+        "sc": "这是「寿险代理渠道向财富管理延伸」的东南亚样板，对香港团队讨论代理渠道边界与产品货架很有参照价值。",
+        "tc": "这是「寿险代理渠道向财富管理延伸」的东南亚样板，对香港团队讨论代理渠道边界与产品货架很有参照价值。"
+      },
+      "source": {
+        "sc": "InsuranceAsia（2026-09-25）[EN原文]",
+        "tc": "InsuranceAsia（2026-09-25）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://insuranceasia.com/insurance/news/prudential-opens-unit-trusts-5400-agents"
+    },
+    {
+      "clusterCount": 1,
+      "score": 66,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "contentKind": "news",
+      "actions": {
+        "front": {
+          "sc": "把大湾区短途旅险列为周末北上客户的默认附加建议",
+          "tc": "把大湾区短途旅险列为周末北上客户的默认附加建议"
+        },
+        "midback": {
+          "sc": "更新短途旅险产品对比表，标注保障地域与免赔设计差异",
+          "tc": "更新短途旅险产品对比表，标注保障地域与免赔设计差异"
+        },
+        "lead": {
+          "sc": "以「北上高频」客群为单位设计一次小型推广动作",
+          "tc": "以「北上高频」客群为单位设计一次小型推广动作"
+        },
+        "cross": {
+          "sc": "提醒客户短途旅险的医疗与紧急支援范围以承保地域为限",
+          "tc": "提醒客户短途旅险的医疗与紧急支援范围以承保地域为限"
+        }
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 2,
+        "lead": 2,
+        "cross": 2
+      },
+      "boards": [
+        "product",
+        "market"
+      ],
+      "themes": [
+        "cross-border",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "保诚香港",
+          "旅游保险",
+          "大湾区",
+          "跨境"
+        ],
+        "tc": [
+          "保誠香港",
+          "旅遊保險",
+          "大灣區",
+          "跨境"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-25T18:08:00+08:00",
+      "id": "iaasia-prudential-gba-travel-lite-20260925",
+      "publishedAt": "2026-09-25T06:15:00+08:00",
+      "title": {
+        "sc": "保诚香港推「PRUChoice旅游乐」短途版 瞄准大湾区一小时生活圈 [EN原文]",
+        "tc": "保诚香港推「PRUChoice旅游乐」短途版 瞄准大湾区一小时生活圈 [EN原文]"
+      },
+      "summary": {
+        "sc": "保诚财险香港推出PRUChoice Travel Lite，专为往来大湾区的香港居民而设。据政府统计处数据，2026年上半年经六个主要陆路管製站前往深圳的香港居民超过4,570万人次，同比增10.5%；随着新皇岗口岸预计2026年第四季启用并采用新通关模式，跨境出行频次料进一步上升。保诚称新计划针对大湾区「一小时生活圈」内即兴、短期行程的灵活保障需求。",
+        "tc": "保诚财险香港推出PRUChoice Travel Lite，专为往来大湾区的香港居民而设。据政府统计处数据，2026年上半年经六个主要陆路管製站前往深圳的香港居民超过4,570万人次，同比增10.5%；随着新皇岗口岸预计2026年第四季启用并采用新通关模式，跨境出行频次料进一步上升。保诚称新计划针对大湾区「一小时生活圈」内即兴、短期行程的灵活保障需求。"
+      },
+      "why": {
+        "sc": "大湾区生活圈正把旅险从低频件变成高频件，是GBA场景少见的、可立即对客户落地的产品。",
+        "tc": "大湾区生活圈正把旅险从低频件变成高频件，是GBA场景少见的、可立即对客户落地的产品。"
+      },
+      "source": {
+        "sc": "InsuranceAsia（2026-09-25）[EN原文]",
+        "tc": "InsuranceAsia（2026-09-25）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://insuranceasia.com/insurance/news/prudential-targets-gba-travel-new-short-haul-cover"
+    },
+    {
+      "clusterCount": 1,
+      "score": 66,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "contentKind": "news",
+      "actions": {
+        "front": {
+          "sc": "高净值客户谈传承时，可对比「换受保人」与「拆单」两类功能的实际用途",
+          "tc": "高净值客户谈传承时，可对比「换受保人」与「拆单」两类功能的实际用途"
+        },
+        "midback": {
+          "sc": "把同类产品的传承功能清单化，用于需求访谈而非直接比较收益",
+          "tc": "把同类产品的传承功能清单化，用于需求访谈而非直接比较收益"
+        },
+        "lead": {
+          "sc": "在传承主题培训中更新区域同类产品的功能演进",
+          "tc": "在传承主题培训中更新区域同类产品的功能演进"
+        },
+        "cross": {
+          "sc": "多币种提取选项对跨境家族有实际用处，但须同时说明汇率风险",
+          "tc": "多币种提取选项对跨境家族有实际用处，但须同时说明汇率风险"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 2,
+        "cross": 2
+      },
+      "boards": [
+        "product",
+        "family"
+      ],
+      "themes": [
+        "family-office",
+        "product"
+      ],
+      "tags": {
+        "sc": [
+          "Singlife",
+          "分红终身寿",
+          "跨代传承",
+          "受保人更换"
+        ],
+        "tc": [
+          "Singlife",
+          "分紅終身壽",
+          "跨代傳承",
+          "受保人更換"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-25T18:08:00+08:00",
+      "id": "iaasia-singlife-388y-heritage-reserve-20260925",
+      "publishedAt": "2026-09-25T05:45:00+08:00",
+      "title": {
+        "sc": "Singlife推388年期美元分红终身寿「Heritage Reserve」：可换受保人、可跨代拆单 [EN原文]",
+        "tc": "Singlife推388年期美元分红终身寿「Heritage Reserve」：可换受保人、可跨代拆单 [EN原文]"
+      },
+      "summary": {
+        "sc": "新加坡Singlife推出美元计价分红终身寿险Singlife Heritage Reserve，主打长期财富累积、传承与跨代转移，保单年期最长388年。产品内建更换承保对象安排，包括所有权转移、后备持有人、共同持有、更换受保人及增设第二受保人；并可以保单拆分、Legacy Continuation及身故赔偿派发选项跨代传递保单价值。提供Bonus Access Option及Care Support Income Option以提取终期红利而不需退保，货币转换可选新元、美元、英镑、欧元、澳元及港元。",
+        "tc": "新加坡Singlife推出美元计价分红终身寿险Singlife Heritage Reserve，主打长期财富累积、传承与跨代转移，保单年期最长388年。产品内建更换承保对象安排，包括所有权转移、后备持有人、共同持有、更换受保人及增设第二受保人；并可以保单拆分、Legacy Continuation及身故赔偿派发选项跨代传递保单价值。提供Bonus Access Option及Care Support Income Option以提取终期红利而不需退保，货币转换可选新元、美元、英镑、欧元、澳元及港元。"
+      },
+      "why": {
+        "sc": "亚洲高净值传承需求正把「超长年期＋受保人可更换」做成标准配置，这是区域内设计最激进的一版，值得与自身产品设计取向对照。",
+        "tc": "亚洲高净值传承需求正把「超长年期＋受保人可更换」做成标准配置，这是区域内设计最激进的一版，值得与自身产品设计取向对照。"
+      },
+      "source": {
+        "sc": "InsuranceAsia（2026-09-25）[EN原文]",
+        "tc": "InsuranceAsia（2026-09-25）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://insuranceasia.com/insurance/news/singlife-launches-388-year-legacy-insurance-plan"
+    },
+    {
+      "clusterCount": 1,
+      "score": 64,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "contentKind": "news",
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "把「CSM利润率」与「首年保费增速」并列纳入业绩质量看板",
+          "tc": "把「CSM利润率」与「首年保费增速」并列纳入业绩质量看板"
+        },
+        "lead": {
+          "sc": "在业绩复盘会上对比两种策略：追规模与追CSM",
+          "tc": "在业绩复盘会上对比两种策略：追规模与追CSM"
+        },
+        "cross": {
+          "sc": "跨境客户比较区域寿险公司财务稳健度时，可引用资本标准比率披露差异",
+          "tc": "跨境客户比较区域寿险公司财务稳健度时，可引用资本标准比率披露差异"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 2,
+        "lead": 3,
+        "cross": 1
+      },
+      "boards": [
+        "insurer",
+        "market"
+      ],
+      "themes": [
+        "results",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "台湾寿险",
+          "国泰人寿",
+          "CSM",
+          "投资收益"
+        ],
+        "tc": [
+          "台灣壽險",
+          "國泰人壽",
+          "CSM",
+          "投資收益"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-25T18:08:00+08:00",
+      "id": "iaasia-taiwan-life-q2-investment-gains-20260925",
+      "publishedAt": "2026-09-25T05:15:00+08:00",
+      "title": {
+        "sc": "台湾寿险二季度靠投资收益拉动盈利：国泰人寿保费增速领先、CSM利润率仍低于同业 [EN原文]",
+        "tc": "台湾寿险二季度靠投资收益拉动盈利：国泰人寿保费增速领先、CSM利润率仍低于同业 [EN原文]"
+      },
+      "summary": {
+        "sc": "据CreditSights，台湾主要寿险公司二季度盈利因投资收益上升而改善：国泰人寿、富邦人寿、南山人寿与新光人寿净利均高于首季（新光人寿因基数高、投资收益增幅较小而改善幅度最弱），国泰、富邦、南山净利环比增147%至314%。增长动力来自经常性利息收入上升、股票投资收益改善、对冲成本下降及汇兑损失减少；列入其他综合收益的股票未实现收益亦令权益增加，推升权益资产比率环比约3个百分点。国泰人寿保费增长领先，但合约服务边际（CSM）利润率仍低于同业；南山人寿则提高高CSM产品比重、代价是首年保费（FYP）下降。富邦新人寿业务CSM增12%，国泰与南山仅增0%至1%；南山为唯一公开披露TW-ICS比率者，为130%。",
+        "tc": "据CreditSights，台湾主要寿险公司二季度盈利因投资收益上升而改善：国泰人寿、富邦人寿、南山人寿与新光人寿净利均高于首季（新光人寿因基数高、投资收益增幅较小而改善幅度最弱），国泰、富邦、南山净利环比增147%至314%。增长动力来自经常性利息收入上升、股票投资收益改善、对冲成本下降及汇兑损失减少；列入其他综合收益的股票未实现收益亦令权益增加，推升权益资产比率环比约3个百分点。国泰人寿保费增长领先，但合约服务边际（CSM）利润率仍低于同业；南山人寿则提高高CSM产品比重、代价是首年保费（FYP）下降。富邦新人寿业务CSM增12%，国泰与南山仅增0%至1%；南山为唯一公开披露TW-ICS比率者，为130%。"
+      },
+      "why": {
+        "sc": "「保费增速领先、CSM利润率落后」的分化，是判断寿险增长质量的现成对照，可直接搬进团队业绩质量讨论。",
+        "tc": "「保费增速领先、CSM利润率落后」的分化，是判断寿险增长质量的现成对照，可直接搬进团队业绩质量讨论。"
+      },
+      "source": {
+        "sc": "InsuranceAsia（2026-09-25）[EN原文]",
+        "tc": "InsuranceAsia（2026-09-25）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://insuranceasia.com/insurance/news/taiwan-life-insurers-lift-earnings-investment-gains"
+    },
+    {
+      "clusterCount": 1,
+      "score": 68,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "contentKind": "report",
+      "actions": {
+        "front": {
+          "sc": "向企业客户说明再保资本充裕正传导至承保条款的相对宽松",
+          "tc": "向企业客户说明再保资本充裕正传导至承保条款的相对宽松"
+        },
+        "midback": {
+          "sc": "把再保资本规模与ROE纳入续保条件预判的先行指标",
+          "tc": "把再保资本规模与ROE纳入续保条件预判的先行指标"
+        },
+        "lead": {
+          "sc": "在专项与团体险续保规划中引用资本面判断",
+          "tc": "在专项与团体险续保规划中引用资本面判断"
+        },
+        "cross": {
+          "sc": "跨境集团客户的全球统一再保安排可借此争取更优条款",
+          "tc": "跨境集团客户的全球统一再保安排可借此争取更优条款"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 2,
+        "cross": 2
+      },
+      "boards": [
+        "market",
+        "insurer"
+      ],
+      "themes": [
+        "reinsurance",
+        "capital"
+      ],
+      "tags": {
+        "sc": [
+          "再保险",
+          "亚太",
+          "AM Best",
+          "Gallagher Re"
+        ],
+        "tc": [
+          "再保險",
+          "亞太",
+          "AM Best",
+          "Gallagher Re"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-25T18:08:00+08:00",
+      "id": "iaasia-apac-reinsurers-overseas-705b-20260925",
+      "publishedAt": "2026-09-25T05:00:00+08:00",
+      "title": {
+        "sc": "亚太再保人转向海外寻增长：全球再保资本2026年料创7,050亿美元纪录 [EN原文]",
+        "tc": "亚太再保人转向海外寻增长：全球再保资本2026年料创7,050亿美元纪录 [EN原文]"
+      },
+      "summary": {
+        "sc": "AM Best指出，亚太再保人因本土资本充裕、竞争加剧与价格承压而寻求海外增长，但仍对承保风险维持选择性。AM Best的Christie Lee表示，全球专属再保资本2026年料达7,050亿美元纪录（传统资本加第三方资本），并强调「全球不缺产能，问题在于再保人把资本部署到哪」。Gallagher Re估计今年上半年全球再保资本达6,880亿美元、同比增5%，主要再保人股本回报率19.9%；其7月续保检视发现多个险类与地区出现降价。AM Best预计亚太再保人的海外业务将是其增长引擎。",
+        "tc": "AM Best指出，亚太再保人因本土资本充裕、竞争加剧与价格承压而寻求海外增长，但仍对承保风险维持选择性。AM Best的Christie Lee表示，全球专属再保资本2026年料达7,050亿美元纪录（传统资本加第三方资本），并强调「全球不缺产能，问题在于再保人把资本部署到哪」。Gallagher Re估计今年上半年全球再保资本达6,880亿美元、同比增5%，主要再保人股本回报率19.9%；其7月续保检视发现多个险类与地区出现降价。AM Best预计亚太再保人的海外业务将是其增长引擎。"
+      },
+      "why": {
+        "sc": "「不缺产能、缺部署方向」加上19.9%的ROE，是当前再保定价与条款松紧最直接的资金面解释。",
+        "tc": "「不缺产能、缺部署方向」加上19.9%的ROE，是当前再保定价与条款松紧最直接的资金面解释。"
+      },
+      "source": {
+        "sc": "InsuranceAsia（2026-09-25）[EN原文]",
+        "tc": "InsuranceAsia（2026-09-25）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://insuranceasia.com/insurance/exclusive/asia-pacific-reinsurers-look-overseas-competition-heats"
+    },
+    {
+      "clusterCount": 1,
+      "score": 64,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "contentKind": "news",
+      "actions": {
+        "front": {
+          "sc": "向企业客户说明告警量下降不等于攻击减少，续保前先自查控制是否完整落地",
+          "tc": "向企业客户说明告警量下降不等于攻击减少，续保前先自查控制是否完整落地"
+        },
+        "midback": {
+          "sc": "在网安险续保问卷中加入「MFA是否全覆盖」「侦测手段是否仍有效」两项追问",
+          "tc": "在网安险续保问卷中加入「MFA是否全覆盖」「侦测手段是否仍有效」两项追问"
+        },
+        "lead": {
+          "sc": "把「无法验证的控制」列为续保风险点，统一核保口径",
+          "tc": "把「无法验证的控制」列为续保风险点，统一核保口径"
+        },
+        "cross": {
+          "sc": "跨境经营客户须同时评估不同司法区的数据外泄通报义务",
+          "tc": "跨境经营客户须同时评估不同司法区的数据外泄通报义务"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 3,
+        "lead": 2,
+        "cross": 1
+      },
+      "boards": [
+        "tech",
+        "product"
+      ],
+      "themes": [
+        "cyber",
+        "uw"
+      ],
+      "tags": {
+        "sc": [
+          "网络安全险",
+          "MFA",
+          "续保",
+          "WatchGuard"
+        ],
+        "tc": [
+          "網絡安全險",
+          "MFA",
+          "續保",
+          "WatchGuard"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-25T18:08:00+08:00",
+      "id": "ibm-cyber-alerts-falling-risk-20260925",
+      "publishedAt": "2026-09-25T17:34:00+08:00",
+      "title": {
+        "sc": "网络告警量跌79%未必代表风险下降：续保时的「干净报告」可能只证明没被抓到 [EN原文]",
+        "tc": "网络告警量跌79%未必代表风险下降：续保时的「干净报告」可能只证明没被抓到 [EN原文]"
+      },
+      "summary": {
+        "sc": "WatchGuard《全球威胁报告》显示，2026年上半年网络攻击总量下降79%、勒索软件终端侦测同比降逾68%，但同期终端新型恶意软件同比增逾2,000%，近96%的终端威胁只出现在单一机器上，刻意规避特征码侦测；公开勒索宣告量同期创历史新高。澳洲OAIC在2025年收到1,205宗数据外泄通报（2018年强制通报以来最多，同比增8%），其中716宗归因恶意或犯罪攻击；澳洲信号局2024-25财年录得逾84,700宗网络犯罪举报。文章提醒经纪：客户带着干净安全报告续保，可能只是呈现了「没被抓到」的证据。",
+        "tc": "WatchGuard《全球威胁报告》显示，2026年上半年网络攻击总量下降79%、勒索软件终端侦测同比降逾68%，但同期终端新型恶意软件同比增逾2,000%，近96%的终端威胁只出现在单一机器上，刻意规避特征码侦测；公开勒索宣告量同期创历史新高。澳洲OAIC在2025年收到1,205宗数据外泄通报（2018年强制通报以来最多，同比增8%），其中716宗归因恶意或犯罪攻击；澳洲信号局2024-25财年录得逾84,700宗网络犯罪举报。文章提醒经纪：客户带着干净安全报告续保，可能只是呈现了「没被抓到」的证据。"
+      },
+      "why": {
+        "sc": "网安险与综合险的信息不对称正在扩大，续保问卷中「MFA是否只是部分落地」这类问题会变成赔案争议的起点。",
+        "tc": "网安险与综合险的信息不对称正在扩大，续保问卷中「MFA是否只是部分落地」这类问题会变成赔案争议的起点。"
+      },
+      "source": {
+        "sc": "Insurance Business Asia（2026-09-25）[EN原文]",
+        "tc": "Insurance Business Asia（2026-09-25）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/falling-cyber-alerts-may-not-mean-lower-risk-at-renewal-591208.aspx"
+    },
+    {
+      "clusterCount": 1,
+      "score": 64,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "contentKind": "news",
+      "actions": {
+        "front": {
+          "sc": "工程／能源客户续保前，先分清营运风险与建造调试风险两条线",
+          "tc": "工程／能源客户续保前，先分清营运风险与建造调试风险两条线"
+        },
+        "midback": {
+          "sc": "把CTC类风险与营运类风险分列核保与报价条件",
+          "tc": "把CTC类风险与营运类风险分列核保与报价条件"
+        },
+        "lead": {
+          "sc": "就「续保策略拆分」做一次专项客户复盘",
+          "tc": "就「续保策略拆分」做一次专项客户复盘"
+        },
+        "cross": {
+          "sc": "跨境工程项目留意不同项目阶段的承保窗口与费率走向",
+          "tc": "跨境工程项目留意不同项目阶段的承保窗口与费率走向"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "boards": [
+        "market",
+        "marine"
+      ],
+      "themes": [
+        "pricing",
+        "underwriting"
+      ],
+      "tags": {
+        "sc": [
+          "离岸能源险",
+          "IUMI",
+          "建造调试风险",
+          "费率"
+        ],
+        "tc": [
+          "離岸能源險",
+          "IUMI",
+          "建造調試風險",
+          "費率"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-25T18:08:00+08:00",
+      "id": "ibm-offshore-energy-hard-pocket-20260925",
+      "publishedAt": "2026-09-25T17:13:00+08:00",
+      "title": {
+        "sc": "离岸能源险整体偏软但已出现「硬口袋」：建造与调试风险或率先收紧 [EN原文]",
+        "tc": "离岸能源险整体偏软但已出现「硬口袋」：建造与调试风险或率先收紧 [EN原文]"
+      },
+      "summary": {
+        "sc": "IUMI离岸能源委员会主席Michele Cibrario在鹿特丹年会指出，2025年全球离岸能源险保费仅增0.1%至48亿美元，软市场已延续六至七年；伦敦市场（劳合社与国际承保协会）仍占约60%份额。但细分出现分化：威利斯把海底建造形容为「微型硬市场」，Gallagher Specialty估计2025年上游费率混合下调约11%，2026年料再有双位数降幅。随着地缘扰动后项目复工及2026年资本开支上升，建造、测试与调试（CTC）风险敞口料增加；今年损失活动已高于去年同期，渐进损失正逐步侵蚀承保利润。可再生能源已占伦敦离岸能源险保费30%，2025年全球能源投资约3.3万亿美元中约三分之二投向可再生项目。",
+        "tc": "IUMI离岸能源委员会主席Michele Cibrario在鹿特丹年会指出，2025年全球离岸能源险保费仅增0.1%至48亿美元，软市场已延续六至七年；伦敦市场（劳合社与国际承保协会）仍占约60%份额。但细分出现分化：威利斯把海底建造形容为「微型硬市场」，Gallagher Specialty估计2025年上游费率混合下调约11%，2026年料再有双位数降幅。随着地缘扰动后项目复工及2026年资本开支上升，建造、测试与调试（CTC）风险敞口料增加；今年损失活动已高于去年同期，渐进损失正逐步侵蚀承保利润。可再生能源已占伦敦离岸能源险保费30%，2025年全球能源投资约3.3万亿美元中约三分之二投向可再生项目。"
+      },
+      "why": {
+        "sc": "「一个市场、两种周期」的具体分野，是谈能源与工程类企业客户续保策略时最实用的判断依据。",
+        "tc": "「一个市场、两种周期」的具体分野，是谈能源与工程类企业客户续保策略时最实用的判断依据。"
+      },
+      "source": {
+        "sc": "Insurance Business Asia（2026-09-25）[EN原文]",
+        "tc": "Insurance Business Asia（2026-09-25）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/construction/offshore-energys-soft-market-has-a-hard-pocket--and-its-about-to-get-bigger-591214.aspx"
+    },
+    {
+      "clusterCount": 1,
+      "score": 68,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "contentKind": "report",
+      "actions": {
+        "front": {
+          "sc": "不适用（属中后台治理议题）",
+          "tc": "不适用（属中后台治理议题）"
+        },
+        "midback": {
+          "sc": "检查自家AI工具的模型清单、审批与可审计记录是否齐备",
+          "tc": "检查自家AI工具的模型清单、审批与可审计记录是否齐备"
+        },
+        "lead": {
+          "sc": "把AI治理成熟度列入年度合规与科技风险议程",
+          "tc": "把AI治理成熟度列入年度合规与科技风险议程"
+        },
+        "cross": {
+          "sc": "跨境集团若共用AI工具，须厘清不同司法区的责任归属与留痕要求",
+          "tc": "跨境集团若共用AI工具，须厘清不同司法区的责任归属与留痕要求"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 3,
+        "lead": 3,
+        "cross": 1
+      },
+      "boards": [
+        "tech",
+        "reg"
+      ],
+      "themes": [
+        "ai",
+        "ai-governance"
+      ],
+      "tags": {
+        "sc": [
+          "标普",
+          "AI治理",
+          "信用评级",
+          "模型清单"
+        ],
+        "tc": [
+          "標普",
+          "AI治理",
+          "信用評級",
+          "模型清單"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-25T18:08:00+08:00",
+      "id": "ibm-sp-ai-governance-credit-factor-20260925",
+      "publishedAt": "2026-09-25T14:13:00+08:00",
+      "title": {
+        "sc": "标普：AI治理成熟度将决定险企分化，AI风险已与信用质量挂钩 [EN原文]",
+        "tc": "标普：AI治理成熟度将决定险企分化，AI风险已与信用质量挂钩 [EN原文]"
+      },
+      "summary": {
+        "sc": "标普全球评级调查121家受评再保险／保险机构，约占其该板块受评资产的38%。受访者预期到2028年AI带来6%至7%的效率提升与4%至5%的收入改善；预期AI相关成本节省超过3%的比例由2025年的16%升至2028年的80%；未来三年AI占科技预算比重将翻倍以上，集中于流程自动化、人力生产力、客户方案与风险管理。近全部受访者已建立或正在建立正式AI治理框架，约三分之二已建立模型清单。标普明言治理薄弱可能阻碍AI规模化，并导致模型失准、监管违规与昂贵整改，进而影响信用质量；AI相关的评级行动目前尚未出现。",
+        "tc": "标普全球评级调查121家受评再保险／保险机构，约占其该板块受评资产的38%。受访者预期到2028年AI带来6%至7%的效率提升与4%至5%的收入改善；预期AI相关成本节省超过3%的比例由2025年的16%升至2028年的80%；未来三年AI占科技预算比重将翻倍以上，集中于流程自动化、人力生产力、客户方案与风险管理。近全部受访者已建立或正在建立正式AI治理框架，约三分之二已建立模型清单。标普明言治理薄弱可能阻碍AI规模化，并导致模型失准、监管违规与昂贵整改，进而影响信用质量；AI相关的评级行动目前尚未出现。"
+      },
+      "why": {
+        "sc": "「AI治理」已从最佳实践变成评级与信用的输入项，对正在上AI工具的团队是明确的合规先手信号。",
+        "tc": "「AI治理」已从最佳实践变成评级与信用的输入项，对正在上AI工具的团队是明确的合规先手信号。"
+      },
+      "source": {
+        "sc": "Insurance Business Asia（2026-09-25）[EN原文]",
+        "tc": "Insurance Business Asia（2026-09-25）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/ai-governance-will-separate-winning-insurers-from-laggards--sandp-global-ratings-591174.aspx"
+    },
+    {
+      "clusterCount": 1,
+      "score": 64,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "contentKind": "news",
+      "actions": {
+        "front": {
+          "sc": "海运客户续保时提示：报价下调反映产能充裕，须同步核验条款是否同步放宽或收紧",
+          "tc": "海运客户续保时提示：报价下调反映产能充裕，须同步核验条款是否同步放宽或收紧"
+        },
+        "midback": {
+          "sc": "区分保费基数增长与费率变动，避免误读市场走向",
+          "tc": "区分保费基数增长与费率变动，避免误读市场走向"
+        },
+        "lead": {
+          "sc": "在专项险团队内做一次「规模与费率」辨析",
+          "tc": "在专项险团队内做一次「规模与费率」辨析"
+        },
+        "cross": {
+          "sc": "船东客户跨区投保时，留意欧亚两区费率走势基本同步",
+          "tc": "船东客户跨区投保时，留意欧亚两区费率走势基本同步"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "boards": [
+        "marine",
+        "market"
+      ],
+      "themes": [
+        "marine",
+        "pricing"
+      ],
+      "tags": {
+        "sc": [
+          "船舶险",
+          "IUMI",
+          "费率",
+          "保费基数"
+        ],
+        "tc": [
+          "船舶險",
+          "IUMI",
+          "費率",
+          "保費基數"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-25T18:08:00+08:00",
+      "id": "ibm-hull-premium-9-4-softening-iumi-20260925",
+      "publishedAt": "2026-09-25T10:22:00+08:00",
+      "title": {
+        "sc": "IUMI：全球船舶险保费升9.4%至105亿美元 但费率一条未涨 [EN原文]",
+        "tc": "IUMI：全球船舶险保费升9.4%至105亿美元 但费率一条未涨 [EN原文]"
+      },
+      "summary": {
+        "sc": "IUMI海洋船舶委员会主席Ilias Tsakiris在鹿特丹年会指出，2025年全球船舶险保费基数达105亿美元，同比增9.4%，欧洲占51.3%，欧洲与亚洲各增约6%至7%，拉美增幅更强但占比仍小。他强调增幅来自船队扩张、船价上升与美元走弱，「没有一条费率上升」——「这不是走强的市场，而是一个看起来在增长的软市场」。新产能持续入场为经纪提供替代选择，续保屡现降价；他警告为守份额而放松技术核保不可取，并指船队老化正带来渐进式成本压力。",
+        "tc": "IUMI海洋船舶委员会主席Ilias Tsakiris在鹿特丹年会指出，2025年全球船舶险保费基数达105亿美元，同比增9.4%，欧洲占51.3%，欧洲与亚洲各增约6%至7%，拉美增幅更强但占比仍小。他强调增幅来自船队扩张、船价上升与美元走弱，「没有一条费率上升」——「这不是走强的市场，而是一个看起来在增长的软市场」。新产能持续入场为经纪提供替代选择，续保屡现降价；他警告为守份额而放松技术核保不可取，并指船队老化正带来渐进式成本压力。"
+      },
+      "why": {
+        "sc": "保费增长不等于费率改善，这个「看似增长实则软化」的读数对任何以规模论健康的行业判断都是提醒。",
+        "tc": "保费增长不等于费率改善，这个「看似增长实则软化」的读数对任何以规模论健康的行业判断都是提醒。"
+      },
+      "source": {
+        "sc": "Insurance Business Asia（2026-09-25）[EN原文]",
+        "tc": "Insurance Business Asia（2026-09-25）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/marine/hull-premium-growth-of-9-4-masks-a-softening-market--iumi-591143.aspx"
+    },
+    {
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "artemis",
+      "contentKind": "news",
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "在大型科技／工业客户的风险查勘中增加「数据与算力资产」敞口识别",
+          "tc": "在大型科技／工业客户的风险查勘中增加「数据与算力资产」敞口识别"
+        },
+        "lead": {
+          "sc": "把数据中心累积风险列为高价值财产险的新增风险类别",
+          "tc": "把数据中心累积风险列为高价值财产险的新增风险类别"
+        },
+        "cross": {
+          "sc": "跨境集团客户的全球财产组合，可借此讨论累积敞口与再保安排",
+          "tc": "跨境集团客户的全球财产组合，可借此讨论累积敞口与再保安排"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 2,
+        "lead": 3,
+        "cross": 2
+      },
+      "boards": [
+        "ils",
+        "tech"
+      ],
+      "themes": [
+        "ils",
+        "cat-risk"
+      ],
+      "tags": {
+        "sc": [
+          "ILS",
+          "数据中心",
+          "巨灾产能",
+          "LGT"
+        ],
+        "tc": [
+          "ILS",
+          "數據中心",
+          "巨災產能",
+          "LGT"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-25T18:08:00+08:00",
+      "id": "artemis-ils-datacentre-capacity-stahel-lgt-20260925",
+      "publishedAt": "2026-09-25",
+      "title": {
+        "sc": "LGT的Stahel：ILS资本很适合补位数据中心巨灾产能缺口 [EN原文]",
+        "tc": "LGT的Stahel：ILS资本很适合补位数据中心巨灾产能缺口 [EN原文]"
+      },
+      "summary": {
+        "sc": "LGT ILS Partners合伙人兼投资组合经理Michael Stahel指出，AI与云端基础设施扩张正推动超大规模数据中心园区投资，令数据中心成为美国最大的新增可保财产价值来源之一；单体园区价值可达数百亿美元，且常位于受本地天气风险影响的区域，形成「规模＋累积」双重特征。他认为营运风险（技术故障、网络事故、设备过时）主要由专业保险公司承担，但冰雹、强对流风暴、龙卷风、地震与洪水等巨灾产能需求，正是另类资本可发挥作用的领域，关键是「不只做灾害建模，还要理解这些巨额价值如何与整体组合互动」，需要巨灾建模、纪律性敞口管理与累积控制并重。LGT ILS Partners已就此设立专项工作组。",
+        "tc": "LGT ILS Partners合伙人兼投资组合经理Michael Stahel指出，AI与云端基础设施扩张正推动超大规模数据中心园区投资，令数据中心成为美国最大的新增可保财产价值来源之一；单体园区价值可达数百亿美元，且常位于受本地天气风险影响的区域，形成「规模＋累积」双重特征。他认为营运风险（技术故障、网络事故、设备过时）主要由专业保险公司承担，但冰雹、强对流风暴、龙卷风、地震与洪水等巨灾产能需求，正是另类资本可发挥作用的领域，关键是「不只做灾害建模，还要理解这些巨额价值如何与整体组合互动」，需要巨灾建模、纪律性敞口管理与累积控制并重。LGT ILS Partners已就此设立专项工作组。"
+      },
+      "why": {
+        "sc": "数据中心把「科技资产」变成巨灾累积敞口，是ILS与另类资本下一块增量市场，也是香港发展ILS生态圈可借用的最新叙事。",
+        "tc": "数据中心把「科技资产」变成巨灾累积敞口，是ILS与另类资本下一块增量市场，也是香港发展ILS生态圈可借用的最新叙事。"
+      },
+      "source": {
+        "sc": "Artemis.bm（2026-09-25）[EN原文]",
+        "tc": "Artemis.bm（2026-09-25）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://www.artemis.bm/news/ils-capital-providers-well-positioned-to-complement-reinsurers-data-centre-needs-stahel-lgt/"
+    },
+    {
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "artemis",
+      "contentKind": "report",
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "把巨灾债损失倍数纳入ILS市场热度观察指标",
+          "tc": "把巨灾债损失倍数纳入ILS市场热度观察指标"
+        },
+        "lead": {
+          "sc": "在ILS生态圈议题讨论中引用投资者选择性上升的判断",
+          "tc": "在ILS生态圈议题讨论中引用投资者选择性上升的判断"
+        },
+        "cross": {
+          "sc": "涉及第三方资本配置的客户沟通，提示回报与选择性同步变化",
+          "tc": "涉及第三方资本配置的客户沟通，提示回报与选择性同步变化"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "boards": [
+        "ils",
+        "market"
+      ],
+      "themes": [
+        "ils",
+        "cat-risk"
+      ],
+      "tags": {
+        "sc": [
+          "AM Best",
+          "巨灾债券",
+          "损失倍数",
+          "ILS"
+        ],
+        "tc": [
+          "AM Best",
+          "巨災債券",
+          "損失倍數",
+          "ILS"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-25T18:08:00+08:00",
+      "id": "artemis-am-best-cat-bond-selectivity-20260925",
+      "publishedAt": "2026-09-25",
+      "title": {
+        "sc": "AM Best：巨灾债券损失倍数收窄 建议投资者提高选择性 [EN原文]",
+        "tc": "AM Best：巨灾债券损失倍数收窄 建议投资者提高选择性 [EN原文]"
+      },
+      "summary": {
+        "sc": "AM Best指出，2026年上半年巨灾债券损失倍数持续收窄，评级机构建议投资者在选择交易时提高选择性。文章回顾上半年市场状况，并讨论损失倍数走低对投资者定价与风险调整后回报判断的影响。",
+        "tc": "AM Best指出，2026年上半年巨灾债券损失倍数持续收窄，评级机构建议投资者在选择交易时提高选择性。文章回顾上半年市场状况，并讨论损失倍数走低对投资者定价与风险调整后回报判断的影响。"
+      },
+      "why": {
+        "sc": "损失倍数与价差同步走软，是判断ILS市场是否进入「低回报、高选择」阶段的直接指标。",
+        "tc": "损失倍数与价差同步走软，是判断ILS市场是否进入「低回报、高选择」阶段的直接指标。"
+      },
+      "source": {
+        "sc": "Artemis.bm（2026-09-25）[EN原文]",
+        "tc": "Artemis.bm（2026-09-25）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://www.artemis.bm/news/as-cat-bond-loss-multiples-tighten-am-best-urges-investors-towards-greater-selectivity/"
+    },
+    {
+      "clusterCount": 1,
+      "score": 68,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "artemis",
+      "contentKind": "news",
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "把直保集团资本方案团队扩编列入同业人才动向观察",
+          "tc": "把直保集团资本方案团队扩编列入同业人才动向观察"
+        },
+        "lead": {
+          "sc": "在ILS／另类资本议题上留意潜在合作与人才流向",
+          "tc": "在ILS／另类资本议题上留意潜在合作与人才流向"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 2,
+        "cross": 0
+      },
+      "boards": [
+        "insurer",
+        "ils"
+      ],
+      "themes": [
+        "ils",
+        "talent"
+      ],
+      "tags": {
+        "sc": [
+          "Liberty Mutual",
+          "资本方案",
+          "ILS",
+          "人事"
+        ],
+        "tc": [
+          "Liberty Mutual",
+          "資本方案",
+          "ILS",
+          "人事"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-25T18:08:00+08:00",
+      "id": "artemis-liberty-mutual-sinniah-capital-solutions-20260925",
+      "publishedAt": "2026-09-25",
+      "title": {
+        "sc": "Liberty Mutual Insurance自Miller延揽Shaun Sinniah 掌全球风险解决方案资本方案 [EN原文]",
+        "tc": "Liberty Mutual Insurance自Miller延揽Shaun Sinniah 掌全球风险解决方案资本方案 [EN原文]"
+      },
+      "summary": {
+        "sc": "Liberty Mutual Insurance宣布自Miller延揽Shaun Sinniah，出任全球风险解决方案（Global Risk Solutions）资本方案主管（Head of Capital Solutions）。这是Liberty Mutual体系近日第二项与ILS／资本方案相关的关键人事安排。",
+        "tc": "Liberty Mutual Insurance宣布自Miller延揽Shaun Sinniah，出任全球风险解决方案（Global Risk Solutions）资本方案主管（Head of Capital Solutions）。这是Liberty Mutual体系近日第二项与ILS／资本方案相关的关键人事安排。"
+      },
+      "why": {
+        "sc": "直保集团连续在资本方案条线补人，是把保险风险当资产类别经营的延续信号。",
+        "tc": "直保集团连续在资本方案条线补人，是把保险风险当资产类别经营的延续信号。"
+      },
+      "source": {
+        "sc": "Artemis.bm（2026-09-25）[EN原文]",
+        "tc": "Artemis.bm（2026-09-25）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://www.artemis.bm/news/liberty-mutual-insurance-hires-sinniah-as-head-of-capital-solutions-global-risk-solutions/"
+    },
+    {
+      "clusterCount": 1,
+      "score": 66,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "scmp",
+      "contentKind": "speech",
+      "actions": {
+        "front": {
+          "sc": "与高净值客户谈传承时，先厘清「家办」与「保单架构」的分工而非互相替代",
+          "tc": "与高净值客户谈传承时，先厘清「家办」与「保单架构」的分工而非互相替代"
+        },
+        "midback": {
+          "sc": "更新家办生态圈合作名单与转介网络（律所／信托／税务）",
+          "tc": "更新家办生态圈合作名单与转介网络（律所／信托／税务）"
+        },
+        "lead": {
+          "sc": "在传承主题培训中补入香港家办规模与政策优惠的最新口径",
+          "tc": "在传承主题培训中补入香港家办规模与政策优惠的最新口径"
+        },
+        "cross": {
+          "sc": "跨境家族客户的重点在「信心转移」与治理，而非单纯资产与收益比较",
+          "tc": "跨境家族客户的重点在「信心转移」与治理，而非单纯资产与收益比较"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 3,
+        "cross": 2
+      },
+      "boards": [
+        "family",
+        "market"
+      ],
+      "themes": [
+        "family-office",
+        "taxation"
+      ],
+      "tags": {
+        "sc": [
+          "家族办公室",
+          "财富传承",
+          "财库局",
+          "税务优惠"
+        ],
+        "tc": [
+          "家族辦公室",
+          "財富傳承",
+          "財庫局",
+          "稅務優惠"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-25T18:08:00+08:00",
+      "id": "scmp-family-wealth-nextgen-hk-3380-family-offices-20260925",
+      "publishedAt": "2026-09-25T07:00:00+08:00",
+      "title": {
+        "sc": "香港家族财富进入新阶段：财库局署理局长指单一家办已逾3,380间、两年增25%",
+        "tc": "香港家族财富进入新阶段：财库局署理局长指单一家办已逾3,380间、两年增25%"
+      },
+      "summary": {
+        "sc": "SCMP「Redefining Hong Kong: Next Generation Wealth 2026」会议9月21日在港举行。财经事务及库务局署理局长Joseph HL Chan致辞指，香港凭普通法制度、资金自由流动、低税制及与内地和全球市场的连接，具备服务超高净值家族的条件；现时香港有超过3,380间单一家族办公室，两年内增加25%。他并指拟议的另类资产税务优惠（包括数字资产与绿色债券）将进一步强化香港在跨代财富规划中的角色。会上Sun Life Private Wealth、E Fund HK、Howden Private Wealth等参与，Sun Life Private Wealth首席执行官Sujoy Ghosh提出「成功的传承不只是资产转移，而是信心转移」。",
+        "tc": "SCMP「Redefining Hong Kong: Next Generation Wealth 2026」会议9月21日在港举行。财经事务及库务局署理局长Joseph HL Chan致辞指，香港凭普通法制度、资金自由流动、低税制及与内地和全球市场的连接，具备服务超高净值家族的条件；现时香港有超过3,380间单一家族办公室，两年内增加25%。他并指拟议的另类资产税务优惠（包括数字资产与绿色债券）将进一步强化香港在跨代财富规划中的角色。会上Sun Life Private Wealth、E Fund HK、Howden Private Wealth等参与，Sun Life Private Wealth首席执行官Sujoy Ghosh提出「成功的传承不只是资产转移，而是信心转移」。"
+      },
+      "why": {
+        "sc": "3,380间单一家办与「两年增25%」是香港家办政策成效最常被引用的官方口径，谈高客与传承话题时可直接使用。",
+        "tc": "3,380间单一家办与「两年增25%」是香港家办政策成效最常被引用的官方口径，谈高客与传承话题时可直接使用。"
+      },
+      "source": {
+        "sc": "SCMP（2026-09-24／会议9月21日）",
+        "tc": "SCMP（2026-09-24／會議9月21日）",
+        "lang": "en"
+      },
+      "originalUrl": "https://www.scmp.com/presented/business/topics/remarketing/article/3368473/live-conversation-family-wealth-enters-new-era"
+    },
+    {
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "scmp",
+      "contentKind": "news",
+      "actions": {
+        "front": {
+          "sc": "企业客户HR谈及集团化整合时，可借本案例引出福利标准化诉求",
+          "tc": "企业客户HR谈及集团化整合时，可借本案例引出福利标准化诉求"
+        },
+        "midback": {
+          "sc": "把「合并后福利统一」列为集团客户EB方案的常见触发场景",
+          "tc": "把「合并后福利统一」列为集团客户EB方案的常见触发场景"
+        },
+        "lead": {
+          "sc": "在EB业务复盘中检视集团客户整合期的切入时点",
+          "tc": "在EB业务复盘中检视集团客户整合期的切入时点"
+        },
+        "cross": {
+          "sc": "跨境集团客户的福利统一须同时处理不同地区法定要求差异",
+          "tc": "跨境集团客户的福利统一须同时处理不同地区法定要求差异"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "boards": [
+        "product",
+        "market"
+      ],
+      "themes": [
+        "channel",
+        "talent"
+      ],
+      "tags": {
+        "sc": [
+          "汇丰",
+          "恒生银行",
+          "雇员福利",
+          "集团整合"
+        ],
+        "tc": [
+          "滙豐",
+          "恒生銀行",
+          "僱員福利",
+          "集團整合"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-25T18:08:00+08:00",
+      "id": "scmp-hsbc-hangseng-unify-staff-benefits-20260925",
+      "publishedAt": "2026-09-25T13:26:00+08:00",
+      "title": {
+        "sc": "汇丰与恒生明年1月起统一香港员工福利：病假上限180天、高管住院保障上调、医疗弹性账户可家庭共用",
+        "tc": "汇丰与恒生明年1月起统一香港员工福利：病假上限180天、高管住院保障上调、医疗弹性账户可家庭共用"
+      },
+      "summary": {
+        "sc": "据SCMP取得的内部通告，汇丰与其香港主要子公司恒生银行将自2027年1月1日起统一香港员工福利框架，目的是简化福利行政、建立共同标准并便利内部人才流动。汇丰香港行政总裁Maggie Ng向员工发信指大部分现有福利将改善或维持不变，部分员工或因个别情况需调整。新安排包括统一病假制度（按月累积、上限180天）、提高高级管理人员及其家属的住院保障上限，以及医疗弹性支出账户新增家庭共用选项。",
+        "tc": "据SCMP取得的内部通告，汇丰与其香港主要子公司恒生银行将自2027年1月1日起统一香港员工福利框架，目的是简化福利行政、建立共同标准并便利内部人才流动。汇丰香港行政总裁Maggie Ng向员工发信指大部分现有福利将改善或维持不变，部分员工或因个别情况需调整。新安排包括统一病假制度（按月累积、上限180天）、提高高级管理人员及其家属的住院保障上限，以及医疗弹性支出账户新增家庭共用选项。"
+      },
+      "why": {
+        "sc": "大型金融集团把两套福利体系统一为单一标准，是观察香港僱员福利（EB）市场「集团化、标准化」走向的具体案例。",
+        "tc": "大型金融集团把两套福利体系统一为单一标准，是观察香港僱员福利（EB）市场「集团化、标准化」走向的具体案例。"
+      },
+      "source": {
+        "sc": "SCMP（2026-09-25）",
+        "tc": "SCMP（2026-09-25）",
+        "lang": "en"
+      },
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3368763/hsbc-hang-seng-unify-staff-benefits-across-hong-kong-january-internal-memos"
+    },
+    {
+      "clusterCount": 1,
+      "score": 64,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "scmp",
+      "contentKind": "speech",
+      "actions": {
+        "front": {
+          "sc": "与客户谈服务触达时，说明网点减少不等于服务减少，关键在可验证的线上与人工结合方式",
+          "tc": "与客户谈服务触达时，说明网点减少不等于服务减少，关键在可验证的线上与人工结合方式"
+        },
+        "midback": {
+          "sc": "把「实体网点永久收缩」纳入分销渠道规划的长期假设",
+          "tc": "把「实体网点永久收缩」纳入分销渠道规划的长期假设"
+        },
+        "lead": {
+          "sc": "在渠道策略讨论中对照银行业的触点重构经验",
+          "tc": "在渠道策略讨论中对照银行业的触点重构经验"
+        },
+        "cross": {
+          "sc": "跨境客户的远程服务需求上升，须同步检视线上开户与签单的合规边界",
+          "tc": "跨境客户的远程服务需求上升，须同步检视线上开户与签单的合规边界"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 3,
+        "cross": 1
+      },
+      "boards": [
+        "market",
+        "tech"
+      ],
+      "themes": [
+        "channel",
+        "digital"
+      ],
+      "tags": {
+        "sc": [
+          "银行分行",
+          "分销渠道",
+          "香港银行学会",
+          "数字化转型"
+        ],
+        "tc": [
+          "銀行分行",
+          "分銷渠道",
+          "香港銀行學會",
+          "數字化轉型"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-25T18:08:00+08:00",
+      "id": "scmp-hk-bank-branches-down-40pct-20260925",
+      "publishedAt": "2026-09-25T18:01:00+08:00",
+      "title": {
+        "sc": "香港银行分行数目较1,500间减四成至约900间 银行CEO：客户凌晨两点也在交易，实体网点模式已变",
+        "tc": "香港银行分行数目较1,500间减四成至约900间 银行CEO：客户凌晨两点也在交易，实体网点模式已变"
+      },
+      "summary": {
+        "sc": "在香港银行学会年会的论坛上，上海商业银行行政总裁Sunny Cheung指出，香港持牌银行数目多年稳定在约150间，但分行数目已由约1,500间减少约40%至约900间，反映银行业务模式已经改变；富邦银行（香港）行政总裁兼董事总经理Simon Chung在同一论坛表示，这一转变是永久性的。文章指客户已习惯在凌晨时段办理转账，并借助AI协助投资规划，遍设分行的传统模式不再合理。",
+        "tc": "在香港银行学会年会的论坛上，上海商业银行行政总裁Sunny Cheung指出，香港持牌银行数目多年稳定在约150间，但分行数目已由约1,500间减少约40%至约900间，反映银行业务模式已经改变；富邦银行（香港）行政总裁兼董事总经理Simon Chung在同一论坛表示，这一转变是永久性的。文章指客户已习惯在凌晨时段办理转账，并借助AI协助投资规划，遍设分行的传统模式不再合理。"
+      },
+      "why": {
+        "sc": "银行渠道的实体触点以四成幅度收缩且被定义为永久性，是讨论保险分销触点（分行／代理／线上）演进时最直接的同业参照。",
+        "tc": "银行渠道的实体触点以四成幅度收缩且被定义为永久性，是讨论保险分销触点（分行／代理／线上）演进时最直接的同业参照。"
+      },
+      "source": {
+        "sc": "SCMP（2026-09-25）",
+        "tc": "SCMP（2026-09-25）",
+        "lang": "en"
+      },
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3368820/why-hong-kong-banks-have-shut-down-40-branches-recent-years"
+    },
     {
       "id": "artemis-liberty-mutual-brooks-ils-20260924",
       "clusterCount": 1,
@@ -72478,6 +74325,37 @@
   "digests": {
     "daily": [
       {
+        "key": "2026-09-25",
+        "label": {
+          "sc": "2026-09-25",
+          "tc": "2026-09-25"
+        },
+        "itemCount": 21,
+        "itemIds": [
+          "hkma-scam-alert-banks-20260925",
+          "hkma-retail-bond-coupons-3-85-4-75-20260925",
+          "ian-iag-credit-suisse-greensill-20260925",
+          "ian-chubb-lulu-tsai-hk-marine-20260925",
+          "ian-verdant-rock-30pct-quota-share-20260925",
+          "ian-iumi-rotterdam-three-takeaways-20260925",
+          "iaasia-prudential-sg-unit-trusts-5400-20260925",
+          "iaasia-prudential-gba-travel-lite-20260925",
+          "iaasia-singlife-388y-heritage-reserve-20260925",
+          "iaasia-taiwan-life-q2-investment-gains-20260925",
+          "iaasia-apac-reinsurers-overseas-705b-20260925",
+          "ibm-cyber-alerts-falling-risk-20260925",
+          "ibm-offshore-energy-hard-pocket-20260925",
+          "ibm-sp-ai-governance-credit-factor-20260925",
+          "ibm-hull-premium-9-4-softening-iumi-20260925",
+          "artemis-ils-datacentre-capacity-stahel-lgt-20260925",
+          "artemis-am-best-cat-bond-selectivity-20260925",
+          "artemis-liberty-mutual-sinniah-capital-solutions-20260925",
+          "scmp-family-wealth-nextgen-hk-3380-family-offices-20260925",
+          "scmp-hsbc-hangseng-unify-staff-benefits-20260925",
+          "scmp-hk-bank-branches-down-40pct-20260925"
+        ]
+      },
+      {
         "key": "2026-09-24",
         "label": {
           "sc": "2026-09-24",
@@ -80514,19 +82392,19 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 970 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 970 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 993 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 993 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 970,
+      "totalItems": 993,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 279,
+          "count": 282,
           "label": "监管一手"
         },
         {
           "tier": "insurer",
-          "count": 153,
+          "count": 154,
           "label": "保司公告"
         },
         {
@@ -80536,12 +82414,12 @@
         },
         {
           "tier": "media",
-          "count": 347,
+          "count": 359,
           "label": "媒体报道"
         },
         {
           "tier": "pro",
-          "count": 159,
+          "count": 166,
           "label": "专业解读"
         },
         {
@@ -80615,7 +82493,7 @@
       "topThemes": [
         {
           "theme": "market",
-          "count": 203,
+          "count": 205,
           "label": "市场"
         },
         {
@@ -80630,17 +82508,17 @@
         },
         {
           "theme": "product",
-          "count": 96,
+          "count": 99,
           "label": "产品"
         },
         {
           "theme": "compliance",
-          "count": 89,
+          "count": 90,
           "label": "合规"
         },
         {
           "theme": "reinsurance",
-          "count": 77,
+          "count": 79,
           "label": "再保险"
         },
         {
@@ -80650,23 +82528,23 @@
         },
         {
           "theme": "cross-border",
-          "count": 70,
+          "count": 71,
           "label": "跨境"
         },
         {
           "theme": "channel",
-          "count": 62,
+          "count": 65,
           "label": "渠道"
         },
         {
-          "theme": "macro",
+          "theme": "ai",
           "count": 55,
-          "label": "宏观"
+          "label": "人工智能"
         }
       ],
       "dateRange": {
-        "sc": "2013-03-05 ~ 2026-09-24",
-        "tc": "2013-03-05 ~ 2026-09-24"
+        "sc": "2013-03-05 ~ 2026-09-25",
+        "tc": "2013-03-05 ~ 2026-09-25"
       }
     },
     "marketData": {
