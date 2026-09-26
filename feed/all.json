@@ -1,9 +1,48 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-26T04:59:18Z",
-  "itemCount": 1001,
+  "generatedAt": "2026-09-26T16:10:33Z",
+  "itemCount": 1004,
   "items": [
+    {
+      "id": "nfra-monthly-premium-aug2026-20260924",
+      "title": "内地保险业2026年前8月原保费48,192亿元仅增0.4%：人身险单月转负13.6%（高基数），财险增2.2%保持稳健",
+      "sourceTier": "official",
+      "themes": [
+        "market",
+        "results"
+      ],
+      "publishedAt": "2026-09-24",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-monthly-premium-aug2026-20260924",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemList.html?itemPId=953&itemId=954"
+    },
+    {
+      "id": "iaasia-offshore-energy-iumi-claims-20260925",
+      "title": "IUMI：离岸能源险全球保费48亿美元仅增0.1% 累计性索赔上升侵蚀盈利，可再生能源占伦敦市场三成 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "specialty",
+        "pricing"
+      ],
+      "publishedAt": "2026-09-25T06:00:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-offshore-energy-iumi-claims-20260925",
+      "originalUrl": "https://insuranceasia.com/insurance/news/offshore-energy-insurers-face-rising-claims-pressure"
+    },
+    {
+      "id": "iaasia-tata-aia-momentum-value-50-ulip-20260925",
+      "title": "印度Tata AIA推「Momentum Value 50」指数型投连选项：动量＋价值双策略并保留寿险保障 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "product",
+        "investment-linked"
+      ],
+      "publishedAt": "2026-09-25T06:30:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-tata-aia-momentum-value-50-ulip-20260925",
+      "originalUrl": "https://insuranceasia.com/insurance/news/tata-aia-launches-new-unit-linked-investment-option"
+    },
     {
       "id": "ian-hk-pcc-fiveyearplan-20260926",
       "title": "香港的區域野心與「PCC這張牌」：五年規劃研究引入受保護單元公司制度，降低自保與ILS設立成本 [EN原文]",
