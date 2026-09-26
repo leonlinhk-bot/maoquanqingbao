@@ -1,11 +1,11 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-09-25T18:08:00+08:00",
-    "itemCount": 993,
+    "generatedAt": "2026-09-26T12:55:00+08:00",
+    "itemCount": 1001,
     "windowNote": {
-      "sc": "本库993条。",
-      "tc": "本庫993條。"
+      "sc": "本库1001条。",
+      "tc": "本庫1001條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -302,6 +302,643 @@ window.HKII_DATA = {
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "clusterCount": 1,
+      "score": 72,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "insuranceasianews",
+      "contentKind": "report",
+      "actions": {
+        "front": {
+          "sc": "与有跨境资产或企业风险管理需求的客户谈话时，可提及香港正研究自保与PCC等风险隔离架构",
+          "tc": "与有跨境资产或企业风险管理需求的客户谈话时，可提及香港正研究自保与PCC等风险隔离架构"
+        },
+        "midback": {
+          "sc": "把PCC、自保与ILS列入产品／架构预研清单，跟踪后续咨询与立法时点",
+          "tc": "把PCC、自保与ILS列入产品／架构预研清单，跟踪后续咨询与立法时点"
+        },
+        "lead": {
+          "sc": "把五年规划中保险条款的落地进度列为战略级跟踪议题",
+          "tc": "把五年规划中保险条款的落地进度列为战略级跟踪议题"
+        },
+        "cross": {
+          "sc": "跨境企业客户的多项目风险隔离需求可提早摸底，为未来自保方案做准备",
+          "tc": "跨境企业客户的多项目风险隔离需求可提早摸底，为未来自保方案做准备"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 3,
+        "cross": 2
+      },
+      "boards": [
+        "reg",
+        "ils"
+      ],
+      "themes": [
+        "five-year-plan",
+        "captive"
+      ],
+      "tags": {
+        "sc": [
+          "五年規劃",
+          "PCC",
+          "專屬自保",
+          "ILS",
+          "風險管理中心"
+        ],
+        "tc": [
+          "五年規劃",
+          "PCC",
+          "專屬自保",
+          "ILS",
+          "風險管理中心"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-26T12:55:00+08:00",
+      "id": "ian-hk-pcc-fiveyearplan-20260926",
+      "publishedAt": "2026-09-26T08:00:00+08:00",
+      "title": {
+        "sc": "香港的區域野心與「PCC這張牌」：五年規劃研究引入受保護單元公司制度，降低自保與ILS設立成本 [EN原文]",
+        "tc": "香港的區域野心與「PCC這張牌」：五年規劃研究引入受保護單元公司制度，降低自保與ILS設立成本 [EN原文]"
+      },
+      "summary": {
+        "sc": "InsuranceAsia News总编周评指出，香港首个五年规划把保险与「全球风险管理中心」定位置于核心，其中最受关注的是研究引入受保护单元公司（PCC）制度——允许在单一法律实体下设立多个风险隔离「单元」，可较反复设立独立特殊目的实体更快、更便宜地承载专属自保与保险相连证券（ILS），并有助吸引侧车及私募ILS工具。规划同时提出持续推动ILS、收窄巨灾保障缺口、检视投资者限制以「搞活」ILS基金交易市场，并扩大黄金仓储、大宗商品交易与绿色燃料加注的承保胃口、扩容海运风险池。文章指新加坡PCC咨询已设2028年落地目标且涵盖自保、ILS与主权风险池，香港虽具贴近内地、产业联系与人才优势，现阶段仍属必要追赶，关键在落地执行。",
+        "tc": "InsuranceAsia News总编周评指出，香港首个五年规划把保险与「全球风险管理中心」定位置于核心，其中最受关注的是研究引入受保护单元公司（PCC）制度——允许在单一法律实体下设立多个风险隔离「单元」，可较反复设立独立特殊目的实体更快、更便宜地承载专属自保与保险相连证券（ILS），并有助吸引侧车及私募ILS工具。规划同时提出持续推动ILS、收窄巨灾保障缺口、检视投资者限制以「搞活」ILS基金交易市场，并扩大黄金仓储、大宗商品交易与绿色燃料加注的承保胃口、扩容海运风险池。文章指新加坡PCC咨询已设2028年落地目标且涵盖自保、ILS与主权风险池，香港虽具贴近内地、产业联系与人才优势，现阶段仍属必要追赶，关键在落地执行。"
+      },
+      "why": {
+        "sc": "这是把「香港做全球风险管理中心」从口号拆成制度动作的一篇：PCC、自保与ILS是公司与高客层面可以预判的新赛道。",
+        "tc": "这是把「香港做全球风险管理中心」从口号拆成制度动作的一篇：PCC、自保与ILS是公司与高客层面可以预判的新赛道。"
+      },
+      "source": {
+        "sc": "InsuranceAsia News（2026-09-26）[EN原文]",
+        "tc": "InsuranceAsia News（2026-09-26）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://insuranceasianews.com/hong-kongs-regional-ambitions-and-the-pcc-bet/"
+    },
+    {
+      "clusterCount": 1,
+      "score": 66,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "contentKind": "news",
+      "actions": {
+        "front": {
+          "sc": "客户问「网上报价是否足够」时，说明线上工具解决效率、专业建议解决适配",
+          "tc": "客户问「网上报价是否足够」时，说明线上工具解决效率、专业建议解决适配"
+        },
+        "midback": {
+          "sc": "把第二医疗意见、专科转介、纾缓治疗等非财务支援加入医疗方案的对照表",
+          "tc": "把第二医疗意见、专科转介、纾缓治疗等非财务支援加入医疗方案的对照表"
+        },
+        "lead": {
+          "sc": "检视自家电子渠道与AI客服的覆盖率，避免客户体验落后同业",
+          "tc": "检视自家电子渠道与AI客服的覆盖率，避免客户体验落后同业"
+        },
+        "cross": {
+          "sc": "内地客户对香港线上投保流程与后续服务支援的期待正在提高",
+          "tc": "内地客户对香港线上投保流程与后续服务支援的期待正在提高"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "boards": [
+        "tech",
+        "product"
+      ],
+      "themes": [
+        "ai",
+        "health"
+      ],
+      "tags": {
+        "sc": [
+          "AI客服",
+          "在線投保",
+          "醫療禮賓",
+          "FWD",
+          "Cigna",
+          "Singlife"
+        ],
+        "tc": [
+          "AI客服",
+          "在線投保",
+          "醫療禮賓",
+          "FWD",
+          "Cigna",
+          "Singlife"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-26T12:55:00+08:00",
+      "id": "iaasia-week-in-ai-care-platform-20260926",
+      "publishedAt": "2026-09-26T05:00:00+08:00",
+      "title": {
+        "sc": "一周回顾：Singlife扩展AI客服、FWD香港升级Care平台（养和／宁养合作）、Cigna香港网上投保访问量升38% [EN原文]",
+        "tc": "一周回顾：Singlife扩展AI客服、FWD香港升级Care平台（养和／宁养合作）、Cigna香港网上投保访问量升38% [EN原文]"
+      },
+      "summary": {
+        "sc": "InsuranceAsia回顾9月21至25日动态：Singlife与Salesforce扩大AI应用，其一般保险电邮智能代理已处理逾20%的客户电邮查询，平均处理时间降30%、新人培训时间减半；Cigna Healthcare香港网上投保平台访问量同比升38%；FWD香港升级FWD Care平台，与养和医疗集团及灵实司务道宁养院合作，新增阿尔茨海默病免费早期检测、扩大的癌症第二医疗意见及纾缓治疗转介，并引调查指78%受访者认为专科转介与第二意见等非财务支援与理赔同等重要。同周另有Etiqa新加坡旅险奖励计划与Zurich Kotak印度中小企业数字化方案。",
+        "tc": "InsuranceAsia回顾9月21至25日动态：Singlife与Salesforce扩大AI应用，其一般保险电邮智能代理已处理逾20%的客户电邮查询，平均处理时间降30%、新人培训时间减半；Cigna Healthcare香港网上投保平台访问量同比升38%；FWD香港升级FWD Care平台，与养和医疗集团及灵实司务道宁养院合作，新增阿尔茨海默病免费早期检测、扩大的癌症第二医疗意见及纾缓治疗转介，并引调查指78%受访者认为专科转介与第二意见等非财务支援与理赔同等重要。同周另有Etiqa新加坡旅险奖励计划与Zurich Kotak印度中小企业数字化方案。"
+      },
+      "why": {
+        "sc": "三则香港相关动态（AI客服、在线投保、医疗礼宾）都在把「数字化触点＋非财务支援」做成标配，是团队与客户沟通时必须跟上的同业基准。",
+        "tc": "三则香港相关动态（AI客服、在线投保、医疗礼宾）都在把「数字化触点＋非财务支援」做成标配，是团队与客户沟通时必须跟上的同业基准。"
+      },
+      "source": {
+        "sc": "InsuranceAsia（2026-09-26）[EN原文]",
+        "tc": "InsuranceAsia（2026-09-26）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://insuranceasia.com/insurance/news/week-in-insurance-singlife-scales-ai-adoption-fwd-upgrades-care-platform-and-rewards-programmes-drive-engagement"
+    },
+    {
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "artemis",
+      "contentKind": "report",
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "在大型科技／工业客户风险查勘中增加数据中心与产线累积敞口识别",
+          "tc": "在大型科技／工业客户风险查勘中增加数据中心与产线累积敞口识别"
+        },
+        "lead": {
+          "sc": "在ILS与巨灾保障缺口议题上引用最新权威口径（连结度+24%、气候提及+31%）",
+          "tc": "在ILS与巨灾保障缺口议题上引用最新权威口径（连结度+24%、气候提及+31%）"
+        },
+        "cross": {
+          "sc": "跨境集团客户的总部与产线分布，可作为累积风险讨论的切入起点",
+          "tc": "跨境集团客户的总部与产线分布，可作为累积风险讨论的切入起点"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 2,
+        "lead": 3,
+        "cross": 1
+      },
+      "boards": [
+        "ils",
+        "market"
+      ],
+      "themes": [
+        "ils",
+        "systemic-risk"
+      ],
+      "tags": {
+        "sc": [
+          "瑞士再保險",
+          "LSE",
+          "系統性風險",
+          "ILS",
+          "數據中心"
+        ],
+        "tc": [
+          "瑞士再保險",
+          "LSE",
+          "系統性風險",
+          "ILS",
+          "數據中心"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-26T12:55:00+08:00",
+      "id": "artemis-swissre-lse-systemic-risk-ils-20260925",
+      "publishedAt": "2026-09-25T19:15:00+08:00",
+      "title": {
+        "sc": "瑞再研究院与LSE：AI与供应链令风险连结度升24%，系统性风险需靠扩大ILS产能承接 [EN原文]",
+        "tc": "瑞再研究院与LSE：AI与供应链令风险连结度升24%，系统性风险需靠扩大ILS产能承接 [EN原文]"
+      },
+      "summary": {
+        "sc": "瑞士再研究院与伦敦政治经济学院（LSE）联合分析91家《财富》100强企业2019至2026年的申报文件，发现风险之间的连结增加24%，人工智能与供应链成为关键连接点，企业提及气候风险的次数较2019年增约31%。研究指系统性风险正横跨金融、数字、自然巨灾与社会经济体系：美国逾25%数据中心暴露于高频大冰雹、逾40%处于龙卷风带，台湾88%半导体厂房位于极强震区。瑞再集团首席经济学家Jérôme Haegeli指高债务与政策缓冲受限，韧性必须在危机前建立，包括持有转移风险的能力；两机构据此把ILS列为扩大产能的关键资本来源。",
+        "tc": "瑞士再研究院与伦敦政治经济学院（LSE）联合分析91家《财富》100强企业2019至2026年的申报文件，发现风险之间的连结增加24%，人工智能与供应链成为关键连接点，企业提及气候风险的次数较2019年增约31%。研究指系统性风险正横跨金融、数字、自然巨灾与社会经济体系：美国逾25%数据中心暴露于高频大冰雹、逾40%处于龙卷风带，台湾88%半导体厂房位于极强震区。瑞再集团首席经济学家Jérôme Haegeli指高债务与政策缓冲受限，韧性必须在危机前建立，包括持有转移风险的能力；两机构据此把ILS列为扩大产能的关键资本来源。"
+      },
+      "why": {
+        "sc": "把「AI＋供应链＋巨灾」的交叠换算成可量化的连结度上升，是香港推ILS与收窄巨灾保障缺口议题最新的权威背书。",
+        "tc": "把「AI＋供应链＋巨灾」的交叠换算成可量化的连结度上升，是香港推ILS与收窄巨灾保障缺口议题最新的权威背书。"
+      },
+      "source": {
+        "sc": "Artemis.bm（2026-09-25）[EN原文]",
+        "tc": "Artemis.bm（2026-09-25）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://www.artemis.bm/news/interconnected-systemic-risks-highlight-need-to-expand-ils-capacity-swiss-re-lse/"
+    },
+    {
+      "clusterCount": 1,
+      "score": 64,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "artemis",
+      "contentKind": "news",
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "把ILS／巨灾债基金的资金流入与回报数据纳入市场观察指标",
+          "tc": "把ILS／巨灾债基金的资金流入与回报数据纳入市场观察指标"
+        },
+        "lead": {
+          "sc": "关注巨灾债回报与资金流入节奏对再保定价周期的传导",
+          "tc": "关注巨灾债回报与资金流入节奏对再保定价周期的传导"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 2,
+        "cross": 0
+      },
+      "boards": [
+        "ils",
+        "market"
+      ],
+      "themes": [
+        "ils",
+        "capital"
+      ],
+      "tags": {
+        "sc": [
+          "ILS",
+          "巨災債券",
+          "ILW",
+          "Embassy"
+        ],
+        "tc": [
+          "ILS",
+          "巨災債券",
+          "ILW",
+          "Embassy"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-26T12:55:00+08:00",
+      "id": "artemis-embassy-ambassador-fund-1bn-20260925",
+      "publishedAt": "2026-09-25T21:00:00+08:00",
+      "title": {
+        "sc": "Embassy旗下巨灾债与ILW互惠基金资产逼近10亿美元 [EN原文]",
+        "tc": "Embassy旗下巨灾债与ILW互惠基金资产逼近10亿美元 [EN原文]"
+      },
+      "summary": {
+        "sc": "Artemis报道，Embassy Asset Management管理的美国互惠基金策略Ambassador（主要配置巨灾债券及以行业损失保证ILW为主的私募ILS）净资产已逼近10亿美元。该策略2021年9月推出，2026年1月底资产约7亿美元，4月底约8.39亿、7月初约8.93亿、7月31日为9.23亿，8月31日约9.67亿，至9月24日已几近10亿。组合仍透过Consulate Re结构取得私下议定的ILW合约以加强分散度；文章指2026年至今巨灾债券市场未出现具影响的事件，投资者今年料再录得理想回报。",
+        "tc": "Artemis报道，Embassy Asset Management管理的美国互惠基金策略Ambassador（主要配置巨灾债券及以行业损失保证ILW为主的私募ILS）净资产已逼近10亿美元。该策略2021年9月推出，2026年1月底资产约7亿美元，4月底约8.39亿、7月初约8.93亿、7月31日为9.23亿，8月31日约9.67亿，至9月24日已几近10亿。组合仍透过Consulate Re结构取得私下议定的ILW合约以加强分散度；文章指2026年至今巨灾债券市场未出现具影响的事件，投资者今年料再录得理想回报。"
+      },
+      "why": {
+        "sc": "年内无重大巨灾而资产持续净流入，是「ILS被主流基金渠道接受」的直接证据，也是香港讨论ILS基金化与投资者扩容的参照。",
+        "tc": "年内无重大巨灾而资产持续净流入，是「ILS被主流基金渠道接受」的直接证据，也是香港讨论ILS基金化与投资者扩容的参照。"
+      },
+      "source": {
+        "sc": "Artemis.bm（2026-09-25）[EN原文]",
+        "tc": "Artemis.bm（2026-09-25）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://www.artemis.bm/news/embassys-ambassador-mutual-cat-bond-and-ilw-fund-hits-1bn-aum-milestone/"
+    },
+    {
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "contentKind": "news",
+      "actions": {
+        "front": {
+          "sc": "提醒客户：只在官方渠道输入保单与身份资料，勿经搜索到的应用或引流页面提交",
+          "tc": "提醒客户：只在官方渠道输入保单与身份资料，勿经搜索到的应用或引流页面提交"
+        },
+        "midback": {
+          "sc": "检视引流／转介合作伙伴的资料来源、同意条款与留痕机制是否完备",
+          "tc": "检视引流／转介合作伙伴的资料来源、同意条款与留痕机制是否完备"
+        },
+        "lead": {
+          "sc": "把第三方引流列入合规自查清单，明确责任分界",
+          "tc": "把第三方引流列入合规自查清单，明确责任分界"
+        },
+        "cross": {
+          "sc": "内地客户经社交媒体接触港险时，同类仿冒与引流风险同样适用",
+          "tc": "内地客户经社交媒体接触港险时，同类仿冒与引流风险同样适用"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 3,
+        "lead": 3,
+        "cross": 1
+      },
+      "boards": [
+        "reg",
+        "tech"
+      ],
+      "themes": [
+        "compliance",
+        "data-privacy"
+      ],
+      "tags": {
+        "sc": [
+          "仿冒應用",
+          "引流",
+          "資料來源",
+          "客戶同意",
+          "中介人合規"
+        ],
+        "tc": [
+          "仿冒應用",
+          "引流",
+          "資料來源",
+          "客戶同意",
+          "中介人合規"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-26T12:55:00+08:00",
+      "id": "ibm-find-my-insurance-copycat-apps-20260925",
+      "publishedAt": "2026-09-25T20:42:00+08:00",
+      "title": {
+        "sc": "官方「Find My Insurance」保单查询平台出现仿冒应用程式：第三方引流引发资料来源与客户同意争议 [EN原文]",
+        "tc": "官方「Find My Insurance」保单查询平台出现仿冒应用程式：第三方引流引发资料来源与客户同意争议 [EN原文]"
+      },
+      "summary": {
+        "sc": "Insurance Business Asia报道，供保单持有人核验身份并查阅保单纪录的官方「Find My Insurance」平台被发现有仿冒应用程式；报道指经第三方引流（lead generation）渠道接触客户的模式，令人质疑资料来源、客户同意及中介人的潜在合规敞口，包括客户资料由谁收集、同意如何取得、能否追溯等问题。（原文为付费内容，仅据标题及摘要导读，细节待复核。）",
+        "tc": "Insurance Business Asia报道，供保单持有人核验身份并查阅保单纪录的官方「Find My Insurance」平台被发现有仿冒应用程式；报道指经第三方引流（lead generation）渠道接触客户的模式，令人质疑资料来源、客户同意及中介人的潜在合规敞口，包括客户资料由谁收集、同意如何取得、能否追溯等问题。（原文为付费内容，仅据标题及摘要导读，细节待复核。）"
+      },
+      "why": {
+        "sc": "转介与引流的资料授权、同意与留痕，是中介人合规的高频盲区；这类仿冒与引流叠在一起，最容易演变成客户投诉与监管问责。",
+        "tc": "转介与引流的资料授权、同意与留痕，是中介人合规的高频盲区；这类仿冒与引流叠在一起，最容易演变成客户投诉与监管问责。"
+      },
+      "source": {
+        "sc": "Insurance Business Asia（2026-09-25）[EN原文]",
+        "tc": "Insurance Business Asia（2026-09-25）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/find-my-insurance-search-reveals-copycat-apps-591225.aspx"
+    },
+    {
+      "clusterCount": 1,
+      "score": 60,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "contentKind": "news",
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "把区域保司管理层更替纳入合作与对标对象的跟踪表",
+          "tc": "把区域保司管理层更替纳入合作与对标对象的跟踪表"
+        },
+        "lead": {
+          "sc": "留意新管理层上任后对分销与合作策略的调整窗口",
+          "tc": "留意新管理层上任后对分销与合作策略的调整窗口"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 2,
+        "cross": 0
+      },
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "leadership",
+        "talent"
+      ],
+      "tags": {
+        "sc": [
+          "Income Insurance",
+          "行政總裁",
+          "新加坡",
+          "管理層交接"
+        ],
+        "tc": [
+          "Income Insurance",
+          "行政總裁",
+          "新加坡",
+          "管理層交接"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-26T12:55:00+08:00",
+      "id": "ibm-income-insurance-ceo-khoo-kah-siang-20260925",
+      "publishedAt": "2026-09-25T22:06:00+08:00",
+      "title": {
+        "sc": "新加坡Income Insurance委任Khoo Kah Siang为下任行政总裁 [EN原文]",
+        "tc": "新加坡Income Insurance委任Khoo Kah Siang为下任行政总裁 [EN原文]"
+      },
+      "summary": {
+        "sc": "Insurance Business Asia报道，新加坡保险公司Income Insurance委任Khoo Kah Siang为下一任行政总裁。报道指该项任命正值公司在经历监管与股权结构变动后进入新阶段，管理层交接将是观察其后续策略方向的关键节点。",
+        "tc": "Insurance Business Asia报道，新加坡保险公司Income Insurance委任Khoo Kah Siang为下一任行政总裁。报道指该项任命正值公司在经历监管与股权结构变动后进入新阶段，管理层交接将是观察其后续策略方向的关键节点。"
+      },
+      "why": {
+        "sc": "区域保司在股权与监管调整后的管理层交接，是判断其渠道与合作策略会否调整的先行信号。",
+        "tc": "区域保司在股权与监管调整后的管理层交接，是判断其渠道与合作策略会否调整的先行信号。"
+      },
+      "source": {
+        "sc": "Insurance Business Asia（2026-09-25）[EN原文]",
+        "tc": "Insurance Business Asia（2026-09-25）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/income-insurance-names-khoo-kah-siang-as-next-ceo-591232.aspx"
+    },
+    {
+      "clusterCount": 1,
+      "score": 60,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "contentKind": "news",
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "在健康险需求论证中区分「保障缺口」与「执行能力」两类因素",
+          "tc": "在健康险需求论证中区分「保障缺口」与「执行能力」两类因素"
+        },
+        "lead": {
+          "sc": "把区域医保财务压力列入健康险市场环境观察",
+          "tc": "把区域医保财务压力列入健康险市场环境观察"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 2,
+        "lead": 2,
+        "cross": 0
+      },
+      "boards": [
+        "reg",
+        "market"
+      ],
+      "themes": [
+        "enforcement",
+        "health-insurance"
+      ],
+      "tags": {
+        "sc": [
+          "韓國",
+          "健康保險",
+          "執法",
+          "追回金額"
+        ],
+        "tc": [
+          "韓國",
+          "健康保險",
+          "執法",
+          "追回金額"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-26T12:55:00+08:00",
+      "id": "ibm-korea-health-insurer-enforcement-gap-20260925",
+      "publishedAt": "2026-09-25T19:54:00+08:00",
+      "title": {
+        "sc": "韩国健保机构扣押行动扩大但追回金额下降，缺口引发私营健康险市场疑问 [EN原文]",
+        "tc": "韩国健保机构扣押行动扩大但追回金额下降，缺口引发私营健康险市场疑问 [EN原文]"
+      },
+      "summary": {
+        "sc": "Insurance Business Asia报道，韩国的健康保险机构在扩大执法与扣押（seizure）行动的同时，实际追回金额反而下降，扣押行动与实际收回款项之间的差距持续扩大；报道指这一缺口对私营健康保险市场的定位与需求提出新问题。（原文为付费内容，仅据标题及摘要导读，细节待复核。）",
+        "tc": "Insurance Business Asia报道，韩国的健康保险机构在扩大执法与扣押（seizure）行动的同时，实际追回金额反而下降，扣押行动与实际收回款项之间的差距持续扩大；报道指这一缺口对私营健康保险市场的定位与需求提出新问题。（原文为付费内容，仅据标题及摘要导读，细节待复核。）"
+      },
+      "why": {
+        "sc": "「执行强度上升、回收率下降」是公共医保与私营健康险分工讨论中常被忽略的数据面，可作为健康险需求论证的反面参照。",
+        "tc": "「执行强度上升、回收率下降」是公共医保与私营健康险分工讨论中常被忽略的数据面，可作为健康险需求论证的反面参照。"
+      },
+      "source": {
+        "sc": "Insurance Business Asia（2026-09-25）[EN原文]",
+        "tc": "Insurance Business Asia（2026-09-25）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/south-koreas-health-insurer-recovers-less-despite-wider-enforcement-591223.aspx"
+    },
+    {
+      "clusterCount": 1,
+      "score": 68,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "insuranceasianews",
+      "contentKind": "news",
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "把亚太专项条线补位的保司／经纪纳入对接与合作观察名单",
+          "tc": "把亚太专项条线补位的保司／经纪纳入对接与合作观察名单"
+        },
+        "lead": {
+          "sc": "据此评估区域专项险类的人才与承保能力走向",
+          "tc": "据此评估区域专项险类的人才与承保能力走向"
+        },
+        "cross": {
+          "sc": "跨境工程与贸易客户的承保团队变动，可作为续保前沟通的切入点",
+          "tc": "跨境工程与贸易客户的承保团队变动，可作为续保前沟通的切入点"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "boards": [
+        "insurer",
+        "market"
+      ],
+      "themes": [
+        "talent",
+        "underwriting"
+      ],
+      "tags": {
+        "sc": [
+          "人事變動",
+          "QBE",
+          "Canopius",
+          "Lockton",
+          "Sompo",
+          "亞太"
+        ],
+        "tc": [
+          "人事變動",
+          "QBE",
+          "Canopius",
+          "Lockton",
+          "Sompo",
+          "亞太"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-09-26T12:55:00+08:00",
+      "id": "ian-apac-people-moves-week-20260925",
+      "publishedAt": "2026-09-25T17:00:00+08:00",
+      "title": {
+        "sc": "亚太区本周人事动向：QBE澳洲太平洋区CEO、Canopius财产／信用条线、Lockton亚洲信用主管 [EN原文]",
+        "tc": "亚太区本周人事动向：QBE澳洲太平洋区CEO、Canopius财产／信用条线、Lockton亚洲信用主管 [EN原文]"
+      },
+      "summary": {
+        "sc": "InsuranceAsia News汇总本周亚太区保险人事变动：QBE委任Jonathan Groves为澳洲太平洋区行政总裁，接替Sue Houghton；Canopius增聘Louise Wai为亚太区财产及D&F主管、Jack Hullah为亚太区信用及政治风险主管、Richard Adamczyk为澳洲及新西兰资深理赔经理；Lockton延揽WTW的Alex Bursak出任亚洲区信用条线主管；Sompo委任Joe Wee为亚太区建造险承保主管；Scor增聘Clint Darling为澳洲建造险核保人。",
+        "tc": "InsuranceAsia News汇总本周亚太区保险人事变动：QBE委任Jonathan Groves为澳洲太平洋区行政总裁，接替Sue Houghton；Canopius增聘Louise Wai为亚太区财产及D&F主管、Jack Hullah为亚太区信用及政治风险主管、Richard Adamczyk为澳洲及新西兰资深理赔经理；Lockton延揽WTW的Alex Bursak出任亚洲区信用条线主管；Sompo委任Joe Wee为亚太区建造险承保主管；Scor增聘Clint Darling为澳洲建造险核保人。"
+      },
+      "why": {
+        "sc": "建造、信用、政治风险与财产条线在亚太集体补人，说明这些专项险类仍处扩张期，也提示人才与承保资源的争夺在加剧。",
+        "tc": "建造、信用、政治风险与财产条线在亚太集体补人，说明这些专项险类仍处扩张期，也提示人才与承保资源的争夺在加剧。"
+      },
+      "source": {
+        "sc": "InsuranceAsia News（2026-09-25）[EN原文]",
+        "tc": "InsuranceAsia News（2026-09-25）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://insuranceasianews.com/qbe-canopius-aon-sompo-11-apac-insurance-people-moves-of-the-week/"
+    },
     {
       "clusterCount": 1,
       "score": 85,
@@ -74325,6 +74962,18 @@ window.HKII_DATA = {
   "digests": {
     "daily": [
       {
+        "key": "2026-09-26",
+        "label": {
+          "sc": "2026-09-26",
+          "tc": "2026-09-26"
+        },
+        "itemCount": 2,
+        "itemIds": [
+          "ian-hk-pcc-fiveyearplan-20260926",
+          "iaasia-week-in-ai-care-platform-20260926"
+        ]
+      },
+      {
         "key": "2026-09-25",
         "label": {
           "sc": "2026-09-25",
@@ -82392,10 +83041,10 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 993 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 993 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 1001 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 1001 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 993,
+      "totalItems": 1001,
       "sourceTiers": [
         {
           "tier": "official",
@@ -82414,12 +83063,12 @@ window.HKII_DATA = {
         },
         {
           "tier": "media",
-          "count": 359,
+          "count": 363,
           "label": "媒体报道"
         },
         {
           "tier": "pro",
-          "count": 166,
+          "count": 170,
           "label": "专业解读"
         },
         {
@@ -82513,7 +83162,7 @@ window.HKII_DATA = {
         },
         {
           "theme": "compliance",
-          "count": 90,
+          "count": 91,
           "label": "合规"
         },
         {
@@ -82538,13 +83187,13 @@ window.HKII_DATA = {
         },
         {
           "theme": "ai",
-          "count": 55,
+          "count": 56,
           "label": "人工智能"
         }
       ],
       "dateRange": {
-        "sc": "2013-03-05 ~ 2026-09-25",
-        "tc": "2013-03-05 ~ 2026-09-25"
+        "sc": "2013-03-05 ~ 2026-09-26",
+        "tc": "2013-03-05 ~ 2026-09-26"
       }
     },
     "marketData": {

@@ -1,9 +1,113 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-25T10:13:19Z",
-  "itemCount": 993,
+  "generatedAt": "2026-09-26T04:59:18Z",
+  "itemCount": 1001,
   "items": [
+    {
+      "id": "ian-hk-pcc-fiveyearplan-20260926",
+      "title": "香港的區域野心與「PCC這張牌」：五年規劃研究引入受保護單元公司制度，降低自保與ILS設立成本 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "five-year-plan",
+        "captive"
+      ],
+      "publishedAt": "2026-09-26T08:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-hk-pcc-fiveyearplan-20260926",
+      "originalUrl": "https://insuranceasianews.com/hong-kongs-regional-ambitions-and-the-pcc-bet/"
+    },
+    {
+      "id": "iaasia-week-in-ai-care-platform-20260926",
+      "title": "一周回顾：Singlife扩展AI客服、FWD香港升级Care平台（养和／宁养合作）、Cigna香港网上投保访问量升38% [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "health"
+      ],
+      "publishedAt": "2026-09-26T05:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-week-in-ai-care-platform-20260926",
+      "originalUrl": "https://insuranceasia.com/insurance/news/week-in-insurance-singlife-scales-ai-adoption-fwd-upgrades-care-platform-and-rewards-programmes-drive-engagement"
+    },
+    {
+      "id": "artemis-swissre-lse-systemic-risk-ils-20260925",
+      "title": "瑞再研究院与LSE：AI与供应链令风险连结度升24%，系统性风险需靠扩大ILS产能承接 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "systemic-risk"
+      ],
+      "publishedAt": "2026-09-25T19:15:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-swissre-lse-systemic-risk-ils-20260925",
+      "originalUrl": "https://www.artemis.bm/news/interconnected-systemic-risks-highlight-need-to-expand-ils-capacity-swiss-re-lse/"
+    },
+    {
+      "id": "artemis-embassy-ambassador-fund-1bn-20260925",
+      "title": "Embassy旗下巨灾债与ILW互惠基金资产逼近10亿美元 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "capital"
+      ],
+      "publishedAt": "2026-09-25T21:00:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-embassy-ambassador-fund-1bn-20260925",
+      "originalUrl": "https://www.artemis.bm/news/embassys-ambassador-mutual-cat-bond-and-ilw-fund-hits-1bn-aum-milestone/"
+    },
+    {
+      "id": "ibm-find-my-insurance-copycat-apps-20260925",
+      "title": "官方「Find My Insurance」保单查询平台出现仿冒应用程式：第三方引流引发资料来源与客户同意争议 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "compliance",
+        "data-privacy"
+      ],
+      "publishedAt": "2026-09-25T20:42:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-find-my-insurance-copycat-apps-20260925",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/find-my-insurance-search-reveals-copycat-apps-591225.aspx"
+    },
+    {
+      "id": "ibm-income-insurance-ceo-khoo-kah-siang-20260925",
+      "title": "新加坡Income Insurance委任Khoo Kah Siang为下任行政总裁 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "leadership",
+        "talent"
+      ],
+      "publishedAt": "2026-09-25T22:06:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-income-insurance-ceo-khoo-kah-siang-20260925",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/income-insurance-names-khoo-kah-siang-as-next-ceo-591232.aspx"
+    },
+    {
+      "id": "ibm-korea-health-insurer-enforcement-gap-20260925",
+      "title": "韩国健保机构扣押行动扩大但追回金额下降，缺口引发私营健康险市场疑问 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "enforcement",
+        "health-insurance"
+      ],
+      "publishedAt": "2026-09-25T19:54:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-korea-health-insurer-enforcement-gap-20260925",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/south-koreas-health-insurer-recovers-less-despite-wider-enforcement-591223.aspx"
+    },
+    {
+      "id": "ian-apac-people-moves-week-20260925",
+      "title": "亚太区本周人事动向：QBE澳洲太平洋区CEO、Canopius财产／信用条线、Lockton亚洲信用主管 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "talent",
+        "underwriting"
+      ],
+      "publishedAt": "2026-09-25T17:00:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-apac-people-moves-week-20260925",
+      "originalUrl": "https://insuranceasianews.com/qbe-canopius-aon-sompo-11-apac-insurance-people-moves-of-the-week/"
+    },
     {
       "id": "hkma-scam-alert-banks-20260925",
       "title": "金管局发出与银行有关的骗案警示（2026年9月25日）：大新银行就「欺詐社交媒体帖文」发稿 [EN原文]",
