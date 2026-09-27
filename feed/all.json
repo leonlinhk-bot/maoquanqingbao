@@ -1,9 +1,52 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-26T16:10:33Z",
-  "itemCount": 1004,
+  "generatedAt": "2026-09-27T16:44:13Z",
+  "itemCount": 1007,
   "items": [
+    {
+      "id": "nfra-funds-hk-connect-etf-20260924",
+      "title": "内地险资获准投资港股通ETF：监管口径函明确自9月20日起实施，参照港股通股票规定执行、不占用QDII额度",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "market",
+        "capital",
+        "cross-border"
+      ],
+      "publishedAt": "2026-09-24T15:34:00+08:00",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-funds-hk-connect-etf-20260924",
+      "originalUrl": "https://finance.sina.com.cn/roll/2026-09-24/doc-inisxhpc5024660.shtml"
+    },
+    {
+      "id": "insuranceasianews-bangkok-flood-disaster-20260927",
+      "title": "曼谷宣布进入洪水灾区状态：48小时暴雨引发全市内涝，未来数日仍有降雨，湄南河流域水位受监测 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "catastrophe",
+        "reinsurance",
+        "market"
+      ],
+      "publishedAt": "2026-09-27T10:09:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasianews-bangkok-flood-disaster-20260927",
+      "originalUrl": "https://insuranceasianews.com/bangkok-declares-flood-disaster-following-two-days-of-torrential-rains/"
+    },
+    {
+      "id": "insuranceasianews-frontier-global-underwriting-smart-20260927",
+      "title": "澳洲专业险MGA Frontier Global Underwriting 委任 Lindsay Smart 为高级网络与金融条线核保人（覆盖澳新）[EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "talent",
+        "cyber",
+        "uw"
+      ],
+      "publishedAt": "2026-09-27T09:04:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasianews-frontier-global-underwriting-smart-20260927",
+      "originalUrl": "https://insuranceasianews.com/frontier-global-underwriting-appoints-lindsay-smart-as-senior-financial-lines-underwriter/"
+    },
     {
       "id": "nfra-monthly-premium-aug2026-20260924",
       "title": "内地保险业2026年前8月原保费48,192亿元仅增0.4%：人身险单月转负13.6%（高基数），财险增2.2%保持稳健",
