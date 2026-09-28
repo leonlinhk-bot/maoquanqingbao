@@ -1,9 +1,330 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-27T16:44:13Z",
-  "itemCount": 1007,
+  "generatedAt": "2026-09-28T10:16:30Z",
+  "itemCount": 1030,
   "items": [
+    {
+      "id": "hkma-taipo-fire-loan-grace-extended-20260928",
+      "title": "金管局与银行公会：银行业再延长大埔火警受影响人士还款宽限期六个月至2027年5月底，28家零售银行全部参与",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "market",
+        "claims"
+      ],
+      "publishedAt": "2026-09-28",
+      "score": 87,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-taipo-fire-loan-grace-extended-20260928",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260928-5/"
+    },
+    {
+      "id": "hkma-scam-alert-hkicl-hkfps-20260928",
+      "title": "金管局同日两项防骗警示：伪冒HKICL网站 hkfps.lol 冒充「买家网上保障」套取身份证及银行资料；另有银行现伪冒网站",
+      "sourceTier": "official",
+      "themes": [
+        "fraud",
+        "reg",
+        "tech"
+      ],
+      "publishedAt": "2026-09-28",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-scam-alert-hkicl-hkfps-20260928",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260928-4/"
+    },
+    {
+      "id": "reuters-hk-8-etf-listing-insurer-demand-20260928",
+      "title": "香港一日上市8只ETF抢内地险资「出海」需求：9月已有21只ETF上市或待上市，华泰料险资1%配置即带来逾4,000亿元人民币增量",
+      "sourceTier": "media",
+      "themes": [
+        "market",
+        "capital",
+        "cross-border"
+      ],
+      "publishedAt": "2026-09-28T10:18:00+08:00",
+      "score": 79,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=reuters-hk-8-etf-listing-insurer-demand-20260928",
+      "originalUrl": "https://www.reuters.com/world/asia-pacific/hong-kong-lists-eight-etfs-tap-chinese-demand-overseas-assets-2026-09-28/"
+    },
+    {
+      "id": "iaasia-medical-claim-cost-glp1-debate-20260928",
+      "title": "亚洲医疗索赔成本今年人均涨12.5%、约为区内通胀6倍：AM Best指争论焦点转向GLP-1「今天多付药费能否换来明天少赔」 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "health",
+        "cost",
+        "market"
+      ],
+      "publishedAt": "2026-09-28T09:15:00+08:00",
+      "score": 73,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-medical-claim-cost-glp1-debate-20260928",
+      "originalUrl": "https://insuranceasia.com/insurance/expert-opinion/can-costly-treatments-eventually-cut-asias-medical-bills"
+    },
+    {
+      "id": "prudential-sg-ceo-eastspring-rosenthal-20260928",
+      "title": "保诚新加坡CEO陈珊珊9月28日转任瀚亚投资新设「首席合作官」，集团CFO背景的 Andreas Rosenthal 出任新加坡暂代CEO",
+      "sourceTier": "media",
+      "themes": [
+        "talent",
+        "insurer",
+        "wealth"
+      ],
+      "publishedAt": "2026-09-28T05:45:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=prudential-sg-ceo-eastspring-rosenthal-20260928",
+      "originalUrl": "https://insuranceasia.com/insurance/news/prudential-singapore-ceo-exits-eastspring-role"
+    },
+    {
+      "id": "iaasia-great-eastern-adeline-sum-director-20260928",
+      "title": "大东方控股（GEH）委任 Adeline Sum 为独立非执行董事，10月1日生效：前NTUC Enterprise CEO、声明无持股及利益冲突",
+      "sourceTier": "media",
+      "themes": [
+        "talent",
+        "insurer",
+        "governance"
+      ],
+      "publishedAt": "2026-09-28T10:15:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-great-eastern-adeline-sum-director-20260928",
+      "originalUrl": "https://insuranceasia.com/insurance/news/great-eastern-appoints-adeline-sum-independent-director"
+    },
+    {
+      "id": "iaasia-malaysia-resilience-financial-insecurity-20260928",
+      "title": "苏黎世与牛津研究：马来西亚雇员个人韧性4.26高于全球4.11，但39%无应急储蓄、金融韧性为最弱范畴 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "health",
+        "market",
+        "talent"
+      ],
+      "publishedAt": "2026-09-28T06:00:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-malaysia-resilience-financial-insecurity-20260928",
+      "originalUrl": "https://insuranceasia.com/insurance/news/financial-insecurity-hits-39-malaysian-workers"
+    },
+    {
+      "id": "ibm-supertanker-values-hull-cover-20260928",
+      "title": "超大型油轮估值反超新造船：海湾运费暴涨打乱船舶估值规则，波及船壳保额、战争险保费与后续索赔 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "marine",
+        "market",
+        "uw"
+      ],
+      "publishedAt": "2026-09-28",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-supertanker-values-hull-cover-20260928",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/supertanker-values-overtake-newbuilds-what-it-means-for-hull-and-risk-cover-591400.aspx"
+    },
+    {
+      "id": "ibm-aon-us2-5bn-gas-power-lifecycle-20260928",
+      "title": "怡安推出25亿美元燃气发电项目全周期保险计划：以单一结构贯通建造至运营，消除分段投保的交接缺口 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "energy",
+        "uw",
+        "market"
+      ],
+      "publishedAt": "2026-09-28",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-aon-us2-5bn-gas-power-lifecycle-20260928",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/aon-launches-us2-5bn-lifecycle-program-for-gas-power-projects-591380.aspx"
+    },
+    {
+      "id": "scmp-china-fund-qdii-premium-risk-20260928",
+      "title": "内地基金公司密集提示QDII溢价风险：标普500 ETF溢价6.3%，新增68.4亿美元额度仍难缓解境外配置需求",
+      "sourceTier": "media",
+      "themes": [
+        "capital",
+        "cross-border",
+        "market"
+      ],
+      "publishedAt": "2026-09-28T11:48:00+08:00",
+      "score": 67,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-china-fund-qdii-premium-risk-20260928",
+      "originalUrl": "https://www.scmp.com/business/china-business/article/3369001/china-fund-managers-warn-premium-risks-fresh-quotas-fail-ease-demand"
+    },
+    {
+      "id": "ian-marsh-re-apac-property-retro-return-20260928",
+      "title": "Marsh Re：亚太财产超赔分出（retro）买家在硬市场高峰期撤离后重返市场，今年限额增长显著、趋势料延续 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "market",
+        "property"
+      ],
+      "publishedAt": "2026-09-28T07:30:00+08:00",
+      "score": 73,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-marsh-re-apac-property-retro-return-20260928",
+      "originalUrl": "https://insuranceasianews.com/buyers-returning-to-apac-property-retro-market-trend-set-to-continue-marsh-re/"
+    },
+    {
+      "id": "ian-india-bharat-maritime-pool-20260928",
+      "title": "印度15亿美元海运风险池成立4个月：Bharat Maritime 已承保逾3,000张货运战争险、92张船壳战争险及3张保赔险 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "marine",
+        "market",
+        "reg"
+      ],
+      "publishedAt": "2026-09-28T11:36:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-india-bharat-maritime-pool-20260928",
+      "originalUrl": "https://insuranceasianews.com/indias-us1-5bn-marine-risk-pool-surpasses-3000-cargo-war-policies/"
+    },
+    {
+      "id": "ian-tokio-marine-greensill-settlement-20260928",
+      "title": "东京海上日动火灾（TMNF）与瑞信（现属瑞银）就Greensill诉讼和解：未披露条款，称对FY26业绩无重大影响 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "legal",
+        "credit",
+        "insurer"
+      ],
+      "publishedAt": "2026-09-28T17:33:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-tokio-marine-greensill-settlement-20260928",
+      "originalUrl": "https://insuranceasianews.com/tokio-marine-settles-credit-suisse-greensill-suit-after-iag-deal/"
+    },
+    {
+      "id": "itochu-moter-insurtech-stake-20260928",
+      "title": "伊藤忠加码非寿险：增持相生损保旗下美国车险科技 Moter Technologies 成第二大股东 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "insurtech",
+        "motor",
+        "ma"
+      ],
+      "publishedAt": "2026-09-28T14:24:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=itochu-moter-insurtech-stake-20260928",
+      "originalUrl": "https://insuranceasianews.com/itochu-doubles-down-on-non-life-insurance-with-investment-in-aioi-owned-us-insurtech-moter/"
+    },
+    {
+      "id": "ian-aon-minwoo-yoon-transaction-solutions-20260928",
+      "title": "怡安扩充亚洲交易方案团队：委任驻新加坡 Minwoo Yoon 为区域董事，主责拓展税务责任保险（tax liability insurance）业务 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "talent",
+        "ma",
+        "uw"
+      ],
+      "publishedAt": "2026-09-28T17:02:00+08:00",
+      "score": 67,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-aon-minwoo-yoon-transaction-solutions-20260928",
+      "originalUrl": "https://insuranceasianews.com/aon-bolsters-asia-transaction-solutions-team-with-minnow-yoon-as-regional-director/"
+    },
+    {
+      "id": "ian-sedgwick-captives-asia-platform-20260928",
+      "title": "Sedgwick：专属自保在亚洲已从利基工具变成企业风险管理主流基建，软市下角色更趋战略性、并扩展至网络险与全球福利 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "captive",
+        "risk",
+        "insurtech"
+      ],
+      "publishedAt": "2026-09-28T17:44:00+08:00",
+      "score": 69,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-sedgwick-captives-asia-platform-20260928",
+      "originalUrl": "https://insuranceasianews.com/sedgwick-captives-in-asia-from-niche-solution-to-strategic-risk-platform/"
+    },
+    {
+      "id": "artemis-jefferies-reinsurance-floor-2030-20260928",
+      "title": "Jefferies：再保费率跌幅2028年前仍将加快、2030年才见底，2028年起主战场转向条款与条件 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "market",
+        "ils"
+      ],
+      "publishedAt": "2026-09-28",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-jefferies-reinsurance-floor-2030-20260928",
+      "originalUrl": "https://www.artemis.bm/news/reinsurance-rate-declines-may-slow-by-2028-soft-market-floor-may-not-be-found-till-2030-jefferies/"
+    },
+    {
+      "id": "air-iumi-loss-prevention-shift-20260928",
+      "title": "IUMI：保险业须由「修复」转向「预防」，损失预防将由大型险企扩至中小企业、核保人渐把预防能力纳入承保条件 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "risk",
+        "marine",
+        "uw"
+      ],
+      "publishedAt": "2026-09-28",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=air-iumi-loss-prevention-shift-20260928",
+      "originalUrl": "https://www.asiainsurancereview.com/News/ViewNewsLetterArticle/id/97030/Type/eDaily/Global-IUMI-says-insurance-must-shift-from-repair-to-prevention"
+    },
+    {
+      "id": "air-nz-icnz-fire-emergency-levy-review-20260928",
+      "title": "新西兰保险理事会促政府取消以保单征费资助消防与紧急服务：税与征费已占典型家居保单保费约40%，FENZ征费约占5% [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "reg",
+        "market",
+        "cost"
+      ],
+      "publishedAt": "2026-09-28",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=air-nz-icnz-fire-emergency-levy-review-20260928",
+      "originalUrl": "https://www.asiainsurancereview.com/News/ViewNewsLetterArticle/id/97026/Type/eDaily/New-Zealand-Insurers-urge-the-government-to-replace-the-fire-and-emergency-levy-on-insurance-policies"
+    },
+    {
+      "id": "sunlife-asia-legacy-report-heirs-20260928",
+      "title": "永明亚洲《传递火炬》传承报告：74%拟连同价值观与知识传承、70%忧财富无法传至下一代，但仅20%自认准备充分；已备妥书面传承计划者一年由10%升至22%",
+      "sourceTier": "pro",
+      "themes": [
+        "family",
+        "legacy",
+        "health"
+      ],
+      "publishedAt": "2026-09-28",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sunlife-asia-legacy-report-heirs-20260928",
+      "originalUrl": "https://www.asiainsurancereview.com/News/ViewNewsLetterArticle/id/97029/Type/eDaily/Hong-Kong-Passing-on-wealth-is-easier-than-preparing-heirs-to-manage-it"
+    },
+    {
+      "id": "chubb-life-hk-mylegacy-multicurrency-20260928",
+      "title": "安达人寿香港推出 MyLegacy 多种货币保险计划：市场首创可自订「人生事件」支付条款，第3个保单周年起可转换保单货币、可各指定5名暂托/后续持有人与后续受保人",
+      "sourceTier": "insurer",
+      "themes": [
+        "product",
+        "legacy",
+        "multi-currency"
+      ],
+      "publishedAt": "2026-09-28T14:05:00+08:00",
+      "score": 81,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=chubb-life-hk-mylegacy-multicurrency-20260928",
+      "originalUrl": "https://www.media-outreach.com/news/hong-kong/2026/09/28/490612/chubb-life-hong-kong-unveils-new-multi-currency-insurance-plan/"
+    },
+    {
+      "id": "manulife-hk-dbs-haho-donation-1m-20260928",
+      "title": "宏利香港与星展香港联合捐100万港元予医管局「心灵绿洲」：支持医护人员心理健康，捐款用于完善 myOasis 平台",
+      "sourceTier": "insurer",
+      "themes": [
+        "esg",
+        "insurer",
+        "health"
+      ],
+      "publishedAt": "2026-09-28T14:30:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-hk-dbs-haho-donation-1m-20260928",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202609/28/P2026092800307.htm"
+    },
+    {
+      "id": "aia-life-korea-ceo-leo-ng-20260928",
+      "title": "友邦韩国委任友邦中国CFO Leo Ng（吴家杰）为下任CEO：具精算背景、AIA任期12年，原CEO 8月离任后由CFO暂代",
+      "sourceTier": "insurer",
+      "themes": [
+        "talent",
+        "insurer"
+      ],
+      "publishedAt": "2026-09-28",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-life-korea-ceo-leo-ng-20260928",
+      "originalUrl": "https://koreaherald.com/article/10886597"
+    },
     {
       "id": "nfra-funds-hk-connect-etf-20260924",
       "title": "内地险资获准投资港股通ETF：监管口径函明确自9月20日起实施，参照港股通股票规定执行、不占用QDII额度",
