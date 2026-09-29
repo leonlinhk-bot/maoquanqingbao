@@ -17,3 +17,4 @@ data/existing-keys.txt
 scripts/.tmp_*
 
 data/live-items.json.bak-*
+data/.live-backup-*.json
