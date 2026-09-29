@@ -1,9 +1,233 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-28T10:16:30Z",
-  "itemCount": 1030,
+  "generatedAt": "2026-09-29T01:16:18Z",
+  "itemCount": 1046,
   "items": [
+    {
+      "id": "ian-apac-reinsurance-right-sizing-2027-20260929",
+      "title": "亚太再保进入新阶段：定价承压、资本高企，分出公司转向「把再保安排调整到合适规模」，2027续保周期成观察窗口 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "renewals",
+        "capacity"
+      ],
+      "publishedAt": "2026-09-29T07:30:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-apac-reinsurance-right-sizing-2027-20260929",
+      "originalUrl": "https://insuranceasianews.com/cedents-to-focus-on-right-sizing-reinsurance-programs-as-apac-market-enters-new-phase/"
+    },
+    {
+      "id": "iaasia-igloo-net-loss-narrows-2025-20260929",
+      "title": "新加坡Igloo 2025年净亏损收窄60.4%至673万美元、收入增45.9%：称靠嵌入式保险营运杠杆＋AI原生基建，目标2026年底经调整EBITDA打平 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "insurtech",
+        "ai",
+        "cost"
+      ],
+      "publishedAt": "2026-09-29T05:45:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-igloo-net-loss-narrows-2025-20260929",
+      "originalUrl": "https://insuranceasia.com/insurance/news/igloos-net-loss-narrows-604-in-2025"
+    },
+    {
+      "id": "iaasia-india-distribution-reform-nomura-20260929",
+      "title": "印度拟议分销改革：寿险代理扩张料加速，但一般险与健康险佣金上限「偏陡」、车险三者险佣金归零——Nomura解读 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "regulation",
+        "distribution",
+        "commission"
+      ],
+      "publishedAt": "2026-09-29T05:30:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-india-distribution-reform-nomura-20260929",
+      "originalUrl": "https://insuranceasia.com/news/india-insurance-reforms-boost-life-agents-expansion-health-caps-tightened"
+    },
+    {
+      "id": "iaasia-allianz-partners-travel-ecosystem-au-20260929",
+      "title": "安联世博在澳洲上线新一代旅游险生态：客户可自助加购邮轮、滑雪与探险保障并延长行程，主打「非一价通吃」 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "travel",
+        "product",
+        "digital"
+      ],
+      "publishedAt": "2026-09-29T05:15:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-allianz-partners-travel-ecosystem-au-20260929",
+      "originalUrl": "https://insuranceasia.com/insurance/news/allianz-partners-launches-personalised-digital-travel-insurance-cover-in-australia"
+    },
+    {
+      "id": "iaasia-tokio-marine-am-best-capital-20260929",
+      "title": "AM Best：Tokio Marine资产负债表评为「最强」、资本足以吸收波动，惟海外扩张带来权益与承保风险；集团拟FY2029前清空策略性持股 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "rating",
+        "capital",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-09-29T05:00:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-tokio-marine-am-best-capital-20260929",
+      "originalUrl": "https://insuranceasia.com/insurance/news/tokio-marines-capital-sufficient-despite-equity-and-overseas-risks-am-best"
+    },
+    {
+      "id": "iaasia-ai-trust-customer-data-20260929",
+      "title": "业界警告：用公开数据做AI分析会侵蚀客户信任——建议改用自有理赔与风控记录，并建立清晰的AI治理与披露规则 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "data",
+        "compliance"
+      ],
+      "publishedAt": "2026-09-29T05:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-ai-trust-customer-data-20260929",
+      "originalUrl": "https://insuranceasia.com/insurance/exclusive/insurers-told-use-own-customer-data-build-ai-trust"
+    },
+    {
+      "id": "ibm-bangkok-flood-thai-disaster-scheme-20260928",
+      "title": "曼谷50个区全部进入洪水灾区状态：泰国155亿泰铢国家灾害保险计划10月1日生效在即，商业中断保障缺口仍在",
+      "sourceTier": "media",
+      "themes": [
+        "catastrophe",
+        "market",
+        "claims"
+      ],
+      "publishedAt": "2026-09-28T21:43:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-bangkok-flood-thai-disaster-scheme-20260928",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/catastrophe/flood-emergency-hits-bangkok-days-before-new-national-scheme-takes-effect-591430.aspx"
+    },
+    {
+      "id": "ibm-asia-health-repricing-claims-data-20260928",
+      "title": "友邦与Amplify Health白皮书：亚洲医疗险在「看不见理赔明细」下重新定价，已建跨六市场标准数据模型",
+      "sourceTier": "media",
+      "themes": [
+        "health",
+        "pricing",
+        "claims"
+      ],
+      "publishedAt": "2026-09-28T21:03:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-asia-health-repricing-claims-data-20260928",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/asias-health-insurers-are-repricing-without-seeing-the-claims-591425.aspx"
+    },
+    {
+      "id": "ibm-sunlife-mindanao-eq-relief-20260928",
+      "title": "永明向菲律宾棉兰老岛7.8级地震灾区捐10万加元；17.3万家庭受灾，国营保险系统拨151亿披索紧急援助",
+      "sourceTier": "media",
+      "themes": [
+        "catastrophe",
+        "market",
+        "esg"
+      ],
+      "publishedAt": "2026-09-28T20:01:00+08:00",
+      "score": 61,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-sunlife-mindanao-eq-relief-20260928",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/catastrophe/sun-life-among-insurers-directing-funds-to-mindanao-earthquake-relief-591422.aspx"
+    },
+    {
+      "id": "artemis-icosa-catbond-capacity-opportunity-20260928",
+      "title": "Icosa：巨灾债发行创新高下「产能须跟随真实机会」；市场存量已达656亿美元历史高位",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "reinsurance",
+        "pricing"
+      ],
+      "publishedAt": "2026-09-28T22:40:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-icosa-catbond-capacity-opportunity-20260928",
+      "originalUrl": "https://www.artemis.bm/news/cat-bond-capacity-must-follow-genuine-opportunity-as-issuance-surges-icosas-dellamore/"
+    },
+    {
+      "id": "artemis-casualty-sidecar-growth-am-best-20260928",
+      "title": "AM Best：sidecar市场规模约170至190亿美元，财产巨灾放缓、责任险sidecar成增长主轴",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "reinsurance",
+        "capital"
+      ],
+      "publishedAt": "2026-09-28T18:30:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-casualty-sidecar-growth-am-best-20260928",
+      "originalUrl": "https://www.artemis.bm/news/casualty-sidecar-growth-to-continue-collateralized-reinsurance-to-see-greater-flexibility-am-best/"
+    },
+    {
+      "id": "artemis-lloyds-london-bridge-ils-20260928",
+      "title": "劳合社London Bridge ILS平台演进：从Funds at Lloyd's到巨灾债、信用证与sidecar，下一站是超赔与灵活再保结构",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "reinsurance",
+        "captive"
+      ],
+      "publishedAt": "2026-09-28T16:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-lloyds-london-bridge-ils-20260928",
+      "originalUrl": "https://www.artemis.bm/news/unlocking-capital-at-lloyds-evolution-of-london-bridge-ils-platform-artemis-london-2026-video/"
+    },
+    {
+      "id": "ian-crown-riverstone-class-action-cover-20260928",
+      "title": "澳洲皇冠度假村向RiverStone索偿1,600万美元：股东集体诉讼和解后超赔保单拒赔争议",
+      "sourceTier": "pro",
+      "themes": [
+        "claims",
+        "uw",
+        "market"
+      ],
+      "publishedAt": "2026-09-28T23:01:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-crown-riverstone-class-action-cover-20260928",
+      "originalUrl": "https://insuranceasianews.com/australian-casino-operator-crown-sues-riverstone-for-us16m-in-unpaid-class-action-cover-reports/"
+    },
+    {
+      "id": "ian-envest-emma-osbourne-broker-enablement-20260928",
+      "title": "Ardonagh旗下澳洲经纪网络Envest新设「经纪赋能」总经理：内部晋升Emma Osbourne",
+      "sourceTier": "pro",
+      "themes": [
+        "career",
+        "channel",
+        "firm"
+      ],
+      "publishedAt": "2026-09-28T15:03:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-envest-emma-osbourne-broker-enablement-20260928",
+      "originalUrl": "https://insuranceasianews.com/envest-taps-emma-osbourne-as-general-manager-of-broker-enablement/"
+    },
+    {
+      "id": "ian-gallagher-john-li-apac-practice-leader-20260928",
+      "title": "Gallagher擢升John Li为覆盖亚太的全国业务负责人：主攻高难度企业与专业险种",
+      "sourceTier": "pro",
+      "themes": [
+        "career",
+        "firm",
+        "market"
+      ],
+      "publishedAt": "2026-09-28T14:10:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-gallagher-john-li-apac-practice-leader-20260928",
+      "originalUrl": "https://insuranceasianews.com/gallagher-promotes-john-li-to-national-practice-leader-covering-apac/"
+    },
+    {
+      "id": "nfra-tech-insurance-8-7trn-jan-aug-20260928",
+      "title": "金融监管总局：1至8月科技保险为科技活动提供风险保障8.7万亿元、同比增长66.9%；要求由「保资产」延伸至「保过程」",
+      "sourceTier": "official",
+      "themes": [
+        "china",
+        "reg",
+        "insurtech"
+      ],
+      "publishedAt": "2026-09-28T18:57:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-tech-insurance-8-7trn-jan-aug-20260928",
+      "originalUrl": "https://www.news.cn/fortune/20260928/d03d955315784c85a9b296278d6fe419/c.html"
+    },
     {
       "id": "hkma-taipo-fire-loan-grace-extended-20260928",
       "title": "金管局与银行公会：银行业再延长大埔火警受影响人士还款宽限期六个月至2027年5月底，28家零售银行全部参与",
