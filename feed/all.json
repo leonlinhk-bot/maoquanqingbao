@@ -1,9 +1,280 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-29T01:16:18Z",
-  "itemCount": 1046,
+  "generatedAt": "2026-09-29T16:32:12Z",
+  "itemCount": 1066,
   "items": [
+    {
+      "id": "scmp-vertex-developer-disclosure-fine-20260929",
+      "title": "南华早报：长沙湾新盘The Vertex发展商Twin City因11宗违反一手住宅物业销售条例、未在24小时内如实记录付款条款，被判罚款共77万港元 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reg",
+        "market",
+        "enforcement"
+      ],
+      "publishedAt": "2026-09-29T22:12:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-vertex-developer-disclosure-fine-20260929",
+      "originalUrl": "https://www.scmp.com/business/companies/article/3369241/vertex-developer-hit-hk770000-fine"
+    },
+    {
+      "id": "artemis-oecd-micro-catastrophe-bonds-20260929",
+      "title": "OECD发展中心政策简报：小额巨灾债（micro-cat bonds）在新兴亚洲「微灾风险融资」中应用潜力上升，建议与微型保险、参数型保障一并纳入工具箱 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "market",
+        "ils",
+        "catastrophe"
+      ],
+      "publishedAt": "2026-09-29T21:30:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-oecd-micro-catastrophe-bonds-20260929",
+      "originalUrl": "https://www.artemis.bm/news/micro-catastrophe-bonds-show-growing-potential-for-use-in-disaster-risk-financing-oecd/"
+    },
+    {
+      "id": "hkma-hksar-fourth-digital-green-bonds-20260929",
+      "title": "香港特区政府发售第四批数码绿色债券：约200亿港元等值、四币种，港元二年期3.80%、人民币五年期1.65%、美元三年期5.023%、欧元四年期3.734%；港元部分通过EnsembleTX引入代币化存款",
+      "sourceTier": "official",
+      "themes": [
+        "market",
+        "capital",
+        "esg"
+      ],
+      "publishedAt": "2026-09-29T20:10:00+08:00",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-hksar-fourth-digital-green-bonds-20260929",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202609/29/P2026092900686.htm"
+    },
+    {
+      "id": "scmp-hk-ai-adoption-lags-mainland-accenture-20260929",
+      "title": "南华早报：埃森哲称香港企业AI采用落后内地——仅约一成港企将生成式AI整合到多个业务职能，内地约两成一；归因旧有系统包袱与偏保守的企业心态 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "tech",
+        "ai"
+      ],
+      "publishedAt": "2026-09-29T20:00:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-hk-ai-adoption-lags-mainland-accenture-20260929",
+      "originalUrl": "https://www.scmp.com/tech/policy/article/3369205/hong-kong-firms-lag-mainland-china-ai-adoption"
+    },
+    {
+      "id": "artemis-euler-ils-moodys-cat-risk-analytics-20260929",
+      "title": "瑞士ILS投资管理人Euler ILS Partners与Moody's签订多年期巨灾风险分析协议：经Moody's智能风险平台取用自然巨灾与网络风险模型及专项风险、敞口数据集 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "market",
+        "ils",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-09-29T19:42:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-euler-ils-moodys-cat-risk-analytics-20260929",
+      "originalUrl": "https://www.artemis.bm/news/euler-ils-partners-signs-multi-year-catastrophe-risk-analytics-agreement-with-moodys/"
+    },
+    {
+      "id": "artemis-ils-advisers-august-2026-return-20260929",
+      "title": "ILS Advisers基金指数：8月ILS基金平均回报1.39%为年内最佳单月，纯巨灾债基金1.42%、含私募ILS者1.34%；年内平均累计6.56% [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "market",
+        "ils"
+      ],
+      "publishedAt": "2026-09-29T18:30:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-ils-advisers-august-2026-return-20260929",
+      "originalUrl": "https://www.artemis.bm/news/ils-fund-gains-accelerate-cat-bonds-particularly-strong-average-august-return-1-39-ils-advisers/"
+    },
+    {
+      "id": "scmp-hk-luxury-property-sales-rate-20260929",
+      "title": "南华早报：市场忧虑利率上升，名人业主趁高位沽货——模特兼演员Eunis Chan Ka-yung 3,225万售半山两房、账面赚约130%；梁安琪7,000万售西贡独立屋、赚幅不足2% [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "market",
+        "hnw"
+      ],
+      "publishedAt": "2026-09-29T18:00:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-hk-luxury-property-sales-rate-20260929",
+      "originalUrl": "https://www.scmp.com/business/article/3369169/eunis-chan-angela-leong-sell-luxury-hong-kong-properties-rate-increases-loom"
+    },
+    {
+      "id": "fstb-stamp-duty-group-relief-gazette-20260929",
+      "title": "财库局：《2026年印花税（修订）（第3号）条例草案》10月2日刊宪——放宽集团内部资产转让印花税宽免，相联门槛由90%降至75%并计入实益权益与表决权",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "family-office",
+        "taxation"
+      ],
+      "publishedAt": "2026-09-29T17:30:00+08:00",
+      "score": 80,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fstb-stamp-duty-group-relief-gazette-20260929",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202609/29/P2026092900470.htm"
+    },
+    {
+      "id": "scmp-citi-china-30y-bonds-20260929",
+      "title": "南华早报：花旗研究转而看多中国30年期国债，料收益率向1.8%下行、10年期或趋近1.6%；指3,600亿元人民币金融机构注资计划或推升超长期久期需求 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "market",
+        "capital"
+      ],
+      "publishedAt": "2026-09-29T17:22:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-citi-china-30y-bonds-20260929",
+      "originalUrl": "https://www.scmp.com/business/markets/article/3369198/why-citi-betting-chinas-30-year-bonds-us-treasury-yields-climb"
+    },
+    {
+      "id": "hkma-hkicl-fraudulent-website-20260929",
+      "title": "金管局代发警示：香港银行同业结算公司（HKICL）提醒公众慎防伪冒网站 fpshkicl.store，冒充「买家网上安全保障」提供退款、举报未授权交易及交易支援",
+      "sourceTier": "official",
+      "themes": [
+        "market",
+        "fraud"
+      ],
+      "publishedAt": "2026-09-29T17:10:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-hkicl-fraudulent-website-20260929",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260929-4/"
+    },
+    {
+      "id": "hkma-half-yearly-monetary-financial-stability-20260929",
+      "title": "金管局刊发2026年9月号《货币与金融稳定情况半年度报告》：详析环球与本港经济、货币金融体系状况，以及银行体系近期表现与风险",
+      "sourceTier": "official",
+      "themes": [
+        "market",
+        "macro"
+      ],
+      "publishedAt": "2026-09-29T16:30:00+08:00",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-half-yearly-monetary-financial-stability-20260929",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260929-5/"
+    },
+    {
+      "id": "nfra-mofcom-domestic-trade-credit-insurance-20260929",
+      "title": "金融监管总局与商务部联合印发《关于加强商务和保险协同 做好内贸险有关工作的通知》：九项重点任务推动内贸险扩面增额，支持北京、江苏、福建、湖南、广东、四川及宁波、深圳先行探索",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "product",
+        "china"
+      ],
+      "publishedAt": "2026-09-29T16:20:00+08:00",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-mofcom-domestic-trade-credit-insurance-20260929",
+      "originalUrl": "http://www.mofcom.gov.cn/xwfb/rcxwfb/art/2026/art_7922bc64c4b7410c9d4a54af10921130.html"
+    },
+    {
+      "id": "scmp-pimco-china-diversification-20260929",
+      "title": "南华早报专访：PIMCO总裁称全球投资者对中国的看法「180度转向」，正引导非美客户以中国离岸债券分散美元与美股集中度 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "market",
+        "global-allocation"
+      ],
+      "publishedAt": "2026-09-29T16:00:00+08:00",
+      "score": 63,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-pimco-china-diversification-20260929",
+      "originalUrl": "https://www.scmp.com/business/china-business/article/3369148/180-degree-flip-sees-global-investors-turn-china-diversification-pimco-president"
+    },
+    {
+      "id": "artemis-lane-financial-catbond-soft-market-20260929",
+      "title": "Lane Financial：巨灾债软市场未至2017年低位但有再走软空间——现时倍数1.9倍（2017年一季度低谷1.7倍），若2026年余下无大灾，软市或再延续一年 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "market",
+        "ils",
+        "catastrophe"
+      ],
+      "publishedAt": "2026-09-29T16:00:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-lane-financial-catbond-soft-market-20260929",
+      "originalUrl": "https://www.artemis.bm/news/catastrophe-bond-soft-market-not-yet-at-2017-levels-but-could-last-another-year-lane-financial/"
+    },
+    {
+      "id": "artemis-marsh-archer-life-annuity-platform-20260929",
+      "title": "Marsh推出「Archer」平台：为寿险与年金再保人、sidecar、SPI及分离账户提供快速设立与营运基础设施，并在百慕大注册 Mangrove ISAC Life Re [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "market",
+        "capital",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-09-29T15:30:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-marsh-archer-life-annuity-platform-20260929",
+      "originalUrl": "https://www.artemis.bm/news/marsh-launches-archer-platform-for-life-and-annuity-reinsurers-sidecars-spis-and-cells/"
+    },
+    {
+      "id": "ian-aig-keiichi-ishida-japan-20260929",
+      "title": "AIG委任Keiichi Ishida为日本商业财产险主管：已从新加坡调回东京，此前在Everest任日本区主管两年 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "insurer",
+        "people"
+      ],
+      "publishedAt": "2026-09-29T14:35:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-aig-keiichi-ishida-japan-20260929",
+      "originalUrl": "https://insuranceasianews.com/aig-names-keiichi-ishida-as-head-of-commercial-property-in-japan/"
+    },
+    {
+      "id": "fstb-north-metropolis-insurance-capital-20260929",
+      "title": "财库局局长许正宇率金融业界考察北部都会区：保险业风险为本资本制度优化后，12月31日起为北都在内的基建投资提供资本优惠待遇",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "market",
+        "capital"
+      ],
+      "publishedAt": "2026-09-29T14:30:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fstb-north-metropolis-insurance-capital-20260929",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202609/29/P2026092900320.htm"
+    },
+    {
+      "id": "ian-hk-broker-nova-revenue-20260929",
+      "title": "香港经纪行Nova收入增12%至2,000万美元，内地扩张带来贡献 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "market",
+        "channel",
+        "cross-border"
+      ],
+      "publishedAt": "2026-09-29T10:52:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-hk-broker-nova-revenue-20260929",
+      "originalUrl": "https://insuranceasianews.com/hong-kong-broker-novas-revenue-rises-12-to-us20m-as-mainland-expansion-contributes/"
+    },
+    {
+      "id": "ian-igloo-dana-parametric-rain-20260929",
+      "title": "Igloo联手印尼电子钱包Dana推出参数型降雨保障：以天气指标触发赔付，切入小微与零工经济场景 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "product",
+        "insurtech",
+        "regional"
+      ],
+      "publishedAt": "2026-09-29T10:18:00+08:00",
+      "score": 63,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-igloo-dana-parametric-rain-20260929",
+      "originalUrl": "https://insuranceasianews.com/igloo-partners-with-dana-to-launch-indonesian-parametric-rain-protection/"
+    },
+    {
+      "id": "ian-markel-kevin-leung-sea-20260929",
+      "title": "Markel调任Kevin Leung为东南亚董事总经理：统一执掌新加坡与马来西亚业务 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "insurer",
+        "people"
+      ],
+      "publishedAt": "2026-09-29T09:38:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-markel-kevin-leung-sea-20260929",
+      "originalUrl": "https://insuranceasianews.com/markel-shifts-kevin-leung-to-managing-director-for-southeast-asia/"
+    },
     {
       "id": "ian-apac-reinsurance-right-sizing-2027-20260929",
       "title": "亚太再保进入新阶段：定价承压、资本高企，分出公司转向「把再保安排调整到合适规模」，2027续保周期成观察窗口 [EN原文]",
