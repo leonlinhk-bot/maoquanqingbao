@@ -1,9 +1,54 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-30T14:48:22Z",
-  "itemCount": 1086,
+  "generatedAt": "2026-09-30T16:47:07Z",
+  "itemCount": 1089,
   "items": [
+    {
+      "id": "scmp-golden-week-bank-lures-crossborder-levy-20260930",
+      "title": "香港银行在内地收紧跨境投资规则、并对境外投资或保险收益征收20%税项后的首个黄金周，继续以免门槛礼遇争取内地访客：汇丰为新高端客户提供最高8.8万港元（约11,215美元）优惠，并附国庆烟花晚宴、北京中国网球公开赛或韩国流行歌手演唱会门票等体验 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "cross-border",
+        "market",
+        "taxation",
+        "channel"
+      ],
+      "publishedAt": "2026-09-30T23:39:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-golden-week-bank-lures-crossborder-levy-20260930",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3369382/hong-kong-banks-set-golden-week-lures-mainland-chinese-visitors-despite-new-levies"
+    },
+    {
+      "id": "ibm-indiafirst-life-bnp-paribas-cardif-cci-20260930",
+      "title": "印度竞争委员会（CCI）批准法国巴黎银行保险部门BNP Paribas Cardif向Warburg Pincus收购IndiaFirst Life 26%股权：交割后Bank of Baroda持股65%、Cardif 26%、Union Bank of India 9%；印度已于2026年2月放开寿险外资100%持股，但银行保险占新单逾33%，外资选择以少数股权换取银行渠道；印度保险经纪协会同日就IRDAI分销经济草案（佣金上限收紧、费用限额拟降三分一）发声 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "distribution",
+        "capital",
+        "market",
+        "reg"
+      ],
+      "publishedAt": "2026-09-30T23:12:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-indiafirst-life-bnp-paribas-cardif-cci-20260930",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/competition-watchdog-clears-french-insurers-stake-in-indiafirst-life-591806.aspx"
+    },
+    {
+      "id": "nfra-financial-product-online-marketing-effective-20260930",
+      "title": "人民银行等八部门《金融产品网络营销管理办法》9月30日起施行：保险纳入统一网络营销规范，禁止夸大保险责任或保险产品收益、禁止将保险收益与存款及资管产品简单类比；「境外机构未经许可面向境内居民提供金融产品服务」明确列为非法金融活动，任何机构和个人不得为其提供网络营销服务或便利；公众号、直播、短视频营销须由持牌从业人员在经审核内容及授权账号内进行并全程可回溯",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "compliance",
+        "channel",
+        "cross-border"
+      ],
+      "publishedAt": "2026-09-30T00:00:00+08:00",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-financial-product-online-marketing-effective-20260930",
+      "originalUrl": "https://www.csrc.gov.cn/csrc/c100028/c7628276/content.shtml"
+    },
     {
       "id": "ibm-insurance-moves-antarah-mclarens-markel-irdai-20260930",
       "title": "亚洲及新兴市场保险人事汇总：Ardonagh旗下MGA Antarah委任Antonio El Hokayem为中东非洲行政总裁；McLarens中东区10月1日换帅；Markel合并新加坡与马来西亚并委任Kevin Leung掌东南亚；菲律宾保险委员会与印度IRDAI新任高管 [EN原文]",

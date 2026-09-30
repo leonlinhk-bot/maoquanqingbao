@@ -630,14 +630,14 @@
       "tc": "情報密度"
     },
     "subtitle": {
-      "sc": "自动从 1086 条资讯聚合 · sourceKey 标准化完成",
-      "tc": "自動從 1086 條資訊聚合 · sourceKey 標準化完成"
+      "sc": "自动从 1089 条资讯聚合 · sourceKey 标准化完成",
+      "tc": "自動從 1089 條資訊聚合 · sourceKey 標準化完成"
     },
-    "totalItems": 1086,
+    "totalItems": 1089,
     "sourceTiers": [
       {
         "tier": "official",
-        "count": 300,
+        "count": 301,
         "label": "监管一手"
       },
       {
@@ -652,7 +652,7 @@
       },
       {
         "tier": "media",
-        "count": 409,
+        "count": 411,
         "label": "媒体报道"
       },
       {
@@ -731,12 +731,12 @@
     "topThemes": [
       {
         "theme": "market",
-        "count": 247,
+        "count": 249,
         "label": "市场"
       },
       {
         "theme": "reg",
-        "count": 155,
+        "count": 157,
         "label": "监管"
       },
       {
@@ -751,7 +751,7 @@
       },
       {
         "theme": "compliance",
-        "count": 96,
+        "count": 97,
         "label": "合规"
       },
       {
@@ -761,7 +761,7 @@
       },
       {
         "theme": "cross-border",
-        "count": 75,
+        "count": 77,
         "label": "跨境"
       },
       {
@@ -771,7 +771,7 @@
       },
       {
         "theme": "channel",
-        "count": 69,
+        "count": 71,
         "label": "渠道"
       },
       {
