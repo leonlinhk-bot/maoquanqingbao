@@ -1,9 +1,209 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-29T16:32:12Z",
-  "itemCount": 1066,
+  "generatedAt": "2026-09-30T10:13:23Z",
+  "itemCount": 1081,
   "items": [
+    {
+      "id": "hkma-hkicl-fraud-website-refund-fps-20260930",
+      "title": "香港银行同业结算公司（HKICL）警示伪冒网站 refund-fps.ink：冒充「买家网上保障」提供退款服务并引导至WhatsApp假客服；同日另有Mastercard伪冒网站及与银行有关的骗案通知",
+      "sourceTier": "official",
+      "themes": [
+        "fraud",
+        "compliance"
+      ],
+      "publishedAt": "2026-09-30T17:05:00+08:00",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-hkicl-fraud-website-refund-fps-20260930",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260930-10/"
+    },
+    {
+      "id": "hkma-monetary-statistics-aug-2026-20260930",
+      "title": "金管局8月货币统计：总存款升1.4%（港元+2.2%）、贷款升0.3%；人民币存款减2.1%至1.1015万亿元，年内总存款累计升7.3%、港元存款升8.6%",
+      "sourceTier": "official",
+      "themes": [
+        "market",
+        "macro"
+      ],
+      "publishedAt": "2026-09-30T16:30:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-monetary-statistics-aug-2026-20260930",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260930-9/"
+    },
+    {
+      "id": "hkma-residential-mortgage-survey-aug-2026-20260930",
+      "title": "金管局8月住宅按揭统计：申请按月减8.3%至8,446宗，新批贷款减28.2%至322亿港元（一手-31.8%、二手-36.7%、再融资+6.8%）；未偿还总额升0.6%至1.9754万亿，拖欠比率0.11%",
+      "sourceTier": "official",
+      "themes": [
+        "market",
+        "macro"
+      ],
+      "publishedAt": "2026-09-30T16:30:00+08:00",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-residential-mortgage-survey-aug-2026-20260930",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260930-8/"
+    },
+    {
+      "id": "hkma-exchange-fund-balance-sheet-aug-2026-20260930",
+      "title": "金管局8月外汇基金资产负债表：总资产减683亿港元至43,354亿，货币基础20,802亿，支持比率升至112.00%；同日发布国际储备及外汇流动性数据",
+      "sourceTier": "official",
+      "themes": [
+        "market",
+        "macro"
+      ],
+      "publishedAt": "2026-09-30T16:30:00+08:00",
+      "score": 84,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-exchange-fund-balance-sheet-aug-2026-20260930",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260930-6/"
+    },
+    {
+      "id": "artemis-pioneer-cat-bond-fund-grows-2026-20260930",
+      "title": "Artemis：Victory Pioneer巨灾债基金年内增逾10亿美元至27.6亿美元AUM，私募ILS间隔基金升至8.98亿美元（2022年一季度以来最大）；两基金年内合计增约46% [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ils",
+        "market",
+        "catastrophe"
+      ],
+      "publishedAt": "2026-09-30T16:00:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-pioneer-cat-bond-fund-grows-2026-20260930",
+      "originalUrl": "https://www.artemis.bm/news/pioneer-cat-bond-fund-grows-by-more-than-1bn-in-2026-to-reach-2-76bn-aum/"
+    },
+    {
+      "id": "insuranceasianews-marsh-asean-ceo-singapore-20260930",
+      "title": "Marsh擢升泰国Derek Heng为东盟区行政总裁，新加坡由Peta Latimer掌舵 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "talent",
+        "career"
+      ],
+      "publishedAt": "2026-09-30T14:51:00+08:00",
+      "score": 58,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasianews-marsh-asean-ceo-singapore-20260930",
+      "originalUrl": "https://insuranceasianews.com/marsh-promotes-thailands-derek-heng-to-asean-ceo-peta-latimer-takes-singapore-helm/"
+    },
+    {
+      "id": "insuranceasianews-australian-regulator-2026-27-priorities-20260930",
+      "title": "澳洲监管机构公布2026-27年度保险监管优先事项：点名「灾难追逐者」并预告行业实务守则全面检讨 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reg",
+        "compliance"
+      ],
+      "publishedAt": "2026-09-30T12:49:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasianews-australian-regulator-2026-27-priorities-20260930",
+      "originalUrl": "https://insuranceasianews.com/australian-regulator-flags-disaster-chasers-code-of-practice-overhaul-as-2026-27-insurance-priorities/"
+    },
+    {
+      "id": "hkma-ip-financing-sandbox-first-batch-20260930",
+      "title": "知识产权融资沙盒完成首批试点融资审批：7宗个案、贷款额100万至3,900万港元，涵盖电子、建筑、玩具制造及医疗器械；同日政府推出专利估值先导支援计划",
+      "sourceTier": "official",
+      "themes": [
+        "market",
+        "capital"
+      ],
+      "publishedAt": "2026-09-30T12:25:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-ip-financing-sandbox-first-batch-20260930",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260930-4/"
+    },
+    {
+      "id": "insurancebusinessmag-kpmg-ai-insurance-transformation-20260930",
+      "title": "毕马威《释放保险业AI价值》：44%受访保险机构自评AI转型前四分之一、无人自认大幅落后，但没有任何一家围绕AI重建销售分销或核保，保单服务与理赔仅3% [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "distribution",
+        "ai-governance"
+      ],
+      "publishedAt": "2026-09-30T09:10:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insurancebusinessmag-kpmg-ai-insurance-transformation-20260930",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/insurers-rate-themselves-ai-leaders-but-none-has-rebuilt-distribution-around-it--kpmg-591693.aspx"
+    },
+    {
+      "id": "ia-conduct-in-focus-issue-13-20260930",
+      "title": "保监局《监管通讯》第13期（2026年9月）：点名营销选择性数据、伪造文件错分专业投资者的虚假传闻、以「自荐转介」包装的变相回佣，并强调代理主管问责与KPIM角色",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "compliance",
+        "channel"
+      ],
+      "publishedAt": "2026-09-30T09:00:00+08:00",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-conduct-in-focus-issue-13-20260930",
+      "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/20260930_Circular_Conduct_In_Focus_Issue_13_Eng.pdf"
+    },
+    {
+      "id": "scmp-grant-thornton-hk-boards-ai-cyber-skills-20260930",
+      "title": "南华早报：均富第15份企业管治报告指香港大型上市公司董事会严重缺乏科技专才——具备网络安全的董事仅0.56%、AI专才0.26%，59%视网安或AI为主要业务风险但仅11%设专责董事委员会 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "ai-governance",
+        "talent"
+      ],
+      "publishedAt": "2026-09-30T08:00:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-grant-thornton-hk-boards-ai-cyber-skills-20260930",
+      "originalUrl": "https://www.scmp.com/business/companies/article/3369229/hong-kongs-executives-are-ill-prepared-ai-era-report-finds"
+    },
+    {
+      "id": "scmp-capco-wealth-management-ai-headcount-20260930",
+      "title": "南华早报：Capco研究指香港财富管理资产去年增24%至12.9万亿港元，但私人银行人手仅增2.2%（9,920人增至10,140人）——AI提升人均产能，顾问角色转向传承与复杂决策 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "talent",
+        "market"
+      ],
+      "publishedAt": "2026-09-30T07:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-capco-wealth-management-ai-headcount-20260930",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3369160/ai-uptake-sees-wealth-management-headcounts-hong-kong-trail-growth-assets"
+    },
+    {
+      "id": "insuranceasia-prudential-singapore-critical-illness-poll-20260930",
+      "title": "保诚新加坡调查：仅29%新加坡人有足够储蓄应付逾一年的危疾康复期，59%已购危疾计划但仅20%有信心保障足够，64%估计需要逾20万新元 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "health",
+        "product"
+      ],
+      "publishedAt": "2026-09-30T06:00:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-prudential-singapore-critical-illness-poll-20260930",
+      "originalUrl": "https://insuranceasia.com/insurance/news/only-20-singaporeans-confident-their-critical-illness-coverage-poll"
+    },
+    {
+      "id": "insuranceasia-japan-premium-share-allianz-20260930",
+      "title": "安联预测：日本保险市场增速将落后亚洲多数市场，全球保费份额由2025年的3.9%降至2036年的3.0%；估计日本年均增长财险2.5%、寿险2.9% [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "market",
+        "macro"
+      ],
+      "publishedAt": "2026-09-30T05:00:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-japan-premium-share-allianz-20260930",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/japan-insurance-share-set-fall-3-2036"
+    },
+    {
+      "id": "nfra-work-safety-liability-accident-prevention-2026-20260929",
+      "title": "应急管理部、金融监管总局、国家矿山安监局联合发文（应急厅函〔2026〕352号）：2026年精准开展安责险事故预防服务，要求年底前高危行业投保覆盖率达100%、防止低价与虚假投保",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "uw"
+      ],
+      "publishedAt": "2026-09-29",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-work-safety-liability-accident-prevention-2026-20260929",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1273761&itemId=4216"
+    },
     {
       "id": "scmp-vertex-developer-disclosure-fine-20260929",
       "title": "南华早报：长沙湾新盘The Vertex发展商Twin City因11宗违反一手住宅物业销售条例、未在24小时内如实记录付款条款，被判罚款共77万港元 [EN原文]",
