@@ -1,9 +1,82 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-30T10:13:23Z",
-  "itemCount": 1081,
+  "generatedAt": "2026-09-30T14:48:22Z",
+  "itemCount": 1086,
   "items": [
+    {
+      "id": "ibm-insurance-moves-antarah-mclarens-markel-irdai-20260930",
+      "title": "亚洲及新兴市场保险人事汇总：Ardonagh旗下MGA Antarah委任Antonio El Hokayem为中东非洲行政总裁；McLarens中东区10月1日换帅；Markel合并新加坡与马来西亚并委任Kevin Leung掌东南亚；菲律宾保险委员会与印度IRDAI新任高管 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "talent",
+        "career",
+        "market"
+      ],
+      "publishedAt": "2026-09-30T22:27:00+08:00",
+      "score": 56,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-insurance-moves-antarah-mclarens-markel-irdai-20260930",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/insurance-moves-antarah-mclarens-markel-insurance-commission-irdai-591790.aspx"
+    },
+    {
+      "id": "ibm-broker-ro-tenure-conduct-risk-20260930",
+      "title": "保险商业（亚洲）解读保监局《监管通讯》第13期数据：2019年9月至2026年6月共批出3,201名负责人员，平均在任3.8年；长期业务机构51.4%任命不足两年，经纪公司负责人员平均仅2.3年（代理机构3.3年）低于三年牌照期基准；3家经纪公司因转介管控失效被加设续牌条件 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reg",
+        "compliance",
+        "channel",
+        "talent"
+      ],
+      "publishedAt": "2026-09-30T21:14:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-broker-ro-tenure-conduct-risk-20260930",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/broker-leadership-churn-emerges-as-conduct-risk-signal-in-hong-kong-ia-report-591783.aspx"
+    },
+    {
+      "id": "artemis-stone-ridge-cat-bond-fund-5bn-20260930",
+      "title": "Artemis：Stone Ridge高收益再保风险溢价基金规模达50亿美元里程碑，旗下互惠巨灾债与ILS基金合计约76亿美元、一年增近30%，为2018年以来高位 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ils",
+        "capital",
+        "market"
+      ],
+      "publishedAt": "2026-09-30T21:00:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-stone-ridge-cat-bond-fund-5bn-20260930",
+      "originalUrl": "https://www.artemis.bm/news/stone-ridge-cat-bond-fund-hits-5bn-aum-milestone-total-mutual-ils-assets-now-7-6bn/"
+    },
+    {
+      "id": "ibm-willis-df-growth-leader-fac-demand-20260930",
+      "title": "Willis委任Andy Chang为全球直接与临时再保（D&F）增长主管：调查指60%保险公司未来两年将增用临时再保、仅13%减少；美加1月物业临时再保费率跌25%至30%，穆迪称为逾十年最急 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "pricing",
+        "talent",
+        "market"
+      ],
+      "publishedAt": "2026-09-30T19:39:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-willis-df-growth-leader-fac-demand-20260930",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/willis-appoints-dandf-growth-leader-as-fac-demand-surges-591766.aspx"
+    },
+    {
+      "id": "artemis-brazil-susep-lrs-catbond-proposals-20260930",
+      "title": "Artemis：巴西SUSEP公布自然灾害风险融资改革方案——拟完善LRS（保险风险凭证）制度、引入巨灾债与参数保险，长期设想主权巨灾债与南美区域风险共担；当地自然灾害经济损失投保比例仅约9%，远低于全球约45% [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ils",
+        "reg",
+        "catastrophe",
+        "cat-risk"
+      ],
+      "publishedAt": "2026-09-30T18:30:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-brazil-susep-lrs-catbond-proposals-20260930",
+      "originalUrl": "https://www.artemis.bm/news/brazils-susep-proposes-lrs-reforms-cat-bonds-parametrics-for-catastrophe-protection/"
+    },
     {
       "id": "hkma-hkicl-fraud-website-refund-fps-20260930",
       "title": "香港银行同业结算公司（HKICL）警示伪冒网站 refund-fps.ink：冒充「买家网上保障」提供退款服务并引导至WhatsApp假客服；同日另有Mastercard伪冒网站及与银行有关的骗案通知",
