@@ -1,9 +1,79 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-01T02:06:09Z",
-  "itemCount": 1093,
+  "generatedAt": "2026-10-01T04:03:54Z",
+  "itemCount": 1098,
   "items": [
+    {
+      "id": "axa-genai-sandbox-first-batch-20260902",
+      "title": "安盛香港入选GenA.I.沙盒++首批 以AI治理与网络韧性用例测试负责任AI",
+      "sourceTier": "insurer",
+      "themes": [
+        "ai-governance",
+        "sandbox",
+        "insurtech"
+      ],
+      "publishedAt": "2026-09-02",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=axa-genai-sandbox-first-batch-20260902",
+      "originalUrl": "https://insurtecheye.com/news/axa-selected-among-first-batch-for-gena-i-sandbox-pioneering-a-dedicated-risk-mi-bd8f936e"
+    },
+    {
+      "id": "sapiens-aip-platform-20260914",
+      "title": "Sapiens发布AI原生自主保险平台SapiensAIP 把代理式AI嵌入核心系统",
+      "sourceTier": "pro",
+      "themes": [
+        "agentic-ai",
+        "insurtech",
+        "platform"
+      ],
+      "publishedAt": "2026-09-14",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sapiens-aip-platform-20260914",
+      "originalUrl": "https://sapiens.com/newsroom/sapiens-announces-its-ai-native-autonomous-insurance-platform-sapiensaip"
+    },
+    {
+      "id": "duckcreek-agentic-fnol-20260928",
+      "title": "Duck Creek发布Agentic FNOL：AI智能体编排首勘通知 实现实时理赔受理",
+      "sourceTier": "pro",
+      "themes": [
+        "agentic-ai",
+        "claims",
+        "insurtech"
+      ],
+      "publishedAt": "2026-09-28",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=duckcreek-agentic-fnol-20260928",
+      "originalUrl": "https://newswire.ca/news-releases/duck-creek-launches-agentic-fnol-to-transform-claims-intake-with-intelligent-real-time-automation-864718970.html"
+    },
+    {
+      "id": "outmarket-ai-series-b-20260925",
+      "title": "AI保险作业平台Outmarket完成3450万美元B轮 距A轮仅四个月、估值约3.55亿美元",
+      "sourceTier": "media",
+      "themes": [
+        "insurtech",
+        "funding",
+        "ai"
+      ],
+      "publishedAt": "2026-09-25",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=outmarket-ai-series-b-20260925",
+      "originalUrl": "https://prnewswire.com/news-releases/outmarket-ai-raises-34-5m-series-b-to-solidify-position-as-the-1-ai-platform-for-insurance-302891583.html"
+    },
+    {
+      "id": "prudential-hk-ai-underwriter-20260909",
+      "title": "保诚香港全面上线AI核保助手 联手阿里云在销售端实现即时预核保",
+      "sourceTier": "insurer",
+      "themes": [
+        "ai",
+        "underwriting",
+        "insurtech"
+      ],
+      "publishedAt": "2026-09-09",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=prudential-hk-ai-underwriter-20260909",
+      "originalUrl": "https://www.alibabacloud.com/en/press-room/prudential-launches-brand-new-ai-underwriter?_p_lc=1"
+    },
     {
       "id": "fstb-policy-address-2026-wealth-fo-trust-20260916",
       "title": "《行政长官2026年施政报告》9月16日发表：香港跃居全球最大跨境财富管理中心，将在优化基金、单一家族办公室及附带权益优惠税制的条例草案获立法会通过后加强推广；2026年内提交REIT私有化或重组条例草案；财库局年内就加强公司及明示信托实益拥有权透明度的立法建议咨询公众，落实打击洗钱及恐怖分子资金筹集最新国际标准",
