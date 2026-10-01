@@ -1,9 +1,69 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-09-30T16:47:07Z",
-  "itemCount": 1089,
+  "generatedAt": "2026-10-01T02:06:09Z",
+  "itemCount": 1093,
   "items": [
+    {
+      "id": "fstb-policy-address-2026-wealth-fo-trust-20260916",
+      "title": "《行政长官2026年施政报告》9月16日发表：香港跃居全球最大跨境财富管理中心，将在优化基金、单一家族办公室及附带权益优惠税制的条例草案获立法会通过后加强推广；2026年内提交REIT私有化或重组条例草案；财库局年内就加强公司及明示信托实益拥有权透明度的立法建议咨询公众，落实打击洗钱及恐怖分子资金筹集最新国际标准",
+      "sourceTier": "official",
+      "themes": [
+        "family-office",
+        "taxation",
+        "trust",
+        "fo-ecosystem"
+      ],
+      "publishedAt": "2026-09-16T13:02:00+08:00",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fstb-policy-address-2026-wealth-fo-trust-20260916",
+      "originalUrl": "https://www.policyaddress.gov.hk/2026/tc/chapter3.html"
+    },
+    {
+      "id": "hk-sg-gfci40-wealth-competition-20260916",
+      "title": "第40期全球金融中心指数：香港756分 vs 新加坡755分仅差1分；香港跨境财富管理2.95万亿美元首超瑞士成全球第一、上半年IPO集资额约为新加坡31倍；新加坡以逾2000间单一家办与基金业7.5%年均增速反击，人才战上香港扩大附带权益免税、新加坡金管局推出免税＋对冲基金资本＋高管签证三招应对",
+      "sourceTier": "pro",
+      "themes": [
+        "family-office",
+        "benchmark",
+        "offshore",
+        "market"
+      ],
+      "publishedAt": "2026-09-16T00:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hk-sg-gfci40-wealth-competition-20260916",
+      "originalUrl": "https://www.163.com/dy/article/L7HRORLM0518X2UP.html"
+    },
+    {
+      "id": "offshore-trust-crs2-crossborder-compliance-20260902",
+      "title": "「离岸信托新规下的跨境财富合规与信托价值重塑」研讨会9月2日在沪举行：聚焦海外信托合规与税务影响、A股股权置入信托的监管障碍、香港家办与信托制度优势及CRS穿透与追税现状",
+      "sourceTier": "pro",
+      "themes": [
+        "trust",
+        "offshore",
+        "family-office",
+        "compliance"
+      ],
+      "publishedAt": "2026-09-04T00:00:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=offshore-trust-crs2-crossborder-compliance-20260902",
+      "originalUrl": "https://www.allbrightlaw.com/CN/10482/66eed16b46d9b1c9.aspx"
+    },
+    {
+      "id": "sg-mas-13o-13u-fo-tax-relax-20260801",
+      "title": "新加坡MAS发布基金税收激励通函：13O/13U单一家办条件全面放宽——IP招聘给宽限期（13O申请时仅需1名、13U仅需2名）、本地开支阶梯门槛大幅放宽（2.5亿新元以下降至20万新元）、资本部署精简为三选项、取消实物贵金属5%上限，2026年8月1日起生效",
+      "sourceTier": "pro",
+      "themes": [
+        "family-office",
+        "benchmark",
+        "offshore",
+        "taxation"
+      ],
+      "publishedAt": "2026-08-04T00:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sg-mas-13o-13u-fo-tax-relax-20260801",
+      "originalUrl": "https://hankunlaw.com/portal/article/index/cid/8/id/17048.html"
+    },
     {
       "id": "scmp-golden-week-bank-lures-crossborder-levy-20260930",
       "title": "香港银行在内地收紧跨境投资规则、并对境外投资或保险收益征收20%税项后的首个黄金周，继续以免门槛礼遇争取内地访客：汇丰为新高端客户提供最高8.8万港元（约11,215美元）优惠，并附国庆烟花晚宴、北京中国网球公开赛或韩国流行歌手演唱会门票等体验 [EN原文]",
