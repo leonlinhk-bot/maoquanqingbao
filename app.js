@@ -1,11 +1,11 @@
 window.HKII_DATA = {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-10-01T12:03:52+08:00",
-    "itemCount": 1098,
+    "generatedAt": "2026-10-02T02:20:00+08:00",
+    "itemCount": 1111,
     "windowNote": {
-      "sc": "本库1098条。",
-      "tc": "本庫1098條。"
+      "sc": "本库1111条。",
+      "tc": "本庫1111條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -302,6 +302,1135 @@ window.HKII_DATA = {
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasianews",
+      "contentKind": "news",
+      "actions": {
+        "front": {
+          "sc": "关注区域管理层更替后的渠道政策与产品重心变化，避免在交接期内依赖口头承诺",
+          "tc": "關注區域管理層更替後的渠道政策與產品重心變化，避免在交接期內依賴口頭承諾"
+        },
+        "midback": {
+          "sc": "合作机构负责人员变更须及时更新尽职调查档案与合约联络人",
+          "tc": "合作機構負責人員變更須及時更新盡職調查檔案與合約聯絡人"
+        },
+        "lead": {
+          "sc": "把区域人事变化纳入季度竞争情报，评估对招募与团队激励政策的传导",
+          "tc": "把區域人事變化納入季度競爭情報，評估對招募與團隊激勵政策的傳導"
+        },
+        "cross": {
+          "sc": "涉跨境架构的集团人事变动可能影响境外保单服务口径，提前确认服务接续安排",
+          "tc": "涉跨境架構的集團人事變動可能影響境外保單服務口徑，提前確認服務接續安排"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "boards": [
+        "people",
+        "leadership"
+      ],
+      "themes": [
+        "people",
+        "leadership",
+        "career",
+        "asia",
+        "channel"
+      ],
+      "tags": {
+        "sc": [
+          "安联新加坡",
+          "大东方",
+          "CEO",
+          "人事变动",
+          "团体险",
+          "一般险"
+        ],
+        "tc": [
+          "安聯新加坡",
+          "大東方",
+          "CEO",
+          "人事變動",
+          "團體險",
+          "一般險"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-10-02T02:20:00+08:00",
+      "id": "ian-allianz-sg-ceo-great-eastern-raissi-20261001",
+      "publishedAt": "2026-10-01T12:16:00+08:00",
+      "title": {
+        "sc": "安联新加坡COO Bi Ying Ong 升任CEO；Hicham Raissi 同日转任大东方一般险及团体险董事总经理 [EN原文]",
+        "tc": "安聯新加坡COO Bi Ying Ong 升任CEO；Hicham Raissi 同日轉任大東方一般險及團體險董事總經理 [EN原文]"
+      },
+      "summary": {
+        "sc": "InsuranceAsia News 10月1日12:16报道，安联新加坡营运总监（COO）Bi Ying Ong 将接替 Hicham Raissi 出任安联新加坡行政总裁。同日11:58该网另文报道，大东方（Great Eastern）委任 Hicham Raissi 为一般保险及团体保险董事总经理。保险商业（亚洲）同日人事汇总并指，安联新加坡由COO内部晋升CEO、友邦人寿韩国提名其中国区财务总监出任要职、怡安（Aon）从韦莱韬悦（WTW）延揽人才负责日本跨国企业业务，反映区域保险集团在换防中同时补齐财务与跨国企业客户能力。",
+        "tc": "InsuranceAsia News 10月1日12:16報道，安聯新加坡營運總監（COO）Bi Ying Ong 將接替 Hicham Raissi 出任安聯新加坡行政總裁。同日11:58該網另文報道，大東方（Great Eastern）委任 Hicham Raissi 爲一般保險及團體保險董事總經理。保險商業（亞洲）同日人事匯總並指，安聯新加坡由COO內部晉升CEO、友邦人壽韓國提名其中國區財務總監出任要職、怡安（Aon）從韋萊韜悅（WTW）延攬人才負責日本跨國企業業務，反映區域保險集團在換防中同時補齊財務與跨國企業客戶能力。"
+      },
+      "why": {
+        "sc": "同一日内安联新加坡与大东方完成CEO/董事总经理级交叉换防，加上友邦韩国、怡安日本的人事补位，说明亚太保险公司在承保周期转软、竞争加剧时更倾向用内部晋升＋跨机构挖角同步解决「本地市场理解」与「跨国企业客户能力」两块短板。对渠道合作方而言，区域管理层更替常伴随渠道政策、佣金结构与产品重心调整窗口，值得提前建立直接沟通。",
+        "tc": "同一日內安聯新加坡與大東方完成CEO/董事總經理級交叉換防，加上友邦韓國、怡安日本的人事補位，說明亞太保險公司在承保周期轉軟、競爭加劇時更傾向用內部晉升＋跨機構挖角同步解決「本地市場理解」與「跨國企業客戶能力」兩塊短板。對渠道合作方而言，區域管理層更替常伴隨渠道政策、佣金結構與產品重心調整窗口，值得提前建立直接溝通。"
+      },
+      "source": {
+        "sc": "InsuranceAsia News 2026-10-01 12:16（另见同日11:58及Insurance Business Asia人事汇总）[EN原文]",
+        "tc": "InsuranceAsia News 2026-10-01 12:16（另見同日11:58及Insurance Business Asia人事匯總）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://insuranceasianews.com/bi-ying-ong-to-succeed-hicham-raissi-as-allianz-singapore-ceo/"
+    },
+    {
+      "clusterCount": 1,
+      "score": 68,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasianews",
+      "contentKind": "news",
+      "actions": {
+        "front": {
+          "sc": "客户若引用并购传闻影响产品信心，应以其官方披露为准，不作投资或收益推断",
+          "tc": "客戶若引用併購傳聞影響產品信心，應以其官方披露為準，不作投資或收益推斷"
+        },
+        "midback": {
+          "sc": "把区域并购传闻纳入合作方尽调关注清单，留意股权变动后的承保主体变化",
+          "tc": "把區域併購傳聞納入合作方盡調關注清單，留意股權變動後的承保主體變化"
+        },
+        "lead": {
+          "sc": "涉及日资／澳资集团客户与产品的团队，留意整合对区域服务与再保层级的影响",
+          "tc": "涉及日資／澳資集團客戶與產品的團隊，留意整合對區域服務與再保層級的影響"
+        },
+        "cross": {
+          "sc": "跨境架构安排不宜建立在未确认的股权变动之上，须等官方公告",
+          "tc": "跨境架構安排不宜建立在未確認的股權變動之上，須等官方公告"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "boards": [
+        "insurer",
+        "m&a"
+      ],
+      "themes": [
+        "m&a",
+        "australia",
+        "japan",
+        "capital",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "Suncorp",
+          "Tokio Marine",
+          "收购",
+          "澳交所",
+          "回应"
+        ],
+        "tc": [
+          "Suncorp",
+          "Tokio Marine",
+          "收購",
+          "澳交所",
+          "回應"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-10-02T02:20:00+08:00",
+      "id": "ian-suncorp-tokio-marine-takeover-denial-20261001",
+      "publishedAt": "2026-10-01T10:16:00+08:00",
+      "title": {
+        "sc": "澳洲Suncorp在澳交所回应中否认与Tokio Marine进行收购磋商 [EN原文]",
+        "tc": "澳洲Suncorp在澳交所回應中否認與Tokio Marine進行收購磋商 [EN原文]"
+      },
+      "summary": {
+        "sc": "InsuranceAsia News 10月1日10:16报道，澳洲上市保险集团 Suncorp 在回应澳洲证券交易所（ASX）查询时，否认与日本 Tokio Marine 就收购事项进行谈判。报道未披露收购传闻的具体来源与作价区间。",
+        "tc": "InsuranceAsia News 10月1日10:16報道，澳洲上市保險集團 Suncorp 在回應澳洲證券交易所（ASX）查詢時，否認與日本 Tokio Marine 就收購事項進行談判。報道未披露收購傳聞的具體來源與作價區間。"
+      },
+      "why": {
+        "sc": "Suncorp 为澳洲主要一般保险公司，Tokio Marine 近年持续在亚太收购扩张，若成事将属区域重大整合。此番否认属上市规则下的正式回应，可作为观察日资险企在亚太并购路线是否延续的观察点；对香港市场而言，日资集团跨境整合往往连带再保安排与区域管理架构调整。",
+        "tc": "Suncorp 爲澳洲主要一般保險公司，Tokio Marine 近年持續在亞太收購擴張，若成事將屬區域重大整合。此番否認屬上市規則下的正式回應，可作爲觀察日資險企在亞太併購路線是否延續的觀察點；對香港市場而言，日資集團跨境整合往往連帶再保安排與區域管理架構調整。"
+      },
+      "source": {
+        "sc": "InsuranceAsia News 2026-10-01 10:16 [EN原文]",
+        "tc": "InsuranceAsia News 2026-10-01 10:16 [EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://insuranceasianews.com/suncorp-denies-tokio-marine-takeover-talks-in-asx-response/"
+    },
+    {
+      "clusterCount": 1,
+      "score": 64,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasianews",
+      "contentKind": "news",
+      "actions": {
+        "front": {
+          "sc": "再保层级变动一般不直接触及零售保单条款，无须向客户转述",
+          "tc": "再保層級變動一般不直接觸及零售保單條款，無須向客戶轉述"
+        },
+        "midback": {
+          "sc": "留意再保中介结构与分出安排变化，核对现有再保合约的相对竞争力",
+          "tc": "留意再保中介結構與分出安排變化，核對現有再保合約的相對競爭力"
+        },
+        "lead": {
+          "sc": "把新兴再保中介纳入年度供应商评估，评估议价能力与条款条件",
+          "tc": "把新興再保中介納入年度供應商評估，評估議價能力與條款條件"
+        },
+        "cross": {
+          "sc": "跨境分出安排须符合本地监管与资产维持要求，新增中介须完成合规尽调",
+          "tc": "跨境分出安排須符合本地監管與資產維持要求，新增中介須完成合規盡調"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "boards": [
+        "reinsurance",
+        "market"
+      ],
+      "themes": [
+        "reinsurance",
+        "broker",
+        "korea",
+        "singapore",
+        "expansion"
+      ],
+      "tags": {
+        "sc": [
+          "Simon Global",
+          "韩国",
+          "再保险经纪",
+          "新加坡",
+          "区域扩张"
+        ],
+        "tc": [
+          "Simon Global",
+          "韓國",
+          "再保險經紀",
+          "新加坡",
+          "區域擴張"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-10-02T02:20:00+08:00",
+      "id": "ian-simon-global-sg-reinsurance-broker-20261001",
+      "publishedAt": "2026-10-01T06:00:00+08:00",
+      "title": {
+        "sc": "韩国经纪集团 Simon Global 在新加坡设立再保险经纪公司 [EN原文]",
+        "tc": "韓國經紀集團 Simon Global 在新加坡設立再保險經紀公司 [EN原文]"
+      },
+      "summary": {
+        "sc": "InsuranceAsia News 10月1日06:00报道，韩国经纪集团 Simon Global 在新加坡成立再保险经纪机构，把业务版图从韩国延伸至亚洲再保枢纽。报道未披露新实体的资本规模与团队编制。",
+        "tc": "InsuranceAsia News 10月1日06:00報道，韓國經紀集團 Simon Global 在新加坡成立再保險經紀機構，把業務版圖從韓國延伸至亞洲再保樞紐。報道未披露新實體的資本規模與團隊編制。"
+      },
+      "why": {
+        "sc": "亚洲再保市场在定价转软、资本充裕的环境下仍持续吸引新入场者，韩国经纪集团以新加坡为跳板，反映区域分出需求与再保中介竞争同步升温。对香港经纪人而言，这类新再保中介的出现意味着潜在的分出渠道与替代方案增加，也提示再保安排的中介选择需重新评估。",
+        "tc": "亞洲再保市場在定價轉軟、資本充裕的環境下仍持續吸引新入場者，韓國經紀集團以新加坡爲跳板，反映區域分出需求與再保中介競爭同步升溫。對香港經紀人而言，這類新再保中介的出現意味着潛在的分出渠道與替代方案增加，也提示再保安排的中介選擇需重新評估。"
+      },
+      "source": {
+        "sc": "InsuranceAsia News 2026-10-01 06:00 [EN原文]",
+        "tc": "InsuranceAsia News 2026-10-01 06:00 [EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://insuranceasianews.com/korean-broking-group-simon-global-launches-singapore-based-reinsurance-broker/"
+    },
+    {
+      "clusterCount": 1,
+      "score": 66,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasianews",
+      "contentKind": "news",
+      "actions": {
+        "front": {
+          "sc": "面向企业客户不谈「必然承保」，先了解项目阶段与风险资料完整度再谈条款",
+          "tc": "面向企業客戶不談「必然承保」，先了解項目階段與風險資料完整度再談條款"
+        },
+        "midback": {
+          "sc": "绿色／新能源项目须留存完整工程与风险管理文件，避免以口号替代技术资料",
+          "tc": "綠色／新能源項目須留存完整工程與風險管理文件，避免以口號替代技術資料"
+        },
+        "lead": {
+          "sc": "把能源转型相关险种纳入团队能力建设，明确可承接的项目类型边界",
+          "tc": "把能源轉型相關險種納入團隊能力建設，明確可承接的項目類型邊界"
+        },
+        "cross": {
+          "sc": "跨境项目投保须确认属地与保险利益，避免多层安排出现保障空档",
+          "tc": "跨境項目投保須確認屬地與保險利益，避免多層安排出現保障空檔"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 3,
+        "cross": 2
+      },
+      "boards": [
+        "insurer",
+        "market"
+      ],
+      "themes": [
+        "energy",
+        "underwriting",
+        "asia",
+        "climate",
+        "capacity"
+      ],
+      "tags": {
+        "sc": [
+          "Markel",
+          "新能源",
+          "可再生能源",
+          "新加坡",
+          "承保"
+        ],
+        "tc": [
+          "Markel",
+          "新能源",
+          "可再生能源",
+          "新加坡",
+          "承保"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-10-02T02:20:00+08:00",
+      "id": "ian-markel-rob-jones-sg-renewables-20261001",
+      "publishedAt": "2026-10-01T11:30:00+08:00",
+      "title": {
+        "sc": "Markel 把可再生能源承保人 Rob Jones 调驻新加坡，抢占亚太能源险需求 [EN原文]",
+        "tc": "Markel 把可再生能源承保人 Rob Jones 調駐新加坡，搶佔亞太能源險需求 [EN原文]"
+      },
+      "summary": {
+        "sc": "InsuranceAsia News 10月1日11:30报道，Markel 将可再生能源承保人 Rob Jones 调驻新加坡，配合亚太区能源险布局。保险商业（亚洲）同日报道补充，亚太可再生能源项目的专业承保容量正在增长，但承保人变得更具选择性——项目的资历、工程与风险管理证明将决定能否取得较优条款。",
+        "tc": "InsuranceAsia News 10月1日11:30報道，Markel 將可再生能源承保人 Rob Jones 調駐新加坡，配合亞太區能源險布局。保險商業（亞洲）同日報道補充，亞太可再生能源項目的專業承保容量正在增長，但承保人變得更具選擇性——項目的資歷、工程與風險管理證明將決定能否取得較優條款。"
+      },
+      "why": {
+        "sc": "能源转型带动亚太新能源项目工程险、营运险与相关责任险需求上升，但承保人同时提高门槛。对香港保险经纪与高客服务而言，这既是企业客户新风险需求，也提示「绿色项目」并非自动获得优惠条款；项目尽调与风险资料准备质量将直接影响承保结果。",
+        "tc": "能源轉型帶動亞太新能源項目工程險、營運險與相關責任險需求上升，但承保人同時提高門檻。對香港保險經紀與高客服務而言，這既是企業客戶新風險需求，也提示「綠色項目」並非自動獲得優惠條款；項目盡調與風險資料準備質量將直接影響承保結果。"
+      },
+      "source": {
+        "sc": "InsuranceAsia News 2026-10-01 11:30（另见Insurance Business Asia同日报道）[EN原文]",
+        "tc": "InsuranceAsia News 2026-10-01 11:30（另見Insurance Business Asia同日報道）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://insuranceasianews.com/markel-shifts-rob-jones-to-singapore-in-apac-renewables-push/"
+    },
+    {
+      "clusterCount": 1,
+      "score": 68,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "contentKind": "news",
+      "actions": {
+        "front": {
+          "sc": "不与客户讨论佣金水平，但须清楚向客户说明自身服务范围与收费／报酬来源结构",
+          "tc": "不與客戶討論佣金水平，但須清楚向客戶說明自身服務範圍與收費／報酬來源結構"
+        },
+        "midback": {
+          "sc": "复核转介费与佣金结构是否符合本地比例上限要求，留存服务与收费对应关系",
+          "tc": "覆核轉介費與佣金結構是否符合本地比例上限要求，留存服務與收費對應關係"
+        },
+        "lead": {
+          "sc": "把「顾问交付成本 vs 报酬结构」列为年度经营评审项，避免在高成本客群上依赖低报酬渠道",
+          "tc": "把「顧問交付成本 vs 報酬結構」列爲年度經營評審項，避免在高成本客羣上依賴低報酬渠道"
+        },
+        "cross": {
+          "sc": "跨境分销若涉及境外持牌主体，须分别符合两地佣金与转介规则，不得以结构安排规避",
+          "tc": "跨境分銷若涉及境外持牌主體，須分別符合兩地佣金與轉介規則，不得以結構安排規避"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 3,
+        "lead": 3,
+        "cross": 2
+      },
+      "boards": [
+        "reg",
+        "channel",
+        "commission"
+      ],
+      "themes": [
+        "commission",
+        "distribution",
+        "india",
+        "broker",
+        "regulation"
+      ],
+      "tags": {
+        "sc": [
+          "IRDAI",
+          "IBAI",
+          "佣金改革",
+          "分销成本",
+          "经纪",
+          "代理"
+        ],
+        "tc": [
+          "IRDAI",
+          "IBAI",
+          "佣金改革",
+          "分銷成本",
+          "經紀",
+          "代理"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-10-02T02:20:00+08:00",
+      "id": "ibm-india-broker-commission-rules-20261001",
+      "publishedAt": "2026-10-01T09:00:00+08:00",
+      "title": {
+        "sc": "印度拟议佣金新规引发经纪业反弹：独立顾问成本更高却回报更低，经纪渠道商业逻辑或消失 [EN原文]",
+        "tc": "印度擬議佣金新規引發經紀業反彈：獨立顧問成本更高卻回報更低，經紀渠道商業邏輯或消失 [EN原文]"
+      },
+      "summary": {
+        "sc": "保险商业（亚洲）10月1日报道，印度保险监管与发展局（IRDAI）9月23日发表《重整保险分销经济性改革》咨询文件后，代表全国798家持牌保险经纪的印度保险经纪协会（IBAI）提出严重关切：在拟议佣金结构下，经纪人的收入可能低于专属代理，而独立顾问的交付成本更高、所得报酬却更低，经纪分销的商业基础可能消失。Insurance Asia同日报道，IBAI警告费用上限可能导致保险公司削减销售、服务与理赔人手并收窄分销覆盖。",
+        "tc": "保險商業（亞洲）10月1日報道，印度保險監管與發展局（IRDAI）9月23日發表《重整保險分銷經濟性改革》諮詢文件後，代表全國798家持牌保險經紀的印度保險經紀協會（IBAI）提出嚴重關切：在擬議佣金結構下，經紀人的收入可能低於專屬代理，而獨立顧問的交付成本更高、所得報酬卻更低，經紀分銷的商業基礎可能消失。Insurance Asia同日報道，IBAI警告費用上限可能導致保險公司削減銷售、服務與理賠人手並收窄分銷覆蓋。"
+      },
+      "why": {
+        "sc": "这是9月29日Nomura解读之后的「渠道侧」回应：监管若把佣金从产品端大幅压向一致化，最先失去经济性的是成本结构最重的独立经纪模式。对香港亦有参照价值——本地正以转介费50%上限、佣金改革与披露要求收紧渠道经济性；经纪团队应把「顾问成本与报酬是否匹配」纳入长期商业模式评估，而非只看单笔佣金率。",
+        "tc": "這是9月29日Nomura解讀之後的「渠道側」回應：監管若把佣金從產品端大幅壓向一致化，最先失去經濟性的是成本結構最重的獨立經紀模式。對香港亦有參照價值——本地正以轉介費50%上限、佣金改革與披露要求收緊渠道經濟性；經紀團隊應把「顧問成本與報酬是否匹配」納入長期商業模式評估，而非只看單筆佣金率。"
+      },
+      "source": {
+        "sc": "Insurance Business Asia 2026-10-01（另见 Asia Insurance Review、Insurance Asia 同日报道）[EN原文]",
+        "tc": "Insurance Business Asia 2026-10-01（另見 Asia Insurance Review、Insurance Asia 同日報道）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/brokers-would-earn-less-than-tied-agents-under-indias-proposed-commission-rules-591968.aspx"
+    },
+    {
+      "clusterCount": 1,
+      "score": 66,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "contentKind": "news",
+      "actions": {
+        "front": {
+          "sc": "与客户谈洪水保障时先收集楼层、地库与存货布置等基础暴露资料，避免空谈覆盖比例",
+          "tc": "與客戶談洪水保障時先收集樓層、地庫與存貨布置等基礎暴露資料，避免空談覆蓋比例"
+        },
+        "midback": {
+          "sc": "把风险暴露数据质量纳入承保资料清单，缺项不予虚假补足",
+          "tc": "把風險暴露數據質量納入承保資料清單，缺項不予虛假補足"
+        },
+        "lead": {
+          "sc": "评估参数型／指数型产品在本地客户群中的适用边界与服务能力",
+          "tc": "評估參數型／指數型產品在本地客戶羣中的適用邊界與服務能力"
+        },
+        "cross": {
+          "sc": "跨境物业与厂房的洪水保障按标的分层核查，避免与所在地公共补偿重复或漏空",
+          "tc": "跨境物業與廠房的洪水保障按標的分層核查，避免與所在地公共補償重複或漏空"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 3,
+        "lead": 2,
+        "cross": 2
+      },
+      "boards": [
+        "product",
+        "market",
+        "cat"
+      ],
+      "themes": [
+        "flood",
+        "protection-gap",
+        "data",
+        "property",
+        "parametric"
+      ],
+      "tags": {
+        "sc": [
+          "瑞士再保险",
+          "洪水保障缺口",
+          "楼层高度",
+          "风险暴露数据",
+          "定价"
+        ],
+        "tc": [
+          "瑞士再保險",
+          "洪水保障缺口",
+          "樓層高度",
+          "風險暴露數據",
+          "定價"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-10-02T02:20:00+08:00",
+      "id": "ibm-swissre-asia-flood-protection-gap-83pct-20261001",
+      "publishedAt": "2026-10-01T10:30:00+08:00",
+      "title": {
+        "sc": "瑞士再保险：亚洲洪水保障缺口接近83%，建筑层面定价未普及，「楼层高度」量测谁受益取决于风险暴露数据 [EN原文]",
+        "tc": "瑞士再保險：亞洲洪水保障缺口接近83%，建築層面定價未普及，「樓層高度」量測誰受益取決於風險暴露數據 [EN原文]"
+      },
+      "summary": {
+        "sc": "保险商业（亚洲）10月1日报道指出，瑞士再保险把亚洲洪水保障缺口估算为接近83%；在尚未能应用建筑层面（building-level）定价的市场，以「楼层高度」作为洪水风险量测方式能否真正带来更公平的定价，取决于风险暴露数据的质量与覆盖度，而非量测方法本身。",
+        "tc": "保險商業（亞洲）10月1日報道指出，瑞士再保險把亞洲洪水保障缺口估算爲接近83%；在尚未能應用建築層面（building-level）定價的市場，以「樓層高度」作爲洪水風險量測方式能否真正帶來更公平的定價，取決於風險暴露數據的質量與覆蓋度，而非量測方法本身。"
+      },
+      "why": {
+        "sc": "保护缺口83%意味亚洲绝大多数洪水损失未被保险覆盖，这是参数型产品与公共风险池的政策空间；但对前线实务更直接的含义是：没有可靠的暴露与高程数据，再精细的定价方法也无法落地。香港与湾区近年推动参数型天气／洪水保障，经纪团队在与企业客户谈防洪方案时，应先盘点标的层高、地库、存货位置等基础数据。",
+        "tc": "保護缺口83%意味亞洲絕大多數洪水損失未被保險覆蓋，這是參數型產品與公共風險池的政策空間；但對前線實務更直接的含義是：沒有可靠的暴露與高程數據，再精細的定價方法也無法落地。香港與灣區近年推動參數型天氣／洪水保障，經紀團隊在與企業客戶談防洪方案時，應先盤點標的層高、地庫、存貨位置等基礎數據。"
+      },
+      "source": {
+        "sc": "Insurance Business Asia 2026-10-01（援引瑞士再保险估算）[EN原文]",
+        "tc": "Insurance Business Asia 2026-10-01（援引瑞士再保險估算）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/property/exposure-data-decides-who-benefits-from-floor-height-measurement-591912.aspx"
+    },
+    {
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "contentKind": "news",
+      "actions": {
+        "front": {
+          "sc": "不涉及客户沟通；若客户问及区域监管差异，只陈述已公布事实",
+          "tc": "不涉及客戶溝通；若客戶問及區域監管差異，只陳述已公布事實"
+        },
+        "midback": {
+          "sc": "对照本地要求梳理董事与负责人员安排的稳定性证据，避免频繁更替",
+          "tc": "對照本地要求梳理董事與負責人員安排的穩定性證據，避免頻繁更替"
+        },
+        "lead": {
+          "sc": "把治理架构稳定性列入年度自查，与区域同业要求对标",
+          "tc": "把治理架構穩定性列入年度自查，與區域同業要求對標"
+        },
+        "cross": {
+          "sc": "同时受两地监管的集团须分别满足各属地要求，不得以较高标准替代属地义务",
+          "tc": "同時受兩地監管的集團須分別滿足各屬地要求，不得以較高標準替代屬地義務"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 3,
+        "lead": 3,
+        "cross": 2
+      },
+      "boards": [
+        "reg",
+        "firm"
+      ],
+      "themes": [
+        "governance",
+        "regulation",
+        "singapore",
+        "board",
+        "compliance"
+      ],
+      "tags": {
+        "sc": [
+          "MAS",
+          "新加坡金管局",
+          "管治咨询",
+          "董事独立性",
+          "董事会构成"
+        ],
+        "tc": [
+          "MAS",
+          "新加坡金管局",
+          "管治諮詢",
+          "董事獨立性",
+          "董事會構成"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-10-02T02:20:00+08:00",
+      "id": "insuranceasia-mas-governance-consultation-20261001",
+      "publishedAt": "2026-10-01T15:00:00+08:00",
+      "title": {
+        "sc": "新加坡金管局就银行与保险公司管治要求展开咨询：涵盖董事独立性、董事会构成等 [EN原文]",
+        "tc": "新加坡金管局就銀行與保險公司管治要求展開諮詢：涵蓋董事獨立性、董事會構成等 [EN原文]"
+      },
+      "summary": {
+        "sc": "Insurance Asia 10月1日报道，新加坡金融管理局（MAS）就银行与保险公司的企业管治要求提出更新建议并展开咨询，内容包括董事独立性、董事会组成等，另涉其他管治安排。报道未披露咨询截止日期。",
+        "tc": "Insurance Asia 10月1日報道，新加坡金融管理局（MAS）就銀行與保險公司的企業管治要求提出更新建議並展開諮詢，內容包括董事獨立性、董事會組成等，另涉其他管治安排。報道未披露諮詢截止日期。"
+      },
+      "why": {
+        "sc": "新加坡是香港在财富管理与保险枢纽上的直接竞争对手，MAS 每次修订金融机构管治要求都会形成区域对标压力。香港保监局《监管通讯》第13期同样把负责人员（RO）在任年期与适当人选评估列为重点，两地同步收紧「谁在治理、治理多久、有无实权」这一条主线。对机构与团队而言，董事／负责人员安排的稳定性正由内部治理题变成监管检视项。",
+        "tc": "新加坡是香港在財富管理與保險樞紐上的直接競爭對手，MAS 每次修訂金融機構管治要求都會形成區域對標壓力。香港保監局《監管通訊》第13期同樣把負責人員（RO）在任年期與適當人選評估列爲重點，兩地同步收緊「誰在治理、治理多久、有無實權」這一條主線。對機構與團隊而言，董事／負責人員安排的穩定性正由內部治理題變成監管檢視項。"
+      },
+      "source": {
+        "sc": "Insurance Asia 2026-10-01 [EN原文]",
+        "tc": "Insurance Asia 2026-10-01 [EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://insuranceasia.com/news/mas-proposes-governance-updates-banks-and-insurers"
+    },
+    {
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "contentKind": "news",
+      "actions": {
+        "front": {
+          "sc": "把低复杂度产品交由平台化的趋势视为客户认知变化，主动升级咨询深度与需求分析能力",
+          "tc": "把低複雜度產品交由平臺化的趨勢視爲客戶認知變化，主動升級諮詢深度與需求分析能力"
+        },
+        "midback": {
+          "sc": "与平台方合作须明确各自责任边界、客户资料使用与披露安排",
+          "tc": "與平臺方合作須明確各自責任邊界、客戶資料使用與披露安排"
+        },
+        "lead": {
+          "sc": "评估嵌入渠道对现有团队的客群结构影响，调整产品组合与培训重点",
+          "tc": "評估嵌入渠道對現有團隊的客羣結構影響，調整產品組合與培訓重點"
+        },
+        "cross": {
+          "sc": "平台跨境销售须按属地牌照与远程销售规则处理，不得以线上流程规避持牌要求",
+          "tc": "平臺跨境銷售須按屬地牌照與遠程銷售規則處理，不得以線上流程規避持牌要求"
+        }
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "boards": [
+        "tech",
+        "product",
+        "channel"
+      ],
+      "themes": [
+        "embedded",
+        "ecommerce",
+        "partnership",
+        "digital",
+        "distribution"
+      ],
+      "tags": {
+        "sc": [
+          "Monee",
+          "大东方",
+          "Shopee",
+          "嵌入式保险",
+          "旅游险",
+          "车险"
+        ],
+        "tc": [
+          "Monee",
+          "大東方",
+          "Shopee",
+          "嵌入式保險",
+          "旅遊險",
+          "車險"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-10-02T02:20:00+08:00",
+      "id": "insuranceasia-monee-great-eastern-shopee-embed-20261001",
+      "publishedAt": "2026-10-01T14:00:00+08:00",
+      "title": {
+        "sc": "Monee 与大东方在 Shopee 上线旅游险与车险：嵌入式保险继续向电商场景渗透 [EN原文]",
+        "tc": "Monee 與大東方在 Shopee 上線旅遊險與車險：嵌入式保險繼續向電商場景滲透 [EN原文]"
+      },
+      "summary": {
+        "sc": "Insurance Asia 10月1日报道，Monee 与大东方（Great Eastern）在电商平台 Shopee 推出旅游保险与汽车保险，旅游险涵盖行程取消、航班延误与行李遗失。Tech in Asia（10月1日）补充，Sea 集团已于2025年把 SeaMoney 重塑为 Monee，本次是大东方与 Monee 在 Shopee 上的合作，此前同类合作包括与 MSIG 推出的宠物保险。",
+        "tc": "Insurance Asia 10月1日報道，Monee 與大東方（Great Eastern）在電商平臺 Shopee 推出旅遊保險與汽車保險，旅遊險涵蓋行程取消、航班延誤與行李遺失。Tech in Asia（10月1日）補充，Sea 集團已於2025年把 SeaMoney 重塑爲 Monee，本次是大東方與 Monee 在 Shopee 上的合作，此前同類合作包括與 MSIG 推出的寵物保險。"
+      },
+      "why": {
+        "sc": "嵌入式保险正把「先有需求再找保险」改成「在消费场景里顺手投保」，旅游与车险是最容易标准化、比价透明的两个险种。对传统经纪与代理渠道而言，这类合作压缩的是低复杂度、低咨询需求的客群，倒逼前线把价值往复杂需求（家庭保障规划、传承与跨境架构）迁移；同时也提示平台分佣与透明度将成为合规关注点。",
+        "tc": "嵌入式保險正把「先有需求再找保險」改成「在消費場景裏順手投保」，旅遊與車險是最容易標準化、比價透明的兩個險種。對傳統經紀與代理渠道而言，這類合作壓縮的是低複雜度、低諮詢需求的客羣，倒逼前線把價值往複雜需求（家庭保障規劃、傳承與跨境架構）遷移；同時也提示平臺分傭與透明度將成爲合規關注點。"
+      },
+      "source": {
+        "sc": "Insurance Asia 2026-10-01（另见 Tech in Asia 同日报道）[EN原文]",
+        "tc": "Insurance Asia 2026-10-01（另見 Tech in Asia 同日報道）[EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://insuranceasia.com/insurance/news/monee-and-great-eastern-launch-travel-and-motor-cover-shopee"
+    },
+    {
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "insurtech",
+      "contentKind": "news",
+      "actions": {
+        "front": {
+          "sc": "关注平台化工具是否替代部分标准化报价环节，提前建立不可被替代的咨询价值",
+          "tc": "關注平臺化工具是否替代部分標準化報價環節，提前建立不可被替代的諮詢價值"
+        },
+        "midback": {
+          "sc": "若接入第三方平台，须审查数据流向、客户授权与责任划分",
+          "tc": "若接入第三方平臺，須審查數據流向、客戶授權與責任劃分"
+        },
+        "lead": {
+          "sc": "评估与技术平台合作的可复制性与议价条件，避免单纯成为流量来源",
+          "tc": "評估與技術平臺合作的可複製性與議價條件，避免單純成爲流量來源"
+        },
+        "cross": {
+          "sc": "跨境平台涉及多地持牌与数据合规，合作前须逐地区确认",
+          "tc": "跨境平臺涉及多地持牌與數據合規，合作前須逐地區確認"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 1,
+        "cross": 1
+      },
+      "boards": [
+        "insurtech",
+        "tech"
+      ],
+      "themes": [
+        "insurtech",
+        "distribution",
+        "partnership",
+        "embedded",
+        "ai"
+      ],
+      "tags": {
+        "sc": [
+          "Bolttech",
+          "Bold Penguin",
+          "保险科技",
+          "全球合作",
+          "分销"
+        ],
+        "tc": [
+          "Bolttech",
+          "Bold Penguin",
+          "保險科技",
+          "全球合作",
+          "分銷"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-10-02T02:20:00+08:00",
+      "id": "insurtech-bolttech-bold-penguin-global-partnership-20261001",
+      "publishedAt": "2026-10-01T19:44:00+08:00",
+      "title": {
+        "sc": "新加坡保特科技 Bolttech 与 Bold Penguin 建立全球保险合作，整合AI工作流与分销能力 [EN原文]",
+        "tc": "新加坡保特科技 Bolttech 與 Bold Penguin 建立全球保險合作，整合AI工作流與分銷能力 [EN原文]"
+      },
+      "summary": {
+        "sc": "Tech in Asia 10月1日19:44报道，总部位于新加坡的保险科技公司 Bolttech 与美国商业保险数字化平台 Bold Penguin 建立全球保险合作，报道指合作将整合 Bolttech 具备AI能力的工作流程与分销网络。报道未披露合作的具体商业条款与目标收入。",
+        "tc": "Tech in Asia 10月1日19:44報道，總部位於新加坡的保險科技公司 Bolttech 與美國商業保險數字化平臺 Bold Penguin 建立全球保險合作，報道指合作將整合 Bolttech 具備AI能力的工作流程與分銷網絡。報道未披露合作的具體商業條款與目標收入。"
+      },
+      "why": {
+        "sc": "Bolttech 已多次通过合作与收购扩张嵌入式分销网络，此次与美国商业险数字平台结盟，反映保险科技公司正把「交易所式」的报价与核保工作流当作跨国复制的主要资产。对香港市场而言，值得关注的是这类平台进入后的中介角色分工：谁能提供咨询与合规把关，谁只提供流程效率。",
+        "tc": "Bolttech 已多次通過合作與收購擴張嵌入式分銷網絡，此次與美國商業險數字平臺結盟，反映保險科技公司正把「交易所式」的報價與核保工作流當作跨國複製的主要資產。對香港市場而言，值得關注的是這類平臺進入後的中介角色分工：誰能提供諮詢與合規把關，誰只提供流程效率。"
+      },
+      "source": {
+        "sc": "Tech in Asia 2026-10-01 19:44 [EN原文]",
+        "tc": "Tech in Asia 2026-10-01 19:44 [EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://www.techinasia.com/tag/insurtech"
+    },
+    {
+      "clusterCount": 1,
+      "score": 60,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "insurtech",
+      "contentKind": "news",
+      "actions": {
+        "front": {
+          "sc": "谈危疾先讲清单次与多次赔付的触发条件、间隔期与分组限制，不以「多次赔付」四字带过",
+          "tc": "談危疾先講清單次與多次賠付的觸發條件、間隔期與分組限制，不以「多次賠付」四字帶過"
+        },
+        "midback": {
+          "sc": "产品说明与营销材料须准确呈现赔付结构差异，避免可比性误导",
+          "tc": "產品說明與營銷材料須準確呈現賠付結構差異，避免可比性誤導"
+        },
+        "lead": {
+          "sc": "把危疾条款结构对比能力列为团队必修与质检项",
+          "tc": "把危疾條款結構對比能力列爲團隊必修與質檢項"
+        },
+        "cross": {
+          "sc": "客户若持有多地危疾保单，须逐份核对赔付触发与不保事项，避免重复投保的误判",
+          "tc": "客戶若持有多地危疾保單，須逐份核對賠付觸發與不保事項，避免重複投保的誤判"
+        }
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 3,
+        "lead": 2,
+        "cross": 2
+      },
+      "boards": [
+        "insurtech",
+        "tech",
+        "hk"
+      ],
+      "themes": [
+        "insurtech",
+        "critical-illness",
+        "comparison",
+        "hk",
+        "consumer"
+      ],
+      "tags": {
+        "sc": [
+          "MoneyHero",
+          "危疾保险",
+          "比价平台",
+          "香港",
+          "消费者"
+        ],
+        "tc": [
+          "MoneyHero",
+          "危疾保險",
+          "比價平臺",
+          "香港",
+          "消費者"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-10-02T02:20:00+08:00",
+      "id": "insurtech-moneyhero-critical-illness-comparison-hk-20261001",
+      "publishedAt": "2026-10-01T09:00:00+08:00",
+      "title": {
+        "sc": "MoneyHero 在香港保险比较平台加上危疾保险比较：可对比单次赔付与多次赔付并直接跳转投保 [EN原文]",
+        "tc": "MoneyHero 在香港保險比較平臺加上危疾保險比較：可對比單次賠付與多次賠付並直接跳轉投保 [EN原文]"
+      },
+      "summary": {
+        "sc": "GlobeNewswire 10月1日09:00新闻稿，香港保险比较平台 MoneyHero 把危疾保险纳入比较功能，用户可对比单次赔付（single-claim）与多次赔付（multiple-claim）方案，并直接跳转至所选保险公司完成申请；平台此前已提供人寿、旅游与医疗保险比较。",
+        "tc": "GlobeNewswire 10月1日09:00新聞稿，香港保險比較平臺 MoneyHero 把危疾保險納入比較功能，用戶可對比單次賠付（single-claim）與多次賠付（multiple-claim）方案，並直接跳轉至所選保險公司完成申請；平臺此前已提供人壽、旅遊與醫療保險比較。"
+      },
+      "why": {
+        "sc": "危疾是香港消费者最需要、也最难自行比较的险种之一——单次赔付与多次赔付的责任结构差异极大，过去依赖代理人口述。比价平台把「结构对比」暴露给消费者，会同时抬高两个门槛：产品条款的清晰度，以及前线对「多次赔付触发条件、间隔期、分组限制」的解释能力。用含糊话术带过结构差异，正是投诉高发区。",
+        "tc": "危疾是香港消費者最需要、也最難自行比較的險種之一——單次賠付與多次賠付的責任結構差異極大，過去依賴代理人口述。比價平臺把「結構對比」暴露給消費者，會同時抬高兩個門檻：產品條款的清晰度，以及前線對「多次賠付觸發條件、間隔期、分組限制」的解釋能力。用含糊話術帶過結構差異，正是投訴高發區。"
+      },
+      "source": {
+        "sc": "GlobeNewswire（MoneyHero）2026-10-01 09:00 [EN原文]",
+        "tc": "GlobeNewswire（MoneyHero）2026-10-01 09:00 [EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://www.globenewswire.com/news-release/2026/10/01/3372946/0/en/moneyhero-adds-critical-illness-comparison-on-hong-kong-insurance-marketplace.html"
+    },
+    {
+      "clusterCount": 1,
+      "score": 88,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "nfra",
+      "contentKind": "circular",
+      "actions": {
+        "front": {
+          "sc": "不得就监管处罚或名单事宜向客户作任何解释性承诺，涉客户资料问题一律转合规",
+          "tc": "不得就監管處罰或名單事宜向客戶作任何解釋性承諾，涉客戶資料問題一律轉合規"
+        },
+        "midback": {
+          "sc": "把内地严重失信名单筛查纳入合作方与关键人员年度尽调流程，留存筛查记录",
+          "tc": "把內地嚴重失信名單篩查納入合作方與關鍵人員年度盡調流程，留存篩查記錄"
+        },
+        "lead": {
+          "sc": "向团队明确终身禁入情形与后果，把名单风险纳入用人红线",
+          "tc": "向團隊明確終身禁入情形與後果，把名單風險納入用人紅線"
+        },
+        "cross": {
+          "sc": "跨境合作股东、董事与关键人员须同时通过两地适当人选评估，发现名单情形立即上报",
+          "tc": "跨境合作股東、董事與關鍵人員須同時通過兩地適當人選評估，發現名單情形立即上報"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 3,
+        "lead": 3,
+        "cross": 3
+      },
+      "boards": [
+        "reg",
+        "enforcement"
+      ],
+      "themes": [
+        "regulation",
+        "china",
+        "enforcement",
+        "credit",
+        "governance"
+      ],
+      "tags": {
+        "sc": [
+          "金融监管总局",
+          "严重失信主体名单",
+          "终身禁止进入保险业",
+          "信用修复",
+          "10月1日施行"
+        ],
+        "tc": [
+          "金融監管總局",
+          "嚴重失信主體名單",
+          "終身禁止進入保險業",
+          "信用修復",
+          "10月1日施行"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-10-02T02:20:00+08:00",
+      "id": "nfra-serious-dishonesty-list-management-rules-effective-20261001",
+      "publishedAt": "2026-10-01",
+      "title": {
+        "sc": "《金融监管总局关于严重失信主体名单管理的规定（试行）》10月1日起施行：终身禁止进入保险业等情形列入严重失信名单",
+        "tc": "《金融監管總局關於嚴重失信主體名單管理的規定（試行）》10月1日起施行：終身禁止進入保險業等情形列入嚴重失信名單"
+      },
+      "summary": {
+        "sc": "《国家金融监督管理总局关于严重失信主体名单管理的规定（试行）》（2026年7月3日总局令2026年第3号公布）自2026年10月1日起施行。规定明确三类列入情形：一是法人机构被吊销经营或业务许可证、被取消或撤销终身任职资格、终身禁止从事银行业工作或终身禁止进入保险业等行政处罚；二是因六类行为被从重行政处罚或被限制市场准入、责令转让股权、撤销行政许可，严重破坏市场公平竞争秩序与社会正常秩序；三是当事人有履行能力但拒不履行、逃避执行行政决定，被人民法院作出强制执行裁定。规定同时明确信用修复条件与程序：列入满一年且同时符合三项条件者可申请提前移出，经总局及其派出机构核实后决定是否准予。",
+        "tc": "《國家金融監督管理總局關於嚴重失信主體名單管理的規定（試行）》（2026年7月3日總局令2026年第3號公布）自2026年10月1日起施行。規定明確三類列入情形：一是法人機構被吊銷經營或業務許可證、被取消或撤銷終身任職資格、終身禁止從事銀行業工作或終身禁止進入保險業等行政處罰；二是因六類行爲被從重行政處罰或被限制市場準入、責令轉讓股權、撤銷行政許可，嚴重破壞市場公平競爭秩序與社會正常秩序；三是當事人有履行能力但拒不履行、逃避執行行政決定，被人民法院作出強制執行裁定。規定同時明確信用修復條件與程序：列入滿一年且同時符合三項條件者可申請提前移出，經總局及其派出機構核實後決定是否準予。"
+      },
+      "why": {
+        "sc": "这是内地金融监管把「行政处罚」升级为「名单＋市场禁入」的制度化一步，保险业被明确写入终身禁入情形。对香港跨境业务而言，重点是人员关联：若合作方、股东或关键人员在内地被列入名单，将直接影响跨境合作的适当人选评估与集团声誉。此外，信用修复机制的「提前移出」要求满一年且符合条件，说明名单并非终身烙印，但退出成本高，事前合规远比事后修复划算。",
+        "tc": "這是內地金融監管把「行政處罰」升級爲「名單＋市場禁入」的制度化一步，保險業被明確寫入終身禁入情形。對香港跨境業務而言，重點是人員關聯：若合作方、股東或關鍵人員在內地被列入名單，將直接影響跨境合作的適當人選評估與集團聲譽。此外，信用修復機制的「提前移出」要求滿一年且符合條件，說明名單並非終身烙印，但退出成本高，事前合規遠比事後修復划算。"
+      },
+      "source": {
+        "sc": "国家金融监督管理总局令2026年第3号（2026年7月3日公布，2026年10月1日施行）",
+        "tc": "國家金融監督管理總局令2026年第3號（2026年7月3日公布，2026年10月1日施行）",
+        "lang": "zh"
+      },
+      "originalUrl": "https://www.gov.cn/gongbao/2026/issue_12946/202608/content_7079357.html"
+    },
+    {
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "pending",
+      "sourceTier": "pro",
+      "sourceKey": "artemis",
+      "contentKind": "report",
+      "actions": {
+        "front": {
+          "sc": "不与客户谈再保资本或投资收益，产品演示须使用保司已批核资料",
+          "tc": "不與客戶談再保資本或投資收益，產品演示須使用保司已批核資料"
+        },
+        "midback": {
+          "sc": "再保成本变化须在下次核保／分保评估时纳入，不作前瞻性承诺",
+          "tc": "再保成本變化須在下次核保／分保評估時納入，不作前瞻性承諾"
+        },
+        "lead": {
+          "sc": "把再保定价趋势纳入年度产品与渠道规划假设，避免沿用旧成本假设",
+          "tc": "把再保定價趨勢納入年度產品與渠道規劃假設，避免沿用舊成本假設"
+        },
+        "cross": {
+          "sc": "涉 ILS 与结构性安排须确认持牌与销售限制，不得向零售客户推介",
+          "tc": "涉 ILS 與結構性安排須確認持牌與銷售限制，不得向零售客戶推介"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 3,
+        "lead": 2,
+        "cross": 1
+      },
+      "boards": [
+        "cat",
+        "ils",
+        "market"
+      ],
+      "themes": [
+        "cat",
+        "ils",
+        "reinsurance",
+        "capital",
+        "market"
+      ],
+      "tags": {
+        "sc": [
+          "巨灾债",
+          "ILS",
+          "第三季",
+          "发行纪录",
+          "再保资本"
+        ],
+        "tc": [
+          "巨災債",
+          "ILS",
+          "第三季",
+          "發行紀錄",
+          "再保資本"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-10-02T02:20:00+08:00",
+      "id": "artemis-catbond-record-pace-after-q3-20261001",
+      "publishedAt": "2026-10-01T18:00:00+08:00",
+      "title": {
+        "sc": "Artemis：第三季发行高于平均水平后，巨灾债市场维持纪录级发行节奏 [EN原文]",
+        "tc": "Artemis：第三季發行高於平均水平後，巨災債市場維持紀錄級發行節奏 [EN原文]"
+      },
+      "summary": {
+        "sc": "Artemis 10月1日报道引述最新报告指出，第三季巨灾债（catastrophe bond）发行量高于历年同期平均水平，带动全年发行维持纪录级节奏，显示保险相连证券（ILS）作为再保资本的供给持续充裕。报道未在标题摘要中披露具体发行规模与收益率区间。",
+        "tc": "Artemis 10月1日報道引述最新報告指出，第三季巨災債（catastrophe bond）發行量高於歷年同期平均水平，帶動全年發行維持紀錄級節奏，顯示保險相連證券（ILS）作爲再保資本的供給持續充裕。報道未在標題摘要中披露具體發行規模與收益率區間。"
+      },
+      "why": {
+        "sc": "巨灾债供给持续高企是亚太再保定价转软的重要背景之一——替代资本充裕会压缩传统再保人的定价空间，进而影响分出成本与产品结构。对香港而言，ILC／ILS 是政策推动的枢纽方向之一（保险相连证券资助先导计划、专属自保与基建资本待遇），发行节奏纪录化说明市场深度在改善，值得持续跟踪对再保成本的传导。",
+        "tc": "巨災債供給持續高企是亞太再保定價轉軟的重要背景之一——替代資本充裕會壓縮傳統再保人的定價空間，進而影響分出成本與產品結構。對香港而言，ILC／ILS 是政策推動的樞紐方向之一（保險相連證券資助先導計劃、專屬自保與基建資本待遇），發行節奏紀錄化說明市場深度在改善，值得持續跟蹤對再保成本的傳導。"
+      },
+      "source": {
+        "sc": "Artemis 2026-10-01 [EN原文]",
+        "tc": "Artemis 2026-10-01 [EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://www.artemis.bm/news/catastrophe-bond-market-keeps-record-pace-after-above-average-q3-report/"
+    },
+    {
+      "clusterCount": 1,
+      "score": 60,
+      "verifyStatus": "pending",
+      "sourceTier": "media",
+      "sourceKey": "insuranceasia",
+      "contentKind": "stats",
+      "actions": {
+        "front": {
+          "sc": "谈健康保障时以实际医疗需求与就医地点为依据，不夸大或回避既往症处理",
+          "tc": "談健康保障時以實際醫療需求與就醫地點爲依據，不誇大或迴避既往症處理"
+        },
+        "midback": {
+          "sc": "理赔地域与病种结构变化应定期反馈核保，供经验分析与假设检视",
+          "tc": "理賠地域與病種結構變化應定期反饋核保，供經驗分析與假設檢視"
+        },
+        "lead": {
+          "sc": "把健康险理赔趋势纳入产品组合评审，避免按旧经验判断新增风险",
+          "tc": "把健康險理賠趨勢納入產品組合評審，避免按舊經驗判斷新增風險"
+        },
+        "cross": {
+          "sc": "跨境就医理赔须逐案核对保障范围、指定医院网络与不保事项",
+          "tc": "跨境就醫理賠須逐案核對保障範圍、指定醫院網絡與不保事項"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 3,
+        "lead": 2,
+        "cross": 2
+      },
+      "boards": [
+        "health",
+        "claims"
+      ],
+      "themes": [
+        "health",
+        "claims",
+        "india",
+        "risk",
+        "data"
+      ],
+      "tags": {
+        "sc": [
+          "Universal Sompo",
+          "心脏疾病理赔",
+          "印度",
+          "三级城市",
+          "健康险"
+        ],
+        "tc": [
+          "Universal Sompo",
+          "心臟疾病理賠",
+          "印度",
+          "三級城市",
+          "健康險"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-10-02T02:20:00+08:00",
+      "id": "insuranceasia-universal-sompo-cardiac-claims-india-20261001",
+      "publishedAt": "2026-10-01T14:30:00+08:00",
+      "title": {
+        "sc": "Universal Sompo 警示印度小城市心脏疾病理赔激增：非都市区理赔中三级城市占比显著 [EN原文]",
+        "tc": "Universal Sompo 警示印度小城市心臟疾病理賠激增：非都市區理賠中三級城市佔比顯著 [EN原文]"
+      },
+      "summary": {
+        "sc": "Insurance Asia 10月1日报道，印度保险公司 Universal Sompo 指出来自小城市（非都市区）的心脏疾病理赔明显上升，其中三级城市（Tier 3）持续占都市以外理赔的显著份额，反映生活方式变化与医疗可及性差异正在改变健康险理赔结构。",
+        "tc": "Insurance Asia 10月1日報道，印度保險公司 Universal Sompo 指出來自小城市（非都市區）的心臟疾病理賠明顯上升，其中三級城市（Tier 3）持續佔都市以外理賠的顯著份額，反映生活方式變化與醫療可及性差異正在改變健康險理賠結構。"
+      },
+      "why": {
+        "sc": "健康险理赔结构的地区性变化是产品定价与核保假设的先行指标：当理赔从大城市向中小城市扩散，意味风险分布更广、经验数据更分散，也意味医疗服务使用习惯在变化。香港与湾区健康险同样面对「跨境就医＋慢病年轻化」的组合压力，理赔地域结构的变化值得作为核保与产品设计讨论的参照案例。",
+        "tc": "健康險理賠結構的地區性變化是產品定價與核保假設的先行指標：當理賠從大城市向中小城市擴散，意味風險分布更廣、經驗數據更分散，也意味醫療服務使用習慣在變化。香港與灣區健康險同樣面對「跨境就醫＋慢病年輕化」的組合壓力，理賠地域結構的變化值得作爲核保與產品設計討論的參照案例。"
+      },
+      "source": {
+        "sc": "Insurance Asia 2026-10-01 [EN原文]",
+        "tc": "Insurance Asia 2026-10-01 [EN原文]",
+        "lang": "en"
+      },
+      "originalUrl": "https://insuranceasia.com/insurance/news/universal-sompo-flags-cardiac-claims-surge-indias-smaller-cities"
+    },
     {
       "id": "axa-genai-sandbox-first-batch-20260902",
       "clusterCount": 1,
@@ -82911,6 +84040,29 @@ window.HKII_DATA = {
   "digests": {
     "daily": [
       {
+        "key": "2026-10-01",
+        "label": {
+          "sc": "2026-10-01",
+          "tc": "2026-10-01"
+        },
+        "itemCount": 13,
+        "itemIds": [
+          "ian-allianz-sg-ceo-great-eastern-raissi-20261001",
+          "ian-suncorp-tokio-marine-takeover-denial-20261001",
+          "ian-simon-global-sg-reinsurance-broker-20261001",
+          "ian-markel-rob-jones-sg-renewables-20261001",
+          "ibm-india-broker-commission-rules-20261001",
+          "ibm-swissre-asia-flood-protection-gap-83pct-20261001",
+          "insuranceasia-mas-governance-consultation-20261001",
+          "insuranceasia-monee-great-eastern-shopee-embed-20261001",
+          "insurtech-bolttech-bold-penguin-global-partnership-20261001",
+          "insurtech-moneyhero-critical-illness-comparison-hk-20261001",
+          "nfra-serious-dishonesty-list-management-rules-effective-20261001",
+          "artemis-catbond-record-pace-after-q3-20261001",
+          "insuranceasia-universal-sompo-cardiac-claims-india-20261001"
+        ]
+      },
+      {
         "key": "2026-09-30",
         "label": {
           "sc": "2026-09-30",
@@ -88288,6 +89440,29 @@ window.HKII_DATA = {
     ],
     "monthly": [
       {
+        "key": "2026-10",
+        "label": {
+          "sc": "2026-10",
+          "tc": "2026-10"
+        },
+        "itemCount": 13,
+        "itemIds": [
+          "ian-allianz-sg-ceo-great-eastern-raissi-20261001",
+          "ian-suncorp-tokio-marine-takeover-denial-20261001",
+          "ian-simon-global-sg-reinsurance-broker-20261001",
+          "ian-markel-rob-jones-sg-renewables-20261001",
+          "ibm-india-broker-commission-rules-20261001",
+          "ibm-swissre-asia-flood-protection-gap-83pct-20261001",
+          "insuranceasia-mas-governance-consultation-20261001",
+          "insuranceasia-monee-great-eastern-shopee-embed-20261001",
+          "insurtech-bolttech-bold-penguin-global-partnership-20261001",
+          "insurtech-moneyhero-critical-illness-comparison-hk-20261001",
+          "nfra-serious-dishonesty-list-management-rules-effective-20261001",
+          "artemis-catbond-record-pace-after-q3-20261001",
+          "insuranceasia-universal-sompo-cardiac-claims-india-20261001"
+        ]
+      },
+      {
         "key": "2026-09",
         "label": {
           "sc": "2026-09",
@@ -91108,14 +92283,14 @@ window.HKII_DATA = {
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 1098 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 1098 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 1111 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 1111 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 1098,
+      "totalItems": 1111,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 302,
+          "count": 303,
           "label": "监管一手"
         },
         {
@@ -91130,12 +92305,12 @@ window.HKII_DATA = {
         },
         {
           "tier": "media",
-          "count": 412,
+          "count": 423,
           "label": "媒体报道"
         },
         {
           "tier": "pro",
-          "count": 193,
+          "count": 194,
           "label": "专业解读"
         },
         {
@@ -91209,7 +92384,7 @@ window.HKII_DATA = {
       "topThemes": [
         {
           "theme": "market",
-          "count": 250,
+          "count": 252,
           "label": "市场"
         },
         {
@@ -91229,12 +92404,12 @@ window.HKII_DATA = {
         },
         {
           "theme": "compliance",
-          "count": 98,
+          "count": 99,
           "label": "合规"
         },
         {
           "theme": "reinsurance",
-          "count": 90,
+          "count": 92,
           "label": "再保险"
         },
         {
@@ -91249,18 +92424,18 @@ window.HKII_DATA = {
         },
         {
           "theme": "channel",
-          "count": 71,
+          "count": 72,
           "label": "渠道"
         },
         {
           "theme": "ai",
-          "count": 64,
+          "count": 65,
           "label": "人工智能"
         }
       ],
       "dateRange": {
-        "sc": "2013-03-05 ~ 2026-09-30",
-        "tc": "2013-03-05 ~ 2026-09-30"
+        "sc": "2013-03-05 ~ 2026-10-01",
+        "tc": "2013-03-05 ~ 2026-10-01"
       }
     },
     "marketData": {

@@ -1,9 +1,217 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-01T04:03:54Z",
-  "itemCount": 1098,
+  "generatedAt": "2026-10-01T18:13:14Z",
+  "itemCount": 1111,
   "items": [
+    {
+      "id": "ian-allianz-sg-ceo-great-eastern-raissi-20261001",
+      "title": "安联新加坡COO Bi Ying Ong 升任CEO；Hicham Raissi 同日转任大东方一般险及团体险董事总经理 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "people",
+        "leadership",
+        "career",
+        "asia",
+        "channel"
+      ],
+      "publishedAt": "2026-10-01T12:16:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-allianz-sg-ceo-great-eastern-raissi-20261001",
+      "originalUrl": "https://insuranceasianews.com/bi-ying-ong-to-succeed-hicham-raissi-as-allianz-singapore-ceo/"
+    },
+    {
+      "id": "ian-suncorp-tokio-marine-takeover-denial-20261001",
+      "title": "澳洲Suncorp在澳交所回应中否认与Tokio Marine进行收购磋商 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "m&a",
+        "australia",
+        "japan",
+        "capital",
+        "market"
+      ],
+      "publishedAt": "2026-10-01T10:16:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-suncorp-tokio-marine-takeover-denial-20261001",
+      "originalUrl": "https://insuranceasianews.com/suncorp-denies-tokio-marine-takeover-talks-in-asx-response/"
+    },
+    {
+      "id": "ian-simon-global-sg-reinsurance-broker-20261001",
+      "title": "韩国经纪集团 Simon Global 在新加坡设立再保险经纪公司 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "broker",
+        "korea",
+        "singapore",
+        "expansion"
+      ],
+      "publishedAt": "2026-10-01T06:00:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-simon-global-sg-reinsurance-broker-20261001",
+      "originalUrl": "https://insuranceasianews.com/korean-broking-group-simon-global-launches-singapore-based-reinsurance-broker/"
+    },
+    {
+      "id": "ian-markel-rob-jones-sg-renewables-20261001",
+      "title": "Markel 把可再生能源承保人 Rob Jones 调驻新加坡，抢占亚太能源险需求 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "energy",
+        "underwriting",
+        "asia",
+        "climate",
+        "capacity"
+      ],
+      "publishedAt": "2026-10-01T11:30:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-markel-rob-jones-sg-renewables-20261001",
+      "originalUrl": "https://insuranceasianews.com/markel-shifts-rob-jones-to-singapore-in-apac-renewables-push/"
+    },
+    {
+      "id": "ibm-india-broker-commission-rules-20261001",
+      "title": "印度拟议佣金新规引发经纪业反弹：独立顾问成本更高却回报更低，经纪渠道商业逻辑或消失 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "commission",
+        "distribution",
+        "india",
+        "broker",
+        "regulation"
+      ],
+      "publishedAt": "2026-10-01T09:00:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-india-broker-commission-rules-20261001",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/brokers-would-earn-less-than-tied-agents-under-indias-proposed-commission-rules-591968.aspx"
+    },
+    {
+      "id": "ibm-swissre-asia-flood-protection-gap-83pct-20261001",
+      "title": "瑞士再保险：亚洲洪水保障缺口接近83%，建筑层面定价未普及，「楼层高度」量测谁受益取决于风险暴露数据 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "flood",
+        "protection-gap",
+        "data",
+        "property",
+        "parametric"
+      ],
+      "publishedAt": "2026-10-01T10:30:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-swissre-asia-flood-protection-gap-83pct-20261001",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/property/exposure-data-decides-who-benefits-from-floor-height-measurement-591912.aspx"
+    },
+    {
+      "id": "insuranceasia-mas-governance-consultation-20261001",
+      "title": "新加坡金管局就银行与保险公司管治要求展开咨询：涵盖董事独立性、董事会构成等 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "governance",
+        "regulation",
+        "singapore",
+        "board",
+        "compliance"
+      ],
+      "publishedAt": "2026-10-01T15:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-mas-governance-consultation-20261001",
+      "originalUrl": "https://insuranceasia.com/news/mas-proposes-governance-updates-banks-and-insurers"
+    },
+    {
+      "id": "insuranceasia-monee-great-eastern-shopee-embed-20261001",
+      "title": "Monee 与大东方在 Shopee 上线旅游险与车险：嵌入式保险继续向电商场景渗透 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "embedded",
+        "ecommerce",
+        "partnership",
+        "digital",
+        "distribution"
+      ],
+      "publishedAt": "2026-10-01T14:00:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-monee-great-eastern-shopee-embed-20261001",
+      "originalUrl": "https://insuranceasia.com/insurance/news/monee-and-great-eastern-launch-travel-and-motor-cover-shopee"
+    },
+    {
+      "id": "insurtech-bolttech-bold-penguin-global-partnership-20261001",
+      "title": "新加坡保特科技 Bolttech 与 Bold Penguin 建立全球保险合作，整合AI工作流与分销能力 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "insurtech",
+        "distribution",
+        "partnership",
+        "embedded",
+        "ai"
+      ],
+      "publishedAt": "2026-10-01T19:44:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insurtech-bolttech-bold-penguin-global-partnership-20261001",
+      "originalUrl": "https://www.techinasia.com/tag/insurtech"
+    },
+    {
+      "id": "insurtech-moneyhero-critical-illness-comparison-hk-20261001",
+      "title": "MoneyHero 在香港保险比较平台加上危疾保险比较：可对比单次赔付与多次赔付并直接跳转投保 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "insurtech",
+        "critical-illness",
+        "comparison",
+        "hk",
+        "consumer"
+      ],
+      "publishedAt": "2026-10-01T09:00:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insurtech-moneyhero-critical-illness-comparison-hk-20261001",
+      "originalUrl": "https://www.globenewswire.com/news-release/2026/10/01/3372946/0/en/moneyhero-adds-critical-illness-comparison-on-hong-kong-insurance-marketplace.html"
+    },
+    {
+      "id": "nfra-serious-dishonesty-list-management-rules-effective-20261001",
+      "title": "《金融监管总局关于严重失信主体名单管理的规定（试行）》10月1日起施行：终身禁止进入保险业等情形列入严重失信名单",
+      "sourceTier": "official",
+      "themes": [
+        "regulation",
+        "china",
+        "enforcement",
+        "credit",
+        "governance"
+      ],
+      "publishedAt": "2026-10-01",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-serious-dishonesty-list-management-rules-effective-20261001",
+      "originalUrl": "https://www.gov.cn/gongbao/2026/issue_12946/202608/content_7079357.html"
+    },
+    {
+      "id": "artemis-catbond-record-pace-after-q3-20261001",
+      "title": "Artemis：第三季发行高于平均水平后，巨灾债市场维持纪录级发行节奏 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "cat",
+        "ils",
+        "reinsurance",
+        "capital",
+        "market"
+      ],
+      "publishedAt": "2026-10-01T18:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-catbond-record-pace-after-q3-20261001",
+      "originalUrl": "https://www.artemis.bm/news/catastrophe-bond-market-keeps-record-pace-after-above-average-q3-report/"
+    },
+    {
+      "id": "insuranceasia-universal-sompo-cardiac-claims-india-20261001",
+      "title": "Universal Sompo 警示印度小城市心脏疾病理赔激增：非都市区理赔中三级城市占比显著 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "health",
+        "claims",
+        "india",
+        "risk",
+        "data"
+      ],
+      "publishedAt": "2026-10-01T14:30:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-universal-sompo-cardiac-claims-india-20261001",
+      "originalUrl": "https://insuranceasia.com/insurance/news/universal-sompo-flags-cardiac-claims-surge-indias-smaller-cities"
+    },
     {
       "id": "axa-genai-sandbox-first-batch-20260902",
       "title": "安盛香港入选GenA.I.沙盒++首批 以AI治理与网络韧性用例测试负责任AI",

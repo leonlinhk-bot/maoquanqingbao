@@ -1,0 +1,638 @@
+<?xml version="1.0"?>
+<rss version="2.0" xml:base="link" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:media="http://www.rssboard.org/media-rss" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <channel>
+    <title>Business - South China Morning Post</title>
+    <link>https://www.scmp.com/rss/92/feed</link>
+    <description>Get the latest corporate, market and business news and analysis.</description>
+    <language>en</language>
+    <image>
+      <url>https://assets-v2.i-scmp.com/production/static/img/icons/scmp-meta-1200x630.png</url>
+      <title>Business - South China Morning Post</title>
+      <link>https://www.scmp.com</link>
+    </image>
+    <atom:link href="https://www.scmp.com/rss/92/feed" rel="self" type="application/rss+xml"/>
+    <item>
+      <author>Themis Qi</author>
+      <dc:creator>Themis Qi</dc:creator>
+      <description>Hong Kong can attract more global biotech investments if the city builds up a new healthcare financial model, according to AstraZeneca, a Cambridge-based multinational pharmaceutical giant.
+While global drug makers have been doubling down on investments in mainland China in recent years, AstraZeneca brought over 60 clinical trials to the city and invested over HK$200 million (US$25.5 million) over the past three years.
+Hong Kong was still a key research and development hub for the firm, David...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/article/3369144/hong-kong-needs-new-funding-model-draw-investment-global-drug-makers-astrazeneca?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/article/3369144/hong-kong-needs-new-funding-model-draw-investment-global-drug-makers-astrazeneca?utm_source=rss_feed</link>
+      <pubDate>Thu, 01 Oct 2026 08:00:04 +0000</pubDate>
+      <title>Hong Kong needs new funding model to draw investment from global drug makers: AstraZeneca</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/f7ce4897-6533-4eef-adf9-51579125f4ee_3d93fd22.jpg?itok=Y8pybyRp&amp;v=1790657138"/>
+      <media:content height="2782" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/f7ce4897-6533-4eef-adf9-51579125f4ee_3d93fd22.jpg?itok=Y8pybyRp&amp;v=1790657138" width="4096"/>
+    </item>
+    <item>
+      <author>Daniel Ren</author>
+      <dc:creator>Daniel Ren</dc:creator>
+      <description>Chinese automotive groups have cause to celebrate their go-global strategy amid breakneck export growth in recent years, with deliveries in 2026 expected to beat expectations already buoyed by an international energy shock caused by conflict in the Middle East.
+Leading carmakers from BYD to Chery Automobile have doubled down on overseas expansion, with some evolving into powerful contenders in markets such as Europe and Africa, which were once dominated by the likes of Volkswagen.
+“A sluggish...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/china-business/article/3369423/chinas-carmakers-eye-record-12-million-overseas-sales-2026-go-global-plan-pays?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/china-business/article/3369423/chinas-carmakers-eye-record-12-million-overseas-sales-2026-go-global-plan-pays?utm_source=rss_feed</link>
+      <pubDate>Thu, 01 Oct 2026 06:00:08 +0000</pubDate>
+      <title>China’s carmakers eye record 12 million overseas sales in 2026 as ‘go global’ plan pays off</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/01/7353e690-dff8-435f-bd2f-675d361d2781_362a1b1c.jpg?itok=QpDWdP9h&amp;v=1790831565"/>
+      <media:content height="2731" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/01/7353e690-dff8-435f-bd2f-675d361d2781_362a1b1c.jpg?itok=QpDWdP9h&amp;v=1790831565" width="4096"/>
+    </item>
+    <item>
+      <author>Zhu Wenqian</author>
+      <dc:creator>Zhu Wenqian</dc:creator>
+      <description>Chinese-American billionaire investor Duan Yongping, often called China’s Warren Buffett, has added 30,000 shares of Shanghai-listed baijiu maker Kweichou Moutai to his portfolio in his third public stake increase this year amid a deep sector-wide adjustment.
+Moutai’s premium valuation has long relied heavily on corporate and social gifting demand. Yet stricter supervision, more prudent corporate spending and ongoing anti-corruption efforts in recent years have dented demand, according to...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/banking-finance/article/3369330/chinas-warren-buffett-adds-moutai-shares-3rd-time-baijiu-sector-seeks-bottom?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/banking-finance/article/3369330/chinas-warren-buffett-adds-moutai-shares-3rd-time-baijiu-sector-seeks-bottom?utm_source=rss_feed</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:15 +0000</pubDate>
+      <title>‘China’s Warren Buffett’ adds Moutai shares for 3rd time as baijiu sector seeks bottom</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/972828b5-9158-471b-a03e-738dff0afbc5_236b9730.jpg?itok=BX-BoHal&amp;v=1790758152"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/972828b5-9158-471b-a03e-738dff0afbc5_236b9730.jpg?itok=BX-BoHal&amp;v=1790758152" width="4095"/>
+    </item>
+    <item>
+      <author>Enoch Yiu,Themis Qi</author>
+      <dc:creator>Enoch Yiu,Themis Qi</dc:creator>
+      <description>Hong Kong commercial banks continue to offer incentives to attract mainland visitors during the first golden week after Beijing tightened cross-border investment rules and enforced the collection of a 20 per cent levy on overseas investment or insurance gains.
+HSBC would offer up to HK$88,000 (US$11,215) for new high-end clients, as well as experiences including a National Day fireworks dinner and tickets to the China Open tennis tournament in Beijing or a K-pop concert, according to the bank’s...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/banking-finance/article/3369382/hong-kong-banks-set-golden-week-lures-mainland-chinese-visitors-despite-new-levies?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/banking-finance/article/3369382/hong-kong-banks-set-golden-week-lures-mainland-chinese-visitors-despite-new-levies?utm_source=rss_feed</link>
+      <pubDate>Wed, 30 Sep 2026 15:39:25 +0000</pubDate>
+      <title>Hong Kong banks set golden week lures for mainland Chinese visitors despite new levies</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/e0aa78fb-959e-459e-803c-02fc8bee66f3_be2019ab.jpg?itok=uf6JgN1w&amp;v=1790782759"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/e0aa78fb-959e-459e-803c-02fc8bee66f3_be2019ab.jpg?itok=uf6JgN1w&amp;v=1790782759" width="4095"/>
+    </item>
+    <item>
+      <author>Peggy Ye,Chris Tsang</author>
+      <dc:creator>Peggy Ye,Chris Tsang</dc:creator>
+      <description>New World Development (NWD) reported a net loss of HK$26.8 billion (US$3.42 billion) for the year ended June, as the developer booked HK$18.3 billion in impairments and provisions tied to the early termination of its flagship 11 Skies mall project.
+Echo Huang, the firm’s chief executive, said at a Wednesday earnings briefing that the group had “met its targets over the past 18 months”, including focusing on its property business, improving cash flow and enhancing operating efficiency.
+NWD will...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/companies/article/3369377/new-world-development-posts-hk268b-loss-after-11-skies-termination?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/companies/article/3369377/new-world-development-posts-hk268b-loss-after-11-skies-termination?utm_source=rss_feed</link>
+      <pubDate>Wed, 30 Sep 2026 14:46:27 +0000</pubDate>
+      <title>New World Development posts HK$26.8b loss after 11 Skies termination</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/c5715e9b-261d-4b95-bf88-07f717bf71f5_1e383c4e.jpg?itok=lcikItcK&amp;v=1790779586"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/c5715e9b-261d-4b95-bf88-07f717bf71f5_1e383c4e.jpg?itok=lcikItcK&amp;v=1790779586" width="4095"/>
+    </item>
+    <item>
+      <author>Themis Qi</author>
+      <dc:creator>Themis Qi</dc:creator>
+      <description>Maxim’s Caterers has struck a deal to buy back its shares from DFI Retail Group for US$340 million plus control of its licensed Starbucks business, according to an exchange filing released on Wednesday.
+The deal will mark the start of a fresh chapter for Maxim’s, bringing an end to decades of part ownership by the conglomerate Jardine Matheson, which owns DFI Retail.
+Jardine Matheson bought a 50 per cent interest in Maxim’s in 1972, before transferring the stake to Dairy Farm, now known as DFI...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/companies/article/3369371/dfi-retail-sells-stake-maxims-return-starbucks-business-us340m?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/companies/article/3369371/dfi-retail-sells-stake-maxims-return-starbucks-business-us340m?utm_source=rss_feed</link>
+      <pubDate>Wed, 30 Sep 2026 14:00:17 +0000</pubDate>
+      <title>DFI Retail sells stake in Maxim’s in return for Starbucks business, US$340m</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/1bc0958a-43e6-4592-9fe9-72c99eba7ca5_1d3f9748.jpg?itok=IoxB4kFG&amp;v=1790776815"/>
+      <media:content height="2640" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/1bc0958a-43e6-4592-9fe9-72c99eba7ca5_1d3f9748.jpg?itok=IoxB4kFG&amp;v=1790776815" width="4095"/>
+    </item>
+    <item>
+      <author>Daisy Wu</author>
+      <dc:creator>Daisy Wu</dc:creator>
+      <description>Singapore’s central bank has selected five international asset managers to handle S$1.45 billion (US$1.3 billion) in locally focused equity strategies, making its latest effort to revive the city state’s stock market amid sharpening rivalry with regional financial hub Hong Kong.
+Amundi, Franklin Templeton, HSBC Asset Management, M&amp;G Investments and Natixis Investment Managers were named on Tuesday as part of the third batch of mandates awarded under the Monetary Authority of Singapore’s (MAS)...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/banking-finance/article/3369308/singapore-beefs-rivalry-hong-kong-picking-5-firms-boost-equity-market?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/banking-finance/article/3369308/singapore-beefs-rivalry-hong-kong-picking-5-firms-boost-equity-market?utm_source=rss_feed</link>
+      <pubDate>Wed, 30 Sep 2026 09:13:44 +0000</pubDate>
+      <title>Singapore beefs up rivalry with Hong Kong by picking 5 firms to boost equity market</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/5f4c9c1f-f571-4cfc-81f6-35c9d1acdfa5_bb851935.jpg?itok=vnBfGgM3&amp;v=1790751755"/>
+      <media:content height="2809" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/5f4c9c1f-f571-4cfc-81f6-35c9d1acdfa5_bb851935.jpg?itok=vnBfGgM3&amp;v=1790751755" width="4095"/>
+    </item>
+    <item>
+      <author>Zoe SL Chan,Enoch Yiu</author>
+      <dc:creator>Zoe SL Chan,Enoch Yiu</dc:creator>
+      <description>Funds raised through Hong Kong initial public offerings (IPOs) doubled in the first nine months of 2026, reaching the highest level for the period since records began in 1980.
+A total of 112 companies raised US$48.4 billion on Hong Kong’s main board during the first nine months, according to data released by LSEG Data &amp; Analytics on Wednesday. A further two companies listed on the city’s Growth Enterprise Market (GEM).
+By deal count, the combined total of 114 new listings on the main board and...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/banking-finance/article/3369316/hong-kongs-ipo-haul-first-9-months-smashes-record-despite-nasdaqs-fundraising-lead?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/banking-finance/article/3369316/hong-kongs-ipo-haul-first-9-months-smashes-record-despite-nasdaqs-fundraising-lead?utm_source=rss_feed</link>
+      <pubDate>Wed, 30 Sep 2026 08:00:27 +0000</pubDate>
+      <title>Hong Kong’s IPO haul in first 9 months smashes record despite Nasdaq’s fundraising lead</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/63e4926b-b78f-4af0-8466-7d61c8e6210b_a2716e7a.jpg?itok=Cs1BsjV0&amp;v=1790754256"/>
+      <media:content height="2773" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/63e4926b-b78f-4af0-8466-7d61c8e6210b_a2716e7a.jpg?itok=Cs1BsjV0&amp;v=1790754256" width="4095"/>
+    </item>
+    <item>
+      <author>Morning Studio editors</author>
+      <dc:creator>Morning Studio editors</dc:creator>
+      <description>Hong Kong’s efforts in advancing the city’s innovation and technology (I&amp;T) industry have been highlighted in a number of international surveys in recent years.
+One of the most recent was the International Institute for Management Development’s “World Competitiveness Ranking 2026”, which placed Hong Kong second among 70 economies worldwide.
+The city is also part of the Shenzhen-Hong Kong-Guangzhou innovation cluster, which retained first place globally in the World Intellectual Property...</description>
+      <guid isPermaLink="true">https://www.scmp.com/native/business/topics/hong-kong-global-hub-talent/article/3369062/how-hong-kong-entices-europes-young-start-talent?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/native/business/topics/hong-kong-global-hub-talent/article/3369062/how-hong-kong-entices-europes-young-start-talent?utm_source=rss_feed</link>
+      <pubDate>Wed, 30 Sep 2026 08:00:12 +0000</pubDate>
+      <title>How Hong Kong entices Europe’s young start-up talent</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/f61c90eb-73af-47b9-aa0a-9aeccb194f6a_5fb80ff5.jpg?itok=jyLXPiZ7&amp;v=1790647586"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/f61c90eb-73af-47b9-aa0a-9aeccb194f6a_5fb80ff5.jpg?itok=jyLXPiZ7&amp;v=1790647586" width="4095"/>
+    </item>
+    <item>
+      <author>SCMP</author>
+      <dc:creator>SCMP</dc:creator>
+      <description>We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing.
+1. As Chinese carmakers diversify beyond CATL, Beijing warns of market overreaction
+A publication under China’s industry ministry has pushed back against market chatter of “de-CATLisation” as a growing number of the battery giant’s automotive partners diversify their suppliers, with the...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/china-evs/article/3369306/chinas-2030-solid-state-battery-goal-chinese-carmakers-see-boost-europe-7-ev-reads?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/china-evs/article/3369306/chinas-2030-solid-state-battery-goal-chinese-carmakers-see-boost-europe-7-ev-reads?utm_source=rss_feed</link>
+      <pubDate>Wed, 30 Sep 2026 07:15:05 +0000</pubDate>
+      <title>China’s 2030 solid-state battery goal, Chinese carmakers see boost in Europe: 7 EV reads</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/248ab6a6-e727-4376-ab90-3d7f82244eb5_650cf759.jpg?itok=Aq56ZWYL&amp;v=1790751140"/>
+      <media:content height="2533" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/248ab6a6-e727-4376-ab90-3d7f82244eb5_650cf759.jpg?itok=Aq56ZWYL&amp;v=1790751140" width="4096"/>
+    </item>
+    <item>
+      <author>Zoe SL Chan</author>
+      <dc:creator>Zoe SL Chan</dc:creator>
+      <description>Mainland China-based printed circuit board (PCB) maker Suzhou Dongshan Precision Manufacturing has cleared its final listing hurdle in Hong Kong and is moving towards a share sale that may rank among the city’s largest initial public offerings (IPOs) in the fourth quarter, according to people familiar with the matter.
+The company passed its listing hearing with bourse operator Hong Kong Exchanges and Clearing (HKEX) recently, the people said, requesting anonymity because the information was...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/banking-finance/article/3369299/mainland-chinas-pcb-giant-wins-hong-kong-approval-planned-us3b-listing-sources?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/banking-finance/article/3369299/mainland-chinas-pcb-giant-wins-hong-kong-approval-planned-us3b-listing-sources?utm_source=rss_feed</link>
+      <pubDate>Wed, 30 Sep 2026 07:00:08 +0000</pubDate>
+      <title>Mainland China’s PCB giant wins Hong Kong approval for planned US$3b listing: sources</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/e44ddf65-fa85-4e1d-9f2c-f2aa7687a4ef_8dea8063.jpg?itok=LcX9BhrB&amp;v=1790749582"/>
+      <media:content height="1915" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/e44ddf65-fa85-4e1d-9f2c-f2aa7687a4ef_8dea8063.jpg?itok=LcX9BhrB&amp;v=1790749582" width="4095"/>
+    </item>
+    <item>
+      <author>Haining Gao</author>
+      <dc:creator>Haining Gao</dc:creator>
+      <description>–</description>
+      <guid isPermaLink="true">https://www.scmp.com/plus/tech/tech-trends/article/3369300/chinese-biopharmas-global-expansion?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/plus/tech/tech-trends/article/3369300/chinese-biopharmas-global-expansion?utm_source=rss_feed</link>
+      <pubDate>Wed, 30 Sep 2026 06:30:44 +0000</pubDate>
+      <title>Chinese biopharma’s global expansion</title>
+      <enclosure length="2481" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/d6351ff3-130e-4adf-8567-b76f8e072152_fec3f226.jpg?itok=72LBtIoC&amp;v=1790749842"/>
+      <media:content height="3508" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/d6351ff3-130e-4adf-8567-b76f8e072152_fec3f226.jpg?itok=72LBtIoC&amp;v=1790749842" width="2481"/>
+    </item>
+    <item>
+      <author>Zhang Shidong</author>
+      <dc:creator>Zhang Shidong</dc:creator>
+      <description>Mainland Chinese and Hong Kong stocks may face a challenging fourth quarter as investors contend with underwhelming stimulus measures from Beijing, tighter financial conditions in the US and a shift in the narrative around the artificial intelligence trade, according to analysts.
+The two markets were likely to consolidate through the rest of the year as investors digest the negatives before settling on a clearer direction, according to brokerages including Zheshang Securities and CCB...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/china-business/article/3369292/mainland-chinese-hong-kong-stocks-face-bumpy-fourth-quarter-risks-mount-analysts?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/china-business/article/3369292/mainland-chinese-hong-kong-stocks-face-bumpy-fourth-quarter-risks-mount-analysts?utm_source=rss_feed</link>
+      <pubDate>Wed, 30 Sep 2026 06:00:06 +0000</pubDate>
+      <title>Mainland Chinese, Hong Kong stocks face bumpy fourth quarter as risks mount: analysts</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/cadd8ed1-1453-4b95-a28e-0f8bda42fb58_5a4c968d.jpg?itok=1hmUNyRF&amp;v=1790745034"/>
+      <media:content height="2732" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/cadd8ed1-1453-4b95-a28e-0f8bda42fb58_5a4c968d.jpg?itok=1hmUNyRF&amp;v=1790745034" width="4096"/>
+    </item>
+    <item>
+      <author>Yulu Ao</author>
+      <dc:creator>Yulu Ao</dc:creator>
+      <description>Yi Huiman, the former chairman of China’s securities regulator, has been formally prosecuted for allegedly accepting “especially large” bribes, as Beijing presses ahead with a sweeping anti-corruption campaign in the financial sector.
+Prosecutors in the eastern city of Qingdao recently filed a case against Yi with the Qingdao Intermediate People’s Court after an investigation by the National Commission of Supervision, state-owned Xinhua News Agency said on Wednesday.
+Yi allegedly used his...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/china-business/article/3369289/former-csrc-chairman-yi-huiman-formally-prosecuted-taking-especially-large-bribes?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/china-business/article/3369289/former-csrc-chairman-yi-huiman-formally-prosecuted-taking-especially-large-bribes?utm_source=rss_feed</link>
+      <pubDate>Wed, 30 Sep 2026 05:30:05 +0000</pubDate>
+      <title>Former CSRC chairman Yi Huiman formally prosecuted for taking ‘especially large’ bribes</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/c5cbe9f0-8210-4287-9ca4-4f7c1015f8a2_4ea79006.jpg?itok=PU79Jz1a&amp;v=1790744368"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/c5cbe9f0-8210-4287-9ca4-4f7c1015f8a2_4ea79006.jpg?itok=PU79Jz1a&amp;v=1790744368" width="4095"/>
+    </item>
+    <item>
+      <author>Tim Yuen Lingk</author>
+      <dc:creator>Tim Yuen Lingk</dc:creator>
+      <description>China’s corporate sector remains considerably weaker than it was before the Covid-19 pandemic, but the country is emerging as a key beneficiary of the global artificial intelligence boom thanks to its ample power capacity, according to a Natixis survey of thousands of firms and a separate research report.
+Profit margins at Chinese firms had stabilised at about 4.5 per cent for the first half of 2026, but remained well below the nearly 9 per cent recorded by their global peers, according to the...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/china-business/article/3369282/chinese-firms-trail-global-peers-profits-ai-power-boom-offers-bright-spot-natixis?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/china-business/article/3369282/chinese-firms-trail-global-peers-profits-ai-power-boom-offers-bright-spot-natixis?utm_source=rss_feed</link>
+      <pubDate>Wed, 30 Sep 2026 05:00:10 +0000</pubDate>
+      <title>Chinese firms trail global peers on profits, but AI power boom offers bright spot: Natixis</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/4fe46d50-19c7-420b-927e-93c5cc5c18ce_f066e881.jpg?itok=IiiqQSNq&amp;v=1790740688"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/4fe46d50-19c7-420b-927e-93c5cc5c18ce_f066e881.jpg?itok=IiiqQSNq&amp;v=1790740688" width="4096"/>
+    </item>
+    <item>
+      <author>Enoch Yiu</author>
+      <dc:creator>Enoch Yiu</dc:creator>
+      <description>HSBC on Wednesday named its stablecoin offering HSBC RedCoin, paving the way for Hong Kong’s biggest lender to make the coin available to the more than 3.3 million users of its PayMe app for money transfers, shopping and dining.
+When launched before the end of the year, the stablecoin would be offered only through PayMe and HSBC’s Hong Kong mobile banking app, HSBC said.
+The bank said it was optimistic about retail usage of HSBC RedCoin, as 74 per cent of respondents to a survey of more than...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/banking-finance/article/3369284/hsbc-unveils-redcoin-name-its-hong-kong-stablecoin-33-million-payme-users?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/banking-finance/article/3369284/hsbc-unveils-redcoin-name-its-hong-kong-stablecoin-33-million-payme-users?utm_source=rss_feed</link>
+      <pubDate>Wed, 30 Sep 2026 04:18:24 +0000</pubDate>
+      <title>HSBC unveils RedCoin as name of Hong Kong stablecoin for 3.3 million PayMe users</title>
+      <enclosure length="4000" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/07449b15-aa5f-4857-98d1-1099f30dfa12_821363aa.jpg?itok=NlLf-wS0&amp;v=1790741902"/>
+      <media:content height="2666" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/07449b15-aa5f-4857-98d1-1099f30dfa12_821363aa.jpg?itok=NlLf-wS0&amp;v=1790741902" width="4000"/>
+    </item>
+    <item>
+      <author>Morning Studio editors</author>
+      <dc:creator>Morning Studio editors</dc:creator>
+      <description>Long before she started steering the investment portfolios of some of Asia’s most prominent families, Jin Yee Young was professionally trained to make the best moves in an exacting, high-pressure environment far from the world’s financial markets.
+“I used to be a competitive gymnast, and had the honour of representing Singapore in two Southeast Asian Games,” she says.
+Her sport, rhythmic gymnastics, where competitors perform on a mat with a hoop, ball, clubs, ribbon and rope, requires precision,...</description>
+      <guid isPermaLink="true">https://www.scmp.com/native/business/topics/craft-matters-stories-achieving-success/article/3369138/ubs-executives-journey-rhythmic-gymnast-trusted-adviser-asias-wealthy-families?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/native/business/topics/craft-matters-stories-achieving-success/article/3369138/ubs-executives-journey-rhythmic-gymnast-trusted-adviser-asias-wealthy-families?utm_source=rss_feed</link>
+      <pubDate>Wed, 30 Sep 2026 04:00:06 +0000</pubDate>
+      <title>UBS executive’s journey from rhythmic gymnast to trusted adviser to Asia’s wealthy families</title>
+      <enclosure length="1920" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/32828528-687b-4a4c-b809-3c87fcee704c_72545ed6.jpg?itok=aSayhLUS&amp;v=1790736364"/>
+      <media:content height="822" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/32828528-687b-4a4c-b809-3c87fcee704c_72545ed6.jpg?itok=aSayhLUS&amp;v=1790736364" width="1920"/>
+    </item>
+    <item>
+      <author>Peggy Ye</author>
+      <dc:creator>Peggy Ye</dc:creator>
+      <description>Hong Kong looks set to be hit by a wave of interest rate rises in the coming months, but the city’s property market is unlikely to suffer the same level of damage seen during the last rate cycle in 2022 and 2023, according to analysts.
+Though major Hong Kong banks have so far held rates steady despite the US Federal Reserve raising its benchmark rate earlier this month, they are widely expected to increase them if the Fed follows through with further tightening later this year.
+The combination...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/markets/article/3369265/looming-interest-rate-rises-will-not-hit-hong-kong-hard-2022-analysts?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/markets/article/3369265/looming-interest-rate-rises-will-not-hit-hong-kong-hard-2022-analysts?utm_source=rss_feed</link>
+      <pubDate>Wed, 30 Sep 2026 02:02:57 +0000</pubDate>
+      <title>Looming interest rate rises will not hit Hong Kong as hard as 2022: analysts</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/32df3b6a-4924-4144-ad15-f216b893feb9_131f58fa.jpg?itok=Y2dBzbEv&amp;v=1790733032"/>
+      <media:content height="2700" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/32df3b6a-4924-4144-ad15-f216b893feb9_131f58fa.jpg?itok=Y2dBzbEv&amp;v=1790733032" width="4095"/>
+    </item>
+    <item>
+      <author>Christina Zhao</author>
+      <dc:creator>Christina Zhao</dc:creator>
+      <description>Executives at Hong Kong’s largest listed companies have a severe lack of technological expertise, with fewer than 1 per cent of directors possessing dedicated artificial intelligence or cybersecurity skills, according to a new report by Grant Thornton Hong Kong.
+The firm’s 15th annual Corporate Governance Review – which surveyed 100 major listed firms on Hong Kong’s Hang Seng Composite Index – found that 59 per cent of companies view cybersecurity or AI as principal business risks. Yet only 11...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/companies/article/3369229/hong-kongs-executives-are-ill-prepared-ai-era-report-finds?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/companies/article/3369229/hong-kongs-executives-are-ill-prepared-ai-era-report-finds?utm_source=rss_feed</link>
+      <pubDate>Wed, 30 Sep 2026 00:00:11 +0000</pubDate>
+      <title>Hong Kong’s executives are ‘ill prepared’ for AI era, report finds</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/51e8b0ac-ff88-4b3b-a564-5162142e46c5_82f9029f.jpg?itok=soQessbL&amp;v=1790684154"/>
+      <media:content height="2608" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/51e8b0ac-ff88-4b3b-a564-5162142e46c5_82f9029f.jpg?itok=soQessbL&amp;v=1790684154" width="4096"/>
+    </item>
+    <item>
+      <author>Enoch Yiu</author>
+      <dc:creator>Enoch Yiu</dc:creator>
+      <description>Hong Kong has seen strong growth in private wealth assets, but the industry has not yet seen the same scale of hiring, as private banks and wealth management companies have adopted technology including AI to serve customers, according to consulting firm Capco.
+“When assets under management by private banks are growing rapidly, the relationship managers are not increasing at the same rate as the use of technology and AI are enhancing the productivity of the team,” Simon Smallcombe, Capco’s...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/banking-finance/article/3369160/ai-uptake-sees-wealth-management-headcounts-hong-kong-trail-growth-assets?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/banking-finance/article/3369160/ai-uptake-sees-wealth-management-headcounts-hong-kong-trail-growth-assets?utm_source=rss_feed</link>
+      <pubDate>Tue, 29 Sep 2026 23:00:09 +0000</pubDate>
+      <title>AI uptake sees wealth management headcounts in Hong Kong trail growth in assets</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/860a0805-2c44-4833-b0fa-234ecb128711_cdd97661.jpg?itok=lWyjennC&amp;v=1790662173"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/860a0805-2c44-4833-b0fa-234ecb128711_cdd97661.jpg?itok=lWyjennC&amp;v=1790662173" width="4095"/>
+    </item>
+    <item>
+      <author>Themis Qi</author>
+      <dc:creator>Themis Qi</dc:creator>
+      <description>The developer of The Vertex – a residential project in Cheung Sha Wan once owned by failed property giant China Evergrande Group – has been fined HK$770,000 (US$98,100) for failing to properly record transactions related to the complex.
+Twin City Holdings Limited was found to have violated a residential properties ordinance by failing to disclose details of payment terms – such as price discounts and other financial incentives – on sales at the development, according to a government statement...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/companies/article/3369241/vertex-developer-hit-hk770000-fine-over-disclosure-failures?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/companies/article/3369241/vertex-developer-hit-hk770000-fine-over-disclosure-failures?utm_source=rss_feed</link>
+      <pubDate>Tue, 29 Sep 2026 14:12:33 +0000</pubDate>
+      <title>The Vertex developer hit with HK$770,000 fine over disclosure failures</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/1fd50bb6-77aa-4c22-9841-1ca659eb08dc_4ec79017.jpg?itok=SsEsCUY7&amp;v=1790691152"/>
+      <media:content height="2650" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/1fd50bb6-77aa-4c22-9841-1ca659eb08dc_4ec79017.jpg?itok=SsEsCUY7&amp;v=1790691152" width="4095"/>
+    </item>
+    <item>
+      <author>Chong Ming Lee</author>
+      <dc:creator>Chong Ming Lee</dc:creator>
+      <description>Hong Kong businesses are lagging behind their mainland Chinese peers in adopting artificial intelligence, as entrenched legacy systems and a risk-averse corporate mindset slow the city’s digital transition, according to a senior executive at consultancy Accenture.
+Only 10 per cent of Hong Kong firms surveyed by Accenture had integrated generative AI across multiple business functions, compared with about 21 per cent of mainland enterprises, said Robert Hah, Hong Kong office lead at Accenture...</description>
+      <guid isPermaLink="true">https://www.scmp.com/tech/policy/article/3369205/hong-kong-firms-lag-mainland-china-ai-adoption-amid-legacy-system-burden-accenture?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/tech/policy/article/3369205/hong-kong-firms-lag-mainland-china-ai-adoption-amid-legacy-system-burden-accenture?utm_source=rss_feed</link>
+      <pubDate>Tue, 29 Sep 2026 12:00:10 +0000</pubDate>
+      <title>Hong Kong firms lag mainland China on AI adoption amid legacy-system burden: Accenture</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/5473cf89-7e88-4e17-b4aa-13af56180fb5_6da2ab97.jpg?itok=IQen4VlB&amp;v=1790675345"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/5473cf89-7e88-4e17-b4aa-13af56180fb5_6da2ab97.jpg?itok=IQen4VlB&amp;v=1790675345" width="4095"/>
+    </item>
+    <item>
+      <author>Chris Tsang</author>
+      <dc:creator>Chris Tsang</dc:creator>
+      <description>As the shadow of possible interest rate increases darkens Hong Kong’s property market outlook, well-known people including model-actress Eunis Chan Ka-yung and billionaire Angela Leong On-kei have recently decided the time was right to sell luxury properties, according to market sources.
+Chan sold a two-bedroom Mid-Levels flat for HK$32.25 million (US$4.1 million), making a profit of about 130 per cent, while Leong, a businesswoman and Macau legislator who was the fourth wife of the late casino...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/article/3369169/eunis-chan-angela-leong-sell-luxury-hong-kong-properties-rate-increases-loom?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/article/3369169/eunis-chan-angela-leong-sell-luxury-hong-kong-properties-rate-increases-loom?utm_source=rss_feed</link>
+      <pubDate>Tue, 29 Sep 2026 10:00:13 +0000</pubDate>
+      <title>Eunis Chan, Angela Leong sell luxury Hong Kong properties as rate increases loom</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/d4054f3e-5b18-4a8e-99e0-8787cf15c61d_7b8cea65.jpg?itok=W0C17rBb&amp;v=1790665838"/>
+      <media:content height="2728" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/d4054f3e-5b18-4a8e-99e0-8787cf15c61d_7b8cea65.jpg?itok=W0C17rBb&amp;v=1790665838" width="4096"/>
+    </item>
+    <item>
+      <author>Howard Liu</author>
+      <dc:creator>Howard Liu</dc:creator>
+      <description>Chinese memory chip giant ChangXin Memory Technologies (CXMT) plans to invest 34.9 billion yuan (US$5.2 billion) in expansion, with a large portion of the capital going to domestic suppliers of chipmaking equipment, according to a source.
+The firm, listed on the Shanghai Stock Exchange’s Star Market, would spend 24.1 billion yuan on a new technology research and development project and another 10.8 billion yuan on the second phase of a wafer testing base, according to a Monday stock filing.
+The...</description>
+      <guid isPermaLink="true">https://www.scmp.com/tech/tech-trends/article/3369192/chinas-cxmt-favour-domestic-suppliers-us52b-memory-chip-capacity-push-source?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/tech/tech-trends/article/3369192/chinas-cxmt-favour-domestic-suppliers-us52b-memory-chip-capacity-push-source?utm_source=rss_feed</link>
+      <pubDate>Tue, 29 Sep 2026 09:30:05 +0000</pubDate>
+      <title>China’s CXMT to favour domestic suppliers in US$5.2b memory-chip capacity push: source</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/6e3a5dde-239a-4897-9202-2649dde5be24_558b577e.jpg?itok=sbmivTM2&amp;v=1790672264"/>
+      <media:content height="2731" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/6e3a5dde-239a-4897-9202-2649dde5be24_558b577e.jpg?itok=sbmivTM2&amp;v=1790672264" width="4096"/>
+    </item>
+    <item>
+      <author>Zhu Wenqian</author>
+      <dc:creator>Zhu Wenqian</dc:creator>
+      <description>Citi Research has turned bullish on China’s 30-year government bonds, projecting that yields will fall further even as US Treasury yields climb.
+In a Monday research note, analysts at the Wall Street bank recommended that investors go long on China’s 30-year sovereign debt, saying they expected the yield to fall towards 1.8 per cent while the 10-year yield could edge towards 1.6 per cent.
+The analysts attributed the outlook to easing supply pressures and improved market dynamics for China’s...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/markets/article/3369198/why-citi-betting-chinas-30-year-bonds-us-treasury-yields-climb?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/markets/article/3369198/why-citi-betting-chinas-30-year-bonds-us-treasury-yields-climb?utm_source=rss_feed</link>
+      <pubDate>Tue, 29 Sep 2026 09:22:43 +0000</pubDate>
+      <title>Why Citi is betting on China’s 30-year bonds as US Treasury yields climb</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/6a520461-5ec5-47e4-823e-5b36b3a6e5f0_3c86640a.jpg?itok=U1fMmkRo&amp;v=1790673762"/>
+      <media:content height="2725" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/6a520461-5ec5-47e4-823e-5b36b3a6e5f0_3c86640a.jpg?itok=U1fMmkRo&amp;v=1790673762" width="4096"/>
+    </item>
+    <item>
+      <author>Xinmei Shen</author>
+      <dc:creator>Xinmei Shen</dc:creator>
+      <description>Shares of Akeso surged after British drug maker AstraZeneca moved to advance the Chinese biotech firm’s flagship cancer drug, while a new deal from US giant Merck further underscored the sector’s global momentum amid easing fears of US curbs.
+AstraZeneca on Tuesday announced a US$2 billion equity investment in Florida-headquartered Summit Therapeutics, which holds the exclusive rights to develop and commercialise Akeso’s immunotherapy drug ivonescimab outside China.
+Summit and AstraZeneca would...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/china-business/article/3369187/astrazeneca-merck-novo-deals-boost-chinese-biotech-global-interest-grows?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/china-business/article/3369187/astrazeneca-merck-novo-deals-boost-chinese-biotech-global-interest-grows?utm_source=rss_feed</link>
+      <pubDate>Tue, 29 Sep 2026 09:00:07 +0000</pubDate>
+      <title>AstraZeneca, Merck, Novo deals boost Chinese biotech as global interest grows</title>
+      <enclosure length="2400" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/7f6c4329-d288-4727-beb9-619f8c34c411_3c3f6fa8.jpg?itok=z4ByUngy&amp;v=1790670041"/>
+      <media:content height="1600" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/7f6c4329-d288-4727-beb9-619f8c34c411_3c3f6fa8.jpg?itok=z4ByUngy&amp;v=1790670041" width="2400"/>
+    </item>
+    <item>
+      <author>Yulu Ao</author>
+      <dc:creator>Yulu Ao</dc:creator>
+      <description>Global investors are turning to China again in search of alternatives to crowded US asset markets, with Pimco seeing Chinese bonds as one of the safest ways to diversify portfolios after sentiment towards the world’s second-largest economy “flipped 180 degrees”.
+The US-based asset manager, which oversaw more than US$2 trillion in assets by the end of June, had been pointing its clients, particularly those outside the United States, towards Chinese offshore bonds, according to its president,...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/china-business/article/3369148/180-degree-flip-sees-global-investors-turn-china-diversification-pimco-president?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/china-business/article/3369148/180-degree-flip-sees-global-investors-turn-china-diversification-pimco-president?utm_source=rss_feed</link>
+      <pubDate>Tue, 29 Sep 2026 08:00:11 +0000</pubDate>
+      <title>‘180-degree flip’ sees global investors turn to China for diversification: Pimco president</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/e0a47922-4c34-4fd6-bffc-909474111b73_3addc148.jpg?itok=DWJCsJkJ&amp;v=1790658801"/>
+      <media:content height="2786" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/e0a47922-4c34-4fd6-bffc-909474111b73_3addc148.jpg?itok=DWJCsJkJ&amp;v=1790658801" width="4095"/>
+    </item>
+    <item>
+      <author>Zoe SL Chan</author>
+      <dc:creator>Zoe SL Chan</dc:creator>
+      <description>Hong Kong welcomed four companies to start trading on Tuesday after they raised a combined HK$14.4 billion (US$1.83 billion) – but three opened below their offer prices, adding pressure to an already sluggish month for initial public offerings (IPOs).
+Automated equipment manufacturer RoboTechnik Intelligent Technology was the largest company to make its debut, having raised HK$5.18 billion, but its shares closed 4.9 per cent lower at HK$414.4 (US$52.82) after dropping as much as 9.8 per...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/banking-finance/article/3369156/hong-kongs-ipo-revival-faces-test-three-new-stocks-stumble-debut?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/banking-finance/article/3369156/hong-kongs-ipo-revival-faces-test-three-new-stocks-stumble-debut?utm_source=rss_feed</link>
+      <pubDate>Tue, 29 Sep 2026 07:00:10 +0000</pubDate>
+      <title>Hong Kong’s IPO revival faces test as 3 new stocks stumble on debut</title>
+      <enclosure length="4032" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/a90488dd-d45f-4b08-8d50-6ba58d2bdee7_47f05ef3.jpg?itok=YrJQn7F9&amp;v=1790660189"/>
+      <media:content height="3024" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/a90488dd-d45f-4b08-8d50-6ba58d2bdee7_47f05ef3.jpg?itok=YrJQn7F9&amp;v=1790660189" width="4032"/>
+    </item>
+    <item>
+      <author>Frank Tang</author>
+      <dc:creator>Frank Tang</dc:creator>
+      <description>JPMorgan Chase, the world’s top bank by market capitalisation, plans to expand hiring and technology investment across mainland China and Hong Kong and is looking to take advantage of the city’s strengthening capital markets as well as its platform for serving companies operating in and out of the Chinese market, according to senior executives.
+CEO Jamie Dimon said the banking giant’s China-related business, measured by factors including client volume, has grown sharply over the past decade –...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/banking-finance/article/3369009/why-jpmorgan-expanding-china-ceo-dimon-sees-another-decade-sharp-growth?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/banking-finance/article/3369009/why-jpmorgan-expanding-china-ceo-dimon-sees-another-decade-sharp-growth?utm_source=rss_feed</link>
+      <pubDate>Tue, 29 Sep 2026 06:00:05 +0000</pubDate>
+      <title>Why is JPMorgan expanding in China? CEO Dimon sees another decade of sharp growth</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/47a08369-0993-4e7c-ad5e-ab6e5ddcfa46_b38f8b7e.jpg?itok=mOasRL-v&amp;v=1790570096"/>
+      <media:content height="2761" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/47a08369-0993-4e7c-ad5e-ab6e5ddcfa46_b38f8b7e.jpg?itok=mOasRL-v&amp;v=1790570096" width="4095"/>
+    </item>
+    <item>
+      <author>Zhang Shidong,Zoe SL Chan,Themis Qi</author>
+      <dc:creator>Zhang Shidong,Zoe SL Chan,Themis Qi</dc:creator>
+      <description>Some securities companies have begun to clean up non-compliant overseas stock trading by mainland Chinese investors following a regulatory crackdown that started months ago with fines on Tiger Brokers and Futu Securities International.
+Orient Securities’ mainland-based clients that have trading accounts in its Hong Kong unit will be banned from buying stocks and transferring in funds starting on Wednesday, according to a notice to customers seen by the South China Morning Post. Guotai Junan...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/china-business/article/3369152/chinese-brokerages-get-line-beijings-crackdown-overseas-stock-trading?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/china-business/article/3369152/chinese-brokerages-get-line-beijings-crackdown-overseas-stock-trading?utm_source=rss_feed</link>
+      <pubDate>Tue, 29 Sep 2026 05:25:03 +0000</pubDate>
+      <title>Chinese brokerages get in line with Beijing’s crackdown on overseas stock trading</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/0899ce1f-6854-4407-8abf-26a9f0279600_37903f4b.jpg?itok=qckjcrHh&amp;v=1790659502"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/0899ce1f-6854-4407-8abf-26a9f0279600_37903f4b.jpg?itok=qckjcrHh&amp;v=1790659502" width="4095"/>
+    </item>
+    <item>
+      <author>Chong Ming Lee,Minxiao Chang</author>
+      <dc:creator>Chong Ming Lee,Minxiao Chang</dc:creator>
+      <description>US chip giant Advanced Micro Devices (AMD) has agreed to acquire World Labs, the artificial intelligence start-up founded by renowned Chinese-American computer scientist Li Fei-Fei, for US$8.2 billion in an all-stock deal, as the company steps up its rivalry with Nvidia.
+The acquisition, expected to close by the end of this year, would integrate World Labs’ research team and spatial-intelligence model expertise into AMD, according to an announcement on Monday.
+Li, a Stanford University professor...</description>
+      <guid isPermaLink="true">https://www.scmp.com/tech/big-tech/article/3369141/amd-acquires-godmother-ai-li-fei-feis-start-battle-nvidia-intensifies?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/tech/big-tech/article/3369141/amd-acquires-godmother-ai-li-fei-feis-start-battle-nvidia-intensifies?utm_source=rss_feed</link>
+      <pubDate>Tue, 29 Sep 2026 04:30:18 +0000</pubDate>
+      <title>AMD acquires ‘godmother of AI’ Li Fei-Fei’s start-up as battle with Nvidia intensifies</title>
+      <enclosure length="4000" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/af1103fc-b609-4bef-92a8-7e7cda39b0fd_ec961686.jpg?itok=B82LIqg1&amp;v=1790654968"/>
+      <media:content height="2667" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/af1103fc-b609-4bef-92a8-7e7cda39b0fd_ec961686.jpg?itok=B82LIqg1&amp;v=1790654968" width="4000"/>
+    </item>
+    <item>
+      <author>Advertising partner</author>
+      <dc:creator>Advertising partner</dc:creator>
+      <description>[The content of this article has been produced by our advertising partner.]
+Going by the figures alone, there is no escaping just how important investment in future planning has become for Asia’s high-net-worth (HNW) and ultra-high-net-worth (UHNW) families, with industry watchers predicting they will drive an estimated US$5.8 trillion in asset transfers in the region by 2030.
+But behind these figures lie some lingering questions, chief among them being how much investment can be considered...</description>
+      <guid isPermaLink="true">https://www.scmp.com/presented/business/topics/live-well-plan-well/article/3369050/future-ready-how-asias-wealthiest-should-plan-age-longevity?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/presented/business/topics/live-well-plan-well/article/3369050/future-ready-how-asias-wealthiest-should-plan-age-longevity?utm_source=rss_feed</link>
+      <pubDate>Tue, 29 Sep 2026 04:00:06 +0000</pubDate>
+      <title>Future-ready: how Asia’s wealthiest should plan for the age of longevity</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/2bdc5bae-d3e8-4ff7-a014-c4611a3cff8e_586af129.jpg?itok=hYyAzjKA&amp;v=1790583067"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/2bdc5bae-d3e8-4ff7-a014-c4611a3cff8e_586af129.jpg?itok=hYyAzjKA&amp;v=1790583067" width="4095"/>
+    </item>
+    <item>
+      <author>Coco Feng</author>
+      <dc:creator>Coco Feng</dc:creator>
+      <description>Shares of Shein Global Holdings fell as much as 14 per cent to a record low in Hong Kong on Tuesday after the online fashion retailer posted a 67 per cent drop in second-quarter profit in its first earnings report since listing, warning that tariff headwinds and logistics cost volatility would persist for the rest of the year.
+The stock sank to as low as HK$30.24 during the day and closed 10.7 per cent down at HK$31.50. Both the intraday and closing prices hit their lowest levels since the...</description>
+      <guid isPermaLink="true">https://www.scmp.com/tech/article/3369136/shein-drops-14-record-low-after-profit-misses-first-results-hong-kong-ipo?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/tech/article/3369136/shein-drops-14-record-low-after-profit-misses-first-results-hong-kong-ipo?utm_source=rss_feed</link>
+      <pubDate>Tue, 29 Sep 2026 03:53:21 +0000</pubDate>
+      <title>Shein drops 14% to record low after profit misses in first results since Hong Kong IPO</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/54669c96-34e8-45a1-975a-943026f81739_6e76cf60.jpg?itok=yMjdnnCc&amp;v=1790653228"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/54669c96-34e8-45a1-975a-943026f81739_6e76cf60.jpg?itok=yMjdnnCc&amp;v=1790653228" width="4095"/>
+    </item>
+    <item>
+      <author>Chris Tsang</author>
+      <dc:creator>Chris Tsang</dc:creator>
+      <description>Hong Kong’s Town Planning Board has rejected an application from a consortium of developers to rezone a commercial project in Kowloon for development as residential flats, leaving sellers struggling with high vacancy rates, according to analysts.
+A consortium formed by CSI Properties, Asia Standard International, and Chongqing-born property tycoon Cheung Chung-kiu applied to the Town Planning Board to redevelop “Harbourside HQ” – a grade A office building at 8 Lam Chak Street, Kowloon Bay, which...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/china-business/article/3369122/plan-turn-hong-kong-office-block-flats-rejected-amid-high-commercial-vacancy-rates?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/china-business/article/3369122/plan-turn-hong-kong-office-block-flats-rejected-amid-high-commercial-vacancy-rates?utm_source=rss_feed</link>
+      <pubDate>Tue, 29 Sep 2026 00:01:06 +0000</pubDate>
+      <title>Plan to turn Hong Kong office block into flats rejected amid high commercial vacancy rates</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/12a98e6a-42c2-48d6-b9e8-009d60d6bddd_8e94aad3.jpg?itok=Ja7RYbLe&amp;v=1790639985"/>
+      <media:content height="2779" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/12a98e6a-42c2-48d6-b9e8-009d60d6bddd_8e94aad3.jpg?itok=Ja7RYbLe&amp;v=1790639985" width="4095"/>
+    </item>
+    <item>
+      <author>Frank Tang</author>
+      <dc:creator>Frank Tang</dc:creator>
+      <description>Jamie Dimon’s recent whirlwind visit to Hong Kong followed a similar script: a schedule packed with meetings involving the entrepreneurs and business leaders connecting China with global markets.
+But it was his increasingly visible stance on global issues that appeared to extend his career beyond market strategy and financial industry leadership as CEO of JPMorgan Chase.
+His preoccupation with economic growth and world affairs drew particular attention in Hong Kong last week, shortly before...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/banking-finance/article/3369097/jpmorgans-jamie-dimon-how-growth-can-untangle-us-china-strife-thorny-global-issues?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/banking-finance/article/3369097/jpmorgans-jamie-dimon-how-growth-can-untangle-us-china-strife-thorny-global-issues?utm_source=rss_feed</link>
+      <pubDate>Mon, 28 Sep 2026 20:00:17 +0000</pubDate>
+      <title>JPMorgan’s Jamie Dimon on how growth can untangle US-China strife, thorny global issues</title>
+      <enclosure length="3839" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/b1f7977a-08d8-41fd-ab26-c659dbf01e37_0a235b2c.jpg?itok=9YTODsWw&amp;v=1790600825"/>
+      <media:content height="2554" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/b1f7977a-08d8-41fd-ab26-c659dbf01e37_0a235b2c.jpg?itok=9YTODsWw&amp;v=1790600825" width="3839"/>
+    </item>
+    <item>
+      <author>Daniel Ren</author>
+      <dc:creator>Daniel Ren</dc:creator>
+      <description>Volkswagen Group and its Chinese partner Gotion High-tech have stepped up a gear in tapping global demand for electric vehicle (EV) batteries with plans to invest a combined €3.22 billion (US$3.66 billion) to set up three production lines in Europe and North Africa.
+The factories, to be jointly owned by the German marque and China’s fourth-largest EV battery maker, would be capable of delivering 37.5 gigawatt hours (GWh) of lithium-ion battery capacity and 100,000 metric tons of cathode...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/china-business/article/3369104/vw-gotion-ramp-battery-production-europe-morocco-amid-rising-ev-demand?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/china-business/article/3369104/vw-gotion-ramp-battery-production-europe-morocco-amid-rising-ev-demand?utm_source=rss_feed</link>
+      <pubDate>Mon, 28 Sep 2026 14:28:42 +0000</pubDate>
+      <title>VW, Gotion ramp up battery production in Europe, Morocco amid rising EV demand</title>
+      <enclosure length="3912" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/595035ba-0318-44d1-bc21-46b22736fe2e_854f5df5.jpg?itok=yNUwALx6&amp;v=1790605354"/>
+      <media:content height="2608" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/595035ba-0318-44d1-bc21-46b22736fe2e_854f5df5.jpg?itok=yNUwALx6&amp;v=1790605354" width="3912"/>
+    </item>
+    <item>
+      <author>Djoomart Otorbaev</author>
+      <dc:creator>Djoomart Otorbaev</dc:creator>
+      <description>The global electronics industry is entering a structural transition. For over two decades, China served as the dominant manufacturing centre, with an unmatched concentration of suppliers, skilled labour, infrastructure, logistics and engineering capabilities. That concentration is being diluted. But interpreting this as the decline of Chinese manufacturing would be a mistake.
+China is exporting parts of its manufacturing process while retaining the industrial capabilities that matter...</description>
+      <guid isPermaLink="true">https://www.scmp.com/opinion/china-opinion/article/3368704/china-no-longer-just-worlds-factory-its-hq?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/opinion/china-opinion/article/3368704/china-no-longer-just-worlds-factory-its-hq?utm_source=rss_feed</link>
+      <pubDate>Mon, 28 Sep 2026 12:30:13 +0000</pubDate>
+      <title>China is no longer just the world’s factory. It’s the HQ</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/27/93ea586f-ba09-4292-9a31-16d18aa979bd_aea99aab.jpg?itok=FrZZfd7o&amp;v=1790492695"/>
+      <media:content height="2676" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/27/93ea586f-ba09-4292-9a31-16d18aa979bd_aea99aab.jpg?itok=FrZZfd7o&amp;v=1790492695" width="4095"/>
+    </item>
+    <item>
+      <author>Daisy Wu</author>
+      <dc:creator>Daisy Wu</dc:creator>
+      <description>The Asian Infrastructure Investment Bank (AIIB) plans to double its annual financing to about US$20 billion by 2030 as the Beijing-headquartered multilateral lender enters its second decade, its president said on Monday.
+Announcing the target at the opening of the bank’s 11th annual meeting in Doha, Qatar, AIIB President Zou Jiayi said member economies had voiced a “remarkably consistent” need for greater project funding.
+“They need more infrastructure and more financing to build it,” Zou told...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/banking-finance/article/3369088/aiib-plans-double-financing-2030-can-it-bridge-asias-infrastructure-gap?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/banking-finance/article/3369088/aiib-plans-double-financing-2030-can-it-bridge-asias-infrastructure-gap?utm_source=rss_feed</link>
+      <pubDate>Mon, 28 Sep 2026 12:09:02 +0000</pubDate>
+      <title>AIIB plans to double financing by 2030. Can it bridge Asia’s infrastructure gap?</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/c5b32763-542b-43d5-b830-3458d488f4c8_f52bdd6f.jpg?itok=qsQ6zwpo&amp;v=1790597339"/>
+      <media:content height="3089" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/c5b32763-542b-43d5-b830-3458d488f4c8_f52bdd6f.jpg?itok=qsQ6zwpo&amp;v=1790597339" width="4095"/>
+    </item>
+    <item>
+      <author>Cheryl Arcibal</author>
+      <dc:creator>Cheryl Arcibal</dc:creator>
+      <description>More than a third of Hong Kong’s office tenants are expecting to increase headcounts over the next 12 months, but only a fifth are likely to expand their real estate footprint, according to a survey by Colliers.
+The results of the fourth annual Hong Kong occupier survey by the property consultancy pointed to a “growing disconnect between hiring intentions and office expansion plans, as many occupiers continue to absorb growth within their existing premises through more efficient space...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/article/3369081/hong-kong-office-expansion-lags-hiring-push-tenants-optimise-current-space-colliers?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/article/3369081/hong-kong-office-expansion-lags-hiring-push-tenants-optimise-current-space-colliers?utm_source=rss_feed</link>
+      <pubDate>Mon, 28 Sep 2026 11:32:30 +0000</pubDate>
+      <title>Hong Kong office expansion lags hiring push as tenants optimise current space: Colliers</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/df1c06b9-b1f2-4724-9608-4481ae1ef402_11c76a0f.jpg?itok=qhZC-Dmq&amp;v=1790594097"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/df1c06b9-b1f2-4724-9608-4481ae1ef402_11c76a0f.jpg?itok=qhZC-Dmq&amp;v=1790594097" width="4095"/>
+    </item>
+    <item>
+      <author>Ann Cao</author>
+      <dc:creator>Ann Cao</dc:creator>
+      <description>Chinese chip foundry CanSemi Technology’s Shenzhen initial public offering (IPO) is emerging as one of mainland China’s most sought-after tech listings this year, as investors bet on its push into silicon photonics and its role in domestic artificial intelligence infrastructure.
+The Guangzhou-based company’s retail tranche was oversubscribed by more than 2,300 times after clawback, according to a stock exchange filing late on Sunday, as investors scrambled for a piece of the domestic...</description>
+      <guid isPermaLink="true">https://www.scmp.com/tech/tech-trends/article/3369074/chinese-chip-foundry-cansemis-ipo-oversubscribed-2360-times-investors-chase-ai-boom?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/tech/tech-trends/article/3369074/chinese-chip-foundry-cansemis-ipo-oversubscribed-2360-times-investors-chase-ai-boom?utm_source=rss_feed</link>
+      <pubDate>Mon, 28 Sep 2026 11:30:11 +0000</pubDate>
+      <title>Chinese chip foundry CanSemi’s IPO oversubscribed 2,360 times as investors chase AI boom</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/f1d89e19-6f91-4832-93ae-223e3b800ad7_c2e70ad9.jpg?itok=x4-lg_Uw&amp;v=1790589808"/>
+      <media:content height="2730" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/f1d89e19-6f91-4832-93ae-223e3b800ad7_c2e70ad9.jpg?itok=x4-lg_Uw&amp;v=1790589808" width="4095"/>
+    </item>
+    <item>
+      <author>Zoe SL Chan</author>
+      <dc:creator>Zoe SL Chan</dc:creator>
+      <description>The Hong Kong government has appointed Bryan Chan Ping-keung, a former executive at bourse operator Hong Kong Exchanges and Clearing (HKEX), as CEO to lead the development and operation of the city’s new central clearing and settlement system for gold.
+Chan will head Hong Kong Precious Metals Central Clearing (HKPMCC), a wholly government-owned entity established in January to run the clearing system for precious metals. His appointment would take effect on October 2 for a three-year term,...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/banking-finance/article/3369079/hong-kong-finds-gold-trading-leader-former-exchange-executive-bryan-chan?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/banking-finance/article/3369079/hong-kong-finds-gold-trading-leader-former-exchange-executive-bryan-chan?utm_source=rss_feed</link>
+      <pubDate>Mon, 28 Sep 2026 10:40:33 +0000</pubDate>
+      <title>Hong Kong finds gold-trading leader in former exchange executive Bryan Chan</title>
+      <enclosure length="3543" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/4d2a59af-89bd-47f4-a918-87fadd7fce32_8ca6a193.jpg?itok=Qcx3PmOn&amp;v=1790592028"/>
+      <media:content height="2362" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/4d2a59af-89bd-47f4-a918-87fadd7fce32_8ca6a193.jpg?itok=Qcx3PmOn&amp;v=1790592028" width="3543"/>
+    </item>
+    <item>
+      <author>Xinmei Shen</author>
+      <dc:creator>Xinmei Shen</dc:creator>
+      <description>China’s top intelligence and security agency on Monday issued a stark new warning on the risks of cryptocurrencies, highlighting their role in crime and stressing that transactions are not anonymous.
+Here are three things to know about the fresh warning from the Ministry of State Security (MSS) and China’s latest stance on virtual assets.
+What did the ministry say about cryptocurrencies?
+Virtual currencies facilitated money laundering activities and cyberattacks, and served as “accomplices” in...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/banking-finance/article/3369048/accomplices-espionage-beijings-stance-cryptocurrencies-hardens?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/banking-finance/article/3369048/accomplices-espionage-beijings-stance-cryptocurrencies-hardens?utm_source=rss_feed</link>
+      <pubDate>Mon, 28 Sep 2026 09:00:18 +0000</pubDate>
+      <title>‘Accomplices’ in espionage: Beijing’s stance on cryptocurrencies hardens</title>
+      <enclosure length="3500" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/83b06883-330f-475c-aef4-ecfcf222d642_b165e966.jpg?itok=nBYHL2i5&amp;v=1790582710"/>
+      <media:content height="2278" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/83b06883-330f-475c-aef4-ecfcf222d642_b165e966.jpg?itok=nBYHL2i5&amp;v=1790582710" width="3500"/>
+    </item>
+    <item>
+      <author>Daniel Ren</author>
+      <dc:creator>Daniel Ren</dc:creator>
+      <description>Chinese electric vehicle (EV) maker Nio has deepened its partnership with Zhejiang Geely Holding Group after agreeing to sell a stake in its battery swap subsidiary to the automotive conglomerate in a deal that values the unit at 16 billion yuan (US$2.4 billion).
+Geely Holding, controlled by Chinese billionaire Li Shufu, would pay 640 million yuan in cash and contribute its wholly owned battery-swapping unit Yiyi Internet Technology in exchange for a 30 per cent share in Nio Power, Nio said in a...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/china-evs/article/3369047/chinas-nio-and-geely-deepen-commitment-ev-battery-swapping-tech-stake-sale?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/china-evs/article/3369047/chinas-nio-and-geely-deepen-commitment-ev-battery-swapping-tech-stake-sale?utm_source=rss_feed</link>
+      <pubDate>Mon, 28 Sep 2026 08:00:11 +0000</pubDate>
+      <title>China’s Nio and Geely deepen commitment to EV battery swapping tech in stake sale</title>
+      <enclosure length="3286" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/992f4ba9-54f4-46ee-ac09-305e9782c376_6e99d024.jpg?itok=px1_XgLh&amp;v=1790582406"/>
+      <media:content height="2310" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/992f4ba9-54f4-46ee-ac09-305e9782c376_6e99d024.jpg?itok=px1_XgLh&amp;v=1790582406" width="3286"/>
+    </item>
+    <item>
+      <author>Zhang Shidong</author>
+      <dc:creator>Zhang Shidong</dc:creator>
+      <description>Mainland Chinese stocks fell to their lowest level in 13 months on Monday as the sell-off in technology shares intensified amid concerns that elevated global capital costs and surging oil prices would curb risk appetite.
+Markets opened the week on a sombre note, with the CSI 300 Index dropping 2.2 per cent to close at a level not seen since August 21 last year. The chip-heavy Star Market 50 index tumbled 4.1 per cent, capping its steepest single-day decline in five weeks and closing in on the...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/china-business/article/3369040/mainland-chinese-stocks-hit-13-month-low-tech-sell-hong-kong-market-holds?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/china-business/article/3369040/mainland-chinese-stocks-hit-13-month-low-tech-sell-hong-kong-market-holds?utm_source=rss_feed</link>
+      <pubDate>Mon, 28 Sep 2026 07:34:46 +0000</pubDate>
+      <title>Mainland Chinese stocks hit 13-month low on tech sell-off as Hong Kong market holds up</title>
+      <enclosure length="4095" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/3c5449be-5493-4cf4-abdf-4414f142627e_8a1e994c.jpg?itok=CIsRH9qm&amp;v=1790580637"/>
+      <media:content height="2618" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/3c5449be-5493-4cf4-abdf-4414f142627e_8a1e994c.jpg?itok=CIsRH9qm&amp;v=1790580637" width="4095"/>
+    </item>
+    <item>
+      <author>Zoe SL Chan</author>
+      <dc:creator>Zoe SL Chan</dc:creator>
+      <description>Zhuhai Amicro Technology, a Xiaomi-backed chipmaker, is preparing to begin premarketing for a Hong Kong initial public offering (IPO) of more than US$100 million as early as this week, according to people familiar with the matter.
+The company passed its listing hearing with bourse operator Hong Kong Exchanges and Clearing (HKEX) last week, clearing the final regulatory hurdle for a share sale in the city, the people said, requesting anonymity because the information is private.
+According to...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/china-business/article/3369017/xiaomi-backed-robotics-chip-designer-clears-hearing-eyes-us100m-hong-kong-ipo-sources?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/china-business/article/3369017/xiaomi-backed-robotics-chip-designer-clears-hearing-eyes-us100m-hong-kong-ipo-sources?utm_source=rss_feed</link>
+      <pubDate>Mon, 28 Sep 2026 05:14:07 +0000</pubDate>
+      <title>Xiaomi-backed robotics chip designer clears hearing, eyes US$100m Hong Kong IPO: sources</title>
+      <enclosure length="3000" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/70a3cc59-b561-4ab2-a5c5-a1d9ad5ca7dd_0c35d8d6.jpg?itok=D3M6G8Id&amp;v=1790572447"/>
+      <media:content height="2000" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/70a3cc59-b561-4ab2-a5c5-a1d9ad5ca7dd_0c35d8d6.jpg?itok=D3M6G8Id&amp;v=1790572447" width="3000"/>
+    </item>
+    <item>
+      <author>Advertising partner</author>
+      <dc:creator>Advertising partner</dc:creator>
+      <description>[The content of this article has been produced by our advertising partner.]
+Global markets have rarely lacked opportunity, but the conditions affecting them have become far more difficult to read. Geopolitical tensions and rapid technological change can reshape both investment and business outlooks. For high-net-worth (HNW) individuals, returns obviously remain important, but they are increasingly considered alongside institutional strength, regulatory stability and the ability to keep long-term...</description>
+      <guid isPermaLink="true">https://www.scmp.com/native/business/topics/strong-governance-wealth/article/3368657/asias-safe-harbour-wealth?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/native/business/topics/strong-governance-wealth/article/3368657/asias-safe-harbour-wealth?utm_source=rss_feed</link>
+      <pubDate>Mon, 28 Sep 2026 05:00:06 +0000</pubDate>
+      <title>Asia’s safe harbour for wealth</title>
+      <enclosure length="3744" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/e2f2c208-acea-4185-81c3-d64d15db71dd_c20803d6.jpg?itok=4H3ZSdsQ&amp;v=1790242477"/>
+      <media:content height="2496" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/e2f2c208-acea-4185-81c3-d64d15db71dd_c20803d6.jpg?itok=4H3ZSdsQ&amp;v=1790242477" width="3744"/>
+    </item>
+    <item>
+      <author>Zhang Shidong</author>
+      <dc:creator>Zhang Shidong</dc:creator>
+      <description>Several Chinese mutual funds investing in US stocks have warned investors about risks associated with hefty premiums to their net asset values, highlighting persistent demand for US equities even after Beijing expanded quotas for outbound investment.
+At least six fund houses, including China Asset Management, Hua An Fund Management and China Universal Asset Management, issued warnings last week after the market prices of some of their funds rose substantially above their net asset values,...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/china-business/article/3369001/china-fund-managers-warn-premium-risks-fresh-quotas-fail-ease-demand?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/china-business/article/3369001/china-fund-managers-warn-premium-risks-fresh-quotas-fail-ease-demand?utm_source=rss_feed</link>
+      <pubDate>Mon, 28 Sep 2026 03:48:05 +0000</pubDate>
+      <title>China’s fund managers warn of premium risks as fresh quotas fail to ease demand</title>
+      <enclosure length="4096" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/83a181ec-bb62-4063-b679-1c04d0caf815_3dfed265.jpg?itok=PzE2qVoO&amp;v=1790567238"/>
+      <media:content height="2731" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/28/83a181ec-bb62-4063-b679-1c04d0caf815_3dfed265.jpg?itok=PzE2qVoO&amp;v=1790567238" width="4096"/>
+    </item>
+    <item>
+      <author>Advertising partner</author>
+      <dc:creator>Advertising partner</dc:creator>
+      <description>[The content of this article has been produced by our advertising partner.]
+Global markets currently face high levels of uncertainty. Inflation remains elevated in developed economies, the trajectory of monetary policy is unclear, and complex geopolitical tensions add further complexity to the outlook. At times like this, it makes sense for fixed-income investors to broaden their portfolio exposure.
+Asian fixed income presents attractive opportunities to diversify across markets, supported by...</description>
+      <guid isPermaLink="true">https://www.scmp.com/presented/business/banking-finance/topics/strategising-investments-asia/article/3368500/strategic-allocation-asia-fixed-income?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/presented/business/banking-finance/topics/strategising-investments-asia/article/3368500/strategic-allocation-asia-fixed-income?utm_source=rss_feed</link>
+      <pubDate>Mon, 28 Sep 2026 02:00:18 +0000</pubDate>
+      <title>Strategic allocation to Asia fixed income</title>
+      <enclosure length="2500" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/708eb8cb-c74d-4539-a413-3a5adaa76198_fbaa087c.jpg?itok=mK3rQnLP&amp;v=1790224611"/>
+      <media:content height="1458" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/24/708eb8cb-c74d-4539-a413-3a5adaa76198_fbaa087c.jpg?itok=mK3rQnLP&amp;v=1790224611" width="2500"/>
+    </item>
+    <item>
+      <author>Cheryl Arcibal</author>
+      <dc:creator>Cheryl Arcibal</dc:creator>
+      <description>Italy is becoming a magnet for wealthy property investors thanks to its high quality of life and flat tax regime, and interest is also on the rise among mainland Chinese and Hong Kong buyers, according to property agents.
+Rome introduced a flat tax regime nine years ago to attract high-net-worth individuals, with foreign residents allowed to make a flat annual tax payment of €300,000 (US$342,000) on all their overseas income under the scheme’s latest rules.
+The tax incentive has become a draw...</description>
+      <guid isPermaLink="true">https://www.scmp.com/business/article/3368963/italy-attracts-wealthy-chinese-property-buyers-food-fashion-and-flat-tax?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/business/article/3368963/italy-attracts-wealthy-chinese-property-buyers-food-fashion-and-flat-tax?utm_source=rss_feed</link>
+      <pubDate>Mon, 28 Sep 2026 00:00:21 +0000</pubDate>
+      <title>Italy attracts wealthy Chinese property buyers with food, fashion – and flat tax</title>
+      <enclosure length="3872" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/27/11a37ca7-973a-4c00-b81f-00e6af22f3b6_132f65d7.jpg?itok=AptROUmP&amp;v=1790513021"/>
+      <media:content height="2592" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/27/11a37ca7-973a-4c00-b81f-00e6af22f3b6_132f65d7.jpg?itok=AptROUmP&amp;v=1790513021" width="3872"/>
+    </item>
+    <item>
+      <author>Jolene Otremba</author>
+      <dc:creator>Jolene Otremba</dc:creator>
+      <description>After two decades backing some of the world’s earliest artificial-intelligence companies, Liu Wei has moved from investor to builder.
+A longtime technology enthusiast, Wei spent 18 years as an early-stage investor, including as general partner of Legend Star Ventures and founding CEO of Baidu Ventures. He has invested in and incubated more than 400 early-stage technology companies worldwide, including more than 50 focused on AI for life sciences.
+Today, as co-founder and CEO of BioMap, he is...</description>
+      <guid isPermaLink="true">https://www.scmp.com/presented/business/topics/c-suite-content-hub/article/3368346/mapping-biologys-next-frontier?utm_source=rss_feed</guid>
+      <link>https://www.scmp.com/presented/business/topics/c-suite-content-hub/article/3368346/mapping-biologys-next-frontier?utm_source=rss_feed</link>
+      <pubDate>Sun, 27 Sep 2026 21:00:10 +0000</pubDate>
+      <title>Mapping Biology’s Next Frontier</title>
+      <enclosure length="2000" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/25/b01bf48c-04a8-4548-884d-e11b9c638c85_a44b00f8.jpg?itok=F5MzpbHN&amp;v=1790307430"/>
+      <media:content height="793" medium="image" type="image/jpeg" url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/25/b01bf48c-04a8-4548-884d-e11b9c638c85_a44b00f8.jpg?itok=F5MzpbHN&amp;v=1790307430" width="2000"/>
+    </item>
+  </channel>
+</rss>
