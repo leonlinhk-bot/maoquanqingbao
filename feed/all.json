@@ -1,9 +1,249 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-01T18:13:14Z",
-  "itemCount": 1111,
+  "generatedAt": "2026-10-02T16:40:06Z",
+  "itemCount": 1126,
   "items": [
+    {
+      "id": "ibm-hanwha-life-acuon-capital-20261002",
+      "title": "韩华生命董事会9月30日批准以4,400亿韩元收购 Acuon Capital 50.54%控股权（卖方为EQT Partners，Centroid Investment 作财务投资人）：Acuon Capital 2026上半年资产约4.6万亿韩元、全资持有 Acuon 储蓄银行（约5.1万亿韩元），拟与韩华储蓄银行合并成约6.5万亿韩元储蓄银行；韩国存款保险公司（KDIC）持有韩华生命10%股权且债券偿还基金2027年底到期，收购推高RWA并压缩K-ICS偿付能力比率 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ma",
+        "capital",
+        "solvency",
+        "market",
+        "korea"
+      ],
+      "publishedAt": "2026-10-02T23:34:00+08:00",
+      "score": 63,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-hanwha-life-acuon-capital-20261002",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/regulators-close-in-on-hanwha-lifes-acuon-deal-as-capital-questions-stack-up-592146.aspx"
+    },
+    {
+      "id": "ibm-korea-broadcast-misselling-fss-20261002",
+      "title": "韩国金融监督院（FSS）数据：电视购物／广播广告渠道销售的保单不当销售率为0.036%，是其他渠道0.012%的三倍；第13个月继续率79.3%亦低于其他渠道86.3%，70岁以上客户占该渠道保单13.4%（其他渠道7.4%）；FSS 10月1日召集寿险协会、产险协会、险企及13家电视购物GA商讨收紧广告审查与加大披露 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "compliance",
+        "distribution",
+        "channel",
+        "reg",
+        "consumer"
+      ],
+      "publishedAt": "2026-10-02T22:46:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-korea-broadcast-misselling-fss-20261002",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/south-korea-flags-misselling-gap-in-broadcast-insurance-sales-592125.aspx"
+    },
+    {
+      "id": "ibm-india-export-risk-relief-extension-20261002",
+      "title": "印度把政府支持的西亚洲出口保险计划 RELIEF 延长至2027年3月31日：第二部分为符合条件的新出运提供最高95%信用风险保障（高于ECGC标准80%–90%），超出部分保费由政府承担；第三部分面向危机期间无ECGC保单的MSME出口商，报销最多50%额外运费与保险费、每户上限50万卢比；霍尔木兹海峡战争险费率达船体价值的7.5%–10% [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "marine",
+        "geopolitics",
+        "market",
+        "trade",
+        "capital"
+      ],
+      "publishedAt": "2026-10-02T21:59:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-india-export-risk-relief-extension-20261002",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/india-extends-export-risk-relief-to-march-2027-as-gulf-warrisk-costs-stay-high-592114.aspx"
+    },
+    {
+      "id": "ibm-zurich-beazley-completion-cox-exit-20261002",
+      "title": "苏黎世保险完成对 Beazley 的81亿英镑（约109亿美元）收购：合并后按承保保费计成为全球最大专业险集团，Beazley 同日自伦交所摘牌、进入 Lloyd's 市场；行政总裁 Adrian Cox 离任，由苏黎世欧洲、中东区CEO Kristof Terryn 出任 Beazley 及苏黎世全球专业险CEO（待监管批准） [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ma",
+        "specialty",
+        "reinsurance",
+        "market",
+        "people"
+      ],
+      "publishedAt": "2026-10-02T18:11:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-zurich-beazley-completion-cox-exit-20261002",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/mergers-acquisitions/zurich-completes-beazley-deal-as-adrian-cox-steps-down-as-ceo-592095.aspx"
+    },
+    {
+      "id": "ian-aon-thailand-floods-1bn-loss-20261002",
+      "title": "Aon 自然巨灾报告：泰国水灾经济损失或高达10亿美元，投保损失初步估算仍未公布、但预计显著低于经济总损失 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "cat",
+        "flood",
+        "gap",
+        "market",
+        "claims"
+      ],
+      "publishedAt": "2026-10-02T18:11:00+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-aon-thailand-floods-1bn-loss-20261002",
+      "originalUrl": "https://insuranceasianews.com/economic-losses-from-thailand-floods-could-reach-up-to-us1bn-aon/"
+    },
+    {
+      "id": "artemis-hannover-re-bermuda-fund-spi-20261002",
+      "title": "Artemis：Hannover Re 旗下 ILS 平台 Hannover Re Capital Partners（HCP）在百慕达注册 Hannover Re Capital Partners Fund Ltd.（混合投资基金结构）与 Hannover Re Capital Partners SPI Ltd.（特殊目的保险人，作风险转换器），以扩大可管理并供客户投资的 ILS 机会范围；市场消息指目前部署的投资者资本仍在「数亿美元以内」 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "catbond",
+        "capital",
+        "bermuda",
+        "risk-hub"
+      ],
+      "publishedAt": "2026-10-02T16:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-hannover-re-bermuda-fund-spi-20261002",
+      "originalUrl": "https://www.artemis.bm/news/hannover-re-capital-partners-establishes-new-bermuda-fund-structure-and-spi/"
+    },
+    {
+      "id": "ian-axa-xl-gotting-apac-europe-distribution-20261002",
+      "title": "Axa XL 升任 Thomas Gotting 为亚太及欧洲客户与分销总监（Chief Client, Distribution Officer）：常驻科隆，统管欧洲、亚洲与澳洲的客户及分销策略 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "people",
+        "distribution",
+        "leadership",
+        "apac",
+        "specialty"
+      ],
+      "publishedAt": "2026-10-02T15:55:00+08:00",
+      "score": 63,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-axa-xl-gotting-apac-europe-distribution-20261002",
+      "originalUrl": "https://insuranceasianews.com/axa-xl-elevates-thomas-gotting-to-chief-client-distribution-officer-for-apac-and-europe/"
+    },
+    {
+      "id": "ian-gallagher-albany-nz-acquisition-20261002",
+      "title": "Gallagher 达成协议收购新西兰零售保险经纪 Albany Insurance Services：标的服务奥克兰与坎特伯雷地区商业险与个人险客户 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "broker",
+        "ma",
+        "distribution",
+        "market",
+        "apac"
+      ],
+      "publishedAt": "2026-10-02T15:50:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-gallagher-albany-nz-acquisition-20261002",
+      "originalUrl": "https://insuranceasianews.com/gallagher-strikes-deal-to-acquire-kiwi-broker-albany-insurance-services/"
+    },
+    {
+      "id": "scmp-savills-nextgen-wealth-hubs-hk-7th-20261002",
+      "title": "第一太平戴维斯（Savills）「下一代财富枢纽指数」：香港在全球吸引与留住下一代高净值人士的排名为第七，落后第六位的新加坡；报告指香港具备低税、金融成熟、安全与连接性等与新加坡类似的优势，支持其作为亚洲财富保存与家族办公室枢纽的地位 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "hnw",
+        "family-office",
+        "market",
+        "competition",
+        "talent"
+      ],
+      "publishedAt": "2026-10-02T15:01:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-savills-nextgen-wealth-hubs-hk-7th-20261002",
+      "originalUrl": "https://www.scmp.com/business/article/3369536/hong-kong-ranks-7th-globally-drawing-next-wealthy-class-trailing-singapore-study"
+    },
+    {
+      "id": "artemis-willis-na-property-rates-decade-drop-20261002",
+      "title": "Artemis 引威利斯《Insurance Marketplace Realities》：北美商业财产险费率录得十年最大跌幅，大型复杂财产项目2026年二季度平均降14.5%（去年同期8.4%），分层共保安排降23.41%（去年同期14.57%）；威利斯预计未来单家承保方案再降5%–15%、分层共保降15%–25%，并指多年硬市场「完全逆转」，除非出现1500亿美元以上巨灾事件 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "pricing",
+        "property",
+        "reinsurance",
+        "market",
+        "cat"
+      ],
+      "publishedAt": "2026-10-02T15:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-willis-na-property-rates-decade-drop-20261002",
+      "originalUrl": "https://www.artemis.bm/news/na-commercial-property-insurance-rates-fall-the-most-in-a-decade-hard-market-reverses-willis/"
+    },
+    {
+      "id": "ian-arpa-cyclone-pool-premium-rise-20261002",
+      "title": "澳洲再保险池公司（ARPC）就2026年定价检讨草案建议上调气旋池保费2.9%：长期保费充足度将由95.1%提升至97.9% [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "cat",
+        "pricing",
+        "reinsurance",
+        "pool",
+        "australia"
+      ],
+      "publishedAt": "2026-10-02T08:30:00+08:00",
+      "score": 63,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-arpa-cyclone-pool-premium-rise-20261002",
+      "originalUrl": "https://insuranceasianews.com/australian-reinsurance-pool-corporation-proposes-raising-cyclone-pool-premiums-by-2-9/"
+    },
+    {
+      "id": "ian-markel-marine-war-risk-central-solution-20261002",
+      "title": "Markel 亚洲理赔主管 Bo Yu：自2月以来霍尔木兹海峡已有98艘船舶遭袭，海上战争险的损失累积暴露理赔缺口，业界需要中央化解决方案以应对航次逐一定价的碎片化安排 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "marine",
+        "geopolitics",
+        "claims",
+        "accumulation",
+        "specialty"
+      ],
+      "publishedAt": "2026-10-02T07:30:00+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-markel-marine-war-risk-central-solution-20261002",
+      "originalUrl": "https://insuranceasianews.com/marine-war-risk-challenges-require-central-solution-as-mounting-losses-expose-claims-gaps-markel/"
+    },
+    {
+      "id": "iaasia-allianz-malaysia-labuan-hnw-20261002",
+      "title": "安联马来西亚于10月1日在纳闽（Labuan）完成全资子公司 Allianz Labuan 注册：面向马来西亚高净值客户提供外币计价寿险方案；安联亚太2026上半年经营利润升11.4%至5.291亿美元 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "hnw",
+        "offshore",
+        "market",
+        "distribution",
+        "labuan"
+      ],
+      "publishedAt": "2026-10-02T06:15:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-allianz-malaysia-labuan-hnw-20261002",
+      "originalUrl": "https://insuranceasia.com/insurance/news/allianz-malaysia-launches-labuan-unit-wealthy-clients"
+    },
+    {
+      "id": "iaasia-cpic-hk-capital-sp-review-20261002",
+      "title": "标普（S&P）9月30日评级评论：预期中国太平洋保险（香港）未来两年资本与盈利稳健，母公司7月注资15亿港元有助其过渡至风险为本资本制度；其高风险资产敞口已由2023年的100%降至2025年底仅占调整后资本39%，固定收益配置持续转向投资级；但资本基础较小，对单一巨灾事件较敏感 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "capital",
+        "solvency",
+        "rbc",
+        "rating",
+        "market"
+      ],
+      "publishedAt": "2026-10-02T05:30:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-cpic-hk-capital-sp-review-20261002",
+      "originalUrl": "https://insuranceasia.com/news/cpic-hong-kong-capital-strengthens-high-risk-assets-fall-39"
+    },
+    {
+      "id": "iaasia-willis-fac-reinsurance-report-2026-20261002",
+      "title": "威利斯（WTW）《2026临时再保险报告》：380名全球保险高管中52%以资本管理为主要购买动因（2024年为44%），60%预计未来两年增加临分使用（仅13%计划减少）；56%视全球扩张为最大机会（此前39%），57%担忧地缘政治、54%担忧网络风险（此前24%）、40%担忧气候风险 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "capital",
+        "cyber",
+        "market",
+        "growth"
+      ],
+      "publishedAt": "2026-10-02T05:00:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-willis-fac-reinsurance-report-2026-20261002",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/insurers-boost-facultative-reinsurance-use-growth"
+    },
     {
       "id": "ian-allianz-sg-ceo-great-eastern-raissi-20261001",
       "title": "安联新加坡COO Bi Ying Ong 升任CEO；Hicham Raissi 同日转任大东方一般险及团体险董事总经理 [EN原文]",
