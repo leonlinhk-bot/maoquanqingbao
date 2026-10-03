@@ -3,12 +3,16 @@
 // 取代过去把 ~4MB 数据内嵌进 app.js 的做法（首次加载 7s → ~1s）。
 window.HKII_DATA = null;
 window.HKII_dataReady = (async function () {
-  // 版本号由 index.html 注入（rebuild 时更新）：同版本可缓存，版本变才重新下载
-  const VER = window.HKII_VER || String(Date.now());
   try {
-    const r = await fetch('data/core.json?v=' + VER);
-    if (!r.ok) throw new Error('HTTP ' + r.status);
-    window.HKII_DATA = await r.json();
+    if (window.HKII_corePromise) {
+      // index.html 已在 <head> 后提前并行发起请求（与 app.js 下载并行，首屏更快）
+      window.HKII_DATA = await window.HKII_corePromise;
+    } else {
+      const VER = window.HKII_VER || String(Date.now());
+      const r = await fetch('data/core.json?v=' + VER);
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      window.HKII_DATA = await r.json();
+    }
   } catch (e) {
     window.HKII_DATA = { items: [], meta: {}, stats: {}, boards: [], deepCards: [], digests: {},
       calendar: [], feedFacets: {}, __loadError: String((e && e.message) || e) };
