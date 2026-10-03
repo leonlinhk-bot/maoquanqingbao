@@ -7,15 +7,17 @@ cd "$(dirname "$0")/.."
 # 1. 重建 feed + 同步 app.js DATA
 python3 scripts/rebuild-feeds.py
 
-# 2. 验证 app.js 与 live-items.json 条数一致（漏 rebuild 会在此报错）
+# 2. 验证外链数据与 live-items.json 条数一致（漏 rebuild 会在此报错）
 python3 - <<'PY'
 import json
 live = json.load(open('data/live-items.json'))
-txt = open('app.js').read()
-app = json.loads(txt.split('window.HKII_DATA = ')[1].split(';')[0])
-n_live = len(live['items']); n_app = len(app['items'])
-assert n_live == n_app, f"条数不一致: live={n_live} app={n_app}"
-print(f"验证通过: live={n_live} app={n_app}")
+items = json.load(open('data/items.json'))
+core = json.load(open('data/core.json'))
+n_live = len(live['items']); n_items = len(items['items']); n_core = len(core['items'])
+assert n_live == n_items, f"条数不一致: live={n_live} items.json={n_items}"
+assert 0 < n_core <= n_live, f"core.json 条数异常: {n_core}"
+assert n_items == items.get('itemCount'), "items.json itemCount 不匹配"
+print(f"验证通过: live={n_live} items.json={n_items} core.json={n_core}(首屏)")
 PY
 
 # 3. 提交 + 推送

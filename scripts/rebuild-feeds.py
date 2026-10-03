@@ -184,33 +184,37 @@ except Exception as e:
 
 LIVE.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding='utf-8')
 
+# ── 数据外链：生成 data/core.json（首屏子集）+ data/items.json（全量）──
+# 取代过去把全量数据内嵌进 app.js 的做法（app.js 只剩逻辑 ~85KB，
+# 首屏只等 core.json，全量 items 后台静默加载后刷新）。
+from datetime import datetime as _dt2, timezone as _tz2, timedelta as _td2
+_items_all = data.get('items', [])
+_today2 = _dt2.now(_tz2.utc)
+
+# 首屏子集：近 14 天（按 score 降序）+ score≥80 高分（今日脉搏用），上限 140 条
+_cut14 = (_today2 - _td2(days=14)).strftime('%Y-%m-%d')
+_first = {}
+for _i in sorted(_items_all, key=lambda x: -(x.get('score') or 0)):
+    _p = (_i.get('publishedAt') or '')[:10]
+    if _p >= _cut14 or (_i.get('score') or 0) >= 80:
+        _first[_i['id']] = _i
+    if len(_first) >= 140:
+        break
+_core = {k: v for k, v in data.items() if k != 'items'}
+_core['items'] = list(_first.values())
+_core['__partial'] = True                      # 标记：这是首屏子集
+_core['__fullCount'] = len(_items_all)
+
+DATA_DIR = ROOT / 'data'
+DATA_DIR.joinpath('core.json').write_text(
+    json.dumps(_core, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
+DATA_DIR.joinpath('items.json').write_text(
+    json.dumps({'generatedAt': now, 'itemCount': len(_items_all), 'items': _items_all},
+               ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
+print(f"[data] core.json: {len(_core['items'])}/{len(_items_all)} 条 · "
+      f"items.json: {len(_items_all)} 条")
+
 app_path = ROOT / 'app.js'
-app = app_path.read_text(encoding='utf-8')
-start = app.find('window.HKII_DATA = ')
-if start >= 0:
-    obj_start = start + len('window.HKII_DATA = ')
-    while app[obj_start] in ' \n\r\t': obj_start += 1
-    depth = 0; in_str = False; esc2 = False; quote = ''
-    j = obj_start
-    while j < len(app):
-        ch = app[j]
-        if in_str:
-            if esc2: esc2 = False
-            elif ch == '\\': esc2 = True
-            elif ch == quote: in_str = False
-            j += 1; continue
-        if ch in '"\'':
-            in_str = True; quote = ch; j += 1; continue
-        if ch == '{': depth += 1
-        elif ch == '}':
-            depth -= 1
-            if depth == 0: j += 1; break
-        j += 1
-    end_j = j
-    while end_j < len(app) and app[end_j] in '; \n\r\t': end_j += 1
-    new_block = 'window.HKII_DATA = ' + json.dumps(data, ensure_ascii=False, indent=2) + ';\n'
-    app = app[:start] + new_block + app[end_j:]
-    app_path.write_text(app, encoding='utf-8')
 
 # 更新 index.html 的 app.js 版本号（cache-busting，避免浏览器缓存旧版）
 # 版本号 = 条数 + 构建时间戳：改 app.js 逻辑但条数不变时，时间戳变化照样强制浏览器拉新版
@@ -220,6 +224,8 @@ if _idx_path.exists():
     _idx = _idx_path.read_text(encoding='utf-8')
     _ver = f"{n}.{int(_time.time())}"
     _idx_new = _re.sub(r'app\.js(\?v=[^"]*)?', f'app.js?v={_ver}', _idx)
+    # 同步数据版本号（core.json / items.json 用它做缓存失效）
+    _idx_new = _re.sub(r'window\.HKII_VER\s*=\s*"[^"]*"', f'window.HKII_VER = "{_ver}"', _idx_new)
     if _idx_new != _idx:
         _idx_path.write_text(_idx_new, encoding='utf-8')
 
@@ -238,33 +244,11 @@ try:
     # 3. feed/featured.json
     featf = json.loads(FEED.joinpath('featured.json').read_text(encoding='utf-8'))
     checks.append(f"feed/featured: {featf.get('itemCount','?')}") 
-    # 4. app.js embedded DATA (brace-match extract)
-    app_data = (ROOT/"app.js").read_text(encoding='utf-8')
-    dstart = app_data.find('window.HKII_DATA = ')
-    if dstart >= 0:
-        dop = dstart + len('window.HKII_DATA = ')
-        while app_data[dop] in ' \n\r\t': dop += 1
-        ddepth = 0; din = False; desc = False; dq = ''
-        dj = dop
-        while dj < len(app_data):
-            dc = app_data[dj]
-            if din:
-                if desc: desc = False
-                elif dc == '\\': desc = True
-                elif dc == dq: din = False
-                dj += 1; continue
-            if dc in '"\'':
-                din = True; dq = dc; dj += 1; continue
-            if dc == '{': ddepth += 1
-            elif dc == '}':
-                ddepth -= 1
-                if ddepth == 0: dj += 1; break
-            dj += 1
-        if ddepth == 0 and dj > dop:
-            try:
-                embedded = json.loads(app_data[dop:dj])
-                checks.append(f"app.js DATA: {len(embedded.get('items',[]))}")
-            except: checks.append("app.js DATA: parse error")
+    # 4. 外链数据：data/items.json 全量 + data/core.json 首屏子集
+    _items_json = json.loads((ROOT/'data'/'items.json').read_text(encoding='utf-8'))
+    checks.append(f"data/items: {_items_json.get('itemCount','?')}")
+    _core_json = json.loads((ROOT/'data'/'core.json').read_text(encoding='utf-8'))
+    checks.append(f"data/core: {len(_core_json.get('items',[]))}条(首屏)")
     # 5. digests
     dig = live.get('digests',{})
     for p in ['daily','weekly','monthly','yearly']:
