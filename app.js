@@ -95043,10 +95043,19 @@ window.HKII_DATA = {
 
   const byId = id => DATA.items.find(x => x.id === id);
   const roleScore = it => ((it.rolesImpact&&it.rolesImpact[state.role])||0)*6 + (it.score||70) + (it.featured?4:0);
+  // 容错取主题标签：tags.sc/tc 必须是数组；历史上曾有条目写成字符串（"A|B|C"）
+  // 导致 .slice().map is not a function → 整个列表渲染崩溃、页面空白
+  function tagList(it, lang){
+    const t = it && it.tags;
+    if (!t) return [];
+    let v = (lang && t[lang]) || t.sc || t.tc || [];
+    if (typeof v === "string") v = v.split("|").map(s => s.trim()).filter(Boolean);
+    return Array.isArray(v) ? v : [];
+  }
   function matches(it) {
     if (!state.q.trim()) return true;
     const q = state.q.trim().toLowerCase();
-    const tags = (it.tags && (it.tags[state.lang]||it.tags.sc)) || [];
+    const tags = tagList(it, state.lang);
     return [tx(it.title), tx(it.summary), tx(it.why), tags.join(" ")].join(" ").toLowerCase().includes(q);
   }
   // 语义搜索（本地轻量实现：字符 bigram + Jaccard 相似度，无需外部 API）
@@ -95063,7 +95072,7 @@ window.HKII_DATA = {
     return inter / (a.size + b.size - inter);
   }
   function itemText(it){
-    return [tx(it.title), tx(it.summary), tx(it.why), ((it.tags&&(it.tags.sc||[]))||[]).join(" ")].join(" ");
+    return [tx(it.title), tx(it.summary), tx(it.why), tagList(it).join(" ")].join(" ");
   }
   // Fav tags
   state.favTag = null;
@@ -95072,7 +95081,7 @@ window.HKII_DATA = {
     const items = DATA.items.filter(i => state.fav.has(i.id));
     const tags = new Set();
     for (const it of items) {
-      for (const t of (it.tags||{}).sc||[]) tags.add(t);
+      for (const t of tagList(it)) tags.add(t);
     }
     return [...tags].sort();
   }
@@ -95161,7 +95170,7 @@ function fmtDay(iso){
   function card(it){
     const t=T();
     const imp=(it.rolesImpact&&it.rolesImpact[state.role])||0;
-    const tags=((it.tags&&(it.tags[state.lang]||it.tags.sc))||[]).slice(0,3).map(x=>`<span class="tag">${esc(x)}</span>`).join("");
+    const tags=tagList(it, state.lang).slice(0,3).map(x=>`<span class="tag">${esc(x)}</span>`).join("");
     return `<article class="card ${state.selectedId===it.id?'selected':''}" data-id="${it.id}">
       <div class="card-time" title="${it.publishedAt||""}">${fmtCardTime(it)}</div>
       <div class="card-body">

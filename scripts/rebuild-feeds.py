@@ -84,6 +84,22 @@ for _i in items:
         pass
 if _future_ids:
     print(f'[guard] future-dated items: {_future_ids}')
+# tags 格式守卫：tags.sc/tc 必须是数组。曾出现 cron 写入字符串 "A|B|C" →
+# 前端 (tags.sc).slice(0,3).map(...) 抛 TypeError → 整个列表渲染崩溃、页面空白
+_tags_fixed = []
+for _i in items:
+    _t = _i.get('tags')
+    if isinstance(_t, dict):
+        for _k in ('sc', 'tc'):
+            _v = _t.get(_k)
+            if isinstance(_v, str):
+                _t[_k] = [x.strip() for x in _v.split('|') if x.strip()]
+                _tags_fixed.append(f"{_i.get('id')}.{_k}")
+    elif isinstance(_t, list):
+        _i['tags'] = {'sc': _t, 'tc': _t}
+        _tags_fixed.append(f"{_i.get('id')}(list->dict)")
+if _tags_fixed:
+    print(f"[guard] tags 格式自动修复 {len(_tags_fixed)} 处: {_tags_fixed[:5]}")
 # Auto-refresh stats.intelligence from real data (keep other stats blocks untouched)
 try:
     inte = data.setdefault('stats', {}).setdefault('intelligence', {})
