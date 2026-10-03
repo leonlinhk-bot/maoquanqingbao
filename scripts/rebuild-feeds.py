@@ -223,7 +223,9 @@ _idx_path = ROOT / 'index.html'
 if _idx_path.exists():
     _idx = _idx_path.read_text(encoding='utf-8')
     _ver = f"{n}.{int(_time.time())}"
-    _idx_new = _re.sub(r'app\.js(\?v=[^"]*)?', f'app.js?v={_ver}', _idx)
+    # ⚠️ 只替换 <script src="app.js..."> 标签内的版本号——早期用的宽松正则
+    # `app\.js(\?v=[^"]*)?` 会连注释/文案里的 "app.js" 一起替换，破坏 HTML（曾导致线上白屏）
+    _idx_new = _re.sub(r'(<script src=")app\.js(?:\?v=[^"]*)?(")', rf'\1app.js?v={_ver}\2', _idx)
     # 同步数据版本号（core.json / items.json 用它做缓存失效）
     _idx_new = _re.sub(r'window\.HKII_VER\s*=\s*"[^"]*"', f'window.HKII_VER = "{_ver}"', _idx_new)
     if _idx_new != _idx:
