@@ -20,6 +20,29 @@ assert n_items == items.get('itemCount'), "items.json itemCount 不匹配"
 print(f"验证通过: live={n_live} items.json={n_items} core.json={n_core}(首屏)")
 PY
 
+# 2.5 发布前健康检查：HTML 结构 + JS 语法（拦「整页白屏」类故障）
+# 教训：① tags 字符串致渲染崩溃 ② 正则全局替换把 index.html 改坏——两者都表现为页面空白
+python3 - <<'PY'
+import re, json, sys
+idx = open('index.html', encoding='utf-8').read()
+opens = len(re.findall(r'<script\b', idx))
+closes = len(re.findall(r'</script>', idx))
+assert opens == closes, f"script 标签不配对: {opens} 开 / {closes} 闭"
+assert re.search(r'<script src="app\.js\?v=[^"]+"></script>', idx), "app.js 脚本标签异常"
+assert 'window.HKII_corePromise' in idx, "首屏数据加载代码缺失"
+assert 'window.HKII_VER' in idx, "数据版本号缺失"
+core = json.load(open('data/core.json', encoding='utf-8'))
+assert isinstance(core.get('items'), list) and core['items'], "core.json items 为空"
+for it in core['items'][:200]:
+    t = it.get('tags')
+    if isinstance(t, dict):
+        for k in ('sc', 'tc'):
+            if k in t and not isinstance(t[k], list):
+                raise AssertionError(f"tags.{k} 非数组: {it.get('id')}")
+print(f"健康检查 OK (script {opens} 对 · core {len(core['items'])} 条 · tags 格式正常)")
+PY
+node --check app.js && echo "app.js 语法 OK"
+
 # 3. 提交 + 推送
 git add -A
 if git diff --cached --quiet; then
