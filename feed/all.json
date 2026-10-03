@@ -1,9 +1,90 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-02T16:40:06Z",
-  "itemCount": 1126,
+  "generatedAt": "2026-10-03T14:12:38Z",
+  "itemCount": 1131,
   "items": [
+    {
+      "id": "ian-fullcapacity-weekly-apac-20261003",
+      "title": "亚太原保险周报（Full Capacity 10月3日）：新加坡 SG Re 获金管局原则批准设立再保险经纪；Tokio Marine 就 Greensill 案与瑞信实体和解；韩国 Lotte 损害保险10月中启动公开出售；伊藤忠增持美国保险科技 Moter [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "manda",
+        "distribution",
+        "reg",
+        "capital",
+        "apac",
+        "people"
+      ],
+      "publishedAt": "2026-10-03T08:00:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-fullcapacity-weekly-apac-20261003",
+      "originalUrl": "https://insuranceasianews.com/irdais-reform-push-needs-a-finer-touch/"
+    },
+    {
+      "id": "scmp-pingan-bank-ai-management-rules-20261003",
+      "title": "南华早报：平安银行成首家正式制定人工智能管理制度的中国上市银行，分析师预期更多内地机构跟进 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "governance",
+        "reg",
+        "china",
+        "tech"
+      ],
+      "publishedAt": "2026-10-03T11:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-pingan-bank-ai-management-rules-20261003",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3369577/more-chinese-banks-likely-adopt-ai-rules-after-ping-move-analysts"
+    },
+    {
+      "id": "ibm-hanwha-acuon-kdic-capital-scrutiny-20261002",
+      "title": "监管与资本双重审视下的韩华生命：4400亿韩元收购 Acuon Capital 遇 KDIC 减持时间表；同期承诺2500亿韩元增资证券子公司并参与 KDB 人寿竞标 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "manda",
+        "capital",
+        "korea",
+        "reg",
+        "group"
+      ],
+      "publishedAt": "2026-10-02T23:34:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-hanwha-acuon-kdic-capital-scrutiny-20261002",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/regulators-close-in-on-hanwha-lifes-acuon-deal-as-capital-questions-stack-up-592146.aspx"
+    },
+    {
+      "id": "artemis-casualty-ils-exit-mechanisms-srs-20261002",
+      "title": "Artemis：Strategic Risk Solutions 称「可靠的退出机制」是伤亡类 ILS 放量的关键突破，须在设计之初嵌入资本终局性 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "casualty",
+        "capital",
+        "reinsurance",
+        "bermuda"
+      ],
+      "publishedAt": "2026-10-02T21:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-casualty-ils-exit-mechanisms-srs-20261002",
+      "originalUrl": "https://www.artemis.bm/news/dependable-exit-mechanisms-the-key-breakthrough-in-casualty-ils-strategic-risk-solutions/"
+    },
+    {
+      "id": "artemis-plenum-insurance-subordinated-debt-20261002",
+      "title": "Artemis：Plenum 称「债券重回债券属性」，投资者应关注保险公司次级债，较政府债多约140个基点行业溢价 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "invest",
+        "capital",
+        "rates",
+        "insurance-debt",
+        "europe"
+      ],
+      "publishedAt": "2026-10-02T18:30:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-plenum-insurance-subordinated-debt-20261002",
+      "originalUrl": "https://www.artemis.bm/news/as-bonds-become-bonds-again-investors-should-look-to-insurance-debt-plenum/"
+    },
     {
       "id": "ibm-hanwha-life-acuon-capital-20261002",
       "title": "韩华生命董事会9月30日批准以4,400亿韩元收购 Acuon Capital 50.54%控股权（卖方为EQT Partners，Centroid Investment 作财务投资人）：Acuon Capital 2026上半年资产约4.6万亿韩元、全资持有 Acuon 储蓄银行（约5.1万亿韩元），拟与韩华储蓄银行合并成约6.5万亿韩元储蓄银行；韩国存款保险公司（KDIC）持有韩华生命10%股权且债券偿还基金2027年底到期，收购推高RWA并压缩K-ICS偿付能力比率 [EN原文]",
