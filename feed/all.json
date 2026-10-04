@@ -1,9 +1,105 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-04T13:11:51Z",
-  "itemCount": 1132,
+  "generatedAt": "2026-10-04T18:39:09Z",
+  "itemCount": 1138,
   "items": [
+    {
+      "id": "ia-flmi-exam-policy-validity-20261003",
+      "title": "保监局就FLMI考试作弊案最新表态：涉案中介人处理的保单效力与持有人权益不受影响，将按个案检视牌照资格",
+      "sourceTier": "media",
+      "themes": [
+        "enforcement",
+        "licensing",
+        "conduct",
+        "client-protection",
+        "hk"
+      ],
+      "publishedAt": "2026-10-03T16:18:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-flmi-exam-policy-validity-20261003",
+      "originalUrl": "https://hk.epochtimes.com/news/2026-10-03/43787560"
+    },
+    {
+      "id": "ian-john-neal-lusyi-chairman-20261005",
+      "title": "前劳合社（Lloyd's）行政总裁 John Neal 加入软件开发商 LUSYi 出任非执行主席：离开劳合社后首项新任命 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "people",
+        "insurtech",
+        "tech",
+        "leadership",
+        "uk"
+      ],
+      "publishedAt": "2026-10-05",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-john-neal-lusyi-chairman-20261005",
+      "originalUrl": "https://insuranceasianews.com/ex-lloyds-chief-john-neal-joins-software-developer-lusyi/"
+    },
+    {
+      "id": "bs-ibai-irdai-distribution-letter-20261004",
+      "title": "印度经纪协会 IBAI 致函总理与财长：IRDAI 拟设30多个佣金子上限、整体费用上限削三分之一，或危及100万个从业岗位 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "distribution",
+        "commission",
+        "reg",
+        "conduct",
+        "india"
+      ],
+      "publishedAt": "2026-10-05T01:11:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=bs-ibai-irdai-distribution-letter-20261004",
+      "originalUrl": "https://www.business-standard.com/finance/insurance/ibai-warns-irdai-distribution-overhaul-may-put-1-mn-livelihoods-at-risk-126100400432_1.html"
+    },
+    {
+      "id": "ibm-allianz-partners-direct-ceos-20261002",
+      "title": "安联调整两家数字化业务CEO：Philipp Kroetz 转任安联世博（Allianz Partners）CEO，Laurent Floquet 接掌 Allianz Direct，11月1日生效 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "people",
+        "digital",
+        "distribution",
+        "ai",
+        "group"
+      ],
+      "publishedAt": "2026-10-02T15:54:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-allianz-partners-direct-ceos-20261002",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/allianz-names-new-ceos-at-allianz-partners-and-allianz-direct-592079.aspx"
+    },
+    {
+      "id": "manulife-chatgpt-coverme-travel-plugin-20260928",
+      "title": "宏利（Manulife）在 ChatGPT 上线 CoverMe 旅游保险插件：加拿大首例，也是集团全球首个 ChatGPT 插件 [EN原文]",
+      "sourceTier": "insurer",
+      "themes": [
+        "ai",
+        "distribution",
+        "digital",
+        "travel",
+        "canada"
+      ],
+      "publishedAt": "2026-09-28T18:00:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-chatgpt-coverme-travel-plugin-20260928",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/markets-news/Newswire.ca/4828321/manulife-becomes-the-first-in-canada-to-offer-travel-insurance-quotes-in-chatgpt/"
+    },
+    {
+      "id": "pru-hk-leadership-forum-maye-musk-20261004",
+      "title": "保诚香港举办 Prudential Leadership Forum：梅伊·马斯克与保诚香港CEO林智刚、集团大中华区区域CEO Angel Ng 同场谈领导力、韧性与传承 [EN原文]",
+      "sourceTier": "insurer",
+      "themes": [
+        "hnw",
+        "legacy",
+        "brand",
+        "agency",
+        "hk"
+      ],
+      "publishedAt": "2026-10-04",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=pru-hk-leadership-forum-maye-musk-20261004",
+      "originalUrl": "https://www.media-outreach.com/news/hong-kong/2026/10/04/491738/dr-maye-musk-author-supermodel-and-dietitian-speaks-at-the-prudential-leadership-forum/"
+    },
     {
       "id": "ian-prudential-life-japan-fsa-suspension-20261004",
       "title": "日本金融厅拟对保德信生命保险发出部分业务停止令：107名员工涉不当收取客户资金、历时34年、涉资约2,340万美元，停售期料逾三个月 [EN原文]",
