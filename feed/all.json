@@ -1,9 +1,25 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-03T16:40:24Z",
-  "itemCount": 1131,
+  "generatedAt": "2026-10-04T10:13:44Z",
+  "itemCount": 1132,
   "items": [
+    {
+      "id": "ian-prudential-life-japan-fsa-suspension-20261004",
+      "title": "日本金融厅拟对保德信生命保险发出部分业务停止令：107名员工涉不当收取客户资金、历时34年、涉资约2,340万美元，停售期料逾三个月 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reg",
+        "life",
+        "japan",
+        "conduct",
+        "enforcement"
+      ],
+      "publishedAt": "2026-10-04T14:25:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-prudential-life-japan-fsa-suspension-20261004",
+      "originalUrl": "https://insuranceasianews.com/japan-watchdog-moves-to-suspend-prudential-life-insurance-over-fraud-scandal/"
+    },
     {
       "id": "ian-fullcapacity-weekly-apac-20261003",
       "title": "亚太原保险周报（Full Capacity 10月3日）：新加坡 SG Re 获金管局原则批准设立再保险经纪；Tokio Marine 就 Greensill 案与瑞信实体和解；韩国 Lotte 损害保险10月中启动公开出售；伊藤忠增持美国保险科技 Moter [EN原文]",
