@@ -338,8 +338,9 @@ def main():
     a = ap.parse_args()
     cfg = json.load(open(a.config, encoding='utf-8'))
     os.makedirs(a.out_dir, exist_ok=True)
+    tag = cfg.get('out_tag', '介绍')
     for theme, label in (('dark', '深色'), ('light', '浅色')):
-        build(cfg, theme, os.path.join(a.out_dir, f"猫圈儿情报站介绍-{label}.png"))
+        build(cfg, theme, os.path.join(a.out_dir, f"猫圈儿情报站-{tag}-{label}.png"))
 
 
 if __name__ == '__main__':
