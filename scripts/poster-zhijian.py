@@ -87,6 +87,29 @@ THEMES = {
 }
 
 _TOKEN_RE = _re.compile(r'[A-Za-z0-9+\-][A-Za-z0-9+\-.,:%/]*|\s+|[^\s]')
+_CN_CHAR = _re.compile(r'[\u4e00-\u9fff]$')
+
+
+def _merge_units(tokens):
+    """数字与其后的中文单位（最多 2 字，可含空格）binding 成一个 token，
+    避免「30 学时」「49 亿元」这类被换行拆开。"""
+    out, i, n = [], 0, len(tokens)
+    while i < n:
+        tk = tokens[i]
+        if _re.match(r'^[A-Za-z0-9+\-]', tk) and _re.search(r'[0-9]', tk):
+            j, buf, cnt = i + 1, tk, 0
+            while j < n and cnt < 2:
+                nxt = tokens[j]
+                if nxt.strip() == '':
+                    if j + 1 < n and _CN_CHAR.match(tokens[j + 1]):
+                        buf += nxt; j += 1; continue
+                    break
+                if _CN_CHAR.match(nxt):
+                    buf += nxt; j += 1; cnt += 1; continue
+                break
+            out.append(buf); i = j; continue
+        out.append(tk); i += 1
+    return out
 
 
 def gradient(size, colors):
@@ -106,7 +129,7 @@ def gradient(size, colors):
 def wrap(draw, text, font, maxw):
     """token 化换行：连续 ASCII（+5.2% / 2,524）不可拆，中文逐字；并避免 widow（末行孤短）。"""
     lines, line = [], ''
-    for tk in _TOKEN_RE.findall(text):
+    for tk in _merge_units(_TOKEN_RE.findall(text)):
         if draw.textlength(line + tk, font=font) > maxw and line:
             lines.append(line); line = tk
         else:
@@ -121,7 +144,7 @@ def wrap(draw, text, font, maxw):
     while guard < 60:
         if draw.textlength(lines[-1], font=font) >= min_last:
             break
-        prev_tokens = _TOKEN_RE.findall(lines[-2])
+        prev_tokens = _merge_units(_TOKEN_RE.findall(lines[-2]))
         if len(prev_tokens) <= 1:
             break
         tk = prev_tokens[-1]
