@@ -104,7 +104,7 @@ def gradient(size, colors):
 
 
 def wrap(draw, text, font, maxw):
-    """token 化换行：连续 ASCII（+5.2% / 2,524）不可拆，中文逐字"""
+    """token 化换行：连续 ASCII（+5.2% / 2,524）不可拆，中文逐字；并避免 widow（末行孤短）。"""
     lines, line = [], ''
     for tk in _TOKEN_RE.findall(text):
         if draw.textlength(line + tk, font=font) > maxw and line:
@@ -113,6 +113,31 @@ def wrap(draw, text, font, maxw):
             line += tk
     if line:
         lines.append(line)
+    if len(lines) < 2:
+        return lines
+    # 末行过短时，把上一行末尾的 token 依次搬到末行做均衡（避免「负责」被拆且末行孤短）
+    min_last = maxw * 0.30
+    guard = 0
+    while guard < 60:
+        if draw.textlength(lines[-1], font=font) >= min_last:
+            break
+        prev_tokens = _TOKEN_RE.findall(lines[-2])
+        if len(prev_tokens) <= 1:
+            break
+        tk = prev_tokens[-1]
+        if draw.textlength(tk + lines[-1], font=font) > maxw:
+            break
+        lines[-2] = ''.join(prev_tokens[:-1])
+        lines[-1] = tk + lines[-1]
+        guard += 1
+    if not lines[-2] or not lines[-1]:
+        lines = [l for l in lines if l]
+    # 行首禁则：中文标点不得出现在行首（回搬至上一行末，允许标点悬挂）
+    _NO_START = '。，、；：？！）〕】》」』〉·'
+    for i in range(1, len(lines)):
+        while len(lines[i]) > 1 and lines[i][0] in _NO_START:
+            lines[i - 1] += lines[i][0]
+            lines[i] = lines[i][1:]
     return lines
 
 

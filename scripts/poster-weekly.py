@@ -118,7 +118,13 @@ def wrap(draw, text, font, maxw):
         lines[-1] = tk + lines[-1]
         guard += 1
     if not lines[-2] or not lines[-1]:
-        return [l for l in lines if l]
+        lines = [l for l in lines if l]
+    # 行首禁则：中文标点不得出现在行首（回搬至上一行末，允许标点悬挂）
+    _NO_START = '。，、；：？！）〕】》」』〉·'
+    for i in range(1, len(lines)):
+        while len(lines[i]) > 1 and lines[i][0] in _NO_START:
+            lines[i - 1] += lines[i][0]
+            lines[i] = lines[i][1:]
     return lines
 
 def circular_logo(path, size):
