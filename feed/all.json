@@ -1,9 +1,475 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-04T18:39:09Z",
-  "itemCount": 1138,
+  "generatedAt": "2026-10-05T18:04:54Z",
+  "itemCount": 1168,
   "items": [
+    {
+      "id": "ibm-mas-nominating-committee-chair-approval-20261006",
+      "title": "新加坡金管局擬審批保險公司提名委員會主席人選",
+      "sourceTier": "pro",
+      "themes": [
+        "singapore",
+        "mas",
+        "governance",
+        "board",
+        "regulation"
+      ],
+      "publishedAt": "2026-10-06",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-mas-nominating-committee-chair-approval-20261006",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/mas-moves-to-approve-who-chairs-insurer-nominating-committees-592336.aspx"
+    },
+    {
+      "id": "ibm-cambodia-bancassurance-squeezes-brokers-20261006",
+      "title": "柬埔寨銀保獨家協議擠壓獨立經紀生存空間",
+      "sourceTier": "pro",
+      "themes": [
+        "cambodia",
+        "bancassurance",
+        "broker",
+        "distribution"
+      ],
+      "publishedAt": "2026-10-06",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-cambodia-bancassurance-squeezes-brokers-20261006",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/cambodia-bancassurance-deals-squeeze-out-independent-brokers-592348.aspx"
+    },
+    {
+      "id": "ibm-japan-fsa-prudential-life-parent-20261006",
+      "title": "日本金融廳對保德信生命的行動延伸至其母公司層面",
+      "sourceTier": "pro",
+      "themes": [
+        "japan",
+        "fsa",
+        "prudential-life",
+        "conduct",
+        "group-governance"
+      ],
+      "publishedAt": "2026-10-06",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-japan-fsa-prudential-life-parent-20261006",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/japans-fsa-moves-against-prudential-life--and-the-parent-company-above-it-592352.aspx"
+    },
+    {
+      "id": "ian-daniel-rombach-great-eastern-digital-distribution-20261005",
+      "title": "Daniel Rombach 加入 Great Eastern，出任數字分銷平臺副總裁",
+      "sourceTier": "pro",
+      "themes": [
+        "singapore",
+        "digital",
+        "distribution",
+        "people-move"
+      ],
+      "publishedAt": "2026-10-05T22:29:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-daniel-rombach-great-eastern-digital-distribution-20261005",
+      "originalUrl": "https://insuranceasianews.com/daniel-rombach-joins-great-eastern-as-vp-for-digital-distribution-platforms/"
+    },
+    {
+      "id": "ibm-howden-collins-steps-down-executive-chairman-20261005",
+      "title": "Howden 執行主席 Dominic Collins 將卸任",
+      "sourceTier": "pro",
+      "themes": [
+        "broker",
+        "people-move",
+        "howden",
+        "distribution"
+      ],
+      "publishedAt": "2026-10-05T20:49:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-howden-collins-steps-down-executive-chairman-20261005",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/dominic-collins-to-step-down-as-howdens-executive-chairman-592300.aspx"
+    },
+    {
+      "id": "ian-south-korea-natcat-public-schemes-1bn-20261005",
+      "title": "韓國公共保險計劃巨災理賠2025年突破10億美元：Korean Re",
+      "sourceTier": "pro",
+      "themes": [
+        "korea",
+        "natcat",
+        "reinsurance",
+        "climate",
+        "claims"
+      ],
+      "publishedAt": "2026-10-05T17:54:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-south-korea-natcat-public-schemes-1bn-20261005",
+      "originalUrl": "https://insuranceasianews.com/south-koreas-nat-cat-claims-under-public-insurance-schemes-top-us1bn-in-2025-korean-re/"
+    },
+    {
+      "id": "insurtech-corgi-datacentre-ai-infrastructure-cover-20261005",
+      "title": "Corgi 推出數據中心全周期保險計劃，瞄準 AI 基礎設施保障缺口",
+      "sourceTier": "pro",
+      "themes": [
+        "insurtech",
+        "ai",
+        "datacentre",
+        "product",
+        "protection-gap"
+      ],
+      "publishedAt": "2026-10-05T17:54:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insurtech-corgi-datacentre-ai-infrastructure-cover-20261005",
+      "originalUrl": "https://fintech.global/2026/10/05/corgi-targets-growing-insurance-gap-around-ai-infrastructure/"
+    },
+    {
+      "id": "scmp-five-year-tax-incentive-too-short-20261005",
+      "title": "南華早報：議員指五年稅務優惠期太短，難吸引大型創新企業",
+      "sourceTier": "media",
+      "themes": [
+        "hk",
+        "tax",
+        "policy",
+        "investment",
+        "family-office"
+      ],
+      "publishedAt": "2026-10-05T16:00:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-five-year-tax-incentive-too-short-20261005",
+      "originalUrl": "https://www.scmp.com/business/companies/article/3369781/hong-kong-lawmakers-say-5-year-tax-incentive-short-entice-major-innovative-firms"
+    },
+    {
+      "id": "ian-everest-di-pasquale-apac-financial-lines-20261005",
+      "title": "Everest 委任 Adrian Di Pasquale 爲亞太區金融險總監（批發與專業險）",
+      "sourceTier": "pro",
+      "themes": [
+        "apac",
+        "financial-lines",
+        "specialty",
+        "people-move"
+      ],
+      "publishedAt": "2026-10-05T11:58:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-everest-di-pasquale-apac-financial-lines-20261005",
+      "originalUrl": "https://insuranceasianews.com/everest-names-adrian-di-pasquale-as-apac-financial-lines-director-for-wholesale-specialty/"
+    },
+    {
+      "id": "ian-regulatory-fragmentation-asia-insurance-20261005",
+      "title": "同一資產、不同市場：監管碎片化如何改變亞洲保險的風險響應",
+      "sourceTier": "pro",
+      "themes": [
+        "asia",
+        "regulation",
+        "crossborder",
+        "compliance",
+        "capital"
+      ],
+      "publishedAt": "2026-10-05T11:26:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-regulatory-fragmentation-asia-insurance-20261005",
+      "originalUrl": "https://insuranceasianews.com/same-asset-different-market-why-regulatory-fragmentation-changes-how-insurance-responds-in-asia/"
+    },
+    {
+      "id": "scmp-schroders-nuveen-hk-expansion-20261005",
+      "title": "南華早報：Schroders 與 Nuveen 合併後擬擴展香港業務",
+      "sourceTier": "media",
+      "themes": [
+        "hk",
+        "asset-management",
+        "wealth",
+        "market"
+      ],
+      "publishedAt": "2026-10-05T11:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-schroders-nuveen-hk-expansion-20261005",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3369699/asset-manager-schroders-expand-hong-kong-after-merger-nuveen-ceo-says"
+    },
+    {
+      "id": "iaasia-datacentre-boom-insurance-rates-20261005",
+      "title": "亞洲數據中心熱潮能否扭轉保險費率下行？",
+      "sourceTier": "pro",
+      "themes": [
+        "apac",
+        "datacentre",
+        "property",
+        "rates",
+        "capacity"
+      ],
+      "publishedAt": "2026-10-05T10:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-datacentre-boom-insurance-rates-20261005",
+      "originalUrl": "https://insuranceasia.com/insurance/expert-opinion/can-asias-data-centre-boom-reverse-falling-insurance-rates"
+    },
+    {
+      "id": "ian-marsh-re-parametric-wind-bushfire-apac-20261005",
+      "title": "亞太風險轉移市場開放：Marsh Re 着眼參數化風災與山火保障",
+      "sourceTier": "pro",
+      "themes": [
+        "apac",
+        "parametric",
+        "climate",
+        "reinsurance",
+        "risk-transfer"
+      ],
+      "publishedAt": "2026-10-05T07:29:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-marsh-re-parametric-wind-bushfire-apac-20261005",
+      "originalUrl": "https://insuranceasianews.com/as-apac-risk-transfer-market-opens-up-marsh-re-eyes-parametric-wind-bushfire-cover/"
+    },
+    {
+      "id": "iaasia-unimed-recovers-two-years-losses-20261005",
+      "title": "UniMed 扭轉兩年虧損：保費上調開始見效",
+      "sourceTier": "pro",
+      "themes": [
+        "health-insurance",
+        "medical-inflation",
+        "premium",
+        "singapore"
+      ],
+      "publishedAt": "2026-10-05T06:00:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-unimed-recovers-two-years-losses-20261005",
+      "originalUrl": "https://insuranceasia.com/insurance/news/unimed-recovers-two-years-losses-premium-increases-kick-in"
+    },
+    {
+      "id": "iaasia-aerospace-insurers-tighten-scrutiny-20261005",
+      "title": "航空險：價格與承保能力穩定，但核保審查趨嚴",
+      "sourceTier": "pro",
+      "themes": [
+        "aviation",
+        "underwriting",
+        "specialty",
+        "apac"
+      ],
+      "publishedAt": "2026-10-05T05:45:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-aerospace-insurers-tighten-scrutiny-20261005",
+      "originalUrl": "https://insuranceasia.com/insurance/news/aerospace-insurers-tighten-scrutiny-despite-stable-price-and-capacity"
+    },
+    {
+      "id": "iaasia-australia-29b-drought-risk-20261005",
+      "title": "澳洲險企面臨最高290億澳元乾旱風險",
+      "sourceTier": "pro",
+      "themes": [
+        "australia",
+        "drought",
+        "climate",
+        "protection-gap"
+      ],
+      "publishedAt": "2026-10-05T05:30:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-australia-29b-drought-risk-20261005",
+      "originalUrl": "https://insuranceasia.com/insurance/news/australian-insurers-face-29b-drought-risk"
+    },
+    {
+      "id": "iaasia-apac-cyber-regulatory-divergence-20261005",
+      "title": "亞太網絡安全監管分化，執法趨嚴：保險公司須應對多套規則",
+      "sourceTier": "pro",
+      "themes": [
+        "apac",
+        "cyber",
+        "regulation",
+        "compliance",
+        "enforcement"
+      ],
+      "publishedAt": "2026-10-05T05:15:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-apac-cyber-regulatory-divergence-20261005",
+      "originalUrl": "https://insuranceasia.com/insurance/news/insurers-face-apac-cyber-regulatory-divergence-enforcement-tightens"
+    },
+    {
+      "id": "hkma-bakai-bank-restricted-licence-20261005",
+      "title": "金管局向 BAKAI BANK 批出有限制銀行牌照（香港首家中亞銀行）",
+      "sourceTier": "official",
+      "themes": [
+        "hkma",
+        "licensing",
+        "banking",
+        "central-asia",
+        "market"
+      ],
+      "publishedAt": "2026-10-05",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-bakai-bank-restricted-licence-20261005",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261005-4/"
+    },
+    {
+      "id": "hkma-cargox-solution-day-trade-data-20261005",
+      "title": "金管局舉辦 Cargox Solution Day，推動區域貿易數據互聯",
+      "sourceTier": "official",
+      "themes": [
+        "hkma",
+        "trade-finance",
+        "data",
+        "infrastructure"
+      ],
+      "publishedAt": "2026-10-05",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-cargox-solution-day-trade-data-20261005",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261005-3/"
+    },
+    {
+      "id": "reinasia-cigna-hk-jay-chan-head-distribution-20261005",
+      "title": "Cigna Healthcare 香港委任 Jay Chan 爲分銷主管",
+      "sourceTier": "pro",
+      "themes": [
+        "hk",
+        "health-insurance",
+        "people-move",
+        "distribution"
+      ],
+      "publishedAt": "2026-10-05",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=reinasia-cigna-hk-jay-chan-head-distribution-20261005",
+      "originalUrl": "https://reinasia.com/cigna-healthcare-hong-kong-appoints-jay-chan-as-head-of-distribution/"
+    },
+    {
+      "id": "reinasia-cpic-hk-liquidity-sp-ratings-20261005",
+      "title": "太保香港：高風險資產佔比降至39%，標普確認評級",
+      "sourceTier": "pro",
+      "themes": [
+        "hk",
+        "ratings",
+        "capital",
+        "asset-quality",
+        "mainland-insurer"
+      ],
+      "publishedAt": "2026-10-05",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=reinasia-cpic-hk-liquidity-sp-ratings-20261005",
+      "originalUrl": "https://reinasia.com/cpic-hks-liquidity-improves-on-cut-in-high-risk-assets-as-sp-affirms-ratings/"
+    },
+    {
+      "id": "reinasia-apac-insurers-prediction-markets-20261005",
+      "title": "亞太險企對預測市場採取「觀望」態度",
+      "sourceTier": "pro",
+      "themes": [
+        "apac",
+        "prediction-markets",
+        "emerging-risk",
+        "regulation"
+      ],
+      "publishedAt": "2026-10-05",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=reinasia-apac-insurers-prediction-markets-20261005",
+      "originalUrl": "https://reinasia.com/apac-insurers-in-wait-and-watch-mode-for-impact-of-prediction-markets/"
+    },
+    {
+      "id": "reinasia-malaysia-motor-insurance-fraud-doubled-2025-20261005",
+      "title": "馬來西亞舉報車險欺詐案件2025年翻倍",
+      "sourceTier": "pro",
+      "themes": [
+        "malaysia",
+        "motor",
+        "fraud",
+        "claims",
+        "conduct"
+      ],
+      "publishedAt": "2026-10-05",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=reinasia-malaysia-motor-insurance-fraud-doubled-2025-20261005",
+      "originalUrl": "https://reinasia.com/malaysias-reported-motor-insurance-fraud-cases-more-than-doubled-in-2025/"
+    },
+    {
+      "id": "reinasia-china-trade-credit-insurance-coverage-20261005",
+      "title": "中國推動擴大國內貿易信用保險覆蓋",
+      "sourceTier": "pro",
+      "themes": [
+        "china",
+        "trade-credit",
+        "policy",
+        "sme"
+      ],
+      "publishedAt": "2026-10-05",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=reinasia-china-trade-credit-insurance-coverage-20261005",
+      "originalUrl": "https://reinasia.com/china-bats-for-wider-domestic-trade-credit-insurance-coverage/"
+    },
+    {
+      "id": "ibm-life-sciences-risk-coverage-shift-20261005",
+      "title": "生命科學風險正在位移，保障未必跟得上",
+      "sourceTier": "pro",
+      "themes": [
+        "life-sciences",
+        "protection-gap",
+        "product",
+        "emerging-risk"
+      ],
+      "publishedAt": "2026-10-05",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-life-sciences-risk-coverage-shift-20261005",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/life-sciences-risk-is-shifting-and-coverage-may-not-follow-592256.aspx"
+    },
+    {
+      "id": "artemis-picc-great-wall-re-cat-bond-2-20261005",
+      "title": "人保財險據報再度發行第二隻「長城再」巨災債券",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "cat-bond",
+        "china",
+        "hk",
+        "risk-transfer"
+      ],
+      "publishedAt": "2026-10-05",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-picc-great-wall-re-cat-bond-2-20261005",
+      "originalUrl": "https://www.artemis.bm/news/picc-pc-appears-to-have-returned-for-its-second-great-wall-re-catastrophe-bond/"
+    },
+    {
+      "id": "artemis-ucits-cat-bond-funds-667-ytd-plenum-20261005",
+      "title": "UCITS 巨災債券基金年內平均回報6.67%：Plenum 指數",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "cat-bond",
+        "investment",
+        "plenum"
+      ],
+      "publishedAt": "2026-10-05",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-ucits-cat-bond-funds-667-ytd-plenum-20261005",
+      "originalUrl": "https://www.artemis.bm/news/ucits-cat-bond-funds-average-6-67-return-ytd-fourth-highest-annual-figure-on-record-plenum-index/"
+    },
+    {
+      "id": "artemis-apac-ils-parametric-growth-marsh-re-20261005",
+      "title": "亞太 ILS 與參數化市場有望增長：Marsh Re 的 Gallagher",
+      "sourceTier": "pro",
+      "themes": [
+        "apac",
+        "ils",
+        "parametric",
+        "hk",
+        "capital"
+      ],
+      "publishedAt": "2026-10-05",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-apac-ils-parametric-growth-marsh-re-20261005",
+      "originalUrl": "https://www.artemis.bm/news/apac-ils-and-parametric-markets-poised-for-growth-as-capital-needs-shift-marsh-res-gallagher/"
+    },
+    {
+      "id": "artemis-eaton-vance-ils-holdings-777m-20261005",
+      "title": "Eaton Vance 基金 ILS 持倉達7.77億美元，新增 Swiss Re 與 Jaffa Capital 投資",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "institutional",
+        "fund",
+        "cat-bond"
+      ],
+      "publishedAt": "2026-10-05",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-eaton-vance-ils-holdings-777m-20261005",
+      "originalUrl": "https://www.artemis.bm/news/eaton-vance-mutual-fund-ils-holdings-hit-777m-new-swiss-re-and-jaffa-capital-investments/"
+    },
+    {
+      "id": "ibm-ia-conduct-focus-broker-ro-tenure-20260930",
+      "title": "保監局《Conduct in Focus》第13期：經紀公司負責人任期過短被視爲操守風險信號",
+      "sourceTier": "pro",
+      "themes": [
+        "hk",
+        "ia",
+        "conduct",
+        "broker",
+        "governance",
+        "ro"
+      ],
+      "publishedAt": "2026-09-30T21:14:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-ia-conduct-focus-broker-ro-tenure-20260930",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/broker-leadership-churn-emerges-as-conduct-risk-signal-in-hong-kong-ia-report-591783.aspx"
+    },
     {
       "id": "ia-flmi-exam-policy-validity-20261003",
       "title": "保监局就FLMI考试作弊案最新表态：涉案中介人处理的保单效力与持有人权益不受影响，将按个案检视牌照资格",

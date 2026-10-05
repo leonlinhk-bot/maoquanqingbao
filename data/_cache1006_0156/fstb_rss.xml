@@ -1,0 +1,444 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>找不到網頁 找不到网页 Page Not Found</title>
+<meta name="robots" content="noindex,nofollow">
+<script type= "text/javascript" src= "/common/index/js/jquery-ui.min.js"></script>
+<script type="text/javascript">
+
+var redirecturl = new Array();
+var para_redirecturl = new Array();
+var currentpath = window.location.pathname;
+var sitepath = '';
+
+	try{
+			
+		if(currentpath.indexOf('/preview/14/draftpreview')>=0 ){
+			findpath = currentpath.replaceAll('/preview/14/draftpreview','');
+			sitepath = '/preview/14/draftpreview';
+		}else if(currentpath.indexOf('/preview/14/finalpreview')>=0 ){
+			findpath = currentpath.replaceAll('/preview/14/finalpreview','');
+			sitepath = '/preview/14/finalpreview';
+		}else{
+			findpath = window.location.pathname;
+		}
+
+		redirecturl['/en/about-us.htm'] = "/en/aboutus/welcome_msg.htm";
+		redirecturl['/en/biography-of-sfst.htm'] = "/en/aboutus/biography-of-sfst.htm";
+		redirecturl['/en/blog140321.htm'] = "/en/blog/blog140321.htm";
+		redirecturl['/en/blog040421.htm'] = "/en/blog/blog040421.htm";
+		redirecturl['/en/blog180421.htm'] = "/en/blog/blog180421.htm";
+		redirecturl['/en/blog010720.htm'] = "/en/blog/blog010720.htm";
+		redirecturl['/en/blog011017.htm'] = "/en/blog/blog011017.htm";
+		redirecturl['/en/blog011120.htm'] = "/en/blog/blog011120.htm";
+		redirecturl['/en/blog011219.htm'] = "/en/blog/blog011219.htm";
+		redirecturl['/en/blog021120.htm'] = "/en/blog/blog021120.htm";
+		redirecturl['/en/blog030121.htm'] = "/en/blog/blog030121.htm";
+		redirecturl['/en/blog030321.htm'] = "/en/blog/blog030321.htm";
+		redirecturl['/en/blog030718.htm'] = "/en/blog/blog030718.htm";
+		redirecturl['/en/blog030917.htm'] = "/en/blog/blog030917.htm";
+		redirecturl['/en/blog031119.htm'] = "/en/blog/blog031119.htm";
+		redirecturl['/en/blog040520.htm'] = "/en/blog/blog040520.htm";
+		redirecturl['/en/blog041118.htm'] = "/en/blog/blog041118.htm";
+		redirecturl['/en/blog060817.htm'] = "/en/blog/blog060817.htm";
+		redirecturl['/en/blog070118.htm'] = "/en/blog/blog070118.htm";
+		redirecturl['/en/blog080320.htm'] = "/en/blog/blog080320.htm";
+		redirecturl['/en/blog080620.htm'] = "/en/blog/blog080620.htm";
+		redirecturl['/en/blog081219.htm'] = "/en/blog/blog081219.htm";
+		redirecturl['/en/blog101119.htm'] = "/en/blog/blog101119.htm";
+		redirecturl['/en/blog110819.htm'] = "/en/blog/blog110819.htm";
+		redirecturl['/en/blog131019.htm'] = "/en/blog/blog131019.htm";
+		redirecturl['/en/blog131120.htm'] = "/en/blog/blog131120.htm";
+		redirecturl['/en/blog140719.htm'] = "/en/blog/blog140719.htm";
+		redirecturl['/en/blog150919.htm'] = "/en/blog/blog150919.htm";
+		redirecturl['/en/blog160320.htm'] = "/en/blog/blog160320.htm";
+		redirecturl['/en/blog170520.htm'] = "/en/blog/blog170520.htm";
+		redirecturl['/en/blog181020.htm'] = "/en/blog/blog181020.htm";
+		redirecturl['/en/blog190720.htm'] = "/en/blog/blog190720.htm";
+		redirecturl['/en/blog190820.htm'] = "/en/blog/blog190820.htm";
+		redirecturl['/en/blog241217.htm'] = "/en/blog/blog241217.htm";
+		redirecturl['/en/blog250220.htm'] = "/en/blog/blog250220.htm";
+		redirecturl['/en/blog250318.htm'] = "/en/blog/blog250318.htm";
+		redirecturl['/en/blog250819.htm'] = "/en/blog/blog250819.htm";
+		redirecturl['/en/blog251118.htm'] = "/en/blog/blog251118.htm";
+		redirecturl['/en/blog260120.htm'] = "/en/blog/blog260120.htm";
+		redirecturl['/en/blog261117.htm'] = "/en/blog/blog261117.htm";
+		redirecturl['/en/blog270518.htm'] = "/en/blog/blog270518.htm";
+		redirecturl['/en/blog280719.htm'] = "/en/blog/blog280719.htm";
+		redirecturl['/en/blog290320.htm'] = "/en/blog/blog290320.htm";
+		redirecturl['/en/blog290418.htm'] = "/en/blog/blog290418.htm";
+		redirecturl['/en/blog290919.htm'] = "/en/blog/blog290919.htm";
+		redirecturl['/en/blog291120.htm'] = "/en/blog/blog291120.htm";
+		redirecturl['/en/blog300619.htm'] = "/en/blog/blog300619.htm";
+		redirecturl['/en/blog300717.htm'] = "/en/blog/blog300717.htm";
+		redirecturl['/en/blog300820.htm'] = "/en/blog/blog300820.htm";
+		redirecturl['/en/blog300918.htm'] = "/en/blog/blog300918.htm";
+		redirecturl['/en/blog301218.htm'] = "/en/blog/blog301218.htm";
+		redirecturl['/en/blog310319.htm'] = "/en/blog/blog310319.htm";
+		redirecturl['/en/contact-us.htm'] = "/en/aboutus/contact-us.htm";
+		redirecturl['/en/important-notices.htm'] = "/en/important-notices.htm";
+		redirecturl['/en/my-blog.htm'] = "/en/blog/my-blog.htm";
+		redirecturl['/en/organisation-chart.htm'] = "/en/aboutus/organisation-chart.htm";
+		redirecturl['/en/press-releases-2007.htm'] = "/en/news/press/index.htm?year=2007";
+		redirecturl['/en/press-releases-2008.htm'] = "/en/news/press/index.htm?year=2008";
+		redirecturl['/en/press-releases-2009.htm'] = "/en/news/press/index.htm?year=2009";
+		redirecturl['/en/press-releases-2010.htm'] = "/en/news/press/index.htm?year=2010";
+		redirecturl['/en/press-releases-2011.htm'] = "/en/news/press/index.htm?year=2011";
+		redirecturl['/en/press-releases-2012.htm'] = "/en/news/press/index.htm?year=2012";
+		redirecturl['/en/press-releases-2013.htm'] = "/en/news/press/index.htm?year=2013";
+		redirecturl['/en/press-releases-2014.htm'] = "/en/news/press/index.htm?year=2014";
+		redirecturl['/en/press-releases-2015.htm'] = "/en/news/press/index.htm?year=2015";
+		redirecturl['/en/press-releases-2016.htm'] = "/en/news/press/index.htm?year=2016";
+		redirecturl['/en/press-releases-2017.htm'] = "/en/news/press/index.htm?year=2017";
+		redirecturl['/en/press-releases-2018.htm'] = "/en/news/press/index.htm?year=2018";
+		redirecturl['/en/press-releases-2019.htm'] = "/en/news/press/index.htm?year=2019";
+		redirecturl['/en/press-releases-2020.htm'] = "/en/news/press/index.htm?year=2020";
+		redirecturl['/en/press-releases-2021.htm'] = "/en/news/press/index.htm?year=2021";
+		redirecturl['/en/press-releases.htm'] = "/en/news/press/index.htm";
+		redirecturl['/en/privacy-policy.htm'] = "/en/privacy-policy.htm";
+		redirecturl['/en/secretary-for-fst.htm'] = "/en/aboutus/biography-of-sfst.htm";
+		redirecturl['/en/speeches-2007.htm'] = "/en/news/speech/index.htm?year=2007";
+		redirecturl['/en/speeches-2008.htm'] = "/en/news/speech/index.htm?year=2008";
+		redirecturl['/en/speeches-2009.htm'] = "/en/news/speech/index.htm?year=2009";
+		redirecturl['/en/speeches-2010.htm'] = "/en/news/speech/index.htm?year=2010";
+		redirecturl['/en/speeches-2011.htm'] = "/en/news/speech/index.htm?year=2011";
+		redirecturl['/en/speeches-2012.htm'] = "/en/news/speech/index.htm?year=2012";
+		redirecturl['/en/speeches-2013.htm'] = "/en/news/speech/index.htm?year=2013";
+		redirecturl['/en/speeches-2014.htm'] = "/en/news/speech/index.htm?year=2014";
+		redirecturl['/en/speeches-2015.htm'] = "/en/news/speech/index.htm?year=2015";
+		redirecturl['/en/speeches-2016.htm'] = "/en/news/speech/index.htm?year=2016";
+		redirecturl['/en/speeches-2017.htm'] = "/en/news/speech/index.htm?year=2017";
+		redirecturl['/en/speeches-2018.htm'] = "/en/news/speech/index.htm?year=2018";
+		redirecturl['/en/speeches-2019.htm'] = "/en/news/speech/index.htm?year=2019";
+		redirecturl['/en/speeches-2020.htm'] = "/en/news/speech/index.htm?year=2020";
+		redirecturl['/en/speeches-2021.htm'] = "/en/news/speech/index.htm?year=2021";
+		redirecturl['/en/speeches.htm'] = "/en/news/speech/index.htm";
+		redirecturl['/en/transcripts-2007.htm'] = "/en/news/transcript/index.htm?year=2007";
+		redirecturl['/en/transcripts-2008.htm'] = "/en/news/transcript/index.htm?year=2008";
+		redirecturl['/en/transcripts-2009.htm'] = "/en/news/transcript/index.htm?year=2009";
+		redirecturl['/en/transcripts-2010.htm'] = "/en/news/transcript/index.htm?year=2010";
+		redirecturl['/en/transcripts-2011.htm'] = "/en/news/transcript/index.htm?year=2011";
+		redirecturl['/en/transcripts-2012.htm'] = "/en/news/transcript/index.htm?year=2012";
+		redirecturl['/en/transcripts-2013.htm'] = "/en/news/transcript/index.htm?year=2013";
+		redirecturl['/en/transcripts-2014.htm'] = "/en/news/transcript/index.htm?year=2014";
+		redirecturl['/en/transcripts-2015.htm'] = "/en/news/transcript/index.htm?year=2015";
+		redirecturl['/en/transcripts-2016.htm'] = "/en/news/transcript/index.htm?year=2016";
+		redirecturl['/en/transcripts-2017.htm'] = "/en/news/transcript/index.htm?year=2017";
+		redirecturl['/en/transcripts-2018.htm'] = "/en/news/transcript/index.htm?year=2018";
+		redirecturl['/en/transcripts-2019.htm'] = "/en/news/transcript/index.htm?year=2019";
+		redirecturl['/en/transcripts-2020.htm'] = "/en/news/transcript/index.htm?year=2020";
+		redirecturl['/en/transcripts-2021.htm'] = "/en/news/transcript/index.htm?year=2021";
+		redirecturl['/en/transcripts.htm'] = "/en/news/transcript/index.htm";
+		redirecturl['/sc/about-us.htm'] = "/sc/aboutus/welcome_msg.htm";
+		redirecturl['/sc/biography-of-sfst.htm'] = "/sc/aboutus/biography-of-sfst.htm";
+		redirecturl['/sc/blog140321.htm'] = "/sc/blog/blog140321.htm";
+		redirecturl['/sc/blog040421.htm'] = "/sc/blog/blog040421.htm";
+		redirecturl['/sc/blog180421.htm'] = "/sc/blog/blog180421.htm";
+		redirecturl['/sc/blog010720.htm'] = "/sc/blog/blog010720.htm";
+		redirecturl['/sc/blog011017.htm'] = "/sc/blog/blog011017.htm";
+		redirecturl['/sc/blog011120.htm'] = "/sc/blog/blog011120.htm";
+		redirecturl['/sc/blog011219.htm'] = "/sc/blog/blog011219.htm";
+		redirecturl['/sc/blog021120.htm'] = "/sc/blog/blog021120.htm";
+		redirecturl['/sc/blog030121.htm'] = "/sc/blog/blog030121.htm";
+		redirecturl['/sc/blog030321.htm'] = "/sc/blog/blog030321.htm";
+		redirecturl['/sc/blog030718.htm'] = "/sc/blog/blog030718.htm";
+		redirecturl['/sc/blog030917.htm'] = "/sc/blog/blog030917.htm";
+		redirecturl['/sc/blog031119.htm'] = "/sc/blog/blog031119.htm";
+		redirecturl['/sc/blog040520.htm'] = "/sc/blog/blog040520.htm";
+		redirecturl['/sc/blog041118.htm'] = "/sc/blog/blog041118.htm";
+		redirecturl['/sc/blog060817.htm'] = "/sc/blog/blog060817.htm";
+		redirecturl['/sc/blog070118.htm'] = "/sc/blog/blog070118.htm";
+		redirecturl['/sc/blog080320.htm'] = "/sc/blog/blog080320.htm";
+		redirecturl['/sc/blog080620.htm'] = "/sc/blog/blog080620.htm";
+		redirecturl['/sc/blog081219.htm'] = "/sc/blog/blog081219.htm";
+		redirecturl['/sc/blog101119.htm'] = "/sc/blog/blog101119.htm";
+		redirecturl['/sc/blog110819.htm'] = "/sc/blog/blog110819.htm";
+		redirecturl['/sc/blog131019.htm'] = "/sc/blog/blog131019.htm";
+		redirecturl['/sc/blog131120.htm'] = "/sc/blog/blog131120.htm";
+		redirecturl['/sc/blog140719.htm'] = "/sc/blog/blog140719.htm";
+		redirecturl['/sc/blog150919.htm'] = "/sc/blog/blog150919.htm";
+		redirecturl['/sc/blog160320.htm'] = "/sc/blog/blog160320.htm";
+		redirecturl['/sc/blog170520.htm'] = "/sc/blog/blog170520.htm";
+		redirecturl['/sc/blog181020.htm'] = "/sc/blog/blog181020.htm";
+		redirecturl['/sc/blog190720.htm'] = "/sc/blog/blog190720.htm";
+		redirecturl['/sc/blog190820.htm'] = "/sc/blog/blog190820.htm";
+		redirecturl['/sc/blog241217.htm'] = "/sc/blog/blog241217.htm";
+		redirecturl['/sc/blog250220.htm'] = "/sc/blog/blog250220.htm";
+		redirecturl['/sc/blog250318.htm'] = "/sc/blog/blog250318.htm";
+		redirecturl['/sc/blog250819.htm'] = "/sc/blog/blog250819.htm";
+		redirecturl['/sc/blog251118.htm'] = "/sc/blog/blog251118.htm";
+		redirecturl['/sc/blog260120.htm'] = "/sc/blog/blog260120.htm";
+		redirecturl['/sc/blog261117.htm'] = "/sc/blog/blog261117.htm";
+		redirecturl['/sc/blog270518.htm'] = "/sc/blog/blog270518.htm";
+		redirecturl['/sc/blog280719.htm'] = "/sc/blog/blog280719.htm";
+		redirecturl['/sc/blog290320.htm'] = "/sc/blog/blog290320.htm";
+		redirecturl['/sc/blog290418.htm'] = "/sc/blog/blog290418.htm";
+		redirecturl['/sc/blog290919.htm'] = "/sc/blog/blog290919.htm";
+		redirecturl['/sc/blog291120.htm'] = "/sc/blog/blog291120.htm";
+		redirecturl['/sc/blog300619.htm'] = "/sc/blog/blog300619.htm";
+		redirecturl['/sc/blog300717.htm'] = "/sc/blog/blog300717.htm";
+		redirecturl['/sc/blog300820.htm'] = "/sc/blog/blog300820.htm";
+		redirecturl['/sc/blog300918.htm'] = "/sc/blog/blog300918.htm";
+		redirecturl['/sc/blog301218.htm'] = "/sc/blog/blog301218.htm";
+		redirecturl['/sc/blog310319.htm'] = "/sc/blog/blog310319.htm";
+		redirecturl['/sc/contact-us.htm'] = "/sc/aboutus/contact-us.htm";
+		redirecturl['/sc/important-notices.htm'] = "/sc/important-notices.htm";
+		redirecturl['/sc/my-blog.htm'] = "/sc/blog/my-blog.htm";
+		redirecturl['/sc/organisation-chart.htm'] = "/sc/aboutus/organisation-chart.htm";
+		redirecturl['/sc/press-releases-2007.htm'] = "/sc/news/press/index.htm?year=2007";
+		redirecturl['/sc/press-releases-2008.htm'] = "/sc/news/press/index.htm?year=2008";
+		redirecturl['/sc/press-releases-2009.htm'] = "/sc/news/press/index.htm?year=2009";
+		redirecturl['/sc/press-releases-2010.htm'] = "/sc/news/press/index.htm?year=2010";
+		redirecturl['/sc/press-releases-2011.htm'] = "/sc/news/press/index.htm?year=2011";
+		redirecturl['/sc/press-releases-2012.htm'] = "/sc/news/press/index.htm?year=2012";
+		redirecturl['/sc/press-releases-2013.htm'] = "/sc/news/press/index.htm?year=2013";
+		redirecturl['/sc/press-releases-2014.htm'] = "/sc/news/press/index.htm?year=2014";
+		redirecturl['/sc/press-releases-2015.htm'] = "/sc/news/press/index.htm?year=2015";
+		redirecturl['/sc/press-releases-2016.htm'] = "/sc/news/press/index.htm?year=2016";
+		redirecturl['/sc/press-releases-2017.htm'] = "/sc/news/press/index.htm?year=2017";
+		redirecturl['/sc/press-releases-2018.htm'] = "/sc/news/press/index.htm?year=2018";
+		redirecturl['/sc/press-releases-2019.htm'] = "/sc/news/press/index.htm?year=2019";
+		redirecturl['/sc/press-releases-2020.htm'] = "/sc/news/press/index.htm?year=2020";
+		redirecturl['/sc/press-releases-2021.htm'] = "/sc/news/press/index.htm?year=2021";
+		redirecturl['/sc/press-releases.htm'] = "/sc/news/press/index.htm";
+		redirecturl['/sc/privacy-policy.htm'] = "/sc/privacy-policy.htm";
+		redirecturl['/sc/secretary-for-fst.htm'] = "/sc/aboutus/biography-of-sfst.htm";
+		redirecturl['/sc/speeches-2007.htm'] = "/sc/news/speech/index.htm?year=2007";
+		redirecturl['/sc/speeches-2008.htm'] = "/sc/news/speech/index.htm?year=2008";
+		redirecturl['/sc/speeches-2009.htm'] = "/sc/news/speech/index.htm?year=2009";
+		redirecturl['/sc/speeches-2010.htm'] = "/sc/news/speech/index.htm?year=2010";
+		redirecturl['/sc/speeches-2011.htm'] = "/sc/news/speech/index.htm?year=2011";
+		redirecturl['/sc/speeches-2012.htm'] = "/sc/news/speech/index.htm?year=2012";
+		redirecturl['/sc/speeches-2013.htm'] = "/sc/news/speech/index.htm?year=2013";
+		redirecturl['/sc/speeches-2014.htm'] = "/sc/news/speech/index.htm?year=2014";
+		redirecturl['/sc/speeches-2015.htm'] = "/sc/news/speech/index.htm?year=2015";
+		redirecturl['/sc/speeches-2016.htm'] = "/sc/news/speech/index.htm?year=2016";
+		redirecturl['/sc/speeches-2017.htm'] = "/sc/news/speech/index.htm?year=2017";
+		redirecturl['/sc/speeches-2018.htm'] = "/sc/news/speech/index.htm?year=2018";
+		redirecturl['/sc/speeches-2019.htm'] = "/sc/news/speech/index.htm?year=2019";
+		redirecturl['/sc/speeches-2020.htm'] = "/sc/news/speech/index.htm?year=2020";
+		redirecturl['/sc/speeches-2021.htm'] = "/sc/news/speech/index.htm?year=2021";
+		redirecturl['/sc/speeches.htm'] = "/sc/news/speech/index.htm";
+		redirecturl['/sc/transcripts-2007.htm'] = "/sc/news/transcript/index.htm?year=2007";
+		redirecturl['/sc/transcripts-2008.htm'] = "/sc/news/transcript/index.htm?year=2008";
+		redirecturl['/sc/transcripts-2009.htm'] = "/sc/news/transcript/index.htm?year=2009";
+		redirecturl['/sc/transcripts-2010.htm'] = "/sc/news/transcript/index.htm?year=2010";
+		redirecturl['/sc/transcripts-2011.htm'] = "/sc/news/transcript/index.htm?year=2011";
+		redirecturl['/sc/transcripts-2012.htm'] = "/sc/news/transcript/index.htm?year=2012";
+		redirecturl['/sc/transcripts-2013.htm'] = "/sc/news/transcript/index.htm?year=2013";
+		redirecturl['/sc/transcripts-2014.htm'] = "/sc/news/transcript/index.htm?year=2014";
+		redirecturl['/sc/transcripts-2015.htm'] = "/sc/news/transcript/index.htm?year=2015";
+		redirecturl['/sc/transcripts-2016.htm'] = "/sc/news/transcript/index.htm?year=2016";
+		redirecturl['/sc/transcripts-2017.htm'] = "/sc/news/transcript/index.htm?year=2017";
+		redirecturl['/sc/transcripts-2018.htm'] = "/sc/news/transcript/index.htm?year=2018";
+		redirecturl['/sc/transcripts-2019.htm'] = "/sc/news/transcript/index.htm?year=2019";
+		redirecturl['/sc/transcripts-2020.htm'] = "/sc/news/transcript/index.htm?year=2020";
+		redirecturl['/sc/transcripts-2021.htm'] = "/sc/news/transcript/index.htm?year=2021";
+		redirecturl['/sc/transcripts.htm'] = "/sc/news/transcript/index.htm";
+		redirecturl['/tc/about-us.htm'] = "/tc/aboutus/welcome_msg.htm";
+		redirecturl['/tc/biography-of-sfst.htm'] = "/tc/aboutus/biography-of-sfst.htm";
+		redirecturl['/tc/blog140321.htm'] = "/tc/blog/blog140321.htm";
+		redirecturl['/tc/blog040421.htm'] = "/tc/blog/blog040421.htm";
+		redirecturl['/tc/blog180421.htm'] = "/tc/blog/blog180421.htm";
+		redirecturl['/tc/blog010720.htm'] = "/tc/blog/blog010720.htm";
+		redirecturl['/tc/blog011017.htm'] = "/tc/blog/blog011017.htm";
+		redirecturl['/tc/blog011120.htm'] = "/tc/blog/blog011120.htm";
+		redirecturl['/tc/blog011219.htm'] = "/tc/blog/blog011219.htm";
+		redirecturl['/tc/blog021120.htm'] = "/tc/blog/blog021120.htm";
+		redirecturl['/tc/blog030121.htm'] = "/tc/blog/blog030121.htm";
+		redirecturl['/tc/blog030321.htm'] = "/tc/blog/blog030321.htm";
+		redirecturl['/tc/blog030718.htm'] = "/sc/blog/blog030718.htm";
+		redirecturl['/tc/blog030917.htm'] = "/tc/blog/blog030917.htm";
+		redirecturl['/tc/blog031119.htm'] = "/tc/blog/blog031119.htm";
+		redirecturl['/tc/blog040520.htm'] = "/tc/blog/blog040520.htm";
+		redirecturl['/tc/blog041118.htm'] = "/tc/blog/blog041118.htm";
+		redirecturl['/tc/blog060817.htm'] = "/tc/blog/blog060817.htm";
+		redirecturl['/tc/blog070118.htm'] = "/tc/blog/blog070118.htm";
+		redirecturl['/tc/blog080320.htm'] = "/tc/blog/blog080320.htm";
+		redirecturl['/tc/blog080620.htm'] = "/tc/blog/blog080620.htm";
+		redirecturl['/tc/blog081219.htm'] = "/tc/blog/blog081219.htm";
+		redirecturl['/tc/blog101119.htm'] = "/tc/blog/blog101119.htm";
+		redirecturl['/tc/blog110819.htm'] = "/tc/blog/blog110819.htm";
+		redirecturl['/tc/blog131019.htm'] = "/tc/blog/blog131019.htm";
+		redirecturl['/tc/blog131120.htm'] = "/tc/blog/blog131120.htm";
+		redirecturl['/tc/blog140719.htm'] = "/tc/blog/blog140719.htm";
+		redirecturl['/tc/blog150919.htm'] = "/tc/blog/blog150919.htm";
+		redirecturl['/tc/blog160320.htm'] = "/tc/blog/blog160320.htm";
+		redirecturl['/tc/blog170520.htm'] = "/tc/blog/blog170520.htm";
+		redirecturl['/tc/blog181020.htm'] = "/tc/blog/blog181020.htm";
+		redirecturl['/tc/blog190720.htm'] = "/tc/blog/blog190720.htm";
+		redirecturl['/tc/blog190820.htm'] = "/tc/blog/blog190820.htm";
+		redirecturl['/tc/blog241217.htm'] = "/tc/blog/blog241217.htm";
+		redirecturl['/tc/blog250220.htm'] = "/tc/blog/blog250220.htm";
+		redirecturl['/tc/blog250318.htm'] = "/tc/blog/blog250318.htm";
+		redirecturl['/tc/blog250819.htm'] = "/sc/blog/blog250819.htm";
+		redirecturl['/tc/blog251118.htm'] = "/tc/blog/blog251118.htm";
+		redirecturl['/tc/blog260120.htm'] = "/tc/blog/blog260120.htm";
+		redirecturl['/tc/blog261117.htm'] = "/tc/blog/blog261117.htm";
+		redirecturl['/tc/blog270518.htm'] = "/tc/blog/blog270518.htm";
+		redirecturl['/tc/blog280719.htm'] = "/tc/blog/blog280719.htm";
+		redirecturl['/tc/blog290320.htm'] = "/tc/blog/blog290320.htm";
+		redirecturl['/tc/blog290418.htm'] = "/tc/blog/blog290418.htm";
+		redirecturl['/tc/blog290919.htm'] = "/tc/blog/blog290919.htm";
+		redirecturl['/tc/blog291120.htm'] = "/tc/blog/blog291120.htm";
+		redirecturl['/tc/blog300619.htm'] = "/tc/blog/blog300619.htm";
+		redirecturl['/tc/blog300717.htm'] = "/tc/blog/blog300717.htm";
+		redirecturl['/tc/blog300820.htm'] = "/tc/blog/blog300820.htm";
+		redirecturl['/tc/blog300918.htm'] = "/tc/blog/blog300918.htm";
+		redirecturl['/tc/blog301218.htm'] = "/tc/blog/blog301218.htm";
+		redirecturl['/tc/blog310319.htm'] = "/tc/blog/blog310319.htm";
+		redirecturl['/tc/contact-us.htm'] = "/tc/aboutus/contact-us.htm";
+		redirecturl['/tc/important-notices.htm'] = "/tc/important-notices.htm";
+		redirecturl['/tc/my-blog.htm'] = "/tc/blog/my-blog.htm";
+		redirecturl['/tc/organisation-chart.htm'] = "/tc/aboutus/organisation-chart.htm";
+		redirecturl['/tc/press-releases-2007.htm'] = "/tc/news/press/index.htm?year=2007";
+		redirecturl['/tc/press-releases-2008.htm'] = "/tc/news/press/index.htm?year=2008";
+		redirecturl['/tc/press-releases-2009.htm'] = "/tc/news/press/index.htm?year=2009";
+		redirecturl['/tc/press-releases-2010.htm'] = "/tc/news/press/index.htm?year=2010";
+		redirecturl['/tc/press-releases-2011.htm'] = "/tc/news/press/index.htm?year=2011";
+		redirecturl['/tc/press-releases-2012.htm'] = "/tc/news/press/index.htm?year=2012";
+		redirecturl['/tc/press-releases-2013.htm'] = "/tc/news/press/index.htm?year=2013";
+		redirecturl['/tc/press-releases-2014.htm'] = "/tc/news/press/index.htm?year=2014";
+		redirecturl['/tc/press-releases-2015.htm'] = "/tc/news/press/index.htm?year=2015";
+		redirecturl['/tc/press-releases-2016.htm'] = "/tc/news/press/index.htm?year=2016";
+		redirecturl['/tc/press-releases-2017.htm'] = "/tc/news/press/index.htm?year=2017";
+		redirecturl['/tc/press-releases-2018.htm'] = "/tc/news/press/index.htm?year=2018";
+		redirecturl['/tc/press-releases-2019.htm'] = "/tc/news/press/index.htm?year=2019";
+		redirecturl['/tc/press-releases-2020.htm'] = "/tc/news/press/index.htm?year=2020";
+		redirecturl['/tc/press-releases-2021.htm'] = "/tc/news/press/index.htm?year=2021";
+		redirecturl['/tc/press-releases.htm'] = "/tc/news/press/index.htm";
+		redirecturl['/tc/privacy-policy.htm'] = "/tc/privacy-policy.htm";
+		redirecturl['/tc/secretary-for-fst.htm'] = "/tc/aboutus/biography-of-sfst.htm";
+		redirecturl['/tc/speeches-2007.htm'] = "/tc/news/speech/index.htm?year=2007";
+		redirecturl['/tc/speeches-2008.htm'] = "/tc/news/speech/index.htm?year=2008";
+		redirecturl['/tc/speeches-2009.htm'] = "/tc/news/speech/index.htm?year=2009";
+		redirecturl['/tc/speeches-2010.htm'] = "/tc/news/speech/index.htm?year=2010";
+		redirecturl['/tc/speeches-2011.htm'] = "/tc/news/speech/index.htm?year=2011";
+		redirecturl['/tc/speeches-2012.htm'] = "/tc/news/speech/index.htm?year=2012";
+		redirecturl['/tc/speeches-2013.htm'] = "/tc/news/speech/index.htm?year=2013";
+		redirecturl['/tc/speeches-2014.htm'] = "/tc/news/speech/index.htm?year=2014";
+		redirecturl['/tc/speeches-2015.htm'] = "/tc/news/speech/index.htm?year=2015";
+		redirecturl['/tc/speeches-2016.htm'] = "/tc/news/speech/index.htm?year=2016";
+		redirecturl['/tc/speeches-2017.htm'] = "/tc/news/speech/index.htm?year=2017";
+		redirecturl['/tc/speeches-2018.htm'] = "/tc/news/speech/index.htm?year=2018";
+		redirecturl['/tc/speeches-2019.htm'] = "/tc/news/speech/index.htm?year=2019";
+		redirecturl['/tc/speeches-2020.htm'] = "/tc/news/speech/index.htm?year=2020";
+		redirecturl['/tc/speeches-2021.htm'] = "/tc/news/speech/index.htm?year=2021";
+		redirecturl['/tc/speeches.htm'] = "/tc/news/speech/index.htm";
+		redirecturl['/tc/transcripts-2007.htm'] = "/tc/news/transcript/index.htm?year=2007";
+		redirecturl['/tc/transcripts-2008.htm'] = "/tc/news/transcript/index.htm?year=2008";
+		redirecturl['/tc/transcripts-2009.htm'] = "/tc/news/transcript/index.htm?year=2009";
+		redirecturl['/tc/transcripts-2010.htm'] = "/tc/news/transcript/index.htm?year=2010";
+		redirecturl['/tc/transcripts-2011.htm'] = "/tc/news/transcript/index.htm?year=2011";
+		redirecturl['/tc/transcripts-2012.htm'] = "/tc/news/transcript/index.htm?year=2012";
+		redirecturl['/tc/transcripts-2013.htm'] = "/tc/news/transcript/index.htm?year=2013";
+		redirecturl['/tc/transcripts-2014.htm'] = "/tc/news/transcript/index.htm?year=2014";
+		redirecturl['/tc/transcripts-2015.htm'] = "/tc/news/transcript/index.htm?year=2015";
+		redirecturl['/tc/transcripts-2016.htm'] = "/tc/news/transcript/index.htm?year=2016";
+		redirecturl['/tc/transcripts-2017.htm'] = "/tc/news/transcript/index.htm?year=2017";
+		redirecturl['/tc/transcripts-2018.htm'] = "/tc/news/transcript/index.htm?year=2018";
+		redirecturl['/tc/transcripts-2019.htm'] = "/tc/news/transcript/index.htm?year=2019";
+		redirecturl['/tc/transcripts-2020.htm'] = "/tc/news/transcript/index.htm?year=2020";
+		redirecturl['/tc/transcripts-2021.htm'] = "/tc/news/transcript/index.htm?year=2021";
+		redirecturl['/tc/transcripts.htm'] = "/tc/news/transcript/index.htm";
+
+		if(redirecturl[findpath]){
+			var para = window.location.search;
+			window.location.href = sitepath+redirecturl[findpath]+para;
+		}else{
+			setTimeout('delayer()', 5000);
+		}
+
+	
+	}catch(e){
+	}
+
+function delayer(){
+    window.location = "http://www.fstb.gov.hk/"
+}
+
+
+window.onload=function(){
+	try{
+		document.getElementById("header_logo").src = sitepath+"/common/index/images/logo_e.svg";
+	}catch(e){
+	}
+}
+//-->
+</script>
+<!--
+<style type="text/css">
+
+body {
+	text-align:center;	/* IE6 for center container */
+	margin-top:10px; 	/* ceiling the top */
+	margin-left:10px;
+	margin-right:10px;
+	font-size:81.4%;
+	font-family:Arial, Helvetica, sans-serif, PMingLiu, MingLiu;
+}
+h1 {
+	line-height:0px;
+	display:inline;
+} /* for enclose GovHK slogan */
+#pageAll {
+	width:100%;
+ 	width:expression( (document.body.clientWidth < 760 ? "759px" : (document.body.clientWidth > 1220 ? "1220px" : "100%")) );
+	min-width:760px;
+	max-width:1220px;	/* FF */
+	text-align:left;	/* restore body tag */
+}
+#mainArea {
+	float:left;
+	width:99.5%;
+	margin-top:10px;
+	font-size:1.15em;
+	line-height:1.2em;
+}
+a:link {
+	color:#000000;
+}
+a:visited {
+	color:#666666;
+}
+a:hover, a:active, a:focus {
+	color:#FF6600;
+}
+
+</style>
+-->
+</head>
+<body >
+<div id="pageAll">
+  <h1><img  alt="Financial Services and the Treasury Bureau" id="header_logo"></h1>
+  <div id="mainArea"> <br>
+    <br>
+    <strong>Sorry, the page you requested cannot be found.</strong><br >
+    <br >
+    Please note that the Financial Services and the Treasury Bureau has launched a new Homepage.  You will be re-directed to the new Financial Services and the Treasury Bureau Homepage in 5 seconds.  You can also click the following link to go to the new Financial Services and the Treasury Bureau Homepage.<br >
+    <br >
+    <a href="http://www.fstb.gov.hk">http://www.fstb.gov.hk</a><br >
+    <br >
+    Thank you for your support.<br >
+    <br >
+    <strong>對不起, 我們找不到你要的網頁。</strong><br >
+    <br >
+    財經事務及庫務局已推出一個全新的網頁。你將於 5 秒內被帶到新的財經事務及庫務局網頁。你亦可按以下連結瀏覽新的財經事務及庫務局網頁。<br >
+    <br >
+    <a href="http://www.fstb.gov.hk">http://www.fstb.gov.hk</a><br >
+    <br >
+    謝謝你的支持。<br >
+    <br >
+    <strong>对不起, 我们找不到你要的网页。</strong><br >
+    <br >
+    财经事务及库务局已推出一个全新的网页。你将於 5 秒内被带到新的财经事务及库务局网页。你亦可按以下连结浏览新的财经事务及库务局网页。<br >
+    <br >
+    <a href="http://www.fstb.gov.hk">http://www.fstb.gov.hk</a><br >
+    <br >
+    谢谢你的支持。<br >
+    <br >
+  </div>
+</div>
+</body>
+</html>
