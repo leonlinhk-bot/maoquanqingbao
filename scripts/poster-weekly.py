@@ -89,6 +89,7 @@ def gradient(size, colors):
 _TOKEN_RE = _re.compile(r'[A-Za-z0-9+\-][A-Za-z0-9+\-.,:%/]*|\s+|[^\s]')
 
 def wrap(draw, text, font, maxw):
+    """token 化贪心换行 + 避免 widow（末行过短时从上一行回搬 token 做均衡）。"""
     tokens = _TOKEN_RE.findall(text)
     lines, line = [], ''
     for tk in tokens:
@@ -98,6 +99,26 @@ def wrap(draw, text, font, maxw):
             line += tk
     if line:
         lines.append(line)
+    if len(lines) < 2:
+        return lines
+    # 末行过短（如只剩「责。」）时，把上一行末尾的 token 依次搬到末行，
+    # 直到末行达到可接受的宽度下限——避免「负责」「导流」被拆且末行孤短。
+    min_last = maxw * 0.30
+    guard = 0
+    while guard < 60:
+        if draw.textlength(lines[-1], font=font) >= min_last:
+            break
+        prev_tokens = _TOKEN_RE.findall(lines[-2])
+        if len(prev_tokens) <= 1:
+            break
+        tk = prev_tokens[-1]
+        if draw.textlength(tk + lines[-1], font=font) > maxw:
+            break
+        lines[-2] = ''.join(prev_tokens[:-1])
+        lines[-1] = tk + lines[-1]
+        guard += 1
+    if not lines[-2] or not lines[-1]:
+        return [l for l in lines if l]
     return lines
 
 def circular_logo(path, size):
