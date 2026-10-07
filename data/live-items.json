@@ -181,6 +181,17 @@
     "cleanedBy": "humanizer v2 - targeted",
     "changelog": [
       {
+        "date": "2026-10-08",
+        "title": {
+          "sc": "信息源字段清污",
+          "tc": "信息源欄位清污"
+        },
+        "items": [
+          "合并同义 sourceKey 24 条",
+          "规范化 source.sc 机器标记 346 条（去日期/EN标记噪声）"
+        ]
+      },
+      {
         "date": "2026-09-08",
         "title": {
           "sc": "v2.5 — 使用度追踪 · 今日脉搏时间优先",
@@ -380,8 +391,8 @@
         "tc": "巨型退休基金把 ILS 納入「氣候方案」配置，屬結構性資金來源的變化；這類長線資金進場，會持續壓低再保價格並改變承保能力格局。"
       },
       "source": {
-        "sc": "Artemis 2026-10-06 報道",
-        "tc": "Artemis 2026-10-06 報道",
+        "sc": "Artemis",
+        "tc": "Artemis",
         "lang": "en"
       }
     },
@@ -462,8 +473,8 @@
         "tc": "ILS 資金胃納仍是承保能力的核心支撐；與同日 Plenum 息差數據、Hannover Re 表態並讀，可拼出「資本充裕、定價偏軟」的完整市場圖景。"
       },
       "source": {
-        "sc": "Artemis 2026-10-06 報道",
-        "tc": "Artemis 2026-10-06 報道",
+        "sc": "Artemis",
+        "tc": "Artemis",
         "lang": "en"
       }
     },
@@ -544,8 +555,8 @@
         "tc": "大型再保人如何「與 ILS 資本共處」，決定了未來承保能力的結構與費用；其態度由「競爭」轉向「夥伴」，是近年市場軟化的重要組織性原因。"
       },
       "source": {
-        "sc": "Artemis 2026-10-06 報道",
-        "tc": "Artemis 2026-10-06 報道",
+        "sc": "Artemis",
+        "tc": "Artemis",
         "lang": "en"
       }
     },
@@ -626,8 +637,8 @@
         "tc": "AI 正被直接寫入巨災模型的物理建模層，而非只作輔助工具；模型的「更新頻率」本身成為承保與定價的關鍵變數，是風險科技值得留意的方向。"
       },
       "source": {
-        "sc": "Artemis 2026-10-07 報道",
-        "tc": "Artemis 2026-10-07 報道",
+        "sc": "Artemis",
+        "tc": "Artemis",
         "lang": "en"
       }
     },
@@ -708,8 +719,8 @@
         "tc": "巨災債券息差是再保定價的市場化讀數。風險息差收窄而無風險利率上升的組合，說明投資者回報的構成正在位移，對理解再保條款與價格走勢有前瞻意義。"
       },
       "source": {
-        "sc": "Artemis 2026-10-07 報道",
-        "tc": "Artemis 2026-10-07 報道",
+        "sc": "Artemis",
+        "tc": "Artemis",
         "lang": "en"
       }
     },
@@ -791,8 +802,8 @@
         "tc": "TWIA 是巨災債券市場最大的機構發行人之一；其需求預測與預算下降，是「費率走軟＋儲備充足」共同作用的實例，對理解巨災債券供求與定價週期有參考價值。"
       },
       "source": {
-        "sc": "Artemis 2026-10-07 報道",
-        "tc": "Artemis 2026-10-07 報道",
+        "sc": "Artemis",
+        "tc": "Artemis",
         "lang": "en"
       }
     },
@@ -873,8 +884,8 @@
         "tc": "巨災事件是再保與 ILS 市場的即時變數；本案說明「淡季不等於無風險」，也提醒風險溝通應以事件而非季節平均為基礎。"
       },
       "source": {
-        "sc": "Artemis 2026-10-07 報道",
-        "tc": "Artemis 2026-10-07 報道",
+        "sc": "Artemis",
+        "tc": "Artemis",
         "lang": "en"
       }
     },
@@ -956,8 +967,8 @@
         "tc": "退休金風險轉移與長壽風險再保，是成熟市場應對人口老化的主要金融工具；亞洲市場（含香港）的退休與年金需求趨升，這個領域的國際玩家動向值得長期跟蹤。"
       },
       "source": {
-        "sc": "Artemis 2026-10-07 報道",
-        "tc": "Artemis 2026-10-07 報道",
+        "sc": "Artemis",
+        "tc": "Artemis",
         "lang": "en"
       }
     },
@@ -1038,8 +1049,8 @@
         "tc": "UCITS 巨災債券基金是巨災風險資本市場化的主要載體，其 AUM 走勢直接反映機構資金對再保風險的胃納，是判斷承保能力與費率走向的滯後但可靠的指標。"
       },
       "source": {
-        "sc": "Artemis 2026-10-07 報道",
-        "tc": "Artemis 2026-10-07 報道",
+        "sc": "Artemis",
+        "tc": "Artemis",
         "lang": "en"
       }
     },
@@ -1121,8 +1132,8 @@
         "tc": "內地保險機構以香港特殊目的保險公司發行巨災債券，正是香港「保險相連證券（ILS）」政策方向的實例；對關注風險管理樞紐定位與跨境架構的人而言，這是可追蹤的市場信號。"
       },
       "source": {
-        "sc": "Artemis 2026-10-07 報道",
-        "tc": "Artemis 2026-10-07 報道",
+        "sc": "Artemis",
+        "tc": "Artemis",
         "lang": "en"
       }
     },
@@ -1204,8 +1215,8 @@
         "tc": "保險的社會價值（縮窄保障缺口、社區韌性）正成為監管與公眾敘事的重要一環；此類項目是理解「保險如何被期待回應社會需要」的現成案例。"
       },
       "source": {
-        "sc": "Insurance Asia 2026-10-06 報道",
-        "tc": "Insurance Asia 2026-10-06 報道",
+        "sc": "Insurance Asia",
+        "tc": "Insurance Asia",
         "lang": "en"
       }
     },
@@ -1286,8 +1297,8 @@
         "tc": "日本跨國企業的全球保險計劃（global programme）是經紀行競爭的關鍵賽道；Aon 以「東京主管＋芝加哥北美主管」雙任命強化日企外拓支持，反映日企海外布局帶來的風險安排需求。"
       },
       "source": {
-        "sc": "Insurance Asia 2026-10-06 報道",
-        "tc": "Insurance Asia 2026-10-06 報道",
+        "sc": "Insurance Asia",
+        "tc": "Insurance Asia",
         "lang": "en"
       }
     },
@@ -1368,8 +1379,8 @@
         "tc": "Allianz Partners 是安聯的全球健康與援助業務平台，其掌舵人變動會影響該集團在區內醫療、旅遊及援助類產品的策略取向，值得持續跟進。"
       },
       "source": {
-        "sc": "Insurance Asia 2026-10-06 報道",
-        "tc": "Insurance Asia 2026-10-06 報道",
+        "sc": "Insurance Asia",
+        "tc": "Insurance Asia",
         "lang": "en"
       }
     },
@@ -1451,8 +1462,8 @@
         "tc": "公共醫保的「離境不停保」漏洞顯示制度完整性缺口，正好說明私營補充醫療保障在韓國的空間；對從事跨境僱員團體保險的同業，離職申報流程是現成的風險自查問題。"
       },
       "source": {
-        "sc": "Insurance Business Asia 2026-10-07 報道",
-        "tc": "Insurance Business Asia 2026-10-07 報道",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       }
     },
@@ -1534,8 +1545,8 @@
         "tc": "「政府提供基本盤、商業險補缺口」的模式在亞洲陸續出現。免費保障明確排除營業中斷，等於為經紀劃出清晰的切入問題：客戶的存貨、設備與營運收入實際需要多少保額。"
       },
       "source": {
-        "sc": "Insurance Business Asia 2026-10-07 報道",
-        "tc": "Insurance Business Asia 2026-10-07 報道",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       }
     },
@@ -1617,8 +1628,8 @@
         "tc": "亞洲新興市場的巨災保障缺口，主要靠主權／國際風險轉移與本土保險池兩條腿走路；菲律賓案例說明「有安排」不等於「有覆蓋」，是理解保障缺口的現實教材。"
       },
       "source": {
-        "sc": "Insurance Business Asia 2026-10-07 報道",
-        "tc": "Insurance Business Asia 2026-10-07 報道",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       }
     },
@@ -1699,8 +1710,8 @@
         "tc": "國際經紀行持續加碼日本市場人才，與同日 Awbury、三井物產消息並讀，可見亞洲（尤其日本）企業風險業務正成為經紀競爭焦點。"
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-10-07 報道",
-        "tc": "InsuranceAsia News 2026-10-07 報道",
+        "sc": "InsuranceAsia News",
+        "tc": "InsuranceAsia News",
         "lang": "en"
       }
     },
@@ -1781,8 +1792,8 @@
         "tc": "亞洲區經紀行的人事更替往往反映業務重心轉移；日本大型商社系經紀的一般保險主管換人，是觀察日系企業客戶風險需求變化的切入點。"
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-10-07 報道",
-        "tc": "InsuranceAsia News 2026-10-07 報道",
+        "sc": "InsuranceAsia News",
+        "tc": "InsuranceAsia News",
         "lang": "en"
       }
     },
@@ -1866,8 +1877,8 @@
         "tc": "勞合社辛迪加直接落戶日本，反映亞洲信用、貿易與地緣相關風險的專業承保需求上升，也為區內經紀與企業客戶多開一條特種險渠道。"
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-10-07 報道",
-        "tc": "InsuranceAsia News 2026-10-07 報道",
+        "sc": "InsuranceAsia News",
+        "tc": "InsuranceAsia News",
         "lang": "en"
       }
     },
@@ -1949,8 +1960,8 @@
         "tc": "強積金表現是與客戶日常對話的高頻話題。以「年初至今」而非單月表現說明長線投資，是現成且合規的溝通框架，並與積金局的官方口徑一致。"
       },
       "source": {
-        "sc": "南華早報 2026-10-07 報道",
-        "tc": "南華早報 2026-10-07 報道",
+        "sc": "南華早報",
+        "tc": "南華早報",
         "lang": "en"
       }
     },
@@ -2119,8 +2130,8 @@
         "tc": "反映議會與政策層面對「保險專業人才」的定位上升，並把專項保險（低空經濟、大宗商品、再保險等）與人才政策掛鈎；對團隊的人才佈局、專業形象與對外敘事均有參考價值。屬議員建議，非政府既定政策。"
       },
       "source": {
-        "sc": "香港01 2026-10-07 報道",
-        "tc": "香港01 2026-10-07 報道",
+        "sc": "香港01",
+        "tc": "香港01",
         "lang": "zh"
       }
     },
@@ -2287,8 +2298,8 @@
         "tc": "公共醫保與商業醫保的「重疊與分工」是亞洲市場共同的結構問題；對理解醫療保障體系的政策方向具對照價值。"
       },
       "source": {
-        "sc": "Insurance Business Asia 2026-10-07 報道",
-        "tc": "Insurance Business Asia 2026-10-07 報道",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       }
     },
@@ -2371,8 +2382,8 @@
         "tc": "戰爭險與貨運險的區域風險認定（listed areas）直接影響條款與加費；此事件可能加快高風險水域名單的重估，是海運保險條款變化的觸發點。"
       },
       "source": {
-        "sc": "Insurance Business Asia 2026-10-07 報道",
-        "tc": "Insurance Business Asia 2026-10-07 報道",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       }
     },
@@ -2456,8 +2467,8 @@
         "tc": "「從沉默到明確」的 AI 條款趨勢正重塑網絡險市場；營業中斷賠償期延長的邏輯（系統恢復後收入仍需時間復原）亦可用於向企業客戶說明賠償期與保額設計的考量。"
       },
       "source": {
-        "sc": "Insurance Business Asia 2026-10-07 報道",
-        "tc": "Insurance Business Asia 2026-10-07 報道",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       }
     },
@@ -2541,8 +2552,8 @@
         "tc": "為「保障缺口」討論提供實證支撐：風險互連時，同一事件的損失會分散落在觸發條件與條款各異的多張保單上。這是與企業客戶討論保單協調與整體風險檢視的具體理據。"
       },
       "source": {
-        "sc": "Insurance Business Asia 2026-10-07 報道",
-        "tc": "Insurance Business Asia 2026-10-07 報道",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       }
     },
@@ -2626,8 +2637,8 @@
         "tc": "香港賽馬經濟規模龐大，特殊資產保險（血統馬、藝術品、收藏品）是高端客戶風險管理較少被討論的一環，可作為與高客開展「非傳統資產保障」對話的切口。"
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-10-07 報道",
-        "tc": "InsuranceAsia News 2026-10-07 報道",
+        "sc": "InsuranceAsia News",
+        "tc": "InsuranceAsia News",
         "lang": "en"
       }
     },
@@ -2711,8 +2722,8 @@
         "tc": "分銷渠道規則直接影響中介生態與客戶接觸方式；印度作為高增長市場的監管取向，是觀察亞洲中介制度變化的參照樣本。"
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-10-07 報道",
-        "tc": "InsuranceAsia News 2026-10-07 報道",
+        "sc": "InsuranceAsia News",
+        "tc": "InsuranceAsia News",
         "lang": "en"
       }
     },
@@ -2796,8 +2807,8 @@
         "tc": "保險業組織跨市場結盟，反映氣候、網絡與地緣風險已超出單一市場的應對能力；對理解行業層面的政策倡議方向及國際標準互動具參考價值。"
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-10-07 報道",
-        "tc": "InsuranceAsia News 2026-10-07 報道",
+        "sc": "InsuranceAsia News",
+        "tc": "InsuranceAsia News",
         "lang": "en"
       }
     },
@@ -2881,8 +2892,8 @@
         "tc": "這是「保障／退休資產 vs 證券」長期份額變化的權威口徑，可用於解釋客戶資金配置偏好轉變，以及保險在家庭資產表中角色被稀釋的結構性壓力。"
       },
       "source": {
-        "sc": "Insurance Asia 2026-10-07 報道",
-        "tc": "Insurance Asia 2026-10-07 報道",
+        "sc": "Insurance Asia",
+        "tc": "Insurance Asia",
         "lang": "en"
       }
     },
@@ -2966,8 +2977,8 @@
         "tc": "網絡險核保正由「問卷＋財報」轉向可外部驗證的數據。對中介的實務啟示是：客戶的數碼資產管理與供應商結構會直接影響核保結果，屬於可提前準備的對話內容。"
       },
       "source": {
-        "sc": "Insurance Asia 2026-10-07 報道",
-        "tc": "Insurance Asia 2026-10-07 報道",
+        "sc": "Insurance Asia",
+        "tc": "Insurance Asia",
         "lang": "en"
       }
     },
@@ -3050,8 +3061,8 @@
         "tc": "航空險屬高門檻專業險種，其續保週期與累積風險管理方法是理解「承保能力－費率－條款」傳導的實例；地緣政治對客運量與燃油成本的影響亦值得留意。"
       },
       "source": {
-        "sc": "Insurance Asia 2026-10-07 報道",
-        "tc": "Insurance Asia 2026-10-07 報道",
+        "sc": "Insurance Asia",
+        "tc": "Insurance Asia",
         "lang": "en"
       }
     },
@@ -3134,8 +3145,8 @@
         "tc": "資本創新高＋回報強勁，正是市場偏軟、競爭加劇的根本原因；另類資本（ILS）向責任險延伸尤其值得留意，長遠會影響承保能力與條款取向。"
       },
       "source": {
-        "sc": "Insurance Asia 2026-10-07 報道",
-        "tc": "Insurance Asia 2026-10-07 報道",
+        "sc": "Insurance Asia",
+        "tc": "Insurance Asia",
         "lang": "en"
       }
     },
@@ -3218,8 +3229,8 @@
         "tc": "在承保能力充裕、費率走軟的週期中，觀察險企如何以臨時分保部署資本並承接新風險敞口；「地緣政治＋網絡」關注度一年內大幅躍升，是理解再保與直保風險偏好的前瞻信號。"
       },
       "source": {
-        "sc": "Insurance Asia 2026-10-07 報道",
-        "tc": "Insurance Asia 2026-10-07 報道",
+        "sc": "Insurance Asia",
+        "tc": "Insurance Asia",
         "lang": "en"
       }
     },
@@ -3303,8 +3314,8 @@
         "tc": "反映香港對資源與區域樞紐地位的高度敏感，是「AI＋金融中心競爭」的具體案例；對團隊理解香港政策取向與區域競爭態勢有參考價值。屬媒體報道與消息人士說法，須註明未經官方確認。"
       },
       "source": {
-        "sc": "香港01 引述《金融時報》2026-10-06 報道",
-        "tc": "香港01 引述《金融時報》2026-10-06 報道",
+        "sc": "香港01 引述《金融時報》",
+        "tc": "香港01 引述《金融時報》",
         "lang": "zh"
       }
     },
@@ -3468,8 +3479,8 @@
         "tc": "保險科技在氣候與參數化風險領域持續投入科研人才，反映「保險＋數據科學」的產品化方向。"
       },
       "source": {
-        "sc": "Artemis 2026-10-06 報道",
-        "tc": "Artemis 2026-10-06 報道",
+        "sc": "Artemis",
+        "tc": "Artemis",
         "lang": "en"
       }
     },
@@ -3551,8 +3562,8 @@
         "tc": "參數化保險在氣候風險與普惠金融場景的落地案例，展示「無需逐案理賠」的風險轉移思路，是產品創新的參考樣本。"
       },
       "source": {
-        "sc": "Artemis 2026-10-06 報道",
-        "tc": "Artemis 2026-10-06 報道",
+        "sc": "Artemis",
+        "tc": "Artemis",
         "lang": "en"
       }
     },
@@ -3633,8 +3644,8 @@
         "tc": "次生災害（雷暴、暴雨）損失持續上修，是巨災債券與再保定價的重要背景；對理解氣候風險累積有幫助。"
       },
       "source": {
-        "sc": "Artemis 2026-10-06 報道",
-        "tc": "Artemis 2026-10-06 報道",
+        "sc": "Artemis",
+        "tc": "Artemis",
         "lang": "en"
       }
     },
@@ -3715,8 +3726,8 @@
         "tc": "新興行業的保障缺口是「風險轉移」思維的典型案例；對企業客戶與專業責任產品的討論有參考價值。"
       },
       "source": {
-        "sc": "Insurance Business Asia 2026-10-05 報道",
-        "tc": "Insurance Business Asia 2026-10-05 報道",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       }
     },
@@ -3798,8 +3809,8 @@
         "tc": "專業責任險的全球化整合，反映醫療與生命科學領域的風險需求上升，屬專業險種供應側的結構變化。"
       },
       "source": {
-        "sc": "Insurance Business Asia 2026-10-06 報道",
-        "tc": "Insurance Business Asia 2026-10-06 報道",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       }
     },
@@ -3884,8 +3895,8 @@
         "tc": "新加坡家辦與稅務優惠的每一次調整，都直接影響香港家辦與高客資金流向的比較；適合作為區域競合格局的持續觀察點。"
       },
       "source": {
-        "sc": "Insurance Asia 2026-10-06 報道",
-        "tc": "Insurance Asia 2026-10-06 報道",
+        "sc": "Insurance Asia",
+        "tc": "Insurance Asia",
         "lang": "en"
       }
     },
@@ -3966,8 +3977,8 @@
         "tc": "亞洲新興市場的「增長不等於覆蓋」現象，是理解保障缺口與分銷模式的區域對照；對香港市場的直接影響有限。"
       },
       "source": {
-        "sc": "Insurance Asia 2026-10-06 報道",
-        "tc": "Insurance Asia 2026-10-06 報道",
+        "sc": "Insurance Asia",
+        "tc": "Insurance Asia",
         "lang": "en"
       }
     },
@@ -4049,8 +4060,8 @@
         "tc": "能源與基建項目的保險方案是企業風險管理的高門檻領域；對理解大型項目保險與再保安排有參考價值。"
       },
       "source": {
-        "sc": "Insurance Asia 2026-10-06 報道",
-        "tc": "Insurance Asia 2026-10-06 報道",
+        "sc": "Insurance Asia",
+        "tc": "Insurance Asia",
         "lang": "en"
       }
     },
@@ -4133,8 +4144,8 @@
         "tc": "氣候週期對巨災敞口與再保險定價的影響是區域性議題；對理解保障缺口與再保成本傳導有幫助。"
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-10-06 報道",
-        "tc": "InsuranceAsia News 2026-10-06 報道",
+        "sc": "InsuranceAsia News",
+        "tc": "InsuranceAsia News",
         "lang": "en"
       }
     },
@@ -4215,8 +4226,8 @@
         "tc": "再保／企業解決方案團隊的區域人事佈局，是跨國企業風險安排的供應側觀察點。"
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-10-06 報道",
-        "tc": "InsuranceAsia News 2026-10-06 報道",
+        "sc": "InsuranceAsia News",
+        "tc": "InsuranceAsia News",
         "lang": "en"
       }
     },
@@ -4299,8 +4310,8 @@
         "tc": "專業險種（政治風險、信用及保證）在亞洲的核保人事佈局，反映該類風險的區域需求與承保能力配置。"
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-10-06 報道",
-        "tc": "InsuranceAsia News 2026-10-06 報道",
+        "sc": "InsuranceAsia News",
+        "tc": "InsuranceAsia News",
         "lang": "en"
       }
     },
@@ -4384,8 +4395,8 @@
         "tc": "東南亞合資保險股權變動，是觀察亞洲險企區域策略與資本配置的窗口；屬行業格局情報，與香港市場直接關聯有限。"
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-10-06 報道",
-        "tc": "InsuranceAsia News 2026-10-06 報道",
+        "sc": "InsuranceAsia News",
+        "tc": "InsuranceAsia News",
         "lang": "en"
       }
     },
@@ -4469,8 +4480,8 @@
         "tc": "承保人更替關係到既有保單的續保安排與核保口徑，屬渠道與專業險種層面的實務信息。"
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-10-06 報道",
-        "tc": "InsuranceAsia News 2026-10-06 報道",
+        "sc": "InsuranceAsia News",
+        "tc": "InsuranceAsia News",
         "lang": "en"
       }
     },
@@ -4552,8 +4563,8 @@
         "tc": "大型壽險集團持續把長壽與投資風險轉移至第三方資本，反映行業在資本效率與資產負債管理上的取向；對理解集團層面的財務安排背景有參考價值。"
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-10-06 報道",
-        "tc": "InsuranceAsia News 2026-10-06 報道",
+        "sc": "InsuranceAsia News",
+        "tc": "InsuranceAsia News",
         "lang": "en"
       }
     },
@@ -4635,8 +4646,8 @@
         "tc": "銀保渠道數碼化是香港分銷格局的關鍵變量：銀行以平台化服務承接保險與財富管理需求，直接影響中介在「保障以外」的比較優勢。"
       },
       "source": {
-        "sc": "Yahoo 財經（香港）2026-10-06 報道",
-        "tc": "Yahoo 財經（香港）2026-10-06 報道",
+        "sc": "Yahoo 財經（香港）",
+        "tc": "Yahoo 財經（香港）",
         "lang": "zh"
       }
     },
@@ -4721,8 +4732,8 @@
         "tc": "保司以遊戲化與數碼顧問拉動年輕MPF成員參與度，是產品以外的競爭動作。對前線的啟示是MPF討論正從回報轉向行為引導：主動管理、風險與投資年期匹配。"
       },
       "source": {
-        "sc": "星島頭條 2026-10-05 報道",
-        "tc": "星島頭條 2026-10-05 報道",
+        "sc": "星島頭條",
+        "tc": "星島頭條",
         "lang": "zh"
       }
     },
@@ -7791,8 +7802,8 @@
         "tc": "倫敦市場最高層人物轉投科技公司，是「保險人才流動跨出傳統承保與經紀邊界」的又一例：一是大型市場機構的前任掌舵人開始進入軟件／科技公司並擔任非執行董事角色，反映數據、平台與技術治理已成爲董事會層面的專業要求，而非僅是科技部門議題；二是這類人事消息常被客戶與團隊當作行業風向提問，處理原則是只引述公開報道與公司披露，不延伸解讀爲產品、償付或投資優勢。"
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-10-05 [EN原文]",
-        "tc": "InsuranceAsia News 2026-10-05 [EN原文]",
+        "sc": "InsuranceAsia News 2026-10-05",
+        "tc": "InsuranceAsia News 2026-10-05",
         "lang": "en"
       }
     },
@@ -7881,8 +7892,8 @@
         "tc": "分銷成本監管的邏輯在亞洲同源：由「渠道費率上限」走向「產品級硬上限＋費用審計」，與香港收窄轉介費、首年佣金分攤與攤回機制的方向一致。這條對香港團隊的實用價值有二：一是報酬結構受監管約束後，代理人／經紀的留存與服務年限會被進一步綁定，團隊規劃人力與產能時要把這一點計入；二是監管最擔心的並非價格本身，而是被壓價後「改以其他名目支付」，即返傭、回贈或以費用外補貼換取業務——這正是香港合規口徑下的高危區。"
       },
       "source": {
-        "sc": "Business Standard 2026-10-04 22:41 IST（香港时间 10-05 01:11）[EN原文]",
-        "tc": "Business Standard 2026-10-04 22:41 IST（香港時間 10-05 01:11）[EN原文]",
+        "sc": "Business Standard 2026-10-04 22:41 IST（香港时间 10-05 01:11）",
+        "tc": "Business Standard 2026-10-04 22:41 IST（香港時間 10-05 01:11）",
         "lang": "en"
       }
     },
@@ -7971,8 +7982,8 @@
         "tc": "這條把兩件事放在一起看才有價值：一是保險公司正把「數字化直營」與「中介／夥伴分銷」兩類業務的管理層互相輪調，並在同一集團內拉近兩者的技術與服務後台，說明直營與中介不再是兩條互不相干的路线；二是官方敘述裏出現「60秒AI理賠」與「ChatGPT 報價」兩個指標，與本週 Manulife 在 ChatGPT 上線旅遊險插件屬同一趨勢——保險的分銷入口正在向通用AI助手遷移。對香港團隊的提示是：流量入口會變，但持牌人的銷售流程、適當性評估與留痕要求不變，工具可以快，合規環節不能省。"
       },
       "source": {
-        "sc": "Insurance Business Asia 2026-10-02 15:54（香港时间）[EN原文]",
-        "tc": "Insurance Business Asia 2026-10-02 15:54（香港時間）[EN原文]",
+        "sc": "Insurance Business Asia 2026-10-02 15:54（香港时间）",
+        "tc": "Insurance Business Asia 2026-10-02 15:54（香港時間）",
         "lang": "en"
       }
     },
@@ -8060,8 +8071,8 @@
         "tc": "旅行社群的入口正從「搜索＋官網」轉向通用AI助手：宏利把報價能力直接嵌入 ChatGPT，是保司爭取「對話式入口」的第一批動作之一。對香港團隊有三層含義：一是客戶會比過去更早、更快地拿到「看起來像報價」的信息，前線需要能解釋報價與承保條件、除外責任的差別；二是內容生產與AI可見度正在成爲保司的品牌資產，團隊的公開內容同樣會被AI引用，措辭必須可溯源、不得誇大；三是無論入口如何變化，持牌人層面的需求分析、適當性與披露仍是不可替代的一環。"
       },
       "source": {
-        "sc": "Manulife 公告（Newswire.ca／The Globe and Mail 转载）2026-09-28 [EN原文]",
-        "tc": "Manulife 公告（Newswire.ca／The Globe and Mail 轉載）2026-09-28 [EN原文]",
+        "sc": "Manulife 公告（Newswire.ca／The Globe and Mail 转载）2026-09-28",
+        "tc": "Manulife 公告（Newswire.ca／The Globe and Mail 轉載）2026-09-28",
         "lang": "en"
       }
     },
@@ -8148,8 +8159,8 @@
         "tc": "保險公司把「傳承」做成面向代理人與客戶的品牌論壇，反映高客市場的溝通語言正從「產品收益」轉向「跨代規劃與家族治理」。對香港團隊的可遷移點：一是客戶對傳承議題的興趣需要真本事支撐（受益人安排、信託與保單架構、跨境稅務與法務協同），論壇內容不能替代顧問流程與合規披露；二是同業品牌活動的公開資訊可以作爲客戶溝通與團隊選題的素材，但不得轉述爲產品推介、收益或回報承諾。"
       },
       "source": {
-        "sc": "Media OutReach（保诚香港发布）2026-10-04 [EN原文]",
-        "tc": "Media OutReach（保誠香港發佈）2026-10-04 [EN原文]",
+        "sc": "Media OutReach（保诚香港发布）2026-10-04",
+        "tc": "Media OutReach（保誠香港發佈）2026-10-04",
         "lang": "en"
       }
     },
@@ -8236,8 +8247,8 @@
         "tc": "這類「業務停止令＋消費者賠償」的組合值得香港團隊細看：一是說明不當銷售的真實成本最終以停售、逐案賠償與聲譽折損的形式一次性還清，對業務連續性的殺傷大於罰款；二是涉事行爲（向客戶借款、私下收取資金、代客投資）本身即合規紅線，可直接用作銷售行爲自查與新人培訓的反面教材；三是提醒區分主體——美國保德信金融集團、日本保德信生命與香港保誠（Prudential plc）並無股權關係，客戶問起時不要混爲一談。"
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-10-04 14:25 [EN原文]",
-        "tc": "InsuranceAsia News 2026-10-04 14:25 [EN原文]",
+        "sc": "InsuranceAsia News 2026-10-04 14:25",
+        "tc": "InsuranceAsia News 2026-10-04 14:25",
         "lang": "en"
       }
     },
@@ -8329,8 +8340,8 @@
         "tc": "這條週報把本週亞洲最值得跟進的三條主線壓在一處，對香港團隊有直接可遷移價值：一是分銷成本監管正在從「渠道費率上限」走向「產品級硬上限＋費用審計」，與香港收窄轉介費、佣金首年分攤的思路同源，前線的報酬結構與服務年限會被繼續綁定；二是韓國大型險企 Lotte 損害保險進入公開出售，說明亞洲保險資產仍在換手，客戶問到「公司會不會換股東」時應以公開披露爲準而不是品牌印象；三是再保經紀、自保與 ILS 通道繼續擴容（SG Re 獲批、伊藤忠自保再保），與香港推動 ILS 與專屬自保的政策方向一致，是經紀渠道可以留意的增量信息面。"
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-10-03 08:00（每周简报 Full Capacity）[EN原文]",
-        "tc": "InsuranceAsia News 2026-10-03 08:00（每週簡報 Full Capacity）[EN原文]",
+        "sc": "InsuranceAsia News 2026-10-03 08:00（每周简报 Full Capacity）",
+        "tc": "InsuranceAsia News 2026-10-03 08:00（每週簡報 Full Capacity）",
         "lang": "en"
       }
     },
@@ -8417,8 +8428,8 @@
         "tc": "香港保險業正以 GenA.I. 沙盒++、保監局「人工智能促進計劃」與《監管通訊》對聊天機械人的要求，把 AI 治理責任落到持牌人層級。內地出現「董事會層級 AI 管理辦法」的樣本，對團隊有兩層提示：一是 AI 治理會像合規手冊一樣成爲董事會議題與可審計對象，不再只是科技部門事項；二是「誰對 AI 輸出內容負責」的兩地監管口徑正在趨同——前線用 AI 生成話術、建議書或客戶溝通材料時，人工覆核與留痕將成爲基本要求。"
       },
       "source": {
-        "sc": "南华早报 SCMP 2026-10-03 11:00（香港时间）[EN原文]",
-        "tc": "南華早報 SCMP 2026-10-03 11:00（香港時間）[EN原文]",
+        "sc": "南华早报 SCMP 2026-10-03 11:00（香港时间）",
+        "tc": "南華早報 SCMP 2026-10-03 11:00（香港時間）",
         "lang": "en"
       }
     },
@@ -8505,8 +8516,8 @@
         "tc": "對香港團隊有兩點實用意義：一是「母公司同期多線資本承諾」是評估險企長期支持能力的關鍵，客戶往往只看品牌與評級，忽略同一集團在證券、儲蓄銀行與併購上同時佔用資本；二是監管機構自身持股（如 KDIC 的10%）會形成額外的時間壓力與信息披露動力，與香港近年強調股東適當性、集團監管與資本充足性披露的邏輯一致。評級機構已提示母公司資產負債表惡化可能帶來負面評級行動，這是前線在高客溝通中值得留意的背景變量，但不可用作兌付或回報承諾。"
       },
       "source": {
-        "sc": "Insurance Business Asia 2026-10-02 23:34（香港时间）[EN原文]",
-        "tc": "Insurance Business Asia 2026-10-02 23:34（香港時間）[EN原文]",
+        "sc": "Insurance Business Asia 2026-10-02 23:34（香港时间）",
+        "tc": "Insurance Business Asia 2026-10-02 23:34（香港時間）",
         "lang": "en"
       }
     },
@@ -8592,8 +8603,8 @@
         "tc": "ILS 與另類資本正從財產巨災向傷亡長尾延伸，這與香港推動保險相連證券（ILS）與專屬自保、以及內地險企赴港發行巨災債與側掛車的政策方向同源。對經紀與高客團隊而言，重點不是向客戶銷售 ILS，而是理解「資本市場的參與者在關心什麼」——長尾風險的定價透明度、退出機制與資本終局性。這與分紅保單中「非保證利益如何被長期資產管理與資本約束支撐」屬於同一套討論框架，有助於團隊在客戶面前把「非保證」講清楚。"
       },
       "source": {
-        "sc": "Artemis.bm 2026-10-02 21:00（香港时间）[EN原文]",
-        "tc": "Artemis.bm 2026-10-02 21:00（香港時間）[EN原文]",
+        "sc": "Artemis.bm 2026-10-02 21:00（香港时间）",
+        "tc": "Artemis.bm 2026-10-02 21:00（香港時間）",
         "lang": "en"
       }
     },
@@ -8679,8 +8690,8 @@
         "tc": "這條對香港保險團隊的意義在「資產端敘事」：利率上行期，保險公司被債券投資者重新定價爲淨受益者，其次級資本工具存在持續行業溢價。這與香港風險爲本資本制度的新一輪優化方向相呼應——爲合資格基礎設施投資提供優惠資本待遇、爲指數型萬用壽險引入匹配調整（MA）、下調一般業務部分風險因子，制度目標都是提升資產端效率與資負匹配。對前線而言，可藉此理解「公司質量」的判斷維度不止保費規模，還包括資本工具結構、融資成本與資產配置能力；但任何資本市場收益率都不得用來類比保單回報。"
       },
       "source": {
-        "sc": "Artemis.bm 2026-10-02 18:30（香港时间）[EN原文]",
-        "tc": "Artemis.bm 2026-10-02 18:30（香港時間）[EN原文]",
+        "sc": "Artemis.bm 2026-10-02 18:30（香港时间）",
+        "tc": "Artemis.bm 2026-10-02 18:30（香港時間）",
         "lang": "en"
       }
     },
@@ -8766,8 +8777,8 @@
         "tc": "這條的價值不在併購本身，而在它把「保險集團多線資本消耗」的傳導鏈講清楚了：母公司同時承擔收購、證券增資、混合資本發行與競購同業，任何一頭超支都會壓縮 K-ICS 償付能力比率，而評級機構與持有10%股權的公共資金方都在盯同一張資產負債表。對以保險集團作交易對手或渠道夥伴的團隊，這是判斷「集團資本紀律」的觀察樣本：集團資本分配優先級變化，會先影響子公司的渠道支持、共同銷售安排與產品供給節奏，而非等到評級動作。"
       },
       "source": {
-        "sc": "Insurance Business Asia 2026-10-02 23:34（香港时间，综合首尔经济日报／AM Best）[EN原文]",
-        "tc": "Insurance Business Asia 2026-10-02 23:34（香港時間，綜合首爾經濟日報／AM Best）[EN原文]",
+        "sc": "Insurance Business Asia 2026-10-02 23:34（香港时间，综合首尔经济日报／AM Best）",
+        "tc": "Insurance Business Asia 2026-10-02 23:34（香港時間，綜合首爾經濟日報／AM Best）",
         "lang": "en"
       },
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/regulators-close-in-on-hanwha-lifes-acuon-deal-as-capital-questions-stack-up-592146.aspx"
@@ -8854,8 +8865,8 @@
         "tc": "這是一條可直接引用、且與香港業務高度可類比的操守證據鏈：代理因素被控制後，廣播／購物型渠道的不當銷售率仍是其他渠道三倍、繼續率低7個百分點，且高齡客群佔比近乎翻倍。對前線與培訓崗來說，它說明「渠道合規強度」與「客戶年齡結構」是比產品本身更有效的風險預測因子；對管理崗來說，處罰門檻與審查時點的設計（播出後審查對直播無效）是制度性漏洞的樣本。香港近年對轉介業務、分紅保單佣金分攤與演示利率的收緊，邏輯一致：把誘因從交易前端移向長期服務。"
       },
       "source": {
-        "sc": "Insurance Business Asia 2026-10-02 22:46（据 FSS 数据、首尔经济日报与 SBS 报道）[EN原文]",
-        "tc": "Insurance Business Asia 2026-10-02 22:46（據 FSS 數據、首爾經濟日報與 SBS 報道）[EN原文]",
+        "sc": "Insurance Business Asia 2026-10-02 22:46（据 FSS 数据、首尔经济日报与 SBS 报道）",
+        "tc": "Insurance Business Asia 2026-10-02 22:46（據 FSS 數據、首爾經濟日報與 SBS 報道）",
         "lang": "en"
       },
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/south-korea-flags-misselling-gap-in-broadcast-insurance-sales-592125.aspx"
@@ -8942,8 +8953,8 @@
         "tc": "地緣衝突正在被制度化：政府以財政資金補貼戰爭險與信用險，等於把原本由商業市場定價的政治風險部分移出價格信號之外，短期內壓低出口商可見成本，但風險本身未消失，只是轉移到財政與出口商在買方保險失效時的殘餘敞口。對承保與經紀業務而言，這提示兩條實務線索：一是「賣方利益／或有保險」這類補充保障的需求在貿易條款從 CIF 轉向 FOB 時會上升；二是同一風險的定價基準（戰爭險費率、運費倍率）是判斷區域風險溢價的可追蹤指標。"
       },
       "source": {
-        "sc": "Insurance Business Asia 2026-10-02 21:59（香港时间，综合 ECGC／S&P Global／Al Jazeera）[EN原文]",
-        "tc": "Insurance Business Asia 2026-10-02 21:59（香港時間，綜合 ECGC／S&P Global／Al Jazeera）[EN原文]",
+        "sc": "Insurance Business Asia 2026-10-02 21:59（香港时间，综合 ECGC／S&P Global／Al Jazeera）",
+        "tc": "Insurance Business Asia 2026-10-02 21:59（香港時間，綜合 ECGC／S&P Global／Al Jazeera）",
         "lang": "en"
       },
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/india-extends-export-risk-relief-to-march-2027-as-gulf-warrisk-costs-stay-high-592114.aspx"
@@ -9030,8 +9041,8 @@
         "tc": "專業險與再保的供給結構在這一併購後更集中：蘇黎世獲得 Lloyd's 辛迪加平臺與 Beazley 的專業險組合，意味著可承保能力與定價權向少數綜合集團靠攏。對依賴專業險、特種險與再保渠道的方案設計者，供給方減少通常先體現為條款與自留額度的議價空間收窄，隨後才反映在費率上；整合期還常出現承保團隊流失與授權邊界調整。此外「兩年釋放10億美元資本」的目標提示新集團會主動優化資本佔用，歷史上這類動作會傳導為對低回報業務的收緊續保。"
       },
       "source": {
-        "sc": "Insurance Business Asia 2026-10-02 18:11（香港时间）[EN原文]",
-        "tc": "Insurance Business Asia 2026-10-02 18:11（香港時間）[EN原文]",
+        "sc": "Insurance Business Asia 2026-10-02 18:11（香港时间）",
+        "tc": "Insurance Business Asia 2026-10-02 18:11（香港時間）",
         "lang": "en"
       },
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/mergers-acquisitions/zurich-completes-beazley-deal-as-adrian-cox-steps-down-as-ceo-592095.aspx"
@@ -9118,8 +9129,8 @@
         "tc": "對亞洲市場最實用的讀法不是損失金額，而是「經濟損失10億美元 vs 投保損失顯著更低」這一差額——它再次量化了亞太地區的保障缺口。結合該網此前的承保人視角報導（極端降雨成為車險、財產險與營業中斷險的主要損失驅動），這類事件對本地財產險定價與條款的影響通常滯後一個續期周期才體現，但對客戶的風險認知是即時的：企業客戶需要區分「有保險」與「保額是否匹配重置成本」兩件事。"
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-10-02 18:11（香港时间，引 Aon 自然巨灾报告）[EN原文]",
-        "tc": "InsuranceAsia News 2026-10-02 18:11（香港時間，引 Aon 自然巨災報告）[EN原文]",
+        "sc": "InsuranceAsia News 2026-10-02 18:11（香港时间，引 Aon 自然巨灾报告）",
+        "tc": "InsuranceAsia News 2026-10-02 18:11（香港時間，引 Aon 自然巨災報告）",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasianews.com/economic-losses-from-thailand-floods-could-reach-up-to-us1bn-aon/"
@@ -9206,8 +9217,8 @@
         "tc": "這是 ILS 供給側的基礎設施建設，對香港正在推進的保險相連證券與專屬自保生態有直接參照價值：要吸引資本進入保險風險，關鍵不只是發行端，而是基金載體、SPI 風險轉換器與團隊三項基礎設施是否齊備。HCP 先建結構再談規模、並明確指向2027年募資，說明 ILS 平臺的成熟周期以年計，與監管批准節奏不完全同步。對關注香港風險管理中心定位的團隊，可將其作為「ILS 生態需要哪些制度組件」的具象案例。"
       },
       "source": {
-        "sc": "Artemis 2026-10-02 16:00（香港时间）[EN原文]",
-        "tc": "Artemis 2026-10-02 16:00（香港時間）[EN原文]",
+        "sc": "Artemis 2026-10-02 16:00（香港时间）",
+        "tc": "Artemis 2026-10-02 16:00（香港時間）",
         "lang": "en"
       },
       "originalUrl": "https://www.artemis.bm/news/hannover-re-capital-partners-establishes-new-bermuda-fund-structure-and-spi/"
@@ -9294,8 +9305,8 @@
         "tc": "把亞太與歐洲的客戶與分銷職能合併到同一負責人，通常指向兩個目的：一是跨國經紀集團與跨國企業客戶的管理口徑統一，二是分銷資源的跨區調配更靈活。對區域渠道合作方而言，這類架構調整意味著對接層級上移、談判口徑可能統一化，本地靈活度短期反而可能下降。值得與同期 Axa XL 在 AI 治理等議題上的公開表態一併觀察其亞太策略走向。"
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-10-02 15:55（香港时间）[EN原文]",
-        "tc": "InsuranceAsia News 2026-10-02 15:55（香港時間）[EN原文]",
+        "sc": "InsuranceAsia News 2026-10-02 15:55（香港时间）",
+        "tc": "InsuranceAsia News 2026-10-02 15:55（香港時間）",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasianews.com/axa-xl-elevates-thomas-gotting-to-chief-client-distribution-officer-for-apac-and-europe/"
@@ -9382,8 +9393,8 @@
         "tc": "經紀行業整合在同一周內出現多起（Gallagher 收購紐西蘭零售經紀、Marsh 完成日本能源企業內部中介收購、Aon 強化日本跨國企業團隊），方向一致：全球經紀集團以併購獲取本地客戶與渠道，同時把人力集中在跨國企業與高價值客戶。對本港中介生態的含義是長期的：獨立經紀在不同市場面對的對手規模持續變大，差異化只能來自本地服務深度與專業細分，而非價格。"
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-10-02 15:50（香港时间）[EN原文]",
-        "tc": "InsuranceAsia News 2026-10-02 15:50（香港時間）[EN原文]",
+        "sc": "InsuranceAsia News 2026-10-02 15:50（香港时间）",
+        "tc": "InsuranceAsia News 2026-10-02 15:50（香港時間）",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasianews.com/gallagher-strikes-deal-to-acquire-kiwi-broker-albany-insurance-services/"
@@ -9470,8 +9481,8 @@
         "tc": "這類指數常被營銷引用，其真正價值在於指出客戶決策維度的位移：年輕一代高淨值客戶把生活方式、健康與價值觀與稅制、金融成熟度並列比較，意味著家族辦公室與傳承服務不能再只講稅務與回報。香港與新加坡排名相鄰、差距有限，說明兩地客源爭奪更多取決於「配套體驗」而非制度優勢本身。這對香港前線與家族辦公室服務團隊的啟示是：服務設計中必須包含非財務維度，否則在客戶決策權重裡會被邊緣化。"
       },
       "source": {
-        "sc": "South China Morning Post 2026-10-02 15:01（香港时间，引 Savills「Next-Generation Wealth Hubs Index」；全文受订阅限制，待复核）[EN原文]",
-        "tc": "South China Morning Post 2026-10-02 15:01（香港時間，引 Savills「Next-Generation Wealth Hubs Index」；全文受訂閱限制，待覆核）[EN原文]",
+        "sc": "South China Morning Post 2026-10-02 15:01（香港时间，引 Savills「Next-Generation Wealth Hubs Index」；全文受订阅限制，待复核）",
+        "tc": "South China Morning Post 2026-10-02 15:01（香港時間，引 Savills「Next-Generation Wealth Hubs Index」；全文受訂閱限制，待覆核）",
         "lang": "en"
       },
       "originalUrl": "https://www.scmp.com/business/article/3369536/hong-kong-ranks-7th-globally-drawing-next-wealthy-class-trailing-singapore-study"
@@ -9558,8 +9569,8 @@
         "tc": "這是全球財產險定價周期反轉的一手證據，且給出了可量化的傳導鏈：再保能力充裕→合約再保軟化→原保險供給過剩→費率與條款同時鬆動。對香港與亞洲市場的參照意義在於，轉軟周期通常伴隨承保紀律鬆動（降低起賠點、放寬措辭），而報告同時指重置成本因關稅與地緣因素加速上升——即費率下降與風險成本上升同時發生，這是最考驗承保紀律的組合。區域再保續期與本地條款談判將逐步感受到這一壓力。"
       },
       "source": {
-        "sc": "Artemis 2026-10-02 15:00（香港时间，引 Willis《Insurance Marketplace Realities》）[EN原文]",
-        "tc": "Artemis 2026-10-02 15:00（香港時間，引 Willis《Insurance Marketplace Realities》）[EN原文]",
+        "sc": "Artemis 2026-10-02 15:00（香港时间，引 Willis《Insurance Marketplace Realities》）",
+        "tc": "Artemis 2026-10-02 15:00（香港時間，引 Willis《Insurance Marketplace Realities》）",
         "lang": "en"
       },
       "originalUrl": "https://www.artemis.bm/news/na-commercial-property-insurance-rates-fall-the-most-in-a-decade-hard-market-reverses-willis/"
@@ -9646,8 +9657,8 @@
         "tc": "公共巨災風險池的定價檢討提供了一個可對照的監管技術樣本：以「長期保費充足度」這一會計口徑驅動費率調整，而非按當年損益。香港正推進保單持有人保障計劃與巨災風險相關制度建設，ARPC 的做法說明風險池要對長期充足度負責，費率上調往往與市場周期無關——即便全球財產險剛錄得十年最大跌幅，公共池仍按自身模型調價。這一點有助於理解「商業市場轉軟」與「公共風險池定價」是兩個獨立軌道。"
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-10-02 08:30（香港时间）[EN原文]",
-        "tc": "InsuranceAsia News 2026-10-02 08:30（香港時間）[EN原文]",
+        "sc": "InsuranceAsia News 2026-10-02 08:30（香港时间）",
+        "tc": "InsuranceAsia News 2026-10-02 08:30（香港時間）",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasianews.com/australian-reinsurance-pool-corporation-proposes-raising-cyclone-pool-premiums-by-2-9/"
@@ -9734,8 +9745,8 @@
         "tc": "戰爭險傳統上按航次、按船舶逐筆承保，適合偶發事件；當同一海域在數月內累積近百起船舶襲擊時，這種碎片化結構就會出現責任追蹤與累積暴露管理的斷層。這對區域市場的提示有兩層：一是特種險的承保結構需要匹配風險的「相關性」而非「單一事件」假設；二是海事與供應鏈客戶的保障安排，需要同時檢視戰爭險、船體險與營業中斷之間的銜接是否留有空隙。"
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-10-02 07:30（香港时间）[EN原文]",
-        "tc": "InsuranceAsia News 2026-10-02 07:30（香港時間）[EN原文]",
+        "sc": "InsuranceAsia News 2026-10-02 07:30（香港时间）",
+        "tc": "InsuranceAsia News 2026-10-02 07:30（香港時間）",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasianews.com/marine-war-risk-challenges-require-central-solution-as-mounting-losses-expose-claims-gaps-markel/"
@@ -9822,8 +9833,8 @@
         "tc": "納閩是亞洲少數同時具備低稅制、外幣計價與離岸保險牌照屬性的司法管轄區，此前區內已有米勒（Miller）等機構在納閩設立平臺承接亞太再保與自保需求。安聯以本地大型保險公司身份直接在納閩設高淨值專屬實體，說明區內「高淨值＋外幣資產」的分層供給正在從香港、新加坡向納閩等次級樞紐擴散。對以香港為基地服務的團隊，這是競爭格局而非產品信息：同一批尋求外幣計價與財富傳承架構的東南亞客戶，會多一個合規可選項，客戶比較的維度將從產品條款擴展到司法管轄區與稅務處理。"
       },
       "source": {
-        "sc": "Insurance Asia 2026-10-02 06:15（香港时间）[EN原文]",
-        "tc": "Insurance Asia 2026-10-02 06:15（香港時間）[EN原文]",
+        "sc": "Insurance Asia 2026-10-02 06:15（香港时间）",
+        "tc": "Insurance Asia 2026-10-02 06:15（香港時間）",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasia.com/insurance/news/allianz-malaysia-launches-labuan-unit-wealthy-clients"
@@ -9910,8 +9921,8 @@
         "tc": "這是可核對的公開評級視角，把「資本充足」與「資本規模」兩個常被混為一談的維度拆開：CPIC 香港屬於資本比率達標但絕對規模有限的一類，標普據此點出單一巨災事件的風險敏感性。對香港市場的意義在於，風險為本資本制度（RBC）落地後，評級機構與監管同時以調整後資本口徑審視高風險資產與巨災敞口，資產端由非投資級轉向投資級的動作會被計為資本效率改善。判斷一家公司抗風險能力時，比償付能力比率數字更值得看的是資產質量趨勢與集團注資的持續性。"
       },
       "source": {
-        "sc": "Insurance Asia 2026-10-02 05:30（香港时间，引 S&P Global Ratings 2026-09-30 评级评论）[EN原文]",
-        "tc": "Insurance Asia 2026-10-02 05:30（香港時間，引 S&P Global Ratings 2026-09-30 評級評論）[EN原文]",
+        "sc": "Insurance Asia 2026-10-02 05:30（香港时间，引 S&P Global Ratings 2026-09-30 评级评论）",
+        "tc": "Insurance Asia 2026-10-02 05:30（香港時間，引 S&P Global Ratings 2026-09-30 評級評論）",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasia.com/news/cpic-hong-kong-capital-strengthens-high-risk-assets-fall-39"
@@ -9998,8 +10009,8 @@
         "tc": "臨分的使用動機從「兜住難承保風險」轉為「支持擴張與管理資本」，說明在市場轉軟、capacity 充裕的環境裡，再保不再只是風控工具，而是承保能力的調節閥。這對產品與承保策略的含義是雙向的：一方面險企可用臨分快速試水新市場與新險種，產品上市門檻因此下降；另一方面網絡風險擔憂一年內由24%躍升至54%，意味著這一風險的定價與條款仍在快速重估期，前期承接的敞口可能被再保市場重新定價。"
       },
       "source": {
-        "sc": "Insurance Asia 2026-10-02 05:00（香港时间，引 WTW／Coleman Parkes《Facultative Reinsurance Report 2026》）[EN原文]",
-        "tc": "Insurance Asia 2026-10-02 05:00（香港時間，引 WTW／Coleman Parkes《Facultative Reinsurance Report 2026》）[EN原文]",
+        "sc": "Insurance Asia 2026-10-02 05:00（香港时间，引 WTW／Coleman Parkes《Facultative Reinsurance Report 2026》）",
+        "tc": "Insurance Asia 2026-10-02 05:00（香港時間，引 WTW／Coleman Parkes《Facultative Reinsurance Report 2026》）",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasia.com/insurance/in-focus/insurers-boost-facultative-reinsurance-use-growth"
@@ -10086,8 +10097,8 @@
         "tc": "同一日內安聯新加坡與大東方完成CEO/董事總經理級交叉換防，加上友邦韓國、怡安日本的人事補位，說明亞太保險公司在承保周期轉軟、競爭加劇時更傾向用內部晉升＋跨機構挖角同步解決「本地市場理解」與「跨國企業客戶能力」兩塊短板。對渠道合作方而言，區域管理層更替常伴隨渠道政策、佣金結構與產品重心調整窗口，值得提前建立直接溝通。"
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-10-01 12:16（另见同日11:58及Insurance Business Asia人事汇总）[EN原文]",
-        "tc": "InsuranceAsia News 2026-10-01 12:16（另見同日11:58及Insurance Business Asia人事匯總）[EN原文]",
+        "sc": "InsuranceAsia News 2026-10-01 12:16（另见同日11:58及Insurance Business Asia人事汇总）",
+        "tc": "InsuranceAsia News 2026-10-01 12:16（另見同日11:58及Insurance Business Asia人事匯總）",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasianews.com/bi-ying-ong-to-succeed-hicham-raissi-as-allianz-singapore-ceo/"
@@ -10172,8 +10183,8 @@
         "tc": "Suncorp 爲澳洲主要一般保險公司，Tokio Marine 近年持續在亞太收購擴張，若成事將屬區域重大整合。此番否認屬上市規則下的正式回應，可作爲觀察日資險企在亞太併購路線是否延續的觀察點；對香港市場而言，日資集團跨境整合往往連帶再保安排與區域管理架構調整。"
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-10-01 10:16 [EN原文]",
-        "tc": "InsuranceAsia News 2026-10-01 10:16 [EN原文]",
+        "sc": "InsuranceAsia News 2026-10-01 10:16",
+        "tc": "InsuranceAsia News 2026-10-01 10:16",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasianews.com/suncorp-denies-tokio-marine-takeover-talks-in-asx-response/"
@@ -10258,8 +10269,8 @@
         "tc": "亞洲再保市場在定價轉軟、資本充裕的環境下仍持續吸引新入場者，韓國經紀集團以新加坡爲跳板，反映區域分出需求與再保中介競爭同步升溫。對香港經紀人而言，這類新再保中介的出現意味着潛在的分出渠道與替代方案增加，也提示再保安排的中介選擇需重新評估。"
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-10-01 06:00 [EN原文]",
-        "tc": "InsuranceAsia News 2026-10-01 06:00 [EN原文]",
+        "sc": "InsuranceAsia News 2026-10-01 06:00",
+        "tc": "InsuranceAsia News 2026-10-01 06:00",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasianews.com/korean-broking-group-simon-global-launches-singapore-based-reinsurance-broker/"
@@ -10344,8 +10355,8 @@
         "tc": "能源轉型帶動亞太新能源項目工程險、營運險與相關責任險需求上升，但承保人同時提高門檻。對香港保險經紀與高客服務而言，這既是企業客戶新風險需求，也提示「綠色項目」並非自動獲得優惠條款；項目盡調與風險資料準備質量將直接影響承保結果。"
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-10-01 11:30（另见Insurance Business Asia同日报道）[EN原文]",
-        "tc": "InsuranceAsia News 2026-10-01 11:30（另見Insurance Business Asia同日報道）[EN原文]",
+        "sc": "InsuranceAsia News 2026-10-01 11:30（另见Insurance Business Asia同日报道）",
+        "tc": "InsuranceAsia News 2026-10-01 11:30（另見Insurance Business Asia同日報道）",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasianews.com/markel-shifts-rob-jones-to-singapore-in-apac-renewables-push/"
@@ -10433,8 +10444,8 @@
         "tc": "這是9月29日Nomura解讀之後的「渠道側」回應：監管若把佣金從產品端大幅壓向一致化，最先失去經濟性的是成本結構最重的獨立經紀模式。對香港亦有參照價值——本地正以轉介費50%上限、佣金改革與披露要求收緊渠道經濟性；經紀團隊應把「顧問成本與報酬是否匹配」納入長期商業模式評估，而非只看單筆佣金率。"
       },
       "source": {
-        "sc": "Insurance Business Asia 2026-10-01（另见 Asia Insurance Review、Insurance Asia 同日报道）[EN原文]",
-        "tc": "Insurance Business Asia 2026-10-01（另見 Asia Insurance Review、Insurance Asia 同日報道）[EN原文]",
+        "sc": "Insurance Business Asia 2026-10-01（另见 Asia Insurance Review、Insurance Asia 同日报道）",
+        "tc": "Insurance Business Asia 2026-10-01（另見 Asia Insurance Review、Insurance Asia 同日報道）",
         "lang": "en"
       },
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/brokers-would-earn-less-than-tied-agents-under-indias-proposed-commission-rules-591968.aspx"
@@ -10520,8 +10531,8 @@
         "tc": "保護缺口83%意味亞洲絕大多數洪水損失未被保險覆蓋，這是參數型產品與公共風險池的政策空間；但對前線實務更直接的含義是：沒有可靠的暴露與高程數據，再精細的定價方法也無法落地。香港與灣區近年推動參數型天氣／洪水保障，經紀團隊在與企業客戶談防洪方案時，應先盤點標的層高、地庫、存貨位置等基礎數據。"
       },
       "source": {
-        "sc": "Insurance Business Asia 2026-10-01（援引瑞士再保险估算）[EN原文]",
-        "tc": "Insurance Business Asia 2026-10-01（援引瑞士再保險估算）[EN原文]",
+        "sc": "Insurance Business Asia 2026-10-01（援引瑞士再保险估算）",
+        "tc": "Insurance Business Asia 2026-10-01（援引瑞士再保險估算）",
         "lang": "en"
       },
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/property/exposure-data-decides-who-benefits-from-floor-height-measurement-591912.aspx"
@@ -10606,8 +10617,8 @@
         "tc": "新加坡是香港在財富管理與保險樞紐上的直接競爭對手，MAS 每次修訂金融機構管治要求都會形成區域對標壓力。香港保監局《監管通訊》第13期同樣把負責人員（RO）在任年期與適當人選評估列爲重點，兩地同步收緊「誰在治理、治理多久、有無實權」這一條主線。對機構與團隊而言，董事／負責人員安排的穩定性正由內部治理題變成監管檢視項。"
       },
       "source": {
-        "sc": "Insurance Asia 2026-10-01 [EN原文]",
-        "tc": "Insurance Asia 2026-10-01 [EN原文]",
+        "sc": "Insurance Asia 2026-10-01",
+        "tc": "Insurance Asia 2026-10-01",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasia.com/news/mas-proposes-governance-updates-banks-and-insurers"
@@ -10695,8 +10706,8 @@
         "tc": "嵌入式保險正把「先有需求再找保險」改成「在消費場景裏順手投保」，旅遊與車險是最容易標準化、比價透明的兩個險種。對傳統經紀與代理渠道而言，這類合作壓縮的是低複雜度、低諮詢需求的客羣，倒逼前線把價值往複雜需求（家庭保障規劃、傳承與跨境架構）遷移；同時也提示平臺分傭與透明度將成爲合規關注點。"
       },
       "source": {
-        "sc": "Insurance Asia 2026-10-01（另见 Tech in Asia 同日报道）[EN原文]",
-        "tc": "Insurance Asia 2026-10-01（另見 Tech in Asia 同日報道）[EN原文]",
+        "sc": "Insurance Asia 2026-10-01（另见 Tech in Asia 同日报道）",
+        "tc": "Insurance Asia 2026-10-01（另見 Tech in Asia 同日報道）",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasia.com/insurance/news/monee-and-great-eastern-launch-travel-and-motor-cover-shopee"
@@ -10781,8 +10792,8 @@
         "tc": "Bolttech 已多次通過合作與收購擴張嵌入式分銷網絡，此次與美國商業險數字平臺結盟，反映保險科技公司正把「交易所式」的報價與核保工作流當作跨國複製的主要資產。對香港市場而言，值得關注的是這類平臺進入後的中介角色分工：誰能提供諮詢與合規把關，誰只提供流程效率。"
       },
       "source": {
-        "sc": "Tech in Asia 2026-10-01 19:44 [EN原文]",
-        "tc": "Tech in Asia 2026-10-01 19:44 [EN原文]",
+        "sc": "Tech in Asia 2026-10-01 19:44",
+        "tc": "Tech in Asia 2026-10-01 19:44",
         "lang": "en"
       },
       "originalUrl": "https://www.techinasia.com/tag/insurtech"
@@ -10868,8 +10879,8 @@
         "tc": "危疾是香港消費者最需要、也最難自行比較的險種之一——單次賠付與多次賠付的責任結構差異極大，過去依賴代理人口述。比價平臺把「結構對比」暴露給消費者，會同時抬高兩個門檻：產品條款的清晰度，以及前線對「多次賠付觸發條件、間隔期、分組限制」的解釋能力。用含糊話術帶過結構差異，正是投訴高發區。"
       },
       "source": {
-        "sc": "GlobeNewswire（MoneyHero）2026-10-01 09:00 [EN原文]",
-        "tc": "GlobeNewswire（MoneyHero）2026-10-01 09:00 [EN原文]",
+        "sc": "GlobeNewswire（MoneyHero）2026-10-01 09:00",
+        "tc": "GlobeNewswire（MoneyHero）2026-10-01 09:00",
         "lang": "en"
       },
       "originalUrl": "https://www.globenewswire.com/news-release/2026/10/01/3372946/0/en/moneyhero-adds-critical-illness-comparison-on-hong-kong-insurance-marketplace.html"
@@ -11041,8 +11052,8 @@
         "tc": "巨災債供給持續高企是亞太再保定價轉軟的重要背景之一——替代資本充裕會壓縮傳統再保人的定價空間，進而影響分出成本與產品結構。對香港而言，ILC／ILS 是政策推動的樞紐方向之一（保險相連證券資助先導計劃、專屬自保與基建資本待遇），發行節奏紀錄化說明市場深度在改善，值得持續跟蹤對再保成本的傳導。"
       },
       "source": {
-        "sc": "Artemis 2026-10-01 [EN原文]",
-        "tc": "Artemis 2026-10-01 [EN原文]",
+        "sc": "Artemis 2026-10-01",
+        "tc": "Artemis 2026-10-01",
         "lang": "en"
       },
       "originalUrl": "https://www.artemis.bm/news/catastrophe-bond-market-keeps-record-pace-after-above-average-q3-report/"
@@ -11127,8 +11138,8 @@
         "tc": "健康險理賠結構的地區性變化是產品定價與核保假設的先行指標：當理賠從大城市向中小城市擴散，意味風險分布更廣、經驗數據更分散，也意味醫療服務使用習慣在變化。香港與灣區健康險同樣面對「跨境就醫＋慢病年輕化」的組合壓力，理賠地域結構的變化值得作爲核保與產品設計討論的參照案例。"
       },
       "source": {
-        "sc": "Insurance Asia 2026-10-01 [EN原文]",
-        "tc": "Insurance Asia 2026-10-01 [EN原文]",
+        "sc": "Insurance Asia 2026-10-01",
+        "tc": "Insurance Asia 2026-10-01",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasia.com/insurance/news/universal-sompo-flags-cardiac-claims-surge-indias-smaller-cities"
@@ -11139,7 +11150,7 @@
       "score": 76,
       "verifyStatus": "pending",
       "sourceTier": "insurer",
-      "sourceKey": "axa-hk",
+      "sourceKey": "axa",
       "title": {
         "sc": "安盛香港入选GenA.I.沙盒++首批 以AI治理与网络韧性用例测试负责任AI",
         "tc": "安盛香港入選GenA.I.沙盒++首批 以AI治理與網絡韌性用例測試負責任AI"
@@ -11443,7 +11454,7 @@
       "score": 78,
       "verifyStatus": "pending",
       "sourceTier": "insurer",
-      "sourceKey": "prudential-hk",
+      "sourceKey": "prudential",
       "title": {
         "sc": "保诚香港全面上线AI核保助手 联手阿里云在销售端实现即时预核保",
         "tc": "保誠香港全面上線AI核保助手 聯手阿里雲在銷售端實現即時預核保"
@@ -11938,8 +11949,8 @@
         "tc": "這是20%境外投資／保險收益徵稅與跨境投資規則收緊之後的第一個黃金周，銀行仍以高額禮遇與稀缺體驗爭客，說明內地客戶在港配置資產的需求並未因稅務與合規收緊而消失，競爭反而從產品條款延伸到服務與體驗的「軟性差異」。對保險渠道而言，同一批客群、同一段時間窗，銀行以存款、理財與保險多重產品包攬，中介若只比產品條件，容易被銀行的綜合服務與禮遇比下去；同時跨境銷售的稅務申報與合規邊界在這段時間更受關注，任何回佣、返點或代客安排都屬高風險。這條適合作為黃金周期間的客戶溝通背景，而非產品推薦依據。"
       },
       "source": {
-        "sc": "South China Morning Post 2026-09-30 23:39（据 RSS 摘要，全文受订阅限制，待复核）[EN原文]",
-        "tc": "South China Morning Post 2026-09-30 23:39（據 RSS 摘要，全文受訂閱限制，待覆核）[EN原文]",
+        "sc": "South China Morning Post 2026-09-30 23:39（据 RSS 摘要，全文受订阅限制，待复核）",
+        "tc": "South China Morning Post 2026-09-30 23:39（據 RSS 摘要，全文受訂閱限制，待覆核）",
         "lang": "en"
       },
       "originalUrl": "https://www.scmp.com/business/banking-finance/article/3369382/hong-kong-banks-set-golden-week-lures-mainland-chinese-visitors-despite-new-levies"
@@ -12025,8 +12036,8 @@
         "tc": "這條把「外資開放」與「渠道結構」的真實取捨擺在一起：印度已允許外資100%持股，但Cardif仍以26%少數股權換取Bank of Baroda的分行與客群，說明在銀行保險佔新單逾三成的市場裡，分銷通道比控股權更值錢。對區域分銷格局的含義是雙向的：銀行渠道進一步集中，獨立經紀的相對空間會受壓，而IBAI同日的發聲正反映這一張力——佣金上限與費用限額收緊會先壓縮靠佣金生存的中介。對關注亞洲市場準入與分銷經濟性的團隊，這是判斷「牌照放開是否等於機會放開」的具體案例；印度滲透率降至2.7%、半數成年人無壽險，也說明增量空間在保障缺口而非存量爭奪。"
       },
       "source": {
-        "sc": "Insurance Business Asia 2026-09-30 23:12（综合 CCI／IRDAI／IBAI／瑞士再保险）[EN原文]",
-        "tc": "Insurance Business Asia 2026-09-30 23:12（綜合 CCI／IRDAI／IBAI／瑞士再保險）[EN原文]",
+        "sc": "Insurance Business Asia 2026-09-30 23:12（综合 CCI／IRDAI／IBAI／瑞士再保险）",
+        "tc": "Insurance Business Asia 2026-09-30 23:12（綜合 CCI／IRDAI／IBAI／瑞士再保險）",
         "lang": "en"
       },
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/competition-watchdog-clears-french-insurers-stake-in-indiafirst-life-591806.aspx"
@@ -12197,8 +12208,8 @@
         "tc": "人事流嚮往往先於業務重心變化：區域架構「合併新加坡與馬來西亞」、中東與東協層面統一管理、以及監管機構從銀行體系引入財務審查與精算主管，反映的是承保能力與監管能力同時被重新配置。對關注服務網絡與人員穩定性的團隊，這類變動是判斷區域資源投放與對接效率的先行指標——尤其在 Markel 這類以專業險為主的承保主體上，亞太核保官升任區域負責人意味著承保權更貼近市場。"
       },
       "source": {
-        "sc": "Insurance Business Asia 2026-09-30 22:27 [EN原文]",
-        "tc": "Insurance Business Asia 2026-09-30 22:27 [EN原文]",
+        "sc": "Insurance Business Asia 2026-09-30 22:27",
+        "tc": "Insurance Business Asia 2026-09-30 22:27",
         "lang": "en"
       },
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/insurance-moves-antarah-mclarens-markel-insurance-commission-irdai-591790.aspx"
@@ -12284,8 +12295,8 @@
         "tc": "這批數字把「負責人員在任年資」變成可量化的監管風向標：經紀公司RO平均僅2.3年、長期業務機構逾半任命撐不過兩年，都會直接觸發麵試、督導檢視甚至續牌條件。對經紀與管理層而言，這不是抽象原則，而是「誰擔任RO、擔任多久、有沒有實權與資源」的治理問題；頻繁換人的機構已被系統性標記。轉介方面，「自薦轉介」被明確定性為無紀錄回佣、轉介費超過佣金50%觸發額外披露，加上3家經紀公司被禁接新轉介業務，說明該渠道的合規成本正在剛性上升。上半年投訴652宗、升10%且集中於代理人委任失效，也提示中介人流失本身已成投訴來源，團隊穩定性與繼承安排值得提前布局。"
       },
       "source": {
-        "sc": "Insurance Business Asia 2026-09-30 21:14（援引保监局《监管通讯》第13期）[EN原文]",
-        "tc": "Insurance Business Asia 2026-09-30 21:14（援引保監局《監管通訊》第13期）[EN原文]",
+        "sc": "Insurance Business Asia 2026-09-30 21:14（援引保监局《监管通讯》第13期）",
+        "tc": "Insurance Business Asia 2026-09-30 21:14（援引保監局《監管通訊》第13期）",
         "lang": "en"
       },
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/broker-leadership-churn-emerges-as-conduct-risk-signal-in-hong-kong-ia-report-591783.aspx"
@@ -12369,8 +12380,8 @@
         "tc": "資金端規模往往領先費率變化：Stone Ridge互惠ILS基金一年增近30%、主基金觸及50億美元新高，Interval基金從2018年腰斬後持續回補，說明在無重大災損的窗口裡資本正加速流入再保風險轉移。對理解財產險與再保的條件有直接意義——資本越充裕，定價與條款壓力越大；一旦大災發生，這條鏈會迅速反向。與同日Pioneer ILS基金規模數據相互印證，可作為再保周期判斷的資金端證據。"
       },
       "source": {
-        "sc": "Artemis.bm 2026-09-30 [EN原文]",
-        "tc": "Artemis.bm 2026-09-30 [EN原文]",
+        "sc": "Artemis.bm 2026-09-30",
+        "tc": "Artemis.bm 2026-09-30",
         "lang": "en"
       },
       "originalUrl": "https://www.artemis.bm/news/stone-ridge-cat-bond-fund-hits-5bn-aum-milestone-total-mutual-ils-assets-now-7-6bn/"
@@ -12455,8 +12466,8 @@
         "tc": "需求上升與費率急跌同時出現，是當前再保市場最值得注意的組合：保險公司把臨時再保當作擴張工具（六成擬增用、全球擴張由39%升至56%），說明分出意願強、承保能力被主動調用；但美加物業臨時再保費率一年內跌25%至30%、穆迪稱為逾十年最急，意味著額度充裕而定價壓力極大，反過來會傳導到原保險的續保條件與自留水平。對經紀人而言，客戶在續保談判中的議價空間與結構選擇（自留、分層、參數補充）比過去更依賴對再保端條件的掌握，這條信息屬於續保周期的先行指標。"
       },
       "source": {
-        "sc": "Insurance Business Asia 2026-09-30 19:39 [EN原文]",
-        "tc": "Insurance Business Asia 2026-09-30 19:39 [EN原文]",
+        "sc": "Insurance Business Asia 2026-09-30 19:39",
+        "tc": "Insurance Business Asia 2026-09-30 19:39",
         "lang": "en"
       },
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/willis-appoints-dandf-growth-leader-as-fac-demand-surges-591766.aspx"
@@ -12542,8 +12553,8 @@
         "tc": "這是新興市場把災害風險「金融化」的完整路線圖：投保比例僅約9%對全球約45%，缺口之大意味著未來數年的增量需求會落在參數保險、LRS與主權巨災債三條線上。對ILS市場而言，更多主權與本地ILS工具意味著可投資標的與分散化來源增加；對關注發展中國家保障缺口的讀者，這份文件提供了監管方自認的目標與路徑，而非第三方推測。"
       },
       "source": {
-        "sc": "Artemis.bm 2026-09-30 [EN原文]",
-        "tc": "Artemis.bm 2026-09-30 [EN原文]",
+        "sc": "Artemis.bm 2026-09-30",
+        "tc": "Artemis.bm 2026-09-30",
         "lang": "en"
       },
       "originalUrl": "https://www.artemis.bm/news/brazils-susep-proposes-lrs-reforms-cat-bonds-parametrics-for-catastrophe-protection/"
@@ -12627,8 +12638,8 @@
         "tc": "這是同一套「買家保障／退款」騙術的第N個變體，而且已從偽冒銀行與結算機構擴展到卡組織品牌，說明騙徒正沿支付鏈條逐個環節借用可信名字。對前線而言，客戶一旦在搜索或社媒連結裡輸入保單與身份資料，風險就不再是信息洩露，而是帳戶被直接操作；把「只在官方渠道核實」變成標準動作，比事後補救便宜得多。"
       },
       "source": {
-        "sc": "香港金融管理局代香港银行同业结算有限公司发出警示（2026-09-30 17:05）[EN原文]",
-        "tc": "香港金融管理局代香港銀行同業結算有限公司發出警示（2026-09-30 17:05）[EN原文]",
+        "sc": "香港金融管理局代香港银行同业结算有限公司发出警示（2026-09-30 17:05）",
+        "tc": "香港金融管理局代香港銀行同業結算有限公司發出警示（2026-09-30 17:05）",
         "lang": "en"
       },
       "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260930-10/"
@@ -12711,8 +12722,8 @@
         "tc": "這組數字是理解香港資金面的底稿：港元存款與M2/M3同步走高、貸款溫和增長、貸存比率回落，說明流動性充裕而信貸需求未同步跟上；人民幣存款單月回落2.1%則提示人民幣資金池的波動性，但跨境貿易結算匯款反而由7月的1.38萬億元升至1.54萬億元，使用量並未減弱。對保險與財富管理而言，港元資金充裕、貸存比率下降的環境會影響存款與固定收益類替代品的相對吸引力，也是與客戶討論資金停放與幣種配置時的官方口徑來源。"
       },
       "source": {
-        "sc": "香港金融管理局新闻稿（2026-09-30 16:30）[EN原文]",
-        "tc": "香港金融管理局新聞稿（2026-09-30 16:30）[EN原文]",
+        "sc": "香港金融管理局新闻稿（2026-09-30 16:30）",
+        "tc": "香港金融管理局新聞稿（2026-09-30 16:30）",
         "lang": "en"
       },
       "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260930-9/"
@@ -12795,8 +12806,8 @@
         "tc": "一手與二手新批貸款同時大幅回落、而再融資逆勢上升，是供樓成本與樓價預期變化下最直接的客戶行為信號：買家轉趨觀望，但存量業主趁利率環境轉定息或轉按。新批按揭中HIBOR定價佔比由61%降至57%，說明部分借款人主動選擇較穩定的定價結構，這與市場對利率走向的分歧相呼應。拖欠比率維持0.11%，顯示資產質素暫未見壓力，是高客討論槓桿與流動性安排時可用的官方參照。"
       },
       "source": {
-        "sc": "香港金融管理局新闻稿（2026-09-30 16:30）[EN原文]",
-        "tc": "香港金融管理局新聞稿（2026-09-30 16:30）[EN原文]",
+        "sc": "香港金融管理局新闻稿（2026-09-30 16:30）",
+        "tc": "香港金融管理局新聞稿（2026-09-30 16:30）",
         "lang": "en"
       },
       "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260930-8/"
@@ -12879,8 +12890,8 @@
         "tc": "外匯基金帳目是聯繫匯率制度的月度體檢報告：總資產下降主要來自財政儲備存款提取而非投資虧損，港元資產減少源於港股按市價重估，支持比率反而升到112.00%。理解「貨幣基礎與後備資產」的對應關係，是回應高客對港元信心、儲備充足度與資產安全提問時的官方口徑；同時它也提醒市場，財政資金的進出會直接改變外匯基金的資產結構。"
       },
       "source": {
-        "sc": "香港金融管理局新闻稿（2026-09-30 16:30）[EN原文]",
-        "tc": "香港金融管理局新聞稿（2026-09-30 16:30）[EN原文]",
+        "sc": "香港金融管理局新闻稿（2026-09-30 16:30）",
+        "tc": "香港金融管理局新聞稿（2026-09-30 16:30）",
         "lang": "en"
       },
       "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260930-6/"
@@ -12964,8 +12975,8 @@
         "tc": "資金端的規模變化先於費率變化：巨災債基金年內增逾10億美元、私募ILS基金回到2022年以來最大規模，說明在回報仍然可觀、又無重大災損的窗口裡，資本正加速流入再保風險轉移。對理解財產險與再保定價條件有直接意義——資本越充裕，費率與條款壓力越大；而一旦大災發生，這條鏈會迅速反向。"
       },
       "source": {
-        "sc": "Artemis.bm 2026-09-30 [EN原文]",
-        "tc": "Artemis.bm 2026-09-30 [EN原文]",
+        "sc": "Artemis.bm 2026-09-30",
+        "tc": "Artemis.bm 2026-09-30",
         "lang": "en"
       },
       "originalUrl": "https://www.artemis.bm/news/pioneer-cat-bond-fund-grows-by-more-than-1bn-in-2026-to-reach-2-76bn-aum/"
@@ -13213,8 +13224,8 @@
         "tc": "這是香港把「無形資產」變成可融資抵押品的第一步實物證據：貸款額上限已做到3,900萬港元，說明估值報告已能被銀行納入審批，而不是停留在概念。對家辦與高客而言，這打開了以專利、商標等IP作為融資與流動性來源的討論空間；對保險業則提示，IP相關專業服務的費用補貼與估值流程，會連帶出現新的責任與保障需求。"
       },
       "source": {
-        "sc": "香港金融管理局新闻稿（2026-09-30 12:25）；同日政府新闻公报公布首批试点及专利估值先导支援计划 [EN原文]",
-        "tc": "香港金融管理局新聞稿（2026-09-30 12:25）；同日政府新聞公報公布首批試點及專利估值先導支援計劃 [EN原文]",
+        "sc": "香港金融管理局新闻稿（2026-09-30 12:25）；同日政府新闻公报公布首批试点及专利估值先导支援计划",
+        "tc": "香港金融管理局新聞稿（2026-09-30 12:25）；同日政府新聞公報公布首批試點及專利估值先導支援計劃",
         "lang": "en"
       },
       "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260930-4/"
@@ -13298,8 +13309,8 @@
         "tc": "這份報告的價值在於把「AI採用」與「AI轉型」分開：機構自評很高，但真正被重建的是後臺流程，而不是面向渠道與客戶的分銷與核保。對前線與團隊複製而言，這解釋了一個現實——短期內承保端的分銷、報價與出單仍以人工為主，代理與經紀的差異化空間還在人對人的環節；但2029年的混合核保預期意味著，擁有乾淨數據與可對接系統的團隊會先受益。這是做AI培訓與流程改造時最值得引用的現狀基線。"
       },
       "source": {
-        "sc": "Insurance Business Asia（引述毕马威国际《Unlocking AI value in insurance》）2026-09-30 [EN原文]",
-        "tc": "Insurance Business Asia（引述畢馬威國際《Unlocking AI value in insurance》）2026-09-30 [EN原文]",
+        "sc": "Insurance Business Asia（引述毕马威国际《Unlocking AI value in insurance》）2026-09-30",
+        "tc": "Insurance Business Asia（引述畢馬威國際《Unlocking AI value in insurance》）2026-09-30",
         "lang": "en"
       },
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/insurers-rate-themselves-ai-leaders-but-none-has-rebuilt-distribution-around-it--kpmg-591693.aspx"
@@ -13384,8 +13395,8 @@
         "tc": "這一期把前線與渠道管理最高頻的三個合規雷區一次點清：營銷數字的選擇性呈現、專業投資者分類的真實性、以及用「自薦轉介」包裝的回佣。三者都落在日常作業裡，不是抽象原則：營銷物料怎麼寫、PI 身分怎麼認定、轉介與佣金怎麼走帳，監管已明示會以實質重於形式審視。代理主管須對其下線的行為負責這一點也被再次強調，意味著合規責任不再止於個人。對新客戶招攬與團隊複製而言，這份文件是當前最直接的自查依據。"
       },
       "source": {
-        "sc": "保险业监管局通函《监管通讯》（Conduct in Focus）第13期 2026-09-30 [EN原文]",
-        "tc": "保險業監管局通函《監管通訊》（Conduct in Focus）第13期 2026-09-30 [EN原文]",
+        "sc": "保险业监管局通函《监管通讯》（Conduct in Focus）第13期 2026-09-30",
+        "tc": "保險業監管局通函《監管通訊》（Conduct in Focus）第13期 2026-09-30",
         "lang": "en"
       },
       "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/20260930_Circular_Conduct_In_Focus_Issue_13_Eng.pdf"
@@ -13470,8 +13481,8 @@
         "tc": "這份調查揭示了一個結構性缺口：企業已把AI與網安列為頭號風險，卻沒有把相應的專業能力放進決策層。對保險與財富管理而言，客戶（尤其上市公司高管與家辦）在治理與傳承安排上會出現新的顧問需求——不只是保單配置，而是風險治理與董事層能力建設的對話；對團隊自身，這也提示「AI治理」正在成為可出售的專業能力，而不只是內部效率工具。"
       },
       "source": {
-        "sc": "南华早报（SCMP）2026-09-30 08:00 [EN原文]",
-        "tc": "南華早報（SCMP）2026-09-30 08:00 [EN原文]",
+        "sc": "南华早报（SCMP）2026-09-30 08:00",
+        "tc": "南華早報（SCMP）2026-09-30 08:00",
         "lang": "en"
       },
       "originalUrl": "https://www.scmp.com/business/companies/article/3369229/hong-kongs-executives-are-ill-prepared-ai-era-report-finds"
@@ -13556,8 +13567,8 @@
         "tc": "這條把「AI替代」的討論拉回可驗證的數字：資產增24%、人手增2.2%，說明生產力提升已經發生，但被替代的是行政與檢索，而不是信任與複雜決策。對IFA與高客服務而言，這是最有力的自我定位依據——傳承規劃與跨代安排正是AI難以接管的部分，也是顧問角色擴張的方向；同時也提示團隊要主動用AI把行政時間釋放出來，否則人均產出會被同業拉開差距。"
       },
       "source": {
-        "sc": "南华早报（SCMP）2026-09-30 07:00 [EN原文]",
-        "tc": "南華早報（SCMP）2026-09-30 07:00 [EN原文]",
+        "sc": "南华早报（SCMP）2026-09-30 07:00",
+        "tc": "南華早報（SCMP）2026-09-30 07:00",
         "lang": "en"
       },
       "originalUrl": "https://www.scmp.com/business/banking-finance/article/3369160/ai-uptake-sees-wealth-management-headcounts-hong-kong-trail-growth-assets"
@@ -13640,8 +13651,8 @@
         "tc": "這組數字把「有保單」與「保障足夠」之間的落差量化了：近六成人有危疾計劃，卻只有兩成有信心夠用，而多數人要到耗盡資金時才動用退休儲備或變賣投資——這是最典型的保障缺口敘事，也是危疾保額討論的現成素材。對前線而言，把對話從「買不買」推進到「夠不夠、缺口期多長、錢從哪來」，比強調產品功能更貼近客戶真實的恐懼點。"
       },
       "source": {
-        "sc": "Insurance Asia（引述保诚新加坡调查）2026-09-30 [EN原文]",
-        "tc": "Insurance Asia（引述保誠新加坡調查）2026-09-30 [EN原文]",
+        "sc": "Insurance Asia（引述保诚新加坡调查）2026-09-30",
+        "tc": "Insurance Asia（引述保誠新加坡調查）2026-09-30",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasia.com/insurance/news/only-20-singaporeans-confident-their-critical-illness-coverage-poll"
@@ -13807,8 +13818,8 @@
         "tc": "這是安責險從「買保單」走向「管風險」的年度抓手：一端是投保覆蓋率硬指標到100%，另一端是要求承保機構把事故預防費用真正投出去、按標準做服務。對理解內地責任險的走勢有直接價值——覆蓋面被行政目標推高，服務能力與留痕質量就成為能否續保與定價分層的分水嶺，也意味著「低價投保」這條路被監管點名封堵。"
       },
       "source": {
-        "sc": "应急管理部办公厅、金融监管总局办公厅、国家矿山安监局综合司 应急厅函〔2026〕352号（2026-09-29）",
-        "tc": "應急管理部辦公廳、金融監管總局辦公廳、國家礦山安監局綜合司 應急廳函〔2026〕352號（2026-09-29）",
+        "sc": "应急管理部办公厅、金融监管总局办公厅、国家矿山安监局综合司 应急厅函〔2026〕352号",
+        "tc": "應急管理部辦公廳、金融監管總局辦公廳、國家礦山安監局綜合司 應急廳函〔2026〕352號",
         "lang": "zh"
       },
       "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1273761&itemId=4216"
@@ -13977,8 +13988,8 @@
         "tc": "這條把「巨災風險轉移」的成本下限往下推了一格：傳統巨災債的規模門檻，一直把小微主體與地方財政擋在外面；若小額、私募配售的結構可行，風險轉移的適用半徑會明顯擴大。對香港而言，這與推動ILS生態（含PCC架構）的方向同源，可作為理解「保險相連證券如何下沉到區域與小微」的政策參照，也提醒參數型產品須同時管理基差風險。"
       },
       "source": {
-        "sc": "Artemis.bm 2026-09-29（引述 OECD 发展中心政策简报）[EN原文]",
-        "tc": "Artemis.bm 2026-09-29（引述 OECD 發展中心政策簡報）[EN原文]",
+        "sc": "Artemis.bm 2026-09-29（引述 OECD 发展中心政策简报）",
+        "tc": "Artemis.bm 2026-09-29（引述 OECD 發展中心政策簡報）",
         "lang": "en"
       },
       "originalUrl": "https://www.artemis.bm/news/micro-catastrophe-bonds-show-growing-potential-for-use-in-disaster-risk-financing-oecd/"
@@ -14231,8 +14242,8 @@
         "tc": "ILS與巨災債的定價權，長期高度依賴少數巨災模型供應商；投資人端與模型方的多年期綁定，說明「風險量化能力」正從技術成本變成準入條件。對承保與產品端而言，這解釋了為何新型風險（如網絡）要進入證券化結構之前，先要有可被資本市場接受的模型與敞口口徑——這也是參數型與ILS產品能否擴張的隱性約束。"
       },
       "source": {
-        "sc": "Artemis.bm 2026-09-29 [EN原文]",
-        "tc": "Artemis.bm 2026-09-29 [EN原文]",
+        "sc": "Artemis.bm 2026-09-29",
+        "tc": "Artemis.bm 2026-09-29",
         "lang": "en"
       },
       "originalUrl": "https://www.artemis.bm/news/euler-ils-partners-signs-multi-year-catastrophe-risk-analytics-agreement-with-moodys/"
@@ -14315,8 +14326,8 @@
         "tc": "這是ILS資產端表現的月度體溫計：8月回報由「季節性與價格動力」共同推升，前提是當月無重大災損。對理解再保與巨災債的資金供給節奏有直接價值——回報偏高會吸引更多資本入場，進一步壓低費率，最終傳導到財產險與再保的定價條件；而一旦大災發生，這條鏈條會迅速反轉。"
       },
       "source": {
-        "sc": "Artemis.bm 2026-09-29（引述 ILS Advisers 基金指数）[EN原文]",
-        "tc": "Artemis.bm 2026-09-29（引述 ILS Advisers 基金指數）[EN原文]",
+        "sc": "Artemis.bm 2026-09-29（引述 ILS Advisers 基金指数）",
+        "tc": "Artemis.bm 2026-09-29（引述 ILS Advisers 基金指數）",
         "lang": "en"
       },
       "originalUrl": "https://www.artemis.bm/news/ils-fund-gains-accelerate-cat-bonds-particularly-strong-average-august-return-1-39-ils-advisers/"
@@ -14399,8 +14410,8 @@
         "tc": "豪宅業主趁預期加息前出貨，是觀察香港高淨值人群資產騰挪偏好的即時樣本：同一時段賣方提高議價意願、買方轉觀望，意味高端物業的流動性正在變薄。對高客服務而言，物業變現後的資金去向（現金、定存還是長期保障）往往是保障與傳承方案的自然切入時點。"
       },
       "source": {
-        "sc": "南华早报（SCMP）2026-09-29 [EN原文]",
-        "tc": "南華早報（SCMP）2026-09-29 [EN原文]",
+        "sc": "南华早报（SCMP）2026-09-29",
+        "tc": "南華早報（SCMP）2026-09-29",
         "lang": "en"
       },
       "originalUrl": "https://www.scmp.com/business/article/3369169/eunis-chan-angela-leong-sell-luxury-hong-kong-properties-rate-increases-loom"
@@ -14569,8 +14580,8 @@
         "tc": "長端利率走向直接決定保險公司資產負債匹配的成本與空間：若內地超長期收益率繼續下行，負債端定價與資產端再投資壓力同步放大，反之則為久期配置提供窗口。對香港而言，內地利率與外債收益率的分化也影響客戶對人民幣與美元資產的取捨。"
       },
       "source": {
-        "sc": "南华早报（SCMP）2026-09-29 [EN原文]",
-        "tc": "南華早報（SCMP）2026-09-29 [EN原文]",
+        "sc": "南华早报（SCMP）2026-09-29",
+        "tc": "南華早報（SCMP）2026-09-29",
         "lang": "en"
       },
       "originalUrl": "https://www.scmp.com/business/markets/article/3369198/why-citi-betting-chinas-30-year-bonds-us-treasury-yields-climb"
@@ -14907,8 +14918,8 @@
         "tc": "這是全球最大債管機構之一對「資產配置重心偏移」的公開表態，且強調是客戶主動提問驅動的分散需求，而非看空美元。對高客服務而言，這為「為何要談非美元資產」提供了外部機構視角，同時提醒：分散訴求的動因是集中度風險，而不是收益承諾。"
       },
       "source": {
-        "sc": "南华早报（SCMP）2026-09-29 [EN原文]",
-        "tc": "南華早報（SCMP）2026-09-29 [EN原文]",
+        "sc": "南华早报（SCMP）2026-09-29",
+        "tc": "南華早報（SCMP）2026-09-29",
         "lang": "en"
       },
       "originalUrl": "https://www.scmp.com/business/china-business/article/3369148/180-degree-flip-sees-global-investors-turn-china-diversification-pimco-president"
@@ -14992,8 +15003,8 @@
         "tc": "巨災債定價是再保成本鏈條的最前端：倍數1.9倍接近歷史軟市區間低位，意味著再保與轉分保價格仍處買方有利區，但要留意「軟市靠無大災維持」這一脆弱前提。對產品定價與核保假設而言，這是不宜把「再保持續趨軟」當成長期常數的理由。"
       },
       "source": {
-        "sc": "Artemis.bm 2026-09-29（引述 Lane Financial 报告）[EN原文]",
-        "tc": "Artemis.bm 2026-09-29（引述 Lane Financial 報告）[EN原文]",
+        "sc": "Artemis.bm 2026-09-29（引述 Lane Financial 报告）",
+        "tc": "Artemis.bm 2026-09-29（引述 Lane Financial 報告）",
         "lang": "en"
       },
       "originalUrl": "https://www.artemis.bm/news/catastrophe-bond-soft-market-not-yet-at-2017-levels-but-could-last-another-year-lane-financial/"
@@ -15078,8 +15089,8 @@
         "tc": "壽險與年金再保正成為第三方資本（資產管理人、機構投資者）進入保險業的主要路徑，Marsh此舉等於把「設立一個再保載體」從個案工程變成可復用產品，將降低新主體入場門檻。對保險公司而言，意味著分出與資本安排的選項繼續增多；對風險評估而言，需留意資本湧入對長期承保條件與資產風險的連帶影響。"
       },
       "source": {
-        "sc": "Artemis.bm 2026-09-29 [EN原文]",
-        "tc": "Artemis.bm 2026-09-29 [EN原文]",
+        "sc": "Artemis.bm 2026-09-29",
+        "tc": "Artemis.bm 2026-09-29",
         "lang": "en"
       },
       "originalUrl": "https://www.artemis.bm/news/marsh-launches-archer-platform-for-life-and-annuity-reinsurers-sidecars-spis-and-cells/"
@@ -15154,8 +15165,8 @@
         "tc": "日本商業財產險是亞太區最重要的財產險市場之一，承保人才的跨境調動往往先於業務策略調整。對關注區域險企動向與再保／經紀人脈網絡的從業者，這是可以留意的管理層變動信號。"
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-09-29 [EN原文]",
-        "tc": "InsuranceAsia News 2026-09-29 [EN原文]",
+        "sc": "InsuranceAsia News 2026-09-29",
+        "tc": "InsuranceAsia News 2026-09-29",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasianews.com/aig-names-keiichi-ishida-as-head-of-commercial-property-in-japan/"
@@ -15323,8 +15334,8 @@
         "tc": "香港經紀板塊的收入構成，是觀察「內地相關業務（含跨境客群與企業風險）對本地中介渠道貢獻」的實用切口。收入增長由內地擴張帶動，說明本地經紀的競爭力越來越取決於跨地域服務與合規能力，而非單純本地銷售規模。"
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-09-29 [EN原文]",
-        "tc": "InsuranceAsia News 2026-09-29 [EN原文]",
+        "sc": "InsuranceAsia News 2026-09-29",
+        "tc": "InsuranceAsia News 2026-09-29",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasianews.com/hong-kong-broker-novas-revenue-rises-12-to-us20m-as-mainland-expansion-contributes/"
@@ -15409,8 +15420,8 @@
         "tc": "參數型保障的價值在於「無需核損、按指標自動賠付」，天然適配高頻、小額、難以逐案查勘的場景。東南亞嵌入式渠道的這一實踐，為「以數據指標代替傳統理賠流程」提供了可對照的落地樣本，對理解保障型產品的產品形態演進有參考意義。"
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-09-29 [EN原文]",
-        "tc": "InsuranceAsia News 2026-09-29 [EN原文]",
+        "sc": "InsuranceAsia News 2026-09-29",
+        "tc": "InsuranceAsia News 2026-09-29",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasianews.com/igloo-partners-with-dana-to-launch-indonesian-parametric-rain-protection/"
@@ -15485,8 +15496,8 @@
         "tc": "專業險企把新馬兩地合併由單一主管掌舵，通常意味著區域資源整合與決策效率優先。這類組織調整值得納入同業區域布局的跟蹤，尤其對關注專業險種與跨境承保能力的從業者。"
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-09-29 [EN原文]",
-        "tc": "InsuranceAsia News 2026-09-29 [EN原文]",
+        "sc": "InsuranceAsia News 2026-09-29",
+        "tc": "InsuranceAsia News 2026-09-29",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasianews.com/markel-shifts-kevin-leung-to-managing-director-for-southeast-asia/"
@@ -15498,8 +15509,8 @@
       "sourceTier": "media",
       "contentKind": "news",
       "source": {
-        "sc": "InsuranceAsia News 2026-09-29（Analysis，付费墙；仅采用公开摘要）[EN原文]",
-        "tc": "InsuranceAsia News 2026-09-29（Analysis，付費牆；僅採用公開摘要）[EN原文]",
+        "sc": "InsuranceAsia News 2026-09-29（Analysis，付费墙；仅采用公开摘要）",
+        "tc": "InsuranceAsia News 2026-09-29（Analysis，付費牆；僅採用公開摘要）",
         "lang": "en"
       },
       "boards": [
@@ -15580,8 +15591,8 @@
       "sourceTier": "media",
       "contentKind": "news",
       "source": {
-        "sc": "Insurance Asia 2026-09-29（Igloo 2025 年度经审计账目 2026-09-28 发布）[EN原文]",
-        "tc": "Insurance Asia 2026-09-29（Igloo 2025 年度經審計賬目 2026-09-28 發布）[EN原文]",
+        "sc": "Insurance Asia 2026-09-29（Igloo 2025 年度经审计账目 2026-09-28 发布）",
+        "tc": "Insurance Asia 2026-09-29（Igloo 2025 年度經審計賬目 2026-09-28 發布）",
         "lang": "en"
       },
       "boards": [
@@ -15662,8 +15673,8 @@
       "sourceTier": "media",
       "contentKind": "news",
       "source": {
-        "sc": "Insurance Asia 2026-09-29（引 Nomura Global Markets Research 2026-09-24 报告）[EN原文]",
-        "tc": "Insurance Asia 2026-09-29（引 Nomura Global Markets Research 2026-09-24 報告）[EN原文]",
+        "sc": "Insurance Asia 2026-09-29（引 Nomura Global Markets Research 2026-09-24 报告）",
+        "tc": "Insurance Asia 2026-09-29（引 Nomura Global Markets Research 2026-09-24 報告）",
         "lang": "en"
       },
       "boards": [
@@ -15744,8 +15755,8 @@
       "sourceTier": "media",
       "contentKind": "news",
       "source": {
-        "sc": "Insurance Asia 2026-09-29（Allianz Partners 2026-09-28 声明）[EN原文]",
-        "tc": "Insurance Asia 2026-09-29（Allianz Partners 2026-09-28 聲明）[EN原文]",
+        "sc": "Insurance Asia 2026-09-29（Allianz Partners 2026-09-28 声明）",
+        "tc": "Insurance Asia 2026-09-29（Allianz Partners 2026-09-28 聲明）",
         "lang": "en"
       },
       "boards": [
@@ -15829,8 +15840,8 @@
       "sourceTier": "media",
       "contentKind": "news",
       "source": {
-        "sc": "Insurance Asia 2026-09-29（引 AM Best 报告）[EN原文]",
-        "tc": "Insurance Asia 2026-09-29（引 AM Best 報告）[EN原文]",
+        "sc": "Insurance Asia 2026-09-29（引 AM Best 报告）",
+        "tc": "Insurance Asia 2026-09-29（引 AM Best 報告）",
         "lang": "en"
       },
       "boards": [
@@ -15911,8 +15922,8 @@
       "sourceTier": "media",
       "contentKind": "news",
       "source": {
-        "sc": "Insurance Asia 2026-09-29 独家（引 Lockton、EY-Parthenon、Smart Communications 2026-06 报告）[EN原文]",
-        "tc": "Insurance Asia 2026-09-29 獨家（引 Lockton、EY-Parthenon、Smart Communications 2026-06 報告）[EN原文]",
+        "sc": "Insurance Asia 2026-09-29 独家（引 Lockton、EY-Parthenon、Smart Communications 2026-06 报告）",
+        "tc": "Insurance Asia 2026-09-29 獨家（引 Lockton、EY-Parthenon、Smart Communications 2026-06 報告）",
         "lang": "en"
       },
       "boards": [
@@ -15994,7 +16005,7 @@
       "score": 64,
       "verifyStatus": "verified",
       "sourceTier": "media",
-      "sourceKey": "insurancebusiness",
+      "sourceKey": "insurancebusinessmag",
       "contentKind": "news",
       "actions": {
         "front": {
@@ -16079,7 +16090,7 @@
       "score": 68,
       "verifyStatus": "verified",
       "sourceTier": "media",
-      "sourceKey": "insurancebusiness",
+      "sourceKey": "insurancebusinessmag",
       "contentKind": "news",
       "actions": {
         "front": {
@@ -16165,7 +16176,7 @@
       "score": 61,
       "verifyStatus": "verified",
       "sourceTier": "media",
-      "sourceKey": "insurancebusiness",
+      "sourceKey": "insurancebusinessmag",
       "contentKind": "news",
       "actions": {
         "front": {
@@ -17420,7 +17431,7 @@
       "score": 66,
       "verifyStatus": "pending",
       "sourceTier": "media",
-      "sourceKey": "insurancebusiness",
+      "sourceKey": "insurancebusinessmag",
       "contentKind": "news",
       "actions": {
         "front": {},
@@ -17502,7 +17513,7 @@
       "score": 66,
       "verifyStatus": "pending",
       "sourceTier": "media",
-      "sourceKey": "insurancebusiness",
+      "sourceKey": "insurancebusinessmag",
       "contentKind": "news",
       "actions": {
         "front": {},
@@ -18897,8 +18908,8 @@
         "tc": "泰國是東南亞財險與再保的重要暴露區域，曼谷城區內澇若演變為工業園區與商業中斷損失，將進入區域再保續保條件與巨災債券風險利差的定價窗口；對以「風險管理樞紐」為定位的香港（專屬自保、ILS）而言，亦是觀察亞洲巨災風險需求與災難數據披露機制的時點。"
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-27，Aidan Gregory）；灾情事实另见央视网／联合早报 2026-09-26 报道",
-        "tc": "InsuranceAsia News（2026-09-27，Aidan Gregory）；災情事實另見央視網／聯合早報 2026-09-26 報道",
+        "sc": "InsuranceAsia News（2026-09-27，Aidan Gregory）；灾情事实另见央视网／联合早报",
+        "tc": "InsuranceAsia News（2026-09-27，Aidan Gregory）；災情事實另見央視網／聯合早報",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasianews.com/bangkok-declares-flood-disaster-following-two-days-of-torrential-rains/"
@@ -19058,8 +19069,8 @@
         "tc": "内地保费增速是港险需求的先行参照：储蓄类需求仍在但增速回落、投连与投资款分化，可直接用于评估跨境客户资金配置节奏与产品结构变化，也是本站月度官方口径的数据底座。"
       },
       "source": {
-        "sc": "国家金融监督管理总局 · 统计信息（2026-09-24 发布）；数值口径参考券商2026年8月保费数据点评（2026-09-25）",
-        "tc": "國家金融監督管理總局 · 統計信息（2026-09-24 發布）；數值口徑參考券商2026年8月保費數據點評（2026-09-25）",
+        "sc": "国家金融监督管理总局 · 统计信息（2026-09-24 发布）；数值口径参考券商2026年8月保费数据点评",
+        "tc": "國家金融監督管理總局 · 統計信息（2026-09-24 發布）；數值口徑參考券商2026年8月保費數據點評",
         "lang": "zh"
       },
       "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemList.html?itemPId=953&itemId=954"
@@ -19138,8 +19149,8 @@
         "tc": "「保费几乎不增、累计损失上升」的离岸能源险格局，是判断专项与海运险承保纪律何时收紧的直接依据——香港正扩容海运专项风险池。"
       },
       "source": {
-        "sc": "InsuranceAsia（2026-09-25）[EN原文]",
-        "tc": "InsuranceAsia（2026-09-25）[EN原文]",
+        "sc": "InsuranceAsia",
+        "tc": "InsuranceAsia",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasia.com/insurance/news/offshore-energy-insurers-face-rising-claims-pressure"
@@ -19216,8 +19227,8 @@
         "tc": "亚洲寿险把因子指数包装成投连选项的趋势明确，可作为投连产品设计与客户沟通时的话术参照（非港险直接可比，注意区分市场与监管差异）。"
       },
       "source": {
-        "sc": "InsuranceAsia（2026-09-25）[EN原文]",
-        "tc": "InsuranceAsia（2026-09-25）[EN原文]",
+        "sc": "InsuranceAsia",
+        "tc": "InsuranceAsia",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasia.com/insurance/news/tata-aia-launches-new-unit-linked-investment-option"
@@ -19299,8 +19310,8 @@
         "tc": "这是把「香港做全球风险管理中心」从口号拆成制度动作的一篇：PCC、自保与ILS是公司与高客层面可以预判的新赛道。"
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-26）[EN原文]",
-        "tc": "InsuranceAsia News（2026-09-26）[EN原文]",
+        "sc": "InsuranceAsia News",
+        "tc": "InsuranceAsia News",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasianews.com/hong-kongs-regional-ambitions-and-the-pcc-bet/"
@@ -19384,8 +19395,8 @@
         "tc": "三则香港相关动态（AI客服、在线投保、医疗礼宾）都在把「数字化触点＋非财务支援」做成标配，是团队与客户沟通时必须跟上的同业基准。"
       },
       "source": {
-        "sc": "InsuranceAsia（2026-09-26）[EN原文]",
-        "tc": "InsuranceAsia（2026-09-26）[EN原文]",
+        "sc": "InsuranceAsia",
+        "tc": "InsuranceAsia",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasia.com/insurance/news/week-in-insurance-singlife-scales-ai-adoption-fwd-upgrades-care-platform-and-rewards-programmes-drive-engagement"
@@ -19464,8 +19475,8 @@
         "tc": "把「AI＋供应链＋巨灾」的交叠换算成可量化的连结度上升，是香港推ILS与收窄巨灾保障缺口议题最新的权威背书。"
       },
       "source": {
-        "sc": "Artemis.bm（2026-09-25）[EN原文]",
-        "tc": "Artemis.bm（2026-09-25）[EN原文]",
+        "sc": "Artemis.bm",
+        "tc": "Artemis.bm",
         "lang": "en"
       },
       "originalUrl": "https://www.artemis.bm/news/interconnected-systemic-risks-highlight-need-to-expand-ils-capacity-swiss-re-lse/"
@@ -19539,8 +19550,8 @@
         "tc": "年内无重大巨灾而资产持续净流入，是「ILS被主流基金渠道接受」的直接证据，也是香港讨论ILS基金化与投资者扩容的参照。"
       },
       "source": {
-        "sc": "Artemis.bm（2026-09-25）[EN原文]",
-        "tc": "Artemis.bm（2026-09-25）[EN原文]",
+        "sc": "Artemis.bm",
+        "tc": "Artemis.bm",
         "lang": "en"
       },
       "originalUrl": "https://www.artemis.bm/news/embassys-ambassador-mutual-cat-bond-and-ilw-fund-hits-1bn-aum-milestone/"
@@ -19622,8 +19633,8 @@
         "tc": "转介与引流的资料授权、同意与留痕，是中介人合规的高频盲区；这类仿冒与引流叠在一起，最容易演变成客户投诉与监管问责。"
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-25）[EN原文]",
-        "tc": "Insurance Business Asia（2026-09-25）[EN原文]",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       },
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/find-my-insurance-search-reveals-copycat-apps-591225.aspx"
@@ -19696,8 +19707,8 @@
         "tc": "区域保司在股权与监管调整后的管理层交接，是判断其渠道与合作策略会否调整的先行信号。"
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-25）[EN原文]",
-        "tc": "Insurance Business Asia（2026-09-25）[EN原文]",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       },
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/income-insurance-names-khoo-kah-siang-as-next-ceo-591232.aspx"
@@ -19771,8 +19782,8 @@
         "tc": "「执行强度上升、回收率下降」是公共医保与私营健康险分工讨论中常被忽略的数据面，可作为健康险需求论证的反面参照。"
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-25）[EN原文]",
-        "tc": "Insurance Business Asia（2026-09-25）[EN原文]",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       },
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/south-koreas-health-insurer-recovers-less-despite-wider-enforcement-591223.aspx"
@@ -19853,8 +19864,8 @@
         "tc": "建造、信用、政治风险与财产条线在亚太集体补人，说明这些专项险类仍处扩张期，也提示人才与承保资源的争夺在加剧。"
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-25）[EN原文]",
-        "tc": "InsuranceAsia News（2026-09-25）[EN原文]",
+        "sc": "InsuranceAsia News",
+        "tc": "InsuranceAsia News",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasianews.com/qbe-canopius-aon-sompo-11-apac-insurance-people-moves-of-the-week/"
@@ -19934,8 +19945,8 @@
         "tc": "保司与银行的伪冒渠道正由假网站扩散到社交媒体私信，是本周最容易被客户顺手转问的一类问题。"
       },
       "source": {
-        "sc": "香港金融管理局新闻稿（2026-09-25）[EN原文]",
-        "tc": "香港金融管理局新聞稿（2026-09-25）[EN原文]",
+        "sc": "香港金融管理局新闻稿",
+        "tc": "香港金融管理局新聞稿",
         "lang": "en"
       },
       "originalUrl": "https://www.info.gov.hk/gia/general/202609/25/P2026092500465.htm"
@@ -20015,8 +20026,8 @@
         "tc": "两条同日公布的定息是港人「无风险收益锚」最直接的公开刻度，与客户谈储蓄替代时可直接引用。"
       },
       "source": {
-        "sc": "香港金融管理局／政府新闻处（2026-09-25）",
-        "tc": "香港金融管理局／政府新聞處（2026-09-25）",
+        "sc": "香港金融管理局／政府新闻处",
+        "tc": "香港金融管理局／政府新聞處",
         "lang": "zh"
       },
       "originalUrl": "https://www.info.gov.hk/gia/general/202609/25/P2026092500486.htm"
@@ -20096,8 +20107,8 @@
         "tc": "强制险的「保费微增、赔付两位数增长、承保亏损」是内地车险运行的底层读数，对理解费率与承保纪律走向有参照价值。"
       },
       "source": {
-        "sc": "国家金融监督管理总局（2026-09-24）",
-        "tc": "國家金融監督管理總局（2026-09-24）",
+        "sc": "国家金融监督管理总局",
+        "tc": "國家金融監督管理總局",
         "lang": "zh"
       },
       "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1273369&itemId=925&generaltype=0"
@@ -20177,8 +20188,8 @@
         "tc": "活动本身是品牌动作，但附带披露的最新顾问与客户规模，是观察头部保司香港基本盘的一手数字。"
       },
       "source": {
-        "sc": "友邦香港新闻稿（2026-09-24）",
-        "tc": "友邦香港新聞稿（2026-09-24）",
+        "sc": "友邦香港新闻稿",
+        "tc": "友邦香港新聞稿",
         "lang": "zh"
       },
       "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2026/aia-press-release-20260924"
@@ -20258,8 +20269,8 @@
         "tc": "供应链金融／贸易信用险的尾部风险在这一单和解中落地，做企业客户应收帐款与贸易风险课题时可作实证引用。"
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-25）[EN原文]",
-        "tc": "InsuranceAsia News（2026-09-25）[EN原文]",
+        "sc": "InsuranceAsia News",
+        "tc": "InsuranceAsia News",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasianews.com/iag-reaches-settlement-with-credit-suisse-over-greensill-capital-collapse/"
@@ -20341,8 +20352,8 @@
         "tc": "保监局把海运与专项险列为香港建设国际风险管理中心的重点板块，头部保司在香港补位专项主管理应是可跟踪的人事信号。"
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-25）[EN原文]",
-        "tc": "InsuranceAsia News（2026-09-25）[EN原文]",
+        "sc": "InsuranceAsia News",
+        "tc": "InsuranceAsia News",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasianews.com/chubb-elevates-lulu-tsai-to-head-of-marine-specialty-for-hong-kong/"
@@ -20419,8 +20430,8 @@
         "tc": "信用与保证业务的风险分散结构正在扩容，是「香港做区域风险枢纽」叙事在再保层面的一条具体证据。"
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-25）[EN原文]",
-        "tc": "InsuranceAsia News（2026-09-25）[EN原文]",
+        "sc": "InsuranceAsia News",
+        "tc": "InsuranceAsia News",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasianews.com/emerging-markets-credit-guarantor-verdant-rock-strikes-30-quota-share-deal/"
@@ -20500,8 +20511,8 @@
         "tc": "海险是本港重点专项板块，年会结论等于下一年度条款与费率谈判的起手框架。"
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-25）[EN原文]",
-        "tc": "InsuranceAsia News（2026-09-25）[EN原文]",
+        "sc": "InsuranceAsia News",
+        "tc": "InsuranceAsia News",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasianews.com/3-takeaways-from-rotterdam-as-the-marine-market-navigates-the-fog-of-war/"
@@ -20581,8 +20592,8 @@
         "tc": "这是「寿险代理渠道向财富管理延伸」的东南亚样板，对香港团队讨论代理渠道边界与产品货架很有参照价值。"
       },
       "source": {
-        "sc": "InsuranceAsia（2026-09-25）[EN原文]",
-        "tc": "InsuranceAsia（2026-09-25）[EN原文]",
+        "sc": "InsuranceAsia",
+        "tc": "InsuranceAsia",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasia.com/insurance/news/prudential-opens-unit-trusts-5400-agents"
@@ -20662,8 +20673,8 @@
         "tc": "大湾区生活圈正把旅险从低频件变成高频件，是GBA场景少见的、可立即对客户落地的产品。"
       },
       "source": {
-        "sc": "InsuranceAsia（2026-09-25）[EN原文]",
-        "tc": "InsuranceAsia（2026-09-25）[EN原文]",
+        "sc": "InsuranceAsia",
+        "tc": "InsuranceAsia",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasia.com/insurance/news/prudential-targets-gba-travel-new-short-haul-cover"
@@ -20743,8 +20754,8 @@
         "tc": "亚洲高净值传承需求正把「超长年期＋受保人可更换」做成标准配置，这是区域内设计最激进的一版，值得与自身产品设计取向对照。"
       },
       "source": {
-        "sc": "InsuranceAsia（2026-09-25）[EN原文]",
-        "tc": "InsuranceAsia（2026-09-25）[EN原文]",
+        "sc": "InsuranceAsia",
+        "tc": "InsuranceAsia",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasia.com/insurance/news/singlife-launches-388-year-legacy-insurance-plan"
@@ -20821,8 +20832,8 @@
         "tc": "「保费增速领先、CSM利润率落后」的分化，是判断寿险增长质量的现成对照，可直接搬进团队业绩质量讨论。"
       },
       "source": {
-        "sc": "InsuranceAsia（2026-09-25）[EN原文]",
-        "tc": "InsuranceAsia（2026-09-25）[EN原文]",
+        "sc": "InsuranceAsia",
+        "tc": "InsuranceAsia",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasia.com/insurance/news/taiwan-life-insurers-lift-earnings-investment-gains"
@@ -20902,8 +20913,8 @@
         "tc": "「不缺产能、缺部署方向」加上19.9%的ROE，是当前再保定价与条款松紧最直接的资金面解释。"
       },
       "source": {
-        "sc": "InsuranceAsia（2026-09-25）[EN原文]",
-        "tc": "InsuranceAsia（2026-09-25）[EN原文]",
+        "sc": "InsuranceAsia",
+        "tc": "InsuranceAsia",
         "lang": "en"
       },
       "originalUrl": "https://insuranceasia.com/insurance/exclusive/asia-pacific-reinsurers-look-overseas-competition-heats"
@@ -20983,8 +20994,8 @@
         "tc": "网安险与综合险的信息不对称正在扩大，续保问卷中「MFA是否只是部分落地」这类问题会变成赔案争议的起点。"
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-25）[EN原文]",
-        "tc": "Insurance Business Asia（2026-09-25）[EN原文]",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       },
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/falling-cyber-alerts-may-not-mean-lower-risk-at-renewal-591208.aspx"
@@ -21064,8 +21075,8 @@
         "tc": "「一个市场、两种周期」的具体分野，是谈能源与工程类企业客户续保策略时最实用的判断依据。"
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-25）[EN原文]",
-        "tc": "Insurance Business Asia（2026-09-25）[EN原文]",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       },
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/construction/offshore-energys-soft-market-has-a-hard-pocket--and-its-about-to-get-bigger-591214.aspx"
@@ -21145,8 +21156,8 @@
         "tc": "「AI治理」已从最佳实践变成评级与信用的输入项，对正在上AI工具的团队是明确的合规先手信号。"
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-25）[EN原文]",
-        "tc": "Insurance Business Asia（2026-09-25）[EN原文]",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       },
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/ai-governance-will-separate-winning-insurers-from-laggards--sandp-global-ratings-591174.aspx"
@@ -21226,8 +21237,8 @@
         "tc": "保费增长不等于费率改善，这个「看似增长实则软化」的读数对任何以规模论健康的行业判断都是提醒。"
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-25）[EN原文]",
-        "tc": "Insurance Business Asia（2026-09-25）[EN原文]",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       },
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/marine/hull-premium-growth-of-9-4-masks-a-softening-market--iumi-591143.aspx"
@@ -21304,8 +21315,8 @@
         "tc": "数据中心把「科技资产」变成巨灾累积敞口，是ILS与另类资本下一块增量市场，也是香港发展ILS生态圈可借用的最新叙事。"
       },
       "source": {
-        "sc": "Artemis.bm（2026-09-25）[EN原文]",
-        "tc": "Artemis.bm（2026-09-25）[EN原文]",
+        "sc": "Artemis.bm",
+        "tc": "Artemis.bm",
         "lang": "en"
       },
       "originalUrl": "https://www.artemis.bm/news/ils-capital-providers-well-positioned-to-complement-reinsurers-data-centre-needs-stahel-lgt/"
@@ -21382,8 +21393,8 @@
         "tc": "损失倍数与价差同步走软，是判断ILS市场是否进入「低回报、高选择」阶段的直接指标。"
       },
       "source": {
-        "sc": "Artemis.bm（2026-09-25）[EN原文]",
-        "tc": "Artemis.bm（2026-09-25）[EN原文]",
+        "sc": "Artemis.bm",
+        "tc": "Artemis.bm",
         "lang": "en"
       },
       "originalUrl": "https://www.artemis.bm/news/as-cat-bond-loss-multiples-tighten-am-best-urges-investors-towards-greater-selectivity/"
@@ -21457,8 +21468,8 @@
         "tc": "直保集团连续在资本方案条线补人，是把保险风险当资产类别经营的延续信号。"
       },
       "source": {
-        "sc": "Artemis.bm（2026-09-25）[EN原文]",
-        "tc": "Artemis.bm（2026-09-25）[EN原文]",
+        "sc": "Artemis.bm",
+        "tc": "Artemis.bm",
         "lang": "en"
       },
       "originalUrl": "https://www.artemis.bm/news/liberty-mutual-insurance-hires-sinniah-as-head-of-capital-solutions-global-risk-solutions/"
@@ -21619,8 +21630,8 @@
         "tc": "大型金融集团把两套福利体系统一为单一标准，是观察香港僱员福利（EB）市场「集团化、标准化」走向的具体案例。"
       },
       "source": {
-        "sc": "SCMP（2026-09-25）",
-        "tc": "SCMP（2026-09-25）",
+        "sc": "SCMP",
+        "tc": "SCMP",
         "lang": "en"
       },
       "originalUrl": "https://www.scmp.com/business/banking-finance/article/3368763/hsbc-hang-seng-unify-staff-benefits-across-hong-kong-january-internal-memos"
@@ -21700,8 +21711,8 @@
         "tc": "银行渠道的实体触点以四成幅度收缩且被定义为永久性，是讨论保险分销触点（分行／代理／线上）演进时最直接的同业参照。"
       },
       "source": {
-        "sc": "SCMP（2026-09-25）",
-        "tc": "SCMP（2026-09-25）",
+        "sc": "SCMP",
+        "tc": "SCMP",
         "lang": "en"
       },
       "originalUrl": "https://www.scmp.com/business/banking-finance/article/3368820/why-hong-kong-banks-have-shut-down-40-branches-recent-years"
@@ -21739,8 +21750,8 @@
         "cross": 0
       },
       "source": {
-        "sc": "Artemis.bm（2026-09-24）[EN原文]",
-        "tc": "Artemis.bm（2026-09-24）[EN原文]",
+        "sc": "Artemis.bm",
+        "tc": "Artemis.bm",
         "lang": "en"
       },
       "boards": [
@@ -21820,8 +21831,8 @@
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-24）[EN原文]",
-        "tc": "Insurance Business Asia（2026-09-24）[EN原文]",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       },
       "boards": [
@@ -21892,8 +21903,8 @@
         "cross": 0
       },
       "source": {
-        "sc": "Artemis.bm（2026-09-24）[EN原文]",
-        "tc": "Artemis.bm（2026-09-24）[EN原文]",
+        "sc": "Artemis.bm",
+        "tc": "Artemis.bm",
         "lang": "en"
       },
       "boards": [
@@ -21967,8 +21978,8 @@
         "cross": 0
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-24）[EN原文]",
-        "tc": "Insurance Business Asia（2026-09-24）[EN原文]",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       },
       "boards": [
@@ -22039,8 +22050,8 @@
         "cross": 0
       },
       "source": {
-        "sc": "Artemis.bm（2026-09-24）[EN原文]",
-        "tc": "Artemis.bm（2026-09-24）[EN原文]",
+        "sc": "Artemis.bm",
+        "tc": "Artemis.bm",
         "lang": "en"
       },
       "boards": [
@@ -22117,8 +22128,8 @@
         "cross": 0
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-24）[EN原文]",
-        "tc": "Insurance Business Asia（2026-09-24）[EN原文]",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       },
       "boards": [
@@ -22191,8 +22202,8 @@
         "cross": 0
       },
       "source": {
-        "sc": "香港金融管理局新闻稿（2026-09-24）[EN原文]",
-        "tc": "香港金融管理局新聞稿（2026-09-24）[EN原文]",
+        "sc": "香港金融管理局新闻稿",
+        "tc": "香港金融管理局新聞稿",
         "lang": "en"
       },
       "boards": [
@@ -22266,8 +22277,8 @@
         "cross": 0
       },
       "source": {
-        "sc": "南华早报（2026-09-24）",
-        "tc": "南華早報（2026-09-24）",
+        "sc": "南华早报",
+        "tc": "南華早報",
         "lang": "zh+en"
       },
       "boards": [
@@ -22344,8 +22355,8 @@
         "cross": 1
       },
       "source": {
-        "sc": "香港金融管理局新闻稿（2026-09-24）",
-        "tc": "香港金融管理局新聞稿（2026-09-24）",
+        "sc": "香港金融管理局新闻稿",
+        "tc": "香港金融管理局新聞稿",
         "lang": "zh+en"
       },
       "boards": [
@@ -22419,8 +22430,8 @@
         "cross": 0
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-24）[EN原文]",
-        "tc": "Insurance Business Asia（2026-09-24）[EN原文]",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       },
       "boards": [
@@ -22490,8 +22501,8 @@
         "cross": 0
       },
       "source": {
-        "sc": "Artemis.bm（2026-09-24）[EN原文]",
-        "tc": "Artemis.bm（2026-09-24）[EN原文]",
+        "sc": "Artemis.bm",
+        "tc": "Artemis.bm",
         "lang": "en"
       },
       "boards": [
@@ -22559,8 +22570,8 @@
         "cross": 0
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-24）[EN原文]",
-        "tc": "InsuranceAsia News（2026-09-24）[EN原文]",
+        "sc": "InsuranceAsia News",
+        "tc": "InsuranceAsia News",
         "lang": "en"
       },
       "boards": [
@@ -22640,8 +22651,8 @@
         "cross": 2
       },
       "source": {
-        "sc": "保险业监管局新闻稿（2026-09-24）",
-        "tc": "保險業監管局新聞稿（2026-09-24）",
+        "sc": "保险业监管局新闻稿",
+        "tc": "保險業監管局新聞稿",
         "lang": "zh"
       },
       "boards": [
@@ -22713,8 +22724,8 @@
         "cross": 0
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-24）[EN原文]",
-        "tc": "InsuranceAsia News（2026-09-24）[EN原文]",
+        "sc": "InsuranceAsia News",
+        "tc": "InsuranceAsia News",
         "lang": "en"
       },
       "boards": [
@@ -22785,8 +22796,8 @@
         "cross": 1
       },
       "source": {
-        "sc": "香港金融管理局新闻稿（2026-09-24）[EN原文]",
-        "tc": "香港金融管理局新聞稿（2026-09-24）[EN原文]",
+        "sc": "香港金融管理局新闻稿",
+        "tc": "香港金融管理局新聞稿",
         "lang": "en"
       },
       "boards": [
@@ -22854,8 +22865,8 @@
         "cross": 0
       },
       "source": {
-        "sc": "Artemis.bm（2026-09-24）[EN原文]",
-        "tc": "Artemis.bm（2026-09-24）[EN原文]",
+        "sc": "Artemis.bm",
+        "tc": "Artemis.bm",
         "lang": "en"
       },
       "boards": [
@@ -22926,8 +22937,8 @@
         "cross": 0
       },
       "source": {
-        "sc": "香港金融管理局新闻稿（2026-09-24）[EN原文]",
-        "tc": "香港金融管理局新聞稿（2026-09-24）[EN原文]",
+        "sc": "香港金融管理局新闻稿",
+        "tc": "香港金融管理局新聞稿",
         "lang": "en"
       },
       "boards": [
@@ -22995,8 +23006,8 @@
         "cross": 0
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-24）[EN原文]",
-        "tc": "InsuranceAsia News（2026-09-24）[EN原文]",
+        "sc": "InsuranceAsia News",
+        "tc": "InsuranceAsia News",
         "lang": "en"
       },
       "boards": [
@@ -23067,8 +23078,8 @@
         "cross": 0
       },
       "source": {
-        "sc": "Artemis.bm（2026-09-24）[EN原文]",
-        "tc": "Artemis.bm（2026-09-24）[EN原文]",
+        "sc": "Artemis.bm",
+        "tc": "Artemis.bm",
         "lang": "en"
       },
       "boards": [
@@ -23142,8 +23153,8 @@
         "cross": 1
       },
       "source": {
-        "sc": "证券时报（2026-09-24）",
-        "tc": "證券時報（2026-09-24）",
+        "sc": "证券时报",
+        "tc": "證券時報",
         "lang": "zh"
       },
       "boards": [
@@ -23217,8 +23228,8 @@
         "cross": 1
       },
       "source": {
-        "sc": "香港特区政府新闻公报（2026-09-24）",
-        "tc": "香港特區政府新聞公報（2026-09-24）",
+        "sc": "香港特区政府新闻公报",
+        "tc": "香港特區政府新聞公報",
         "lang": "zh"
       },
       "boards": [
@@ -23286,8 +23297,8 @@
         "cross": 0
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-24）[EN原文]",
-        "tc": "InsuranceAsia News（2026-09-24）[EN原文]",
+        "sc": "InsuranceAsia News",
+        "tc": "InsuranceAsia News",
         "lang": "en"
       },
       "boards": [
@@ -23367,8 +23378,8 @@
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-24）[EN原文]",
-        "tc": "Insurance Business Asia（2026-09-24）[EN原文]",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       },
       "boards": [
@@ -23444,8 +23455,8 @@
         "cross": 0
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-24）[EN原文]",
-        "tc": "Insurance Business Asia（2026-09-24）[EN原文]",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       },
       "boards": [
@@ -23516,8 +23527,8 @@
         "cross": 0
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-24）[EN原文]",
-        "tc": "Insurance Business Asia（2026-09-24）[EN原文]",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       },
       "boards": [
@@ -23585,8 +23596,8 @@
         "cross": 0
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-24）[EN原文]",
-        "tc": "InsuranceAsia News（2026-09-24）[EN原文]",
+        "sc": "InsuranceAsia News",
+        "tc": "InsuranceAsia News",
         "lang": "en"
       },
       "boards": [
@@ -23663,8 +23674,8 @@
         "cross": 0
       },
       "source": {
-        "sc": "Insurance Asia（2026-09-24）[EN原文]",
-        "tc": "Insurance Asia（2026-09-24）[EN原文]",
+        "sc": "Insurance Asia",
+        "tc": "Insurance Asia",
         "lang": "en"
       },
       "boards": [
@@ -23739,8 +23750,8 @@
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Asia（2026-09-24）[EN原文]",
-        "tc": "Insurance Asia（2026-09-24）[EN原文]",
+        "sc": "Insurance Asia",
+        "tc": "Insurance Asia",
         "lang": "en"
       },
       "boards": [
@@ -23814,8 +23825,8 @@
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Asia（2026-09-24）[EN原文]",
-        "tc": "Insurance Asia（2026-09-24）[EN原文]",
+        "sc": "Insurance Asia",
+        "tc": "Insurance Asia",
         "lang": "en"
       },
       "boards": [
@@ -23883,8 +23894,8 @@
         "cross": 0
       },
       "source": {
-        "sc": "Insurance Asia（2026-09-24）[EN原文]",
-        "tc": "Insurance Asia（2026-09-24）[EN原文]",
+        "sc": "Insurance Asia",
+        "tc": "Insurance Asia",
         "lang": "en"
       },
       "boards": [
@@ -23952,8 +23963,8 @@
         "cross": 0
       },
       "source": {
-        "sc": "Insurance Asia（2026-09-24）[EN原文]",
-        "tc": "Insurance Asia（2026-09-24）[EN原文]",
+        "sc": "Insurance Asia",
+        "tc": "Insurance Asia",
         "lang": "en"
       },
       "boards": [
@@ -24024,8 +24035,8 @@
         "cross": 0
       },
       "source": {
-        "sc": "Insurance Asia（2026-09-24）[EN原文]",
-        "tc": "Insurance Asia（2026-09-24）[EN原文]",
+        "sc": "Insurance Asia",
+        "tc": "Insurance Asia",
         "lang": "en"
       },
       "boards": [
@@ -24099,8 +24110,8 @@
         "cross": 0
       },
       "source": {
-        "sc": "Insurance Asia（2026-09-24）[EN原文]",
-        "tc": "Insurance Asia（2026-09-24）[EN原文]",
+        "sc": "Insurance Asia",
+        "tc": "Insurance Asia",
         "lang": "en"
       },
       "boards": [
@@ -24171,8 +24182,8 @@
         "cross": 1
       },
       "source": {
-        "sc": "南华早报（2026-09-23）",
-        "tc": "南華早報（2026-09-23）",
+        "sc": "南华早报",
+        "tc": "南華早報",
         "lang": "zh+en"
       },
       "boards": [
@@ -24243,8 +24254,8 @@
         "cross": 0
       },
       "source": {
-        "sc": "Insurance Asia（2026-09-23）[EN原文]",
-        "tc": "Insurance Asia（2026-09-23）[EN原文]",
+        "sc": "Insurance Asia",
+        "tc": "Insurance Asia",
         "lang": "en"
       },
       "boards": [
@@ -24312,8 +24323,8 @@
         "cross": 0
       },
       "source": {
-        "sc": "Artemis.bm（2026-09-22）[EN原文]",
-        "tc": "Artemis.bm（2026-09-22）[EN原文]",
+        "sc": "Artemis.bm",
+        "tc": "Artemis.bm",
         "lang": "en"
       },
       "boards": [
@@ -24390,7 +24401,7 @@
         "cross": 0
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-23，网站标注24日）[EN原文]",
+        "sc": "Insurance Business Asia（2026-09-23，网站标注24日）",
         "lang": "en"
       },
       "boards": [
@@ -24472,7 +24483,7 @@
         "cross": 2
       },
       "source": {
-        "sc": "Artemis.bm（2026-09-23）[EN原文]",
+        "sc": "Artemis.bm",
         "lang": "en"
       },
       "boards": [
@@ -24551,7 +24562,7 @@
         "cross": 2
       },
       "source": {
-        "sc": "Artemis.bm（2026-09-23）[EN原文]",
+        "sc": "Artemis.bm",
         "lang": "en"
       },
       "boards": [
@@ -24630,7 +24641,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "Artemis.bm（2026-09-23）[EN原文]",
+        "sc": "Artemis.bm",
         "lang": "en"
       },
       "boards": [
@@ -24709,7 +24720,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "Artemis.bm（2026-09-23）[EN原文]",
+        "sc": "Artemis.bm",
         "lang": "en"
       },
       "boards": [
@@ -24791,7 +24802,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "Artemis.bm（2026-09-23）[EN原文]",
+        "sc": "Artemis.bm",
         "lang": "en"
       },
       "boards": [
@@ -24873,7 +24884,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-23）[EN原文]",
+        "sc": "Insurance Business Asia",
         "lang": "en"
       },
       "boards": [
@@ -24952,7 +24963,7 @@
         "cross": 0
       },
       "source": {
-        "sc": "Insurance Asia（2026-09-23）[EN原文]",
+        "sc": "Insurance Asia",
         "lang": "en"
       },
       "boards": [
@@ -25034,7 +25045,7 @@
         "cross": 2
       },
       "source": {
-        "sc": "Insurance Asia（2026-09-23）[EN原文]",
+        "sc": "Insurance Asia",
         "lang": "en"
       },
       "boards": [
@@ -25114,7 +25125,7 @@
         "cross": 0
       },
       "source": {
-        "sc": "Insurance Asia（2026-09-23）[EN原文]",
+        "sc": "Insurance Asia",
         "lang": "en"
       },
       "boards": [
@@ -25196,7 +25207,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Asia（2026-09-23）[EN原文]",
+        "sc": "Insurance Asia",
         "lang": "en"
       },
       "boards": [
@@ -25277,7 +25288,7 @@
         "cross": 0
       },
       "source": {
-        "sc": "Insurance Asia（2026-09-23）[EN原文]",
+        "sc": "Insurance Asia",
         "lang": "en"
       },
       "boards": [
@@ -25363,7 +25374,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "香港金融管理局新闻稿（2026-09-23）[EN原文]",
+        "sc": "香港金融管理局新闻稿",
         "lang": "en"
       },
       "boards": [
@@ -25442,7 +25453,7 @@
         "cross": 2
       },
       "source": {
-        "sc": "香港金融管理局新闻稿（2026-09-23）[EN原文]",
+        "sc": "香港金融管理局新闻稿",
         "lang": "en"
       },
       "boards": [
@@ -25520,7 +25531,7 @@
         "cross": 0
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-23）[EN原文]",
+        "sc": "Insurance Business Asia",
         "lang": "en"
       },
       "boards": [
@@ -25598,7 +25609,7 @@
         "cross": 0
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-23）[EN原文]",
+        "sc": "Insurance Business Asia",
         "lang": "en"
       },
       "boards": [
@@ -25673,7 +25684,7 @@
         "cross": 0
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-23）[EN原文]",
+        "sc": "Insurance Business Asia",
         "lang": "en"
       },
       "boards": [
@@ -25751,7 +25762,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "Artemis（2026-09-22）[EN原文]",
+        "sc": "Artemis",
         "lang": "en"
       },
       "boards": [
@@ -25829,7 +25840,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "Artemis（2026-09-22）[EN原文]",
+        "sc": "Artemis",
         "lang": "en"
       },
       "boards": [
@@ -25904,7 +25915,7 @@
         "cross": 0
       },
       "source": {
-        "sc": "Artemis（2026-09-22）[EN原文]",
+        "sc": "Artemis",
         "lang": "en"
       },
       "boards": [
@@ -25976,7 +25987,7 @@
         "cross": 0
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-23）[EN原文]",
+        "sc": "InsuranceAsia News",
         "lang": "en"
       },
       "boards": [
@@ -26051,7 +26062,7 @@
         "cross": 0
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-22）[EN原文]",
+        "sc": "InsuranceAsia News",
         "lang": "en"
       },
       "boards": [
@@ -26087,7 +26098,7 @@
       "sourceTier": "pro",
       "contentKind": "news",
       "source": {
-        "sc": "InsuranceAsia News（2026-09-23）[EN原文]",
+        "sc": "InsuranceAsia News",
         "lang": "en"
       },
       "boards": [
@@ -26165,7 +26176,7 @@
       "sourceTier": "official",
       "contentKind": "press",
       "source": {
-        "sc": "香港金融管理局新闻稿（2026-09-23）[EN原文]",
+        "sc": "香港金融管理局新闻稿",
         "lang": "en"
       },
       "boards": [
@@ -26243,7 +26254,7 @@
       "sourceTier": "pro",
       "contentKind": "news",
       "source": {
-        "sc": "InsuranceAsia News（2026-09-23，S&P Global Ratings 调研）[EN原文]",
+        "sc": "InsuranceAsia News（2026-09-23，S&P Global Ratings 调研）",
         "lang": "en"
       },
       "boards": [
@@ -26321,7 +26332,7 @@
       "sourceTier": "pro",
       "contentKind": "news",
       "source": {
-        "sc": "InsuranceAsia News（2026-09-23）[EN原文]",
+        "sc": "InsuranceAsia News",
         "lang": "en"
       },
       "boards": [
@@ -26479,7 +26490,7 @@
       "sourceTier": "pro",
       "contentKind": "news",
       "source": {
-        "sc": "InsuranceAsia News（2026-09-23）[EN原文]",
+        "sc": "InsuranceAsia News",
         "lang": "en"
       },
       "boards": [
@@ -26557,7 +26568,7 @@
       "sourceTier": "pro",
       "contentKind": "news",
       "source": {
-        "sc": "InsuranceAsia News（2026-09-23）[EN原文]",
+        "sc": "InsuranceAsia News",
         "lang": "en"
       },
       "boards": [
@@ -26636,7 +26647,7 @@
       "sourceTier": "pro",
       "contentKind": "news",
       "source": {
-        "sc": "InsuranceAsia News（2026-09-23）[EN原文]",
+        "sc": "InsuranceAsia News",
         "lang": "en"
       },
       "boards": [
@@ -26714,7 +26725,7 @@
       "sourceTier": "pro",
       "contentKind": "news",
       "source": {
-        "sc": "InsuranceAsia News（2026-09-23）[EN原文]",
+        "sc": "InsuranceAsia News",
         "lang": "en"
       },
       "boards": [
@@ -26792,7 +26803,7 @@
       "sourceTier": "media",
       "contentKind": "news",
       "source": {
-        "sc": "South China Morning Post（2026-09-22 20:31）[EN原文]",
+        "sc": "South China Morning Post（2026-09-22 20:31）",
         "lang": "en"
       },
       "boards": [
@@ -26905,7 +26916,7 @@
         "cross": 2
       },
       "source": {
-        "sc": "Artemis.bm（2026-09-22，引述 Howden Capital Markets & Advisory 圆桌）[EN原文]",
+        "sc": "Artemis.bm（2026-09-22，引述 Howden Capital Markets & Advisory 圆桌）",
         "lang": "en"
       },
       "boards": [
@@ -26985,7 +26996,7 @@
         "cross": 0
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-22）[EN原文]；损失数据经日本消防厅／NHK 公开报道交叉核对",
+        "sc": "InsuranceAsia News；损失数据经日本消防厅／NHK 公开报道交叉核对",
         "lang": "en"
       },
       "boards": [
@@ -27065,7 +27076,7 @@
         "cross": 2
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-22，付费墙，仅摘要可见）[EN原文]",
+        "sc": "InsuranceAsia News（2026-09-22，付费墙，仅摘要可见）",
         "lang": "en"
       },
       "boards": [
@@ -27142,7 +27153,7 @@
         "cross": 2
       },
       "source": {
-        "sc": "Artemis.bm（2026-09-21，新加坡金管局 Lim Cheng Khai 在 IMIA 年会发言）[EN原文]",
+        "sc": "Artemis.bm（2026-09-21，新加坡金管局 Lim Cheng Khai 在 IMIA 年会发言）",
         "lang": "en"
       },
       "boards": [
@@ -27222,7 +27233,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "Artemis.bm（2026-09-21，专访 Leadenhall Capital Partners CEO Luca Albertini）[EN原文]",
+        "sc": "Artemis.bm（2026-09-21，专访 Leadenhall Capital Partners CEO Luca Albertini）",
         "lang": "en"
       },
       "boards": [
@@ -27305,7 +27316,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-21，Halliwell 评论文章）[EN原文]",
+        "sc": "InsuranceAsia News（2026-09-21，Halliwell 评论文章）",
         "lang": "en"
       },
       "boards": [
@@ -27364,7 +27375,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-22）",
+        "sc": "Insurance Business Asia",
         "lang": "en"
       },
       "contentKind": "news",
@@ -27435,7 +27446,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-22）",
+        "sc": "Insurance Business Asia",
         "lang": "en"
       },
       "contentKind": "news",
@@ -27510,7 +27521,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-22）",
+        "sc": "Insurance Business Asia",
         "lang": "en"
       },
       "contentKind": "news",
@@ -27581,7 +27592,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-21）",
+        "sc": "Insurance Business Asia",
         "lang": "en"
       },
       "contentKind": "news",
@@ -27652,7 +27663,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-22）",
+        "sc": "InsuranceAsia News",
         "lang": "en"
       },
       "contentKind": "news",
@@ -27723,7 +27734,7 @@
         "cross": 2
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-22）",
+        "sc": "InsuranceAsia News",
         "lang": "en"
       },
       "contentKind": "news",
@@ -27795,7 +27806,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-22）",
+        "sc": "InsuranceAsia News",
         "lang": "en"
       },
       "contentKind": "news",
@@ -27866,7 +27877,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-22）",
+        "sc": "InsuranceAsia News",
         "lang": "en"
       },
       "contentKind": "news",
@@ -27937,7 +27948,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-22）",
+        "sc": "InsuranceAsia News",
         "lang": "en"
       },
       "contentKind": "news",
@@ -28012,7 +28023,7 @@
         "cross": 2
       },
       "source": {
-        "sc": "South China Morning Post（2026-09-22）",
+        "sc": "South China Morning Post",
         "lang": "en"
       },
       "contentKind": "news",
@@ -28170,7 +28181,7 @@
         "cross": 0
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-21）",
+        "sc": "InsuranceAsia News",
         "lang": "en"
       },
       "contentKind": "news",
@@ -28243,7 +28254,7 @@
         "cross": 0
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-22）",
+        "sc": "Insurance Business Asia",
         "lang": "en"
       },
       "contentKind": "news",
@@ -28318,7 +28329,7 @@
         "cross": 0
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-22）",
+        "sc": "Insurance Business Asia",
         "lang": "en"
       },
       "contentKind": "news",
@@ -28764,7 +28775,7 @@
         "cross": 0
       },
       "source": {
-        "sc": "香港金融管理局（2026-09-22）",
+        "sc": "香港金融管理局",
         "lang": "en"
       },
       "contentKind": "news",
@@ -28839,7 +28850,7 @@
         "cross": 0
       },
       "source": {
-        "sc": "香港金融管理局（2026-09-22）",
+        "sc": "香港金融管理局",
         "lang": "en"
       },
       "contentKind": "news",
@@ -28918,7 +28929,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "GMT EIGHT／香港保险业联会（2026-09-22）",
+        "sc": "GMT EIGHT／香港保险业联会",
         "lang": "zh+en"
       },
       "contentKind": "news",
@@ -29071,7 +29082,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-21）",
+        "sc": "InsuranceAsia News",
         "lang": "en"
       },
       "contentKind": "news",
@@ -29145,7 +29156,7 @@
         "cross": 0
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-21）",
+        "sc": "InsuranceAsia News",
         "lang": "en"
       },
       "contentKind": "news",
@@ -29299,7 +29310,7 @@
         "cross": 0
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-21）",
+        "sc": "Insurance Business Asia",
         "lang": "en"
       },
       "contentKind": "news",
@@ -29374,7 +29385,7 @@
         "cross": 0
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-21）",
+        "sc": "Insurance Business Asia",
         "lang": "en"
       },
       "contentKind": "news",
@@ -29528,7 +29539,7 @@
         "cross": 0
       },
       "source": {
-        "sc": "Insurance Asia（2026-09-22）",
+        "sc": "Insurance Asia",
         "lang": "en"
       },
       "contentKind": "news",
@@ -29607,7 +29618,7 @@
         "cross": 0
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-22）",
+        "sc": "Insurance Business Asia",
         "lang": "en"
       },
       "contentKind": "news",
@@ -29863,7 +29874,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "央广网转《证券日报》（2026-09-21）",
+        "sc": "央广网转《证券日报》",
         "lang": "zh"
       },
       "boards": [
@@ -29944,7 +29955,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "中国日报香港版转彭博访问（2026-09-21）[EN原文]",
+        "sc": "中国日报香港版转彭博访问",
         "lang": "en"
       },
       "boards": [
@@ -30105,7 +30116,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "新华网转《经济参考报》（2026-09-21）",
+        "sc": "新华网转《经济参考报》",
         "lang": "zh"
       },
       "boards": [
@@ -30266,8 +30277,8 @@
         "cross": 1
       },
       "source": {
-        "sc": "星岛头条（2026-09-21）",
-        "tc": "星島頭條（2026-09-21）",
+        "sc": "星岛头条",
+        "tc": "星島頭條",
         "lang": "zh"
       },
       "boards": [
@@ -30348,8 +30359,8 @@
         "cross": 1
       },
       "source": {
-        "sc": "Lockton Hong Kong 官方公告（2026-09-21）[EN原文]",
-        "tc": "Lockton Hong Kong 官方公告（2026-09-21）[EN原文]",
+        "sc": "Lockton Hong Kong 官方公告",
+        "tc": "Lockton Hong Kong 官方公告",
         "lang": "en"
       },
       "boards": [
@@ -30431,8 +30442,8 @@
         "cross": 1
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-21）[EN原文]",
-        "tc": "InsuranceAsia News（2026-09-21）[EN原文]",
+        "sc": "InsuranceAsia News",
+        "tc": "InsuranceAsia News",
         "lang": "en"
       },
       "boards": [
@@ -30514,8 +30525,8 @@
         "cross": 1
       },
       "source": {
-        "sc": "The Insurer / InsuranceAsia News（2026-09-21）[EN原文]",
-        "tc": "The Insurer / InsuranceAsia News（2026-09-21）[EN原文]",
+        "sc": "The Insurer / InsuranceAsia News",
+        "tc": "The Insurer / InsuranceAsia News",
         "lang": "en"
       },
       "boards": [
@@ -30597,8 +30608,8 @@
         "cross": 2
       },
       "source": {
-        "sc": "Boston Consulting Group（2026-09-21）[EN原文]",
-        "tc": "Boston Consulting Group（2026-09-21）[EN原文]",
+        "sc": "Boston Consulting Group",
+        "tc": "Boston Consulting Group",
         "lang": "en"
       },
       "boards": [
@@ -30680,8 +30691,8 @@
         "cross": 1
       },
       "source": {
-        "sc": "香港金融管理局新闻稿（2026-09-21）[EN原文]",
-        "tc": "香港金融管理局新聞稿（2026-09-21）[EN原文]",
+        "sc": "香港金融管理局新闻稿",
+        "tc": "香港金融管理局新聞稿",
         "lang": "en"
       },
       "boards": [
@@ -30761,8 +30772,8 @@
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Asia（2026-09-21）[EN原文]",
-        "tc": "Insurance Asia（2026-09-21）[EN原文]",
+        "sc": "Insurance Asia",
+        "tc": "Insurance Asia",
         "lang": "en"
       },
       "boards": [
@@ -30844,8 +30855,8 @@
         "cross": 1
       },
       "source": {
-        "sc": "Hong Kong Business（2026-09-21）[EN原文]",
-        "tc": "Hong Kong Business（2026-09-21）[EN原文]",
+        "sc": "Hong Kong Business",
+        "tc": "Hong Kong Business",
         "lang": "en"
       },
       "boards": [
@@ -30927,8 +30938,8 @@
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-21）[EN原文]",
-        "tc": "Insurance Business Asia（2026-09-21）[EN原文]",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       },
       "boards": [
@@ -31010,8 +31021,8 @@
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-21）[EN原文]",
-        "tc": "Insurance Business Asia（2026-09-21）[EN原文]",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       },
       "boards": [
@@ -31093,8 +31104,8 @@
         "cross": 1
       },
       "source": {
-        "sc": "香港01（2026-09-21）",
-        "tc": "香港01（2026-09-21）",
+        "sc": "香港01",
+        "tc": "香港01",
         "lang": "zh"
       },
       "boards": [
@@ -31176,8 +31187,8 @@
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-21）[EN原文]",
-        "tc": "Insurance Business Asia（2026-09-21）[EN原文]",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       },
       "boards": [
@@ -31258,8 +31269,8 @@
         "cross": 1
       },
       "source": {
-        "sc": "South China Morning Post（2026-09-20）[EN原文]",
-        "tc": "South China Morning Post（2026-09-20）[EN原文]",
+        "sc": "South China Morning Post",
+        "tc": "South China Morning Post",
         "lang": "en"
       },
       "boards": [
@@ -31341,8 +31352,8 @@
         "cross": 2
       },
       "source": {
-        "sc": "香港特区政府新闻公报（2026-09-20）",
-        "tc": "香港特區政府新聞公報（2026-09-20）",
+        "sc": "香港特区政府新闻公报",
+        "tc": "香港特區政府新聞公報",
         "lang": "zh"
       },
       "boards": [
@@ -31424,8 +31435,8 @@
         "cross": 1
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-21）[EN原文]",
-        "tc": "InsuranceAsia News（2026-09-21）[EN原文]",
+        "sc": "InsuranceAsia News",
+        "tc": "InsuranceAsia News",
         "lang": "en"
       },
       "boards": [
@@ -31509,8 +31520,8 @@
         "cross": 2
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-20）[EN原文]",
-        "tc": "InsuranceAsia News（2026-09-20）[EN原文]",
+        "sc": "InsuranceAsia News",
+        "tc": "InsuranceAsia News",
         "lang": "en"
       },
       "boards": [
@@ -31592,8 +31603,8 @@
         "cross": 1
       },
       "source": {
-        "sc": "北京商报（2026-09-20）",
-        "tc": "北京商報（2026-09-20）",
+        "sc": "北京商报",
+        "tc": "北京商報",
         "lang": "zh"
       },
       "boards": [
@@ -31760,8 +31771,8 @@
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-18）[EN原文]",
-        "tc": "Insurance Business Asia（2026-09-18）[EN原文]",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       },
       "boards": [
@@ -31845,8 +31856,8 @@
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-18）[EN原文]",
-        "tc": "Insurance Business Asia（2026-09-18）[EN原文]",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       },
       "boards": [
@@ -31928,8 +31939,8 @@
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-18）[EN原文]",
-        "tc": "Insurance Business Asia（2026-09-18）[EN原文]",
+        "sc": "Insurance Business Asia",
+        "tc": "Insurance Business Asia",
         "lang": "en"
       },
       "boards": [
@@ -32011,8 +32022,8 @@
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-18），数字来自 FSS/FSC 与《The Asia Business Daily》[EN原文]",
-        "tc": "Insurance Business Asia（2026-09-18），數字來自 FSS/FSC 與《The Asia Business Daily》[EN原文]",
+        "sc": "Insurance Business Asia（2026-09-18），数字来自 FSS/FSC 与《The Asia Business Daily》",
+        "tc": "Insurance Business Asia（2026-09-18），數字來自 FSS/FSC 與《The Asia Business Daily》",
         "lang": "en"
       },
       "boards": [
@@ -32096,7 +32107,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "香港金管局新聞稿（2026-09-18）[EN原文]",
+        "sc": "香港金管局新聞稿",
         "lang": "en"
       },
       "boards": [
@@ -32179,7 +32190,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "香港金管局新聞稿（2026-09-18）[EN原文]",
+        "sc": "香港金管局新聞稿",
         "lang": "en"
       },
       "boards": [
@@ -32341,7 +32352,7 @@
         "cross": 3
       },
       "source": {
-        "sc": "保監局主席姚建華表態（Insurance Asia 2026-09-19報道）[EN原文]",
+        "sc": "保監局主席姚建華表態（Insurance Asia 2026-09-19報道）",
         "lang": "en"
       },
       "boards": [
@@ -32427,7 +32438,7 @@
         "cross": 3
       },
       "source": {
-        "sc": "南華早報 2026-09-18 報道 [EN原文]",
+        "sc": "南華早報",
         "lang": "en"
       },
       "boards": [
@@ -32594,7 +32605,7 @@
         "cross": 2
       },
       "source": {
-        "sc": "台灣金管會保險局數據（Insurance Asia 2026-09-18報道）[EN原文]",
+        "sc": "台灣金管會保險局數據（Insurance Asia 2026-09-18報道）",
         "lang": "en"
       },
       "boards": [
@@ -32674,7 +32685,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Asia 每周綜述（2026-09-19）[EN原文]",
+        "sc": "Insurance Asia 每周綜述",
         "lang": "en"
       },
       "boards": [
@@ -32753,7 +32764,7 @@
         "cross": 2
       },
       "source": {
-        "sc": "Insurance Asia 2026-09-19 報道 [EN原文]",
+        "sc": "Insurance Asia",
         "lang": "en"
       },
       "boards": [
@@ -32833,7 +32844,7 @@
         "cross": 3
       },
       "source": {
-        "sc": "InsuranceAsia News 2026-09-18 報道 [EN原文]",
+        "sc": "InsuranceAsia News",
         "lang": "en"
       },
       "boards": [
@@ -32915,7 +32926,7 @@
         "cross": 3
       },
       "source": {
-        "sc": "InsuranceAsia News「Full Capacity」周報（2026-09-19）[EN原文]",
+        "sc": "InsuranceAsia News「Full Capacity」周報",
         "lang": "en"
       },
       "boards": [
@@ -32999,7 +33010,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "AM Best分析（Insurance Asia 2026-09-18報道）[EN原文]",
+        "sc": "AM Best分析（Insurance Asia 2026-09-18報道）",
         "lang": "en"
       },
       "boards": [
@@ -33081,7 +33092,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "惠誉评级观点（Insurance Asia 2026-09-18报道）[EN原文]",
+        "sc": "惠誉评级观点（Insurance Asia 2026-09-18报道）",
         "lang": "en"
       },
       "boards": [
@@ -33164,7 +33175,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "汇丰／安盛交易分析（Insurance Asia 2026-09-18独家报道）[EN原文]",
+        "sc": "汇丰／安盛交易分析（Insurance Asia 2026-09-18独家报道）",
         "lang": "en"
       },
       "boards": [
@@ -33248,7 +33259,7 @@
         "cross": 2
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-18）[EN原文]",
+        "sc": "Insurance Business Asia",
         "lang": "en"
       },
       "boards": [
@@ -33334,7 +33345,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Business Asia《5-Star Insurance Innovators 2026》（2026-09-18）[EN原文]",
+        "sc": "Insurance Business Asia《5-Star Insurance Innovators 2026》",
         "lang": "en"
       },
       "boards": [
@@ -33415,7 +33426,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-18）[EN原文]",
+        "sc": "Insurance Business Asia",
         "lang": "en"
       },
       "boards": [
@@ -33497,7 +33508,7 @@
         "cross": 2
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-18）[EN原文]",
+        "sc": "Insurance Business Asia",
         "lang": "en"
       },
       "boards": [
@@ -33581,7 +33592,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-18），数据为中国平安产险报告[EN原文]",
+        "sc": "Insurance Business Asia（2026-09-18），数据为中国平安产险报告",
         "lang": "en"
       },
       "boards": [
@@ -33665,7 +33676,7 @@
         "cross": 2
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-18）[EN原文]",
+        "sc": "Insurance Business Asia",
         "lang": "en"
       },
       "boards": [
@@ -33747,7 +33758,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "InsuranceAsia News引述韦莱韬悦全球报告（2026-09-17）[EN原文]",
+        "sc": "InsuranceAsia News引述韦莱韬悦全球报告",
         "lang": "en"
       },
       "boards": [
@@ -33828,7 +33839,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "日本损保协会GIAJ数据（InsuranceAsia News 2026-09-17）[EN原文]",
+        "sc": "日本损保协会GIAJ数据（InsuranceAsia News 2026-09-17）",
         "lang": "en"
       },
       "boards": [
@@ -34245,7 +34256,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Business《World Life Insurance Report 2027》报道（2026-09-17）[EN原文]",
+        "sc": "Insurance Business《World Life Insurance Report 2027》报道",
         "lang": "en"
       },
       "boards": [
@@ -34327,7 +34338,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "Hong Kong Monetary Authority 新闻稿（2026-09-17）",
+        "sc": "Hong Kong Monetary Authority 新闻稿",
         "lang": "en"
       },
       "boards": [
@@ -34410,7 +34421,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "汇丰香港财富观点（2026-09-17）",
+        "sc": "汇丰香港财富观点",
         "lang": "en"
       },
       "boards": [
@@ -37392,7 +37403,7 @@
         "cross": 0
       },
       "source": {
-        "sc": "Insurance Asia（2026-09-16）",
+        "sc": "Insurance Asia",
         "lang": "en"
       },
       "boards": [
@@ -37634,7 +37645,7 @@
         "cross": 2
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-16）",
+        "sc": "Insurance Business Asia",
         "lang": "en"
       },
       "boards": [
@@ -37797,7 +37808,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Asia（2026-09-16）",
+        "sc": "Insurance Asia",
         "lang": "en"
       },
       "boards": [
@@ -38114,7 +38125,7 @@
         "cross": 0
       },
       "source": {
-        "sc": "香港金融管理局新闻稿（2026-09-15）",
+        "sc": "香港金融管理局新闻稿",
         "lang": "en"
       },
       "boards": [
@@ -38354,7 +38365,7 @@
         "cross": 2
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-15）",
+        "sc": "Insurance Business Asia",
         "lang": "en"
       },
       "boards": [
@@ -38510,7 +38521,7 @@
         "cross": 0
       },
       "source": {
-        "sc": "Insurance Business Asia（2026-09-15）",
+        "sc": "Insurance Business Asia",
         "lang": "en"
       },
       "boards": [
@@ -38747,7 +38758,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Asia 引述 Jefferies《泰国寿险追踪》（2026-09-16）",
+        "sc": "Insurance Asia 引述 Jefferies《泰国寿险追踪》",
         "lang": "en"
       },
       "boards": [
@@ -38825,7 +38836,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "Insurance Asia 引述 AM Best（2026-09-16）",
+        "sc": "Insurance Asia 引述 AM Best",
         "lang": "en"
       },
       "boards": [
@@ -38900,7 +38911,7 @@
         "cross": 0
       },
       "source": {
-        "sc": "Insurance Asia（2026-09-16）",
+        "sc": "Insurance Asia",
         "lang": "en"
       },
       "boards": [
@@ -39052,7 +39063,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "Intelligent Insurer — EAIC Today（2026-09-14）",
+        "sc": "Intelligent Insurer — EAIC Today",
         "lang": "en"
       },
       "boards": [
@@ -39130,7 +39141,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "Intelligent Insurer — EAIC Today / Fitch Ratings（2026-09-14）",
+        "sc": "Intelligent Insurer — EAIC Today / Fitch Ratings",
         "lang": "en"
       },
       "boards": [
@@ -39202,7 +39213,7 @@
         "cross": 0
       },
       "source": {
-        "sc": "InsuranceAsia News（2026-09-14）",
+        "sc": "InsuranceAsia News",
         "lang": "en"
       },
       "boards": [
@@ -39283,7 +39294,7 @@
         "cross": 2
       },
       "source": {
-        "sc": "无线新闻《时事多面睇》（2026-09-14）",
+        "sc": "无线新闻《时事多面睇》",
         "lang": "zh"
       },
       "boards": [
@@ -40408,7 +40419,7 @@
         "cross": 2
       },
       "source": {
-        "sc": "保监局新闻稿（2026-09-10）",
+        "sc": "保监局新闻稿",
         "lang": "en"
       },
       "boards": [
@@ -40489,7 +40500,7 @@
         "cross": 2
       },
       "source": {
-        "sc": "保监局新闻稿（2026-09-09）",
+        "sc": "保监局新闻稿",
         "lang": "en"
       },
       "boards": [
@@ -45646,7 +45657,7 @@
       "score": 65,
       "verifyStatus": "verified",
       "sourceTier": "media",
-      "sourceKey": "insurancebusiness",
+      "sourceKey": "insurancebusinessmag",
       "title": {
         "sc": "Willis委任Madden掌亚太专属自保业务 由都柏林调驻新加坡 [EN原文]",
         "tc": "Willis委任Madden掌亞太專屬自保業務 由都柏林調駐新加坡 [EN原文]"
@@ -46014,7 +46025,7 @@
       "score": 65,
       "verifyStatus": "verified",
       "sourceTier": "media",
-      "sourceKey": "insurancebusiness",
+      "sourceKey": "insurancebusinessmag",
       "title": {
         "sc": "内地拟将新设险企最低资本提高5倍至10亿元 保险法修订草案首纳股票黄金为法定投资 [EN原文]",
         "tc": "內地擬將新設險企最低資本提高5倍至10億元 保險法修訂草案首納股票黃金為法定投資 [EN原文]"
@@ -46982,7 +46993,7 @@
       "score": 64,
       "verifyStatus": "verified",
       "sourceTier": "media",
-      "sourceKey": "insurancebusiness",
+      "sourceKey": "insurancebusinessmag",
       "title": {
         "sc": "劳合社H1风险调整费率降6.7% 软化速度近倍 承保纪律成焦点 [EN原文]",
         "tc": "勞合社H1風險調整費率降6.7% 軟化速度近倍 承保紀律成焦點 [EN原文]"
@@ -47057,7 +47068,7 @@
       "score": 62,
       "verifyStatus": "verified",
       "sourceTier": "media",
-      "sourceKey": "insurancebusiness",
+      "sourceKey": "insurancebusinessmag",
       "title": {
         "sc": "再保资本创6880亿美元新高 2027续转料成十年最强买方市场 [EN原文]",
         "tc": "再保資本創6880億美元新高 2027續轉料成十年最強買方市場 [EN原文]"
@@ -47431,7 +47442,7 @@
       "score": 64,
       "verifyStatus": "verified",
       "sourceTier": "media",
-      "sourceKey": "insurancebusiness",
+      "sourceKey": "insurancebusinessmag",
       "title": {
         "sc": "三星旗下保险公司洽购Canopius余下股权并入股Principal Financial 涉资最高58亿美元 [EN原文]",
         "tc": "三星旗下保險公司洽購Canopius餘下股權並入股Principal Financial 涉資最高58億美元 [EN原文]"
@@ -47731,7 +47742,7 @@
       "score": 63,
       "verifyStatus": "verified",
       "sourceTier": "media",
-      "sourceKey": "insurancebusiness",
+      "sourceKey": "insurancebusinessmag",
       "title": {
         "sc": "新加坡金管局3年注资2.2亿坡元推FSTI 4.0 设AI Pathfinder轨道对接官方审核AI工具 [EN原文]",
         "tc": "新加坡金管局3年注資2.2億坡元推FSTI 4.0 設AI Pathfinder軌道對接官方審核AI工具 [EN原文]"
@@ -47806,7 +47817,7 @@
       "score": 61,
       "verifyStatus": "verified",
       "sourceTier": "media",
-      "sourceKey": "insurancebusiness",
+      "sourceKey": "insurancebusinessmag",
       "title": {
         "sc": "台湾国泰人寿加入GAIP成为主要伙伴 亚洲保障缺口逼近1万亿美元 [EN原文]",
         "tc": "台灣國泰人壽加入GAIP成為主要夥伴 亞洲保障缺口逼近1萬億美元 [EN原文]"
@@ -47881,7 +47892,7 @@
       "score": 64,
       "verifyStatus": "verified",
       "sourceTier": "media",
-      "sourceKey": "insurancebusiness",
+      "sourceKey": "insurancebusinessmag",
       "title": {
         "sc": "穆迪：上半年保险连接证券未偿资本1445亿美元创纪录 巨灾债同比增17% [EN原文]",
         "tc": "穆迪：上半年保險連接證券未償資本1445億美元創紀錄 巨災債同比增17% [EN原文]"
@@ -54521,7 +54532,7 @@
       "score": 85,
       "verifyStatus": "verified",
       "sourceTier": "official",
-      "sourceKey": "hkma_press",
+      "sourceKey": "hkma",
       "title": {
         "sc": "金管局提醒：提防伪冒金管局文件 假借「数码港元」诱骗投资",
         "tc": "金管局提醒：提防偽冒金管局文件 假借「數碼港元」誘騙投資"
@@ -54596,7 +54607,7 @@
       "score": 75,
       "verifyStatus": "verified",
       "sourceTier": "insurer",
-      "sourceKey": "chinalife",
+      "sourceKey": "china-life",
       "title": {
         "sc": "中国人寿：8月27日公布2026年中期业绩 28日举行网络业绩简报会",
         "tc": "中國人壽：8月27日公佈2026年中期業績 28日舉行網絡業績簡報會"
@@ -57301,7 +57312,7 @@
       "score": 72,
       "verifyStatus": "verified",
       "sourceTier": "pro",
-      "sourceKey": "insurancebusiness",
+      "sourceKey": "insurancebusinessmag",
       "title": {
         "sc": "QBE中期调整后净利润10.3亿美元 股本回报17.7%超中期目标",
         "tc": "QBE中期調整後淨利潤10.3億美元 股本回報17.7%超中期目標"
@@ -62590,7 +62601,7 @@
         "cross": 2
       },
       "source": {
-        "sc": "InsuranceAsia · 2026年8月5日",
+        "sc": "InsuranceAsia",
         "lang": "zh"
       },
       "boards": [
@@ -64535,7 +64546,7 @@
         "cross": 4
       },
       "source": {
-        "sc": "国家金融监管总局 · 2026年7月31日",
+        "sc": "国家金融监管总局",
         "lang": "zh"
       },
       "boards": [
@@ -64817,7 +64828,7 @@
         "cross": 5
       },
       "source": {
-        "sc": "国家金融监管总局 · 2026年7月30日",
+        "sc": "国家金融监管总局",
         "lang": "zh"
       },
       "boards": [
@@ -65734,7 +65745,7 @@
       "score": 68,
       "verifyStatus": "verified",
       "sourceTier": "pro",
-      "sourceKey": "InsuranceAsia",
+      "sourceKey": "insuranceasia",
       "title": {
         "sc": "Continuum 挖角 Howden：Andy Tam 出任香港总经理",
         "tc": "Continuum 挖角 Howden：Andy Tam 出任香港總經理"
@@ -66879,8 +66890,8 @@
         }
       },
       "source": {
-        "sc": "行业媒体报道 · 援引保监局临时统计（2026-07-24）",
-        "tc": "行業媒體報道 · 援引保監局臨時統計（2026-07-24）",
+        "sc": "行业媒体报道 · 援引保监局临时统计",
+        "tc": "行業媒體報道 · 援引保監局臨時統計",
         "lang": "en"
       },
       "sourceTier": "pro",
@@ -67495,7 +67506,7 @@
       "score": 85,
       "verifyStatus": "verified",
       "sourceTier": "official",
-      "sourceKey": "mof-sta",
+      "sourceKey": "mof",
       "title": {
         "sc": "财政部/税务总局发布离岸信托个税新规：设立即征税、存续即穿透、退出即清算。",
         "tc": "財政部/稅務總局發佈離岸信託個稅新規：設立即徵稅、存續即穿透、退出即清算。"
@@ -68135,7 +68146,7 @@
         "cross": 5
       },
       "source": {
-        "sc": "国家外汇管理局 · 2026年7月17日",
+        "sc": "国家外汇管理局",
         "lang": "zh"
       },
       "boards": [
@@ -69726,7 +69737,7 @@
         "cross": 3
       },
       "source": {
-        "sc": "国家金融监管总局 · 2026年7月10日",
+        "sc": "国家金融监管总局",
         "lang": "zh"
       },
       "boards": [
@@ -70512,7 +70523,7 @@
         "cross": 4
       },
       "source": {
-        "sc": "国家金融监管总局 · 2026年7月7日",
+        "sc": "国家金融监管总局",
         "lang": "zh"
       },
       "boards": [
@@ -71043,7 +71054,7 @@
       "score": 74,
       "verifyStatus": "verified",
       "sourceTier": "official",
-      "sourceKey": "港交所 HKEX",
+      "sourceKey": "hkex",
       "title": {
         "sc": "港交所 2026 H1 IPO 回顾：内地企业赴港上市持续活跃",
         "tc": "港交所 2026 H1 IPO 回顧：內地企業赴港上市持續活躍"
@@ -71369,8 +71380,8 @@
         }
       },
       "source": {
-        "sc": "瑞再研究院 · sigma 2/2026 2026-06-30 [EN原文]",
-        "tc": "瑞再研究院 · sigma 2/2026 2026-06-30 [EN原文]",
+        "sc": "瑞再研究院 · sigma 2/2026 2026-06-30",
+        "tc": "瑞再研究院 · sigma 2/2026 2026-06-30",
         "lang": "zh"
       },
       "sourceTier": "research",
@@ -71450,8 +71461,8 @@
         }
       },
       "source": {
-        "sc": "安联研究 · 全球保险报告 2026-06-30 [EN原文]",
-        "tc": "安联研究 · 全球保险报告 2026-06-30 [EN原文]",
+        "sc": "安联研究 · 全球保险报告 2026-06-30",
+        "tc": "安联研究 · 全球保险报告 2026-06-30",
         "lang": "zh"
       },
       "sourceTier": "research",
@@ -71659,8 +71670,8 @@
         }
       },
       "source": {
-        "sc": "永明金融 · 公告 2026-06-29 [EN原文]",
-        "tc": "永明金融 · 公告 2026-06-29 [EN原文]",
+        "sc": "永明金融 · 公告 2026-06-29",
+        "tc": "永明金融 · 公告 2026-06-29",
         "lang": "zh"
       },
       "sourceTier": "insurer",
@@ -71965,8 +71976,8 @@
         }
       },
       "source": {
-        "sc": "摩根士丹利研究 · 月度评论 2026-06 [EN原文]",
-        "tc": "摩根士丹利研究 · 月度评论 2026-06 [EN原文]",
+        "sc": "摩根士丹利研究 · 月度评论 2026-06",
+        "tc": "摩根士丹利研究 · 月度评论 2026-06",
         "lang": "zh"
       },
       "sourceTier": "research",
@@ -72043,8 +72054,8 @@
         }
       },
       "source": {
-        "sc": "PIMCO · Q2亚洲更新 2026-06 [EN原文]",
-        "tc": "PIMCO · Q2亚洲更新 2026-06 [EN原文]",
+        "sc": "PIMCO · Q2亚洲更新 2026-06",
+        "tc": "PIMCO · Q2亚洲更新 2026-06",
         "lang": "zh"
       },
       "sourceTier": "research",
@@ -72562,8 +72573,8 @@
         }
       },
       "source": {
-        "sc": "RGA · 产品趋势报告 2026-Q2 [EN原文]",
-        "tc": "RGA · 产品趋势报告 2026-Q2 [EN原文]",
+        "sc": "RGA · 产品趋势报告 2026-Q2",
+        "tc": "RGA · 产品趋势报告 2026-Q2",
         "lang": "zh"
       },
       "sourceTier": "research",
@@ -72774,8 +72785,8 @@
         }
       },
       "source": {
-        "sc": "高盛研究 · 市场展望 2026-06 [EN原文]",
-        "tc": "高盛研究 · 市场展望 2026-06 [EN原文]",
+        "sc": "高盛研究 · 市场展望 2026-06",
+        "tc": "高盛研究 · 市场展望 2026-06",
         "lang": "zh"
       },
       "sourceTier": "media",
@@ -73146,8 +73157,8 @@
         }
       },
       "source": {
-        "sc": "贝莱德投资研究院 · 2026年中展望 [EN原文]",
-        "tc": "贝莱德投资研究院 · 2026年中展望 [EN原文]",
+        "sc": "贝莱德投资研究院 · 2026年中展望",
+        "tc": "贝莱德投资研究院 · 2026年中展望",
         "lang": "zh"
       },
       "sourceTier": "research",
@@ -73224,8 +73235,8 @@
         }
       },
       "source": {
-        "sc": "Insurance Business Mag / 保监局 2026-06-17 [EN原文]",
-        "tc": "Insurance Business Mag / 保监局 2026-06-17 [EN原文]",
+        "sc": "Insurance Business Mag / 保监局 2026-06-17",
+        "tc": "Insurance Business Mag / 保监局 2026-06-17",
         "lang": "zh"
       },
       "sourceTier": "pro",
@@ -73303,8 +73314,8 @@
         }
       },
       "source": {
-        "sc": "Bloomberg · 新闻报道 2026-06-16 [EN原文]",
-        "tc": "Bloomberg · 新闻报道 2026-06-16 [EN原文]",
+        "sc": "Bloomberg · 新闻报道 2026-06-16",
+        "tc": "Bloomberg · 新闻报道 2026-06-16",
         "lang": "zh"
       },
       "sourceTier": "insurer",
@@ -73883,8 +73894,8 @@
         }
       },
       "source": {
-        "sc": "Bloomberg · 独家报道 2026-06-15 [EN原文]",
-        "tc": "Bloomberg · 独家报道 2026-06-15 [EN原文]",
+        "sc": "Bloomberg · 独家报道 2026-06-15",
+        "tc": "Bloomberg · 独家报道 2026-06-15",
         "lang": "zh"
       },
       "sourceTier": "media",
@@ -74177,8 +74188,8 @@
         }
       },
       "source": {
-        "sc": "Hubbis / 媒体报道 2026-06 [EN原文]",
-        "tc": "Hubbis / 媒体报道 2026-06 [EN原文]",
+        "sc": "Hubbis / 媒体报道 2026-06",
+        "tc": "Hubbis / 媒体报道 2026-06",
         "lang": "zh"
       },
       "sourceTier": "insurer",
@@ -74287,7 +74298,7 @@
       },
       "publishedAt": "2026-06-10T12:00:00+08:00",
       "originalUrl": "https://www.ctfs.com.hk/media-hub/press-releases/2026/FY2026_Interim_Results",
-      "sourceKey": "ctf-life",
+      "sourceKey": "ctflife",
       "boards": [
         "insurer",
         "market"
@@ -74417,8 +74428,8 @@
         }
       },
       "source": {
-        "sc": "惠誉评级 · 行业展望 2026-06-09 [EN原文]",
-        "tc": "惠誉评级 · 行业展望 2026-06-09 [EN原文]",
+        "sc": "惠誉评级 · 行业展望 2026-06-09",
+        "tc": "惠誉评级 · 行业展望 2026-06-09",
         "lang": "zh"
       },
       "sourceTier": "research",
@@ -74809,8 +74820,8 @@
         }
       },
       "source": {
-        "sc": "金管局 · 通函 2026-06-05 [EN原文]",
-        "tc": "金管局 · 通函 2026-06-05 [EN原文]",
+        "sc": "金管局 · 通函 2026-06-05",
+        "tc": "金管局 · 通函 2026-06-05",
         "lang": "zh"
       },
       "sourceTier": "official",
@@ -75049,8 +75060,8 @@
         }
       },
       "source": {
-        "sc": "亚洲保险评论 · 产品新闻 2026-06-04 [EN原文]",
-        "tc": "亚洲保险评论 · 产品新闻 2026-06-04 [EN原文]",
+        "sc": "亚洲保险评论 · 产品新闻 2026-06-04",
+        "tc": "亚洲保险评论 · 产品新闻 2026-06-04",
         "lang": "zh"
       },
       "sourceTier": "pro",
@@ -78488,7 +78499,7 @@
       "contentKind": "news",
       "publishedAt": "2026-04-10T10:00:00+08:00",
       "originalUrl": "https://www.chinalife.com.hk/",
-      "sourceKey": "chinlife",
+      "sourceKey": "china-life",
       "sourceTier": "media",
       "rolesImpact": {
         "front": 0,
@@ -81071,7 +81082,7 @@
         "cross": 5
       },
       "source": {
-        "sc": "投资推广署 · 2026年3月1日",
+        "sc": "投资推广署",
         "lang": "zh"
       },
       "boards": [
@@ -83124,7 +83135,7 @@
       "score": 75,
       "verifyStatus": "verified",
       "sourceTier": "official",
-      "sourceKey": "mof-sta",
+      "sourceKey": "mof",
       "title": {
         "sc": "深圳 2026 年大湾区个税优惠：境外人才超 15% 税率部分可申请财政补贴",
         "tc": "深圳 2026 年大灣區個稅優惠：境外人才超 15% 稅率部分可申請財政補貼"
@@ -84657,7 +84668,7 @@
         "cross": 1
       },
       "source": {
-        "sc": "IA · 2025年10月22日",
+        "sc": "IA",
         "lang": "zh"
       },
       "boards": [
@@ -84730,7 +84741,7 @@
         "cross": 4
       },
       "source": {
-        "sc": "IA / AIA / Prudential · 2025年10月17日",
+        "sc": "IA / AIA / Prudential",
         "lang": "zh"
       },
       "boards": [
@@ -88082,7 +88093,7 @@
         "cross": 3
       },
       "source": {
-        "sc": "友邦集团 · 2025年4月30日",
+        "sc": "友邦集团",
         "lang": "zh"
       },
       "boards": [
@@ -90377,7 +90388,7 @@
         "cross": 2
       },
       "source": {
-        "sc": "保监局 · 2024年10月29日",
+        "sc": "保监局",
         "lang": "zh"
       },
       "boards": [
@@ -90936,7 +90947,7 @@
         "cross": 5
       },
       "source": {
-        "sc": "国务院 · 2024年9月11日",
+        "sc": "国务院",
         "lang": "zh"
       },
       "boards": [
@@ -93554,7 +93565,7 @@
         "cross": 3
       },
       "source": {
-        "sc": "Allianz Research · 2026年9月7日",
+        "sc": "Allianz Research",
         "lang": "en"
       },
       "boards": [
@@ -93618,7 +93629,7 @@
         "cross": 2
       },
       "source": {
-        "sc": "Allianz Research · 2026年9月10日",
+        "sc": "Allianz Research",
         "lang": "en"
       },
       "boards": [
