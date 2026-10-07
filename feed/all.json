@@ -1,9 +1,581 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-05T18:04:54Z",
-  "itemCount": 1168,
+  "generatedAt": "2026-10-07T10:13:37Z",
+  "itemCount": 1206,
   "items": [
+    {
+      "id": "scmp-mpf-gain-100b-despite-september-20261007",
+      "title": "南華早報：強積金年初至今累計進賬近1000億港元 9月單月錄得虧損",
+      "sourceTier": "media",
+      "themes": [
+        "mpf",
+        "retirement",
+        "returns",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-10-07T09:00:00+08:00",
+      "score": 63,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-mpf-gain-100b-despite-september-20261007",
+      "originalUrl": "https://www.scmp.com/business/money/investment-products/article/3369945/hong-kongs-mpf-has-gained-nearly-hk100b-year-despite-september-loss"
+    },
+    {
+      "id": "scmp-family-offices-pe-infrastructure-20261007",
+      "title": "南華早報（特約內容）：家族辦公室資金擴展至私募股權、基建及另類投資",
+      "sourceTier": "media",
+      "themes": [
+        "family-office",
+        "private-equity",
+        "alternatives",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-10-07T16:00:00+08:00",
+      "score": 63,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-family-offices-pe-infrastructure-20261007",
+      "originalUrl": "https://www.scmp.com/native/business/topics/fostering-future-innovators/article/3369878/family-offices-branch-out-private-equity-infrastructure-and-alternative-investments"
+    },
+    {
+      "id": "hk-legco-five-year-plan-insurance-talent-20261007",
+      "title": "立法會五年規劃辯論：保險界議員促發展新興產業專項保險並放寬人才引進",
+      "sourceTier": "media",
+      "themes": [
+        "talent",
+        "hong-kong",
+        "specialty-insurance",
+        "policy"
+      ],
+      "publishedAt": "2026-10-07T12:23:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hk-legco-five-year-plan-insurance-talent-20261007",
+      "originalUrl": "https://www.hk01.com/article/60397142"
+    },
+    {
+      "id": "hkma-fx-reserves-september-2026-20261007",
+      "title": "金管局：9月底外匯儲備資產4330億美元 按月減少約98億",
+      "sourceTier": "official",
+      "themes": [
+        "hkma",
+        "reserves",
+        "financial-stability",
+        "stats"
+      ],
+      "publishedAt": "2026-10-07",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-fx-reserves-september-2026-20261007",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261007-3/"
+    },
+    {
+      "id": "ibm-philhealth-private-hmo-overlap-20261007",
+      "title": "菲律賓 PhilHealth 擬處理與私營醫保及 HMO 的保障重疊",
+      "sourceTier": "pro",
+      "themes": [
+        "health",
+        "public-private",
+        "policy",
+        "asia"
+      ],
+      "publishedAt": "2026-10-07",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-philhealth-private-hmo-overlap-20261007",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/philhealth-targets-benefit-overlap-with-hmos-and-private-insurers-592521.aspx"
+    },
+    {
+      "id": "ibm-ship-drone-strike-nato-zone-20261007",
+      "title": "北約成員國專屬經濟區內商船遭無人機攻擊沉沒 船員失蹤",
+      "sourceTier": "pro",
+      "themes": [
+        "marine",
+        "war-risk",
+        "geopolitical",
+        "claims"
+      ],
+      "publishedAt": "2026-10-07",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-ship-drone-strike-nato-zone-20261007",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/marine/ship-sunk-crew-missing-after-drone-strike-inside-nato-members-economic-zone-592511.aspx"
+    },
+    {
+      "id": "ibm-cfc-cyber-exec-ai-affirmative-20261007",
+      "title": "CFC 更新網絡保險：加入高管個人保障與明確 AI 承保 營業中斷賠償期延至18個月",
+      "sourceTier": "pro",
+      "themes": [
+        "cyber",
+        "ai",
+        "product-design",
+        "business-interruption"
+      ],
+      "publishedAt": "2026-10-07",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-cfc-cyber-exec-ai-affirmative-20261007",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/cfc-adds-executive-protection-ai-cover-to-cyber-policy-592583.aspx"
+    },
+    {
+      "id": "ibm-hiscox-risk-in-motion-cyber-20261007",
+      "title": "Hiscox 研究：網絡風險是「最易觸發連鎖反應」的企業風險",
+      "sourceTier": "pro",
+      "themes": [
+        "cyber",
+        "ai",
+        "enterprise-risk",
+        "protection-gap"
+      ],
+      "publishedAt": "2026-10-07",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-hiscox-risk-in-motion-cyber-20261007",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/cyber-is-now-the-risk-most-likely-to-trigger-everything-else-hiscox-592641.aspx"
+    },
+    {
+      "id": "ian-bloodstock-insurance-north-asia-20261007",
+      "title": "血統馬匹保險在北亞起步：以香港名駒因傷退役切入特殊資產風險",
+      "sourceTier": "pro",
+      "themes": [
+        "specialty",
+        "high-net-worth",
+        "hong-kong",
+        "product"
+      ],
+      "publishedAt": "2026-10-07T07:30:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-bloodstock-insurance-north-asia-20261007",
+      "originalUrl": "https://insuranceasianews.com/many-dont-appreciate-what-can-go-wrong-bloodstock-insurance-finds-its-footing-in-north-asia/"
+    },
+    {
+      "id": "ian-india-distribution-reform-brokers-20261007",
+      "title": "印度分銷規則改革遇反彈：經紀業界警告或致大規模職位流失",
+      "sourceTier": "pro",
+      "themes": [
+        "distribution",
+        "india",
+        "regulation",
+        "brokers"
+      ],
+      "publishedAt": "2026-10-07T17:45:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-india-distribution-reform-brokers-20261007",
+      "originalUrl": "https://insuranceasianews.com/brokers-warn-indias-distribution-reform-plan-risks-job-cuts-sector-disruption/"
+    },
+    {
+      "id": "ian-four-nations-insurance-alliance-20261007",
+      "title": "澳紐加入英加：四國保險業組織成立「Four Nations Insurance Alliance」",
+      "sourceTier": "pro",
+      "themes": [
+        "reg",
+        "cooperation",
+        "climate",
+        "cyber"
+      ],
+      "publishedAt": "2026-10-07T11:20:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-four-nations-insurance-alliance-20261007",
+      "originalUrl": "https://insuranceasianews.com/australia-new-zealand-join-uk-canada-to-launch-joint-alliance-to-confront-escalating-shared-risks/"
+    },
+    {
+      "id": "insuranceasia-allianz-wealth-report-insurance-share-20261007",
+      "title": "安聯《2026全球財富報告》：保險及退休金資產佔家庭金融資產降至24.8%歷史新低",
+      "sourceTier": "pro",
+      "themes": [
+        "wealth",
+        "asset-allocation",
+        "penetration",
+        "retirement"
+      ],
+      "publishedAt": "2026-10-07T05:00:00+08:00",
+      "score": 73,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-allianz-wealth-report-insurance-share-20261007",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/insurance-assets-lose-ground-securities-surge"
+    },
+    {
+      "id": "insuranceasia-cyber-digital-footprint-underwriting-20261007",
+      "title": "Gallagher Re 研究：以「數碼足跡」數據輔助網絡險核保與索賠頻率預測",
+      "sourceTier": "pro",
+      "themes": [
+        "cyber",
+        "underwriting",
+        "data",
+        "insurtech"
+      ],
+      "publishedAt": "2026-10-07T05:15:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-cyber-digital-footprint-underwriting-20261007",
+      "originalUrl": "https://insuranceasia.com/insurance/news/cyber-insurers-gain-sharper-risk-view-digital-footprints"
+    },
+    {
+      "id": "insuranceasia-airline-insurers-q4-renewals-20261007",
+      "title": "航空險第四季續保：第四季約佔全年機體及責任保費65%",
+      "sourceTier": "pro",
+      "themes": [
+        "aviation",
+        "reinsurance",
+        "geopolitical",
+        "capacity"
+      ],
+      "publishedAt": "2026-10-07T05:30:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-airline-insurers-q4-renewals-20261007",
+      "originalUrl": "https://insuranceasia.com/insurance/news/airline-insurers-brace-q4-claims-pressure"
+    },
+    {
+      "id": "insuranceasia-reinsurers-roe-capital-record-20261007",
+      "title": "Gallagher Re：全球再保資本創新高6880億美元 全年 ROE 上調至16.5%–17.5%",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "capital",
+        "ils",
+        "returns"
+      ],
+      "publishedAt": "2026-10-07T05:45:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-reinsurers-roe-capital-record-20261007",
+      "originalUrl": "https://insuranceasia.com/insurance/news/reinsurers-lift-returns-capital-hits-record-688b"
+    },
+    {
+      "id": "insuranceasia-wtw-facultative-trends-20261007",
+      "title": "WTW 調查：近三分之二險企未來兩年擬增用臨時分保（facultative）",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "facultative",
+        "capital",
+        "underwriting"
+      ],
+      "publishedAt": "2026-10-07T06:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-wtw-facultative-trends-20261007",
+      "originalUrl": "https://insuranceasia.com/insurance/news/insurers-boost-facultative-cover-markets-soften"
+    },
+    {
+      "id": "hk01-hsbc-singapore-ai-centre-hkma-20261006",
+      "title": "《金融時報》：滙豐在新加坡設全球AI中心 據報遭金管局質問",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "hong-kong",
+        "hsbc",
+        "competitiveness"
+      ],
+      "publishedAt": "2026-10-06T11:27:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hk01-hsbc-singapore-ai-centre-hkma-20261006",
+      "originalUrl": "https://global.hk01.com/%E8%B4%A2%E7%BB%8F%E5%BF%AB%E8%AE%AF/60396823/%E6%B1%87%E4%B8%B0ai%E4%B8%AD%E5%BF%83%E9%80%89%E5%9D%80%E6%96%B0%E5%8A%A0%E5%9D%A1-%E4%BC%A0%E9%81%AD%E9%A6%99%E6%B8%AF%E9%87%91%E7%AE%A1%E5%B1%80%E8%B4%A8%E9%97%AE%E6%96%BD%E5%8E%8B-%E9%99%84%E5%9B%9E%E5%BA%94"
+    },
+    {
+      "id": "scmp-planning-legacy-wealth-generations-20261006",
+      "title": "南華早報（特約內容）：為「持續移動的人生」規劃傳承",
+      "sourceTier": "media",
+      "themes": [
+        "wealth-transfer",
+        "legacy",
+        "family-office",
+        "media"
+      ],
+      "publishedAt": "2026-10-06T00:00:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-planning-legacy-wealth-generations-20261006",
+      "originalUrl": "https://www.scmp.com/presented/business/topics/planning-wealth-generations/article/3369201/planning-legacy-lives-keep-moving"
+    },
+    {
+      "id": "artemis-arbol-atzberger-chief-scientist-20261006",
+      "title": "Arbol 委任 Atzberger 為首席科學家 領導新設創新部門",
+      "sourceTier": "pro",
+      "themes": [
+        "insurtech",
+        "climate",
+        "parametric",
+        "people-moves"
+      ],
+      "publishedAt": "2026-10-06",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-arbol-atzberger-chief-scientist-20261006",
+      "originalUrl": "https://www.artemis.bm/news/arbol-appoints-atzberger-as-chief-scientist-to-lead-new-innovation-unit/"
+    },
+    {
+      "id": "artemis-visionfund-global-parametrics-amazon-20261006",
+      "title": "VisionFund 與 Global Parametrics 合作推出亞馬遜盆地雙險種參數化保險",
+      "sourceTier": "pro",
+      "themes": [
+        "parametric",
+        "climate",
+        "emerging-markets",
+        "inclusion"
+      ],
+      "publishedAt": "2026-10-06",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-visionfund-global-parametrics-amazon-20261006",
+      "originalUrl": "https://www.artemis.bm/news/visionfund-teams-with-global-parametrics-on-two-peril-amazon-basin-parametric-insurance/"
+    },
+    {
+      "id": "artemis-catiq-ontario-quebec-storm-491m-20261006",
+      "title": "CatIQ 上調安大略及魁北克雷暴保險損失估算12%至4.91億加元",
+      "sourceTier": "pro",
+      "themes": [
+        "cat-risk",
+        "canada",
+        "weather",
+        "ils"
+      ],
+      "publishedAt": "2026-10-06",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-catiq-ontario-quebec-storm-491m-20261006",
+      "originalUrl": "https://www.artemis.bm/news/catiq-lifts-ontario-quebec-thunderstorm-insured-market-loss-estimate-12-to-c491m/"
+    },
+    {
+      "id": "ibm-life-sciences-risk-shifting-20261005",
+      "title": "生命科學風險結構轉變：保障設計未能同步跟上",
+      "sourceTier": "pro",
+      "themes": [
+        "life-sciences",
+        "protection-gap",
+        "product-design"
+      ],
+      "publishedAt": "2026-10-05T15:13:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-life-sciences-risk-shifting-20261005",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/life-sciences-risk-is-shifting-and-coverage-may-not-follow-592256.aspx"
+    },
+    {
+      "id": "ibm-hdi-global-healthcare-unit-20261006",
+      "title": "HDI Global 把醫療責任險擴展為全球醫療保健業務部門",
+      "sourceTier": "pro",
+      "themes": [
+        "healthcare",
+        "professional-liability",
+        "global",
+        "medical"
+      ],
+      "publishedAt": "2026-10-06T17:06:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-hdi-global-healthcare-unit-20261006",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/professional-liability/hdi-global-expands-medical-malpractice-into-global-healthcare-unit-592443.aspx"
+    },
+    {
+      "id": "insuranceasia-mas-family-office-digital-tokens-20261006",
+      "title": "新加坡檢視家族辦公室名單 數字代幣擬享稅務豁免地位",
+      "sourceTier": "pro",
+      "themes": [
+        "family-office",
+        "singapore",
+        "tax",
+        "digital-assets"
+      ],
+      "publishedAt": "2026-10-06T12:49:00+08:00",
+      "score": 73,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-mas-family-office-digital-tokens-20261006",
+      "originalUrl": "https://insuranceasia.com/news/digital-tokens-eye-tax-exempt-status-singapore-reviews-family-office-list"
+    },
+    {
+      "id": "insuranceasia-india-penetration-life-coverage-20261006",
+      "title": "印度保險滲透率仍僅佔GDP 3.7%：增長未同步擴闊壽險覆蓋",
+      "sourceTier": "pro",
+      "themes": [
+        "india",
+        "penetration",
+        "protection-gap",
+        "distribution"
+      ],
+      "publishedAt": "2026-10-06T05:00:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-india-penetration-life-coverage-20261006",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/india-insurance-growth-fails-widen-life-coverage"
+    },
+    {
+      "id": "insuranceasia-aon-gas-power-programme-20261006",
+      "title": "Aon 推出燃氣發電項目保險計劃：建設與測試期最高25億美元保障",
+      "sourceTier": "pro",
+      "themes": [
+        "energy",
+        "infrastructure",
+        "broking",
+        "apac"
+      ],
+      "publishedAt": "2026-10-06T05:30:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-aon-gas-power-programme-20261006",
+      "originalUrl": "https://insuranceasia.com/insurance/news/aon-launches-insurance-programme-gas-power-projects"
+    },
+    {
+      "id": "ian-el-nino-australia-bushfire-flood-20261006",
+      "title": "厄爾尼諾改變風險討論：澳洲險企重新審視山火與洪水敞口",
+      "sourceTier": "pro",
+      "themes": [
+        "climate",
+        "cat-risk",
+        "australia",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-10-06T07:30:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-el-nino-australia-bushfire-flood-20261006",
+      "originalUrl": "https://insuranceasianews.com/el-nino-changes-risk-conversation-as-australian-insurers-scrutinise-bushfire-flood-exposure/"
+    },
+    {
+      "id": "ian-swiss-re-corso-adnan-bhat-20261006",
+      "title": "瑞士再保險企業解決方案委任 Adnan Bhat 為亞太區全球網絡經理",
+      "sourceTier": "pro",
+      "themes": [
+        "apac",
+        "people-moves",
+        "swiss-re",
+        "corporate-solutions"
+      ],
+      "publishedAt": "2026-10-06T14:20:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-swiss-re-corso-adnan-bhat-20261006",
+      "originalUrl": "https://insuranceasianews.com/adnan-bhat-joins-swiss-re-corso-as-apac-global-network-manager/"
+    },
+    {
+      "id": "ian-axa-xl-paul-gardner-asia-20261006",
+      "title": "AXA XL 擢升 Paul Gardner 為亞洲政治風險、信用及保證核保主管",
+      "sourceTier": "pro",
+      "themes": [
+        "apac",
+        "underwriting",
+        "people-moves",
+        "credit-risk"
+      ],
+      "publishedAt": "2026-10-06T14:08:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-axa-xl-paul-gardner-asia-20261006",
+      "originalUrl": "https://insuranceasianews.com/axa-xl-promotes-paul-gardner-to-asia-underwriting-manager-for-political-risk-credit-bond/"
+    },
+    {
+      "id": "ian-meritz-indonesia-jv-stake-20261006",
+      "title": "韓國 Meritz 擬出售印尼合資公司51%股權",
+      "sourceTier": "pro",
+      "themes": [
+        "indonesia",
+        "korea",
+        "mergers-acquisitions",
+        "apac"
+      ],
+      "publishedAt": "2026-10-06T18:04:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-meritz-indonesia-jv-stake-20261006",
+      "originalUrl": "https://insuranceasianews.com/meritz-moving-to-sell-51-stake-in-indonesian-jv-report/"
+    },
+    {
+      "id": "ian-canopius-castle-underwriter-qbe-20261006",
+      "title": "Canopius 接替 QBE 出任 Castle Insurance 承保人",
+      "sourceTier": "pro",
+      "themes": [
+        "apac",
+        "underwriting",
+        "mga",
+        "capacity"
+      ],
+      "publishedAt": "2026-10-06T23:19:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-canopius-castle-underwriter-qbe-20261006",
+      "originalUrl": "https://insuranceasianews.com/canopius-to-takeover-as-castle-insurance-underwriter-from-qbe/"
+    },
+    {
+      "id": "prudential-prismic-5bn-reinsurance-20261006",
+      "title": "保誠與 Prismic Life 達成約50億美元再保險協議",
+      "sourceTier": "insurer",
+      "themes": [
+        "reinsurance",
+        "capital",
+        "prudential",
+        "risk-transfer"
+      ],
+      "publishedAt": "2026-10-06T12:20:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=prudential-prismic-5bn-reinsurance-20261006",
+      "originalUrl": "https://insuranceasianews.com/prudential-agrees-us5bn-reinsurance-deal-with-prismic-life/"
+    },
+    {
+      "id": "bochk-online-life-premium-digital-one-20261006",
+      "title": "中銀香港：線上人壽保險新造保費按年升近七成 推「Digital One」數碼財富平台",
+      "sourceTier": "insurer",
+      "themes": [
+        "bancassurance",
+        "digital",
+        "distribution",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-10-06T13:51:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=bochk-online-life-premium-digital-one-20261006",
+      "originalUrl": "https://hk.finance.yahoo.com/news/%E8%B2%A1%E7%B6%93-%E4%B8%AD%E9%8A%80%E9%A6%99%E6%B8%AF%E6%95%B8%E7%A2%BC%E7%90%86%E8%B2%A1%E9%9C%80%E6%B1%82%E5%8D%87%E6%BA%AB-%E7%B7%9A%E4%B8%8A%E4%BA%BA%E5%A3%BD%E4%BF%9D%E9%9A%AA%E6%96%B0%E9%80%A0%E4%BF%9D%E8%B2%BB%E5%A2%9E%E8%BF%91%E4%B8%83%E6%88%90-044410131.html"
+    },
+    {
+      "id": "aia-genz-mpf-virtual-competition-20261005",
+      "title": "友邦香港：不足兩成Z世代兩年內轉換MPF組合，推「AIA MPF虛擬投資比賽」",
+      "sourceTier": "insurer",
+      "themes": [
+        "mpf",
+        "digital",
+        "gen-z",
+        "insurer",
+        "distribution"
+      ],
+      "publishedAt": "2026-10-05T18:34:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-genz-mpf-virtual-competition-20261005",
+      "originalUrl": "https://www.stheadline.com/investment/3622739/"
+    },
+    {
+      "id": "hk-freest-economy-fraser-20261006",
+      "title": "菲沙研究所報告：香港繼續獲評為全球最自由經濟體",
+      "sourceTier": "official",
+      "themes": [
+        "hong-kong",
+        "competitiveness",
+        "freedom",
+        "regulation"
+      ],
+      "publishedAt": "2026-10-06T20:00:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hk-freest-economy-fraser-20261006",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202610/06/P2026100600631.htm"
+    },
+    {
+      "id": "ia-dpp-eap-circular-20261002",
+      "title": "保監局通函：紀律處分委員會小組及專家顧問小組的委任與續任",
+      "sourceTier": "official",
+      "themes": [
+        "ia",
+        "enforcement",
+        "governance",
+        "circular"
+      ],
+      "publishedAt": "2026-10-02",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-dpp-eap-circular-20261002",
+      "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/20261002_Circulars_DPP_and_EAP_Eng.pdf"
+    },
+    {
+      "id": "mpfa-mpf-provisional-returns-20261006",
+      "title": "積金局公布強積金臨時投資回報：股票基金過去12個月平均年率化淨回報10.3%",
+      "sourceTier": "official",
+      "themes": [
+        "mpf",
+        "retirement",
+        "dis",
+        "returns",
+        "stats"
+      ],
+      "publishedAt": "2026-10-06",
+      "score": 90,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=mpfa-mpf-provisional-returns-20261006",
+      "originalUrl": "https://www.mpfa.org.hk/en/info-centre/press-releases/20261006"
+    },
+    {
+      "id": "hkma-bnm-bilateral-cooperation-20261006",
+      "title": "金管局與馬來西亞央行加強雙邊合作：涵蓋跨境支付、金融科技與伊斯蘭金融",
+      "sourceTier": "official",
+      "themes": [
+        "hkma",
+        "malaysia",
+        "asean",
+        "cross-border",
+        "cooperation"
+      ],
+      "publishedAt": "2026-10-06",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-bnm-bilateral-cooperation-20261006",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261006-4/"
+    },
     {
       "id": "ibm-mas-nominating-committee-chair-approval-20261006",
       "title": "新加坡金管局擬審批保險公司提名委員會主席人選",

@@ -1,0 +1,128 @@
+﻿<div ng-controller="itemListRightListCtrl">
+
+    <div class="row">
+        <script>
+            $("#itemTitle").text("{{itemPName}}");
+            $("#currentLocation").text("首页");
+        </script>
+        <div class="caidan-right-title">
+            {{itemNewName}}{{itemsubPNewName}}
+        </div>
+        <div ng-if="itemNewName!='政府网站年度报表'">
+            <div class="list caidan-right-list" ng-style="{'display':data.length<=0? 'none': 'block'}">
+                <div class="panels">
+                    <div class="panel active">
+                        <div class="panel-row" ng-repeat="x in data" ng-show="$index < 6">
+                            <span class="title">
+                                <a ng-href="ItemDetail.html?docId={{x.docId}}&itemId={{itemId}}&generaltype={{x.generaltype}}" target="_blank" title="{{x.docSubtitle|trimHtml}}" ng-hide="x.docSubtitle|isAHtml"
+                                    ng-bind-html="x.docSubtitle|trustHtml" ng-style="{'width':(itemNewName=='法律法规'||itemId=='928'||itemNewName=='文件清理')? '78%': '83%'}"></a>
+                                <span ng-show="x.docSubtitle|isAHtml" ng-bind-html="x.docSubtitle|trustHtml"></span>
+                            </span>
+                            <!-- <a ng-click="fileDownload(x.pdfFileUrl)" ng-if="x.pdfFileUrl!=null&&(itemName=='法律法规'||itemId=='928'||itemName=='文件清理')"  class="pdfword-load"> -->
+                                <a ng-click="fileTypeDownload(x.docId)" ng-if="x.isTitleLink!=1&&x.pdfFileUrl!=null&&(itemNewName=='法律法规'||itemId=='928'||itemNewName=='文件清理')"  class="pdfword-load">
+                                <img ng-src="/cn/static/{{image_path}}/zhengwuxinxi/pdf.jpg" />
+                            </a>
+                            <!-- <a ng-click="fileDownload(x.docFileUrl)" ng-if="x.docFileUrl!=null&&(itemName=='法律法规'||itemId=='928'||itemName=='文件清理')"  class="pdfword-load"> -->
+                                <a ng-click="fileTypeDownload(x.docId,true)" ng-if="x.isTitleLink!=1&&x.docFileUrl!=null&&(itemNewName=='法律法规'||itemId=='928'||itemNewName=='文件清理')"  class="pdfword-load">
+                                <img ng-src="/cn/static/{{image_path}}/zhengwuxinxi/word.jpg" />
+                            </a>
+                            <span class="date">{{x.publishDate | dateFormat2}}</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="list caidan-right-list" ng-style="{'display':data.length<=6? 'none': 'block'} ">
+                <div class="panels">
+                    <div class="panel active">
+                        <div class="panel-row" ng-repeat="x in data" ng-show="$index >= 6 && $index <12">
+                            <span class="title">
+                                <a ng-href="ItemDetail.html?docId={{x.docId}}&itemId={{itemId}}&generaltype={{x.generaltype}}" target="_blank" title="{{x.docSubtitle|trimHtml}}" ng-hide="x.docSubtitle|isAHtml"
+                                    ng-bind-html="x.docSubtitle|trustHtml" ng-style="{'width':(itemNewName=='法律法规'||itemId=='928'||itemNewName=='文件清理')? '78%': '83%'}"></a>
+                                <span ng-show="x.docSubtitle|isAHtml" ng-bind-html="x.docSubtitle|trustHtml"></span>
+                            </span>
+                            <!-- <a ng-click="fileDownload(x.pdfFileUrl)" ng-if="x.pdfFileUrl!=null&&(itemName=='法律法规'||itemId=='928'||itemName=='文件清理')"  class="pdfword-load"> -->
+                                <a ng-click="fileTypeDownload(x.docId)" ng-if="x.isTitleLink!=1&&x.pdfFileUrl!=null&&(itemNewName=='法律法规'||itemId=='928'||itemNewName=='文件清理')"  class="pdfword-load">
+                                <img ng-src="/cn/static/{{image_path}}/zhengwuxinxi/pdf.jpg" />
+                            </a>
+                            <!-- <a ng-click="fileDownload(x.docFileUrl)" ng-if="x.docFileUrl!=null&&(itemName=='法律法规'||itemId=='928'||itemName=='文件清理')"  class="pdfword-load"> -->
+                                    <a ng-click="fileTypeDownload(x.docId,true)" ng-if="x.isTitleLink!=1&&x.docFileUrl!=null&&(itemNewName=='法律法规'||itemId=='928'||itemNewName=='文件清理')"  class="pdfword-load">
+                                <img ng-src="/cn/static/{{image_path}}/zhengwuxinxi/word.jpg" />
+                            </a>
+                            <span class="date">{{x.publishDate | dateFormat2}}</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="list caidan-right-list" ng-style="{'display':data.length<=12? 'none': 'block'} ">
+                <div class="panels">
+                    <div class="panel active">
+                        <div class="panel-row" ng-repeat="x in data" ng-show="$index >= 12">
+                            <span class="title">
+                                <a ng-href="ItemDetail.html?docId={{x.docId}}&itemId={{itemId}}&generaltype={{x.generaltype}}" target="_blank" title="{{x.docSubtitle|trimHtml}}" ng-hide="x.docSubtitle|isAHtml"
+                                    ng-bind-html="x.docSubtitle|trustHtml" ng-style="{'width':(itemNewName=='法律法规'||itemId=='928'||itemNewName=='文件清理')? '78%': '83%'}"></a>
+                                <span ng-show="x.docSubtitle|isAHtml" ng-bind-html="x.docSubtitle|trustHtml"></span>
+                            </span>
+                            <!-- <a ng-click="fileDownload(x.pdfFileUrl)" ng-if="x.pdfFileUrl!=null&&(itemName=='法律法规'||itemId=='928'||itemName=='文件清理')"  class="pdfword-load"> -->
+                            <a ng-click="fileTypeDownload(x.docId)" ng-if="x.isTitleLink!=1&&x.pdfFileUrl!=null&&(itemNewName=='法律法规'||itemId=='928'||itemNewName=='文件清理')"  class="pdfword-load">
+                                <img ng-src="/cn/static/{{image_path}}/zhengwuxinxi/pdf.jpg" />
+                            </a>
+                            <!-- <a ng-click="fileDownload(x.docFileUrl)" ng-if="x.docFileUrl!=null&&(itemName=='法律法规'||itemId=='928'||itemName=='文件清理')"  class="pdfword-load"> -->
+                            <a ng-click="fileTypeDownload(x.docId,true)" ng-if="x.isTitleLink!=1&&x.docFileUrl!=null&&(itemNewName=='法律法规'||itemId=='928'||itemNewName=='文件清理')"  class="pdfword-load">
+                                <img ng-src="/cn/static/{{image_path}}/zhengwuxinxi/word.jpg" />
+                            </a>
+                            <span class="date">{{x.publishDate | dateFormat2}}</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div ng-if="itemNewName=='政府网站年度报表'">
+            <div class="list caidan-right-list" ng-style="{'display':data.length<=0? 'none': 'block'}">
+                <div class="panels">
+                    <div class="panel active">
+                        <div class="panel-row" ng-repeat="x in data" ng-show="$index < 6">
+                            <span class="title">
+                                <a ng-href="ItemDetailBaobiao.html?docId={{x.docId}}&itemId={{itemId}}" target="_blank" title="{{x.docSubtitle|trimHtml}}" ng-hide="x.docSubtitle|isAHtml"
+                                    ng-bind-html="x.docSubtitle|trustHtml"></a>
+                                <span ng-show="x.docSubtitle|isAHtml" ng-bind-html="x.docSubtitle|trustHtml"></span>
+                            </span>
+                            <span class="date">{{x.publishDate | dateFormat2}}</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="list caidan-right-list" ng-style="{'display':data.length<=6? 'none': 'block'} ">
+                <div class="panels">
+                    <div class="panel active">
+                        <div class="panel-row" ng-repeat="x in data" ng-show="$index >= 6 && $index <12">
+                            <span class="title">
+                                <a ng-href="ItemDetailBaobiao.html?docId={{x.docId}}&itemId={{itemId}}" target="_blank" title="{{x.docSubtitle|trimHtml}}" ng-hide="x.docSubtitle|isAHtml"
+                                    ng-bind-html="x.docSubtitle|trustHtml"></a>
+                                <span ng-show="x.docSubtitle|isAHtml" ng-bind-html="x.docSubtitle|trustHtml"></span>
+                            </span>
+                            <span class="date">{{x.publishDate | dateFormat2}}</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="list caidan-right-list" ng-style="{'display':data.length<=12? 'none': 'block'} ">
+                <div class="panels">
+                    <div class="panel active">
+                        <div class="panel-row" ng-repeat="x in data" ng-show="$index >= 12">
+                            <span class="title">
+                                <a ng-href="ItemDetailBaobiao.html?docId={{x.docId}}&itemId={{itemId}}" target="_blank" title="{{x.docSubtitle|trimHtml}}" ng-hide="x.docSubtitle|isAHtml"
+                                    ng-bind-html="x.docSubtitle|trustHtml"></a>
+                                <span ng-show="x.docSubtitle|isAHtml" ng-bind-html="x.docSubtitle|trustHtml"></span>
+                            </span>
+                            <span class="date">{{x.publishDate | dateFormat2}}</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div pager2 ng-show="data.length!=0"></div>
+        <div ng-show="data.length==0">该列表下无文章</div>
+    </div>
+
+</div>
+<script src="/cn/js/common/ItemList.js?v=20200108"></script>
