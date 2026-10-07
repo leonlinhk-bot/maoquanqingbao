@@ -1,0 +1,501 @@
+{
+ "source": "insuranceasia",
+ "source_label": "InsuranceAsia",
+ "fetched_at": "2026-10-08T01:56:40.551503+08:00",
+ "feed_url": "https://insuranceasia.com/rss.xml",
+ "feed_window": 49,
+ "entries_fingerprint": "sha256:de8c6c67445d490f19a6cd52437424fb",
+ "new_count": 49,
+ "items": [
+  {
+   "id": "0bcfcafa03dd",
+   "title": "Nearly two-thirds plan to increase usage over the next two years.",
+   "url": "https://insuranceasia.com/insurance/news/insurers-boost-facultative-cover-markets-soften",
+   "published": "Tue, 06 Oct 2026 22:00:00 +0000",
+   "published_hkt": "2026-10-07T06:00:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "cca8c40ba54d",
+   "title": "Gallagher Re now expects full-year ROE of 16.5% to 17.5%.",
+   "url": "https://insuranceasia.com/insurance/news/reinsurers-lift-returns-capital-hits-record-688b",
+   "published": "Tue, 06 Oct 2026 21:45:00 +0000",
+   "published_hkt": "2026-10-07T05:45:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "44ea88968cb6",
+   "title": "The final quarter accounts for about 65% of annual lead hull and liability premiums.",
+   "url": "https://insuranceasia.com/insurance/news/airline-insurers-brace-q4-claims-pressure",
+   "published": "Tue, 06 Oct 2026 21:30:00 +0000",
+   "published_hkt": "2026-10-07T05:30:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "bd8c8e3e1c65",
+   "title": "ISP diversity and other external indicators added insight beyond revenue, industry and country.",
+   "url": "https://insuranceasia.com/insurance/news/cyber-insurers-gain-sharper-risk-view-digital-footprints",
+   "published": "Tue, 06 Oct 2026 21:15:00 +0000",
+   "published_hkt": "2026-10-07T05:15:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "16b60ac4bc0c",
+   "title": "Household portfolios held a record-low 24.8% in insurance and pension products at end-2025.",
+   "url": "https://insuranceasia.com/insurance/in-focus/insurance-assets-lose-ground-securities-surge",
+   "published": "Tue, 06 Oct 2026 21:00:00 +0000",
+   "published_hkt": "2026-10-07T05:00:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "3f19abdc284b",
+   "title": "MAS will announce the updated list and its implementation date at a later stage.",
+   "url": "https://insuranceasia.com/news/digital-tokens-eye-tax-exempt-status-singapore-reviews-family-office-list",
+   "published": "Tue, 06 Oct 2026 04:49:49 +0000",
+   "published_hkt": "2026-10-06T12:49:49+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "8e8b8feab240",
+   "title": "Naoki Kido will lead the business globally from Tokyo.",
+   "url": "https://insuranceasia.com/insurance/news/aon-strengthens-japan-network-two-leadership-appointments",
+   "published": "Mon, 05 Oct 2026 22:30:00 +0000",
+   "published_hkt": "2026-10-06T06:30:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "2f38c31fc7fd",
+   "title": "The enlarged business will remain headquartered in London.",
+   "url": "https://insuranceasia.com/insurance/news/zurich-completes-beazley-deal-build-specialty-giant",
+   "published": "Mon, 05 Oct 2026 22:15:00 +0000",
+   "published_hkt": "2026-10-06T06:15:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "ed1152d64074",
+   "title": "The partnership has supported families through insurance protection since 2018.",
+   "url": "https://insuranceasia.com/insurance/news/msig-extends-fire-cover-over-300-orang-asli-homes",
+   "published": "Mon, 05 Oct 2026 22:00:00 +0000",
+   "published_hkt": "2026-10-06T06:00:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "e4a39ab3b53a",
+   "title": "Philipp Kroetz takes over Allianz Partners on 1 November 2026.",
+   "url": "https://insuranceasia.com/insurance/news/allianz-reshuffles-ceos-after-kunzmann-board-move",
+   "published": "Mon, 05 Oct 2026 21:45:00 +0000",
+   "published_hkt": "2026-10-06T05:45:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "830d544f27c4",
+   "title": "Developers can secure as much as $2.5b during construction and testing.",
+   "url": "https://insuranceasia.com/insurance/news/aon-launches-insurance-programme-gas-power-projects",
+   "published": "Mon, 05 Oct 2026 21:30:00 +0000",
+   "published_hkt": "2026-10-06T05:30:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "372acc599f18",
+   "title": "Rob Jones brings more than 10 years of specialist sector experience",
+   "url": "https://insuranceasia.com/insurance/news/markel-moves-energy-underwriter-singapore",
+   "published": "Mon, 05 Oct 2026 21:15:00 +0000",
+   "published_hkt": "2026-10-06T05:15:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "a2e8a79607d6",
+   "title": "India’s insurance penetration remains at 3.7% of GDP, about half the global average, despite rapid gains in bank account ownership. Life policy volumes have stayed flat, whilst non-life penetration stands at just 1%.",
+   "url": "https://insuranceasia.com/insurance/in-focus/india-insurance-growth-fails-widen-life-coverage",
+   "published": "Mon, 05 Oct 2026 21:00:00 +0000",
+   "published_hkt": "2026-10-06T05:00:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "cd4fd0ee3a18",
+   "title": "Asia’s data centre pipeline hit a record 26.5GW in H1 2026, but insurance rates still fell 5%. Rising demand for power infrastructure could eventually test the region’s ample insurance capacity.",
+   "url": "https://insuranceasia.com/insurance/expert-opinion/can-asias-data-centre-boom-reverse-falling-insurance-rates",
+   "published": "Mon, 05 Oct 2026 02:00:00 +0000",
+   "published_hkt": "2026-10-05T10:00:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "f4db1ab12686",
+   "title": "Union Medical Benefits Society Limited (UniMed) saw its underwriting performance benefit from premium rate increases and other portfolio remediation actions, said AM Best.",
+   "url": "https://insuranceasia.com/insurance/news/unimed-recovers-two-years-losses-premium-increases-kick-in",
+   "published": "Sun, 04 Oct 2026 22:00:00 +0000",
+   "published_hkt": "2026-10-05T06:00:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "143ac1f60dba",
+   "title": "The aerospace insurance market remains broadly stable as of the third quarter of 2026 but underwriters have reportedly become more selective when evaluating accounts, according to WTW.",
+   "url": "https://insuranceasia.com/insurance/news/aerospace-insurers-tighten-scrutiny-despite-stable-price-and-capacity",
+   "published": "Sun, 04 Oct 2026 21:45:00 +0000",
+   "published_hkt": "2026-10-05T05:45:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "5ff69258ec2e",
+   "title": "Australian insurers face up to a $29b risk from droughts, according to Digital Agriculture Services (DAS), an agriculture fintech and geospatial data company.",
+   "url": "https://insuranceasia.com/insurance/news/australian-insurers-face-29b-drought-risk",
+   "published": "Sun, 04 Oct 2026 21:30:00 +0000",
+   "published_hkt": "2026-10-05T05:30:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "187668a5f68f",
+   "title": "Insurers will need to navigate divergences across APAC’s legal and regulatory regimes in an era when cybersecurity and data privacy regulations are rapidly evolving, according to Aon.",
+   "url": "https://insuranceasia.com/insurance/news/insurers-face-apac-cyber-regulatory-divergence-enforcement-tightens",
+   "published": "Sun, 04 Oct 2026 21:15:00 +0000",
+   "published_hkt": "2026-10-05T05:15:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "7f41f34a2a0e",
+   "title": "Insurers can build greater trust in AI by using customer-specific information.",
+   "url": "https://insuranceasia.com/insurance/news/week-in-insurance-fwd-fined-aml-lapses-prudential-widens-unit-trust-access-income-insurance-names-new-ceo",
+   "published": "Fri, 02 Oct 2026 06:51:56 +0000",
+   "published_hkt": "2026-10-02T14:51:56+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "ad724ab85153",
+   "title": "Allianz Malaysia Berhad has incorporated its wholly owned subsidiary Allianz Labuan in the Federal Territory of Labuan, Malaysia effective 1 October 2026.",
+   "url": "https://insuranceasia.com/insurance/news/allianz-malaysia-launches-labuan-unit-wealthy-clients",
+   "published": "Thu, 01 Oct 2026 22:15:00 +0000",
+   "published_hkt": "2026-10-02T06:15:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "b0e09ca5429b",
+   "title": "Coface has appointed Zach Spencer as head of risk underwriting for APAC, effective 1 October 2026.",
+   "url": "https://insuranceasia.com/insurance/news/coface-names-zach-spencer-head-apac-risk-underwriting",
+   "published": "Thu, 01 Oct 2026 22:15:00 +0000",
+   "published_hkt": "2026-10-02T06:15:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "ba68515d69d2",
+   "title": "They will jointly develop commercial and personal lines.",
+   "url": "https://insuranceasia.com/insurance/news/bold-penguin-and-bolttech-link-insurance-distribution-lines",
+   "published": "Thu, 01 Oct 2026 21:45:00 +0000",
+   "published_hkt": "2026-10-02T05:45:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "2034613cf4fc",
+   "title": "China Pacific Insurance Co. (H.K.) Ltd. (CPIC) is expected to have strong capital and earnings over the next two years, according to estimates by S&P Global Ratings.",
+   "url": "https://insuranceasia.com/news/cpic-hong-kong-capital-strengthens-high-risk-assets-fall-39",
+   "published": "Thu, 01 Oct 2026 21:30:00 +0000",
+   "published_hkt": "2026-10-02T05:30:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "987609b6816d",
+   "title": "Allianz Insurance Singapore has appointed Ong Bi Yung as chief executive officer, effective 1 October 2026.",
+   "url": "https://insuranceasia.com/insurance/news/allianz-insurance-singapore-names-ong-bi-ying-ceo",
+   "published": "Thu, 01 Oct 2026 21:15:00 +0000",
+   "published_hkt": "2026-10-02T05:15:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "8ff1bcb56811",
+   "title": "Insurers are turning to facultative reinsurance to manage capital, expand capacity and enter new markets. About 60% expect to increase their use over the next two years, whilst geopolitical, cyber and climate risks remain key concerns.",
+   "url": "https://insuranceasia.com/insurance/in-focus/insurers-boost-facultative-reinsurance-use-growth",
+   "published": "Thu, 01 Oct 2026 21:00:00 +0000",
+   "published_hkt": "2026-10-02T05:00:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "4f39b0ba585a",
+   "title": "Insurers can build greater trust in AI by using customer-specific data and setting clear rules for how the technology is used, analysts said. The push comes as 84% of consumers say insurers should disclose when AI is being used.",
+   "url": "https://insuranceasia.com/insurance/exclusive/insurers-told-use-own-customer-data-build-ai-trust",
+   "published": "Mon, 28 Sep 2026 21:00:00 +0000",
+   "published_hkt": "2026-09-29T05:00:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "3b741359150e",
+   "title": "Asia-Pacific reinsurers are looking overseas for growth as abundant global capital intensifies competition and puts pressure on prices at home. Global reinsurance capital is projected to reach a record $705b in 2026, with reinsurers expected to remain selective about new markets and risks.",
+   "url": "https://insuranceasia.com/insurance/exclusive/asia-pacific-reinsurers-look-overseas-competition-heats",
+   "published": "Thu, 24 Sep 2026 21:00:00 +0000",
+   "published_hkt": "2026-09-25T05:00:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "1c5ad7a71adf",
+   "title": "PT Asuransi Central Asia (ACA) is leaning towards building AI on its own data to keep customer information private, even though training such systems takes longer than using externally hosted tools.",
+   "url": "https://insuranceasia.com/exclusive/aca-favours-slower-in-house-ai-keep-customer-data-private",
+   "published": "Wed, 23 Sep 2026 04:34:25 +0000",
+   "published_hkt": "2026-09-23T12:34:25+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "6d05ca46369e",
+   "title": "HSBC’s $2.1b sale of its Singapore life insurance business will free up capital whilst keeping insurance on its shelves. Analysts say the deal reflects portfolio simplification rather than a broader retreat by Asian banks from insurance ownership.",
+   "url": "https://insuranceasia.com/insurance/exclusive/hsbc-insurance-sale-seen-portfolio-move-not-regional-shift",
+   "published": "Thu, 17 Sep 2026 21:00:00 +0000",
+   "published_hkt": "2026-09-18T05:00:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "f5df5acfd6ee",
+   "title": "The consultation covers director independence, board composition, among others.",
+   "url": "https://insuranceasia.com/news/mas-proposes-governance-updates-banks-and-insurers",
+   "published": "Wed, 30 Sep 2026 23:24:32 +0000",
+   "published_hkt": "2026-10-01T07:24:32+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "678963d066ab",
+   "title": "Cardiac claims from non-metropolitan locations in India have risen over the past three financial years, according to data from Universal Sompo General Insurance.",
+   "url": "https://insuranceasia.com/insurance/news/universal-sompo-flags-cardiac-claims-surge-indias-smaller-cities",
+   "published": "Wed, 30 Sep 2026 22:00:00 +0000",
+   "published_hkt": "2026-10-01T06:00:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "d826d101a485",
+   "title": "Monee, the fintech arm of Shopee’s parent company Sea Limited, has partnered with Great Eastern to launch travel and motor insurance products on Shopee.",
+   "url": "https://insuranceasia.com/insurance/news/monee-and-great-eastern-launch-travel-and-motor-cover-shopee",
+   "published": "Wed, 30 Sep 2026 21:45:00 +0000",
+   "published_hkt": "2026-10-01T05:45:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "d28f39a38af2",
+   "title": "Igloo and DANA have launched DANA Rain Protection, a parametric weather insurance product in Indonesia.",
+   "url": "https://insuranceasia.com/insurance/news/igloo-and-dana-launch-0028-parametric-rain-insurance-in-indonesia",
+   "published": "Wed, 30 Sep 2026 21:30:00 +0000",
+   "published_hkt": "2026-10-01T05:30:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "accd1e9a87d7",
+   "title": "The Insurance Brokers Association of India (IBAI) said that proposed insurance distribution reforms will harm policyholders, cost jobs, and reduce distribution reach in India.",
+   "url": "https://insuranceasia.com/insurance/news/india-brokers-warn-reforms-will-cost-jobs-and-shrink-distribution-reach",
+   "published": "Wed, 30 Sep 2026 21:15:00 +0000",
+   "published_hkt": "2026-10-01T05:15:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "78f3ee94650e",
+   "title": "Asian families are taking a more structured approach to legacy planning, with fully documented plans more than doubling to 22% in 2026. Yet 70% worry their wealth may not be preserved beyond the next generation, while only 20% feel fully prepared.",
+   "url": "https://insuranceasia.com/insurance/in-focus/asian-legacy-planning-rises-preservation-fears-persist",
+   "published": "Wed, 30 Sep 2026 21:00:00 +0000",
+   "published_hkt": "2026-10-01T05:00:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "12969ec431e9",
+   "title": "Fewer than 1 in 3 Singaporeans, or 29%, have enough savings for prolonged critical illness recovery—and even those with a plan are not confident that they have enough coverage, according to a poll by Prudential Singapore.",
+   "url": "https://insuranceasia.com/insurance/news/only-20-singaporeans-confident-their-critical-illness-coverage-poll",
+   "published": "Tue, 29 Sep 2026 22:00:00 +0000",
+   "published_hkt": "2026-09-30T06:00:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "b5fd40a5f29a",
+   "title": "BIDV Insurance Joint Stock Corporation (Vietnam) (BIC) is expected to continue benefitting from good internal capital generation and a reinsurance programme mitigating risks.",
+   "url": "https://insuranceasia.com/insurance/news/bidv-insurance-fortifies-capital-reinsurance-hedges-big-risks",
+   "published": "Tue, 29 Sep 2026 21:45:00 +0000",
+   "published_hkt": "2026-09-30T05:45:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "0fb609eff79c",
+   "title": "Markel Insurance has appointed Kevin Leung as managing director for its Southeast Asia operations.",
+   "url": "https://insuranceasia.com/insurance/news/markel-insurance-names-kevin-leung-sea-managing-director",
+   "published": "Tue, 29 Sep 2026 21:30:00 +0000",
+   "published_hkt": "2026-09-30T05:30:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "fff4203210ba",
+   "title": "Chubb Life Hong Kong has launched the Chubb MyLegacy Multi-Currency Insurance Plan, which offers a customised life event settlement option and can be convertible to another currency.",
+   "url": "https://insuranceasia.com/insurance/news/chubb-life-hong-kong-unveils-multi-currency-legacy-plan",
+   "published": "Tue, 29 Sep 2026 21:15:00 +0000",
+   "published_hkt": "2026-09-30T05:15:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "5d97c9798af7",
+   "title": "Japan’s insurance market is set to grow more slowly than much of Asia, with its global premium share forecast to fall to 3.0% by 2036 from 3.9% in 2025. Allianz expects Japan’s annual growth to be 2.5% for P&C and 2.9% for life.",
+   "url": "https://insuranceasia.com/insurance/in-focus/japan-insurance-share-set-fall-3-2036",
+   "published": "Tue, 29 Sep 2026 21:00:00 +0000",
+   "published_hkt": "2026-09-30T05:00:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "5e52fe7e5ab4",
+   "title": "Igloo’s net loss narrowed by 60.4% year-on-year (YoY) in 2025, losing $6.73m (S$8.6m), based on its audited accounts released on 28 September 2026.",
+   "url": "https://insuranceasia.com/insurance/news/igloos-net-loss-narrows-604-in-2025",
+   "published": "Mon, 28 Sep 2026 21:45:00 +0000",
+   "published_hkt": "2026-09-29T05:45:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "b8aa70b31661",
+   "title": "India’s insurance regulator’s proposed insurance distribution reforms will accelerate companies’ scaling up of their agency channels whilst introducing steep caps for general and health insurance, according to Nomura’s Global Markets Research team.",
+   "url": "https://insuranceasia.com/news/india-insurance-reforms-boost-life-agents-expansion-health-caps-tightened",
+   "published": "Mon, 28 Sep 2026 21:30:00 +0000",
+   "published_hkt": "2026-09-29T05:30:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "a91772db405e",
+   "title": "Allianz Partners has launched its next generation travel insurance ecosystem in Australia in its Metaportal platform.",
+   "url": "https://insuranceasia.com/insurance/news/allianz-partners-launches-personalised-digital-travel-insurance-cover-in-australia",
+   "published": "Mon, 28 Sep 2026 21:15:00 +0000",
+   "published_hkt": "2026-09-29T05:15:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "eff525d22409",
+   "title": "Tokio Marine Holdings (TMH) remains exposed to equity risks and underwriting risks from its overseas expansion but should have enough capital to absorb losses, said AM Best.",
+   "url": "https://insuranceasia.com/insurance/news/tokio-marines-capital-sufficient-despite-equity-and-overseas-risks-am-best",
+   "published": "Mon, 28 Sep 2026 21:00:00 +0000",
+   "published_hkt": "2026-09-29T05:00:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "53c8472d8550",
+   "title": "He brings more than 30 years in financial services and succeeds Andrew Yeo.",
+   "url": "https://insuranceasia.com/insurance/news/income-insurance-names-khoo-kah-siang-ceo",
+   "published": "Mon, 28 Sep 2026 02:48:07 +0000",
+   "published_hkt": "2026-09-28T10:48:07+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "2d5899597a77",
+   "title": "Sum holds no shareholding interest in GEH or its subsidiaries.",
+   "url": "https://insuranceasia.com/insurance/news/great-eastern-appoints-adeline-sum-independent-director",
+   "published": "Mon, 28 Sep 2026 02:15:34 +0000",
+   "published_hkt": "2026-09-28T10:15:34+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "16c702344a03",
+   "title": "Asian health insurers face a 12.5% rise in medical claim costs this year, as they weigh whether costly GLP-1 treatments for diabetes and obesity could reduce long-term spending on chronic diseases and hospital care.",
+   "url": "https://insuranceasia.com/insurance/expert-opinion/can-costly-treatments-eventually-cut-asias-medical-bills",
+   "published": "Mon, 28 Sep 2026 01:15:00 +0000",
+   "published_hkt": "2026-09-28T09:15:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "991140280991",
+   "title": "Local employees posted a 4.26 resilience score against the 4.11 international benchmark.",
+   "url": "https://insuranceasia.com/insurance/news/financial-insecurity-hits-39-malaysian-workers",
+   "published": "Sun, 27 Sep 2026 22:00:00 +0000",
+   "published_hkt": "2026-09-28T06:00:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "ded568f9d443",
+   "title": "Andreas Rosenthal takes over on an interim basis from 28 September.",
+   "url": "https://insuranceasia.com/insurance/news/prudential-singapore-ceo-exits-eastspring-role",
+   "published": "Sun, 27 Sep 2026 21:45:00 +0000",
+   "published_hkt": "2026-09-28T05:45:00+08:00",
+   "summary": "",
+   "author": null,
+   "paywalled": false
+  }
+ ]
+}

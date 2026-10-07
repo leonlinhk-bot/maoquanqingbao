@@ -1,113 +1,11 @@
 {
  "source": "insuranceasianews",
  "source_label": "InsuranceAsia News · 香港",
- "fetched_at": "2026-10-08T00:43:34.736100+08:00",
+ "fetched_at": "2026-10-08T01:58:36.647669+08:00",
  "feed_url": "https://insuranceasianews.com/country/hong-kong/feed/",
  "feed_window": 10,
  "entries_fingerprint": "sha256:421770ecbb51af3f18819b14ca3bc2f5",
- "changed": true,
- "new_count": 10,
- "poll_guard": "首跑（无基线）",
- "items": [
-  {
-   "id": "230246",
-   "title": "‘Many don’t appreciate what can go wrong’: bloodstock insurance finds its footing in North Asia",
-   "url": "https://insuranceasianews.com/many-dont-appreciate-what-can-go-wrong-bloodstock-insurance-finds-its-footing-in-north-asia/",
-   "published": "Tue, 06 Oct 2026 23:30:27 +0000",
-   "published_hkt": "2026-10-07T07:30:27+08:00",
-   "summary": "MG Geraghty Insurance Brokers' Michael Hurley and Joshua Lynch tell InsuranceAsia News' Between the Lines podcast about the racing boom in Hong Kong, Japan, and South Korea, the risks facing first-time owners, and where AI fits into the broker's future.",
-   "author": null,
-   "paywalled": true
-  },
-  {
-   "id": "230286",
-   "title": "Prudential agrees US$5bn reinsurance deal with Prismic Life",
-   "url": "https://insuranceasianews.com/prudential-agrees-us5bn-reinsurance-deal-with-prismic-life/",
-   "published": "Tue, 06 Oct 2026 04:20:49 +0000",
-   "published_hkt": "2026-10-06T12:20:49+08:00",
-   "summary": "Agreement takes partnership to cover more than US$22bn of liabilities.",
-   "author": null,
-   "paywalled": true
-  },
-  {
-   "id": "229803",
-   "title": "Hong Kong broker Nova’s revenue rises 12% to US$20m as mainland expansion contributes",
-   "url": "https://insuranceasianews.com/hong-kong-broker-novas-revenue-rises-12-to-us20m-as-mainland-expansion-contributes/",
-   "published": "Tue, 29 Sep 2026 02:52:38 +0000",
-   "published_hkt": "2026-09-29T10:52:38+08:00",
-   "summary": "Hong Kong-listed FSE Lifestyle Services’ insurance arm's latest results include a full year of revenue from Beijing Nova Insurance Services, which it acquired in December 2024.",
-   "author": null,
-   "paywalled": true
-  },
-  {
-   "id": "229592",
-   "title": "Chubb elevates Lulu Tsai to head of marine, specialty for Hong Kong",
-   "url": "https://insuranceasianews.com/chubb-elevates-lulu-tsai-to-head-of-marine-specialty-for-hong-kong/",
-   "published": "Fri, 25 Sep 2026 04:37:56 +0000",
-   "published_hkt": "2026-09-25T12:37:56+08:00",
-   "summary": "She has nearly two decades of experience, with expertise across cargo, freight forwarders liability, hull, and fine art and specie.",
-   "author": null,
-   "paywalled": true
-  },
-  {
-   "id": "229288",
-   "title": "Oneglobal completes takeover of Hong Kong crypto specialist Fraction",
-   "url": "https://insuranceasianews.com/oneglobal-completes-takeover-of-hong-kong-crypto-specialist-fraction/",
-   "published": "Mon, 21 Sep 2026 23:42:02 +0000",
-   "published_hkt": "2026-09-22T07:42:02+08:00",
-   "summary": "Acquisition follows the appointment of Fraction co-founders Dan Dibden and Onno Sterk to senior roles in July.",
-   "author": null,
-   "paywalled": true
-  },
-  {
-   "id": "229247",
-   "title": "HDI Global adds Rebekah Khew, LiLian Lau to North Asia underwriting team",
-   "url": "https://insuranceasianews.com/hdi-global-adds-rebekah-khew-lilian-lau-to-north-asia-underwriting-team/",
-   "published": "Mon, 21 Sep 2026 06:35:55 +0000",
-   "published_hkt": "2026-09-21T14:35:55+08:00",
-   "summary": "Rebecca Kong had already been appointed as North Asia head of distribution and strategic partners last month.",
-   "author": null,
-   "paywalled": true
-  },
-  {
-   "id": "229110",
-   "title": "Former CCB manager sentenced to four years in jail for US$470,000 Vesttoo bribery",
-   "url": "https://insuranceasianews.com/former-ccb-manager-sentenced-to-four-years-in-jail-for-us470000-vesttoo-bribery/",
-   "published": "Fri, 18 Sep 2026 09:02:46 +0000",
-   "published_hkt": "2026-09-18T17:02:46+08:00",
-   "summary": "Lam Chun-yin authenticated multiple forged CCB standby letters of credit and two fake collateral letters on behalf of Hong Kong investor Yu Po, together totalling over US$1.6bn.",
-   "author": null,
-   "paywalled": true
-  },
-  {
-   "id": "228922",
-   "title": "Hong Kong pushes captive insurance, ILS reforms as policy address seeks to strengthen international hub status",
-   "url": "https://insuranceasianews.com/hong-kong-pushes-captive-insurance-ils-reforms-as-policy-address-seeks-to-strengthen-international-hub-status/",
-   "published": "Wed, 16 Sep 2026 09:58:50 +0000",
-   "published_hkt": "2026-09-16T17:58:50+08:00",
-   "summary": "In his annual policy address and first five-year plan on Wednesday, chief executive John Lee Ka-chiu introduces several initiatives, including legislative amendments to introduce a protected cell company (PCC) structure.",
-   "author": null,
-   "paywalled": true
-  },
-  {
-   "id": "228822",
-   "title": "Starr taps Patto To as regional A&H claims manager",
-   "url": "https://insuranceasianews.com/starr-taps-patto-to-as-regional-ah-claims-manager/",
-   "published": "Tue, 15 Sep 2026 03:39:54 +0000",
-   "published_hkt": "2026-09-15T11:39:54+08:00",
-   "summary": "Hong Kong-based To will focus on strengthening claims service across Hong Kong and Singapore.",
-   "author": null,
-   "paywalled": true
-  },
-  {
-   "id": "228557",
-   "title": "Starr appoints Sharon Ho as head of A&H for Hong Kong",
-   "url": "https://insuranceasianews.com/starr-appoints-sharon-ho-as-head-of-ah-for-hong-kong/",
-   "published": "Mon, 14 Sep 2026 02:11:28 +0000",
-   "published_hkt": "2026-09-14T10:11:28+08:00",
-   "summary": "She was most recently a partnership and affinity manager at Generali.",
-   "author": null,
-   "paywalled": true
-  }
- ]
+ "new_count": 0,
+ "filtered_out": 0,
+ "items": []
 }

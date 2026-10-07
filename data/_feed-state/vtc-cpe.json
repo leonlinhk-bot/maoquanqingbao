@@ -1,0 +1,14 @@
+{
+ "seen_ids": [
+  "20d8ebb624e5",
+  "263dab7b1b32",
+  "507f20fef764",
+  "569c8e61b9ce",
+  "a1da8695a19c",
+  "c6d21e6a4ed0",
+  "e75277b07de9"
+ ],
+ "last_checked": "2026-10-08T01:58:25.479465+08:00",
+ "fingerprint": "sha256:b04786d921a532d3e7cb800fa0c294e3",
+ "feed_url": "https://cpe.vtc.edu.hk/rss.xml"
+}

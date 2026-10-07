@@ -69,6 +69,16 @@ def fetch(url):
 
 
 def parse_feed(raw):
+    # 有些站的 feed 前面带 HTML 注释/空白（例：Drupal 的 THEME DEBUG 输出），
+    # 会让 XML 解析器报「declaration not at start of entity」→ 先截到真正的 XML 起点。
+    # 教训：解析失败 ≠ 没有内容，先修工具再下结论。
+    if isinstance(raw, (bytes, bytearray)):
+        for marker in (b'<?xml', b'<rss', b'<feed', b'<rdf'):
+            i = raw.find(marker)
+            if i >= 0:
+                if i > 0:
+                    raw = raw[i:]
+                break
     root = ET.fromstring(raw)
     items = []
     ns = {'atom': 'http://www.w3.org/2005/Atom'}

@@ -1,0 +1,11 @@
+{
+ "source": "vtc-cpe",
+ "source_label": "VTC CPE（高峰进修学院）",
+ "fetched_at": "2026-10-08T01:58:25.479206+08:00",
+ "feed_url": "https://cpe.vtc.edu.hk/rss.xml",
+ "feed_window": 7,
+ "entries_fingerprint": "sha256:b04786d921a532d3e7cb800fa0c294e3",
+ "new_count": 0,
+ "filtered_out": 7,
+ "items": []
+}
