@@ -1,9 +1,294 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-07T10:13:37Z",
-  "itemCount": 1206,
+  "generatedAt": "2026-10-07T16:16:04Z",
+  "itemCount": 1225,
   "items": [
+    {
+      "id": "artemis-calpers-ils-climate-100bn-20261006",
+      "title": "Artemis：CalPERS 擬增 ILS 配置 配合2030年千億美元氣候方案目標",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "capital",
+        "climate",
+        "returns"
+      ],
+      "publishedAt": "2026-10-06",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-calpers-ils-climate-100bn-20261006",
+      "originalUrl": "https://www.artemis.bm/news/calpers-wants-to-increase-ils-investments-to-contribute-to-climate-solutions-goal-bloomberg/"
+    },
+    {
+      "id": "artemis-rvs-roundtable-ils-appetite-20261006",
+      "title": "Artemis 圓桌：ILS 投資者興趣與情緒「穩健而強烈」",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "capital",
+        "reinsurance",
+        "market"
+      ],
+      "publishedAt": "2026-10-06",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-rvs-roundtable-ils-appetite-20261006",
+      "originalUrl": "https://www.artemis.bm/news/rvs-roundtable-ils-investor-appetite-and-sentiment-is-sound-and-strong/"
+    },
+    {
+      "id": "artemis-hannover-re-third-party-capital-althoff-20261006",
+      "title": "Artemis：Hannover Re 董事 Althoff 稱第三方資本「更多是夥伴與機遇」",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "ils",
+        "capital",
+        "talent"
+      ],
+      "publishedAt": "2026-10-06",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-hannover-re-third-party-capital-althoff-20261006",
+      "originalUrl": "https://www.artemis.bm/news/third-party-capital-more-than-just-complementary-capacity-for-hannover-re-althoff/"
+    },
+    {
+      "id": "artemis-kcc-us-scs-model-v5-20261007",
+      "title": "Artemis：Karen Clark & Company 推出美國強對流風暴模型5.0 引入AI四維大氣建模",
+      "sourceTier": "pro",
+      "themes": [
+        "cat-risk",
+        "data",
+        "ai",
+        "underwriting"
+      ],
+      "publishedAt": "2026-10-07",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-kcc-us-scs-model-v5-20261007",
+      "originalUrl": "https://www.artemis.bm/news/kcc-updates-and-enhances-us-severe-convective-storm-model/"
+    },
+    {
+      "id": "artemis-catbond-spreads-fall-sep-plenum-20261007",
+      "title": "Artemis／Plenum：9月巨災債券風險息差跌9.5% 抵押品收益率升至逾一年新高",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "catastrophe",
+        "pricing",
+        "returns"
+      ],
+      "publishedAt": "2026-10-07",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-catbond-spreads-fall-sep-plenum-20261007",
+      "originalUrl": "https://www.artemis.bm/news/cat-bond-risk-spreads-fall-9-5-in-september-but-rising-risk-free-rate-helps-to-offset-plenum/"
+    },
+    {
+      "id": "artemis-twia-2027-catbond-need-2-05bn-20261007",
+      "title": "Artemis：德州 TWIA 預計2027年再保及巨災債券需求20.5億美元 風險轉移預算擬降約18%",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "catastrophe",
+        "ils",
+        "pricing"
+      ],
+      "publishedAt": "2026-10-07",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-twia-2027-catbond-need-2-05bn-20261007",
+      "originalUrl": "https://www.artemis.bm/news/twia-forecasts-2-05bn-reinsurance-cat-bond-need-for-2027-proposes-18-budget-reduction/"
+    },
+    {
+      "id": "artemis-hurricane-isaias-gulf-coast-20261007",
+      "title": "Artemis：熱帶風暴 Isaias 形成 料登陸墨西哥灣沿岸前增強為颶風",
+      "sourceTier": "pro",
+      "themes": [
+        "catastrophe",
+        "cat-risk",
+        "ils",
+        "climate"
+      ],
+      "publishedAt": "2026-10-07",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-hurricane-isaias-gulf-coast-20261007",
+      "originalUrl": "https://www.artemis.bm/news/tropical-storm-isaias-forms-nhc-forecasts-hurricane-prior-to-gulf-coast-landfall/"
+    },
+    {
+      "id": "artemis-pacific-life-re-us-longevity-3bn-20261007",
+      "title": "Artemis：Pacific Life Re 以30億美元交易首進美國長壽再保市場",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "longevity",
+        "capital",
+        "returns"
+      ],
+      "publishedAt": "2026-10-07",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-pacific-life-re-us-longevity-3bn-20261007",
+      "originalUrl": "https://www.artemis.bm/news/pacific-life-re-enters-us-longevity-reinsurance-market-with-3bn-american-national-deal/"
+    },
+    {
+      "id": "artemis-ucits-catbond-funds-21-8bn-sep-20261007",
+      "title": "Artemis：UCITS 巨災債券基金資產9月底逼近218億美元 年內增13.25%",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "capital",
+        "catastrophe",
+        "returns"
+      ],
+      "publishedAt": "2026-10-07",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-ucits-catbond-funds-21-8bn-sep-20261007",
+      "originalUrl": "https://www.artemis.bm/news/ucits-catastrophe-bond-funds-keep-growing-near-21-8bn-combined-aum-after-september/"
+    },
+    {
+      "id": "artemis-picc-great-wall-re-catbond-3-12m-20261007",
+      "title": "Artemis：人保財險第二隻「長城再」巨災債券 規模確認為1,200萬美元",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "catastrophe",
+        "china",
+        "cross-border"
+      ],
+      "publishedAt": "2026-10-07",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-picc-great-wall-re-catbond-3-12m-20261007",
+      "originalUrl": "https://www.artemis.bm/news/picc-pc-new-great-wall-re-catastrophe-bond-said-a-12m-issuance/"
+    },
+    {
+      "id": "iaasia-msig-orang-asli-fire-cover-20261006",
+      "title": "MSIG 馬來西亞為逾300間原住民（Orang Asli）房屋提供火險保障",
+      "sourceTier": "pro",
+      "themes": [
+        "protection-gap",
+        "product",
+        "apac",
+        "claims"
+      ],
+      "publishedAt": "2026-10-06T06:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-msig-orang-asli-fire-cover-20261006",
+      "originalUrl": "https://insuranceasia.com/insurance/news/msig-extends-fire-cover-over-300-orang-asli-homes"
+    },
+    {
+      "id": "iaasia-aon-japan-leadership-20261006",
+      "title": "Aon 委任 Naoki Kido 及 Yuki Tanemura 強化日本全球解決方案網絡",
+      "sourceTier": "pro",
+      "themes": [
+        "people",
+        "broker",
+        "apac",
+        "talent"
+      ],
+      "publishedAt": "2026-10-06T06:30:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-aon-japan-leadership-20261006",
+      "originalUrl": "https://insuranceasia.com/insurance/news/aon-strengthens-japan-network-two-leadership-appointments"
+    },
+    {
+      "id": "iaasia-allianz-ceo-reshuffle-kunzmann-20261006",
+      "title": "安聯集團調整子公司CEO：Kroetz 接掌 Allianz Partners，Floquet 接掌 Allianz Direct",
+      "sourceTier": "pro",
+      "themes": [
+        "people",
+        "governance",
+        "apac",
+        "talent"
+      ],
+      "publishedAt": "2026-10-06T05:45:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-allianz-ceo-reshuffle-kunzmann-20261006",
+      "originalUrl": "https://insuranceasia.com/insurance/news/allianz-reshuffles-ceos-after-kunzmann-board-move"
+    },
+    {
+      "id": "ibm-south-korea-nhis-fraud-window-20261007",
+      "title": "Insurance Business：韓國國民健康保險外籍勞工離職漏洞 五年核銷477億韓圜",
+      "sourceTier": "pro",
+      "themes": [
+        "fraud",
+        "health",
+        "apac",
+        "enforcement"
+      ],
+      "publishedAt": "2026-10-07T23:47:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-south-korea-nhis-fraud-window-20261007",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/the-fraud-window-in-south-koreas-nhis-opens-the-moment-a-foreign-worker-leaves-592689.aspx"
+    },
+    {
+      "id": "ibm-south-korea-sme-free-cover-20261007",
+      "title": "Insurance Business：韓國免費中小企保障計劃 上限與除外揭示商業險空間",
+      "sourceTier": "pro",
+      "themes": [
+        "product",
+        "protection-gap",
+        "apac",
+        "channel"
+      ],
+      "publishedAt": "2026-10-07T22:18:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-south-korea-sme-free-cover-20261007",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/sme/south-koreas-free-sme-cover-what-the-limits-leave-exposed-592667.aspx"
+    },
+    {
+      "id": "ibm-philippines-catastrophe-pool-deal-20261007",
+      "title": "Insurance Business：菲律賓落實災害風險轉移安排 本土巨災池仍待推動",
+      "sourceTier": "pro",
+      "themes": [
+        "catastrophe",
+        "apac",
+        "protection-gap",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-10-07T23:12:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-philippines-catastrophe-pool-deal-20261007",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/catastrophe/philippines-locks-in-disaster-risk-deal-as-domestic-catastrophe-pool-struggles-for-traction-592676.aspx"
+    },
+    {
+      "id": "ian-lockton-kenichiro-miki-japan-20261007",
+      "title": "Lockton 委任 Kenichiro Miki 為日本業務高級顧問",
+      "sourceTier": "pro",
+      "themes": [
+        "people",
+        "broker",
+        "apac",
+        "talent"
+      ],
+      "publishedAt": "2026-10-07T17:53:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-lockton-kenichiro-miki-japan-20261007",
+      "originalUrl": "https://insuranceasianews.com/lockton-taps-kenichiro-miki-as-senior-consultant-for-japan-business/"
+    },
+    {
+      "id": "ian-mitsui-bussan-alice-lim-gi-20261007",
+      "title": "三井物產 Pana Harrison 委任 Alice Lim 為一般保險主管",
+      "sourceTier": "pro",
+      "themes": [
+        "people",
+        "broker",
+        "apac",
+        "talent"
+      ],
+      "publishedAt": "2026-10-07T18:08:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-mitsui-bussan-alice-lim-gi-20261007",
+      "originalUrl": "https://insuranceasianews.com/mitsui-bussan-pana-harrison-appoints-alice-lim-as-head-of-general-insurance/"
+    },
+    {
+      "id": "ian-awbury-syndicate-japan-20261007",
+      "title": "Awbury 旗下 Syndicate 2025 經勞合社日本開展日本承保業務",
+      "sourceTier": "pro",
+      "themes": [
+        "lloyds",
+        "apac",
+        "credit",
+        "distribution"
+      ],
+      "publishedAt": "2026-10-07T21:39:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-awbury-syndicate-japan-20261007",
+      "originalUrl": "https://insuranceasianews.com/awbury-syndicate-2025-launches-japanese-underwriting-operations-via-lloyds-japan/"
+    },
     {
       "id": "scmp-mpf-gain-100b-despite-september-20261007",
       "title": "南華早報：強積金年初至今累計進賬近1000億港元 9月單月錄得虧損",
