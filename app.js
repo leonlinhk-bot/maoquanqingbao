@@ -553,7 +553,7 @@ function fmtDay(iso){
       </div>`;
     }
     // 脉搏等：用 12 主题细码（仍不等于六大板块地图）
-    return `<div class="chips"><button type="button" class="chip ${active==='all'||!active?'on':''}" data-theme-filter="all">${t.allChip}</button>${Object.entries(t.themes).map(([k,v])=>`<button type="button" class="chip ${active===k?'on':''}" data-theme-filter="${k}">${v}</button>`).join("")}</div>`;
+    return `<div class="chips-fold" id="themeChipsFold"><div class="chips"><button type="button" class="chip ${active==='all'||!active?'on':''}" data-theme-filter="all">${t.allChip}</button>${Object.entries(t.themes).map(([k,v])=>`<button type="button" class="chip ${active===k?'on':''}" data-theme-filter="${k}">${v}</button>`).join("")}</div><button type="button" class="chip chip-toggle-more" id="themeChipsToggle">主题 ▾</button></div>`;
   }
   function hotSearchChips(){
     const t=T();
@@ -1237,7 +1237,7 @@ ${t.brandName} · ${t.disc}
   $("#q").addEventListener("keydown", e=>{ if(e.key==="Enter"){ recordSearch(state.q); } });
   $("#searchBox").addEventListener("click", e=>{ const hs=e.target.closest("[data-hotsearch]"); if(!hs) return; state.q=hs.dataset.hotsearch; document.getElementById("q").value=state.q; const hd=document.getElementById("hotsearchDropdown"); if(hd) hd.style.display="none"; recordSearch(state.q); render(); });
   $("#content").addEventListener("click", e=>{
-    const ft2=e.target.closest("#facetToggle"); if(ft2){ const fm=document.getElementById("facetMore"); if(fm) fm.style.display=fm.style.display==="none"?"":"none"; ft2.textContent=fm.style.display==="none"?"文种 ▾":"文种 ▴"; return; }const hc=e.target.closest("[data-hot]"); if(hc){ state.q=hc.dataset.hot; document.getElementById("q").value=state.q; recordSearch(state.q); render(); return; }
+    const ft2=e.target.closest("#facetToggle"); if(ft2){ const fm=document.getElementById("facetMore"); if(fm) fm.style.display=fm.style.display==="none"?"":"none"; ft2.textContent=fm.style.display==="none"?"文种 ▾":"文种 ▴"; return; }const tc=e.target.closest("#themeChipsToggle"); if(tc){ const tf=document.getElementById("themeChipsFold"); if(tf){ tf.classList.toggle("open"); tc.textContent=tf.classList.contains("open")?"主题 ▴":"主题 ▾"; } return; }const hc=e.target.closest("[data-hot]"); if(hc){ state.q=hc.dataset.hot; document.getElementById("q").value=state.q; recordSearch(state.q); render(); return; }
     const email=e.target.closest("[data-email-digest]"); if(email){ e.stopPropagation(); const box=email.parentElement.nextElementSibling; box.style.display=box.style.display==="none"?"block":"none"; return; }
     const fav=e.target.closest("[data-fav]"); if(fav){ e.stopPropagation(); const id=fav.dataset.fav; state.fav.has(id)?state.fav.delete(id):state.fav.add(id); localStorage.setItem("hkii_fav", JSON.stringify([...state.fav])); trackEvent("fav", id); render(); return; }
     const favtag=e.target.closest("[data-favtag]"); if(favtag){ state.favTag = favtag.dataset.favtag || null; render(); return; }

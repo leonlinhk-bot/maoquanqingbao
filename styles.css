@@ -27,7 +27,7 @@ button,input{font:inherit;color:inherit}a{color:inherit;text-decoration:none}.ap
 .hot{background:var(--bg-elev);border:1px solid var(--border-soft);border-radius:var(--radius);padding:12px 14px;margin-bottom:18px}
 .hot-label{font-size:11px;letter-spacing:.06em;color:var(--accent);font-weight:700;margin-bottom:8px}
 .hot ol{margin:0;padding-left:18px}.hot li{margin:5px 0;font-size:13.5px}.hot li button{background:none;border:0;padding:0;cursor:pointer;color:var(--text);text-align:left}.hot li button:hover{color:var(--accent)}
-.chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:14px}.chip{border:1px solid var(--border);background:transparent;color:var(--text-muted);border-radius:7px;padding:5px 10px;font-size:12px;cursor:pointer}.chip.on{background:var(--bg-elev);color:var(--text);border-color:var(--text-dim)}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:14px}.chips-fold .chip-toggle-more{display:none}.chip{border:1px solid var(--border);background:transparent;color:var(--text-muted);border-radius:7px;padding:5px 10px;font-size:12px;cursor:pointer}.chip.on{background:var(--bg-elev);color:var(--text);border-color:var(--text-dim)}
 .day-head{display:flex;align-items:baseline;gap:10px;margin:22px 0 10px;padding-bottom:6px;border-bottom:1px solid var(--border-soft)}.day-head h3{margin:0;font-size:15px;font-weight:700}.day-head span{font-size:12px;color:var(--text-dim)}
 .card{display:grid;grid-template-columns:54px 1fr auto;gap:10px 12px;padding:14px 12px;border-radius:var(--radius);border:1px solid transparent;cursor:pointer}
 .card:hover{background:var(--bg-elev);border-color:var(--border-soft)}.card.selected{background:var(--bg-elev);border-color:color-mix(in srgb,var(--accent) 40%,var(--border))}
@@ -283,6 +283,10 @@ button,input{font:inherit;color:inherit}a{color:inherit;text-decoration:none}.ap
   .meta-row{gap:4px;flex-wrap:wrap;margin-top:2px}
   .card-title{font-size:15px;margin-bottom:4px}
   .card-sum{margin-bottom:4px}
+  /* 主题标签折叠：45 个 chip 在手机上要 9 行（323px）→ 折成 2 行 +「主题 ▾」展开 */
+  #themeChipsFold .chips{max-height:74px;overflow:hidden;margin-bottom:0}
+  #themeChipsFold.open .chips{max-height:none;margin-bottom:14px}
+  #themeChipsFold .chip-toggle-more{display:block;margin:8px 0 14px}
 }
 
 @media(max-width:480px){
