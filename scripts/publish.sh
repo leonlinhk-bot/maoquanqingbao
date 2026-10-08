@@ -4,7 +4,11 @@
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
-# 1. 重建 feed + 同步 app.js DATA
+# 1. 条目增强（同题聚合 clusterCount + 导语 summaryShort）——必须在 rebuild 之前，
+#    否则新条目不会被 enrich，字段只存在于「跑过一次」的那批（R4 建成/运转尺的坑）
+python3 scripts/enrich-items.py --apply
+
+# 1b. 重建 feed + 同步 app.js DATA
 python3 scripts/rebuild-feeds.py
 
 # 2. 验证外链数据与 live-items.json 条数一致（漏 rebuild 会在此报错）
