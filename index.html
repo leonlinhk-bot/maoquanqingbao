@@ -16,7 +16,7 @@
 <meta name="twitter:title" content="猫圈儿港险情报站" />
 <meta name="twitter:description" content="港险市场数据仪表板——只搬运公开数据，不加工不添油。" />
 <meta name="twitter:image" content="https://hkmaoquanqingbao.com/assets/logo-cat-256.jpg" />
-<link rel="stylesheet" href="styles.css" />
+<link rel="stylesheet" href="styles.css?v=1255.1791483189" />
 </head>
 <body>
 <div class="app">
@@ -117,7 +117,7 @@
 <script>
   window.HKII_USAGE_ENDPOINT = window.HKII_USAGE_ENDPOINT || "https://stats.hkmaoquanqingbao.com"; // 使用度 Worker（自定义域名）
   window.HKII_CF_BEACON = window.HKII_CF_BEACON || "396d4235d9aa4f5c9918aa56d6ec808a"; // Cloudflare Web Analytics
-  window.HKII_VER = "1255.1791483105"; // 数据版本（rebuild 自动更新，用于 core/items 缓存失效）
+  window.HKII_VER = "1255.1791483189"; // 数据版本（rebuild 自动更新，用于 core/items 缓存失效）
   // 首屏数据与主脚本并行拉取（不等其下载完才开始，缩短首屏时间）
   window.HKII_corePromise = fetch('data/core.json?v=' + window.HKII_VER)
     .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
@@ -126,7 +126,7 @@
                calendar: [], feedFacets: {}, __loadError: String((e && e.message) || e) };
     });
 </script>
-<script src="app.js?v=1255.1791483105"></script>
+<script src="app.js?v=1255.1791483189"></script>
 <!-- Cloudflare Web Analytics（有 token 才加载；免费、无 cookie） -->
 <script>
 (function(){

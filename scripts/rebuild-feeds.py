@@ -228,6 +228,9 @@ if _idx_path.exists():
     _idx_new = _re.sub(r'(<script src=")app\.js(?:\?v=[^"]*)?(")', rf'\1app.js?v={_ver}\2', _idx)
     # 同步数据版本号（core.json / items.json 用它做缓存失效）
     _idx_new = _re.sub(r'window\.HKII_VER\s*=\s*"[^"]*"', f'window.HKII_VER = "{_ver}"', _idx_new)
+    # styles.css 也要带版本号——否则改了 CSS 用户刷新也看不到（与 app.js 当年同一类缓存坑）
+    _idx_new = _re.sub(r'(<link rel="stylesheet" href=")styles\.css(?:\?v=[^"]*)?(")',
+                       rf'\1styles.css?v={_ver}\2', _idx_new)
     if _idx_new != _idx:
         _idx_path.write_text(_idx_new, encoding='utf-8')
 
