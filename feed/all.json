@@ -1,9 +1,328 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-08T10:11:53Z",
-  "itemCount": 1233,
+  "generatedAt": "2026-10-08T15:15:19Z",
+  "itemCount": 1254,
   "items": [
+    {
+      "id": "scmp-crash-for-cash-137m-55-arrests-20261007",
+      "title": "南華早報：香港警方再拘17人 涉1.37億港元「撞車騙保」 累計55人被捕",
+      "sourceTier": "media",
+      "themes": [
+        "fraud",
+        "motor",
+        "claims",
+        "enforcement",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-10-07T21:37:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-crash-for-cash-137m-55-arrests-20261007",
+      "originalUrl": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370077/hong-kong-police-arrest-17-more-over-hk137-million-crash-cash-scam"
+    },
+    {
+      "id": "hkicl-fake-website-scam-alert-20261008",
+      "title": "政府新聞網（代金管局發稿）：慎防偽冒香港銀行同業結算有限公司的詐騙網站",
+      "sourceTier": "official",
+      "themes": [
+        "fraud",
+        "payment",
+        "consumer-protection",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-10-08T18:33:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkicl-fake-website-scam-alert-20261008",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202610/08/P2026100800441.htm"
+    },
+    {
+      "id": "axa-green-power-island-walk-34-20261008",
+      "title": "AXA 安盛：第三十四屆綠色力量環島行10月8日起公開接受報名（首席贊助）",
+      "sourceTier": "insurer",
+      "themes": [
+        "csr",
+        "community",
+        "hong-kong",
+        "wellness"
+      ],
+      "publishedAt": "2026-10-08",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=axa-green-power-island-walk-34-20261008",
+      "originalUrl": "https://www.axa.com.hk/zh/news-room/"
+    },
+    {
+      "id": "aia-scholarships-6th-cohort-100-students-20261008",
+      "title": "友邦：友邦慈善基金表揚100名大學生 第六屆「友邦獎學金」得獎者誕生",
+      "sourceTier": "insurer",
+      "themes": [
+        "csr",
+        "talent",
+        "education",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-10-08",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-scholarships-6th-cohort-100-students-20261008",
+      "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2026/aia-press-release-20261008-aia-scholarships-ceremony"
+    },
+    {
+      "id": "aia-alta-chi-longevity-hk-exclusive-20261008",
+      "title": "友邦：友邦峻宇與 Chi Longevity 在香港展開獨家合作 今年稍後開設健康長壽中心",
+      "sourceTier": "insurer",
+      "themes": [
+        "hnw",
+        "longevity",
+        "health",
+        "ecosystem"
+      ],
+      "publishedAt": "2026-10-08",
+      "score": 77,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-alta-chi-longevity-hk-exclusive-20261008",
+      "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2026/aia-press-release-20261008"
+    },
+    {
+      "id": "ian-specialty-mga-bloodstock-higgins-20261008",
+      "title": "InsuranceAsia News：MNK 旗下 Specialty MGA 委任 David Higgins 拓展全球血統馬保險業務",
+      "sourceTier": "pro",
+      "themes": [
+        "people",
+        "specialty",
+        "bloodstock",
+        "apac"
+      ],
+      "publishedAt": "2026-10-08T17:59:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-specialty-mga-bloodstock-higgins-20261008",
+      "originalUrl": "https://insuranceasianews.com/specialty-mga-hires-david-higgins-to-lead-global-bloodstock-expansion/"
+    },
+    {
+      "id": "ian-aviso-specialty-wojcik-capital-solutions-20261008",
+      "title": "InsuranceAsia News：澳洲 Aviso Specialty 聘 Marsh 前高層 Eric Wojcik 領軍資本方案部門",
+      "sourceTier": "pro",
+      "themes": [
+        "people",
+        "broker",
+        "surety",
+        "apac"
+      ],
+      "publishedAt": "2026-10-08T10:27:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-aviso-specialty-wojcik-capital-solutions-20261008",
+      "originalUrl": "https://insuranceasianews.com/aviso-specialty-hires-marsh-veteran-eric-wojcik-to-stand-up-capital-solutions-group/"
+    },
+    {
+      "id": "ian-marsh-sonya-febbo-australia-authorised-reps-20261008",
+      "title": "InsuranceAsia News：Marsh 升任 Sonya Febbo 為澳洲企業及商業授權代表主管",
+      "sourceTier": "pro",
+      "themes": [
+        "people",
+        "broker",
+        "australia",
+        "distribution"
+      ],
+      "publishedAt": "2026-10-08T12:32:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-marsh-sonya-febbo-australia-authorised-reps-20261008",
+      "originalUrl": "https://insuranceasianews.com/marsh-elevates-sonya-febbo-to-australia-head-of-authorised-representatives/"
+    },
+    {
+      "id": "ian-gic-re-am-best-a-minus-affirmed-20261008",
+      "title": "InsuranceAsia News：AM Best 確認 GIC Re「A-」評級 投資收益彌補承保利潤不足",
+      "sourceTier": "pro",
+      "themes": [
+        "ratings",
+        "reinsurance",
+        "india",
+        "investment-income"
+      ],
+      "publishedAt": "2026-10-08T14:16:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-gic-re-am-best-a-minus-affirmed-20261008",
+      "originalUrl": "https://insuranceasianews.com/gic-res-investment-income-makes-up-for-lack-of-technical-profits-am-best/"
+    },
+    {
+      "id": "ian-howden-apac-datacentre-risk-20261008",
+      "title": "InsuranceAsia News：Howden 指亞太數據中心擴張 風險集中於建造、電力、營運及網絡",
+      "sourceTier": "pro",
+      "themes": [
+        "datacentre",
+        "construction",
+        "power",
+        "cyber",
+        "apac"
+      ],
+      "publishedAt": "2026-10-08T15:57:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-howden-apac-datacentre-risk-20261008",
+      "originalUrl": "https://insuranceasianews.com/apac-data-centre-expansion-concentrates-risk-across-construction-power-operations-and-cyber-howden/"
+    },
+    {
+      "id": "ian-ms-amlin-singapore-sidecar-40-50m-20261008",
+      "title": "InsuranceAsia News：MS Amlin 洽推新加坡註冊側車 初步目標4,000至5,000萬美元",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "sidecar",
+        "singapore",
+        "third-party-capital"
+      ],
+      "publishedAt": "2026-10-08T07:30:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-ms-amlin-singapore-sidecar-40-50m-20261008",
+      "originalUrl": "https://insuranceasianews.com/ms-amlin-seeks-investors-for-new-singapore-domiciled-sidecar-eyes-untapped-potential/"
+    },
+    {
+      "id": "iaasia-asia-casualty-claims-cost-marsh-re-20261008",
+      "title": "Insurance Asia 專題：亞洲責任險保費佔GDP僅0.1% 索賠成本上升與長尾結案成挑戰",
+      "sourceTier": "pro",
+      "themes": [
+        "casualty",
+        "claims",
+        "liability",
+        "apac",
+        "protection-gap"
+      ],
+      "publishedAt": "2026-10-08T05:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-asia-casualty-claims-cost-marsh-re-20261008",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/asia-casualty-insurers-face-rising-claims-costs"
+    },
+    {
+      "id": "iaasia-aia-china-bancassurance-share-jefferies-20261008",
+      "title": "Insurance Asia：AIA 中國銀保銷售上半年跌6% 市佔明顯流失（Jefferies 分析）",
+      "sourceTier": "pro",
+      "themes": [
+        "bancassurance",
+        "commission",
+        "china",
+        "distribution"
+      ],
+      "publishedAt": "2026-10-08T05:15:00+08:00",
+      "score": 73,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-aia-china-bancassurance-share-jefferies-20261008",
+      "originalUrl": "https://insuranceasia.com/insurance/news/aia-loses-china-bancassurance-share-sales-fall-6"
+    },
+    {
+      "id": "iaasia-insurtech-funding-2-44b-q2-ai-gallagher-re-20261008",
+      "title": "Insurance Asia：全球保險科技融資回升至24.4億美元 AI 公司佔99.1%",
+      "sourceTier": "pro",
+      "themes": [
+        "insurtech",
+        "ai",
+        "datacentre",
+        "funding"
+      ],
+      "publishedAt": "2026-10-08T06:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-insurtech-funding-2-44b-q2-ai-gallagher-re-20261008",
+      "originalUrl": "https://insuranceasia.com/insurance/news/insurtech-funding-hits-24b-ai-dominates-deals"
+    },
+    {
+      "id": "iaasia-prudential-sg-pruactive-family-care-20261008",
+      "title": "Insurance Asia：保誠新加坡推「PRUActive Family Care」 一張保單同時保障子女與年邁父母",
+      "sourceTier": "pro",
+      "themes": [
+        "product",
+        "protection-gap",
+        "ageing",
+        "critical-illness"
+      ],
+      "publishedAt": "2026-10-08T05:45:00+08:00",
+      "score": 73,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-prudential-sg-pruactive-family-care-20261008",
+      "originalUrl": "https://insuranceasia.com/insurance/news/prudential-plan-eases-protection-gap-caregivers"
+    },
+    {
+      "id": "iaasia-manulife-3-2b-ltc-reinsurance-closed-20261008",
+      "title": "Insurance Asia：宏利完成32億美元長期護理再保交易 累計降低長護發病率敏感度24%",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "long-term-care",
+        "capital",
+        "m&a"
+      ],
+      "publishedAt": "2026-10-08T05:30:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-manulife-3-2b-ltc-reinsurance-closed-20261008",
+      "originalUrl": "https://insuranceasia.com/insurance/news/manulife-cuts-risk-32b-reinsurance-deal-closes"
+    },
+    {
+      "id": "ibm-wtw-q3-deal-performance-monitor-20261008",
+      "title": "Insurance Business：WTW 第三季併購表現監察 交易更快更大 收購方卻普遍落後大市",
+      "sourceTier": "pro",
+      "themes": [
+        "m&a",
+        "warranty-insurance",
+        "apac",
+        "due-diligence"
+      ],
+      "publishedAt": "2026-10-08T18:24:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-wtw-q3-deal-performance-monitor-20261008",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/mergers-acquisitions/dealmakers-are-moving-faster-and-bigger-yet-underperforming-wtw-says-592814.aspx"
+    },
+    {
+      "id": "ibm-south-korea-ai-bank-hacks-cyber-gaps-20261008",
+      "title": "Insurance Business：韓國銀行遭AI驅動黑客攻擊 網安保險缺口受質疑",
+      "sourceTier": "pro",
+      "themes": [
+        "cyber",
+        "ai",
+        "enforcement",
+        "apac",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-10-08T22:45:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-south-korea-ai-bank-hacks-cyber-gaps-20261008",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/aipowered-bank-hacks-in-south-korea-put-cyber-insurance-gaps-under-scrutiny-592835.aspx"
+    },
+    {
+      "id": "artemis-reask-forecastex-live-hurricane-contracts-20261008",
+      "title": "Artemis：Reask 為盈透證券 ForecastEx「活躍颶風合約」提供結算數據",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "catastrophe",
+        "parametric",
+        "innovation"
+      ],
+      "publishedAt": "2026-10-08T18:30:00+08:00",
+      "score": 73,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-reask-forecastex-live-hurricane-contracts-20261008",
+      "originalUrl": "https://www.artemis.bm/news/reask-to-provide-settlement-data-for-interactive-brokers-forecastex-live-hurricane-contracts/"
+    },
+    {
+      "id": "artemis-london-2026-panel-catbond-discipline-20261008",
+      "title": "Artemis London 2026：從硬市場到正常化 巨災債券「紀律」何價（論壇影片）",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "catastrophe-bond",
+        "pricing",
+        "discipline"
+      ],
+      "publishedAt": "2026-10-08T21:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-london-2026-panel-catbond-discipline-20261008",
+      "originalUrl": "https://www.artemis.bm/news/from-hard-market-to-normalisation-cat-bond-discipline-in-practice-artemis-london-2026-video/"
+    },
+    {
+      "id": "artemis-southern-ontario-storm-catiq-563m-20261008",
+      "title": "Artemis：南安大略9月強對流風暴 業界損失初估5.63億加元",
+      "sourceTier": "pro",
+      "themes": [
+        "catastrophe",
+        "cat-risk",
+        "canada",
+        "industry-loss"
+      ],
+      "publishedAt": "2026-10-08T22:30:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-southern-ontario-storm-catiq-563m-20261008",
+      "originalUrl": "https://www.artemis.bm/news/southern-ontario-severe-storm-outbreak-industry-loss-initially-estimated-c563m-by-catiq/"
+    },
     {
       "id": "allianz-commercial-bi-claims-severity-20261008",
       "title": "安聯商業《2026營業中斷索賠分析》：單宗平均索賠超85萬歐元 較財產損失高約七成",
