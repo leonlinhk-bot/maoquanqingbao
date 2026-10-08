@@ -1,9 +1,129 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-07T17:56:17Z",
-  "itemCount": 1225,
+  "generatedAt": "2026-10-08T10:11:53Z",
+  "itemCount": 1233,
   "items": [
+    {
+      "id": "allianz-commercial-bi-claims-severity-20261008",
+      "title": "安聯商業《2026營業中斷索賠分析》：單宗平均索賠超85萬歐元 較財產損失高約七成",
+      "sourceTier": "insurer",
+      "themes": [
+        "business-interruption",
+        "claims",
+        "supply-chain",
+        "cyber"
+      ],
+      "publishedAt": "2026-10-08",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=allianz-commercial-bi-claims-severity-20261008",
+      "originalUrl": "https://commercial.allianz.com/content/dam/onemarketing/commercial/commercial/reports/commercial-business-interruption-claims-2026.pdf"
+    },
+    {
+      "id": "hkma-silver-bond-4th-interest-4-00-20261008",
+      "title": "金管局：2027年到期銀色債券第四次付息 定息4.00厘（10月23日派發）",
+      "sourceTier": "official",
+      "themes": [
+        "retail-bond",
+        "interest-rate",
+        "silver-bond",
+        "fixed-income"
+      ],
+      "publishedAt": "2026-10-08",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-silver-bond-4th-interest-4-00-20261008",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261008-3/"
+    },
+    {
+      "id": "artemis-ils-returns-short-term-rates-agecroft-20261008",
+      "title": "Artemis：短端利率高企為 ILS 帶來額外回報 亦重塑對沖基金回報歸因（Agecroft 觀點）",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "hedge-fund",
+        "short-term-rates",
+        "returns"
+      ],
+      "publishedAt": "2026-10-08T16:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-ils-returns-short-term-rates-agecroft-20261008",
+      "originalUrl": "https://www.artemis.bm/news/higher-short-term-rates-boost-ils-returns-reshape-hedge-fund-attribution-agecrofts-steinbrugge/"
+    },
+    {
+      "id": "artemis-hurricane-isaias-cat2-loss-forecast-20261008",
+      "title": "Artemis：颶風 Isaias 增強 料以二級颶風登陸墨西哥灣 保險損失料為「單位數十億美元」",
+      "sourceTier": "pro",
+      "themes": [
+        "catastrophe",
+        "hurricane",
+        "reinsurance",
+        "insured-loss"
+      ],
+      "publishedAt": "2026-10-08T14:51:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-hurricane-isaias-cat2-loss-forecast-20261008",
+      "originalUrl": "https://www.artemis.bm/news/hurricane-isaias-strengthens-cat-2-landfall-at-single-digit-billion-insured-loss-potential-forecast/"
+    },
+    {
+      "id": "iaan-ok-financial-yebyeol-insurance-kdic-20261008",
+      "title": "韓國 OK Financial 與存款保險公社（KDIC）簽約 收購 Yebyeol 保險",
+      "sourceTier": "pro",
+      "themes": [
+        "m&a",
+        "korea",
+        "insolvency",
+        "life-insurance"
+      ],
+      "publishedAt": "2026-10-08",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaan-ok-financial-yebyeol-insurance-kdic-20261008",
+      "originalUrl": "https://insuranceasianews.com/south-koreas-ok-financial-signs-deal-to-acquire-yebyeol-insurance-from-kdic/"
+    },
+    {
+      "id": "iaan-am-best-indonesia-non-life-stable-20261008",
+      "title": "AM Best 維持印尼非壽險業「穩定」展望 指經濟增長與資本強化支撐盈利",
+      "sourceTier": "pro",
+      "themes": [
+        "am-best",
+        "indonesia",
+        "non-life",
+        "outlook"
+      ],
+      "publishedAt": "2026-10-08",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaan-am-best-indonesia-non-life-stable-20261008",
+      "originalUrl": "https://insuranceasianews.com/am-best-maintains-stable-outlook-for-indonesia-non-life-sector/"
+    },
+    {
+      "id": "iaan-meritz-korindo-stake-sale-denial-20261008",
+      "title": "Meritz Korindo 總裁否認 Meritz Fire & Marine 出售合營股權報導",
+      "sourceTier": "pro",
+      "themes": [
+        "m&a",
+        "indonesia",
+        "korea",
+        "joint-venture"
+      ],
+      "publishedAt": "2026-10-08",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaan-meritz-korindo-stake-sale-denial-20261008",
+      "originalUrl": "https://insuranceasianews.com/meritz-korindo-chief-denies-reports-of-stake-sale-by-meritz-fire-marine/"
+    },
+    {
+      "id": "iaan-iag-rac-accc-tribunal-review-20261008",
+      "title": "IAG 與 RAC 就 ACCC 否決 9.4 億美元交易 向澳洲競爭審裁處申請覆核",
+      "sourceTier": "pro",
+      "themes": [
+        "m&a",
+        "australia",
+        "competition",
+        "regulator"
+      ],
+      "publishedAt": "2026-10-08",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaan-iag-rac-accc-tribunal-review-20261008",
+      "originalUrl": "https://insuranceasianews.com/iag-rac-seek-tribunal-review-of-acccs-us940m-deal-block/"
+    },
     {
       "id": "artemis-calpers-ils-climate-100bn-20261006",
       "title": "Artemis：CalPERS 擬增 ILS 配置 配合2030年千億美元氣候方案目標",

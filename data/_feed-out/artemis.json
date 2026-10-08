@@ -1,11 +1,32 @@
 {
  "source": "artemis",
  "source_label": "Artemis",
- "fetched_at": "2026-10-08T01:59:00.264977+08:00",
+ "fetched_at": "2026-10-08T18:00:35.466316+08:00",
  "feed_url": "https://artemis.bm/feed/",
  "feed_window": 10,
- "entries_fingerprint": "sha256:718f921050ec998e70d26d379c4306a8",
- "new_count": 0,
+ "entries_fingerprint": "sha256:707dfbea561274a52634973e514bdae7",
+ "new_count": 2,
  "filtered_out": 0,
- "items": []
+ "items": [
+  {
+   "id": "150604",
+   "title": "Higher short-term rates boost ILS returns, reshape hedge fund attribution: Agecroft’s Steinbrugge",
+   "url": "https://www.artemis.bm/news/higher-short-term-rates-boost-ils-returns-reshape-hedge-fund-attribution-agecrofts-steinbrugge/?utm_source=rss&utm_medium=rss&utm_campaign=higher-short-term-rates-boost-ils-returns-reshape-hedge-fund-attribution-agecrofts-steinbrugge",
+   "published": "Thu, 08 Oct 2026 08:00:23 +0000",
+   "published_hkt": "2026-10-08T16:00:23+08:00",
+   "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. Higher short-term interest rates are providing an additional source of return for ILS, while also reshaping strategy-level return attribution across the hedge fund industry. As macroeconomic dynamics shift which management styles deliver relative performance, Don Steinbrugge, of Agecroft Partners, emphasises that the underlying source of an investment’s return now matters just as much as its [&#8230;] Higher short-term rates boost ILS returns, reshape hedge fund attribution: Agecroft’s Steinbrugge was published by: www.Artemis.bm Our catastrophe bond deal directory Sign up for our free weekly email newsletter here .",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "150722",
+   "title": "Hurricane Isaias strengthens, ~Cat 2 landfall at single-digit billion insured loss potential forecast",
+   "url": "https://www.artemis.bm/news/hurricane-isaias-strengthens-cat-2-landfall-at-single-digit-billion-insured-loss-potential-forecast/?utm_source=rss&utm_medium=rss&utm_campaign=hurricane-isaias-strengthens-cat-2-landfall-at-single-digit-billion-insured-loss-potential-forecast",
+   "published": "Thu, 08 Oct 2026 06:51:39 +0000",
+   "published_hkt": "2026-10-08T14:51:39+08:00",
+   "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. Isaiais is now the first hurricane of the 2026 Atlantic season having intensified overnight and the forecast continues to suggest a Category 2 landfall on the Gulf Coast is a possible outcome, at which level of intensity reinsurance broker Gallagher Re said it would typically result in insured losses in the low to mid-single digit [&#8230;] Hurricane Isaias strengthens, ~Cat 2 landfall at single-digit billion insured loss potential forecast was published by: www.Artemis.bm Our catastrophe bond deal directory Sign up for our free weekly email newsletter here .",
+   "author": null,
+   "paywalled": false
+  }
+ ]
 }

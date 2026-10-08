@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-10-08T00:15:55+08:00",
-    "itemCount": 1225,
+    "generatedAt": "2026-10-08T18:08:00+08:00",
+    "itemCount": 1233,
     "windowNote": {
-      "sc": "本库1225条。",
-      "tc": "本庫1225條。"
+      "sc": "本库1233条。",
+      "tc": "本庫1233條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -313,6 +313,690 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "allianz-commercial-bi-claims-severity-20261008",
+      "clusterCount": 1,
+      "score": 78,
+      "verifyStatus": "verified",
+      "sourceTier": "insurer",
+      "sourceKey": "allianz",
+      "contentKind": "news",
+      "publishedAt": "2026-10-08",
+      "originalUrl": "https://commercial.allianz.com/content/dam/onemarketing/commercial/commercial/reports/commercial-business-interruption-claims-2026.pdf",
+      "boards": [
+        "market",
+        "product"
+      ],
+      "themes": [
+        "business-interruption",
+        "claims",
+        "supply-chain",
+        "cyber"
+      ],
+      "title": {
+        "sc": "安聯商業《2026營業中斷索賠分析》：單宗平均索賠超85萬歐元 較財產損失高約七成",
+        "tc": "安聯商業《2026營業中斷索賠分析》：單宗平均索賠超85萬歐元 較財產損失高約七成"
+      },
+      "summary": {
+        "sc": "安聯商業（Allianz Commercial）10月8日發布分析，涵蓋2021年1月至2025年底7,888宗營業中斷（BI）理賠、總值約67.4億歐元（78.2億美元）：單宗平均索賠總值已超85萬歐元，較同期平均財產損失索賠（近50萬歐元）高約70%，過去兩年單宗均值年增逾30%。火災及爆炸佔已分析索賠總值逾四成（約29億歐元），在德國、新加坡、香港、英國及美國均為最貴損失成因；自然災害佔34%。非自然災害事件仍貢獻74%索賠宗數與66%總值，半導體廠火災為兩宗最貴非自然災害個案。 [EN原文]",
+        "tc": "安聯商業（Allianz Commercial）10月8日發布分析，涵蓋2021年1月至2025年底7,888宗營業中斷（BI）理賠、總值約67.4億歐元（78.2億美元）：單宗平均索賠總值已超85萬歐元，較同期平均財產損失索賠（近50萬歐元）高約70%，過去兩年單宗均值年增逾30%。火災及爆炸佔已分析索賠總值逾四成（約29億歐元），在德國、新加坡、香港、英國及美國均為最貴損失成因；自然災害佔34%。非自然災害事件仍貢獻74%索賠宗數與66%總值，半導體廠火災為兩宗最貴非自然災害個案。 [EN原文]"
+      },
+      "why": {
+        "sc": "香港被點名為「火災為最貴損失成因」的市場之一，對本港工商業財產險的核保與足額投保（underinsurance）討論有直接參考價值；報告亦指出雲端中斷、第三方技術商事故正擴大網絡相關營業中斷的損失來源。",
+        "tc": "香港被點名為「火災為最貴損失成因」的市場之一，對本港工商業財產險的核保與足額投保（underinsurance）討論有直接參考價值；報告亦指出雲端中斷、第三方技術商事故正擴大網絡相關營業中斷的損失來源。"
+      },
+      "source": {
+        "sc": "Allianz Commercial 2026-10-08 報告",
+        "tc": "Allianz Commercial 2026-10-08 報告",
+        "lang": "en",
+        "name": "Allianz Commercial",
+        "date": "2026-10-08",
+        "note": null
+      },
+      "actions": {
+        "front": {
+          "sc": "向工商業客戶說明營業中斷保額須隨收入與成本重估，避免通脹或供應鏈拉長導致保額不足",
+          "tc": "向工商業客戶說明營業中斷保額須隨收入與成本重估，避免通脹或供應鏈拉長導致保額不足"
+        },
+        "midback": {
+          "sc": "納入工商險核保與足額投保複核要點",
+          "tc": "納入工商險核保與足額投保複核要點"
+        },
+        "lead": {
+          "sc": "可作企業風險管理分享的實證材料",
+          "tc": "可作企業風險管理分享的實證材料"
+        },
+        "cross": {
+          "sc": "跨境製造業供應鏈風險的連帶暴露",
+          "tc": "跨境製造業供應鏈風險的連帶暴露"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 2,
+        "cross": 2
+      },
+      "tags": {
+        "sc": [
+          "安聯商業",
+          "營業中斷",
+          "財產險",
+          "供應鏈"
+        ],
+        "tc": [
+          "安聯商業",
+          "營業中斷",
+          "財產險",
+          "供應鏈"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站導讀",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-10-08T18:08:00+08:00"
+    },
+    {
+      "id": "hkma-silver-bond-4th-interest-4-00-20261008",
+      "clusterCount": 1,
+      "score": 85,
+      "verifyStatus": "verified",
+      "sourceTier": "official",
+      "sourceKey": "hkma",
+      "contentKind": "press",
+      "publishedAt": "2026-10-08",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261008-3/",
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "retail-bond",
+        "interest-rate",
+        "silver-bond",
+        "fixed-income"
+      ],
+      "title": {
+        "sc": "金管局：2027年到期銀色債券第四次付息 定息4.00厘（10月23日派發）",
+        "tc": "金管局：2027年到期銀色債券第四次付息 定息4.00厘（10月23日派發）"
+      },
+      "summary": {
+        "sc": "金管局10月8日以政府代表身分公布，2027年到期的銀色債券系列（發行編號 03GB2710R）第四次付息的相關年息率為4.00厘。浮動息率為+1.80厘（2019/20基數綜合消費物價指數3至8月按年變動的算術平均），定息為+4.00厘，按較高者原則，第四次付息年息率定為4.00厘，將於2026年10月23日派發。",
+        "tc": "金管局10月8日以政府代表身分公布，2027年到期的銀色債券系列（發行編號 03GB2710R）第四次付息的相關年息率為4.00厘。浮動息率為+1.80厘（2019/20基數綜合消費物價指數3至8月按年變動的算術平均），定息為+4.00厘，按較高者原則，第四次付息年息率定為4.00厘，將於2026年10月23日派發。"
+      },
+      "why": {
+        "sc": "銀債為長者客戶的低風險收益基準；本次定息4.00厘高於浮動息率，顯示在通脹溫和（3至8月平均1.80%）下「保底」機制仍然生效，可作與保證型年金／儲蓄產品現金流對比的參考錨點。",
+        "tc": "銀債為長者客戶的低風險收益基準；本次定息4.00厘高於浮動息率，顯示在通脹溫和（3至8月平均1.80%）下「保底」機制仍然生效，可作與保證型年金／儲蓄產品現金流對比的參考錨點。"
+      },
+      "source": {
+        "sc": "香港金融管理局 2026-10-08 新聞稿",
+        "tc": "香港金融管理局 2026-10-08 新聞稿",
+        "lang": "en",
+        "name": "HKMA",
+        "date": "2026-10-08",
+        "note": null
+      },
+      "actions": {
+        "front": {
+          "sc": "向長者客戶解釋銀債息率機制（浮動／定息取高），僅作資訊說明",
+          "tc": "向長者客戶解釋銀債息率機制（浮動／定息取高），僅作資訊說明"
+        },
+        "midback": {
+          "sc": "納入固定收益與保底產品對照資料",
+          "tc": "納入固定收益與保底產品對照資料"
+        },
+        "lead": {
+          "sc": "說明利率環境與長者現金流規劃",
+          "tc": "說明利率環境與長者現金流規劃"
+        },
+        "cross": {
+          "sc": "跨境客戶對港元保底資產的關注",
+          "tc": "跨境客戶對港元保底資產的關注"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 1,
+        "cross": 1
+      },
+      "tags": {
+        "sc": [
+          "銀色債券",
+          "金管局",
+          "定息",
+          "長者理財"
+        ],
+        "tc": [
+          "銀色債券",
+          "金管局",
+          "定息",
+          "長者理財"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站導讀",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-10-08T18:08:00+08:00"
+    },
+    {
+      "id": "artemis-ils-returns-short-term-rates-agecroft-20261008",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "artemis",
+      "contentKind": "news",
+      "publishedAt": "2026-10-08T16:00:00+08:00",
+      "originalUrl": "https://www.artemis.bm/news/higher-short-term-rates-boost-ils-returns-reshape-hedge-fund-attribution-agecrofts-steinbrugge/",
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "ils",
+        "hedge-fund",
+        "short-term-rates",
+        "returns"
+      ],
+      "title": {
+        "sc": "Artemis：短端利率高企為 ILS 帶來額外回報 亦重塑對沖基金回報歸因（Agecroft 觀點）",
+        "tc": "Artemis：短端利率高企為 ILS 帶來額外回報 亦重塑對沖基金回報歸因（Agecroft 觀點）"
+      },
+      "summary": {
+        "sc": "Artemis 10月8日報道：Agecroft Partners 的 Don Steinbrugge 指出，較高的短端利率為保險相連證券（ILS）提供額外回報來源，同時正重塑對沖基金行業的策略層面回報歸因。隨著宏觀動態改變哪些管理風格能交出相對表現，他強調一項投資回報的「底層來源」如今與回報本身同樣重要。 [EN原文]",
+        "tc": "Artemis 10月8日報道：Agecroft Partners 的 Don Steinbrugge 指出，較高的短端利率為保險相連證券（ILS）提供額外回報來源，同時正重塑對沖基金行業的策略層面回報歸因。隨著宏觀動態改變哪些管理風格能交出相對表現，他強調一項投資回報的「底層來源」如今與回報本身同樣重要。 [EN原文]"
+      },
+      "why": {
+        "sc": "抵押品收益率是 ILS 定價與資金吸引力的關鍵；短端利率高企讓 ILS 的「現金＋承保」雙重回報更具說服力，有助理解巨災債券息差走勢與機構資金流向。",
+        "tc": "抵押品收益率是 ILS 定價與資金吸引力的關鍵；短端利率高企讓 ILS 的「現金＋承保」雙重回報更具說服力，有助理解巨災債券息差走勢與機構資金流向。"
+      },
+      "source": {
+        "sc": "Artemis 2026-10-08 報道",
+        "tc": "Artemis 2026-10-08 報道",
+        "lang": "en",
+        "name": "Artemis",
+        "date": "2026-10-08",
+        "note": null
+      },
+      "actions": {
+        "front": {
+          "sc": "談及 ILS 只作市場資訊說明，不構成投資建議",
+          "tc": "談及 ILS 只作市場資訊說明，不構成投資建議"
+        },
+        "midback": {
+          "sc": "納入 ILS 與另類資產情報",
+          "tc": "納入 ILS 與另類資產情報"
+        },
+        "lead": {
+          "sc": "理解再保資本市場的資金成本邏輯",
+          "tc": "理解再保資本市場的資金成本邏輯"
+        },
+        "cross": {
+          "sc": "機構資金跨市場配置趨勢",
+          "tc": "機構資金跨市場配置趨勢"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 3,
+        "lead": 2,
+        "cross": 2
+      },
+      "tags": {
+        "sc": [
+          "ILS",
+          "巨災債券",
+          "對沖基金",
+          "利率"
+        ],
+        "tc": [
+          "ILS",
+          "巨災債券",
+          "對沖基金",
+          "利率"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站導讀",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-10-08T18:08:00+08:00"
+    },
+    {
+      "id": "artemis-hurricane-isaias-cat2-loss-forecast-20261008",
+      "clusterCount": 1,
+      "score": 68,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "artemis",
+      "contentKind": "news",
+      "publishedAt": "2026-10-08T14:51:00+08:00",
+      "originalUrl": "https://www.artemis.bm/news/hurricane-isaias-strengthens-cat-2-landfall-at-single-digit-billion-insured-loss-potential-forecast/",
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "catastrophe",
+        "hurricane",
+        "reinsurance",
+        "insured-loss"
+      ],
+      "title": {
+        "sc": "Artemis：颶風 Isaias 增強 料以二級颶風登陸墨西哥灣 保險損失料為「單位數十億美元」",
+        "tc": "Artemis：颶風 Isaias 增強 料以二級颶風登陸墨西哥灣 保險損失料為「單位數十億美元」"
+      },
+      "summary": {
+        "sc": "Artemis 10月8日報道：Isaias 已成為2026年大西洋颶風季首個颶風，一夜間增強，預測仍指向可能在墨西哥灣沿岸以二級颶風登陸。再保經紀 Gallagher Re 表示，若以該強度登陸，通常會造成低至中單位數十億美元（low to mid single-digit billions）的保險損失。 [EN原文]",
+        "tc": "Artemis 10月8日報道：Isaias 已成為2026年大西洋颶風季首個颶風，一夜間增強，預測仍指向可能在墨西哥灣沿岸以二級颶風登陸。再保經紀 Gallagher Re 表示，若以該強度登陸，通常會造成低至中單位數十億美元（low to mid single-digit billions）的保險損失。 [EN原文]"
+      },
+      "why": {
+        "sc": "為10月7日「熱帶風暴 Isaias 形成」條目的後續發展：強度升級至二級並出現保險損失量級預估，是觀察本季巨災債券與再保市場會否觸發損失的首要個案。",
+        "tc": "為10月7日「熱帶風暴 Isaias 形成」條目的後續發展：強度升級至二級並出現保險損失量級預估，是觀察本季巨災債券與再保市場會否觸發損失的首要個案。"
+      },
+      "source": {
+        "sc": "Artemis 2026-10-08 報道",
+        "tc": "Artemis 2026-10-08 報道",
+        "lang": "en",
+        "name": "Artemis",
+        "date": "2026-10-08",
+        "note": null
+      },
+      "actions": {
+        "front": {
+          "sc": "巨災事件僅作市場動態說明，不評論個別保單",
+          "tc": "巨災事件僅作市場動態說明，不評論個別保單"
+        },
+        "midback": {
+          "sc": "納入巨災與再保市場情報",
+          "tc": "納入巨災與再保市場情報"
+        },
+        "lead": {
+          "sc": "說明巨災損失與再保／ILS 市場的傳導",
+          "tc": "說明巨災損失與再保／ILS 市場的傳導"
+        },
+        "cross": {
+          "sc": "氣候風險的跨境承保影響",
+          "tc": "氣候風險的跨境承保影響"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "tags": {
+        "sc": [
+          "颶風",
+          "巨災債券",
+          "再保險",
+          "Gallagher Re"
+        ],
+        "tc": [
+          "颶風",
+          "巨災債券",
+          "再保險",
+          "Gallagher Re"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站導讀",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-10-08T18:08:00+08:00"
+    },
+    {
+      "id": "iaan-ok-financial-yebyeol-insurance-kdic-20261008",
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "pending",
+      "sourceTier": "pro",
+      "sourceKey": "insuranceasianews",
+      "contentKind": "news",
+      "publishedAt": "2026-10-08",
+      "originalUrl": "https://insuranceasianews.com/south-koreas-ok-financial-signs-deal-to-acquire-yebyeol-insurance-from-kdic/",
+      "boards": [
+        "insurer",
+        "market"
+      ],
+      "themes": [
+        "m&a",
+        "korea",
+        "insolvency",
+        "life-insurance"
+      ],
+      "title": {
+        "sc": "韓國 OK Financial 與存款保險公社（KDIC）簽約 收購 Yebyeol 保險",
+        "tc": "韓國 OK Financial 與存款保險公社（KDIC）簽約 收購 Yebyeol 保險"
+      },
+      "summary": {
+        "sc": "InsuranceAsia News 10月8日報道：韓國 OK Financial Group 已與韓國存款保險公社（KDIC）簽署協議，收購 Yebyeol 保險（Yebyeol Insurance）。交易把一間由公營存款保險機構接管的保險公司轉入私營金融集團，屬韓國保險業處置與整併的一環。 [EN原文]",
+        "tc": "InsuranceAsia News 10月8日報道：韓國 OK Financial Group 已與韓國存款保險公社（KDIC）簽署協議，收購 Yebyeol 保險（Yebyeol Insurance）。交易把一間由公營存款保險機構接管的保險公司轉入私營金融集團，屬韓國保險業處置與整併的一環。 [EN原文]"
+      },
+      "why": {
+        "sc": "以公營保障基金處置問題保險公司、再轉售私營集團，是亞洲市場常見的穩定機制；個案有助理解區域保險併購與監管處置的節奏。",
+        "tc": "以公營保障基金處置問題保險公司、再轉售私營集團，是亞洲市場常見的穩定機制；個案有助理解區域保險併購與監管處置的節奏。"
+      },
+      "source": {
+        "sc": "InsuranceAsia News 2026-10-08 報道",
+        "tc": "InsuranceAsia News 2026-10-08 報道",
+        "lang": "en",
+        "name": "InsuranceAsia News",
+        "date": "2026-10-08",
+        "note": null
+      },
+      "actions": {
+        "front": {
+          "sc": "提及同業併購時聚焦對客戶保單權益的保障，不作推薦",
+          "tc": "提及同業併購時聚焦對客戶保單權益的保障，不作推薦"
+        },
+        "midback": {
+          "sc": "納入亞洲保險併購與監管處置情報",
+          "tc": "納入亞洲保險併購與監管處置情報"
+        },
+        "lead": {
+          "sc": "說明保險保障基金在市場穩定中的角色",
+          "tc": "說明保險保障基金在市場穩定中的角色"
+        },
+        "cross": {
+          "sc": "區域保險整併的跨境參照",
+          "tc": "區域保險整併的跨境參照"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "tags": {
+        "sc": [
+          "韓國",
+          "併購",
+          "KDIC",
+          "保險處置"
+        ],
+        "tc": [
+          "韓國",
+          "併購",
+          "KDIC",
+          "保險處置"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站導讀",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-10-08T18:08:00+08:00"
+    },
+    {
+      "id": "iaan-am-best-indonesia-non-life-stable-20261008",
+      "clusterCount": 1,
+      "score": 68,
+      "verifyStatus": "pending",
+      "sourceTier": "pro",
+      "sourceKey": "insuranceasianews",
+      "contentKind": "news",
+      "publishedAt": "2026-10-08",
+      "originalUrl": "https://insuranceasianews.com/am-best-maintains-stable-outlook-for-indonesia-non-life-sector/",
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "am-best",
+        "indonesia",
+        "non-life",
+        "outlook"
+      ],
+      "title": {
+        "sc": "AM Best 維持印尼非壽險業「穩定」展望 指經濟增長與資本強化支撐盈利",
+        "tc": "AM Best 維持印尼非壽險業「穩定」展望 指經濟增長與資本強化支撐盈利"
+      },
+      "summary": {
+        "sc": "InsuranceAsia News 10月8日報道：評級機構 AM Best 維持印尼非壽險業的穩定展望，指強勁的經濟增長與資本強化措施，支持行業的盈利能力。 [EN原文]",
+        "tc": "InsuranceAsia News 10月8日報道：評級機構 AM Best 維持印尼非壽險業的穩定展望，指強勁的經濟增長與資本強化措施，支持行業的盈利能力。 [EN原文]"
+      },
+      "why": {
+        "sc": "評級機構對新興市場非壽險業的展望，是理解區域承保周期與資金流向的基礎判斷，亦可與香港非壽險的承保表現作對照。",
+        "tc": "評級機構對新興市場非壽險業的展望，是理解區域承保周期與資金流向的基礎判斷，亦可與香港非壽險的承保表現作對照。"
+      },
+      "source": {
+        "sc": "InsuranceAsia News 2026-10-08 報道（引 AM Best）",
+        "tc": "InsuranceAsia News 2026-10-08 報道（引 AM Best）",
+        "lang": "en",
+        "name": "InsuranceAsia News",
+        "date": "2026-10-08",
+        "note": null
+      },
+      "actions": {
+        "front": {
+          "sc": "引用評級展望時註明機構與日期，不作銷售話術",
+          "tc": "引用評級展望時註明機構與日期，不作銷售話術"
+        },
+        "midback": {
+          "sc": "納入區域非壽險市場情報",
+          "tc": "納入區域非壽險市場情報"
+        },
+        "lead": {
+          "sc": "對照新興市場與香港的承保周期",
+          "tc": "對照新興市場與香港的承保周期"
+        },
+        "cross": {
+          "sc": "東南亞市場風險與機遇概覽",
+          "tc": "東南亞市場風險與機遇概覽"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 1,
+        "cross": 1
+      },
+      "tags": {
+        "sc": [
+          "AM Best",
+          "印尼",
+          "非壽險",
+          "評級展望"
+        ],
+        "tc": [
+          "AM Best",
+          "印尼",
+          "非壽險",
+          "評級展望"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站導讀",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-10-08T18:08:00+08:00"
+    },
+    {
+      "id": "iaan-meritz-korindo-stake-sale-denial-20261008",
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "pending",
+      "sourceTier": "pro",
+      "sourceKey": "insuranceasianews",
+      "contentKind": "news",
+      "publishedAt": "2026-10-08",
+      "originalUrl": "https://insuranceasianews.com/meritz-korindo-chief-denies-reports-of-stake-sale-by-meritz-fire-marine/",
+      "boards": [
+        "insurer",
+        "market"
+      ],
+      "themes": [
+        "m&a",
+        "indonesia",
+        "korea",
+        "joint-venture"
+      ],
+      "title": {
+        "sc": "Meritz Korindo 總裁否認 Meritz Fire & Marine 出售合營股權報導",
+        "tc": "Meritz Korindo 總裁否認 Meritz Fire & Marine 出售合營股權報導"
+      },
+      "summary": {
+        "sc": "InsuranceAsia News 10月8日報道：Meritz Korindo 總裁 Cha Hee Jun 向該社表示，這家韓國保險公司在印尼的合營公司並無計劃出售其股權，否認市場相關報導。 [EN原文]",
+        "tc": "InsuranceAsia News 10月8日報道：Meritz Korindo 總裁 Cha Hee Jun 向該社表示，這家韓國保險公司在印尼的合營公司並無計劃出售其股權，否認市場相關報導。 [EN原文]"
+      },
+      "why": {
+        "sc": "東南亞保險合營股權的市場傳言與澄清，反映韓資在印尼保險市場的布局態度，屬區域併購氛圍的觀察點。",
+        "tc": "東南亞保險合營股權的市場傳言與澄清，反映韓資在印尼保險市場的布局態度，屬區域併購氛圍的觀察點。"
+      },
+      "source": {
+        "sc": "InsuranceAsia News 2026-10-08 報道",
+        "tc": "InsuranceAsia News 2026-10-08 報道",
+        "lang": "en",
+        "name": "InsuranceAsia News",
+        "date": "2026-10-08",
+        "note": null
+      },
+      "actions": {
+        "front": {
+          "sc": "市場傳言未經證實前不作轉述",
+          "tc": "市場傳言未經證實前不作轉述"
+        },
+        "midback": {
+          "sc": "納入區域併購動態情報",
+          "tc": "納入區域併購動態情報"
+        },
+        "lead": {
+          "sc": "說明合營架構在跨境布局中的作用",
+          "tc": "說明合營架構在跨境布局中的作用"
+        },
+        "cross": {
+          "sc": "韓資在東南亞保險市場的滲透",
+          "tc": "韓資在東南亞保險市場的滲透"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 1,
+        "cross": 1
+      },
+      "tags": {
+        "sc": [
+          "印尼",
+          "韓國",
+          "合營",
+          "併購傳言"
+        ],
+        "tc": [
+          "印尼",
+          "韓國",
+          "合營",
+          "併購傳言"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站導讀",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-10-08T18:08:00+08:00"
+    },
+    {
+      "id": "iaan-iag-rac-accc-tribunal-review-20261008",
+      "clusterCount": 1,
+      "score": 62,
+      "verifyStatus": "pending",
+      "sourceTier": "pro",
+      "sourceKey": "insuranceasianews",
+      "contentKind": "news",
+      "publishedAt": "2026-10-08",
+      "originalUrl": "https://insuranceasianews.com/iag-rac-seek-tribunal-review-of-acccs-us940m-deal-block/",
+      "boards": [
+        "market",
+        "insurer"
+      ],
+      "themes": [
+        "m&a",
+        "australia",
+        "competition",
+        "regulator"
+      ],
+      "title": {
+        "sc": "IAG 與 RAC 就 ACCC 否決 9.4 億美元交易 向澳洲競爭審裁處申請覆核",
+        "tc": "IAG 與 RAC 就 ACCC 否決 9.4 億美元交易 向澳洲競爭審裁處申請覆核"
+      },
+      "summary": {
+        "sc": "InsuranceAsia News 10月8日報道：IAG 與 RAC 已分別向澳洲競爭審裁處（Australian Competition Tribunal）提出申請，要求覆核澳洲競爭及消費者委員會（ACCC）否決其 9.4 億美元交易的決定。 [EN原文]",
+        "tc": "InsuranceAsia News 10月8日報道：IAG 與 RAC 已分別向澳洲競爭審裁處（Australian Competition Tribunal）提出申請，要求覆核澳洲競爭及消費者委員會（ACCC）否決其 9.4 億美元交易的決定。 [EN原文]"
+      },
+      "why": {
+        "sc": "競爭監管機構否決保險併購後的上訴路徑，是亞太保險整併的重要制度參照，顯示交易能否落地愈來愈取決於競爭審查而非單純商業談判。",
+        "tc": "競爭監管機構否決保險併購後的上訴路徑，是亞太保險整併的重要制度參照，顯示交易能否落地愈來愈取決於競爭審查而非單純商業談判。"
+      },
+      "source": {
+        "sc": "InsuranceAsia News 2026-10-08 報道",
+        "tc": "InsuranceAsia News 2026-10-08 報道",
+        "lang": "en",
+        "name": "InsuranceAsia News",
+        "date": "2026-10-08",
+        "note": null
+      },
+      "actions": {
+        "front": {
+          "sc": "併購與監管程序僅作市場資訊說明",
+          "tc": "併購與監管程序僅作市場資訊說明"
+        },
+        "midback": {
+          "sc": "納入亞太保險併購與競爭審查情報",
+          "tc": "納入亞太保險併購與競爭審查情報"
+        },
+        "lead": {
+          "sc": "說明競爭審查對保險併購節奏的影響",
+          "tc": "說明競爭審查對保險併購節奏的影響"
+        },
+        "cross": {
+          "sc": "跨境併購的監管不確定性",
+          "tc": "跨境併購的監管不確定性"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "tags": {
+        "sc": [
+          "IAG",
+          "RAC",
+          "ACCC",
+          "併購審查"
+        ],
+        "tc": [
+          "IAG",
+          "RAC",
+          "ACCC",
+          "併購審查"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站導讀",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-10-08T18:08:00+08:00"
+    },
     {
       "clusterCount": 1,
       "score": 70,
@@ -97568,6 +98252,24 @@
   "digests": {
     "daily": [
       {
+        "key": "2026-10-08",
+        "label": {
+          "sc": "2026-10-08",
+          "tc": "2026-10-08"
+        },
+        "itemCount": 8,
+        "itemIds": [
+          "allianz-commercial-bi-claims-severity-20261008",
+          "hkma-silver-bond-4th-interest-4-00-20261008",
+          "artemis-ils-returns-short-term-rates-agecroft-20261008",
+          "artemis-hurricane-isaias-cat2-loss-forecast-20261008",
+          "iaan-ok-financial-yebyeol-insurance-kdic-20261008",
+          "iaan-am-best-indonesia-non-life-stable-20261008",
+          "iaan-meritz-korindo-stake-sale-denial-20261008",
+          "iaan-iag-rac-accc-tribunal-review-20261008"
+        ]
+      },
+      {
         "key": "2026-10-07",
         "label": {
           "sc": "2026-10-07",
@@ -105993,19 +106695,19 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 1225 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 1225 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 1233 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 1233 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 1225,
+      "totalItems": 1233,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 310,
+          "count": 311,
           "label": "监管一手"
         },
         {
           "tier": "insurer",
-          "count": 164,
+          "count": 165,
           "label": "保司公告"
         },
         {
@@ -106020,7 +106722,7 @@
         },
         {
           "tier": "pro",
-          "count": 270,
+          "count": 276,
           "label": "专业解读"
         },
         {
@@ -106103,14 +106805,14 @@
           "label": "监管"
         },
         {
+          "theme": "reinsurance",
+          "count": 110,
+          "label": "再保险"
+        },
+        {
           "theme": "product",
           "count": 110,
           "label": "产品"
-        },
-        {
-          "theme": "reinsurance",
-          "count": 109,
-          "label": "再保险"
         },
         {
           "theme": "firm",
@@ -106144,8 +106846,8 @@
         }
       ],
       "dateRange": {
-        "sc": "2013-03-05 ~ 2026-10-07",
-        "tc": "2013-03-05 ~ 2026-10-07"
+        "sc": "2013-03-05 ~ 2026-10-08",
+        "tc": "2013-03-05 ~ 2026-10-08"
       }
     },
     "marketData": {
