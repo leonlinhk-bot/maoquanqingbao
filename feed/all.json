@@ -1,9 +1,24 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-08T15:15:19Z",
-  "itemCount": 1254,
+  "generatedAt": "2026-10-08T16:30:48Z",
+  "itemCount": 1255,
   "items": [
+    {
+      "id": "artemis-usaa-residential-re-2026-2-225m-20261008",
+      "title": "Artemis：USAA 重返巨災債券市場 目標2.25億美元 Residential Re 2026-2（風季後144A市場重開）",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "catastrophe-bond",
+        "pricing",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-10-08T23:30:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-usaa-residential-re-2026-2-225m-20261008",
+      "originalUrl": "https://www.artemis.bm/news/usaa-returns-with-225m-target-residential-re-2026-2-multi-peril-catastrophe-bond/"
+    },
     {
       "id": "scmp-crash-for-cash-137m-55-arrests-20261007",
       "title": "南華早報：香港警方再拘17人 涉1.37億港元「撞車騙保」 累計55人被捕",
