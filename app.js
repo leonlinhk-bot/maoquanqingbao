@@ -497,11 +497,12 @@ function fmtDay(iso){
       <div class="card-time" title="${it.publishedAt||""}">${fmtCardTime(it)}</div>
       <div class="card-body">
         <h3 class="card-title">${esc(tx(it.title))}</h3>
-        <p class="card-sum">${esc(tx(it.summary))}</p>
+        <p class="card-sum">${esc(tx(it.summaryShort || it.summary))}</p>
         <div class="meta-row">
           <span class="badge badge-score">${it.score}</span>
           <span class="badge ${it.sourceTier}">${t.tier[it.sourceTier]||it.sourceTier}</span>
           <span class="badge verify-${it.verifyStatus}">${it.verifyStatus==='verified'?t.verified:t.pending}</span>
+          ${it.clusterCount > 1 ? `<span class="badge cluster-badge" title="${t.cluster||'源同题'}">${t.cluster||'源同题'} ${it.clusterCount}</span>` : ''}
           ${tags.slice(0,1)}
         </div>
       </div>
