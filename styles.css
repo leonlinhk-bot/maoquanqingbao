@@ -270,9 +270,24 @@ button,input{font:inherit;color:inherit}a{color:inherit;text-decoration:none}.ap
 .brand h1,.page-title h2,.taxon-name,.day-head h3{font-family:var(--font-serif)}
 
 /* 移动端优化 */
+/* 手机端卡片瘦身（2026-10-09 第一步）：桌面是三列 grid（时间 | 正文 | 星标+影响），
+   手机上 .card 变成单列后三行堆叠 → 实测 236px/张、一屏仅 3.4 张。
+   改为「时间 + 星标」同一行 + 正文独占下一行 → 实测 173px/张、一屏 4.8 张。
+   只用 CSS、桌面与平板完全不受影响（仅在 ≤640px 生效）。 */
+@media(max-width:640px){
+  .card{grid-template-columns:1fr auto;gap:6px 8px;padding:10px 12px}
+  .card-time{grid-column:1;grid-row:1;font-size:11px;padding-top:4px}
+  .card-side{grid-column:2;grid-row:1;flex-direction:row;align-items:center;gap:8px}
+  .card-body{grid-column:1 / -1;grid-row:2}
+  .star{width:30px;height:30px}
+  .meta-row{gap:4px;flex-wrap:wrap;margin-top:2px}
+  .card-title{font-size:15px;margin-bottom:4px}
+  .card-sum{margin-bottom:4px}
+}
+
 @media(max-width:480px){
   .content{padding:12px 10px 60px}
-  .card{grid-template-columns:1fr;gap:6px}
+  /* .card 的 grid 由上方 640px 块统一接管（否则这里的单列会覆盖掉「时间+星标」同行） */
   .card-time{font-size:11px}
   .card-title{font-size:14px}
   .search-box{min-width:100%}
