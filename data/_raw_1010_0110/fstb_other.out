@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="zh-hk">
+ <head>
+  <meta charset="utf-8"/>
+  <title>財經事務及庫務局 (財經事務科) : 其他事項</title>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="" name="keywords"/>
+  <meta content="" name="description"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <link href="/favicon.png" rel="shortcut icon"/>
+  <link href="/favicon.ico" rel="icon"/>
+  <meta content="website" property="og:type"/>
+  <meta content="/favicon.png" property="og:image"/>
+  <!-- Bootstrap -->
+  <link href="../../../common/index/css/bootstrap.css" id="styleSheet0" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="../../../common/index/css/bsplus.css" id="styleSheet1" media="all" rel="stylesheet" type="text/css"/>
+  <link href="../../../common/index/css/default.css" id="styleSheet2" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="../../../common/index/css/layout.css" id="styleSheet3" media="all" rel="stylesheet" type="text/css"/>
+  <link href="../../../common/index/css/flexslider.css" media="all" rel="stylesheet" type="text/css"/>
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+    <script src="../../../common/index/js/html5shiv.js"></script>
+    <script src="../../../common/index/js/respond.min.js"></script>
+    <![endif]-->
+  <script src="../../../common/index/js/jquery.min.js">
+  </script>
+  <script src="../../../common/index/js/jquery-ui.min.js">
+  </script>
+  <script src="../../../common/index/js/jquery.cookie.js">
+  </script>
+  <script src="../../../common/index/js/jquery.easing.js">
+  </script>
+  <script src="../../../common/index/js/jquery.flexslider.js">
+  </script>
+  <script src="../../../js/data/en_top_menu.js">
+  </script>
+  <script src="../../../js/data/tc_top_menu.js">
+  </script>
+  <script src="../../../js/data/sc_top_menu.js">
+  </script>
+  <script src="../../../common/index/js/menu.js">
+  </script>
+  <script src="../../../common/index/js/bootstrap.js">
+  </script>
+  <script src="../../../common/index/js/function.js">
+  </script>
+  <script type="text/javascript">var menu_id = '752';
+var section_id = '';
+	</script>
+ </head>
+ <body id="page_bg">
+  <div id="skipwrapper"><a id="top"></a><a class="access" href="#mainContentSkip" id="skiptocontent">Skip to content</a></div>
+  <div id="wrap">
+   <div class="headerArea" id="header">
+    <script>createHeader();</script>
+   </div>
+   <div class="bodyArea" id="body">
+    <div class="mainbanner">
+    </div>
+    <div class="content_bg">
+     <div class="container">
+      <script>pageTop();</script>
+      <div class="mainHeader">
+      </div>
+      <div class="contentArea">
+       <div class="breadcrumb">
+       </div> <a id="mainContentSkip"></a><div class="mainContent" id="mainContent">
+        <!--Begin Content-->
+        <h1>其他事項</h1>
+        <div class="border_blank">
+         <ul>
+          <li>美國《海外帳戶稅收合規法案》</li>
+		  <ul>
+		   <li><a href="doc/HK-USIGA.pdf">《跨政府協議》(只有英文版本)</a></li>
+		   <li><a href="doc/fatca-faq2_c.pdf">常見問題</a><br class="auto-style5"/></li>
+		  </ul>
+		  <li><a href="https://www.tid.gov.hk/tc_chi/cepa/tradeservices/securities.html" target="_top">香港證券及期貨公司進入內地市場的資訊</a></li>
+		  <ul>
+		  </ul>
+		   <li>強制性汽車及僱員補償保險保障範圍擴展至皇崗口岸港方口岸區</li>
+		   <ul>
+		    <li><a href="../../../en/business/other_matters/doc/marketAgreement.pdf">市場協議 (只提供英文版本)</a></li>
+		    <li><a href="../../../en/business/other_matters/doc/ListOfInsurers.pdf">已簽訂協議的保險公司名單</a></li>
+		    <li><a href="../../../tc/business/other_matters/doc/MandatoryInsuranceCoverageOnMotorAndEmployeesTc.pdf">新聞公報</a></li>
+		   </ul>
+         </ul>
+        </div>
+        <!--End Content-->
+       </div>
+      </div>
+     </div>
+    </div>
+    <script>var last_revision_date = '2026年10月9日';</script><script>pageBottom();</script>
+   </div>
+   <div class="footerArea" id="footer">
+    <script>createFooter();</script>
+   </div>
+  </div>
+ </body>
+</html>

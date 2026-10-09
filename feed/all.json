@@ -1,9 +1,459 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-08T18:21:20Z",
-  "itemCount": 1255,
+  "generatedAt": "2026-10-09T17:12:55Z",
+  "itemCount": 1285,
   "items": [
+    {
+      "id": "ibm-thailand-disaster-insurance-scheme-100000-baht-20261010",
+      "title": "Insurance Business：泰國推災害保險計劃 每戶賠償上限10萬泰銖 風災地震定額5,000泰銖",
+      "sourceTier": "pro",
+      "themes": [
+        "disaster-insurance",
+        "protection-gap",
+        "climate-risk",
+        "thailand"
+      ],
+      "publishedAt": "2026-10-10T00:06:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-thailand-disaster-insurance-scheme-100000-baht-20261010",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/catastrophe/thailands-new-disaster-insurance-scheme-caps-household-payouts-at-100000-baht-593034.aspx"
+    },
+    {
+      "id": "artemis-nepal-world-bank-quake-catbond-mandate-20261009",
+      "title": "Artemis：尼泊爾政府批准與世界銀行簽署地震巨災債券授權協議",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "catastrophe-bond",
+        "parametric",
+        "sovereign-risk"
+      ],
+      "publishedAt": "2026-10-09T22:17:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-nepal-world-bank-quake-catbond-mandate-20261009",
+      "originalUrl": "https://www.artemis.bm/news/nepal-government-approves-world-bank-earthquake-cat-bond-mandate-agreement/"
+    },
+    {
+      "id": "ibm-insurance-moves-manulife-prudential-20261009",
+      "title": "Insurance Business：宏利升任香港科技主管為亞洲資訊總監 保誠新加坡連環高層任命",
+      "sourceTier": "pro",
+      "themes": [
+        "people",
+        "leadership",
+        "technology",
+        "apac"
+      ],
+      "publishedAt": "2026-10-09T22:13:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-insurance-moves-manulife-prudential-20261009",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/insurance-moves-manulife-prudential-593011.aspx"
+    },
+    {
+      "id": "scmp-kk-one-stanley-six-year-structural-warranty-20261009",
+      "title": "南華早報：K&K向One Stanley業主提供六年結構保養 圖平息施工爭議",
+      "sourceTier": "media",
+      "themes": [
+        "property-risk",
+        "warranty",
+        "construction",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-10-09T21:50:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-kk-one-stanley-six-year-structural-warranty-20261009",
+      "originalUrl": "https://www.scmp.com/business/article/3370397/kk-offers-extra-warranty-one-stanley-homebuyers-amid-building-defects-furore"
+    },
+    {
+      "id": "artemis-hurricane-simon-mexico-catbond-focus-20261009",
+      "title": "Artemis：颶風Simon快速增強 墨西哥參數式巨災債券再度受關注",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "catastrophe-bond",
+        "parametric",
+        "natural-catastrophe"
+      ],
+      "publishedAt": "2026-10-09T20:02:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-hurricane-simon-mexico-catbond-focus-20261009",
+      "originalUrl": "https://www.artemis.bm/news/hurricane-simon-rapidly-intensifying-bringing-mexico-catastrophe-bond-back-into-focus/"
+    },
+    {
+      "id": "ian-huanggang-port-motor-ec-market-agreement-20261009",
+      "title": "InsuranceAsia News：港府與45間保險公司達成市場協議 皇崗口岸強制車險與僱員補償保障零額外保費延伸",
+      "sourceTier": "pro",
+      "themes": [
+        "motor-insurance",
+        "employees-compensation",
+        "cross-border",
+        "media-coverage"
+      ],
+      "publishedAt": "2026-10-09T18:08:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-huanggang-port-motor-ec-market-agreement-20261009",
+      "originalUrl": "https://insuranceasianews.com/insurers-to-extend-mandatory-motorm-employees-compensation-cover-to-huanggang-port-area-at-no-extra-cost/"
+    },
+    {
+      "id": "scmp-sfc-liquidity-reforms-20261009",
+      "title": "南華早報：證監會再推市場流動性改革 延長交易時段、縮短結算週期入列",
+      "sourceTier": "media",
+      "themes": [
+        "market-liquidity",
+        "sfc",
+        "settlement",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-10-09T18:01:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-sfc-liquidity-reforms-20261009",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3370363/hong-kong-outlines-new-liquidity-reforms-us-market-rally-pulls-funds-away"
+    },
+    {
+      "id": "ian-tt-club-uk-pi-club-merger-unified-transport-mutual-20261009",
+      "title": "InsuranceAsia News：TT Club與UK P&I Club會員通過合併 組成首個覆蓋全貨運供應鏈的運輸互保",
+      "sourceTier": "pro",
+      "themes": [
+        "marine",
+        "p-and-i",
+        "merger",
+        "mutual"
+      ],
+      "publishedAt": "2026-10-09T17:07:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-tt-club-uk-pi-club-merger-unified-transport-mutual-20261009",
+      "originalUrl": "https://insuranceasianews.com/tt-club-and-uk-pi-club-members-vote-to-merge-creating-unified-transport-mutual/"
+    },
+    {
+      "id": "ian-apac-insurance-people-moves-13-20261009",
+      "title": "InsuranceAsia News：本週亞太保險業13宗人事變動 涉Marsh、Axa XL、Great Eastern、Lockton等",
+      "sourceTier": "pro",
+      "themes": [
+        "people",
+        "apac",
+        "distribution",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-10-09T17:00:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-apac-insurance-people-moves-13-20261009",
+      "originalUrl": "https://insuranceasianews.com/bajaj-finserv-everest-aviso-lockton-swiss-re-corso-13-apac-insurance-people-moves-of-the-week/"
+    },
+    {
+      "id": "hkma-gb-issuance-schedule-primary-dealers-20261009",
+      "title": "金管局公布2026年10月至2027年3月機構政府債券暫定發行時間表 並委任第一市場交易商",
+      "sourceTier": "official",
+      "themes": [
+        "government-bond",
+        "infrastructure-bond",
+        "sustainable-finance",
+        "hkd-rmb"
+      ],
+      "publishedAt": "2026-10-09T16:30:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-gb-issuance-schedule-primary-dealers-20261009",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261009-3/"
+    },
+    {
+      "id": "artemis-hannover-re-acorn-re-2026-1-200m-20261009",
+      "title": "Artemis：漢諾威再保險發行第七宗Acorn Re 目標2億美元美國參數式地震巨災債券",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "catastrophe-bond",
+        "earthquake",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-10-09T15:55:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-hannover-re-acorn-re-2026-1-200m-20261009",
+      "originalUrl": "https://www.artemis.bm/news/hannover-re-targets-200m-seventh-acorn-re-parametric-us-earthquake-cat-bond/"
+    },
+    {
+      "id": "ian-ferma-black-swans-risk-managers-insurers-20261009",
+      "title": "InsuranceAsia News：Ferma論壇風險經理批保險業追不上「黑天鵝群」 促產品與回應提速",
+      "sourceTier": "pro",
+      "themes": [
+        "risk-management",
+        "cedents",
+        "product-innovation",
+        "cyber"
+      ],
+      "publishedAt": "2026-10-09T15:30:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-ferma-black-swans-risk-managers-insurers-20261009",
+      "originalUrl": "https://insuranceasianews.com/insurers-urged-to-step-up-as-risk-managers-confront-flock-of-black-swans/"
+    },
+    {
+      "id": "artemis-hurricane-isaias-cat3-insured-losses-20261009",
+      "title": "Artemis：颶風Isaias料增強至三級後減弱 承保損失仍可能達數十億美元量級",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "natural-catastrophe",
+        "insured-losses",
+        "pricing"
+      ],
+      "publishedAt": "2026-10-09T14:40:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-hurricane-isaias-cat3-insured-losses-20261009",
+      "originalUrl": "https://www.artemis.bm/news/hurricane-isaias-forecast-to-hit-cat-3-then-weaken-single-digit-billion-insured-losses-still-likely/"
+    },
+    {
+      "id": "govhk-huanggang-port-motor-ec-cover-45-insurers-20261009",
+      "title": "政府與45間保險公司簽署市場協議 強制汽車及僱員補償保險保障伸延至皇崗口岸港方口岸區（10月12日開通）",
+      "sourceTier": "official",
+      "themes": [
+        "motor-insurance",
+        "employees-compensation",
+        "cross-border",
+        "greater-bay-area"
+      ],
+      "publishedAt": "2026-10-09T14:30:00+08:00",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=govhk-huanggang-port-motor-ec-cover-45-insurers-20261009",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202610/09/P2026100900296.htm"
+    },
+    {
+      "id": "artemis-conning-us-life-settlement-market-2035-20261009",
+      "title": "Artemis：Conning預測美國人壽保單貼現市場將擴張至2035年",
+      "sourceTier": "pro",
+      "themes": [
+        "longevity",
+        "life-settlement",
+        "alternative-assets",
+        "ils"
+      ],
+      "publishedAt": "2026-10-09T13:30:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-conning-us-life-settlement-market-2035-20261009",
+      "originalUrl": "https://www.artemis.bm/news/conning-forecasts-long-term-expansion-for-us-life-settlement-market-through-2035/"
+    },
+    {
+      "id": "ian-thailand-insured-flood-losses-297-327m-oic-20261009",
+      "title": "InsuranceAsia News：泰國2026年承保水浸損失累計2.97億至3.27億美元",
+      "sourceTier": "pro",
+      "themes": [
+        "flood",
+        "catastrophe",
+        "sublimit",
+        "thailand"
+      ],
+      "publishedAt": "2026-10-09T12:27:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-thailand-insured-flood-losses-297-327m-oic-20261009",
+      "originalUrl": "https://insuranceasianews.com/thailands-insured-flood-losses-to-date-in-2026-at-us297-327m-oic/"
+    },
+    {
+      "id": "scmp-prediction-markets-asia-regulatory-clarity-20261009",
+      "title": "南華早報：亞洲預測市場業界爭取監管清晰 力圖與賭博劃清界線",
+      "sourceTier": "media",
+      "themes": [
+        "regulation",
+        "fintech",
+        "prediction-market",
+        "asia"
+      ],
+      "publishedAt": "2026-10-09T09:00:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-prediction-markets-asia-regulatory-clarity-20261009",
+      "originalUrl": "https://www.scmp.com/business/markets/article/3370249/finance-or-gambling-prediction-market-players-push-regulatory-clarity-asia"
+    },
+    {
+      "id": "ian-tuvalu-13th-member-pcric-cyclone-cover-20261009",
+      "title": "InsuranceAsia News：圖瓦盧成為太平洋巨災風險保險公司第13個成員國 取得氣旋保障",
+      "sourceTier": "pro",
+      "themes": [
+        "parametric",
+        "climate-risk",
+        "sovereign-risk-pool",
+        "pacific"
+      ],
+      "publishedAt": "2026-10-09T07:55:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-tuvalu-13th-member-pcric-cyclone-cover-20261009",
+      "originalUrl": "https://insuranceasianews.com/tuvalu-becomes-13th-member-of-pcric-securing-cyclone-coverage/"
+    },
+    {
+      "id": "scmp-central-retail-shop-bought-by-swiss-heir-20261009",
+      "title": "南華早報：瑞士家族繼承人購中環商舖 本地發展商持貨55年後易手",
+      "sourceTier": "media",
+      "themes": [
+        "family-office",
+        "property",
+        "hnw",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-10-09T07:00:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-central-retail-shop-bought-by-swiss-heir-20261009",
+      "originalUrl": "https://www.scmp.com/property/article/3370181/central-retail-shop-bought-swiss-heir-rare-hong-kong-market-move"
+    },
+    {
+      "id": "iaasia-south-korea-life-solvency-gaps-20261009",
+      "title": "Insurance Asia：南韓壽險業K-ICS比率表面平穩 個別公司資本差距擴大至138%–396%",
+      "sourceTier": "pro",
+      "themes": [
+        "solvency",
+        "k-ics",
+        "life-insurance",
+        "capital"
+      ],
+      "publishedAt": "2026-10-09T06:30:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-south-korea-life-solvency-gaps-20261009",
+      "originalUrl": "https://insuranceasia.com/insurance/news/south-korea-life-insurers-face-widening-solvency-gaps"
+    },
+    {
+      "id": "iaasia-aia-chi-longevity-hk-longevity-centre-20261009",
+      "title": "Insurance Asia：友邦伙新加坡Chi Longevity 年內在港設長壽中心服務高淨值客戶",
+      "sourceTier": "pro",
+      "themes": [
+        "hnw",
+        "longevity",
+        "health",
+        "ecosystem"
+      ],
+      "publishedAt": "2026-10-09T06:15:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-aia-chi-longevity-hk-longevity-centre-20261009",
+      "originalUrl": "https://insuranceasia.com/insurance/news/aia-and-chi-longevity-tackle-wealthy-clients-ageing-concerns"
+    },
+    {
+      "id": "iaasia-allianz-business-interruption-claims-70pc-20261009",
+      "title": "Insurance Asia／安聯商業：營業中斷平均索賠金額比財產損毀高約70%",
+      "sourceTier": "pro",
+      "themes": [
+        "business-interruption",
+        "commercial-insurance",
+        "claims",
+        "underinsurance"
+      ],
+      "publishedAt": "2026-10-09T06:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-allianz-business-interruption-claims-70pc-20261009",
+      "originalUrl": "https://insuranceasia.com/insurance/news/business-interruption-claims-outstrip-property-losses-70"
+    },
+    {
+      "id": "iaasia-generali-undp-india-msme-insurance-challenge-20261009",
+      "title": "Insurance Asia：Generali與聯合國開發計劃署辦印度微中小企保險創新挑戰",
+      "sourceTier": "pro",
+      "themes": [
+        "msme",
+        "protection-gap",
+        "insurtech",
+        "distribution"
+      ],
+      "publishedAt": "2026-10-09T05:45:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-generali-undp-india-msme-insurance-challenge-20261009",
+      "originalUrl": "https://insuranceasia.com/insurance/news/generali-and-undp-target-indias-msme-insurance-gap"
+    },
+    {
+      "id": "iaasia-singlife-nhg-health-digestive-care-20261009",
+      "title": "Insurance Asia：Singlife夥NHG Health 整合新加坡三間公立醫院消化道專科網絡",
+      "sourceTier": "pro",
+      "themes": [
+        "health-insurance",
+        "provider-network",
+        "claims",
+        "value-based-care"
+      ],
+      "publishedAt": "2026-10-09T05:30:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-singlife-nhg-health-digestive-care-20261009",
+      "originalUrl": "https://insuranceasia.com/insurance/news/singlife-nhg-health-target-high-volume-digestive-claims"
+    },
+    {
+      "id": "iaasia-ctf-life-hkmca-retirement-collaboration-20261009",
+      "title": "Insurance Asia：周大福人壽夥香港年金公司 合推退休規劃與公眾教育",
+      "sourceTier": "pro",
+      "themes": [
+        "retirement",
+        "annuity",
+        "longevity",
+        "public-private"
+      ],
+      "publishedAt": "2026-10-09T05:15:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-ctf-life-hkmca-retirement-collaboration-20261009",
+      "originalUrl": "https://insuranceasia.com/insurance/news/ctf-life-hkmca-team-tackle-retirement-risks"
+    },
+    {
+      "id": "iaasia-india-china-premium-growth-swiss-re-20261009",
+      "title": "Insurance Asia專訪：印度保費增速將超中國 但中國市場規模仍為六倍",
+      "sourceTier": "pro",
+      "themes": [
+        "market-size",
+        "growth",
+        "india",
+        "china"
+      ],
+      "publishedAt": "2026-10-09T05:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-india-china-premium-growth-swiss-re-20261009",
+      "originalUrl": "https://insuranceasia.com/insurance/exclusive/market-face-off-which-market-offers-bigger-long-term-insurance-prize"
+    },
+    {
+      "id": "ibm-singapore-mas-ai-governance-guidelines-2027-20261009",
+      "title": "Insurance Business：新加坡金管局AI管治指引2027年10月生效 中介須盤點AI用例並承擔第三方模型責任",
+      "sourceTier": "pro",
+      "themes": [
+        "ai-governance",
+        "third-party-risk",
+        "mas",
+        "brokers"
+      ],
+      "publishedAt": "2026-10-09T01:14:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-singapore-mas-ai-governance-guidelines-2027-20261009",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/singapores-ai-governance-rules-what-brokers-and-insurers-must-know-before-2027-592870.aspx"
+    },
+    {
+      "id": "ibm-hk-crossborder-adas-pay-first-recover-later-20261009",
+      "title": "Insurance Business：跨境司機使用未經批准駕駛輔助系統 香港保險公司仍須先賠付第三方再追償",
+      "sourceTier": "pro",
+      "themes": [
+        "motor-insurance",
+        "adas",
+        "cross-border",
+        "claims-recovery"
+      ],
+      "publishedAt": "2026-10-09T00:39:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-hk-crossborder-adas-pay-first-recover-later-20261009",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/auto-motor/hong-kong-insurers-must-pay-first-when-crossborder-drivers-use-unapproved-driverassist-systems-592867.aspx"
+    },
+    {
+      "id": "fstb-huanggang-market-agreement-insurer-list-20261009",
+      "title": "財庫局專頁上載皇崗口岸強制保險市場協議全文及已簽約保險公司名單",
+      "sourceTier": "official",
+      "themes": [
+        "motor-insurance",
+        "employees-compensation",
+        "cross-border",
+        "disclosure"
+      ],
+      "publishedAt": "2026-10-09",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fstb-huanggang-market-agreement-insurer-list-20261009",
+      "originalUrl": "https://www.fstb.gov.hk/fsb/tc/business/other_matters/index.html"
+    },
+    {
+      "id": "aia-yuet-yuet-annuity-launch-20261009",
+      "title": "友邦香港推出「優悅年金保險計劃」 首創「自主樂齡健康服務」結合終身保證入息",
+      "sourceTier": "insurer",
+      "themes": [
+        "annuity",
+        "retirement",
+        "longevity",
+        "health-service"
+      ],
+      "publishedAt": "2026-10-09",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-yuet-yuet-annuity-launch-20261009",
+      "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2026/aia-press-release-20261009"
+    },
     {
       "id": "artemis-usaa-residential-re-2026-2-225m-20261008",
       "title": "Artemis：USAA 重返巨災債券市場 目標2.25億美元 Residential Re 2026-2（風季後144A市場重開）",
