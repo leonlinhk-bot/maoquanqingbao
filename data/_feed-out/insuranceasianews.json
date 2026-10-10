@@ -1,10 +1,10 @@
 {
  "source": "insuranceasianews",
  "source_label": "InsuranceAsia News · 香港",
- "fetched_at": "2026-10-09T18:08:43.518632+08:00",
+ "fetched_at": "2026-10-11T00:00:29.732514+08:00",
  "feed_url": "https://insuranceasianews.com/country/hong-kong/feed/",
  "feed_window": 10,
- "entries_fingerprint": "sha256:421770ecbb51af3f18819b14ca3bc2f5",
+ "entries_fingerprint": "sha256:1530626ff0f8eacfb533fb4d137e0151",
  "new_count": 0,
  "filtered_out": 0,
  "items": []

@@ -1,10 +1,10 @@
 {
  "source": "artemis",
  "source_label": "Artemis",
- "fetched_at": "2026-10-09T12:00:59.468152+08:00",
+ "fetched_at": "2026-10-11T00:00:36.562180+08:00",
  "feed_url": "https://artemis.bm/feed/",
  "feed_window": 10,
- "entries_fingerprint": "sha256:c48a435ef160e6a0ee04f7e5c30eab8e",
+ "entries_fingerprint": "sha256:b5528e8a295766cafd22a5d23f53a76a",
  "new_count": 0,
  "filtered_out": 0,
  "items": []

@@ -1,9 +1,116 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-09T17:12:55Z",
-  "itemCount": 1285,
+  "generatedAt": "2026-10-10T16:27:58Z",
+  "itemCount": 1292,
   "items": [
+    {
+      "id": "theblock-meanwhile-bitcoin-life-insurer-37-5m-lioner-hk-20261009",
+      "title": "The Block：比特幣人壽保險公司Meanwhile融資3,750萬美元 已簽15家經紀夥伴（含香港Lioner）",
+      "sourceTier": "media",
+      "themes": [
+        "insurtech",
+        "digital-asset",
+        "high-net-worth",
+        "funding"
+      ],
+      "publishedAt": "2026-10-09T18:33:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=theblock-meanwhile-bitcoin-life-insurer-37-5m-lioner-hk-20261009",
+      "originalUrl": "https://www.theblock.co/news/deals/2026-10-09-sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-37-5-million-round-led-by-bain-capital-crypto-418131"
+    },
+    {
+      "id": "scmp-gen-z-art-collectors-ubs-artbasel-survey-20261010",
+      "title": "南華早報：Z世代超越年長藏家成藝術市場最大買家 中港仍為關鍵樞紐（Art Basel／UBS調查）",
+      "sourceTier": "media",
+      "themes": [
+        "wealth-transfer",
+        "uhnw",
+        "alternative-assets",
+        "art"
+      ],
+      "publishedAt": "2026-10-10T14:00:00+08:00",
+      "score": 56,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-gen-z-art-collectors-ubs-artbasel-survey-20261010",
+      "originalUrl": "https://www.scmp.com/business/article/3370329/gen-z-overtakes-older-collectors-art-market-spending-rebounds-globally-report"
+    },
+    {
+      "id": "scmp-crypto-wrench-attacks-protection-gap-20261010",
+      "title": "南華早報評論：加密貨幣「扳手攻擊」激增 業界須為持有人人身安全提供保護",
+      "sourceTier": "media",
+      "themes": [
+        "crypto",
+        "protection-gap",
+        "high-net-worth",
+        "cyber"
+      ],
+      "publishedAt": "2026-10-10T16:30:00+08:00",
+      "score": 58,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-crypto-wrench-attacks-protection-gap-20261010",
+      "originalUrl": "https://www.scmp.com/opinion/world-opinion/article/3370088/better-protection-needed-violent-cryptocurrency-robberies-surge"
+    },
+    {
+      "id": "artemis-hurricane-simon-cat4-mexico-catbond-trigger-20261010",
+      "title": "Artemis：颶風Simon增強至四級 墨西哥1.75億美元參數式巨災債券逼近觸發（932mb或觸發25%賠付）",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "catastrophe-bond",
+        "parametric",
+        "natural-catastrophe"
+      ],
+      "publishedAt": "2026-10-10T16:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-hurricane-simon-cat4-mexico-catbond-trigger-20261010",
+      "originalUrl": "https://www.artemis.bm/news/hurricane-simon-intensify-mexico-catastrophe-bond-watch/"
+    },
+    {
+      "id": "ian-australia-high-court-scope3-mount-pleasant-apac-weekly-20261010",
+      "title": "InsuranceAsia News：澳洲高院裁定環評須計入Scope 3排放（Mount Pleasant煤礦擴建被否）",
+      "sourceTier": "media",
+      "themes": [
+        "climate",
+        "litigation",
+        "scope-3",
+        "natcat",
+        "ils"
+      ],
+      "publishedAt": "2026-10-10T08:00:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-australia-high-court-scope3-mount-pleasant-apac-weekly-20261010",
+      "originalUrl": "https://insuranceasianews.com/australias-coal-industry-faces-climate-reckoning/"
+    },
+    {
+      "id": "iaasia-week-in-insurance-sg-family-office-tax-list-beazley-manulife-20261010",
+      "title": "Insurance Asia 週報：新加坡檢討家辦稅務投資清單（擬納數位支付代幣及保單） 蘇黎世完成收購Beazley 宏利32億美元長護再保交割",
+      "sourceTier": "media",
+      "themes": [
+        "family-office",
+        "tax",
+        "m&a",
+        "reinsurance",
+        "long-term-care"
+      ],
+      "publishedAt": "2026-10-10T05:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-week-in-insurance-sg-family-office-tax-list-beazley-manulife-20261010",
+      "originalUrl": "https://insuranceasia.com/insurance/news/week-in-insurance-zurich-completes-beazley-deal-manulife-reinsures-32b-in-reserves-singapore-reviews-tax-rules"
+    },
+    {
+      "id": "ibm-singapore-ci-definitions-disease-severity-legacy-policies-20261010",
+      "title": "Insurance Business：新加坡危疾定義擬轉向「疾病嚴重程度」 2025年10月前舊保單不受影響 顧問須主動檢視",
+      "sourceTier": "media",
+      "themes": [
+        "critical-illness",
+        "product-design",
+        "regulation",
+        "policy-review"
+      ],
+      "publishedAt": "2026-10-10T02:13:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-singapore-ci-definitions-disease-severity-legacy-policies-20261010",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/singapores-ci-definitions-are-moving-toward-disease--legacy-policies-arent-593043.aspx"
+    },
     {
       "id": "ibm-thailand-disaster-insurance-scheme-100000-baht-20261010",
       "title": "Insurance Business：泰國推災害保險計劃 每戶賠償上限10萬泰銖 風災地震定額5,000泰銖",
