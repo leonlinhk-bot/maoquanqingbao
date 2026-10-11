@@ -1,9 +1,66 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-11T10:14:49Z",
-  "itemCount": 1297,
+  "generatedAt": "2026-10-11T13:14:17Z",
+  "itemCount": 1301,
   "items": [
+    {
+      "id": "chosunbiz-korea-life-insurers-cyber-staff-ratio-lowest-20261011",
+      "title": "朝鮮日報：韓國三大壽險專職資訊保安人手佔IT團隊僅6.8%　為主要金融板塊最低（教保人壽6.16%墊底）",
+      "sourceTier": "media",
+      "themes": [
+        "cyber",
+        "tech",
+        "firm"
+      ],
+      "publishedAt": "2026-10-11",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=chosunbiz-korea-life-insurers-cyber-staff-ratio-lowest-20261011",
+      "originalUrl": "https://biz.chosun.com/en/en-finance/2026/10/11/J4CSTPQXHFDJDGRGNNKC2CZ6NY"
+    },
+    {
+      "id": "scmp-nsd-arrest-licensed-insurance-broker-yellowinsurance-20261008",
+      "title": "南華早報：國安處拘兩人、包括一名持牌保險經紀　涉營運「YellowInsurance」社交媒體平台發布煽動帖文並藉此招攬客戶",
+      "sourceTier": "media",
+      "themes": [
+        "compliance",
+        "channel",
+        "reg"
+      ],
+      "publishedAt": "2026-10-08",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-nsd-arrest-licensed-insurance-broker-yellowinsurance-20261008",
+      "originalUrl": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370185/national-security-police-arrest-2-over-alleged-seditious-social-media-posts"
+    },
+    {
+      "id": "govhk-huanggang-port-opening-ceremony-cover-extended-20261011",
+      "title": "政府：皇崗口岸10月12日上午6時30分正式開通　行政長官今日主持開通儀式（強制汽車及僱員補償保險保障已延伸至港方口岸區）",
+      "sourceTier": "official",
+      "themes": [
+        "cross-border",
+        "reg",
+        "market"
+      ],
+      "publishedAt": "2026-10-11T15:20:00+08:00",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=govhk-huanggang-port-opening-ceremony-cover-extended-20261011",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202610/11/P2026101100370.htm"
+    },
+    {
+      "id": "artemis-hurricane-simon-mexico-catbond-landfall-update-20261011",
+      "title": "Artemis：颶風Simon逼近墨西哥登陸　1.75億美元參數式巨災債券觸發與否懸而未決（09:00 UTC 930mb / 12:00 UTC 933mb）",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "catastrophe-bond",
+        "parametric",
+        "natural-catastrophe"
+      ],
+      "publishedAt": "2026-10-11T16:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-hurricane-simon-mexico-catbond-landfall-update-20261011",
+      "originalUrl": "https://www.artemis.bm/news/hurricane-simon-forecast-landfall-major-mexico-catastrophe-bond-risk/"
+    },
     {
       "id": "iaasia-markel-energy-underwriter-relocates-singapore-20261010",
       "title": "Insurance Asia：Markel把可持續能源及電力核保人由倫敦調駐新加坡",

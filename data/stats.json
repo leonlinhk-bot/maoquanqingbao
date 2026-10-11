@@ -630,14 +630,14 @@
       "tc": "情報密度"
     },
     "subtitle": {
-      "sc": "自动从 1297 条资讯聚合 · sourceKey 标准化完成",
-      "tc": "自動從 1297 條資訊聚合 · sourceKey 標準化完成"
+      "sc": "自动从 1301 条资讯聚合 · sourceKey 标准化完成",
+      "tc": "自動從 1301 條資訊聚合 · sourceKey 標準化完成"
     },
-    "totalItems": 1297,
+    "totalItems": 1301,
     "sourceTiers": [
       {
         "tier": "official",
-        "count": 316,
+        "count": 317,
         "label": "监管一手"
       },
       {
@@ -652,12 +652,12 @@
       },
       {
         "tier": "media",
-        "count": 462,
+        "count": 464,
         "label": "媒体报道"
       },
       {
         "tier": "pro",
-        "count": 318,
+        "count": 319,
         "label": "专业解读"
       },
       {
@@ -731,12 +731,12 @@
     "topThemes": [
       {
         "theme": "market",
-        "count": 266,
+        "count": 267,
         "label": "市场"
       },
       {
         "theme": "reg",
-        "count": 166,
+        "count": 168,
         "label": "监管"
       },
       {
@@ -751,17 +751,17 @@
       },
       {
         "theme": "firm",
-        "count": 105,
+        "count": 106,
         "label": "保司"
       },
       {
         "theme": "compliance",
-        "count": 104,
+        "count": 105,
         "label": "合规"
       },
       {
         "theme": "cross-border",
-        "count": 94,
+        "count": 95,
         "label": "跨境"
       },
       {
@@ -781,8 +781,8 @@
       }
     ],
     "dateRange": {
-      "sc": "2013-03-05 ~ 2026-10-10",
-      "tc": "2013-03-05 ~ 2026-10-10"
+      "sc": "2013-03-05 ~ 2026-10-11",
+      "tc": "2013-03-05 ~ 2026-10-11"
     }
   },
   "marketData": {
