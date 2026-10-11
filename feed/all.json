@@ -1,9 +1,67 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-11T13:14:17Z",
-  "itemCount": 1301,
+  "generatedAt": "2026-10-11T16:27:49Z",
+  "itemCount": 1305,
   "items": [
+    {
+      "id": "insurtech-today-ai-advisor-os-seed-2-8m-eur-20261008",
+      "title": "丹麥TODAY完成280萬歐元種子輪　為保險及財務顧問打造「合規AI銷售作業系統」（DACH區逾3,500名顧問使用）",
+      "sourceTier": "pro",
+      "themes": [
+        "insurtech",
+        "ai",
+        "advisor-productivity",
+        "distribution"
+      ],
+      "publishedAt": "2026-10-08",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insurtech-today-ai-advisor-os-seed-2-8m-eur-20261008",
+      "originalUrl": "https://tech.eu/2026/10/08/today-lands-eur28m-to-scale-its-ai-platform-for-financial-advisors"
+    },
+    {
+      "id": "manulife-chief-actuary-sinead-oconnor-appointment-20261012",
+      "title": "宏利委任Sinéad O'Connor為集團首席精算師　10月12日生效並加入執行領導團隊",
+      "sourceTier": "insurer",
+      "themes": [
+        "people",
+        "insurer",
+        "group"
+      ],
+      "publishedAt": "2026-10-08",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-chief-actuary-sinead-oconnor-appointment-20261012",
+      "originalUrl": "https://www.prnewswire.com/apac/news-releases/manulife-appoints-sinead-oconnor-as-chief-actuary-joining-executive-leadership-team-302902577.html"
+    },
+    {
+      "id": "ian-australia-tribunal-halts-iag-raci-review-public-benefit-20261011",
+      "title": "澳洲競爭審裁處暫緩IAG收購RAC Insurance覆核申請　待ACCC完成「公共利益」裁定後恢復",
+      "sourceTier": "media",
+      "themes": [
+        "m-a",
+        "competition",
+        "australia"
+      ],
+      "publishedAt": "2026-10-11T12:58:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-australia-tribunal-halts-iag-raci-review-public-benefit-20261011",
+      "originalUrl": "https://insuranceasianews.com/australias-competition-tribunal-halts-iag-raci-appeal-pending-accc-public-benefit-ruling/"
+    },
+    {
+      "id": "ian-japan-fsa-prudential-life-gibraltar-suspension-order-20261011",
+      "title": "日本金融廳下令Prudential Life及Gibraltar Life部分停業3個月　母公司同收業務改善命令（員工不當收款逾61億日圓）",
+      "sourceTier": "media",
+      "themes": [
+        "reg",
+        "conduct",
+        "asia",
+        "life"
+      ],
+      "publishedAt": "2026-10-11T14:07:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-japan-fsa-prudential-life-gibraltar-suspension-order-20261011",
+      "originalUrl": "https://insuranceasianews.com/japans-fsa-suspends-prudential-life-gibraltar-life-operations-for-3-months-over-employee-fraud/"
+    },
     {
       "id": "chosunbiz-korea-life-insurers-cyber-staff-ratio-lowest-20261011",
       "title": "朝鮮日報：韓國三大壽險專職資訊保安人手佔IT團隊僅6.8%　為主要金融板塊最低（教保人壽6.16%墊底）",
