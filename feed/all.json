@@ -1,9 +1,80 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-10T16:27:58Z",
-  "itemCount": 1292,
+  "generatedAt": "2026-10-11T10:14:49Z",
+  "itemCount": 1297,
   "items": [
+    {
+      "id": "iaasia-markel-energy-underwriter-relocates-singapore-20261010",
+      "title": "Insurance Asia：Markel把可持續能源及電力核保人由倫敦調駐新加坡",
+      "sourceTier": "media",
+      "themes": [
+        "career",
+        "firm",
+        "esg"
+      ],
+      "publishedAt": "2026-10-10",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-markel-energy-underwriter-relocates-singapore-20261010",
+      "originalUrl": "https://insuranceasia.com/insurance/news/markel-moves-energy-underwriter-singapore"
+    },
+    {
+      "id": "sapiens-brain-insurance-native-ai-foundation-20261006",
+      "title": "Sapiens推出保險原生AI底座「Sapiens Brain」：以40年產品知識圖譜錨定模型、降低幻覺",
+      "sourceTier": "pro",
+      "themes": [
+        "ai",
+        "insurtech",
+        "tech"
+      ],
+      "publishedAt": "2026-10-06",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sapiens-brain-insurance-native-ai-foundation-20261006",
+      "originalUrl": "https://www.prnewswire.com/news-releases/sapiens-launches-sapiens-brain-the-insurance-native-ai-foundation-powering-sapiensaip-302899543.html"
+    },
+    {
+      "id": "caiwen-netdiligence-ai-risk-ownership-divergence-20261007",
+      "title": "財聞（引路透）：保險業界對人工智能風險責任歸屬分歧顯著",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "cyber",
+        "reg",
+        "compliance"
+      ],
+      "publishedAt": "2026-10-07",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=caiwen-netdiligence-ai-risk-ownership-divergence-20261007",
+      "originalUrl": "https://www.caiwennews.com/article/1638620.shtml"
+    },
+    {
+      "id": "hkej-wealth-management-upgrade-insurance-talent-golden-age-20261010",
+      "title": "信報《保險解碼》：財管業升級　保險專才迎黃金時代",
+      "sourceTier": "pro",
+      "themes": [
+        "career",
+        "market",
+        "high-net-worth"
+      ],
+      "publishedAt": "2026-10-10T08:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkej-wealth-management-upgrade-insurance-talent-golden-age-20261010",
+      "originalUrl": "https://www.hkej.com/dailynews/investment/article/4536766/"
+    },
+    {
+      "id": "nfra-pnc-product-development-rules-8-prohibited-20261009",
+      "title": "金融監管總局發布《財產保險公司保險產品開發管理規定》：8章41條、明確8類禁止開發情形",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "product",
+        "compliance"
+      ],
+      "publishedAt": "2026-10-09",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-pnc-product-development-rules-8-prohibited-20261009",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1274219&itemId=915"
+    },
     {
       "id": "theblock-meanwhile-bitcoin-life-insurer-37-5m-lioner-hk-20261009",
       "title": "The Block：比特幣人壽保險公司Meanwhile融資3,750萬美元 已簽15家經紀夥伴（含香港Lioner）",
