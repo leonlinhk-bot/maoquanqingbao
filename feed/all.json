@@ -1,9 +1,84 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-12T10:23:16Z",
-  "itemCount": 1322,
+  "generatedAt": "2026-10-12T16:46:10Z",
+  "itemCount": 1327,
   "items": [
+    {
+      "id": "artemis-bermuda-ils-market-development-ils-bermuda-20261012",
+      "title": "ILS Bermuda：全球ILS市場持續擴張　百慕達續居巨災債券與另類風險轉移的設立、監管及上市樞紐",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "catastrophe-bond",
+        "captive",
+        "risk-hub"
+      ],
+      "publishedAt": "2026-10-12T21:00:33+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-bermuda-ils-market-development-ils-bermuda-20261012",
+      "originalUrl": "https://www.artemis.bm/news/bermuda-advances-insurance-linked-securities-market-development-as-sector-expands-ils-bermuda/"
+    },
+    {
+      "id": "artemis-hurricane-simon-mexico-catbond-trigger-zones-loconte-20261012",
+      "title": "Artemis：颶風Simon路徑西移　似未進入墨西哥1.75億美元參數式巨災債券觸發框　料賠付不會到來",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "catastrophe-bond",
+        "parametric",
+        "natural-catastrophe"
+      ],
+      "publishedAt": "2026-10-12T19:37:58+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-hurricane-simon-mexico-catbond-trigger-zones-loconte-20261012",
+      "originalUrl": "https://www.artemis.bm/news/hurricane-simon-track-remained-outside-of-mexico-cat-bond-parametric-trigger-zones-loconte/"
+    },
+    {
+      "id": "scmp-hkex-ceo-indices-derivatives-yuan-20261012",
+      "title": "港交所CEO：將擴展指數、衍生品及人民幣計價產品　涵蓋人民幣黃金期貨與人民幣計價股票交易",
+      "sourceTier": "media",
+      "themes": [
+        "hong-kong",
+        "capital-markets",
+        "rmb",
+        "family-office"
+      ],
+      "publishedAt": "2026-10-12T19:07:25+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-hkex-ceo-indices-derivatives-yuan-20261012",
+      "originalUrl": "https://www.scmp.com/business/markets/article/3370617/hong-kong-expand-indices-derivatives-and-yuan-denominated-products-hkex-ceo"
+    },
+    {
+      "id": "iaasia-allianz-travel-protect-delay-cover-20261012",
+      "title": "安盛新加坡推旅遊保障　航班延誤賠付上限2,310美元、海外醫療保障最高154萬美元",
+      "sourceTier": "pro",
+      "themes": [
+        "travel",
+        "product",
+        "claims",
+        "apac"
+      ],
+      "publishedAt": "2026-10-12T05:45:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-allianz-travel-protect-delay-cover-20261012",
+      "originalUrl": "https://insuranceasia.com/insurance/news/allianz-travel-insurance-covers-delays-2310"
+    },
+    {
+      "id": "ibm-handm-cyber-retail-risk-20261012",
+      "title": "H&M調查黑客入侵指控　零售業網絡風險蔓延　ASOS外洩凸顯第三方平台與憑證被盜暴露",
+      "sourceTier": "media",
+      "themes": [
+        "cyber",
+        "claims",
+        "enterprise",
+        "risk"
+      ],
+      "publishedAt": "2026-10-12",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-handm-cyber-retail-risk-20261012",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/handm-investigates-hacking-claims-as-retail-cyber-risks-spread-593136.aspx"
+    },
     {
       "id": "ian-fwd-bolttech-hk-pc-25pct-21m-20261012",
       "title": "富卫以2,072万美元收购bolttech Insurance（香港）25%股权　时隔六年重返一般保险市场",
