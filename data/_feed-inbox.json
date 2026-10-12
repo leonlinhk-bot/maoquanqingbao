@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-12T00:01:45.909814+08:00",
- "total_new": 0,
+ "generated_at": "2026-10-12T18:18:39.400514+08:00",
+ "total_new": 1,
  "total_filtered": 0,
- "items": []
+ "items": [
+  {
+   "id": "230781",
+   "title": "FWD to re-enter P&C with 25% stake in bolttech Hong Kong for US$21m",
+   "url": "https://insuranceasianews.com/fwd-to-acquire-25-of-hong-kong-pc-carrier-bolttech-insurance-for-us21m/",
+   "published": "Mon, 12 Oct 2026 03:27:00 +0000",
+   "published_hkt": "2026-10-12T11:27:00+08:00",
+   "summary": "The target was formerly FWD General Insurance and was divested by the Richard Li-controlled insurance group to bolttech in 2020.",
+   "author": null,
+   "paywalled": true,
+   "source": "insuranceasianews",
+   "source_label": "InsuranceAsia News · 香港",
+   "tier": "pro"
+  }
+ ]
 }

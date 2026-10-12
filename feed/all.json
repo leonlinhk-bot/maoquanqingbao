@@ -1,9 +1,264 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-11T16:27:49Z",
-  "itemCount": 1305,
+  "generatedAt": "2026-10-12T10:23:16Z",
+  "itemCount": 1322,
   "items": [
+    {
+      "id": "ian-fwd-bolttech-hk-pc-25pct-21m-20261012",
+      "title": "富卫以2,072万美元收购bolttech Insurance（香港）25%股权　时隔六年重返一般保险市场",
+      "sourceTier": "media",
+      "themes": [
+        "ma",
+        "insurer",
+        "hong-kong",
+        "channel"
+      ],
+      "publishedAt": "2026-10-12T11:27:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-fwd-bolttech-hk-pc-25pct-21m-20261012",
+      "originalUrl": "https://insuranceasianews.com/fwd-to-acquire-25-of-hong-kong-pc-carrier-bolttech-insurance-for-us21m/"
+    },
+    {
+      "id": "ian-japan-domestic-reinsurance-captive-regime-20261012",
+      "title": "日本金融厅启动审议　拟建立本土再保险型专属自保（captive）制度　2027年1月提交法案",
+      "sourceTier": "media",
+      "themes": [
+        "captive",
+        "reg",
+        "apac",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-10-12T14:08:51+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-japan-domestic-reinsurance-captive-regime-20261012",
+      "originalUrl": "https://insuranceasianews.com/japan-moves-to-create-domestic-reinsurance-captive-regime/"
+    },
+    {
+      "id": "ian-lloyds-asia-gaip-supporting-partner-20261012",
+      "title": "Lloyd's Asia加入全球亚洲保险合作伙伴（GAIP）成为支持伙伴　聚焦保障缺口与复杂风险",
+      "sourceTier": "media",
+      "themes": [
+        "apac",
+        "protection-gap",
+        "firm",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-10-12T15:18:35+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-lloyds-asia-gaip-supporting-partner-20261012",
+      "originalUrl": "https://insuranceasianews.com/lloyds-asia-joins-gaip-as-supporting-partner/"
+    },
+    {
+      "id": "ian-indonesia-solvency-rbc-consolidation-fitch-20261012",
+      "title": "惠誉：印尼分阶段收紧资本要求　未来两年推动保险业增资与并购（2027年实施RBC制度）",
+      "sourceTier": "media",
+      "themes": [
+        "capital",
+        "reg",
+        "apac",
+        "ma"
+      ],
+      "publishedAt": "2026-10-12T10:15:25+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-indonesia-solvency-rbc-consolidation-fitch-20261012",
+      "originalUrl": "https://insuranceasianews.com/indonesian-solvency-rules-to-drive-consolidation-capital-raising-fitch/"
+    },
+    {
+      "id": "ian-hartford-singapore-energy-launch-2027-20261012",
+      "title": "The Hartford瞄准亚太增长　2027年首季于新加坡推出能源保险并推自动化报价工具",
+      "sourceTier": "media",
+      "themes": [
+        "apac",
+        "firm",
+        "distribution",
+        "uw"
+      ],
+      "publishedAt": "2026-10-12T07:30:32+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-hartford-singapore-energy-launch-2027-20261012",
+      "originalUrl": "https://insuranceasianews.com/the-hartford-targets-apac-growth-with-singapore-energy-launch-in-q1-2027/"
+    },
+    {
+      "id": "ian-nat-re-am-best-underwriting-improves-20261012",
+      "title": "AM Best：菲律宾再保险公司Nat Re承保表现改善　维持B++（良好）评级、展望稳定",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "results",
+        "apac",
+        "capital"
+      ],
+      "publishedAt": "2026-10-12T09:35:38+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-nat-re-am-best-underwriting-improves-20261012",
+      "originalUrl": "https://insuranceasianews.com/nat-res-underwriting-performance-improves-on-non-life-claims-development-life-margins-am-best/"
+    },
+    {
+      "id": "iaasia-ai-spending-beyond-underwriting-globaldata-20261012",
+      "title": "GlobalData调查：保险业AI应用重心由核保扩散至产品开发　产品开发占比升8.9个百分点",
+      "sourceTier": "pro",
+      "themes": [
+        "ai",
+        "tech",
+        "insurtech",
+        "product"
+      ],
+      "publishedAt": "2026-10-12T09:30:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-ai-spending-beyond-underwriting-globaldata-20261012",
+      "originalUrl": "https://insuranceasia.com/insurance/expert-opinion/can-insurers-turn-ai-spending-gains-beyond-underwriting"
+    },
+    {
+      "id": "iaasia-mox-bank-qbe-home-insurance-app-20261012",
+      "title": "Mox Bank推全数码家居保险“Home Cushion”　QBE承保、App内预填资料即时投保",
+      "sourceTier": "pro",
+      "themes": [
+        "channel",
+        "product",
+        "hong-kong",
+        "insurtech"
+      ],
+      "publishedAt": "2026-10-12T05:30:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-mox-bank-qbe-home-insurance-app-20261012",
+      "originalUrl": "https://insuranceasia.com/insurance/news/mox-bank-offers-qbe-backed-home-insurance-through-banking-app"
+    },
+    {
+      "id": "iaasia-taiwan-fc-policy-sales-39-july-2026-20261012",
+      "title": "台湾寿险外币保单新造保费升39%　传统型占八成、投资型升85%（截至2026年7月底）",
+      "sourceTier": "pro",
+      "themes": [
+        "market",
+        "apac",
+        "par",
+        "macro"
+      ],
+      "publishedAt": "2026-10-12T06:15:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-taiwan-fc-policy-sales-39-july-2026-20261012",
+      "originalUrl": "https://insuranceasia.com/insurance/news/taiwan-life-insurers-foreign-currency-policy-sales-rise-39-in-july-2026"
+    },
+    {
+      "id": "iaasia-japan-life-sales-fall-premium-growth-july-2026-20261012",
+      "title": "日本寿险4–7月新造件数仅及去年91.8%　保费收入升2.3%；个人年金新造金额跌16.3%",
+      "sourceTier": "pro",
+      "themes": [
+        "market",
+        "apac",
+        "retirement",
+        "results"
+      ],
+      "publishedAt": "2026-10-12T06:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-japan-life-sales-fall-premium-growth-july-2026-20261012",
+      "originalUrl": "https://insuranceasia.com/insurance/news/japan-life-insurance-sales-fall-despite-23-premium-growth-in-july-2026"
+    },
+    {
+      "id": "iaasia-tune-protect-airpaz-travel-3-asean-20261012",
+      "title": "Tune Protect与Airpaz把嵌入式旅游保险由马来西亚扩展至印尼、泰国及菲律宾",
+      "sourceTier": "pro",
+      "themes": [
+        "distribution",
+        "product",
+        "apac",
+        "travel"
+      ],
+      "publishedAt": "2026-10-12T06:30:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-tune-protect-airpaz-travel-3-asean-20261012",
+      "originalUrl": "https://insuranceasia.com/insurance/news/tune-protect-expands-travel-insurance-three-asean-markets"
+    },
+    {
+      "id": "iaasia-gic-re-underwriting-losses-am-best-20261012",
+      "title": "AM Best：印度GIC Re维持最强风险调整资本　惟承保续亏、2026财年ROE 11.5%",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "capital",
+        "results",
+        "apac"
+      ],
+      "publishedAt": "2026-10-12T05:15:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-gic-re-underwriting-losses-am-best-20261012",
+      "originalUrl": "https://insuranceasia.com/insurance/news/gic-re-faces-underwriting-losses-despite-strong-capital"
+    },
+    {
+      "id": "scmp-trp-hk-workers-ai-retirement-survey-20261012",
+      "title": "调查：逾半香港打工仔料AI令退休路更难预测　仅五分一人自觉财务准备充足（30–39岁最焦虑）",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "retirement",
+        "protection-gap",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-10-12T12:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-trp-hk-workers-ai-retirement-survey-20261012",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3370504/hong-kong-workers-fear-ai-driven-disruption-retirement-only-20-feel-prepared-survey"
+    },
+    {
+      "id": "scmp-ex-hsbc-ai-agents-wealth-platform-20261012",
+      "title": "前汇丰高管创立AI代理团队驱动的财富管理平台　面向“大众富裕”客群",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "insurtech",
+        "hnw",
+        "tech"
+      ],
+      "publishedAt": "2026-10-12T17:00:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-ex-hsbc-ai-agents-wealth-platform-20261012",
+      "originalUrl": "https://www.scmp.com/business/money/wealth/article/3370565/former-hsbc-executive-launches-wealth-platform-powered-team-ai-agents"
+    },
+    {
+      "id": "artemis-ils-diversification-sage-advisory-20261012",
+      "title": "机构观点：ILS回报与经济周期脱钩　可为另类配置带来真正分散效果（市场规模1,445亿美元）",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "capital",
+        "reinsurance",
+        "hnw"
+      ],
+      "publishedAt": "2026-10-12",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-ils-diversification-sage-advisory-20261012",
+      "originalUrl": "https://www.artemis.bm/news/ils-delivers-genuine-diversification-for-alternatives-allocations-sage-advisory/"
+    },
+    {
+      "id": "artemis-pillar-capital-sagesure-investment-20261012",
+      "title": "SageSure策略投资ILS基金管理人Pillar Capital　管理资产约43亿美元、管理层续持重大股权",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "ma",
+        "capital",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-10-12",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-pillar-capital-sagesure-investment-20261012",
+      "originalUrl": "https://www.artemis.bm/news/pillar-capital-management-strategic-investment-sagesure/"
+    },
+    {
+      "id": "manulife-hk-just-feel-my-flag-day-2026-20261010",
+      "title": "宏利香港与JUST FEEL感讲办“My旗日”响应世界精神健康日　500名家长与子女任义工派逾万张旗纸",
+      "sourceTier": "insurer",
+      "themes": [
+        "esg",
+        "health",
+        "talent",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-10-10",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-hk-just-feel-my-flag-day-2026-20261010",
+      "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom/manulife-hk-and-just-feel-host-my-flag-day-2026.html"
+    },
     {
       "id": "insurtech-today-ai-advisor-os-seed-2-8m-eur-20261008",
       "title": "丹麥TODAY完成280萬歐元種子輪　為保險及財務顧問打造「合規AI銷售作業系統」（DACH區逾3,500名顧問使用）",

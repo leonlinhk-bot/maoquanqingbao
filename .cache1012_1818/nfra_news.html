@@ -1,0 +1,302 @@
+﻿<!DOCTYPE html>
+<html lang="zh-cn">
+
+<head>
+    <meta charset="UTF-8">
+    <title>新闻资讯_国家金融监督管理总局</title>
+    <meta name="author" content="">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="SiteName" content="">
+    <meta name="SiteDomain" content="">
+    <meta name="SiteIDCode" content="">
+    <meta name="ColumnName" content="">
+    <meta name="ColumnDescription" content="">
+    <meta name="ColumnKeywords" content="">
+    <meta name="ColumnType" content="">
+    <meta http-equiv="Window-target" content="_top">
+    <meta property="og:image" content="/cn/static/images/share.jpg">
+    <!-- <link rel="Shortcut Icon" href="favicon.ico"> -->
+    <link rel="Shortcut Icon" href="/cn/static/favicon.ico">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/cn/css/common/base.css?v=20200108" rel="stylesheet" />
+    <link href="/cn/css/common/Common.css?v=20200108" rel="stylesheet" />
+    <link href="/cn/css/index/Index.css?v=20200108" rel="stylesheet" />
+    <!--[if lt IE 9]>
+       <script src="/cn/js/common/html5shiv.min.js"></script>
+       <script src="/cn/js/common/respond.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+        <div  style="display: none">
+                <img src="/cn/static/images/share.jpg"   />
+            </div>   
+    <div class="main ng-cloak" ng-app="myApp">
+        <tpl src="/cn/view/components/Header.html"></tpl>
+        <div class="content xinwenzixun" ng-controller="xinWenZiXunCtrl">
+            <link href="/cn/css/xinwenzixun/xinwenzixun.css?v=20200108" rel="stylesheet" />
+            <link href="/cn/css/common/jquery-superslide.css" rel="stylesheet" />
+            <div class="breadcrumb">
+                <ul>
+                    <li>当前位置：
+                        <a href="/cn/view/pages/index/index.html">首页</a>
+                    </li>
+                    <li>
+                        <a>新闻资讯</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="row mb25">
+                <div class="col-lg-4">
+                    <div class="list list-margin-right xinwenzixun-left">
+                        <div id="tpxw_slide" style="height: 264px">
+                            <div class="slideBox">
+                                <div class="bd">
+                                    <ul>
+                                        <li ng-repeat="x in xwzx_tupianxinwen">
+                                            <a ng-if="x.isTitleLink == 0" ng-href="/cn/view/pages/ItemDetail.html?docId={{x.docId}}&itemId={{x.itemId}}"
+                                                target="_blank">
+                                                <img ng-show="!showSVG" ng-src="{{x.urlOtherName}}" width="290"
+                                                    height="180" />
+                                                <div ng-show="showSVG">
+                                                    <svg style="width:290px;height:180px;">
+                                                        <image xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""
+                                                            ng-attr-xlink:href="{{x.urlOtherName}}" x="0" y="0"
+                                                            width="290" height="180" filter="{{svgGrayscaleFilter}}">
+                                                        </image>
+                                                    </svg>
+                                                    <!-- tiaodeng -->
+                                                    <!-- <svg style="width:290px;height:180px;"><image xmlns:xlink="http://www.w3.org/1999/xlink" ng-href="{{x.urlOtherName}}" x="0" y="0" width="290" height="180" filter="{{svgGrayscaleFilter}}"></image></svg> -->
+                                                </div>
+                                            </a>
+                                            <a ng-if="x.isTitleLink == 1"  ng-href="{{x.titleLink}}"
+                                                target="_blank">
+                                                <img ng-show="!showSVG" ng-src="{{x.urlOtherName}}" width="290"
+                                                    height="180" />
+                                                <div ng-show="showSVG">
+                                                    <svg style="width:290px;height:180px;">
+                                                        <image xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href=""
+                                                            ng-attr-xlink:href="{{x.urlOtherName}}" x="0" y="0"
+                                                            width="290" height="180" filter="{{svgGrayscaleFilter}}">
+                                                        </image>
+                                                    </svg>
+                                                    <!-- tiaodeng -->
+                                                    <!-- <svg style="width:290px;height:180px;"><image xmlns:xlink="http://www.w3.org/1999/xlink" ng-href="{{x.urlOtherName}}" x="0" y="0" width="290" height="180" filter="{{svgGrayscaleFilter}}"></image></svg> -->
+                                                </div>
+                                            </a>
+                                            <div class="xwzx_text" ng-bind-html="x.docSubtitle|trustHtml"></div>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="tpxw-slide-hd" style="z-index:100">
+                                    <ul>
+                                        <li></li>
+                                        <li></li>
+                                        <li></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-8">
+                    <div class="list xinwenzixun-top">
+                        <div class="tabs"
+                            ng-attr-style="background-image: url(/cn/static/{{image_path}}/common/newsline.jpg);margin-right: 12px;">
+                            <div class="tab active">
+                                <a ng-href="{{xwzx_jianguandongtai_item}}" list-panel-id="xwzx-jianguandongtai">监管动态</a>
+                            </div>
+                            <div class="tab">
+                                <a ng-href="{{xwzx_lingdaohuodong_item}}"
+                                    list-panel-id="xwzx-lingdaohuodong">领导活动及讲话</a>
+                            </div>
+                        </div>
+
+                        <div class="panels" style="padding-left: 7px;">
+                            <div class="panel active" id="xwzx-jianguandongtai">
+                                <div class="panel-row" ng-repeat="x in xwzx_jianguandongtai">
+                                    <span class="title">
+                                        <a ng-href="/cn/view/pages/ItemDetail.html?docId={{x.docId}}&itemId={{x.itemId}}"
+                                            title="{{x.docSubtitle|trimHtml}}" target="_blank"
+                                            ng-hide="x.docSubtitle|isAHtml" ng-bind-html="x.docSubtitle|trustHtml"></a>
+                                        <span ng-show="x.docSubtitle|isAHtml" target="_blank"
+                                            ng-bind-html="x.docSubtitle|trustHtml"></span>
+                                    </span>
+                                    <span class="date">{{x.publishDate | dateFormat}}</span>
+                                </div>
+                            </div>
+                            <div class="panel" id="xwzx-lingdaohuodong">
+                                <div class="panel-row" ng-repeat="x in xwzx_lingdaohuodong">
+                                    <span class="title">
+                                        <a ng-href="/cn/view/pages/ItemDetail.html?docId={{x.docId}}&itemId={{x.itemId}}"
+                                            title="{{x.docSubtitle|trimHtml}}" target="_blank"
+                                            ng-hide="x.docSubtitle|isAHtml" ng-bind-html="x.docSubtitle|trustHtml"></a>
+                                        <span ng-show="x.docSubtitle|isAHtml" target="_blank"
+                                            ng-bind-html="x.docSubtitle|trustHtml"></span>
+                                    </span>
+                                    <span class="date">{{x.publishDate | dateFormat}}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row mb25">
+                <div class="col-lg-12">
+                    <div class="list xinwenzixun-middle">
+                        <div class="tabs" style="margin-right: 7px;">
+                            <div class="tab active">
+                                <a ng-href="{{xwzx_xinwenfabu_item}}" list-panel-id="xwzx-xinwenfabu">新闻发布会及访谈</a>
+                            </div>
+                            <div class="tab">
+                                <a ng-href="{{xwzx_xinwenfayan_item}}" list-panel-id="xwzx-xinwenfayan">新闻发言人</a>
+                            </div>
+                        </div>
+
+                        <div class="panels">
+                            <div class="panel active" id="xwzx-xinwenfabu">
+                                <div class="pic-content">
+                                    <div class="pic-content-l" id="xwfbhjft_slide" style="width:300px; height:200px;">
+                                        <div id="slideBox" class="slideBox">
+                                            <div class="bd">
+                                                <ul>
+                                                    <li ng-repeat="x in xwzx_xinwenfabu_img">
+
+                                                        <a ng-if="x.isTitleLink == 0" ng-href="/cn/view/pages/ItemDetail.html?docId={{x.docId}}&itemId={{x.itemId}}"
+                                                            target="_blank">
+                                                            <img ng-src="{{x.urlOtherName}}" width="300" height="180"
+                                                                ng-show="x.urlOtherName!=null && !showSVG" />
+                                                            <img ng-src="/cn/static/{{image_path}}/common/xinwenfabuDefault.jpg"
+                                                                ng-show="x.urlOtherName==null" />
+                                                            <div ng-show="showSVG && x.urlOtherName!=null">
+                                                                <!-- tiaodeng -->
+                                                                <svg style="width:300px;height:180px;">
+                                                                    <image xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                        xlink:href=""
+                                                                        ng-attr-xlink:href="{{x.urlOtherName}}" x="0"
+                                                                        y="0" width="300" height="180"
+                                                                        filter="{{svgGrayscaleFilter}}"></image>
+                                                                </svg>
+                                                                <!-- <svg style="width:300px;height:180px;"><image xmlns:xlink="http://www.w3.org/1999/xlink" ng-href="{{x.urlOtherName}}" x="0" y="0" width="300" height="180" filter="{{svgGrayscaleFilter}}"></image></svg> -->
+                                                            </div>
+                                                            <p class="superslide-title"
+                                                                ng-bind-html="x.docSubtitle|trustHtml">
+                                                            </p>
+                                                        </a>
+
+                                                        <a ng-if="x.isTitleLink == 1"  ng-href="{{x.titleLink}}"
+                                                            target="_blank">
+                                                            <img ng-src="{{x.urlOtherName}}" width="300" height="180"
+                                                                ng-show="x.urlOtherName!=null && !showSVG" />
+                                                            <img ng-src="/cn/static/{{image_path}}/common/xinwenfabuDefault.jpg"
+                                                                ng-show="x.urlOtherName==null" />
+                                                            <div ng-show="showSVG && x.urlOtherName!=null">
+                                                                <!-- tiaodeng -->
+                                                                <svg style="width:300px;height:180px;">
+                                                                    <image xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                        xlink:href=""
+                                                                        ng-attr-xlink:href="{{x.urlOtherName}}" x="0"
+                                                                        y="0" width="300" height="180"
+                                                                        filter="{{svgGrayscaleFilter}}"></image>
+                                                                </svg>
+                                                                <!-- <svg style="width:300px;height:180px;"><image xmlns:xlink="http://www.w3.org/1999/xlink" ng-href="{{x.urlOtherName}}" x="0" y="0" width="300" height="180" filter="{{svgGrayscaleFilter}}"></image></svg> -->
+                                                            </div>
+                                                            <p class="superslide-title"
+                                                                ng-bind-html="x.docSubtitle|trustHtml">
+                                                            </p>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <!-- 下面是前/后按钮代码，如果不需要删除即可 -->
+                                            <a class="prev" href="javascript:void(0)"></a>
+                                            <a class="next" href="javascript:void(0)"></a>
+                                        </div>
+                                    </div>
+                                    <div class="pic-content-r" style="width: 70%">
+                                        <div class="panel-row xinwenzixun-middle-xinwenfabu"
+                                            ng-repeat="x in xwzx_xinwenfabu_img">
+                                            <span class="title">
+                                                <a ng-href="/cn/view/pages/ItemDetail.html?docId={{x.docId}}&itemId={{x.itemId}}"
+                                                    title="{{x.docSubtitle|trimHtml}}" target="_blank"
+                                                    ng-hide="x.docSubtitle|isAHtml"
+                                                    ng-bind-html="x.docSubtitle|trustHtml"></a>
+                                                    <!-- 如果docSubtitle是返回的html元素  则显示下面的内容 -->
+                                                <span ng-show="x.docSubtitle|isAHtml" target="_blank"
+                                                    ng-bind-html="x.docSubtitle|trustHtml"></span>
+                                            </span>
+                                            <span class="date">{{x.publishDate | dateFormat}}</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="panel" id="xwzx-xinwenfayan">
+                                <div class="panel-row" ng-repeat="x in xwzx_xinwenfayan">
+                                    <span class="title">
+                                        <a ng-href="/cn/view/pages/ItemDetail.html?docId={{x.docId}}&itemId={{x.itemId}}"
+                                            title="{{x.docSubtitle|trimHtml}}" target="_blank"
+                                            ng-hide="x.docSubtitle|isAHtml" ng-bind-html="x.docSubtitle|trustHtml"></a>
+                                        <span ng-show="x.docSubtitle|isAHtml" target="_blank"
+                                            ng-bind-html="x.docSubtitle|trustHtml"></span>
+                                    </span>
+                                    <span class="date">{{x.publishDate | dateFormat}}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row mb25">
+                <div class="col-lg-12">
+                    <div class="list xinwenzixun-bottom">
+                        <div class="tabs" style="margin-right: 7px;">
+                            <div class="tab active">
+                                <a
+                                    ng-href="{{xwzx_zhengcejiedu_item}}&itemsubPId={{xwzx_zhengcejiedu_item_itemsubPId}}">政策解读</a>
+                            </div>
+                        </div>
+                        <div class="panels">
+                            <div class="panel active">
+                                <div class="pic-content">
+                                    <div class="pic-content-l" style="width:300px; height:200px;">
+                                        <div>
+                                            <img ng-src="/cn/static/{{image_path}}/common/zcjd.png" width="300"
+                                                height="180" />
+                                        </div>
+                                    </div>
+                                    <div class="pic-content-r" style="width: 70%">
+                                        <div class="panel-row xinwenzixun-middle-zhengcejiedu"
+                                            ng-repeat="x in xwzx_zhengcejiedu">
+                                            <span class="title">
+                                                <a ng-href="/cn/view/pages/ItemDetail.html?docId={{x.docId}}&itemId={{x.itemId}}"
+                                                    title="{{x.docSubtitle|trimHtml}}" target="_blank"
+                                                    ng-hide="x.docSubtitle|isAHtml"
+                                                    ng-bind-html="x.docSubtitle|trustHtml"></a>
+                                                <span ng-show="x.docSubtitle|isAHtml" target="_blank"
+                                                    ng-bind-html="x.docSubtitle|trustHtml"></span>
+                                            </span>
+                                            <span class="date">{{x.publishDate | dateFormat}}</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <tpl src="/cn/view/components/Footer.html"></tpl>
+    </div>
+    <script src="/cn/js/common/jquery/jquery.1.12.4.min.js"></script>
+    <script src="/cn/js/common/angular.1.2.32.min.js"></script>
+    <script src="/cn/js/common/jquery.SuperSlide.2.1.3.js"></script>
+    <!--common-->
+    <script src="/cn/js/common/Script.js?v=20200108"></script>
+    <script src="/cn/js/common/Nav.js?v=20200108"></script>
+    <script src="/cn/js/xinwenzixun/xinwenzixun.js?v=20200108"></script>
+    <!--custom-->
+</body>
+
+</html>
