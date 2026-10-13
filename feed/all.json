@@ -1,9 +1,39 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-13T13:12:40Z",
-  "itemCount": 1352,
+  "generatedAt": "2026-10-13T18:11:37Z",
+  "itemCount": 1354,
   "items": [
+    {
+      "id": "artemis-verisk-hurricane-isaias-onshore-loss-20261014",
+      "title": "Verisk：飓风 Isaias 陆上财产保险损失初步估计 10 亿至 20 亿美元　为目前各口径中偏低者",
+      "sourceTier": "pro",
+      "themes": [
+        "catastrophe",
+        "ils",
+        "cat-bonds",
+        "industry-loss"
+      ],
+      "publishedAt": "2026-10-14T00:14:55+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-verisk-hurricane-isaias-onshore-loss-20261014",
+      "originalUrl": "https://www.artemis.bm/news/verisk-estimates-hurricane-isaias-insured-onshore-property-losses-in-1bn-to-2bn-range/"
+    },
+    {
+      "id": "fsc-taiwan-financial-agentic-ai-safety-consultation-20261013",
+      "title": "台湾金管会发布「金融业运用代理 AI 安全咨询文件」　三大面向展开 30 日咨询",
+      "sourceTier": "official",
+      "themes": [
+        "ai-governance",
+        "insurtech",
+        "regulation",
+        "conduct"
+      ],
+      "publishedAt": "2026-10-13",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fsc-taiwan-financial-agentic-ai-safety-consultation-20261013",
+      "originalUrl": "https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0,2&mcustomize=news_view.jsp&dataserno=202610130003&dtable=News"
+    },
     {
       "id": "ibm-japan-fsa-prudential-life-suspension-593252-20261013",
       "title": "日本金融厅勒令保德信两家寿险停售新单至 2027 年 1 月 31 日　雇员销售渠道受限、独立代理渠道获豁免",
