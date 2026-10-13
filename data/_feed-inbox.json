@@ -1,6 +1,20 @@
 {
- "generated_at": "2026-10-13T12:00:49.135157+08:00",
- "total_new": 0,
+ "generated_at": "2026-10-13T18:00:32.850482+08:00",
+ "total_new": 1,
  "total_filtered": 0,
- "items": []
+ "items": [
+  {
+   "id": "230906",
+   "title": "Zurich appoints Martin Noble to expanded role as greater China CFO",
+   "url": "https://insuranceasianews.com/zurich-appoints-martin-noble-to-expanded-role-as-greater-china-cfo/",
+   "published": "Tue, 13 Oct 2026 09:48:16 +0000",
+   "published_hkt": "2026-10-13T17:48:16+08:00",
+   "summary": "Noble is currently CFO for Hong Kong and has been working at the insurer for nearly 13 years.",
+   "author": null,
+   "paywalled": true,
+   "source": "insuranceasianews",
+   "source_label": "InsuranceAsia News · 香港",
+   "tier": "pro"
+  }
+ ]
 }

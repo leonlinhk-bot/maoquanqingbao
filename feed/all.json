@@ -1,9 +1,218 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-13T04:16:04Z",
-  "itemCount": 1327,
+  "generatedAt": "2026-10-13T10:12:42Z",
+  "itemCount": 1341,
   "items": [
+    {
+      "id": "ian-japan-asset-intensive-reinsurance-rules-fitch-20261013",
+      "title": "日本收紧资产密集型再保险规则　惠誉：或带来资本压力与风险再捕捉　同时解禁代理与经纪合作",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "capital",
+        "regulation",
+        "japan"
+      ],
+      "publishedAt": "2026-10-13T18:05:27+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-japan-asset-intensive-reinsurance-rules-fitch-20261013",
+      "originalUrl": "https://insuranceasianews.com/japan-asset-intensive-reinsurance-rules-to-drive-capital-strain-recapture-risk-fitch/"
+    },
+    {
+      "id": "ian-zurich-martin-noble-greater-china-cfo-20261013",
+      "title": "蘇黎世委任香港首席財務官 Martin Noble 兼任大中華區 CFO",
+      "sourceTier": "pro",
+      "themes": [
+        "people",
+        "insurer-strategy",
+        "greater-china"
+      ],
+      "publishedAt": "2026-10-13T17:48:16+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-zurich-martin-noble-greater-china-cfo-20261013",
+      "originalUrl": "https://insuranceasianews.com/zurich-appoints-martin-noble-to-expanded-role-as-greater-china-cfo/"
+    },
+    {
+      "id": "ian-shinhan-lotte-insurance-516m-20261013",
+      "title": "韓國新韓金融以 5.16 億美元收購樂天保險 77% 控股權　私募股東退出",
+      "sourceTier": "pro",
+      "themes": [
+        "m&a",
+        "non-life",
+        "korea",
+        "private-equity"
+      ],
+      "publishedAt": "2026-10-13T15:15:36+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-shinhan-lotte-insurance-516m-20261013",
+      "originalUrl": "https://insuranceasianews.com/shinhan-agrees-us516m-deal-for-controlling-stake-in-lotte-insurance/"
+    },
+    {
+      "id": "ian-aon-ebrd-ukraine-war-risk-facility-168m-20261013",
+      "title": "Aon 與 EBRD 擴大烏克蘭戰爭風險保險安排至 1.68 億美元　MS Amlin 加碼承保",
+      "sourceTier": "pro",
+      "themes": [
+        "political-risk",
+        "reinsurance",
+        "war-risk",
+        "capacity"
+      ],
+      "publishedAt": "2026-10-13T15:12:06+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-aon-ebrd-ukraine-war-risk-facility-168m-20261013",
+      "originalUrl": "https://insuranceasianews.com/aon-ebrd-expand-ukraine-war-risk-facility-to-us168m-as-ms-amlin-adds-capacity/"
+    },
+    {
+      "id": "ian-pacific-life-re-japan-structured-reinsurance-20261013",
+      "title": "Pacific Life Re 完成 2026 年第二宗日本結構性再保險交易　配合 ESR 新資本框架",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "capital",
+        "esr",
+        "japan"
+      ],
+      "publishedAt": "2026-10-13T13:35:30+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-pacific-life-re-japan-structured-reinsurance-20261013",
+      "originalUrl": "https://insuranceasianews.com/pacific-life-re-seals-second-japan-structured-reinsurance-deal-of-2026/"
+    },
+    {
+      "id": "ibm-atrium-chipmaker-asset-values-593255-20261013",
+      "title": "Atrium：全球二十大晶片廠房與庫存申報價值 5,290 億美元　申報條款與或有營業中斷承壓",
+      "sourceTier": "media",
+      "themes": [
+        "business-interruption",
+        "property",
+        "supply-chain",
+        "valuation"
+      ],
+      "publishedAt": "2026-10-13T11:02:34+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-atrium-chipmaker-asset-values-593255-20261013",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/chipmaker-assets-have-tripled-in-a-decade-and-declared-values-may-not-have-kept-up-593255.aspx"
+    },
+    {
+      "id": "ibm-chubb-anz-chief-lawsuit-593240-20261013",
+      "title": "前 Chubb 澳新業務主管入稟申索　亞太區總裁等 11 人被列答辯人",
+      "sourceTier": "media",
+      "themes": [
+        "governance",
+        "talent",
+        "litigation",
+        "apac"
+      ],
+      "publishedAt": "2026-10-13T11:01:17+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-chubb-anz-chief-lawsuit-593240-20261013",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/former-chubb-anz-chief-sues-insurer-asiapacific-boss-and-directors-593240.aspx"
+    },
+    {
+      "id": "ibm-apac-medical-cost-growth-2027-593200-20261013",
+      "title": "報告：2027 年亞太醫療成本增速料顯著放緩　惟未必等同保費升幅收窄",
+      "sourceTier": "media",
+      "themes": [
+        "medical",
+        "health",
+        "pricing",
+        "apac"
+      ],
+      "publishedAt": "2026-10-13T02:42:41+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-apac-medical-cost-growth-2027-593200-20261013",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/apac-medical-cost-growth-to-slow-significantly-in-2027-593200.aspx"
+    },
+    {
+      "id": "ibm-travel-insurance-age-cuts-593199-20261013",
+      "title": "旅遊保險「同價、保障更細」：年齡分層令長者保障縮水　香港研究指維持原保障成本增 27%–36%",
+      "sourceTier": "media",
+      "themes": [
+        "travel",
+        "ageing",
+        "sub-limits",
+        "consumer-protection"
+      ],
+      "publishedAt": "2026-10-13T02:38:46+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-travel-insurance-age-cuts-593199-20261013",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/travel/same-premium-smaller-cover-the-age-cuts-hidden-in-travel-plans-593199.aspx"
+    },
+    {
+      "id": "ibm-data-centre-losses-accumulation-593176-20261013",
+      "title": "亞太保險人警告：數據中心損失可跨保單、跨投資組合　共用供電與承包鏈令歸因及累積建模更難",
+      "sourceTier": "media",
+      "themes": [
+        "data-centre",
+        "accumulation",
+        "business-interruption",
+        "cyber"
+      ],
+      "publishedAt": "2026-10-13T00:57:19+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-data-centre-losses-accumulation-593176-20261013",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/data-centre-losses-could-cross-policies-and-portfolios-asiapacific-insurers-warn-593176.aspx"
+    },
+    {
+      "id": "artemis-aon-captives-third-party-capital-20261013",
+      "title": "Aon：專屬自保公司正由風險自留工具演變為吸引第三方資本的策略平台",
+      "sourceTier": "pro",
+      "themes": [
+        "captive",
+        "ils",
+        "risk-transfer",
+        "capital"
+      ],
+      "publishedAt": "2026-10-13T16:00:19+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-aon-captives-third-party-capital-20261013",
+      "originalUrl": "https://www.artemis.bm/news/evolving-captives-becoming-strategic-platforms-for-attracting-third-party-capital-aon/"
+    },
+    {
+      "id": "artemis-hurricane-isaias-loss-estimate-euler-20261013",
+      "title": "颶風 Isaias 保險業損失料 20 億至 40 億美元　Euler ILS：或計入總額型結構",
+      "sourceTier": "pro",
+      "themes": [
+        "catastrophe",
+        "ils",
+        "loss-estimate",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-10-13T15:00:15+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-hurricane-isaias-loss-estimate-euler-20261013",
+      "originalUrl": "https://www.artemis.bm/news/hurricane-isaias-insurance-industry-loss-estimated-in-2bn-4bn-range-euler-ils-partners/"
+    },
+    {
+      "id": "air-hk-five-year-plan-insurance-opportunities-20261013",
+      "title": "標普：香港首個五年規劃為保險業打開機遇　惟保險人須管理底層風險",
+      "sourceTier": "pro",
+      "themes": [
+        "five-year-plan",
+        "policy",
+        "growth",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-10-13",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=air-hk-five-year-plan-insurance-opportunities-20261013",
+      "originalUrl": "https://www.asiainsurancereview.com/News/View-NewsLetter-Article/id/97220/Type/AirPlus/Hong-Kong-Five-Year-Plan-unlocks-insurance-opportunities-but-insurers-need-to-manage-underlying-risks"
+    },
+    {
+      "id": "air-hk-life-insurance-market-expand-5-10-20261013",
+      "title": "標普：香港壽險市場未來兩年料每年增長 5% 至 10%",
+      "sourceTier": "pro",
+      "themes": [
+        "life",
+        "growth",
+        "forecast",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-10-13",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=air-hk-life-insurance-market-expand-5-10-20261013",
+      "originalUrl": "https://www.asiainsurancereview.com/News/View-NewsLetter-Article/id/97221/type/AIRPlus/Hong-Kong-Life-insurance-market-expected-to-expand-by-5-10-"
+    },
     {
       "id": "artemis-bermuda-ils-market-development-ils-bermuda-20261012",
       "title": "ILS Bermuda：全球ILS市場持續擴張　百慕達續居巨災債券與另類風險轉移的設立、監管及上市樞紐",
