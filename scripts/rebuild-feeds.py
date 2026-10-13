@@ -167,8 +167,13 @@ try:
                 'itemCount': len(ids), 'itemIds': ids}
     # 各粒度：新桶 + 已有桶合并，按 key 倒序统一排序（无条件执行，幂等修正历史乱序）
     def _merged(existing, newmap, newkeys, suffix=''):
-        out = [_mk(k, newmap[k], suffix) for k in newkeys]
-        return sorted(out + (existing or []), key=lambda x: x.get('key',''), reverse=True)
+        # ⚠️ 2026-10-13 修复：原先「已有 key 不重建」→ 同一周/月里**后续新增的条目永远不计入**
+        # 实测后果：W41 记录 28 条 / 实际 168 条，W39 记录 13 / 实际 162，W40 记录 23 / 实际 123。
+        # 现改为：凡当前数据里有条目的桶，一律重算 itemIds/itemCount（幂等且准确）；
+        # 只有「当前已无数据」的旧桶才原样保留（不丢历史）。
+        out = [_mk(k, newmap[k], suffix) for k in newmap]
+        keep = [x for x in (existing or []) if x.get('key') not in newmap]
+        return sorted(out + keep, key=lambda x: x.get('key', ''), reverse=True)
     _new_d = sorted((k for k in _bk_d if k not in _have_d), reverse=True)
     _dig['daily'] = _merged(_dig.get('daily', []), _bk_d, _new_d)
     _new_w = sorted((k for k in _bk_w if k not in _have_w), reverse=True)
