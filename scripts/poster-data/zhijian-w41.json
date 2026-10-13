@@ -1,0 +1,30 @@
+{
+  "tag": "2026-W41",
+  "kicker": "▸ WEEKLY AI DIGEST",
+  "title_pre": "智见 · ",
+  "title_hl": "AI",
+  "title_post": " 港险观察",
+  "date_range": "10 月 5 日 — 10 月 11 日",
+  "badge": "周报摘要 2026-W41 · 本周精选 5 条",
+  "footer_prefix": "源自 ",
+  "footer_num": "10",
+  "footer_suffix": " 条公开信源",
+  "brand": "猫圈儿港险情报站",
+  "brand_sub": "维港猫圈儿 · 持牌人情报台",
+  "wx": "公众号：维港猫圈儿",
+  "note": "专业参考 · 非销售/投资建议 · 数字请回原文",
+  "domain": "hkmaoquanqingbao.com",
+  "logo": "/Users/leonliang/maoquanqingbao/assets/logo-cat-256.jpg",
+  "items": [
+    ["网络营销新规生效首周：港险引流黑灰产被全链条切断",
+     "9/30 起营销须持牌人员＋机构授权＋内容可回溯，「租蓝V」「IP 漂港澳」等链路被精准封死——个人号展业须重设。"],
+    ["香港惊现 2,500 万美元 deepfake 诈骗：CFO 与同事同框",
+     "财务员工被克隆的 CFO 与同事「多人同框」诱导，分 15 笔转走 2,500 万美元——身份核实不能只靠视频。"],
+    ["核保 AI 反思：仅 6% 核保员认为它改善了风险选择",
+     "40% 只把「提速」当收益；EU AI Act 要求核保理赔 AI 可审计——人工判断仍是承保决定的核心。"],
+    ["新物种入场：虚银 Mox 推家居险、比特币寿险签 15 家港经纪",
+     "Mox Bank 10/8 上线数字家居险（责任最高 HK$10M）；Meanwhile 融资后签下 15 家港经纪——渠道正被绕过。"],
+    ["本地 AI 培训双轨化：QF 证书与实战营并行",
+     "HKU SPACE QF5 证书持续生效，LUAHK×DAJA 实战营 10/7 开课，HKCIB/AIX 排 CPD 课——认证与实战同时挤入。"]
+  ]
+}
