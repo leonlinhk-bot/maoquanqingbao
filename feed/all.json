@@ -1,9 +1,174 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-13T10:12:42Z",
-  "itemCount": 1341,
+  "generatedAt": "2026-10-13T13:12:40Z",
+  "itemCount": 1352,
   "items": [
+    {
+      "id": "ibm-japan-fsa-prudential-life-suspension-593252-20261013",
+      "title": "日本金融厅勒令保德信两家寿险停售新单至 2027 年 1 月 31 日　雇员销售渠道受限、独立代理渠道获豁免",
+      "sourceTier": "media",
+      "themes": [
+        "enforcement",
+        "conduct",
+        "talent",
+        "japan"
+      ],
+      "publishedAt": "2026-10-13",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-japan-fsa-prudential-life-suspension-593252-20261013",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/japan-orders-prudentials-life-units-to-stop-soliciting-new-business-until-january-31-593252.aspx"
+    },
+    {
+      "id": "artemis-leadenhall-ils-controlled-ai-20261013",
+      "title": "Leadenhall：ILS 产品纪律优先　以“受控 AI”提升生产力与风险分析",
+      "sourceTier": "pro",
+      "themes": [
+        "ai",
+        "ils",
+        "governance",
+        "asset-management"
+      ],
+      "publishedAt": "2026-10-13",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-leadenhall-ils-controlled-ai-20261013",
+      "originalUrl": "https://www.artemis.bm/news/leadenhall-positions-for-growth-via-ils-product-discipline-and-controlled-ai-use-albertini/"
+    },
+    {
+      "id": "artemis-swiss-re-reinsurance-supply-alt-capital-20261013",
+      "title": "瑞士再保：再保资本增加是好消息　另类资本只在合理之处配置",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "capital",
+        "ils",
+        "pricing"
+      ],
+      "publishedAt": "2026-10-13T19:30:13+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-swiss-re-reinsurance-supply-alt-capital-20261013",
+      "originalUrl": "https://www.artemis.bm/news/swiss-re-says-increased-reinsurance-supply-a-positive-will-align-alt-capital-where-it-makes-sense/"
+    },
+    {
+      "id": "artemis-liberty-mutual-re-mexico-parametric-quake-payout-20261013",
+      "title": "Liberty Mutual Re 向墨西哥政府作出感测器触发的参数式地震赔付　震后数周内启动",
+      "sourceTier": "pro",
+      "themes": [
+        "parametric",
+        "catastrophe",
+        "risk-transfer",
+        "technology"
+      ],
+      "publishedAt": "2026-10-13T17:45:23+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-liberty-mutual-re-mexico-parametric-quake-payout-20261013",
+      "originalUrl": "https://www.artemis.bm/news/liberty-mutual-re-makes-sensor-triggered-parametric-earthquake-payout-in-mexico/"
+    },
+    {
+      "id": "ian-barcelona-floods-urban-flood-risk-20261013",
+      "title": "InsuranceAsia News 评论：巴塞隆拿水灾为城市洪水风险敲响警钟",
+      "sourceTier": "pro",
+      "themes": [
+        "catastrophe",
+        "climate",
+        "protection-gap",
+        "property"
+      ],
+      "publishedAt": "2026-10-13T07:30:03+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-barcelona-floods-urban-flood-risk-20261013",
+      "originalUrl": "https://insuranceasianews.com/barcelona-floods-are-a-wake-up-call-on-urban-flood-risk/"
+    },
+    {
+      "id": "ian-ibisa-parametric-india-ceo-20261013",
+      "title": "参数式保险公司 IBISA 委任印度 CEO　业务由农业延伸至中小企与可再生能源",
+      "sourceTier": "pro",
+      "themes": [
+        "parametric",
+        "climate",
+        "emerging-markets",
+        "insurtech"
+      ],
+      "publishedAt": "2026-10-13T07:58:43+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-ibisa-parametric-india-ceo-20261013",
+      "originalUrl": "https://insuranceasianews.com/parametric-insurer-ibisa-appoints-samdarshi-vikram-singh-as-ceo-for-india/"
+    },
+    {
+      "id": "ian-howden-australia-sport-entertainment-practice-20261013",
+      "title": "Howden 澳洲自 Marsh 引入五名资深经纪　组建体育及娱乐专项业务",
+      "sourceTier": "pro",
+      "themes": [
+        "brokers",
+        "talent",
+        "specialty",
+        "apac"
+      ],
+      "publishedAt": "2026-10-13T15:19:09+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-howden-australia-sport-entertainment-practice-20261013",
+      "originalUrl": "https://insuranceasianews.com/howden-australia-drafts-marsh-team-for-sport-and-entertainment-practice-build-out/"
+    },
+    {
+      "id": "iaasia-singlife-ai-human-oversight-20261013",
+      "title": "Singlife：AI 已处理逾五分之一查询、处理时间减 30%　复杂及敏感个案仍保留人手",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "claims",
+        "governance",
+        "customer-service"
+      ],
+      "publishedAt": "2026-10-13T16:36:28+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-singlife-ai-human-oversight-20261013",
+      "originalUrl": "https://insuranceasia.com/videos/singlife-weighs-ai-speed-against-human-oversight"
+    },
+    {
+      "id": "iaasia-singapore-insurance-adequacy-retirement-20261013",
+      "title": "新加坡保险业由“有没有保”转向“保得够不够”　客户视保险为财富与退休工具",
+      "sourceTier": "media",
+      "themes": [
+        "retirement",
+        "wealth-transfer",
+        "protection-gap",
+        "adequacy"
+      ],
+      "publishedAt": "2026-10-13T13:06:03+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-singapore-insurance-adequacy-retirement-20261013",
+      "originalUrl": "https://insuranceasia.com/insurance/exclusive/singapore-insurers-face-shift-coverage-adequacy"
+    },
+    {
+      "id": "iaa-taiwan-insurers-invest-health-ltc-97223-20261013",
+      "title": "台湾：金管会放宽保险业投资健康、养生与长期照顾事业",
+      "sourceTier": "pro",
+      "themes": [
+        "long-term-care",
+        "ageing",
+        "investment",
+        "policy"
+      ],
+      "publishedAt": "2026-10-13",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-taiwan-insurers-invest-health-ltc-97223-20261013",
+      "originalUrl": "https://www.asiainsurancereview.com/News/View-NewsLetter-Article/id/97223/Type/AirPlus/Taiwan-Regulator-opens-up-insurers-investments-in-health-wellness-and-long-term-care"
+    },
+    {
+      "id": "iaa-mental-health-absences-organisational-risk-97222-20261013",
+      "title": "精神健康缺勤按年升 35%　已成为机构层面的风险",
+      "sourceTier": "pro",
+      "themes": [
+        "health",
+        "employee-benefits",
+        "mental-health",
+        "claims"
+      ],
+      "publishedAt": "2026-10-13",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaa-mental-health-absences-organisational-risk-97222-20261013",
+      "originalUrl": "https://www.asiainsurancereview.com/News/View-NewsLetter-Article/id/97222/Type/AirPlus/Mental-health-absences-are-now-considered-an-organisational-risk"
+    },
     {
       "id": "ian-japan-asset-intensive-reinsurance-rules-fitch-20261013",
       "title": "日本收紧资产密集型再保险规则　惠誉：或带来资本压力与风险再捕捉　同时解禁代理与经纪合作",
