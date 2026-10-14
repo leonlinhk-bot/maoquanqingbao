@@ -1,9 +1,346 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-13T18:11:37Z",
-  "itemCount": 1354,
+  "generatedAt": "2026-10-14T13:38:55Z",
+  "itemCount": 1375,
   "items": [
+    {
+      "id": "artemis-ils-investors-alternative-model-views-karen-clark-20261014",
+      "title": "Karen Clark：ILS 投資者應主動要求納入另類模型視圖　勿長期沿用「舊模型」",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "catastrophe",
+        "risk-modelling",
+        "model-risk",
+        "alternative-capital"
+      ],
+      "publishedAt": "2026-10-14T02:15:19+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-ils-investors-alternative-model-views-karen-clark-20261014",
+      "originalUrl": "https://www.artemis.bm/news/ils-investors-need-to-speak-up-and-ask-for-alternative-model-views-karen-clark/"
+    },
+    {
+      "id": "iaasia-tata-aia-vitality-relaunch-india-20261014",
+      "title": "Tata AIA 在印度重啟 Vitality 健康獎勵計劃　每日步數門檻由7,500降至5,000　可換保費折扣",
+      "sourceTier": "media",
+      "themes": [
+        "health",
+        "wellness",
+        "interactive-insurance",
+        "product-design",
+        "india"
+      ],
+      "publishedAt": "2026-10-14T05:30:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-tata-aia-vitality-relaunch-india-20261014",
+      "originalUrl": "https://insuranceasia.com/insurance/news/tata-aia-eases-wellness-targets-insurance-rewards"
+    },
+    {
+      "id": "iaasia-sun-life-asia-passing-the-torch-philippines-20261014",
+      "title": "Sun Life Asia 調查：92% 菲律賓人計劃傳承財富　教育機會成首要傳承項（56%）　82% 憂財富流失",
+      "sourceTier": "media",
+      "themes": [
+        "legacy",
+        "wealth-transfer",
+        "beneficiary",
+        "family-office",
+        "asean"
+      ],
+      "publishedAt": "2026-10-14T05:15:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-sun-life-asia-passing-the-torch-philippines-20261014",
+      "originalUrl": "https://insuranceasia.com/insurance/news/philippine-legacy-planning-leaves-82-fearing-wealth-loss"
+    },
+    {
+      "id": "ian-iag-nrma-wa-renewal-rights-raci-acquisition-20261014",
+      "title": "IAG 提出轉讓西澳 NRMA 家居及汽車保單續保權　換取 RACI 收購獲批　另承諾十年投入1,400萬美元社區抗逆",
+      "sourceTier": "pro",
+      "themes": [
+        "m&a",
+        "competition",
+        "home-insurance",
+        "consumer-protection",
+        "australia"
+      ],
+      "publishedAt": "2026-10-14T09:08:43+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-iag-nrma-wa-renewal-rights-raci-acquisition-20261014",
+      "originalUrl": "https://insuranceasianews.com/iag-offers-to-trade-nrma-western-australia-renewal-rights-for-raci-deal-approval/"
+    },
+    {
+      "id": "ian-india-shipbuilding-credit-risk-policies-20261014",
+      "title": "印度推出兩項造船信用風險保險　涵蓋出口及本地造船項目　政府提供保費補貼並直接支援保險人賠付",
+      "sourceTier": "pro",
+      "themes": [
+        "credit-insurance",
+        "marine",
+        "policy",
+        "trade",
+        "india"
+      ],
+      "publishedAt": "2026-10-14T17:29:38+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-india-shipbuilding-credit-risk-policies-20261014",
+      "originalUrl": "https://insuranceasianews.com/india-launches-pair-of-shipbuilding-credit-risk-insurance-policies/"
+    },
+    {
+      "id": "artemis-casualty-ils-motivations-timelines-calidris-20261014",
+      "title": "Calidris：傷亡類 ILS 首重理解策略夥伴動機　時間表必須現實",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "casualty",
+        "sidecar",
+        "reinsurance",
+        "alternative-capital"
+      ],
+      "publishedAt": "2026-10-14T16:00:41+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-casualty-ils-motivations-timelines-calidris-20261014",
+      "originalUrl": "https://www.artemis.bm/news/in-casualty-ils-motivations-are-key-timelines-must-be-realistic-trahan-calidris/"
+    },
+    {
+      "id": "fstb-six-cdta-orders-gazetted-20261014",
+      "title": "香港與六國全面性避免雙重課稅協定命令刊憲　10月21日提交立法會　累計已簽60個稅務管轄區",
+      "sourceTier": "official",
+      "themes": [
+        "taxation",
+        "double-taxation",
+        "cross-border",
+        "family-office",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-10-14T16:00:00+08:00",
+      "score": 84,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fstb-six-cdta-orders-gazetted-20261014",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202610/14/P2026101400351.htm"
+    },
+    {
+      "id": "hkma-chongqing-hk-cross-boundary-data-validation-platform-20261014",
+      "title": "金管局歡迎渝港跨境數據驗證平台投入運作　區塊鏈與數據代碼驗證、不涉數據原文件跨境傳輸",
+      "sourceTier": "official",
+      "themes": [
+        "cross-border",
+        "data",
+        "fintech",
+        "hong-kong",
+        "greater-bay-area"
+      ],
+      "publishedAt": "2026-10-14T15:30:00+08:00",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-chongqing-hk-cross-boundary-data-validation-platform-20261014",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261014-4/"
+    },
+    {
+      "id": "govhk-legco-silver-bond-2026-qa-20261014",
+      "title": "立法會十二題：2026年銀色債券47.6萬份有效申請、認購近1,200億元　政府指銀債屬「投資選項」非退休入息保障",
+      "sourceTier": "official",
+      "themes": [
+        "retirement",
+        "silver-bond",
+        "retail-bond",
+        "ageing",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-10-14T14:27:00+08:00",
+      "score": 84,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=govhk-legco-silver-bond-2026-qa-20261014",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202610/14/P2026101400250.htm"
+    },
+    {
+      "id": "hkma-hk-academy-finance-financial-leaders-programme-2027-20261014",
+      "title": "金融學院2027年度「金融領袖計劃」10月15日起接受申請　12月4日截止　保監局為支持監管機構之一",
+      "sourceTier": "official",
+      "themes": [
+        "talent",
+        "leadership",
+        "hong-kong",
+        "regulator",
+        "training"
+      ],
+      "publishedAt": "2026-10-14T12:00:00+08:00",
+      "score": 82,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-hk-academy-finance-financial-leaders-programme-2027-20261014",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261014-3/"
+    },
+    {
+      "id": "ibm-moodys-credit-cover-emerging-market-climate-finance-593437-20261014",
+      "title": "穆迪：單靠信用保險不足以擴大新興市場氣候融資　保險與保證僅佔優惠支持14%",
+      "sourceTier": "media",
+      "themes": [
+        "climate",
+        "credit-insurance",
+        "emerging-markets",
+        "protection-gap",
+        "sustainability"
+      ],
+      "publishedAt": "2026-10-14T11:12:28+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-moodys-credit-cover-emerging-market-climate-finance-593437-20261014",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/credit-cover-alone-will-not-scale-emergingmarket-climate-finance-moodys-says-593437.aspx"
+    },
+    {
+      "id": "ibm-manulife-enterprise-ai-platform-1bn-2027-593434-20261014",
+      "title": "宏利推企業級 AI 平台　目標2027年創造10億美元價值　已批核工具可跨市場重用（首個為美國人壽報價工具）",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "underwriting",
+        "productivity",
+        "insurer",
+        "apac"
+      ],
+      "publishedAt": "2026-10-14T11:08:20+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-manulife-enterprise-ai-platform-1bn-2027-593434-20261014",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/manulife-launches-enterprise-ai-platform-as-it-targets-1-billion-in-value-by-2027-593434.aspx"
+    },
+    {
+      "id": "fstb-hk-first-sidecar-ils-picc-20261014",
+      "title": "財庫局歡迎首宗「側掛車」保險相連證券在港發行　人保財險以1,200萬美元為海上風電保險提供比例再保　累計 ILS 發行約63億港元",
+      "sourceTier": "official",
+      "themes": [
+        "ils",
+        "sidecar",
+        "alternative-capital",
+        "hong-kong",
+        "risk-transfer",
+        "renewable"
+      ],
+      "publishedAt": "2026-10-14T11:00:00+08:00",
+      "score": 92,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fstb-hk-first-sidecar-ils-picc-20261014",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202610/14/P2026101300435.htm"
+    },
+    {
+      "id": "ian-zurich-scott-yin-china-ceo-20261014",
+      "title": "蘇黎世委任 Scott Yin 為中國業務行政總裁　此前於安盛天平任職逾十年",
+      "sourceTier": "pro",
+      "themes": [
+        "talent",
+        "insurer",
+        "china",
+        "leadership",
+        "apac"
+      ],
+      "publishedAt": "2026-10-14T10:17:45+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-zurich-scott-yin-china-ceo-20261014",
+      "originalUrl": "https://insuranceasianews.com/zurich-taps-scott-yin-as-china-unit-ceo/"
+    },
+    {
+      "id": "scmp-imf-higher-borrowing-costs-public-finances-20261014",
+      "title": "IMF 警告借貸成本上升正令全球公共財政承壓　與年會前政策討論同步",
+      "sourceTier": "media",
+      "themes": [
+        "macro",
+        "interest-rate",
+        "sovereign-risk",
+        "public-finance",
+        "imf"
+      ],
+      "publishedAt": "2026-10-14T10:00:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-imf-higher-borrowing-costs-public-finances-20261014",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3370722/imf-warns-higher-borrowing-costs-are-straining-public-finances-worldwide"
+    },
+    {
+      "id": "ian-japan-cabinet-marine-insurance-oil-vessels-20261014",
+      "title": "日本內閣通過法案　以政府支援強化油輪海運保險保障　屬能源供應安全三法案之一",
+      "sourceTier": "pro",
+      "themes": [
+        "marine",
+        "war-risk",
+        "energy",
+        "policy",
+        "japan"
+      ],
+      "publishedAt": "2026-10-14T08:03:16+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-japan-cabinet-marine-insurance-oil-vessels-20261014",
+      "originalUrl": "https://insuranceasianews.com/japans-cabinet-approves-bill-to-support-marine-insurance-covers-for-oil-vessels/"
+    },
+    {
+      "id": "ian-supply-chain-cbi-fatalism-basi-20261014",
+      "title": "供應鏈或有營業中斷：市場瀰漫「宿命感」　Russell Group 指難以為製造網絡與金融傳導風險定價",
+      "sourceTier": "pro",
+      "themes": [
+        "supply-chain",
+        "business-interruption",
+        "catastrophe",
+        "pricing",
+        "protection-gap"
+      ],
+      "publishedAt": "2026-10-14T07:30:08+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-supply-chain-cbi-fatalism-basi-20261014",
+      "originalUrl": "https://insuranceasianews.com/sense-of-fatalism-abounds-over-assessment-of-impact-of-conflict-on-supply-chains/"
+    },
+    {
+      "id": "iaasia-nat-re-capital-underwriting-volumes-20261014",
+      "title": "Nat Re：資本實力配合賠付改善　為非壽險提高承保量打開空間",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "capital",
+        "claims",
+        "asean",
+        "underwriting"
+      ],
+      "publishedAt": "2026-10-14T06:00:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-nat-re-capital-underwriting-volumes-20261014",
+      "originalUrl": "https://insuranceasia.com/insurance/news/nat-res-capital-strength-opens-door-higher-underwriting-volumes"
+    },
+    {
+      "id": "iaasia-hsbc-life-cross-border-healthcare-lounges-20261014",
+      "title": "滙豐人壽擴展跨境醫療服務　增設四個服務點　港陸保單持有人可用預約及陪診服務",
+      "sourceTier": "media",
+      "themes": [
+        "health",
+        "cross-border",
+        "medical-network",
+        "greater-bay-area",
+        "customer-service"
+      ],
+      "publishedAt": "2026-10-14T05:45:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-hsbc-life-cross-border-healthcare-lounges-20261014",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hsbc-life-expands-cross-border-healthcare-four-new-lounges"
+    },
+    {
+      "id": "iaasia-life-insurers-retirement-savings-shift-20261014",
+      "title": "壽險面對退休儲蓄模式轉變的競爭壓力　個人自負退休責任推升產品與理財建議需求",
+      "sourceTier": "media",
+      "themes": [
+        "retirement",
+        "savings",
+        "wealth-management",
+        "life-insurance",
+        "advisory"
+      ],
+      "publishedAt": "2026-10-14T05:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-life-insurers-retirement-savings-shift-20261014",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/life-insurers-face-pressure-retirement-savings-shift"
+    },
+    {
+      "id": "ibm-indonesia-draft-capital-rules-specialty-lines-593358-20261014",
+      "title": "印尼擬收緊資本規則　惠譽評級保險人七成未達2028年資本目標　小型保險人或失信用險業務及船體、航空、能源自留上限",
+      "sourceTier": "media",
+      "themes": [
+        "capital",
+        "solvency",
+        "credit-insurance",
+        "specialty",
+        "asean"
+      ],
+      "publishedAt": "2026-10-14T03:07:49+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-indonesia-draft-capital-rules-specialty-lines-593358-20261014",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/indonesias-draft-capital-rules-would-restrict-smaller-insurers-credit-and-specialty-lines-593358.aspx"
+    },
     {
       "id": "artemis-verisk-hurricane-isaias-onshore-loss-20261014",
       "title": "Verisk：飓风 Isaias 陆上财产保险损失初步估计 10 亿至 20 亿美元　为目前各口径中偏低者",

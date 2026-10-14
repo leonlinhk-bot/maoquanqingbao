@@ -1,11 +1,22 @@
 {
  "source": "artemis",
  "source_label": "Artemis",
- "fetched_at": "2026-10-13T12:00:49.134363+08:00",
+ "fetched_at": "2026-10-14T18:08:37.358907+08:00",
  "feed_url": "https://artemis.bm/feed/",
  "feed_window": 10,
- "entries_fingerprint": "sha256:55325962557c1a76b4937657893da5eb",
- "new_count": 0,
+ "entries_fingerprint": "sha256:86911b35cea55902f88c7f942bf5938d",
+ "new_count": 1,
  "filtered_out": 0,
- "items": []
+ "items": [
+  {
+   "id": "150971",
+   "title": "In casualty ILS motivations are key, timelines must be realistic: Trahan, Calidris",
+   "url": "https://www.artemis.bm/news/in-casualty-ils-motivations-are-key-timelines-must-be-realistic-trahan-calidris/?utm_source=rss&utm_medium=rss&utm_campaign=in-casualty-ils-motivations-are-key-timelines-must-be-realistic-trahan-calidris",
+   "published": "Wed, 14 Oct 2026 08:00:41 +0000",
+   "published_hkt": "2026-10-14T16:00:41+08:00",
+   "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. Casualty insurance-linked securities transactions are complex and require strong alignment, which makes finding strategic partners and understanding their motivations key, while at the same time given the complexity of arrangements such as casualty sidecars, realistic timelines are important, Philippe Trahan of Calidris Investment Partners said yesterday. Trahan, Co-founder and Co-CEO of insurance-focused investment manager Calidris [&#8230;] In casualty ILS motivations are key, timelines must be realistic: Trahan, Calidris was published by: www.Artemis.bm Our catastrophe bond deal directory Sign up for our free weekly email newsletter here .",
+   "author": null,
+   "paywalled": false
+  }
+ ]
 }
