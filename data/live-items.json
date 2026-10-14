@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-10-14T21:38:35+08:00",
-    "itemCount": 1375,
+    "generatedAt": "2026-10-15T00:50:26+08:00",
+    "itemCount": 1377,
     "windowNote": {
-      "sc": "本库1375条。",
-      "tc": "本庫1375條。"
+      "sc": "本库1377条。",
+      "tc": "本庫1377條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -325,6 +325,190 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "clusterCount": 1,
+      "score": 70,
+      "verifyStatus": "verified",
+      "sourceTier": "pro",
+      "sourceKey": "artemis",
+      "contentKind": "news",
+      "actions": {
+        "front": {
+          "sc": "客戶問另類資產分散風險時的案例",
+          "tc": "客戶問另類資產分散風險時的案例"
+        },
+        "midback": {
+          "sc": "ILS 在組合中的定位（固定收益 vs 另類）",
+          "tc": "ILS 在組合中的定位（固定收益 vs 另類）"
+        },
+        "lead": {
+          "sc": "團隊簡報：巨災債券的風險回報特徵",
+          "tc": "團隊簡報：巨災債券的風險回報特徵"
+        },
+        "cross": {
+          "sc": "家辦資產配置中的低相關性資產",
+          "tc": "家辦資產配置中的低相關性資產"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 2,
+        "lead": 3,
+        "cross": 2
+      },
+      "boards": [
+        "market",
+        "family"
+      ],
+      "themes": [
+        "ils",
+        "cat-bonds",
+        "asset-allocation",
+        "diversification",
+        "family-office"
+      ],
+      "tags": {
+        "sc": [
+          "Victory Capital",
+          "巨災債券",
+          "ILS",
+          "資產配置",
+          "瑞士再保指數"
+        ],
+        "tc": [
+          "Victory Capital",
+          "巨災債券",
+          "ILS",
+          "資產配置",
+          "瑞士再保指數"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-10-15T00:50:26+08:00",
+      "id": "artemis-victory-capital-cat-bonds-allocation-flexibility-20261014",
+      "publishedAt": "2026-10-14T21:00:42+08:00",
+      "originalUrl": "https://www.artemis.bm/news/cat-bonds-offer-flexibility-across-fixed-income-and-alternative-investment-allocations-victory-capital/",
+      "title": {
+        "sc": "Victory Capital：巨災債券配置具彈性　可歸入固定收益或另類投資　瑞士再保指數過去19年18年錄正回報",
+        "tc": "Victory Capital：巨災債券配置具彈性　可歸入固定收益或另類投資　瑞士再保指數過去19年18年錄正回報"
+      },
+      "summary": {
+        "sc": "Artemis 於10月14日報道，資產管理公司 Victory Capital 指出，巨災債券與傳統金融市場相關性低，且組合配置具高度彈性，既可歸入投資者的固定收益部分，也可放入另類投資策略。該行以瑞士再保全球巨災債券指數（2007–2025年）為代理指標：過去19年中有18年錄得正回報；三年度滾動回報介乎2.58%至16.07%，17個滾動期全部為正、且全部高於2%。該行強調巨災債券存在事件觸發的本金風險，未必適合所有投資者，主動管理可平衡地域曝險並捕捉結構性低效。[EN原文]",
+        "tc": "Artemis 於10月14日報道，資產管理公司 Victory Capital 指出，巨災債券與傳統金融市場相關性低，且組合配置具高度彈性，既可歸入投資者的固定收益部分，也可放入另類投資策略。該行以瑞士再保全球巨災債券指數（2007–2025年）為代理指標：過去19年中有18年錄得正回報；三年度滾動回報介乎2.58%至16.07%，17個滾動期全部為正、且全部高於2%。該行強調巨災債券存在事件觸發的本金風險，未必適合所有投資者，主動管理可平衡地域曝險並捕捉結構性低效。[EN原文]"
+      },
+      "why": {
+        "sc": "這是 ILS 資產類別「機構化敘事」的最新一份素材：賣點已由「高收益」轉為「低相關性 + 配置彈性 + 長期正回報紀錄」。對香港的現實意義是，本港 ILS 生態（巨災債券、側掛車、未來受保護單元公司）能否持續發行，取決於本地及亞洲機構資金是否把巨災債券納入常規資產配置——資產管理公司開始在公開材料中做「配置框」論述，正是需求端成熟的先行信號。",
+        "tc": "這是 ILS 資產類別「機構化敘事」的最新一份素材：賣點已由「高收益」轉為「低相關性 + 配置彈性 + 長期正回報紀錄」。對香港的現實意義是，本港 ILS 生態（巨災債券、側掛車、未來受保護單元公司）能否持續發行，取決於本地及亞洲機構資金是否把巨災債券納入常規資產配置——資產管理公司開始在公開材料中做「配置框」論述，正是需求端成熟的先行信號。"
+      },
+      "source": {
+        "sc": "Artemis.bm 2026-10-14 報道（Victory Capital 觀點）",
+        "tc": "Artemis.bm 2026-10-14 報道（Victory Capital 觀點）",
+        "lang": "en",
+        "name": "Artemis.bm",
+        "date": "2026-10-14",
+        "note": "EN原文；含瑞士再保全球巨災債券指數回報數據"
+      },
+      "summaryShort": {
+        "sc": "Artemis 於10月14日報道，資產管理公司 Victory Capital 指出，巨災債券與傳統金融市場相關性低，且組合配置具高度彈性，既可歸入投資者的固定收益部分，也可放入另類投資策略。",
+        "tc": "Artemis 於10月14日報道，資產管理公司 Victory Capital 指出，巨災債券與傳統金融市場相關性低，且組合配置具高度彈性，既可歸入投資者的固定收益部分，也可放入另類投資策略。"
+      }
+    },
+    {
+      "clusterCount": 1,
+      "score": 60,
+      "verifyStatus": "verified",
+      "sourceTier": "media",
+      "sourceKey": "insurancebusinessmag",
+      "contentKind": "news",
+      "actions": {
+        "front": {
+          "sc": "客戶談退休儲備與人口老化時的國際參照",
+          "tc": "客戶談退休儲備與人口老化時的國際參照"
+        },
+        "midback": {
+          "sc": "退休收入缺口與年金需求",
+          "tc": "退休收入缺口與年金需求"
+        },
+        "lead": {
+          "sc": "團隊簡報：老齡化的宏觀傳導鏈",
+          "tc": "團隊簡報：老齡化的宏觀傳導鏈"
+        },
+        "cross": {
+          "sc": "人才流動與客戶結構變化",
+          "tc": "人才流動與客戶結構變化"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 2,
+        "cross": 1
+      },
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "demographics",
+        "longevity",
+        "retirement-gap",
+        "macro"
+      ],
+      "tags": {
+        "sc": [
+          "加拿大央行",
+          "人口老化",
+          "勞動人口",
+          "退休保障",
+          "移民政策"
+        ],
+        "tc": [
+          "加拿大央行",
+          "人口老化",
+          "勞動人口",
+          "退休保障",
+          "移民政策"
+        ]
+      },
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "featured": false,
+      "evergreen": false,
+      "ingestedAt": "2026-10-15T00:50:26+08:00",
+      "id": "ibm-bank-of-canada-demographic-workforce-shrink-593491-20261014",
+      "publishedAt": "2026-10-14T22:55:56+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/business-strategy/demographic-changes-to-shrink-canadas-workforce-bank-of-canada-593491.aspx",
+      "title": {
+        "sc": "加拿大央行：人口結構變化將令勞動人口收縮　2025年人口僅增0.5%（百餘年最慢）　醫療與退休需求上升",
+        "tc": "加拿大央行：人口結構變化將令勞動人口收縮　2025年人口僅增0.5%（百餘年最慢）　醫療與退休需求上升"
+      },
+      "summary": {
+        "sc": "Insurance Business 於10月14日報道，加拿大央行一份解說文件指出，人口老化加上移民減少，正令該國勞動人口收縮，並可能推高部分行業工資。加拿大2025年人口僅增長0.5%，為逾一世紀以來最慢，遠低於過去50年約1.2%的年均增速；生育率已低於更替水平逾50年，移民自2024年起持續削減（2026年臨時勞工目標23萬人）。央行指勞動力短缺或推高工資並傳導至通脹，同時年長人口醫療支出較高，帶動該行業需求。[EN原文]",
+        "tc": "Insurance Business 於10月14日報道，加拿大央行一份解說文件指出，人口老化加上移民減少，正令該國勞動人口收縮，並可能推高部分行業工資。加拿大2025年人口僅增長0.5%，為逾一世紀以來最慢，遠低於過去50年約1.2%的年均增速；生育率已低於更替水平逾50年，移民自2024年起持續削減（2026年臨時勞工目標23萬人）。央行指勞動力短缺或推高工資並傳導至通脹，同時年長人口醫療支出較高，帶動該行業需求。[EN原文]"
+      },
+      "why": {
+        "sc": "老齡化的宏觀傳導鏈很值得前線引用：出生率長期低於更替 + 移民收緊 → 勞動力缺口 → 工資與通脹壓力 → 公共財政與個人退休儲備雙重吃緊。把這條鏈條放到香港，即是「高才通」等人才政策、以及內地訪客定義調整所爭奪的，正是同一批可移動的年輕勞動力與高淨值人群；而退休收入缺口擴大，則直接支撐年金、醫療與長照類產品的需求敘事。",
+        "tc": "老齡化的宏觀傳導鏈很值得前線引用：出生率長期低於更替 + 移民收緊 → 勞動力缺口 → 工資與通脹壓力 → 公共財政與個人退休儲備雙重喫緊。把這條鏈條放到香港，即是「高才通」等人才政策、以及內地訪客定義調整所爭奪的，正是同一批可移動的年輕勞動力與高淨值人羣；而退休收入缺口擴大，則直接支撐年金、醫療與長照類產品的需求敘事。"
+      },
+      "source": {
+        "sc": "Insurance Business Asia 2026-10-14 報道（加拿大央行解說文件）",
+        "tc": "Insurance Business Asia 2026-10-14 報道（加拿大央行解說文件）",
+        "lang": "en",
+        "name": "Insurance Business Asia",
+        "date": "2026-10-14",
+        "note": "EN原文；含人口與移民數據要點"
+      },
+      "summaryShort": {
+        "sc": "Insurance Business 於10月14日報道，加拿大央行一份解說文件指出，人口老化加上移民減少，正令該國勞動人口收縮，並可能推高部分行業工資。加拿大2025年人口僅增長0.5%，為逾一世紀以來最慢，遠低於過去50年約1.",
+        "tc": "Insurance Business 於10月14日報道，加拿大央行一份解說文件指出，人口老化加上移民減少，正令該國勞動人口收縮，並可能推高部分行業工資。加拿大2025年人口僅增長0.5%，為逾一世紀以來最慢，遠低於過去50年約1."
+      }
+    },
     {
       "clusterCount": 1,
       "score": 70,
@@ -4942,7 +5126,7 @@
         "date": "2026-10-12",
         "note": "EN原文；IBRD CAR Mexico 2024 (Pacific) 1.75 亿美元"
       },
-      "clusterId": "c49",
+      "clusterId": "c51",
       "summaryShort": {
         "sc": "Artemis 於10月12日報道，引述資產管理公司 Azimut Switzerland 的 ILS 投資專員 Isacco Loconte 分析，指四級颶風 Simon 路徑西移後，似一直停留於國際復興開發銀行（IBRD）「CAR Me…",
         "tc": "Artemis 於10月12日報道，引述資產管理公司 Azimut Switzerland 的 ILS 投資專員 Isacco Loconte 分析，指四級颶風 Simon 路徑西移後，似一直停留於國際復興開發銀行（IBRD）「CAR Me…"
@@ -8320,7 +8504,7 @@
         "sc": "Artemis 10月10日報道：太平洋颶風Simon持續快速增強，美國國家颶風中心指其已達四級（持續風速150英里、中心最低氣壓約938mb），預計周日於墨西哥西南至中西部登陸，令規模1.",
         "tc": "Artemis 10月10日報道：太平洋颶風Simon持續快速增強，美國國家颶風中心指其已達四級（持續風速150英里、中心最低氣壓約938mb），預計周日於墨西哥西南至中西部登陸，令規模1."
       },
-      "clusterId": "c49"
+      "clusterId": "c51"
     },
     {
       "clusterCount": 1,
@@ -9772,7 +9956,7 @@
         "date": "2026-10-09",
         "note": null
       },
-      "clusterId": "c102",
+      "clusterId": "c104",
       "summaryShort": {
         "sc": "Artemis 10月9日報道：颶風 Isaias 最新預測將進一步增強為三級（major）颶風，其後在逼近／登陸前減弱，業界仍預期承保損失會達到單位數十億美元（single-digit billion）水平。",
         "tc": "Artemis 10月9日報道：颶風 Isaias 最新預測將進一步增強為三級（major）颶風，其後在逼近／登陸前減弱，業界仍預期承保損失會達到單位數十億美元（single-digit billion）水平。"
@@ -13673,7 +13857,7 @@
         "sc": "Artemis 10月8日報道：Isaias 已成為2026年大西洋颶風季首個颶風，一夜間增強，預測仍指向可能在墨西哥灣沿岸以二級颶風登陸。再保經紀 Gallagher Re 表示，若以該強度登陸，通常會造成低至中單位數十億美元（low t…",
         "tc": "Artemis 10月8日報道：Isaias 已成為2026年大西洋颶風季首個颶風，一夜間增強，預測仍指向可能在墨西哥灣沿岸以二級颶風登陸。再保經紀 Gallagher Re 表示，若以該強度登陸，通常會造成低至中單位數十億美元（low t…"
       },
-      "clusterId": "c102"
+      "clusterId": "c104"
     },
     {
       "id": "iaan-ok-financial-yebyeol-insurance-kdic-20261008",
@@ -15190,7 +15374,7 @@
         "date": "2026-10-06",
         "note": null
       },
-      "clusterId": "c162",
+      "clusterId": "c164",
       "summaryShort": {
         "sc": "Insurance Asia 10月6日報道：因 Tomas Kunzmann 獲委任進入安聯集團（Allianz SE）董事會，安聯公布接任安排——現任 Allianz Direct 行政總裁 Philipp Kroetz 於2026年1…",
         "tc": "Insurance Asia 10月6日報道：因 Tomas Kunzmann 獲委任進入安聯集團（Allianz SE）董事會，安聯公布接任安排——現任 Allianz Direct 行政總裁 Philipp Kroetz 於2026年1…"
@@ -22340,7 +22524,7 @@
         "date": null,
         "note": "EN原文"
       },
-      "clusterId": "c162",
+      "clusterId": "c164",
       "summaryShort": {
         "sc": "Insurance Business Asia 10月2日报道（记者 Jonalyn Cueto）：安联10月1日在慕尼黑公布两项数字化业务人事调动——原 Allianz Direct CEO Philipp Kroetz（46岁）将于20…",
         "tc": "Insurance Business Asia 10月2日報道（記者 Jonalyn Cueto）：安聯10月1日在慕尼黑公佈兩項數字化業務人事調動——原 Allianz Direct CEO Philipp Kroetz（46歲）將於20…"
@@ -35288,7 +35472,7 @@
         "note": "EN原文"
       },
       "originalUrl": "https://www.info.gov.hk/gia/general/202609/25/P2026092500465.htm",
-      "clusterId": "c413",
+      "clusterId": "c415",
       "summaryShort": {
         "sc": "金管局呼吁市民提高警觉，指大新银行有限公司已就「欺詐社交媒体帖文」发出新闻稿并向金管局汇报，相关超链接已上载至金管局网站。金管局重申：银行不会透过短讯或电邮超链接引导客户到其网站进行交易，亦不会以电话、电邮或手机短讯（包括以超链接方式）要求…",
         "tc": "金管局呼吁市民提高警觉，指大新银行有限公司已就「欺詐社交媒体帖文」发出新闻稿并向金管局汇报，相关超链接已上载至金管局网站。金管局重申：银行不会透过短讯或电邮超链接引导客户到其网站进行交易，亦不会以电话、电邮或手机短讯（包括以超链接方式）要求…"
@@ -37936,7 +38120,7 @@
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-09-25T02:15:00+08:00",
-      "clusterId": "c413",
+      "clusterId": "c415",
       "summaryShort": {
         "sc": "金管局9月24日发布「Scam alert related to banks」，转述东亚银行、上海商业银行、创兴银行、集友银行等就伪冒网站及网上银行登录画面、钓鱼电邮等发出的提示。",
         "tc": "金管局9月24日發布「Scam alert related to banks」，轉述東亞銀行、上海商業銀行、創興銀行、集友銀行等就偽冒網站及網上銀行登錄畫面、釣魚電郵等發出的提示。"
@@ -41215,7 +41399,7 @@
       },
       "publishedAt": "2026-09-23T18:00:00+08:00",
       "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260923-5/",
-      "clusterId": "c413",
+      "clusterId": "c415",
       "summaryShort": {
         "sc": "金管局9月23日发布「Scam alert related to banks」，转述东亚银行、上海商业银行、创兴银行、集友银行有关伪冒网站及网上银行登录画面，以及大新银行伪冒网站的提示。",
         "tc": "金管局9月23日發布「Scam alert related to banks」，轉述東亞銀行、上海商業銀行、創興銀行、集友銀行有關偽冒網站及網上銀行登錄畫面，以及大新銀行偽冒網站的提示。"
@@ -44947,7 +45131,7 @@
       },
       "publishedAt": "2026-09-22",
       "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260922-3/",
-      "clusterId": "c413",
+      "clusterId": "c415",
       "summaryShort": {
         "sc": "香港金融管理局于2026年9月22日发布「Scam alert related to banks」（与银行有关的骗案警示），属例行公众防骗提示，与该局同日刊出的银行同业结算公司欺诈网站提示配套。",
         "tc": "香港金融管理局於2026年9月22日發布「Scam alert related to banks」（與銀行有關的騙案警示），屬例行公眾防騙提示，與該局同日刊出的銀行同業結算公司欺詐網站提示配套。"
@@ -54124,7 +54308,7 @@
       "contentKind": "press",
       "publishedAt": "2026-09-16",
       "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260916-3/",
-      "clusterId": "c601",
+      "clusterId": "c603",
       "summaryShort": {
         "sc": "9月16日，金管局发布「Scam alert related to banks（与银行有关的诈骗提示）」及「HKICL alerts public of fraudulent website（香港银行同业结算有限公司提醒公众提防伪冒网站）」…",
         "tc": "9月16日，金管局發布「Scam alert related to banks（與銀行有關的詐騙提示）」及「HKICL alerts public of fraudulent website（香港銀行同業結算有限公司提醒公眾提防偽冒網站）」…"
@@ -54824,7 +55008,7 @@
       "contentKind": "press",
       "publishedAt": "2026-09-15",
       "originalUrl": "https://gmteight.com/flash/detail/1502684",
-      "clusterId": "c609",
+      "clusterId": "c611",
       "summaryShort": {
         "sc": "9月15日，香港保险业联会（HKFI）就「内地对境外保单收益征收20%个人所得税」的市场传闻回复《第一财经》指：截至目前，相关部门并未发布任何官方政策文件或实施细则，联会正持续监测并密切关注事态发展，故不对市场讨论与传闻作任何揣测或评论。",
         "tc": "9月15日，香港保險業聯會（HKFI）就「內地對境外保單收益徵收20%個人所得稅」的市場傳聞回覆《第一財經》指：截至目前，相關部門並未發布任何官方政策文件或實施細則，聯會正持續監測並密切關注事態發展，故不對市場討論與傳聞作任何揣測或評論。"
@@ -55086,7 +55270,7 @@
       "contentKind": "press",
       "publishedAt": "2026-09-15",
       "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260915-4/",
-      "clusterId": "c601",
+      "clusterId": "c603",
       "summaryShort": {
         "sc": "香港金管局9月15日发出警示，提醒公众注意4间银行（东亚银行、上海商业银行、创兴银行、富邦银行（香港））已向金管局通报的伪冒网站及伪冒网上银行登录画面。金管局重申银行不会发送内嵌超链接、引导客户进入银行网站进行交易的短讯或电邮，也不会通过电…",
         "tc": "香港金管局9月15日發出警示，提醒公眾注意4間銀行（東亞銀行、上海商業銀行、創興銀行、富邦銀行（香港））已向金管局通報的偽冒網站及偽冒網上銀行登入畫面。金管局重申銀行不會發送內嵌超連結、引導客戶進入銀行網站進行交易的短訊或電郵，也不會通過電…"
@@ -60725,7 +60909,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c679",
+      "clusterId": "c681",
       "summaryShort": {
         "sc": "金管局9月10日汇总两家银行骗案通报：星展银行（香港）出现假冒网站、网银登入画面及钓鱼电邮，富邦银行（香港）出现假冒网站及网银登入画面；提醒银行不会以短讯或电邮内嵌链接引导交易，亦不会索取登入密码或一次性验证码。",
         "tc": "金管局9月10日匯總兩家銀行騙案通報：星展銀行（香港）出現假冒網站、網銀登入畫面及釣魚電郵，富邦銀行（香港）出現假冒網站及網銀登入畫面；提醒銀行不會以短訊或電郵內嵌連結引導交易，亦不會索取登入密碼或一次性驗證碼。"
@@ -62289,7 +62473,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c698",
+      "clusterId": "c700",
       "summaryShort": {
         "sc": "金管局汇总两家银行骗案通报：中银香港出现钓鱼即时短讯，华侨银行（香港）出现假冒网站及网银登入画面；提醒公众银行不会经短信或电邮内嵌链接引导交易，亦不会以电话、电邮或短讯索取登入密码或一次性验证码；",
         "tc": "金管局匯總兩家銀行騙案通報：中銀香港出現釣魚即時短訊，華僑銀行（香港）出現假冒網站及網銀登入畫面；提醒公眾銀行不會經短訊或電郵內嵌連結引導交易，亦不會以電話、電郵或短訊索取登入密碼或一次性驗證碼；"
@@ -62372,7 +62556,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c699",
+      "clusterId": "c701",
       "summaryShort": {
         "sc": "香港银行同业结算公司（HKICL）发现多个假冒网站（fpshk.cc、fpshkicl.homes、refundrequesthk.xyz等），冒充「买家网上保障」提供FPS转账退款、未授权交易申报等服务，更诱导用户交出证件号码、身份证照片…",
         "tc": "香港銀行同業結算公司（HKICL）發現多個假冒網站（fpshk.cc、fpshkicl.homes、refundrequesthk.xyz等），冒充「買家網上保障」提供FPS轉賬退款、未授權交易申報等服務，更誘導用戶交出證件號碼、身份證照片…"
@@ -62538,7 +62722,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c698",
+      "clusterId": "c700",
       "summaryShort": {
         "sc": "金管局汇总两家银行骗案通报：中国建设银行（亚洲）出现假冒网站及网银登入画面，瑞士宝盛（Bank Julius Baer）出现假冒网站；提醒公众银行不会经短信或电邮内嵌链接索取密码及一次性验证码，受骗应即联络相关银行并向警方报案。",
         "tc": "金管局匯總兩家銀行騙案通報：中國建設銀行（亞洲）出現假冒網站及網銀登入畫面，瑞士寶盛（Bank Julius Baer）出現假冒網站；提醒公眾銀行不會經短訊或電郵內嵌連結索取密碼及一次性驗證碼，受騙應即聯絡相關銀行並向警方報案。"
@@ -63191,7 +63375,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c698",
+      "clusterId": "c700",
       "summaryShort": {
         "sc": "金管局汇总五家银行骗案通报：东亚银行、上海商业银行、创兴银行、集友银行及瑞士宝盛（Julius Baer）出现假冒网站及网银登入画面；提醒公众银行不会经短信或电邮内嵌链接索取密码及一次性验证码。",
         "tc": "金管局匯總五家銀行騙案通報：東亞銀行、上海商業銀行、創興銀行、集友銀行及瑞士寶盛（Julius Baer）出現假冒網站及網銀登入畫面；提醒公眾銀行不會經短訊或電郵內嵌連結索取密碼及一次性驗證碼。"
@@ -63274,7 +63458,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c699",
+      "clusterId": "c701",
       "summaryShort": {
         "sc": "香港银行同业结算公司（HKICL）警示三类假冒网站（含64.176.54.120、zksttgf.xyz、hkrefundplatform.sbs等），冒充「买家网上保障」以退款、异常交易报告为名，诱骗用户上传身份证件、银行资料经FPS转账…",
         "tc": "香港銀行同業結算公司（HKICL）警示三類假冒網站（含64.176.54.120、zksttgf.xyz、hkrefundplatform.sbs等），冒充「買家網上保障」以退款、異常交易報告為名，誘騙用戶上傳身份證件、銀行資料經FPS轉賬…"
@@ -64252,7 +64436,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c698",
+      "clusterId": "c700",
       "summaryShort": {
         "sc": "金管局汇总三家银行骗案通报：东亚银行、上海商业银行及华侨银行（香港）现假冒网站及网银登入画面；提醒公众银行不会经短讯或电邮内嵌链接引导登入或索取密码及一次性验证码，怀疑受骗应即联络银行并报警。",
         "tc": "金管局匯總三家銀行騙案通報：東亞銀行、上海商業銀行及華僑銀行（香港）現假冒網站及網銀登入畫面；提醒公眾銀行不會經短訊或電郵內嵌連結引導登入或索取密碼及一次性驗證碼，懷疑受騙應即聯絡銀行並報警。"
@@ -64738,7 +64922,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c679",
+      "clusterId": "c681",
       "summaryShort": {
         "sc": "金管局汇总六家银行骗案通报：中银香港现钓鱼即时讯息、星展现钓鱼电邮，东亚、上海商业银行、创兴及集友均现假冒网站及网银登入画面，提醒公众勿经讯息内嵌链接登入银行或交出密码及一次性验证码。",
         "tc": "金管局匯總六家銀行騙案通報：中銀香港現釣魚即時訊息、星展現釣魚電郵，東亞、上海商業銀行、創興及集友均現假冒網站及網銀登入畫面，提醒公眾勿經訊息內嵌連結登入銀行或交出密碼及一次性驗證碼。"
@@ -64985,7 +65169,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c609",
+      "clusterId": "c611",
       "summaryShort": {
         "sc": "香港保险业联会9月3日回应「内地拟对境外保单收益征20%个税」传闻：相关部门未发布正式文件或细则，正密切跟进、不作猜测；强调客户保障、传承与资产配置需求仍强，港险产品设计灵活、货币配置多元，市场仍具吸引力。",
         "tc": "香港保險業聯會9月3日回應「內地擬對境外保單收益徵20%個稅」傳聞：相關部門未發布正式文件或細則，正密切跟進、不作猜測；強調客戶保障、傳承與資產配置需求仍強，港險產品設計靈活、貨幣配置多元，市場仍具吸引力。"
@@ -66521,7 +66705,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c698",
+      "clusterId": "c700",
       "summaryShort": {
         "sc": "金管局提醒公众留意东亚银行、上海商业银行、创兴银行、集友银行及Ele Bank五间银行发布的诈骗警示，涉及假冒网站及网银登入画面。金管局重申银行不会经短信或电邮内嵌链接引导客户交易，亦不会索取登入密码或一次性验证码，呼吁市民提高警觉。",
         "tc": "金管局提醒公眾留意東亞銀行、上海商業銀行、創興銀行、集友銀行及Ele Bank五間銀行發布的詐騙警示，涉及假冒網站及網銀登入畫面。金管局重申銀行不會經短信或電郵內嵌連結引導客戶交易，亦不會索取登入密碼或一次性驗證碼，呼籲市民提高警覺。"
@@ -67783,7 +67967,7 @@
       "contentKind": "news",
       "publishedAt": "2026-09-01T06:54:00+08:00",
       "originalUrl": "https://gmt8press.com/flash/detail/1502684",
-      "clusterId": "c609",
+      "clusterId": "c611",
       "summaryShort": {
         "sc": "针对「内地将对境外保单收益征收20%个税」传闻，香港保险业联会9月1日回应第一财经称，相关部门尚未发布官方政策文件或实施细节，联会正密切关注事态。联会强调客户保障、财富传承与资产配置需求依然强劲，港险在产品设计、货币配置及传承规划上仍具吸引…",
         "tc": "針對「內地將對境外保單收益徵收20%個稅」傳聞，香港保險業聯會9月1日回應第一財經稱，相關部門尚未發布官方政策文件或實施細節，聯會正密切關注事態。聯會強調客戶保障、財富傳承與資產配置需求依然強勁，港險在產品設計、貨幣配置及傳承規劃上仍具吸引…"
@@ -68575,7 +68759,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c777",
+      "clusterId": "c779",
       "summaryShort": {
         "sc": "财政部与金融监管总局联合印发《会计师事务所职业责任保险实施办法》，2027年1月1日施行：涉资本市场及公共利益审计业务的投保额度下限由5000万上调至1亿元，执业年限、行政处罚、涉诉情况等纳入费率浮动机制；",
         "tc": "財政部與金融監管總局聯合印發《會計師事務所職業責任保險實施辦法》，2027年1月1日施行：涉資本市場及公共利益審計業務的投保額度下限由5000萬上調至1億元，執業年限、行政處罰、涉訴情況等納入費率浮動機制；"
@@ -69585,7 +69769,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c777",
+      "clusterId": "c779",
       "summaryShort": {
         "sc": "财政部、金融监管总局联合印发《会计师事务所职业责任保险实施办法》(财会〔2026〕12号)。从事证券服务及金融企业审计的会计所基本投保额度由5000万元上调至1亿元，合伙人超100名的按每名合伙人100万元计；",
         "tc": "財政部、金融監管總局聯合印發《會計師事務所職業責任保險實施辦法》(財會〔2026〕12號)。從事證券服務及金融企業審計的會計所基本投保額度由5000萬元上調至1億元，合夥人超100名的按每名合夥人100萬元計；"
@@ -69979,7 +70163,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c699",
+      "clusterId": "c701",
       "summaryShort": {
         "sc": "香港银行同业结算公司(HKICL)发现两个假冒网站仿冒「买家网上保障」，以退款及交易支援为饵，诱FPS用户交出身份证件、电话及银行账户资料，并引导联络冒充客服的骗徒。HKICL提醒公众即时报案。",
         "tc": "香港銀行同業結算公司(HKICL)發現兩個假冒網站仿冒「買家網上保障」，以退款及交易支援為餌，誘FPS用戶交出身份證件、電話及銀行賬戶資料，並引導聯絡冒充客服的騙徒。HKICL提醒公眾即時報案。"
@@ -70057,7 +70241,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c698",
+      "clusterId": "c700",
       "summaryShort": {
         "sc": "金管局提醒公众留意东亚银行、创兴银行、上海商业银行及交通银行(香港)发出的警示，涉及假冒网站及网上银行登入画面。金管局重申银行不会经短信或电邮附连结引导客户交易，亦不会索取敏感资料，遇可疑应即举报。",
         "tc": "金管局提醒公眾留意東亞銀行、創興銀行、上海商業銀行及交通銀行(香港)發出的警示，涉及假冒網站及網上銀行登入畫面。金管局重申銀行不會經短信或電郵附連結引導客戶交易，亦不會索取敏感資料，遇可疑應即舉報。"
@@ -70836,7 +71020,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c699",
+      "clusterId": "c701",
       "summaryShort": {
         "sc": "香港银行同业结算公司(HKICL)提示多个假冒网站及连结，冒充「买家网上保障」服务，声称可提供买家退款、未经授权交易报告及网上交易支援，诱骗经转数快(FPS)付款的用户。HKICL提醒公众不会经上述网站索取敏感资料，遇可疑应即举报。",
         "tc": "香港銀行同業結算公司(HKICL)提示多個假冒網站及連結，冒充「買家網上保障」服務，聲稱可提供買家退款、未經授權交易報告及網上交易支援，誘騙經轉數快(FPS)付款的用戶。HKICL提醒公眾不會經上述網站索取敏感資料，遇可疑應即舉報。"
@@ -70917,7 +71101,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c698",
+      "clusterId": "c700",
       "summaryShort": {
         "sc": "金管局发布诈骗警示汇总，多家银行近日就假冒网站、网上银行登录页面、钓鱼电邮或其它骗案发出新闻稿。金管局提醒公众：银行不会经短信或电邮内嵌链接引导客户进行交易，也不会通过电话、电邮或短信索取登录密码或一次性验证码。",
         "tc": "金管局發佈詐騙警示匯總，多家銀行近日就假冒網站、網上銀行登錄頁面、釣魚電郵或其它騙案發出新聞稿。金管局提醒公眾：銀行不會經短信或電郵內嵌連結引導客戶進行交易，也不會透過電話、電郵或短信索取登錄密碼或一次性驗證碼。"
@@ -80196,7 +80380,7 @@
       "contentKind": "report",
       "publishedAt": "2026-08-07T10:00:00+08:00",
       "originalUrl": "https://www.munichre.com/content/dam/munichre/mrwebsiteslaunches/2026-half-year-financial-report/MunichRe-Media-release-Q2-2026_en.pdf",
-      "clusterId": "c922",
+      "clusterId": "c924",
       "summaryShort": {
         "sc": "Munich Re 2026 年上半年集团净利 39.25 亿欧元（+23.5%），创同期纪录；Q2 净利 22 亿欧元，投资回报率 5.5%。集团维持 2026 全年 63 亿欧元目标，但下调再保保险收入预期至 380 亿欧元（原 400…",
         "tc": "Munich Re 2026 年上半年集團淨利 39.25 億歐元（+23.5%），創同期紀錄；Q2 淨利 22 億歐元，投資回報率 5.5%。集團維持 2026 全年 63 億歐元目標。"
@@ -81067,7 +81251,7 @@
       "contentKind": "report",
       "publishedAt": "2026-08-06T10:00:00+08:00",
       "originalUrl": "https://www.swissre.com/media/press-release/pr-20260806-hy-2026-press-release.html",
-      "clusterId": "c922",
+      "clusterId": "c924",
       "summaryShort": {
         "sc": "Swiss Re 2026 年上半年净收入 28 亿美元，同比 +9%；财险再保综合成本率 76.7%（上半年），名义价格 -0.2%（计入损失假设上调后实际 -4.6%）；再投资收益率升至 5.2%。",
         "tc": "Swiss Re 2026 年上半年淨收入 28 億美元，同比 +9%；財險再保綜合成本率 76.7%；再投資收益率升至 5.2%。集團維持 2026 全年 45 億美元目標。"
@@ -90598,7 +90782,7 @@
       "contentKind": "press",
       "publishedAt": "2026-07-07T10:00:00+08:00",
       "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1263701&itemId=928",
-      "clusterId": "c1055",
+      "clusterId": "c1057",
       "summaryShort": {
         "sc": "2026 年 7 月 7 日，国家金融监管总局与上海市政府联合发布《关于加快上海国际再保险中心建设的若干措施》。目标是让上海成为亚太再保险交易中心——与香港争夺区域再保险枢纽地位。",
         "tc": "2026 年 7 月 7 日，國家金融監管總局與上海市政府聯合發布《關於加快上海國際再保險中心建設的若干措施》。目標是讓上海成為亞太再保險交易中心——與香港爭奪區域再保險樞紐地位。"
@@ -90673,7 +90857,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c1055",
+      "clusterId": "c1057",
       "summaryShort": {
         "sc": "2026年7月7日，国家金融监督管理总局联合上海市政府印发《加快上海国际再保险中心建设的若干措施》，提出包括税收优惠、跨境再保险便利化、机构集聚等一揽子政策。此举将深化上海与香港再保险市场的竞合关系，影响亚洲再保险版图。",
         "tc": ""
@@ -95312,7 +95496,7 @@
         "market"
       ],
       "contentKind": "circular",
-      "clusterId": "c1113",
+      "clusterId": "c1115",
       "summaryShort": {
         "sc": "2026年6月5日，金管局发布《持牌保险中介人（属认可机构）就具定期缴款条款的分红保单的报酬结构》通函，与保监局同日通函平行发布。要求银行作为持牌保险中介销售分红保单时，须采用与保监局实务指引一致的佣金分摊安排。",
         "tc": "2026年6月5日，金管局發布《持牌保險中介人（屬認可機構）就具定期繳款條款的分紅保單的報酬結構》通函，與保監局同日通函平行發布。要求銀行作為持牌保險中介銷售分紅保單時，須採用與保監局實務指引一致的佣金分攤安排。"
@@ -95400,7 +95584,7 @@
       ],
       "contentKind": "circular",
       "clusterCount": 2,
-      "clusterId": "c1113",
+      "clusterId": "c1115",
       "summaryShort": {
         "sc": "2026年6月5日，保监局发通函提请业界注意金管局同日通函《持牌保险中介人（属认可机构）就具定期缴款条款的分红保单的报酬结构》。银行渠道的分红报酬亦纳入与「公平待客」一致的分摊逻辑。",
         "tc": "2026年6月5日，保監局發通函提請業界注意金管局同日通函《持牌保險中介人（屬認可機構）就具定期繳款條款的分紅保單的報酬結構》。銀行渠道的分紅報酬亦納入與「公平待客」一致的分攤邏輯。"
@@ -97045,7 +97229,7 @@
       "themes": [
         "market"
       ],
-      "clusterId": "c1134",
+      "clusterId": "c1136",
       "summaryShort": {
         "sc": "保监局2026年5月13日发出《银行业与保险业之间的跨行业背景查核安排》通函，与金管局衔接。首阶段于2026年7月1日实施，覆盖银行及保险机构的寿险从业员，准员工过去七年操守记录可在两行业间共享。",
         "tc": "保監局5月13日發出跨行業背景查核通函"
@@ -97133,7 +97317,7 @@
         "reg"
       ],
       "contentKind": "circular",
-      "clusterId": "c1134",
+      "clusterId": "c1136",
       "summaryShort": {
         "sc": "保监局2026年5月13日发出《银行业与保险业之间的跨行业背景查核安排》通函，与金管局衔接，覆盖长期业务中介在银行与保险机构间跳槽时的主事人查核。",
         "tc": "保監局2026年5月13日發出《銀行業與保險業之間的跨行業背景查核安排》通函，與金管局銜接，覆蓋長期業務中介在銀行與保險機構間跳槽時的主事人查核。"
@@ -97364,7 +97548,7 @@
         "market",
         "reinsurance"
       ],
-      "clusterId": "c1138",
+      "clusterId": "c1140",
       "summaryShort": {
         "sc": "保监局2026年5月8日公布对《保险业（估值及资本）规则》拟议修订的咨询结论。目标在维持审慎的同时，激励保险人投资基建、增强香港作为全球风险管理中心的竞争力。修订涵盖基建投资优惠、离岸再保险宽免、IUL匹配调整等7项。",
         "tc": "保監局5月8日公布RBC修訂諮詢結論，涵蓋基建優惠、離岸再保寬免等7項"
@@ -97453,7 +97637,7 @@
         "reg"
       ],
       "contentKind": "press",
-      "clusterId": "c1138",
+      "clusterId": "c1140",
       "summaryShort": {
         "sc": "保监局2026年5月8日公布对《保险业（估值及资本）规则》拟议修订的咨询结论，目标在维持审慎的同时，激励保险人投资基建、增强香港作为全球风险管理中心的竞争力。",
         "tc": "保監局2026年5月8日公布對《保險業（估值及資本）規則》擬議修訂的諮詢結論，目標在維持審慎的同時，激勵保險人投資基建、增強香港作為全球風險管理中心的競爭力。"
@@ -103812,7 +103996,7 @@
         "market"
       ],
       "contentKind": "press",
-      "clusterId": "c1218",
+      "clusterId": "c1220",
       "summaryShort": {
         "sc": "保监局2026年1月23日公布2025年前三季临时统计：长期业务（不含退休计划）新造保单保费约2645亿港元，同比上升约55.9%；第三季单季新造约907亿，同比约+68.8%。",
         "tc": "保監局2026年1月23日公布2025年前三季臨時統計：長期業務（不含退休計劃）新造保單保費約2645億港元，同比上升約55.9%；第三季單季新造約907億，同比約+68.8%。"
@@ -103900,7 +104084,7 @@
       "themes": [
         "market"
       ],
-      "clusterId": "c1218",
+      "clusterId": "c1220",
       "summaryShort": {
         "sc": "保监局2026年1月23日公布2025年前三季临时统计：长期业务新造保费2644.52亿港元同比+55.9%，其中分红业务新保单保费2262.75亿港元同比+60.1%。终身寿险占比80.5%，储蓄寿险10.6%。",
         "tc": "保監局公布2025前三季統計，分紅保費同比+60%"
@@ -109859,7 +110043,7 @@
       "contentKind": "press",
       "publishedAt": "2025-04-30T10:00:00+08:00",
       "originalUrl": "https://www.aia.com/content/dam/group-wise/en/docs/investor-relations/2025/AIA%20Group%202025%20Q1%20New%20Business%20Highlights%20(Eng).pdf",
-      "clusterId": "c1295",
+      "clusterId": "c1297",
       "summaryShort": {
         "sc": "2025 年 4 月 30 日，友邦集团公布 2025 年首季新业务亮点：VONB 按固定汇率计增长 13%。香港业务在本地及内地访客（MCV）双引擎带动下录得强劲增长，继续保持市场第一。",
         "tc": "2025 年 4 月 30 日，友邦集團公佈 2025 年首季新業務亮點：VONB 按固定匯率計增長 13%。香港業務在本地及內地訪客（MCV）雙引擎帶動下錄得強勁增長。"
@@ -110004,7 +110188,7 @@
       "contentKind": "report",
       "publishedAt": "2025-04-30T10:00:00+08:00",
       "originalUrl": "https://www.aia.com/content/dam/group-wise/zh-hk/docs/investor-relations/2025/AIA%20Group%202025%20Q1%20New%20Business%20Highlights%20(Chi).pdf",
-      "clusterId": "c1295",
+      "clusterId": "c1297",
       "summaryShort": {
         "sc": "友邦保险公布 2025 年第一季新业务摘要：新业务价值 15 亿美元，较 2024 年创纪录的季度上升 13%。集团首席执行官李源祥指增长势头延续，香港业务为核心驱动力之一。",
         "tc": "友邦保險公佈 2025 年第一季新業務摘要：新業務價值 15 億美元，較 2024 年創紀錄的季度上升 13%。集團首席執行官李源祥指增長勢頭延續。"
@@ -116197,8 +116381,10 @@
           "sc": "2026-10-14",
           "tc": "2026-10-14"
         },
-        "itemCount": 22,
+        "itemCount": 24,
         "itemIds": [
+          "artemis-victory-capital-cat-bonds-allocation-flexibility-20261014",
+          "ibm-bank-of-canada-demographic-workforce-shrink-593491-20261014",
           "artemis-ils-investors-alternative-model-views-karen-clark-20261014",
           "iaasia-tata-aia-vitality-relaunch-india-20261014",
           "iaasia-sun-life-asia-passing-the-torch-philippines-20261014",
@@ -120564,8 +120750,10 @@
           "sc": "2026-W42",
           "tc": "2026-W42"
         },
-        "itemCount": 69,
+        "itemCount": 71,
         "itemIds": [
+          "artemis-victory-capital-cat-bonds-allocation-flexibility-20261014",
+          "ibm-bank-of-canada-demographic-workforce-shrink-593491-20261014",
           "artemis-ils-investors-alternative-model-views-karen-clark-20261014",
           "iaasia-tata-aia-vitality-relaunch-india-20261014",
           "iaasia-sun-life-asia-passing-the-torch-philippines-20261014",
@@ -123071,8 +123259,10 @@
           "sc": "2026-10",
           "tc": "2026-10"
         },
-        "itemCount": 275,
+        "itemCount": 277,
         "itemIds": [
+          "artemis-victory-capital-cat-bonds-allocation-flexibility-20261014",
+          "ibm-bank-of-canada-demographic-workforce-shrink-593491-20261014",
           "artemis-ils-investors-alternative-model-views-karen-clark-20261014",
           "iaasia-tata-aia-vitality-relaunch-india-20261014",
           "iaasia-sun-life-asia-passing-the-torch-philippines-20261014",
@@ -124798,8 +124988,10 @@
           "sc": "2026 年",
           "tc": "2026 年"
         },
-        "itemCount": 1231,
+        "itemCount": 1233,
         "itemIds": [
+          "artemis-victory-capital-cat-bonds-allocation-flexibility-20261014",
+          "ibm-bank-of-canada-demographic-workforce-shrink-593491-20261014",
           "artemis-ils-investors-alternative-model-views-karen-clark-20261014",
           "iaasia-tata-aia-vitality-relaunch-india-20261014",
           "iaasia-sun-life-asia-passing-the-torch-philippines-20261014",
@@ -127915,10 +128107,10 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 1375 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 1375 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 1377 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 1377 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 1375,
+      "totalItems": 1377,
       "sourceTiers": [
         {
           "tier": "official",
@@ -127937,12 +128129,12 @@
         },
         {
           "tier": "media",
-          "count": 493,
+          "count": 494,
           "label": "媒体报道"
         },
         {
           "tier": "pro",
-          "count": 356,
+          "count": 357,
           "label": "专业解读"
         },
         {

@@ -1,9 +1,40 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-14T13:38:55Z",
-  "itemCount": 1375,
+  "generatedAt": "2026-10-14T16:50:30Z",
+  "itemCount": 1377,
   "items": [
+    {
+      "id": "artemis-victory-capital-cat-bonds-allocation-flexibility-20261014",
+      "title": "Victory Capital：巨災債券配置具彈性　可歸入固定收益或另類投資　瑞士再保指數過去19年18年錄正回報",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "cat-bonds",
+        "asset-allocation",
+        "diversification",
+        "family-office"
+      ],
+      "publishedAt": "2026-10-14T21:00:42+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-victory-capital-cat-bonds-allocation-flexibility-20261014",
+      "originalUrl": "https://www.artemis.bm/news/cat-bonds-offer-flexibility-across-fixed-income-and-alternative-investment-allocations-victory-capital/"
+    },
+    {
+      "id": "ibm-bank-of-canada-demographic-workforce-shrink-593491-20261014",
+      "title": "加拿大央行：人口結構變化將令勞動人口收縮　2025年人口僅增0.5%（百餘年最慢）　醫療與退休需求上升",
+      "sourceTier": "media",
+      "themes": [
+        "demographics",
+        "longevity",
+        "retirement-gap",
+        "macro"
+      ],
+      "publishedAt": "2026-10-14T22:55:56+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-bank-of-canada-demographic-workforce-shrink-593491-20261014",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/business-strategy/demographic-changes-to-shrink-canadas-workforce-bank-of-canada-593491.aspx"
+    },
     {
       "id": "artemis-ils-investors-alternative-model-views-karen-clark-20261014",
       "title": "Karen Clark：ILS 投資者應主動要求納入另類模型視圖　勿長期沿用「舊模型」",
