@@ -630,10 +630,10 @@
       "tc": "情報密度"
     },
     "subtitle": {
-      "sc": "自动从 1399 条资讯聚合 · sourceKey 标准化完成",
-      "tc": "自動從 1399 條資訊聚合 · sourceKey 標準化完成"
+      "sc": "自动从 1406 条资讯聚合 · sourceKey 标准化完成",
+      "tc": "自動從 1406 條資訊聚合 · sourceKey 標準化完成"
     },
-    "totalItems": 1399,
+    "totalItems": 1406,
     "sourceTiers": [
       {
         "tier": "official",
@@ -652,12 +652,12 @@
       },
       {
         "tier": "media",
-        "count": 503,
+        "count": 504,
         "label": "媒体报道"
       },
       {
         "tier": "pro",
-        "count": 368,
+        "count": 374,
         "label": "专业解读"
       },
       {
@@ -741,7 +741,7 @@
       },
       {
         "theme": "reinsurance",
-        "count": 132,
+        "count": 133,
         "label": "再保险"
       },
       {
@@ -766,12 +766,12 @@
       },
       {
         "theme": "capital",
-        "count": 92,
+        "count": 93,
         "label": "capital"
       },
       {
         "theme": "ils",
-        "count": 86,
+        "count": 87,
         "label": "保险相连证券"
       },
       {
@@ -781,8 +781,8 @@
       }
     ],
     "dateRange": {
-      "sc": "2013-03-05 ~ 2026-10-15",
-      "tc": "2013-03-05 ~ 2026-10-15"
+      "sc": "2013-03-05 ~ 2026-10-16",
+      "tc": "2013-03-05 ~ 2026-10-16"
     }
   },
   "marketData": {

@@ -1,9 +1,121 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-15T13:14:39Z",
-  "itemCount": 1399,
+  "generatedAt": "2026-10-15T16:35:26Z",
+  "itemCount": 1406,
   "items": [
+    {
+      "id": "rn-brit-re-james-winn-cuo-bermuda-20261016",
+      "title": "英资 Brit 委任 James Winn 掌百慕达 Brit Re　任首席核保官兼办公室主管",
+      "sourceTier": "pro",
+      "themes": [
+        "appointments",
+        "bermuda",
+        "property-treaty",
+        "leadership",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-10-16T00:00:10+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-brit-re-james-winn-cuo-bermuda-20261016",
+      "originalUrl": "https://www.reinsurancene.ws/james-winn-appointed-cuo-and-head-of-office-brit-re-bermuda/"
+    },
+    {
+      "id": "artemis-stand-landi-cfo-70m-series-c-20261015",
+      "title": "保险科企 Stand 聘前 Nephila 高层任 CFO　完成 7,000 万美元 C 轮、估值 10 亿美元",
+      "sourceTier": "pro",
+      "themes": [
+        "insurtech",
+        "ils",
+        "catastrophe-risk",
+        "funding",
+        "climate-resilience"
+      ],
+      "publishedAt": "2026-10-15T23:50:38+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-stand-landi-cfo-70m-series-c-20261015",
+      "originalUrl": "https://www.artemis.bm/news/stand-hires-former-nephila-exec-landi-as-cfo-raises-70-million-series-c/"
+    },
+    {
+      "id": "ian-marsh-greensill-credit-suisse-800m-settlement-20261015",
+      "title": "据报威达信在瑞信 Greensill 澳洲诉讼 8 亿美元和解中承担最大份额",
+      "sourceTier": "pro",
+      "themes": [
+        "professional-liability",
+        "litigation",
+        "greensill",
+        "broker",
+        "claims"
+      ],
+      "publishedAt": "2026-10-15T23:38:47+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-marsh-greensill-credit-suisse-800m-settlement-20261015",
+      "originalUrl": "https://insuranceasianews.com/marsh-to-pay-largest-share-of-us800m-credit-suisse-greensill-settlement-ft/"
+    },
+    {
+      "id": "rn-marsh-ai-systemic-cyber-doyle-20261015",
+      "title": "威达信 CEO Doyle：AI 已成业务即时驱动力　惟警告系统性网络风险须协同监管",
+      "sourceTier": "pro",
+      "themes": [
+        "ai-governance",
+        "cyber-risk",
+        "systemic-risk",
+        "broker",
+        "earnings"
+      ],
+      "publishedAt": "2026-10-15T23:30:28+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-marsh-ai-systemic-cyber-doyle-20261015",
+      "originalUrl": "https://www.reinsurancene.ws/marsh-leans-into-ai-growth-but-warns-of-systemic-cyber-exposure-ceo-doyle/"
+    },
+    {
+      "id": "rn-acic-aces-es-specialty-approval-20261015",
+      "title": "ACIC 新设子公司 ACES 获亚利桑那州发牌　12 月起承保超额及盈余（E&S）商业财产险",
+      "sourceTier": "pro",
+      "themes": [
+        "es-market",
+        "catastrophe-property",
+        "mga",
+        "us-market",
+        "capital"
+      ],
+      "publishedAt": "2026-10-15T23:00:41+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-acic-aces-es-specialty-approval-20261015",
+      "originalUrl": "https://www.reinsurancene.ws/acics-aces-specialty-insurance-company-gets-approval-to-underwrite-es-insurance/"
+    },
+    {
+      "id": "artemis-marsh-ceo-casualty-sidecars-20261015",
+      "title": "威达信 CEO：客户探讨以侧挂（sidecar）等第三方资本方案　分担责任险组合风险",
+      "sourceTier": "pro",
+      "themes": [
+        "sidecar",
+        "casualty-ils",
+        "alternative-capital",
+        "reinsurance-cycle",
+        "liability"
+      ],
+      "publishedAt": "2026-10-15T22:47:51+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-marsh-ceo-casualty-sidecars-20261015",
+      "originalUrl": "https://www.artemis.bm/news/marsh-ceo-flags-client-interest-in-casualty-sidecars-notes-reinsurance-market-softening/"
+    },
+    {
+      "id": "ibm-marsh-q3-revenue-consulting-offset-20261015",
+      "title": "威达信第三季收入增 8% 至 69 亿美元　管理咨询双位数增长抵销再保收入跌 6%",
+      "sourceTier": "media",
+      "themes": [
+        "broker",
+        "earnings",
+        "consulting",
+        "asia-pacific",
+        "reinsurance-cycle"
+      ],
+      "publishedAt": "2026-10-15T21:46:19+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-marsh-q3-revenue-consulting-offset-20261015",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/marsh-revenue-rises-8-as-consulting-growth-offsets-reinsurance-decline-593667.aspx"
+    },
     {
       "id": "artemis-nepal-catbond-mandate-signed-20261015",
       "title": "世界銀行確認與尼泊爾簽署地震巨災債券授權協議　目標8,000萬至1.9億美元參數式保障",
