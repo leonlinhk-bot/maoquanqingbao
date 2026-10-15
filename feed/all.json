@@ -1,9 +1,73 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-15T10:15:12Z",
-  "itemCount": 1395,
+  "generatedAt": "2026-10-15T13:14:39Z",
+  "itemCount": 1399,
   "items": [
+    {
+      "id": "artemis-nepal-catbond-mandate-signed-20261015",
+      "title": "世界銀行確認與尼泊爾簽署地震巨災債券授權協議　目標8,000萬至1.9億美元參數式保障",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "catastrophe-bond",
+        "parametric",
+        "sovereign-risk",
+        "world-bank"
+      ],
+      "publishedAt": "2026-10-15T19:35:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-nepal-catbond-mandate-signed-20261015",
+      "originalUrl": "https://www.artemis.bm/news/world-bank-confirms-signing-of-nepal-quake-catastrophe-bond-mandate/"
+    },
+    {
+      "id": "artemis-munichre-traditional-reinsurance-backbone-blunck-20261015",
+      "title": "慕尼黑再保 Blunck：傳統再保仍是全球風險市場骨幹　「另類資本佔兩成」說法不反映實況",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "alternative-capital",
+        "ils",
+        "market-cycle",
+        "capital-adequacy"
+      ],
+      "publishedAt": "2026-10-15T18:30:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-munichre-traditional-reinsurance-backbone-blunck-20261015",
+      "originalUrl": "https://www.artemis.bm/news/traditional-reinsurance-still-the-backbone-despite-alternative-capital-influx-munich-res-blunck/"
+    },
+    {
+      "id": "rn-swissre-uk-liability-claims-legal-reform-20261015",
+      "title": "瑞再研究院：英國責任險賠案成本或再升　訴訟融資與集體索償改革成關鍵變數",
+      "sourceTier": "media",
+      "themes": [
+        "liability",
+        "claims-inflation",
+        "litigation-funding",
+        "legal-reform",
+        "product-liability"
+      ],
+      "publishedAt": "2026-10-15T21:00:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-swissre-uk-liability-claims-legal-reform-20261015",
+      "originalUrl": "https://www.reinsurancene.ws/uk-liability-claims-growth-could-rise-further-as-legal-reforms-are-reviewed-says-swiss-re/"
+    },
+    {
+      "id": "rn-marsh-q3-2026-marsh-re-revenue-decline-20261015",
+      "title": "威達信第三季：經紀業務收入增一成　再保（Marsh Re）收入跌6%至3.74億美元",
+      "sourceTier": "media",
+      "themes": [
+        "broker",
+        "reinsurance",
+        "earnings",
+        "market-cycle",
+        "distribution"
+      ],
+      "publishedAt": "2026-10-15T20:07:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-marsh-q3-2026-marsh-re-revenue-decline-20261015",
+      "originalUrl": "https://www.reinsurancene.ws/marsh-grows-q326-revenue-8-as-reinsurance-generates-374m/"
+    },
     {
       "id": "hkma-art-framework-ai-adoption-20261015",
       "title": "金管局公布「ART」框架　以問責、韌性、信任推動銀行業負責任應用人工智能",
