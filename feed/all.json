@@ -1,9 +1,296 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-14T16:50:30Z",
-  "itemCount": 1377,
+  "generatedAt": "2026-10-15T10:15:12Z",
+  "itemCount": 1395,
   "items": [
+    {
+      "id": "hkma-art-framework-ai-adoption-20261015",
+      "title": "金管局公布「ART」框架　以問責、韌性、信任推動銀行業負責任應用人工智能",
+      "sourceTier": "official",
+      "themes": [
+        "ai-governance",
+        "agentic-ai",
+        "genai-sandbox",
+        "banking-supervision",
+        "regtech"
+      ],
+      "publishedAt": "2026-10-15T14:30:00+08:00",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-art-framework-ai-adoption-20261015",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261015-3/"
+    },
+    {
+      "id": "ibm-ia-sanctions-six-intermediaries-bank-draft-20261015",
+      "title": "保監局制裁六名中介人　涉代客購買銀行本票並協助虛假聲明　禁業或停牌6至13個月",
+      "sourceTier": "media",
+      "themes": [
+        "aml-cft",
+        "intermediary-conduct",
+        "enforcement",
+        "premium-payment",
+        "third-party-funding"
+      ],
+      "publishedAt": "2026-10-15T02:32:42+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-ia-sanctions-six-intermediaries-bank-draft-20261015",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/hong-kong-sanctions-six-intermediaries-over-false-bank-draft-declarations-593532.aspx"
+    },
+    {
+      "id": "ian-am-best-dah-sing-insurance-upgrade-20261015",
+      "title": "AM Best 上調大新保險評級　財務實力由 A- 升至 A　2021至2025年毛保費累計增約75%",
+      "sourceTier": "pro",
+      "themes": [
+        "ratings",
+        "general-insurance",
+        "motor",
+        "employees-compensation",
+        "a-and-h"
+      ],
+      "publishedAt": "2026-10-15T15:32:24+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-am-best-dah-sing-insurance-upgrade-20261015",
+      "originalUrl": "https://insuranceasianews.com/am-best-upgrades-dah-sing-insurance-ratings-on-strong-business-growth-diversified-portfolio/"
+    },
+    {
+      "id": "ian-peak-re-gaip-principal-partner-20261015",
+      "title": "鼎睿再保險（Peak Re）加入 GAIP 成為主要夥伴　一週內第二家香港成員機構",
+      "sourceTier": "pro",
+      "themes": [
+        "gaip",
+        "reinsurance",
+        "protection-gap",
+        "hk-risk-management-hub"
+      ],
+      "publishedAt": "2026-10-15T12:19:41+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-peak-re-gaip-principal-partner-20261015",
+      "originalUrl": "https://insuranceasianews.com/hong-kongs-peak-re-joins-gaip-as-principal-partner/"
+    },
+    {
+      "id": "ian-china-pi-international-group-application-20261015",
+      "title": "中國船東互保協會（China P&I）正式申請加入國際船東互保協會集團　不影響2027年續保",
+      "sourceTier": "pro",
+      "themes": [
+        "pi-clubs",
+        "marine",
+        "china",
+        "international-group",
+        "reinsurance-pool"
+      ],
+      "publishedAt": "2026-10-15T12:57:54+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-china-pi-international-group-application-20261015",
+      "originalUrl": "https://insuranceasianews.com/china-pi-formally-applies-to-join-international-group-of-pi-clubs/"
+    },
+    {
+      "id": "ian-hormuz-gfs-pride-war-risk-total-loss-20261015",
+      "title": "新加坡籍貨櫃船 GFS Pride 於霍爾木茲海峽沉沒　West of England 指屬戰爭險承保人範疇",
+      "sourceTier": "pro",
+      "themes": [
+        "marine-war-risk",
+        "hormuz",
+        "pi-claims",
+        "total-loss",
+        "geopolitical-risk"
+      ],
+      "publishedAt": "2026-10-15T12:21:30+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-hormuz-gfs-pride-war-risk-total-loss-20261015",
+      "originalUrl": "https://insuranceasianews.com/west-of-england-faces-pi-claims-after-singapore-registered-container-vessel-sinks-in-strait-of-hormuz/"
+    },
+    {
+      "id": "ian-thailand-national-disaster-insurance-first-payout-20261015",
+      "title": "泰國國家災害保險計劃作出首宗賠付　清邁山洪死者家屬獲賠　每戶上限10萬泰銖",
+      "sourceTier": "pro",
+      "themes": [
+        "disaster-insurance",
+        "flood",
+        "government-scheme",
+        "thailand",
+        "protection-gap"
+      ],
+      "publishedAt": "2026-10-15T13:26:02+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-thailand-national-disaster-insurance-first-payout-20261015",
+      "originalUrl": "https://insuranceasianews.com/thailand-makes-first-payout-under-new-disaster-insurance-scheme/"
+    },
+    {
+      "id": "ian-gallagher-specialty-hk-korea-thailand-20261015",
+      "title": "Gallagher Specialty 以香港、韓國、泰國為增長重點　亞洲CEO稱力爭成為「市場顛覆者」",
+      "sourceTier": "pro",
+      "themes": [
+        "broker-expansion",
+        "specialty",
+        "aviation",
+        "hk-market",
+        "competition"
+      ],
+      "publishedAt": "2026-10-15T07:30:56+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-gallagher-specialty-hk-korea-thailand-20261015",
+      "originalUrl": "https://insuranceasianews.com/gallagher-specialty-eyes-hong-kong-south-korea-thailand-as-it-bids-to-be-market-disruptor/"
+    },
+    {
+      "id": "iaasia-singlife-insurer-led-obesity-care-programme-20261015",
+      "title": "Singlife 推新加坡首個保險公司主導肥胖照護計劃　月費289新元並納入核保評估",
+      "sourceTier": "media",
+      "themes": [
+        "health-insurance",
+        "chronic-care",
+        "underwriting",
+        "singapore",
+        "value-based-care"
+      ],
+      "publishedAt": "2026-10-15T12:36:08+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-singlife-insurer-led-obesity-care-programme-20261015",
+      "originalUrl": "https://insuranceasia.com/news/singlife-launches-first-insurer-led-obesity-care-programme"
+    },
+    {
+      "id": "iaasia-chubb-wealth-hamilton-lane-private-markets-20261015",
+      "title": "安達財富聯手 Hamilton Lane　把私募市場常青基金帶到零售客戶平台",
+      "sourceTier": "media",
+      "themes": [
+        "private-markets",
+        "wealth-management",
+        "evergreen-funds",
+        "distribution",
+        "hni"
+      ],
+      "publishedAt": "2026-10-15T05:30:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-chubb-wealth-hamilton-lane-private-markets-20261015",
+      "originalUrl": "https://insuranceasia.com/insurance/news/chubb-wealth-and-hamilton-lane-bring-private-funds-retail-investors"
+    },
+    {
+      "id": "iaasia-igloo-turkey-n-kolay-personal-cyber-20261015",
+      "title": "Igloo 首度走出亞太　經 N Kolay 在土耳其推個人網絡保險　保費約43美元",
+      "sourceTier": "media",
+      "themes": [
+        "cyber-insurance",
+        "embedded-insurance",
+        "insurtech",
+        "expansion",
+        "family-protection"
+      ],
+      "publishedAt": "2026-10-15T05:15:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-igloo-turkey-n-kolay-personal-cyber-20261015",
+      "originalUrl": "https://insuranceasia.com/insurance/news/igloo-debuts-in-turkey-cyber-cover-n-kolay"
+    },
+    {
+      "id": "iaasia-allianz-indonesia-health-premium-growth-20261015",
+      "title": "安聯研究：印尼健康險保費2026至2036年年均增12.9%　遠高於壽險7.9%及產險7.3%",
+      "sourceTier": "pro",
+      "themes": [
+        "health-insurance",
+        "asia-growth",
+        "medical-inflation",
+        "allianz-research",
+        "protection-gap"
+      ],
+      "publishedAt": "2026-10-15T05:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-allianz-indonesia-health-premium-growth-20261015",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/indonesia-health-insurance-could-grow-129-annually"
+    },
+    {
+      "id": "iaasia-malaysia-mediasas-sme-premium-subsidy-20261015",
+      "title": "馬來西亞2027預算案補貼中小企員工 MediAsas 醫保首年保費200令吉　最多20萬人受惠",
+      "sourceTier": "media",
+      "themes": [
+        "health-insurance",
+        "government-subsidy",
+        "sme",
+        "malaysia",
+        "epf"
+      ],
+      "publishedAt": "2026-10-15T05:45:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-malaysia-mediasas-sme-premium-subsidy-20261015",
+      "originalUrl": "https://insuranceasia.com/insurance/news/malaysia-subsidises-mediasas-premiums-49-sme-workers"
+    },
+    {
+      "id": "ibm-beazley-geopolitical-disruption-coverage-gap-20261015",
+      "title": "Beazley 報告：地緣政治衝擊快過保險方案　90%企業領袖稱限制增長（2025年1月為68%）",
+      "sourceTier": "media",
+      "themes": [
+        "geopolitical-risk",
+        "supply-chain",
+        "marine-cargo",
+        "political-risk",
+        "trade-credit",
+        "sanctions"
+      ],
+      "publishedAt": "2026-10-15T17:18:12+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-beazley-geopolitical-disruption-coverage-gap-20261015",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/geopolitical-disruption-is-moving-faster-than-insurance-programmes-593634.aspx"
+    },
+    {
+      "id": "ibm-fairfax-idbi-bank-digit-bancassurance-20261015",
+      "title": "Fairfax 以約56億美元奪 IDBI Bank 60.72% 控股權　擬把 Go Digit 產壽險併入銀行體系",
+      "sourceTier": "media",
+      "themes": [
+        "m-and-a",
+        "india",
+        "bancassurance",
+        "foreign-ownership",
+        "distribution"
+      ],
+      "publishedAt": "2026-10-15T17:17:28+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-fairfax-idbi-bank-digit-bancassurance-20261015",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/fairfax-lands-idbi-bank-in-us5-6bn-deal-and-its-digit-insurers-will-follow-593630.aspx"
+    },
+    {
+      "id": "artemis-kcc-hurricane-isaias-3bn-loss-estimate-20261015",
+      "title": "KCC 估算颶風 Isaias 風災及風暴潮保險損失約30億美元　高於 Verisk 的10億至20億美元",
+      "sourceTier": "pro",
+      "themes": [
+        "catastrophe",
+        "hurricane",
+        "loss-estimate",
+        "ils",
+        "model-risk"
+      ],
+      "publishedAt": "2026-10-15T17:19:20+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-kcc-hurricane-isaias-3bn-loss-estimate-20261015",
+      "originalUrl": "https://www.artemis.bm/news/kcc-estimates-hurricane-isaias-wind-and-surge-insured-losses-at-3bn/"
+    },
+    {
+      "id": "artemis-ils-impact-investing-sage-advisory-20261015",
+      "title": "Sage Advisory：保險相連證券為影響力投資擴闊可行範圍",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "impact-investing",
+        "esg",
+        "asset-allocation",
+        "climate-resilience"
+      ],
+      "publishedAt": "2026-10-15T16:00:55+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-ils-impact-investing-sage-advisory-20261015",
+      "originalUrl": "https://www.artemis.bm/news/insurance-linked-securities-expand-the-horizon-for-impact-investing-smith-sage-advisory/"
+    },
+    {
+      "id": "axa-betterme-weekend-2026-return-20261015",
+      "title": "AXA 安盛第六屆「AXA BetterMe Weekend」10月24及25日回歸西九　首辦主題跑系列",
+      "sourceTier": "insurer",
+      "themes": [
+        "brand",
+        "community",
+        "health-engagement",
+        "customer-engagement"
+      ],
+      "publishedAt": "2026-10-15",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=axa-betterme-weekend-2026-return-20261015",
+      "originalUrl": "https://en.prnasia.com/releases/apac/axa-betterme-weekend-connecting-community-through-sport-551828.shtml"
+    },
     {
       "id": "artemis-victory-capital-cat-bonds-allocation-flexibility-20261014",
       "title": "Victory Capital：巨災債券配置具彈性　可歸入固定收益或另類投資　瑞士再保指數過去19年18年錄正回報",
