@@ -1,9 +1,266 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-16T10:13:27Z",
-  "itemCount": 1424,
+  "generatedAt": "2026-10-16T16:53:50Z",
+  "itemCount": 1440,
   "items": [
+    {
+      "id": "rn-gallagher-re-apac-market-watch-2026-20261016",
+      "title": "Gallagher Re：亚太保险市场面临风险迁移与增长压力",
+      "sourceTier": "pro",
+      "themes": [
+        "apac",
+        "premium-growth",
+        "emerging-risk",
+        "cyber",
+        "ai",
+        "market-outlook"
+      ],
+      "publishedAt": "2026-10-17T00:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-gallagher-re-apac-market-watch-2026-20261016",
+      "originalUrl": "https://www.reinsurancene.ws/apac-re-insurance-markets-face-shifting-risks-and-growth-pressures-gallagher-re/"
+    },
+    {
+      "id": "rn-generali-syndicate-2031-red-bridge-20261016",
+      "title": "忠利设劳合社辛迪加 2031「Red Bridge」　2027 年起承接集团分出业务",
+      "sourceTier": "pro",
+      "themes": [
+        "lloyds",
+        "syndicates",
+        "sidecar",
+        "generali",
+        "reinsurance-strategy",
+        "alternative-capital"
+      ],
+      "publishedAt": "2026-10-16T23:33:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-generali-syndicate-2031-red-bridge-20261016",
+      "originalUrl": "https://www.reinsurancene.ws/generali-advances-reinsurance-strategy-with-launch-of-syndicate-2031-red-bridge-at-lloyds/"
+    },
+    {
+      "id": "rn-visionfund-amazon-basin-parametric-20261016",
+      "title": "VisionFund 与 Global Parametrics 开发亚马逊流域参数式保障",
+      "sourceTier": "pro",
+      "themes": [
+        "parametric-insurance",
+        "climate-risk",
+        "microinsurance",
+        "latam",
+        "development"
+      ],
+      "publishedAt": "2026-10-16T23:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-visionfund-amazon-basin-parametric-20261016",
+      "originalUrl": "https://www.reinsurancene.ws/visionfund-global-parametrics-to-develop-amazon-basin-parametric-cover/"
+    },
+    {
+      "id": "artemis-lloyds-broker-originated-guidance-20261016",
+      "title": "劳合社就经纪主导再保结构发指引　资产管理者入场通道明确化",
+      "sourceTier": "pro",
+      "themes": [
+        "lloyds",
+        "broker-structures",
+        "alternative-capital",
+        "guidance",
+        "approval"
+      ],
+      "publishedAt": "2026-10-16T22:52:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-lloyds-broker-originated-guidance-20261016",
+      "originalUrl": "https://www.artemis.bm/news/lloyds-issues-guidance-and-expectations-for-broker-originated-reinsurance-structures/"
+    },
+    {
+      "id": "ibm-axa-mental-health-survey-20261016",
+      "title": "AXA 调查：八成在职者愿用职场心理健康支援　三分之二难获渠道",
+      "sourceTier": "media",
+      "themes": [
+        "health-insurance",
+        "mental-health",
+        "employee-benefits",
+        "survey",
+        "ai-in-health"
+      ],
+      "publishedAt": "2026-10-16T22:27:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-axa-mental-health-survey-20261016",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/eight-in-10-workers-would-use-workplace-mental-health-support-but-twothirds-lack-access-axa-finds-593858.aspx"
+    },
+    {
+      "id": "artemis-moodys-rms-isaias-loss-estimate-20261016",
+      "title": "穆迪 RMS 估飓风 Isaias 保险损失 25–45 亿美元　最佳估算 35 亿",
+      "sourceTier": "pro",
+      "themes": [
+        "catastrophe-risk",
+        "hurricane",
+        "insured-losses",
+        "us",
+        "risk-modelling"
+      ],
+      "publishedAt": "2026-10-16T21:56:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-moodys-rms-isaias-loss-estimate-20261016",
+      "originalUrl": "https://www.artemis.bm/news/moodys-estimates-insured-losses-from-hurricane-isaias-in-2-5bn-to-4-5bn-range/"
+    },
+    {
+      "id": "rn-travelers-q3-2026-results-20261016",
+      "title": "Travelers 第三季净利 19.17 亿美元　巨灾损失上升但首九个月总额回落",
+      "sourceTier": "pro",
+      "themes": [
+        "earnings",
+        "cat-losses",
+        "reserve-development",
+        "us",
+        "pricing"
+      ],
+      "publishedAt": "2026-10-16T21:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-travelers-q3-2026-results-20261016",
+      "originalUrl": "https://www.reinsurancene.ws/travelers-q326-net-income-rises-despite-higher-cat-losses-but-9m-cat-toll-down-considerably/"
+    },
+    {
+      "id": "artemis-safepoint-nature-coast-re-2026-2-20261016",
+      "title": "SafePoint 拟发 2.5 亿美元 Nature Coast Re 2026-2 巨灾债券　覆盖面历来最广",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "cat-bond",
+        "named-storm",
+        "us-property",
+        "capital-markets"
+      ],
+      "publishedAt": "2026-10-16T20:55:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-safepoint-nature-coast-re-2026-2-20261016",
+      "originalUrl": "https://www.artemis.bm/news/safepoint-targets-250m-nature-coast-re-2026-2-cat-bond-for-broadest-coverage-yet/"
+    },
+    {
+      "id": "rn-marsh-re-baden-baden-janeke-20261016",
+      "title": "Marsh Re：巴登巴登会议将进一步巩固买方有利的再保市场",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance-renewals",
+        "baden-baden",
+        "pricing",
+        "capacity",
+        "broker-view"
+      ],
+      "publishedAt": "2026-10-16T20:30:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-marsh-re-baden-baden-janeke-20261016",
+      "originalUrl": "https://www.reinsurancene.ws/marsh-res-janeke-expects-baden-baden-to-entrench-buyer-favourable-reinsurance-market/"
+    },
+    {
+      "id": "rn-coalition-ai-cyber-escalation-20261016",
+      "title": "Coalition：攻击者找到商业模式后　AI 驱动事故频率将急升",
+      "sourceTier": "pro",
+      "themes": [
+        "cyber-insurance",
+        "ai-risk",
+        "accumulation",
+        "underwriting",
+        "systemic-risk"
+      ],
+      "publishedAt": "2026-10-16T20:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-coalition-ai-cyber-escalation-20261016",
+      "originalUrl": "https://www.reinsurancene.ws/ai-driven-incidents-will-escalate-in-frequency-once-attackers-find-the-right-business-model-coalition/"
+    },
+    {
+      "id": "artemis-777-wander-guilty-plea-20261016",
+      "title": "777 Partners 联合创办人 Wander 认罪　涉逾 5 亿美元欺诈贷款人与投资者",
+      "sourceTier": "pro",
+      "themes": [
+        "fraud",
+        "litigation",
+        "ils-collateral",
+        "due-diligence",
+        "enforcement"
+      ],
+      "publishedAt": "2026-10-16T19:47:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-777-wander-guilty-plea-20261016",
+      "originalUrl": "https://www.artemis.bm/news/777-co-founder-wander-pleads-guilty-to-500m-scheme-to-defraud-lenders-and-investors/"
+    },
+    {
+      "id": "rn-credeq-syndicate-1998-lloyds-approval-20261016",
+      "title": "Credeq 获劳合社原则性批准设辛迪加 1998　2027 年起承保信用风险",
+      "sourceTier": "pro",
+      "themes": [
+        "lloyds",
+        "credit-risk",
+        "syndicate",
+        "approval",
+        "trade-credit"
+      ],
+      "publishedAt": "2026-10-16T19:30:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-credeq-syndicate-1998-lloyds-approval-20261016",
+      "originalUrl": "https://www.reinsurancene.ws/credeq-syndicate-1998-receives-lloyds-in-principle-approval/"
+    },
+    {
+      "id": "ibm-marsh-talent-poaching-30m-20261016",
+      "title": "抢人大战：Marsh 单季斥资 3,000 万美元应对同业挖角",
+      "sourceTier": "media",
+      "themes": [
+        "talent",
+        "brokers",
+        "asia-expansion",
+        "howden",
+        "competition"
+      ],
+      "publishedAt": "2026-10-16T18:59:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-marsh-talent-poaching-30m-20261016",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/poaching-wars-marsh-spends-us30m-in-a-quarter-fighting-rivals-over-staff-593832.aspx"
+    },
+    {
+      "id": "artemis-allstate-september-cat-losses-20261016",
+      "title": "Allstate 9 月巨灾损失 2.2 亿美元　巨灾债券年度累计升至 33.72 亿",
+      "sourceTier": "pro",
+      "themes": [
+        "cat-losses",
+        "cat-bonds",
+        "us-property",
+        "aggregate-retention",
+        "earnings"
+      ],
+      "publishedAt": "2026-10-16T18:30:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-allstate-september-cat-losses-20261016",
+      "originalUrl": "https://www.artemis.bm/news/allstate-reports-220m-september-pre-tax-cat-losses-taking-aggregate-year-to-3-37bn/"
+    },
+    {
+      "id": "scmp-hkex-t1-settlement-delay-2028-20261016",
+      "title": "港交所把 T+1 结算推迟至 2028 年　回应业界要求更多准备时间",
+      "sourceTier": "media",
+      "themes": [
+        "hkex",
+        "settlement",
+        "market-infrastructure",
+        "brokers",
+        "operations"
+      ],
+      "publishedAt": "2026-10-16T18:19:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-hkex-t1-settlement-delay-2028-20261016",
+      "originalUrl": "https://www.scmp.com/business/markets/article/3371176/hkex-pushes-back-t1-trade-settlement-2028-after-brokers-request-more-prep-time"
+    },
+    {
+      "id": "ian-apac-people-moves-week-20261016",
+      "title": "本周亚太保险人事变动　涉 Zurich、Allianz JD、Howden、McLarens 等八宗",
+      "sourceTier": "pro",
+      "themes": [
+        "appointments",
+        "apac",
+        "leadership",
+        "people-moves"
+      ],
+      "publishedAt": "2026-10-16T17:06:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-apac-people-moves-week-20261016",
+      "originalUrl": "https://insuranceasianews.com/zurich-allianz-jd-howden-mclarens-8-apac-insurance-people-moves-of-the-week/"
+    },
     {
       "id": "rn-aon-rafferty-chief-integration-officer-20261016",
       "title": "怡安委任 Chris Rafferty 为整合管理办公室首席整合官　Steven Carleton 接任芝加哥主管",

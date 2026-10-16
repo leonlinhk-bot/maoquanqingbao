@@ -1,0 +1,482 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<!-- OneTrust Cookies Consent Notice start for uat.trust.org -->
+	<!-- <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="0191ffe5-accc-7262-91a6-8be9661e213a-test" ></script>
+	<script type="text/javascript">
+	function OptanonWrapper() { }
+	</script> -->
+	<!-- OneTrust Cookies Consent Notice end for uat.trust.org -->
+
+	<!-- OneTrust Cookies Consent Notice start for uat.trust.org -->
+	<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="30ec3ad6-5dd3-4c73-a9fe-5a3501eaeee5" ></script>
+		<script type="text/javascript">
+		function OptanonWrapper() { }
+		</script>
+	<!-- OneTrust Cookies Consent Notice end for uat.trust.org -->
+
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-TV8FKSD');</script>
+	<!-- End Google Tag Manager -->
+	
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+	<title>Page not found - Thomson Reuters Foundation</title>
+    <!-- Start Wingify Common Smartcode -->
+    <script data-jetpack-boost="ignore" type='text/javascript'>
+        var _vwo_clicks = 10;
+    </script>
+    <!-- End Wingify Common Smartcode -->
+                    <!-- Start Wingify Async SmartCode -->
+        <link rel="preconnect" href="https://dev.visualwebsiteoptimizer.com"/>
+        <script type='text/javascript' id="vwoCode" data-jetpack-boost="ignore">
+        window._vwo_code ||
+        (function () {
+        var w=window,
+        d=document;
+        var account_id=863064,
+        version=2.2,
+        settings_tolerance=2000,
+        hide_element='body',
+        hide_element_style = 'opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important';
+        /* DO NOT EDIT BELOW THIS LINE */
+        var f=0, v;
+        if(f=!1,v=d.querySelector('#vwoCode'),cc={},-1<d.URL.indexOf('__vwo_disable__')||w._vwo_code)return;try{var e=JSON.parse(localStorage.getItem('_vwo_'+account_id+'_config'));cc=e&&'object'==typeof e?e:{}}catch(e){}function r(t){try{return decodeURIComponent(t)}catch(e){return t}}var s=function(){var e={combination:[],combinationChoose:[],split:[],exclude:[],uuid:null,consent:null,optOut:null},t=d.cookie||'';if(!t)return e;for(var n,i,o=/(?:^|;\s*)(?:(_vis_opt_exp_(\d+)_combi=([^;]*))|(_vis_opt_exp_(\d+)_combi_choose=([^;]*))|(_vis_opt_exp_(\d+)_split=([^:;]*))|(_vis_opt_exp_(\d+)_exclude=[^;]*)|(_vis_opt_out=([^;]*))|(_vwo_global_opt_out=[^;]*)|(_vwo_uuid=([^;]*))|(_vwo_consent=([^;]*)))/g;null!==(n=o.exec(t));)try{n[1]?e.combination.push({id:n[2],value:r(n[3])}):n[4]?e.combinationChoose.push({id:n[5],value:r(n[6])}):n[7]?e.split.push({id:n[8],value:r(n[9])}):n[10]?e.exclude.push({id:n[11]}):n[12]?e.optOut=r(n[13]):n[14]?e.optOut=!0:n[15]?e.uuid=r(n[16]):n[17]&&(i=r(n[18]),e.consent=i&&3<=i.length?i.substring(0,3):null)}catch(e){}return e}();function i(){var e=function(){if(w.VWO&&Array.isArray(w.VWO))for(var e=0;e<w.VWO.length;e++){var t=w.VWO[e];if(Array.isArray(t)&&('setVisitorId'===t[0]||'setSessionId'===t[0]))return!0}return!1}(),t='a='+account_id+'&u='+encodeURIComponent(w._vis_opt_url||d.URL)+'&vn='+version+'&ph=1'+('undefined'!=typeof platform?'&p='+platform:'')+'&st='+w.performance.now();e||((n=function(){var e,t=[],n={},i=w.VWO&&w.VWO.appliedCampaigns||{};for(e in i){var o=i[e]&&i[e].v;o&&(t.push(e+'-'+o+'-1'),n[e]=!0)}if(s&&s.combination)for(var r=0;r<s.combination.length;r++){var a=s.combination[r];n[a.id]||t.push(a.id+'-'+a.value)}return t.join('|')}())&&(t+='&c='+n),(n=function(){var e=[],t={};if(s&&s.combinationChoose)for(var n=0;n<s.combinationChoose.length;n++){var i=s.combinationChoose[n];e.push(i.id+'-'+i.value),t[i.id]=!0}if(s&&s.split)for(var o=0;o<s.split.length;o++)t[(i=s.split[o]).id]||e.push(i.id+'-'+i.value);return e.join('|')}())&&(t+='&cc='+n),(n=function(){var e={},t=[];if(w.VWO&&Array.isArray(w.VWO))for(var n=0;n<w.VWO.length;n++){var i=w.VWO[n];if(Array.isArray(i)&&'setVariation'===i[0]&&i[1]&&Array.isArray(i[1]))for(var o=0;o<i[1].length;o++){var r,a=i[1][o];a&&'object'==typeof a&&(r=a.e,a=a.v,r&&a&&(e[r]=a))}}for(r in e)t.push(r+'-'+e[r]);return t.join('|')}())&&(t+='&sv='+n)),s&&s.optOut&&(t+='&o='+s.optOut);var n=function(){var e=[],t={};if(s&&s.exclude)for(var n=0;n<s.exclude.length;n++){var i=s.exclude[n];t[i.id]||(e.push(i.id),t[i.id]=!0)}return e.join('|')}();return n&&(t+='&e='+n),s&&s.uuid&&(t+='&id='+s.uuid),s&&s.consent&&(t+='&consent='+s.consent),w.name&&-1<w.name.indexOf('_vis_preview')&&(t+='&pM=true'),w.VWO&&w.VWO.ed&&(t+='&ed='+w.VWO.ed),t}code={script:v,nonce:v&&v.nonce,library_tolerance:function(){return'undefined'!=typeof library_tolerance?library_tolerance:void 0},settings_tolerance:function(){return cc.sT||settings_tolerance},hide_element_style:function(){return'{'+(cc.hES||hide_element_style)+'}'},hide_element:function(){return performance.getEntriesByName('first-contentful-paint')[0]?'':'string'==typeof cc.hE?cc.hE:hide_element},getVersion:function(){return version},finish:function(e){var t;f||(f=!0,(t=d.getElementById('_vis_opt_path_hides'))&&t.parentNode.removeChild(t),e&&((new Image).src='https://dev.visualwebsiteoptimizer.com/ee.gif?a='+account_id+e))},finished:function(){return f},addScript:function(e){var t=d.createElement('script');t.type='text/javascript',e.src?t.src=e.src:t.text=e.text,v&&t.setAttribute('nonce',v.nonce),d.getElementsByTagName('head')[0].appendChild(t)},load:function(e,t){t=t||{};var n=new XMLHttpRequest;n.open('GET',e,!0),n.withCredentials=!t.dSC,n.responseType=t.responseType||'text',n.onload=function(){if(t.onloadCb)return t.onloadCb(n,e);200===n.status?_vwo_code.addScript({text:n.responseText}):_vwo_code.finish('&e=loading_failure:'+e)},n.onerror=function(){if(t.onerrorCb)return t.onerrorCb(e);_vwo_code.finish('&e=loading_failure:'+e)},n.send()},init:function(){var e,t=this.settings_tolerance();w._vwo_settings_timer=setTimeout(function(){_vwo_code.finish()},t),'body'!==this.hide_element()?(n=d.createElement('style'),e=(t=this.hide_element())?t+this.hide_element_style():'',t=d.getElementsByTagName('head')[0],n.setAttribute('id','_vis_opt_path_hides'),v&&n.setAttribute('nonce',v.nonce),n.setAttribute('type','text/css'),n.styleSheet?n.styleSheet.cssText=e:n.appendChild(d.createTextNode(e)),t.appendChild(n)):(n=d.getElementsByTagName('head')[0],(e=d.createElement('div')).style.cssText='z-index: 2147483647 !important;position: fixed !important;left: 0 !important;top: 0 !important;width: 100% !important;height: 100% !important;background: white !important;',e.setAttribute('id','_vis_opt_path_hides'),e.classList.add('_vis_hide_layer'),n.parentNode.insertBefore(e,n.nextSibling));var n='https://dev.visualwebsiteoptimizer.com/j.php?'+i();-1!==w.location.search.indexOf('_vwo_xhr')?this.addScript({src:n}):this.load(n+'&x=true',{l:1})}};w._vwo_code=code;code.init();})();
+        </script>
+        <!-- End Wingify Async SmartCode -->
+
+        
+<!-- The SEO Framework by Sybre Waaijer -->
+<meta name="robots" content="noindex,max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.trust.org/#/schema/WebSite","url":"https://www.trust.org/","name":"Thomson Reuters Foundation","description":"We are the corporate foundation of Thomson Reuters, the global news and information services company.","inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.trust.org/search/{search_term_string}/"},"query-input":"required name=search_term_string"},"publisher":{"@type":"Organization","@id":"https://www.trust.org/#/schema/Organization","name":"Thomson Reuters Foundation","url":"https://www.trust.org/","logo":{"@type":"ImageObject","url":"https://www.trust.org/wp-content/uploads/2024/08/cropped-favicon.png","contentUrl":"https://www.trust.org/wp-content/uploads/2024/08/cropped-favicon.png","width":512,"height":512,"contentSize":"126"}}},{"@type":"WebPage","name":"Page not found - Thomson Reuters Foundation","inLanguage":"en-US","isPartOf":{"@id":"https://www.trust.org/#/schema/WebSite"},"breadcrumb":{"@type":"BreadcrumbList","@id":"https://www.trust.org/#/schema/BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":"https://www.trust.org/","name":"Thomson Reuters Foundation"},{"@type":"ListItem","position":2,"name":"Page not found"}]}}]}</script>
+<!-- / The SEO Framework by Sybre Waaijer | 38.43ms meta | 38.23ms boot -->
+
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//code.jquery.com' />
+<link rel="alternate" type="application/rss+xml" title="Thomson Reuters Foundation &raquo; Feed" href="https://www.trust.org/feed/" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*=";border-color"],[style*="; border-color"]){border-style:solid}html :where([style^=border-top-color],[style*=";border-top-color"],[style*="; border-top-color"]){border-top-style:solid}html :where([style^=border-right-color],[style*=";border-right-color"],[style*="; border-right-color"]){border-right-style:solid}html :where([style^=border-bottom-color],[style*=";border-bottom-color"],[style*="; border-bottom-color"]){border-bottom-style:solid}html :where([style^=border-left-color],[style*=";border-left-color"],[style*="; border-left-color"]){border-left-style:solid}html :where([style^=border-width],[style*=";border-width"],[style*="; border-width"]){border-style:solid}html :where([style^=border-top-width],[style*=";border-top-width"],[style*="; border-top-width"]){border-top-style:solid}html :where([style^=border-right-width],[style*=";border-right-width"],[style*="; border-right-width"]){border-right-style:solid}html :where([style^=border-bottom-width],[style*=";border-bottom-width"],[style*="; border-bottom-width"]){border-bottom-style:solid}html :where([style^=border-left-width],[style*=";border-left-width"],[style*="; border-left-width"]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #FFFFFF;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--orange: #D64000;--wp--preset--color--racing-green: #123015;--wp--preset--color--graphite: #212223;--wp--preset--color--light-gray: #E5E5E5;--wp--preset--color--medium-gray: #9F9F9F;--wp--preset--color--dark-gray: #7A7A7A;--wp--preset--color--dark-gold: #E9B045;--wp--preset--color--dark-amber: #D4792A;--wp--preset--color--dark-sky: #0874E3;--wp--preset--color--dark-teal: #4DB299;--wp--preset--color--dark-lime: #8FCB64;--wp--preset--color--light-gold: #E9B045;--wp--preset--color--light-amber: #D4792A;--wp--preset--color--light-sky: #0874E3;--wp--preset--color--light-teal: #4DB299;--wp--preset--color--light-lime: #8FCB64;--wp--preset--color--trust-conference-primary: #173E91;--wp--preset--color--trust-conference-secondary: #3E80C2;--wp--preset--color--context-primary: #042D52;--wp--preset--color--context-secondary: #006DAA;--wp--preset--color--trustlaw-primary: #3E7CA8;--wp--preset--color--trustlaw-secondary: #293543;--wp--preset--color--wdi-primary-1: #FFC70E;--wp--preset--color--wdi-primary-2: #565656;--wp--preset--color--wdi-secondary-1: #3E687C;--wp--preset--color--wdi-secondary-2: #96CFCA;--wp--preset--color--wdi-secondary-3: #5B1D44;--wp--preset--color--wdi-secondary-4: #EC7F62;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--body-small: 0.875rem;--wp--preset--font-size--body-medium: 1rem;--wp--preset--font-size--body-large: 1.125rem;--wp--preset--font-size--body-large-alt-1: 1.25rem;--wp--preset--font-size--body-xl: 1.875rem;--wp--preset--font-size--body-xl-alt-1: 2rem;--wp--preset--font-size--h-1: 2.625rem;--wp--preset--font-size--h-2: 2.1875rem;--wp--preset--font-size--h-3: 1.75rem;--wp--preset--font-size--h-4: 1.5rem;--wp--preset--font-size--h-5: 1.375rem;--wp--preset--font-size--h-6: 1.25rem;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);--wp--custom--line-height--body: 1.5;--wp--custom--line-height--heading: 1.1;}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){margin-left: auto !important;margin-right: auto !important;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}h1{font-size: 2.625rem;line-height: 1.1;}h2{font-size: 2.1875rem;line-height: 1.1;}h3{font-size: 1.75rem;line-height: 2.5rem;}h4{font-size: 1.5rem;line-height: 2rem;}h5{font-size: 1.375rem;line-height: 2rem;}h6{font-size: 1.25rem;line-height: 1.75rem;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #D64000;border-radius: 0.5rem;border-color: #D64000;border-width: 0.09375rem;border-style: solid;color: #FFFFFF;font-family: inherit;font-size: 1.125rem;font-style: inherit;font-weight: 500;letter-spacing: inherit;line-height: 2.3125rem;padding-top: 0.5625rem;padding-right: 1.75rem;padding-bottom: 0.5625rem;padding-left: 1.75rem;text-decoration: none;text-transform: inherit;}:root :where(.wp-element-button:visited, .wp-block-button__link:visited){background-color: transparent !important;color: #FFFFFF !important;}:root :where(.wp-element-button:hover, .wp-block-button__link:hover){background-color: transparent !important;color: #D64000 !important;}:root :where(.wp-element-button:focus, .wp-block-button__link:focus){background-color: transparent !important;color: #D64000 !important;}:root :where(.wp-element-button:active, .wp-block-button__link:active){background-color: transparent !important;color: #D64000 !important;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-orange-color{color: var(--wp--preset--color--orange) !important;}.has-racing-green-color{color: var(--wp--preset--color--racing-green) !important;}.has-graphite-color{color: var(--wp--preset--color--graphite) !important;}.has-light-gray-color{color: var(--wp--preset--color--light-gray) !important;}.has-medium-gray-color{color: var(--wp--preset--color--medium-gray) !important;}.has-dark-gray-color{color: var(--wp--preset--color--dark-gray) !important;}.has-dark-gold-color{color: var(--wp--preset--color--dark-gold) !important;}.has-dark-amber-color{color: var(--wp--preset--color--dark-amber) !important;}.has-dark-sky-color{color: var(--wp--preset--color--dark-sky) !important;}.has-dark-teal-color{color: var(--wp--preset--color--dark-teal) !important;}.has-dark-lime-color{color: var(--wp--preset--color--dark-lime) !important;}.has-light-gold-color{color: var(--wp--preset--color--light-gold) !important;}.has-light-amber-color{color: var(--wp--preset--color--light-amber) !important;}.has-light-sky-color{color: var(--wp--preset--color--light-sky) !important;}.has-light-teal-color{color: var(--wp--preset--color--light-teal) !important;}.has-light-lime-color{color: var(--wp--preset--color--light-lime) !important;}.has-trust-conference-primary-color{color: var(--wp--preset--color--trust-conference-primary) !important;}.has-trust-conference-secondary-color{color: var(--wp--preset--color--trust-conference-secondary) !important;}.has-context-primary-color{color: var(--wp--preset--color--context-primary) !important;}.has-context-secondary-color{color: var(--wp--preset--color--context-secondary) !important;}.has-trustlaw-primary-color{color: var(--wp--preset--color--trustlaw-primary) !important;}.has-trustlaw-secondary-color{color: var(--wp--preset--color--trustlaw-secondary) !important;}.has-wdi-primary-1-color{color: var(--wp--preset--color--wdi-primary-1) !important;}.has-wdi-primary-2-color{color: var(--wp--preset--color--wdi-primary-2) !important;}.has-wdi-secondary-1-color{color: var(--wp--preset--color--wdi-secondary-1) !important;}.has-wdi-secondary-2-color{color: var(--wp--preset--color--wdi-secondary-2) !important;}.has-wdi-secondary-3-color{color: var(--wp--preset--color--wdi-secondary-3) !important;}.has-wdi-secondary-4-color{color: var(--wp--preset--color--wdi-secondary-4) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-orange-background-color{background-color: var(--wp--preset--color--orange) !important;}.has-racing-green-background-color{background-color: var(--wp--preset--color--racing-green) !important;}.has-graphite-background-color{background-color: var(--wp--preset--color--graphite) !important;}.has-light-gray-background-color{background-color: var(--wp--preset--color--light-gray) !important;}.has-medium-gray-background-color{background-color: var(--wp--preset--color--medium-gray) !important;}.has-dark-gray-background-color{background-color: var(--wp--preset--color--dark-gray) !important;}.has-dark-gold-background-color{background-color: var(--wp--preset--color--dark-gold) !important;}.has-dark-amber-background-color{background-color: var(--wp--preset--color--dark-amber) !important;}.has-dark-sky-background-color{background-color: var(--wp--preset--color--dark-sky) !important;}.has-dark-teal-background-color{background-color: var(--wp--preset--color--dark-teal) !important;}.has-dark-lime-background-color{background-color: var(--wp--preset--color--dark-lime) !important;}.has-light-gold-background-color{background-color: var(--wp--preset--color--light-gold) !important;}.has-light-amber-background-color{background-color: var(--wp--preset--color--light-amber) !important;}.has-light-sky-background-color{background-color: var(--wp--preset--color--light-sky) !important;}.has-light-teal-background-color{background-color: var(--wp--preset--color--light-teal) !important;}.has-light-lime-background-color{background-color: var(--wp--preset--color--light-lime) !important;}.has-trust-conference-primary-background-color{background-color: var(--wp--preset--color--trust-conference-primary) !important;}.has-trust-conference-secondary-background-color{background-color: var(--wp--preset--color--trust-conference-secondary) !important;}.has-context-primary-background-color{background-color: var(--wp--preset--color--context-primary) !important;}.has-context-secondary-background-color{background-color: var(--wp--preset--color--context-secondary) !important;}.has-trustlaw-primary-background-color{background-color: var(--wp--preset--color--trustlaw-primary) !important;}.has-trustlaw-secondary-background-color{background-color: var(--wp--preset--color--trustlaw-secondary) !important;}.has-wdi-primary-1-background-color{background-color: var(--wp--preset--color--wdi-primary-1) !important;}.has-wdi-primary-2-background-color{background-color: var(--wp--preset--color--wdi-primary-2) !important;}.has-wdi-secondary-1-background-color{background-color: var(--wp--preset--color--wdi-secondary-1) !important;}.has-wdi-secondary-2-background-color{background-color: var(--wp--preset--color--wdi-secondary-2) !important;}.has-wdi-secondary-3-background-color{background-color: var(--wp--preset--color--wdi-secondary-3) !important;}.has-wdi-secondary-4-background-color{background-color: var(--wp--preset--color--wdi-secondary-4) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-orange-border-color{border-color: var(--wp--preset--color--orange) !important;}.has-racing-green-border-color{border-color: var(--wp--preset--color--racing-green) !important;}.has-graphite-border-color{border-color: var(--wp--preset--color--graphite) !important;}.has-light-gray-border-color{border-color: var(--wp--preset--color--light-gray) !important;}.has-medium-gray-border-color{border-color: var(--wp--preset--color--medium-gray) !important;}.has-dark-gray-border-color{border-color: var(--wp--preset--color--dark-gray) !important;}.has-dark-gold-border-color{border-color: var(--wp--preset--color--dark-gold) !important;}.has-dark-amber-border-color{border-color: var(--wp--preset--color--dark-amber) !important;}.has-dark-sky-border-color{border-color: var(--wp--preset--color--dark-sky) !important;}.has-dark-teal-border-color{border-color: var(--wp--preset--color--dark-teal) !important;}.has-dark-lime-border-color{border-color: var(--wp--preset--color--dark-lime) !important;}.has-light-gold-border-color{border-color: var(--wp--preset--color--light-gold) !important;}.has-light-amber-border-color{border-color: var(--wp--preset--color--light-amber) !important;}.has-light-sky-border-color{border-color: var(--wp--preset--color--light-sky) !important;}.has-light-teal-border-color{border-color: var(--wp--preset--color--light-teal) !important;}.has-light-lime-border-color{border-color: var(--wp--preset--color--light-lime) !important;}.has-trust-conference-primary-border-color{border-color: var(--wp--preset--color--trust-conference-primary) !important;}.has-trust-conference-secondary-border-color{border-color: var(--wp--preset--color--trust-conference-secondary) !important;}.has-context-primary-border-color{border-color: var(--wp--preset--color--context-primary) !important;}.has-context-secondary-border-color{border-color: var(--wp--preset--color--context-secondary) !important;}.has-trustlaw-primary-border-color{border-color: var(--wp--preset--color--trustlaw-primary) !important;}.has-trustlaw-secondary-border-color{border-color: var(--wp--preset--color--trustlaw-secondary) !important;}.has-wdi-primary-1-border-color{border-color: var(--wp--preset--color--wdi-primary-1) !important;}.has-wdi-primary-2-border-color{border-color: var(--wp--preset--color--wdi-primary-2) !important;}.has-wdi-secondary-1-border-color{border-color: var(--wp--preset--color--wdi-secondary-1) !important;}.has-wdi-secondary-2-border-color{border-color: var(--wp--preset--color--wdi-secondary-2) !important;}.has-wdi-secondary-3-border-color{border-color: var(--wp--preset--color--wdi-secondary-3) !important;}.has-wdi-secondary-4-border-color{border-color: var(--wp--preset--color--wdi-secondary-4) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-body-small-font-size{font-size: var(--wp--preset--font-size--body-small) !important;}.has-body-medium-font-size{font-size: var(--wp--preset--font-size--body-medium) !important;}.has-body-large-font-size{font-size: var(--wp--preset--font-size--body-large) !important;}.has-body-large-alt-1-font-size{font-size: var(--wp--preset--font-size--body-large-alt-1) !important;}.has-body-xl-font-size{font-size: var(--wp--preset--font-size--body-xl) !important;}.has-body-xl-alt-1-font-size{font-size: var(--wp--preset--font-size--body-xl-alt-1) !important;}.has-h-1-font-size{font-size: var(--wp--preset--font-size--h-1) !important;}.has-h-2-font-size{font-size: var(--wp--preset--font-size--h-2) !important;}.has-h-3-font-size{font-size: var(--wp--preset--font-size--h-3) !important;}.has-h-4-font-size{font-size: var(--wp--preset--font-size--h-4) !important;}.has-h-5-font-size{font-size: var(--wp--preset--font-size--h-5) !important;}.has-h-6-font-size{font-size: var(--wp--preset--font-size--h-6) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='edac-sr-only-format-css' href='https://www.trust.org/wp-content/plugins/accessibility-checker/build/css/srOnlyFormat.css?ver=1792169365' media='all' />
+<link rel='stylesheet' id='alchemercookie-css-css' href='https://www.trust.org/wp-content/plugins/alchemer-cookie/alchemercookie.css?ver=1792169365' media='all' />
+<link rel='stylesheet' id='caffeine-style-css' href='https://www.trust.org/wp-content/plugins/caffeine/caffeine.css?ver=1792169365' media='all' />
+<link rel='stylesheet' id='jquery-ui-css' href='https://code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css?ver=1792169365' media='all' />
+<link rel='stylesheet' id='trust-style-css' href='https://www.trust.org/wp-content/themes/trust/style.css?ver=1792169365' media='all' />
+<link rel='stylesheet' id='trust-slick-theme-css' href='https://cdn.jsdelivr.net/npm/@accessible360/accessible-slick@1.0.1/slick/slick.min.css?ver=1792169365' media='all' />
+<link rel='stylesheet' id='trust-pattern-styles-css' href='https://www.trust.org/wp-content/themes/trust/pattern-styles.css?ver=1792169365' media='all' />
+<link rel='stylesheet' id='trust-css-css' href='https://www.trust.org/wp-content/themes/trust/trf.css?ver=1792169365' media='all' />
+<link rel='stylesheet' id='trust-mob-menu-css-css' href='https://www.trust.org/wp-content/themes/trust/mobile-menu.css?ver=1792169365' media='all' />
+<style id="block-visibility-screen-size-styles-inline-css">
+/* Large screens (desktops, 992px and up) */
+@media ( min-width: 992px ) {
+	.block-visibility-hide-large-screen {
+		display: none !important;
+	}
+}
+
+/* Medium screens (tablets, between 768px and 992px) */
+@media ( min-width: 768px ) and ( max-width: 991.98px ) {
+	.block-visibility-hide-medium-screen {
+		display: none !important;
+	}
+}
+
+/* Small screens (mobile devices, less than 768px) */
+@media ( max-width: 767.98px ) {
+	.block-visibility-hide-small-screen {
+		display: none !important;
+	}
+}
+/*# sourceURL=block-visibility-screen-size-styles-inline-css */
+</style>
+<script id="nitropack-ajax-shortcodes-js-after" nitro-exclude>
+let nitroAjaxShortcode = false
+//# sourceURL=nitropack-ajax-shortcodes-js-after
+</script>
+<script id="jquery-core-js" src="https://www.trust.org/wp-includes/js/jquery/jquery.min.js?ver=1792169365"></script>
+<script id="jquery-migrate-js" src="https://www.trust.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1792169365"></script>
+<script id="caffeine-script-js" src="https://www.trust.org/wp-content/plugins/caffeine/caffeine.js?ver=1792169365"></script>
+<link rel="https://api.w.org/" href="https://www.trust.org/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.trust.org/xmlrpc.php?rsd" />
+		<style>
+			.algolia-search-highlight {
+				background-color: #fffbcc;
+				border-radius: 2px;
+				font-style: normal;
+			}
+		</style>
+		<script id='nitro-telemetry-meta' nitro-exclude>window.NPTelemetryMetadata={missReason: (!window.NITROPACK_STATE ? '404' : 'hit'),pageType: 'default',isEligibleForOptimization: false,}</script><script id='nitro-generic' nitro-exclude>(()=>{if(window.NitroPack=window.NitroPack||{coreVersion:"na",isCounted:!1},!window.NitroPack.isCounted){window.NitroPack.isCounted=!0;const e=()=>{let e=performance?.getEntriesByType?.("navigation")?.[0];return document.prerendering||e?.activationStart>0?"_prr":"navigational-prefetch"===e?.deliveryType||void 0===e?.deliveryType&&e&&e.responseStart-e.requestStart<=5?"_pre":"_dow"},i=(e,i)=>{navigator.sendBeacon("https://to.getnitropack.com/p",JSON.stringify({siteId:"OtpYzWfVLcPDccmDRAvRLYtGLAgduDio",url:window.location.href,referrer:i||"",isOptimized:!!window.IS_NITROPACK,coreVersion:"na",missReason:window.NPTelemetryMetadata?.missReason||"",pageType:window.NPTelemetryMetadata?.pageType||"",isEligibleForOptimization:!!window.NPTelemetryMetadata?.isEligibleForOptimization||!1,pageLoadMode:e}))};(async()=>{await new Promise(e=>{document.prerendering?document.addEventListener("prerenderingchange",e,{once:!0}):e()}),await new Promise(e=>{"complete"===document.readyState?e():window.addEventListener("load",e)}),i(e(),document.referrer)})(),window.addEventListener("pageshow",e=>{if(e.persisted){let e=document.prerendering||self.performance?.getEntriesByType?.("navigation")[0]?.activationStart>0;"visible"!==document.visibilityState||e||i("_bfr","")}})}})();</script><link rel="icon" href="https://www.trust.org/wp-content/uploads/2024/08/cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.trust.org/wp-content/uploads/2024/08/cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.trust.org/wp-content/uploads/2024/08/cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.trust.org/wp-content/uploads/2024/08/cropped-favicon-270x270.png" />
+<style id="wp-custom-css">
+.two-col-list {
+  column-count: 2;
+  column-gap: 3rem;
+}
+
+.two-col-list li,
+.two-col-list.li {
+  break-inside: avoid;   /* stop an item splitting across columns */
+}
+
+@media (max-width: 781px) {
+  .two-col-list {
+    column-count: 1;
+  }
+}
+
+.header-banner.featured-full-image-background .wrap {
+	max-width: 900px;
+}
+
+/* Temporary: reveals the TRF: Flourish Embed map. Theme bug, see TRD-18.
+   Remove once blocks/flourish-embed/flourish-embed.css is corrected. */
+.flourish-tabs .tab-content:not([hidden]) {
+  display: block;
+}
+</style>
+
+</head>
+
+<body class="error404 wp-theme-trust hfeed caffeine_search_scheme_light">
+	
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TV8FKSD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#primary">Skip to content</a>
+
+	<header id="masthead" class="site-header">
+		<div class="top-nav">
+			<div class="nav-max-width">
+				<nav id="top-site-navigation" class="top-navigation">
+					<div class="menu-top-menu-container"><ul id="top-menu" class="menu"><li id="menu-item-2072" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2072"><a href="https://www.trust.org/news-events/trust-conference/">Our Conference</a></li>
+<li id="menu-item-1655" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1655"><a href="https://www.trust.org/our-journalism/">Our Journalism</a></li>
+<li id="menu-item-1654" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1654"><a href="https://www.trust.org/about-us/careers/">Careers</a></li>
+<li id="menu-item-1174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1174"><a href="https://www.trust.org/contact-us/">Contact us</a></li>
+<li id="menu-item-9496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9496"><a href="https://www.trust.org/newsletter/">Subscribe</a></li>
+<li id="menu-item-12409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12409"><a href="https://www.trust.org/about-us/support-our-work/">Donate</a></li>
+<li class='caffeine_search-menu_button'><a href='/search/' class='caffeine_search-button'><img src='/wp-content/uploads/2024/06/search-white.svg' alt='Search'></a></li></ul></div>				</nav><!-- #top-site-navigation -->
+			</div>
+		</div>
+		<div class="bottom-menu">
+			<div class="nav-max-width flex space-between align-center">
+				<div class="site-branding">
+					<a href="https://www.trust.org/" rel="home">
+												<a href="https://www.trust.org/" rel="home">
+							<img
+								src="https://www.trust.org/wp-content/uploads/2024/06/trf-logo.svg"
+								width="247"
+								height="54"
+								alt="Thomson Reuters Foundation">
+						</a>
+					</a>
+				</div><!-- .site-branding -->
+				<div class="mobile-nav-show">
+					<img aria-label="Site Search" class="site-search-mob active" src="/wp-content/themes/trust/image/uil-search.svg" alt="Thomson Reuters Foundation Site Search"/>
+					<img aria-label="Open Mobile Menu" class="show active" src="/wp-content/themes/trust/image/uil-bars.svg" alt="Thomson Reuters Foundation Mobile Menu"/>
+					<img aria-label="Close Mobile Menu" class="hide" src="/wp-content/themes/trust/image/uil-times.svg" alt="Thomson Reuters Foundation Close Menu"/>
+				</div>
+				<nav id="site-navigation" class="main-navigation">
+					<div class="menu-bottom-menu-container"><ul id="bottom-menu" class="menu"><li class="desktop-hide menu-item menu-item-type-post_type menu-item-object-page menu-item-home" role="menuitem"><a href="https://www.trust.org/"  >Home</a></li>
+<li class="about-ancestor menu-item menu-item-type-custom menu-item-object-custom has-child" role="menuitem"><a href="/about-us/" aria-haspopup="true" aria-expanded="false">About Us</a>
+        <div class="trf-dropdown">
+          <div class="dropdown-wrap">
+            <div class="featured-link"><h4 class="featured-link-title white">About</h4><p class="featured-link-description white large">We are a global non-profit organisation advancing democratic and institutional resilience, and social cohesion.</p><a class="featured-link-arrow white" href="/about-us/" ><img src="/wp-content/uploads/2024/06/arrow-right-white.svg" alt=""></a></div><div class="sub-menu" role="menu" aria-labelledby="menu-item-140"><div class="sub-menu-column"><ul><li><a class="graphite " href="/about-us/our-people/">Our People</a></li><li><a class="graphite " href="/about-us/partner-with-us/">Partner With Us</a></li><li><a class="graphite " href="/about-us/careers/">Careers</a></li><li><a class="graphite " href="/about-us/annual-reports-accounts/">Annual Reports &amp; Accounts</a></li></ul></div></div>
+          </div>
+        </div></li>
+<li class="work-ancestor menu-item menu-item-type-custom menu-item-object-custom has-child" role="menuitem"><a href="/our-work/" aria-haspopup="true" aria-expanded="false">Our Work</a>
+        <div class="trf-dropdown">
+          <div class="dropdown-wrap">
+            <div class="featured-link"><h4 class="featured-link-title white">Our Work</h4><p class="featured-link-description white large">We work to strengthen information integrity, protect civil society and advance responsible business practices, through supporting independent media, access to law, and fair work &amp; responsible AI.</p><a class="featured-link-arrow white" href="/our-work/" ><img src="/wp-content/uploads/2024/06/arrow-right-white.svg" alt=""></a></div><div class="sub-menu" role="menu" aria-labelledby="menu-item-145"><div class="sub-menu-column"><ul><li><a class="graphite " href="/our-work/resilience-of-independent-media/">Resilience of Independent Media</a><span class="graphite">Bolstering independent media that informs the public and upholds democracy.</span></li><li><a class="graphite " href="/our-work/access-to-law/">Access to Law</a><span class="graphite">Enabling a fair legal system that is accessible to all to strengthen civic space.</span></li><li><a class="graphite " href="/our-work/responsible-business/">Responsible Business</a><span class="graphite">Supporting businesses to thrive whilst doing no harm.</span></li></ul></div></div>
+          </div>
+        </div></li>
+<li class="services-ancestor menu-item menu-item-type-custom menu-item-object-custom has-child" role="menuitem"><a href="/our-services/" aria-haspopup="true" aria-expanded="false">Our Services</a>
+        <div class="trf-dropdown">
+          <div class="dropdown-wrap">
+            <div class="featured-link"><h4 class="featured-link-title white">Our Services</h4><p class="featured-link-description white large">Through free legal assistance, data platforms, news, media development and events, our unique services foster free, fair and informed societies.</p><a class="featured-link-arrow white" href="/our-services/" ><img src="/wp-content/uploads/2024/06/arrow-right-white.svg" alt=""></a></div><div class="sub-menu" role="menu" aria-labelledby="menu-item-147"><div class="sub-menu-column"><ul><li><a class="graphite " href="/our-services/media-development-services-and-solutions/">Media Development Services</a><span class="graphite">Providing capacity-building support to journalists and newsrooms.</span></li><li><a class="graphite " href="/trustlaw/">TrustLaw</a><span class="graphite">The world’s largest pro bono legal network.</span></li><li><a class="graphite " href="/our-services/legal-help-for-media/">Legal Service for Independent Media</a><span class="graphite">Providing free legal services to support independent media.</span></li><li><a class="graphite " href="/our-services/ai-company-data-initiative/">AI Company Data Initiative</a><span class="graphite">Building a dataset to drive responsible corporate AI adoption.</span></li><li><a class="graphite " href="/our-services/workforce-disclosure-initiative/">Workforce Disclosure Initiative</a><span class="graphite">Providing data on how companies manage workers in their operations and supply chains.</span></li></ul></div><div class="sub-menu-column"><ul><li><a class="graphite " href="/our-journalism/">Journalism</a><span class="graphite">Our journalism provides news and analysis to purpose driven professionals</span></li><li><a class="graphite " href="/training-resources/training-scheduled/">Training</a><span class="graphite">Discover our range of training programmes and opportunities.</span></li><li><a class="graphite " href="/news-events/trust-conference/">Trust Conference</a><span class="graphite">Our flagship forum dedicated to tackling critical and intersecting global issues from democracy to sustainable development.</span></li></ul></div></div>
+          </div>
+        </div></li>
+<li class="training-ancestor menu-item menu-item-type-custom menu-item-object-custom has-child" role="menuitem"><a href="/training-resources/" aria-haspopup="true" aria-expanded="false">Training &amp; Resources</a>
+        <div class="trf-dropdown">
+          <div class="dropdown-wrap">
+            <div class="featured-link"><h4 class="featured-link-title white">Training &amp; Resources</h4><p class="featured-link-description white large">Discover our range of training programmes and repository of resources.</p><a class="featured-link-arrow white" href="/training-resources/" ><img src="/wp-content/uploads/2024/06/arrow-right-white.svg" alt=""></a></div><div class="sub-menu" role="menu" aria-labelledby="menu-item-148"><div class="sub-menu-column"><ul><li><a class="graphite " href="/training-resources/training-scheduled/">Live training opportunities</a><span class="graphite">Explore our training programmes for professionals and civil society.</span></li><li><a class="graphite " href="/training-resources/training-bespoke/">Bespoke training options</a><span class="graphite">Discover the bespoke journalism, communications and media training programmes we can offer.</span></li><li><a class="graphite border-top" href="/training-resources/resources/">Resources &amp; Publications</a><span class="graphite">Our library of reports and practical guides.</span></li></ul></div><div class="sub-menu-column"><ul><li><a class="graphite " href="#">Featured</a></li><li><a href="https://www.trust.org/resource/workforce-disclosure-initiative-2025-insights/" class="nav-featured-block" style="background-color: #d64000"><span></span><p>From intent to impact: 2025 global insights from the Workforce Disclosure Initiative</p><p>Download the report</p><div class="featured-link-arrow white"><img src="/wp-content/uploads/2024/06/arrow-right-white.svg" alt=""></div></a></li></ul></div></div>
+          </div>
+        </div></li>
+<li class="news-ancestor menu-item menu-item-type-custom menu-item-object-custom has-child" role="menuitem"><a href="/news-events/" aria-haspopup="true" aria-expanded="false">News &amp; Events</a>
+        <div class="trf-dropdown">
+          <div class="dropdown-wrap">
+            <div class="featured-link"><h4 class="featured-link-title white">News &amp; Events</h4><p class="featured-link-description white large">Discover highlights from across the Foundation’s focus areas, key announcements and our events.</p><a class="featured-link-arrow white" href="/news-events/" ><img src="/wp-content/uploads/2024/06/arrow-right-white.svg" alt=""></a></div><div class="sub-menu" role="menu" aria-labelledby="menu-item-149"><div class="sub-menu-column"><ul><li><a class="graphite " href="/news-events/foundation-news/">Foundation News</a></li><li><a class="graphite " href="/news-events/events/">Events</a></li><li><a class="graphite " href="/newsletter/">Newsletter sign up</a></li></ul></div><div class="sub-menu-column"><ul><li><a class="graphite " href="#">Featured</a></li><li><a href="/news-events/trust-conference/" class="nav-featured-block" style="background-color: #173e91"><span>4-5 November</span><p>Trust Conference</p><p>2026</p><div class="featured-link-arrow white"><img src="/wp-content/uploads/2024/06/arrow-right-white.svg" alt=""></div></a></li></ul></div></div>
+          </div>
+        </div></li>
+<li class='caffeine_search-menu_button'><a href='/search/' class='caffeine_search-button'><img src='/wp-content/uploads/2024/06/search-white.svg' alt='Search'></a></li></ul></div>				</nav><!-- #site-navigation -->
+			</div>
+		</div>
+		<div class="mob-site-search" style="display:none;">
+			<form method="GET" action="/search">
+				<input id="mob-keyword" type="text" name="keyword" placeholder="Search" /> 
+				<button>Search</button>
+			</form>
+		</div>
+		<div class="mobile-nav">
+			<div class="bottom-menu">
+				<div class="nav-max-width flex space-between align-center">
+					<nav class="main-navigation">
+						<div class="menu-bottom-menu-container"><ul id="bottom-menu-mob" class="menu"><li class="desktop-hide menu-item menu-item-type-post_type menu-item-object-page menu-item-home"><a href="https://www.trust.org/">Home</a></li>
+<li class="about-ancestor menu-item menu-item-type-custom menu-item-object-custom has-child"><a href="/about-us/">About Us</a>
+				<div class="trf-dropdown">
+					<div class="dropdown-wrap">
+						<span class="tab-p-mobile-back">Back</span><div class="featured-link"><h4 class="featured-link-title white">About</h4><p class="featured-link-description white large">We are a global non-profit organisation advancing democratic and institutional resilience, and social cohesion.</p><a class="featured-link-arrow white" href="/about-us/"><img src="/wp-content/uploads/2024/06/arrow-right-white.svg" alt=""></a></div><div class="sub-menu-column"><a class="graphite mob-submenu-parent-link" href="/about-us/">About Us</a><a class="graphite " href="/about-us/our-people/">Our People</a><a class="graphite " href="/about-us/partner-with-us/">Partner With Us</a><a class="graphite " href="/about-us/careers/">Careers</a><a class="graphite " href="/about-us/annual-reports-accounts/">Annual Reports &amp; Accounts</a></div>
+					</div>
+				</div></li>
+<li class="work-ancestor menu-item menu-item-type-custom menu-item-object-custom has-child"><a href="/our-work/">Our Work</a>
+				<div class="trf-dropdown">
+					<div class="dropdown-wrap">
+						<span class="tab-p-mobile-back">Back</span><div class="featured-link"><h4 class="featured-link-title white">Our Work</h4><p class="featured-link-description white large">We work to strengthen information integrity, protect civil society and advance responsible business practices, through supporting independent media, access to law, and fair work &amp; responsible AI.</p><a class="featured-link-arrow white" href="/our-work/"><img src="/wp-content/uploads/2024/06/arrow-right-white.svg" alt=""></a></div><div class="sub-menu-column"><a class="graphite mob-submenu-parent-link" href="/our-work/">Our Work</a><a class="graphite " href="/our-work/resilience-of-independent-media/">Resilience of Independent Media</a><span class="graphite">Bolstering independent media that informs the public and upholds democracy.</span><a class="graphite " href="/our-work/access-to-law/">Access to Law</a><span class="graphite">Enabling a fair legal system that is accessible to all to strengthen civic space.</span><a class="graphite " href="/our-work/responsible-business/">Responsible Business</a><span class="graphite">Supporting businesses to thrive whilst doing no harm.</span></div>
+					</div>
+				</div></li>
+<li class="services-ancestor menu-item menu-item-type-custom menu-item-object-custom has-child"><a href="/our-services/">Our Services</a>
+				<div class="trf-dropdown">
+					<div class="dropdown-wrap">
+						<span class="tab-p-mobile-back">Back</span><div class="featured-link"><h4 class="featured-link-title white">Our Services</h4><p class="featured-link-description white large">Through free legal assistance, data platforms, news, media development and events, our unique services foster free, fair and informed societies.</p><a class="featured-link-arrow white" href="/our-services/"><img src="/wp-content/uploads/2024/06/arrow-right-white.svg" alt=""></a></div><div class="sub-menu-column"><a class="graphite mob-submenu-parent-link" href="/our-services/">Our Services</a><a class="graphite " href="/our-services/media-development-services-and-solutions/">Media Development Services</a><span class="graphite">Providing capacity-building support to journalists and newsrooms.</span><a class="graphite " href="/trustlaw/">TrustLaw</a><span class="graphite">The world’s largest pro bono legal network.</span><a class="graphite " href="/our-services/legal-help-for-media/">Legal Service for Independent Media</a><span class="graphite">Providing free legal services to support independent media.</span><a class="graphite " href="/our-services/ai-company-data-initiative/">AI Company Data Initiative</a><span class="graphite">Building a dataset to drive responsible corporate AI adoption.</span><a class="graphite " href="/our-services/workforce-disclosure-initiative/">Workforce Disclosure Initiative</a><span class="graphite">Providing data on how companies manage workers in their operations and supply chains.</span><a class="graphite " href="/our-journalism/">Journalism</a><span class="graphite">Our journalism provides news and analysis to purpose driven professionals</span><a class="graphite " href="/training-resources/training-scheduled/">Training</a><span class="graphite">Discover our range of training programmes and opportunities.</span><a class="graphite " href="/news-events/trust-conference/">Trust Conference</a><span class="graphite">Our flagship forum dedicated to tackling critical and intersecting global issues from democracy to sustainable development.</span></div>
+					</div>
+				</div></li>
+<li class="training-ancestor menu-item menu-item-type-custom menu-item-object-custom has-child"><a href="/training-resources/">Training & Resources</a>
+				<div class="trf-dropdown">
+					<div class="dropdown-wrap">
+						<span class="tab-p-mobile-back">Back</span><div class="featured-link"><h4 class="featured-link-title white">Training &amp; Resources</h4><p class="featured-link-description white large">Discover our range of training programmes and repository of resources.</p><a class="featured-link-arrow white" href="/training-resources/"><img src="/wp-content/uploads/2024/06/arrow-right-white.svg" alt=""></a></div><div class="sub-menu-column"><a class="graphite mob-submenu-parent-link" href="/training-resources/">Training & Resources</a><a class="graphite " href="/training-resources/training-scheduled/">Live training opportunities</a><span class="graphite">Explore our training programmes for professionals and civil society.</span><a class="graphite " href="/training-resources/training-bespoke/">Bespoke training options</a><span class="graphite">Discover the bespoke journalism, communications and media training programmes we can offer.</span><a class="graphite border-top" href="/training-resources/resources/">Resources &amp; Publications</a><span class="graphite">Our library of reports and practical guides.</span><a class="graphite " href="#">Featured</a><a href="https://www.trust.org/resource/workforce-disclosure-initiative-2025-insights/" class="nav-featured-block" style="background-color: #d64000"><span></span><p>From intent to impact: 2025 global insights from the Workforce Disclosure Initiative</p><p>Download the report</p><div class="featured-link-arrow white" ><img src="/wp-content/uploads/2024/06/arrow-right-white.svg" alt=""></div></a></div>
+					</div>
+				</div></li>
+<li class="news-ancestor menu-item menu-item-type-custom menu-item-object-custom has-child"><a href="/news-events/">News & Events</a>
+				<div class="trf-dropdown">
+					<div class="dropdown-wrap">
+						<span class="tab-p-mobile-back">Back</span><div class="featured-link"><h4 class="featured-link-title white">News &amp; Events</h4><p class="featured-link-description white large">Discover highlights from across the Foundation’s focus areas, key announcements and our events.</p><a class="featured-link-arrow white" href="/news-events/"><img src="/wp-content/uploads/2024/06/arrow-right-white.svg" alt=""></a></div><div class="sub-menu-column"><a class="graphite mob-submenu-parent-link" href="/news-events/">News & Events</a><a class="graphite " href="/news-events/foundation-news/">Foundation News</a><a class="graphite " href="/news-events/events/">Events</a><a class="graphite " href="/newsletter/">Newsletter sign up</a><a class="graphite " href="#">Featured</a><a href="/news-events/trust-conference/" class="nav-featured-block" style="background-color: #173e91"><span>4-5 November</span><p>Trust Conference</p><p>2026</p><div class="featured-link-arrow white" ><img src="/wp-content/uploads/2024/06/arrow-right-white.svg" alt=""></div></a></div>
+					</div>
+				</div></li>
+<li class='caffeine_search-menu_button'><a href='/search/' class='caffeine_search-button'><img src='/wp-content/uploads/2024/06/search-white.svg' alt='Search'></a></li></ul></div>					</nav><!-- #site-navigation -->
+				</div>
+			</div>
+			<div class="top-nav">
+				<div class="nav-max-width">
+					<nav id="top-site-navigation" class="top-navigation">
+						<div class="menu-top-menu-container"><ul id="top-menu-mob" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2072"><a href="https://www.trust.org/news-events/trust-conference/">Our Conference</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1655"><a href="https://www.trust.org/our-journalism/">Our Journalism</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1654"><a href="https://www.trust.org/about-us/careers/">Careers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1174"><a href="https://www.trust.org/contact-us/">Contact us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9496"><a href="https://www.trust.org/newsletter/">Subscribe</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12409"><a href="https://www.trust.org/about-us/support-our-work/">Donate</a></li>
+<li class='caffeine_search-menu_button'><a href='/search/' class='caffeine_search-button'><img src='/wp-content/uploads/2024/06/search-white.svg' alt='Search'></a></li></ul></div>					</nav><!-- #top-site-navigation -->
+				</div>
+			</div>
+		</div>
+	</header><!-- #masthead -->
+
+	<main id="primary" class="site-main">
+
+		<section class="error-404 not-found">
+			<header class="page-header">
+				<h1 class="page-title">That page can&rsquo;t be found.</h1>
+			</header><!-- .page-header -->
+
+			<div class="page-content">
+				<p>It looks like nothing was found at this location. Maybe try one of the links below or a search?</p>
+				<div class="mob-site-search">
+					<form method="GET" action="/search">
+						<input id="mob-keyword" type="text" name="keyword" placeholder="Search" /> 
+						<button>Search</button>
+					</form>
+				</div>
+				<h2 class="recent-news-404">Recent News</h2><div class="recent-posts">            <a class="single-recent-post" href="https://www.trust.org/2026/10/13/when-a-journalist-and-a-content-creator-joined-forces/">
+                					<img width="640" height="481" src="https://www.trust.org/wp-content/uploads/2026/10/2026Oct-13-Baraza-Journalists-meetup_96-1024x770.jpg" class="attachment-large size-large wp-post-image" alt="Two speakers sit on a small stage engaged in conversation, with an audience seated in rows in front of them listening." decoding="async" fetchpriority="high" srcset="https://www.trust.org/wp-content/uploads/2026/10/2026Oct-13-Baraza-Journalists-meetup_96-1024x770.jpg 1024w, https://www.trust.org/wp-content/uploads/2026/10/2026Oct-13-Baraza-Journalists-meetup_96-300x226.jpg 300w, https://www.trust.org/wp-content/uploads/2026/10/2026Oct-13-Baraza-Journalists-meetup_96-768x577.jpg 768w, https://www.trust.org/wp-content/uploads/2026/10/2026Oct-13-Baraza-Journalists-meetup_96.jpg 1200w" sizes="(max-width: 640px) 100vw, 640px" />                
+                <div class="post-content">
+                    <div class="text">
+						<h4 class="post-title">&#8220;I had a love-hate relationship with journalists&#8230;&#8221;</h4>
+
+						<div class="post-excerpt">
+							Following training and support from Thomson Reuters Foundation, in partnership with Baraza Media Lab, Nelly Awino and Seliphar Musungu reflect...						</div>
+					</div>
+
+                    <div class="read-more">Read more</div>
+                </div>
+            </a>
+                        <a class="single-recent-post" href="https://www.trust.org/2026/10/08/working-behind-the-scenes-reflections-from-the-5th-african-business-and-human-rights-forum/">
+                					<img width="640" height="360" src="https://www.trust.org/wp-content/uploads/2026/10/Dakar-group-pic-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="5th African Business and Human Rights Forum" decoding="async" srcset="https://www.trust.org/wp-content/uploads/2026/10/Dakar-group-pic-1024x576.jpg 1024w, https://www.trust.org/wp-content/uploads/2026/10/Dakar-group-pic-300x169.jpg 300w, https://www.trust.org/wp-content/uploads/2026/10/Dakar-group-pic-768x432.jpg 768w, https://www.trust.org/wp-content/uploads/2026/10/Dakar-group-pic.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" />                
+                <div class="post-content">
+                    <div class="text">
+						<h4 class="post-title">Working behind the scenes: Reflections from the 5th African Business and Human Rights Forum</h4>
+
+						<div class="post-excerpt">
+							At this year's African Business and Human Rights Forum in Dakar, the real progress happened in the grey areas. As...						</div>
+					</div>
+
+                    <div class="read-more">Read more</div>
+                </div>
+            </a>
+                        <a class="single-recent-post" href="https://www.trust.org/2026/09/28/every-dollar-invested-in-journalism-can-return-100-to-society-so-why-are-we-letting-it-collapse/">
+                					<img width="640" height="427" src="https://www.trust.org/wp-content/uploads/2026/09/2015-08-25T120000Z_1506023313_GF10000181756_RTRMADP_3_USA-WILDFIRES-WEST-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="A melted newspaper holder, with newspaper still intact, is pictured near a home destroyed by the Chelan Complex fire in Chelan, Washington August 24, 2015. Moderate winds on Monday were expected to work in favor of firefighters battling the Chelan complex of fires in the north-central part of the state. But hot weather and stronger winds later in the week could lead the collection of blazes to expand again, officials said on the inter-agency fire website, InciWeb. REUTERS/David Ryder" decoding="async" srcset="https://www.trust.org/wp-content/uploads/2026/09/2015-08-25T120000Z_1506023313_GF10000181756_RTRMADP_3_USA-WILDFIRES-WEST-1024x683.jpg 1024w, https://www.trust.org/wp-content/uploads/2026/09/2015-08-25T120000Z_1506023313_GF10000181756_RTRMADP_3_USA-WILDFIRES-WEST-300x200.jpg 300w, https://www.trust.org/wp-content/uploads/2026/09/2015-08-25T120000Z_1506023313_GF10000181756_RTRMADP_3_USA-WILDFIRES-WEST-768x512.jpg 768w, https://www.trust.org/wp-content/uploads/2026/09/2015-08-25T120000Z_1506023313_GF10000181756_RTRMADP_3_USA-WILDFIRES-WEST-1536x1024.jpg 1536w, https://www.trust.org/wp-content/uploads/2026/09/2015-08-25T120000Z_1506023313_GF10000181756_RTRMADP_3_USA-WILDFIRES-WEST-2048x1365.jpg 2048w" sizes="(max-width: 640px) 100vw, 640px" />                
+                <div class="post-content">
+                    <div class="text">
+						<h4 class="post-title">World News Day: every $1 invested in journalism can return $100 to society. So why are we letting it collapse?</h4>
+
+						<div class="post-excerpt">
+							Right now, there are more journalists behind bars than at any other point in history. Journalists around the world are...						</div>
+					</div>
+
+                    <div class="read-more">Read more</div>
+                </div>
+            </a>
+            </div>
+
+			</div><!-- .page-content -->
+		</section><!-- .error-404 -->
+
+	</main><!-- #main -->
+
+
+<script nitro-exclude>
+    document.cookie = 'nitroCachedPage=' + (!window.NITROPACK_STATE ? '0' : '1') + '; path=/; SameSite=Lax';
+</script>
+	<footer id="colophon" class="site-footer">
+		<div class="site-info max-width">
+			<div class="footer-top flex flex-wrap space-between align-center">
+				<div class="footer-left">
+					<h6>Sign up to our newsletter</h6>
+					<a class="button orange" href="/newsletter/">Subscribe</a>
+				</div>
+				<div class="footer-right">
+					<div class="menu-footer-top-menu-container"><ul id="footer-top-menu" class="menu"><li id="menu-item-2326" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2326"><a href="https://www.trust.org/about-us/">About Us</a></li>
+<li id="menu-item-2327" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2327"><a href="https://www.trust.org/about-us/careers/">Careers</a></li>
+<li id="menu-item-2329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2329"><a href="https://www.trust.org/contact-us/">Contact</a></li>
+<li id="menu-item-177" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-177"><a href="https://www.trust.org/news-events/foundation-news/?taxonomies.category=Press-Release#ais-wrapper">Press Releases</a></li>
+<li id="menu-item-2328" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2328"><a href="https://www.trust.org/about-us/partner-with-us/">Partner with us</a></li>
+<li id="menu-item-6723" class="ot-sdk-show-settings menu-item menu-item-type-custom menu-item-object-custom menu-item-6723"><a href="#footer">Cookie Settings</a></li>
+<li class='caffeine_search-menu_button'><a href='/search/' class='caffeine_search-button'><img src='/wp-content/uploads/2024/06/search-white.svg' alt='Search'></a></li></ul></div><div class="menu-footer-bottom-menu-container"><ul id="footer-bottom-menu" class="menu"><li id="menu-item-179" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-179"><a href="https://www.trust.org/legal/trust-principles/">Trust Principles</a></li>
+<li id="menu-item-1178" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1178"><a href="https://www.trust.org/legal/terms-conditions/">Terms &amp; Conditions</a></li>
+<li id="menu-item-1176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1176"><a href="https://www.trust.org/legal/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-7050" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7050"><a href="https://www.trust.org/wp-content/uploads/2024/10/TRF-Safeguarding-Policy-July-2024.pdf">Safeguarding Policy</a></li>
+<li class='caffeine_search-menu_button'><a href='/search/' class='caffeine_search-button'><img src='/wp-content/uploads/2024/06/search-white.svg' alt='Search'></a></li></ul></div>				</div>
+			</div>
+			<div class="footer-bottom flex flex-wrap space-between align-center">
+				<div class="footer-left">
+					<span><p>Copyright © 2026 Thomson Reuters Foundation.<br />
+Thomson Reuters Foundation is a charity registered in England and Wales (registration number: 1082139)</p>
+</span>
+				</div>
+				<div class="footer-right">
+					<div class="social-media">
+						<a href="https://www.linkedin.com/company/thomson-reuters-foundation/" target="_blank"><img src="/wp-content/uploads/2024/06/linkedin.svg" alt="TRF's LinkedIn page"></a>
+						<a href="https://www.youtube.com/user/thomsonreutersfdn" target="_blank"><img src="/wp-content/uploads/2024/06/youtube.svg" alt="Context News YouTube channel"></a>
+						<!--<a href="https://www.instagram.com/thomsonreutersfoundation/" target="_blank"><img src="/wp-content/uploads/2024/06/instagram.svg" alt=""></a>-->
+						<a href="https://www.facebook.com/Thomson.Reuters.Foundation" target="_blank"><img src="/wp-content/uploads/2024/06/facebook.svg" alt="TRF's Facebook page"></a>
+						<a href="https://twitter.com/trf" target="_blank"><img src="/wp-content/uploads/2024/06/x.svg" alt="TRF's X (formally Twitter) account"></a>
+					</div>
+				</div>
+			</div>
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/trust/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+
+		<div class="caffeine_search-wrapper">
+			<form role="search" method="get" class="caffeine_search-form" action="https://www.trust.org/">
+				<label class="screen-reader-text" for="s">Search for:</label>
+				<input class="search-field" type="text" value="" placeholder="Start typing...." name="s" id="s" />
+				<input class="search-submit" type="submit" id="searchsubmit" value="Search" />
+			</form>
+			<div class="caffeine_search-close caffeine_search-button"><span></span><span></span></div>
+		</div>
+		<script type="text/javascript">var algolia = {"debug":false,"application_id":"SG7AYOKF2N","search_api_key":"6e7fec8d272ce0ba2fd5bda4aeb36aab","powered_by_enabled":false,"search_hits_per_page":"10","query":"","indices":{"searchable_posts":{"name":"wp_searchable_posts","id":"searchable_posts","enabled":true,"replicas":[]}},"autocomplete":{"sources":[],"input_selector":"input[name='s']:not(.no-autocomplete):not(#adminbar-search)"}};</script><script id="alchemercookie-js-js" src="https://www.trust.org/wp-content/plugins/alchemer-cookie/alchemercookie.js?ver=1792169365"></script>
+<script id="jquery-ui-core-js-before">
+jQuery.uiBackCompat = true;
+//# sourceURL=jquery-ui-core-js-before
+</script>
+<script id="jquery-ui-core-js" src="https://www.trust.org/wp-includes/js/jquery/ui/core.min.js?ver=1792169365"></script>
+<script id="jquery-ui-mouse-js" src="https://www.trust.org/wp-includes/js/jquery/ui/mouse.min.js?ver=1792169365"></script>
+<script id="jquery-ui-draggable-js" src="https://www.trust.org/wp-includes/js/jquery/ui/draggable.min.js?ver=1792169365"></script>
+<script id="jquery-ui-menu-js" src="https://www.trust.org/wp-includes/js/jquery/ui/menu.min.js?ver=1792169365"></script>
+<script id="jquery-ui-selectmenu-js" src="https://www.trust.org/wp-includes/js/jquery/ui/selectmenu.min.js?ver=1792169365"></script>
+<script id="wp-hooks-js" src="https://www.trust.org/wp-includes/js/dist/hooks.min.js?ver=1792169365"></script>
+<script id="wp-i18n-js" src="https://www.trust.org/wp-includes/js/dist/i18n.min.js?ver=1792169365"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="edac-frontend-fixes-js-extra">
+var edac_frontend_fixes = [];
+//# sourceURL=edac-frontend-fixes-js-extra
+</script>
+<script id="edac-frontend-fixes-js" src="https://www.trust.org/wp-content/plugins/accessibility-checker/build/frontendFixes.bundle.js?ver=1792169365"></script>
+<script id="jquery-ui-datepicker-js" src="https://www.trust.org/wp-includes/js/jquery/ui/datepicker.min.js?ver=1792169365"></script>
+<script id="jquery-ui-datepicker-js-after">
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+//# sourceURL=jquery-ui-datepicker-js-after
+</script>
+<script id="underscore-js" src="https://www.trust.org/wp-includes/js/underscore.min.js?ver=1792169365"></script>
+<script id="wp-util-js-extra">
+var _wpUtilSettings = {"ajax":{"url":"/wp-admin/admin-ajax.php"}};
+//# sourceURL=wp-util-js-extra
+</script>
+<script id="wp-util-js" src="https://www.trust.org/wp-includes/js/wp-util.min.js?ver=1792169365"></script>
+<script id="trust-algolia-search-js" src="https://cdn.jsdelivr.net/npm/algoliasearch@4.24.0/dist/algoliasearch-lite.umd.js?ver=1792169365"></script>
+<script id="trust-algolia-instant-js" src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.73.2/dist/instantsearch.production.min.js?ver=1792169365"></script>
+<script id="trust-slick-js" src="https://cdn.jsdelivr.net/npm/@accessible360/accessible-slick@1.0.1/slick/slick.min.js?ver=1792169365"></script>
+<script id="trust-js-js-extra">
+var ajaxurl = "https://www.trust.org/wp-admin/admin-ajax.php";
+//# sourceURL=trust-js-js-extra
+</script>
+<script id="trust-js-js" src="https://www.trust.org/wp-content/themes/trust/trf.js?ver=1792169365"></script>
+<script id="trust-mob-menu-js-js" src="https://www.trust.org/wp-content/themes/trust/mobile-menu.js?ver=1792169365"></script>
+<script id="trust-tracking-js" src="https://www.trust.org/wp-content/themes/trust/tracking.js?ver=1792169365"></script>
+<script id="trust-navigation-js" src="https://www.trust.org/wp-content/themes/trust/js/navigation.js?ver=1792169365"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.trust.org/wp-includes/js/wp-emoji-release.min.js?ver=1792169365"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://www.trust.org/wp-includes/js/wp-emoji-loader.min.js
+</script>
+
+</body>
+</html>
