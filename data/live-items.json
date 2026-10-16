@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-10-16T00:29:00+08:00",
-    "itemCount": 1406,
+    "generatedAt": "2026-10-16T18:08:00+08:00",
+    "itemCount": 1424,
     "windowNote": {
-      "sc": "本库1406条。",
-      "tc": "本庫1406條。"
+      "sc": "本库1424条。",
+      "tc": "本庫1424條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -325,6 +325,1622 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "rn-aon-rafferty-chief-integration-officer-20261016",
+      "publishedAt": "2026-10-16T18:00:00+08:00",
+      "originalUrl": "https://www.reinsurancene.ws/aon-promotes-chris-rafferty-to-chief-integration-officer-for-imo/",
+      "sourceKey": "reinsurancenews",
+      "sourceTier": "pro",
+      "score": 70,
+      "verifyStatus": "verified",
+      "contentKind": "news",
+      "clusterCount": 1,
+      "boards": [
+        "insurer",
+        "market"
+      ],
+      "themes": [
+        "appointments",
+        "aon",
+        "integration",
+        "mergers-acquisitions",
+        "leadership"
+      ],
+      "summary": {
+        "sc": "怡安（Aon）委任 Chris Rafferty 为整合管理办公室（IMO）首席整合官。他 2007 年加入集团任营运总监近 15 年，其后出任全球特殊产品主管两年，最近为芝加哥市场主管；他早年任职 Lincoln International 併购部副董事，2001 年起于美联银行证券任分析员。集团同时委任 Steven Carleton 接任芝加哥市场主管——他 2010 年以健康与福利实习生加入，在集团工作满 15 年，最近为中西部董事总经理兼区域销售主管，亦曾任芝加哥区域销售主管及三藩市驻点销售董事。[EN原文]",
+        "tc": "怡安（Aon）委任 Chris Rafferty 爲整合管理辦公室（IMO）首席整合官。他 2007 年加入集團任營運總監近 15 年，其後出任全球特殊產品主管兩年，最近爲芝加哥市場主管；他早年任職 Lincoln International 併購部副董事，2001 年起於美聯銀行證券任分析員。集團同時委任 Steven Carleton 接任芝加哥市場主管——他 2010 年以健康與福利實習生加入，在集團工作滿 15 年，最近爲中西部董事總經理兼區域銷售主管，亦曾任芝加哥區域銷售主管及三藩市駐點銷售董事。[EN原文]"
+      },
+      "why": {
+        "sc": "整合管理办公室主管的设立通常对应大型收购的落地整合期，反映怡安正集中处理併购后的业务融合；大型经纪的整合动作往往伴随团队与客户关系变动，可作为人才流动的先行信号。",
+        "tc": "整合管理辦公室主管的設立通常對應大型收購的落地整合期，反映怡安正集中處理併購後的業務融合；大型經紀的整合動作往往伴隨團隊與客戶關係變動，可作爲人才流動的先行信號。"
+      },
+      "source": {
+        "sc": "Reinsurance News 2026-10-16 报道（Aon 公布）",
+        "tc": "Reinsurance News 2026-10-16 報道（Aon 公布）",
+        "lang": "en",
+        "name": "Reinsurance News",
+        "date": "2026-10-16",
+        "note": "EN原文；含两宗委任与履历背景"
+      },
+      "tags": {
+        "sc": [
+          "Aon",
+          "整合管理",
+          "并购",
+          "人事任命",
+          "保险经纪"
+        ],
+        "tc": [
+          "Aon",
+          "整合管理",
+          "併購",
+          "人事任命",
+          "保險經紀"
+        ]
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "大型经纪整合与人才流动跟踪",
+          "tc": "大型經紀整合與人才流動跟蹤"
+        },
+        "lead": {
+          "sc": "团队简报：经纪併购后整合",
+          "tc": "團隊簡報：經紀併購後整合"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "title": {
+        "sc": "怡安委任 Chris Rafferty 为整合管理办公室首席整合官　Steven Carleton 接任芝加哥主管",
+        "tc": "怡安委任 Chris Rafferty 爲整合管理辦公室首席整合官　Steven Carleton 接任芝加哥主管"
+      },
+      "featured": false,
+      "evergreen": false,
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "ingestedAt": "2026-10-16T18:08:00+08:00",
+      "summaryShort": {
+        "sc": "怡安（Aon）委任 Chris Rafferty 为整合管理办公室（IMO）首席整合官。他 2007 年加入集团任营运总监近 15 年，其后出任全球特殊产品主管两年，最近为芝加哥市场主管；",
+        "tc": "怡安（Aon）委任 Chris Rafferty 爲整合管理辦公室（IMO）首席整合官。他 2007 年加入集團任營運總監近 15 年，其後出任全球特殊產品主管兩年，最近爲芝加哥市場主管；"
+      }
+    },
+    {
+      "id": "ibm-lloyds-capital-asian-hubs-20261016",
+      "publishedAt": "2026-10-16T17:14:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/capital-is-pouring-into-lloyds-even-as-asian-hubs-top-the-insurance-rankings-593819.aspx",
+      "sourceKey": "insurancebusinessmag",
+      "sourceTier": "media",
+      "score": 62,
+      "verifyStatus": "verified",
+      "contentKind": "news",
+      "clusterCount": 1,
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "lloyds",
+        "capital",
+        "syndicates",
+        "softening-rates",
+        "asia-hubs"
+      ],
+      "summary": {
+        "sc": "Insurance Business 引述劳合社 2025 年年报及巴克莱分析：2025 年有 7 个新辛迪加开始承保，2026 年 1 月 1 日再增 13 个，另有逾 50 宗认真承保查询，网络再保人 Envelop 已获原则性批准于明年把特别目的安排转为完整辛迪加。劳合社 2025 年毛保费增 4.2% 至 579 亿英镑、利润 106 亿英镑、资本回报 22%，连续三年超过 20%；2026 年获批准资本 362 亿英镑，较 337 亿增 7.4%。巴克莱指资金回流源于劳合社现代化、投资者基础扩大，以及辛迪加资本结构变复杂，但 2023 及 2024 年财产巨灾费率急升提供了顺风，市场正转入软化。[EN原文]",
+        "tc": "Insurance Business 引述勞合社 2025 年年報及巴克萊分析：2025 年有 7 個新辛迪加開始承保，2026 年 1 月 1 日再增 13 個，另有逾 50 宗認真承保查詢，網絡再保人 Envelop 已獲原則性批准於明年把特別目的安排轉爲完整辛迪加。勞合社 2025 年毛保費增 4.2% 至 579 億英鎊、利潤 106 億英鎊、資本回報 22%，連續三年超過 20%；2026 年獲批准資本 362 億英鎊，較 337 億增 7.4%。巴克萊指資金回流源於勞合社現代化、投資者基礎擴大，以及辛迪加資本結構變複雜，但 2023 及 2024 年財產巨災費率急升提供了順風，市場正轉入軟化。[EN原文]"
+      },
+      "why": {
+        "sc": "资本持续流入劳合社的同时费率下行，与亚洲枢纽（香港、新加坡）在专属自保与 ILS 上的追赶形成对照；香港要在区域风险中心竞争中留住人才与资本，须正视伦敦在准入效率与资本结构创新上的改变。",
+        "tc": "資本持續流入勞合社的同時費率下行，與亞洲樞紐（香港、新加坡）在專屬自保與 ILS 上的追趕形成對照；香港要在區域風險中心競爭中留住人才與資本，須正視倫敦在準入效率與資本結構創新上的改變。"
+      },
+      "source": {
+        "sc": "Insurance Business 2026-10-16 报道（引述劳合社年报与巴克莱分析）",
+        "tc": "Insurance Business 2026-10-16 報道（引述勞合社年報與巴克萊分析）",
+        "lang": "en",
+        "name": "Insurance Business",
+        "date": "2026-10-16",
+        "note": "EN原文；含辛迪加数目、保费与资本数据"
+      },
+      "tags": {
+        "sc": [
+          "劳合社",
+          "辛迪加",
+          "资本",
+          "软市场",
+          "亚洲枢纽"
+        ],
+        "tc": [
+          "勞合社",
+          "辛迪加",
+          "資本",
+          "軟市場",
+          "亞洲樞紐"
+        ]
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "离岸承保能力与费率周期跟踪",
+          "tc": "離岸承保能力與費率周期跟蹤"
+        },
+        "lead": {
+          "sc": "团队简报：伦敦与亚洲枢纽竞争",
+          "tc": "團隊簡報：倫敦與亞洲樞紐競爭"
+        },
+        "cross": {
+          "sc": "客户解说素材：承保周期",
+          "tc": "客戶解說素材：承保周期"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "title": {
+        "sc": "资本持续流入劳合社　2026 年新增 13 个辛迪加、获批资本 362 亿英镑",
+        "tc": "資本持續流入勞合社　2026 年新增 13 個辛迪加、獲批資本 362 億英鎊"
+      },
+      "featured": false,
+      "evergreen": false,
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "ingestedAt": "2026-10-16T18:08:00+08:00",
+      "summaryShort": {
+        "sc": "Insurance Business 引述劳合社 2025 年年报及巴克莱分析：2025 年有 7 个新辛迪加开始承保，2026 年 1 月 1 日再增 13 个，另有逾 50 宗认真承保查询，网络再保人 Envelop 已获原则性批准于明…",
+        "tc": "Insurance Business 引述勞合社 2025 年年報及巴克萊分析：2025 年有 7 個新辛迪加開始承保，2026 年 1 月 1 日再增 13 個，另有逾 50 宗認真承保查詢，網絡再保人 Envelop 已獲原則性批准於明…"
+      }
+    },
+    {
+      "id": "artemis-ccrif-panama-parametric-17m-20261016",
+      "publishedAt": "2026-10-16T16:00:00+08:00",
+      "originalUrl": "https://www.artemis.bm/news/ccrif-to-pay-us-17-4m-to-panama-after-m7-7-quake-triggers-parametric-coverage/",
+      "sourceKey": "artemis",
+      "sourceTier": "pro",
+      "score": 70,
+      "verifyStatus": "verified",
+      "contentKind": "news",
+      "clusterCount": 1,
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "parametric-insurance",
+        "catastrophe-risk",
+        "earthquake",
+        "risk-pool",
+        "payout"
+      ],
+      "summary": {
+        "sc": "加勒比与中美洲地区参数式风险池 CCRIF SPC 将向巴拿马政府支付 1,740 万美元，因 10 月 9 日该国 7.7 级地震触发其参数式地震保障。CCRIF 以 SPHERA 地震模型估算全国峰值地面加速度最高达 0.5g，巴拿马是唯一超过模型 0.03g 报告门槛的成员国；模拟损失超过地震保单的参数触发值，赔款将于地震后 14 天内支付。地震造成多省房屋、学校、医院、公共建筑及道路损毁，初步评估 656 所学校受影响。巴拿马自 2018 年参与 CCRIF，此前已获三次赔款共约 2,900 万美元。连同本次，CCRIF 自 2007 年成立以来已赔付 83 次、总额逾 5 亿美元，全部于事件后 14 天内完成。[EN原文]",
+        "tc": "加勒比與中美洲地區參數式風險池 CCRIF SPC 將向巴拿馬政府支付 1,740 萬美元，因 10 月 9 日該國 7.7 級地震觸發其參數式地震保障。CCRIF 以 SPHERA 地震模型估算全國峯值地面加速度最高達 0.5g，巴拿馬是唯一超過模型 0.03g 報告門檻的成員國；模擬損失超過地震保單的參數觸發值，賠款將於地震後 14 天內支付。地震造成多省房屋、學校、醫院、公共建築及道路損毀，初步評估 656 所學校受影響。巴拿馬自 2018 年參與 CCRIF，此前已獲三次賠款共約 2,900 萬美元。連同本次，CCRIF 自 2007 年成立以來已賠付 83 次、總額逾 5 億美元，全部於事件後 14 天內完成。[EN原文]"
+      },
+      "why": {
+        "sc": "参数式保险把「快速流动性」做成可验证的产品承诺，是主权与巨灾风险融资的成熟范式；香港争取区域风险管理中心与巨灾债券枢纽时，这类风险池的触发设计与结算速度是最直观的对标。",
+        "tc": "參數式保險把「快速流動性」做成可驗證的產品承諾，是主權與巨災風險融資的成熟範式；香港爭取區域風險管理中心與巨災債券樞紐時，這類風險池的觸發設計與結算速度是最直觀的對標。"
+      },
+      "source": {
+        "sc": "Artemis.bm 2026-10-16 报道（CCRIF 公布）",
+        "tc": "Artemis.bm 2026-10-16 報道（CCRIF 公布）",
+        "lang": "en",
+        "name": "Artemis.bm",
+        "date": "2026-10-16",
+        "note": "EN原文；含触发模型、赔款金额与时限"
+      },
+      "tags": {
+        "sc": [
+          "CCRIF",
+          "参数式保险",
+          "地震",
+          "巨灾债券",
+          "巴拿马"
+        ],
+        "tc": [
+          "CCRIF",
+          "參數式保險",
+          "地震",
+          "巨災債券",
+          "巴拿馬"
+        ]
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "参数式产品触发与结算机制跟踪",
+          "tc": "參數式產品觸發與結算機制跟蹤"
+        },
+        "lead": {
+          "sc": "专题：巨灾风险融资范式",
+          "tc": "專題：巨災風險融資範式"
+        },
+        "cross": {
+          "sc": "家办另类资产（ILS）参考",
+          "tc": "家辦另類資產（ILS）參考"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "title": {
+        "sc": "巴拿马 7.7 级地震触发参数式保障　CCRIF 赔付 1,740 万美元",
+        "tc": "巴拿馬 7.7 級地震觸發參數式保障　CCRIF 賠付 1,740 萬美元"
+      },
+      "featured": false,
+      "evergreen": false,
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "ingestedAt": "2026-10-16T18:08:00+08:00",
+      "summaryShort": {
+        "sc": "加勒比与中美洲地区参数式风险池 CCRIF SPC 将向巴拿马政府支付 1,740 万美元，因 10 月 9 日该国 7.7 级地震触发其参数式地震保障。CCRIF 以 SPHERA 地震模型估算全国峰值地面加速度最高达 0.",
+        "tc": "加勒比與中美洲地區參數式風險池 CCRIF SPC 將向巴拿馬政府支付 1,740 萬美元，因 10 月 9 日該國 7.7 級地震觸發其參數式地震保障。CCRIF 以 SPHERA 地震模型估算全國峯值地面加速度最高達 0."
+      }
+    },
+    {
+      "id": "artemis-nascent-re-plymouth-warwick-36m-20261016",
+      "publishedAt": "2026-10-16T15:00:00+08:00",
+      "originalUrl": "https://www.artemis.bm/news/nascent-re-issues-36m-across-plymouth-warwick-preferred-share-insurance-linked-securities/",
+      "sourceKey": "artemis",
+      "sourceTier": "pro",
+      "score": 70,
+      "verifyStatus": "verified",
+      "contentKind": "news",
+      "clusterCount": 1,
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "ils",
+        "collateralized-reinsurance",
+        "preferred-shares",
+        "bermuda",
+        "retrocession"
+      ],
+      "summary": {
+        "sc": "百慕大 Nascent Group 旗下持牌再保转换平台 Nascent Re Ltd. 再发行 3,600 万美元优先股保险相连证券（ILS），分为 Plymouth（1,600 万美元，2027 年 6 月 30 日到期）与 Warwick（2,000 万美元，2026 年 12 月 15 日到期）两个独立帐户，属 Artemis 追踪到的第六宗同类发行，全部以优先股形式进行，可能代表某种抵押式再保或私人 ILS 安排。该平台今年 3 月首度发行 OFS Re 优先股（1,000 万欧元），8 月 Telford 2,350 万美元为最大单笔，9 月再发 Quinton 与 Stevenage 各 2,000 万美元。[EN原文]",
+        "tc": "百慕大 Nascent Group 旗下持牌再保轉換平臺 Nascent Re Ltd. 再發行 3,600 萬美元優先股保險相連證券（ILS），分爲 Plymouth（1,600 萬美元，2027 年 6 月 30 日到期）與 Warwick（2,000 萬美元，2026 年 12 月 15 日到期）兩個獨立帳戶，屬 Artemis 追蹤到的第六宗同類發行，全部以優先股形式進行，可能代表某種抵押式再保或私人 ILS 安排。該平臺今年 3 月首度發行 OFS Re 優先股（1,000 萬歐元），8 月 Telford 2,350 萬美元爲最大單筆，9 月再發 Quinton 與 Stevenage 各 2,000 萬美元。[EN原文]"
+      },
+      "why": {
+        "sc": "抵押式再保与私人 ILS 的发行频率上升，显示中型平台正把「风险转换」做成可重复的标准化产品；这类结构的成熟度，是香港与新加坡推动 PCC 制度时最需要对接的市场实务。",
+        "tc": "抵押式再保與私人 ILS 的發行頻率上升，顯示中型平臺正把「風險轉換」做成可重複的標準化產品；這類結構的成熟度，是香港與新加坡推動 PCC 制度時最需要對接的市場實務。"
+      },
+      "source": {
+        "sc": "Artemis.bm 2026-10-16 报道（Nascent Re 发行）",
+        "tc": "Artemis.bm 2026-10-16 報道（Nascent Re 發行）",
+        "lang": "en",
+        "name": "Artemis.bm",
+        "date": "2026-10-16",
+        "note": "EN原文；含金额、到期日与历史发行梳理"
+      },
+      "tags": {
+        "sc": [
+          "Nascent Re",
+          "ILS",
+          "抵押式再保",
+          "优先股",
+          "百慕大"
+        ],
+        "tc": [
+          "Nascent Re",
+          "ILS",
+          "抵押式再保",
+          "優先股",
+          "百慕大"
+        ]
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "私人 ILS 发行与结构跟踪",
+          "tc": "私人 ILS 發行與結構跟蹤"
+        },
+        "lead": {
+          "sc": "团队简报：抵押式再保工具",
+          "tc": "團隊簡報：抵押式再保工具"
+        },
+        "cross": {
+          "sc": "家办另类资产（ILS）参考",
+          "tc": "家辦另類資產（ILS）參考"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 2,
+        "lead": 1,
+        "cross": 2
+      },
+      "title": {
+        "sc": "Nascent Re 再发行 3,600 万美元优先股 ILS　Plymouth 与 Warwick 两系列",
+        "tc": "Nascent Re 再發行 3,600 萬美元優先股 ILS　Plymouth 與 Warwick 兩系列"
+      },
+      "featured": false,
+      "evergreen": false,
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "ingestedAt": "2026-10-16T18:08:00+08:00",
+      "summaryShort": {
+        "sc": "百慕大 Nascent Group 旗下持牌再保转换平台 Nascent Re Ltd. 再发行 3,600 万美元优先股保险相连证券（ILS），分为 Plymouth（1,600 万美元，2027 年 6 月 30 日到期）与 Warwi…",
+        "tc": "百慕大 Nascent Group 旗下持牌再保轉換平臺 Nascent Re Ltd. 再發行 3,600 萬美元優先股保險相連證券（ILS），分爲 Plymouth（1,600 萬美元，2027 年 6 月 30 日到期）與 Warwi…"
+      }
+    },
+    {
+      "id": "ian-allianz-jingdong-ceo-chen-20261016",
+      "publishedAt": "2026-10-16T12:59:00+08:00",
+      "originalUrl": "https://insuranceasianews.com/john-chen-succeeds-william-liang-as-allianz-jingdong-ceo/",
+      "sourceKey": "insuranceasianews",
+      "sourceTier": "pro",
+      "score": 70,
+      "verifyStatus": "pending",
+      "contentKind": "news",
+      "clusterCount": 1,
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "appointments",
+        "allianz",
+        "china",
+        "joint-venture",
+        "leadership"
+      ],
+      "summary": {
+        "sc": "安联与京东在中国的合资公司安联京东财产保险（Allianz JD）换帅：John Chen 接任行政总裁，接替于周四离任、另寻发展的 William Liang，新任命自周五生效。该合营由安联与京东集团共同持股，属外资在内地产险的合资平台；安联近期在亚洲多线推进，包括 7 月以约 27 亿新加坡元收购滙丰新加坡寿险业务并取得 15 年独家银保合作。[EN原文；IAAN 正文需订阅]",
+        "tc": "安聯與京東在中國的合資公司安聯京東財產保險（Allianz JD）換帥：John Chen 接任行政總裁，接替於周四離任、另尋發展的 William Liang，新任命自周五生效。該合營由安聯與京東集團共同持股，屬外資在內地產險的合資平臺；安聯近期在亞洲多線推進，包括 7 月以約 27 億新加坡元收購滙豐新加坡壽險業務並取得 15 年獨家銀保合作。[EN原文；IAAN 正文需訂閱]"
+      },
+      "why": {
+        "sc": "中国产险合资平台的管理层调整往往先于策略重估；安联同时在新加坡寿险、中国产险与香港区域平台多线布局，集团资源在区内的分配重心值得持续留意。",
+        "tc": "中國產險合資平臺的管理層調整往往先於策略重估；安聯同時在新加坡壽險、中國產險與香港區域平臺多線布局，集團資源在區內的分配重心值得持續留意。"
+      },
+      "source": {
+        "sc": "InsuranceAsia News 2026-10-16 报道",
+        "tc": "InsuranceAsia News 2026-10-16 報道",
+        "lang": "en",
+        "name": "InsuranceAsia News",
+        "date": "2026-10-16",
+        "note": "EN原文；正文需订阅，待复核"
+      },
+      "tags": {
+        "sc": [
+          "安联",
+          "中国",
+          "合资公司",
+          "人事任命",
+          "京东"
+        ],
+        "tc": [
+          "安聯",
+          "中國",
+          "合資公司",
+          "人事任命",
+          "京東"
+        ]
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "外资在内地产险布局跟踪",
+          "tc": "外資在內地產險布局跟蹤"
+        },
+        "lead": {
+          "sc": "团队简报：集团区域人事变动",
+          "tc": "團隊簡報：集團區域人事變動"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "title": {
+        "sc": "安联京东产险换帅　John Chen 接替 William Liang 出任行政总裁",
+        "tc": "安聯京東產險換帥　John Chen 接替 William Liang 出任行政總裁"
+      },
+      "featured": false,
+      "evergreen": false,
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "ingestedAt": "2026-10-16T18:08:00+08:00",
+      "summaryShort": {
+        "sc": "安联与京东在中国的合资公司安联京东财产保险（Allianz JD）换帅：John Chen 接任行政总裁，接替于周四离任、另寻发展的 William Liang，新任命自周五生效。该合营由安联与京东集团共同持股，属外资在内地产险的合资平台；",
+        "tc": "安聯與京東在中國的合資公司安聯京東財產保險（Allianz JD）換帥：John Chen 接任行政總裁，接替於周四離任、另尋發展的 William Liang，新任命自周五生效。該合營由安聯與京東集團共同持股，屬外資在內地產險的合資平臺；"
+      }
+    },
+    {
+      "id": "ian-kb-insurance-uk-lloyds-stakes-20261016",
+      "publishedAt": "2026-10-16T11:23:00+08:00",
+      "originalUrl": "https://insuranceasianews.com/kb-insurance-opens-uk-arm-sets-sights-on-stakes-in-lloyds-syndicates-report/",
+      "sourceKey": "insuranceasianews",
+      "sourceTier": "pro",
+      "score": 70,
+      "verifyStatus": "pending",
+      "contentKind": "news",
+      "clusterCount": 1,
+      "boards": [
+        "insurer",
+        "market"
+      ],
+      "themes": [
+        "korea",
+        "lloyds",
+        "expansion",
+        "syndicates",
+        "overseas"
+      ],
+      "summary": {
+        "sc": "据 Chosun Biz 报道，韩国 KB 保险已在英国设立子公司，并计划投资劳合社辛迪加；报道指该韩国产险公司正循伦敦市场路径获取特殊风险承保能力并推进国际化。此举与近期多家亚洲保险集团加码劳合社的方向一致——劳合社 2026 年 1 月新增 13 个辛迪加，网络再保人 Envelop 亦获原则性批准转为完整辛迪加。KB 保险的既有海外布局以东南亚为主，英国为其首次进入劳合社生态。[EN原文；IAAN 正文需订阅]",
+        "tc": "據 Chosun Biz 報道，韓國 KB 保險已在英國設立子公司，並計劃投資勞合社辛迪加；報道指該韓國產險公司正循倫敦市場路徑獲取特殊風險承保能力並推進國際化。此舉與近期多家亞洲保險集團加碼勞合社的方向一致——勞合社 2026 年 1 月新增 13 個辛迪加，網絡再保人 Envelop 亦獲原則性批准轉爲完整辛迪加。KB 保險的既有海外布局以東南亞爲主，英國爲其首次進入勞合社生態。[EN原文；IAAN 正文需訂閱]"
+      },
+      "why": {
+        "sc": "亚洲保险资本正沿「设点伦敦、入股辛迪加」的路线补足特殊风险能力；香港若要留住区域承保与再保功能，须正视本地市场在高端特殊风险与自保工具上的相对短板。",
+        "tc": "亞洲保險資本正沿「設點倫敦、入股辛迪加」的路線補足特殊風險能力；香港若要留住區域承保與再保功能，須正視本地市場在高端特殊風險與自保工具上的相對短板。"
+      },
+      "source": {
+        "sc": "InsuranceAsia News 2026-10-16 报道（引述 Chosun Biz）",
+        "tc": "InsuranceAsia News 2026-10-16 報道（引述 Chosun Biz）",
+        "lang": "en",
+        "name": "InsuranceAsia News",
+        "date": "2026-10-16",
+        "note": "EN原文；正文需订阅，待复核"
+      },
+      "tags": {
+        "sc": [
+          "KB保险",
+          "韩国",
+          "劳合社",
+          "辛迪加",
+          "海外扩张"
+        ],
+        "tc": [
+          "KB保險",
+          "韓國",
+          "勞合社",
+          "辛迪加",
+          "海外擴張"
+        ]
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "亚洲险企海外布局跟踪",
+          "tc": "亞洲險企海外布局跟蹤"
+        },
+        "lead": {
+          "sc": "团队简报：承保能力外移趋势",
+          "tc": "團隊簡報：承保能力外移趨勢"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 2,
+        "lead": 2,
+        "cross": 0
+      },
+      "title": {
+        "sc": "韩国 KB 保险设英国子公司　拟入股劳合社辛迪加",
+        "tc": "韓國 KB 保險設英國子公司　擬入股勞合社辛迪加"
+      },
+      "featured": false,
+      "evergreen": false,
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "ingestedAt": "2026-10-16T18:08:00+08:00",
+      "summaryShort": {
+        "sc": "据 Chosun Biz 报道，韩国 KB 保险已在英国设立子公司，并计划投资劳合社辛迪加；报道指该韩国产险公司正循伦敦市场路径获取特殊风险承保能力并推进国际化。此举与近期多家亚洲保险集团加码劳合社的方向一致——劳合社 2026 年 1 月…",
+        "tc": "據 Chosun Biz 報道，韓國 KB 保險已在英國設立子公司，並計劃投資勞合社辛迪加；報道指該韓國產險公司正循倫敦市場路徑獲取特殊風險承保能力並推進國際化。此舉與近期多家亞洲保險集團加碼勞合社的方向一致——勞合社 2026 年 1 月…"
+      }
+    },
+    {
+      "id": "ibm-sumitomo-life-income-insurance-20261016",
+      "publishedAt": "2026-10-16T11:09:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/giant-japanese-insurer-looking-south-and-to-the-us-for-deals-593771.aspx",
+      "sourceKey": "insurancebusinessmag",
+      "sourceTier": "media",
+      "score": 62,
+      "verifyStatus": "verified",
+      "contentKind": "news",
+      "clusterCount": 1,
+      "boards": [
+        "insurer",
+        "market"
+      ],
+      "themes": [
+        "mergers-acquisitions",
+        "singapore",
+        "japan",
+        "income-insurance",
+        "governance"
+      ],
+      "summary": {
+        "sc": "住友生命社长高田幸德接受彭博访问时表示，正评估包括新加坡 Income Insurance 在内的收购对象，并确认至 2029 年 3 月已预留最多 1 万亿日圆作投资。Income 是 2024 年安联拟以约 22 亿新加坡元收购 51% 股权但最终告吹的标的，因文化、社区及青年部关注其对合作社社会使命缺乏约束性保障，NTUC Enterprise 仍持约 72.8% 控股權。住友生命年内曾与安联、第一生命一同入围滙丰新加坡寿险业务竞投，最终安联以估值 27 亿新加坡元胜出。[EN原文]",
+        "tc": "住友生命社長高田幸德接受彭博訪問時表示，正評估包括新加坡 Income Insurance 在內的收購對象，並確認至 2029 年 3 月已預留最多 1 萬億日圓作投資。Income 是 2024 年安聯擬以約 22 億新加坡元收購 51% 股權但最終告吹的標的，因文化、社區及青年部關注其對合作社社會使命缺乏約束性保障，NTUC Enterprise 仍持約 72.8% 控股權。住友生命年內曾與安聯、第一生命一同入圍滙豐新加坡壽險業務競投，最終安聯以估值 27 億新加坡元勝出。[EN原文]"
+      },
+      "why": {
+        "sc": "日本寿险资金持续南下寻找规模，但 Income 的社会使命条款要求任何买家先解决治理承诺；这宗潜在交易将再次测试新加坡对保险并购的社会责任红线，并牵动区内寿险资产的估值参考。",
+        "tc": "日本壽險資金持續南下尋找規模，但 Income 的社會使命條款要求任何買家先解決治理承諾；這宗潛在交易將再次測試新加坡對保險併購的社會責任紅線，並牽動區內壽險資產的估值參考。"
+      },
+      "source": {
+        "sc": "Insurance Business 2026-10-16 报道（引述彭博访问）",
+        "tc": "Insurance Business 2026-10-16 報道（引述彭博訪問）",
+        "lang": "en",
+        "name": "Insurance Business",
+        "date": "2026-10-16",
+        "note": "EN原文；含投资预算与历史交易背景"
+      },
+      "tags": {
+        "sc": [
+          "住友生命",
+          "Income Insurance",
+          "并购",
+          "新加坡",
+          "日本"
+        ],
+        "tc": [
+          "住友生命",
+          "Income Insurance",
+          "併購",
+          "新加坡",
+          "日本"
+        ]
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "亚洲寿险并购与估值动态",
+          "tc": "亞洲壽險併購與估值動態"
+        },
+        "lead": {
+          "sc": "团队简报：日本资金南下",
+          "tc": "團隊簡報：日本資金南下"
+        },
+        "cross": {
+          "sc": "家办客户区域资产配置参考",
+          "tc": "家辦客戶區域資產配置參考"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "title": {
+        "sc": "住友生命评估收购新加坡 Income Insurance　已预留最多 1 万亿日圆作投资",
+        "tc": "住友生命評估收購新加坡 Income Insurance　已預留最多 1 萬億日圓作投資"
+      },
+      "featured": false,
+      "evergreen": false,
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "ingestedAt": "2026-10-16T18:08:00+08:00",
+      "summaryShort": {
+        "sc": "住友生命社长高田幸德接受彭博访问时表示，正评估包括新加坡 Income Insurance 在内的收购对象，并确认至 2029 年 3 月已预留最多 1 万亿日圆作投资。",
+        "tc": "住友生命社長高田幸德接受彭博訪問時表示，正評估包括新加坡 Income Insurance 在內的收購對象，並確認至 2029 年 3 月已預留最多 1 萬億日圓作投資。"
+      }
+    },
+    {
+      "id": "govhk-mpf-full-portability-phase1-20261016",
+      "publishedAt": "2026-10-16T11:00:00+08:00",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202610/16/P2026101500569.htm",
+      "sourceKey": "govhk",
+      "sourceTier": "official",
+      "score": 84,
+      "verifyStatus": "verified",
+      "contentKind": "press",
+      "clusterCount": 1,
+      "boards": [
+        "reg"
+      ],
+      "themes": [
+        "mpf",
+        "full-portability",
+        "pension",
+        "legislation",
+        "hong-kong"
+      ],
+      "summary": {
+        "sc": "香港政府今日在宪报刊登《〈2025 年强制性公积金计划（一般）（修订）规例〉（生效日期）公告》，指定 12 月 21 日起实施修订规例，为强积金首阶段「全自由行」提供法律基础。2025 年 5 月 1 日或之后入职的新聘雇员，可选择每个公历年内一次（或在计划管限规则容许下每年多于一次），把现职雇主强制性供款产生的累算权益全数由雇主计划的供款帐户转至自选计划的个人帐户。财经事务及库务局局长许正宇表示已履行 2026 年《施政报告》年内落实首阶段「全自由行」的承诺，次阶段将惠及其余雇员，相关立法建议将于 2027 年年中提交立法会。政府 10 月 21 日向立法会提交公告，进行先订立后审议程序。[官方新聞稿]",
+        "tc": "香港政府今日在憲報刊登《〈2025 年強制性公積金計劃（一般）（修訂）規例〉（生效日期）公告》，指定 12 月 21 日起實施修訂規例，爲強積金首階段「全自由行」提供法律基礎。2025 年 5 月 1 日或之後入職的新聘僱員，可選擇每個公曆年內一次（或在計劃管限規則容許下每年多於一次），把現職僱主強制性供款產生的累算權益全數由僱主計劃的供款帳戶轉至自選計劃的個人帳戶。財經事務及庫務局局長許正宇表示已履行 2026 年《施政報告》年內落實首階段「全自由行」的承諾，次階段將惠及其餘僱員，相關立法建議將於 2027 年年中提交立法會。政府 10 月 21 日向立法會提交公告，進行先訂立後審議程序。[官方新聞稿]"
+      },
+      "why": {
+        "sc": "首阶段覆盖新聘雇员，等于把「转受托人」由离职时的一次性动作变成在职期间的年度选择，受托人与中介的客户黏性与产品竞争将重新洗牌；强积金配合自愿性供款与退休保障产品，成为前线可主动经营的题材。",
+        "tc": "首階段覆蓋新聘僱員，等於把「轉受託人」由離職時的一次性動作變成在職期間的年度選擇，受託人與中介的客戶黏性與產品競爭將重新洗牌；強積金配合自願性供款與退休保障產品，成爲前線可主動經營的題材。"
+      },
+      "source": {
+        "sc": "香港特区政府新闻公报 2026-10-16（财经事务及库务局）",
+        "tc": "香港特區政府新聞公報 2026-10-16（財經事務及庫務局）",
+        "lang": "zh",
+        "name": "香港政府新闻公报",
+        "date": "2026-10-16",
+        "note": "官方新聞稿；含生效日期、适用范围与立法时间表"
+      },
+      "tags": {
+        "sc": [
+          "强积金",
+          "全自由行",
+          "退休保障",
+          "条例",
+          "香港"
+        ],
+        "tc": [
+          "強積金",
+          "全自由行",
+          "退休保障",
+          "條例",
+          "香港"
+        ]
+      },
+      "actions": {
+        "front": {
+          "sc": "MPF 客户转移选项沟通准备",
+          "tc": "MPF 客戶轉移選項溝通準備"
+        },
+        "midback": {
+          "sc": "首阶段实施与次阶段立法跟踪",
+          "tc": "首階段實施與次階段立法跟蹤"
+        },
+        "lead": {
+          "sc": "团队简报：强积金全自由行",
+          "tc": "團隊簡報：強積金全自由行"
+        },
+        "cross": {
+          "sc": "退休规划产品组合素材",
+          "tc": "退休規劃產品組合素材"
+        }
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 3,
+        "lead": 3,
+        "cross": 1
+      },
+      "title": {
+        "sc": "强积金首阶段「全自由行」12 月 21 日实施　生效日期公告今日刊宪",
+        "tc": "強積金首階段「全自由行」12 月 21 日實施　生效日期公告今日刊憲"
+      },
+      "featured": false,
+      "evergreen": false,
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "ingestedAt": "2026-10-16T18:08:00+08:00",
+      "summaryShort": {
+        "sc": "香港政府今日在宪报刊登《〈2025 年强制性公积金计划（一般）（修订）规例〉（生效日期）公告》，指定 12 月 21 日起实施修订规例，为强积金首阶段「全自由行」提供法律基础。",
+        "tc": "香港政府今日在憲報刊登《〈2025 年強制性公積金計劃（一般）（修訂）規例〉（生效日期）公告》，指定 12 月 21 日起實施修訂規例，爲強積金首階段「全自由行」提供法律基礎。"
+      }
+    },
+    {
+      "id": "ibm-sunlife-global-rebrand-20261016",
+      "publishedAt": "2026-10-16T09:12:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/sun-life-becomes-sunlife-in-global-rebrand-593788.aspx",
+      "sourceKey": "insurancebusinessmag",
+      "sourceTier": "media",
+      "score": 62,
+      "verifyStatus": "verified",
+      "contentKind": "news",
+      "clusterCount": 1,
+      "boards": [
+        "insurer",
+        "product"
+      ],
+      "themes": [
+        "rebrand",
+        "branding",
+        "asia-growth",
+        "retirement",
+        "caregiving"
+      ],
+      "summary": {
+        "sc": "永明金融把全球品牌统一为「Sunlife」，取消名称中的空格，并採用新标志及标语「Making life brighter」；集团指改动反映业务已由寿险延伸至资产管理、健康、财富与保险，新标志为简化版的太阳球设计，将分阶段在各地市场推出，过渡期新旧品牌可能并存。集团同时发布八个市场调查（六個在亚洲：香港、菲律宾、越南、印尼、马来西亚、新加坡，另加加拿大与美国）：61% 受访者认为应对突发疾病或意外开支非常重要，但仅 33% 有完整计划；照顾年长或患病家人的落差最大（57% 认为重要、27% 有完整计划）；退休为 56% 对 31%。[EN原文]",
+        "tc": "永明金融把全球品牌統一爲「Sunlife」，取消名稱中的空格，並採用新標誌及標語「Making life brighter」；集團指改動反映業務已由壽險延伸至資產管理、健康、財富與保險，新標誌爲簡化版的太陽球設計，將分階段在各地市場推出，過渡期新舊品牌可能並存。集團同時發布八個市場調查（六個在亞洲：香港、菲律賓、越南、印尼、馬來西亞、新加坡，另加加拿大與美國）：61% 受訪者認爲應對突發疾病或意外開支非常重要，但僅 33% 有完整計劃；照顧年長或患病家人的落差最大（57% 認爲重要、27% 有完整計劃）；退休爲 56% 對 31%。[EN原文]"
+      },
+      "why": {
+        "sc": "品牌整合往往先于区域业务整合，亚洲占调查市场三分之二可见战略重心；「重视程度高、行动比例低」的落差是保障缺口最直接的销售语言，可直接用于客户风险检视对话。",
+        "tc": "品牌整合往往先於區域業務整合，亞洲佔調查市場三分之二可見戰略重心；「重視程度高、行動比例低」的落差是保障缺口最直接的銷售語言，可直接用於客戶風險檢視對話。"
+      },
+      "source": {
+        "sc": "Insurance Business 2026-10-16 报道（永明金融公布）",
+        "tc": "Insurance Business 2026-10-16 報道（永明金融公布）",
+        "lang": "en",
+        "name": "Insurance Business",
+        "date": "2026-10-16",
+        "note": "EN原文；含品牌安排与八市场调查数据"
+      },
+      "tags": {
+        "sc": [
+          "永明金融",
+          "品牌重塑",
+          "保障缺口",
+          "退休",
+          "亚洲"
+        ],
+        "tc": [
+          "永明金融",
+          "品牌重塑",
+          "保障缺口",
+          "退休",
+          "亞洲"
+        ]
+      },
+      "actions": {
+        "front": {
+          "sc": "保障缺口对话素材（照顾与退休）",
+          "tc": "保障缺口對話素材（照顧與退休）"
+        },
+        "midback": {
+          "sc": "品牌更新与客户沟通口径跟踪",
+          "tc": "品牌更新與客戶溝通口徑跟蹤"
+        },
+        "lead": {
+          "sc": "团队简报：保障缺口数据",
+          "tc": "團隊簡報：保障缺口數據"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "title": {
+        "sc": "永明金融全球统一品牌为「Sunlife」　同步发布亚洲保障缺口调查",
+        "tc": "永明金融全球統一品牌爲「Sunlife」　同步發布亞洲保障缺口調查"
+      },
+      "featured": false,
+      "evergreen": false,
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "ingestedAt": "2026-10-16T18:08:00+08:00",
+      "summaryShort": {
+        "sc": "永明金融把全球品牌统一为「Sunlife」，取消名称中的空格，并採用新标志及标语「Making life brighter」；集团指改动反映业务已由寿险延伸至资产管理、健康、财富与保险，新标志为简化版的太阳球设计，将分阶段在各地市场推出，过…",
+        "tc": "永明金融把全球品牌統一爲「Sunlife」，取消名稱中的空格，並採用新標誌及標語「Making life brighter」；集團指改動反映業務已由壽險延伸至資產管理、健康、財富與保險，新標誌爲簡化版的太陽球設計，將分階段在各地市場推出，過…"
+      }
+    },
+    {
+      "id": "ian-asian-ils-pcc-hong-kong-singapore-20261016",
+      "publishedAt": "2026-10-16T07:30:00+08:00",
+      "originalUrl": "https://insuranceasianews.com/real-step-forward-for-asian-ils-as-hong-kong-singapore-eye-pccs/",
+      "sourceKey": "insuranceasianews",
+      "sourceTier": "pro",
+      "score": 70,
+      "verifyStatus": "pending",
+      "contentKind": "news",
+      "clusterCount": 1,
+      "boards": [
+        "reg",
+        "market"
+      ],
+      "themes": [
+        "ils",
+        "protected-cell-companies",
+        "sidecar",
+        "hong-kong",
+        "singapore"
+      ],
+      "summary": {
+        "sc": "InsuranceAsia News 分析指，香港与新加坡拟引入保护 cell 公司（PCC）制度，有望为亚洲侧挂（sidecar）市场带来增长与发展，再保业界认为区内第三方资本需求庞大，PCC 可提供更标准化、成本更低的风险隔离架构，报道形容这是亚洲 ILS 的「真正一步」。此前 MS Amlin 已物色投资者筹组 4,000 至 5,000 万美元的新加坡侧挂，人保财险亦于 10 月中完成香港首宗 1,200 万美元侧挂发行（财库局表示欢迎）。[EN原文；IAAN 正文需订阅，导读仅依公开导语与已公开事件]",
+        "tc": "InsuranceAsia News 分析指，香港與新加坡擬引入保護 cell 公司（PCC）制度，有望爲亞洲側掛（sidecar）市場帶來增長與發展，再保業界認爲區內第三方資本需求龐大，PCC 可提供更標準化、成本更低的風險隔離架構，報道形容這是亞洲 ILS 的「真正一步」。此前 MS Amlin 已物色投資者籌組 4,000 至 5,000 萬美元的新加坡側掛，人保財險亦於 10 月中完成香港首宗 1,200 萬美元側掛發行（財庫局表示歡迎）。[EN原文；IAAN 正文需訂閱，導讀僅依公開導語與已公開事件]"
+      },
+      "why": {
+        "sc": "PCC 是把「一次性侧挂」变成「可重复设立平台」的关键基础设施；若香港落实，前线与家办客群对另类风险资产（ILS）的可及性将出现结构性变化，值得提前纳入客户教育素材。",
+        "tc": "PCC 是把「一次性側掛」變成「可重複設立平臺」的關鍵基礎設施；若香港落實，前線與家辦客羣對另類風險資產（ILS）的可及性將出現結構性變化，值得提前納入客戶教育素材。"
+      },
+      "source": {
+        "sc": "InsuranceAsia News 2026-10-16 分析报道",
+        "tc": "InsuranceAsia News 2026-10-16 分析報道",
+        "lang": "en",
+        "name": "InsuranceAsia News",
+        "date": "2026-10-16",
+        "note": "EN原文；正文需订阅，待复核细节"
+      },
+      "tags": {
+        "sc": [
+          "保护cell公司",
+          "ILS",
+          "侧挂",
+          "香港",
+          "新加坡"
+        ],
+        "tc": [
+          "保護cell公司",
+          "ILS",
+          "側掛",
+          "香港",
+          "新加坡"
+        ]
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "香港 PCC 制度进展跟踪",
+          "tc": "香港 PCC 制度進展跟蹤"
+        },
+        "lead": {
+          "sc": "专题：亚洲 ILS 基建",
+          "tc": "專題：亞洲 ILS 基建"
+        },
+        "cross": {
+          "sc": "家办客户另类风险资产素材",
+          "tc": "家辦客戶另類風險資產素材"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 2,
+        "lead": 3,
+        "cross": 2
+      },
+      "title": {
+        "sc": "亚洲 ILS 迎来「真正一步」　香港与新加坡拟引入保护 cell 公司制度",
+        "tc": "亞洲 ILS 迎來「真正一步」　香港與新加坡擬引入保護 cell 公司制度"
+      },
+      "featured": false,
+      "evergreen": false,
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "ingestedAt": "2026-10-16T18:08:00+08:00",
+      "summaryShort": {
+        "sc": "InsuranceAsia News 分析指，香港与新加坡拟引入保护 cell 公司（PCC）制度，有望为亚洲侧挂（sidecar）市场带来增长与发展，再保业界认为区内第三方资本需求庞大，PCC 可提供更标准化、成本更低的风险隔离架构，报道…",
+        "tc": "InsuranceAsia News 分析指，香港與新加坡擬引入保護 cell 公司（PCC）制度，有望爲亞洲側掛（sidecar）市場帶來增長與發展，再保業界認爲區內第三方資本需求龐大，PCC 可提供更標準化、成本更低的風險隔離架構，報道…"
+      }
+    },
+    {
+      "id": "scmp-hk-investors-natixis-return-expectations-20261016",
+      "publishedAt": "2026-10-16T07:00:00+08:00",
+      "originalUrl": "https://www.scmp.com/business/markets/article/3371039/hong-kong-investors-most-eager-asia-beat-markets-temper-return-hopes-report",
+      "sourceKey": "scmp",
+      "sourceTier": "media",
+      "score": 60,
+      "verifyStatus": "verified",
+      "contentKind": "news",
+      "clusterCount": 1,
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "investor-sentiment",
+        "natixis",
+        "return-expectations",
+        "hong-kong",
+        "wealth-management"
+      ],
+      "summary": {
+        "sc": "法盛投资管理（Natixis Investment Managers）8 月调查显示，95% 香港受访者希望跑赢市场，比例为亚洲最高（亚洲平均 85%）；香港投资者预期长期回报较通胀高 12.3%，明显低于亚洲平均的 17.3%。调查访问香港、日本、新加坡、韩国及台湾共 750 名持有至少 10 万美元可投资资产的个人投资者。香港理财顾问提出的合理长期回报为 8.8%，投资者预期较此高 40%，落差较一年前的 16% 收窄，亦优于新加坡的 84% 与韩国的 110%。恒指 2025 年升约 28%，今年至今跌逾 8%；香港投资者最关注市场下行，其他亚洲市场则最关注通胀与利率。[EN原文]",
+        "tc": "法盛投資管理（Natixis Investment Managers）8 月調查顯示，95% 香港受訪者希望跑贏市場，比例爲亞洲最高（亞洲平均 85%）；香港投資者預期長期回報較通脹高 12.3%，明顯低於亞洲平均的 17.3%。調查訪問香港、日本、新加坡、韓國及臺灣共 750 名持有至少 10 萬美元可投資資產的個人投資者。香港理財顧問提出的合理長期回報爲 8.8%，投資者預期較此高 40%，落差較一年前的 16% 收窄，亦優於新加坡的 84% 與韓國的 110%。恆指 2025 年升約 28%，今年至今跌逾 8%；香港投資者最關注市場下行，其他亞洲市場則最關注通脹與利率。[EN原文]"
+      },
+      "why": {
+        "sc": "客户「想赢市场、但预期回报回落」的组合，正是保障与稳健收益产品切入的窗口；相比新加坡与韩国逾八成的预期落差，香港客户对回报的想像较贴近顾问基准，有利以风险管理而非高回报话术开展对话。",
+        "tc": "客戶「想贏市場、但預期回報回落」的組合，正是保障與穩健收益產品切入的窗口；相比新加坡與韓國逾八成的預期落差，香港客戶對回報的想像較貼近顧問基準，有利以風險管理而非高回報話術開展對話。"
+      },
+      "source": {
+        "sc": "南华早报 2026-10-16 报道（引述 Natixis 调查）",
+        "tc": "南華早報 2026-10-16 報道（引述 Natixis 調查）",
+        "lang": "en",
+        "name": "South China Morning Post",
+        "date": "2026-10-16",
+        "note": "EN原文；含调查样本、回报预期与市场背景"
+      },
+      "tags": {
+        "sc": [
+          "投资者情绪",
+          "Natixis",
+          "回报预期",
+          "香港",
+          "财富管理"
+        ],
+        "tc": [
+          "投資者情緒",
+          "Natixis",
+          "回報預期",
+          "香港",
+          "財富管理"
+        ]
+      },
+      "actions": {
+        "front": {
+          "sc": "客户预期管理对话素材",
+          "tc": "客戶預期管理對話素材"
+        },
+        "midback": {
+          "sc": "投资者情绪与产品定位参考",
+          "tc": "投資者情緒與產品定位參考"
+        },
+        "lead": {
+          "sc": "团队简报：客户回报预期",
+          "tc": "團隊簡報：客戶回報預期"
+        },
+        "cross": {
+          "sc": "家办客户资产配置参考",
+          "tc": "家辦客戶資產配置參考"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 1,
+        "lead": 1,
+        "cross": 2
+      },
+      "title": {
+        "sc": "调查：95% 香港投资者想跑赢市场　但预期回报低于亚洲平均",
+        "tc": "調查：95% 香港投資者想跑贏市場　但預期回報低於亞洲平均"
+      },
+      "featured": false,
+      "evergreen": false,
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "ingestedAt": "2026-10-16T18:08:00+08:00",
+      "summaryShort": {
+        "sc": "法盛投资管理（Natixis Investment Managers）8 月调查显示，95% 香港受访者希望跑赢市场，比例为亚洲最高（亚洲平均 85%）；香港投资者预期长期回报较通胀高 12.3%，明显低于亚洲平均的 17.3%。",
+        "tc": "法盛投資管理（Natixis Investment Managers）8 月調查顯示，95% 香港受訪者希望跑贏市場，比例爲亞洲最高（亞洲平均 85%）；香港投資者預期長期回報較通脹高 12.3%，明顯低於亞洲平均的 17.3%。"
+      }
+    },
+    {
+      "id": "iaasia-generali-world-bank-mou-asia-climate-20261016",
+      "publishedAt": "2026-10-16T06:30:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/generali-world-bank-target-asias-climate-insurance-gaps",
+      "sourceKey": "insuranceasia",
+      "sourceTier": "media",
+      "score": 66,
+      "verifyStatus": "verified",
+      "contentKind": "news",
+      "clusterCount": 1,
+      "boards": [
+        "market",
+        "reg"
+      ],
+      "themes": [
+        "climate-risk",
+        "agriculture-insurance",
+        "ageing",
+        "public-private-partnership",
+        "emerging-markets"
+      ],
+      "summary": {
+        "sc": "忠利（Generali）與世界銀行集團在世界銀行及國際貨幣基金組織曼谷年會期間簽署諒解備忘錄，聚焦動員私人資本、強化韌性並擴大新興市場的保險與投資方案。保險部分初期以亞洲市場為重點，三個優先領域為：配合世銀「銀髮經濟計劃」為高齡人口設計保障、為農業提供氣候及農作物保險、以及強化災害與氣候風險保障；雙方亦會合作推動區域風險池，建立可分散、可擴展的巨災保障結構，並設計與氣候風險掛鈎的風險轉移機制。[EN原文]",
+        "tc": "忠利（Generali）與世界銀行集團在世界銀行及國際貨幣基金組織曼谷年會期間簽署諒解備忘錄，聚焦動員私人資本、強化韌性並擴大新興市場的保險與投資方案。保險部分初期以亞洲市場為重點，三個優先領域為：配合世銀「銀髮經濟計劃」為高齡人口設計保障、為農業提供氣候及農作物保險、以及強化災害與氣候風險保障；雙方亦會合作推動區域風險池，建立可分散、可擴展的巨災保障結構，並設計與氣候風險掛鈎的風險轉移機制。[EN原文]"
+      },
+      "why": {
+        "sc": "官方機構與大型保險集團的「公共—私人」合作，正成為應對氣候與老齡化保障缺口的主要框架；香港若要坐實區域風險管理中心，這類跨國風險池與參數式工具的參與空間值得跟進。",
+        "tc": "官方機構與大型保險集團的「公共—私人」合作，正成為應對氣候與老齡化保障缺口的主要框架；香港若要坐實區域風險管理中心，這類跨國風險池與參數式工具的參與空間值得跟進。"
+      },
+      "source": {
+        "sc": "Insurance Asia 2026-10-16 报道（Generali 与世银集团公布）",
+        "tc": "Insurance Asia 2026-10-16 報道（Generali 與世銀集團公布）",
+        "lang": "en",
+        "name": "Insurance Asia",
+        "date": "2026-10-16",
+        "note": "EN原文；含三大优先领域与风险池安排"
+      },
+      "tags": {
+        "sc": [
+          "Generali",
+          "世界银行",
+          "气候保险",
+          "参数式保险",
+          "银发经济"
+        ],
+        "tc": [
+          "Generali",
+          "世界銀行",
+          "氣候保險",
+          "參數式保險",
+          "銀髮經濟"
+        ]
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "气候与农业保险产品动态跟踪",
+          "tc": "氣候與農業保險產品動態跟蹤"
+        },
+        "lead": {
+          "sc": "团队简报：新兴市场保障缺口",
+          "tc": "團隊簡報：新興市場保障缺口"
+        },
+        "cross": {
+          "sc": "客户解说素材：气候风险转移",
+          "tc": "客戶解說素材：氣候風險轉移"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "title": {
+        "sc": "Generali 与世银集团签署备忘录　聚焦亚洲气候、农业与高龄保障缺口",
+        "tc": "Generali 與世銀集團籤署備忘錄　聚焦亞洲氣候、農業與高齡保障缺口"
+      },
+      "featured": false,
+      "evergreen": false,
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "ingestedAt": "2026-10-16T18:08:00+08:00",
+      "summaryShort": {
+        "sc": "忠利（Generali）與世界銀行集團在世界銀行及國際貨幣基金組織曼谷年會期間簽署諒解備忘錄，聚焦動員私人資本、強化韌性並擴大新興市場的保險與投資方案。保險部分初期以亞洲市場為重點，三個優先領域為：配合世銀「銀髮經濟計劃」為高齡人口設計保障…",
+        "tc": "忠利（Generali）與世界銀行集團在世界銀行及國際貨幣基金組織曼谷年會期間簽署諒解備忘錄，聚焦動員私人資本、強化韌性並擴大新興市場的保險與投資方案。保險部分初期以亞洲市場為重點，三個優先領域為：配合世銀「銀髮經濟計劃」為高齡人口設計保障…"
+      }
+    },
+    {
+      "id": "iaasia-kovernow-axa-xl-art-collectables-sg-20261016",
+      "publishedAt": "2026-10-16T06:15:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/kovernow-widens-insurance-cover-collectors-turn-digital",
+      "sourceKey": "insuranceasia",
+      "sourceTier": "media",
+      "score": 66,
+      "verifyStatus": "verified",
+      "contentKind": "news",
+      "clusterCount": 1,
+      "boards": [
+        "product",
+        "tech"
+      ],
+      "themes": [
+        "digital-insurance",
+        "fine-art",
+        "high-net-worth",
+        "underwriting",
+        "hong-kong-expansion"
+      ],
+      "summary": {
+        "sc": "新加坡保险科企 KoverNow 扩大数字保险范围，新增艺术品、红酒、威士忌及各类收藏品保障，由 AXA XL 承保，全球保障遗失、盗窃及意外损坏；产品经 iOS 及 Android 应用提供即时报价，覆盖画作、雕塑、古董、专业评级交易卡、体育及电影纪念品。KoverNow 行政总裁 Stephan Kaiser 指藏家已转向数字交易平台买卖，但保险仍是另一套更耗时的流程；AXA XL 亚洲艺术品及贵重物品核保经理 Rhiannon Alban-Davies 称客户期望专项保障更易获取。双方合作始于 2026 年 1 月的手表、珠宝与手袋数字保险，KoverNow 计划把扩展产品带到香港。[EN原文]",
+        "tc": "新加坡保險科企 KoverNow 擴大數字保險範圍，新增藝術品、紅酒、威士忌及各類收藏品保障，由 AXA XL 承保，全球保障遺失、盜竊及意外損壞；產品經 iOS 及 Android 應用提供即時報價，覆蓋畫作、雕塑、古董、專業評級交易卡、體育及電影紀念品。KoverNow 行政總裁 Stephan Kaiser 指藏家已轉向數字交易平臺買賣，但保險仍是另一套更耗時的流程；AXA XL 亞洲藝術品及貴重物品核保經理 Rhiannon Alban-Davies 稱客戶期望專項保障更易獲取。雙方合作始於 2026 年 1 月的手錶、珠寶與手袋數字保險，KoverNow 計劃把擴展產品帶到香港。[EN原文]"
+      },
+      "why": {
+        "sc": "高价值收藏品长期依赖人手核保、流程冗长，App 化即时报价正把这块高净值市场拆细；AXA XL 愿以专项承保能力支持平台化分销，是「科技分销＋传统承保」模式向香港复制的前置信号。",
+        "tc": "高價值收藏品長期依賴人手核保、流程冗長，App 化即時報價正把這塊高淨值市場拆細；AXA XL 願以專項承保能力支持平臺化分銷，是「科技分銷＋傳統承保」模式向香港複製的前置信號。"
+      },
+      "source": {
+        "sc": "Insurance Asia 2026-10-16 报道（KoverNow 与 AXA XL 公布）",
+        "tc": "Insurance Asia 2026-10-16 報道（KoverNow 與 AXA XL 公布）",
+        "lang": "en",
+        "name": "Insurance Asia",
+        "date": "2026-10-16",
+        "note": "EN原文；含承保方、覆盖标的与香港延伸计划"
+      },
+      "tags": {
+        "sc": [
+          "KoverNow",
+          "AXA XL",
+          "艺术品保险",
+          "保险科技",
+          "香港"
+        ],
+        "tc": [
+          "KoverNow",
+          "AXA XL",
+          "藝術品保險",
+          "保險科技",
+          "香港"
+        ]
+      },
+      "actions": {
+        "front": {
+          "sc": "高净值收藏品保障切入点",
+          "tc": "高淨值收藏品保障切入點"
+        },
+        "midback": {
+          "sc": "艺术品及贵重物品承保动态",
+          "tc": "藝術品及貴重物品承保動態"
+        },
+        "lead": {
+          "sc": "产品简报：平台化专项保障",
+          "tc": "產品簡報：平臺化專項保障"
+        },
+        "cross": {
+          "sc": "家办客户另类资产保障素材",
+          "tc": "家辦客戶另類資產保障素材"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 1,
+        "cross": 2
+      },
+      "title": {
+        "sc": "AXA XL 承保 KoverNow 新加坡艺术品与收藏品保单　平台拟延伸至香港",
+        "tc": "AXA XL 承保 KoverNow 新加坡藝術品與收藏品保單　平臺擬延伸至香港"
+      },
+      "featured": false,
+      "evergreen": false,
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "ingestedAt": "2026-10-16T18:08:00+08:00",
+      "summaryShort": {
+        "sc": "新加坡保险科企 KoverNow 扩大数字保险范围，新增艺术品、红酒、威士忌及各类收藏品保障，由 AXA XL 承保，全球保障遗失、盗窃及意外损坏；产品经 iOS 及 Android 应用提供即时报价，覆盖画作、雕塑、古董、专业评级交易卡、…",
+        "tc": "新加坡保險科企 KoverNow 擴大數字保險範圍，新增藝術品、紅酒、威士忌及各類收藏品保障，由 AXA XL 承保，全球保障遺失、盜竊及意外損壞；產品經 iOS 及 Android 應用提供即時報價，覆蓋畫作、雕塑、古董、專業評級交易卡、…"
+      }
+    },
+    {
+      "id": "iaasia-ransomware-cyber-insurance-singapore-20261016",
+      "publishedAt": "2026-10-16T05:30:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/ransomware-hits-cyber-insurance-47-singapore-firms",
+      "sourceKey": "insuranceasia",
+      "sourceTier": "media",
+      "score": 66,
+      "verifyStatus": "verified",
+      "contentKind": "news",
+      "clusterCount": 1,
+      "boards": [
+        "market",
+        "tech"
+      ],
+      "themes": [
+        "cyber-insurance",
+        "ransomware",
+        "artificial-intelligence",
+        "singapore",
+        "claims"
+      ],
+      "summary": {
+        "sc": "网络安全韧性公司 Semperis 调查显示，新加坡 52% 机构因勒索软件攻击出现业务中断或收入损失，47% 面临网络保险被取消或保费上调，26% 曾支付赎金。六成受攻击企业指攻击者使用人工智能，高于全球的 40%，新加坡的 AI 使用率为全球 1.5 倍；98% 受访者称 AI 以某种形式参与事件，其中 49% 靠 AI 成功侦测或回应，28% 称工具失效或仅部分有效。逾九成攻击针对身分系统（Active Directory 52%、Entra ID 48%、Okta 37%），56% 受威胁机构收到寄往住所或办公室的恐吓信件或包裹。[EN原文]",
+        "tc": "網絡安全韌性公司 Semperis 調查顯示，新加坡 52% 機構因勒索軟件攻擊出現業務中斷或收入損失，47% 面臨網絡保險被取消或保費上調，26% 曾支付贖金。六成受攻擊企業指攻擊者使用人工智能，高於全球的 40%，新加坡的 AI 使用率爲全球 1.5 倍；98% 受訪者稱 AI 以某種形式參與事件，其中 49% 靠 AI 成功偵測或回應，28% 稱工具失效或僅部分有效。逾九成攻擊針對身分系統（Active Directory 52%、Entra ID 48%、Okta 37%），56% 受威脅機構收到寄往住所或辦公室的恐嚇信件或包裹。[EN原文]"
+      },
+      "why": {
+        "sc": "网络保险的承保结果正被 AI 驱动的攻击手法直接改写——保单取消与加费已是客户实感；前線为中小企业客户做风险检视时，AI 治理与身分基础设施防护可成为加保与核保的切入点。",
+        "tc": "網絡保險的承保結果正被 AI 驅動的攻擊手法直接改寫——保單取消與加費已是客戶實感；前線爲中小企業客戶做風險檢視時，AI 治理與身分基礎設施防護可成爲加保與核保的切入點。"
+      },
+      "source": {
+        "sc": "Insurance Asia 2026-10-16 报道（引述 Semperis 调查）",
+        "tc": "Insurance Asia 2026-10-16 報道（引述 Semperis 調查）",
+        "lang": "en",
+        "name": "Insurance Asia",
+        "date": "2026-10-16",
+        "note": "EN原文；含保险端影响与 AI 相关数据"
+      },
+      "tags": {
+        "sc": [
+          "网络保险",
+          "勒索软件",
+          "人工智能",
+          "新加坡",
+          "Semperis"
+        ],
+        "tc": [
+          "網絡保險",
+          "勒索軟件",
+          "人工智能",
+          "新加坡",
+          "Semperis"
+        ]
+      },
+      "actions": {
+        "front": {
+          "sc": "企业客户网络安全风险检视",
+          "tc": "企業客戶網絡安全風險檢視"
+        },
+        "midback": {
+          "sc": "网络险核保与续保条件跟踪",
+          "tc": "網絡險核保與續保條件跟蹤"
+        },
+        "lead": {
+          "sc": "团队简报：AI 时代的网络风险",
+          "tc": "團隊簡報：AI 時代的網絡風險"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 1,
+        "cross": 0
+      },
+      "title": {
+        "sc": "新加坡 47% 企业因勒索软件遭遇网络险取消或加费　六成攻击涉 AI",
+        "tc": "新加坡 47% 企業因勒索軟件遭遇網絡險取消或加費　六成攻擊涉 AI"
+      },
+      "featured": false,
+      "evergreen": false,
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "ingestedAt": "2026-10-16T18:08:00+08:00",
+      "summaryShort": {
+        "sc": "网络安全韧性公司 Semperis 调查显示，新加坡 52% 机构因勒索软件攻击出现业务中断或收入损失，47% 面临网络保险被取消或保费上调，26% 曾支付赎金。六成受攻击企业指攻击者使用人工智能，高于全球的 40%，新加坡的 AI 使用率…",
+        "tc": "網絡安全韌性公司 Semperis 調查顯示，新加坡 52% 機構因勒索軟件攻擊出現業務中斷或收入損失，47% 面臨網絡保險被取消或保費上調，26% 曾支付贖金。六成受攻擊企業指攻擊者使用人工智能，高於全球的 40%，新加坡的 AI 使用率…"
+      }
+    },
+    {
+      "id": "iaasia-fwd-hkfi-qmark-critical-illness-20261016",
+      "publishedAt": "2026-10-16T05:15:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/news/fwd-launches-illness-insurance-amidst-push-clearer-claims",
+      "sourceKey": "insuranceasia",
+      "sourceTier": "media",
+      "score": 66,
+      "verifyStatus": "verified",
+      "contentKind": "news",
+      "clusterCount": 1,
+      "boards": [
+        "product"
+      ],
+      "themes": [
+        "critical-illness",
+        "standardisation",
+        "q-mark",
+        "hkfi",
+        "claims"
+      ],
+      "summary": {
+        "sc": "富卫香港推出「危疾全支援」保险系列，成为香港首个新推出、取得保联「危疾定义标准化」Q 标志的危疾产品。系列涵盖危疾、早期疾病及多项特殊疾病，并提供多重赔偿与确诊后支援，另设家庭保障概念，子女及父母无须健康核保即可纳入。FWD 同时採用「FavourU」原则：若保单定义与保联标准定义出现冲突，以对客户较有利者为准，并会适用于新客户及现有客户的危疾产品。保联行政总监刘佩玲指标准化有助减少消费者混淆、提升透明度及改善理赔体验。[EN原文]",
+        "tc": "富衛香港推出「危疾全支援」保險系列，成爲香港首個新推出、取得保聯「危疾定義標準化」Q 標誌的危疾產品。系列涵蓋危疾、早期疾病及多項特殊疾病，並提供多重賠償與確診後支援，另設家庭保障概念，子女及父母無須健康核保即可納入。FWD 同時採用「FavourU」原則：若保單定義與保聯標準定義出現衝突，以對客戶較有利者為準，並會適用於新客戶及現有客戶的危疾產品。保聯行政總監劉佩玲指標準化有助減少消費者混淆、提升透明度及改善理賠體驗。[EN原文]"
+      },
+      "why": {
+        "sc": "保联危疾定义标准化自 2026 年 9 月 1 日起适用于新产品，Q 标志让客户一眼可比；若「较有利定义优先」成为行业惯例，将直接改写前线的产品比较叙事与理赔预期管理方式。",
+        "tc": "保聯危疾定義標準化自 2026 年 9 月 1 日起適用於新產品，Q 標誌讓客戶一眼可比；若「較有利定義優先」成爲行業慣例，將直接改寫前線的產品比較敘事與理賠預期管理方式。"
+      },
+      "source": {
+        "sc": "Insurance Asia 2026-10-16 报道（产品于 10 月 14 日发布，FWD 与保联公布）",
+        "tc": "Insurance Asia 2026-10-16 報道（產品於 10 月 14 日發布，FWD 與保聯公布）",
+        "lang": "en",
+        "name": "Insurance Asia",
+        "date": "2026-10-16",
+        "note": "EN原文；含 Q 标志与较有利定义原则"
+      },
+      "tags": {
+        "sc": [
+          "富卫",
+          "危疾",
+          "保联",
+          "Q标志",
+          "定义标准化"
+        ],
+        "tc": [
+          "富衛",
+          "危疾",
+          "保聯",
+          "Q標誌",
+          "定義標準化"
+        ]
+      },
+      "actions": {
+        "front": {
+          "sc": "危疾产品比较与理赔预期沟通",
+          "tc": "危疾產品比較與理賠預期溝通"
+        },
+        "midback": {
+          "sc": "同业危疾产品是否跟进较有利定义",
+          "tc": "同業危疾產品是否跟進較有利定義"
+        },
+        "lead": {
+          "sc": "团队培训素材：标准化定义要点",
+          "tc": "團隊培訓素材：標準化定義要點"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 2,
+        "lead": 2,
+        "cross": 0
+      },
+      "title": {
+        "sc": "富卫香港推危疾全支援系列　成首个取得保联危疾标准化定义 Q 标志的新产品",
+        "tc": "富衛香港推危疾全支援系列　成首個取得保聯危疾標準化定義 Q 標誌的新產品"
+      },
+      "featured": false,
+      "evergreen": false,
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "ingestedAt": "2026-10-16T18:08:00+08:00",
+      "summaryShort": {
+        "sc": "富卫香港推出「危疾全支援」保险系列，成为香港首个新推出、取得保联「危疾定义标准化」Q 标志的危疾产品。系列涵盖危疾、早期疾病及多项特殊疾病，并提供多重赔偿与确诊后支援，另设家庭保障概念，子女及父母无须健康核保即可纳入。",
+        "tc": "富衛香港推出「危疾全支援」保險系列，成爲香港首個新推出、取得保聯「危疾定義標準化」Q 標誌的危疾產品。系列涵蓋危疾、早期疾病及多項特殊疾病，並提供多重賠償與確診後支援，另設家庭保障概念，子女及父母無須健康核保即可納入。"
+      }
+    },
+    {
+      "id": "iaasia-aon-medical-trend-2027-20261016",
+      "publishedAt": "2026-10-16T05:00:00+08:00",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/health-insurance-costs-strain-employers-in-2027",
+      "sourceKey": "insuranceasia",
+      "sourceTier": "media",
+      "score": 66,
+      "verifyStatus": "verified",
+      "contentKind": "news",
+      "clusterCount": 1,
+      "boards": [
+        "market",
+        "product"
+      ],
+      "themes": [
+        "medical-inflation",
+        "employee-benefits",
+        "apac",
+        "glp-1",
+        "expatriate"
+      ],
+      "summary": {
+        "sc": "怡安（Aon）《2027 全球医疗趋势费率报告》预计全球平均医疗趋势率为 9.0%，低于 2026 年的 9.8%，但仍为一般通胀率 2.6% 的三倍以上。亚太区由 11.3% 降至 9.7%（中国降至 6.0%、印度降至 10.1%），中東及非洲由 15.3% 降至 12.2%，拉丁美洲大致持平於 10.4%。跨国流动雇员医疗保费持续跑赢本土计划，美英外派保单预计升 11.5%，亚太及中东外派保单达 15.0%。主要驱动因素包括心血管疾病、癌症、高血压、肥胖率上升，以及 GLP-1 减重及糖尿病药物（占部分市场趋势率最多 10.0%、全球平均逾 3.0%）。[EN原文]",
+        "tc": "怡安（Aon）《2027 全球醫療趨勢費率報告》預計全球平均醫療趨勢率爲 9.0%，低於 2026 年的 9.8%，但仍爲一般通脹率 2.6% 的三倍以上。亞太區由 11.3% 降至 9.7%（中國降至 6.0%、印度降至 10.1%），中東及非洲由 15.3% 降至 12.2%，拉丁美洲大致持平於 10.4%。跨國流動僱員醫療保費持續跑贏本土計劃，美英外派保單預計升 11.5%，亞太及中東外派保單達 15.0%。主要驅動因素包括心血管疾病、癌症、高血壓、肥胖率上升，以及 GLP-1 減重及糖尿病藥物（佔部分市場趨勢率最多 10.0%、全球平均逾 3.0%）。[EN原文]"
+      },
+      "why": {
+        "sc": "团体医疗是香港雇员福利与企业客户的核心成本项，亚太外派保单 15% 的趋势率意味续保加费压力未减；GLP-1 已成可量化的成本变量，可作为与客户讨论福利设计与成本控制的具体依据。",
+        "tc": "團體醫療是香港僱員福利與企業客戶的核心成本項，亞太外派保單 15% 的趨勢率意味續保加費壓力未減；GLP-1 已成可量化的成本變量，可作爲與客戶討論福利設計與成本控制的具體依據。"
+      },
+      "source": {
+        "sc": "Insurance Asia 2026-10-16 报道（引述 Aon 2027 报告）",
+        "tc": "Insurance Asia 2026-10-16 報道（引述 Aon 2027 報告）",
+        "lang": "en",
+        "name": "Insurance Asia",
+        "date": "2026-10-16",
+        "note": "EN原文；含区域趋势率与驱动因素"
+      },
+      "tags": {
+        "sc": [
+          "Aon",
+          "医疗通胀",
+          "雇员福利",
+          "亚太",
+          "GLP-1"
+        ],
+        "tc": [
+          "Aon",
+          "醫療通脹",
+          "僱員福利",
+          "亞太",
+          "GLP-1"
+        ]
+      },
+      "actions": {
+        "front": {
+          "sc": "团体医疗续保加费预警沟通",
+          "tc": "團體醫療續保加費預警溝通"
+        },
+        "midback": {
+          "sc": "医疗趋势率与区域对比跟踪",
+          "tc": "醫療趨勢率與區域對比跟蹤"
+        },
+        "lead": {
+          "sc": "团队简报：福利成本与保障设计",
+          "tc": "團隊簡報：福利成本與保障設計"
+        },
+        "cross": {
+          "sc": "企业客户福利优化素材",
+          "tc": "企業客戶福利優化素材"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 2,
+        "cross": 1
+      },
+      "title": {
+        "sc": "怡安预测 2027 全球医疗趋势率 9.0%　亚太外派保单高达 15%",
+        "tc": "怡安預測 2027 全球醫療趨勢率 9.0%　亞太外派保單高達 15%"
+      },
+      "featured": false,
+      "evergreen": false,
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "ingestedAt": "2026-10-16T18:08:00+08:00",
+      "summaryShort": {
+        "sc": "怡安（Aon）《2027 全球医疗趋势费率报告》预计全球平均医疗趋势率为 9.0%，低于 2026 年的 9.8%，但仍为一般通胀率 2.6% 的三倍以上。亚太区由 11.3% 降至 9.7%（中国降至 6.0%、印度降至 10.",
+        "tc": "怡安（Aon）《2027 全球醫療趨勢費率報告》預計全球平均醫療趨勢率爲 9.0%，低於 2026 年的 9.8%，但仍爲一般通脹率 2.6% 的三倍以上。亞太區由 11.3% 降至 9.7%（中國降至 6.0%、印度降至 10."
+      }
+    },
+    {
+      "id": "ibm-sme-cyber-penetration-20261016",
+      "publishedAt": "2026-10-16T03:11:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/sme-cyber-insurance-uptake-stalls-everywhere-except-the-us-593616.aspx",
+      "sourceKey": "insurancebusinessmag",
+      "sourceTier": "media",
+      "score": 62,
+      "verifyStatus": "verified",
+      "contentKind": "news",
+      "clusterCount": 1,
+      "boards": [
+        "market",
+        "product"
+      ],
+      "themes": [
+        "cyber-insurance",
+        "sme",
+        "penetration",
+        "distribution",
+        "cfc"
+      ],
+      "summary": {
+        "sc": "Insurance Business 引述 CFC 全球网络发展主管 Lindsey Maher：美国中小企业独立网络保险渗透率约 30% 至 40%，英国、加拿大、澳洲、新西兰等可比市场仅约 10% 至 15%，且多年来停滞。美国有逾 200 个可供选择的网络保险承保市场。她认为差距源于市场结构而非客户认知——「不知道有这个风险」的问题基本已解决，但成交未跟上，各地客户的反对理由亦大致相同；她把承保市场密度本身视为增长机制，认为更多承保人报价会带来更多对话。报道同时指出，这些保单所覆盖的暴露正朝相反方向扩大。[EN原文]",
+        "tc": "Insurance Business 引述 CFC 全球網絡發展主管 Lindsey Maher：美國中小企業獨立網絡保險滲透率約 30% 至 40%，英國、加拿大、澳洲、新西蘭等可比市場僅約 10% 至 15%，且多年來停滯。美國有逾 200 個可供選擇的網絡保險承保市場。她認爲差距源於市場結構而非客戶認知——「不知道有這個風險」的問題基本已解決，但成交未跟上，各地客戶的反對理由亦大致相同；她把承保市場密度本身視爲增長機制，認爲更多承保人報價會帶來更多對話。報道同時指出，這些保單所覆蓋的暴露正朝相反方向擴大。[EN原文]"
+      },
+      "why": {
+        "sc": "网络险的瓶颈由「客户不知道」转为「分销密度不足」，意味着加保要靠多渠道持续对话而非单次教育；对香港中小企业客群，这是把风险检视常规化、以接触密度带动转化的直接依据。",
+        "tc": "網絡險的瓶頸由「客戶不知道」轉爲「分銷密度不足」，意味着加保要靠多渠道持續對話而非單次教育；對香港中小企業客羣，這是把風險檢視常規化、以接觸密度帶動轉化的直接依據。"
+      },
+      "source": {
+        "sc": "Insurance Business 2026-10-16 报道（引述 CFC 主管）",
+        "tc": "Insurance Business 2026-10-16 報道（引述 CFC 主管）",
+        "lang": "en",
+        "name": "Insurance Business",
+        "date": "2026-10-16",
+        "note": "EN原文；含各地区渗透率与市场结构对比"
+      },
+      "tags": {
+        "sc": [
+          "网络保险",
+          "中小企业",
+          "渗透率",
+          "分销",
+          "CFC"
+        ],
+        "tc": [
+          "網絡保險",
+          "中小企業",
+          "滲透率",
+          "分銷",
+          "CFC"
+        ]
+      },
+      "actions": {
+        "front": {
+          "sc": "中小企业客户网络险加保切入点",
+          "tc": "中小企業客戶網絡險加保切入點"
+        },
+        "midback": {
+          "sc": "渗透率与产品供给跟踪",
+          "tc": "滲透率與產品供給跟蹤"
+        },
+        "lead": {
+          "sc": "团队简报：网络险分销策略",
+          "tc": "團隊簡報：網絡險分銷策略"
+        },
+        "cross": {}
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 1,
+        "lead": 1,
+        "cross": 0
+      },
+      "title": {
+        "sc": "美国中小企业网络险渗透率 30% 至 40%　可比市场仅约一成、瓶颈在分销密度",
+        "tc": "美國中小企業網絡險滲透率 30% 至 40%　可比市場僅約一成、瓶頸在分銷密度"
+      },
+      "featured": false,
+      "evergreen": false,
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "ingestedAt": "2026-10-16T18:08:00+08:00",
+      "summaryShort": {
+        "sc": "Insurance Business 引述 CFC 全球网络发展主管 Lindsey Maher：美国中小企业独立网络保险渗透率约 30% 至 40%，英国、加拿大、澳洲、新西兰等可比市场仅约 10% 至 15%，且多年来停滞。",
+        "tc": "Insurance Business 引述 CFC 全球網絡發展主管 Lindsey Maher：美國中小企業獨立網絡保險滲透率約 30% 至 40%，英國、加拿大、澳洲、新西蘭等可比市場僅約 10% 至 15%，且多年來停滯。"
+      }
+    },
+    {
+      "id": "ibm-marsh-thrive-ai-costs-20261016",
+      "publishedAt": "2026-10-16T01:16:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/marsh-looking-to-cut-even-more-costs-as-ai-reshapes-its-back-office-593717.aspx",
+      "sourceKey": "insurancebusinessmag",
+      "sourceTier": "media",
+      "score": 62,
+      "verifyStatus": "verified",
+      "contentKind": "news",
+      "clusterCount": 1,
+      "boards": [
+        "market",
+        "tech"
+      ],
+      "themes": [
+        "artificial-intelligence",
+        "cost-efficiency",
+        "broker",
+        "back-office",
+        "automation"
+      ],
+      "summary": {
+        "sc": "威达信（Marsh）把三年效率与增长计划「Thrive」的年度节省目标由 4 亿美元上调至约 6 亿美元，主要来自共享服务部門与科技进步；达标成本同时由约 5 亿上调至约 7.5 亿美元，自推出以来已入帐 3.1 亿美元（主要為遣散费，其中第三季 7,100 万美元）。行政总裁 John Doyle 指已开始「消化部分自然流失」，节省将用于增聘前線生产人员，中台及后台岗位收缩；共享服务正建立客户开户、数据接入与商业赋能能力，并把工序移至集团能力中心（未公布地点，对亚洲服务枢纽有影响）。集团自建内部 AI 模型、每周向员工推出新工具，Broker Workbench 令伦敦批发业务 93% 交易数字化，报价由 2 至 4 周缩短至数小时。[EN原文]",
+        "tc": "威達信（Marsh）把三年效率與增長計劃「Thrive」的年度節省目標由 4 億美元上調至約 6 億美元，主要來自共享服務部門與科技進步；達標成本同時由約 5 億上調至約 7.5 億美元，自推出以來已入帳 3.1 億美元（主要為遣散費，其中第三季 7,100 萬美元）。行政總裁 John Doyle 指已開始「消化部分自然流失」，節省將用於增聘前線生產人員，中臺及後臺崗位收縮；共享服務正建立客戶開戶、數據接入與商業賦能能力，並把工序移至集團能力中心（未公布地點，對亞洲服務樞紐有影響）。集團自建內部 AI 模型、每周向員工推出新工具，Broker Workbench 令倫敦批發業務 93% 交易數字化，報價由 2 至 4 周縮短至數小時。[EN原文]"
+      },
+      "why": {
+        "sc": "这是「AI 直接压缩中后台人手、资源前移至前线」最清楚的经纪案例；香港团队在资源配置与生产力叙事上可作对照，亦提醒中后台岗位的技能转型压力。",
+        "tc": "這是「AI 直接壓縮中後臺人手、資源前移至前線」最清楚的經紀案例；香港團隊在資源配置與生產力敘事上可作對照，亦提醒中後臺崗位的技能轉型壓力。"
+      },
+      "source": {
+        "sc": "Insurance Business 2026-10-16 报道（Marsh 第三季业绩会与 SEC 文件）",
+        "tc": "Insurance Business 2026-10-16 報道（Marsh 第三季業績會與 SEC 文件）",
+        "lang": "en",
+        "name": "Insurance Business",
+        "date": "2026-10-16",
+        "note": "EN原文；含节省目标、成本与 AI 工具数据"
+      },
+      "tags": {
+        "sc": [
+          "威达信",
+          "人工智能",
+          "效率计划",
+          "保险经纪",
+          "中后台"
+        ],
+        "tc": [
+          "威達信",
+          "人工智能",
+          "效率計劃",
+          "保險經紀",
+          "中後臺"
+        ]
+      },
+      "actions": {
+        "front": {},
+        "midback": {
+          "sc": "中后台流程自动化与人力结构跟踪",
+          "tc": "中後臺流程自動化與人力結構跟蹤"
+        },
+        "lead": {
+          "sc": "团队简报：AI 与组织效率",
+          "tc": "團隊簡報：AI 與組織效率"
+        },
+        "cross": {
+          "sc": "内部生产力提升参考",
+          "tc": "內部生產力提升參考"
+        }
+      },
+      "rolesImpact": {
+        "front": 0,
+        "midback": 3,
+        "lead": 2,
+        "cross": 1
+      },
+      "title": {
+        "sc": "威达信上调「Thrive」年度节省目标至 6 亿美元　AI 重塑中后台、资源转投前线",
+        "tc": "威達信上調「Thrive」年度節省目標至 6 億美元　AI 重塑中後臺、資源轉投前線"
+      },
+      "featured": false,
+      "evergreen": false,
+      "contentRole": {
+        "sc": "本站导读",
+        "tc": "本站導讀"
+      },
+      "ingestedAt": "2026-10-16T18:08:00+08:00",
+      "summaryShort": {
+        "sc": "威达信（Marsh）把三年效率与增长计划「Thrive」的年度节省目标由 4 亿美元上调至约 6 亿美元，主要来自共享服务部門与科技进步；达标成本同时由约 5 亿上调至约 7.5 亿美元，自推出以来已入帐 3.",
+        "tc": "威達信（Marsh）把三年效率與增長計劃「Thrive」的年度節省目標由 4 億美元上調至約 6 億美元，主要來自共享服務部門與科技進步；達標成本同時由約 5 億上調至約 7.5 億美元，自推出以來已入帳 3."
+      }
+    },
     {
       "id": "rn-brit-re-james-winn-cuo-bermuda-20261016",
       "publishedAt": "2026-10-16T00:00:10+08:00",
@@ -7720,7 +9336,7 @@
         "date": "2026-10-12",
         "note": "EN原文；IBRD CAR Mexico 2024 (Pacific) 1.75 亿美元"
       },
-      "clusterId": "c80",
+      "clusterId": "c98",
       "summaryShort": {
         "sc": "Artemis 於10月12日報道，引述資產管理公司 Azimut Switzerland 的 ILS 投資專員 Isacco Loconte 分析，指四級颶風 Simon 路徑西移後，似一直停留於國際復興開發銀行（IBRD）「CAR Me…",
         "tc": "Artemis 於10月12日報道，引述資產管理公司 Azimut Switzerland 的 ILS 投資專員 Isacco Loconte 分析，指四級颶風 Simon 路徑西移後，似一直停留於國際復興開發銀行（IBRD）「CAR Me…"
@@ -11098,7 +12714,7 @@
         "sc": "Artemis 10月10日報道：太平洋颶風Simon持續快速增強，美國國家颶風中心指其已達四級（持續風速150英里、中心最低氣壓約938mb），預計周日於墨西哥西南至中西部登陸，令規模1.",
         "tc": "Artemis 10月10日報道：太平洋颶風Simon持續快速增強，美國國家颶風中心指其已達四級（持續風速150英里、中心最低氣壓約938mb），預計周日於墨西哥西南至中西部登陸，令規模1."
       },
-      "clusterId": "c80"
+      "clusterId": "c98"
     },
     {
       "clusterCount": 1,
@@ -12550,7 +14166,7 @@
         "date": "2026-10-09",
         "note": null
       },
-      "clusterId": "c133",
+      "clusterId": "c151",
       "summaryShort": {
         "sc": "Artemis 10月9日報道：颶風 Isaias 最新預測將進一步增強為三級（major）颶風，其後在逼近／登陸前減弱，業界仍預期承保損失會達到單位數十億美元（single-digit billion）水平。",
         "tc": "Artemis 10月9日報道：颶風 Isaias 最新預測將進一步增強為三級（major）颶風，其後在逼近／登陸前減弱，業界仍預期承保損失會達到單位數十億美元（single-digit billion）水平。"
@@ -16451,7 +18067,7 @@
         "sc": "Artemis 10月8日報道：Isaias 已成為2026年大西洋颶風季首個颶風，一夜間增強，預測仍指向可能在墨西哥灣沿岸以二級颶風登陸。再保經紀 Gallagher Re 表示，若以該強度登陸，通常會造成低至中單位數十億美元（low t…",
         "tc": "Artemis 10月8日報道：Isaias 已成為2026年大西洋颶風季首個颶風，一夜間增強，預測仍指向可能在墨西哥灣沿岸以二級颶風登陸。再保經紀 Gallagher Re 表示，若以該強度登陸，通常會造成低至中單位數十億美元（low t…"
       },
-      "clusterId": "c133"
+      "clusterId": "c151"
     },
     {
       "id": "iaan-ok-financial-yebyeol-insurance-kdic-20261008",
@@ -17968,7 +19584,7 @@
         "date": "2026-10-06",
         "note": null
       },
-      "clusterId": "c193",
+      "clusterId": "c211",
       "summaryShort": {
         "sc": "Insurance Asia 10月6日報道：因 Tomas Kunzmann 獲委任進入安聯集團（Allianz SE）董事會，安聯公布接任安排——現任 Allianz Direct 行政總裁 Philipp Kroetz 於2026年1…",
         "tc": "Insurance Asia 10月6日報道：因 Tomas Kunzmann 獲委任進入安聯集團（Allianz SE）董事會，安聯公布接任安排——現任 Allianz Direct 行政總裁 Philipp Kroetz 於2026年1…"
@@ -25118,7 +26734,7 @@
         "date": null,
         "note": "EN原文"
       },
-      "clusterId": "c193",
+      "clusterId": "c211",
       "summaryShort": {
         "sc": "Insurance Business Asia 10月2日报道（记者 Jonalyn Cueto）：安联10月1日在慕尼黑公布两项数字化业务人事调动——原 Allianz Direct CEO Philipp Kroetz（46岁）将于20…",
         "tc": "Insurance Business Asia 10月2日報道（記者 Jonalyn Cueto）：安聯10月1日在慕尼黑公佈兩項數字化業務人事調動——原 Allianz Direct CEO Philipp Kroetz（46歲）將於20…"
@@ -38066,7 +39682,7 @@
         "note": "EN原文"
       },
       "originalUrl": "https://www.info.gov.hk/gia/general/202609/25/P2026092500465.htm",
-      "clusterId": "c444",
+      "clusterId": "c462",
       "summaryShort": {
         "sc": "金管局呼吁市民提高警觉，指大新银行有限公司已就「欺詐社交媒体帖文」发出新闻稿并向金管局汇报，相关超链接已上载至金管局网站。金管局重申：银行不会透过短讯或电邮超链接引导客户到其网站进行交易，亦不会以电话、电邮或手机短讯（包括以超链接方式）要求…",
         "tc": "金管局呼吁市民提高警觉，指大新银行有限公司已就「欺詐社交媒体帖文」发出新闻稿并向金管局汇报，相关超链接已上载至金管局网站。金管局重申：银行不会透过短讯或电邮超链接引导客户到其网站进行交易，亦不会以电话、电邮或手机短讯（包括以超链接方式）要求…"
@@ -40714,7 +42330,7 @@
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-09-25T02:15:00+08:00",
-      "clusterId": "c444",
+      "clusterId": "c462",
       "summaryShort": {
         "sc": "金管局9月24日发布「Scam alert related to banks」，转述东亚银行、上海商业银行、创兴银行、集友银行等就伪冒网站及网上银行登录画面、钓鱼电邮等发出的提示。",
         "tc": "金管局9月24日發布「Scam alert related to banks」，轉述東亞銀行、上海商業銀行、創興銀行、集友銀行等就偽冒網站及網上銀行登錄畫面、釣魚電郵等發出的提示。"
@@ -43993,7 +45609,7 @@
       },
       "publishedAt": "2026-09-23T18:00:00+08:00",
       "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260923-5/",
-      "clusterId": "c444",
+      "clusterId": "c462",
       "summaryShort": {
         "sc": "金管局9月23日发布「Scam alert related to banks」，转述东亚银行、上海商业银行、创兴银行、集友银行有关伪冒网站及网上银行登录画面，以及大新银行伪冒网站的提示。",
         "tc": "金管局9月23日發布「Scam alert related to banks」，轉述東亞銀行、上海商業銀行、創興銀行、集友銀行有關偽冒網站及網上銀行登錄畫面，以及大新銀行偽冒網站的提示。"
@@ -47725,7 +49341,7 @@
       },
       "publishedAt": "2026-09-22",
       "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260922-3/",
-      "clusterId": "c444",
+      "clusterId": "c462",
       "summaryShort": {
         "sc": "香港金融管理局于2026年9月22日发布「Scam alert related to banks」（与银行有关的骗案警示），属例行公众防骗提示，与该局同日刊出的银行同业结算公司欺诈网站提示配套。",
         "tc": "香港金融管理局於2026年9月22日發布「Scam alert related to banks」（與銀行有關的騙案警示），屬例行公眾防騙提示，與該局同日刊出的銀行同業結算公司欺詐網站提示配套。"
@@ -56902,7 +58518,7 @@
       "contentKind": "press",
       "publishedAt": "2026-09-16",
       "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260916-3/",
-      "clusterId": "c632",
+      "clusterId": "c650",
       "summaryShort": {
         "sc": "9月16日，金管局发布「Scam alert related to banks（与银行有关的诈骗提示）」及「HKICL alerts public of fraudulent website（香港银行同业结算有限公司提醒公众提防伪冒网站）」…",
         "tc": "9月16日，金管局發布「Scam alert related to banks（與銀行有關的詐騙提示）」及「HKICL alerts public of fraudulent website（香港銀行同業結算有限公司提醒公眾提防偽冒網站）」…"
@@ -57602,7 +59218,7 @@
       "contentKind": "press",
       "publishedAt": "2026-09-15",
       "originalUrl": "https://gmteight.com/flash/detail/1502684",
-      "clusterId": "c640",
+      "clusterId": "c658",
       "summaryShort": {
         "sc": "9月15日，香港保险业联会（HKFI）就「内地对境外保单收益征收20%个人所得税」的市场传闻回复《第一财经》指：截至目前，相关部门并未发布任何官方政策文件或实施细则，联会正持续监测并密切关注事态发展，故不对市场讨论与传闻作任何揣测或评论。",
         "tc": "9月15日，香港保險業聯會（HKFI）就「內地對境外保單收益徵收20%個人所得稅」的市場傳聞回覆《第一財經》指：截至目前，相關部門並未發布任何官方政策文件或實施細則，聯會正持續監測並密切關注事態發展，故不對市場討論與傳聞作任何揣測或評論。"
@@ -57864,7 +59480,7 @@
       "contentKind": "press",
       "publishedAt": "2026-09-15",
       "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260915-4/",
-      "clusterId": "c632",
+      "clusterId": "c650",
       "summaryShort": {
         "sc": "香港金管局9月15日发出警示，提醒公众注意4间银行（东亚银行、上海商业银行、创兴银行、富邦银行（香港））已向金管局通报的伪冒网站及伪冒网上银行登录画面。金管局重申银行不会发送内嵌超链接、引导客户进入银行网站进行交易的短讯或电邮，也不会通过电…",
         "tc": "香港金管局9月15日發出警示，提醒公眾注意4間銀行（東亞銀行、上海商業銀行、創興銀行、富邦銀行（香港））已向金管局通報的偽冒網站及偽冒網上銀行登入畫面。金管局重申銀行不會發送內嵌超連結、引導客戶進入銀行網站進行交易的短訊或電郵，也不會通過電…"
@@ -63503,7 +65119,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c710",
+      "clusterId": "c728",
       "summaryShort": {
         "sc": "金管局9月10日汇总两家银行骗案通报：星展银行（香港）出现假冒网站、网银登入画面及钓鱼电邮，富邦银行（香港）出现假冒网站及网银登入画面；提醒银行不会以短讯或电邮内嵌链接引导交易，亦不会索取登入密码或一次性验证码。",
         "tc": "金管局9月10日匯總兩家銀行騙案通報：星展銀行（香港）出現假冒網站、網銀登入畫面及釣魚電郵，富邦銀行（香港）出現假冒網站及網銀登入畫面；提醒銀行不會以短訊或電郵內嵌連結引導交易，亦不會索取登入密碼或一次性驗證碼。"
@@ -65067,7 +66683,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c729",
+      "clusterId": "c747",
       "summaryShort": {
         "sc": "金管局汇总两家银行骗案通报：中银香港出现钓鱼即时短讯，华侨银行（香港）出现假冒网站及网银登入画面；提醒公众银行不会经短信或电邮内嵌链接引导交易，亦不会以电话、电邮或短讯索取登入密码或一次性验证码；",
         "tc": "金管局匯總兩家銀行騙案通報：中銀香港出現釣魚即時短訊，華僑銀行（香港）出現假冒網站及網銀登入畫面；提醒公眾銀行不會經短訊或電郵內嵌連結引導交易，亦不會以電話、電郵或短訊索取登入密碼或一次性驗證碼；"
@@ -65150,7 +66766,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c730",
+      "clusterId": "c748",
       "summaryShort": {
         "sc": "香港银行同业结算公司（HKICL）发现多个假冒网站（fpshk.cc、fpshkicl.homes、refundrequesthk.xyz等），冒充「买家网上保障」提供FPS转账退款、未授权交易申报等服务，更诱导用户交出证件号码、身份证照片…",
         "tc": "香港銀行同業結算公司（HKICL）發現多個假冒網站（fpshk.cc、fpshkicl.homes、refundrequesthk.xyz等），冒充「買家網上保障」提供FPS轉賬退款、未授權交易申報等服務，更誘導用戶交出證件號碼、身份證照片…"
@@ -65316,7 +66932,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c729",
+      "clusterId": "c747",
       "summaryShort": {
         "sc": "金管局汇总两家银行骗案通报：中国建设银行（亚洲）出现假冒网站及网银登入画面，瑞士宝盛（Bank Julius Baer）出现假冒网站；提醒公众银行不会经短信或电邮内嵌链接索取密码及一次性验证码，受骗应即联络相关银行并向警方报案。",
         "tc": "金管局匯總兩家銀行騙案通報：中國建設銀行（亞洲）出現假冒網站及網銀登入畫面，瑞士寶盛（Bank Julius Baer）出現假冒網站；提醒公眾銀行不會經短訊或電郵內嵌連結索取密碼及一次性驗證碼，受騙應即聯絡相關銀行並向警方報案。"
@@ -65969,7 +67585,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c729",
+      "clusterId": "c747",
       "summaryShort": {
         "sc": "金管局汇总五家银行骗案通报：东亚银行、上海商业银行、创兴银行、集友银行及瑞士宝盛（Julius Baer）出现假冒网站及网银登入画面；提醒公众银行不会经短信或电邮内嵌链接索取密码及一次性验证码。",
         "tc": "金管局匯總五家銀行騙案通報：東亞銀行、上海商業銀行、創興銀行、集友銀行及瑞士寶盛（Julius Baer）出現假冒網站及網銀登入畫面；提醒公眾銀行不會經短訊或電郵內嵌連結索取密碼及一次性驗證碼。"
@@ -66052,7 +67668,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c730",
+      "clusterId": "c748",
       "summaryShort": {
         "sc": "香港银行同业结算公司（HKICL）警示三类假冒网站（含64.176.54.120、zksttgf.xyz、hkrefundplatform.sbs等），冒充「买家网上保障」以退款、异常交易报告为名，诱骗用户上传身份证件、银行资料经FPS转账…",
         "tc": "香港銀行同業結算公司（HKICL）警示三類假冒網站（含64.176.54.120、zksttgf.xyz、hkrefundplatform.sbs等），冒充「買家網上保障」以退款、異常交易報告為名，誘騙用戶上傳身份證件、銀行資料經FPS轉賬…"
@@ -67030,7 +68646,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c729",
+      "clusterId": "c747",
       "summaryShort": {
         "sc": "金管局汇总三家银行骗案通报：东亚银行、上海商业银行及华侨银行（香港）现假冒网站及网银登入画面；提醒公众银行不会经短讯或电邮内嵌链接引导登入或索取密码及一次性验证码，怀疑受骗应即联络银行并报警。",
         "tc": "金管局匯總三家銀行騙案通報：東亞銀行、上海商業銀行及華僑銀行（香港）現假冒網站及網銀登入畫面；提醒公眾銀行不會經短訊或電郵內嵌連結引導登入或索取密碼及一次性驗證碼，懷疑受騙應即聯絡銀行並報警。"
@@ -67516,7 +69132,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c710",
+      "clusterId": "c728",
       "summaryShort": {
         "sc": "金管局汇总六家银行骗案通报：中银香港现钓鱼即时讯息、星展现钓鱼电邮，东亚、上海商业银行、创兴及集友均现假冒网站及网银登入画面，提醒公众勿经讯息内嵌链接登入银行或交出密码及一次性验证码。",
         "tc": "金管局匯總六家銀行騙案通報：中銀香港現釣魚即時訊息、星展現釣魚電郵，東亞、上海商業銀行、創興及集友均現假冒網站及網銀登入畫面，提醒公眾勿經訊息內嵌連結登入銀行或交出密碼及一次性驗證碼。"
@@ -67763,7 +69379,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c640",
+      "clusterId": "c658",
       "summaryShort": {
         "sc": "香港保险业联会9月3日回应「内地拟对境外保单收益征20%个税」传闻：相关部门未发布正式文件或细则，正密切跟进、不作猜测；强调客户保障、传承与资产配置需求仍强，港险产品设计灵活、货币配置多元，市场仍具吸引力。",
         "tc": "香港保險業聯會9月3日回應「內地擬對境外保單收益徵20%個稅」傳聞：相關部門未發布正式文件或細則，正密切跟進、不作猜測；強調客戶保障、傳承與資產配置需求仍強，港險產品設計靈活、貨幣配置多元，市場仍具吸引力。"
@@ -69299,7 +70915,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c729",
+      "clusterId": "c747",
       "summaryShort": {
         "sc": "金管局提醒公众留意东亚银行、上海商业银行、创兴银行、集友银行及Ele Bank五间银行发布的诈骗警示，涉及假冒网站及网银登入画面。金管局重申银行不会经短信或电邮内嵌链接引导客户交易，亦不会索取登入密码或一次性验证码，呼吁市民提高警觉。",
         "tc": "金管局提醒公眾留意東亞銀行、上海商業銀行、創興銀行、集友銀行及Ele Bank五間銀行發布的詐騙警示，涉及假冒網站及網銀登入畫面。金管局重申銀行不會經短信或電郵內嵌連結引導客戶交易，亦不會索取登入密碼或一次性驗證碼，呼籲市民提高警覺。"
@@ -70561,7 +72177,7 @@
       "contentKind": "news",
       "publishedAt": "2026-09-01T06:54:00+08:00",
       "originalUrl": "https://gmt8press.com/flash/detail/1502684",
-      "clusterId": "c640",
+      "clusterId": "c658",
       "summaryShort": {
         "sc": "针对「内地将对境外保单收益征收20%个税」传闻，香港保险业联会9月1日回应第一财经称，相关部门尚未发布官方政策文件或实施细节，联会正密切关注事态。联会强调客户保障、财富传承与资产配置需求依然强劲，港险在产品设计、货币配置及传承规划上仍具吸引…",
         "tc": "針對「內地將對境外保單收益徵收20%個稅」傳聞，香港保險業聯會9月1日回應第一財經稱，相關部門尚未發布官方政策文件或實施細節，聯會正密切關注事態。聯會強調客戶保障、財富傳承與資產配置需求依然強勁，港險在產品設計、貨幣配置及傳承規劃上仍具吸引…"
@@ -71353,7 +72969,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c808",
+      "clusterId": "c826",
       "summaryShort": {
         "sc": "财政部与金融监管总局联合印发《会计师事务所职业责任保险实施办法》，2027年1月1日施行：涉资本市场及公共利益审计业务的投保额度下限由5000万上调至1亿元，执业年限、行政处罚、涉诉情况等纳入费率浮动机制；",
         "tc": "財政部與金融監管總局聯合印發《會計師事務所職業責任保險實施辦法》，2027年1月1日施行：涉資本市場及公共利益審計業務的投保額度下限由5000萬上調至1億元，執業年限、行政處罰、涉訴情況等納入費率浮動機制；"
@@ -72363,7 +73979,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c808",
+      "clusterId": "c826",
       "summaryShort": {
         "sc": "财政部、金融监管总局联合印发《会计师事务所职业责任保险实施办法》(财会〔2026〕12号)。从事证券服务及金融企业审计的会计所基本投保额度由5000万元上调至1亿元，合伙人超100名的按每名合伙人100万元计；",
         "tc": "財政部、金融監管總局聯合印發《會計師事務所職業責任保險實施辦法》(財會〔2026〕12號)。從事證券服務及金融企業審計的會計所基本投保額度由5000萬元上調至1億元，合夥人超100名的按每名合夥人100萬元計；"
@@ -72757,7 +74373,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c730",
+      "clusterId": "c748",
       "summaryShort": {
         "sc": "香港银行同业结算公司(HKICL)发现两个假冒网站仿冒「买家网上保障」，以退款及交易支援为饵，诱FPS用户交出身份证件、电话及银行账户资料，并引导联络冒充客服的骗徒。HKICL提醒公众即时报案。",
         "tc": "香港銀行同業結算公司(HKICL)發現兩個假冒網站仿冒「買家網上保障」，以退款及交易支援為餌，誘FPS用戶交出身份證件、電話及銀行賬戶資料，並引導聯絡冒充客服的騙徒。HKICL提醒公眾即時報案。"
@@ -72835,7 +74451,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c729",
+      "clusterId": "c747",
       "summaryShort": {
         "sc": "金管局提醒公众留意东亚银行、创兴银行、上海商业银行及交通银行(香港)发出的警示，涉及假冒网站及网上银行登入画面。金管局重申银行不会经短信或电邮附连结引导客户交易，亦不会索取敏感资料，遇可疑应即举报。",
         "tc": "金管局提醒公眾留意東亞銀行、創興銀行、上海商業銀行及交通銀行(香港)發出的警示，涉及假冒網站及網上銀行登入畫面。金管局重申銀行不會經短信或電郵附連結引導客戶交易，亦不會索取敏感資料，遇可疑應即舉報。"
@@ -73614,7 +75230,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c730",
+      "clusterId": "c748",
       "summaryShort": {
         "sc": "香港银行同业结算公司(HKICL)提示多个假冒网站及连结，冒充「买家网上保障」服务，声称可提供买家退款、未经授权交易报告及网上交易支援，诱骗经转数快(FPS)付款的用户。HKICL提醒公众不会经上述网站索取敏感资料，遇可疑应即举报。",
         "tc": "香港銀行同業結算公司(HKICL)提示多個假冒網站及連結，冒充「買家網上保障」服務，聲稱可提供買家退款、未經授權交易報告及網上交易支援，誘騙經轉數快(FPS)付款的用戶。HKICL提醒公眾不會經上述網站索取敏感資料，遇可疑應即舉報。"
@@ -73695,7 +75311,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c729",
+      "clusterId": "c747",
       "summaryShort": {
         "sc": "金管局发布诈骗警示汇总，多家银行近日就假冒网站、网上银行登录页面、钓鱼电邮或其它骗案发出新闻稿。金管局提醒公众：银行不会经短信或电邮内嵌链接引导客户进行交易，也不会通过电话、电邮或短信索取登录密码或一次性验证码。",
         "tc": "金管局發佈詐騙警示匯總，多家銀行近日就假冒網站、網上銀行登錄頁面、釣魚電郵或其它騙案發出新聞稿。金管局提醒公眾：銀行不會經短信或電郵內嵌連結引導客戶進行交易，也不會透過電話、電郵或短信索取登錄密碼或一次性驗證碼。"
@@ -82974,7 +84590,7 @@
       "contentKind": "report",
       "publishedAt": "2026-08-07T10:00:00+08:00",
       "originalUrl": "https://www.munichre.com/content/dam/munichre/mrwebsiteslaunches/2026-half-year-financial-report/MunichRe-Media-release-Q2-2026_en.pdf",
-      "clusterId": "c953",
+      "clusterId": "c971",
       "summaryShort": {
         "sc": "Munich Re 2026 年上半年集团净利 39.25 亿欧元（+23.5%），创同期纪录；Q2 净利 22 亿欧元，投资回报率 5.5%。集团维持 2026 全年 63 亿欧元目标，但下调再保保险收入预期至 380 亿欧元（原 400…",
         "tc": "Munich Re 2026 年上半年集團淨利 39.25 億歐元（+23.5%），創同期紀錄；Q2 淨利 22 億歐元，投資回報率 5.5%。集團維持 2026 全年 63 億歐元目標。"
@@ -83845,7 +85461,7 @@
       "contentKind": "report",
       "publishedAt": "2026-08-06T10:00:00+08:00",
       "originalUrl": "https://www.swissre.com/media/press-release/pr-20260806-hy-2026-press-release.html",
-      "clusterId": "c953",
+      "clusterId": "c971",
       "summaryShort": {
         "sc": "Swiss Re 2026 年上半年净收入 28 亿美元，同比 +9%；财险再保综合成本率 76.7%（上半年），名义价格 -0.2%（计入损失假设上调后实际 -4.6%）；再投资收益率升至 5.2%。",
         "tc": "Swiss Re 2026 年上半年淨收入 28 億美元，同比 +9%；財險再保綜合成本率 76.7%；再投資收益率升至 5.2%。集團維持 2026 全年 45 億美元目標。"
@@ -93376,7 +94992,7 @@
       "contentKind": "press",
       "publishedAt": "2026-07-07T10:00:00+08:00",
       "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1263701&itemId=928",
-      "clusterId": "c1086",
+      "clusterId": "c1104",
       "summaryShort": {
         "sc": "2026 年 7 月 7 日，国家金融监管总局与上海市政府联合发布《关于加快上海国际再保险中心建设的若干措施》。目标是让上海成为亚太再保险交易中心——与香港争夺区域再保险枢纽地位。",
         "tc": "2026 年 7 月 7 日，國家金融監管總局與上海市政府聯合發布《關於加快上海國際再保險中心建設的若干措施》。目標是讓上海成為亞太再保險交易中心——與香港爭奪區域再保險樞紐地位。"
@@ -93451,7 +95067,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c1086",
+      "clusterId": "c1104",
       "summaryShort": {
         "sc": "2026年7月7日，国家金融监督管理总局联合上海市政府印发《加快上海国际再保险中心建设的若干措施》，提出包括税收优惠、跨境再保险便利化、机构集聚等一揽子政策。此举将深化上海与香港再保险市场的竞合关系，影响亚洲再保险版图。",
         "tc": ""
@@ -98090,7 +99706,7 @@
         "market"
       ],
       "contentKind": "circular",
-      "clusterId": "c1144",
+      "clusterId": "c1162",
       "summaryShort": {
         "sc": "2026年6月5日，金管局发布《持牌保险中介人（属认可机构）就具定期缴款条款的分红保单的报酬结构》通函，与保监局同日通函平行发布。要求银行作为持牌保险中介销售分红保单时，须采用与保监局实务指引一致的佣金分摊安排。",
         "tc": "2026年6月5日，金管局發布《持牌保險中介人（屬認可機構）就具定期繳款條款的分紅保單的報酬結構》通函，與保監局同日通函平行發布。要求銀行作為持牌保險中介銷售分紅保單時，須採用與保監局實務指引一致的佣金分攤安排。"
@@ -98178,7 +99794,7 @@
       ],
       "contentKind": "circular",
       "clusterCount": 2,
-      "clusterId": "c1144",
+      "clusterId": "c1162",
       "summaryShort": {
         "sc": "2026年6月5日，保监局发通函提请业界注意金管局同日通函《持牌保险中介人（属认可机构）就具定期缴款条款的分红保单的报酬结构》。银行渠道的分红报酬亦纳入与「公平待客」一致的分摊逻辑。",
         "tc": "2026年6月5日，保監局發通函提請業界注意金管局同日通函《持牌保險中介人（屬認可機構）就具定期繳款條款的分紅保單的報酬結構》。銀行渠道的分紅報酬亦納入與「公平待客」一致的分攤邏輯。"
@@ -99823,7 +101439,7 @@
       "themes": [
         "market"
       ],
-      "clusterId": "c1165",
+      "clusterId": "c1183",
       "summaryShort": {
         "sc": "保监局2026年5月13日发出《银行业与保险业之间的跨行业背景查核安排》通函，与金管局衔接。首阶段于2026年7月1日实施，覆盖银行及保险机构的寿险从业员，准员工过去七年操守记录可在两行业间共享。",
         "tc": "保監局5月13日發出跨行業背景查核通函"
@@ -99911,7 +101527,7 @@
         "reg"
       ],
       "contentKind": "circular",
-      "clusterId": "c1165",
+      "clusterId": "c1183",
       "summaryShort": {
         "sc": "保监局2026年5月13日发出《银行业与保险业之间的跨行业背景查核安排》通函，与金管局衔接，覆盖长期业务中介在银行与保险机构间跳槽时的主事人查核。",
         "tc": "保監局2026年5月13日發出《銀行業與保險業之間的跨行業背景查核安排》通函，與金管局銜接，覆蓋長期業務中介在銀行與保險機構間跳槽時的主事人查核。"
@@ -100142,7 +101758,7 @@
         "market",
         "reinsurance"
       ],
-      "clusterId": "c1169",
+      "clusterId": "c1187",
       "summaryShort": {
         "sc": "保监局2026年5月8日公布对《保险业（估值及资本）规则》拟议修订的咨询结论。目标在维持审慎的同时，激励保险人投资基建、增强香港作为全球风险管理中心的竞争力。修订涵盖基建投资优惠、离岸再保险宽免、IUL匹配调整等7项。",
         "tc": "保監局5月8日公布RBC修訂諮詢結論，涵蓋基建優惠、離岸再保寬免等7項"
@@ -100231,7 +101847,7 @@
         "reg"
       ],
       "contentKind": "press",
-      "clusterId": "c1169",
+      "clusterId": "c1187",
       "summaryShort": {
         "sc": "保监局2026年5月8日公布对《保险业（估值及资本）规则》拟议修订的咨询结论，目标在维持审慎的同时，激励保险人投资基建、增强香港作为全球风险管理中心的竞争力。",
         "tc": "保監局2026年5月8日公布對《保險業（估值及資本）規則》擬議修訂的諮詢結論，目標在維持審慎的同時，激勵保險人投資基建、增強香港作為全球風險管理中心的競爭力。"
@@ -106590,7 +108206,7 @@
         "market"
       ],
       "contentKind": "press",
-      "clusterId": "c1249",
+      "clusterId": "c1267",
       "summaryShort": {
         "sc": "保监局2026年1月23日公布2025年前三季临时统计：长期业务（不含退休计划）新造保单保费约2645亿港元，同比上升约55.9%；第三季单季新造约907亿，同比约+68.8%。",
         "tc": "保監局2026年1月23日公布2025年前三季臨時統計：長期業務（不含退休計劃）新造保單保費約2645億港元，同比上升約55.9%；第三季單季新造約907億，同比約+68.8%。"
@@ -106678,7 +108294,7 @@
       "themes": [
         "market"
       ],
-      "clusterId": "c1249",
+      "clusterId": "c1267",
       "summaryShort": {
         "sc": "保监局2026年1月23日公布2025年前三季临时统计：长期业务新造保费2644.52亿港元同比+55.9%，其中分红业务新保单保费2262.75亿港元同比+60.1%。终身寿险占比80.5%，储蓄寿险10.6%。",
         "tc": "保監局公布2025前三季統計，分紅保費同比+60%"
@@ -112637,7 +114253,7 @@
       "contentKind": "press",
       "publishedAt": "2025-04-30T10:00:00+08:00",
       "originalUrl": "https://www.aia.com/content/dam/group-wise/en/docs/investor-relations/2025/AIA%20Group%202025%20Q1%20New%20Business%20Highlights%20(Eng).pdf",
-      "clusterId": "c1326",
+      "clusterId": "c1344",
       "summaryShort": {
         "sc": "2025 年 4 月 30 日，友邦集团公布 2025 年首季新业务亮点：VONB 按固定汇率计增长 13%。香港业务在本地及内地访客（MCV）双引擎带动下录得强劲增长，继续保持市场第一。",
         "tc": "2025 年 4 月 30 日，友邦集團公佈 2025 年首季新業務亮點：VONB 按固定匯率計增長 13%。香港業務在本地及內地訪客（MCV）雙引擎帶動下錄得強勁增長。"
@@ -112782,7 +114398,7 @@
       "contentKind": "report",
       "publishedAt": "2025-04-30T10:00:00+08:00",
       "originalUrl": "https://www.aia.com/content/dam/group-wise/zh-hk/docs/investor-relations/2025/AIA%20Group%202025%20Q1%20New%20Business%20Highlights%20(Chi).pdf",
-      "clusterId": "c1326",
+      "clusterId": "c1344",
       "summaryShort": {
         "sc": "友邦保险公布 2025 年第一季新业务摘要：新业务价值 15 亿美元，较 2024 年创纪录的季度上升 13%。集团首席执行官李源祥指增长势头延续，香港业务为核心驱动力之一。",
         "tc": "友邦保險公佈 2025 年第一季新業務摘要：新業務價值 15 億美元，較 2024 年創紀錄的季度上升 13%。集團首席執行官李源祥指增長勢頭延續。"
@@ -118970,6 +120586,35 @@
   "digests": {
     "daily": [
       {
+        "key": "2026-10-16",
+        "label": {
+          "sc": "2026-10-16",
+          "tc": "2026-10-16"
+        },
+        "itemCount": 19,
+        "itemIds": [
+          "rn-aon-rafferty-chief-integration-officer-20261016",
+          "ibm-lloyds-capital-asian-hubs-20261016",
+          "artemis-ccrif-panama-parametric-17m-20261016",
+          "artemis-nascent-re-plymouth-warwick-36m-20261016",
+          "ian-allianz-jingdong-ceo-chen-20261016",
+          "ian-kb-insurance-uk-lloyds-stakes-20261016",
+          "ibm-sumitomo-life-income-insurance-20261016",
+          "govhk-mpf-full-portability-phase1-20261016",
+          "ibm-sunlife-global-rebrand-20261016",
+          "ian-asian-ils-pcc-hong-kong-singapore-20261016",
+          "scmp-hk-investors-natixis-return-expectations-20261016",
+          "iaasia-generali-world-bank-mou-asia-climate-20261016",
+          "iaasia-kovernow-axa-xl-art-collectables-sg-20261016",
+          "iaasia-ransomware-cyber-insurance-singapore-20261016",
+          "iaasia-fwd-hkfi-qmark-critical-illness-20261016",
+          "iaasia-aon-medical-trend-2027-20261016",
+          "ibm-sme-cyber-penetration-20261016",
+          "ibm-marsh-thrive-ai-costs-20261016",
+          "rn-brit-re-james-winn-cuo-bermuda-20261016"
+        ]
+      },
+      {
         "key": "2026-10-15",
         "label": {
           "sc": "2026-10-15",
@@ -123382,8 +125027,27 @@
           "sc": "2026-W42",
           "tc": "2026-W42"
         },
-        "itemCount": 99,
+        "itemCount": 118,
         "itemIds": [
+          "rn-aon-rafferty-chief-integration-officer-20261016",
+          "ibm-lloyds-capital-asian-hubs-20261016",
+          "artemis-ccrif-panama-parametric-17m-20261016",
+          "artemis-nascent-re-plymouth-warwick-36m-20261016",
+          "ian-allianz-jingdong-ceo-chen-20261016",
+          "ian-kb-insurance-uk-lloyds-stakes-20261016",
+          "ibm-sumitomo-life-income-insurance-20261016",
+          "govhk-mpf-full-portability-phase1-20261016",
+          "ibm-sunlife-global-rebrand-20261016",
+          "ian-asian-ils-pcc-hong-kong-singapore-20261016",
+          "scmp-hk-investors-natixis-return-expectations-20261016",
+          "iaasia-generali-world-bank-mou-asia-climate-20261016",
+          "iaasia-kovernow-axa-xl-art-collectables-sg-20261016",
+          "iaasia-ransomware-cyber-insurance-singapore-20261016",
+          "iaasia-fwd-hkfi-qmark-critical-illness-20261016",
+          "iaasia-aon-medical-trend-2027-20261016",
+          "ibm-sme-cyber-penetration-20261016",
+          "ibm-marsh-thrive-ai-costs-20261016",
+          "rn-brit-re-james-winn-cuo-bermuda-20261016",
           "artemis-stand-landi-cfo-70m-series-c-20261015",
           "ian-marsh-greensill-credit-suisse-800m-settlement-20261015",
           "rn-marsh-ai-systemic-cyber-doyle-20261015",
@@ -125919,8 +127583,27 @@
           "sc": "2026-10",
           "tc": "2026-10"
         },
-        "itemCount": 305,
+        "itemCount": 324,
         "itemIds": [
+          "rn-aon-rafferty-chief-integration-officer-20261016",
+          "ibm-lloyds-capital-asian-hubs-20261016",
+          "artemis-ccrif-panama-parametric-17m-20261016",
+          "artemis-nascent-re-plymouth-warwick-36m-20261016",
+          "ian-allianz-jingdong-ceo-chen-20261016",
+          "ian-kb-insurance-uk-lloyds-stakes-20261016",
+          "ibm-sumitomo-life-income-insurance-20261016",
+          "govhk-mpf-full-portability-phase1-20261016",
+          "ibm-sunlife-global-rebrand-20261016",
+          "ian-asian-ils-pcc-hong-kong-singapore-20261016",
+          "scmp-hk-investors-natixis-return-expectations-20261016",
+          "iaasia-generali-world-bank-mou-asia-climate-20261016",
+          "iaasia-kovernow-axa-xl-art-collectables-sg-20261016",
+          "iaasia-ransomware-cyber-insurance-singapore-20261016",
+          "iaasia-fwd-hkfi-qmark-critical-illness-20261016",
+          "iaasia-aon-medical-trend-2027-20261016",
+          "ibm-sme-cyber-penetration-20261016",
+          "ibm-marsh-thrive-ai-costs-20261016",
+          "rn-brit-re-james-winn-cuo-bermuda-20261016",
           "artemis-stand-landi-cfo-70m-series-c-20261015",
           "ian-marsh-greensill-credit-suisse-800m-settlement-20261015",
           "rn-marsh-ai-systemic-cyber-doyle-20261015",
@@ -127676,8 +129359,27 @@
           "sc": "2026 年",
           "tc": "2026 年"
         },
-        "itemCount": 1261,
+        "itemCount": 1280,
         "itemIds": [
+          "rn-aon-rafferty-chief-integration-officer-20261016",
+          "ibm-lloyds-capital-asian-hubs-20261016",
+          "artemis-ccrif-panama-parametric-17m-20261016",
+          "artemis-nascent-re-plymouth-warwick-36m-20261016",
+          "ian-allianz-jingdong-ceo-chen-20261016",
+          "ian-kb-insurance-uk-lloyds-stakes-20261016",
+          "ibm-sumitomo-life-income-insurance-20261016",
+          "govhk-mpf-full-portability-phase1-20261016",
+          "ibm-sunlife-global-rebrand-20261016",
+          "ian-asian-ils-pcc-hong-kong-singapore-20261016",
+          "scmp-hk-investors-natixis-return-expectations-20261016",
+          "iaasia-generali-world-bank-mou-asia-climate-20261016",
+          "iaasia-kovernow-axa-xl-art-collectables-sg-20261016",
+          "iaasia-ransomware-cyber-insurance-singapore-20261016",
+          "iaasia-fwd-hkfi-qmark-critical-illness-20261016",
+          "iaasia-aon-medical-trend-2027-20261016",
+          "ibm-sme-cyber-penetration-20261016",
+          "ibm-marsh-thrive-ai-costs-20261016",
+          "rn-brit-re-james-winn-cuo-bermuda-20261016",
           "artemis-stand-landi-cfo-70m-series-c-20261015",
           "ian-marsh-greensill-credit-suisse-800m-settlement-20261015",
           "rn-marsh-ai-systemic-cyber-doyle-20261015",
@@ -130823,14 +132525,14 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 1406 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 1406 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 1424 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 1424 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 1406,
+      "totalItems": 1424,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 324,
+          "count": 325,
           "label": "监管一手"
         },
         {
@@ -130845,12 +132547,12 @@
         },
         {
           "tier": "media",
-          "count": 504,
+          "count": 515,
           "label": "媒体报道"
         },
         {
           "tier": "pro",
-          "count": 374,
+          "count": 380,
           "label": "专业解读"
         },
         {
@@ -130959,12 +132661,12 @@
         },
         {
           "theme": "capital",
-          "count": 93,
+          "count": 94,
           "label": "capital"
         },
         {
           "theme": "ils",
-          "count": 87,
+          "count": 89,
           "label": "保险相连证券"
         },
         {

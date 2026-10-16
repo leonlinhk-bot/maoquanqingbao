@@ -630,14 +630,14 @@
       "tc": "情報密度"
     },
     "subtitle": {
-      "sc": "自动从 1406 条资讯聚合 · sourceKey 标准化完成",
-      "tc": "自動從 1406 條資訊聚合 · sourceKey 標準化完成"
+      "sc": "自动从 1424 条资讯聚合 · sourceKey 标准化完成",
+      "tc": "自動從 1424 條資訊聚合 · sourceKey 標準化完成"
     },
-    "totalItems": 1406,
+    "totalItems": 1424,
     "sourceTiers": [
       {
         "tier": "official",
-        "count": 324,
+        "count": 325,
         "label": "监管一手"
       },
       {
@@ -652,12 +652,12 @@
       },
       {
         "tier": "media",
-        "count": 504,
+        "count": 515,
         "label": "媒体报道"
       },
       {
         "tier": "pro",
-        "count": 374,
+        "count": 380,
         "label": "专业解读"
       },
       {
@@ -766,12 +766,12 @@
       },
       {
         "theme": "capital",
-        "count": 93,
+        "count": 94,
         "label": "capital"
       },
       {
         "theme": "ils",
-        "count": 87,
+        "count": 89,
         "label": "保险相连证券"
       },
       {

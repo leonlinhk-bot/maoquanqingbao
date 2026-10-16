@@ -1,32 +1,11 @@
 {
  "source": "insuranceasianews",
  "source_label": "InsuranceAsia News · 香港",
- "fetched_at": "2026-10-15T18:01:01.563930+08:00",
+ "fetched_at": "2026-10-16T18:00:35.050147+08:00",
  "feed_url": "https://insuranceasianews.com/country/hong-kong/feed/",
  "feed_window": 10,
  "entries_fingerprint": "sha256:2bec707a2b97b12719eb2a86b68776c9",
- "new_count": 2,
+ "new_count": 0,
  "filtered_out": 0,
- "items": [
-  {
-   "id": "231068",
-   "title": "AM Best upgrades Dah Sing Insurance ratings on strong business growth, diversified portfolio",
-   "url": "https://insuranceasianews.com/am-best-upgrades-dah-sing-insurance-ratings-on-strong-business-growth-diversified-portfolio/",
-   "published": "Thu, 15 Oct 2026 07:32:24 +0000",
-   "published_hkt": "2026-10-15T15:32:24+08:00",
-   "summary": "Rating agency upgrades financial strength rating to A (excellent) and long-term issuer credit ratings to a (excellent).",
-   "author": null,
-   "paywalled": true
-  },
-  {
-   "id": "231026",
-   "title": "Hong Kong’s Peak Re joins GAIP as principal partner",
-   "url": "https://insuranceasianews.com/hong-kongs-peak-re-joins-gaip-as-principal-partner/",
-   "published": "Thu, 15 Oct 2026 04:19:41 +0000",
-   "published_hkt": "2026-10-15T12:19:41+08:00",
-   "summary": "Peak Re will contribute to shaping perspectives on the pressing risk challenges facing the region and engage with Global Asia Insurance Partnership (GAIP) through its working groups, dialogues, and collaborative initiatives.",
-   "author": null,
-   "paywalled": true
-  }
- ]
+ "items": []
 }

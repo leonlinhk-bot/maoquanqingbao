@@ -1,9 +1,297 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-15T16:35:26Z",
-  "itemCount": 1406,
+  "generatedAt": "2026-10-16T10:13:27Z",
+  "itemCount": 1424,
   "items": [
+    {
+      "id": "rn-aon-rafferty-chief-integration-officer-20261016",
+      "title": "怡安委任 Chris Rafferty 为整合管理办公室首席整合官　Steven Carleton 接任芝加哥主管",
+      "sourceTier": "pro",
+      "themes": [
+        "appointments",
+        "aon",
+        "integration",
+        "mergers-acquisitions",
+        "leadership"
+      ],
+      "publishedAt": "2026-10-16T18:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-aon-rafferty-chief-integration-officer-20261016",
+      "originalUrl": "https://www.reinsurancene.ws/aon-promotes-chris-rafferty-to-chief-integration-officer-for-imo/"
+    },
+    {
+      "id": "ibm-lloyds-capital-asian-hubs-20261016",
+      "title": "资本持续流入劳合社　2026 年新增 13 个辛迪加、获批资本 362 亿英镑",
+      "sourceTier": "media",
+      "themes": [
+        "lloyds",
+        "capital",
+        "syndicates",
+        "softening-rates",
+        "asia-hubs"
+      ],
+      "publishedAt": "2026-10-16T17:14:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-lloyds-capital-asian-hubs-20261016",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/capital-is-pouring-into-lloyds-even-as-asian-hubs-top-the-insurance-rankings-593819.aspx"
+    },
+    {
+      "id": "artemis-ccrif-panama-parametric-17m-20261016",
+      "title": "巴拿马 7.7 级地震触发参数式保障　CCRIF 赔付 1,740 万美元",
+      "sourceTier": "pro",
+      "themes": [
+        "parametric-insurance",
+        "catastrophe-risk",
+        "earthquake",
+        "risk-pool",
+        "payout"
+      ],
+      "publishedAt": "2026-10-16T16:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-ccrif-panama-parametric-17m-20261016",
+      "originalUrl": "https://www.artemis.bm/news/ccrif-to-pay-us-17-4m-to-panama-after-m7-7-quake-triggers-parametric-coverage/"
+    },
+    {
+      "id": "artemis-nascent-re-plymouth-warwick-36m-20261016",
+      "title": "Nascent Re 再发行 3,600 万美元优先股 ILS　Plymouth 与 Warwick 两系列",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "collateralized-reinsurance",
+        "preferred-shares",
+        "bermuda",
+        "retrocession"
+      ],
+      "publishedAt": "2026-10-16T15:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-nascent-re-plymouth-warwick-36m-20261016",
+      "originalUrl": "https://www.artemis.bm/news/nascent-re-issues-36m-across-plymouth-warwick-preferred-share-insurance-linked-securities/"
+    },
+    {
+      "id": "ian-allianz-jingdong-ceo-chen-20261016",
+      "title": "安联京东产险换帅　John Chen 接替 William Liang 出任行政总裁",
+      "sourceTier": "pro",
+      "themes": [
+        "appointments",
+        "allianz",
+        "china",
+        "joint-venture",
+        "leadership"
+      ],
+      "publishedAt": "2026-10-16T12:59:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-allianz-jingdong-ceo-chen-20261016",
+      "originalUrl": "https://insuranceasianews.com/john-chen-succeeds-william-liang-as-allianz-jingdong-ceo/"
+    },
+    {
+      "id": "ian-kb-insurance-uk-lloyds-stakes-20261016",
+      "title": "韩国 KB 保险设英国子公司　拟入股劳合社辛迪加",
+      "sourceTier": "pro",
+      "themes": [
+        "korea",
+        "lloyds",
+        "expansion",
+        "syndicates",
+        "overseas"
+      ],
+      "publishedAt": "2026-10-16T11:23:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-kb-insurance-uk-lloyds-stakes-20261016",
+      "originalUrl": "https://insuranceasianews.com/kb-insurance-opens-uk-arm-sets-sights-on-stakes-in-lloyds-syndicates-report/"
+    },
+    {
+      "id": "ibm-sumitomo-life-income-insurance-20261016",
+      "title": "住友生命评估收购新加坡 Income Insurance　已预留最多 1 万亿日圆作投资",
+      "sourceTier": "media",
+      "themes": [
+        "mergers-acquisitions",
+        "singapore",
+        "japan",
+        "income-insurance",
+        "governance"
+      ],
+      "publishedAt": "2026-10-16T11:09:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-sumitomo-life-income-insurance-20261016",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/giant-japanese-insurer-looking-south-and-to-the-us-for-deals-593771.aspx"
+    },
+    {
+      "id": "govhk-mpf-full-portability-phase1-20261016",
+      "title": "强积金首阶段「全自由行」12 月 21 日实施　生效日期公告今日刊宪",
+      "sourceTier": "official",
+      "themes": [
+        "mpf",
+        "full-portability",
+        "pension",
+        "legislation",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-10-16T11:00:00+08:00",
+      "score": 84,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=govhk-mpf-full-portability-phase1-20261016",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202610/16/P2026101500569.htm"
+    },
+    {
+      "id": "ibm-sunlife-global-rebrand-20261016",
+      "title": "永明金融全球统一品牌为「Sunlife」　同步发布亚洲保障缺口调查",
+      "sourceTier": "media",
+      "themes": [
+        "rebrand",
+        "branding",
+        "asia-growth",
+        "retirement",
+        "caregiving"
+      ],
+      "publishedAt": "2026-10-16T09:12:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-sunlife-global-rebrand-20261016",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/sun-life-becomes-sunlife-in-global-rebrand-593788.aspx"
+    },
+    {
+      "id": "ian-asian-ils-pcc-hong-kong-singapore-20261016",
+      "title": "亚洲 ILS 迎来「真正一步」　香港与新加坡拟引入保护 cell 公司制度",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "protected-cell-companies",
+        "sidecar",
+        "hong-kong",
+        "singapore"
+      ],
+      "publishedAt": "2026-10-16T07:30:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-asian-ils-pcc-hong-kong-singapore-20261016",
+      "originalUrl": "https://insuranceasianews.com/real-step-forward-for-asian-ils-as-hong-kong-singapore-eye-pccs/"
+    },
+    {
+      "id": "scmp-hk-investors-natixis-return-expectations-20261016",
+      "title": "调查：95% 香港投资者想跑赢市场　但预期回报低于亚洲平均",
+      "sourceTier": "media",
+      "themes": [
+        "investor-sentiment",
+        "natixis",
+        "return-expectations",
+        "hong-kong",
+        "wealth-management"
+      ],
+      "publishedAt": "2026-10-16T07:00:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-hk-investors-natixis-return-expectations-20261016",
+      "originalUrl": "https://www.scmp.com/business/markets/article/3371039/hong-kong-investors-most-eager-asia-beat-markets-temper-return-hopes-report"
+    },
+    {
+      "id": "iaasia-generali-world-bank-mou-asia-climate-20261016",
+      "title": "Generali 与世银集团签署备忘录　聚焦亚洲气候、农业与高龄保障缺口",
+      "sourceTier": "media",
+      "themes": [
+        "climate-risk",
+        "agriculture-insurance",
+        "ageing",
+        "public-private-partnership",
+        "emerging-markets"
+      ],
+      "publishedAt": "2026-10-16T06:30:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-generali-world-bank-mou-asia-climate-20261016",
+      "originalUrl": "https://insuranceasia.com/insurance/news/generali-world-bank-target-asias-climate-insurance-gaps"
+    },
+    {
+      "id": "iaasia-kovernow-axa-xl-art-collectables-sg-20261016",
+      "title": "AXA XL 承保 KoverNow 新加坡艺术品与收藏品保单　平台拟延伸至香港",
+      "sourceTier": "media",
+      "themes": [
+        "digital-insurance",
+        "fine-art",
+        "high-net-worth",
+        "underwriting",
+        "hong-kong-expansion"
+      ],
+      "publishedAt": "2026-10-16T06:15:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-kovernow-axa-xl-art-collectables-sg-20261016",
+      "originalUrl": "https://insuranceasia.com/insurance/news/kovernow-widens-insurance-cover-collectors-turn-digital"
+    },
+    {
+      "id": "iaasia-ransomware-cyber-insurance-singapore-20261016",
+      "title": "新加坡 47% 企业因勒索软件遭遇网络险取消或加费　六成攻击涉 AI",
+      "sourceTier": "media",
+      "themes": [
+        "cyber-insurance",
+        "ransomware",
+        "artificial-intelligence",
+        "singapore",
+        "claims"
+      ],
+      "publishedAt": "2026-10-16T05:30:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-ransomware-cyber-insurance-singapore-20261016",
+      "originalUrl": "https://insuranceasia.com/insurance/news/ransomware-hits-cyber-insurance-47-singapore-firms"
+    },
+    {
+      "id": "iaasia-fwd-hkfi-qmark-critical-illness-20261016",
+      "title": "富卫香港推危疾全支援系列　成首个取得保联危疾标准化定义 Q 标志的新产品",
+      "sourceTier": "media",
+      "themes": [
+        "critical-illness",
+        "standardisation",
+        "q-mark",
+        "hkfi",
+        "claims"
+      ],
+      "publishedAt": "2026-10-16T05:15:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-fwd-hkfi-qmark-critical-illness-20261016",
+      "originalUrl": "https://insuranceasia.com/insurance/news/fwd-launches-illness-insurance-amidst-push-clearer-claims"
+    },
+    {
+      "id": "iaasia-aon-medical-trend-2027-20261016",
+      "title": "怡安预测 2027 全球医疗趋势率 9.0%　亚太外派保单高达 15%",
+      "sourceTier": "media",
+      "themes": [
+        "medical-inflation",
+        "employee-benefits",
+        "apac",
+        "glp-1",
+        "expatriate"
+      ],
+      "publishedAt": "2026-10-16T05:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-aon-medical-trend-2027-20261016",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/health-insurance-costs-strain-employers-in-2027"
+    },
+    {
+      "id": "ibm-sme-cyber-penetration-20261016",
+      "title": "美国中小企业网络险渗透率 30% 至 40%　可比市场仅约一成、瓶颈在分销密度",
+      "sourceTier": "media",
+      "themes": [
+        "cyber-insurance",
+        "sme",
+        "penetration",
+        "distribution",
+        "cfc"
+      ],
+      "publishedAt": "2026-10-16T03:11:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-sme-cyber-penetration-20261016",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/sme-cyber-insurance-uptake-stalls-everywhere-except-the-us-593616.aspx"
+    },
+    {
+      "id": "ibm-marsh-thrive-ai-costs-20261016",
+      "title": "威达信上调「Thrive」年度节省目标至 6 亿美元　AI 重塑中后台、资源转投前线",
+      "sourceTier": "media",
+      "themes": [
+        "artificial-intelligence",
+        "cost-efficiency",
+        "broker",
+        "back-office",
+        "automation"
+      ],
+      "publishedAt": "2026-10-16T01:16:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-marsh-thrive-ai-costs-20261016",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/marsh-looking-to-cut-even-more-costs-as-ai-reshapes-its-back-office-593717.aspx"
+    },
     {
       "id": "rn-brit-re-james-winn-cuo-bermuda-20261016",
       "title": "英资 Brit 委任 James Winn 掌百慕达 Brit Re　任首席核保官兼办公室主管",
