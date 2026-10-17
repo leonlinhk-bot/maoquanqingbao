@@ -24,3 +24,6 @@ _*.py
 
 # last-check 备份不入库
 data/last-check.json.bak-*
+
+# DeepSeek Search 旁路候选（只在本地审阅，publish.sh 的 git add -A 不得推上线）
+data/_staging/
