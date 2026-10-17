@@ -630,14 +630,14 @@
       "tc": "情報密度"
     },
     "subtitle": {
-      "sc": "自动从 1440 条资讯聚合 · sourceKey 标准化完成",
-      "tc": "自動從 1440 條資訊聚合 · sourceKey 標準化完成"
+      "sc": "自动从 1446 条资讯聚合 · sourceKey 标准化完成",
+      "tc": "自動從 1446 條資訊聚合 · sourceKey 標準化完成"
     },
-    "totalItems": 1440,
+    "totalItems": 1446,
     "sourceTiers": [
       {
         "tier": "official",
-        "count": 325,
+        "count": 326,
         "label": "监管一手"
       },
       {
@@ -652,12 +652,12 @@
       },
       {
         "tier": "media",
-        "count": 518,
+        "count": 522,
         "label": "媒体报道"
       },
       {
         "tier": "pro",
-        "count": 393,
+        "count": 394,
         "label": "专业解读"
       },
       {

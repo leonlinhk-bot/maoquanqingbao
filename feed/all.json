@@ -1,9 +1,106 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-16T16:53:50Z",
-  "itemCount": 1440,
+  "generatedAt": "2026-10-17T16:16:38Z",
+  "itemCount": 1446,
   "items": [
+    {
+      "id": "insuranceasia-week-in-insurance-20261017",
+      "title": "一周回顾：Mox 推全数码家居险、Igloo 进土耳其、富卫入股 bolttech",
+      "sourceTier": "media",
+      "themes": [
+        "digital-insurance",
+        "bancassurance",
+        "home-insurance",
+        "m-and-a",
+        "cyber-risk",
+        "legacy-planning"
+      ],
+      "publishedAt": "2026-10-17T05:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-week-in-insurance-20261017",
+      "originalUrl": "https://insuranceasia.com/insurance/news/week-in-insurance-mox-launches-home-cover-igloo-enters-turkiye-fwd-invests-in-bolttech"
+    },
+    {
+      "id": "ibm-atradius-apac-insolvencies-2027-20261017",
+      "title": "Atradius：亚太破产 2027 年料减 5%　惟信用风险未解",
+      "sourceTier": "media",
+      "themes": [
+        "trade-credit",
+        "insolvency",
+        "credit-risk",
+        "apac",
+        "macro-outlook"
+      ],
+      "publishedAt": "2026-10-17T01:47:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-atradius-apac-insolvencies-2027-20261017",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/asiapacific-insolvencies-to-fall-5-in-2027-but-credit-risks-persist-593904.aspx"
+    },
+    {
+      "id": "ibm-lockton-hk-eb-hire-20261017",
+      "title": "Lockton 挖角保柏亚洲主管　扩大香港雇员福利业务",
+      "sourceTier": "media",
+      "themes": [
+        "employee-benefits",
+        "talent",
+        "medical-inflation",
+        "brokers",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-10-17T01:43:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-lockton-hk-eb-hire-20261017",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/benefits/lockton-hires-bupa-asia-executive-to-grow-hong-kong-employee-benefits-business-593903.aspx"
+    },
+    {
+      "id": "ibm-allianz-singapore-hospital-cash-20261017",
+      "title": "安盛新加坡推住院现金计划　填补健保附加保障收紧后的自付缺口",
+      "sourceTier": "media",
+      "themes": [
+        "health-insurance",
+        "hospital-cash",
+        "shield",
+        "product-design",
+        "singapore"
+      ],
+      "publishedAt": "2026-10-17T01:37:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-allianz-singapore-hospital-cash-20261017",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/allianz-singapore-pitches-hospital-cash-cover-for-income-gap-as-shield-rules-tighten-593897.aspx"
+    },
+    {
+      "id": "ian-donaldson-brown-jared-sun-20261016",
+      "title": "新西兰经纪 Donaldson Brown 晋升 Jared Sun 掌金融线业务",
+      "sourceTier": "pro",
+      "themes": [
+        "appointments",
+        "financial-lines",
+        "new-zealand",
+        "brokers"
+      ],
+      "publishedAt": "2026-10-16T17:25:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-donaldson-brown-jared-sun-20261016",
+      "originalUrl": "https://insuranceasianews.com/kiwi-broker-donaldson-brown-promotes-jared-sun-to-head-of-financial-lines/"
+    },
+    {
+      "id": "ia-aif-2026-iais-hong-kong-20261015",
+      "title": "亚洲保险论坛 2026 定于 11 月 13 日　IAIS 年会同周在港举行",
+      "sourceTier": "official",
+      "themes": [
+        "aif",
+        "iais",
+        "supervision",
+        "ai-governance",
+        "natcat",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-10-15",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-aif-2026-iais-hong-kong-20261015",
+      "originalUrl": "https://aif.ia.org.hk/"
+    },
     {
       "id": "rn-gallagher-re-apac-market-watch-2026-20261016",
       "title": "Gallagher Re：亚太保险市场面临风险迁移与增长压力",
