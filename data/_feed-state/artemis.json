@@ -53,9 +53,10 @@
   "151117",
   "151125",
   "151135",
-  "151139"
+  "151139",
+  "151146"
  ],
- "last_checked": "2026-10-17T00:02:02.574705+08:00",
- "fingerprint": "sha256:5f67e3ea4e647ec6ab481017ac5b039d",
+ "last_checked": "2026-10-19T00:00:39.833253+08:00",
+ "fingerprint": "sha256:638eb13a50717f81ffe889b18f9c3f0a",
  "feed_url": "https://artemis.bm/feed/"
 }
