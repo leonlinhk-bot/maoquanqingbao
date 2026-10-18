@@ -289,6 +289,13 @@ def main():
     for k, v in stats.items():
         print(f"  {k}: {v}")
 
+    # 全败不能报成功 —— 否则 cron 只会看到 ok，故障被静默吞掉
+    if stats["failed"] == stats["queries"]:
+        print(f"\n❌ 全部 {stats['queries']} 条查询均失败（网络/代理？），本次无有效产出")
+        return 1
+    if stats["failed"]:
+        print(f"\n⚠️ {stats['failed']}/{stats['queries']} 条查询失败，结果可能不完整")
+
     if args.dry_run:
         print("\n(dry-run，未落盘)")
         return 0
