@@ -1,9 +1,99 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-19T13:14:02Z",
-  "itemCount": 1457,
+  "generatedAt": "2026-10-19T16:38:08Z",
+  "itemCount": 1463,
   "items": [
+    {
+      "id": "artemis-hannover-ils-capital-20261019",
+      "title": "汉诺威再：ILS 资本已占再保容量约 18%　视为可持续增量而非替代",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "alternative-capital",
+        "reinsurance",
+        "market"
+      ],
+      "publishedAt": "2026-10-19T22:15:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-hannover-ils-capital-20261019",
+      "originalUrl": "https://www.artemis.bm/news/hannover-re-sees-ils-capital-as-sustainable-reinsurance-addition-source-of-growth-horstmann/"
+    },
+    {
+      "id": "rn-howden-re-capital-tool-20261020",
+      "title": "Howden Re：再保应视为资本工具而非单纯保障　资本轻的组合 ROE 达 22%",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "capital-management",
+        "roi",
+        "market"
+      ],
+      "publishedAt": "2026-10-20T00:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-howden-re-capital-tool-20261020",
+      "originalUrl": "https://www.reinsurancene.ws/howden-re-highlights-reinsurances-role-as-a-capital-tool-as-prices-soften/"
+    },
+    {
+      "id": "rn-doxa-re-launch-femia-20261019",
+      "title": "DOXA 设专险财产再保 MGU　James Femia 任总裁",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "mga",
+        "property",
+        "capacity"
+      ],
+      "publishedAt": "2026-10-19T23:30:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-doxa-re-launch-femia-20261019",
+      "originalUrl": "https://www.reinsurancene.ws/femia-to-lead-newly-launched-doxa-re-as-president/"
+    },
+    {
+      "id": "rn-france-riots-srcc-20261019",
+      "title": "法国骚乱：保险损失料 10–12 亿欧元　SRCC 须按累积风险定价",
+      "sourceTier": "pro",
+      "themes": [
+        "srcc",
+        "cat-risk",
+        "reinsurance",
+        "accumulation"
+      ],
+      "publishedAt": "2026-10-19T23:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-france-riots-srcc-20261019",
+      "originalUrl": "https://www.reinsurancene.ws/france-riots-put-srcc-accumulation-risk-in-focus-for-re-insurers-morningstar-dbrs/"
+    },
+    {
+      "id": "ian-niba-2027-brokers-code-20261019",
+      "title": "澳洲经纪新守则 2027 年 1 月生效　续保前 28 天联系、报酬须答具体金额",
+      "sourceTier": "media",
+      "themes": [
+        "broker-conduct",
+        "fee-disclosure",
+        "regulation",
+        "professional-standards"
+      ],
+      "publishedAt": "2026-10-19T16:47:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-niba-2027-brokers-code-20261019",
+      "originalUrl": "https://insuranceasianews.com/australian-insurance-brokers-new-2027-code-of-practice-doubles-renewal-notice-opens-up-fee-disclosure/"
+    },
+    {
+      "id": "ian-penang-bridge-fire-ruling-20261019",
+      "title": "槟城大桥火灾裁决：现场取证在首几天定输赢　国能须赔 1,050 万马币",
+      "sourceTier": "media",
+      "themes": [
+        "claims",
+        "forensic",
+        "liability",
+        "fire"
+      ],
+      "publishedAt": "2026-10-19T14:14:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-penang-bridge-fire-ruling-20261019",
+      "originalUrl": "https://insuranceasianews.com/penang-bridge-ruling-shows-why-the-first-days-on-site-matter-most/"
+    },
     {
       "id": "artemis-catbond-q4-sponsors-20261019",
       "title": "SCOR：低息差环境或吸引更多发起人　Q4 巨灾债券发行有望破纪录",
