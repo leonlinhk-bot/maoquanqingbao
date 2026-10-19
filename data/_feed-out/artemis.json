@@ -1,20 +1,40 @@
 {
  "source": "artemis",
  "source_label": "Artemis",
- "fetched_at": "2026-10-19T00:00:39.832520+08:00",
+ "fetched_at": "2026-10-19T18:00:32.085637+08:00",
  "feed_url": "https://artemis.bm/feed/",
  "feed_window": 10,
- "entries_fingerprint": "sha256:638eb13a50717f81ffe889b18f9c3f0a",
- "new_count": 1,
+ "entries_fingerprint": "sha256:e714be9a1f0e585a5140d8650d2c8803",
+ "new_count": 3,
  "filtered_out": 0,
  "items": [
   {
-   "id": "151146",
-   "title": "Generali launching Lloyd’s Syndicate 2031 Red Bridge, to enhance access to reinsurance capital",
-   "url": "https://www.artemis.bm/news/generali-launching-lloyds-syndicate-2031-red-bridge-to-enhance-access-to-reinsurance-capital/?utm_source=rss&utm_medium=rss&utm_campaign=generali-launching-lloyds-syndicate-2031-red-bridge-to-enhance-access-to-reinsurance-capital",
-   "published": "Fri, 16 Oct 2026 15:45:11 +0000",
-   "published_hkt": "2026-10-16T23:45:11+08:00",
-   "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. Global re/insurer Generali is the latest to enter the Lloyd’s market with what seems a sidecar-like syndicate as a way to enhance and make its reinsurance arrangements more efficient, while the announcements points to the potential for alternative and capital markets to be involved. Generali said today it is entering Lloyd’s with the launch of [&#8230;] Generali launching Lloyd’s Syndicate 2031 Red Bridge, to enhance access to reinsurance capital was published by: www.Artemis.bm Our catastrophe bond deal directory Sign up for our free weekly email newsletter here .",
+   "id": "151177",
+   "title": "Late August Euro SCS and hail event “Raphaela” estimated near EUR 3.3bn industry loss: PERILS",
+   "url": "https://www.artemis.bm/news/late-august-euro-scs-and-hail-event-raphaela-estimated-near-eur-3-3bn-industry-loss-perils/?utm_source=rss&utm_medium=rss&utm_campaign=late-august-euro-scs-and-hail-event-raphaela-estimated-near-eur-3-3bn-industry-loss-perils",
+   "published": "Mon, 19 Oct 2026 07:30:08 +0000",
+   "published_hkt": "2026-10-19T15:30:08+08:00",
+   "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. The severe convective storm and hail outbreak across parts of western Europe between August 26th and 28th 2026 is initially estimated to have caused nearly EUR 3.3 billion of insurance industry losses, according to catastrophe data aggregator PERILS AG. This severe convective storm (SCS) outbreak that drove significant hail impacts affected parts of France, Germany, [&#8230;] Late August Euro SCS and hail event “Raphaela” estimated near EUR 3.3bn industry loss: PERILS was published by: www.Artemis.bm Our catastrophe bond deal directory Sign up for our free weekly email newsletter here .",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "151171",
+   "title": "Hannover Re’s E+S Rück sees more intense catastrophe risk competition, ILS options for clients",
+   "url": "https://www.artemis.bm/news/hannover-res-es-ruck-sees-more-intense-catastrophe-risk-competition-ils-options-for-clients/?utm_source=rss&utm_medium=rss&utm_campaign=hannover-res-es-ruck-sees-more-intense-catastrophe-risk-competition-ils-options-for-clients",
+   "published": "Mon, 19 Oct 2026 07:00:53 +0000",
+   "published_hkt": "2026-10-19T15:00:53+08:00",
+   "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. Hannover Re’s property and casualty reinsurance subsidiary in Germany anticipates continued strong reinsurance demand at the next rounds of renewals, but notes that rising capacity levels are driving more competition on pricing and terms, while also highlighting insurance-linked securities (ILS) as a complementary offering for clients. With the Baden-Baden reinsurance meetings underway in the country, [&#8230;] Hannover Re’s E+S Rück sees more intense catastrophe risk competition, ILS options for clients was published by: www.Artemis.bm Our catastrophe bond deal directory Sign up for our free weekly email newsletter here .",
+   "author": null,
+   "paywalled": false
+  },
+  {
+   "id": "151159",
+   "title": "Best of Artemis, week ending October 18th 2026",
+   "url": "https://www.artemis.bm/news/best-of-artemis-week-ending-october-18th-2026/?utm_source=rss&utm_medium=rss&utm_campaign=best-of-artemis-week-ending-october-18th-2026",
+   "published": "Mon, 19 Oct 2026 06:30:02 +0000",
+   "published_hkt": "2026-10-19T14:30:02+08:00",
+   "summary": "This content is copyright to www.artemis.bm and should not appear anywhere else, or an infringement has occurred. Here are the ten most popular news articles, week ending October 18th 2026, covering catastrophe bonds, ILS, reinsurance capital and related risk transfer topics. To ensure you never miss a thing subscribe to the weekly Artemis email newsletter updates or get our email alerts for every article we publish. Ten most read articles on Artemis.bm, [&#8230;] Best of Artemis, week ending October 18th 2026 was published by: www.Artemis.bm Our catastrophe bond deal directory Sign up for our free weekly email newsletter here .",
    "author": null,
    "paywalled": false
   }
