@@ -1,0 +1,30 @@
+{
+  "tag": "2026-W42",
+  "kicker": "▸ WEEKLY AI DIGEST",
+  "title_pre": "智见 · ",
+  "title_hl": "AI",
+  "title_post": " 港险观察",
+  "date_range": "10 月 12 日 — 10 月 18 日",
+  "badge": "周报摘要 2026-W42 · 本周精选 5 条",
+  "footer_prefix": "源自 ",
+  "footer_num": "15",
+  "footer_suffix": " 条公开信源",
+  "brand": "猫圈儿港险情报站",
+  "brand_sub": "维港猫圈儿 · 持牌人情报台",
+  "wx": "公众号：维港猫圈儿",
+  "note": "专业参考 · 非销售/投资建议 · 数字请回原文",
+  "domain": "hkmaoquanqingbao.com",
+  "logo": "/Users/leonliang/maoquanqingbao/assets/logo-cat-256.jpg",
+  "items": [
+    ["金管局「ART」框架：AI 治理从生成式跨入代理式",
+     "10/15 发布，取代 2019 年高层次原则；沙盒逾 60% 用例涉代理式 AI，治理讨论文件数周内出——团队用 AI 的合规底线要重画。"],
+    ["证监会警示：网上投资骗局平均每宗损失 70 万港元",
+     "10/13 于 IOSCO 世界投资者周发言；同日汇丰警告伪造「HSBCExchange」稳定币 App——deepfake 冒名，客户核实渠道得改。"],
+    ["保险 AI 入口之争：千问、蚂蚁阿福双线卡位",
+     "众安、小雨伞、慧择接入千问；阿福已有复星保德信等险企智能体——但监管已就「大模型类型＋隐私使用」开穿透问询。"],
+    ["「给 AI Agent 买保险」成独立品类：Harbor 出隐",
+     "10/13 获 1,000 万美元种子；49 州已备案 2,300+ 份 AI 免责条款——agent 出错会重复上千次，传统保单赔不了。"],
+    ["VTC PEAK 10 月连开 4 门 AI CPD 课",
+     "GenAI 数码营销、AI 道德操守（计入必修）、AI 个人财务规划等——均为 IA 3 CPD 小时，月底前尚可报名。"]
+  ]
+}
