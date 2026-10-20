@@ -28,3 +28,6 @@ data/last-check.json.bak-*
 
 # DeepSeek Search 旁路候选（只在本地审阅，publish.sh 的 git add -A 不得推上线）
 data/_staging/
+
+# 采集原始缓存目录（2026-10-21 起不入库）
+data/_10*_*/
