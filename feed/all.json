@@ -1,9 +1,159 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-20T10:12:30Z",
-  "itemCount": 1473,
+  "generatedAt": "2026-10-20T17:06:10Z",
+  "itemCount": 1484,
   "items": [
+    {
+      "id": "insuranceasianews-helvetia-asia-ceo-tan-20261021",
+      "title": "Helvetia 任命 Siew Choo Tan 为亚洲区 CEO　2027 年 1 月接替九年任期的 Ivan Chan",
+      "sourceTier": "media",
+      "themes": [
+        "people-move",
+        "asia",
+        "leadership",
+        "distribution"
+      ],
+      "publishedAt": "2026-10-21T05:00:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasianews-helvetia-asia-ceo-tan-20261021",
+      "originalUrl": "https://insuranceasianews.com/siew-choo-tan-to-succeed-ivan-chan-as-helvetia-asia-ceo/"
+    },
+    {
+      "id": "reinsurancenews-meta-muse-ai-claims-risk-20261020",
+      "title": "Autonomous：Meta「Muse」AI 代理或长远推高理赔成本　已能提醒索赔步骤并连接律师行",
+      "sourceTier": "pro",
+      "themes": [
+        "agentic-ai",
+        "claims",
+        "loss-cost",
+        "consumer-behaviour"
+      ],
+      "publishedAt": "2026-10-21T00:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=reinsurancenews-meta-muse-ai-claims-risk-20261020",
+      "originalUrl": "https://www.reinsurancene.ws/metas-muse-ai-agents-could-pose-longer-term-risk-to-loss-costs-autonomous/"
+    },
+    {
+      "id": "artemis-perils-july-scs-loss-2806m-20261020",
+      "title": "PERILS 上调 7 月欧洲强对流风暴损失约 28% 至 28.06 亿欧元",
+      "sourceTier": "pro",
+      "themes": [
+        "catastrophe",
+        "secondary-perils",
+        "loss-estimate",
+        "europe"
+      ],
+      "publishedAt": "2026-10-20T23:10:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-perils-july-scs-loss-2806m-20261020",
+      "originalUrl": "https://www.artemis.bm/news/perils-lifts-july-european-convective-storms-insured-market-loss-estimate-to-e2-8bn/"
+    },
+    {
+      "id": "artemis-arbol-datacenter-moratorium-parametric-20261020",
+      "title": "Arbol 推「数据中心监管暂禁令」参数式保险　承保 AI 基建的监管停工风险",
+      "sourceTier": "pro",
+      "themes": [
+        "parametric",
+        "data-centre",
+        "regulatory-risk",
+        "ai-infrastructure"
+      ],
+      "publishedAt": "2026-10-20T22:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-arbol-datacenter-moratorium-parametric-20261020",
+      "originalUrl": "https://www.artemis.bm/news/arbol-launches-parametric-insurance-for-gov-imposed-data-center-construction-moratoriums/"
+    },
+    {
+      "id": "reinsurancenews-triplei-milliman-pc-2026-outlook-20261020",
+      "title": "Triple-I／Milliman：美國產險 2026 年淨綜合成本率 94.0　2027 年增長或放緩",
+      "sourceTier": "pro",
+      "themes": [
+        "underwriting-cycle",
+        "combined-ratio",
+        "us-market",
+        "pricing"
+      ],
+      "publishedAt": "2026-10-20T21:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=reinsurancenews-triplei-milliman-pc-2026-outlook-20261020",
+      "originalUrl": "https://www.reinsurancene.ws/us-insurers-forecast-to-sustain-underwriting-gains-in-2026-despite-economic-pressures-triple-i-milliman/"
+    },
+    {
+      "id": "artemis-jamaica-cat-bond-melissa-payout-20261020",
+      "title": "牙買加：颶風 Melissa 觸發 1.5 億美元巨災債券　30 天內到賬用於恢復供電",
+      "sourceTier": "pro",
+      "themes": [
+        "cat-bond",
+        "parametric",
+        "sovereign-risk",
+        "disaster-financing"
+      ],
+      "publishedAt": "2026-10-20T21:00:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-jamaica-cat-bond-melissa-payout-20261020",
+      "originalUrl": "https://www.artemis.bm/news/jamaicas-parametric-cat-bond-payout-funded-electricity-restoration-chief-fiscal-economist-francis/"
+    },
+    {
+      "id": "insuranceasianews-cybercube-sompo-japan-20261020",
+      "title": "CyberCube 新增日本損保為亞太客戶　續擴網絡風險分析版圖",
+      "sourceTier": "media",
+      "themes": [
+        "cyber",
+        "cat-modelling",
+        "apac",
+        "underwriting"
+      ],
+      "publishedAt": "2026-10-20T20:01:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasianews-cybercube-sompo-japan-20261020",
+      "originalUrl": "https://insuranceasianews.com/cybercube-adds-sompo-japan-to-growing-apac-client-base/"
+    },
+    {
+      "id": "reinsurancenews-morningstar-dbrs-france-srcc-20261020",
+      "title": "Morningstar DBRS：法國騷亂損失料低於 12 億歐元　但 SRCC 已屬累積風險須獨立定價",
+      "sourceTier": "pro",
+      "themes": [
+        "srcc",
+        "accumulation-risk",
+        "commercial-property",
+        "pricing"
+      ],
+      "publishedAt": "2026-10-20T19:36:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=reinsurancenews-morningstar-dbrs-france-srcc-20261020",
+      "originalUrl": "https://www.reinsurancene.ws/unrest-in-france-underlines-cat-like-risks-of-riots-and-civil-commotion-morningstar-dbrs/"
+    },
+    {
+      "id": "insuranceasianews-mg-geraghty-phil-steel-20261020",
+      "title": "香港經紀 MG Geraghty 挖角 Howden 香港 Phil Steel 任業務發展主管",
+      "sourceTier": "media",
+      "themes": [
+        "brokers",
+        "hong-kong",
+        "people-move",
+        "distribution"
+      ],
+      "publishedAt": "2026-10-20T18:30:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasianews-mg-geraghty-phil-steel-20261020",
+      "originalUrl": "https://insuranceasianews.com/mg-geraghty-hires-howdens-phil-steel-as-head-of-business-development/"
+    },
+    {
+      "id": "artemis-gam-aviv-cat-bond-scalability-20261020",
+      "title": "GAM：巨災債券指數 2002 年以來年化 7.7%、波動 3.7%　與傳統資產相關性低於 0.26",
+      "sourceTier": "pro",
+      "themes": [
+        "cat-bond",
+        "allocation",
+        "diversification",
+        "family-office"
+      ],
+      "publishedAt": "2026-10-20T18:30:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-gam-aviv-cat-bond-scalability-20261020",
+      "originalUrl": "https://www.artemis.bm/news/deepening-cat-bond-market-offers-investors-liquidity-scale-and-broader-diversification-gams-aviv/"
+    },
     {
       "id": "reinsurancenews-nms-ascendra-mga-20261020",
       "title": "NMS Capital 设专险 MGA「Ascendra」　PE 以平台化方式承接承保能力",
@@ -1057,6 +1207,21 @@
       "score": 70,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=asiainsurancereview-nfra-pc-product-rules-20261016",
       "originalUrl": "https://www.asiainsurancereview.com/News/View-NewsLetter-Article/id/97257/Type/eCin/NFRA-revises-insurance-product-development-and-management-regulations"
+    },
+    {
+      "id": "ia-enforcement-jian-yongqin-suspension-20261016",
+      "title": "保監局停牌三個月：中介人未親身見證客戶在港簽署　自行簽名確認「已見證」",
+      "sourceTier": "official",
+      "themes": [
+        "enforcement",
+        "witness-signature",
+        "internal-controls",
+        "conduct"
+      ],
+      "publishedAt": "2026-10-16",
+      "score": 90,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-enforcement-jian-yongqin-suspension-20261016",
+      "originalUrl": "https://www.ia.org.hk/en/enforcement/enforcement_news/news.html"
     },
     {
       "id": "artemis-stand-landi-cfo-70m-series-c-20261015",
