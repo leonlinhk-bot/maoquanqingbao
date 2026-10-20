@@ -8,6 +8,7 @@ scripts/_*.py
 
 # 采集原始缓存
 data/_raw/
+.cache*/
 data/existing-keys.txt
 *-scan-*.json
 
