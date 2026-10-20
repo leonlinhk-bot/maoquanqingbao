@@ -1,23 +1,143 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-19T16:38:08Z",
-  "itemCount": 1463,
+  "generatedAt": "2026-10-20T10:12:30Z",
+  "itemCount": 1473,
   "items": [
     {
-      "id": "artemis-hannover-ils-capital-20261019",
-      "title": "汉诺威再：ILS 资本已占再保容量约 18%　视为可持续增量而非替代",
+      "id": "reinsurancenews-nms-ascendra-mga-20261020",
+      "title": "NMS Capital 设专险 MGA「Ascendra」　PE 以平台化方式承接承保能力",
       "sourceTier": "pro",
       "themes": [
-        "ils",
-        "alternative-capital",
-        "reinsurance",
-        "market"
+        "mga",
+        "private-capital",
+        "underwriting",
+        "specialty"
       ],
-      "publishedAt": "2026-10-19T22:15:00+08:00",
+      "publishedAt": "2026-10-20T18:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=reinsurancenews-nms-ascendra-mga-20261020",
+      "originalUrl": "https://www.reinsurancene.ws/nms-capital-launches-specialty-mga-ascendra/"
+    },
+    {
+      "id": "insuranceasianews-arpc-cyclone-pool-premiums-20261020",
+      "title": "澳洲再保险池公司：加入气旋池后中高风险区家财险报价低 14%–37%",
+      "sourceTier": "media",
+      "themes": [
+        "catastrophe",
+        "protection-gap",
+        "pricing",
+        "australia"
+      ],
+      "publishedAt": "2026-10-20T16:06:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasianews-arpc-cyclone-pool-premiums-20261020",
+      "originalUrl": "https://insuranceasianews.com/australias-cyclone-pool-cuts-up-to-37-of-home-insurance-premiums-in-high-risk-areas/"
+    },
+    {
+      "id": "reinsurancenews-gallagher-re-deschars-cedent-20261020",
+      "title": "Gallagher Re：软市场下再保要「听得懂客户」　保户应重排自留与保障广度而非只追降价",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "pricing",
+        "capacity",
+        "client-engagement"
+      ],
+      "publishedAt": "2026-10-20T16:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=reinsurancenews-gallagher-re-deschars-cedent-20261020",
+      "originalUrl": "https://www.reinsurancene.ws/reinsurers-must-focus-on-cedent-needs-to-attract-more-inflow-gallagher-res-deschars/"
+    },
+    {
+      "id": "artemis-ambest-casualty-sidecar-tail-risk-20261020",
+      "title": "AM Best：责任险 sidecar 的退出条款与抵押品质量决定尾部风险资本计提",
+      "sourceTier": "pro",
+      "themes": [
+        "sidecar",
+        "ils",
+        "casualty",
+        "capital"
+      ],
+      "publishedAt": "2026-10-20T15:00:00+08:00",
       "score": 72,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-hannover-ils-capital-20261019",
-      "originalUrl": "https://www.artemis.bm/news/hannover-re-sees-ils-capital-as-sustainable-reinsurance-addition-source-of-growth-horstmann/"
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-ambest-casualty-sidecar-tail-risk-20261020",
+      "originalUrl": "https://www.artemis.bm/news/clear-exit-terms-and-liquid-collateral-key-to-lowering-casualty-sidecar-tail-risk-charges-am-best/"
+    },
+    {
+      "id": "reinsurancenews-moodys-german-insurers-private-credit-20261020",
+      "title": "穆迪：德国险企私募信贷投资将续增　非流动资产占投资资产 19.4%",
+      "sourceTier": "pro",
+      "themes": [
+        "investment",
+        "private-credit",
+        "asset-liability",
+        "regulation"
+      ],
+      "publishedAt": "2026-10-20T14:00:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=reinsurancenews-moodys-german-insurers-private-credit-20261020",
+      "originalUrl": "https://www.reinsurancene.ws/moodys-forecasts-further-growth-in-german-insurers-private-credit-investments/"
+    },
+    {
+      "id": "insuranceasianews-howden-re-apac-softening-souter-20261020",
+      "title": "Howden Re：资本充裕叠加业绩强劲　亚太再保 1 月续保料进一步软化",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "pricing",
+        "asia-pacific",
+        "renewals"
+      ],
+      "publishedAt": "2026-10-20T07:30:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasianews-howden-re-apac-softening-souter-20261020",
+      "originalUrl": "https://insuranceasianews.com/a-lot-of-hunger-to-grow-strong-reinsurer-results-drive-further-apac-softening-howden-res-souter-says/"
+    },
+    {
+      "id": "insuranceasia-hdfc-life-vnb-q2fy27-20261020",
+      "title": "HDFC Life 二季度新业务价值升 15% 至 1.22 亿美元　利润率 24.5%",
+      "sourceTier": "media",
+      "themes": [
+        "india",
+        "life-insurance",
+        "vnb",
+        "distribution"
+      ],
+      "publishedAt": "2026-10-20T05:45:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-hdfc-life-vnb-q2fy27-20261020",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hdfc-life-lifts-new-business-value-15-122m"
+    },
+    {
+      "id": "insuranceasia-taiwan-nhi-seniors-subsidy-20261020",
+      "title": "台湾修法：65 岁以上符合资格者健保费由中央全额补助　年需约 390 亿新台币",
+      "sourceTier": "media",
+      "themes": [
+        "taiwan",
+        "health-insurance",
+        "subsidy",
+        "policy"
+      ],
+      "publishedAt": "2026-10-20T05:30:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-taiwan-nhi-seniors-subsidy-20261020",
+      "originalUrl": "https://insuranceasia.com/insurance/news/taiwan-approves-full-health-insurance-subsidies-seniors"
+    },
+    {
+      "id": "insuranceasia-indonesia-nonlife-profit-squeeze-20261020",
+      "title": "AM Best：印尼非寿险展望稳定　医疗通胀与竞争压缩利润、资本新规首阶段年底生效",
+      "sourceTier": "media",
+      "themes": [
+        "indonesia",
+        "non-life",
+        "medical-inflation",
+        "capital-requirement"
+      ],
+      "publishedAt": "2026-10-20T05:00:00+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-indonesia-nonlife-profit-squeeze-20261020",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/indonesia-insurers-face-profit-squeeze-despite-stable-outlook"
     },
     {
       "id": "rn-howden-re-capital-tool-20261020",
@@ -65,34 +185,19 @@
       "originalUrl": "https://www.reinsurancene.ws/france-riots-put-srcc-accumulation-risk-in-focus-for-re-insurers-morningstar-dbrs/"
     },
     {
-      "id": "ian-niba-2027-brokers-code-20261019",
-      "title": "澳洲经纪新守则 2027 年 1 月生效　续保前 28 天联系、报酬须答具体金额",
-      "sourceTier": "media",
+      "id": "artemis-hannover-ils-capital-20261019",
+      "title": "汉诺威再：ILS 资本已占再保容量约 18%　视为可持续增量而非替代",
+      "sourceTier": "pro",
       "themes": [
-        "broker-conduct",
-        "fee-disclosure",
-        "regulation",
-        "professional-standards"
+        "ils",
+        "alternative-capital",
+        "reinsurance",
+        "market"
       ],
-      "publishedAt": "2026-10-19T16:47:00+08:00",
-      "score": 66,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-niba-2027-brokers-code-20261019",
-      "originalUrl": "https://insuranceasianews.com/australian-insurance-brokers-new-2027-code-of-practice-doubles-renewal-notice-opens-up-fee-disclosure/"
-    },
-    {
-      "id": "ian-penang-bridge-fire-ruling-20261019",
-      "title": "槟城大桥火灾裁决：现场取证在首几天定输赢　国能须赔 1,050 万马币",
-      "sourceTier": "media",
-      "themes": [
-        "claims",
-        "forensic",
-        "liability",
-        "fire"
-      ],
-      "publishedAt": "2026-10-19T14:14:00+08:00",
-      "score": 64,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-penang-bridge-fire-ruling-20261019",
-      "originalUrl": "https://insuranceasianews.com/penang-bridge-ruling-shows-why-the-first-days-on-site-matter-most/"
+      "publishedAt": "2026-10-19T22:15:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-hannover-ils-capital-20261019",
+      "originalUrl": "https://www.artemis.bm/news/hannover-re-sees-ils-capital-as-sustainable-reinsurance-addition-source-of-growth-horstmann/"
     },
     {
       "id": "artemis-catbond-q4-sponsors-20261019",
@@ -108,6 +213,21 @@
       "score": 72,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-catbond-q4-sponsors-20261019",
       "originalUrl": "https://www.artemis.bm/news/lower-spread-environment-may-encourage-more-cat-bond-sponsors-in-q426-rostan-scor-ip/"
+    },
+    {
+      "id": "ian-niba-2027-brokers-code-20261019",
+      "title": "澳洲经纪新守则 2027 年 1 月生效　续保前 28 天联系、报酬须答具体金额",
+      "sourceTier": "media",
+      "themes": [
+        "broker-conduct",
+        "fee-disclosure",
+        "regulation",
+        "professional-standards"
+      ],
+      "publishedAt": "2026-10-19T16:47:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-niba-2027-brokers-code-20261019",
+      "originalUrl": "https://insuranceasianews.com/australian-insurance-brokers-new-2027-code-of-practice-doubles-renewal-notice-opens-up-fee-disclosure/"
     },
     {
       "id": "artemis-adb-catbond-asia-expansion-20261019",
@@ -186,6 +306,21 @@
       "score": 71,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-hannover-es-ruck-baden-baden-20261019",
       "originalUrl": "https://www.artemis.bm/news/hannover-res-es-ruck-sees-more-intense-catastrophe-risk-competition-ils-options-for-clients/"
+    },
+    {
+      "id": "ian-penang-bridge-fire-ruling-20261019",
+      "title": "槟城大桥火灾裁决：现场取证在首几天定输赢　国能须赔 1,050 万马币",
+      "sourceTier": "media",
+      "themes": [
+        "claims",
+        "forensic",
+        "liability",
+        "fire"
+      ],
+      "publishedAt": "2026-10-19T14:14:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-penang-bridge-fire-ruling-20261019",
+      "originalUrl": "https://insuranceasianews.com/penang-bridge-ruling-shows-why-the-first-days-on-site-matter-most/"
     },
     {
       "id": "iaasia-sg-life-premium-slowdown-20261019",
@@ -907,6 +1042,21 @@
       "score": 70,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-brit-re-james-winn-cuo-bermuda-20261016",
       "originalUrl": "https://www.reinsurancene.ws/james-winn-appointed-cuo-and-head-of-office-brit-re-bermuda/"
+    },
+    {
+      "id": "asiainsurancereview-nfra-pc-product-rules-20261016",
+      "title": "金融监管总局发布财产险公司产品开发管理规定（2026 年 10 月 9 日）",
+      "sourceTier": "pro",
+      "themes": [
+        "china",
+        "nfra",
+        "product-regulation",
+        "p-and-c"
+      ],
+      "publishedAt": "2026-10-16T00:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=asiainsurancereview-nfra-pc-product-rules-20261016",
+      "originalUrl": "https://www.asiainsurancereview.com/News/View-NewsLetter-Article/id/97257/Type/eCin/NFRA-revises-insurance-product-development-and-management-regulations"
     },
     {
       "id": "artemis-stand-landi-cfo-70m-series-c-20261015",
