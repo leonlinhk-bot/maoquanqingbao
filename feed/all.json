@@ -1,9 +1,276 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-20T17:06:10Z",
-  "itemCount": 1484,
+  "generatedAt": "2026-10-21T17:51:52Z",
+  "itemCount": 1503,
   "items": [
+    {
+      "id": "scmp-offshore-trust-tax-guidance-20261021",
+      "title": "内地放宽离岸信托收益征税口径　90 天宽限期今日届满",
+      "sourceTier": "media",
+      "themes": [
+        "offshore-trust",
+        "tax",
+        "cross-border",
+        "wealth"
+      ],
+      "publishedAt": "2026-10-21T14:03:00+08:00",
+      "score": 80,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-offshore-trust-tax-guidance-20261021",
+      "originalUrl": "https://www.scmp.com/business/money/wealth/article/3371606/china-eases-uncertainty-over-offshore-trust-taxes-grace-period-ends"
+    },
+    {
+      "id": "ibm-singapore-haze-banks-investors-do-20261021",
+      "title": "新加坡拟追究印尼雾霾相关银行与投资者　上市公司 D&O 与环责险受检视",
+      "sourceTier": "pro",
+      "themes": [
+        "d-and-o",
+        "environmental",
+        "cross-border",
+        "enforcement"
+      ],
+      "publishedAt": "2026-10-21",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-singapore-haze-banks-investors-do-20261021",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/catastrophe/singapore-signals-it-will-pursue-banks-and-investors-linked-to-indonesias-haze-fires-594247.aspx"
+    },
+    {
+      "id": "rn-generali-org-restructure-20261021",
+      "title": "忠意集团 11 月起重组架构　2027 年亚洲区由 Roberto Leonardi 领军",
+      "sourceTier": "pro",
+      "themes": [
+        "org-change",
+        "asia",
+        "strategy"
+      ],
+      "publishedAt": "2026-10-21",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-generali-org-restructure-20261021",
+      "originalUrl": "https://www.reinsurancene.ws/generali-unveils-new-organisational-structure/"
+    },
+    {
+      "id": "rn-hci-tokenised-reinsurance-isaias-20261021",
+      "title": "HCI：飓风 Isaias 理赔触及第三层再保　代币化再保 Token B 同受影响",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "tokenisation",
+        "cat-risk",
+        "claims"
+      ],
+      "publishedAt": "2026-10-21",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-hci-tokenised-reinsurance-isaias-20261021",
+      "originalUrl": "https://www.reinsurancene.ws/hcis-reinsurance-tower-and-token-affected-after-claims-from-hurricane-isaias-hit/"
+    },
+    {
+      "id": "artemis-usaa-residential-re-2026-2-upsize-20261021",
+      "title": "USAA 巨灾债券目标上调 56% 至 3.5 亿美元　三档价格指引同步下调",
+      "sourceTier": "pro",
+      "themes": [
+        "cat-bond",
+        "pricing",
+        "capacity"
+      ],
+      "publishedAt": "2026-10-21",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-usaa-residential-re-2026-2-upsize-20261021",
+      "originalUrl": "https://www.artemis.bm/news/usaa-lifts-residential-re-2026-2-cat-bond-target-to-350m-as-price-guidance-drops/"
+    },
+    {
+      "id": "rn-chubb-9m26-pc-underwriting-record-20261021",
+      "title": "安达首九月产险承保利润 57.9 亿美元创新高　Q3 综合成本率升至 84.1%",
+      "sourceTier": "pro",
+      "themes": [
+        "earnings",
+        "p-and-c",
+        "combined-ratio"
+      ],
+      "publishedAt": "2026-10-21",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-chubb-9m26-pc-underwriting-record-20261021",
+      "originalUrl": "https://www.reinsurancene.ws/chubb-posts-record-5-79bn-pc-underwriting-income-for-first-9m-26/"
+    },
+    {
+      "id": "rn-cybercube-blackpanda-asia-20261021",
+      "title": "CyberCube 联手 Blackpanda　为亚洲经纪提供区域网络风险基准",
+      "sourceTier": "pro",
+      "themes": [
+        "cyber",
+        "asia",
+        "broker-tools",
+        "data"
+      ],
+      "publishedAt": "2026-10-21T22:30:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-cybercube-blackpanda-asia-20261021",
+      "originalUrl": "https://www.reinsurancene.ws/cybercube-and-blackpanda-partner-to-bring-cyber-risk-analytics-to-brokers-across-asia/"
+    },
+    {
+      "id": "artemis-chubb-greenberg-naive-capacity-20261021",
+      "title": "安达 CEO：市场有「大量饥饿且极度天真的承保能力」　软化已蔓延至非财产险",
+      "sourceTier": "pro",
+      "themes": [
+        "pricing",
+        "reinsurance",
+        "capacity",
+        "softening"
+      ],
+      "publishedAt": "2026-10-21T21:18:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-chubb-greenberg-naive-capacity-20261021",
+      "originalUrl": "https://www.artemis.bm/news/theres-a-lot-of-hungry-and-extremely-naive-capacity-available-chubb-ceo-greenberg/"
+    },
+    {
+      "id": "rn-crc-q3-property-renewal-20261021",
+      "title": "CRC：Q3 财产险续保降幅收窄　91%–93% 账户平续或降价",
+      "sourceTier": "pro",
+      "themes": [
+        "pricing",
+        "property",
+        "renewals",
+        "capacity"
+      ],
+      "publishedAt": "2026-10-21T21:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-crc-q3-property-renewal-20261021",
+      "originalUrl": "https://www.reinsurancene.ws/property-renewal-rate-reductions-begin-to-moderate-in-q326-crc-group/"
+    },
+    {
+      "id": "rn-aon-uk-pension-risk-settlement-20261021",
+      "title": "怡安：英国退休金风险转移活动料回升　「盈余交易」成新常态",
+      "sourceTier": "pro",
+      "themes": [
+        "pension",
+        "annuity",
+        "uk",
+        "retirement"
+      ],
+      "publishedAt": "2026-10-21T20:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-aon-uk-pension-risk-settlement-20261021",
+      "originalUrl": "https://www.reinsurancene.ws/uk-pension-risk-settlement-activity-to-rebound-after-subdued-start-to-2026-aon/"
+    },
+    {
+      "id": "artemis-hamilton-easton-re-2027-1-20261021",
+      "title": "Hamilton 续发 Easton Re 2027-1　目标 2.5 亿美元多灾因回溯保障",
+      "sourceTier": "pro",
+      "themes": [
+        "cat-bond",
+        "retrocession",
+        "ils",
+        "renewal"
+      ],
+      "publishedAt": "2026-10-21T19:10:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-hamilton-easton-re-2027-1-20261021",
+      "originalUrl": "https://www.artemis.bm/news/hamilton-returns-with-250m-target-to-upsize-and-renew-easton-re-catastrophe-bond/"
+    },
+    {
+      "id": "ian-skuld-hk-helm-fan-20261021",
+      "title": "Skuld 全球重组：Wei Fan 2027 年底接掌香港　Patrick Wang 任远东区主席",
+      "sourceTier": "media",
+      "themes": [
+        "people-move",
+        "hong-kong",
+        "marine",
+        "restructuring"
+      ],
+      "publishedAt": "2026-10-21T17:43:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-skuld-hk-helm-fan-20261021",
+      "originalUrl": "https://insuranceasianews.com/skulds-wei-fan-to-take-hong-kong-helm-in-late-2027-patrick-wang-to-chair-far-east-unit/"
+    },
+    {
+      "id": "artemis-marsh-gimi-q3-2026-20261021",
+      "title": "Marsh：Q3 全球财产险费率跌 10%、太平洋商业险跌 12%　连续九季下行",
+      "sourceTier": "pro",
+      "themes": [
+        "pricing",
+        "property",
+        "asia-pacific",
+        "capacity"
+      ],
+      "publishedAt": "2026-10-21T17:34:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-marsh-gimi-q3-2026-20261021",
+      "originalUrl": "https://www.artemis.bm/news/global-property-insurance-rates-fall-10-in-q326-as-terms-improve-for-buyers-marsh-risk/"
+    },
+    {
+      "id": "ibm-chubb-q3-asia-life-20261021",
+      "title": "安达 Q3：国际寿险收入升 10.9%、亚洲领跑　北美大型商业险收缩",
+      "sourceTier": "media",
+      "themes": [
+        "results",
+        "asia",
+        "life",
+        "pricing"
+      ],
+      "publishedAt": "2026-10-21T16:16:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-chubb-q3-asia-life-20261021",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/chubbs-asia-life-and-consumer-lines-drive-growth-as-commercial-pricing-softens-594349.aspx"
+    },
+    {
+      "id": "artemis-acorn-re-2026-1-upsize-350m-20261021",
+      "title": "汉诺威再 Acorn Re 2026-1 目标上调 75% 至 3.5 亿美元　美国西岸参数式地震",
+      "sourceTier": "pro",
+      "themes": [
+        "cat-bond",
+        "parametric",
+        "earthquake",
+        "ils"
+      ],
+      "publishedAt": "2026-10-21T16:15:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-acorn-re-2026-1-upsize-350m-20261021",
+      "originalUrl": "https://www.artemis.bm/news/hannover-re-targets-75-upsized-350m-of-limit-from-new-acorn-re-parametric-cat-bond/"
+    },
+    {
+      "id": "ian-arpc-cyclone-pool-fy26-profit-20261021",
+      "title": "澳洲气旋池 FY26 转盈　营运利润 4.92 亿美元（上年亏 12 亿澳元）",
+      "sourceTier": "media",
+      "themes": [
+        "catastrophe",
+        "pool",
+        "australia",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-10-21T15:40:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-arpc-cyclone-pool-fy26-profit-20261021",
+      "originalUrl": "https://insuranceasianews.com/australias-cyclone-pool-swings-back-into-profitability-in-fy26-on-lower-claims-provisions/"
+    },
+    {
+      "id": "ian-gallagher-re-cat-loss-92bn-20261021",
+      "title": "Gallagher Re：全球保险巨灾损失至 Q3 约 920 亿美元　2019 年以来同期最低",
+      "sourceTier": "media",
+      "themes": [
+        "catastrophe",
+        "reinsurance",
+        "asia",
+        "loss-trend"
+      ],
+      "publishedAt": "2026-10-21T15:16:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-gallagher-re-cat-loss-92bn-20261021",
+      "originalUrl": "https://insuranceasianews.com/global-insured-cat-losses-hit-us92bn-to-q3-lowest-since-2019-gallagher-re/"
+    },
+    {
+      "id": "ian-aub-acquires-aon-one-underwriting-20261021",
+      "title": "AUB 集团收购怡安澳洲 One Underwriting　待监管批准",
+      "sourceTier": "media",
+      "themes": [
+        "m&a",
+        "brokerage",
+        "australia",
+        "distribution"
+      ],
+      "publishedAt": "2026-10-21T14:52:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-aub-acquires-aon-one-underwriting-20261021",
+      "originalUrl": "https://insuranceasianews.com/aub-group-to-acquire-aons-one-underwriting-australia/"
+    },
     {
       "id": "insuranceasianews-helvetia-asia-ceo-tan-20261021",
       "title": "Helvetia 任命 Siew Choo Tan 为亚洲区 CEO　2027 年 1 月接替九年任期的 Ivan Chan",
@@ -18,6 +285,21 @@
       "score": 64,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasianews-helvetia-asia-ceo-tan-20261021",
       "originalUrl": "https://insuranceasianews.com/siew-choo-tan-to-succeed-ivan-chan-as-helvetia-asia-ceo/"
+    },
+    {
+      "id": "ibm-mas-ai-governance-tech-eo-20261021",
+      "title": "新加坡 MAS AI 治理指引 10/7 落地　第三方 AI 系统令科技责任险受检视",
+      "sourceTier": "media",
+      "themes": [
+        "ai-governance",
+        "liability",
+        "singapore",
+        "regulation"
+      ],
+      "publishedAt": "2026-10-21T00:51:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-mas-ai-governance-tech-eo-20261021",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/professional-liability/mas-ai-governance-rules-put-tech-eando-in-the-spotlight-as-sea-prepares-enterprise-platform-594246.aspx"
     },
     {
       "id": "reinsurancenews-meta-muse-ai-claims-risk-20261020",
