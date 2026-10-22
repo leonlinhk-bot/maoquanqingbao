@@ -1,9 +1,94 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-22T10:14:01Z",
-  "itemCount": 1514,
+  "generatedAt": "2026-10-22T16:28:42Z",
+  "itemCount": 1525,
   "items": [
+    {
+      "id": "ibm-osaka-broker-vendor-cyber-20261022",
+      "title": "大阪券商外包商遭入侵致未授权交易　第三方网络责任归属再受关注",
+      "sourceTier": "pro",
+      "themes": [
+        "cyber",
+        "third-party-risk",
+        "japan"
+      ],
+      "publishedAt": "2026-10-22T22:41:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-osaka-broker-vendor-cyber-20261022",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/osaka-brokerage-breach-raises-thirdparty-cyber-risk-questions-for-insurers-594580.aspx"
+    },
+    {
+      "id": "artemis-wfp-ccrif-parametric-20261022",
+      "title": "世界粮食计划署首购CCRIF参数式气旋保险　成首个加入的联合国机构",
+      "sourceTier": "pro",
+      "themes": [
+        "parametric",
+        "climate",
+        "humanitarian"
+      ],
+      "publishedAt": "2026-10-22T22:30:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-wfp-ccrif-parametric-20261022",
+      "originalUrl": "https://www.artemis.bm/news/world-food-programme-buys-parametric-tropical-cyclone-insurance-from-ccrif/"
+    },
+    {
+      "id": "ibm-pvi-vietnam-reinsurance-expansion-20261022",
+      "title": "越南PVI拟以再保方式进中亚与中东　先在泰国与KBank、Muang Thai接触",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "vietnam",
+        "soft-market"
+      ],
+      "publishedAt": "2026-10-22T21:46:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-pvi-vietnam-reinsurance-expansion-20261022",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/pvi-insurance-takes-vietnams-largest-nonlife-book-into-central-asia-and-the-middle-east-594577.aspx"
+    },
+    {
+      "id": "scmp-hkma-yue-financial-innovation-20261022",
+      "title": "金管局余伟文：金融创新要解实体经济痛点　大湾区碳中和需近2万亿美元",
+      "sourceTier": "media",
+      "themes": [
+        "hkma",
+        "green-finance",
+        "gba",
+        "climate"
+      ],
+      "publishedAt": "2026-10-22T20:00:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-hkma-yue-financial-innovation-20261022",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3371810/hong-kong-targets-financial-innovation-help-ease-economic-pain-points"
+    },
+    {
+      "id": "artemis-acorn-re-2026-2-450m-20261022",
+      "title": "汉诺威再第七度发行Acorn Re　参数式美国地震债券目标再上调至4.5亿美元",
+      "sourceTier": "pro",
+      "themes": [
+        "cat-bond",
+        "parametric",
+        "us-earthquake"
+      ],
+      "publishedAt": "2026-10-22T18:30:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-acorn-re-2026-2-450m-20261022",
+      "originalUrl": "https://www.artemis.bm/news/hannover-re-raises-acorn-re-parametric-cat-bond-target-size-again-to-450m/"
+    },
+    {
+      "id": "rn-iceye-ororatech-wildfire-20261022",
+      "title": "ICEYE联手OroraTech　以热感卫星补足山火全周期监测",
+      "sourceTier": "pro",
+      "themes": [
+        "wildfire",
+        "satellite",
+        "parametric"
+      ],
+      "publishedAt": "2026-10-22T18:00:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-iceye-ororatech-wildfire-20261022",
+      "originalUrl": "https://www.reinsurancene.ws/iceye-to-deliver-full-lifecycle-wildfire-intelligence-with-ororatech-partnership/"
+    },
     {
       "id": "govhk-ce-financial-street-forum-20261022",
       "title": "特首金融街论坛致辞：香港跃居全球最大跨境财富管理中心　发力亚洲风险管理中心",
@@ -95,6 +180,35 @@
       "originalUrl": "https://www.reinsurancene.ws/tal-dai-ichi-life-australia-proposes-acquisition-of-remaining-challenger-shares/"
     },
     {
+      "id": "axa-mental-health-ai-study-2026-20261022",
+      "title": "AXA安盛研究2026：66%港人曾用AI处理心理健康　43%信任AI多于专业人士",
+      "sourceTier": "insurer",
+      "themes": [
+        "mental-health",
+        "ai",
+        "employee-benefits",
+        "hk"
+      ],
+      "publishedAt": "2026-10-22T12:56:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=axa-mental-health-ai-study-2026-20261022",
+      "originalUrl": "https://www.prnewswire.com/apac/zh/news-releases/axa2026ai-302916722.html"
+    },
+    {
+      "id": "ian-beazley-maritime-geopolitics-20261022",
+      "title": "比兹利：海峡「暗航」与船舶网络攻击　海运地缘风险进入新阶段",
+      "sourceTier": "media",
+      "themes": [
+        "marine",
+        "geopolitics",
+        "cyber"
+      ],
+      "publishedAt": "2026-10-22T09:58:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-beazley-maritime-geopolitics-20261022",
+      "originalUrl": "https://insuranceasianews.com/beazley-navigating-geopolitical-risks-at-sea/"
+    },
+    {
       "id": "ian-ai-exclusions-pushback-20261022",
       "title": "保险业者反对「一刀切」AI 除外条款　警告保障缺口扩大",
       "sourceTier": "media",
@@ -108,6 +222,48 @@
       "score": 68,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-ai-exclusions-pushback-20261022",
       "originalUrl": "https://insuranceasianews.com/dont-carve-it-out-insurers-push-back-on-blanket-ai-exclusions-as-adoption-surges/"
+    },
+    {
+      "id": "iaasia-global-market-19-8t-2035-20261022",
+      "title": "研究机构：全球保险市场2035年达19.8万亿美元　亚太增量最大",
+      "sourceTier": "pro",
+      "themes": [
+        "global-market",
+        "growth-forecast",
+        "asia-pacific"
+      ],
+      "publishedAt": "2026-10-22T05:30:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-global-market-19-8t-2035-20261022",
+      "originalUrl": "https://insuranceasia.com/insurance/news/global-insurance-market-hit-20t-2035t"
+    },
+    {
+      "id": "iaasia-pingan-nbv-q3-2026-20261022",
+      "title": "券商料平安Q3新业务价值同比跌44%　银保首年保费按季缩四成",
+      "sourceTier": "pro",
+      "themes": [
+        "china-life",
+        "nbv",
+        "bancassurance"
+      ],
+      "publishedAt": "2026-10-22T05:15:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-pingan-nbv-q3-2026-20261022",
+      "originalUrl": "https://insuranceasia.com/insurance/news/ping-ans-new-business-value-plunge-44-in-q3-2026"
+    },
+    {
+      "id": "iaasia-aon-china-medical-trend-2027-20261022",
+      "title": "怡安报告：中国雇主医疗成本2027年料升6%　仍高于一般通胀",
+      "sourceTier": "pro",
+      "themes": [
+        "medical-inflation",
+        "china",
+        "employee-benefits"
+      ],
+      "publishedAt": "2026-10-22T05:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-aon-china-medical-trend-2027-20261022",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/chinas-medical-insurance-costs-rise-6-in-2027"
     },
     {
       "id": "artemis-mexico-world-bank-cat-ddo-20261022",
