@@ -1,95 +1,158 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-21T17:51:52Z",
-  "itemCount": 1503,
+  "generatedAt": "2026-10-22T10:14:01Z",
+  "itemCount": 1514,
   "items": [
     {
-      "id": "scmp-offshore-trust-tax-guidance-20261021",
-      "title": "内地放宽离岸信托收益征税口径　90 天宽限期今日届满",
+      "id": "govhk-ce-financial-street-forum-20261022",
+      "title": "特首金融街论坛致辞：香港跃居全球最大跨境财富管理中心　发力亚洲风险管理中心",
+      "sourceTier": "official",
+      "themes": [
+        "wealth-management",
+        "risk-management-centre",
+        "specialty-insurance",
+        "five-year-plan"
+      ],
+      "publishedAt": "2026-10-22T18:00:00+08:00",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=govhk-ce-financial-street-forum-20261022",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202610/22/P2026102200260.htm"
+    },
+    {
+      "id": "scmp-china-tax-workforce-offshore-trust-20261022",
+      "title": "内地税务系统扩编 2.4 万人　离岸信托收益申报限期今日届满",
       "sourceTier": "media",
       "themes": [
-        "offshore-trust",
         "tax",
-        "cross-border",
-        "wealth"
-      ],
-      "publishedAt": "2026-10-21T14:03:00+08:00",
-      "score": 80,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-offshore-trust-tax-guidance-20261021",
-      "originalUrl": "https://www.scmp.com/business/money/wealth/article/3371606/china-eases-uncertainty-over-offshore-trust-taxes-grace-period-ends"
-    },
-    {
-      "id": "ibm-singapore-haze-banks-investors-do-20261021",
-      "title": "新加坡拟追究印尼雾霾相关银行与投资者　上市公司 D&O 与环责险受检视",
-      "sourceTier": "pro",
-      "themes": [
-        "d-and-o",
-        "environmental",
-        "cross-border",
+        "offshore-trust",
+        "hnw",
         "enforcement"
       ],
-      "publishedAt": "2026-10-21",
-      "score": 72,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-singapore-haze-banks-investors-do-20261021",
-      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/catastrophe/singapore-signals-it-will-pursue-banks-and-investors-linked-to-indonesias-haze-fires-594247.aspx"
+      "publishedAt": "2026-10-22T17:51:00+08:00",
+      "score": 80,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-china-tax-workforce-offshore-trust-20261022",
+      "originalUrl": "https://www.scmp.com/business/china-business/article/3371791/china-expands-tax-workforce-tougher-enforcement-moves-spotlight"
     },
     {
-      "id": "rn-generali-org-restructure-20261021",
-      "title": "忠意集团 11 月起重组架构　2027 年亚洲区由 Roberto Leonardi 领军",
+      "id": "ian-uk-pi-tt-club-thomas-miller-20261022",
+      "title": "UK P&I Club 与 TT Club 完成联合收购 Thomas Miller",
+      "sourceTier": "media",
+      "themes": [
+        "marine",
+        "pi-club",
+        "m-and-a",
+        "mutual"
+      ],
+      "publishedAt": "2026-10-22T17:50:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-uk-pi-tt-club-thomas-miller-20261022",
+      "originalUrl": "https://insuranceasianews.com/defining-moment-as-uk-pi-club-tt-club-complete-thomas-miller-acquisition/"
+    },
+    {
+      "id": "iaasia-japan-agency-recommendation-rules-20261022",
+      "title": "日本新规：多保代理须举证推荐理由　2028 年 3 月生效",
       "sourceTier": "pro",
       "themes": [
-        "org-change",
-        "asia",
-        "strategy"
+        "conduct",
+        "recommendation",
+        "japan",
+        "multi-tie"
       ],
-      "publishedAt": "2026-10-21",
+      "publishedAt": "2026-10-22T17:08:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-japan-agency-recommendation-rules-20261022",
+      "originalUrl": "https://insuranceasia.com/videos/japan-forces-insurance-agencies-justify-recommendations"
+    },
+    {
+      "id": "rn-sompo-indonesia-syariah-entity-20261022",
+      "title": "印尼 Sompo 设专门伊斯兰一般保险公司　按 OJK 规定独立运营",
+      "sourceTier": "pro",
+      "themes": [
+        "syariah",
+        "indonesia",
+        "entity-setup",
+        "ojk"
+      ],
+      "publishedAt": "2026-10-22T14:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-sompo-indonesia-syariah-entity-20261022",
+      "originalUrl": "https://www.reinsurancene.ws/sompo-indonesia-establishes-dedicated-general-syariah-insurance-company/"
+    },
+    {
+      "id": "rn-tal-daiichi-challenger-takeover-20261022",
+      "title": "第一生命旗下 TAL 提购澳洲 Challenger 余下 79.5%　每股 11.80 澳元",
+      "sourceTier": "pro",
+      "themes": [
+        "m-and-a",
+        "australia",
+        "annuity",
+        "japan"
+      ],
+      "publishedAt": "2026-10-22T13:30:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-tal-daiichi-challenger-takeover-20261022",
+      "originalUrl": "https://www.reinsurancene.ws/tal-dai-ichi-life-australia-proposes-acquisition-of-remaining-challenger-shares/"
+    },
+    {
+      "id": "ian-ai-exclusions-pushback-20261022",
+      "title": "保险业者反对「一刀切」AI 除外条款　警告保障缺口扩大",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "exclusions",
+        "coverage-gap",
+        "underwriting"
+      ],
+      "publishedAt": "2026-10-22T07:30:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-ai-exclusions-pushback-20261022",
+      "originalUrl": "https://insuranceasianews.com/dont-carve-it-out-insurers-push-back-on-blanket-ai-exclusions-as-adoption-surges/"
+    },
+    {
+      "id": "artemis-mexico-world-bank-cat-ddo-20261022",
+      "title": "墨西哥首获世行 5 亿美元 Cat DDO　与巨灾债券、参数式保险互补",
+      "sourceTier": "pro",
+      "themes": [
+        "sovereign-risk",
+        "catastrophe",
+        "world-bank",
+        "protection-gap"
+      ],
+      "publishedAt": "2026-10-22",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-mexico-world-bank-cat-ddo-20261022",
+      "originalUrl": "https://www.artemis.bm/news/mexico-gets-its-first-world-bank-cat-ddo-to-complement-cat-bonds-and-parametric-insurance/"
+    },
+    {
+      "id": "ibm-tysers-singapore-ceo-marine-20261022",
+      "title": "Tysers 星洲 CEO 获 MAS 批准　亚太水险保费 426 亿美元、亚太占 30.8%",
+      "sourceTier": "media",
+      "themes": [
+        "marine",
+        "brokerage",
+        "apac",
+        "market-data"
+      ],
+      "publishedAt": "2026-10-22",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-tysers-singapore-ceo-marine-20261022",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/tysers-confirms-singapore-ceo-to-lead-asiapacific-insurance-expansion-594444.aspx"
+    },
+    {
+      "id": "ibm-cfc-sme-cyber-disconnect-20261022",
+      "title": "CFC：中小企视网络为最大风险　却 74% 不知保单涵盖人为失误",
+      "sourceTier": "media",
+      "themes": [
+        "cyber",
+        "sme",
+        "coverage-gap",
+        "education"
+      ],
+      "publishedAt": "2026-10-22",
       "score": 70,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-generali-org-restructure-20261021",
-      "originalUrl": "https://www.reinsurancene.ws/generali-unveils-new-organisational-structure/"
-    },
-    {
-      "id": "rn-hci-tokenised-reinsurance-isaias-20261021",
-      "title": "HCI：飓风 Isaias 理赔触及第三层再保　代币化再保 Token B 同受影响",
-      "sourceTier": "pro",
-      "themes": [
-        "ils",
-        "tokenisation",
-        "cat-risk",
-        "claims"
-      ],
-      "publishedAt": "2026-10-21",
-      "score": 72,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-hci-tokenised-reinsurance-isaias-20261021",
-      "originalUrl": "https://www.reinsurancene.ws/hcis-reinsurance-tower-and-token-affected-after-claims-from-hurricane-isaias-hit/"
-    },
-    {
-      "id": "artemis-usaa-residential-re-2026-2-upsize-20261021",
-      "title": "USAA 巨灾债券目标上调 56% 至 3.5 亿美元　三档价格指引同步下调",
-      "sourceTier": "pro",
-      "themes": [
-        "cat-bond",
-        "pricing",
-        "capacity"
-      ],
-      "publishedAt": "2026-10-21",
-      "score": 70,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-usaa-residential-re-2026-2-upsize-20261021",
-      "originalUrl": "https://www.artemis.bm/news/usaa-lifts-residential-re-2026-2-cat-bond-target-to-350m-as-price-guidance-drops/"
-    },
-    {
-      "id": "rn-chubb-9m26-pc-underwriting-record-20261021",
-      "title": "安达首九月产险承保利润 57.9 亿美元创新高　Q3 综合成本率升至 84.1%",
-      "sourceTier": "pro",
-      "themes": [
-        "earnings",
-        "p-and-c",
-        "combined-ratio"
-      ],
-      "publishedAt": "2026-10-21",
-      "score": 70,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-chubb-9m26-pc-underwriting-record-20261021",
-      "originalUrl": "https://www.reinsurancene.ws/chubb-posts-record-5-79bn-pc-underwriting-income-for-first-9m-26/"
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-cfc-sme-cyber-disconnect-20261022",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/smes-rank-cyber-their-top-risk-but-misread-the-threats-cfc-594508.aspx"
     },
     {
       "id": "rn-cybercube-blackpanda-asia-20261021",
@@ -257,6 +320,21 @@
       "originalUrl": "https://insuranceasianews.com/global-insured-cat-losses-hit-us92bn-to-q3-lowest-since-2019-gallagher-re/"
     },
     {
+      "id": "govhk-legco-q11-cross-border-medical-ads-20261021",
+      "title": "立法会十一题：跨境医疗广告监管　境外机构不受本地专业守则约束",
+      "sourceTier": "official",
+      "themes": [
+        "cross-border-medical",
+        "advertising",
+        "gba",
+        "consumer-protection"
+      ],
+      "publishedAt": "2026-10-21T15:00:00+08:00",
+      "score": 82,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=govhk-legco-q11-cross-border-medical-ads-20261021",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202610/21/P2026102100267.htm"
+    },
+    {
       "id": "ian-aub-acquires-aon-one-underwriting-20261021",
       "title": "AUB 集团收购怡安澳洲 One Underwriting　待监管批准",
       "sourceTier": "media",
@@ -270,6 +348,21 @@
       "score": 64,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-aub-acquires-aon-one-underwriting-20261021",
       "originalUrl": "https://insuranceasianews.com/aub-group-to-acquire-aons-one-underwriting-australia/"
+    },
+    {
+      "id": "scmp-offshore-trust-tax-guidance-20261021",
+      "title": "内地放宽离岸信托收益征税口径　90 天宽限期今日届满",
+      "sourceTier": "media",
+      "themes": [
+        "offshore-trust",
+        "tax",
+        "cross-border",
+        "wealth"
+      ],
+      "publishedAt": "2026-10-21T14:03:00+08:00",
+      "score": 80,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-offshore-trust-tax-guidance-20261021",
+      "originalUrl": "https://www.scmp.com/business/money/wealth/article/3371606/china-eases-uncertainty-over-offshore-trust-taxes-grace-period-ends"
     },
     {
       "id": "insuranceasianews-helvetia-asia-ceo-tan-20261021",
@@ -315,6 +408,78 @@
       "score": 72,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=reinsurancenews-meta-muse-ai-claims-risk-20261020",
       "originalUrl": "https://www.reinsurancene.ws/metas-muse-ai-agents-could-pose-longer-term-risk-to-loss-costs-autonomous/"
+    },
+    {
+      "id": "ibm-singapore-haze-banks-investors-do-20261021",
+      "title": "新加坡拟追究印尼雾霾相关银行与投资者　上市公司 D&O 与环责险受检视",
+      "sourceTier": "pro",
+      "themes": [
+        "d-and-o",
+        "environmental",
+        "cross-border",
+        "enforcement"
+      ],
+      "publishedAt": "2026-10-21",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-singapore-haze-banks-investors-do-20261021",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/catastrophe/singapore-signals-it-will-pursue-banks-and-investors-linked-to-indonesias-haze-fires-594247.aspx"
+    },
+    {
+      "id": "rn-generali-org-restructure-20261021",
+      "title": "忠意集团 11 月起重组架构　2027 年亚洲区由 Roberto Leonardi 领军",
+      "sourceTier": "pro",
+      "themes": [
+        "org-change",
+        "asia",
+        "strategy"
+      ],
+      "publishedAt": "2026-10-21",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-generali-org-restructure-20261021",
+      "originalUrl": "https://www.reinsurancene.ws/generali-unveils-new-organisational-structure/"
+    },
+    {
+      "id": "rn-hci-tokenised-reinsurance-isaias-20261021",
+      "title": "HCI：飓风 Isaias 理赔触及第三层再保　代币化再保 Token B 同受影响",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "tokenisation",
+        "cat-risk",
+        "claims"
+      ],
+      "publishedAt": "2026-10-21",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-hci-tokenised-reinsurance-isaias-20261021",
+      "originalUrl": "https://www.reinsurancene.ws/hcis-reinsurance-tower-and-token-affected-after-claims-from-hurricane-isaias-hit/"
+    },
+    {
+      "id": "artemis-usaa-residential-re-2026-2-upsize-20261021",
+      "title": "USAA 巨灾债券目标上调 56% 至 3.5 亿美元　三档价格指引同步下调",
+      "sourceTier": "pro",
+      "themes": [
+        "cat-bond",
+        "pricing",
+        "capacity"
+      ],
+      "publishedAt": "2026-10-21",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-usaa-residential-re-2026-2-upsize-20261021",
+      "originalUrl": "https://www.artemis.bm/news/usaa-lifts-residential-re-2026-2-cat-bond-target-to-350m-as-price-guidance-drops/"
+    },
+    {
+      "id": "rn-chubb-9m26-pc-underwriting-record-20261021",
+      "title": "安达首九月产险承保利润 57.9 亿美元创新高　Q3 综合成本率升至 84.1%",
+      "sourceTier": "pro",
+      "themes": [
+        "earnings",
+        "p-and-c",
+        "combined-ratio"
+      ],
+      "publishedAt": "2026-10-21",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-chubb-9m26-pc-underwriting-record-20261021",
+      "originalUrl": "https://www.reinsurancene.ws/chubb-posts-record-5-79bn-pc-underwriting-income-for-first-9m-26/"
     },
     {
       "id": "artemis-perils-july-scs-loss-2806m-20261020",
