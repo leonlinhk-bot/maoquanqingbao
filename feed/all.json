@@ -1,9 +1,176 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-22T16:28:42Z",
-  "itemCount": 1525,
+  "generatedAt": "2026-10-23T17:00:15Z",
+  "itemCount": 1537,
   "items": [
+    {
+      "id": "artemis-catbond-20bn-pace-20261023",
+      "title": "巨灾债券今年发行已逾189亿美元　有望第二个破200亿年份",
+      "sourceTier": "pro",
+      "themes": [
+        "巨灾债券",
+        "ILS",
+        "另类资本"
+      ],
+      "publishedAt": "2026-10-23",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-catbond-20bn-pace-20261023",
+      "originalUrl": "https://www.artemis.bm/news/catastrophe-bond-market-to-hit-second-20bn-issuance-year-at-fastest-pace-yet/"
+    },
+    {
+      "id": "rn-moodys-life-ai-exposure-20261023",
+      "title": "穆迪：美国寿险持AI相关资产852亿美元　集中度风险抬头",
+      "sourceTier": "pro",
+      "themes": [
+        "人工智能",
+        "资产配置",
+        "集中度风险"
+      ],
+      "publishedAt": "2026-10-23",
+      "score": 73,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-moodys-life-ai-exposure-20261023",
+      "originalUrl": "https://www.reinsurancene.ws/us-life-insurers-increase-ai-investments-as-exposure-risks-grow-says-moodys/"
+    },
+    {
+      "id": "rn-isometric-marsh-carbon-framework-20261023",
+      "title": "Isometric与Marsh碳保险框架获批　五家保司可承保再造林项目",
+      "sourceTier": "pro",
+      "themes": [
+        "碳保险",
+        "ESG",
+        "产品创新"
+      ],
+      "publishedAt": "2026-10-23T20:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-isometric-marsh-carbon-framework-20261023",
+      "originalUrl": "https://www.reinsurancene.ws/five-insurers-approved-under-carbon-insurance-framework-developed-by-isometric-and-marsh/"
+    },
+    {
+      "id": "rn-munich-re-guidance-20261023",
+      "title": "慕尼黑再保险上调全年利润指引至66亿欧元",
+      "sourceTier": "pro",
+      "themes": [
+        "再保险",
+        "费率周期",
+        "盈利指引"
+      ],
+      "publishedAt": "2026-10-23T19:30:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-munich-re-guidance-20261023",
+      "originalUrl": "https://www.reinsurancene.ws/munich-re-raises-2026-profit-guidance-to-e6-6bn-on-strong-preliminary-q3-results/"
+    },
+    {
+      "id": "govhk-hkftw-startmeuphk-2026-20261023",
+      "title": "金融科技周11月2日开幕　设保险科技及健康科技论坛",
+      "sourceTier": "official",
+      "themes": [
+        "金融科技周",
+        "保险科技",
+        "监管科技"
+      ],
+      "publishedAt": "2026-10-23T18:10:00+08:00",
+      "score": 84,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=govhk-hkftw-startmeuphk-2026-20261023",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202610/23/P2026102100283.htm"
+    },
+    {
+      "id": "ia-h1-2026-life-stats-20261023",
+      "title": "保监局上半年统计：新造保单保费2752亿升58%　保费融资占新造约36%",
+      "sourceTier": "official",
+      "themes": [
+        "保费融资",
+        "新造保单保费",
+        "分红业务"
+      ],
+      "publishedAt": "2026-10-23T15:30:00+08:00",
+      "score": 96,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-h1-2026-life-stats-20261023",
+      "originalUrl": "https://inews.hket.com/article/4213593/"
+    },
+    {
+      "id": "ia-h1-2026-general-business-20261023",
+      "title": "一般业务上半年毛保费637亿升9.1%　承保利润58亿升2.5倍",
+      "sourceTier": "official",
+      "themes": [
+        "一般业务",
+        "承保利润",
+        "离岸再保险"
+      ],
+      "publishedAt": "2026-10-23T15:30:00+08:00",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-h1-2026-general-business-20261023",
+      "originalUrl": "https://hk.on.cc/hk/bkn/cnt/finance/20261023/bkn-20261023153058824-1023_00842_001.html"
+    },
+    {
+      "id": "ian-prudential-flint-transparency-20261023",
+      "title": "保诚主席：行业须对承担的风险保持透明　从卖产品转向长期伙伴",
+      "sourceTier": "insurer",
+      "themes": [
+        "分红实现率",
+        "长期保障",
+        "公司战略"
+      ],
+      "publishedAt": "2026-10-23T15:30:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-prudential-flint-transparency-20261023",
+      "originalUrl": "https://insuranceasianews.com/changing-economics-of-insurance-call-for-transparency-long-term-view/"
+    },
+    {
+      "id": "govhk-fstb-wealth-award-20261023",
+      "title": "财库局：香港管理资产42.2万亿创新高　单一家办逾3380间",
+      "sourceTier": "official",
+      "themes": [
+        "家族办公室",
+        "财富管理",
+        "税制优化"
+      ],
+      "publishedAt": "2026-10-23T14:20:00+08:00",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=govhk-fstb-wealth-award-20261023",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202610/23/P2026102300457.htm"
+    },
+    {
+      "id": "ian-aia-moncreiffe-regional-ceo-20261023",
+      "title": "友邦委任汇丰保险前CEO掌印度、斯里兰卡、澳纽区域",
+      "sourceTier": "insurer",
+      "themes": [
+        "人事变动",
+        "区域策略"
+      ],
+      "publishedAt": "2026-10-23T11:41:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-aia-moncreiffe-regional-ceo-20261023",
+      "originalUrl": "https://insuranceasianews.com/edward-moncreiffe-joins-aia-as-regional-ceo-for-india-sri-lanka-australia-and-new-zealand/"
+    },
+    {
+      "id": "iaasia-chubb-q3-2026-20261023",
+      "title": "安达第三季净利28亿美元微升　前九个月80亿升12.9%",
+      "sourceTier": "pro",
+      "themes": [
+        "业绩",
+        "综合成本率",
+        "全球保险"
+      ],
+      "publishedAt": "2026-10-23T06:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-chubb-q3-2026-20261023",
+      "originalUrl": "https://insuranceasia.com/insurance/news/chubb-q3-2026-net-income-rises-15-3b"
+    },
+    {
+      "id": "iaasia-cfc-sme-cyber-gap-20261023",
+      "title": "CFC研究：七成中小企不知网络险覆盖人为失误",
+      "sourceTier": "pro",
+      "themes": [
+        "网络安全",
+        "中小企业",
+        "保障缺口"
+      ],
+      "publishedAt": "2026-10-23T05:15:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-cfc-sme-cyber-gap-20261023",
+      "originalUrl": "https://insuranceasia.com/insurance/news/seven-in-10-smes-overlook-cyber-insurance-cover-human-error"
+    },
     {
       "id": "ibm-osaka-broker-vendor-cyber-20261022",
       "title": "大阪券商外包商遭入侵致未授权交易　第三方网络责任归属再受关注",
