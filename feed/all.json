@@ -1,9 +1,65 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-23T17:00:15Z",
-  "itemCount": 1537,
+  "generatedAt": "2026-10-24T18:03:25Z",
+  "itemCount": 1543,
   "items": [
+    {
+      "id": "ian-fullcapacity-captive-race-20261024",
+      "title": "亚洲监管竞逐专属自保　香港拟修例引入PCC、目标一年半内翻倍",
+      "sourceTier": "pro",
+      "themes": [
+        "专属自保",
+        "PCC",
+        "风险管理中心"
+      ],
+      "publishedAt": "2026-10-24T16:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-fullcapacity-captive-race-20261024",
+      "originalUrl": "https://insuranceasianews.com/asian-regulators-race-to-unlock-the-captive-boom/"
+    },
+    {
+      "id": "scmp-hsbc-abu-dhabi-wealth-centre-20261024",
+      "title": "滙豐12月在阿布扎比开财富中心　称中东高净值需求未受战事拖累",
+      "sourceTier": "media",
+      "themes": [
+        "家族办公室",
+        "财富管理",
+        "中东"
+      ],
+      "publishedAt": "2026-10-24T14:00:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-hsbc-abu-dhabi-wealth-centre-20261024",
+      "originalUrl": "https://www.scmp.com/business/article/3371958/hsbc-open-new-wealth-centre-abu-dhabi-despite-regional-conflict"
+    },
+    {
+      "id": "ibm-hk-gi-253-pecuniary-loss-20261024",
+      "title": "香港一般险承保利润升253%　一条 pecuniary loss 由蚀3亿转赚31亿",
+      "sourceTier": "media",
+      "themes": [
+        "一般险",
+        "承保利润",
+        "按揭保证"
+      ],
+      "publishedAt": "2026-10-24T01:34:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-hk-gi-253-pecuniary-loss-20261024",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/hong-kong-insurance-underwriting-profit-surges-253-as-market-posts-573-6b-in-premiums-594814.aspx"
+    },
+    {
+      "id": "ibm-china-15fyp-insurance-roadmap-20261024",
+      "title": "内地保险业「十五五」路线图出炉　主线扩大外资参与、再保分出首破千亿",
+      "sourceTier": "media",
+      "themes": [
+        "十五五",
+        "对外开放",
+        "再保险"
+      ],
+      "publishedAt": "2026-10-24T01:14:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-china-15fyp-insurance-roadmap-20261024",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/foreign-brokers-gain-wider-access-in-chinas-us850bn-insurance-market-594812.aspx"
+    },
     {
       "id": "artemis-catbond-20bn-pace-20261023",
       "title": "巨灾债券今年发行已逾189亿美元　有望第二个破200亿年份",
@@ -31,6 +87,20 @@
       "score": 73,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-moodys-life-ai-exposure-20261023",
       "originalUrl": "https://www.reinsurancene.ws/us-life-insurers-increase-ai-investments-as-exposure-risks-grow-says-moodys/"
+    },
+    {
+      "id": "ibm-bangladesh-idra-cooling-off-20261023",
+      "title": "孟加拉IDRA：保司理赔慢　经纪对新客出单最长被冻结180天",
+      "sourceTier": "media",
+      "themes": [
+        "理赔监管",
+        "分销限制",
+        "亚洲市场"
+      ],
+      "publishedAt": "2026-10-23T23:45:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-bangladesh-idra-cooling-off-20261023",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/bangladesh-claims-delays-now-block-brokers-from-writing-new-policies-594791.aspx"
     },
     {
       "id": "rn-isometric-marsh-carbon-framework-20261023",
@@ -142,6 +212,20 @@
       "score": 78,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-aia-moncreiffe-regional-ceo-20261023",
       "originalUrl": "https://insuranceasianews.com/edward-moncreiffe-joins-aia-as-regional-ceo-for-india-sri-lanka-australia-and-new-zealand/"
+    },
+    {
+      "id": "ibm-willis-defence-security-unit-20261023",
+      "title": "韦莱设全球国防与安全专组　亚洲军费2025年升8.1%至6810亿美元",
+      "sourceTier": "media",
+      "themes": [
+        "国防保险",
+        "特殊风险",
+        "军费"
+      ],
+      "publishedAt": "2026-10-23T11:37:00+08:00",
+      "score": 63,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-willis-defence-security-unit-20261023",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/willis-launches-defence-unit-as-asian-spending-hits-record-rise-594694.aspx"
     },
     {
       "id": "iaasia-chubb-q3-2026-20261023",

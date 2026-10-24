@@ -32,3 +32,5 @@ data/_staging/
 
 # 采集原始缓存目录（2026-10-21 起不入库）
 data/_10*_*/
+data/_raw_*/
+data/.last-check-backup-*.json
