@@ -1,9 +1,149 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-26T00:31:41Z",
-  "itemCount": 1549,
+  "generatedAt": "2026-10-26T13:13:15Z",
+  "itemCount": 1559,
   "items": [
+    {
+      "id": "scmp-premium-financing-tightening-20261026",
+      "title": "保监局收紧保费融资监管　点名「分红保单＋保费融资＋跨币套利」组合",
+      "sourceTier": "media",
+      "themes": [
+        "保费融资",
+        "监管收紧",
+        "高净值"
+      ],
+      "publishedAt": "2026-10-26T09:00:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-premium-financing-tightening-20261026",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3372009/hong-kong-tighten-burgeoning-premium-financing-market-red-flags-risks-emerge"
+    },
+    {
+      "id": "scmp-tokenised-funds-secondary-trading-20261026",
+      "title": "香港全球首例代币化公募基金二手交易　货币市场基金可全天候买卖",
+      "sourceTier": "media",
+      "themes": [
+        "代币化",
+        "虚拟资产",
+        "公募基金"
+      ],
+      "publishedAt": "2026-10-26T18:01:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-tokenised-funds-secondary-trading-20261026",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3372176/global-first-hong-kong-opens-secondary-trading-tokenised-public-funds"
+    },
+    {
+      "id": "ian-lloyds-china-leadership-reshuffle-20261026",
+      "title": "劳合社中国高层重组获监管批准　Furen Shen 任 CEO、Yuanbiao Sun 升董事长",
+      "sourceTier": "pro",
+      "themes": [
+        "劳合社",
+        "内地市场",
+        "人事"
+      ],
+      "publishedAt": "2026-10-26T14:35:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-lloyds-china-leadership-reshuffle-20261026",
+      "originalUrl": "https://insuranceasianews.com/lloyds-china-unveils-new-leadership-team-as-regulator-approves-appointments/"
+    },
+    {
+      "id": "ian-korea-state-reinsurance-backstop-20261026",
+      "title": "韩国拟设国家级再保兜底　承保风暴、洪水与地震",
+      "sourceTier": "pro",
+      "themes": [
+        "巨灾风险",
+        "再保",
+        "监管"
+      ],
+      "publishedAt": "2026-10-26T13:22:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-korea-state-reinsurance-backstop-20261026",
+      "originalUrl": "https://insuranceasianews.com/south-korea-plans-state-reinsurance-backstop-for-storm-flood-earthquake-cover/"
+    },
+    {
+      "id": "ian-wtw-hong-kong-ict-lead-20261026",
+      "title": "韦莱韬悦香港委任 Greg Solomon 掌保险咨询与科技业务",
+      "sourceTier": "pro",
+      "themes": [
+        "人事",
+        "香港市场",
+        "再保"
+      ],
+      "publishedAt": "2026-10-26T10:17:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-wtw-hong-kong-ict-lead-20261026",
+      "originalUrl": "https://insuranceasianews.com/greg-solomon-rejoins-wtw-as-hong-kong-ict-market-leader/"
+    },
+    {
+      "id": "ian-marsh-captive-strategy-lead-20261026",
+      "title": "达信新设专属自保策略条线　Shawn Willis 升任主管",
+      "sourceTier": "pro",
+      "themes": [
+        "专属自保",
+        "经纪",
+        "亚洲市场"
+      ],
+      "publishedAt": "2026-10-26T14:28:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-marsh-captive-strategy-lead-20261026",
+      "originalUrl": "https://insuranceasianews.com/marsh-promotes-shawn-willis-to-lead-newly-formed-captive-strategy/"
+    },
+    {
+      "id": "insuranceasia-ai-claims-decision-redline-20261026",
+      "title": "标普调查：81% 险企优先自动化　仅 8% 全面落地 AI，理赔决策是红线",
+      "sourceTier": "media",
+      "themes": [
+        "人工智能",
+        "理赔",
+        "行业调查"
+      ],
+      "publishedAt": "2026-10-26T09:50:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-ai-claims-decision-redline-20261026",
+      "originalUrl": "https://insuranceasia.com/insurance/expert-opinion/how-can-insurers-use-ai-without-letting-it-decide-claims"
+    },
+    {
+      "id": "hkma-hkmc-interim-results-2026-20261026",
+      "title": "按揭证券公司中期业绩：年金业务上半年仅 3,528 张、保费 28 亿",
+      "sourceTier": "official",
+      "themes": [
+        "退休规划",
+        "年金",
+        "债券市场"
+      ],
+      "publishedAt": "2026-10-26",
+      "score": 87,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-hkmc-interim-results-2026-20261026",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261026-3/"
+    },
+    {
+      "id": "govhk-fintech-steering-group-6th-meeting-20261026",
+      "title": "金融科技项目执行统筹小组第六次会议　议虚拟资产拟议监管制度与 AI 应用",
+      "sourceTier": "official",
+      "themes": [
+        "金融科技",
+        "虚拟资产监管",
+        "人工智能"
+      ],
+      "publishedAt": "2026-10-26T18:00:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=govhk-fintech-steering-group-6th-meeting-20261026",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202610/26/P2026102600464.htm"
+    },
+    {
+      "id": "artemis-hannover-acorn-re-450m-parametric-20261026",
+      "title": "汉诺威再 Acorn Re 参数地震巨灾债券加码至 4.5 亿美元　定价 2%",
+      "sourceTier": "pro",
+      "themes": [
+        "巨灾债券",
+        "参数保险",
+        "再保"
+      ],
+      "publishedAt": "2026-10-26T17:00:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-hannover-acorn-re-450m-parametric-20261026",
+      "originalUrl": "https://www.artemis.bm/news/hannover-re-secures-125-upsized-450m-acorn-re-parametric-cat-bond/"
+    },
     {
       "id": "scmp-goldman-asia-wealth-hiring-20261026",
       "title": "高盛亚洲加码招聘财富顾问　称富豪家族转向美元资产、AI造新富",
