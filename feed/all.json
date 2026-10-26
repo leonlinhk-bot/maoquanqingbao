@@ -1,9 +1,65 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-26T13:13:15Z",
-  "itemCount": 1559,
+  "generatedAt": "2026-10-26T16:31:59Z",
+  "itemCount": 1563,
   "items": [
+    {
+      "id": "reinsurancenews-brown-brown-compass-ai-20261027",
+      "title": "布朗保险推出 COMPASS 智能生态　把数据与 AI 接到核保决策",
+      "sourceTier": "pro",
+      "themes": [
+        "AI应用",
+        "经纪数字化",
+        "数据分析"
+      ],
+      "publishedAt": "2026-10-27T00:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=reinsurancenews-brown-brown-compass-ai-20261027",
+      "originalUrl": "https://www.reinsurancene.ws/brown-brown-launches-connected-intelligence-ecosystem-to-improve-insurance-decisions/"
+    },
+    {
+      "id": "reinsurancenews-synthetik-marsh-re-cityscape-20261026",
+      "title": "Marsh Re 与 Synthetik 续约三年　城市爆炸与恐袭累积建模续用 CityScape",
+      "sourceTier": "pro",
+      "themes": [
+        "恐怖主义风险",
+        "巨灾建模",
+        "再保"
+      ],
+      "publishedAt": "2026-10-26T22:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=reinsurancenews-synthetik-marsh-re-cityscape-20261026",
+      "originalUrl": "https://www.reinsurancene.ws/synthetik-and-marsh-re-extend-cityscape-collaboration/"
+    },
+    {
+      "id": "artemis-hcma-sidecars-data-centres-2027-20261026",
+      "title": "Howden 资本市场主管：2027 年侧挂车与数据中心是两大机会",
+      "sourceTier": "pro",
+      "themes": [
+        "ILS",
+        "侧挂车",
+        "数据中心"
+      ],
+      "publishedAt": "2026-10-26T22:00:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-hcma-sidecars-data-centres-2027-20261026",
+      "originalUrl": "https://www.artemis.bm/news/sidecars-and-data-centres-key-opportunity-areas-for-hcma-in-2027-ceo-madea/"
+    },
+    {
+      "id": "scmp-china-offshore-trust-tax-disclosure-20261026",
+      "title": "内地税务局发通知追查离岸信托　90 天宽限期届满",
+      "sourceTier": "media",
+      "themes": [
+        "跨境税务",
+        "离岸信托",
+        "高净值"
+      ],
+      "publishedAt": "2026-10-26T21:30:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-china-offshore-trust-tax-disclosure-20261026",
+      "originalUrl": "https://www.scmp.com/economy/china-economy/article/3372178/chinas-tax-offices-issue-disclosure-orders-offshore-asset-grace-period-ends"
+    },
     {
       "id": "scmp-premium-financing-tightening-20261026",
       "title": "保监局收紧保费融资监管　点名「分红保单＋保费融资＋跨币套利」组合",
