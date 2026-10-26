@@ -1,9 +1,93 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-24T18:03:25Z",
-  "itemCount": 1543,
+  "generatedAt": "2026-10-26T00:31:41Z",
+  "itemCount": 1549,
   "items": [
+    {
+      "id": "scmp-goldman-asia-wealth-hiring-20261026",
+      "title": "高盛亚洲加码招聘财富顾问　称富豪家族转向美元资产、AI造新富",
+      "sourceTier": "media",
+      "themes": [
+        "财富管理",
+        "家族办公室",
+        "高净值"
+      ],
+      "publishedAt": "2026-10-26T08:00:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-goldman-asia-wealth-hiring-20261026",
+      "originalUrl": "https://www.scmp.com/business/china-business/article/3372055/goldman-sachs-steps-asia-hiring-wealthy-clients-eye-us-assets-diversification"
+    },
+    {
+      "id": "ian-energy-transition-parametric-basis-risk-20261026",
+      "title": "能源转型重塑承保风险　参数保险走向主流、基差风险仍是硬伤",
+      "sourceTier": "pro",
+      "themes": [
+        "能源转型",
+        "参数保险",
+        "基差风险"
+      ],
+      "publishedAt": "2026-10-26T07:30:52+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-energy-transition-parametric-basis-risk-20261026",
+      "originalUrl": "https://insuranceasianews.com/231651-2/"
+    },
+    {
+      "id": "iasia-sme-cyber-3in10-uninsured-20261026",
+      "title": "三成未投保中小企自认不会被针对　GlobalData：AI把「低调」变成劣势",
+      "sourceTier": "media",
+      "themes": [
+        "网络安全险",
+        "中小企业",
+        "AI钓鱼"
+      ],
+      "publishedAt": "2026-10-26T06:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasia-sme-cyber-3in10-uninsured-20261026",
+      "originalUrl": "https://insuranceasia.com/insurance/news/3-in-10-uninsured-firms-dismiss-cyberattack-risks-globaldata"
+    },
+    {
+      "id": "iasia-jefferies-asia-life-regulatory-risk-20261026",
+      "title": "Jefferies：监管摩擦叠加高基数　AIA、保诚2026年增长承压",
+      "sourceTier": "pro",
+      "themes": [
+        "亚洲寿险",
+        "监管风险",
+        "估值"
+      ],
+      "publishedAt": "2026-10-26T05:45:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasia-jefferies-asia-life-regulatory-risk-20261026",
+      "originalUrl": "https://insuranceasia.com/insurance/news/regulatory-risks-threaten-asian-insurers-growth-jefferies"
+    },
+    {
+      "id": "iasia-pingan-good-doctor-ai-profit-20261026",
+      "title": "平安好医生首三季净利升35%　AI医生用户近1300万",
+      "sourceTier": "insurer",
+      "themes": [
+        "AI医疗",
+        "健康管理",
+        "平安"
+      ],
+      "publishedAt": "2026-10-26T05:30:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasia-pingan-good-doctor-ai-profit-20261026",
+      "originalUrl": "https://insuranceasia.com/insurance/news/ping-good-doctor-profit-rises-35-amidst-ai-healthcare-push"
+    },
+    {
+      "id": "iasia-gallagher-re-cat-losses-92b-20261026",
+      "title": "Gallagher Re：首三季保险损失约920亿美元　2019年以来最低",
+      "sourceTier": "pro",
+      "themes": [
+        "巨灾损失",
+        "再保容量",
+        "2027续保"
+      ],
+      "publishedAt": "2026-10-26T05:15:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasia-gallagher-re-cat-losses-92b-20261026",
+      "originalUrl": "https://insuranceasia.com/insurance/news/global-insured-catastrophe-losses-fall-92b-in-2026"
+    },
     {
       "id": "ian-fullcapacity-captive-race-20261024",
       "title": "亚洲监管竞逐专属自保　香港拟修例引入PCC、目标一年半内翻倍",
