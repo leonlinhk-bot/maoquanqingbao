@@ -1,9 +1,135 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-26T16:31:59Z",
-  "itemCount": 1563,
+  "generatedAt": "2026-10-27T10:10:52Z",
+  "itemCount": 1572,
   "items": [
+    {
+      "id": "ibm-hk-broker-wealth-gap-20261027",
+      "title": "香港中介渠道主导新造　85%想传承仅10%有书面计划",
+      "sourceTier": "media",
+      "themes": [
+        "经纪渠道",
+        "财富传承",
+        "新造保费"
+      ],
+      "publishedAt": "2026-10-27",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-hk-broker-wealth-gap-20261027",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/hong-kong-broker-channel-dominates-as-wealth-planning-gaps-grow-594958.aspx"
+    },
+    {
+      "id": "ibm-anthropic-ipo-ai-liability-20261027",
+      "title": "Anthropic 招股书自认 AI 或带来存续风险　三类伤害对应三条险种却无干净答案",
+      "sourceTier": "media",
+      "themes": [
+        "AI责任",
+        "网络保险",
+        "D&O"
+      ],
+      "publishedAt": "2026-10-27",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-anthropic-ipo-ai-liability-20261027",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/anthropic-just-warned-its-ai-could-end-humanity--and-asiapacific-insurers-are-using-it-594963.aspx"
+    },
+    {
+      "id": "ibm-south-korea-whole-life-shift-20261027",
+      "title": "韩国保险增速腰斩　终身寿由身故给付转向生前给付",
+      "sourceTier": "media",
+      "themes": [
+        "产品转型",
+        "人口老化",
+        "监管"
+      ],
+      "publishedAt": "2026-10-27",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-south-korea-whole-life-shift-20261027",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/south-korea-insurance-slowdown-signals-product-shift-for-asiapacific-brokers-594949.aspx"
+    },
+    {
+      "id": "iasia-prudential-ai-operations-20261027",
+      "title": "保诚把 AI 铺到代理、营运与健康　香港 AI 核保问答由数天变数分钟",
+      "sourceTier": "media",
+      "themes": [
+        "AI应用",
+        "核保效率",
+        "代理赋能"
+      ],
+      "publishedAt": "2026-10-27T16:26:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasia-prudential-ai-operations-20261027",
+      "originalUrl": "https://insuranceasia.com/videos/prudential-embeds-ai-across-insurance-operations"
+    },
+    {
+      "id": "iasia-china-life-overseas-ai-investment-20261027",
+      "title": "中国人寿海外「星河」项目：AI 做投资分析与合规筛查　不碰配置决策",
+      "sourceTier": "media",
+      "themes": [
+        "AI应用",
+        "资产负债管理",
+        "投资"
+      ],
+      "publishedAt": "2026-10-27T12:17:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasia-china-life-overseas-ai-investment-20261027",
+      "originalUrl": "https://insuranceasia.com/videos/china-life-insurance-overseas-embeds-ai-in-investment-operations"
+    },
+    {
+      "id": "iasia-hkmc-mortgage-insurance-155b-20261027",
+      "title": "按保上半年新取用贷款 155 亿　跌约 11%、七成三涉二手楼",
+      "sourceTier": "media",
+      "themes": [
+        "按揭保险",
+        "楼市",
+        "按证局"
+      ],
+      "publishedAt": "2026-10-27T12:15:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasia-hkmc-mortgage-insurance-155b-20261027",
+      "originalUrl": "https://insuranceasia.com/news/hkmc-mortgage-insurance-loans-decline-155b-in-h1"
+    },
+    {
+      "id": "iasia-bocg-insurance-am-best-20261027",
+      "title": "中银集团保险展望稳定　三成投资压在与关联公司的非流动资产",
+      "sourceTier": "media",
+      "themes": [
+        "保险公司财务",
+        "信用评级",
+        "投资集中度"
+      ],
+      "publishedAt": "2026-10-27T06:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasia-bocg-insurance-am-best-20261027",
+      "originalUrl": "https://insuranceasia.com/insurance/news/bank-china-group-insurance-stays-stable-despite-investment-concentration"
+    },
+    {
+      "id": "iasia-marsh-hkland-climate-resilience-20261027",
+      "title": "Marsh 与置地：气候韧性设计令风暴潮预期损失降 84%",
+      "sourceTier": "media",
+      "themes": [
+        "气候风险",
+        "财产险",
+        "ESG"
+      ],
+      "publishedAt": "2026-10-27T05:30:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasia-marsh-hkland-climate-resilience-20261027",
+      "originalUrl": "https://insuranceasia.com/insurance/news/climate-resilient-buildings-curb-losses-insurers-tighten-cover"
+    },
+    {
+      "id": "iasia-liberty-hk-ceo-sze-20261027",
+      "title": "Liberty 香港 CEO：个人险与特殊险已并成一家　AI 不替代人的判断",
+      "sourceTier": "media",
+      "themes": [
+        "高管观点",
+        "业务整合",
+        "AI应用"
+      ],
+      "publishedAt": "2026-10-27T05:15:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iasia-liberty-hk-ceo-sze-20261027",
+      "originalUrl": "https://insuranceasia.com/insurance/exclusive/executive-hot-seat-cynthia-sze-ceo-liberty-hong-kong"
+    },
     {
       "id": "reinsurancenews-brown-brown-compass-ai-20261027",
       "title": "布朗保险推出 COMPASS 智能生态　把数据与 AI 接到核保决策",

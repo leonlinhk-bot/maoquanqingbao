@@ -630,10 +630,10 @@
       "tc": "情報密度"
     },
     "subtitle": {
-      "sc": "自动从 1563 条资讯聚合 · sourceKey 标准化完成",
-      "tc": "自動從 1563 條資訊聚合 · sourceKey 標準化完成"
+      "sc": "自动从 1572 条资讯聚合 · sourceKey 标准化完成",
+      "tc": "自動從 1572 條資訊聚合 · sourceKey 標準化完成"
     },
-    "totalItems": 1563,
+    "totalItems": 1572,
     "sourceTiers": [
       {
         "tier": "official",
@@ -652,7 +652,7 @@
       },
       {
         "tier": "media",
-        "count": 565,
+        "count": 574,
         "label": "媒体报道"
       },
       {
