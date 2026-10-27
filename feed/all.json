@@ -1,9 +1,51 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-27T10:10:52Z",
-  "itemCount": 1572,
+  "generatedAt": "2026-10-27T13:12:20Z",
+  "itemCount": 1575,
   "items": [
+    {
+      "id": "ian-moodys-apac-repricing-20261027",
+      "title": "穆迪：亚太险企靠重新定价守住盈利　天气损失占比上升是长期压力",
+      "sourceTier": "pro",
+      "themes": [
+        "重新定价",
+        "气候损失",
+        "资本充足"
+      ],
+      "publishedAt": "2026-10-27T14:17:57+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-moodys-apac-repricing-20261027",
+      "originalUrl": "https://insuranceasianews.com/apac-insurers-ability-to-reprice-risks-will-help-preserve-profitability-moodys/"
+    },
+    {
+      "id": "ian-blackrock-captives-third-party-capital-20261027",
+      "title": "贝莱德：在岸专属自保与第三方资本　亚太将快速扩张",
+      "sourceTier": "pro",
+      "themes": [
+        "专属自保",
+        "第三方资本",
+        "监管资本"
+      ],
+      "publishedAt": "2026-10-27T12:36:20+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-blackrock-captives-third-party-capital-20261027",
+      "originalUrl": "https://insuranceasianews.com/onshore-captives-third-party-capital-primed-for-rapid-growth-in-apac-blackrock/"
+    },
+    {
+      "id": "ian-php2shell-cyber-ai-visibility-20261027",
+      "title": "「看不见就修不了」　网络险业者：PHP2Shell 大规模关站是分水岭",
+      "sourceTier": "pro",
+      "themes": [
+        "网络保险",
+        "AI风险",
+        "资产可视性"
+      ],
+      "publishedAt": "2026-10-27T07:30:28+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-php2shell-cyber-ai-visibility-20261027",
+      "originalUrl": "https://insuranceasianews.com/you-cant-fix-what-you-cant-see-cyber-insurers-warn-php2shell-website-shutdowns-highlight-ai-impact/"
+    },
     {
       "id": "ibm-hk-broker-wealth-gap-20261027",
       "title": "香港中介渠道主导新造　85%想传承仅10%有书面计划",
