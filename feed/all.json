@@ -1,9 +1,149 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-28T02:14:33Z",
-  "itemCount": 1582,
+  "generatedAt": "2026-10-28T17:36:43Z",
+  "itemCount": 1592,
   "items": [
+    {
+      "id": "art-renre-ils-broker-facilities-20261029",
+      "title": "RenaissanceRe CEO：ILS 资本版图演变是机会　经纪自设平台只挤压小玩家",
+      "sourceTier": "media",
+      "themes": [
+        "ILS资本",
+        "再保险",
+        "中介格局"
+      ],
+      "publishedAt": "2026-10-29T00:17:00+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=art-renre-ils-broker-facilities-20261029",
+      "originalUrl": "https://www.artemis.bm/news/evolving-ils-capital-landscape-an-opportunity-broker-facilities-no-threat-renre-ceo-odonnell/"
+    },
+    {
+      "id": "art-aon-ceo-capital-beyond-traditional-20261028",
+      "title": "Aon CEO：客户风险需求已超出传统(再)保市场　须接上另类资本",
+      "sourceTier": "media",
+      "themes": [
+        "另类资本",
+        "经纪战略",
+        "风险需求"
+      ],
+      "publishedAt": "2026-10-28T21:04:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=art-aon-ceo-capital-beyond-traditional-20261028",
+      "originalUrl": "https://www.artemis.bm/news/scale-of-client-needs-requires-us-to-connect-risk-with-capital-beyond-traditional-aon-ceo-case/"
+    },
+    {
+      "id": "art-vig-re-charles-bridge-re-20261028",
+      "title": "VIG Re 首度发起巨灾债券　Charles Bridge Re 2026 募 5,000 万欧元欧风再保",
+      "sourceTier": "media",
+      "themes": [
+        "巨灾债券",
+        "欧洲风灾",
+        "ILS发行"
+      ],
+      "publishedAt": "2026-10-28T19:00:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=art-vig-re-charles-bridge-re-20261028",
+      "originalUrl": "https://www.artemis.bm/news/vig-re-seeks-e50m-euro-wind-retro-with-debut-charles-bridge-re-cat-bond-sponsorship/"
+    },
+    {
+      "id": "ian-starr-zoe-xie-apac-distribution-20261028",
+      "title": "Starr 委 Zoe Xie 出掌亚太分销及策略计划　从 AXA XL 过档、驻新加坡",
+      "sourceTier": "media",
+      "themes": [
+        "人事变动",
+        "分销策略",
+        "亚太"
+      ],
+      "publishedAt": "2026-10-28T21:41:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-starr-zoe-xie-apac-distribution-20261028",
+      "originalUrl": "https://insuranceasianews.com/starr-names-zoe-xie-as-apac-head-of-distribution-strategic-initiatives/"
+    },
+    {
+      "id": "ibm-aon-debt-usi-close-20261028",
+      "title": "Aon 负债九个月增 116 亿美元　USI 170 亿美元收购年底前完成、回购暂停",
+      "sourceTier": "media",
+      "themes": [
+        "并购整合",
+        "经纪格局",
+        "财务杠杆"
+      ],
+      "publishedAt": "2026-10-28T18:59:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-aon-debt-usi-close-20261028",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/aons-debt-nearly-doubles-as-usi-close-approaches-595259.aspx"
+    },
+    {
+      "id": "ibm-ai-writing-gender-study-20261028",
+      "title": "约翰霍普金斯研究：提示词带女性化用词　AI 产出更浅白、更不正式",
+      "sourceTier": "media",
+      "themes": [
+        "AI治理",
+        "提示词质量",
+        "模型偏见"
+      ],
+      "publishedAt": "2026-10-28T22:45:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-ai-writing-gender-study-20261028",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/business-strategy/ai-tools-may-make-women-sound-less-sophisticated-at-work-595296.aspx"
+    },
+    {
+      "id": "rn-arch-q3-reinsurance-20261028",
+      "title": "Arch 再保第三季承保利润 3.93 亿美元　净保费跌、综合成本率升至 78.3%",
+      "sourceTier": "media",
+      "themes": [
+        "再保险定价",
+        "承保周期",
+        "财报"
+      ],
+      "publishedAt": "2026-10-28T18:00:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-arch-q3-reinsurance-20261028",
+      "originalUrl": "https://www.reinsurancene.ws/archs-reinsurance-unit-delivers-393m-underwriting-profit-in-q326-despite-lower-premiums/"
+    },
+    {
+      "id": "ian-peak-re-sp-a-rating-20261028",
+      "title": "标普首予鼎睿再保险 A- 评级　认定信用状况与母公司复星「脱钩」",
+      "sourceTier": "pro",
+      "themes": [
+        "评级",
+        "资本实力",
+        "再保险"
+      ],
+      "publishedAt": "2026-10-28T16:46:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-peak-re-sp-a-rating-20261028",
+      "originalUrl": "https://insuranceasianews.com/sp-assigns-peak-re-first-time-a-rating-insulated-from-fosun/"
+    },
+    {
+      "id": "artemis-renre-lighthouse-cat-bond-fund-20261028",
+      "title": "再保巨灾资本继续吸金　RenRe 第三季为新巨灾债券基金募 1.5 亿美元",
+      "sourceTier": "media",
+      "themes": [
+        "巨灾债券",
+        "第三方资本",
+        "另类投资"
+      ],
+      "publishedAt": "2026-10-28T16:00:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-renre-lighthouse-cat-bond-fund-20261028",
+      "originalUrl": "https://www.artemis.bm/news/renre-raised-150m-for-new-lighthouse-cat-bond-fund-reports-81-7m-of-q3-fee-income/"
+    },
+    {
+      "id": "hkma-one-earth-climate-taxonomy-20261028",
+      "title": "金管局：分类目录 Phase 2B 纳入 28 项气候适应措施　去年 14 个台风、五度黑雨均创纪录",
+      "sourceTier": "official",
+      "themes": [
+        "气候适应",
+        "可持续金融",
+        "财产险"
+      ],
+      "publishedAt": "2026-10-28",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-one-earth-climate-taxonomy-20261028",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/speeches/2026/10/20261028-1/"
+    },
     {
       "id": "ia-hk-q2-premium-boom-jefferies-20261028",
       "title": "Jefferies：香港次季寿险保费升89%　新单件数反跌6%",

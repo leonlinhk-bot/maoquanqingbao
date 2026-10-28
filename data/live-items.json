@@ -1,11 +1,11 @@
 {
   "meta": {
     "product": "猫圈儿港险情报站",
-    "generatedAt": "2026-10-28T10:14:25+08:00",
-    "itemCount": 1582,
+    "generatedAt": "2026-10-29T01:33:00+08:00",
+    "itemCount": 1592,
     "windowNote": {
-      "sc": "本库1582条。",
-      "tc": "本庫1582條。"
+      "sc": "本库1592条。",
+      "tc": "本庫1592條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -325,6 +325,828 @@
     "ia-20260712-speech"
   ],
   "items": [
+    {
+      "id": "art-renre-ils-broker-facilities-20261029",
+      "clusterCount": 1,
+      "verifyStatus": "verified",
+      "contentKind": "news",
+      "ingestedAt": "2026-10-29T01:33:00+08:00",
+      "publishedAt": "2026-10-29T00:17:00+08:00",
+      "originalUrl": "https://www.artemis.bm/news/evolving-ils-capital-landscape-an-opportunity-broker-facilities-no-threat-renre-ceo-odonnell/",
+      "sourceKey": "artemis",
+      "sourceTier": "media",
+      "score": 65,
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "ILS资本",
+        "再保险",
+        "中介格局"
+      ],
+      "title": {
+        "sc": "RenaissanceRe CEO：ILS 资本版图演变是机会　经纪自设平台只挤压小玩家",
+        "tc": "RenaissanceRe CEO：ILS 資本版圖演變是機會　經紀自設平台只擠壓小玩家"
+      },
+      "summary": {
+        "sc": "RenaissanceRe 行政总裁 Kevin O'Donnell 在第三季业绩会表示，保险相连证券（ILS）资本格局的演变对再保公司是机会；对经纪自设承保平台（broker facilities），他认为其影响是挤压市场中的小型参与者，对 RenRe 本身不构成威胁。[EN原文]",
+        "tc": "RenaissanceRe 行政總裁 Kevin O'Donnell 在第三季業績會表示，保險相連證券（ILS）資本格局的演變對再保公司是機會；對經紀自設承保平台（broker facilities），他認為其影響是擠壓市場中的小型參與者，對 RenRe 本身不構成威脅。[EN原文]"
+      },
+      "why": {
+        "sc": "同一日 RenRe 才公布为新巨灾债券基金募资 1.5 亿美元——ILS 与经纪平台正在重排再保食物链。香港在做 ILS 枢纽，这条给的是「谁被替代、谁不被替代」的当事人视角。",
+        "tc": "同一日 RenRe 才公布為新巨災債券基金募資 1.5 億美元——ILS 與經紀平台正在重排再保食物鏈。香港在做 ILS 樞紐，這條給的是「誰被替代、誰不被替代」的當事人視角。"
+      },
+      "tags": {
+        "sc": [
+          "RenaissanceRe",
+          "ILS",
+          "经纪平台",
+          "再保险"
+        ],
+        "tc": [
+          "RenaissanceRe",
+          "ILS",
+          "經紀平台",
+          "再保險"
+        ]
+      },
+      "actions": {
+        "front": {
+          "sc": "客户沟通：再保资本来源多元化",
+          "tc": "客戶溝通：再保資本來源多元化"
+        },
+        "midback": {
+          "sc": "研究：经纪自设平台对再保市场结构的影响",
+          "tc": "研究：經紀自設平台對再保市場結構的影響"
+        },
+        "lead": {
+          "sc": "团队简报：香港 ILS 枢纽的实际进展",
+          "tc": "團隊簡報：香港 ILS 樞紐的實際進展"
+        },
+        "cross": {
+          "sc": "全球资本与亚洲中介格局",
+          "tc": "全球資本與亞洲中介格局"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 3,
+        "lead": 2,
+        "cross": 3
+      },
+      "source": {
+        "sc": "Artemis 2026-10-29",
+        "tc": "Artemis 2026-10-29",
+        "name": "artemis",
+        "date": "2026-10-29",
+        "lang": "en"
+      },
+      "lang": "en",
+      "summaryShort": {
+        "sc": "RenaissanceRe 行政总裁 Kevin O'Donnell 在第三季业绩会表示，保险相连证券（ILS）资本格局的演变对再保公司是机会；对经纪自设承保平台（broker facilities），他认为其影响是挤压市场中的小型参与者，…",
+        "tc": "RenaissanceRe 行政總裁 Kevin O'Donnell 在第三季業績會表示，保險相連證券（ILS）資本格局的演變對再保公司是機會；對經紀自設承保平台（broker facilities），他認為其影響是擠壓市場中的小型參與者，…"
+      }
+    },
+    {
+      "id": "art-aon-ceo-capital-beyond-traditional-20261028",
+      "clusterCount": 1,
+      "verifyStatus": "verified",
+      "contentKind": "news",
+      "ingestedAt": "2026-10-29T01:33:00+08:00",
+      "publishedAt": "2026-10-28T21:04:00+08:00",
+      "originalUrl": "https://www.artemis.bm/news/scale-of-client-needs-requires-us-to-connect-risk-with-capital-beyond-traditional-aon-ceo-case/",
+      "sourceKey": "artemis",
+      "sourceTier": "media",
+      "score": 62,
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "另类资本",
+        "经纪战略",
+        "风险需求"
+      ],
+      "title": {
+        "sc": "Aon CEO：客户风险需求已超出传统(再)保市场　须接上另类资本",
+        "tc": "Aon CEO：客戶風險需求已超出傳統(再)保市場　須接上另類資本"
+      },
+      "summary": {
+        "sc": "Aon 行政总裁 Greg Case 在第三季业绩会表示，客户新兴风险的规模已非传统保险与再保市场所能承接，集团因此要主动对接另类资产管理者等场外资本，并提到近期与另类资产管理公司建立的合作关系。[EN原文]",
+        "tc": "Aon 行政總裁 Greg Case 在第三季業績會表示，客戶新興風險的規模已非傳統保險與再保市場所能承接，集團因此要主動對接另類資產管理者等場外資本，並提到近期與另類資產管理公司建立的合作關係。[EN原文]"
+      },
+      "why": {
+        "sc": "头部经纪把「资本对接」写进战略：客户将来问的不只是保额与保费，还有「这类风险究竟谁能承保」。做高客与大额商业风险的人，可据此理解经纪议价能力的来源。",
+        "tc": "頭部經紀把「資本對接」寫進戰略：客戶將來問的不只是保額與保費，還有「這類風險究竟誰能承保」。做高客與大額商業風險的人，可據此理解經紀議價能力的來源。"
+      },
+      "tags": {
+        "sc": [
+          "Aon",
+          "另类资本",
+          "经纪战略",
+          "高客风险"
+        ],
+        "tc": [
+          "Aon",
+          "另類資本",
+          "經紀戰略",
+          "高客風險"
+        ]
+      },
+      "actions": {
+        "front": {
+          "sc": "客户沟通：传统保额之外的解决方案",
+          "tc": "客戶溝通：傳統保額之外的解決方案"
+        },
+        "midback": {
+          "sc": "研究：另类资本进入保险风险的路径",
+          "tc": "研究：另類資本進入保險風險的路徑"
+        },
+        "lead": {
+          "sc": "团队简报：经纪角色的资本化转向",
+          "tc": "團隊簡報：經紀角色的資本化轉向"
+        },
+        "cross": {
+          "sc": "保险与资管边界模糊化",
+          "tc": "保險與資管邊界模糊化"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 3,
+        "lead": 2,
+        "cross": 3
+      },
+      "source": {
+        "sc": "Artemis 2026-10-28",
+        "tc": "Artemis 2026-10-28",
+        "name": "artemis",
+        "date": "2026-10-28",
+        "lang": "en"
+      },
+      "lang": "en",
+      "summaryShort": {
+        "sc": "Aon 行政总裁 Greg Case 在第三季业绩会表示，客户新兴风险的规模已非传统保险与再保市场所能承接，集团因此要主动对接另类资产管理者等场外资本，并提到近期与另类资产管理公司建立的合作关系。[EN原文]",
+        "tc": "Aon 行政總裁 Greg Case 在第三季業績會表示，客戶新興風險的規模已非傳統保險與再保市場所能承接，集團因此要主動對接另類資產管理者等場外資本，並提到近期與另類資產管理公司建立的合作關係。[EN原文]"
+      }
+    },
+    {
+      "id": "art-vig-re-charles-bridge-re-20261028",
+      "clusterCount": 1,
+      "verifyStatus": "verified",
+      "contentKind": "news",
+      "ingestedAt": "2026-10-29T01:33:00+08:00",
+      "publishedAt": "2026-10-28T19:00:00+08:00",
+      "originalUrl": "https://www.artemis.bm/news/vig-re-seeks-e50m-euro-wind-retro-with-debut-charles-bridge-re-cat-bond-sponsorship/",
+      "sourceKey": "artemis",
+      "sourceTier": "media",
+      "score": 64,
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "巨灾债券",
+        "欧洲风灾",
+        "ILS发行"
+      ],
+      "title": {
+        "sc": "VIG Re 首度发起巨灾债券　Charles Bridge Re 2026 募 5,000 万欧元欧风再保",
+        "tc": "VIG Re 首度發起巨災債券　Charles Bridge Re 2026 募 5,000 萬歐元歐風再保"
+      },
+      "summary": {
+        "sc": "维也纳保险集团旗下再保公司 VIG Re 首次进入巨灾债券市场，通过 Charles Bridge Re 2026 DAC 募集 5,000 万欧元或以上的全担保欧洲风灾回溯再保；交易完成后，2026 年新增发起人将达 15 家，追平去年纪录。[EN原文]",
+        "tc": "維也納保險集團旗下再保公司 VIG Re 首次進入巨災債券市場，通過 Charles Bridge Re 2026 DAC 募集 5,000 萬歐元或以上的全擔保歐洲風災回溯再保；交易完成後，2026 年新增發起人將達 15 家，追平去年紀錄。[EN原文]"
+      },
+      "why": {
+        "sc": "新发起人追平历史纪录，说明 ILS 已从「再保的补充」变成常规融资工具。香港刚落地首宗 sidecar 并研究自保与 ILS 配套，一级市场温度是判断本地生态能否做起来的先行指标。",
+        "tc": "新發起人追平歷史紀錄，說明 ILS 已從「再保的補充」變成常規融資工具。香港剛落地首宗 sidecar 並研究自保與 ILS 配套，一級市場溫度是判斷本地生態能否做起來的先行指標。"
+      },
+      "tags": {
+        "sc": [
+          "VIG Re",
+          "巨灾债券",
+          "欧洲风灾",
+          "ILS"
+        ],
+        "tc": [
+          "VIG Re",
+          "巨災債券",
+          "歐洲風災",
+          "ILS"
+        ]
+      },
+      "actions": {
+        "front": {
+          "sc": "客户沟通：再保价格的资金来源",
+          "tc": "客戶溝通：再保價格的資金來源"
+        },
+        "midback": {
+          "sc": "研究：欧洲风灾风险的资本市场定价",
+          "tc": "研究：歐洲風災風險的資本市場定價"
+        },
+        "lead": {
+          "sc": "团队简报：香港 ILS 生态进度",
+          "tc": "團隊簡報：香港 ILS 生態進度"
+        },
+        "cross": {
+          "sc": "香港与全球 ILS 市场互联",
+          "tc": "香港與全球 ILS 市場互聯"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 3,
+        "lead": 2,
+        "cross": 3
+      },
+      "source": {
+        "sc": "Artemis 2026-10-28",
+        "tc": "Artemis 2026-10-28",
+        "name": "artemis",
+        "date": "2026-10-28",
+        "lang": "en"
+      },
+      "lang": "en",
+      "summaryShort": {
+        "sc": "维也纳保险集团旗下再保公司 VIG Re 首次进入巨灾债券市场，通过 Charles Bridge Re 2026 DAC 募集 5,000 万欧元或以上的全担保欧洲风灾回溯再保；",
+        "tc": "維也納保險集團旗下再保公司 VIG Re 首次進入巨災債券市場，通過 Charles Bridge Re 2026 DAC 募集 5,000 萬歐元或以上的全擔保歐洲風災回溯再保；"
+      }
+    },
+    {
+      "id": "ian-starr-zoe-xie-apac-distribution-20261028",
+      "clusterCount": 1,
+      "verifyStatus": "pending",
+      "contentKind": "news",
+      "ingestedAt": "2026-10-29T01:33:00+08:00",
+      "publishedAt": "2026-10-28T21:41:00+08:00",
+      "originalUrl": "https://insuranceasianews.com/starr-names-zoe-xie-as-apac-head-of-distribution-strategic-initiatives/",
+      "sourceKey": "insuranceasianews",
+      "sourceTier": "media",
+      "score": 60,
+      "boards": [
+        "insurer"
+      ],
+      "themes": [
+        "人事变动",
+        "分销策略",
+        "亚太"
+      ],
+      "title": {
+        "sc": "Starr 委 Zoe Xie 出掌亚太分销及策略计划　从 AXA XL 过档、驻新加坡",
+        "tc": "Starr 委 Zoe Xie 出掌亞太分銷及策略計劃　從 AXA XL 過檔、駐新加坡"
+      },
+      "summary": {
+        "sc": "Starr 任命 Zoe Xie 为亚太区分销及策略计划主管，驻新加坡；她此前在 AXA XL 任职，消息经其 LinkedIn 更新公布。原文付费墙截断其后职位细节，暂标待复核。[EN原文]",
+        "tc": "Starr 任命 Zoe Xie 為亞太區分銷及策略計劃主管，駐新加坡；她此前在 AXA XL 任職，消息經其 LinkedIn 更新公布。原文付費牆截斷其後職位細節，暫標待覆核。[EN原文]"
+      },
+      "why": {
+        "sc": "外资保司在亚太重排分销与策略岗，与港险高客、跨境渠道的竞争直接相关。Starr 近月已在港、新两地连续补位，可留意其渠道打法是否向经纪与高客倾斜。",
+        "tc": "外資保司在亞太重排分銷與策略崗，與港險高客、跨境渠道的競爭直接相關。Starr 近月已在港、新兩地連續補位，可留意其渠道打法是否向經紀與高客傾斜。"
+      },
+      "tags": {
+        "sc": [
+          "Starr",
+          "人事任命",
+          "亚太分销",
+          "AXA XL"
+        ],
+        "tc": [
+          "Starr",
+          "人事任命",
+          "亞太分銷",
+          "AXA XL"
+        ]
+      },
+      "actions": {
+        "front": {
+          "sc": "客户沟通：留意承保与渠道对接人变动",
+          "tc": "客戶溝通：留意承保與渠道對接人變動"
+        },
+        "midback": {
+          "sc": "研究：外资保司亚太分销架构调整",
+          "tc": "研究：外資保司亞太分銷架構調整"
+        },
+        "lead": {
+          "sc": "团队简报：竞争对手渠道人事",
+          "tc": "團隊簡報：競爭對手渠道人事"
+        },
+        "cross": {
+          "sc": "新加坡与香港的区域分工",
+          "tc": "新加坡與香港的區域分工"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "InsuranceAsia News 2026-10-28",
+        "tc": "InsuranceAsia News 2026-10-28",
+        "name": "insuranceasianews",
+        "date": "2026-10-28",
+        "lang": "en"
+      },
+      "lang": "en",
+      "summaryShort": {
+        "sc": "Starr 任命 Zoe Xie 为亚太区分销及策略计划主管，驻新加坡；她此前在 AXA XL 任职，消息经其 LinkedIn 更新公布。原文付费墙截断其后职位细节，暂标待复核。[EN原文]",
+        "tc": "Starr 任命 Zoe Xie 為亞太區分銷及策略計劃主管，駐新加坡；她此前在 AXA XL 任職，消息經其 LinkedIn 更新公布。原文付費牆截斷其後職位細節，暫標待覆核。[EN原文]"
+      }
+    },
+    {
+      "id": "ibm-aon-debt-usi-close-20261028",
+      "clusterCount": 1,
+      "verifyStatus": "verified",
+      "contentKind": "news",
+      "ingestedAt": "2026-10-29T01:33:00+08:00",
+      "publishedAt": "2026-10-28T18:59:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/aons-debt-nearly-doubles-as-usi-close-approaches-595259.aspx",
+      "sourceKey": "insurancebusinessmag",
+      "sourceTier": "media",
+      "score": 60,
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "并购整合",
+        "经纪格局",
+        "财务杠杆"
+      ],
+      "title": {
+        "sc": "Aon 负债九个月增 116 亿美元　USI 170 亿美元收购年底前完成、回购暂停",
+        "tc": "Aon 負債九個月增 116 億美元　USI 170 億美元收購年底前完成、回購暫停"
+      },
+      "summary": {
+        "sc": "Aon 第三季自然增长 6%、调整后每股盈利 3.36 美元，但长期债务由 2025 年底 146.6 亿美元升至 9 月底 263.2 亿美元，主要来自 170 亿美元收购 USI 的融资；第三季未有回购，目标在交割后约 24 个月把杠杆降至 2.8–3.0 倍。[EN原文]",
+        "tc": "Aon 第三季自然增長 6%、調整後每股盈利 3.36 美元，但長期債務由 2025 年底 146.6 億美元升至 9 月底 263.2 億美元，主要來自 170 億美元收購 USI 的融資；第三季未有回購，目標在交割後約 24 個月把槓桿降至 2.8–3.0 倍。[EN原文]"
+      },
+      "why": {
+        "sc": "头部经纪两年内连吞 NFP 与 USI 约 300 亿美元标的，杠杆上升意味着整合期议价收紧、人员流动加剧。香港经纪的合作与挖角格局可能随之变化。",
+        "tc": "頭部經紀兩年內連吞 NFP 與 USI 約 300 億美元標的，槓桿上升意味著整合期議價收緊、人員流動加劇。香港經紀的合作與挖角格局可能隨之變化。"
+      },
+      "tags": {
+        "sc": [
+          "Aon",
+          "USI",
+          "经纪并购",
+          "杠杆"
+        ],
+        "tc": [
+          "Aon",
+          "USI",
+          "經紀併購",
+          "槓桿"
+        ]
+      },
+      "actions": {
+        "front": {
+          "sc": "客户沟通：经纪规模与议价能力",
+          "tc": "客戶溝通：經紀規模與議價能力"
+        },
+        "midback": {
+          "sc": "研究：经纪行业集中度与整合风险",
+          "tc": "研究：經紀行業集中度與整合風險"
+        },
+        "lead": {
+          "sc": "团队简报：竞争对手整合动向",
+          "tc": "團隊簡報：競爭對手整合動向"
+        },
+        "cross": {
+          "sc": "全球经纪格局与本地市场",
+          "tc": "全球經紀格局與本地市場"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 3,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "Insurance Business Asia 2026-10-28",
+        "tc": "Insurance Business Asia 2026-10-28",
+        "name": "insurancebusinessmag",
+        "date": "2026-10-28",
+        "lang": "en"
+      },
+      "lang": "en",
+      "summaryShort": {
+        "sc": "Aon 第三季自然增长 6%、调整后每股盈利 3.36 美元，但长期债务由 2025 年底 146.6 亿美元升至 9 月底 263.2 亿美元，主要来自 170 亿美元收购 USI 的融资；",
+        "tc": "Aon 第三季自然增長 6%、調整後每股盈利 3.36 美元，但長期債務由 2025 年底 146.6 億美元升至 9 月底 263.2 億美元，主要來自 170 億美元收購 USI 的融資；"
+      }
+    },
+    {
+      "id": "ibm-ai-writing-gender-study-20261028",
+      "clusterCount": 1,
+      "verifyStatus": "verified",
+      "contentKind": "news",
+      "ingestedAt": "2026-10-29T01:33:00+08:00",
+      "publishedAt": "2026-10-28T22:45:00+08:00",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/business-strategy/ai-tools-may-make-women-sound-less-sophisticated-at-work-595296.aspx",
+      "sourceKey": "insurancebusinessmag",
+      "sourceTier": "media",
+      "score": 60,
+      "boards": [
+        "tech"
+      ],
+      "themes": [
+        "AI治理",
+        "提示词质量",
+        "模型偏见"
+      ],
+      "title": {
+        "sc": "约翰霍普金斯研究：提示词带女性化用词　AI 产出更浅白、更不正式",
+        "tc": "約翰霍普金斯研究：提示詞帶女性化用詞　AI 產出更淺白、更不正式"
+      },
+      "summary": {
+        "sc": "约翰霍普金斯大学测试 GPT-4、Llama、Gemma、Mistral 四款模型：同一封职场电邮，若提示词加入「maybe」「I think」「we」等女性关联用语，输出的复杂度、年级水平与正式度均下降；风格镜像最多只能解释约三分之一的差异。[EN原文]",
+        "tc": "約翰霍普金斯大學測試 GPT-4、Llama、Gemma、Mistral 四款模型：同一封職場電郵，若提示詞加入「maybe」「I think」「we」等女性關聯用語，輸出的複雜度、年級水平與正式度均下降；風格鏡像最多只能解釋約三分之一的差異。[EN原文]"
+      },
+      "why": {
+        "sc": "对天天用 AI 写方案、写客户信的一线同事很实用：提示词的措辞直接决定产出层级，不只影响「像不像我」。做 AI 培训时，这是「提示词要具体、要给角色」的最好案例。",
+        "tc": "對天天用 AI 寫方案、寫客戶信的一線同事很實用：提示詞的措辭直接決定產出層級，不只影響「像不像我」。做 AI 培訓時，這是「提示詞要具體、要給角色」的最好案例。"
+      },
+      "tags": {
+        "sc": [
+          "AI写作",
+          "提示词",
+          "模型偏见",
+          "研究"
+        ],
+        "tc": [
+          "AI寫作",
+          "提示詞",
+          "模型偏見",
+          "研究"
+        ]
+      },
+      "actions": {
+        "front": {
+          "sc": "实操：给 AI 明确角色与受众再要求文风",
+          "tc": "實操：給 AI 明確角色與受眾再要求文風"
+        },
+        "midback": {
+          "sc": "研究：模型输出的群体差异",
+          "tc": "研究：模型輸出的群體差異"
+        },
+        "lead": {
+          "sc": "团队简报：AI 写作规范与复核清单",
+          "tc": "團隊簡報：AI 寫作規範與覆核清單"
+        },
+        "cross": {
+          "sc": "AI 公平性与合规审查",
+          "tc": "AI 公平性與合規審查"
+        }
+      },
+      "rolesImpact": {
+        "front": 3,
+        "midback": 2,
+        "lead": 3,
+        "cross": 2
+      },
+      "source": {
+        "sc": "Insurance Business Asia 2026-10-28",
+        "tc": "Insurance Business Asia 2026-10-28",
+        "name": "insurancebusinessmag",
+        "date": "2026-10-28",
+        "lang": "en"
+      },
+      "lang": "en",
+      "summaryShort": {
+        "sc": "约翰霍普金斯大学测试 GPT-4、Llama、Gemma、Mistral 四款模型：同一封职场电邮，若提示词加入「maybe」「I think」「we」等女性关联用语，输出的复杂度、年级水平与正式度均下降；",
+        "tc": "約翰霍普金斯大學測試 GPT-4、Llama、Gemma、Mistral 四款模型：同一封職場電郵，若提示詞加入「maybe」「I think」「we」等女性關聯用語，輸出的複雜度、年級水平與正式度均下降；"
+      }
+    },
+    {
+      "id": "rn-arch-q3-reinsurance-20261028",
+      "clusterCount": 1,
+      "verifyStatus": "verified",
+      "contentKind": "news",
+      "ingestedAt": "2026-10-28T18:12:00+08:00",
+      "publishedAt": "2026-10-28T18:00:00+08:00",
+      "originalUrl": "https://www.reinsurancene.ws/archs-reinsurance-unit-delivers-393m-underwriting-profit-in-q326-despite-lower-premiums/",
+      "sourceKey": "reinsurancenews",
+      "sourceTier": "media",
+      "score": 62,
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "再保险定价",
+        "承保周期",
+        "财报"
+      ],
+      "title": {
+        "sc": "Arch 再保第三季承保利润 3.93 亿美元　净保费跌、综合成本率升至 78.3%",
+        "tc": "Arch 再保第三季承保利潤 3.93 億美元　淨保費跌、綜合成本率升至 78.3%"
+      },
+      "summary": {
+        "sc": "Arch Capital 第三季再保业务承保利润 3.93 亿美元，低于去年同期 4.82 亿；净承保保费跌 9.3% 至 15.76 亿美元，净已赚保费跌 10.3%，综合成本率由 76.1% 升至 78.3%，集团承保利润 7.02 亿、跌 19.4%。[EN原文]",
+        "tc": "Arch Capital 第三季再保業務承保利潤 3.93 億美元，低於去年同期 4.82 億；淨承保保費跌 9.3% 至 15.76 億美元，淨已賺保費跌 10.3%，綜合成本率由 76.1% 升至 78.3%，集團承保利潤 7.02 億、跌 19.4%。[EN原文]"
+      },
+      "why": {
+        "sc": "保费缩、成本率升，是「再保定价格见顶」的财报语言。上游价格走软通常半年后传到香港的产品定价与分保成本，做明年产品与分保假设时可先看这一条。",
+        "tc": "保費縮、成本率升，是「再保定價格見頂」的財報語言。上游價格走軟通常半年後傳到香港的產品定價與分保成本，做明年產品與分保假設時可先看這一條。"
+      },
+      "tags": {
+        "sc": [
+          "Arch",
+          "再保险",
+          "综合成本率",
+          "承保周期"
+        ],
+        "tc": [
+          "Arch",
+          "再保險",
+          "綜合成本率",
+          "承保週期"
+        ]
+      },
+      "actions": {
+        "front": {
+          "sc": "客户沟通：产品定价背后的再保成本",
+          "tc": "客戶溝通：產品定價背後的再保成本"
+        },
+        "midback": {
+          "sc": "研究：再保承保周期拐点",
+          "tc": "研究：再保承保週期拐點"
+        },
+        "lead": {
+          "sc": "团队简报：明年分保与产品假设",
+          "tc": "團隊簡報：明年分保與產品假設"
+        },
+        "cross": {
+          "sc": "全球资本与区域定价传导",
+          "tc": "全球資本與區域定價傳導"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 3,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "Reinsurance News 2026-10-28",
+        "tc": "Reinsurance News 2026-10-28",
+        "name": "reinsurancenews",
+        "date": "2026-10-28",
+        "lang": "en"
+      },
+      "lang": "en",
+      "summaryShort": {
+        "sc": "Arch Capital 第三季再保业务承保利润 3.93 亿美元，低于去年同期 4.82 亿；净承保保费跌 9.3% 至 15.76 亿美元，净已赚保费跌 10.3%，综合成本率由 76.1% 升至 78.3%，集团承保利润 7.",
+        "tc": "Arch Capital 第三季再保業務承保利潤 3.93 億美元，低於去年同期 4.82 億；淨承保保費跌 9.3% 至 15.76 億美元，淨已賺保費跌 10.3%，綜合成本率由 76.1% 升至 78.3%，集團承保利潤 7."
+      }
+    },
+    {
+      "id": "ian-peak-re-sp-a-rating-20261028",
+      "clusterCount": 1,
+      "verifyStatus": "verified",
+      "contentKind": "news",
+      "ingestedAt": "2026-10-28T18:12:00+08:00",
+      "publishedAt": "2026-10-28T16:46:00+08:00",
+      "originalUrl": "https://insuranceasianews.com/sp-assigns-peak-re-first-time-a-rating-insulated-from-fosun/",
+      "sourceKey": "insuranceasianews",
+      "sourceTier": "pro",
+      "score": 78,
+      "boards": [
+        "insurer",
+        "market"
+      ],
+      "themes": [
+        "评级",
+        "资本实力",
+        "再保险"
+      ],
+      "title": {
+        "sc": "标普首予鼎睿再保险 A- 评级　认定信用状况与母公司复星「脱钩」",
+        "tc": "標普首予鼎睿再保險 A- 評級　認定信用狀況與母公司復星「脫鉤」"
+      },
+      "summary": {
+        "sc": "标普全球评级首次给予香港鼎睿再保险（Peak Re）长期发行人信用及财务实力 A- 评级，展望稳定，理由为市场地位稳固、资本状况稳健，并指其信用状况与母公司复星「脱钩」。[EN原文]",
+        "tc": "標普全球評級首次給予香港鼎睿再保險（Peak Re）長期發行人信用及財務實力 A- 評級，展望穩定，理由為市場地位穩固、資本狀況穩健，並指其信用狀況與母公司復星「脫鉤」。[EN原文]"
+      },
+      "why": {
+        "sc": "母公司背景过去是这家香港再保的折价项，评级机构明确「脱钩」等于给它一张独立信用凭证。香港再保供给多一个 A 级选项，分出与自留结构的谈判筹码随之变化。",
+        "tc": "母公司背景過去是這家香港再保的折價項，評級機構明確「脫鉤」等於給它一張獨立信用憑證。香港再保供給多一個 A 級選項，分出與自留結構的談判籌碼隨之變化。"
+      },
+      "tags": {
+        "sc": [
+          "鼎睿再保险",
+          "标普",
+          "评级",
+          "香港再保"
+        ],
+        "tc": [
+          "鼎睿再保險",
+          "標普",
+          "評級",
+          "香港再保"
+        ]
+      },
+      "actions": {
+        "front": {
+          "sc": "客户沟通：再保对手方评级怎么看",
+          "tc": "客戶溝通：再保對手方評級怎麼看"
+        },
+        "midback": {
+          "sc": "研究：香港再保市场供给格局",
+          "tc": "研究：香港再保市場供給格局"
+        },
+        "lead": {
+          "sc": "团队简报：分出安排与对手方风险",
+          "tc": "團隊簡報：分出安排與對手方風險"
+        },
+        "cross": {
+          "sc": "跨境资本与母公司关联风险",
+          "tc": "跨境資本與母公司關聯風險"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 3,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "InsuranceAsia News 2026-10-28",
+        "tc": "InsuranceAsia News 2026-10-28",
+        "name": "insuranceasianews",
+        "date": "2026-10-28",
+        "lang": "en"
+      },
+      "lang": "en",
+      "summaryShort": {
+        "sc": "标普全球评级首次给予香港鼎睿再保险（Peak Re）长期发行人信用及财务实力 A- 评级，展望稳定，理由为市场地位稳固、资本状况稳健，并指其信用状况与母公司复星「脱钩」。[EN原文]",
+        "tc": "標普全球評級首次給予香港鼎睿再保險（Peak Re）長期發行人信用及財務實力 A- 評級，展望穩定，理由為市場地位穩固、資本狀況穩健，並指其信用狀況與母公司復星「脫鉤」。[EN原文]"
+      }
+    },
+    {
+      "id": "artemis-renre-lighthouse-cat-bond-fund-20261028",
+      "clusterCount": 1,
+      "verifyStatus": "verified",
+      "contentKind": "news",
+      "ingestedAt": "2026-10-28T18:12:00+08:00",
+      "publishedAt": "2026-10-28T16:00:00+08:00",
+      "originalUrl": "https://www.artemis.bm/news/renre-raised-150m-for-new-lighthouse-cat-bond-fund-reports-81-7m-of-q3-fee-income/",
+      "sourceKey": "artemis",
+      "sourceTier": "media",
+      "score": 68,
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "巨灾债券",
+        "第三方资本",
+        "另类投资"
+      ],
+      "title": {
+        "sc": "再保巨灾资本继续吸金　RenRe 第三季为新巨灾债券基金募 1.5 亿美元",
+        "tc": "再保巨災資本繼續吸金　RenRe 第三季為新巨災債券基金募 1.5 億美元"
+      },
+      "summary": {
+        "sc": "RenaissanceRe 第三季为新设的 Lighthouse 巨灾债券基金募资 1.5 亿美元，属 Upsilon 平台下的独立管理账户；季内第三方资本与 ILS 业务费用收入 8,170 万美元，低于去年同期 1.018 亿美元。[EN原文]",
+        "tc": "RenaissanceRe 第三季為新設的 Lighthouse 巨災債券基金募資 1.5 億美元，屬 Upsilon 平台下的獨立管理賬戶；季內第三方資本與 ILS 業務費用收入 8,170 萬美元，低於去年同期 1.018 億美元。[EN原文]"
+      },
+      "why": {
+        "sc": "募资仍进、费用收入却跌，说明投资者要的是纯巨灾债券而非整包再保。ILS 持续扩容意味着灾害风险更多由资本市场承接，对香港推 ILS 与家办另类配置是顺风。",
+        "tc": "募資仍進、費用收入卻跌，說明投資者要的是純巨災債券而非整包再保。ILS 持續擴容意味著災害風險更多由資本市場承接，對香港推 ILS 與家辦另類配置是順風。"
+      },
+      "tags": {
+        "sc": [
+          "巨灾债券",
+          "ILS",
+          "第三方资本",
+          "再保险"
+        ],
+        "tc": [
+          "巨災債券",
+          "ILS",
+          "第三方資本",
+          "再保險"
+        ]
+      },
+      "actions": {
+        "front": {
+          "sc": "客户沟通：另类资产里的保险连结工具",
+          "tc": "客戶溝通：另類資產裡的保險連結工具"
+        },
+        "midback": {
+          "sc": "研究：ILS 资金流与再保价格",
+          "tc": "研究：ILS 資金流與再保價格"
+        },
+        "lead": {
+          "sc": "团队简报：灾害风险资本化趋势",
+          "tc": "團隊簡報：災害風險資本化趨勢"
+        },
+        "cross": {
+          "sc": "香港 ILS 与家办配置机会",
+          "tc": "香港 ILS 與家辦配置機會"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 2,
+        "lead": 2,
+        "cross": 3
+      },
+      "source": {
+        "sc": "Artemis.bm 2026-10-28",
+        "tc": "Artemis.bm 2026-10-28",
+        "name": "artemis",
+        "date": "2026-10-28",
+        "lang": "en"
+      },
+      "lang": "en",
+      "summaryShort": {
+        "sc": "RenaissanceRe 第三季为新设的 Lighthouse 巨灾债券基金募资 1.5 亿美元，属 Upsilon 平台下的独立管理账户；季内第三方资本与 ILS 业务费用收入 8,170 万美元，低于去年同期 1.018 亿美元。",
+        "tc": "RenaissanceRe 第三季為新設的 Lighthouse 巨災債券基金募資 1.5 億美元，屬 Upsilon 平台下的獨立管理賬戶；季內第三方資本與 ILS 業務費用收入 8,170 萬美元，低於去年同期 1.018 億美元。"
+      }
+    },
+    {
+      "id": "hkma-one-earth-climate-taxonomy-20261028",
+      "clusterCount": 1,
+      "verifyStatus": "verified",
+      "contentKind": "speech",
+      "ingestedAt": "2026-10-28T18:12:00+08:00",
+      "publishedAt": "2026-10-28",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/speeches/2026/10/20261028-1/",
+      "sourceKey": "hkma",
+      "sourceTier": "official",
+      "score": 88,
+      "boards": [
+        "reg",
+        "market"
+      ],
+      "themes": [
+        "气候适应",
+        "可持续金融",
+        "财产险"
+      ],
+      "title": {
+        "sc": "金管局：分类目录 Phase 2B 纳入 28 项气候适应措施　去年 14 个台风、五度黑雨均创纪录",
+        "tc": "金管局：分類目錄 Phase 2B 納入 28 項氣候適應措施　去年 14 個颱風、五度黑雨均創紀錄"
+      },
+      "summary": {
+        "sc": "金管局副总裁阮国恒在 One Earth Summit 2026 表示，香港可持续金融分类目录 Phase 2B 原型涵盖 39 项减缓活动与 28 项适应措施，为洪水、风暴破坏与海岸线保护设定标准；去年本港遭 14 个热带气旋吹袭、五度发出黑雨警告，均创纪录。[EN原文]",
+        "tc": "金管局副總裁阮國恒在 One Earth Summit 2026 表示，香港可持續金融分類目錄 Phase 2B 原型涵蓋 39 項減緩活動與 28 項適應措施，為洪水、風暴破壞與海岸線保護設定標準；去年本港遭 14 個熱帶氣旋吹襲、五度發出黑雨警告，均創紀錄。[EN原文]"
+      },
+      "why": {
+        "sc": "气候风险从「披露」推进到「定义什么算适应项目」。分类目录一旦成为融资口径，楼宇抗风抗涝改造就有机会被认定为可融资项目——和客户谈防灾减损投入时，这是可引用的官方标准。",
+        "tc": "氣候風險從「披露」推進到「定義什麼算適應項目」。分類目錄一旦成為融資口徑，樓宇抗風抗澇改造就有機會被認定為可融資項目——和客戶談防災減損投入時，這是可引用的官方標準。"
+      },
+      "tags": {
+        "sc": [
+          "金管局",
+          "可持续金融",
+          "气候风险",
+          "分类目录"
+        ],
+        "tc": [
+          "金管局",
+          "可持續金融",
+          "氣候風險",
+          "分類目錄"
+        ]
+      },
+      "actions": {
+        "front": {
+          "sc": "客户沟通：楼宇防灾改造的融资与保障口径",
+          "tc": "客戶溝通：樓宇防災改造的融資與保障口徑"
+        },
+        "midback": {
+          "sc": "研究：气候适应标准与财产险定价",
+          "tc": "研究：氣候適應標準與財產險定價"
+        },
+        "lead": {
+          "sc": "团队简报：香港物理风险与保障缺口",
+          "tc": "團隊簡報：香港物理風險與保障缺口"
+        },
+        "cross": {
+          "sc": "跨境绿色金融与再保安排",
+          "tc": "跨境綠色金融與再保安排"
+        }
+      },
+      "rolesImpact": {
+        "front": 1,
+        "midback": 3,
+        "lead": 2,
+        "cross": 2
+      },
+      "source": {
+        "sc": "香港金管局 2026-10-28",
+        "tc": "香港金管局 2026-10-28",
+        "name": "hkma",
+        "date": "2026-10-28",
+        "lang": "en"
+      },
+      "lang": "en",
+      "summaryShort": {
+        "sc": "金管局副总裁阮国恒在 One Earth Summit 2026 表示，香港可持续金融分类目录 Phase 2B 原型涵盖 39 项减缓活动与 28 项适应措施，为洪水、风暴破坏与海岸线保护设定标准；",
+        "tc": "金管局副總裁阮國恒在 One Earth Summit 2026 表示，香港可持續金融分類目錄 Phase 2B 原型涵蓋 39 項減緩活動與 28 項適應措施，為洪水、風暴破壞與海岸線保護設定標準；"
+      }
+    },
     {
       "id": "ia-hk-q2-premium-boom-jefferies-20261028",
       "clusterCount": 1,
@@ -3058,7 +3880,7 @@
         "lang": "en"
       },
       "lang": "en",
-      "clusterId": "c32"
+      "clusterId": "c42"
     },
     {
       "id": "scmp-goldman-asia-wealth-hiring-20261026",
@@ -5488,7 +6310,7 @@
         "sc": "汉诺威再本月推出第七只Acorn Re参数式美国地震巨灾债券，目标由2亿美元两度上调至4.5亿，为Oak Tree Assurance等提供保障，定价指引同步下调。",
         "tc": "漢諾威再本月推出第七隻Acorn Re參數式美國地震巨災債券，目標由2億美元兩度上調至4.5億，為Oak Tree Assurance等提供保障，定價指引同步下調。"
       },
-      "clusterId": "c32"
+      "clusterId": "c42"
     },
     {
       "clusterCount": 1,
@@ -12178,7 +13000,7 @@
         "tc": "本站導讀"
       },
       "ingestedAt": "2026-10-17T00:48:00+08:00",
-      "clusterId": "c140",
+      "clusterId": "c150",
       "summaryShort": {
         "sc": "世界宣明会金融普惠机构 VisionFund 与 Global Parametrics 合作、并由 InsuResilience Solutions Fund 共同出资，为世界宣明会在玻利维亚、巴西、哥伦比亚及秘鲁的办公室设计双灾因参数式中…",
         "tc": "世界宣明會金融普惠機構 VisionFund 與 Global Parametrics 合作、並由 InsuResilience Solutions Fund 共同出資，爲世界宣明會在玻利維亞、巴西、哥倫比亞及祕魯的辦公室設計雙災因參數式中…"
@@ -22681,7 +23503,7 @@
         "date": "2026-10-12",
         "note": "EN原文；IBRD CAR Mexico 2024 (Pacific) 1.75 亿美元"
       },
-      "clusterId": "c256",
+      "clusterId": "c266",
       "summaryShort": {
         "sc": "Artemis 於10月12日報道，引述資產管理公司 Azimut Switzerland 的 ILS 投資專員 Isacco Loconte 分析，指四級颶風 Simon 路徑西移後，似一直停留於國際復興開發銀行（IBRD）「CAR Me…",
         "tc": "Artemis 於10月12日報道，引述資產管理公司 Azimut Switzerland 的 ILS 投資專員 Isacco Loconte 分析，指四級颶風 Simon 路徑西移後，似一直停留於國際復興開發銀行（IBRD）「CAR Me…"
@@ -25065,7 +25887,7 @@
         "sc": "Artemis 10月10日報道：太平洋颶風Simon持續快速增強，美國國家颶風中心指其已達四級（持續風速150英里、中心最低氣壓約938mb），預計周日於墨西哥西南至中西部登陸，令規模1.",
         "tc": "Artemis 10月10日報道：太平洋颶風Simon持續快速增強，美國國家颶風中心指其已達四級（持續風速150英里、中心最低氣壓約938mb），預計周日於墨西哥西南至中西部登陸，令規模1."
       },
-      "clusterId": "c256"
+      "clusterId": "c266"
     },
     {
       "clusterCount": 1,
@@ -26968,7 +27790,7 @@
         "date": "2026-10-09",
         "note": null
       },
-      "clusterId": "c303",
+      "clusterId": "c313",
       "summaryShort": {
         "sc": "Artemis 10月9日報道：颶風 Isaias 最新預測將進一步增強為三級（major）颶風，其後在逼近／登陸前減弱，業界仍預期承保損失會達到單位數十億美元（single-digit billion）水平。",
         "tc": "Artemis 10月9日報道：颶風 Isaias 最新預測將進一步增強為三級（major）颶風，其後在逼近／登陸前減弱，業界仍預期承保損失會達到單位數十億美元（single-digit billion）水平。"
@@ -29610,7 +30432,7 @@
         "sc": "Artemis 10月8日報道：Isaias 已成為2026年大西洋颶風季首個颶風，一夜間增強，預測仍指向可能在墨西哥灣沿岸以二級颶風登陸。再保經紀 Gallagher Re 表示，若以該強度登陸，通常會造成低至中單位數十億美元（low t…",
         "tc": "Artemis 10月8日報道：Isaias 已成為2026年大西洋颶風季首個颶風，一夜間增強，預測仍指向可能在墨西哥灣沿岸以二級颶風登陸。再保經紀 Gallagher Re 表示，若以該強度登陸，通常會造成低至中單位數十億美元（low t…"
       },
-      "clusterId": "c303"
+      "clusterId": "c313"
     },
     {
       "clusterCount": 1,
@@ -35574,7 +36396,7 @@
         "date": "2026-10-06",
         "note": null
       },
-      "clusterId": "c398",
+      "clusterId": "c408",
       "summaryShort": {
         "sc": "Insurance Asia 10月6日報道：因 Tomas Kunzmann 獲委任進入安聯集團（Allianz SE）董事會，安聯公布接任安排——現任 Allianz Direct 行政總裁 Philipp Kroetz 於2026年1…",
         "tc": "Insurance Asia 10月6日報道：因 Tomas Kunzmann 獲委任進入安聯集團（Allianz SE）董事會，安聯公布接任安排——現任 Allianz Direct 行政總裁 Philipp Kroetz 於2026年1…"
@@ -36385,7 +37207,7 @@
         "sc": "Artemis 10月6日報道：VisionFund 與 Global Parametrics 合作，在 InsuResilience Solutions Fund 共同資助下，為玻利維亞、巴西、哥倫比亞等地世界展望會辦事處設計雙險種參數化…",
         "tc": "Artemis 10月6日報道：VisionFund 與 Global Parametrics 合作，在 InsuResilience Solutions Fund 共同資助下，為玻利維亞、巴西、哥倫比亞等地世界展望會辦事處設計雙險種參數化…"
       },
-      "clusterId": "c140"
+      "clusterId": "c150"
     },
     {
       "clusterCount": 1,
@@ -41227,7 +42049,7 @@
         "date": null,
         "note": "EN原文"
       },
-      "clusterId": "c398",
+      "clusterId": "c408",
       "summaryShort": {
         "sc": "Insurance Business Asia 10月2日报道（记者 Jonalyn Cueto）：安联10月1日在慕尼黑公布两项数字化业务人事调动——原 Allianz Direct CEO Philipp Kroetz（46岁）将于20…",
         "tc": "Insurance Business Asia 10月2日報道（記者 Jonalyn Cueto）：安聯10月1日在慕尼黑公佈兩項數字化業務人事調動——原 Allianz Direct CEO Philipp Kroetz（46歲）將於20…"
@@ -52238,7 +53060,7 @@
         "note": "EN原文"
       },
       "originalUrl": "https://www.info.gov.hk/gia/general/202609/25/P2026092500465.htm",
-      "clusterId": "c609",
+      "clusterId": "c619",
       "summaryShort": {
         "sc": "金管局呼吁市民提高警觉，指大新银行有限公司已就「欺詐社交媒体帖文」发出新闻稿并向金管局汇报，相关超链接已上载至金管局网站。金管局重申：银行不会透过短讯或电邮超链接引导客户到其网站进行交易，亦不会以电话、电邮或手机短讯（包括以超链接方式）要求…",
         "tc": "金管局呼吁市民提高警觉，指大新银行有限公司已就「欺詐社交媒体帖文」发出新闻稿并向金管局汇报，相关超链接已上载至金管局网站。金管局重申：银行不会透过短讯或电邮超链接引导客户到其网站进行交易，亦不会以电话、电邮或手机短讯（包括以超链接方式）要求…"
@@ -54700,7 +55522,7 @@
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-09-25T02:15:00+08:00",
-      "clusterId": "c609",
+      "clusterId": "c619",
       "summaryShort": {
         "sc": "金管局9月24日发布「Scam alert related to banks」，转述东亚银行、上海商业银行、创兴银行、集友银行等就伪冒网站及网上银行登录画面、钓鱼电邮等发出的提示。",
         "tc": "金管局9月24日發布「Scam alert related to banks」，轉述東亞銀行、上海商業銀行、創興銀行、集友銀行等就偽冒網站及網上銀行登錄畫面、釣魚電郵等發出的提示。"
@@ -57730,7 +58552,7 @@
       },
       "publishedAt": "2026-09-23T18:00:00+08:00",
       "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260923-5/",
-      "clusterId": "c609",
+      "clusterId": "c619",
       "summaryShort": {
         "sc": "金管局9月23日发布「Scam alert related to banks」，转述东亚银行、上海商业银行、创兴银行、集友银行有关伪冒网站及网上银行登录画面，以及大新银行伪冒网站的提示。",
         "tc": "金管局9月23日發布「Scam alert related to banks」，轉述東亞銀行、上海商業銀行、創興銀行、集友銀行有關偽冒網站及網上銀行登錄畫面，以及大新銀行偽冒網站的提示。"
@@ -61987,7 +62809,7 @@
       },
       "publishedAt": "2026-09-22",
       "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260922-3/",
-      "clusterId": "c609",
+      "clusterId": "c619",
       "summaryShort": {
         "sc": "香港金融管理局于2026年9月22日发布「Scam alert related to banks」（与银行有关的骗案警示），属例行公众防骗提示，与该局同日刊出的银行同业结算公司欺诈网站提示配套。",
         "tc": "香港金融管理局於2026年9月22日發布「Scam alert related to banks」（與銀行有關的騙案警示），屬例行公眾防騙提示，與該局同日刊出的銀行同業結算公司欺詐網站提示配套。"
@@ -71861,7 +72683,7 @@
       "contentKind": "press",
       "publishedAt": "2026-09-16",
       "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260916-3/",
-      "clusterId": "c808",
+      "clusterId": "c818",
       "summaryShort": {
         "sc": "9月16日，金管局发布「Scam alert related to banks（与银行有关的诈骗提示）」及「HKICL alerts public of fraudulent website（香港银行同业结算有限公司提醒公众提防伪冒网站）」…",
         "tc": "9月16日，金管局發布「Scam alert related to banks（與銀行有關的詐騙提示）」及「HKICL alerts public of fraudulent website（香港銀行同業結算有限公司提醒公眾提防偽冒網站）」…"
@@ -72810,7 +73632,7 @@
       "contentKind": "press",
       "publishedAt": "2026-09-15",
       "originalUrl": "https://gmteight.com/flash/detail/1502684",
-      "clusterId": "c819",
+      "clusterId": "c829",
       "summaryShort": {
         "sc": "9月15日，香港保险业联会（HKFI）就「内地对境外保单收益征收20%个人所得税」的市场传闻回复《第一财经》指：截至目前，相关部门并未发布任何官方政策文件或实施细则，联会正持续监测并密切关注事态发展，故不对市场讨论与传闻作任何揣测或评论。",
         "tc": "9月15日，香港保險業聯會（HKFI）就「內地對境外保單收益徵收20%個人所得稅」的市場傳聞回覆《第一財經》指：截至目前，相關部門並未發布任何官方政策文件或實施細則，聯會正持續監測並密切關注事態發展，故不對市場討論與傳聞作任何揣測或評論。"
@@ -73072,7 +73894,7 @@
       "contentKind": "press",
       "publishedAt": "2026-09-15",
       "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260915-4/",
-      "clusterId": "c808",
+      "clusterId": "c818",
       "summaryShort": {
         "sc": "香港金管局9月15日发出警示，提醒公众注意4间银行（东亚银行、上海商业银行、创兴银行、富邦银行（香港））已向金管局通报的伪冒网站及伪冒网上银行登录画面。金管局重申银行不会发送内嵌超链接、引导客户进入银行网站进行交易的短讯或电邮，也不会通过电…",
         "tc": "香港金管局9月15日發出警示，提醒公眾注意4間銀行（東亞銀行、上海商業銀行、創興銀行、富邦銀行（香港））已向金管局通報的偽冒網站及偽冒網上銀行登入畫面。金管局重申銀行不會發送內嵌超連結、引導客戶進入銀行網站進行交易的短訊或電郵，也不會通過電…"
@@ -77936,7 +78758,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c880",
+      "clusterId": "c890",
       "summaryShort": {
         "sc": "金管局9月10日汇总两家银行骗案通报：星展银行（香港）出现假冒网站、网银登入画面及钓鱼电邮，富邦银行（香港）出现假冒网站及网银登入画面；提醒银行不会以短讯或电邮内嵌链接引导交易，亦不会索取登入密码或一次性验证码。",
         "tc": "金管局9月10日匯總兩家銀行騙案通報：星展銀行（香港）出現假冒網站、網銀登入畫面及釣魚電郵，富邦銀行（香港）出現假冒網站及網銀登入畫面；提醒銀行不會以短訊或電郵內嵌連結引導交易，亦不會索取登入密碼或一次性驗證碼。"
@@ -79425,7 +80247,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c898",
+      "clusterId": "c908",
       "summaryShort": {
         "sc": "金管局汇总两家银行骗案通报：中银香港出现钓鱼即时短讯，华侨银行（香港）出现假冒网站及网银登入画面；提醒公众银行不会经短信或电邮内嵌链接引导交易，亦不会以电话、电邮或短讯索取登入密码或一次性验证码；",
         "tc": "金管局匯總兩家銀行騙案通報：中銀香港出現釣魚即時短訊，華僑銀行（香港）出現假冒網站及網銀登入畫面；提醒公眾銀行不會經短訊或電郵內嵌連結引導交易，亦不會以電話、電郵或短訊索取登入密碼或一次性驗證碼；"
@@ -79508,7 +80330,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c899",
+      "clusterId": "c909",
       "summaryShort": {
         "sc": "香港银行同业结算公司（HKICL）发现多个假冒网站（fpshk.cc、fpshkicl.homes、refundrequesthk.xyz等），冒充「买家网上保障」提供FPS转账退款、未授权交易申报等服务，更诱导用户交出证件号码、身份证照片…",
         "tc": "香港銀行同業結算公司（HKICL）發現多個假冒網站（fpshk.cc、fpshkicl.homes、refundrequesthk.xyz等），冒充「買家網上保障」提供FPS轉賬退款、未授權交易申報等服務，更誘導用戶交出證件號碼、身份證照片…"
@@ -80407,7 +81229,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c898",
+      "clusterId": "c908",
       "summaryShort": {
         "sc": "金管局汇总两家银行骗案通报：中国建设银行（亚洲）出现假冒网站及网银登入画面，瑞士宝盛（Bank Julius Baer）出现假冒网站；提醒公众银行不会经短信或电邮内嵌链接索取密码及一次性验证码，受骗应即联络相关银行并向警方报案。",
         "tc": "金管局匯總兩家銀行騙案通報：中國建設銀行（亞洲）出現假冒網站及網銀登入畫面，瑞士寶盛（Bank Julius Baer）出現假冒網站；提醒公眾銀行不會經短訊或電郵內嵌連結索取密碼及一次性驗證碼，受騙應即聯絡相關銀行並向警方報案。"
@@ -80813,7 +81635,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c898",
+      "clusterId": "c908",
       "summaryShort": {
         "sc": "金管局汇总五家银行骗案通报：东亚银行、上海商业银行、创兴银行、集友银行及瑞士宝盛（Julius Baer）出现假冒网站及网银登入画面；提醒公众银行不会经短信或电邮内嵌链接索取密码及一次性验证码。",
         "tc": "金管局匯總五家銀行騙案通報：東亞銀行、上海商業銀行、創興銀行、集友銀行及瑞士寶盛（Julius Baer）出現假冒網站及網銀登入畫面；提醒公眾銀行不會經短訊或電郵內嵌連結索取密碼及一次性驗證碼。"
@@ -80896,7 +81718,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c899",
+      "clusterId": "c909",
       "summaryShort": {
         "sc": "香港银行同业结算公司（HKICL）警示三类假冒网站（含64.176.54.120、zksttgf.xyz、hkrefundplatform.sbs等），冒充「买家网上保障」以退款、异常交易报告为名，诱骗用户上传身份证件、银行资料经FPS转账…",
         "tc": "香港銀行同業結算公司（HKICL）警示三類假冒網站（含64.176.54.120、zksttgf.xyz、hkrefundplatform.sbs等），冒充「買家網上保障」以退款、異常交易報告為名，誘騙用戶上傳身份證件、銀行資料經FPS轉賬…"
@@ -82123,7 +82945,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c898",
+      "clusterId": "c908",
       "summaryShort": {
         "sc": "金管局汇总三家银行骗案通报：东亚银行、上海商业银行及华侨银行（香港）现假冒网站及网银登入画面；提醒公众银行不会经短讯或电邮内嵌链接引导登入或索取密码及一次性验证码，怀疑受骗应即联络银行并报警。",
         "tc": "金管局匯總三家銀行騙案通報：東亞銀行、上海商業銀行及華僑銀行（香港）現假冒網站及網銀登入畫面；提醒公眾銀行不會經短訊或電郵內嵌連結引導登入或索取密碼及一次性驗證碼，懷疑受騙應即聯絡銀行並報警。"
@@ -82688,7 +83510,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c880",
+      "clusterId": "c890",
       "summaryShort": {
         "sc": "金管局汇总六家银行骗案通报：中银香港现钓鱼即时讯息、星展现钓鱼电邮，东亚、上海商业银行、创兴及集友均现假冒网站及网银登入画面，提醒公众勿经讯息内嵌链接登入银行或交出密码及一次性验证码。",
         "tc": "金管局匯總六家銀行騙案通報：中銀香港現釣魚即時訊息、星展現釣魚電郵，東亞、上海商業銀行、創興及集友均現假冒網站及網銀登入畫面，提醒公眾勿經訊息內嵌連結登入銀行或交出密碼及一次性驗證碼。"
@@ -82935,7 +83757,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c819",
+      "clusterId": "c829",
       "summaryShort": {
         "sc": "香港保险业联会9月3日回应「内地拟对境外保单收益征20%个税」传闻：相关部门未发布正式文件或细则，正密切跟进、不作猜测；强调客户保障、传承与资产配置需求仍强，港险产品设计灵活、货币配置多元，市场仍具吸引力。",
         "tc": "香港保險業聯會9月3日回應「內地擬對境外保單收益徵20%個稅」傳聞：相關部門未發布正式文件或細則，正密切跟進、不作猜測；強調客戶保障、傳承與資產配置需求仍強，港險產品設計靈活、貨幣配置多元，市場仍具吸引力。"
@@ -84276,7 +85098,7 @@
       "contentKind": "news",
       "publishedAt": "2026-09-01T06:54:00+08:00",
       "originalUrl": "https://gmt8press.com/flash/detail/1502684",
-      "clusterId": "c819",
+      "clusterId": "c829",
       "summaryShort": {
         "sc": "针对「内地将对境外保单收益征收20%个税」传闻，香港保险业联会9月1日回应第一财经称，相关部门尚未发布官方政策文件或实施细节，联会正密切关注事态。联会强调客户保障、财富传承与资产配置需求依然强劲，港险在产品设计、货币配置及传承规划上仍具吸引…",
         "tc": "針對「內地將對境外保單收益徵收20%個稅」傳聞，香港保險業聯會9月1日回應第一財經稱，相關部門尚未發布官方政策文件或實施細節，聯會正密切關注事態。聯會強調客戶保障、財富傳承與資產配置需求依然強勁，港險在產品設計、貨幣配置及傳承規劃上仍具吸引…"
@@ -84586,7 +85408,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c898",
+      "clusterId": "c908",
       "summaryShort": {
         "sc": "金管局提醒公众留意东亚银行、上海商业银行、创兴银行、集友银行及Ele Bank五间银行发布的诈骗警示，涉及假冒网站及网银登入画面。金管局重申银行不会经短信或电邮内嵌链接引导客户交易，亦不会索取登入密码或一次性验证码，呼吁市民提高警觉。",
         "tc": "金管局提醒公眾留意東亞銀行、上海商業銀行、創興銀行、集友銀行及Ele Bank五間銀行發布的詐騙警示，涉及假冒網站及網銀登入畫面。金管局重申銀行不會經短信或電郵內嵌連結引導客戶交易，亦不會索取登入密碼或一次性驗證碼，呼籲市民提高警覺。"
@@ -86755,7 +87577,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c990",
+      "clusterId": "c1000",
       "summaryShort": {
         "sc": "财政部与金融监管总局联合印发《会计师事务所职业责任保险实施办法》，2027年1月1日施行：涉资本市场及公共利益审计业务的投保额度下限由5000万上调至1亿元，执业年限、行政处罚、涉诉情况等纳入费率浮动机制；",
         "tc": "財政部與金融監管總局聯合印發《會計師事務所職業責任保險實施辦法》，2027年1月1日施行：涉資本市場及公共利益審計業務的投保額度下限由5000萬上調至1億元，執業年限、行政處罰、涉訴情況等納入費率浮動機制；"
@@ -86912,7 +87734,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c990",
+      "clusterId": "c1000",
       "summaryShort": {
         "sc": "财政部、金融监管总局联合印发《会计师事务所职业责任保险实施办法》(财会〔2026〕12号)。从事证券服务及金融企业审计的会计所基本投保额度由5000万元上调至1亿元，合伙人超100名的按每名合伙人100万元计；",
         "tc": "財政部、金融監管總局聯合印發《會計師事務所職業責任保險實施辦法》(財會〔2026〕12號)。從事證券服務及金融企業審計的會計所基本投保額度由5000萬元上調至1億元，合夥人超100名的按每名合夥人100萬元計；"
@@ -88237,7 +89059,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c899",
+      "clusterId": "c909",
       "summaryShort": {
         "sc": "香港银行同业结算公司(HKICL)发现两个假冒网站仿冒「买家网上保障」，以退款及交易支援为饵，诱FPS用户交出身份证件、电话及银行账户资料，并引导联络冒充客服的骗徒。HKICL提醒公众即时报案。",
         "tc": "香港銀行同業結算公司(HKICL)發現兩個假冒網站仿冒「買家網上保障」，以退款及交易支援為餌，誘FPS用戶交出身份證件、電話及銀行賬戶資料，並引導聯絡冒充客服的騙徒。HKICL提醒公眾即時報案。"
@@ -88315,7 +89137,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c898",
+      "clusterId": "c908",
       "summaryShort": {
         "sc": "金管局提醒公众留意东亚银行、创兴银行、上海商业银行及交通银行(香港)发出的警示，涉及假冒网站及网上银行登入画面。金管局重申银行不会经短信或电邮附连结引导客户交易，亦不会索取敏感资料，遇可疑应即举报。",
         "tc": "金管局提醒公眾留意東亞銀行、創興銀行、上海商業銀行及交通銀行(香港)發出的警示，涉及假冒網站及網上銀行登入畫面。金管局重申銀行不會經短信或電郵附連結引導客戶交易，亦不會索取敏感資料，遇可疑應即舉報。"
@@ -88474,7 +89296,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c899",
+      "clusterId": "c909",
       "summaryShort": {
         "sc": "香港银行同业结算公司(HKICL)提示多个假冒网站及连结，冒充「买家网上保障」服务，声称可提供买家退款、未经授权交易报告及网上交易支援，诱骗经转数快(FPS)付款的用户。HKICL提醒公众不会经上述网站索取敏感资料，遇可疑应即举报。",
         "tc": "香港銀行同業結算公司(HKICL)提示多個假冒網站及連結，冒充「買家網上保障」服務，聲稱可提供買家退款、未經授權交易報告及網上交易支援，誘騙經轉數快(FPS)付款的用戶。HKICL提醒公眾不會經上述網站索取敏感資料，遇可疑應即舉報。"
@@ -88555,7 +89377,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c898",
+      "clusterId": "c908",
       "summaryShort": {
         "sc": "金管局发布诈骗警示汇总，多家银行近日就假冒网站、网上银行登录页面、钓鱼电邮或其它骗案发出新闻稿。金管局提醒公众：银行不会经短信或电邮内嵌链接引导客户进行交易，也不会通过电话、电邮或短信索取登录密码或一次性验证码。",
         "tc": "金管局發佈詐騙警示匯總，多家銀行近日就假冒網站、網上銀行登錄頁面、釣魚電郵或其它騙案發出新聞稿。金管局提醒公眾：銀行不會經短信或電郵內嵌連結引導客戶進行交易，也不會透過電話、電郵或短信索取登錄密碼或一次性驗證碼。"
@@ -97987,7 +98809,7 @@
       "contentKind": "report",
       "publishedAt": "2026-08-07T10:00:00+08:00",
       "originalUrl": "https://www.munichre.com/content/dam/munichre/mrwebsiteslaunches/2026-half-year-financial-report/MunichRe-Media-release-Q2-2026_en.pdf",
-      "clusterId": "c1130",
+      "clusterId": "c1140",
       "summaryShort": {
         "sc": "Munich Re 2026 年上半年集团净利 39.25 亿欧元（+23.5%），创同期纪录；Q2 净利 22 亿欧元，投资回报率 5.5%。集团维持 2026 全年 63 亿欧元目标，但下调再保保险收入预期至 380 亿欧元（原 400…",
         "tc": "Munich Re 2026 年上半年集團淨利 39.25 億歐元（+23.5%），創同期紀錄；Q2 淨利 22 億歐元，投資回報率 5.5%。集團維持 2026 全年 63 億歐元目標。"
@@ -98858,7 +99680,7 @@
       "contentKind": "report",
       "publishedAt": "2026-08-06T10:00:00+08:00",
       "originalUrl": "https://www.swissre.com/media/press-release/pr-20260806-hy-2026-press-release.html",
-      "clusterId": "c1130",
+      "clusterId": "c1140",
       "summaryShort": {
         "sc": "Swiss Re 2026 年上半年净收入 28 亿美元，同比 +9%；财险再保综合成本率 76.7%（上半年），名义价格 -0.2%（计入损失假设上调后实际 -4.6%）；再投资收益率升至 5.2%。",
         "tc": "Swiss Re 2026 年上半年淨收入 28 億美元，同比 +9%；財險再保綜合成本率 76.7%；再投資收益率升至 5.2%。集團維持 2026 全年 45 億美元目標。"
@@ -108558,7 +109380,7 @@
       "contentKind": "press",
       "publishedAt": "2026-07-07T10:00:00+08:00",
       "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1263701&itemId=928",
-      "clusterId": "c1265",
+      "clusterId": "c1275",
       "summaryShort": {
         "sc": "2026 年 7 月 7 日，国家金融监管总局与上海市政府联合发布《关于加快上海国际再保险中心建设的若干措施》。目标是让上海成为亚太再保险交易中心——与香港争夺区域再保险枢纽地位。",
         "tc": "2026 年 7 月 7 日，國家金融監管總局與上海市政府聯合發布《關於加快上海國際再保險中心建設的若干措施》。目標是讓上海成為亞太再保險交易中心——與香港爭奪區域再保險樞紐地位。"
@@ -108633,7 +109455,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c1265",
+      "clusterId": "c1275",
       "summaryShort": {
         "sc": "2026年7月7日，国家金融监督管理总局联合上海市政府印发《加快上海国际再保险中心建设的若干措施》，提出包括税收优惠、跨境再保险便利化、机构集聚等一揽子政策。此举将深化上海与香港再保险市场的竞合关系，影响亚洲再保险版图。",
         "tc": ""
@@ -113272,7 +114094,7 @@
         "market"
       ],
       "contentKind": "circular",
-      "clusterId": "c1323",
+      "clusterId": "c1333",
       "summaryShort": {
         "sc": "2026年6月5日，金管局发布《持牌保险中介人（属认可机构）就具定期缴款条款的分红保单的报酬结构》通函，与保监局同日通函平行发布。要求银行作为持牌保险中介销售分红保单时，须采用与保监局实务指引一致的佣金分摊安排。",
         "tc": "2026年6月5日，金管局發布《持牌保險中介人（屬認可機構）就具定期繳款條款的分紅保單的報酬結構》通函，與保監局同日通函平行發布。要求銀行作為持牌保險中介銷售分紅保單時，須採用與保監局實務指引一致的佣金分攤安排。"
@@ -113360,7 +114182,7 @@
       ],
       "contentKind": "circular",
       "clusterCount": 2,
-      "clusterId": "c1323",
+      "clusterId": "c1333",
       "summaryShort": {
         "sc": "2026年6月5日，保监局发通函提请业界注意金管局同日通函《持牌保险中介人（属认可机构）就具定期缴款条款的分红保单的报酬结构》。银行渠道的分红报酬亦纳入与「公平待客」一致的分摊逻辑。",
         "tc": "2026年6月5日，保監局發通函提請業界注意金管局同日通函《持牌保險中介人（屬認可機構）就具定期繳款條款的分紅保單的報酬結構》。銀行渠道的分紅報酬亦納入與「公平待客」一致的分攤邏輯。"
@@ -115005,7 +115827,7 @@
       "themes": [
         "market"
       ],
-      "clusterId": "c1344",
+      "clusterId": "c1354",
       "summaryShort": {
         "sc": "保监局2026年5月13日发出《银行业与保险业之间的跨行业背景查核安排》通函，与金管局衔接。首阶段于2026年7月1日实施，覆盖银行及保险机构的寿险从业员，准员工过去七年操守记录可在两行业间共享。",
         "tc": "保監局5月13日發出跨行業背景查核通函"
@@ -115093,7 +115915,7 @@
         "reg"
       ],
       "contentKind": "circular",
-      "clusterId": "c1344",
+      "clusterId": "c1354",
       "summaryShort": {
         "sc": "保监局2026年5月13日发出《银行业与保险业之间的跨行业背景查核安排》通函，与金管局衔接，覆盖长期业务中介在银行与保险机构间跳槽时的主事人查核。",
         "tc": "保監局2026年5月13日發出《銀行業與保險業之間的跨行業背景查核安排》通函，與金管局銜接，覆蓋長期業務中介在銀行與保險機構間跳槽時的主事人查核。"
@@ -115324,7 +116146,7 @@
         "market",
         "reinsurance"
       ],
-      "clusterId": "c1348",
+      "clusterId": "c1358",
       "summaryShort": {
         "sc": "保监局2026年5月8日公布对《保险业（估值及资本）规则》拟议修订的咨询结论。目标在维持审慎的同时，激励保险人投资基建、增强香港作为全球风险管理中心的竞争力。修订涵盖基建投资优惠、离岸再保险宽免、IUL匹配调整等7项。",
         "tc": "保監局5月8日公布RBC修訂諮詢結論，涵蓋基建優惠、離岸再保寬免等7項"
@@ -115413,7 +116235,7 @@
         "reg"
       ],
       "contentKind": "press",
-      "clusterId": "c1348",
+      "clusterId": "c1358",
       "summaryShort": {
         "sc": "保监局2026年5月8日公布对《保险业（估值及资本）规则》拟议修订的咨询结论，目标在维持审慎的同时，激励保险人投资基建、增强香港作为全球风险管理中心的竞争力。",
         "tc": "保監局2026年5月8日公布對《保險業（估值及資本）規則》擬議修訂的諮詢結論，目標在維持審慎的同時，激勵保險人投資基建、增強香港作為全球風險管理中心的競爭力。"
@@ -121772,7 +122594,7 @@
         "market"
       ],
       "contentKind": "press",
-      "clusterId": "c1428",
+      "clusterId": "c1438",
       "summaryShort": {
         "sc": "保监局2026年1月23日公布2025年前三季临时统计：长期业务（不含退休计划）新造保单保费约2645亿港元，同比上升约55.9%；第三季单季新造约907亿，同比约+68.8%。",
         "tc": "保監局2026年1月23日公布2025年前三季臨時統計：長期業務（不含退休計劃）新造保單保費約2645億港元，同比上升約55.9%；第三季單季新造約907億，同比約+68.8%。"
@@ -121860,7 +122682,7 @@
       "themes": [
         "market"
       ],
-      "clusterId": "c1428",
+      "clusterId": "c1438",
       "summaryShort": {
         "sc": "保监局2026年1月23日公布2025年前三季临时统计：长期业务新造保费2644.52亿港元同比+55.9%，其中分红业务新保单保费2262.75亿港元同比+60.1%。终身寿险占比80.5%，储蓄寿险10.6%。",
         "tc": "保監局公布2025前三季統計，分紅保費同比+60%"
@@ -127819,7 +128641,7 @@
       "contentKind": "press",
       "publishedAt": "2025-04-30T10:00:00+08:00",
       "originalUrl": "https://www.aia.com/content/dam/group-wise/en/docs/investor-relations/2025/AIA%20Group%202025%20Q1%20New%20Business%20Highlights%20(Eng).pdf",
-      "clusterId": "c1505",
+      "clusterId": "c1515",
       "summaryShort": {
         "sc": "2025 年 4 月 30 日，友邦集团公布 2025 年首季新业务亮点：VONB 按固定汇率计增长 13%。香港业务在本地及内地访客（MCV）双引擎带动下录得强劲增长，继续保持市场第一。",
         "tc": "2025 年 4 月 30 日，友邦集團公佈 2025 年首季新業務亮點：VONB 按固定匯率計增長 13%。香港業務在本地及內地訪客（MCV）雙引擎帶動下錄得強勁增長。"
@@ -127964,7 +128786,7 @@
       "contentKind": "report",
       "publishedAt": "2025-04-30T10:00:00+08:00",
       "originalUrl": "https://www.aia.com/content/dam/group-wise/zh-hk/docs/investor-relations/2025/AIA%20Group%202025%20Q1%20New%20Business%20Highlights%20(Chi).pdf",
-      "clusterId": "c1505",
+      "clusterId": "c1515",
       "summaryShort": {
         "sc": "友邦保险公布 2025 年第一季新业务摘要：新业务价值 15 亿美元，较 2024 年创纪录的季度上升 13%。集团首席执行官李源祥指增长势头延续，香港业务为核心驱动力之一。",
         "tc": "友邦保險公佈 2025 年第一季新業務摘要：新業務價值 15 億美元，較 2024 年創紀錄的季度上升 13%。集團首席執行官李源祥指增長勢頭延續。"
@@ -133937,8 +134759,17 @@
           "sc": "2026-10-28",
           "tc": "2026-10-28"
         },
-        "itemCount": 5,
+        "itemCount": 14,
         "itemIds": [
+          "art-aon-ceo-capital-beyond-traditional-20261028",
+          "art-vig-re-charles-bridge-re-20261028",
+          "ian-starr-zoe-xie-apac-distribution-20261028",
+          "ibm-aon-debt-usi-close-20261028",
+          "ibm-ai-writing-gender-study-20261028",
+          "rn-arch-q3-reinsurance-20261028",
+          "ian-peak-re-sp-a-rating-20261028",
+          "artemis-renre-lighthouse-cat-bond-fund-20261028",
+          "hkma-one-earth-climate-taxonomy-20261028",
           "ia-hk-q2-premium-boom-jefferies-20261028",
           "ia-hk-insurance-hub-ai-terms-20261028",
           "ibm-korea-fsc-blocks-ai-jv-20261028",
@@ -138631,8 +139462,17 @@
           "sc": "2026-W44",
           "tc": "2026-W44"
         },
-        "itemCount": 39,
+        "itemCount": 48,
         "itemIds": [
+          "art-aon-ceo-capital-beyond-traditional-20261028",
+          "art-vig-re-charles-bridge-re-20261028",
+          "ian-starr-zoe-xie-apac-distribution-20261028",
+          "ibm-aon-debt-usi-close-20261028",
+          "ibm-ai-writing-gender-study-20261028",
+          "rn-arch-q3-reinsurance-20261028",
+          "ian-peak-re-sp-a-rating-20261028",
+          "artemis-renre-lighthouse-cat-bond-fund-20261028",
+          "hkma-one-earth-climate-taxonomy-20261028",
           "ia-hk-q2-premium-boom-jefferies-20261028",
           "ia-hk-insurance-hub-ai-terms-20261028",
           "ibm-korea-fsc-blocks-ai-jv-20261028",
@@ -141365,8 +142205,17 @@
           "sc": "2026-10",
           "tc": "2026-10"
         },
-        "itemCount": 482,
+        "itemCount": 491,
         "itemIds": [
+          "art-aon-ceo-capital-beyond-traditional-20261028",
+          "art-vig-re-charles-bridge-re-20261028",
+          "ian-starr-zoe-xie-apac-distribution-20261028",
+          "ibm-aon-debt-usi-close-20261028",
+          "ibm-ai-writing-gender-study-20261028",
+          "rn-arch-q3-reinsurance-20261028",
+          "ian-peak-re-sp-a-rating-20261028",
+          "artemis-renre-lighthouse-cat-bond-fund-20261028",
+          "hkma-one-earth-climate-taxonomy-20261028",
           "ia-hk-q2-premium-boom-jefferies-20261028",
           "ia-hk-insurance-hub-ai-terms-20261028",
           "ibm-korea-fsc-blocks-ai-jv-20261028",
@@ -143299,8 +144148,17 @@
           "sc": "2026 年",
           "tc": "2026 年"
         },
-        "itemCount": 1438,
+        "itemCount": 1447,
         "itemIds": [
+          "art-aon-ceo-capital-beyond-traditional-20261028",
+          "art-vig-re-charles-bridge-re-20261028",
+          "ian-starr-zoe-xie-apac-distribution-20261028",
+          "ibm-aon-debt-usi-close-20261028",
+          "ibm-ai-writing-gender-study-20261028",
+          "rn-arch-q3-reinsurance-20261028",
+          "ian-peak-re-sp-a-rating-20261028",
+          "artemis-renre-lighthouse-cat-bond-fund-20261028",
+          "hkma-one-earth-climate-taxonomy-20261028",
           "ia-hk-q2-premium-boom-jefferies-20261028",
           "ia-hk-insurance-hub-ai-terms-20261028",
           "ibm-korea-fsc-blocks-ai-jv-20261028",
@@ -146623,14 +147481,14 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 1582 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 1582 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 1592 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 1592 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 1582,
+      "totalItems": 1592,
       "sourceTiers": [
         {
           "tier": "official",
-          "count": 335,
+          "count": 336,
           "label": "监管一手"
         },
         {
@@ -146645,12 +147503,12 @@
         },
         {
           "tier": "media",
-          "count": 580,
+          "count": 588,
           "label": "媒体报道"
         },
         {
           "tier": "pro",
-          "count": 459,
+          "count": 460,
           "label": "专业解读"
         },
         {
@@ -146774,8 +147632,8 @@
         }
       ],
       "dateRange": {
-        "sc": "2013-03-05 ~ 2026-10-28",
-        "tc": "2013-03-05 ~ 2026-10-28"
+        "sc": "2013-03-05 ~ 2026-10-29",
+        "tc": "2013-03-05 ~ 2026-10-29"
       }
     },
     "marketData": {
