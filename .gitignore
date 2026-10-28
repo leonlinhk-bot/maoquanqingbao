@@ -23,6 +23,11 @@ data/_live-backup-*.json
 
 # 采集过程中的临时探索脚本（不入库）
 _*.py
+# 带日期戳的一次性采集探针（如 fetch_1029_0030.sh / parse_1029_0030_a.py）不得入库
+scripts/*_[0-9][0-9][0-9][0-9].py
+scripts/*_[0-9][0-9][0-9][0-9].sh
+scripts/*_[0-9][0-9][0-9][0-9]_*.py
+scripts/*_[0-9][0-9][0-9][0-9]_*.sh
 
 # last-check 备份不入库
 data/last-check.json.bak-*
