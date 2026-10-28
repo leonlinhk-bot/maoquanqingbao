@@ -1,9 +1,107 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-27T13:12:20Z",
-  "itemCount": 1575,
+  "generatedAt": "2026-10-28T02:14:33Z",
+  "itemCount": 1582,
   "items": [
+    {
+      "id": "ia-hk-q2-premium-boom-jefferies-20261028",
+      "title": "Jefferies：香港次季寿险保费升89%　新单件数反跌6%",
+      "sourceTier": "media",
+      "themes": [
+        "保费增长",
+        "分销渠道",
+        "经纪占比"
+      ],
+      "publishedAt": "2026-10-28T05:30:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-hk-q2-premium-boom-jefferies-20261028",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-insurers-see-premium-boom-without-new-policy-growth"
+    },
+    {
+      "id": "ia-hk-insurance-hub-ai-terms-20261028",
+      "title": "香港保险资讯平台用 AI 拆解保单条款　专攻不保事项与理赔条件",
+      "sourceTier": "media",
+      "themes": [
+        "AI解读",
+        "条款透明",
+        "消费者教育"
+      ],
+      "publishedAt": "2026-10-28T05:45:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-hk-insurance-hub-ai-terms-20261028",
+      "originalUrl": "https://insuranceasia.com/insurance/news/insurance-information-platform-deploys-ai-decode-complex-policy-terms"
+    },
+    {
+      "id": "ibm-korea-fsc-blocks-ai-jv-20261028",
+      "title": "韩国金委会否决保险研修院投资 AI 合资公司　以「业务范围」划红线",
+      "sourceTier": "media",
+      "themes": [
+        "AI治理",
+        "监管边界",
+        "机构投资"
+      ],
+      "publishedAt": "2026-10-28T00:56:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-korea-fsc-blocks-ai-jv-20261028",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/south-korean-regulator-blocks-insurance-bodys-ai-venture-595139.aspx"
+    },
+    {
+      "id": "ibm-india-commission-caps-20261027",
+      "title": "印度拟恢复佣金上限　中介收入或降六至七成，咨询期延至10月31日",
+      "sourceTier": "media",
+      "themes": [
+        "佣金监管",
+        "分销成本",
+        "中介生存"
+      ],
+      "publishedAt": "2026-10-27T23:59:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-india-commission-caps-20261027",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/indian-brokers-face-6070-revenue-hit-under-proposed-commission-caps-595134.aspx"
+    },
+    {
+      "id": "rn-eu-climate-resilience-insurance-alliance-20261028",
+      "title": "欧盟推气候韧性框架　设气候保险联盟补天灾保障缺口",
+      "sourceTier": "pro",
+      "themes": [
+        "气候韧性",
+        "保障缺口",
+        "巨灾债券"
+      ],
+      "publishedAt": "2026-10-28T01:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-eu-climate-resilience-insurance-alliance-20261028",
+      "originalUrl": "https://www.reinsurancene.ws/eu-unveils-climate-resilience-framework-with-re-insurance-protection-gap-in-focus/"
+    },
+    {
+      "id": "scmp-former-csrc-official-bribery-sentence-20261027",
+      "title": "受贿约6,500万美元　前中证监官员王惠民被判死缓",
+      "sourceTier": "media",
+      "themes": [
+        "廉政风险",
+        "监管治理",
+        "金融反腐"
+      ],
+      "publishedAt": "2026-10-27T21:35:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-former-csrc-official-bribery-sentence-20261027",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3372339/china-hands-former-regulator-suspended-death-sentence-over-us65m-bribery-charge"
+    },
+    {
+      "id": "ibm-korea-staged-crash-fraud-20261028",
+      "title": "韩国假车祸骗保成组织化产业　四个月查2,045宗、911人被查",
+      "sourceTier": "media",
+      "themes": [
+        "保险欺诈",
+        "车险理赔",
+        "成本传导"
+      ],
+      "publishedAt": "2026-10-28T01:32:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-korea-staged-crash-fraud-20261028",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/auto-motor/staged-car-crashes-drain-south-korean-motor-books-as-fraud-hits-record-595145.aspx"
+    },
     {
       "id": "ian-moodys-apac-repricing-20261027",
       "title": "穆迪：亚太险企靠重新定价守住盈利　天气损失占比上升是长期压力",
