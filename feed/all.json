@@ -1,9 +1,93 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-28T17:36:43Z",
-  "itemCount": 1592,
+  "generatedAt": "2026-10-29T10:13:21Z",
+  "itemCount": 1598,
   "items": [
+    {
+      "id": "ibm-pingan-ai-82pct-service-20261029",
+      "title": "平安AI接管82%客服：九个月14.8亿次交互　95%寿险保单秒级核保",
+      "sourceTier": "media",
+      "themes": [
+        "AI客服",
+        "智能核保",
+        "综合成本率"
+      ],
+      "publishedAt": "2026-10-29T04:06:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-pingan-ai-82pct-service-20261029",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/ping-ans-ai-now-handles-82-of-customer-service-as-insurer-posts-8-3-profit-rise-595370.aspx"
+    },
+    {
+      "id": "hkma-fed-hold-response-20261029",
+      "title": "金管局回应美联储维持利率3.75%–4%：港美息差持续　套息或令港元逐步回软",
+      "sourceTier": "official",
+      "themes": [
+        "利率环境",
+        "港元流动性",
+        "保费融资"
+      ],
+      "publishedAt": "2026-10-29",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-fed-hold-response-20261029",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261029-3/"
+    },
+    {
+      "id": "ibm-korea-retirement-misselling-20261029",
+      "title": "韩国退休险加保障功能　学者警告长者销售误导风险上升",
+      "sourceTier": "media",
+      "themes": [
+        "退休保障",
+        "适当性原则",
+        "产品披露"
+      ],
+      "publishedAt": "2026-10-29T04:01:00+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-korea-retirement-misselling-20261029",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/koreas-retirement-insurance-push-raises-misselling-risk-for-older-buyers-academics-warn-595368.aspx"
+    },
+    {
+      "id": "ian-scor-bs-apac-specialty-20261029",
+      "title": "Scor Business Solutions 拟12个月内在亚洲铺专业险：海运、网络安全、另类风险",
+      "sourceTier": "pro",
+      "themes": [
+        "专业险",
+        "亚太扩张",
+        "承保能力"
+      ],
+      "publishedAt": "2026-10-29T07:30:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-scor-bs-apac-specialty-20261029",
+      "originalUrl": "https://insuranceasianews.com/scor-business-solutions-sets-sights-on-profitable-apac-build-out-with-specialty-push/"
+    },
+    {
+      "id": "ian-elseco-asia-ah-coverholder-20261029",
+      "title": "迪拜专业险MGA elseco 进亚洲：新加坡设劳合社 coverholder　先做意外及健康险",
+      "sourceTier": "pro",
+      "themes": [
+        "MGA",
+        "意外及健康险",
+        "劳合社亚洲"
+      ],
+      "publishedAt": "2026-10-29T15:31:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-elseco-asia-ah-coverholder-20261029",
+      "originalUrl": "https://insuranceasianews.com/elseco-expands-into-asia-with-singapore-ah-lloyds-coverholder-launch/"
+    },
+    {
+      "id": "boclife-h1-2026-results-20261023",
+      "title": "中银人寿上半年新造标准保费升27%、新造业务价值升56%　人民币业务市占近五成",
+      "sourceTier": "insurer",
+      "themes": [
+        "中期业绩",
+        "渠道结构",
+        "人民币保险"
+      ],
+      "publishedAt": "2026-10-23",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=boclife-h1-2026-results-20261023",
+      "originalUrl": "https://www.boclife.com.hk/tc/news/boc-life-delivers-strong-growth-across-key-business-metrics-in-first-half-of2026-standard-new-business-premiums-and-new-business-value-reach-record-highs.html"
+    },
     {
       "id": "art-renre-ils-broker-facilities-20261029",
       "title": "RenaissanceRe CEO：ILS 资本版图演变是机会　经纪自设平台只挤压小玩家",

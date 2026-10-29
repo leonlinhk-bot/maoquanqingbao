@@ -630,19 +630,19 @@
       "tc": "情報密度"
     },
     "subtitle": {
-      "sc": "自动从 1592 条资讯聚合 · sourceKey 标准化完成",
-      "tc": "自動從 1592 條資訊聚合 · sourceKey 標準化完成"
+      "sc": "自动从 1598 条资讯聚合 · sourceKey 标准化完成",
+      "tc": "自動從 1598 條資訊聚合 · sourceKey 標準化完成"
     },
-    "totalItems": 1592,
+    "totalItems": 1598,
     "sourceTiers": [
       {
         "tier": "official",
-        "count": 336,
+        "count": 337,
         "label": "监管一手"
       },
       {
         "tier": "insurer",
-        "count": 176,
+        "count": 177,
         "label": "保司公告"
       },
       {
@@ -652,12 +652,12 @@
       },
       {
         "tier": "media",
-        "count": 588,
+        "count": 590,
         "label": "媒体报道"
       },
       {
         "tier": "pro",
-        "count": 460,
+        "count": 462,
         "label": "专业解读"
       },
       {
