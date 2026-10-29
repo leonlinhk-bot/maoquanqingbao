@@ -1,9 +1,93 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-29T10:13:21Z",
-  "itemCount": 1598,
+  "generatedAt": "2026-10-29T17:15:14Z",
+  "itemCount": 1604,
   "items": [
+    {
+      "id": "art-global-cat-loss-91bn-aon-20261029",
+      "title": "Aon：前九月全球巨灾保险损失910亿美元　2019年以来最低",
+      "sourceTier": "pro",
+      "themes": [
+        "巨灾损失",
+        "再保定价",
+        "保障缺口"
+      ],
+      "publishedAt": "2026-10-29T23:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=art-global-cat-loss-91bn-aon-20261029",
+      "originalUrl": "https://www.artemis.bm/news/global-insured-natural-catastrophe-losses-reach-91bn-in-9m26-lowest-since-2019-aon/"
+    },
+    {
+      "id": "rn-everest-casualty-reserves-20261029",
+      "title": "Everest 第三季责任险再拨备6亿美元　明言看淡1月1日续保的责任险",
+      "sourceTier": "pro",
+      "themes": [
+        "责任险",
+        "再保续保",
+        "准备金"
+      ],
+      "publishedAt": "2026-10-29T22:00:00+08:00",
+      "score": 73,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rn-everest-casualty-reserves-20261029",
+      "originalUrl": "https://www.reinsurancene.ws/everest-confident-of-delivering-excellent-reinsurance-portfolio-but-bearish-on-casualty-ahead-of-jan-1-says-ceo/"
+    },
+    {
+      "id": "art-catbond-terms-2027-perrot-20261029",
+      "title": "Marsh Securities：2027年巨灾债券条款或放松　但纪律不会破",
+      "sourceTier": "pro",
+      "themes": [
+        "巨灾债券",
+        "条款软化",
+        "另类资本"
+      ],
+      "publishedAt": "2026-10-29T19:30:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=art-catbond-terms-2027-perrot-20261029",
+      "originalUrl": "https://www.artemis.bm/news/cat-bond-terms-may-loosen-next-year-but-discipline-wont-break-perrot-marsh-securities/"
+    },
+    {
+      "id": "art-nephila-ils-revenue-markel-20261030",
+      "title": "Markel 旗下 Nephila：ILS 管理收入前九月1.2亿美元　同比增42%",
+      "sourceTier": "pro",
+      "themes": [
+        "ILS基金",
+        "另类资本",
+        "再保周期"
+      ],
+      "publishedAt": "2026-10-30T00:10:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=art-nephila-ils-revenue-markel-20261030",
+      "originalUrl": "https://www.artemis.bm/news/nephilas-multi-year-efforts-driving-higher-ils-revenues-markels-crowley/"
+    },
+    {
+      "id": "ian-sea-haze-mclarens-20261029",
+      "title": "东南亚火災煙霾：暂未见重大保险损失　但整体影响难估（McLarens）",
+      "sourceTier": "pro",
+      "themes": [
+        "火災煙霾",
+        "理赔",
+        "东南亚"
+      ],
+      "publishedAt": "2026-10-29T16:46:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-sea-haze-mclarens-20261029",
+      "originalUrl": "https://insuranceasianews.com/southeast-asia-fires-haze-show-no-sign-of-major-insured-losses-but-full-impact-hard-to-gauge-mclarens/"
+    },
+    {
+      "id": "ibm-cyber-human-cost-cfc-20261029",
+      "title": "网络险条款开始覆盖「人身代价」：高管搬迁、心理治疗、个人资金被盗",
+      "sourceTier": "media",
+      "themes": [
+        "网络险",
+        "条款演进",
+        "高管风险"
+      ],
+      "publishedAt": "2026-10-29",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-cyber-human-cost-cfc-20261029",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/more-cyber-wordings-are-covering-the-human-cost-of-an-attack-595411.aspx"
+    },
     {
       "id": "ibm-pingan-ai-82pct-service-20261029",
       "title": "平安AI接管82%客服：九个月14.8亿次交互　95%寿险保单秒级核保",
