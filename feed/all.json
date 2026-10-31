@@ -1,9 +1,191 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-29T17:15:14Z",
-  "itemCount": 1604,
+  "generatedAt": "2026-10-31T04:20:07Z",
+  "itemCount": 1617,
   "items": [
+    {
+      "id": "hkma-monetary-stats-sep2026-20261030",
+      "title": "金管局：9月总存款升0.4%　人民币存款增2.6%至11,299亿元、贷款年增7.7%",
+      "sourceTier": "official",
+      "themes": [
+        "存款结构",
+        "人民币存款",
+        "资金流向"
+      ],
+      "publishedAt": "2026-10-30T16:30:00+08:00",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-monetary-stats-sep2026-20261030",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261030-7/"
+    },
+    {
+      "id": "hkma-mortgage-survey-sep2026-20261030",
+      "title": "金管局：9月按揭申请跌10.5%至7,560宗　新批贷款318亿元、转按逆势升14.6%",
+      "sourceTier": "official",
+      "themes": [
+        "按揭市场",
+        "转按",
+        "楼市需求"
+      ],
+      "publishedAt": "2026-10-30T16:30:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-mortgage-survey-sep2026-20261030",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261030-5/"
+    },
+    {
+      "id": "ibm-taiwan-cyber-h1-2026-20261031",
+      "title": "台湾网络险上半年保费3.19亿新台币创新高　半导体业占48.7%、理赔仅25万元",
+      "sourceTier": "media",
+      "themes": [
+        "网络安全保险",
+        "核保要点",
+        "半导体供应链"
+      ],
+      "publishedAt": "2026-10-31",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-taiwan-cyber-h1-2026-20261031",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/taiwans-semiconductor-sector-drives-cyber-insurance-to-record-pace-595684.aspx"
+    },
+    {
+      "id": "ibm-korea-gyeonggi-climate-heat-20261031",
+      "title": "韩国京畿道气候保险：中暑诊断给付一年增至1,472宗　新增300万韩圜身故保障",
+      "sourceTier": "media",
+      "themes": [
+        "气候保险",
+        "参数式保险",
+        "普惠保障"
+      ],
+      "publishedAt": "2026-10-31",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-korea-gyeonggi-climate-heat-20261031",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/gyeonggi-heat-illness-payouts-quadruple-in-six-months-595682.aspx"
+    },
+    {
+      "id": "ian-am-best-apac-11-renewals-20261030",
+      "title": "AM Best：亚太承保盈利与资本实力改善　1.1续保前整体稳定但市场分化加剧",
+      "sourceTier": "pro",
+      "themes": [
+        "1.1续保",
+        "承保盈利",
+        "市场分化"
+      ],
+      "publishedAt": "2026-10-30T17:38:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-am-best-apac-11-renewals-20261030",
+      "originalUrl": "https://insuranceasianews.com/strong-underwriting-results-and-capital-strength-shape-asias-1-1-renewals-am-best/"
+    },
+    {
+      "id": "ia-hk-life-q3-slowdown-jefferies-20261030",
+      "title": "Jefferies：港险三季度增速将「看起来放缓」　但需求未转弱（AIA 新业务价值同比料跌3%）",
+      "sourceTier": "pro",
+      "themes": [
+        "新造保费",
+        "业绩展望",
+        "客户需求"
+      ],
+      "publishedAt": "2026-10-30T07:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-hk-life-q3-slowdown-jefferies-20261030",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-life-insurers-face-slowdown-2025-gains-distort-growth-jefferies"
+    },
+    {
+      "id": "ia-peak-re-sp-outlook-20261030",
+      "title": "标普：Peak Re 增长可期但利润率受压　2026-28年综合成本率升至90-95%",
+      "sourceTier": "pro",
+      "themes": [
+        "再保险",
+        "承保纪律",
+        "香港枢纽"
+      ],
+      "publishedAt": "2026-10-30T06:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-peak-re-sp-outlook-20261030",
+      "originalUrl": "https://insuranceasia.com/insurance/news/peak-re-faces-margin-squeeze-global-expansion-grows-sp"
+    },
+    {
+      "id": "ia-apac-reinsurers-margin-sp-20261030",
+      "title": "标普：亚太再保未来两年利润率受压　股本回报长期落后全球同业",
+      "sourceTier": "pro",
+      "themes": [
+        "亚太再保",
+        "再保定价",
+        "资产配置"
+      ],
+      "publishedAt": "2026-10-30T05:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-apac-reinsurers-margin-sp-20261030",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/asia-pacific-reinsurers-face-margin-squeeze-rates-fall"
+    },
+    {
+      "id": "ia-marine-premiums-iumi-20261030",
+      "title": "IUMI：2025年全球水险保费升5.5%至426亿美元　货运与船壳带动、费率仍受压",
+      "sourceTier": "pro",
+      "themes": [
+        "水险",
+        "货运险",
+        "费率"
+      ],
+      "publishedAt": "2026-10-30T05:15:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-marine-premiums-iumi-20261030",
+      "originalUrl": "https://insuranceasia.com/insurance/news/marine-insurance-premiums-hit-426b-despite-pricing-pressure"
+    },
+    {
+      "id": "ibm-axa-9m-hk-protection-20261030",
+      "title": "安盛前九月寿险健康保费升7%：香港「保障＋一般账户储蓄」、日本「保障＋投连」带动",
+      "sourceTier": "media",
+      "themes": [
+        "保司业绩",
+        "保障需求",
+        "储蓄险"
+      ],
+      "publishedAt": "2026-10-30T10:47:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-axa-9m-hk-protection-20261030",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/hong-kong-and-japan-protection-sales-power-axas-life-growth-as-axa-xl-pulls-back-595576.aspx"
+    },
+    {
+      "id": "ibm-credit-insurance-icisa-20261030",
+      "title": "ICISA：2025年贸易信用险承保9.58万亿欧元贸易　但覆盖率降至14%",
+      "sourceTier": "media",
+      "themes": [
+        "贸易信用险",
+        "企业破产",
+        "贸易融资"
+      ],
+      "publishedAt": "2026-10-30T16:48:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-credit-insurance-icisa-20261030",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/credit-insurance-covers-9-58trn-in-trade-as-insolvencies-rise-595617.aspx"
+    },
+    {
+      "id": "hkma-negative-equity-2026q3-20261030",
+      "title": "金管局：9月底负资产住宅按揭降至3,819宗　涉款173亿元、连续第二季回落",
+      "sourceTier": "official",
+      "themes": [
+        "负资产",
+        "按揭风险",
+        "楼市"
+      ],
+      "publishedAt": "2026-10-30T16:30:00+08:00",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-negative-equity-2026q3-20261030",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261030-6/"
+    },
+    {
+      "id": "art-safepoint-nature-coast-2026-2-20261030",
+      "title": "SafePoint 巨灾债目标翻倍至6亿美元　为历来最大一笔、AA 层指引降至3.75-4%",
+      "sourceTier": "pro",
+      "themes": [
+        "巨灾债券",
+        "ILS",
+        "再保资本"
+      ],
+      "publishedAt": "2026-10-30T16:45:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=art-safepoint-nature-coast-2026-2-20261030",
+      "originalUrl": "https://www.artemis.bm/news/safepoint-more-than-doubles-nature-coast-re-2026-2-cat-bond-target-to-600m/"
+    },
     {
       "id": "art-global-cat-loss-91bn-aon-20261029",
       "title": "Aon：前九月全球巨灾保险损失910亿美元　2019年以来最低",
