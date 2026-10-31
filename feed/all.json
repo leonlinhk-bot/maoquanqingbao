@@ -1,9 +1,65 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-31T04:20:07Z",
-  "itemCount": 1617,
+  "generatedAt": "2026-10-31T17:41:10Z",
+  "itemCount": 1621,
   "items": [
+    {
+      "id": "ian-full-capacity-korea-re-backstop-20261031",
+      "title": "IAN周报：韩国拟立法设国家再保险backstop　BlackRock指自保再保与第三方资本成亚太「首要议题」",
+      "sourceTier": "media",
+      "themes": [
+        "再保险",
+        "另类资本",
+        "韩国市场"
+      ],
+      "publishedAt": "2026-10-31T08:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-full-capacity-korea-re-backstop-20261031",
+      "originalUrl": "https://www.insuranceasianews.com/looking-beyond-market-cycles/"
+    },
+    {
+      "id": "iaasia-weekly-cat-loss-hk-indonesia-20261031",
+      "title": "Insurance Asia周报：全球巨灾损失2,420亿美元　香港寿险保费续升、印尼收紧资本规则",
+      "sourceTier": "media",
+      "themes": [
+        "巨灾损失",
+        "寿险保费",
+        "资本监管"
+      ],
+      "publishedAt": "2026-10-31T05:00:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-weekly-cat-loss-hk-indonesia-20261031",
+      "originalUrl": "https://insuranceasia.com/insurance/news/week-in-insurance-catastrophe-losses-hit-242b-hong-kong-life-premiums-surge-indonesia-tightens-capital-rules"
+    },
+    {
+      "id": "ibm-hcmc-social-insurance-compliance-20261031",
+      "title": "胡志明市拟排查6,787家运输企业社保合规　欠缴近13.6万亿越南盾、逃缴最高罚18-20%",
+      "sourceTier": "media",
+      "themes": [
+        "社保合规",
+        "强制性保险",
+        "越南市场"
+      ],
+      "publishedAt": "2026-10-31T00:35:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-hcmc-social-insurance-compliance-20261031",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/auto-motor/ho-chi-minh-city-moves-to-close-the-compliance-gap-in-its-transport-sector-595687.aspx"
+    },
+    {
+      "id": "ian-willis-tilney-departs-20261031",
+      "title": "Willis亚太自然资源险负责人Nicky Tilney离任　任职四年后返英",
+      "sourceTier": "media",
+      "themes": [
+        "人事变动",
+        "经纪市场",
+        "自然资源险"
+      ],
+      "publishedAt": "2026-10-31T15:07:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-willis-tilney-departs-20261031",
+      "originalUrl": "https://www.insuranceasianews.com/willis-asia-natural-resources-head-nicki-tilney-departs/"
+    },
     {
       "id": "hkma-monetary-stats-sep2026-20261030",
       "title": "金管局：9月总存款升0.4%　人民币存款增2.6%至11,299亿元、贷款年增7.7%",
