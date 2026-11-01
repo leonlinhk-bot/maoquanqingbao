@@ -1,9 +1,54 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-10-31T17:41:10Z",
-  "itemCount": 1621,
+  "generatedAt": "2026-11-01T02:08:59Z",
+  "itemCount": 1624,
   "items": [
+    {
+      "id": "sg-carried-interest-family-office-13o13u-202609",
+      "title": "新加坡 carried interest（附带权益）免税拟2027课税年度生效，或延伸至13O/13U单一家办投资团队——与香港6月税改正面竞争，两地争夺基金经理与家办的多线竞争升温",
+      "sourceTier": "pro",
+      "themes": [
+        "family-office",
+        "benchmark",
+        "offshore",
+        "taxation"
+      ],
+      "publishedAt": "2026-09-30T00:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sg-carried-interest-family-office-13o13u-202609",
+      "originalUrl": "https://altassetasia.com/singapores-new-carried-interest-tax-break-raises-the-stakes-in-its-hong-kong-rivalry/"
+    },
+    {
+      "id": "capital-hk-5yrplan-family-wealth-roadmap-20261004",
+      "title": "《香港第一个五年规划（2026-2030）》如何重塑家族财富管理：人民币成为家族资产配置独立维度、企业出海对接家族财富管理、港星协同互补——香港昇世匯盈CEO冼健岷解读",
+      "sourceTier": "media",
+      "themes": [
+        "family-office",
+        "wealth-management",
+        "rmb",
+        "market"
+      ],
+      "publishedAt": "2026-10-04T00:00:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=capital-hk-5yrplan-family-wealth-roadmap-20261004",
+      "originalUrl": "https://www.capital-hk.com/interview/cover-story/Coverstory_Capital_102026"
+    },
+    {
+      "id": "legco-express-trust-beneficial-ownership-consultation-20261005",
+      "title": "财库局10月5日向立法会提交文件：2026年第四季就加强公司及明示信托实益拥有权透明度的立法建议展开公众咨询——拟在公司注册处记录个别公司实益拥有人、要求明示信托保存并提供实益拥有人资料、加强会计师作为信托或公司服务提供者的监管",
+      "sourceTier": "official",
+      "themes": [
+        "trust",
+        "compliance",
+        "aml",
+        "family-office"
+      ],
+      "publishedAt": "2026-10-05T00:00:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=legco-express-trust-beneficial-ownership-consultation-20261005",
+      "originalUrl": "https://www.legco.gov.hk/yr2026/chinese/panels/fa/papers/fa20261005cb1-1126-3-c.pdf"
+    },
     {
       "id": "ian-full-capacity-korea-re-backstop-20261031",
       "title": "IAN周报：韩国拟立法设国家再保险backstop　BlackRock指自保再保与第三方资本成亚太「首要议题」",
