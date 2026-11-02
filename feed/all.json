@@ -1,9 +1,82 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-11-01T02:08:59Z",
-  "itemCount": 1624,
+  "generatedAt": "2026-11-02T02:16:58Z",
+  "itemCount": 1629,
   "items": [
+    {
+      "id": "ian-sirc-2026-hk-ils-pcc-20261102",
+      "title": "新加坡SIRC本周登场：续保费率下行、香港做区域再保与另类风险转移中心的野心、印度经Gift City开放再保成三大议题",
+      "sourceTier": "media",
+      "themes": [
+        "ILS",
+        "专属自保",
+        "另类风险转移",
+        "区域竞争"
+      ],
+      "publishedAt": "2026-11-02T07:30:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-sirc-2026-hk-ils-pcc-20261102",
+      "originalUrl": "https://insuranceasianews.com/softening-rates-hong-kongs-ils-ambitions-indias-opening-market-to-dominate-in-singapore/"
+    },
+    {
+      "id": "iaasia-prudential-mastercard-direct-billing-20261102",
+      "title": "保诚香港联同 MediConCen 与万事达推医疗费用直接结算：合资格开支获批后以虚拟卡直付诊所医院，客户免垫付、免事后索偿",
+      "sourceTier": "media",
+      "themes": [
+        "医疗理赔",
+        "直接结算",
+        "支付科技",
+        "客户体验"
+      ],
+      "publishedAt": "2026-11-02T05:15:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-prudential-mastercard-direct-billing-20261102",
+      "originalUrl": "https://insuranceasia.com/insurance/news/prudential-hong-kong-removes-upfront-payments-eligible-care"
+    },
+    {
+      "id": "iaasia-fitch-ai-disruption-score-20261102",
+      "title": "惠誉AI压力测试：保险各子板块业务中断评分同为20（五年期「中度」），零售险受科技公司冲击大于商业险、再保面临定价模型失真",
+      "sourceTier": "media",
+      "themes": [
+        "AI冲击",
+        "信用评级",
+        "分销格局",
+        "再保模型"
+      ],
+      "publishedAt": "2026-11-02T05:00:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-fitch-ai-disruption-score-20261102",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/insurers-face-ai-competition-technology-firms-target-retail"
+    },
+    {
+      "id": "sunlife-my-sunlife-migration-20261102",
+      "title": "永明：My Sun Life HK 与 Sun Life MPF 应用今日18:00起停服至明日08:00　迁移至全新 My Sunlife Hong Kong",
+      "sourceTier": "insurer",
+      "themes": [
+        "系统升级",
+        "客户服务",
+        "强积金"
+      ],
+      "publishedAt": "2026-11-02T00:00:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sunlife-my-sunlife-migration-20261102",
+      "originalUrl": "https://www.sunlife.com.hk/zh-hant/about-us/newsroom/news-releases/2026/"
+    },
+    {
+      "id": "ian-cyclone-arnab-andhra-losses-20261101",
+      "title": "气旋Arnab袭印度安得拉邦　邦政府估损失约4.8亿美元",
+      "sourceTier": "media",
+      "themes": [
+        "巨灾",
+        "气候变化",
+        "再保定价"
+      ],
+      "publishedAt": "2026-11-01T16:17:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-cyclone-arnab-andhra-losses-20261101",
+      "originalUrl": "https://insuranceasianews.com/cyclone-arnab-leads-to-us480m-in-losses-in-indias-andhra-pradesh/"
+    },
     {
       "id": "sg-carried-interest-family-office-13o13u-202609",
       "title": "新加坡 carried interest（附带权益）免税拟2027课税年度生效，或延伸至13O/13U单一家办投资团队——与香港6月税改正面竞争，两地争夺基金经理与家办的多线竞争升温",
