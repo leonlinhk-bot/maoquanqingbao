@@ -47,6 +47,17 @@ print(f"健康检查 OK (script {opens} 对 · core {len(core['items'])} 条 · 
 PY
 node --check app.js && echo "app.js 语法 OK"
 
+# 2.8 发布分级闸门（2026-10-27 用户拍板）
+#   🟢 只加条目 / rebuild 派生物 → 放行
+#   🔴 改结构·阈值·分类·文案·品牌口径，或删除条目 → 须确认后再发
+#   站是对外可见的，所以这里对应「对外发消息」硬闸门。
+if ! python3 scripts/publish-gate.py; then
+  echo ""
+  echo "⛔ 已暂停发布：本次改动需要你确认（见上方清单）。"
+  echo "   内容都还在本地，确认后重跑即可。"
+  exit 3
+fi
+
 # 3. 提交 + 推送
 git add -A
 if git diff --cached --quiet; then
