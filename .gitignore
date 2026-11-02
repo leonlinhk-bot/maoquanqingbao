@@ -39,3 +39,4 @@ data/_staging/
 data/_10*_*/
 data/_raw_*/
 data/.last-check-backup-*.json
+data/.publish-approved

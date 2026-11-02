@@ -26,13 +26,14 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parent.parent
 APPROVAL_FILE = REPO / "data" / ".publish-approved"
 
-# rebuild 派生物：每跑一次都会变，不算「人工改动」
+# rebuild / 采集管道派生物：每跑一次都会变，不算「人工改动」
 DERIVED_EXACT = {
     "data/items.json",
     "data/core.json",
     "data/stats.json",
 }
-DERIVED_PREFIX = ("feed/", "posters/", "data/_staging/", "data/_raw/")
+# `data/_*` 是仓库既有约定：下划线前缀 = 瞬态产物（_raw / _staging / _feed-*）
+DERIVED_PREFIX = ("feed/", "posters/", "data/_")
 
 # live-items.json 里 rebuild 会自动同步的 meta 字段（其余 meta 改动视为口径变更）
 META_VOLATILE = {"windowNote"}
