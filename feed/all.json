@@ -1,9 +1,830 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-11-02T02:16:58Z",
-  "itemCount": 1629,
+  "generatedAt": "2026-11-06T17:05:06Z",
+  "itemCount": 1684,
   "items": [
+    {
+      "id": "ia-efr-broker-financial-returns-20261105",
+      "title": "保监局开通保险经纪财报电子提交　11月5日起经IIC平台办理、硬本并行至2027年10月31日",
+      "sourceTier": "official",
+      "themes": [
+        "保险经纪",
+        "财务报表",
+        "电子提交",
+        "合规"
+      ],
+      "publishedAt": "2026-11-05",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-efr-broker-financial-returns-20261105",
+      "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_5.11.2026_Eng.pdf"
+    },
+    {
+      "id": "prudential-q3-2026-nbp-20261105",
+      "title": "保诚第三季新业务利润7.09亿美元升1%　香港本地业务双位数增长、内地拖累全年指引",
+      "sourceTier": "insurer",
+      "themes": [
+        "新业务利润",
+        "香港业务",
+        "内地",
+        "业绩"
+      ],
+      "publishedAt": "2026-11-05",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=prudential-q3-2026-nbp-20261105",
+      "originalUrl": "https://prudentialplc.com/en/newsroom/company-news/2026/prudential-plc-q3-business-performance-update"
+    },
+    {
+      "id": "manulife-asia-q3-2026-20261105",
+      "title": "宏利亚洲第三季核心盈利升17%至6.35亿美元　香港新造CSM升至3.85亿加元、内地跌至4,300万",
+      "sourceTier": "media",
+      "themes": [
+        "亚洲业绩",
+        "香港",
+        "内地",
+        "健康合作"
+      ],
+      "publishedAt": "2026-11-05T14:23:00+08:00",
+      "score": 80,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-asia-q3-2026-20261105",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/benefits/manulife-asia-core-earnings-jump-17-as-hong-kong-and-japan-offset-chinese-mainland-slowdown-596266.aspx"
+    },
+    {
+      "id": "sunlife-asia-q3-2026-20261105",
+      "title": "永明亚洲第三季销售升9%　香港竞争令新造CSM由3.22亿加元降至2.80亿",
+      "sourceTier": "media",
+      "themes": [
+        "亚洲业绩",
+        "香港竞争",
+        "高净值",
+        "新造CSM"
+      ],
+      "publishedAt": "2026-11-05T14:11:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=sunlife-asia-q3-2026-20261105",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/benefits/sunlife-asia-sales-rise-9-but-hong-kong-competition-squeezes-new-business-margins-596263.aspx"
+    },
+    {
+      "id": "swissre-9m-2026-pc-csm-20261105",
+      "title": "瑞再首九月净利42亿美元升3%　惟产险再保新造CSM跌28%、反映续保价格走软",
+      "sourceTier": "media",
+      "themes": [
+        "再保险",
+        "新造CSM",
+        "价格周期",
+        "资本"
+      ],
+      "publishedAt": "2026-11-05T15:16:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=swissre-9m-2026-pc-csm-20261105",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/swiss-re-books-us4-2bn-profit-as-pandc-pipeline-compresses-596273.aspx"
+    },
+    {
+      "id": "artemis-catbond-spreads-2017-low-20261105",
+      "title": "巨灾债券风险息差跌至2017年以来最低　10月底风险息差4.33%、整体票息8.41%",
+      "sourceTier": "pro",
+      "themes": [
+        "ILS",
+        "巨灾债券",
+        "息差",
+        "另类资本"
+      ],
+      "publishedAt": "2026-11-05",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-catbond-spreads-2017-low-20261105",
+      "originalUrl": "https://www.artemis.bm/news/cat-bond-risk-spreads-fall-to-lowest-level-since-2017-as-tightening-continued-in-october-plenum/"
+    },
+    {
+      "id": "ian-arb-1-1-renewals-20261105",
+      "title": "ARB：再保资本约6,500亿美元、1.1续保费率料再降15%–20%　「未来12个月市场不会转向」",
+      "sourceTier": "pro",
+      "themes": [
+        "再保险",
+        "1.1续保",
+        "产能",
+        "费率"
+      ],
+      "publishedAt": "2026-11-05T11:30:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-arb-1-1-renewals-20261105",
+      "originalUrl": "https://insuranceasianews.com/i-dont-think-that-the-market-will-turn-anytime-soon-capital-surplus-continues-to-drive-rate-cuts-ahead-of-1-1-renewals-william-pang-says/"
+    },
+    {
+      "id": "insuranceasia-hk-life-q3-jefferies-20261105",
+      "title": "富瑞：香港寿险第三季增长料放缓　次季银保新造保费升81%、经纪渠道升84%",
+      "sourceTier": "media",
+      "themes": [
+        "香港寿险",
+        "新造保费",
+        "银保",
+        "渠道结构"
+      ],
+      "publishedAt": "2026-11-05T12:30:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-hk-life-q3-jefferies-20261105",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-life-insurance-growth-faces-q3-slowdown-amidst-reforms"
+    },
+    {
+      "id": "prudential-ai-product-6-weeks-20261105",
+      "title": "保诚：AI可把产品开发由4–6个月压到6–8周　但定价仍须人工把关",
+      "sourceTier": "media",
+      "themes": [
+        "AI",
+        "产品开发",
+        "代理赋能",
+        "核保"
+      ],
+      "publishedAt": "2026-11-05",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=prudential-ai-product-6-weeks-20261105",
+      "originalUrl": "https://insuranceasia.com/insurance/event-news/prudential-says-ai-could-cut-insurance-product-development-6-weeks"
+    },
+    {
+      "id": "fwd-aml-remediation-20261105",
+      "title": "富卫回应保监局反洗钱检查：已处理大部分问题　加强培训与科技监控",
+      "sourceTier": "media",
+      "themes": [
+        "反洗钱",
+        "合规",
+        "执法",
+        "客户尽职审查"
+      ],
+      "publishedAt": "2026-11-05",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fwd-aml-remediation-20261105",
+      "originalUrl": "https://insuranceasia.com/insurance/exclusive/fwd-tightens-anti-laundering-controls"
+    },
+    {
+      "id": "insuranceasia-hk-wealth-3t-20261106",
+      "title": "香港超越瑞士成最大离岸财富管理中心　管理资产约3.3万亿美元、2025年净流入2,000亿",
+      "sourceTier": "media",
+      "themes": [
+        "财富管理",
+        "高净值",
+        "跨境",
+        "医疗需求"
+      ],
+      "publishedAt": "2026-11-06T00:14:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-hk-wealth-3t-20261106",
+      "originalUrl": "https://insuranceasia.com/event-news/hong-kongs-wealth-ambitions-extend-beyond-33t-in-assets"
+    },
+    {
+      "id": "metlife-asia-q3-2026-20261105",
+      "title": "大都会人寿亚洲第三季调整后盈利升17%至5.5亿美元　销售同比跌6%属高基数",
+      "sourceTier": "media",
+      "themes": [
+        "亚洲业绩",
+        "日本韩国",
+        "销售",
+        "投资收益"
+      ],
+      "publishedAt": "2026-11-05T19:43:00+08:00",
+      "score": 73,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=metlife-asia-q3-2026-20261105",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/metlife-asia-earnings-rise-17-as-investment-returns-and-volume-growth-offset-sales-dip-596308.aspx"
+    },
+    {
+      "id": "ian-ambest-apac-renewals-20261104",
+      "title": "AM Best：亚太1.1续保继续走软但周期压力小于美国　网络与AI是区内最难的新兴风险",
+      "sourceTier": "media",
+      "themes": [
+        "1.1续保",
+        "亚太再保",
+        "网络险",
+        "AI责任",
+        "GIFT City"
+      ],
+      "publishedAt": "2026-11-04T22:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-ambest-apac-renewals-20261104",
+      "originalUrl": "https://insuranceasianews.com/cyber-and-ai-related-risks-are-some-of-the-most-challenging-risks-emerging-in-the-region/"
+    },
+    {
+      "id": "hkma-gflis-close-20261104",
+      "title": "金管局：第五届国际金融领袖投资峰会闭幕　300 位金融领袖聚港、主题「重订规则」",
+      "sourceTier": "official",
+      "themes": [
+        "国际金融领袖投资峰会",
+        "资产管理",
+        "另类投资",
+        "家族办公室生态"
+      ],
+      "publishedAt": "2026-11-04",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-gflis-close-20261104",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261104-3/"
+    },
+    {
+      "id": "ibm-prudential-japan-cost-20261104",
+      "title": "保诚日本销售禁令延长至 2027 年 1 月底　两年税前利润损失约 13 亿美元、FSA 追责至控股公司",
+      "sourceTier": "media",
+      "themes": [
+        "日本FSA",
+        "销售停止令",
+        "控股公司问责",
+        "代理激励"
+      ],
+      "publishedAt": "2026-11-04",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-prudential-japan-cost-20261104",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/prudential-counts-us1-3bn-japan-cost-as-it-reshapes-its-asia-and-em-footprint-596134.aspx"
+    },
+    {
+      "id": "ibm-korea-insurers-lowpbr-20261104",
+      "title": "韩国交易所点名 151 家低 PBR 公司　韩华生命、兴国火灾海上在列，回报与资本两难",
+      "sourceTier": "media",
+      "themes": [
+        "韩国保险",
+        "K-ICS",
+        "资本充足",
+        "低估值名单"
+      ],
+      "publishedAt": "2026-11-04",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-korea-insurers-lowpbr-20261104",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/korean-insurers-land-on-exchanges-lowvaluation-watchlist-596140.aspx"
+    },
+    {
+      "id": "ibm-philhealth-ceo-scam-20261104",
+      "title": "菲律宾 PhilHealth 警告 CEO 冒名诈骗　亚太保险业高管身份被盗用成常态",
+      "sourceTier": "media",
+      "themes": [
+        "身份冒用",
+        "社交工程",
+        "网络诈骗",
+        "客户教育"
+      ],
+      "publishedAt": "2026-11-04",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-philhealth-ceo-scam-20261104",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/ceo-impersonation-scam-prompts-philhealth-public-warning-596136.aspx"
+    },
+    {
+      "id": "ibm-igi-combined-ratio-20261104",
+      "title": "IGI 综合成本率 85.7% 的背后：前九月准备金释放 3,940 万美元，事故年口径已达 101%",
+      "sourceTier": "media",
+      "themes": [
+        "综合成本率",
+        "准备金释放",
+        "能源险",
+        "周期管理"
+      ],
+      "publishedAt": "2026-11-04",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-igi-combined-ratio-20261104",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/igis-85-7-combined-ratio-obscures-a-tougher-underlying-picture-596116.aspx"
+    },
+    {
+      "id": "prn-hklife-broker-channel-20261104",
+      "title": "香港人寿正式开通保险经纪渠道　25 周年、越秀入主一年后由银保走向多元分销",
+      "sourceTier": "media",
+      "themes": [
+        "经纪渠道",
+        "分销格局",
+        "越秀集团",
+        "银保转型"
+      ],
+      "publishedAt": "2026-11-04T21:17:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=prn-hklife-broker-channel-20261104",
+      "originalUrl": "https://en.prnasia.com/releases/apac/hong-kong-life-officially-launches-insurance-brokerage-channel-554711.shtml"
+    },
+    {
+      "id": "ibm-tfp-lloyds-singapore-20261104",
+      "title": "Fidelis 拟在新加坡设劳合社服务公司　2027 年初起提供亚太条约再保产能",
+      "sourceTier": "media",
+      "themes": [
+        "劳合社亚洲",
+        "新加坡再保枢纽",
+        "条约再保产能",
+        "保障缺口"
+      ],
+      "publishedAt": "2026-11-04T21:23:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-tfp-lloyds-singapore-20261104",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/lloyds-service-company-planned-for-singapore-as-treaty-capacity-expands-596152.aspx"
+    },
+    {
+      "id": "aig-intl-q3-2026-20261104",
+      "title": "AIG 国际商业险第三季保费升 13%　综合成本率 88.3% 较上季改善，但同比仍因巨灾转弱",
+      "sourceTier": "media",
+      "themes": [
+        "AIG 国际业务",
+        "综合成本率",
+        "巨灾损失",
+        "准备金释放"
+      ],
+      "publishedAt": "2026-11-04T14:16:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aig-intl-q3-2026-20261104",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/aigs-international-book-steadies-after-q2-slip-with-premiums-up-13-596092.aspx"
+    },
+    {
+      "id": "ia-levy-fee-consult-20261104",
+      "title": "保监局就年费及保费征费检讨展开公众咨询　长期保单征费上限拟由 100 元升至 500 或 1,000 元",
+      "sourceTier": "official",
+      "themes": [
+        "保费征费",
+        "年费检讨",
+        "监管经费",
+        "公众咨询"
+      ],
+      "publishedAt": "2026-11-04T16:35:00+08:00",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-levy-fee-consult-20261104",
+      "originalUrl": "https://www.ia.org.hk/tc/infocenter/consultation_levy_20261104.html"
+    },
+    {
+      "id": "aia-hk-2025-claims-20261104",
+      "title": "友邦香港 2025 年理赔：医疗理赔逾 103 亿、56 万人受赔　危疾理赔逾七成是癌症，30-39 岁女性个案近男性 3 倍",
+      "sourceTier": "media",
+      "themes": [
+        "理赔数据",
+        "危疾年轻化",
+        "女性风险",
+        "癌症保障"
+      ],
+      "publishedAt": "2026-11-04T16:56:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-hk-2025-claims-20261104",
+      "originalUrl": "https://hk.on.cc/hk/bkn/cnt/finance/20261104/bkn-20261104165656043-1104_00842_001.html"
+    },
+    {
+      "id": "ian-ageas-re-pricing-gap-20261104",
+      "title": "Ageas Re：亚太定价走软快于风险改善　2027 续保的真正难题是「用技术回报率接住客户的降价预期」",
+      "sourceTier": "media",
+      "themes": [
+        "亚太再保定价",
+        "2027 续保",
+        "承保纪律",
+        "巨灾敞口"
+      ],
+      "publishedAt": "2026-11-04T21:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-ageas-re-pricing-gap-20261104",
+      "originalUrl": "https://insuranceasianews.com/pricing-softening-faster-than-the-risk-environment-is-improving-ageas-re-says/"
+    },
+    {
+      "id": "moodys-india-re-pricing-pressure-20261104",
+      "title": "穆迪：印度再保产能暴增恐引发价格战　洪灾损失暴露「只按 250 年一遇地震买再保」的旧方法失效",
+      "sourceTier": "media",
+      "themes": [
+        "印度再保产能",
+        "价格压力",
+        "洪水模型",
+        "保障缺口"
+      ],
+      "publishedAt": "2026-11-04T20:30:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=moodys-india-re-pricing-pressure-20261104",
+      "originalUrl": "https://insuranceasianews.com/indias-reinsurance-boom-risks-triggering-pricing-pressure-moodys-alok-kumar-warns/"
+    },
+    {
+      "id": "perils-apac-model-data-20261104",
+      "title": "Perils：温和损失年景下模型与数据投入最容易被降级　「等大灾发生再补就晚了」",
+      "sourceTier": "media",
+      "themes": [
+        "巨灾模型",
+        "数据质量",
+        "气候情景",
+        "参数化产品"
+      ],
+      "publishedAt": "2026-11-04T20:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=perils-apac-model-data-20261104",
+      "originalUrl": "https://insuranceasianews.com/there-is-a-risk-the-investment-in-models-and-data-can-take-a-secondary-priority/"
+    },
+    {
+      "id": "iua-protection-gap-20261104",
+      "title": "IUA 行政总裁：填亚洲保障缺口不能只「出口伦敦保单」　要靠参数化与公私合作",
+      "sourceTier": "media",
+      "themes": [
+        "保障缺口",
+        "参数化保险",
+        "公私合作",
+        "伦敦市场"
+      ],
+      "publishedAt": "2026-11-04T19:30:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iua-protection-gap-20261104",
+      "originalUrl": "https://insuranceasianews.com/innovative-thinking-can-help-close-asias-protection-gap-iua-ceo-chris-jones-says/"
+    },
+    {
+      "id": "swissre-parametrics-merit-20261104",
+      "title": "瑞再：参数化应「按自身价值」赢得位置　不是替代传统赔款，而是补速度与透明度",
+      "sourceTier": "media",
+      "themes": [
+        "参数化保险",
+        "基差风险",
+        "卫星数据",
+        "气候基准"
+      ],
+      "publishedAt": "2026-11-04T18:30:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=swissre-parametrics-merit-20261104",
+      "originalUrl": "https://insuranceasianews.com/parametrics-should-earn-a-place-in-a-program-on-merit-swiss-re/"
+    },
+    {
+      "id": "ian-peakre-india-fac-expansion-20261104",
+      "title": "Peak Re：印度新增本地再保人加剧价格战　香港再保人转攻临时分保与特殊险，4月1日续保严审组合",
+      "sourceTier": "media",
+      "themes": [
+        "印度再保市场",
+        "承保纪律",
+        "临时分保",
+        "风险为本资本"
+      ],
+      "publishedAt": "2026-11-04T09:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-peakre-india-fac-expansion-20261104",
+      "originalUrl": "https://insuranceasianews.com/peak-re-to-expand-fac-specialty-lines-in-india-amid-rating-pressure/"
+    },
+    {
+      "id": "ian-swissre-cyber-accumulation-20261104",
+      "title": "瑞再：网络险真正的难题是「累积」——同一批云与软件供应商，一次故障可同时打穿多国数千家企业",
+      "sourceTier": "media",
+      "themes": [
+        "网络险聚合",
+        "云依赖",
+        "中小企业保障缺口",
+        "亚太增长"
+      ],
+      "publishedAt": "2026-11-04T17:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-swissre-cyber-accumulation-20261104",
+      "originalUrl": "https://insuranceasianews.com/accumulation-a-defining-challenge-for-cyber-insurance-swiss-res-giv-kahrom-says/"
+    },
+    {
+      "id": "ian-iceye-satellite-cat-underwriting-20261104",
+      "title": "ICEYE：卫星巨灾数据从「灾后查勘」走向「承保定价」　亚太洪水覆盖新增印度、泰国、越南、菲律宾、台湾、韩国",
+      "sourceTier": "media",
+      "themes": [
+        "巨灾建模",
+        "卫星遥感",
+        "洪水风险",
+        "承保数据"
+      ],
+      "publishedAt": "2026-11-04T11:30:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-iceye-satellite-cat-underwriting-20261104",
+      "originalUrl": "https://insuranceasianews.com/iceye-sees-wider-utilisation-of-satellite-data-as-take-up-expands-across-asia-pacific/"
+    },
+    {
+      "id": "ian-seadrif-philippines-isf-grant-20261104",
+      "title": "SEADRIF 与菲律宾签约 230 万美元巨灾基金拨款　Gallagher Re 参与，灾后可快速释放应急流动性",
+      "sourceTier": "media",
+      "themes": [
+        "巨灾融资",
+        "主权保险",
+        "东南亚",
+        "保障缺口"
+      ],
+      "publishedAt": "2026-11-04T10:58:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-seadrif-philippines-isf-grant-20261104",
+      "originalUrl": "https://insuranceasianews.com/seadrif-agrees-us2-3bn-disaster-risk-financing-facility-with-the-philippines/"
+    },
+    {
+      "id": "ian-shipowners-pi-2027-renewal-20261104",
+      "title": "船东互保协会：中东冲突与巴尔的摩大桥事故推高 2027 年 P&I 再保成本　明言不向会员转嫁",
+      "sourceTier": "media",
+      "themes": [
+        "P&I 保赔险",
+        "海运再保",
+        "2027 续保",
+        "地缘政治"
+      ],
+      "publishedAt": "2026-11-04T17:15:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-shipowners-pi-2027-renewal-20261104",
+      "originalUrl": "https://insuranceasianews.com/shipowners-club-sees-rising-pi-reinsurance-costs-due-to-middle-east-conflict-baltimore-bridge-collapse/"
+    },
+    {
+      "id": "ian-chubb-north-asia-property-head-20261104",
+      "title": "丘博延揽 AIG 的 Matthew Pereira 任北亞財產險主管　在 AIG 伦敦、斯德哥尔摩与香港共 15 年",
+      "sourceTier": "media",
+      "themes": [
+        "人事变动",
+        "北亚财产险",
+        "人才流动"
+      ],
+      "publishedAt": "2026-11-04T12:16:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-chubb-north-asia-property-head-20261104",
+      "originalUrl": "https://insuranceasianews.com/chubb-hires-aigs-matthew-pereira-as-north-asia-property-manager/"
+    },
+    {
+      "id": "hkma-gflis-fifth-summit-20261103",
+      "title": "金管局第五届国际金融领袖投资峰会：约280位全球金融领袖聚港，何立峰视像开幕演讲",
+      "sourceTier": "official",
+      "themes": [
+        "国际金融中心",
+        "投资峰会",
+        "宏观风险",
+        "保险资金"
+      ],
+      "publishedAt": "2026-11-03T18:18:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-gflis-fifth-summit-20261103",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202611/03/P2026110300369.htm"
+    },
+    {
+      "id": "ian-hk-pcc-ils-captives-20261103",
+      "title": "太平再保险：香港PCC制度是「革命性突破」，专属自保与ILS设立成本将大降",
+      "sourceTier": "media",
+      "themes": [
+        "专属自保",
+        "ILS",
+        "香港风险管理中心",
+        "PCC"
+      ],
+      "publishedAt": "2026-11-03T20:30:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-hk-pcc-ils-captives-20261103",
+      "originalUrl": "https://insuranceasianews.com/new-pcc-regime-to-turbocharge-hong-kongs-ils-captives-ambitions-taiping-res-sheldon-yu/"
+    },
+    {
+      "id": "ian-antares-risk-faster-than-price-20261103",
+      "title": "Antares：亚太「风险跑得比价格快」，财务险连跌三年、二季度单季再跌7%",
+      "sourceTier": "media",
+      "themes": [
+        "财务险",
+        "网络险",
+        "D&O",
+        "条款"
+      ],
+      "publishedAt": "2026-11-03T19:30:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-antares-risk-faster-than-price-20261103",
+      "originalUrl": "https://insuranceasianews.com/risk-is-moving-faster-than-price-antares-sri-ram-pappu/"
+    },
+    {
+      "id": "ian-scor-11-renewal-discipline-20261103",
+      "title": "Scor：1.1续保由「纪律与差异」主导，全市场同涨同跌的时代结束",
+      "sourceTier": "media",
+      "themes": [
+        "1.1续保",
+        "再保险",
+        "承保纪律",
+        "亚太"
+      ],
+      "publishedAt": "2026-11-03T20:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-scor-11-renewal-discipline-20261103",
+      "originalUrl": "https://insuranceasianews.com/1-1-renewals-to-be-driven-by-discipline-not-broad-market-shifts-scors-mukul-kishore/"
+    },
+    {
+      "id": "aia-1h2026-market-no1-20261103",
+      "title": "友邦香港：2026上半年新造保单数目连续12年第一、有效保单连续25年第一",
+      "sourceTier": "insurer",
+      "themes": [
+        "市场排名",
+        "经纪渠道",
+        "新造保单",
+        "团体保险"
+      ],
+      "publishedAt": "2026-11-03",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-1h2026-market-no1-20261103",
+      "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2026/aia-press-release-20261103"
+    },
+    {
+      "id": "ian-marsh-apac-buyers-market-20261103",
+      "title": "Marsh：亚太费率连跌11个季度　买方市场仍须纪律，客户转向聚合保障与参数保险补缺口",
+      "sourceTier": "media",
+      "themes": [
+        "费率下行",
+        "结构性解决方案",
+        "参数保险",
+        "风险聚合"
+      ],
+      "publishedAt": "2026-11-03T18:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-marsh-apac-buyers-market-20261103",
+      "originalUrl": "https://insuranceasianews.com/buyers-market-that-still-demands-discipline-marsh-risks-jeremy-waite-says/"
+    },
+    {
+      "id": "ian-axaxl-datacentre-risk-20261103",
+      "title": "Axa XL：亚太数据中心建设潮风险集中　软件故障与电网限电可无实体损毁却致停工，触发条件须写清",
+      "sourceTier": "media",
+      "themes": [
+        "数据中心风险",
+        "风险集中度",
+        "AI基建",
+        "营业中断"
+      ],
+      "publishedAt": "2026-11-03T11:30:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-axaxl-datacentre-risk-20261103",
+      "originalUrl": "https://insuranceasianews.com/axa-xl-warns-data-centre-risk-concentrates-amid-apac-buildout/"
+    },
+    {
+      "id": "ian-msamlin-11-renewal-20261103",
+      "title": "MS Amlin：亚太1.1续保「难做」　资本过剩叠加巨灾损失温和，再保费率与条款续受压、边际贴近技术充足线",
+      "sourceTier": "media",
+      "themes": [
+        "再保险续保",
+        "软市场",
+        "承保纪律",
+        "条款放宽"
+      ],
+      "publishedAt": "2026-11-03T10:30:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-msamlin-11-renewal-20261103",
+      "originalUrl": "https://insuranceasianews.com/tough-renewal-ahead-as-apac-reinsurers-face-mounting-pressure-as-soft-market-persists-into-1-1/"
+    },
+    {
+      "id": "ian-peakre-exposure-gap-20261103",
+      "title": "Peak Re：亚洲风险敞口增速快过保费　资本仍涌入，数据中心与AI设施聚合风险「尚未真正看懂」",
+      "sourceTier": "media",
+      "themes": [
+        "保障缺口",
+        "AI数据中心聚合",
+        "公共私营巨灾",
+        "城市化"
+      ],
+      "publishedAt": "2026-11-03T10:00:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-peakre-exposure-gap-20261103",
+      "originalUrl": "https://insuranceasianews.com/asias-exposure-is-outpacing-premiums-as-capital-floods-in-peak-re-ceo-warns/"
+    },
+    {
+      "id": "ibm-cna-us-casualty-asia-20261103",
+      "title": "CNA三季度综合成本率升至97%　美国责任险承压，亚洲再保人与长护险同受警示",
+      "sourceTier": "media",
+      "themes": [
+        "美国责任险",
+        "社会通胀",
+        "长护储备",
+        "再保条款"
+      ],
+      "publishedAt": "2026-11-03",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-cna-us-casualty-asia-20261103",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/cnas-us-casualty-pressure-is-a-warning-for-asian-reinsurers-and-carriers-with-us-exposure-595887.aspx"
+    },
+    {
+      "id": "ibm-korea-q3-bond-losses-20261103",
+      "title": "韩国四大险企Q3净利下滑　债券估值损失抵销承保改善，农协生命转为净亏",
+      "sourceTier": "media",
+      "themes": [
+        "利率风险",
+        "偿付能力",
+        "韩国市场"
+      ],
+      "publishedAt": "2026-11-03T00:56:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-korea-q3-bond-losses-20261103",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/bond-losses-drag-korean-insurers-q3-profits-lower-595831.aspx"
+    },
+    {
+      "id": "ibm-korea-unclaimed-benefits-20261103",
+      "title": "韩国未领取保险金约10.3万亿韩元　回收率近四年停在三成，10月27日启动全国寻回行动",
+      "sourceTier": "media",
+      "themes": [
+        "客户保障",
+        "未领取权益",
+        "老龄服务"
+      ],
+      "publishedAt": "2026-11-03T00:36:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-korea-unclaimed-benefits-20261103",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/billions-in-insurance-benefits-go-uncollected-in-south-korea-595828.aspx"
+    },
+    {
+      "id": "ibm-taiwan-senior-nhi-copay-20261103",
+      "title": "台湾研议长者健保费全免取代地方扣款补助　卫福部示警：弱势长者自付反而更重",
+      "sourceTier": "media",
+      "themes": [
+        "医疗保障缺口",
+        "公共政策",
+        "老龄化"
+      ],
+      "publishedAt": "2026-11-03T00:16:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-taiwan-senior-nhi-copay-20261103",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/taiwan-health-policy-shift-could-widen-supplementary-insurance-gap-595821.aspx"
+    },
+    {
+      "id": "ia-cheung-gl8-ils-climate-portal-20261102",
+      "title": "张云正金融科技周2026：12月发布修订版《指引8》网上保险活动指引、六大原则　ILS已发8笔共8.1亿美元、正研引入PCC架构",
+      "sourceTier": "official",
+      "themes": [
+        "网上保险活动指引",
+        "专属自保与ILS",
+        "气候数据",
+        "AI治理"
+      ],
+      "publishedAt": "2026-11-02T13:31:00+08:00",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-cheung-gl8-ils-climate-portal-20261102",
+      "originalUrl": "https://www.stheadline.com/zh-hans/realtime-finance/3632575/"
+    },
+    {
+      "id": "ian-scor-ai-autonomous-underwriting-20261102",
+      "title": "Scor 行政总裁：AI 最终会走到「自主承保」　现刻意停在第三级，AI 代理须像员工一样登记",
+      "sourceTier": "media",
+      "themes": [
+        "AI承保",
+        "代理式AI治理",
+        "再保险",
+        "人力结构"
+      ],
+      "publishedAt": "2026-11-02T21:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-scor-ai-autonomous-underwriting-20261102",
+      "originalUrl": "https://insuranceasianews.com/ai-will-go-all-the-way-to-autonomous-underwriting-scors-thierry-leger-predicts/"
+    },
+    {
+      "id": "ian-gallagher-re-1-1-renewals-structuring-20261102",
+      "title": "Gallagher Re：亚太1.1续保讨论已由「压价」转向「结构优化」　资本充裕、条款续放宽，熊本地震13亿美元为年内区内最大已保险损失",
+      "sourceTier": "media",
+      "themes": [
+        "再保续保",
+        "费率软化",
+        "巨灾损失",
+        "资本效率"
+      ],
+      "publishedAt": "2026-11-02T20:00:00+08:00",
+      "score": 69,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-gallagher-re-1-1-renewals-structuring-20261102",
+      "originalUrl": "https://insuranceasianews.com/renewal-discussions-move-beyond-price-to-structuring-gallagher-re/"
+    },
+    {
+      "id": "ian-mas-insurer-infrastructure-allocation-20261102",
+      "title": "新加坡金管局倡改革引导保险资金投基建　东盟每年需求逾2,000亿美元、现时保险配置仅约1%至2%",
+      "sourceTier": "media",
+      "themes": [
+        "基建投资",
+        "保险资金配置",
+        "资产负债匹配",
+        "新加坡"
+      ],
+      "publishedAt": "2026-11-02T18:30:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-mas-insurer-infrastructure-allocation-20261102",
+      "originalUrl": "https://insuranceasianews.com/mas-proposes-reforms-to-boost-insurer-allocations-to-infrastructure/"
+    },
+    {
+      "id": "ia-ai-strategy-fintechweek-20261102",
+      "title": "保监局金融科技周2026公布AI策略三大支柱：治理、方案落地、人才　AI治理框架即将推出、AI Cohort已孵化逾800个用例",
+      "sourceTier": "official",
+      "themes": [
+        "AI治理",
+        "保险科技",
+        "气候风险",
+        "人才培育"
+      ],
+      "publishedAt": "2026-11-02",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-ai-strategy-fintechweek-20261102",
+      "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20261102.html"
+    },
+    {
+      "id": "hkma-fintechweek2026-agentic-sage-20261102",
+      "title": "金管局金融科技周2026四箭齐发：Project SAGE管代理式AI、PQC工具包、EnsembleTX转7×24实时结算、FPS年底接通银联国际逾1亿商户",
+      "sourceTier": "official",
+      "themes": [
+        "代理式AI",
+        "代币化",
+        "后量子密码",
+        "跨境支付"
+      ],
+      "publishedAt": "2026-11-02",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-fintechweek2026-agentic-sage-20261102",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261102-3/"
+    },
+    {
+      "id": "ian-ia-asset-intensive-reinsurance-review-20261102",
+      "title": "InsuranceAsia News：保监局正检讨资产密集型再保险交易指引　该领域为近年增长最快的再保板块之一",
+      "sourceTier": "media",
+      "themes": [
+        "资产密集型再保险",
+        "监管检讨",
+        "资本释放"
+      ],
+      "publishedAt": "2026-11-02T13:54:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-ia-asset-intensive-reinsurance-review-20261102",
+      "originalUrl": "https://insuranceasianews.com/hong-kong-insurance-authority-proposes-revised-asset-intensive-reinsurance-regulatory-framework/"
+    },
+    {
+      "id": "ian-sg-datacentre-facility-200m-20261102",
+      "title": "新加坡组2亿美元数据中心保险池：MSIG、Gallagher Re、Scor、Samsung Re与网络安全协会共建　覆盖建造、营运、供应链、设计与网络风险",
+      "sourceTier": "media",
+      "themes": [
+        "数据中心风险",
+        "新型承保能力",
+        "新加坡",
+        "网络安全"
+      ],
+      "publishedAt": "2026-11-02T16:33:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-sg-datacentre-facility-200m-20261102",
+      "originalUrl": "https://insuranceasianews.com/singapore-industry-group-forms-us200m-data-centres-insurance-facility/"
+    },
     {
       "id": "ian-sirc-2026-hk-ils-pcc-20261102",
       "title": "新加坡SIRC本周登场：续保费率下行、香港做区域再保与另类风险转移中心的野心、印度经Gift City开放再保成三大议题",

@@ -18,6 +18,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 import subprocess
 import sys
 from datetime import date
@@ -31,12 +32,28 @@ DERIVED_EXACT = {
     "data/items.json",
     "data/core.json",
     "data/stats.json",
+    "data/last-check.json",  # 采集检查点（纯遥测，站点不读，每天必然变）
 }
 # `data/_*` 是仓库既有约定：下划线前缀 = 瞬态产物（_raw / _staging / _feed-*）
 DERIVED_PREFIX = ("feed/", "posters/", "data/_")
 
 # live-items.json 里 rebuild 会自动同步的 meta 字段（其余 meta 改动视为口径变更）
-META_VOLATILE = {"windowNote"}
+META_VOLATILE = {"windowNote", "itemCount", "generatedAt"}
+
+# live-items.json 整段由 rebuild 自动聚合（非手工口径）：按新条目重算，必然变
+VOLATILE_SECTIONS = {"digests"}
+
+# 条目内由 enrich/重建自动派生、每次增补都会重排的字段（只改这些不算口径改动）
+ITEM_DERIVED_FIELDS = {"clusterId", "clusterCount", "summaryShort"}
+
+# index.html 每次 rebuild 都会改 app.js / styles.css 的版本号（cache-busting）。
+# 只允许「版本号变化」，其余 HTML 改动仍算结构改动。
+VERSION_ONLY_FILES = {"index.html"}
+VERSION_PAT = re.compile(
+    r'(?:app\.js|styles\.css)\?v=[0-9A-Za-z._\-]+'
+    r'|HKII_VER\s*=\s*"[0-9A-Za-z._\-]+"'
+)
+
 
 
 def sh(*args: str) -> str:
@@ -67,15 +84,39 @@ def head_json(rel: str):
         return None
 
 
+def version_only_diff(rel: str) -> bool:
+    """文件相对 HEAD 的改动是否只涉及 asset 版本号（cache-busting）。"""
+    raw = sh("git", "diff", "-U0", "HEAD", "--", rel)
+    if not raw.strip():
+        return False
+    changed = [
+        ln for ln in raw.splitlines()
+        if ln[:1] in ("+", "-") and not ln.startswith(("+++", "---"))
+    ]
+    return bool(changed) and all(VERSION_PAT.search(ln) for ln in changed)
+
+
+def strip_auto_stats(sec):
+    """stats 段里由 rebuild 自动重算的部分（generatedAt / intelligence 计数）摘掉再比。"""
+    if not isinstance(sec, dict):
+        return sec
+    out = dict(sec)
+    out.pop("generatedAt", None)
+    out.pop("intelligence", None)
+    return out
+
+
 def classify() -> tuple[list[str], list[str], dict]:
     """→ (结构改动, 数据改动, 统计)"""
     structural: list[str] = []
     data_touched: list[str] = []
-    stats = {"added": 0, "modified": 0, "deleted": [], "meta_changed": []}
+    stats = {"added": 0, "modified": 0, "enriched": 0, "deleted": [], "meta_changed": []}
 
     for p in changed_paths():
         if p in DERIVED_EXACT or p.startswith(DERIVED_PREFIX):
             continue  # 派生物，忽略
+        if p in VERSION_ONLY_FILES and version_only_diff(p):
+            continue  # 只有版本号变化 = rebuild cache-busting，不是文案改动
         if p == "data/live-items.json":
             data_touched.append(p)
             continue
@@ -99,8 +140,14 @@ def classify() -> tuple[list[str], list[str], dict]:
         stats["added"] = len(new_items.keys() - old_items.keys())
         stats["deleted"] = sorted(old_items.keys() - new_items.keys())
         for iid in old_items.keys() & new_items.keys():
-            if old_items[iid] != new_items[iid]:
-                stats["modified"] += 1
+            o, n = old_items[iid], new_items[iid]
+            if o == n:
+                continue
+            # 只有 enrich 派生字段变化（clusterId 重排等）→ 不算口径改动
+            if {f for f in set(o) | set(n) if o.get(f) != n.get(f)} <= ITEM_DERIVED_FIELDS:
+                stats["enriched"] += 1
+                continue
+            stats["modified"] += 1
 
         # 非 items 段：stats / boards / deepCards / sourcesCatalog 改动 = 口径变更
         for k in set(old) | set(new):
@@ -113,6 +160,10 @@ def classify() -> tuple[list[str], list[str], dict]:
                         continue
                     if om.get(mk) != nm.get(mk):
                         stats["meta_changed"].append(f"meta.{mk}")
+                continue
+            if k in VOLATILE_SECTIONS:
+                continue
+            if k == "stats" and strip_auto_stats(old.get(k)) == strip_auto_stats(new.get(k)):
                 continue
             if old.get(k) != new.get(k):
                 stats["meta_changed"].append(k)
@@ -146,6 +197,7 @@ def main() -> int:
 
     summary = (
         f"+{stats['added']} 条 · 改 {stats['modified']} 条 · 删 {len(stats['deleted'])} 条"
+        f" · enrich 派生 {stats.get('enriched', 0)} 条（不计入口径）"
     )
     print(f"[gate] 数据变动：{summary}")
 
