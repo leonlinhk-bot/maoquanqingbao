@@ -2,10 +2,10 @@
   "meta": {
     "product": "猫圈儿港险情报站",
     "generatedAt": "2026-11-06T00:35:00+08:00",
-    "itemCount": 1684,
+    "itemCount": 1688,
     "windowNote": {
-      "sc": "本库1684条。",
-      "tc": "本庫1684條。"
+      "sc": "本库1688条。",
+      "tc": "本庫1688條。"
     },
     "sourcesPrimary": [
       "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
@@ -1450,8 +1450,7 @@
       "score": 85,
       "contentKind": "press",
       "boards": [
-        "market",
-        "hk"
+        "market"
       ],
       "themes": [
         "国际金融领袖投资峰会",
@@ -1536,8 +1535,7 @@
       "contentKind": "news",
       "boards": [
         "insurer",
-        "enforcement",
-        "conduct"
+        "reg"
       ],
       "themes": [
         "日本FSA",
@@ -1622,8 +1620,7 @@
       "contentKind": "news",
       "boards": [
         "market",
-        "insurer",
-        "results"
+        "insurer"
       ],
       "themes": [
         "韩国保险",
@@ -1707,9 +1704,8 @@
       "score": 70,
       "contentKind": "news",
       "boards": [
-        "fraud",
-        "tech",
-        "conduct"
+        "reg",
+        "tech"
       ],
       "themes": [
         "身份冒用",
@@ -1793,8 +1789,8 @@
       "score": 65,
       "contentKind": "results",
       "boards": [
-        "results",
-        "market"
+        "market",
+        "insurer"
       ],
       "themes": [
         "综合成本率",
@@ -3224,6 +3220,346 @@
       "summaryShort": {
         "sc": "丘博（Chubb）聘请Matthew Pereira出任北亚财产险主管，他此前在AIG工作15年，先后驻伦敦、斯德哥尔摩与香港。（全文需订阅）[EN原文]",
         "tc": "丘博（Chubb）聘請Matthew Pereira出任北亞財產險主管，他此前在AIG工作15年，先後駐倫敦、斯德哥爾摩與香港。（全文需訂閱）[EN原文]"
+      }
+    },
+    {
+      "clusterCount": 1,
+      "verifyStatus": "pending",
+      "actions": {
+        "front": {
+          "sc": "跟客户解读友邦Q3：内地高基数拖累属预期内，香港业务9月已加速、第四季指引正面",
+          "tc": "跟客戶解讀友邦Q3：內地高基數拖累屬預期內，香港業務9月已加速、第四季指引正面"
+        },
+        "midback": {
+          "sc": "把「大摩维持增持、目标价101港元」纳入港险龙头估值参考",
+          "tc": "把「大摩維持增持、目標價101港元」納入港險龍頭估值參考"
+        },
+        "lead": {
+          "sc": "友邦Q3利润率改善至63.3%，印证产品结构优化方向",
+          "tc": "友邦Q3利潤率改善至63.3%，印證產品結構優化方向"
+        },
+        "cross": {
+          "sc": "MCV内地访客业务高基数短期压制、但9月已反弹",
+          "tc": "MCV內地訪客業務高基數短期壓制、但9月已反彈"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 1,
+        "lead": 2,
+        "cross": 2
+      },
+      "ingestedAt": "2026-11-07T18:08:21+08:00",
+      "lang": "zh",
+      "source": {
+        "sc": "摩根士丹利研报（智通财经）· 2026-11-03",
+        "tc": "摩根士丹利研報（智通財經）· 2026-11-03",
+        "name": "摩根士丹利研报（智通财经）",
+        "date": "2026-11-03",
+        "lang": "zh",
+        "note": null
+      },
+      "tags": {
+        "sc": [
+          "大摩",
+          "摩根士丹利",
+          "友邦",
+          "VONB",
+          "增持"
+        ],
+        "tc": [
+          "大摩",
+          "摩根士丹利",
+          "友邦",
+          "VONB",
+          "增持"
+        ]
+      },
+      "id": "morganstanley-aia-q3-vonb-20261103",
+      "sourceKey": "morganstanley",
+      "sourceTier": "research",
+      "score": 74,
+      "contentKind": "research",
+      "publishedAt": "2026-11-03T16:32:00+08:00",
+      "originalUrl": "http://hkstock.cnfol.com/shichangfenxi/20261103/32414593.shtml",
+      "boards": [
+        "market",
+        "insurer"
+      ],
+      "themes": [
+        "投行观点",
+        "VONB",
+        "友邦"
+      ],
+      "title": {
+        "sc": "大摩：友邦Q3新业务价值14.15亿美元跌5%大致符预期　维持「增持」目标价101港元",
+        "tc": "大摩：友邦Q3新業務價值14.15億美元跌5%大致符預期　維持「增持」目標價101港元"
+      },
+      "summary": {
+        "sc": "摩根士丹利研报指，友邦第三季新业务价值（VONB）按固定汇率计跌5%至14.15亿美元，大致符合市场预期的4%跌幅、略低于该行预测的跌3%，维持「增持」评级、目标价101港元。新业务年化保费跌13%，但利润率同比改善5.3个百分点至63.3%。中国内地及香港高基数为主要拖累，其他市场录得18%增长；管理层对第四季有信心，9月增长已加速至25%。",
+        "tc": "摩根士丹利研報指，友邦第三季新業務價值（VONB）按固定匯率計跌5%至14.15億美元，大致符合市場預期的4%跌幅、略低於該行預測的跌3%，維持「增持」評級、目標價101港元。新業務年化保費跌13%，但利潤率同比改善5.3個百分點至63.3%。中國內地及香港高基數為主要拖累，其他市場錄得18%增長；管理層對第四季有信心，9月增長已加速至25%。"
+      },
+      "why": {
+        "sc": "大摩对友邦Q3的定调是「大致符预期、维持增持」——投行口径的「高基数拖累内地与香港、其他市场补位、9月已加速」框架，可作前线跟客户解读友邦Q3业绩时最直接的机构背书；101港元目标价给出机构对港险龙头的估值锚。",
+        "tc": "大摩對友邦Q3的定調是「大致符預期、維持增持」——投行口徑的「高基數拖累內地與香港、其他市場補位、9月已加速」框架，可作前線跟客戶解讀友邦Q3業績時最直接的機構背書；101港元目標價給出機構對港險龍頭的估值錨。"
+      },
+      "summaryShort": {
+        "sc": "摩根士丹利研报指，友邦第三季新业务价值（VONB）按固定汇率计跌5%至14.15亿美元，大致符合市场预期的4%跌幅、略低于该行预测的跌3%，维持「增持」评级、目标价101港元。新业务年化保费跌13%，但利润率同比改善5.3个百分点至63.",
+        "tc": "摩根士丹利研報指，友邦第三季新業務價值（VONB）按固定匯率計跌5%至14.15億美元，大致符合市場預期的4%跌幅、略低於該行預測的跌3%，維持「增持」評級、目標價101港元。新業務年化保費跌13%，但利潤率同比改善5.3個百分點至63."
+      }
+    },
+    {
+      "clusterCount": 1,
+      "verifyStatus": "pending",
+      "actions": {
+        "front": {
+          "sc": "给企业客户讲财产/特种险时，可引「瑞再点名香港海险/贵金属/航空为增长点」",
+          "tc": "給企業客戶講財產/特種險時，可引「瑞再點名香港海險/貴金屬/航空為增長點」"
+        },
+        "midback": {
+          "sc": "把瑞再亚太再保策略纳入再保周期与产品定价背景资料",
+          "tc": "把瑞再亞太再保策略納入再保週期與產品定價背景資料"
+        },
+        "lead": {
+          "sc": "「AI/半导体基建=新增承保容量」是财产险新增长极",
+          "tc": "「AI/半導體基建=新增承保容量」是財產險新增長極"
+        },
+        "cross": {
+          "sc": "全球再保供给与港险定价、特种险跨境需求的关联",
+          "tc": "全球再保供給與港險定價、特種險跨境需求的關聯"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 2,
+        "cross": 2
+      },
+      "ingestedAt": "2026-11-07T18:08:21+08:00",
+      "lang": "zh",
+      "source": {
+        "sc": "Swiss Re（Reinsurance News 采访）· 2026-11-02",
+        "tc": "Swiss Re（Reinsurance News 採訪）· 2026-11-02",
+        "name": "Swiss Re（Reinsurance News 采访）",
+        "date": "2026-11-02",
+        "lang": "en",
+        "note": "[EN原文]"
+      },
+      "tags": {
+        "sc": [
+          "瑞再",
+          "Swiss Re",
+          "再保险",
+          "特种险",
+          "亚太"
+        ],
+        "tc": [
+          "瑞再",
+          "Swiss Re",
+          "再保險",
+          "特種險",
+          "亞太"
+        ]
+      },
+      "id": "swissre-ziswiler-apac-pc-20261102",
+      "sourceKey": "swissre",
+      "sourceTier": "research",
+      "score": 76,
+      "contentKind": "research",
+      "publishedAt": "2026-11-02",
+      "originalUrl": "https://www.reinsurancene.ws/swiss-re-focused-on-maintaining-a-strong-well-diversified-portfolio-as-apac-risk-landscape-shifts-ziswiler/",
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "再保险",
+        "亚太市场",
+        "特种险"
+      ],
+      "title": {
+        "sc": "瑞再：亚太再保组合持续多元化　点香港海险/贵金属/航空等特种险为增长点",
+        "tc": "瑞再：亞太再保組合持續多元化　點香港海險/貴金屬/航空等特種險為增長點"
+      },
+      "summary": {
+        "sc": "瑞士再保险产险再保亚太区负责人Anna Ziswiler于新加坡国际再保大会（SIRC）受访指，瑞再在亚太维持强而多元的再保组合与长期承保纪律。增长机会来自自然灾害保障、基建与能源、科技风险，以及助保司管理资本与盈利波动的方案；半导体/AI基建、可再生能源等投资带来新增承保容量需求。在香港，她点名海险、贵金属、航空等特种险为增长领域。[EN原文]",
+        "tc": "瑞士再保險產險再保亞太區負責人Anna Ziswiler於新加坡國際再保大會（SIRC）受訪指，瑞再在亞太維持強而多元的再保組合與長期承保紀律。增長機會來自自然災害保障、基建與能源、科技風險，以及助保司管理資本與盈利波動的方案；半導體/AI基建、可再生能源等投資帶來新增承保容量需求。在香港，她點名海險、貴金屬、航空等特種險為增長領域。[EN原文]"
+      },
+      "why": {
+        "sc": "全球再保龙头对亚太（含香港）承保机会的最新路线图：AI/半导体基建、可再生能源带来新容量需求，香港特种险（海险/贵金属/航空）被点名。对IFA理解「再保供给如何支撑港险产品与定价」、以及给企业客户讲财产/特种险机会有直接引用价值。",
+        "tc": "全球再保龍頭對亞太（含香港）承保機會的最新路線圖：AI/半導體基建、可再生能源帶來新容量需求，香港特種險（海險/貴金屬/航空）被點名。對IFA理解「再保供給如何支撐港險產品與定價」、以及給企業客戶講財產/特種險機會有直接引用價值。"
+      },
+      "summaryShort": {
+        "sc": "瑞士再保险产险再保亚太区负责人Anna Ziswiler于新加坡国际再保大会（SIRC）受访指，瑞再在亚太维持强而多元的再保组合与长期承保纪律。增长机会来自自然灾害保障、基建与能源、科技风险，以及助保司管理资本与盈利波动的方案；",
+        "tc": "瑞士再保險產險再保亞太區負責人Anna Ziswiler於新加坡國際再保大會（SIRC）受訪指，瑞再在亞太維持強而多元的再保組合與長期承保紀律。增長機會來自自然災害保障、基建與能源、科技風險，以及助保司管理資本與盈利波動的方案；"
+      }
+    },
+    {
+      "clusterCount": 1,
+      "verifyStatus": "pending",
+      "actions": {
+        "front": {
+          "sc": "对客用「香港VONB仅跌3%、8-9月合计增20%」说明本地需求韧性",
+          "tc": "對客用「香港VONB僅跌3%、8-9月合計增20%」說明本地需求韌性"
+        },
+        "midback": {
+          "sc": "归档高盛/大摩对友邦Q3的一致口径（买入/增持，目标价95/101港元）",
+          "tc": "歸檔高盛/大摩對友邦Q3的一致口徑（買入/增持，目標價95/101港元）"
+        },
+        "lead": {
+          "sc": "「本地业务跑赢、MCV短期受高基数」是Q3的主线判断",
+          "tc": "「本地業務跑贏、MCV短期受高基數」是Q3的主線判斷"
+        },
+        "cross": {
+          "sc": "MCV内地访客业务高基数+银保渠道干扰的叠加影响",
+          "tc": "MCV內地訪客業務高基數+銀保渠道干擾的疊加影響"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 1,
+        "lead": 2,
+        "cross": 2
+      },
+      "ingestedAt": "2026-11-07T18:08:21+08:00",
+      "lang": "zh",
+      "source": {
+        "sc": "高盛研报（新浪财经）· 2026-10-31",
+        "tc": "高盛研報（新浪財經）· 2026-10-31",
+        "name": "高盛研报（新浪财经）",
+        "date": "2026-10-31",
+        "lang": "zh",
+        "note": null
+      },
+      "tags": {
+        "sc": [
+          "高盛",
+          "友邦",
+          "VONB",
+          "买入",
+          "目标价"
+        ],
+        "tc": [
+          "高盛",
+          "友邦",
+          "VONB",
+          "買入",
+          "目標價"
+        ]
+      },
+      "id": "goldmansachs-aia-q3-vonb-20261031",
+      "sourceKey": "goldmansachs",
+      "sourceTier": "research",
+      "score": 72,
+      "contentKind": "research",
+      "publishedAt": "2026-10-31",
+      "originalUrl": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-10-31/doc-inixcsqr3732140.shtml",
+      "boards": [
+        "market",
+        "insurer"
+      ],
+      "themes": [
+        "投行观点",
+        "VONB",
+        "香港业务"
+      ],
+      "title": {
+        "sc": "高盛：友邦Q3新业务价值跌5%符预期　维持「买入」目标价95港元、点名香港表现超预期",
+        "tc": "高盛：友邦Q3新業務價值跌5%符預期　維持「買入」目標價95港元、點名香港表現超預期"
+      },
+      "summary": {
+        "sc": "高盛研报维持友邦保险「买入」评级、目标价95港元。第三季新业务价值按固定汇率跌5%至14.15亿美元，较该行预期低2%。该行指出三大正面惊喜：香港VONB同比仅跌3%、好于其预测的跌6%；泰国高基数下仍正增长；9月VONB同比增长逾25%、香港8至9月合计增约20%。内地跌33%为主要拖累。",
+        "tc": "高盛研報維持友邦保險「買入」評級、目標價95港元。第三季新業務價值按固定匯率跌5%至14.15億美元，較該行預期低2%。該行指出三大正面驚喜：香港VONB同比僅跌3%、好於其預測的跌6%；泰國高基數下仍正增長；9月VONB同比增長逾25%、香港8至9月合計增約20%。內地跌33%為主要拖累。"
+      },
+      "why": {
+        "sc": "高盛口径给出比大摩更细的「香港跑赢预期」拆解——香港VONB仅跌3%（预期跌6%）、8至9月合计增20%，直接佐证港险本地需求韧性强、内地高基数才是Q3失速主因；对前线区分「本地客」与「MCV」两条业务线有实操价值。",
+        "tc": "高盛口徑給出比大摩更細的「香港跑贏預期」拆解——香港VONB僅跌3%（預期跌6%）、8至9月合計增20%，直接佐證港險本地需求韌性強、內地高基數才是Q3失速主因；對前線區分「本地客」與「MCV」兩條業務線有實操價值。"
+      },
+      "summaryShort": {
+        "sc": "高盛研报维持友邦保险「买入」评级、目标价95港元。第三季新业务价值按固定汇率跌5%至14.15亿美元，较该行预期低2%。该行指出三大正面惊喜：香港VONB同比仅跌3%、好于其预测的跌6%；泰国高基数下仍正增长；",
+        "tc": "高盛研報維持友邦保險「買入」評級、目標價95港元。第三季新業務價值按固定匯率跌5%至14.15億美元，較該行預期低2%。該行指出三大正面驚喜：香港VONB同比僅跌3%、好於其預測的跌6%；泰國高基數下仍正增長；"
+      }
+    },
+    {
+      "clusterCount": 1,
+      "verifyStatus": "pending",
+      "actions": {
+        "front": {
+          "sc": "给客户讲分红险底层配置时，可引「险资加码私募/另类」的趋势",
+          "tc": "給客戶講分紅險底層配置時，可引「險資加碼私募/另類」的趨勢"
+        },
+        "midback": {
+          "sc": "归档险资配置趋势，作为产品资产端解读背景",
+          "tc": "歸檔險資配置趨勢，作為產品資產端解讀背景"
+        },
+        "lead": {
+          "sc": "「险资加码另类、长久期」是行业资产端主线",
+          "tc": "「險資加碼另類、長久期」是行業資產端主線"
+        },
+        "cross": {
+          "sc": "全球险资配置趋势=港险分红实现率的宏观注脚",
+          "tc": "全球險資配置趨勢=港險分紅實現率的宏觀註腳"
+        }
+      },
+      "rolesImpact": {
+        "front": 2,
+        "midback": 2,
+        "lead": 2,
+        "cross": 2
+      },
+      "ingestedAt": "2026-11-07T18:08:21+08:00",
+      "lang": "zh",
+      "source": {
+        "sc": "BlackRock · 2026-10-27",
+        "tc": "BlackRock · 2026-10-27",
+        "name": "BlackRock 2026 Global Insurance Survey",
+        "date": "2026-10-27",
+        "lang": "en",
+        "note": "[EN原文]"
+      },
+      "tags": {
+        "sc": [
+          "贝莱德",
+          "保险调查",
+          "私募市场",
+          "资产配置"
+        ],
+        "tc": [
+          "貝萊德",
+          "保險調查",
+          "私募市場",
+          "資產配置"
+        ]
+      },
+      "id": "blackrock-2026-global-insurance-survey-20261027",
+      "sourceKey": "blackrock",
+      "sourceTier": "research",
+      "score": 74,
+      "contentKind": "research",
+      "publishedAt": "2026-10-27",
+      "originalUrl": "https://hk.marketscreener.com/news/blackrock-2026-global-insurance-survey-ce785cddd981fe21",
+      "boards": [
+        "market"
+      ],
+      "themes": [
+        "险资配置",
+        "私募市场",
+        "资产配置"
+      ],
+      "title": {
+        "sc": "贝莱德第15届全球保险调查：保司衰退忧虑近减半、逾四分之三拟增配私募市场",
+        "tc": "貝萊德第15屆全球保險調查：保司衰退憂慮近減半、逾四分之三擬增配私募市場"
+      },
+      "summary": {
+        "sc": "贝莱德发布第15届年度全球保险调查，覆盖31个市场463家保司、可投资资产逾24万亿美元。结果显示保司对衰退的忧虑较上年近乎减半，逾四分之三（75%+）计划进一步增配私募市场；反映险资在高利率与另类资产回报驱动下，持续加码私募信贷与基建等长久期另类配置。[EN原文]",
+        "tc": "貝萊德發布第15屆年度全球保險調查，覆蓋31個市場463家保司、可投資資產逾24萬億美元。結果顯示保司對衰退的憂慮較上年近乎減半，逾四分之三（75%+）計劃進一步增配私募市場；反映險資在高利率與另類資產回報驅動下，持續加碼私募信貸與基建等長久期另類配置。[EN原文]"
+      },
+      "why": {
+        "sc": "全球最大资管对险资配置的年度定调：保司对衰退不再那么怕、资金持续流向私募市场。这直接关系到分红险/投连险底层资产的配置方向（更多另类、更长久期），是理解「保司分红实现率与投资端」的机构级背景。",
+        "tc": "全球最大資管對險資配置的年度定調：保司對衰退不再那麼怕、資金持續流向私募市場。這直接關係到分紅險/投連險底層資產的配置方向（更多另類、更長久期），是理解「保司分紅實現率與投資端」的機構級背景。"
+      },
+      "summaryShort": {
+        "sc": "贝莱德发布第15届年度全球保险调查，覆盖31个市场463家保司、可投资资产逾24万亿美元。结果显示保司对衰退的忧虑较上年近乎减半，逾四分之三（75%+）计划进一步增配私募市场；",
+        "tc": "貝萊德發布第15屆年度全球保險調查，覆蓋31個市場463家保司、可投資資產逾24萬億美元。結果顯示保司對衰退的憂慮較上年近乎減半，逾四分之三（75%+）計劃進一步增配私募市場；"
       }
     },
     {
@@ -11744,7 +12080,7 @@
         "lang": "en"
       },
       "lang": "en",
-      "clusterId": "c134"
+      "clusterId": "c138"
     },
     {
       "id": "scmp-goldman-asia-wealth-hiring-20261026",
@@ -14174,7 +14510,7 @@
         "sc": "汉诺威再本月推出第七只Acorn Re参数式美国地震巨灾债券，目标由2亿美元两度上调至4.5亿，为Oak Tree Assurance等提供保障，定价指引同步下调。",
         "tc": "漢諾威再本月推出第七隻Acorn Re參數式美國地震巨災債券，目標由2億美元兩度上調至4.5億，為Oak Tree Assurance等提供保障，定價指引同步下調。"
       },
-      "clusterId": "c134"
+      "clusterId": "c138"
     },
     {
       "clusterCount": 1,
@@ -20864,7 +21200,7 @@
         "tc": "本站導讀"
       },
       "ingestedAt": "2026-10-17T00:48:00+08:00",
-      "clusterId": "c242",
+      "clusterId": "c246",
       "summaryShort": {
         "sc": "世界宣明会金融普惠机构 VisionFund 与 Global Parametrics 合作、并由 InsuResilience Solutions Fund 共同出资，为世界宣明会在玻利维亚、巴西、哥伦比亚及秘鲁的办公室设计双灾因参数式中…",
         "tc": "世界宣明會金融普惠機構 VisionFund 與 Global Parametrics 合作、並由 InsuResilience Solutions Fund 共同出資，爲世界宣明會在玻利維亞、巴西、哥倫比亞及祕魯的辦公室設計雙災因參數式中…"
@@ -31367,7 +31703,7 @@
         "date": "2026-10-12",
         "note": "EN原文；IBRD CAR Mexico 2024 (Pacific) 1.75 亿美元"
       },
-      "clusterId": "c358",
+      "clusterId": "c362",
       "summaryShort": {
         "sc": "Artemis 於10月12日報道，引述資產管理公司 Azimut Switzerland 的 ILS 投資專員 Isacco Loconte 分析，指四級颶風 Simon 路徑西移後，似一直停留於國際復興開發銀行（IBRD）「CAR Me…",
         "tc": "Artemis 於10月12日報道，引述資產管理公司 Azimut Switzerland 的 ILS 投資專員 Isacco Loconte 分析，指四級颶風 Simon 路徑西移後，似一直停留於國際復興開發銀行（IBRD）「CAR Me…"
@@ -33751,7 +34087,7 @@
         "sc": "Artemis 10月10日報道：太平洋颶風Simon持續快速增強，美國國家颶風中心指其已達四級（持續風速150英里、中心最低氣壓約938mb），預計周日於墨西哥西南至中西部登陸，令規模1.",
         "tc": "Artemis 10月10日報道：太平洋颶風Simon持續快速增強，美國國家颶風中心指其已達四級（持續風速150英里、中心最低氣壓約938mb），預計周日於墨西哥西南至中西部登陸，令規模1."
       },
-      "clusterId": "c358"
+      "clusterId": "c362"
     },
     {
       "clusterCount": 1,
@@ -35654,7 +35990,7 @@
         "date": "2026-10-09",
         "note": null
       },
-      "clusterId": "c405",
+      "clusterId": "c409",
       "summaryShort": {
         "sc": "Artemis 10月9日報道：颶風 Isaias 最新預測將進一步增強為三級（major）颶風，其後在逼近／登陸前減弱，業界仍預期承保損失會達到單位數十億美元（single-digit billion）水平。",
         "tc": "Artemis 10月9日報道：颶風 Isaias 最新預測將進一步增強為三級（major）颶風，其後在逼近／登陸前減弱，業界仍預期承保損失會達到單位數十億美元（single-digit billion）水平。"
@@ -38296,7 +38632,7 @@
         "sc": "Artemis 10月8日報道：Isaias 已成為2026年大西洋颶風季首個颶風，一夜間增強，預測仍指向可能在墨西哥灣沿岸以二級颶風登陸。再保經紀 Gallagher Re 表示，若以該強度登陸，通常會造成低至中單位數十億美元（low t…",
         "tc": "Artemis 10月8日報道：Isaias 已成為2026年大西洋颶風季首個颶風，一夜間增強，預測仍指向可能在墨西哥灣沿岸以二級颶風登陸。再保經紀 Gallagher Re 表示，若以該強度登陸，通常會造成低至中單位數十億美元（low t…"
       },
-      "clusterId": "c405"
+      "clusterId": "c409"
     },
     {
       "clusterCount": 1,
@@ -44260,7 +44596,7 @@
         "date": "2026-10-06",
         "note": null
       },
-      "clusterId": "c500",
+      "clusterId": "c504",
       "summaryShort": {
         "sc": "Insurance Asia 10月6日報道：因 Tomas Kunzmann 獲委任進入安聯集團（Allianz SE）董事會，安聯公布接任安排——現任 Allianz Direct 行政總裁 Philipp Kroetz 於2026年1…",
         "tc": "Insurance Asia 10月6日報道：因 Tomas Kunzmann 獲委任進入安聯集團（Allianz SE）董事會，安聯公布接任安排——現任 Allianz Direct 行政總裁 Philipp Kroetz 於2026年1…"
@@ -45071,7 +45407,7 @@
         "sc": "Artemis 10月6日報道：VisionFund 與 Global Parametrics 合作，在 InsuResilience Solutions Fund 共同資助下，為玻利維亞、巴西、哥倫比亞等地世界展望會辦事處設計雙險種參數化…",
         "tc": "Artemis 10月6日報道：VisionFund 與 Global Parametrics 合作，在 InsuResilience Solutions Fund 共同資助下，為玻利維亞、巴西、哥倫比亞等地世界展望會辦事處設計雙險種參數化…"
       },
-      "clusterId": "c242"
+      "clusterId": "c246"
     },
     {
       "clusterCount": 1,
@@ -49913,7 +50249,7 @@
         "date": null,
         "note": "EN原文"
       },
-      "clusterId": "c500",
+      "clusterId": "c504",
       "summaryShort": {
         "sc": "Insurance Business Asia 10月2日报道（记者 Jonalyn Cueto）：安联10月1日在慕尼黑公布两项数字化业务人事调动——原 Allianz Direct CEO Philipp Kroetz（46岁）将于20…",
         "tc": "Insurance Business Asia 10月2日報道（記者 Jonalyn Cueto）：安聯10月1日在慕尼黑公佈兩項數字化業務人事調動——原 Allianz Direct CEO Philipp Kroetz（46歲）將於20…"
@@ -60924,7 +61260,7 @@
         "note": "EN原文"
       },
       "originalUrl": "https://www.info.gov.hk/gia/general/202609/25/P2026092500465.htm",
-      "clusterId": "c711",
+      "clusterId": "c715",
       "summaryShort": {
         "sc": "金管局呼吁市民提高警觉，指大新银行有限公司已就「欺詐社交媒体帖文」发出新闻稿并向金管局汇报，相关超链接已上载至金管局网站。金管局重申：银行不会透过短讯或电邮超链接引导客户到其网站进行交易，亦不会以电话、电邮或手机短讯（包括以超链接方式）要求…",
         "tc": "金管局呼吁市民提高警觉，指大新银行有限公司已就「欺詐社交媒体帖文」发出新闻稿并向金管局汇报，相关超链接已上载至金管局网站。金管局重申：银行不会透过短讯或电邮超链接引导客户到其网站进行交易，亦不会以电话、电邮或手机短讯（包括以超链接方式）要求…"
@@ -63386,7 +63722,7 @@
       "featured": false,
       "evergreen": false,
       "ingestedAt": "2026-09-25T02:15:00+08:00",
-      "clusterId": "c711",
+      "clusterId": "c715",
       "summaryShort": {
         "sc": "金管局9月24日发布「Scam alert related to banks」，转述东亚银行、上海商业银行、创兴银行、集友银行等就伪冒网站及网上银行登录画面、钓鱼电邮等发出的提示。",
         "tc": "金管局9月24日發布「Scam alert related to banks」，轉述東亞銀行、上海商業銀行、創興銀行、集友銀行等就偽冒網站及網上銀行登錄畫面、釣魚電郵等發出的提示。"
@@ -66416,7 +66752,7 @@
       },
       "publishedAt": "2026-09-23T18:00:00+08:00",
       "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260923-5/",
-      "clusterId": "c711",
+      "clusterId": "c715",
       "summaryShort": {
         "sc": "金管局9月23日发布「Scam alert related to banks」，转述东亚银行、上海商业银行、创兴银行、集友银行有关伪冒网站及网上银行登录画面，以及大新银行伪冒网站的提示。",
         "tc": "金管局9月23日發布「Scam alert related to banks」，轉述東亞銀行、上海商業銀行、創興銀行、集友銀行有關偽冒網站及網上銀行登錄畫面，以及大新銀行偽冒網站的提示。"
@@ -70673,7 +71009,7 @@
       },
       "publishedAt": "2026-09-22",
       "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260922-3/",
-      "clusterId": "c711",
+      "clusterId": "c715",
       "summaryShort": {
         "sc": "香港金融管理局于2026年9月22日发布「Scam alert related to banks」（与银行有关的骗案警示），属例行公众防骗提示，与该局同日刊出的银行同业结算公司欺诈网站提示配套。",
         "tc": "香港金融管理局於2026年9月22日發布「Scam alert related to banks」（與銀行有關的騙案警示），屬例行公眾防騙提示，與該局同日刊出的銀行同業結算公司欺詐網站提示配套。"
@@ -80547,7 +80883,7 @@
       "contentKind": "press",
       "publishedAt": "2026-09-16",
       "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260916-3/",
-      "clusterId": "c910",
+      "clusterId": "c914",
       "summaryShort": {
         "sc": "9月16日，金管局发布「Scam alert related to banks（与银行有关的诈骗提示）」及「HKICL alerts public of fraudulent website（香港银行同业结算有限公司提醒公众提防伪冒网站）」…",
         "tc": "9月16日，金管局發布「Scam alert related to banks（與銀行有關的詐騙提示）」及「HKICL alerts public of fraudulent website（香港銀行同業結算有限公司提醒公眾提防偽冒網站）」…"
@@ -81496,7 +81832,7 @@
       "contentKind": "press",
       "publishedAt": "2026-09-15",
       "originalUrl": "https://gmteight.com/flash/detail/1502684",
-      "clusterId": "c921",
+      "clusterId": "c925",
       "summaryShort": {
         "sc": "9月15日，香港保险业联会（HKFI）就「内地对境外保单收益征收20%个人所得税」的市场传闻回复《第一财经》指：截至目前，相关部门并未发布任何官方政策文件或实施细则，联会正持续监测并密切关注事态发展，故不对市场讨论与传闻作任何揣测或评论。",
         "tc": "9月15日，香港保險業聯會（HKFI）就「內地對境外保單收益徵收20%個人所得稅」的市場傳聞回覆《第一財經》指：截至目前，相關部門並未發布任何官方政策文件或實施細則，聯會正持續監測並密切關注事態發展，故不對市場討論與傳聞作任何揣測或評論。"
@@ -81758,7 +82094,7 @@
       "contentKind": "press",
       "publishedAt": "2026-09-15",
       "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/09/20260915-4/",
-      "clusterId": "c910",
+      "clusterId": "c914",
       "summaryShort": {
         "sc": "香港金管局9月15日发出警示，提醒公众注意4间银行（东亚银行、上海商业银行、创兴银行、富邦银行（香港））已向金管局通报的伪冒网站及伪冒网上银行登录画面。金管局重申银行不会发送内嵌超链接、引导客户进入银行网站进行交易的短讯或电邮，也不会通过电…",
         "tc": "香港金管局9月15日發出警示，提醒公眾注意4間銀行（東亞銀行、上海商業銀行、創興銀行、富邦銀行（香港））已向金管局通報的偽冒網站及偽冒網上銀行登入畫面。金管局重申銀行不會發送內嵌超連結、引導客戶進入銀行網站進行交易的短訊或電郵，也不會通過電…"
@@ -86622,7 +86958,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c982",
+      "clusterId": "c986",
       "summaryShort": {
         "sc": "金管局9月10日汇总两家银行骗案通报：星展银行（香港）出现假冒网站、网银登入画面及钓鱼电邮，富邦银行（香港）出现假冒网站及网银登入画面；提醒银行不会以短讯或电邮内嵌链接引导交易，亦不会索取登入密码或一次性验证码。",
         "tc": "金管局9月10日匯總兩家銀行騙案通報：星展銀行（香港）出現假冒網站、網銀登入畫面及釣魚電郵，富邦銀行（香港）出現假冒網站及網銀登入畫面；提醒銀行不會以短訊或電郵內嵌連結引導交易，亦不會索取登入密碼或一次性驗證碼。"
@@ -88111,7 +88447,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c1000",
+      "clusterId": "c1004",
       "summaryShort": {
         "sc": "金管局汇总两家银行骗案通报：中银香港出现钓鱼即时短讯，华侨银行（香港）出现假冒网站及网银登入画面；提醒公众银行不会经短信或电邮内嵌链接引导交易，亦不会以电话、电邮或短讯索取登入密码或一次性验证码；",
         "tc": "金管局匯總兩家銀行騙案通報：中銀香港出現釣魚即時短訊，華僑銀行（香港）出現假冒網站及網銀登入畫面；提醒公眾銀行不會經短訊或電郵內嵌連結引導交易，亦不會以電話、電郵或短訊索取登入密碼或一次性驗證碼；"
@@ -88194,7 +88530,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c1001",
+      "clusterId": "c1005",
       "summaryShort": {
         "sc": "香港银行同业结算公司（HKICL）发现多个假冒网站（fpshk.cc、fpshkicl.homes、refundrequesthk.xyz等），冒充「买家网上保障」提供FPS转账退款、未授权交易申报等服务，更诱导用户交出证件号码、身份证照片…",
         "tc": "香港銀行同業結算公司（HKICL）發現多個假冒網站（fpshk.cc、fpshkicl.homes、refundrequesthk.xyz等），冒充「買家網上保障」提供FPS轉賬退款、未授權交易申報等服務，更誘導用戶交出證件號碼、身份證照片…"
@@ -89093,7 +89429,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c1000",
+      "clusterId": "c1004",
       "summaryShort": {
         "sc": "金管局汇总两家银行骗案通报：中国建设银行（亚洲）出现假冒网站及网银登入画面，瑞士宝盛（Bank Julius Baer）出现假冒网站；提醒公众银行不会经短信或电邮内嵌链接索取密码及一次性验证码，受骗应即联络相关银行并向警方报案。",
         "tc": "金管局匯總兩家銀行騙案通報：中國建設銀行（亞洲）出現假冒網站及網銀登入畫面，瑞士寶盛（Bank Julius Baer）出現假冒網站；提醒公眾銀行不會經短訊或電郵內嵌連結索取密碼及一次性驗證碼，受騙應即聯絡相關銀行並向警方報案。"
@@ -89499,7 +89835,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c1000",
+      "clusterId": "c1004",
       "summaryShort": {
         "sc": "金管局汇总五家银行骗案通报：东亚银行、上海商业银行、创兴银行、集友银行及瑞士宝盛（Julius Baer）出现假冒网站及网银登入画面；提醒公众银行不会经短信或电邮内嵌链接索取密码及一次性验证码。",
         "tc": "金管局匯總五家銀行騙案通報：東亞銀行、上海商業銀行、創興銀行、集友銀行及瑞士寶盛（Julius Baer）出現假冒網站及網銀登入畫面；提醒公眾銀行不會經短訊或電郵內嵌連結索取密碼及一次性驗證碼。"
@@ -89582,7 +89918,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c1001",
+      "clusterId": "c1005",
       "summaryShort": {
         "sc": "香港银行同业结算公司（HKICL）警示三类假冒网站（含64.176.54.120、zksttgf.xyz、hkrefundplatform.sbs等），冒充「买家网上保障」以退款、异常交易报告为名，诱骗用户上传身份证件、银行资料经FPS转账…",
         "tc": "香港銀行同業結算公司（HKICL）警示三類假冒網站（含64.176.54.120、zksttgf.xyz、hkrefundplatform.sbs等），冒充「買家網上保障」以退款、異常交易報告為名，誘騙用戶上傳身份證件、銀行資料經FPS轉賬…"
@@ -90809,7 +91145,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c1000",
+      "clusterId": "c1004",
       "summaryShort": {
         "sc": "金管局汇总三家银行骗案通报：东亚银行、上海商业银行及华侨银行（香港）现假冒网站及网银登入画面；提醒公众银行不会经短讯或电邮内嵌链接引导登入或索取密码及一次性验证码，怀疑受骗应即联络银行并报警。",
         "tc": "金管局匯總三家銀行騙案通報：東亞銀行、上海商業銀行及華僑銀行（香港）現假冒網站及網銀登入畫面；提醒公眾銀行不會經短訊或電郵內嵌連結引導登入或索取密碼及一次性驗證碼，懷疑受騙應即聯絡銀行並報警。"
@@ -91374,7 +91710,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c982",
+      "clusterId": "c986",
       "summaryShort": {
         "sc": "金管局汇总六家银行骗案通报：中银香港现钓鱼即时讯息、星展现钓鱼电邮，东亚、上海商业银行、创兴及集友均现假冒网站及网银登入画面，提醒公众勿经讯息内嵌链接登入银行或交出密码及一次性验证码。",
         "tc": "金管局匯總六家銀行騙案通報：中銀香港現釣魚即時訊息、星展現釣魚電郵，東亞、上海商業銀行、創興及集友均現假冒網站及網銀登入畫面，提醒公眾勿經訊息內嵌連結登入銀行或交出密碼及一次性驗證碼。"
@@ -91621,7 +91957,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c921",
+      "clusterId": "c925",
       "summaryShort": {
         "sc": "香港保险业联会9月3日回应「内地拟对境外保单收益征20%个税」传闻：相关部门未发布正式文件或细则，正密切跟进、不作猜测；强调客户保障、传承与资产配置需求仍强，港险产品设计灵活、货币配置多元，市场仍具吸引力。",
         "tc": "香港保險業聯會9月3日回應「內地擬對境外保單收益徵20%個稅」傳聞：相關部門未發布正式文件或細則，正密切跟進、不作猜測；強調客戶保障、傳承與資產配置需求仍強，港險產品設計靈活、貨幣配置多元，市場仍具吸引力。"
@@ -92962,7 +93298,7 @@
       "contentKind": "news",
       "publishedAt": "2026-09-01T06:54:00+08:00",
       "originalUrl": "https://gmt8press.com/flash/detail/1502684",
-      "clusterId": "c921",
+      "clusterId": "c925",
       "summaryShort": {
         "sc": "针对「内地将对境外保单收益征收20%个税」传闻，香港保险业联会9月1日回应第一财经称，相关部门尚未发布官方政策文件或实施细节，联会正密切关注事态。联会强调客户保障、财富传承与资产配置需求依然强劲，港险在产品设计、货币配置及传承规划上仍具吸引…",
         "tc": "針對「內地將對境外保單收益徵收20%個稅」傳聞，香港保險業聯會9月1日回應第一財經稱，相關部門尚未發布官方政策文件或實施細節，聯會正密切關注事態。聯會強調客戶保障、財富傳承與資產配置需求依然強勁，港險在產品設計、貨幣配置及傳承規劃上仍具吸引…"
@@ -93272,7 +93608,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c1000",
+      "clusterId": "c1004",
       "summaryShort": {
         "sc": "金管局提醒公众留意东亚银行、上海商业银行、创兴银行、集友银行及Ele Bank五间银行发布的诈骗警示，涉及假冒网站及网银登入画面。金管局重申银行不会经短信或电邮内嵌链接引导客户交易，亦不会索取登入密码或一次性验证码，呼吁市民提高警觉。",
         "tc": "金管局提醒公眾留意東亞銀行、上海商業銀行、創興銀行、集友銀行及Ele Bank五間銀行發布的詐騙警示，涉及假冒網站及網銀登入畫面。金管局重申銀行不會經短信或電郵內嵌連結引導客戶交易，亦不會索取登入密碼或一次性驗證碼，呼籲市民提高警覺。"
@@ -95441,7 +95777,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c1092",
+      "clusterId": "c1096",
       "summaryShort": {
         "sc": "财政部与金融监管总局联合印发《会计师事务所职业责任保险实施办法》，2027年1月1日施行：涉资本市场及公共利益审计业务的投保额度下限由5000万上调至1亿元，执业年限、行政处罚、涉诉情况等纳入费率浮动机制；",
         "tc": "財政部與金融監管總局聯合印發《會計師事務所職業責任保險實施辦法》，2027年1月1日施行：涉資本市場及公共利益審計業務的投保額度下限由5000萬上調至1億元，執業年限、行政處罰、涉訴情況等納入費率浮動機制；"
@@ -95598,7 +95934,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c1092",
+      "clusterId": "c1096",
       "summaryShort": {
         "sc": "财政部、金融监管总局联合印发《会计师事务所职业责任保险实施办法》(财会〔2026〕12号)。从事证券服务及金融企业审计的会计所基本投保额度由5000万元上调至1亿元，合伙人超100名的按每名合伙人100万元计；",
         "tc": "財政部、金融監管總局聯合印發《會計師事務所職業責任保險實施辦法》(財會〔2026〕12號)。從事證券服務及金融企業審計的會計所基本投保額度由5000萬元上調至1億元，合夥人超100名的按每名合夥人100萬元計；"
@@ -96923,7 +97259,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c1001",
+      "clusterId": "c1005",
       "summaryShort": {
         "sc": "香港银行同业结算公司(HKICL)发现两个假冒网站仿冒「买家网上保障」，以退款及交易支援为饵，诱FPS用户交出身份证件、电话及银行账户资料，并引导联络冒充客服的骗徒。HKICL提醒公众即时报案。",
         "tc": "香港銀行同業結算公司(HKICL)發現兩個假冒網站仿冒「買家網上保障」，以退款及交易支援為餌，誘FPS用戶交出身份證件、電話及銀行賬戶資料，並引導聯絡冒充客服的騙徒。HKICL提醒公眾即時報案。"
@@ -97001,7 +97337,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c1000",
+      "clusterId": "c1004",
       "summaryShort": {
         "sc": "金管局提醒公众留意东亚银行、创兴银行、上海商业银行及交通银行(香港)发出的警示，涉及假冒网站及网上银行登入画面。金管局重申银行不会经短信或电邮附连结引导客户交易，亦不会索取敏感资料，遇可疑应即举报。",
         "tc": "金管局提醒公眾留意東亞銀行、創興銀行、上海商業銀行及交通銀行(香港)發出的警示，涉及假冒網站及網上銀行登入畫面。金管局重申銀行不會經短信或電郵附連結引導客戶交易，亦不會索取敏感資料，遇可疑應即舉報。"
@@ -97160,7 +97496,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c1001",
+      "clusterId": "c1005",
       "summaryShort": {
         "sc": "香港银行同业结算公司(HKICL)提示多个假冒网站及连结，冒充「买家网上保障」服务，声称可提供买家退款、未经授权交易报告及网上交易支援，诱骗经转数快(FPS)付款的用户。HKICL提醒公众不会经上述网站索取敏感资料，遇可疑应即举报。",
         "tc": "香港銀行同業結算公司(HKICL)提示多個假冒網站及連結，冒充「買家網上保障」服務，聲稱可提供買家退款、未經授權交易報告及網上交易支援，誘騙經轉數快(FPS)付款的用戶。HKICL提醒公眾不會經上述網站索取敏感資料，遇可疑應即舉報。"
@@ -97241,7 +97577,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c1000",
+      "clusterId": "c1004",
       "summaryShort": {
         "sc": "金管局发布诈骗警示汇总，多家银行近日就假冒网站、网上银行登录页面、钓鱼电邮或其它骗案发出新闻稿。金管局提醒公众：银行不会经短信或电邮内嵌链接引导客户进行交易，也不会通过电话、电邮或短信索取登录密码或一次性验证码。",
         "tc": "金管局發佈詐騙警示匯總，多家銀行近日就假冒網站、網上銀行登錄頁面、釣魚電郵或其它騙案發出新聞稿。金管局提醒公眾：銀行不會經短信或電郵內嵌連結引導客戶進行交易，也不會透過電話、電郵或短信索取登錄密碼或一次性驗證碼。"
@@ -106673,7 +107009,7 @@
       "contentKind": "report",
       "publishedAt": "2026-08-07T10:00:00+08:00",
       "originalUrl": "https://www.munichre.com/content/dam/munichre/mrwebsiteslaunches/2026-half-year-financial-report/MunichRe-Media-release-Q2-2026_en.pdf",
-      "clusterId": "c1232",
+      "clusterId": "c1236",
       "summaryShort": {
         "sc": "Munich Re 2026 年上半年集团净利 39.25 亿欧元（+23.5%），创同期纪录；Q2 净利 22 亿欧元，投资回报率 5.5%。集团维持 2026 全年 63 亿欧元目标，但下调再保保险收入预期至 380 亿欧元（原 400…",
         "tc": "Munich Re 2026 年上半年集團淨利 39.25 億歐元（+23.5%），創同期紀錄；Q2 淨利 22 億歐元，投資回報率 5.5%。集團維持 2026 全年 63 億歐元目標。"
@@ -107544,7 +107880,7 @@
       "contentKind": "report",
       "publishedAt": "2026-08-06T10:00:00+08:00",
       "originalUrl": "https://www.swissre.com/media/press-release/pr-20260806-hy-2026-press-release.html",
-      "clusterId": "c1232",
+      "clusterId": "c1236",
       "summaryShort": {
         "sc": "Swiss Re 2026 年上半年净收入 28 亿美元，同比 +9%；财险再保综合成本率 76.7%（上半年），名义价格 -0.2%（计入损失假设上调后实际 -4.6%）；再投资收益率升至 5.2%。",
         "tc": "Swiss Re 2026 年上半年淨收入 28 億美元，同比 +9%；財險再保綜合成本率 76.7%；再投資收益率升至 5.2%。集團維持 2026 全年 45 億美元目標。"
@@ -117244,7 +117580,7 @@
       "contentKind": "press",
       "publishedAt": "2026-07-07T10:00:00+08:00",
       "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1263701&itemId=928",
-      "clusterId": "c1367",
+      "clusterId": "c1371",
       "summaryShort": {
         "sc": "2026 年 7 月 7 日，国家金融监管总局与上海市政府联合发布《关于加快上海国际再保险中心建设的若干措施》。目标是让上海成为亚太再保险交易中心——与香港争夺区域再保险枢纽地位。",
         "tc": "2026 年 7 月 7 日，國家金融監管總局與上海市政府聯合發布《關於加快上海國際再保險中心建設的若干措施》。目標是讓上海成為亞太再保險交易中心——與香港爭奪區域再保險樞紐地位。"
@@ -117319,7 +117655,7 @@
       },
       "featured": false,
       "evergreen": false,
-      "clusterId": "c1367",
+      "clusterId": "c1371",
       "summaryShort": {
         "sc": "2026年7月7日，国家金融监督管理总局联合上海市政府印发《加快上海国际再保险中心建设的若干措施》，提出包括税收优惠、跨境再保险便利化、机构集聚等一揽子政策。此举将深化上海与香港再保险市场的竞合关系，影响亚洲再保险版图。",
         "tc": ""
@@ -121958,7 +122294,7 @@
         "market"
       ],
       "contentKind": "circular",
-      "clusterId": "c1425",
+      "clusterId": "c1429",
       "summaryShort": {
         "sc": "2026年6月5日，金管局发布《持牌保险中介人（属认可机构）就具定期缴款条款的分红保单的报酬结构》通函，与保监局同日通函平行发布。要求银行作为持牌保险中介销售分红保单时，须采用与保监局实务指引一致的佣金分摊安排。",
         "tc": "2026年6月5日，金管局發布《持牌保險中介人（屬認可機構）就具定期繳款條款的分紅保單的報酬結構》通函，與保監局同日通函平行發布。要求銀行作為持牌保險中介銷售分紅保單時，須採用與保監局實務指引一致的佣金分攤安排。"
@@ -122046,7 +122382,7 @@
       ],
       "contentKind": "circular",
       "clusterCount": 2,
-      "clusterId": "c1425",
+      "clusterId": "c1429",
       "summaryShort": {
         "sc": "2026年6月5日，保监局发通函提请业界注意金管局同日通函《持牌保险中介人（属认可机构）就具定期缴款条款的分红保单的报酬结构》。银行渠道的分红报酬亦纳入与「公平待客」一致的分摊逻辑。",
         "tc": "2026年6月5日，保監局發通函提請業界注意金管局同日通函《持牌保險中介人（屬認可機構）就具定期繳款條款的分紅保單的報酬結構》。銀行渠道的分紅報酬亦納入與「公平待客」一致的分攤邏輯。"
@@ -123691,7 +124027,7 @@
       "themes": [
         "market"
       ],
-      "clusterId": "c1446",
+      "clusterId": "c1450",
       "summaryShort": {
         "sc": "保监局2026年5月13日发出《银行业与保险业之间的跨行业背景查核安排》通函，与金管局衔接。首阶段于2026年7月1日实施，覆盖银行及保险机构的寿险从业员，准员工过去七年操守记录可在两行业间共享。",
         "tc": "保監局5月13日發出跨行業背景查核通函"
@@ -123779,7 +124115,7 @@
         "reg"
       ],
       "contentKind": "circular",
-      "clusterId": "c1446",
+      "clusterId": "c1450",
       "summaryShort": {
         "sc": "保监局2026年5月13日发出《银行业与保险业之间的跨行业背景查核安排》通函，与金管局衔接，覆盖长期业务中介在银行与保险机构间跳槽时的主事人查核。",
         "tc": "保監局2026年5月13日發出《銀行業與保險業之間的跨行業背景查核安排》通函，與金管局銜接，覆蓋長期業務中介在銀行與保險機構間跳槽時的主事人查核。"
@@ -124010,7 +124346,7 @@
         "market",
         "reinsurance"
       ],
-      "clusterId": "c1450",
+      "clusterId": "c1454",
       "summaryShort": {
         "sc": "保监局2026年5月8日公布对《保险业（估值及资本）规则》拟议修订的咨询结论。目标在维持审慎的同时，激励保险人投资基建、增强香港作为全球风险管理中心的竞争力。修订涵盖基建投资优惠、离岸再保险宽免、IUL匹配调整等7项。",
         "tc": "保監局5月8日公布RBC修訂諮詢結論，涵蓋基建優惠、離岸再保寬免等7項"
@@ -124099,7 +124435,7 @@
         "reg"
       ],
       "contentKind": "press",
-      "clusterId": "c1450",
+      "clusterId": "c1454",
       "summaryShort": {
         "sc": "保监局2026年5月8日公布对《保险业（估值及资本）规则》拟议修订的咨询结论，目标在维持审慎的同时，激励保险人投资基建、增强香港作为全球风险管理中心的竞争力。",
         "tc": "保監局2026年5月8日公布對《保險業（估值及資本）規則》擬議修訂的諮詢結論，目標在維持審慎的同時，激勵保險人投資基建、增強香港作為全球風險管理中心的競爭力。"
@@ -130458,7 +130794,7 @@
         "market"
       ],
       "contentKind": "press",
-      "clusterId": "c1530",
+      "clusterId": "c1534",
       "summaryShort": {
         "sc": "保监局2026年1月23日公布2025年前三季临时统计：长期业务（不含退休计划）新造保单保费约2645亿港元，同比上升约55.9%；第三季单季新造约907亿，同比约+68.8%。",
         "tc": "保監局2026年1月23日公布2025年前三季臨時統計：長期業務（不含退休計劃）新造保單保費約2645億港元，同比上升約55.9%；第三季單季新造約907億，同比約+68.8%。"
@@ -130546,7 +130882,7 @@
       "themes": [
         "market"
       ],
-      "clusterId": "c1530",
+      "clusterId": "c1534",
       "summaryShort": {
         "sc": "保监局2026年1月23日公布2025年前三季临时统计：长期业务新造保费2644.52亿港元同比+55.9%，其中分红业务新保单保费2262.75亿港元同比+60.1%。终身寿险占比80.5%，储蓄寿险10.6%。",
         "tc": "保監局公布2025前三季統計，分紅保費同比+60%"
@@ -136505,7 +136841,7 @@
       "contentKind": "press",
       "publishedAt": "2025-04-30T10:00:00+08:00",
       "originalUrl": "https://www.aia.com/content/dam/group-wise/en/docs/investor-relations/2025/AIA%20Group%202025%20Q1%20New%20Business%20Highlights%20(Eng).pdf",
-      "clusterId": "c1607",
+      "clusterId": "c1611",
       "summaryShort": {
         "sc": "2025 年 4 月 30 日，友邦集团公布 2025 年首季新业务亮点：VONB 按固定汇率计增长 13%。香港业务在本地及内地访客（MCV）双引擎带动下录得强劲增长，继续保持市场第一。",
         "tc": "2025 年 4 月 30 日，友邦集團公佈 2025 年首季新業務亮點：VONB 按固定匯率計增長 13%。香港業務在本地及內地訪客（MCV）雙引擎帶動下錄得強勁增長。"
@@ -136650,7 +136986,7 @@
       "contentKind": "report",
       "publishedAt": "2025-04-30T10:00:00+08:00",
       "originalUrl": "https://www.aia.com/content/dam/group-wise/zh-hk/docs/investor-relations/2025/AIA%20Group%202025%20Q1%20New%20Business%20Highlights%20(Chi).pdf",
-      "clusterId": "c1607",
+      "clusterId": "c1611",
       "summaryShort": {
         "sc": "友邦保险公布 2025 年第一季新业务摘要：新业务价值 15 亿美元，较 2024 年创纪录的季度上升 13%。集团首席执行官李源祥指增长势头延续，香港业务为核心驱动力之一。",
         "tc": "友邦保險公佈 2025 年第一季新業務摘要：新業務價值 15 億美元，較 2024 年創紀錄的季度上升 13%。集團首席執行官李源祥指增長勢頭延續。"
@@ -142687,8 +143023,9 @@
           "sc": "2026-11-03",
           "tc": "2026-11-03"
         },
-        "itemCount": 13,
+        "itemCount": 14,
         "itemIds": [
+          "morganstanley-aia-q3-vonb-20261103",
           "hkma-gflis-fifth-summit-20261103",
           "ian-hk-pcc-ils-captives-20261103",
           "ian-antares-risk-faster-than-price-20261103",
@@ -142710,8 +143047,9 @@
           "sc": "2026-11-02",
           "tc": "2026-11-02"
         },
-        "itemCount": 12,
+        "itemCount": 13,
         "itemIds": [
+          "swissre-ziswiler-apac-pc-20261102",
           "ia-cheung-gl8-ils-climate-portal-20261102",
           "ian-scor-ai-autonomous-underwriting-20261102",
           "ian-gallagher-re-1-1-renewals-structuring-20261102",
@@ -142743,8 +143081,9 @@
           "sc": "2026-10-31",
           "tc": "2026-10-31"
         },
-        "itemCount": 6,
+        "itemCount": 7,
         "itemIds": [
+          "goldmansachs-aia-q3-vonb-20261031",
           "ian-full-capacity-korea-re-backstop-20261031",
           "iaasia-weekly-cat-loss-hk-indonesia-20261031",
           "ibm-hcmc-social-insurance-compliance-20261031",
@@ -142826,8 +143165,9 @@
           "sc": "2026-10-27",
           "tc": "2026-10-27"
         },
-        "itemCount": 15,
+        "itemCount": 16,
         "itemIds": [
+          "blackrock-2026-global-insurance-survey-20261027",
           "ibm-india-commission-caps-20261027",
           "scmp-former-csrc-official-bribery-sentence-20261027",
           "ian-moodys-apac-repricing-20261027",
@@ -147509,7 +147849,7 @@
           "sc": "2026-W45",
           "tc": "2026-W45"
         },
-        "itemCount": 59,
+        "itemCount": 61,
         "itemIds": [
           "ia-efr-broker-financial-returns-20261105",
           "prudential-q3-2026-nbp-20261105",
@@ -147545,6 +147885,8 @@
           "ian-seadrif-philippines-isf-grant-20261104",
           "ian-shipowners-pi-2027-renewal-20261104",
           "ian-chubb-north-asia-property-head-20261104",
+          "morganstanley-aia-q3-vonb-20261103",
+          "swissre-ziswiler-apac-pc-20261102",
           "hkma-gflis-fifth-summit-20261103",
           "ian-hk-pcc-ils-captives-20261103",
           "ian-antares-risk-faster-than-price-20261103",
@@ -147578,8 +147920,10 @@
           "sc": "2026-W44",
           "tc": "2026-W44"
         },
-        "itemCount": 78,
+        "itemCount": 80,
         "itemIds": [
+          "goldmansachs-aia-q3-vonb-20261031",
+          "blackrock-2026-global-insurance-survey-20261027",
           "ian-cyclone-arnab-andhra-losses-20261101",
           "ian-full-capacity-korea-re-backstop-20261031",
           "iaasia-weekly-cat-loss-hk-indonesia-20261031",
@@ -150355,7 +150699,7 @@
           "sc": "2026-11",
           "tc": "2026-11"
         },
-        "itemCount": 60,
+        "itemCount": 62,
         "itemIds": [
           "ia-efr-broker-financial-returns-20261105",
           "prudential-q3-2026-nbp-20261105",
@@ -150391,6 +150735,8 @@
           "ian-seadrif-philippines-isf-grant-20261104",
           "ian-shipowners-pi-2027-renewal-20261104",
           "ian-chubb-north-asia-property-head-20261104",
+          "morganstanley-aia-q3-vonb-20261103",
+          "swissre-ziswiler-apac-pc-20261102",
           "hkma-gflis-fifth-summit-20261103",
           "ian-hk-pcc-ils-captives-20261103",
           "ian-antares-risk-faster-than-price-20261103",
@@ -150425,8 +150771,10 @@
           "sc": "2026-10",
           "tc": "2026-10"
         },
-        "itemCount": 523,
+        "itemCount": 525,
         "itemIds": [
+          "goldmansachs-aia-q3-vonb-20261031",
+          "blackrock-2026-global-insurance-survey-20261027",
           "capital-hk-5yrplan-family-wealth-roadmap-20261004",
           "legco-express-trust-beneficial-ownership-consultation-20261005",
           "ian-full-capacity-korea-re-backstop-20261031",
@@ -152401,7 +152749,7 @@
           "sc": "2026 年",
           "tc": "2026 年"
         },
-        "itemCount": 1540,
+        "itemCount": 1544,
         "itemIds": [
           "ia-efr-broker-financial-returns-20261105",
           "prudential-q3-2026-nbp-20261105",
@@ -152437,6 +152785,10 @@
           "ian-seadrif-philippines-isf-grant-20261104",
           "ian-shipowners-pi-2027-renewal-20261104",
           "ian-chubb-north-asia-property-head-20261104",
+          "morganstanley-aia-q3-vonb-20261103",
+          "swissre-ziswiler-apac-pc-20261102",
+          "goldmansachs-aia-q3-vonb-20261031",
+          "blackrock-2026-global-insurance-survey-20261027",
           "hkma-gflis-fifth-summit-20261103",
           "ian-hk-pcc-ils-captives-20261103",
           "ian-antares-risk-faster-than-price-20261103",
@@ -155827,10 +156179,10 @@
         "tc": "情報密度"
       },
       "subtitle": {
-        "sc": "自动从 1684 条资讯聚合 · sourceKey 标准化完成",
-        "tc": "自動從 1684 條資訊聚合 · sourceKey 標準化完成"
+        "sc": "自动从 1688 条资讯聚合 · sourceKey 标准化完成",
+        "tc": "自動從 1688 條資訊聚合 · sourceKey 標準化完成"
       },
-      "totalItems": 1684,
+      "totalItems": 1688,
       "sourceTiers": [
         {
           "tier": "official",
@@ -155859,7 +156211,7 @@
         },
         {
           "tier": "research",
-          "count": 26,
+          "count": 30,
           "label": "机构研究"
         }
       ],

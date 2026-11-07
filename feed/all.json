@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-11-06T17:08:28Z",
-  "itemCount": 1684,
+  "generatedAt": "2026-11-07T10:09:07Z",
+  "itemCount": 1688,
   "items": [
     {
       "id": "ia-efr-broker-financial-returns-20261105",
@@ -513,6 +513,62 @@
       "score": 62,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-chubb-north-asia-property-head-20261104",
       "originalUrl": "https://insuranceasianews.com/chubb-hires-aigs-matthew-pereira-as-north-asia-property-manager/"
+    },
+    {
+      "id": "morganstanley-aia-q3-vonb-20261103",
+      "title": "大摩：友邦Q3新业务价值14.15亿美元跌5%大致符预期　维持「增持」目标价101港元",
+      "sourceTier": "research",
+      "themes": [
+        "投行观点",
+        "VONB",
+        "友邦"
+      ],
+      "publishedAt": "2026-11-03T16:32:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=morganstanley-aia-q3-vonb-20261103",
+      "originalUrl": "http://hkstock.cnfol.com/shichangfenxi/20261103/32414593.shtml"
+    },
+    {
+      "id": "swissre-ziswiler-apac-pc-20261102",
+      "title": "瑞再：亚太再保组合持续多元化　点香港海险/贵金属/航空等特种险为增长点",
+      "sourceTier": "research",
+      "themes": [
+        "再保险",
+        "亚太市场",
+        "特种险"
+      ],
+      "publishedAt": "2026-11-02",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=swissre-ziswiler-apac-pc-20261102",
+      "originalUrl": "https://www.reinsurancene.ws/swiss-re-focused-on-maintaining-a-strong-well-diversified-portfolio-as-apac-risk-landscape-shifts-ziswiler/"
+    },
+    {
+      "id": "goldmansachs-aia-q3-vonb-20261031",
+      "title": "高盛：友邦Q3新业务价值跌5%符预期　维持「买入」目标价95港元、点名香港表现超预期",
+      "sourceTier": "research",
+      "themes": [
+        "投行观点",
+        "VONB",
+        "香港业务"
+      ],
+      "publishedAt": "2026-10-31",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=goldmansachs-aia-q3-vonb-20261031",
+      "originalUrl": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-10-31/doc-inixcsqr3732140.shtml"
+    },
+    {
+      "id": "blackrock-2026-global-insurance-survey-20261027",
+      "title": "贝莱德第15届全球保险调查：保司衰退忧虑近减半、逾四分之三拟增配私募市场",
+      "sourceTier": "research",
+      "themes": [
+        "险资配置",
+        "私募市场",
+        "资产配置"
+      ],
+      "publishedAt": "2026-10-27",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=blackrock-2026-global-insurance-survey-20261027",
+      "originalUrl": "https://hk.marketscreener.com/news/blackrock-2026-global-insurance-survey-ce785cddd981fe21"
     },
     {
       "id": "hkma-gflis-fifth-summit-20261103",
