@@ -565,7 +565,7 @@ function fmtDay(iso){
   }
   function hot(){
     const t=T();
-    // 自动计算：近14天 + score>=85 + sourceTier=official，最多6条
+    // 自动计算：近14天 + score>=85 + sourceTier=official，最多3条
     const now = new Date();
     const weekAgo = new Date(now.getTime() - 14*24*3600*1000).toISOString().slice(0,10);
     const candidates = (DATA.items||[]).filter(i => {
@@ -573,7 +573,7 @@ function fmtDay(iso){
       return d >= weekAgo && (i.score||0) >= 85 && (i.sourceTier||'') === 'official';
     });
     candidates.sort((a,b) => (b.score||0) - (a.score||0));
-    const items = candidates.slice(0,6);
+    const items = candidates.slice(0,3);
     if(!items.length) return "";
     return `<section class="hot"><div class="hot-label">${t.hot}<span class="hot-auto"> · 自动</span></div><ol>${items.map((it,i)=>`<li><button type="button" data-open="${it.id}">${esc(tx(it.title))}</button></li>`).join("")}</ol></section>`;
   }
