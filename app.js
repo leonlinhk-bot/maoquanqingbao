@@ -1293,6 +1293,9 @@ ${t.brandName} · ${t.disc}
     const th=e.target.closest("[data-theme-btn]"); if(th){ state.theme=th.dataset.themeBtn; localStorage.setItem("hkii_theme", state.theme); render(); }
   });
   $("#menuBtn").addEventListener("click", ()=>$("#sidebar").classList.toggle("open"));
+  // 手机端抽屉：点遮罩关闭
+  const _sbBd = $("#sbBackdrop");
+  if(_sbBd) _sbBd.addEventListener("click", ()=>$("#sidebar").classList.remove("open"));
   refreshGlobalHot();
   trackEvent("view", state.view || "pulse");
   render();
