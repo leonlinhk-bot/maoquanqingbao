@@ -1,9 +1,66 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-11-09T08:28:20Z",
-  "itemCount": 1688,
+  "generatedAt": "2026-11-09T10:11:38Z",
+  "itemCount": 1692,
   "items": [
+    {
+      "id": "insuranceasia-20261109-china-life-overseas-alm-framework",
+      "title": "中国人寿（海外）重构投资框架：把风险、资本与保单负债打通",
+      "sourceTier": "media",
+      "themes": [
+        "capital",
+        "reg",
+        "hong-kong",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-11-09T12:28:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-20261109-china-life-overseas-alm-framework",
+      "originalUrl": "https://insuranceasia.com/insurance/event-news/china-life-overhauls-investment-strategy-amidst-risk-pressures"
+    },
+    {
+      "id": "insuranceasia-20261109-iumi-marine-premiums-426b",
+      "title": "IUMI：2025年全球海运险保费升5.5%至426亿美元　货险与船壳撑增长、费率仍受压",
+      "sourceTier": "media",
+      "themes": [
+        "pricing",
+        "apac",
+        "market"
+      ],
+      "publishedAt": "2026-11-09T11:15:00+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-20261109-iumi-marine-premiums-426b",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/marine-insurance-premiums-hit-426b-despite-pricing-pressure"
+    },
+    {
+      "id": "insuranceasia-20261109-aon-act-coinsurance-35pct",
+      "title": "Aon客户条约产能升至35%　2027年起符合条件业务可获承诺承保份额与1.5%分红",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "pricing",
+        "apac"
+      ],
+      "publishedAt": "2026-11-09T05:15:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-20261109-aon-act-coinsurance-35pct",
+      "originalUrl": "https://insuranceasia.com/insurance/news/aon-raises-insurance-co-insurance-capacity-35-2027"
+    },
+    {
+      "id": "artemis-20261106-cortina-syndicate-1956-aon-blackstone",
+      "title": "Aon与Blackstone在劳合社设Cortina 1956辛迪加　机构资本直连再保业务、2027年起承保",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "ils",
+        "capital"
+      ],
+      "publishedAt": "2026-11-06T00:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-20261106-cortina-syndicate-1956-aon-blackstone",
+      "originalUrl": "https://www.artemis.bm/news/aon-and-blackstone-funds-launch-cortina-a-new-lloyds-syndicate-offering-efficient-reinsurance/"
+    },
     {
       "id": "ia-efr-broker-financial-returns-20261105",
       "title": "保监局开通保险经纪财报电子提交　11月5日起经IIC平台办理、硬本并行至2027年10月31日",
