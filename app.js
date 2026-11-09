@@ -37,7 +37,7 @@ window.HKII_dataReady = (async function () {
       foot: "专业参考 · 非销售/投资建议 · 数字请回原文", menu: "菜单",
       roles: [{id:"front",label:"前线IFA"},{id:"midback",label:"中后台合规"},{id:"lead",label:"团队管理"},{id:"cross",label:"跨境架构"}],
       nav: [
-        {id:"dashboard",label:"情报看板",ico:"◉"},{id:"pulse",label:"今日脉搏",ico:"◈"},{id:"all",label:"全部动态",ico:"☰"},{id:"daily",label:"角色日报",ico:"▣"},{id:"themes",label:"主题雷达",ico:"◎"},{id:"deeps",label:"监管深度",ico:"◆"},{id:"calendar",label:"事件日历",ico:"◷"},{id:"download",label:"数据下载",ico:"⬇"},{id:"fav",label:"收藏",ico:"☆"},{id:"tools",label:"AI工具情报",ico:"⌬"},{id:"agent",label:"Agent 接入",ico:"⌘"},{id:"changelog",label:"更新日志",ico:"◌"},{id:"about",label:"关于",ico:"ⓘ"}
+        {id:"dashboard",label:"情报看板",ico:"◉",s:"c"},{id:"pulse",label:"今日脉搏",ico:"◈",s:"c"},{id:"all",label:"全部动态",ico:"☰",s:"c"},{id:"daily",label:"角色日报",ico:"▣",s:"c"},{id:"themes",label:"主题雷达",ico:"◎",s:"c"},{id:"tools",label:"AI工具情报",ico:"⌬",s:"c"},{id:"deeps",label:"监管深度",ico:"◆",s:"c"},{id:"calendar",label:"事件日历",ico:"◷",s:"c"},{id:"download",label:"数据下载",ico:"⬇",s:"c"},{id:"fav",label:"收藏",ico:"☆",s:"c"},{id:"agent",label:"Agent 接入",ico:"⌘",s:"a"},{id:"changelog",label:"更新日志",ico:"◌",s:"m"},{id:"about",label:"关于",ico:"ⓘ",s:"m"}
       ],
       sec:{c:"内容",a:"接入",m:"更多"},
       views:{
@@ -129,7 +129,7 @@ window.HKII_dataReady = (async function () {
       foot: "專業參考 · 非銷售/投資建議 · 數字請回原文", menu: "選單",
       roles: [{id:"front",label:"前線IFA"},{id:"midback",label:"中後台合規"},{id:"lead",label:"團隊管理"},{id:"cross",label:"跨境架構"}],
       nav: [
-        {id:"dashboard",label:"情报看板",ico:"◉"},{id:"pulse",label:"今日脈搏",ico:"◈"},{id:"all",label:"全部動態",ico:"☰"},{id:"daily",label:"角色日報",ico:"▣"},{id:"themes",label:"主題雷達",ico:"◎"},{id:"deeps",label:"監管深度",ico:"◆"},{id:"calendar",label:"事件日曆",ico:"◷"},{id:"download",label:"數據下載",ico:"⬇"},{id:"fav",label:"收藏",ico:"☆"},{id:"tools",label:"AI工具情報",ico:"⌬"},{id:"agent",label:"Agent 接入",ico:"⌘"},{id:"changelog",label:"更新日誌",ico:"◌"},{id:"about",label:"關於",ico:"ⓘ"}
+        {id:"dashboard",label:"情报看板",ico:"◉",s:"c"},{id:"pulse",label:"今日脈搏",ico:"◈",s:"c"},{id:"all",label:"全部動態",ico:"☰",s:"c"},{id:"daily",label:"角色日報",ico:"▣",s:"c"},{id:"themes",label:"主題雷達",ico:"◎",s:"c"},{id:"tools",label:"AI工具情報",ico:"⌬",s:"c"},{id:"deeps",label:"監管深度",ico:"◆",s:"c"},{id:"calendar",label:"事件日曆",ico:"◷",s:"c"},{id:"download",label:"數據下載",ico:"⬇",s:"c"},{id:"fav",label:"收藏",ico:"☆",s:"c"},{id:"agent",label:"Agent 接入",ico:"⌘",s:"a"},{id:"changelog",label:"更新日誌",ico:"◌",s:"m"},{id:"about",label:"關於",ico:"ⓘ",s:"m"}
       ],
       sec:{c:"內容",a:"接入",m:"更多"},
       views:{
@@ -353,13 +353,14 @@ window.HKII_dataReady = (async function () {
       b.textContent = b.dataset.themeBtn === "dark" ? t.dark : (b.dataset.themeBtn === "light" ? t.light : "跟随系统");
     });
     const n = t.nav;
+    // 按 s 字段分组（c=内容 / a=接入 / m=更多），不再用 slice 硬编码位置——
+    // 否则往 nav 里加一项就会把后面所有分组挤错位
+    const _ni = (x)=>`<button class="nav-item ${state.view===x.id?'active':''}" data-view="${x.id}"><span class="ico">${x.ico}</span>${x.label}</button>`;
+    const _grp = (k)=>n.filter(x=>(x.s||"c")===k).map(_ni).join("");
     $("#nav").innerHTML = `
-      <div class="nav-section">${t.sec.c}</div>
-      ${n.slice(0,9).map(x=>`<button class="nav-item ${state.view===x.id?'active':''}" data-view="${x.id}"><span class="ico">${x.ico}</span>${x.label}</button>`).join("")}
-      <div class="nav-section">${t.sec.a}</div>
-      ${n.slice(9,11).map(x=>`<button class="nav-item ${state.view===x.id?'active':''}" data-view="${x.id}"><span class="ico">${x.ico}</span>${x.label}</button>`).join("")}
-      <div class="nav-section">${t.sec.m}</div>
-      ${n.slice(11).map(x=>`<button class="nav-item ${state.view===x.id?'active':''}" data-view="${x.id}"><span class="ico">${x.ico}</span>${x.label}</button>`).join("")}`;
+      <div class="nav-section">${t.sec.c}</div>${_grp("c")}
+      <div class="nav-section">${t.sec.a}</div>${_grp("a")}
+      <div class="nav-section">${t.sec.m}</div>${_grp("m")}`;
     $("#rolePills").innerHTML = t.roles.map(r => `<button type="button" class="pill ${state.role===r.id?'on':''}" data-role="${r.id}">${r.label}</button>`).join("");
   }
 
