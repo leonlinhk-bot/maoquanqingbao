@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI 工具情报 · 猫圈儿港险情报站</title>
+<link rel="icon" href="assets/logo-cat-64.jpg" />
+<link rel="stylesheet" href="styles.css" />
+<style>
+body{background:var(--bg);color:var(--text);font-family:var(--font);margin:0;padding:0;line-height:1.55}
+.tools-page{max-width:920px;margin:0 auto;padding:32px 22px 90px}
+
+/* Hero */
+.t-hero{padding:28px 0 26px;border-bottom:1px solid var(--border-soft);margin-bottom:30px}
+.t-hero h1{font-size:27px;font-weight:700;margin:0 0 8px;letter-spacing:-.02em}
+.t-hero .sub{font-size:14px;color:var(--text-muted);max-width:640px}
+.t-hero .sub b{color:var(--text)}
+.t-badges{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+.t-badges span{padding:4px 10px;border-radius:999px;font-size:11px;font-weight:600;border:1px solid var(--border);color:var(--text-dim);background:var(--bg-elev)}
+
+/* 说明条 */
+.t-note{padding:12px 16px;border-left:3px solid var(--accent);background:var(--bg-elev);border-radius:0 8px 8px 0;font-size:13px;color:var(--text-muted);margin-bottom:30px}
+.t-note b{color:var(--accent)}
+
+/* 场景块 */
+.scene{margin-bottom:32px}
+.scene-h{display:flex;align-items:baseline;gap:10px;margin-bottom:4px}
+.scene-h h2{font-size:17px;font-weight:700;margin:0;letter-spacing:-.01em}
+.scene-h .cnt{font-size:11px;color:var(--text-dim)}
+.scene-d{font-size:13px;color:var(--text-muted);margin-bottom:14px}
+
+/* 工具卡 */
+.tool{border:1px solid var(--border);border-radius:10px;padding:14px 16px;margin-bottom:10px;background:var(--bg-elev);transition:border-color .15s}
+.tool:hover{border-color:color-mix(in srgb,var(--accent) 35%,var(--border))}
+.tool-h{display:flex;align-items:baseline;gap:9px;flex-wrap:wrap;margin-bottom:6px}
+.tool-h .nm{font-size:15px;font-weight:650}
+.tool-h .vnd{font-size:11.5px;color:var(--text-dim)}
+.free{font-size:10px;padding:2px 8px;border-radius:4px;font-weight:650;white-space:nowrap}
+.free.f-always{background:color-mix(in srgb,var(--ok) 14%,transparent);color:var(--ok)}
+.free.f-quota{background:var(--accent-dim);color:var(--accent)}
+.tool-use{font-size:13px;color:var(--text-muted);margin-bottom:9px}
+.tool-use b{color:var(--text);font-weight:600}
+.tool-bar{display:flex;align-items:center;gap:14px;flex-wrap:wrap;font-size:12px}
+.tool-bar a{color:var(--accent);text-decoration:none;border-bottom:1px solid color-mix(in srgb,var(--accent) 35%,transparent)}
+.tool-bar a:hover{border-bottom-color:var(--accent)}
+.tool-bar .why{color:var(--text-dim);font-size:11.5px}
+
+/* 导流卡（方案 A） */
+.route{border:1px solid color-mix(in srgb,var(--accent) 30%,var(--border));background:var(--bg-elev);border-radius:12px;padding:18px 20px;margin:36px 0 26px;display:flex;align-items:center;justify-content:space-between;gap:18px;flex-wrap:wrap}
+.route-txt h3{font-size:15px;font-weight:700;margin:0 0 5px}
+.route-txt p{font-size:13px;color:var(--text-muted);margin:0;max-width:520px}
+.route-btn{display:inline-flex;align-items:center;gap:7px;padding:9px 18px;border-radius:8px;background:var(--accent);color:#12181C;font-size:13px;font-weight:650;text-decoration:none;white-space:nowrap}
+.route-btn:hover{filter:brightness(1.06)}
+
+/* 页脚 */
+.t-foot{font-size:11.5px;color:var(--text-dim);border-top:1px solid var(--border-soft);padding-top:16px;line-height:1.7}
+.t-foot a{color:var(--text-muted)}
+</style>
+</head>
+<body>
+<div class="tools-page">
+
+  <div class="t-hero">
+    <h1>AI 工具情报</h1>
+    <p class="sub">风险与保险行业用得上的 AI 工具，<b>按场景挑，不按价格挑</b>。这里不放 API 额度和开发者羊毛——那些对前线没有意义；只放真正能在条款、客户、文案、数据上省时间的工具。</p>
+    <div class="t-badges">
+      <span>按场景分类</span>
+      <span>不写会过期的额度数字</span>
+      <span>链接已验 · 2026-11-09</span>
+    </div>
+  </div>
+
+  <div class="t-note">
+    <b>怎么用这一页</b>：先找你最花时间的那件事，再看对应的工具。不必都装，也不必换掉现在顺手的那个——<b>翻译、摘要这类通用能力，各家的差别没有宣传得那么大</b>。
+  </div>
+
+  <!-- 1 条款通读 -->
+  <div class="scene">
+    <div class="scene-h"><h2>一｜条款通读与合同比对</h2><span class="cnt">3 个</span></div>
+    <div class="scene-d">几十页保单条款、批注、监管通函，问它「这条除外怎么理解」，比翻目录快。</div>
+
+    <div class="tool">
+      <div class="tool-h"><span class="nm">Kimi</span><span class="vnd">月之暗面</span><span class="free f-always">长期免费</span></div>
+      <div class="tool-use">长文档塞进去直接问：<b>把条款里的「不保事项」逐条列出来，用客户听得懂的话讲一遍</b>。适合面谈前把产品吃透。</div>
+      <div class="tool-bar"><a href="https://kimi.moonshot.cn/" target="_blank" rel="noopener">官方入口 →</a><span class="why">网页与 App 免费档够个人用</span></div>
+    </div>
+
+    <div class="tool">
+      <div class="tool-h"><span class="nm">ima</span><span class="vnd">腾讯</span><span class="free f-always">长期免费</span></div>
+      <div class="tool-use">做成<b>自己的条款知识库</b>：把公司产品条款、监管通函、内部指引都存进去，以后直接问「XX 产品的等待期是多久」。比每次翻 PDF 快。</div>
+      <div class="tool-bar"><a href="https://ima.qq.com/" target="_blank" rel="noopener">官方入口 →</a><span class="why">客户端 + 网页，需登录</span></div>
+    </div>
+
+    <div class="tool">
+      <div class="tool-h"><span class="nm">DeepSeek</span><span class="vnd">深度求索</span><span class="free f-always">长期免费</span></div>
+      <div class="tool-use">解释术语最快：<b>「不可争议条款」和「如实告知义务」有什么区别，举一个理赔被拒的例子</b>。适合临时被客户问住时查。</div>
+      <div class="tool-bar"><a href="https://www.deepseek.com/" target="_blank" rel="noopener">官方入口 →</a><span class="why">网页版免费，API 另计费</span></div>
+    </div>
+  </div>
+
+  <!-- 2 客户沟通 -->
+  <div class="scene">
+    <div class="scene-h"><h2>二｜客户沟通文案</h2><span class="cnt">2 个</span></div>
+    <div class="scene-d">把专业话翻成客户听得懂的话——这是最容易见效、也最容易被忽略的一步。</div>
+
+    <div class="tool">
+      <div class="tool-h"><span class="nm">豆包</span><span class="vnd">字节跳动</span><span class="free f-always">长期免费</span></div>
+      <div class="tool-use">改写利器：<b>把这段话改成 60 岁客户能听懂的口语，不要专业词，不超过 100 字</b>。朋友圈文案、面谈话术初稿都能用。</div>
+      <div class="tool-bar"><a href="https://www.doubao.com/" target="_blank" rel="noopener">官方入口 →</a><span class="why">网页 + 电脑版 + App</span></div>
+    </div>
+
+    <div class="tool">
+      <div class="tool-h"><span class="nm">腾讯元宝</span><span class="vnd">腾讯</span><span class="free f-always">长期免费</span></div>
+      <div class="tool-use">公众号、朋友圈这类中文语感更顺；也接了微信公众号文章检索，找同行怎么写同一件事很方便。</div>
+      <div class="tool-bar"><a href="https://yuanbao.tencent.com/" target="_blank" rel="noopener">官方入口 →</a><span class="why">网页 + 微信小程序</span></div>
+    </div>
+  </div>
+
+  <!-- 3 会议纪要 -->
+  <div class="scene">
+    <div class="scene-h"><h2>三｜会议纪要与录音转写</h2><span class="cnt">2 个</span></div>
+    <div class="scene-d">客户面谈、团队例会，录下来转文字再摘要——复盘和交接都省事。</div>
+
+    <div class="tool">
+      <div class="tool-h"><span class="nm">通义听悟</span><span class="vnd">阿里云</span><span class="free f-quota">有免费额度</span></div>
+      <div class="tool-use">录音转文字 + 自动摘要 + 区分发言人。客户面谈后直接出纪要，<b>省掉手打的一小时</b>。</div>
+      <div class="tool-bar"><a href="https://tingwu.aliyun.com/" target="_blank" rel="noopener">官方入口 →</a><span class="why">按官方免费额度使用</span></div>
+    </div>
+
+    <div class="tool">
+      <div class="tool-h"><span class="nm">ima</span><span class="vnd">腾讯</span><span class="free f-always">长期免费</span></div>
+      <div class="tool-use">会议记录存进知识库，<b>下次问「上次跟这位客户聊到哪」能直接调出来</b>。比散在备忘录里强。</div>
+      <div class="tool-bar"><a href="https://ima.qq.com/" target="_blank" rel="noopener">官方入口 →</a><span class="why">与条款知识库同一套</span></div>
+    </div>
+  </div>
+
+  <!-- 4 数据与文档 -->
+  <div class="scene">
+    <div class="scene-h"><h2>四｜表格与文档整理</h2><span class="cnt">3 个</span></div>
+    <div class="scene-d">保单清单、佣金表、客户名单——这类活最耗人，也最适合交给 AI 打头阵。</div>
+
+    <div class="tool">
+      <div class="tool-h"><span class="nm">WPS 灵犀</span><span class="vnd">金山</span><span class="free f-quota">有免费额度</span></div>
+      <div class="tool-use">在 WPS 里直接问：<b>把这张表按保费降序排，再标出续期日在 90 天内的</b>。不用记公式。</div>
+      <div class="tool-bar"><a href="https://www.wps.cn/" target="_blank" rel="noopener">官方入口 →</a><span class="why">客户端内使用，按官方额度</span></div>
+    </div>
+
+    <div class="tool">
+      <div class="tool-h"><span class="nm">WorkBuddy</span><span class="vnd">腾讯</span><span class="free f-quota">有免费额度</span></div>
+      <div class="tool-use">文档、表格、PPT 一起处理，和腾讯文档、ima 打通。适合做客户方案初稿。</div>
+      <div class="tool-bar"><a href="https://www.workbuddy.cn/" target="_blank" rel="noopener">官方入口 →</a><span class="why">体验版有基础积分</span></div>
+    </div>
+
+    <div class="tool">
+      <div class="tool-h"><span class="nm">小浣熊</span><span class="vnd">商汤</span><span class="free f-quota">有免费额度</span></div>
+      <div class="tool-use">批量处理文档和表格：一次丢十几份文件让它逐份提取字段，比一份份点开快得多。</div>
+      <div class="tool-bar"><a href="https://xiaohuanxiong.com/" target="_blank" rel="noopener">官方入口 →</a><span class="why">免费版有每日额度</span></div>
+    </div>
+  </div>
+
+  <!-- 5 做图 -->
+  <div class="scene">
+    <div class="scene-h"><h2>五｜做图与配图</h2><span class="cnt">2 个</span></div>
+    <div class="scene-d">朋友圈、公众号配图。提醒一句：<b>生成图不能替代合规审核</b>，涉及产品利益的图仍要按内部口径做。</div>
+
+    <div class="tool">
+      <div class="tool-h"><span class="nm">即梦</span><span class="vnd">字节跳动</span><span class="free f-quota">有免费额度</span></div>
+      <div class="tool-use">文生图，做「退休生活」「家庭保障」这类氛围配图够用；也能改图、扩图。</div>
+      <div class="tool-bar"><a href="https://jimeng.jianying.com/" target="_blank" rel="noopener">官方入口 →</a><span class="why">每日有免费生成额度</span></div>
+    </div>
+
+    <div class="tool">
+      <div class="tool-h"><span class="nm">通义万相</span><span class="vnd">阿里云</span><span class="free f-quota">有免费额度</span></div>
+      <div class="tool-use">同类能力，中文提示词理解更稳；适合做统一风格的系列配图。</div>
+      <div class="tool-bar"><a href="https://www.tongyi.com/" target="_blank" rel="noopener">官方入口 →</a><span class="why">从通义入口进入万相</span></div>
+    </div>
+  </div>
+
+  <!-- 6 翻译 -->
+  <div class="scene">
+    <div class="scene-h"><h2>六｜翻译（中英 / 繁简）</h2><span class="cnt">判断</span></div>
+    <div class="scene-d">这一类<b>不必专门找工具</b>。</div>
+
+    <div class="tool">
+      <div class="tool-h"><span class="nm">用你已经在用的那个就行</span><span class="vnd">Kimi / 豆包 / DeepSeek / 元宝 均可</span></div>
+      <div class="tool-use">保单条款的中英互译、港股公告的繁简转换，主流模型差别不大。真正拉开差距的不是工具，是<b>你有没有给它一份术语表</b>——把「cooling-off period = 冷静期」这类固定译法先喂进去，质量立刻不一样。</div>
+      <div class="tool-bar"><span class="why">这一条是判断，不是推荐</span></div>
+    </div>
+  </div>
+
+  <!-- 方案 A：导流卡 -->
+  <div class="route">
+    <div class="route-txt">
+      <h3>想找完整的免费额度清单？</h3>
+      <p>本站只做「场景怎么用」，不做额度数字——数字变得太快。要查各厂商每天能领多少、什么时候截止，看 AIHOT 的 Token 羊毛页，它们逐家核实并标注日期。</p>
+    </div>
+    <a class="route-btn" href="https://aihot.news/free-tokens" target="_blank" rel="noopener">去 AIHOT 看额度 →</a>
+  </div>
+
+  <div class="t-foot">
+    <p><b>关于这一页</b>：工具能力描述依据各厂商公开的功能说明整理，外部链接已于 2026-11-09 逐一验证可达。具体额度、免费政策以厂商官方页面为准，可能随时调整。</p>
+    <p>本站不销售任何 AI 产品，也不提供工具采购建议。工具用得好不好，取决于你有没有把真实的工作场景讲清楚。</p>
+    <p><a href="./">← 返回情报站</a></p>
+  </div>
+
+</div>
+</body>
+</html>
