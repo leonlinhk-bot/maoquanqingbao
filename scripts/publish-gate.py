@@ -21,7 +21,7 @@ import os
 import re
 import subprocess
 import sys
-from datetime import date
+from datetime import date, datetime
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
@@ -35,7 +35,9 @@ DERIVED_EXACT = {
     "data/last-check.json",  # 采集检查点（纯遥测，站点不读，每天必然变）
 }
 # `data/_*` 是仓库既有约定：下划线前缀 = 瞬态产物（_raw / _staging / _feed-*）
-DERIVED_PREFIX = ("feed/", "posters/", "data/_")
+# `scripts/insert-*`：采集器每次跑都会写的一次性入库脚本（2026-11 已有 80 个），
+# 不是人工改脚本 —— 不排除掉的话，日常采集每天都会被本闸门误拦。
+DERIVED_PREFIX = ("feed/", "posters/", "data/_", "scripts/insert-")
 
 # live-items.json 里 rebuild 会自动同步的 meta 字段（其余 meta 改动视为口径变更）
 META_VOLATILE = {"windowNote", "itemCount", "generatedAt"}
@@ -173,13 +175,34 @@ def classify() -> tuple[list[str], list[str], dict]:
 
 def approved() -> bool:
     if os.environ.get("HKII_PUBLISH_APPROVED") == "1":
+        _audit("env:HKII_PUBLISH_APPROVED=1")
         return True
     if APPROVAL_FILE.is_file():
         try:
-            return APPROVAL_FILE.read_text().strip() == date.today().isoformat()
+            ok = APPROVAL_FILE.read_text().strip() == date.today().isoformat()
+            if ok:
+                _audit(f"file:{APPROVAL_FILE.name}")
+            return ok
         except OSError:
             return False
     return False
+
+
+def _audit(how: str) -> None:
+    """批准无法技术上禁止（agent 也能设 env / 写文件），所以至少留痕。
+
+    agent 自批会在这里留下一条记录；人工审时可据此判断该次发布是否需要复查。
+    """
+    try:
+        log = REPO / "data" / "_gate-approvals.log"
+        log.parent.mkdir(parents=True, exist_ok=True)
+        with log.open("a", encoding="utf-8") as f:
+            f.write(
+                f"{datetime.now().isoformat(timespec='seconds')}\t{how}\t"
+                f"cwd={Path.cwd()}\n"
+            )
+    except OSError:
+        pass
 
 
 def main() -> int:
