@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1080,initial-scale=1">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;background:linear-gradient(180deg,#0d1117 0%,#161b22 40%,#1a1f2e 100%);color:#e6edf3;font-family:-apple-system,'PingFang SC','Microsoft YaHei',sans-serif}
+.poster{min-height:1920px;padding:0;display:flex;flex-direction:column}
+
+/* 顶部品牌区 */
+.hero{text-align:center;padding:80px 60px 50px;position:relative}
+.hero .logo{font-size:26px;color:#f0a040;letter-spacing:3px;margin-bottom:10px}
+.hero h1{font-size:72px;font-weight:900;letter-spacing:-1px;background:linear-gradient(135deg,#f0a040,#ffd080);-webkit-background-clip:text;-webkit-text-fill-color:transparent;margin-bottom:6px}
+.hero .sub{font-size:22px;color:#8b949e;letter-spacing:1px}
+.hero::after{content:'';position:absolute;bottom:0;left:80px;right:80px;height:1px;background:linear-gradient(90deg,transparent,rgba(240,160,64,.3),transparent)}
+
+/* 日期 */
+.date-badge{text-align:center;padding:30px 0 20px}
+.date-badge .day{font-size:120px;font-weight:900;line-height:1;color:#f0a040;letter-spacing:-2px}
+.date-badge .week{font-size:28px;color:#8b949e;margin-top:4px}
+
+/* 标题栏 */
+.section-title{display:flex;align-items:center;gap:14px;padding:0 60px 24px}
+.section-title .dot{width:10px;height:10px;border-radius:50%;background:#f0a040}
+.section-title span{font-size:24px;color:#f0a040;letter-spacing:2px}
+
+/* 卡片区 */
+.cards{padding:0 50px;flex:1;display:flex;flex-direction:column;gap:20px}
+
+.card{background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.06);border-radius:20px;padding:30px 36px;position:relative;overflow:hidden}
+.card::before{content:'';position:absolute;left:0;top:20px;bottom:20px;width:4px;border-radius:2px;background:linear-gradient(180deg,#f0a040,#d07020)}
+.card .meta{display:flex;align-items:center;gap:10px;margin-bottom:14px}
+.card .tag{font-size:18px;color:#f0a040;background:rgba(240,160,64,.12);padding:4px 14px;border-radius:6px;font-weight:600}
+.card .source-name{font-size:18px;color:#8b949e}
+.card h3{font-size:30px;font-weight:700;line-height:1.45;margin-bottom:10px;color:#f0f6fc}
+.card p{font-size:22px;color:#8b949e;line-height:1.7}
+.card .action-hint{font-size:18px;color:#f0a040;margin-top:12px;opacity:.8}
+
+/* 底部 */
+.footer{text-align:center;padding:50px 60px 70px;margin-top:auto}
+.footer .qr-box{display:flex;align-items:center;justify-content:center;gap:20px;margin-bottom:20px}
+.footer .qr{width:110px;height:110px;border-radius:16px;border:2px solid rgba(255,255,255,.08);background:rgba(255,255,255,.04)}
+.footer .qr-text{text-align:left}
+.footer .qr-text .line1{font-size:26px;color:#e6edf3;font-weight:600}
+.footer .qr-text .line2{font-size:20px;color:#8b949e;margin-top:4px}
+.footer .url{font-size:20px;color:#8b949e;opacity:.7;margin-top:16px}
+.footer .motto{font-size:22px;color:#f0a040;margin-top:16px;letter-spacing:1px}
+</style>
+</head>
+<body>
+<div class="poster">
+
+<div class="hero">
+<div class="logo">🐱 猫圈儿港险情报站</div>
+<h1>今日脉搏</h1>
+<div class="sub">Hong Kong Insurance Daily Pulse</div>
+</div>
+
+<div class="date-badge">
+<div class="day">10</div>
+<div class="week">11月 · 星期二</div>
+</div>
+
+<div class="section-title">
+<div class="dot"></div><span>精选导读</span>
+</div>
+
+<div class="cards">
+<div class="card">
+<div class="meta">
+<span class="tag">📊 市场</span>
+<span class="source-name">HKMA 新闻稿 2026-11-10</span>
+</div>
+<h3>北都金融咨询专责小组第三次会议　金管局拟修资本规则认定 11 院校与 3 园区公司</h3>
+<p>金管局与银行公会 11 月 10 日召开北都金融咨询专责小组第三次会议，教育局介绍三座大学城定位与财务安排，25 家银行就贷款、公私合营等融资方案提供意见。金管局拟修订《银行业（资本）规则》，把 11</p>
+<div class="action-hint">→ 保险资金进北都、银行资金进北都，是同一盘棋的两条腿，这条是银行端的动作。对关注长</div>
+</div>
+<div class="card">
+<div class="meta">
+<span class="tag">📦 产品</span>
+<span class="source-name">宏利香港新闻稿 2026-11-10</span>
+</div>
+<h3>宏利香港成首家伙拍蚂蚁健康推跨境医疗直付　AlipayHK 内「医疗保障卡」串起预约与批核</h3>
+<p>宏利香港与蚂蚁健康 11 月 10 日宣布，为合资格客户推出跨境医疗支援：在 AlipayHK 启用电子「医疗保障卡」、经 24 小时热线预约内地指定医院门诊；医生建议住院、日间手术或门诊癌症治疗时可</p>
+<div class="action-hint">→ 跨境就医的痛点在「先垫付、再逐项报销」，直付把它压成一个流程。对前线，价值不是多</div>
+</div>
+<div class="card">
+<div class="meta">
+<span class="tag">📦 产品</span>
+<span class="source-name">美通社／am730 2026-11-10</span>
+</div>
+<h3>信诺环球香港把 Headspace 纳入团体医保　合资格成员与 18 岁以上家属可用</h3>
+<p>信诺环球香港 11 月 10 日宣布，团体医保方案合资格成员可透过 Headspace 平台获取心理健康教练服务及数码心理健康资源，18 岁或以上合资格家属同享。公司引述《健康活力指数》2026 调查</p>
+<div class="action-hint">→ 团体医保的竞争正从「住院保额」转向「员工真的会用到的服务」，心理健康是 HR 最</div>
+</div>
+<div class="card">
+<div class="meta">
+<span class="tag">📊 市场</span>
+<span class="source-name">瑞银研报（智通财经转述）2026-11-10</span>
+</div>
+<h3>瑞银：友邦企业日释出结构信息　本地新客撑增长、内地访客 8 至 9 月才回复同比</h3>
+<p>瑞银报告引述友邦企业日披露：香港本地第三季新业务价值同比强劲增长，交叉销售与向上销售占本地新业务价值逾 60%，「新香港人」约占 30%（数年前仅十几%）；内地访客 8 至 9 月新业务价值回复同比增</p>
+<div class="action-hint">→ 这是近期判断「内地客还买不买」最具体的口径：不是全面复苏，而是「本地＋新香港人撑</div>
+</div>
+        </div>
+
+<div class="footer">
+<div class="qr-box">
+<div class="qr"><img src="../assets/qr-wechat.jpg" width="110" height="110" style="border-radius:14px"></div>
+<div class="qr-text">
+<div class="line1">关注「维港猫圈儿」</div>
+<div class="line2">获取每日港险解读</div>
+</div>
+</div>
+<div class="motto">🎗️ 每天1%，越来越好</div>
+<div class="url">hkmaoquanqingbao.com</div>
+</div>
+
+</div>
+</body>
+</html>

@@ -1,9 +1,148 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-11-09T10:11:38Z",
-  "itemCount": 1692,
+  "generatedAt": "2026-11-10T12:48:51Z",
+  "itemCount": 1704,
   "items": [
+    {
+      "id": "manulife-20261110-ant-health-cross-border-direct-billing",
+      "title": "宏利香港成首家伙拍蚂蚁健康推跨境医疗直付　AlipayHK 内「医疗保障卡」串起预约与批核",
+      "sourceTier": "insurer",
+      "themes": [
+        "health",
+        "cross-border",
+        "digital"
+      ],
+      "publishedAt": "2026-11-10T00:00:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-20261110-ant-health-cross-border-direct-billing",
+      "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html"
+    },
+    {
+      "id": "manulife-20261109-three-senior-appointments",
+      "title": "宏利香港及澳门一次过委任首席财务总监、首席资讯总监与首席营运总监",
+      "sourceTier": "insurer",
+      "themes": [
+        "people",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-11-09T00:00:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-20261109-three-senior-appointments",
+      "originalUrl": "https://www.manulife.com.hk/zh-hk/individual/about/newsroom.html"
+    },
+    {
+      "id": "scmp-20261110-fwd-private-usd318m-guinness-record",
+      "title": "富卫 FWD Private 签发 3.18 亿美元保单　刷新健力士「最高价值人寿保单」纪录",
+      "sourceTier": "media",
+      "themes": [
+        "high-net-worth",
+        "legacy",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-11-10T00:00:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-20261110-fwd-private-usd318m-guinness-record",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3373928/richard-lis-fwd-sets-world-record-sale-us318m-life-insurance-policy"
+    },
+    {
+      "id": "cigna-20261110-headspace-mental-health-gmc",
+      "title": "信诺环球香港把 Headspace 纳入团体医保　合资格成员与 18 岁以上家属可用",
+      "sourceTier": "insurer",
+      "themes": [
+        "health",
+        "employee-benefits",
+        "digital"
+      ],
+      "publishedAt": "2026-11-10T00:00:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=cigna-20261110-headspace-mental-health-gmc",
+      "originalUrl": "https://am730.com.hk/column/%E5%95%86%E6%A5%AD%E5%8B%95%E5%90%91/2012718/%E4%BF%A1%E8%AB%BE%E7%92%B0%E7%90%83%E9%A6%99%E6%B8%AF%E6%8E%A8%E5%87%BA-headspace%E6%95%B8%E7%A2%BC%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E6%94%AF%E6%8F%B4-%E4%BB%A5%E7%A7%91%E7%A0%94%E5%AF%A6%E8%AD%89%E8%B3%87%E6%BA%90%E6%8F%90%E5%8D%87%E6%97%A5%E5%B8%B8%E8%BA%AB%E5%BF%83%E5%81%A5%E5%BA%B7"
+    },
+    {
+      "id": "ubs-20261110-aia-corporate-day-local-vs-mcv",
+      "title": "瑞银：友邦企业日释出结构信息　本地新客撑增长、内地访客 8 至 9 月才回复同比",
+      "sourceTier": "pro",
+      "themes": [
+        "results",
+        "mainland-visitors",
+        "distribution"
+      ],
+      "publishedAt": "2026-11-10T00:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ubs-20261110-aia-corporate-day-local-vs-mcv",
+      "originalUrl": "http://hkstock.cnfol.com/shichangfenxi/20261110/32419898.shtml"
+    },
+    {
+      "id": "hkma-20261110-northern-metropolis-taskforce-third-meeting",
+      "title": "北都金融咨询专责小组第三次会议　金管局拟修资本规则认定 11 院校与 3 园区公司",
+      "sourceTier": "official",
+      "themes": [
+        "northern-metropolis",
+        "capital",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-11-10T00:00:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-20261110-northern-metropolis-taskforce-third-meeting",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261110-3/"
+    },
+    {
+      "id": "aia-20261109-cancer-drug-protection-plan",
+      "title": "友邦香港推「启护您」癌症药物保障　覆盖港澳公营医院与内地医院的自费药",
+      "sourceTier": "insurer",
+      "themes": [
+        "health",
+        "product",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-11-09T00:00:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=aia-20261109-cancer-drug-protection-plan",
+      "originalUrl": "https://www.aia.com.hk/zh-hk/about-aia/about-us/media-centre/press-releases/2026/aia-press-release-20261109"
+    },
+    {
+      "id": "prnewswire-20261110-fosun-health-ciie-cross-border",
+      "title": "复星健康进博会签跨境医疗合作　对接宏利印尼、安联伙伴越南与香港 JP Partners",
+      "sourceTier": "pro",
+      "themes": [
+        "cross-border",
+        "health",
+        "apac"
+      ],
+      "publishedAt": "2026-11-10T00:00:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=prnewswire-20261110-fosun-health-ciie-cross-border",
+      "originalUrl": "https://prnewswire.com/apac/news-releases/fosun-health-partners-with-southeast-asian-insurers-and-hong-kong-sar-healthcare-provider-to-expand-cross-border-healthcare-network-302934687.html"
+    },
+    {
+      "id": "nfra-20261106-insurer-director-senior-officer-qualification",
+      "title": "金融监管总局就险企董监高任职资格办法征求意见　条文由 56 条增至 66 条",
+      "sourceTier": "official",
+      "themes": [
+        "governance",
+        "mainland",
+        "reg"
+      ],
+      "publishedAt": "2026-11-06T00:00:00+08:00",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-20261106-insurer-director-senior-officer-qualification",
+      "originalUrl": "https://dfjrjgj.hlj.gov.cn/hljjrjd/c113136/202611/c00_31992315.shtml"
+    },
+    {
+      "id": "nfra-20261106-shipping-insurance-guidance",
+      "title": "七部门发文加快航运保险高质量发展　17 项举措含提高自留、人民币计价与统一标准条款",
+      "sourceTier": "official",
+      "themes": [
+        "marine",
+        "mainland-policy",
+        "pricing"
+      ],
+      "publishedAt": "2026-11-06T00:00:00+08:00",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-20261106-shipping-insurance-guidance",
+      "originalUrl": "https://jrj.sh.gov.cn/YWTBZCCX166/20261109/bf9e833cfb8e45c68e6f9957f87577e1.html"
+    },
     {
       "id": "insuranceasia-20261109-china-life-overseas-alm-framework",
       "title": "中国人寿（海外）重构投资框架：把风险、资本与保单负债打通",
@@ -1010,6 +1149,34 @@
       "score": 60,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-cyclone-arnab-andhra-losses-20261101",
       "originalUrl": "https://insuranceasianews.com/cyclone-arnab-leads-to-us480m-in-losses-in-indias-andhra-pradesh/"
+    },
+    {
+      "id": "amg-cpiclife-gba-wellness-20261009",
+      "title": "安柏 × 太保寿险香港办「大湾区颐养」专场：头部经纪行押注跨境康养",
+      "sourceTier": "broker",
+      "themes": [
+        "channel",
+        "health",
+        "cross-border"
+      ],
+      "publishedAt": "2026-10-09T10:00:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=amg-cpiclife-gba-wellness-20261009",
+      "originalUrl": "https://www.linkedin.com/posts/amgfinancial_cpiclife-amgfinancialgroup-27thanniversary-activity-7516326163753930752-l1x-"
+    },
+    {
+      "id": "ziyu-hku-family-office-cert-20261002",
+      "title": "资遇 × 港大经管学院定制「家族办公室管理人证书课程」开课",
+      "sourceTier": "broker",
+      "themes": [
+        "family-office",
+        "talent",
+        "channel"
+      ],
+      "publishedAt": "2026-10-02T10:00:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ziyu-hku-family-office-cert-20261002",
+      "originalUrl": "https://www.instagram.com/p/DdQuJWjk5pD"
     },
     {
       "id": "sg-carried-interest-family-office-13o13u-202609",
