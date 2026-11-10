@@ -1,9 +1,79 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-11-10T12:48:51Z",
-  "itemCount": 1704,
+  "generatedAt": "2026-11-10T12:50:57Z",
+  "itemCount": 1709,
   "items": [
+    {
+      "id": "al-wathba-agentic-ai-production-20261109",
+      "title": "阿布扎比Al Wathba保险代理式AI投产 案件处理时间减半、质检覆盖率升至100%",
+      "sourceTier": "insurer",
+      "themes": [
+        "agentic-ai",
+        "claims",
+        "ai-governance"
+      ],
+      "publishedAt": "2026-11-09",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=al-wathba-agentic-ai-production-20261109",
+      "originalUrl": "https://americanbazaaronline.com/2026/11/09/al-wathba-insurance-launches-agentic-ai-cuts-case-turnaround-time-by-50-491881/"
+    },
+    {
+      "id": "guidewire-agentic-insurance-platform-20261027",
+      "title": "Guidewire发布「代理式保险」平台 AI代理直接跑在核心系统上、内建权限边界与审计轨迹",
+      "sourceTier": "pro",
+      "themes": [
+        "agentic-ai",
+        "insurtech",
+        "core-system"
+      ],
+      "publishedAt": "2026-10-27",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=guidewire-agentic-insurance-platform-20261027",
+      "originalUrl": "https://www.guidewire.com/about/press-center/press-releases/20261027/guidewire-delivers-the-open-secure-and-complete-core-platform-for-agentic-insurance"
+    },
+    {
+      "id": "covergo-series-b1-6m-20261029",
+      "title": "港产AI原生保险平台CoverGo完成600万美元B1轮 营收较A轮增十倍、已EBITDA收支平衡",
+      "sourceTier": "pro",
+      "themes": [
+        "insurtech",
+        "funding",
+        "ai"
+      ],
+      "publishedAt": "2026-10-29",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=covergo-series-b1-6m-20261029",
+      "originalUrl": "https://covergo.com/news/covergo-raises-us6-million-in-series-b1-funding-to-accelerate-global-adoption-of-its-ai-insurance-platform/"
+    },
+    {
+      "id": "kalepa-series-b-470m-20261105",
+      "title": "AI核保平台Kalepa完成7,500万美元B轮 估值4.7亿美元、一年营收增两倍",
+      "sourceTier": "pro",
+      "themes": [
+        "insurtech",
+        "funding",
+        "underwriting"
+      ],
+      "publishedAt": "2026-11-05",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=kalepa-series-b-470m-20261105",
+      "originalUrl": "https://kalepa.com/news-posts/kalepa-raises-75-million-series-b"
+    },
+    {
+      "id": "fwd-hk-ai-claims-35s-award-20261030",
+      "title": "富卫香港AI理赔转型夺香港保险业大奖年度大奖 合资格个案最快35秒完成审批",
+      "sourceTier": "insurer",
+      "themes": [
+        "ai",
+        "claims",
+        "insurtech"
+      ],
+      "publishedAt": "2026-10-30",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fwd-hk-ai-claims-35s-award-20261030",
+      "originalUrl": "https://businessfocus.io/article/364792/"
+    },
     {
       "id": "manulife-20261110-ant-health-cross-border-direct-billing",
       "title": "宏利香港成首家伙拍蚂蚁健康推跨境医疗直付　AlipayHK 内「医疗保障卡」串起预约与批核",
