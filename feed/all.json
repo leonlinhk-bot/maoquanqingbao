@@ -1,9 +1,121 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-11-10T12:50:57Z",
-  "itemCount": 1709,
+  "generatedAt": "2026-11-12T10:11:58Z",
+  "itemCount": 1717,
   "items": [
+    {
+      "id": "iais-2026-hk-fstb-speech-20261112",
+      "title": "IAIS 2026 年会首度在港举行　许正宇：持牌保险中介逾 12 万、保险专才获批逾百宗",
+      "sourceTier": "official",
+      "themes": [
+        "iais",
+        "talent",
+        "ai-governance"
+      ],
+      "publishedAt": "2026-11-12T11:30:00+08:00",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iais-2026-hk-fstb-speech-20261112",
+      "originalUrl": "https://hkcd.com/hkcdweb/content/2026/11/12/content_8784912.html"
+    },
+    {
+      "id": "ia-iais-medical-gap-20261112",
+      "title": "张云正：保险仅占香港医疗开支 16%、政府补贴 51%　65 岁以上仅两成受保",
+      "sourceTier": "official",
+      "themes": [
+        "protection-gap",
+        "medical-inflation",
+        "annuity"
+      ],
+      "publishedAt": "2026-11-12",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-iais-medical-gap-20261112",
+      "originalUrl": "https://news.rthk.hk/rthk/ch/component/k2/1877516-20261112.htm"
+    },
+    {
+      "id": "hkma-ia-lim-ka-kit-ban-20261111",
+      "title": "金管局与保监局联合执法：银行前代理施压八客买医保、两度诱改身高体重　禁牌九个月",
+      "sourceTier": "official",
+      "themes": [
+        "enforcement",
+        "mis-selling",
+        "underwriting-integrity"
+      ],
+      "publishedAt": "2026-11-11",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-ia-lim-ka-kit-ban-20261111",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261111-3/"
+    },
+    {
+      "id": "hkma-sfc-tokenisation-seminar-20261112",
+      "title": "金管局与证监会办代币化研讨会　逾 200 人出席、EnsembleTX 已支持 24×7 代币化存款结算",
+      "sourceTier": "official",
+      "themes": [
+        "tokenisation",
+        "settlement",
+        "digital-asset"
+      ],
+      "publishedAt": "2026-11-12",
+      "score": 84,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-sfc-tokenisation-seminar-20261112",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261112-3/"
+    },
+    {
+      "id": "insuranceasia-bea-aia-bancassurance-20261112",
+      "title": "东亚银行×友邦银保五年：年化新保费复合增长逾 60%　高净值客成最快增长板块",
+      "sourceTier": "media",
+      "themes": [
+        "bancassurance",
+        "hnw",
+        "distribution"
+      ],
+      "publishedAt": "2026-11-12",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-bea-aia-bancassurance-20261112",
+      "originalUrl": "https://insuranceasia.com/insurance/news/bea-aia-insurance-premiums-grow-over-60-annually-2021"
+    },
+    {
+      "id": "ibm-talanx-9m-2026-20261112",
+      "title": "Talanx 九个月净利 21.95 亿欧元升 12%　汉诺威再保寿险健康业务靠亚洲长寿需求增 8%",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "results",
+        "longevity"
+      ],
+      "publishedAt": "2026-11-12",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-talanx-9m-2026-20261112",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/talanx-posts-record-nine-months-as-losses-run-750m-below-budget-597126.aspx"
+    },
+    {
+      "id": "ibm-allianz-q3-cat-20261112",
+      "title": "安联第三季产险综合成本率升至 93.8%　巨灾损失占损失率由 0.3 个百分点跳到 5.1",
+      "sourceTier": "pro",
+      "themes": [
+        "cat-loss",
+        "p&c",
+        "combined-ratio"
+      ],
+      "publishedAt": "2026-11-12",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-allianz-q3-cat-20261112",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/cat-losses-push-allianz-pandc-to-worst-quarterly-result-in-two-years-597114.aspx"
+    },
+    {
+      "id": "ian-apra-datacentre-capacity-20261112",
+      "title": "APRA 警示：数据中心规模正压测保险容量　前沿 AI 模型缩短漏洞修复窗口",
+      "sourceTier": "pro",
+      "themes": [
+        "cyber",
+        "data-centre",
+        "ai-risk"
+      ],
+      "publishedAt": "2026-11-12",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-apra-datacentre-capacity-20261112",
+      "originalUrl": "https://insuranceasianews.com/data-centre-scale-strains-insurance-capacity-as-ai-cyber-threats-accelerate-apra-warns/"
+    },
     {
       "id": "al-wathba-agentic-ai-production-20261109",
       "title": "阿布扎比Al Wathba保险代理式AI投产 案件处理时间减半、质检覆盖率升至100%",
