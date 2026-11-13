@@ -1,9 +1,79 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-11-12T10:11:58Z",
-  "itemCount": 1717,
+  "generatedAt": "2026-11-13T10:11:01Z",
+  "itemCount": 1722,
   "items": [
+    {
+      "id": "ia-aif-2026-concludes-20261113",
+      "title": "亚洲保险论坛 2026 闭幕　4,500 人参与创历届新高　保监局：业界须由「赔付复原」转向「预防适应」",
+      "sourceTier": "official",
+      "themes": [
+        "aif",
+        "risk-management",
+        "catastrophe-bond"
+      ],
+      "publishedAt": "2026-11-13",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-aif-2026-concludes-20261113",
+      "originalUrl": "https://www.ia.org.hk/en/infocenter/press_releases/20261113.html"
+    },
+    {
+      "id": "ian-hk-captives-double-digits-20261113",
+      "title": "张云正：香港专属自保数目「很快到双位数」　称市场开始发出正面讯号",
+      "sourceTier": "pro",
+      "themes": [
+        "captive",
+        "risk-management",
+        "policy"
+      ],
+      "publishedAt": "2026-11-13T11:26:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-hk-captives-double-digits-20261113",
+      "originalUrl": "https://insuranceasianews.com/hong-kong-captives-gaining-momentum-as-ia-eyes-double-digit-count/"
+    },
+    {
+      "id": "ian-iais-alt-capital-private-credit-20261113",
+      "title": "IAIS：向另类资本与私募信贷的转移「尚未构成系统性忧虑」　但须警惕结构性转变",
+      "sourceTier": "pro",
+      "themes": [
+        "iais",
+        "private-credit",
+        "alternative-capital"
+      ],
+      "publishedAt": "2026-11-13",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-iais-alt-capital-private-credit-20261113",
+      "originalUrl": "https://insuranceasianews.com/shift-towards-alternative-capital-private-credit-not-yet-systemically-concerning-iais/"
+    },
+    {
+      "id": "ibm-microsoft365-outage-cloud-concentration-20261113",
+      "title": "微软 365 全球断线、Outlook 宕机报告逾 13 万　云集中风险重回经纪视野：理赔卡在两条条款",
+      "sourceTier": "media",
+      "themes": [
+        "cyber",
+        "cloud-concentration",
+        "business-interruption"
+      ],
+      "publishedAt": "2026-11-13",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-microsoft365-outage-cloud-concentration-20261113",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/microsoft-email-teams-goes-out-globally-puts-cloud-concentration-risk-back-on-brokers-radar-597216.aspx"
+    },
+    {
+      "id": "ibm-singapore-fa-overtake-banks-20261113",
+      "title": "新加坡寿险渠道洗牌：财务顾问首超银行　贡献九个月加权新保费增长近三分之二",
+      "sourceTier": "media",
+      "themes": [
+        "distribution",
+        "ilp",
+        "regulation"
+      ],
+      "publishedAt": "2026-11-13",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-singapore-fa-overtake-banks-20261113",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/financial-advisers-overtake-banks-in-singapore-life-insurance-sales-597188.aspx"
+    },
     {
       "id": "iais-2026-hk-fstb-speech-20261112",
       "title": "IAIS 2026 年会首度在港举行　许正宇：持牌保险中介逾 12 万、保险专才获批逾百宗",
