@@ -1,9 +1,51 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-11-13T10:11:01Z",
-  "itemCount": 1722,
+  "generatedAt": "2026-11-13T13:10:43Z",
+  "itemCount": 1725,
   "items": [
+    {
+      "id": "scmp-ia-mainland-wait-and-see-20261112",
+      "title": "保监局：内地客对港险转「观望」　第三季寿险销售靠高净值产品撑稳 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "mainland-demand",
+        "offshore-tax",
+        "hnw"
+      ],
+      "publishedAt": "2026-11-12",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-ia-mainland-wait-and-see-20261112",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3374248/beijing-tax-rule-slowing-hong-kongs-insurance-sales-mainlanders-official-says"
+    },
+    {
+      "id": "iaasia-cross-border-wealth-advisory-20261113",
+      "title": "香港强化跨境金融连通　银行与险企：高客要的不是产品，是法域确定性与传承安排 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "cross-border",
+        "wealth-management",
+        "gba"
+      ],
+      "publishedAt": "2026-11-13T17:07:36+08:00",
+      "score": 65,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-cross-border-wealth-advisory-20261113",
+      "originalUrl": "https://insuranceasia.com/event-news/hong-kong-tightens-cross-border-banking-clients-seek-easier-flows"
+    },
+    {
+      "id": "artemis-vigre-charles-bridge-catbond-20261113",
+      "title": "VIG Re 首笔巨灾债券定价 6,000 万欧元　规模上调、定价落在区间下限 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ils",
+        "catastrophe-bond",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-11-13",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-vigre-charles-bridge-catbond-20261113",
+      "originalUrl": "https://www.artemis.bm/news/vig-re-secures-debut-e60m-charles-bridge-re-catastrophe-bond-priced-at-low-end/"
+    },
     {
       "id": "ia-aif-2026-concludes-20261113",
       "title": "亚洲保险论坛 2026 闭幕　4,500 人参与创历届新高　保监局：业界须由「赔付复原」转向「预防适应」",
