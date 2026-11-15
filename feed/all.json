@@ -1,9 +1,51 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-11-13T13:10:43Z",
-  "itemCount": 1725,
+  "generatedAt": "2026-11-15T10:11:58Z",
+  "itemCount": 1728,
   "items": [
+    {
+      "id": "manulife-hk-wealth-universal-life-20261112",
+      "title": "宏利香港推「宏富萬用壽險保險計劃」　终身保障＋灵活保费，瞄准财富规划需求",
+      "sourceTier": "insurer",
+      "themes": [
+        "product",
+        "universal-life",
+        "wealth-management"
+      ],
+      "publishedAt": "2026-11-12T00:00:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=manulife-hk-wealth-universal-life-20261112",
+      "originalUrl": "https://manulife.com.hk/zh-hk/individual/about/newsroom/manulife-hk-launches-spectrum-universal-uife-insurance-plan.html"
+    },
+    {
+      "id": "jrj-sipai-hk-broker-license-20261114",
+      "title": "思派健康约 300 万港元买下香港保险经纪牌照　拟做中企出海的跨境枢纽",
+      "sourceTier": "media",
+      "themes": [
+        "broker",
+        "mna",
+        "cross-border"
+      ],
+      "publishedAt": "2026-11-14T11:33:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=jrj-sipai-hk-broker-license-20261114",
+      "originalUrl": "https://finance.jrj.com.cn/2026/11/14113359145880.shtml"
+    },
+    {
+      "id": "insuranceasia-week-in-insurance-20261114",
+      "title": "Insurance Asia 周报：香港检讨保监局经费、新加坡统一投连险披露、全球商业险费率连跌九季 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "pricing",
+        "regulation",
+        "apac"
+      ],
+      "publishedAt": "2026-11-14T05:00:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-week-in-insurance-20261114",
+      "originalUrl": "https://insuranceasia.com/insurance/news/week-in-insurance-hong-kong-reviews-insurer-fees-singapore-standardises-ilp-disclosures-commercial-rates-fall-5"
+    },
     {
       "id": "scmp-ia-mainland-wait-and-see-20261112",
       "title": "保监局：内地客对港险转「观望」　第三季寿险销售靠高净值产品撑稳 [EN原文]",
