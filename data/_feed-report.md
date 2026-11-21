@@ -1,4 +1,4 @@
-# Feed 通道采集 · 2026-11-15 18:00（HKT）
+# Feed 通道采集 · 2026-11-21 18:00（HKT）
 
 - ✘ **InsuranceAsia News · 香港** 拉取失败（可能只是网络抖动，下轮重试）：<urlopen error [Errno 54] Connection reset by peer>
 - ⏸ **InsuranceAsia（残缺，仅线索）**：已停用（⚠️ title 为导语非标题——仅作线索发现，需另行抓取；默认停用）

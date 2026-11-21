@@ -1,9 +1,606 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-11-15T10:11:58Z",
-  "itemCount": 1728,
+  "generatedAt": "2026-11-21T10:08:57Z",
+  "itemCount": 1771,
   "items": [
+    {
+      "id": "swissre-sigma-2026-05-searching-for-resilience",
+      "title": "瑞再 sigma 5/2026《Searching for resilience》：2027年全球经济增长2.8%但根基收窄，非寿险ROE料由12.7%降至10.3%",
+      "sourceTier": "research",
+      "themes": [
+        "reinsurance",
+        "insurer-strategy"
+      ],
+      "publishedAt": "2026-11-17",
+      "score": 80,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=swissre-sigma-2026-05-searching-for-resilience",
+      "originalUrl": "https://www.swissre.com/institute/research/sigma-research/sigma-2026-05-global-economic-insurance-outlook-searching-for-resilience.html"
+    },
+    {
+      "id": "pimco-charting-year-ahead-2027",
+      "title": "PIMCO《Charting the Year Ahead》：AI集中度重塑市场，2027年须主动分散组合的「隐性集中」",
+      "sourceTier": "research",
+      "themes": [
+        "wealth",
+        "ai"
+      ],
+      "publishedAt": "2026-11-17",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=pimco-charting-year-ahead-2027",
+      "originalUrl": "https://www.pimco.com/gbl/en/insights/charting-the-year-ahead-investment-ideas-for-2027"
+    },
+    {
+      "id": "blackrock-bii-weekly-ai-buildout-20261116",
+      "title": "贝莱德投资研究所周评《AI: looking beyond the buildout》：短期战术中性、长期超配美股，利率走高下重新看好债券",
+      "sourceTier": "research",
+      "themes": [
+        "wealth",
+        "ai"
+      ],
+      "publishedAt": "2026-11-16",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=blackrock-bii-weekly-ai-buildout-20261116",
+      "originalUrl": "https://www.blackrock.com/us/individual/literature/market-commentary/weekly-investment-commentary-en-us-20261116-ai-looking-beyond-the-buildout.pdf"
+    },
+    {
+      "id": "govhk-va-services-bill-20261120",
+      "title": "虚拟资产服务修订条例草案刊宪　交易、顾问、管理、托管四类服务须领牌",
+      "sourceTier": "official",
+      "themes": [
+        "regulation",
+        "hong-kong",
+        "digital"
+      ],
+      "publishedAt": "2026-11-20T17:15:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=govhk-va-services-bill-20261120",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202611/20/P2026112000582.htm"
+    },
+    {
+      "id": "ian-kumamoto-quake-payouts-800m-20261120",
+      "title": "熊本地震住宅地震险赔款升至 1,265 亿日元　GIAJ：查勘推进、赔付仍在累积",
+      "sourceTier": "pro",
+      "themes": [
+        "catastrophe",
+        "japan",
+        "claims"
+      ],
+      "publishedAt": "2026-11-20T16:30:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-kumamoto-quake-payouts-800m-20261120",
+      "originalUrl": "https://insuranceasianews.com/kumamoto-earthquake-insurance-payouts-climb-to-us800m-giaj/"
+    },
+    {
+      "id": "ian-gift-city-ils-20261120",
+      "title": "印度 GIFT City 拟让特殊目的保险人入场　巨灾债券与 ILS 可在特区内发行",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "catastrophe",
+        "india"
+      ],
+      "publishedAt": "2026-11-20T15:54:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-gift-city-ils-20261120",
+      "originalUrl": "https://insuranceasianews.com/gift-city-regulator-moves-to-open-doors-to-cat-bonds-ils/"
+    },
+    {
+      "id": "govhk-ai-risk-governance-wg-20261120",
+      "title": "政务司司长主持 AI 风险治理协调工作组首次会议　七项行动含「AI 代理管理指引」",
+      "sourceTier": "official",
+      "themes": [
+        "ai-governance",
+        "hong-kong",
+        "regulation"
+      ],
+      "publishedAt": "2026-11-20T13:13:00+08:00",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=govhk-ai-risk-governance-wg-20261120",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202611/20/P2026112000407.htm"
+    },
+    {
+      "id": "ia-aia-sg-caregiving-20261120",
+      "title": "AIA 新加坡调查：77% 不确定保险能否覆盖照护开支　仅两成准照护者自认准备好",
+      "sourceTier": "pro",
+      "themes": [
+        "protection-gap",
+        "health",
+        "retirement"
+      ],
+      "publishedAt": "2026-11-20T05:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-aia-sg-caregiving-20261120",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/two-in-five-singaporeans-unsure-if-insurance-can-cover-caregiving-costs"
+    },
+    {
+      "id": "hk01-zurich-hk-breach-20261120",
+      "title": "苏黎世香港客户网上平台遭未授权存取　私隐公署：38,453 人资料或受影响",
+      "sourceTier": "media",
+      "themes": [
+        "cyber",
+        "hong-kong",
+        "privacy"
+      ],
+      "publishedAt": "2026-11-20",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hk01-zurich-hk-breach-20261120",
+      "originalUrl": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413006/%E8%98%87%E9%BB%8E%E4%B8%96%E4%BF%9D%E9%9A%AA%E7%B6%B2%E4%B8%8A%E5%B9%B3%E5%8F%B0%E9%81%AD%E5%85%A5%E4%BE%B5-3-8%E8%90%AC%E5%AE%A2%E6%88%B6%E8%B3%87%E6%96%99%E7%96%91%E5%A4%96%E6%B4%A9-%E7%B6%B2%E4%B8%8A%E5%B9%B3%E5%8F%B0%E5%81%9C%E7%94%A8"
+    },
+    {
+      "id": "govhk-fstb-luxembourg-20261119",
+      "title": "许正宇访卢森堡：《五年规划》下巩固家办与财管枢纽　对接欧洲资本",
+      "sourceTier": "official",
+      "themes": [
+        "family-office",
+        "hk-policy",
+        "cross-border"
+      ],
+      "publishedAt": "2026-11-19T12:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=govhk-fstb-luxembourg-20261119",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202611/19/P2026111800406.htm"
+    },
+    {
+      "id": "iaasia-mas-ai-agent-protocol-20261119",
+      "title": "新加坡金管局推「认识你的代理」协议与沙盒　为 AI 代理划授权边界",
+      "sourceTier": "media",
+      "themes": [
+        "agentic-ai",
+        "regulation",
+        "tokenisation"
+      ],
+      "publishedAt": "2026-11-19T11:37:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-mas-ai-agent-protocol-20261119",
+      "originalUrl": "https://insuranceasia.com/news/mas-explores-ai-agent-protocol-and-tokenisation-framework"
+    },
+    {
+      "id": "ian-fm-apac-property-cat-20261119",
+      "title": "FM：数据中心「黑洞」、厄尔尼诺与地缘冲突重塑亚太财产巨灾市场　费率松动与风险脱节",
+      "sourceTier": "pro",
+      "themes": [
+        "catastrophe",
+        "data-centres",
+        "pricing"
+      ],
+      "publishedAt": "2026-11-19T07:30:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-fm-apac-property-cat-20261119",
+      "originalUrl": "https://insuranceasianews.com/discipline-key-as-data-centre-black-hole-el-nino-conflict-reshape-apac-property-cat-market-fm/"
+    },
+    {
+      "id": "iaasia-cyber-premiums-183b-20261119",
+      "title": "网络险保费 2027 年上看 183 亿美元　但买到的保单常与真实攻击错配",
+      "sourceTier": "media",
+      "themes": [
+        "cyber",
+        "pricing",
+        "coverage-gap"
+      ],
+      "publishedAt": "2026-11-19T06:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-cyber-premiums-183b-20261119",
+      "originalUrl": "https://insuranceasia.com/insurance/news/cyber-insurance-premiums-hit-183b-in-2027-amidst-rising-attacks"
+    },
+    {
+      "id": "ibm-allianz-ai-losses-20261119",
+      "title": "安联商业：AI 损失藏在既有保单里　已确认赔案远低于真实敞口",
+      "sourceTier": "media",
+      "themes": [
+        "ai-risk",
+        "liability",
+        "coverage-gap"
+      ],
+      "publishedAt": "2026-11-19",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-allianz-ai-losses-20261119",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/ai-losses-are-hiding-inside-existing-policies-allianz-commercial-warns-598046.aspx"
+    },
+    {
+      "id": "ian-swiss-re-asia-growth-20261118",
+      "title": "瑞再：亚洲仍领跑全球非寿险增长　但增长基础偏窄、依赖少数板块",
+      "sourceTier": "pro",
+      "themes": [
+        "reinsurance",
+        "growth",
+        "asia"
+      ],
+      "publishedAt": "2026-11-18T18:00:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-swiss-re-asia-growth-20261118",
+      "originalUrl": "https://insuranceasianews.com/asia-leads-the-way-but-swiss-re-warns-growth-rests-on-shaky-foundations/"
+    },
+    {
+      "id": "ian-generali-financial-lines-20261118",
+      "title": "忠意 GC&C 延揽驻港 David Chiu 掌亚洲金融险　此前在苏黎世主管金融险与中间市场",
+      "sourceTier": "media",
+      "themes": [
+        "people",
+        "financial-lines"
+      ],
+      "publishedAt": "2026-11-18T17:55:00+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-generali-financial-lines-20261118",
+      "originalUrl": "https://insuranceasianews.com/generali-gcc-hires-david-chiu-as-head-of-financial-lines-for-asia/"
+    },
+    {
+      "id": "hkma-hkmc-multicurrency-bonds-20261118",
+      "title": "按揭证券公司完成 225 亿港元多币种基准债券定价　三档齐发、保险机构入表认购",
+      "sourceTier": "official",
+      "themes": [
+        "hkd-assets",
+        "bond-issuance",
+        "alm"
+      ],
+      "publishedAt": "2026-11-18T17:00:00+08:00",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-hkmc-multicurrency-bonds-20261118",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261118-3/"
+    },
+    {
+      "id": "ibm-generali-ai-target-20261118",
+      "title": "忠意上调 AI 目标至 2027 年经营利润 3.5 亿欧元以上　预承保作业时间缩短八成",
+      "sourceTier": "media",
+      "themes": [
+        "ai-underwriting",
+        "insurer-strategy",
+        "efficiency"
+      ],
+      "publishedAt": "2026-11-18T16:43:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-generali-ai-target-20261118",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/generali-raises-ai-target-as-group-expects-to-beat-all-plan-targets-597851.aspx"
+    },
+    {
+      "id": "ian-shanghai-overseas-investment-pilot-20261118",
+      "title": "AM Best：上海试点放宽产险跨境保费境外投资　扩阔海外收入与资产分散空间 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "cross-border",
+        "capital-account",
+        "mainland-policy"
+      ],
+      "publishedAt": "2026-11-18T12:36:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-shanghai-overseas-investment-pilot-20261118",
+      "originalUrl": "https://insuranceasianews.com/shanghai-pilot-broadens-overseas-revenue-asset-diversification-scope-am-best/"
+    },
+    {
+      "id": "scmp-citibank-multimillionaires-20261118",
+      "title": "花旗调查：香港千万富翁回升 4% 至 41.2 万人　创五年新高　物业回稳抵销股市弱势 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "hnw",
+        "wealth",
+        "hk-market"
+      ],
+      "publishedAt": "2026-11-18T11:23:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-citibank-multimillionaires-20261118",
+      "originalUrl": "https://www.scmp.com/business/money/wealth/article/3374824/hong-kong-multimillionaires-rose-4-cent-year-highest-five-years-citibank"
+    },
+    {
+      "id": "iaasia-wealth-advisers-ai-20261118",
+      "title": "亚洲财富顾问角色重构　AI 让研究信息不再稀缺、顾问转向解读与把关",
+      "sourceTier": "media",
+      "themes": [
+        "ai-advisory",
+        "wealth",
+        "frontline"
+      ],
+      "publishedAt": "2026-11-18T10:52:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-wealth-advisers-ai-20261118",
+      "originalUrl": "https://insuranceasia.com/event-news/asia-wealth-advisers-rethink-roles-ai-erodes-research-advantage"
+    },
+    {
+      "id": "scmp-ms-china-overseas-assets-20261118",
+      "title": "摩根士丹利：中国居民海外金融资产 2035 年前或翻倍至 10 万亿美元　香港交易所与银行受惠 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "cross-border",
+        "wealth",
+        "capital-flows"
+      ],
+      "publishedAt": "2026-11-18T09:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-ms-china-overseas-assets-20261118",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3374811/chinese-investors-overseas-holdings-double-2035-morgan-stanley"
+    },
+    {
+      "id": "iaasia-taiwan-ilp-participating-20261118",
+      "title": "台湾寿险转向：储蓄型失色　投资型与分红保单 2025 年起双双走强",
+      "sourceTier": "media",
+      "themes": [
+        "participating",
+        "ilp",
+        "product-mix"
+      ],
+      "publishedAt": "2026-11-18T05:45:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-taiwan-ilp-participating-20261118",
+      "originalUrl": "https://insuranceasia.com/insurance/taiwan-life-insurers-see-surge-in-investment-linked-and-participating-policies"
+    },
+    {
+      "id": "iaasia-apac-market-97t-2034-20261118",
+      "title": "亚太保险市场 2034 年上看 9.7 万亿美元　2026-2034 年复合增长 15.6%",
+      "sourceTier": "media",
+      "themes": [
+        "apac-growth",
+        "market-forecast"
+      ],
+      "publishedAt": "2026-11-18T05:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=iaasia-apac-market-97t-2034-20261118",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/apac-insurance-market-reach-10t-2034"
+    },
+    {
+      "id": "ibm-prudential-sg-unit-trusts-2027-20261117",
+      "title": "保诚新加坡 2027 年起让专属代理销售单位信托　覆盖约 5,400 名财务代表",
+      "sourceTier": "media",
+      "themes": [
+        "distribution",
+        "channel-model",
+        "advisory"
+      ],
+      "publishedAt": "2026-11-17T23:37:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-prudential-sg-unit-trusts-2027-20261117",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/singapore-tied-agents-to-distribute-unit-trusts-from-2027-597715.aspx"
+    },
+    {
+      "id": "ibm-japan-tama-home-agent-fraud-20261117",
+      "title": "日本 Tama Home 保险代理造假扩至全国 236 家分店　三大产险停售并促独立调查",
+      "sourceTier": "media",
+      "themes": [
+        "misconduct",
+        "agency-risk",
+        "compliance"
+      ],
+      "publishedAt": "2026-11-17T22:54:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-japan-tama-home-agent-fraud-20261117",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/japan-nonlife-agent-fraud-spreads-putting-insurer-duty-in-focus-597706.aspx"
+    },
+    {
+      "id": "hkma-hkimr-ai-governance-report-20261117",
+      "title": "金融学院报告：九成金融机构已用或计划用生成式 AI　代理式 13% 已落地、合规场景为主战场",
+      "sourceTier": "official",
+      "themes": [
+        "ai-governance",
+        "agentic-ai",
+        "compliance"
+      ],
+      "publishedAt": "2026-11-17",
+      "score": 88,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-hkimr-ai-governance-report-20261117",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261117-3/"
+    },
+    {
+      "id": "hkma-hkmca-retire-well-campaign-20261117",
+      "title": "香港年金公司启动退休公众教育　以 Grasshopper 改编曲推「可持续退休生活」",
+      "sourceTier": "official",
+      "themes": [
+        "retirement",
+        "annuity",
+        "longevity-risk"
+      ],
+      "publishedAt": "2026-11-17",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-hkmca-retire-well-campaign-20261117",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261117-5/"
+    },
+    {
+      "id": "scmp-agentic-ai-accountability-20261117",
+      "title": "代理式 AI 渗入金融　陈茂波：AI 代理「无牌照可失、无声誉可护」　机构仍负最终责任 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "agentic-ai",
+        "accountability",
+        "regulation"
+      ],
+      "publishedAt": "2026-11-17T17:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-agentic-ai-accountability-20261117",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3374724/agentic-ai-seeps-finance-concerns-grow-over-new-risks-and-blind-spots"
+    },
+    {
+      "id": "scmp-pingan-hk-hub-igc-20261117",
+      "title": "平安明年进驻西九高铁站上盖 IGC　整合七家香港子公司　并为深圳 APEC 提供约 6,000 万美元保障 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "gba",
+        "cross-border",
+        "insurer-strategy"
+      ],
+      "publishedAt": "2026-11-17",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=scmp-pingan-hk-hub-igc-20261117",
+      "originalUrl": "https://www.scmp.com/business/companies/article/3374528/ping-insurance-relocate-new-hong-kong-office-above-west-kowloon-rail-hub"
+    },
+    {
+      "id": "axa-futureminds-youth-20261117",
+      "title": "AXA 安盛伙圣雅各福群会推「心筑未来」　六个月青年计划练心理韧性与数码习惯",
+      "sourceTier": "insurer",
+      "themes": [
+        "mental-health",
+        "youth",
+        "digital-wellbeing"
+      ],
+      "publishedAt": "2026-11-17",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=axa-futureminds-youth-20261117",
+      "originalUrl": "https://www.axa.com.hk/zh/article/axa-partners-with-st-james-settlement-to-launchfutureminds-project-to-strengthen-youth-mental-resilience-and-foster-healthy-digital-habits_"
+    },
+    {
+      "id": "ian-hk-pi-club-authorised-20261116",
+      "title": "香港首家本地船东互保协会获保监局发牌　HK P&I Club 可开展业务 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "marine",
+        "pi-club",
+        "market-development"
+      ],
+      "publishedAt": "2026-11-16T15:41:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ian-hk-pi-club-authorised-20261116",
+      "originalUrl": "https://insuranceasianews.com/hong-kongs-first-local-pi-club-secures-regulatory-nod/"
+    },
+    {
+      "id": "chubb-life-hk-president-20261116",
+      "title": "安达人寿委任陈鸿展为香港总裁　明言拓展财富策划与高净值市场",
+      "sourceTier": "insurer",
+      "themes": [
+        "people",
+        "hnw",
+        "distribution"
+      ],
+      "publishedAt": "2026-11-16T09:52:00+08:00",
+      "score": 78,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=chubb-life-hk-president-20261116",
+      "originalUrl": "https://www.prnewswire.com/apac/zh/news-releases/-302939841.html"
+    },
+    {
+      "id": "ctf-life-ceo-charles-hung-20261116",
+      "title": "周大福人寿委任 Charles Hung 为行政总裁　11 月 24 日生效",
+      "sourceTier": "insurer",
+      "themes": [
+        "people",
+        "strategy",
+        "hnw"
+      ],
+      "publishedAt": "2026-11-16T05:15:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ctf-life-ceo-charles-hung-20261116",
+      "originalUrl": "https://insuranceasia.com/insurance/news/ctf-life-names-charles-hung-ceo"
+    },
+    {
+      "id": "axa-hk-product-renaming-20261116",
+      "title": "AXA 安盛 24 款产品 11 月 16 日起更名　储蓄与危疾名称统一加入「保险」",
+      "sourceTier": "insurer",
+      "themes": [
+        "naming-rule",
+        "compliance",
+        "product"
+      ],
+      "publishedAt": "2026-11-16T00:00:00+08:00",
+      "score": 80,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=axa-hk-product-renaming-20261116",
+      "originalUrl": "https://www.axa.com.hk/zh/article/change-of-product-name"
+    },
+    {
+      "id": "marsh-risk-rory-young-20261116",
+      "title": "达信风险擢升 Rory Young 为香港、澳门商业总监　此前主管大型网络风险客户 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "people",
+        "commercial",
+        "cyber"
+      ],
+      "publishedAt": "2026-11-16T17:01:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=marsh-risk-rory-young-20261116",
+      "originalUrl": "https://insuranceasianews.com/marsh-risk-promotes-rory-young-to-commercial-director-for-hong-kong-macau/"
+    },
+    {
+      "id": "generali-gcc-eric-lim-20261116",
+      "title": "忠意 GC&C 延揽 Eric Lim 主管香港财产险业务　此前在 AIG 逾三年 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "people",
+        "property",
+        "commercial"
+      ],
+      "publishedAt": "2026-11-16T12:52:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=generali-gcc-eric-lim-20261116",
+      "originalUrl": "https://insuranceasianews.com/generali-gcc-taps-eric-lim-for-hong-kong-property-role/"
+    },
+    {
+      "id": "artemis-pontgaia-re-deutscheruck-20261116",
+      "title": "德国再保险 Deutsche Rück 首笔巨灾债券：1 亿欧元 Pontgaia Re　首年只保德国地震、次年可加洪水 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "cat-bond",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-11-16T16:59:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-pontgaia-re-deutscheruck-20261116",
+      "originalUrl": "https://www.artemis.bm/news/deutsche-ruck-sponsoring-its-first-catastrophe-bond-e100m-pontgaia-re-dac/"
+    },
+    {
+      "id": "artemis-cea-ursa-re-2026-1-20261116",
+      "title": "加州地震局 9 亿美元 Ursa Re 2026-1 定价完成　规模上调 50%、为其史上第二大巨灾债券 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "cat-bond",
+        "earthquake"
+      ],
+      "publishedAt": "2026-11-16T16:00:00+08:00",
+      "score": 71,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-cea-ursa-re-2026-1-20261116",
+      "originalUrl": "https://www.artemis.bm/news/california-earthquake-authority-secures-its-second-largest-cat-bond-900m-ursa-re-2026-1/"
+    },
+    {
+      "id": "hkma-swift-ensemble-ledger-20261116",
+      "title": "金管局与 Swift 深化合作　研究以代币化存款打通跨境支付：Ensemble 结算层对接 Swift 账本",
+      "sourceTier": "official",
+      "themes": [
+        "tokenisation",
+        "cross-border-payment",
+        "infrastructure"
+      ],
+      "publishedAt": "2026-11-16T00:00:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkma-swift-ensemble-ledger-20261116",
+      "originalUrl": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261116-4/"
+    },
+    {
+      "id": "insuranceasia-ai-insurance-market-2034-20261116",
+      "title": "AI 保险市场 2034 年上看 1,544 亿美元　亚太年增 42.2% 最快、承保应用增速第一 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "insurtech",
+        "underwriting"
+      ],
+      "publishedAt": "2026-11-16T11:58:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-ai-insurance-market-2034-20261116",
+      "originalUrl": "https://insuranceasia.com/insurance/expert-opinion/can-ai-do-more-underwrite-insurance"
+    },
+    {
+      "id": "govhk-investhk-family-office-europe-20261116",
+      "title": "投资推广署率团访卢森堡与德国三城　向欧洲家族资本推香港家办枢纽",
+      "sourceTier": "official",
+      "themes": [
+        "family-office",
+        "wealth-management",
+        "cross-border"
+      ],
+      "publishedAt": "2026-11-16T19:40:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=govhk-investhk-family-office-europe-20261116",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202611/16/P2026111600616.htm"
+    },
+    {
+      "id": "artemis-california-parametric-opinion-20261116",
+      "title": "加州保险局意见函定参数型保险三要件　须有可保利益、真实转移风险、可证损失 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "parametric",
+        "regulation",
+        "climate"
+      ],
+      "publishedAt": "2026-11-16T20:40:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-california-parametric-opinion-20261116",
+      "originalUrl": "https://www.artemis.bm/news/new-california-legal-opinion-sets-guardrails-for-parametric-insurance-deployment-ceres/"
+    },
     {
       "id": "manulife-hk-wealth-universal-life-20261112",
       "title": "宏利香港推「宏富萬用壽險保險計劃」　终身保障＋灵活保费，瞄准财富规划需求",

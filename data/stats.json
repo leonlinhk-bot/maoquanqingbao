@@ -630,19 +630,19 @@
       "tc": "情報密度"
     },
     "subtitle": {
-      "sc": "自动从 1728 条资讯聚合 · sourceKey 标准化完成",
-      "tc": "自動從 1728 條資訊聚合 · sourceKey 標準化完成"
+      "sc": "自动从 1771 条资讯聚合 · sourceKey 标准化完成",
+      "tc": "自動從 1771 條資訊聚合 · sourceKey 標準化完成"
     },
-    "totalItems": 1728,
+    "totalItems": 1771,
     "sourceTiers": [
       {
         "tier": "official",
-        "count": 356,
+        "count": 364,
         "label": "监管一手"
       },
       {
         "tier": "insurer",
-        "count": 187,
+        "count": 191,
         "label": "保司公告"
       },
       {
@@ -652,17 +652,17 @@
       },
       {
         "tier": "media",
-        "count": 660,
+        "count": 676,
         "label": "媒体报道"
       },
       {
         "tier": "pro",
-        "count": 487,
+        "count": 499,
         "label": "专业解读"
       },
       {
         "tier": "research",
-        "count": 30,
+        "count": 33,
         "label": "机构研究"
       }
     ],
@@ -741,13 +741,23 @@
       },
       {
         "theme": "reinsurance",
-        "count": 151,
+        "count": 154,
         "label": "再保险"
       },
       {
         "theme": "product",
-        "count": 118,
+        "count": 119,
         "label": "产品"
+      },
+      {
+        "theme": "cross-border",
+        "count": 110,
+        "label": "跨境"
+      },
+      {
+        "theme": "compliance",
+        "count": 109,
+        "label": "合规"
       },
       {
         "theme": "firm",
@@ -755,18 +765,8 @@
         "label": "保司"
       },
       {
-        "theme": "compliance",
-        "count": 106,
-        "label": "合规"
-      },
-      {
-        "theme": "cross-border",
-        "count": 105,
-        "label": "跨境"
-      },
-      {
         "theme": "ils",
-        "count": 100,
+        "count": 103,
         "label": "保险相连证券"
       },
       {
@@ -776,13 +776,13 @@
       },
       {
         "theme": "ai",
-        "count": 89,
+        "count": 92,
         "label": "人工智能"
       }
     ],
     "dateRange": {
-      "sc": "2013-03-05 ~ 2026-11-14",
-      "tc": "2013-03-05 ~ 2026-11-14"
+      "sc": "2013-03-05 ~ 2026-11-20",
+      "tc": "2013-03-05 ~ 2026-11-20"
     }
   },
   "marketData": {
