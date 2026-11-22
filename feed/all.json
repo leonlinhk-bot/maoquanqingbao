@@ -1,9 +1,37 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-11-22T10:14:06Z",
-  "itemCount": 1783,
+  "generatedAt": "2026-11-22T13:43:28Z",
+  "itemCount": 1785,
   "items": [
+    {
+      "id": "ibm-cyber-mfa-bypass-renewal-20261120",
+      "title": "Beazley：黑客四招绕过 MFA　网络险续保问卷只问「有没有开」已不够 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "cyber",
+        "underwriting",
+        "sme"
+      ],
+      "publishedAt": "2026-11-20T18:09:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-cyber-mfa-bypass-renewal-20261120",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/cyberattack-tactics-are-outpacing-what-renewal-forms-ask-598222.aspx"
+    },
+    {
+      "id": "insuranceasia-hk-nonlife-capital-reform-20261117",
+      "title": "AM Best：香港非寿险资本新规年底生效　巨灾与准备金资本要求下调、离岸再保可获减免 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "capital-requirement",
+        "medical-inflation",
+        "non-life"
+      ],
+      "publishedAt": "2026-11-17T05:00:00+08:00",
+      "score": 79,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-hk-nonlife-capital-reform-20261117",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/hong-kong-capital-reforms-could-ease-non-life-insurers-burdens"
+    },
     {
       "id": "hkcd-picc-hk-belt-road-risk-center-20261117",
       "title": "人保香港「一帶一路」海外風險減量中心上線　財庫局、保監局主禮",
