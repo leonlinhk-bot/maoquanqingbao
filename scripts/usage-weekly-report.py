@@ -2,28 +2,39 @@
 # 猫圈儿使用度周报生成器
 # 拉取 Worker 聚合的微观行为数据（7/14/30 天），生成 markdown 周报
 # 用法：python3 scripts/usage-weekly-report.py [days=7] [--out FILE]
-import json, sys, urllib.request, datetime, os
+import json, sys, urllib.request, urllib.error, datetime, os
 from pathlib import Path
 
 EP = "https://stats.hkmaoquanqingbao.com"
+HEADERS = {
+    "Accept":"application/json",
+    "User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
+}
+
+def _openers():
+    # 本机代理配置会变动：先直连，失败再走系统代理（或反之），两者都试
+    return [
+        ("direct", urllib.request.build_opener(urllib.request.ProxyHandler({}))),
+        ("proxy",  urllib.request.build_opener()),
+    ]
+
 def get(path):
-    # 绕过系统代理（本机代理会拦 stats 域名的 urllib 请求；curl --noproxy 正常）
-    opener = urllib.request.build_opener(urllib.request.ProxyHandler({}))
-    req = urllib.request.Request(EP + path, headers={
-        "Accept":"application/json",
-        "User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
-    })
-    # 重试 5 次（KV 最终一致，读取可能滞后 ~60s）
+    req = urllib.request.Request(EP + path, headers=HEADERS)
     import time
+    last = None
     for attempt in range(5):
-        try:
-            with opener.open(req, timeout=30) as r:
-                return json.loads(r.read().decode())
-        except urllib.error.HTTPError as e:
-            if e.code not in (500, 502, 503):
-                raise
-            time.sleep(20)  # KV 同步窗口
-    raise RuntimeError("Worker 连续重试失败")
+        for label, opener in _openers():
+            try:
+                with opener.open(req, timeout=30) as r:
+                    return json.loads(r.read().decode())
+            except urllib.error.HTTPError as e:
+                if e.code not in (500, 502, 503):
+                    raise
+                last = e
+            except Exception as e:
+                last = e  # 连接被重置等：换另一条通道再试
+        time.sleep(20 if isinstance(last, urllib.error.HTTPError) else 5)
+    raise RuntimeError(f"Worker 连续重试失败: {last}")
 
 def bar(n, maxn, width=14):
     if maxn <= 0: return ""
