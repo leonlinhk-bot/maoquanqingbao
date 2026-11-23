@@ -1,9 +1,37 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-11-23T03:10:59Z",
-  "itemCount": 1786,
+  "generatedAt": "2026-11-23T10:12:15Z",
+  "itemCount": 1788,
   "items": [
+    {
+      "id": "insuranceasia-wtw-medical-trend-2027-hk-20261123",
+      "title": "WTW：香港医疗险净成本 2027 年预计升 8.6%　高于今年的 7.9%",
+      "sourceTier": "pro",
+      "themes": [
+        "medical-inflation",
+        "employee-benefits",
+        "greater-bay-area"
+      ],
+      "publishedAt": "2026-11-23T11:35:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-wtw-medical-trend-2027-hk-20261123",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-medical-insurance-costs-climb-86-in-2027"
+    },
+    {
+      "id": "ibm-zurich-ai-resilience-correlation-20261123",
+      "title": "苏黎世×圣加仑大学：换 AI 供应商不等于分散风险　相关性风险更难察觉 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai-governance",
+        "correlation-risk",
+        "commercial-lines"
+      ],
+      "publishedAt": "2026-11-23T16:00:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-zurich-ai-resilience-correlation-20261123",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/switching-ai-providers-does-not-make-clients-risks-independent-598365.aspx"
+    },
     {
       "id": "stheadline-aia-omni-healthcare-circle-20261121",
       "title": "友邦港澳推「全方位醫療夥伴」　與中大醫院、港怡醫院合作提升醫療透明度",
