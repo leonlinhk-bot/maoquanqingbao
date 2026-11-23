@@ -3,13 +3,18 @@
  "sources": {
   "ia_press": {
    "url": "https://www.ia.org.hk/en/infocenter/press_releases/",
-   "last": "2026-11-22T21:43:21+08:00"
+   "last": "2026-11-22T21:43:21+08:00",
+   "health": "blocked",
+   "blockedReason": "Cloudflare JS challenge (cf_chl). curl/browser/curl_cffi/Jina/DeepSeek/Wayback 全不通，含 robots.txt/sitemap/PDF 直链。2026-11-23 实测。",
+   "fallback": "govhk 新闻公报 + 行业媒体 + 香港媒体转载核实"
   },
   "ia_circular": {
    "url": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
    "last": "2026-11-22T21:43:21+08:00",
-   "health": "ok",
-   "note": "2026-11-21 起 web_extract 可读取列表页；最新通函 2026-11-05"
+   "health": "blocked",
+   "note": "2026-11-21 起 web_extract 可读取列表页；最新通函 2026-11-05",
+   "blockedReason": "Cloudflare JS challenge (cf_chl). curl/browser/curl_cffi/Jina/DeepSeek/Wayback 全不通，含 robots.txt/sitemap/PDF 直链。2026-11-23 实测。",
+   "fallback": "govhk 新闻公报 + 行业媒体 + 香港媒体转载核实"
   },
   "hkma_press": {
    "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/",
@@ -73,7 +78,10 @@
   },
   "ia": {
    "url": "https://www.ia.org.hk/en/infocenter/press_releases.html",
-   "last": "2026-11-22T21:43:21+08:00"
+   "last": "2026-11-22T21:43:21+08:00",
+   "health": "blocked",
+   "blockedReason": "Cloudflare JS challenge (cf_chl). curl/browser/curl_cffi/Jina/DeepSeek/Wayback 全不通，含 robots.txt/sitemap/PDF 直链。2026-11-23 实测。",
+   "fallback": "govhk 新闻公报 + 行业媒体 + 香港媒体转载核实"
   },
   "hkma": {
    "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/",
@@ -122,6 +130,12 @@
   "fsc": {
    "url": "https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0,2",
    "last": "2026-11-22T21:43:21+08:00"
+  },
+  "govhk_press": {
+   "url": "https://www.info.gov.hk/gia/rss/general_zh.xml",
+   "last": "2026-11-22T21:43:21+08:00",
+   "health": "ok",
+   "note": "IA 新闻稿/执法消息的替代路径一"
   }
  }
 }
