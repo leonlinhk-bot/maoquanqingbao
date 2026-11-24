@@ -1,9 +1,120 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-11-23T10:12:15Z",
-  "itemCount": 1788,
+  "generatedAt": "2026-11-24T10:13:02Z",
+  "itemCount": 1796,
   "items": [
+    {
+      "id": "hkcd-wong-yuen-shan-specialty-insurance-marine-pool-20261124",
+      "title": "黄元山：以高水平安全护航高质量发展　点名航运专项风险池与 AI 治理",
+      "sourceTier": "media",
+      "themes": [
+        "policy",
+        "marine",
+        "risk-management-centre"
+      ],
+      "publishedAt": "2026-11-24T14:37:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkcd-wong-yuen-shan-specialty-insurance-marine-pool-20261124",
+      "originalUrl": "https://hkcd.com/hkcdweb/content/2026/11/24/content_8787075.html"
+    },
+    {
+      "id": "prudential-aier-eye-gba-direct-billing-20261124",
+      "title": "保诚成香港首家与爱尔眼科合作直付的险企　大湾区 11 家医院纳入网络 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "medical-network",
+        "direct-billing",
+        "greater-bay-area"
+      ],
+      "publishedAt": "2026-11-24",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=prudential-aier-eye-gba-direct-billing-20261124",
+      "originalUrl": "https://www.thestandard.com.hk/finance/article/349475/Prudential-HK-ties-up-with-Aier-Eye-Hospital-for-direct-billing-eye-care"
+    },
+    {
+      "id": "insurancebusinessmag-retail-cyber-gap-ransomware-20261124",
+      "title": "CFC：零售业勒索攻击 11 月激增五成　仅 43% 有网络险 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "cyber",
+        "sme",
+        "claims"
+      ],
+      "publishedAt": "2026-11-24",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insurancebusinessmag-retail-cyber-gap-ransomware-20261124",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/retail-ranks-among-leastinsured-sectors-as-ransomware-attacks-peak-598542.aspx"
+    },
+    {
+      "id": "insurancebusinessmag-hk-premium-record-crossborder-dependency-20261123",
+      "title": "香港保费创新高背后的跨境依赖　资本新规与税务执法同时收紧 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "mainland-visitors",
+        "cross-border",
+        "tax"
+      ],
+      "publishedAt": "2026-11-23",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insurancebusinessmag-hk-premium-record-crossborder-dependency-20261123",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/hong-kongs-premium-record-exposes-a-crossborder-dependency-598415.aspx"
+    },
+    {
+      "id": "insurancebusinessmag-ctf-chubb-hk-ceo-appointments-20261123",
+      "title": "周大福人寿孔德秋 11 月 23 日接任 CEO　安达人寿香港委任 Ivan Chan 为总裁 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "leadership",
+        "distribution",
+        "hnw"
+      ],
+      "publishedAt": "2026-11-23",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insurancebusinessmag-ctf-chubb-hk-ceo-appointments-20261123",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/breaking-news/insurance-moves-manulife-malaysia-bhsi-ardonagh-598422.aspx"
+    },
+    {
+      "id": "mpfa-mpf-quarterly-statistics-2026q3-20261123",
+      "title": "积金局：强积金总资产 1.68 万亿　十年增 157%，DIS 账户 379 万个",
+      "sourceTier": "official",
+      "themes": [
+        "mpf",
+        "retirement",
+        "default-investment-strategy"
+      ],
+      "publishedAt": "2026-11-23",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=mpfa-mpf-quarterly-statistics-2026q3-20261123",
+      "originalUrl": "https://mpfa.org.hk/info-centre/press-releases/20261123"
+    },
+    {
+      "id": "govhk-election-committee-insurance-subsector-result-20261122",
+      "title": "选委会保险界分组结果：20 人竞逐 16 席　保诚林智刚、陈健波当选",
+      "sourceTier": "official",
+      "themes": [
+        "industry-governance",
+        "election-committee"
+      ],
+      "publishedAt": "2026-11-22T22:08:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=govhk-election-committee-insurance-subsector-result-20261122",
+      "originalUrl": "https://www.info.gov.hk/gia/general/202611/22/P2026112200706.htm"
+    },
+    {
+      "id": "ia-2025-annual-statistics-20261120",
+      "title": "保监局 2025 年度统计：毛保费 8,273 亿升 30.2%　新造长期保费 3,309 亿升 50.6%",
+      "sourceTier": "official",
+      "themes": [
+        "industry-stats",
+        "premium-growth",
+        "new-business"
+      ],
+      "publishedAt": "2026-11-20",
+      "score": 92,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2025-annual-statistics-20261120",
+      "originalUrl": "https://www.ia.org.hk/tc/infocenter/press_releases/20261120.html"
+    },
     {
       "id": "insuranceasia-wtw-medical-trend-2027-hk-20261123",
       "title": "WTW：香港医疗险净成本 2027 年预计升 8.6%　高于今年的 7.9%",
