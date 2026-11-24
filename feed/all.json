@@ -1,9 +1,177 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-11-24T10:13:02Z",
-  "itemCount": 1796,
+  "generatedAt": "2026-11-24T13:43:24Z",
+  "itemCount": 1808,
   "items": [
+    {
+      "id": "rthk-sunlife-mpf-full-portability-survey-20261124",
+      "title": "永明调查：近七成市民拟于强积金「全自由行」后转受託人　45% 计划首 3 个月完成",
+      "sourceTier": "media",
+      "themes": [
+        "mpf",
+        "retirement",
+        "consumer"
+      ],
+      "publishedAt": "2026-11-24T18:13:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rthk-sunlife-mpf-full-portability-survey-20261124",
+      "originalUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879076-20261124.htm"
+    },
+    {
+      "id": "ibm-wtw-global-medical-trend-2027-10pct-20261124",
+      "title": "WTW：全球医疗险成本 2027 年再升 10.2%　亚太毛趋势 12.6% 居首 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "medical",
+        "pricing",
+        "employer"
+      ],
+      "publishedAt": "2026-11-24T12:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-wtw-global-medical-trend-2027-10pct-20261124",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/global-health-insurance-costs-to-exceed-10-again-in-2027-wtw-finds-598580.aspx"
+    },
+    {
+      "id": "ibm-marsh-2027-outlook-ai-geopolitics-apac-20261124",
+      "title": "Marsh 2027 展望：亚太险企承压于 AI 回报落差、能源通胀与地缘风险 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ai",
+        "geopolitics",
+        "outlook"
+      ],
+      "publishedAt": "2026-11-24T11:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-marsh-2027-outlook-ai-geopolitics-apac-20261124",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/marsh-warns-ai-payoff-gap-energy-costs-and-geopolitics-will-squeeze-apac-insurers-in-2027-598566.aspx"
+    },
+    {
+      "id": "insuranceasia-sg-insurance-trust-beyond-login-20261124",
+      "title": "Insurance Asia 评论：新加坡险企须核验 AI agent「被授权做什么」而不只是登录身份 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "fraud",
+        "digital-identity"
+      ],
+      "publishedAt": "2026-11-24T09:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-sg-insurance-trust-beyond-login-20261124",
+      "originalUrl": "https://insuranceasia.com/insurance/commentary/next-frontier-insurance-trust-beyond-login"
+    },
+    {
+      "id": "artemis-144a-catbond-issuance-record-2026-20261123",
+      "title": "Artemis：2026 年 144A 巨灾债发行或破纪录至约 251 亿美元 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ils",
+        "cat-bond",
+        "reinsurance"
+      ],
+      "publishedAt": "2026-11-23T22:30:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-144a-catbond-issuance-record-2026-20261123",
+      "originalUrl": "https://www.artemis.bm/news/144a-catastrophe-bond-issuance-set-to-break-annual-issuance-record-in-2026/"
+    },
+    {
+      "id": "artemis-beazley-polestar-re-series5-20261123",
+      "title": "Beazley 第五笔网络巨灾债 PoleStar Re Series 5 目标 2 亿美元 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "cyber",
+        "ils",
+        "cat-bond"
+      ],
+      "publishedAt": "2026-11-23T21:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=artemis-beazley-polestar-re-series5-20261123",
+      "originalUrl": "https://www.artemis.bm/news/beazley-returns-with-200m-target-for-fifth-polestar-re-cyber-catastrophe-bond/"
+    },
+    {
+      "id": "insuranceasia-ai-governance-insurers-2030-20261123",
+      "title": "Gartner：2030 年前保险公司或比监管更能驱动 AI 治理标准 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai",
+        "liability",
+        "governance"
+      ],
+      "publishedAt": "2026-11-23T21:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-ai-governance-insurers-2030-20261123",
+      "originalUrl": "https://insuranceasia.com/insurance/in-focus/insurers-drive-ai-governance-2030"
+    },
+    {
+      "id": "ibm-marsh-cyber-aviation-product-20261123",
+      "title": "Marsh 推 Cyber Aviation：航空网络险专属表格　覆盖多方法人损失与供应商中断 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "cyber",
+        "aviation",
+        "specialty"
+      ],
+      "publishedAt": "2026-11-23T20:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-marsh-cyber-aviation-product-20261123",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/aviation-sector-cyber-risk-outpaces-standard-cover-options-598560.aspx"
+    },
+    {
+      "id": "insuranceasia-asia-reinsurance-prices-2027-ambest-20261123",
+      "title": "AM Best：亚洲 2027 续保无损失合约费率料续降　巨灾仍是变量 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "pricing",
+        "renewal"
+      ],
+      "publishedAt": "2026-11-23T10:25:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-asia-reinsurance-prices-2027-ambest-20261123",
+      "originalUrl": "https://insuranceasia.com/insurance/expert-opinion/will-asias-reinsurance-prices-fall-further-in-2027"
+    },
+    {
+      "id": "insuranceasia-china-overseas-investment-pilot-reinsurers-20261122",
+      "title": "上海国际再保险中心试点：四家险企可以 10 亿美元额度投资跨境分入保费 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reinsurance",
+        "mainland",
+        "belt-road"
+      ],
+      "publishedAt": "2026-11-22T22:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-china-overseas-investment-pilot-reinsurers-20261122",
+      "originalUrl": "https://insuranceasia.com/insurance/news/china-opens-overseas-investment-pilot-four-reinsurers"
+    },
+    {
+      "id": "nfra-q3-2026-banking-insurance-indicators-20261120",
+      "title": "金融监管总局：三季度末保险业总资产 44.6 万亿升 8%　综合偿付能力 177.8%",
+      "sourceTier": "official",
+      "themes": [
+        "mainland",
+        "solvency",
+        "stats"
+      ],
+      "publishedAt": "2026-11-20T17:00:00+08:00",
+      "score": 90,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-q3-2026-banking-insurance-indicators-20261120",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1279786&itemId=915"
+    },
+    {
+      "id": "fsc-taiwan-insurance-manager-specialty-fields-20261120",
+      "title": "台湾金管会：保险业经理人「特定专业领域」扩至 12 类　新增医疗投资行销不动产永续",
+      "sourceTier": "official",
+      "themes": [
+        "taiwan",
+        "talent",
+        "governance"
+      ],
+      "publishedAt": "2026-11-20T00:00:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fsc-taiwan-insurance-manager-specialty-fields-20261120",
+      "originalUrl": "https://www.fsc.gov.tw/ch/home.jsp?aplistdn=ou%3Ddata,ou%3Dlaw,ou%3Dchlaw,ou%3Dap_root,o%3Dfsc,c%3Dtw&dataserno=202611200001&dtable=Law&id=97&mcustomize=multimessage_view.jsp&parentpath=0,2"
+    },
     {
       "id": "hkcd-wong-yuen-shan-specialty-insurance-marine-pool-20261124",
       "title": "黄元山：以高水平安全护航高质量发展　点名航运专项风险池与 AI 治理",
