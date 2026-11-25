@@ -1,9 +1,107 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-11-24T13:43:24Z",
-  "itemCount": 1808,
+  "generatedAt": "2026-11-25T10:11:51Z",
+  "itemCount": 1815,
   "items": [
+    {
+      "id": "tkww-family-office-tax-bill-3380-20261125",
+      "title": "财库局：推动家办税务修例　单一家办逾 3,380 间、两年增 25%",
+      "sourceTier": "media",
+      "themes": [
+        "family_office",
+        "tax",
+        "wealth"
+      ],
+      "publishedAt": "2026-11-25T13:00:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=tkww-family-office-tax-bill-3380-20261125",
+      "originalUrl": "https://epaper.tkww.hk/a/202611/25/AP6b05f2dae4b037d4c051e564.html"
+    },
+    {
+      "id": "insuranceasia-aon-swissre-claims-api-20261125",
+      "title": "怡安与瑞再企业方案打通理赔系统　以 API 提交澳洲产险索偿 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "claims",
+        "api",
+        "commercial"
+      ],
+      "publishedAt": "2026-11-25T06:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-aon-swissre-claims-api-20261125",
+      "originalUrl": "https://insuranceasia.com/insurance/news/aon-and-swiss-re-link-systems-australian-property-claims"
+    },
+    {
+      "id": "insuranceasia-zurich-malaysia-ai-tpbi-claims-20261125",
+      "title": "苏黎世马来西亚：AI 决策支援用于汽车第三者身体伤害索偿 [EN原文]",
+      "sourceTier": "insurer",
+      "themes": [
+        "ai",
+        "claims",
+        "motor"
+      ],
+      "publishedAt": "2026-11-25T05:30:00+08:00",
+      "score": 75,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-zurich-malaysia-ai-tpbi-claims-20261125",
+      "originalUrl": "https://insuranceasia.com/insurance/news/zurich-malaysia-adds-ai-decision-tool-motor-injury-claims"
+    },
+    {
+      "id": "ibm-manulife-malaysia-sunlife-hk-wealth-20261124",
+      "title": "人事：宏利马来西亚新 CEO、永明香港委任财富及退休金总经理 [EN原文]",
+      "sourceTier": "insurer",
+      "themes": [
+        "people",
+        "mpf",
+        "asia"
+      ],
+      "publishedAt": "2026-11-24T23:17:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-manulife-malaysia-sunlife-hk-wealth-20261124",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/insurance-moves-manulife-reveals-malaysia-ceo-sunlife-names-wealth-head-598611.aspx"
+    },
+    {
+      "id": "jrj-ai-industry-insurance-consortium-20261124",
+      "title": "全国首个「人工智能产业保险共同体」在深圳福田成立　发布 AI 风险治理白皮书",
+      "sourceTier": "pro",
+      "themes": [
+        "ai",
+        "gba",
+        "commercial"
+      ],
+      "publishedAt": "2026-11-24T15:21:00+08:00",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=jrj-ai-industry-insurance-consortium-20261124",
+      "originalUrl": "https://insurance.jrj.com.cn/2026/11/24152159246572.shtml"
+    },
+    {
+      "id": "crntt-gba-health-summit-elderly-care-20261124",
+      "title": "领航「9+2」大健康峰会：港安老服务转向市场化　跨境养老成湾区议题",
+      "sourceTier": "media",
+      "themes": [
+        "elderly_care",
+        "gba",
+        "retirement"
+      ],
+      "publishedAt": "2026-11-24T14:30:50+08:00",
+      "score": 62,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=crntt-gba-health-summit-elderly-care-20261124",
+      "originalUrl": "https://hk.crntt.com/doc/1072/6/0/3/107260344.html?coluid=93&kindid=20691&docid=107260344"
+    },
+    {
+      "id": "hket-hkecic-60th-anniversary-73pct-20261123",
+      "title": "香港信保局 60 周年：本财年受保业务升 73%　已超去年全年",
+      "sourceTier": "media",
+      "themes": [
+        "trade_credit",
+        "sme",
+        "export"
+      ],
+      "publishedAt": "2026-11-23T19:30:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hket-hkecic-60th-anniversary-73pct-20261123",
+      "originalUrl": "https://inews.hket.com/article/4229662/"
+    },
     {
       "id": "rthk-sunlife-mpf-full-portability-survey-20261124",
       "title": "永明调查：近七成市民拟于强积金「全自由行」后转受託人　45% 计划首 3 个月完成",
