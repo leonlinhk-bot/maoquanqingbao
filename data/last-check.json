@@ -4,17 +4,15 @@
   "ia_press": {
    "url": "https://www.ia.org.hk/en/infocenter/press_releases/",
    "last": "2026-11-25T18:11:44+08:00",
-   "health": "blocked",
-   "blockedReason": "Cloudflare JS challenge (cf_chl) 整站拦截；2026-11-24 21:08 窗口仍不通，改走 govhk + 港媒/行业媒体转载 + Insuraim 镜像 + HKMA 联合发布",
-   "fallback": "govhk 新闻公报 + 行业媒体 + 香港媒体转载核实 + Insuraim 镜像全文"
+   "health": "ok",
+   "fallback": "ia-doc-watch.py 列表页 diff（通函+指引列表可直连抓取；新闻稿页为 JS 空壳，不解析）"
   },
   "ia_circular": {
    "url": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html",
    "last": "2026-11-25T18:11:44+08:00",
-   "health": "blocked",
+   "health": "ok",
    "note": "2026-11-21 起 web_extract 可读取列表页；最新通函 2026-11-05",
-   "blockedReason": "Cloudflare JS challenge (cf_chl) 整站拦截；2026-11-24 21:08 窗口仍不通，改走 govhk + 港媒/行业媒体转载 + Insuraim 镜像 + HKMA 联合发布",
-   "fallback": "govhk 新闻公报 + 行业媒体 + 香港媒体转载核实 + Insuraim 镜像全文"
+   "fallback": "ia-doc-watch.py 列表页 diff（通函+指引列表可直连抓取；新闻稿页为 JS 空壳，不解析）"
   },
   "hkma_press": {
    "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/",
@@ -79,9 +77,8 @@
   "ia": {
    "url": "https://www.ia.org.hk/en/infocenter/press_releases.html",
    "last": "2026-11-25T18:11:44+08:00",
-   "health": "blocked",
-   "blockedReason": "Cloudflare JS challenge (cf_chl) 整站拦截；2026-11-24 21:08 窗口仍不通，改走 govhk + 港媒/行业媒体转载 + Insuraim 镜像 + HKMA 联合发布",
-   "fallback": "govhk 新闻公报 + 行业媒体 + 香港媒体转载核实 + Insuraim 镜像全文"
+   "health": "ok",
+   "fallback": "ia-doc-watch.py 列表页 diff（通函+指引列表可直连抓取；新闻稿页为 JS 空壳，不解析）"
   },
   "hkma": {
    "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/",
