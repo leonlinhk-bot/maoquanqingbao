@@ -1,0 +1,125 @@
+1 
+ 
+               
+ 
+20 November 2026 
+ 
+ 
+ 
+ 
+ 
+Ref: 
+INS/TEC/10/48 
+By Email Only 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+To: 
+Chief Executives of all authorized insurers, Responsible Officers of all 
+licensed insurance broker companies and licensed insurance agencies 
+ 
+ 
+Dear Sirs/Madams, 
+ 
+Strengthening Cyber Resilience 
+ 
+The Insurance Authority (“IA”) reminds authorized insurers, licensed insurance broker 
+companies and licensed insurance agencies to remain vigilant in managing cyber risk 
+and ensuring operational resilience.  
+  
+Recent incidents, including a cyberattack involving unauthorised access to and leakage 
+of personal information, and a major global technology outage affecting widely used 
+systems and services, suggest that business entities may be affected by both malicious 
+attacks and disruptions through shared services, group arrangements, and other 
+dependency linkages.  In light of these incidents, insurers, insurance broker companies 
+and insurance agencies should review the adequacy and effectiveness of your internal 
+system controls having regard to relevant IA guidelines1 or circulars2.  Among other 
+things, you should ensure that your –  
+ 
+(a) cyber controls remain appropriate to current threats and consistent with your 
+use of technology and third-party services; 
+ 
+(b) understanding of critical business services and their end-to-end dependencies is 
+up-to-date; 
+ 
+(c) incident response and recovery arrangements remain practical and executable; 
+ 
+(d) communication with customers and stakeholders is timely, accurate and 
+coordinated, avoiding actions or messages that could increase risk or 
+operational strain;  
+ 
+ 
+1 For example, see GL20: Guideline on Cybersecurity 
+https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_11122024_GL20.pdf 
+2 For example, see Joint Circular on the Cross-Sectoral Cyber Mapping Exercise 
+https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_29.7.2026.pdf 
+
+2 
+ 
+(e) arrangements to support the availability and integrity of systems and data are 
+robust, and that backup and recovery arrangements remain commensurate with 
+operational needs and risk profile; and 
+ 
+(f) incident response drills and penetration tests are conducted regularly to 
+strengthen preparedness for cybersecurity threats and to help identify 
+vulnerabilities in systems and controls. 
+ 
+The IA also reminds insurers, insurance broker companies and insurance agencies to 
+make appropriate use of the Cyber Intelligence Sharing Platform (“CISP 3 ”), as 
+applicable, to monitor advisories, share timely and actionable threat intelligence. 
+ 
+Should you have any questions, please contact your case officer.  
+ 
+ 
+ 
+ 
+ 
+ 
+Clement Lau 
+Executive Director 
+Policy and Legislation 
+Insurance Authority 
+ 
+ 
+ 
+ 
+ 
+Marty Lui 
+Executive Director 
+Long Term Business  
+Insurance Authority  
+ 
+ 
+ 
+ 
+ 
+MM Lee 
+Executive Director 
+General Business  
+Insurance Authority 
+ 
+ 
+ 
+ 
+ 
+ 
+Alan Wu 
+Acting Head of Conduct Supervision   
+Insurance Authority 
+ 
+c.c.  
+The Hong Kong Federation of Insurers 
+The Hong Kong Confederation of Insurance Brokers 
+Professional Insurance Brokers Association  
+ 
+ 
+3 IA Circular Dated 9 September 2021 
+https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_09.09.2021.pdf 

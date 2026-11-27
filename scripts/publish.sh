@@ -65,5 +65,16 @@ if git diff --cached --quiet; then
 else
   git commit -m "每日更新 $(date '+%Y-%m-%d %H:%M'): 数据采集+rebuild同步"
 fi
-git push origin main
-echo "发布完成"
+# 推送：优先直连（本机代理常挂，走代理会报 SSL_ERROR_SYSCALL），失败再退回系统代理
+if env -u http_proxy -u https_proxy -u all_proxy -u HTTP_PROXY -u HTTPS_PROXY -u ALL_PROXY git push origin main; then
+  echo "发布完成"
+else
+  echo "[warn] 直连推送失败，改走系统代理重试…"
+  sleep 3
+  if git push origin main; then
+    echo "发布完成（经代理）"
+  else
+    echo "[error] 推送失败：本地已提交但未上线，请检查网络后手动 git push"
+    exit 4
+  fi
+fi
