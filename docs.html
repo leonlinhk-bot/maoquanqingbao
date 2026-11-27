@@ -97,6 +97,7 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);margin:0;pad
   <div class="d-bar">
     <div class="d-views" id="views">
       <button data-v="scenario" class="on">按场景</button>
+      <button data-v="org">按机构</button>
       <button data-v="topic">按主题</button>
       <button data-v="type">按类型</button>
     </div>
@@ -119,7 +120,7 @@ const UI = {
     title: "监管文档库",
     sub: "这里的文件不像新闻会过期。一份通函管两三年，一份指引管三五年——<b>新闻告诉你发生了什么，文档告诉你必须做什么</b>。同一条监管信息只是半衰期不同。",
     badgeTotal: n => `${n} 份现行文件`,
-    scenario: "按场景", topic: "按主题", type: "按类型",
+    scenario: "按场景", topic: "按主题", type: "按类型", org: "按机构",
     search: "搜标题或「要做什么」…",
     empty: "没有匹配的文档",
     read: "读原文 PDF",
@@ -132,7 +133,7 @@ const UI = {
     title: "監管文檔庫",
     sub: "這裡的文件不像新聞會過期。一份通函管兩三年，一份指引管三五年——<b>新聞告訴你發生了什麼，文檔告訴你必須做什麼</b>。同一條監管信息只是半衰期不同。",
     badgeTotal: n => `${n} 份現行文件`,
-    scenario: "按場景", topic: "按主題", type: "按類型",
+    scenario: "按場景", topic: "按主題", type: "按類型", org: "按機構",
     search: "搜標題或「要做什麼」…",
     empty: "沒有匹配的文檔",
     read: "讀原文 PDF",
@@ -213,6 +214,7 @@ function match(d) {
   }
   if (state.v === "topic" && state.filter && !(d.topics || []).includes(state.filter)) return false;
   if (state.v === "type" && state.filter && d.type !== state.filter) return false;
+  if (state.v === "org" && state.filter && d.org !== state.filter) return false;
   return true;
 }
 
@@ -223,19 +225,32 @@ function render() {
   const chips = document.getElementById("chips");
 
   // chips
-  if (state.v === "topic" || state.v === "type") {
+  if (state.v === "topic" || state.v === "type" || state.v === "org") {
     chips.style.display = "flex";
     let keys;
     if (state.v === "topic") {
       const c = {};
       DATA.docs.forEach(d => (d.topics || []).forEach(t => c[t] = (c[t] || 0) + 1));
       keys = Object.keys(c).sort((a, b) => c[b] - c[a]);
+    } else if (state.v === "org") {
+      const c = {};
+      DATA.docs.forEach(d => c[d.org] = (c[d.org] || 0) + 1);
+      keys = Object.keys(c).sort((a, b) => c[b] - c[a]);
     } else {
       keys = ["circular", "guideline"];
     }
     chips.innerHTML = keys.map(k => {
-      const n = state.v === "topic" ? DATA.docs.filter(d => (d.topics || []).includes(k)).length : DATA.docs.filter(d => d.type === k).length;
-      const nm = state.v === "topic" ? (TOPIC_NAMES[k] || k) : (TYPE_NAMES[k] || k);
+      let n, nm;
+      if (state.v === "topic") {
+        n = DATA.docs.filter(d => (d.topics || []).includes(k)).length;
+        nm = TOPIC_NAMES[k] || k;
+      } else if (state.v === "org") {
+        n = DATA.docs.filter(d => d.org === k).length;
+        nm = ORG[k] || k;
+      } else {
+        n = DATA.docs.filter(d => d.type === k).length;
+        nm = TYPE_NAMES[k] || k;
+      }
       return `<button data-f="${k}" class="${state.filter === k ? "on" : ""}">${nm} ${n}</button>`;
     }).join("");
     chips.querySelectorAll("button").forEach(b => b.onclick = () => {
