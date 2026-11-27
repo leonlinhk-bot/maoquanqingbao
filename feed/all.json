@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-11-25T10:11:51Z",
-  "itemCount": 1815,
+  "generatedAt": "2026-11-27T08:28:00Z",
+  "itemCount": 1816,
   "items": [
     {
       "id": "tkww-family-office-tax-bill-3380-20261125",
@@ -61,6 +61,20 @@
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/life-insurance/insurance-moves-manulife-reveals-malaysia-ceo-sunlife-names-wealth-head-598611.aspx"
     },
     {
+      "id": "rthk-sunlife-mpf-full-portability-survey-20261124",
+      "title": "永明调查：近七成市民拟于强积金「全自由行」后转受託人　45% 计划首 3 个月完成",
+      "sourceTier": "media",
+      "themes": [
+        "mpf",
+        "retirement",
+        "consumer"
+      ],
+      "publishedAt": "2026-11-24T18:13:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rthk-sunlife-mpf-full-portability-survey-20261124",
+      "originalUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879076-20261124.htm"
+    },
+    {
       "id": "jrj-ai-industry-insurance-consortium-20261124",
       "title": "全国首个「人工智能产业保险共同体」在深圳福田成立　发布 AI 风险治理白皮书",
       "sourceTier": "pro",
@@ -75,6 +89,20 @@
       "originalUrl": "https://insurance.jrj.com.cn/2026/11/24152159246572.shtml"
     },
     {
+      "id": "hkcd-wong-yuen-shan-specialty-insurance-marine-pool-20261124",
+      "title": "黄元山：以高水平安全护航高质量发展　点名航运专项风险池与 AI 治理",
+      "sourceTier": "media",
+      "themes": [
+        "policy",
+        "marine",
+        "risk-management-centre"
+      ],
+      "publishedAt": "2026-11-24T14:37:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkcd-wong-yuen-shan-specialty-insurance-marine-pool-20261124",
+      "originalUrl": "https://hkcd.com/hkcdweb/content/2026/11/24/content_8787075.html"
+    },
+    {
       "id": "crntt-gba-health-summit-elderly-care-20261124",
       "title": "领航「9+2」大健康峰会：港安老服务转向市场化　跨境养老成湾区议题",
       "sourceTier": "media",
@@ -87,34 +115,6 @@
       "score": 62,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=crntt-gba-health-summit-elderly-care-20261124",
       "originalUrl": "https://hk.crntt.com/doc/1072/6/0/3/107260344.html?coluid=93&kindid=20691&docid=107260344"
-    },
-    {
-      "id": "hket-hkecic-60th-anniversary-73pct-20261123",
-      "title": "香港信保局 60 周年：本财年受保业务升 73%　已超去年全年",
-      "sourceTier": "media",
-      "themes": [
-        "trade_credit",
-        "sme",
-        "export"
-      ],
-      "publishedAt": "2026-11-23T19:30:00+08:00",
-      "score": 60,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hket-hkecic-60th-anniversary-73pct-20261123",
-      "originalUrl": "https://inews.hket.com/article/4229662/"
-    },
-    {
-      "id": "rthk-sunlife-mpf-full-portability-survey-20261124",
-      "title": "永明调查：近七成市民拟于强积金「全自由行」后转受託人　45% 计划首 3 个月完成",
-      "sourceTier": "media",
-      "themes": [
-        "mpf",
-        "retirement",
-        "consumer"
-      ],
-      "publishedAt": "2026-11-24T18:13:00+08:00",
-      "score": 68,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=rthk-sunlife-mpf-full-portability-survey-20261124",
-      "originalUrl": "https://news.rthk.hk/rthk/ch/component/k2/1879076-20261124.htm"
     },
     {
       "id": "ibm-wtw-global-medical-trend-2027-10pct-20261124",
@@ -157,6 +157,34 @@
       "score": 66,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-sg-insurance-trust-beyond-login-20261124",
       "originalUrl": "https://insuranceasia.com/insurance/commentary/next-frontier-insurance-trust-beyond-login"
+    },
+    {
+      "id": "prudential-aier-eye-gba-direct-billing-20261124",
+      "title": "保诚成香港首家与爱尔眼科合作直付的险企　大湾区 11 家医院纳入网络 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "medical-network",
+        "direct-billing",
+        "greater-bay-area"
+      ],
+      "publishedAt": "2026-11-24",
+      "score": 74,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=prudential-aier-eye-gba-direct-billing-20261124",
+      "originalUrl": "https://www.thestandard.com.hk/finance/article/349475/Prudential-HK-ties-up-with-Aier-Eye-Hospital-for-direct-billing-eye-care"
+    },
+    {
+      "id": "insurancebusinessmag-retail-cyber-gap-ransomware-20261124",
+      "title": "CFC：零售业勒索攻击 11 月激增五成　仅 43% 有网络险 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "cyber",
+        "sme",
+        "claims"
+      ],
+      "publishedAt": "2026-11-24",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insurancebusinessmag-retail-cyber-gap-ransomware-20261124",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/retail-ranks-among-leastinsured-sectors-as-ransomware-attacks-peak-598542.aspx"
     },
     {
       "id": "artemis-144a-catbond-issuance-record-2026-20261123",
@@ -215,6 +243,48 @@
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/aviation-sector-cyber-risk-outpaces-standard-cover-options-598560.aspx"
     },
     {
+      "id": "hket-hkecic-60th-anniversary-73pct-20261123",
+      "title": "香港信保局 60 周年：本财年受保业务升 73%　已超去年全年",
+      "sourceTier": "media",
+      "themes": [
+        "trade_credit",
+        "sme",
+        "export"
+      ],
+      "publishedAt": "2026-11-23T19:30:00+08:00",
+      "score": 60,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hket-hkecic-60th-anniversary-73pct-20261123",
+      "originalUrl": "https://inews.hket.com/article/4229662/"
+    },
+    {
+      "id": "ibm-zurich-ai-resilience-correlation-20261123",
+      "title": "苏黎世×圣加仑大学：换 AI 供应商不等于分散风险　相关性风险更难察觉 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "ai-governance",
+        "correlation-risk",
+        "commercial-lines"
+      ],
+      "publishedAt": "2026-11-23T16:00:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-zurich-ai-resilience-correlation-20261123",
+      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/switching-ai-providers-does-not-make-clients-risks-independent-598365.aspx"
+    },
+    {
+      "id": "insuranceasia-wtw-medical-trend-2027-hk-20261123",
+      "title": "WTW：香港医疗险净成本 2027 年预计升 8.6%　高于今年的 7.9%",
+      "sourceTier": "pro",
+      "themes": [
+        "medical-inflation",
+        "employee-benefits",
+        "greater-bay-area"
+      ],
+      "publishedAt": "2026-11-23T11:35:00+08:00",
+      "score": 76,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-wtw-medical-trend-2027-hk-20261123",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-medical-insurance-costs-climb-86-in-2027"
+    },
+    {
       "id": "insuranceasia-asia-reinsurance-prices-2027-ambest-20261123",
       "title": "AM Best：亚洲 2027 续保无损失合约费率料续降　巨灾仍是变量 [EN原文]",
       "sourceTier": "media",
@@ -227,90 +297,6 @@
       "score": 70,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-asia-reinsurance-prices-2027-ambest-20261123",
       "originalUrl": "https://insuranceasia.com/insurance/expert-opinion/will-asias-reinsurance-prices-fall-further-in-2027"
-    },
-    {
-      "id": "insuranceasia-china-overseas-investment-pilot-reinsurers-20261122",
-      "title": "上海国际再保险中心试点：四家险企可以 10 亿美元额度投资跨境分入保费 [EN原文]",
-      "sourceTier": "media",
-      "themes": [
-        "reinsurance",
-        "mainland",
-        "belt-road"
-      ],
-      "publishedAt": "2026-11-22T22:00:00+08:00",
-      "score": 72,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-china-overseas-investment-pilot-reinsurers-20261122",
-      "originalUrl": "https://insuranceasia.com/insurance/news/china-opens-overseas-investment-pilot-four-reinsurers"
-    },
-    {
-      "id": "nfra-q3-2026-banking-insurance-indicators-20261120",
-      "title": "金融监管总局：三季度末保险业总资产 44.6 万亿升 8%　综合偿付能力 177.8%",
-      "sourceTier": "official",
-      "themes": [
-        "mainland",
-        "solvency",
-        "stats"
-      ],
-      "publishedAt": "2026-11-20T17:00:00+08:00",
-      "score": 90,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-q3-2026-banking-insurance-indicators-20261120",
-      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1279786&itemId=915"
-    },
-    {
-      "id": "fsc-taiwan-insurance-manager-specialty-fields-20261120",
-      "title": "台湾金管会：保险业经理人「特定专业领域」扩至 12 类　新增医疗投资行销不动产永续",
-      "sourceTier": "official",
-      "themes": [
-        "taiwan",
-        "talent",
-        "governance"
-      ],
-      "publishedAt": "2026-11-20T00:00:00+08:00",
-      "score": 85,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fsc-taiwan-insurance-manager-specialty-fields-20261120",
-      "originalUrl": "https://www.fsc.gov.tw/ch/home.jsp?aplistdn=ou%3Ddata,ou%3Dlaw,ou%3Dchlaw,ou%3Dap_root,o%3Dfsc,c%3Dtw&dataserno=202611200001&dtable=Law&id=97&mcustomize=multimessage_view.jsp&parentpath=0,2"
-    },
-    {
-      "id": "hkcd-wong-yuen-shan-specialty-insurance-marine-pool-20261124",
-      "title": "黄元山：以高水平安全护航高质量发展　点名航运专项风险池与 AI 治理",
-      "sourceTier": "media",
-      "themes": [
-        "policy",
-        "marine",
-        "risk-management-centre"
-      ],
-      "publishedAt": "2026-11-24T14:37:00+08:00",
-      "score": 64,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkcd-wong-yuen-shan-specialty-insurance-marine-pool-20261124",
-      "originalUrl": "https://hkcd.com/hkcdweb/content/2026/11/24/content_8787075.html"
-    },
-    {
-      "id": "prudential-aier-eye-gba-direct-billing-20261124",
-      "title": "保诚成香港首家与爱尔眼科合作直付的险企　大湾区 11 家医院纳入网络 [EN原文]",
-      "sourceTier": "media",
-      "themes": [
-        "medical-network",
-        "direct-billing",
-        "greater-bay-area"
-      ],
-      "publishedAt": "2026-11-24",
-      "score": 74,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=prudential-aier-eye-gba-direct-billing-20261124",
-      "originalUrl": "https://www.thestandard.com.hk/finance/article/349475/Prudential-HK-ties-up-with-Aier-Eye-Hospital-for-direct-billing-eye-care"
-    },
-    {
-      "id": "insurancebusinessmag-retail-cyber-gap-ransomware-20261124",
-      "title": "CFC：零售业勒索攻击 11 月激增五成　仅 43% 有网络险 [EN原文]",
-      "sourceTier": "media",
-      "themes": [
-        "cyber",
-        "sme",
-        "claims"
-      ],
-      "publishedAt": "2026-11-24",
-      "score": 64,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insurancebusinessmag-retail-cyber-gap-ransomware-20261124",
-      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/retail-ranks-among-leastinsured-sectors-as-ransomware-attacks-peak-598542.aspx"
     },
     {
       "id": "insurancebusinessmag-hk-premium-record-crossborder-dependency-20261123",
@@ -368,46 +354,18 @@
       "originalUrl": "https://www.info.gov.hk/gia/general/202611/22/P2026112200706.htm"
     },
     {
-      "id": "ia-2025-annual-statistics-20261120",
-      "title": "保监局 2025 年度统计：毛保费 8,273 亿升 30.2%　新造长期保费 3,309 亿升 50.6%",
-      "sourceTier": "official",
-      "themes": [
-        "industry-stats",
-        "premium-growth",
-        "new-business"
-      ],
-      "publishedAt": "2026-11-20",
-      "score": 92,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2025-annual-statistics-20261120",
-      "originalUrl": "https://www.ia.org.hk/tc/infocenter/press_releases/20261120.html"
-    },
-    {
-      "id": "insuranceasia-wtw-medical-trend-2027-hk-20261123",
-      "title": "WTW：香港医疗险净成本 2027 年预计升 8.6%　高于今年的 7.9%",
-      "sourceTier": "pro",
-      "themes": [
-        "medical-inflation",
-        "employee-benefits",
-        "greater-bay-area"
-      ],
-      "publishedAt": "2026-11-23T11:35:00+08:00",
-      "score": 76,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-wtw-medical-trend-2027-hk-20261123",
-      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-medical-insurance-costs-climb-86-in-2027"
-    },
-    {
-      "id": "ibm-zurich-ai-resilience-correlation-20261123",
-      "title": "苏黎世×圣加仑大学：换 AI 供应商不等于分散风险　相关性风险更难察觉 [EN原文]",
+      "id": "insuranceasia-china-overseas-investment-pilot-reinsurers-20261122",
+      "title": "上海国际再保险中心试点：四家险企可以 10 亿美元额度投资跨境分入保费 [EN原文]",
       "sourceTier": "media",
       "themes": [
-        "ai-governance",
-        "correlation-risk",
-        "commercial-lines"
+        "reinsurance",
+        "mainland",
+        "belt-road"
       ],
-      "publishedAt": "2026-11-23T16:00:00+08:00",
-      "score": 68,
-      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ibm-zurich-ai-resilience-correlation-20261123",
-      "originalUrl": "https://www.insurancebusinessmag.com/asia/news/technology/switching-ai-providers-does-not-make-clients-risks-independent-598365.aspx"
+      "publishedAt": "2026-11-22T22:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-china-overseas-investment-pilot-reinsurers-20261122",
+      "originalUrl": "https://insuranceasia.com/insurance/news/china-opens-overseas-investment-pilot-four-reinsurers"
     },
     {
       "id": "stheadline-aia-omni-healthcare-circle-20261121",
@@ -522,6 +480,21 @@
       "originalUrl": "https://www.insurancebusinessmag.com/asia/news/cyber/cyberattack-tactics-are-outpacing-what-renewal-forms-ask-598222.aspx"
     },
     {
+      "id": "ia-cyber-resilience-circular-20261120",
+      "title": "保监局通函（INS/TEC/10/48）要求险企与中介强化网络韧性　对照 GL20 逐项核控",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "compliance",
+        "cyber",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-11-20T17:30:00+08:00",
+      "score": 90,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-cyber-resilience-circular-20261120",
+      "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/cir_dd_20.11.2026.pdf"
+    },
+    {
       "id": "govhk-va-services-bill-20261120",
       "title": "虚拟资产服务修订条例草案刊宪　交易、顾问、管理、托管四类服务须领牌",
       "sourceTier": "official",
@@ -534,6 +507,20 @@
       "score": 85,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=govhk-va-services-bill-20261120",
       "originalUrl": "https://www.info.gov.hk/gia/general/202611/20/P2026112000582.htm"
+    },
+    {
+      "id": "nfra-q3-2026-banking-insurance-indicators-20261120",
+      "title": "金融监管总局：三季度末保险业总资产 44.6 万亿升 8%　综合偿付能力 177.8%",
+      "sourceTier": "official",
+      "themes": [
+        "mainland",
+        "solvency",
+        "stats"
+      ],
+      "publishedAt": "2026-11-20T17:00:00+08:00",
+      "score": 90,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-q3-2026-banking-insurance-indicators-20261120",
+      "originalUrl": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1279786&itemId=915"
     },
     {
       "id": "ia-premium-financing-circular-20261120",
@@ -605,6 +592,34 @@
       "score": 72,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-aia-sg-caregiving-20261120",
       "originalUrl": "https://insuranceasia.com/insurance/in-focus/two-in-five-singaporeans-unsure-if-insurance-can-cover-caregiving-costs"
+    },
+    {
+      "id": "fsc-taiwan-insurance-manager-specialty-fields-20261120",
+      "title": "台湾金管会：保险业经理人「特定专业领域」扩至 12 类　新增医疗投资行销不动产永续",
+      "sourceTier": "official",
+      "themes": [
+        "taiwan",
+        "talent",
+        "governance"
+      ],
+      "publishedAt": "2026-11-20T00:00:00+08:00",
+      "score": 85,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=fsc-taiwan-insurance-manager-specialty-fields-20261120",
+      "originalUrl": "https://www.fsc.gov.tw/ch/home.jsp?aplistdn=ou%3Ddata,ou%3Dlaw,ou%3Dchlaw,ou%3Dap_root,o%3Dfsc,c%3Dtw&dataserno=202611200001&dtable=Law&id=97&mcustomize=multimessage_view.jsp&parentpath=0,2"
+    },
+    {
+      "id": "ia-2025-annual-statistics-20261120",
+      "title": "保监局 2025 年度统计：毛保费 8,273 亿升 30.2%　新造长期保费 3,309 亿升 50.6%",
+      "sourceTier": "official",
+      "themes": [
+        "industry-stats",
+        "premium-growth",
+        "new-business"
+      ],
+      "publishedAt": "2026-11-20",
+      "score": 92,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-2025-annual-statistics-20261120",
+      "originalUrl": "https://www.ia.org.hk/tc/infocenter/press_releases/20261120.html"
     },
     {
       "id": "hk01-zurich-hk-breach-20261120",

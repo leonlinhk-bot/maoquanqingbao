@@ -1,22 +1,11 @@
 {
  "source": "insuranceasianews",
  "source_label": "InsuranceAsia News · 香港",
- "fetched_at": "2026-11-25T18:00:09.875928+08:00",
+ "fetched_at": "2026-11-26T00:00:20.920511+08:00",
  "feed_url": "https://insuranceasianews.com/country/hong-kong/feed/",
  "feed_window": 10,
  "entries_fingerprint": "sha256:1a3313ca7a2b054682b0f73ee41d8808",
- "new_count": 1,
+ "new_count": 0,
  "filtered_out": 0,
- "items": [
-  {
-   "id": "234355",
-   "title": "Vesttoo trustees fight co-founder’s bid to tap US$10m D&O Policy as US extradition looms",
-   "url": "https://insuranceasianews.com/vesttoo-trustees-fight-co-founders-bid-to-tap-us10m-do-policy-as-us-extradition-looms/",
-   "published": "Wed, 25 Nov 2026 09:52:27 +0000",
-   "published_hkt": "2026-11-25T17:52:27+08:00",
-   "summary": "Alon Lifshitz, co-founder of the fraudulent Israeli insurtech, is facing US extradition following arrest in the Czech Republic.",
-   "author": null,
-   "paywalled": true
-  }
- ]
+ "items": []
 }
