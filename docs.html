@@ -6,6 +6,19 @@
 <title>监管文档库 · 猫圈儿港险情报站</title>
 <link rel="icon" href="assets/logo-cat-64.jpg" />
 <link rel="stylesheet" href="styles.css" />
+<script>
+/* 主题必须在样式生效前应用，否则会先闪一下默认色。
+   主页把选择存在 localStorage.hkii_theme（dark/light/auto），独立页要读同一个键。 */
+(function(){
+  try{
+    var t = localStorage.getItem("hkii_theme") || "auto";
+    var eff = t === "auto"
+      ? (window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark")
+      : t;
+    document.documentElement.setAttribute("data-theme", eff);
+  }catch(e){ document.documentElement.setAttribute("data-theme","dark"); }
+})();
+</script>
 <style>
 body{background:var(--bg);color:var(--text);font-family:var(--font);margin:0;padding:0;line-height:1.55}
 .doc-page{max-width:960px;margin:0 auto;padding:32px 22px 90px}
@@ -125,6 +138,9 @@ const UI = {
     empty: "没有匹配的文档",
     read: "读原文 PDF",
     dl: "下载 PDF",
+    dlChi: "中文版",
+    dlEng: "英文版",
+    dlAtt: "附件",
     demandLbl: "要做什么",
     roleFront: "前线", roleMid: "中后台", roleLead: "管理层", roleCross: "跨境",
     foot: '全部文件为监管机构公开发布，本库仅做索引与导读。原始出处：<a href="https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html" target="_blank" rel="noopener">保监局 — 监管通函</a> · <a href="https://www.ia.org.hk/en/legislative_framework/guidelines.html" target="_blank" rel="noopener">指引</a> · <a href="https://brdr.hkma.gov.hk/" target="_blank" rel="noopener">金管局 — 监管文件库</a> · <a href="https://www.pcpd.org.hk/tc_chi/" target="_blank" rel="noopener">私隐公署</a><br>回到 <a href="index.html">情报站首页</a> · <a href="tools.html">AI 工具情报</a>',
@@ -138,6 +154,9 @@ const UI = {
     empty: "沒有匹配的文檔",
     read: "讀原文 PDF",
     dl: "下載 PDF",
+    dlChi: "中文版",
+    dlEng: "英文版",
+    dlAtt: "附件",
     demandLbl: "要做什麼",
     roleFront: "前線", roleMid: "中後台", roleLead: "管理層", roleCross: "跨境",
     foot: '全部文件為監管機構公開發布，本庫僅做索引與導讀。原始出處：<a href="https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html" target="_blank" rel="noopener">保監局 — 監管通函</a> · <a href="https://www.ia.org.hk/en/legislative_framework/guidelines.html" target="_blank" rel="noopener">指引</a> · <a href="https://brdr.hkma.gov.hk/" target="_blank" rel="noopener">金管局 — 監管文件庫</a> · <a href="https://www.pcpd.org.hk/tc_chi/" target="_blank" rel="noopener">私隱公署</a><br>回到 <a href="index.html">情報站首頁</a> · <a href="tools.html">AI 工具情報</a>',
@@ -184,8 +203,15 @@ function card(d) {
   const statusCls = sup ? "st-sup" : "st-active";
   const urls = [d.sourceUrl].concat(d.attachments || []);
   const dlLinks = urls.map((u, i) => {
-    const nm = decodeURIComponent(u.split("/").pop());
-    return `<a href="${u}" target="_blank" rel="noopener" download="${nm}">${i === 0 ? U.dl : nm}</a>`;
+    const raw = decodeURIComponent(u.split("/").pop());
+    let label = U.dl;
+    if (i > 0) {
+      // 附件名太长会撑破布局，只标语言/类型
+      if (/_Chi|_TC\.pdf|中文/i.test(raw)) label = U.dlChi;
+      else if (/_Eng|_EN\.pdf/i.test(raw)) label = U.dlEng;
+      else label = U.dlAtt;
+    }
+    return `<a href="${u}" target="_blank" rel="noopener" download="${raw}">${label}</a>`;
   }).join("　");
   return `<div class="doc${sup ? " sup" : ""}">
     <div class="doc-h">

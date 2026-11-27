@@ -6,6 +6,18 @@
 <title>AI 工具情报 · 猫圈儿港险情报站</title>
 <link rel="icon" href="assets/logo-cat-64.jpg" />
 <link rel="stylesheet" href="styles.css" />
+<script>
+/* 与 docs.html 同一逻辑：读主页存的 hkii_theme，避免独立页与主页主题不一致 */
+(function(){
+  try{
+    var t = localStorage.getItem("hkii_theme") || "auto";
+    var eff = t === "auto"
+      ? (window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark")
+      : t;
+    document.documentElement.setAttribute("data-theme", eff);
+  }catch(e){ document.documentElement.setAttribute("data-theme","dark"); }
+})();
+</script>
 <style>
 body{background:var(--bg);color:var(--text);font-family:var(--font);margin:0;padding:0;line-height:1.55}
 .tools-page{max-width:920px;margin:0 auto;padding:32px 22px 90px}
