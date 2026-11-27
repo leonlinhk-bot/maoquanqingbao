@@ -243,7 +243,7 @@ def build(cfg, theme_name, out_path):
     d.text((MX, fy - P(74)), cfg.get('domain', ''), font=F('sans', 27, True), fill=C['gold'])
     d.text((MX, fy - P(30)), cfg.get('note', ''), font=F('sans', 14, False), fill=C['ink_faint'])
 
-    s1, s2, s3 = "本周共 ", cfg.get('footer_count', ''), " 条导读"
+    s1, s2, s3 = cfg.get('footer_label', '本周共') + " ", cfg.get('footer_count', ''), " 条导读"
     f_dig, f_num2 = F('sans', 19, False), F('sans', 23, True)
     dx = RIGHT - (d.textlength(s1, font=f_dig) + d.textlength(s2, font=f_num2) + d.textlength(s3, font=f_dig))
     d.text((dx, fy - P(72)), s1, font=f_dig, fill=C['ink_dim']); dx += d.textlength(s1, font=f_dig)
