@@ -54,7 +54,12 @@ def clean(s):
 
 
 def parse_circulars(html, year):
-    """从通函列表页提取 [(date, subject, pdf_url)]"""
+    """从通函列表页提取 [(date, subject, pdf_url, attachments)]
+
+    注意：一行里可能有多个 PDF（主通函 + 附件），例 2026-05-29 那行是
+    Cir_dd_29.05.2026.pdf 加 20260529_Annex.pdf。附件往往才是实质内容，
+    只取第一个会漏掉整份报告，所以这里全收。
+    """
     out = []
     for row in re.findall(r"<tr[^>]*>(.*?)</tr>", html, re.S):
         cells = re.findall(r"<td[^>]*>(.*?)</td>", row, re.S)
@@ -63,12 +68,25 @@ def parse_circulars(html, year):
         d, s = clean(cells[0]), clean(cells[1])
         if not d or not s or d.lower().startswith("date"):
             continue
-        m = re.search(r'href="([^"]+\.pdf)"', row, re.I)
-        pdf = None
-        if m:
-            h = m.group(1)
-            pdf = h if h.startswith("http") else IA + ("" if h.startswith("/") else "/en/legislative_framework/circulars/reg_matters/") + h
-        out.append({"kind": "circular", "year": year, "date": d, "subject": s, "pdf": pdf})
+        hrefs = re.findall(r'href="([^"]+\.pdf)"', row, re.I)
+        urls = []
+        for h in hrefs:
+            if h.startswith("http"):
+                urls.append(h)
+            elif h.startswith("/"):
+                urls.append(IA + h)
+            else:
+                urls.append(IA + "/en/legislative_framework/circulars/reg_matters/" + h)
+        if not urls:
+            continue
+        out.append({
+            "kind": "circular",
+            "year": year,
+            "date": d,
+            "subject": s,
+            "pdf": urls[0],
+            "attachments": urls[1:],
+        })
     return out
 
 
@@ -163,7 +181,13 @@ def main():
             tag = d.get("date") or d.get("ref")
             print(f"  [{d['kind']}] {tag} — {d['subject'][:75]}")
             if d.get("pdf"):
-                print(f"       {d['pdf']}")
+                print(f"       主文档: {d['pdf']}")
+            for a in d.get("attachments") or []:
+                print(f"       附件:   {a}")
+            # 直接给出可复制的抓取命令
+            urls = ([d["pdf"]] if d.get("pdf") else []) + list(d.get("attachments") or [])
+            if urls:
+                print(f"       抓取:   python3 scripts/ia-pdf-fetch.py " + " ".join(f'"{u}"' for u in urls))
     else:
         print("\n（无新增）")
 
