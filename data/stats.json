@@ -630,14 +630,14 @@
       "tc": "情報密度"
     },
     "subtitle": {
-      "sc": "自动从 1816 条资讯聚合 · sourceKey 标准化完成",
-      "tc": "自動從 1816 條資訊聚合 · sourceKey 標準化完成"
+      "sc": "自动从 1818 条资讯聚合 · sourceKey 标准化完成",
+      "tc": "自動從 1818 條資訊聚合 · sourceKey 標準化完成"
     },
-    "totalItems": 1816,
+    "totalItems": 1818,
     "sourceTiers": [
       {
         "tier": "official",
-        "count": 373,
+        "count": 375,
         "label": "监管一手"
       },
       {
@@ -736,7 +736,7 @@
       },
       {
         "theme": "reg",
-        "count": 175,
+        "count": 177,
         "label": "监管"
       },
       {
@@ -750,14 +750,14 @@
         "label": "产品"
       },
       {
+        "theme": "compliance",
+        "count": 114,
+        "label": "合规"
+      },
+      {
         "theme": "cross-border",
         "count": 112,
         "label": "跨境"
-      },
-      {
-        "theme": "compliance",
-        "count": 112,
-        "label": "合规"
       },
       {
         "theme": "firm",

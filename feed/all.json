@@ -1,8 +1,8 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-11-27T08:30:21Z",
-  "itemCount": 1816,
+  "generatedAt": "2026-11-27T09:12:30Z",
+  "itemCount": 1818,
   "items": [
     {
       "id": "tkww-family-office-tax-bill-3380-20261125",
@@ -20031,6 +20031,21 @@
       "originalUrl": "https://insuranceasia.com/insurance/news/msig-lifts-claims-settlement-ratio-947"
     },
     {
+      "id": "ia-cyber-mapping-joint-circular-20260729",
+      "title": "四机构联合通函：首轮跨行业网络测绘完成　50 余家机构连线，点名三类第三方集中风险",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "compliance",
+        "cyber",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-07-29T17:00:00+08:00",
+      "score": 87,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-cyber-mapping-joint-circular-20260729",
+      "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_29.7.2026.pdf"
+    },
+    {
       "id": "hkma-cmu-network-jul29",
       "title": "HKMA欢迎CMU扩展国际网络及服务范围",
       "sourceTier": "official",
@@ -21976,6 +21991,20 @@
       "score": 71,
       "canonicalUrl": "https://hkmaoquanqingbao.com/#item=axa-aishouwei-upgrade-2026",
       "originalUrl": "https://www.axa.com.hk/cn/critical-illness-protection"
+    },
+    {
+      "id": "ia-onsite-inspection-findings-20260529",
+      "title": "保监局发布现场查察常见发现与建议做法　13 个主题、附件近 1,800 行实操口径",
+      "sourceTier": "official",
+      "themes": [
+        "reg",
+        "compliance",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-05-29T17:00:00+08:00",
+      "score": 92,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=ia-onsite-inspection-findings-20260529",
+      "originalUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/20260529_Annex.pdf"
     },
     {
       "id": "ia-20260529-onsite-findings",
