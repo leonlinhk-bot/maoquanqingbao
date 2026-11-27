@@ -1,0 +1,2403 @@
+{
+ "meta": {
+  "updatedAt": "2026-11-27T18:00:00+08:00",
+  "total": 68,
+  "disclaimer": {
+   "sc": "本库仅为公开监管文件的索引与导读，供专业参考，不构成法律或合规意见，也不构成任何销售或投资建议。文件内容以监管机构发布的原文为准；如导读与原文有出入，一律以原文为准。使用前请自行核对最新版本——监管文件会更新、取代或撤销，本库虽尽力标注状态，但无法保证实时。",
+   "tc": "本庫僅為公開監管文件的索引與導讀，供專業參考，不構成法律或合規意見，也不構成任何銷售或投資建議。文件內容以監管機構發佈的原文為準；如導讀與原文有出入，一律以原文為準。使用前請自行核對最新版本——監管文件會更新、取代或撤銷，本庫雖盡力標註狀態，但無法保證實時。"
+  }
+ },
+ "scenarios": {
+  "annual": {
+   "sc": "每年必做",
+   "tc": "每年必做"
+  },
+  "incident-prep": {
+   "sc": "出事前准备",
+   "tc": "出事前準備"
+  },
+  "daily-sign": {
+   "sc": "日常签单动作",
+   "tc": "日常簽單動作"
+  },
+  "hni-cross": {
+   "sc": "高客与跨境",
+   "tc": "高客與跨境"
+  },
+  "team-mgmt": {
+   "sc": "团队管理",
+   "tc": "團隊管理"
+  },
+  "claims-service": {
+   "sc": "理赔与保全",
+   "tc": "理賠與保全"
+  },
+  "corporate": {
+   "sc": "公司层面",
+   "tc": "公司層面"
+  }
+ },
+ "docs": [
+  {
+   "id": "ia-cir-circular-20250206",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2025-02-06",
+   "title": {
+    "sc": "Findings and Recommendations for Claims Management",
+    "tc": "Findings and Recommendations for Claims Management"
+   },
+   "demand": {
+    "sc": "理赔管理发现与建议：理赔时限、进度沟通与拒赔理由说明的实操要求",
+    "tc": "理賠管理發現與建議：理賠時限、進度溝通與拒賠理由説明的實操要求"
+   },
+   "scenario": [
+    "claims-service"
+   ],
+   "topics": [
+    "claims",
+    "conduct"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 2,
+    "midback": 3,
+    "lead": 2,
+    "cross": 1
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_20250206.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-cir-circular-28022025",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2025-02-28",
+   "title": {
+    "sc": "Practice Note on Illustration Rate Caps in Benefit Illustration for Participating Policies",
+    "tc": "Practice Note on Illustration Rate Caps in Benefit Illustration for Participating Policies"
+   },
+   "demand": {
+    "sc": "利益演示利率上限实务守则：分红与万能演示数字不得超上限",
+    "tc": "利益演示利率上限實務守則：分紅與萬能演示數字不得超上限"
+   },
+   "scenario": [
+    "daily-sign"
+   ],
+   "topics": [
+    "product",
+    "illustration"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 3,
+    "midback": 2,
+    "lead": 2,
+    "cross": 1
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_28022025.pdf",
+   "attachments": [
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Practice_Note_28022025.pdf"
+   ]
+  },
+  {
+   "id": "ia-cir-cir-dd-07032025",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2025-03-07",
+   "title": {
+    "sc": "First Run of the KPIM-CPD Pilot Scheme for the Assessment Period 2024/2025",
+    "tc": "First Run of the KPIM-CPD Pilot Scheme for the Assessment Period 2024/2025"
+   },
+   "demand": {
+    "sc": "中介管理控能关键人员 CPD 试点首轮安排",
+    "tc": "中介管理控能關鍵人員 CPD 試點首輪安排"
+   },
+   "scenario": [
+    "annual"
+   ],
+   "topics": [
+    "cpd",
+    "compliance"
+   ],
+   "halflife": "medium",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 0,
+    "midback": 2,
+    "lead": 3,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_07032025.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-cir-circular-first-run-of-ro-cpd",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2025-03-07",
+   "title": {
+    "sc": "First Run of the RO-CPD Pilot Scheme for the Assessment Period 2024/2025",
+    "tc": "First Run of the RO-CPD Pilot Scheme for the Assessment Period 2024/2025"
+   },
+   "demand": {
+    "sc": "经纪负责人 CPD 试点首轮安排与参与方式",
+    "tc": "經紀負責人 CPD 試點首輪安排與參與方式"
+   },
+   "scenario": [
+    "annual"
+   ],
+   "topics": [
+    "cpd",
+    "compliance"
+   ],
+   "halflife": "medium",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 1,
+    "midback": 2,
+    "lead": 3,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_First_run_of_RO-CPD_Pilot_Scheme_07032025.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-cir-circular-20250313-iul",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2025-03-13",
+   "title": {
+    "sc": "Joint Circular on Indexed Universal Life Insurance Products for Professional Investors",
+    "tc": "Joint Circular on Indexed Universal Life Insurance Products for Professional Investors"
+   },
+   "demand": {
+    "sc": "指数型万能寿险（IUL）联合通函：面向专业投资者以外客户的销售限制与披露要求",
+    "tc": "指數型萬能壽險（IUL）聯合通函：面向專業投資者以外客户的銷售限制與披露要求"
+   },
+   "scenario": [
+    "hni-cross"
+   ],
+   "topics": [
+    "product",
+    "hni"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 2,
+    "midback": 2,
+    "lead": 3,
+    "cross": 3
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_20250313_IUL.pdf",
+   "attachments": [
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Annex_20250313_IUL.pdf"
+   ]
+  },
+  {
+   "id": "ia-cir-20250328-circular-conduct-in-focus-issue-10",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2025-03-28",
+   "title": {
+    "sc": "Conduct in Focus – Spring 2025",
+    "tc": "Conduct in Focus – Spring 2025"
+   },
+   "demand": {
+    "sc": "读第 10 期监管通讯的执法与操守要点",
+    "tc": "讀第 10 期監管通訊的執法與操守要點"
+   },
+   "scenario": [
+    "team-mgmt"
+   ],
+   "topics": [
+    "conduct",
+    "compliance"
+   ],
+   "halflife": "medium",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 2,
+    "midback": 2,
+    "lead": 2,
+    "cross": 1
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/20250328_Circular_Conduct_In_Focus_Issue_10_English.pdf",
+   "attachments": [
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/20250328_Circular_Conduct_In_Focus_Issue_10_Chi.pdf"
+   ]
+  },
+  {
+   "id": "ia-cir-cir-20250523",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2025-05-23",
+   "title": {
+    "sc": "Guidance for Non-HK Insurers to Re-domicile to Hong Kong and Interpretation Notes on Guidelines",
+    "tc": "Guidance for Non-HK Insurers to Re-domicile to Hong Kong and Interpretation Notes on Guidelines"
+   },
+   "demand": {
+    "sc": "非香港险企迁册来港的指引与释义（公司层面决策参考）",
+    "tc": "非香港險企遷冊來港的指引與釋義（公司層面決策參考）"
+   },
+   "scenario": [
+    "corporate"
+   ],
+   "topics": [
+    "corporate",
+    "cross-border"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 0,
+    "midback": 1,
+    "lead": 2,
+    "cross": 1
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/cir_20250523.pdf",
+   "attachments": [
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Annex_A_cir_2025_5.pdf",
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Annex_B_cir_2025_5.pdf"
+   ]
+  },
+  {
+   "id": "ia-cir-cir-dd-6-6-2025",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2025-06-06",
+   "title": {
+    "sc": "Continuing Professional Development (“CPD”) Requirements CPD Compliance Reporting for the Assessment Period 2024/2025 Detailed instructions for reporting by individual licensees and appointing principals to the Insurance Authority (“IA”)",
+    "tc": "Continuing Professional Development (“CPD”) Requirements CPD Compliance Reporting for the Assessment Period 2024/2025 Detailed instructions for reporting by individual licensees and appointing principals to the Insurance Authority (“IA”)"
+   },
+   "demand": {
+    "sc": "2024-2025 考核期 CPD 合规申报的具体要求与格式",
+    "tc": "2024-2025 考核期 CPD 合規申報的具體要求與格式"
+   },
+   "scenario": [
+    "annual"
+   ],
+   "topics": [
+    "cpd",
+    "compliance"
+   ],
+   "halflife": "medium",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 3,
+    "midback": 2,
+    "lead": 2,
+    "cross": 1
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_6.6.2025_CPD_Reporting_Procedures_2024-2025_ENG.pdf",
+   "attachments": [
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_6.6.2025_CPD_Reporting_Procedures_2024-2025_ENG.pdf",
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_6.6.2025_CPD_Reporting_Procedures_2024-2025_ENG.pdf",
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_6.6.2025_CPD_Reporting_Procedures_2024-2025_CHI.pdf",
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_6.6.2025_CPD_Reporting_Procedures_2024-2025_CHI.pdf",
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_6.6.2025_CPD_Reporting_Procedures_2024-2025_CHI.pdf"
+   ]
+  },
+  {
+   "id": "ia-cir-circular-06062025",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2025-06-06",
+   "title": {
+    "sc": "Circular on Reporting Templates under Group-Wide Supervision Regime",
+    "tc": "Circular on Reporting Templates under Group-Wide Supervision Regime"
+   },
+   "demand": {
+    "sc": "集团监管制度下的申报模板（指定保险控股公司适用）",
+    "tc": "集團監管制度下的申報模板（指定保險控股公司適用）"
+   },
+   "scenario": [
+    "corporate"
+   ],
+   "topics": [
+    "reporting",
+    "group"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 0,
+    "midback": 1,
+    "lead": 2,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular__06062025.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-cir-circular-20250620-gl36",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2025-06-20",
+   "title": {
+    "sc": "GL36: Guideline on Valuation and Capital Requirements",
+    "tc": "GL36: Guideline on Valuation and Capital Requirements"
+   },
+   "demand": {
+    "sc": "估值与资本要求（GL36）的适用与计算",
+    "tc": "估值與資本要求（GL36）的適用與計算"
+   },
+   "scenario": [
+    "corporate"
+   ],
+   "topics": [
+    "capital",
+    "actuarial"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 0,
+    "midback": 1,
+    "lead": 2,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_20250620_GL36.pdf",
+   "attachments": [
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/GL36_EN.pdf"
+   ]
+  },
+  {
+   "id": "ia-cir-cir-dd-11072025",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2025-07-11",
+   "title": {
+    "sc": "GL24: Guideline on Continuing Professional Development for Licensed Insurance Intermediaries",
+    "tc": "GL24: Guideline on Continuing Professional Development for Licensed Insurance Intermediaries"
+   },
+   "demand": {
+    "sc": "按修订后 GL24 执行持牌中介持续专业培训",
+    "tc": "按修訂後 GL24 執行持牌中介持續專業培訓"
+   },
+   "scenario": [
+    "annual"
+   ],
+   "topics": [
+    "cpd",
+    "compliance"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 3,
+    "midback": 2,
+    "lead": 2,
+    "cross": 1
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_11072025_Revised_GL24.pdf",
+   "attachments": [
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/GL24_2025_ENG.pdf",
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/GL24_2025_CHI.pdf"
+   ]
+  },
+  {
+   "id": "ia-cir-circular-rocpd-20250711",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2025-07-11",
+   "title": {
+    "sc": "Compulsory CPD requirement on Responsible Officers of all insurance broker companies effective from 1 August 2025",
+    "tc": "Compulsory CPD requirement on Responsible Officers of all insurance broker companies effective from 1 August 2025"
+   },
+   "demand": {
+    "sc": "经纪公司负责人强制 CPD 的生效要求与责任",
+    "tc": "經紀公司負責人強制 CPD 的生效要求與責任"
+   },
+   "scenario": [
+    "annual"
+   ],
+   "topics": [
+    "cpd",
+    "compliance"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 1,
+    "midback": 2,
+    "lead": 3,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_ROCPD_20250711.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-cir-cir-dd-30-7-2025",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2025-07-30",
+   "title": {
+    "sc": "Practice Note on Remuneration Structures of Authorized Insurers for Licensed Insurance Intermediaries for Participating Policies",
+    "tc": "Practice Note on Remuneration Structures of Authorized Insurers for Licensed Insurance Intermediaries for Participating Policies"
+   },
+   "demand": {
+    "sc": "佣金摊分实务守则：报酬结构不得诱导短期销售或前期冲量",
+    "tc": "佣金攤分實務守則：報酬結構不得誘導短期銷售或前期衝量"
+   },
+   "scenario": [
+    "team-mgmt"
+   ],
+   "topics": [
+    "commission",
+    "conduct"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 2,
+    "midback": 3,
+    "lead": 3,
+    "cross": 1
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_30.7.2025_Practice_Note_for_Commission_Spreading_Eng.pdf",
+   "attachments": [
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_30.7.2025_Practice_Note_for_Commission_Spreading_Chi.pdf",
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Practice_Note_on_Remuneration_Structures_of_Authorized_Insurers_for_Licensed_Insurance_Intermediaries_for_Participating_Policies_Eng.pdf",
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Practice_Note_on_Remuneration_Structures_of_Authorized_Insurers_for_Licensed_Insurance_Intermediaries_for_Participating_Policies_Chi.pdf"
+   ]
+  },
+  {
+   "id": "ia-cir-circular-20250808-first-year-public-disclosure",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2025-08-08",
+   "title": {
+    "sc": "Public Disclosure Requirements for the First Financial Year Adopting Risk-based Capital Regime",
+    "tc": "Public Disclosure Requirements for the First Financial Year Adopting Risk-based Capital Regime"
+   },
+   "demand": {
+    "sc": "采用风险资本制度首年的公开披露要求",
+    "tc": "採用風險資本制度首年的公開披露要求"
+   },
+   "scenario": [
+    "corporate"
+   ],
+   "topics": [
+    "capital",
+    "reporting"
+   ],
+   "halflife": "medium",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 0,
+    "midback": 1,
+    "lead": 2,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_20250808_First_Year_Public_Disclosure.pdf",
+   "attachments": [
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_20250808_Annex_1.pdf",
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_20250808_Annex_2.pdf"
+   ]
+  },
+  {
+   "id": "ia-cir-cir-dd-01092025",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2025-09-01",
+   "title": {
+    "sc": "Regulatory Expectations Regarding Referral Fees Paid by Licensed Insurance Broker Companies for Participating Policies",
+    "tc": "Regulatory Expectations Regarding Referral Fees Paid by Licensed Insurance Broker Companies for Participating Policies"
+   },
+   "demand": {
+    "sc": "转介费监管期望：转介不得变相成销售，须披露身份与记录报酬；按此检视转介安排",
+    "tc": "轉介費監管期望：轉介不得變相成銷售，須披露身份與記錄報酬；按此檢視轉介安排"
+   },
+   "scenario": [
+    "team-mgmt"
+   ],
+   "topics": [
+    "commission",
+    "conduct"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 2,
+    "midback": 3,
+    "lead": 3,
+    "cross": 1
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_01092025_Regulatory_Expectations_on_Referral_Fees_Eng.pdf",
+   "attachments": [
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_01092025_Regulatory_Expectations_on_Referral_Fees_Chi.pdf"
+   ]
+  },
+  {
+   "id": "ia-cir-circular-19092025",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2025-09-19",
+   "title": {
+    "sc": "Joint Circular on the Naming Requirements for Insurance Products",
+    "tc": "Joint Circular on the Naming Requirements for Insurance Products"
+   },
+   "demand": {
+    "sc": "保险产品命名要求：名称不得暗示保证收益或误导投保人",
+    "tc": "保險產品命名要求：名稱不得暗示保證收益或誤導投保人"
+   },
+   "scenario": [
+    "daily-sign"
+   ],
+   "topics": [
+    "product",
+    "conduct"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 2,
+    "midback": 2,
+    "lead": 2,
+    "cross": 1
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_19092025.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-cir-circular-20250919-gl34",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2025-09-19",
+   "title": {
+    "sc": "GL34: Guideline on Governance and Management of Fund(s) of Participating Business",
+    "tc": "GL34: Guideline on Governance and Management of Fund(s) of Participating Business"
+   },
+   "demand": {
+    "sc": "分红基金治理与管理（GL34）：分红政策的公平性与持份者沟通",
+    "tc": "分紅基金治理與管理（GL34）：分紅政策的公平性與持份者溝通"
+   },
+   "scenario": [
+    "corporate"
+   ],
+   "topics": [
+    "product",
+    "governance"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 1,
+    "midback": 2,
+    "lead": 3,
+    "cross": 1
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_20250919_GL34.pdf",
+   "attachments": [
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/GL34_2025_EN.pdf"
+   ]
+  },
+  {
+   "id": "ia-cir-20250930-circular-conduct-in-focus-issue-11",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2025-09-30",
+   "title": {
+    "sc": "Conduct in Focus - September 2025",
+    "tc": "Conduct in Focus - September 2025"
+   },
+   "demand": {
+    "sc": "读第 11 期监管通讯的执法与操守个案",
+    "tc": "讀第 11 期監管通訊的執法與操守個案"
+   },
+   "scenario": [
+    "team-mgmt"
+   ],
+   "topics": [
+    "conduct",
+    "compliance"
+   ],
+   "halflife": "medium",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 2,
+    "midback": 2,
+    "lead": 2,
+    "cross": 1
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/20250930_Circular_Conduct_In_Focus_Issue_11_Eng.pdf",
+   "attachments": [
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/20250930_Circular_Conduct_In_Focus_Issue_11_Chi.pdf"
+   ]
+  },
+  {
+   "id": "ia-cir-cir-dd-14102025",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2025-10-14",
+   "title": {
+    "sc": "Details on the Compulsory RO-CPD Trainings for the Assessment Period 2025/2026",
+    "tc": "Details on the Compulsory RO-CPD Trainings for the Assessment Period 2025/2026"
+   },
+   "demand": {
+    "sc": "经纪公司负责人的强制 CPD 培训：具体场次、考核期与豁免情形",
+    "tc": "經紀公司負責人的強制 CPD 培訓：具體場次、考核期與豁免情形"
+   },
+   "scenario": [
+    "annual"
+   ],
+   "topics": [
+    "cpd",
+    "compliance"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 1,
+    "midback": 2,
+    "lead": 3,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_14102025_First_run_of_ROCPD_2025_26.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-cir-cir-dd-20-11-2025",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2025-11-20",
+   "title": {
+    "sc": "Reference Checking Schemes for Licensed Insurance Intermediaries",
+    "tc": "Reference Checking Schemes for Licensed Insurance Intermediaries"
+   },
+   "demand": {
+    "sc": "中介入职流程须纳入背景查核计划，评估适当人选资格",
+    "tc": "中介入職流程須納入背景查核計劃，評估適當人選資格"
+   },
+   "scenario": [
+    "team-mgmt"
+   ],
+   "topics": [
+    "recruitment",
+    "conduct"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 1,
+    "midback": 3,
+    "lead": 2,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_20.11.2025_Reference_Checking_Schemes_for_Licensed_Insurance_Intermediaries_Eng.pdf",
+   "attachments": [
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_20.11.2025_Reference_Checking_Schemes_for_Licensed_Insurance_Intermediaries_Chi.pdf"
+   ]
+  },
+  {
+   "id": "ia-cir-circular-20260206-gl16-and-gl34",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2026-02-06",
+   "title": {
+    "sc": "GL16: Guideline on Underwriting Long Term Insurance Business (other than Class C Business) and GL34: Guideline on Governance and Management of Fund(s) of Participating Business",
+    "tc": "GL16: Guideline on Underwriting Long Term Insurance Business (other than Class C Business) and GL34: Guideline on Governance and Management of Fund(s) of Participating Business"
+   },
+   "demand": {
+    "sc": "承保长期业务与分红基金治理按修订后的 GL16/GL34 执行",
+    "tc": "承保長期業務與分紅基金治理按修訂後的 GL16/GL34 執行"
+   },
+   "scenario": [
+    "corporate"
+   ],
+   "topics": [
+    "product",
+    "actuarial"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 1,
+    "midback": 2,
+    "lead": 2,
+    "cross": 1
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_20260206_GL16_and_GL34.pdf",
+   "attachments": [
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/GL16_2026_EN.pdf",
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/GL34_2026_EN.pdf"
+   ]
+  },
+  {
+   "id": "ia-cir-20260224-kpim-handbook",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2026-02-24",
+   "title": {
+    "sc": "Handbook for Key Persons in Control Function for Intermediary Management of Authorized Insurers",
+    "tc": "Handbook for Key Persons in Control Function for Intermediary Management of Authorized Insurers"
+   },
+   "demand": {
+    "sc": "中介管理控能关键人员（KPIM）按手册履职，明确管控职责与汇报线",
+    "tc": "中介管理控能關鍵人員（KPIM）按手冊履職，明確管控職責與彙報線"
+   },
+   "scenario": [
+    "team-mgmt"
+   ],
+   "topics": [
+    "governance",
+    "conduct"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 0,
+    "midback": 3,
+    "lead": 3,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/20260224_KPIM_Handbook_Circular.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-cir-circular-dd-20260305",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2026-03-05",
+   "title": {
+    "sc": "Joint Circular on the Expansion of Generative Artificial Intelligence Sandbox",
+    "tc": "Joint Circular on the Expansion of Generative Artificial Intelligence Sandbox"
+   },
+   "demand": {
+    "sc": "生成式 AI 的使用边界：沙盒扩围、风险治理、问责与人工复核要求",
+    "tc": "生成式 AI 的使用邊界：沙盒擴圍、風險治理、問責與人工複核要求"
+   },
+   "scenario": [
+    "incident-prep"
+   ],
+   "topics": [
+    "ai",
+    "compliance"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 2,
+    "midback": 3,
+    "lead": 3,
+    "cross": 2
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_dd_20260305.pdf",
+   "attachments": [
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_dd_20260305_Annex.pdf"
+   ]
+  },
+  {
+   "id": "ia-cir-20260327-circular-conduct-in-focus-issue-12",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2026-03-27",
+   "title": {
+    "sc": "Conduct in Focus - March 2026",
+    "tc": "Conduct in Focus - March 2026"
+   },
+   "demand": {
+    "sc": "读第 12 期监管通讯的查察与执法要点",
+    "tc": "讀第 12 期監管通訊的查察與執法要點"
+   },
+   "scenario": [
+    "team-mgmt"
+   ],
+   "topics": [
+    "conduct",
+    "compliance"
+   ],
+   "halflife": "medium",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 2,
+    "midback": 2,
+    "lead": 2,
+    "cross": 1
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/20260327_Circular_Conduct_In_Focus_Issue_12_Eng.pdf",
+   "attachments": [
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/20260327_Circular_Conduct_In_Focus_Issue_12_Chi.pdf"
+   ]
+  },
+  {
+   "id": "ia-cir-cir-dd-31032026",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2026-03-31",
+   "title": {
+    "sc": "Continuing Professional Development (“CPD”) Requirements CPD Compliance Reporting Arrangements for Assessment Period 2025/2026 and subsequent assessment periods",
+    "tc": "Continuing Professional Development (“CPD”) Requirements CPD Compliance Reporting Arrangements for Assessment Period 2025/2026 and subsequent assessment periods"
+   },
+   "demand": {
+    "sc": "按新程序申报 CPD（2025-2026 考核期起适用），留意申报时点与留证",
+    "tc": "按新程序申報 CPD（2025-2026 考核期起適用），留意申報時點與留證"
+   },
+   "scenario": [
+    "annual"
+   ],
+   "topics": [
+    "cpd",
+    "compliance"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 3,
+    "midback": 2,
+    "lead": 2,
+    "cross": 1
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_31032026_CPD_Reporting_Procedures_for_2025-2026_onwards_Eng.pdf",
+   "attachments": [
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_31032026_CPD_Reporting_Procedures_for_2025-2026_onwards_Chi.pdf",
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_31032026_CPD_Reporting_Procedures_for_2025-2026_onwards_Chi.pdf"
+   ]
+  },
+  {
+   "id": "ia-cir-cir-dd-13-05-2026",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2026-05-13",
+   "title": {
+    "sc": "Cross-sector Reference Checking Arrangement Between the Banking and Insurance Sectors",
+    "tc": "Cross-sector Reference Checking Arrangement Between the Banking and Insurance Sectors"
+   },
+   "demand": {
+    "sc": "招聘与入职阶段做银行—保险跨行业背景查核，确认对方在职纪录",
+    "tc": "招聘與入職階段做銀行—保險跨行業背景查核，確認對方在職紀錄"
+   },
+   "scenario": [
+    "team-mgmt"
+   ],
+   "topics": [
+    "recruitment",
+    "conduct"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 1,
+    "midback": 3,
+    "lead": 2,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_13.05.2026_Cross-sector_Reference_Checking_Arrangement_Between_the_Banking_and_Insurance_Sectors_Eng.pdf",
+   "attachments": [
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_13.05.2026_Cross-sector_Reference_Checking_Arrangement_Between_the_Banking_and_Insurance_Sectors_Chi.pdf"
+   ]
+  },
+  {
+   "id": "ia-cir-cir-dd-29-05-2026",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2026-05-29",
+   "title": {
+    "sc": "Common Findings from Onsite Conduct Inspections on Insurers and Recommended Best Practices",
+    "tc": "Common Findings from Onsite Conduct Inspections on Insurers and Recommended Best Practices"
+   },
+   "demand": {
+    "sc": "读 13 主题查察发现（附件近 1,800 行）：财务需要分析、保费收取、冷静期交付、理赔、孤儿保单五项最贴日常，逐条对照留痕",
+    "tc": "讀 13 主題查察發現（附件近 1,800 行）：財務需要分析、保費收取、冷靜期交付、理賠、孤兒保單五項最貼日常，逐條對照留痕"
+   },
+   "scenario": [
+    "team-mgmt"
+   ],
+   "topics": [
+    "conduct",
+    "compliance"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 3,
+    "midback": 3,
+    "lead": 3,
+    "cross": 2
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_29.05.2026.pdf",
+   "attachments": [
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/20260529_Annex.pdf"
+   ]
+  },
+  {
+   "id": "ia-cir-cir-dd-05-06-2026",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2026-06-05",
+   "title": {
+    "sc": "Circular issued by the Hong Kong Monetary Authority on Remuneration Structures of Licensed Insurance Intermediaries which are Authorized Institutions for Participating Policies with Regular Payment Terms",
+    "tc": "Circular issued by the Hong Kong Monetary Authority on Remuneration Structures of Licensed Insurance Intermediaries which are Authorized Institutions for Participating Policies with Regular Payment Terms"
+   },
+   "demand": {
+    "sc": "按金管局口径检视报酬结构，避免奖励设计变相鼓励销售误导",
+    "tc": "按金管局口徑檢視報酬結構，避免獎勵設計變相鼓勵銷售誤導"
+   },
+   "scenario": [
+    "corporate"
+   ],
+   "topics": [
+    "remuneration",
+    "governance"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 0,
+    "midback": 2,
+    "lead": 2,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_05.06.2026_Circular_on_HKMA_Circular_on_Remuneration_Structures_for_AIs.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-cir-circular-10072026",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2026-07-10",
+   "title": {
+    "sc": "Interpretation Note on the Review Mechanism for Illustration Rate Caps in Benefit Illustration for Participating Policies",
+    "tc": "Interpretation Note on the Review Mechanism for Illustration Rate Caps in Benefit Illustration for Participating Policies"
+   },
+   "demand": {
+    "sc": "演示利率上限的复核机制解读：产品演示数字须按此口径，超上限的说明要有依据",
+    "tc": "演示利率上限的複核機制解讀：產品演示數字須按此口徑，超上限的説明要有依據"
+   },
+   "scenario": [
+    "daily-sign"
+   ],
+   "topics": [
+    "product",
+    "illustration"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 2,
+    "midback": 2,
+    "lead": 2,
+    "cross": 1
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_10072026.pdf",
+   "attachments": [
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Interpretation_Note.pdf"
+   ]
+  },
+  {
+   "id": "ia-cir-cir-dd-29-7-2026",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2026-07-29",
+   "title": {
+    "sc": "Joint Circular on the Cross-Sectoral Cyber Mapping Exercise",
+    "tc": "Joint Circular on the Cross-Sectoral Cyber Mapping Exercise"
+   },
+   "demand": {
+    "sc": "四机构首轮网络测绘成果：认清你与同业共用的第三方与单点故障面——最大节点是云、数据中心与网安方案供应商",
+    "tc": "四機構首輪網絡測繪成果：認清你與同業共用的第三方與單點故障面——最大節點是雲、數據中心與網安方案供應商"
+   },
+   "scenario": [
+    "incident-prep"
+   ],
+   "topics": [
+    "cyber",
+    "third-party-risk"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 1,
+    "midback": 3,
+    "lead": 3,
+    "cross": 2
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_29.7.2026.pdf",
+   "attachments": [
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_29.7.2026_Annex.pdf"
+   ]
+  },
+  {
+   "id": "ia-cir-circular-20082026",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2026-08-20",
+   "title": {
+    "sc": "Observations on insurance business carried on with the use of premium financing facilities",
+    "tc": "Observations on insurance business carried on with the use of premium financing facilities"
+   },
+   "demand": {
+    "sc": "保费融资业务观察：检视宣传口径（勿写杠杆倍数、勿只讲「付一成」）与负担能力评估是否计入房贷等既有债务",
+    "tc": "保費融資業務觀察：檢視宣傳口徑（勿寫槓桿倍數、勿只講「付一成」）與負擔能力評估是否計入房貸等既有債務"
+   },
+   "scenario": [
+    "daily-sign"
+   ],
+   "topics": [
+    "premium-financing",
+    "conduct"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 3,
+    "midback": 3,
+    "lead": 3,
+    "cross": 2
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_20082026.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-cir-circular-20260831-integrity-management-policy",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2026-08-31",
+   "title": {
+    "sc": "Integrity Management Policy",
+    "tc": "Integrity Management Policy"
+   },
+   "demand": {
+    "sc": "建立诚信管理政策，附件含政策范本与实施要求",
+    "tc": "建立誠信管理政策，附件含政策範本與實施要求"
+   },
+   "scenario": [
+    "team-mgmt"
+   ],
+   "topics": [
+    "conduct",
+    "governance"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 1,
+    "midback": 2,
+    "lead": 2,
+    "cross": 1
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_20260831_Integrity_Management_Policy.pdf",
+   "attachments": [
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Circular_20260831_Integrity_Management_Policy_Annex.pdf"
+   ]
+  },
+  {
+   "id": "ia-cir-20260930-circular-conduct-in-focus-issue-13",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2026-09-30",
+   "title": {
+    "sc": "Conduct in Focus - September 2026",
+    "tc": "Conduct in Focus - September 2026"
+   },
+   "demand": {
+    "sc": "读第 13 期监管通讯：经纪公司负责人任期过短被视作操守风险，另有营销选择性数据与伪造文件个案",
+    "tc": "讀第 13 期監管通訊：經紀公司負責人任期過短被視作操守風險，另有營銷選擇性數據與偽造文件個案"
+   },
+   "scenario": [
+    "team-mgmt"
+   ],
+   "topics": [
+    "conduct",
+    "compliance"
+   ],
+   "halflife": "medium",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 2,
+    "midback": 2,
+    "lead": 2,
+    "cross": 1
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/20260930_Circular_Conduct_In_Focus_Issue_13_Eng.pdf",
+   "attachments": [
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/20260930_Circular_Conduct_In_Focus_Issue_13_Chi.pdf"
+   ]
+  },
+  {
+   "id": "ia-cir-20261002-circulars-dpp-and-eap",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2026-10-02",
+   "title": {
+    "sc": "Appointments and Re-appointments to the Disciplinary Panel Pool and Expert Advisor Panel of the Insurance Authority",
+    "tc": "Appointments and Re-appointments to the Disciplinary Panel Pool and Expert Advisor Panel of the Insurance Authority"
+   },
+   "demand": {
+    "sc": "纪律审裁小组与专家顾问小组的委任与续任名单（机构无需动作）",
+    "tc": "紀律審裁小組與專家顧問小組的委任與續任名單（機構無需動作）"
+   },
+   "scenario": [
+    "corporate"
+   ],
+   "topics": [
+    "enforcement"
+   ],
+   "halflife": "medium",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 0,
+    "midback": 0,
+    "lead": 1,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/20261002_Circulars_DPP_and_EAP_Eng.pdf",
+   "attachments": [
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/20261002_Circulars_DPP_and_EAP_Chi.pdf"
+   ]
+  },
+  {
+   "id": "ia-cir-cir-dd-5-11-2026",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2026-11-05",
+   "title": {
+    "sc": "Launch of the E-Submission Function for Financial Returns by Licensed Insurance Broker Companies",
+    "tc": "Launch of the E-Submission Function for Financial Returns by Licensed Insurance Broker Companies"
+   },
+   "demand": {
+    "sc": "经纪公司改经 IIC 平台电子提交财务报表，硬本并行至 2027 年 10 月",
+    "tc": "經紀公司改經 IIC 平台電子提交財務報表，硬本並行至 2027 年 10 月"
+   },
+   "scenario": [
+    "annual"
+   ],
+   "topics": [
+    "reporting",
+    "compliance"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 1,
+    "midback": 3,
+    "lead": 1,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_5.11.2026_Eng.pdf",
+   "attachments": [
+    "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_5.11.2026_Chi.pdf"
+   ]
+  },
+  {
+   "id": "ia-cir-cir-dd-20-11-2026",
+   "org": "ia",
+   "type": "circular",
+   "ref": null,
+   "publishedAt": "2026-11-20",
+   "title": {
+    "sc": "Strengthening Cyber Resilience",
+    "tc": "Strengthening Cyber Resilience"
+   },
+   "demand": {
+    "sc": "对照 GL20 逐项核六项内控：备份与复原要能证明、演练与渗透测试要有记录、第三方与集团依赖要画得出来；适用机构善用 CISP 情报平台",
+    "tc": "對照 GL20 逐項核六項內控：備份與復原要能證明、演練與滲透測試要有記錄、第三方與集團依賴要畫得出來；適用機構善用 CISP 情報平台"
+   },
+   "scenario": [
+    "incident-prep"
+   ],
+   "topics": [
+    "cyber",
+    "compliance"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 2,
+    "midback": 3,
+    "lead": 3,
+    "cross": 2
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/cir_dd_20.11.2026.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-1",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL1",
+   "publishedAt": null,
+   "title": {
+    "sc": "Authorization Guideline",
+    "tc": "Authorization Guideline"
+   },
+   "demand": {
+    "sc": "授权指引：申请经营保险业务的门槛与流程",
+    "tc": "授權指引：申請經營保險業務的門檻與流程"
+   },
+   "scenario": [
+    "corporate"
+   ],
+   "topics": [
+    "authorization"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 0,
+    "midback": 0,
+    "lead": 1,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL1.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-10",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL10",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on the Corporate Governance of Authorized Insurers",
+    "tc": "Guideline on the Corporate Governance of Authorized Insurers"
+   },
+   "demand": {
+    "sc": "企业管治：董事会职责、制衡机制、举报与纠正程序",
+    "tc": "企業管治：董事會職責、制衡機制、舉報與糾正程序"
+   },
+   "scenario": [
+    "corporate"
+   ],
+   "topics": [
+    "governance"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 0,
+    "midback": 2,
+    "lead": 3,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL10.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-11",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL11",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on Classification of Class C - Linked Long Term Business",
+    "tc": "Guideline on Classification of Class C - Linked Long Term Business"
+   },
+   "demand": {
+    "sc": "C 类相连长期业务的分类规则",
+    "tc": "C 類相連長期業務的分類規則"
+   },
+   "scenario": [
+    "corporate"
+   ],
+   "topics": [
+    "product"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 0,
+    "midback": 1,
+    "lead": 1,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL11.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-12",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL12",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on Reinsurance with Related Companies",
+    "tc": "Guideline on Reinsurance with Related Companies"
+   },
+   "demand": {
+    "sc": "与关联公司安排再保险的监管要求",
+    "tc": "與關聯公司安排再保險的監管要求"
+   },
+   "scenario": [
+    "corporate"
+   ],
+   "topics": [
+    "reinsurance",
+    "governance"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 0,
+    "midback": 1,
+    "lead": 2,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL12.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-13",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL13",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on Asset Management by Authorized Insurers",
+    "tc": "Guideline on Asset Management by Authorized Insurers"
+   },
+   "demand": {
+    "sc": "保险公司的资产管理要求",
+    "tc": "保險公司的資產管理要求"
+   },
+   "scenario": [
+    "corporate"
+   ],
+   "topics": [
+    "capital",
+    "investment"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 0,
+    "midback": 1,
+    "lead": 2,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL13.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-14",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL14",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on Outsourcing",
+    "tc": "Guideline on Outsourcing"
+   },
+   "demand": {
+    "sc": "外包：第三方服务的尽职调查、合约条款、监督与退出安排",
+    "tc": "外包：第三方服務的盡職調查、合約條款、監督與退出安排"
+   },
+   "scenario": [
+    "incident-prep"
+   ],
+   "topics": [
+    "third-party-risk",
+    "compliance"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 1,
+    "midback": 3,
+    "lead": 3,
+    "cross": 2
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL14.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-15",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL15",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on Underwriting Class C Business",
+    "tc": "Guideline on Underwriting Class C Business"
+   },
+   "demand": {
+    "sc": "C 类业务的承保要求",
+    "tc": "C 類業務的承保要求"
+   },
+   "scenario": [
+    "corporate"
+   ],
+   "topics": [
+    "product",
+    "underwriting"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 0,
+    "midback": 1,
+    "lead": 1,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL15.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-16",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL16",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on Underwriting Long Term Insurance Business (other than Class C Business)",
+    "tc": "Guideline on Underwriting Long Term Insurance Business (other than Class C Business)"
+   },
+   "demand": {
+    "sc": "长期保险（非 C 类）的承保规定",
+    "tc": "長期保險（非 C 類）的承保規定"
+   },
+   "scenario": [
+    "corporate"
+   ],
+   "topics": [
+    "product",
+    "underwriting"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 0,
+    "midback": 1,
+    "lead": 1,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL16.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-17",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL17",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on Reinsurance",
+    "tc": "Guideline on Reinsurance"
+   },
+   "demand": {
+    "sc": "再保险安排的监管要求与自留额",
+    "tc": "再保險安排的監管要求與自留額"
+   },
+   "scenario": [
+    "corporate"
+   ],
+   "topics": [
+    "reinsurance"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 0,
+    "midback": 1,
+    "lead": 1,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL17.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-18",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL18",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on Exercising Power to Impose Pecuniary Penalty in respect of Authorised Insurers under the Insurance Ordinance (Cap, 41)",
+    "tc": "Guideline on Exercising Power to Impose Pecuniary Penalty in respect of Authorised Insurers under the Insurance Ordinance (Cap, 41)"
+   },
+   "demand": {
+    "sc": "对公司行使罚款权力的指引",
+    "tc": "對公司行使罰款權力的指引"
+   },
+   "scenario": [
+    "corporate"
+   ],
+   "topics": [
+    "enforcement"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 0,
+    "midback": 0,
+    "lead": 1,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL18.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-19",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL19",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on Qualifying Deferred Annuity Policy",
+    "tc": "Guideline on Qualifying Deferred Annuity Policy"
+   },
+   "demand": {
+    "sc": "合资格延期年金（QDAP）的产品要求与销售",
+    "tc": "合資格延期年金（QDAP）的產品要求與銷售"
+   },
+   "scenario": [
+    "daily-sign"
+   ],
+   "topics": [
+    "product",
+    "annuity"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 2,
+    "midback": 2,
+    "lead": 2,
+    "cross": 1
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL19.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-2",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL2",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on Insurance (General Business) (Valuation) Rules",
+    "tc": "Guideline on Insurance (General Business) (Valuation) Rules"
+   },
+   "demand": {
+    "sc": "一般业务保险的估值规则",
+    "tc": "一般業務保險的估值規則"
+   },
+   "scenario": [
+    "corporate"
+   ],
+   "topics": [
+    "actuarial",
+    "capital"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 0,
+    "midback": 1,
+    "lead": 1,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL2.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-20",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL20",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on Cybersecurity",
+    "tc": "Guideline on Cybersecurity"
+   },
+   "demand": {
+    "sc": "网络安全：治理、风险识别与评估、控制措施、事故响应与通报；网络韧性通函的核对基准",
+    "tc": "網絡安全：治理、風險識別與評估、控制措施、事故響應與通報；網絡韌性通函的核對基準"
+   },
+   "scenario": [
+    "incident-prep"
+   ],
+   "topics": [
+    "cyber",
+    "compliance"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 2,
+    "midback": 3,
+    "lead": 3,
+    "cross": 2
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/Guideline_on_Cybersecurity_English.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-21",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL21",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on Enterprise Risk Management",
+    "tc": "Guideline on Enterprise Risk Management"
+   },
+   "demand": {
+    "sc": "企业风险管理（ERM）：风险偏好框架、压力测试与情景分析",
+    "tc": "企業風險管理（ERM）：風險偏好框架、壓力測試與情景分析"
+   },
+   "scenario": [
+    "incident-prep"
+   ],
+   "topics": [
+    "risk",
+    "governance"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 1,
+    "midback": 3,
+    "lead": 3,
+    "cross": 2
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL21.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-22",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL22",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on Exercising Power to Impose Pecuniary Penalty in Respect of Regulated Persons under the Insurance Ordinance (Cap. 41)",
+    "tc": "Guideline on Exercising Power to Impose Pecuniary Penalty in Respect of Regulated Persons under the Insurance Ordinance (Cap. 41)"
+   },
+   "demand": {
+    "sc": "对管控人员行使罚款权力的指引",
+    "tc": "對管控人員行使罰款權力的指引"
+   },
+   "scenario": [
+    "corporate"
+   ],
+   "topics": [
+    "enforcement"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 0,
+    "midback": 0,
+    "lead": 1,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/Guideline_on_Pecuniary_Penalty_English.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-23",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL23",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on \"Fit and Proper\" Criteria for Licensed Insurance Intermediaries under the Insurance Ordinance (Cap. 41)",
+    "tc": "Guideline on \"Fit and Proper\" Criteria for Licensed Insurance Intermediaries under the Insurance Ordinance (Cap. 41)"
+   },
+   "demand": {
+    "sc": "持牌保险中介的「适当人选」准则：学历、经验、品格与财务稳健",
+    "tc": "持牌保險中介的「適當人選」準則：學歷、經驗、品格與財務穩健"
+   },
+   "scenario": [
+    "team-mgmt"
+   ],
+   "topics": [
+    "recruitment",
+    "compliance"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 2,
+    "midback": 3,
+    "lead": 2,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/Eng_GL23_FPP.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-24",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL24",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on Continuing Professional Development for Licensed Insurance Intermediaries",
+    "tc": "Guideline on Continuing Professional Development for Licensed Insurance Intermediaries"
+   },
+   "demand": {
+    "sc": "持牌中介持续专业培训（CPD）：时数、范畴与申报",
+    "tc": "持牌中介持續專業培訓（CPD）：時數、範疇與申報"
+   },
+   "scenario": [
+    "annual"
+   ],
+   "topics": [
+    "cpd",
+    "compliance"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 3,
+    "midback": 2,
+    "lead": 2,
+    "cross": 1
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/Eng_GL24_CPD.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-25",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL25",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on Offering of Gifts",
+    "tc": "Guideline on Offering of Gifts"
+   },
+   "demand": {
+    "sc": "赠品提供：不得以赠品变相诱导投保，须符合价值与披露限制",
+    "tc": "贈品提供：不得以贈品變相誘導投保，須符合價值與披露限制"
+   },
+   "scenario": [
+    "daily-sign"
+   ],
+   "topics": [
+    "conduct",
+    "product"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 3,
+    "midback": 2,
+    "lead": 2,
+    "cross": 1
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL25_English.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-26",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL26",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on Sale of Investment-Linked Assurance Scheme (“ILAS”) Products",
+    "tc": "Guideline on Sale of Investment-Linked Assurance Scheme (“ILAS”) Products"
+   },
+   "demand": {
+    "sc": "投连险（ILAS）销售：适当性评估、风险披露与销售流程",
+    "tc": "投連險（ILAS）銷售：適當性評估、風險披露與銷售流程"
+   },
+   "scenario": [
+    "daily-sign"
+   ],
+   "topics": [
+    "product",
+    "conduct"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 3,
+    "midback": 2,
+    "lead": 2,
+    "cross": 2
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL26_English.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-27",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL27",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on Long Term Insurance Policy Replacement",
+    "tc": "Guideline on Long Term Insurance Policy Replacement"
+   },
+   "demand": {
+    "sc": "长期保单替换：替换前须做比较、披露不利之处并留痕",
+    "tc": "長期保單替換：替換前須做比較、披露不利之處並留痕"
+   },
+   "scenario": [
+    "daily-sign"
+   ],
+   "topics": [
+    "conduct",
+    "product"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 3,
+    "midback": 2,
+    "lead": 3,
+    "cross": 2
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL27_English.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-28",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL28",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on Benefit Illustrations for Long Term Insurance Policies",
+    "tc": "Guideline on Benefit Illustrations for Long Term Insurance Policies"
+   },
+   "demand": {
+    "sc": "利益演示：保证与非保证部分的呈现、乐观悲观情景与警示语",
+    "tc": "利益演示：保證與非保證部分的呈現、樂觀悲觀情景與警示語"
+   },
+   "scenario": [
+    "daily-sign"
+   ],
+   "topics": [
+    "product",
+    "illustration"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 3,
+    "midback": 2,
+    "lead": 2,
+    "cross": 1
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL28_English.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-29",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL29",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on Cooling-off Period",
+    "tc": "Guideline on Cooling-off Period"
+   },
+   "demand": {
+    "sc": "冷静期：保单交付、冷静期起算与退保权利",
+    "tc": "冷靜期：保單交付、冷靜期起算與退保權利"
+   },
+   "scenario": [
+    "daily-sign"
+   ],
+   "topics": [
+    "conduct",
+    "product"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 3,
+    "midback": 2,
+    "lead": 2,
+    "cross": 1
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL29_English.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-3",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL3",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on Anti-Money Laundering and Counter-Terrorist Financing",
+    "tc": "Guideline on Anti-Money Laundering and Counter-Terrorist Financing"
+   },
+   "demand": {
+    "sc": "反洗钱与反恐融资：客户尽职审查、持续监察与可疑交易报告",
+    "tc": "反洗錢與反恐融資：客户盡職審查、持續監察與可疑交易報告"
+   },
+   "scenario": [
+    "daily-sign"
+   ],
+   "topics": [
+    "aml",
+    "compliance"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 2,
+    "midback": 3,
+    "lead": 2,
+    "cross": 2
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL3_Eng.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-30",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL30",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on Financial Needs Analysis",
+    "tc": "Guideline on Financial Needs Analysis"
+   },
+   "demand": {
+    "sc": "财务需要分析（FNA）：必须做、必须记录、必须与建议一致",
+    "tc": "財務需要分析（FNA）：必須做、必須記錄、必須與建議一致"
+   },
+   "scenario": [
+    "daily-sign"
+   ],
+   "topics": [
+    "conduct",
+    "compliance"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 3,
+    "midback": 3,
+    "lead": 3,
+    "cross": 2
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL30_English.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-31",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL31",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on Medical Insurance Business",
+    "tc": "Guideline on Medical Insurance Business"
+   },
+   "demand": {
+    "sc": "医疗保险业务：核保、理赔、披露与产品设计",
+    "tc": "醫療保險業務：核保、理賠、披露與產品設計"
+   },
+   "scenario": [
+    "claims-service"
+   ],
+   "topics": [
+    "product",
+    "claims"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 2,
+    "midback": 3,
+    "lead": 2,
+    "cross": 1
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL31_20191129e.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-3a",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL3A",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on Exercising Power to Impose Pecuniary Penalty in respect of Anti-Money Laundering and Counter-Terrorist Financing",
+    "tc": "Guideline on Exercising Power to Impose Pecuniary Penalty in respect of Anti-Money Laundering and Counter-Terrorist Financing"
+   },
+   "demand": {
+    "sc": "对中介行使罚款权力的指引",
+    "tc": "對中介行使罰款權力的指引"
+   },
+   "scenario": [
+    "corporate"
+   ],
+   "topics": [
+    "enforcement"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 1,
+    "midback": 1,
+    "lead": 2,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL3A_Eng.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-4",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL4",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on \"Fit and Proper\" Criteria under the Insurance Ordinance (Cap. 41)",
+    "tc": "Guideline on \"Fit and Proper\" Criteria under the Insurance Ordinance (Cap. 41)"
+   },
+   "demand": {
+    "sc": "「适当人选」准则（公司层面）：控股人、董事与管控人员的资格",
+    "tc": "「適當人選」準則（公司層面）：控股人、董事與管控人員的資格"
+   },
+   "scenario": [
+    "corporate"
+   ],
+   "topics": [
+    "governance"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 0,
+    "midback": 1,
+    "lead": 2,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL4.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-5",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL5",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on Application for Authorization to Carry on Insurance Business in or from Hong Kong",
+    "tc": "Guideline on Application for Authorization to Carry on Insurance Business in or from Hong Kong"
+   },
+   "demand": {
+    "sc": "经营保险业务的授权申请要求",
+    "tc": "經營保險業務的授權申請要求"
+   },
+   "scenario": [
+    "corporate"
+   ],
+   "topics": [
+    "authorization"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 0,
+    "midback": 0,
+    "lead": 1,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL5.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-6",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL6",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on Reserving for Mortgage Guarantee Business",
+    "tc": "Guideline on Reserving for Mortgage Guarantee Business"
+   },
+   "demand": {
+    "sc": "按揭担保业务的准备金要求",
+    "tc": "按揭擔保業務的準備金要求"
+   },
+   "scenario": [
+    "corporate"
+   ],
+   "topics": [
+    "actuarial",
+    "capital"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 0,
+    "midback": 1,
+    "lead": 1,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL6.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-7",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL7",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on the Reserve Provision for Class G of Long Term Business",
+    "tc": "Guideline on the Reserve Provision for Class G of Long Term Business"
+   },
+   "demand": {
+    "sc": "长期业务 G 类的准备金规定",
+    "tc": "長期業務 G 類的準備金規定"
+   },
+   "scenario": [
+    "corporate"
+   ],
+   "topics": [
+    "actuarial"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 0,
+    "midback": 1,
+    "lead": 1,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL7.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-8",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL8",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on the Use of Internet for Insurance Activities",
+    "tc": "Guideline on the Use of Internet for Insurance Activities"
+   },
+   "demand": {
+    "sc": "互联网保险活动：网上销售与线上投保的管控、披露与留痕",
+    "tc": "互聯網保險活動：網上銷售與線上投保的管控、披露與留痕"
+   },
+   "scenario": [
+    "daily-sign"
+   ],
+   "topics": [
+    "digital",
+    "conduct"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 2,
+    "midback": 2,
+    "lead": 2,
+    "cross": 1
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL8.pdf",
+   "attachments": []
+  },
+  {
+   "id": "ia-gl-9",
+   "org": "ia",
+   "type": "guideline",
+   "ref": "GL9",
+   "publishedAt": null,
+   "title": {
+    "sc": "Guideline on Actuarial Review of Insurance Liabilities in respect of Employees' Compensation and Motor Insurance Businesses",
+    "tc": "Guideline on Actuarial Review of Insurance Liabilities in respect of Employees' Compensation and Motor Insurance Businesses"
+   },
+   "demand": {
+    "sc": "雇主责任业务的保险负债精算检讨",
+    "tc": "僱主責任業務的保險負債精算檢討"
+   },
+   "scenario": [
+    "corporate"
+   ],
+   "topics": [
+    "actuarial"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 0,
+    "midback": 1,
+    "lead": 1,
+    "cross": 0
+   },
+   "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL9.pdf",
+   "attachments": []
+  }
+ ]
+}

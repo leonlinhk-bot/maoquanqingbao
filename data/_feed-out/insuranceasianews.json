@@ -1,11 +1,32 @@
 {
  "source": "insuranceasianews",
  "source_label": "InsuranceAsia News · 香港",
- "fetched_at": "2026-11-26T00:00:20.920511+08:00",
+ "fetched_at": "2026-11-27T18:00:09.666371+08:00",
  "feed_url": "https://insuranceasianews.com/country/hong-kong/feed/",
  "feed_window": 10,
- "entries_fingerprint": "sha256:1a3313ca7a2b054682b0f73ee41d8808",
- "new_count": 0,
+ "entries_fingerprint": "sha256:9695c608b06a72a6a0e7f707dbf52e2e",
+ "new_count": 2,
  "filtered_out": 0,
- "items": []
+ "items": [
+  {
+   "id": "234448",
+   "title": "MSIG Hong Kong hires Kathy Mak as senior manager for financial lines",
+   "url": "https://insuranceasianews.com/msig-hong-kong-hires-kathy-mak-as-senior-manager-for-financial-lines/",
+   "published": "Thu, 26 Nov 2026 04:12:39 +0000",
+   "published_hkt": "2026-11-26T12:12:39+08:00",
+   "summary": "She joins from Chubb, where she was a senior underwriter for financial lines since May 2022.",
+   "author": null,
+   "paywalled": true
+  },
+  {
+   "id": "234340",
+   "title": "Hong Kong’s Wang Fuk Court fire claims top US$74m a year on",
+   "url": "https://insuranceasianews.com/hong-kongs-wang-fuk-court-fire-claims-top-us74m-a-year-on/",
+   "published": "Wed, 25 Nov 2026 22:00:27 +0000",
+   "published_hkt": "2026-11-26T06:00:27+08:00",
+   "summary": "Total of 168 people died following the fire in November last year, with China Taiping the underwriter responsible for all the relevant insurance policies.",
+   "author": null,
+   "paywalled": true
+  }
+ ]
 }

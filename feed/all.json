@@ -1,9 +1,177 @@
 {
   "feed": "all",
   "title": "猫圈儿港险情报站 · 全部动态索引",
-  "generatedAt": "2026-11-27T09:12:30Z",
-  "itemCount": 1818,
+  "generatedAt": "2026-11-27T10:13:05Z",
+  "itemCount": 1830,
   "items": [
+    {
+      "id": "hkfi-ridehailing-12-insurers-20261127",
+      "title": "保险业联会：12 间险企已推网约车保险　商用部分保费 1 万至 1.3 万、低于的士",
+      "sourceTier": "media",
+      "themes": [
+        "product",
+        "hong-kong",
+        "distribution"
+      ],
+      "publishedAt": "2026-11-27T11:45:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=hkfi-ridehailing-12-insurers-20261127",
+      "originalUrl": "https://hk.on.cc/hk/bkn/cnt/news/20261127/bkn-20261127114500759-1127_00822_001.html"
+    },
+    {
+      "id": "insuranceasianews-insurtech-insights-asia-hk-2026-20261127",
+      "title": "Insurtech Insights Asia 2026 重临香港　主题由「实验」转向「执行」 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "insurtech",
+        "ai",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-11-27T09:00:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasianews-insurtech-insights-asia-hk-2026-20261127",
+      "originalUrl": "https://insuranceasianews.com/from-experimentation-to-execution-insurtech-insights-asia-2026-returns-to-hong-kong/"
+    },
+    {
+      "id": "insuranceasia-marsh-cyber-aviation-20261127",
+      "title": "Marsh 推出航空业专属网络险　覆盖营运中断、数据外泄与监管成本 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "cyber",
+        "product",
+        "distribution"
+      ],
+      "publishedAt": "2026-11-27T06:30:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-marsh-cyber-aviation-20261127",
+      "originalUrl": "https://insuranceasia.com/insurance/news/marsh-launches-cyber-insurance-airline-operational-disruptions"
+    },
+    {
+      "id": "insuranceasia-generali-china-ai-energy-storage-20261127",
+      "title": "Generali 中国把电池安全技术嵌入储能险定价　并推容量衰减保证险 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "ai",
+        "underwriting",
+        "pricing"
+      ],
+      "publishedAt": "2026-11-27T06:15:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-generali-china-ai-energy-storage-20261127",
+      "originalUrl": "https://insuranceasia.com/insurance/news/generali-china-use-ai-in-energy-storage-insurance-pricing"
+    },
+    {
+      "id": "insuranceasia-asia-cat-loss-76b-gap-20261127",
+      "title": "亚太 2025 年自然灾害损失 760 亿美元　仅 9.2% 有保险 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "catastrophe",
+        "protection-gap",
+        "apac"
+      ],
+      "publishedAt": "2026-11-27T05:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-asia-cat-loss-76b-gap-20261127",
+      "originalUrl": "https://insuranceasia.com/insurance/exclusive/behind-number-natural-disasters-cost-asia-76b-in-2025-yet-less-10-was-insured"
+    },
+    {
+      "id": "nfra-misselling-circular-eight-types-20261126",
+      "title": "金融监管总局通报八类保险不当销售行为　五类涉线上：低价诱导、自动扣费、「黑盒」弹窗",
+      "sourceTier": "media",
+      "themes": [
+        "compliance",
+        "reg",
+        "channel"
+      ],
+      "publishedAt": "2026-11-26T22:49:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=nfra-misselling-circular-eight-types-20261126",
+      "originalUrl": "https://nbd.com.cn/articles/2026-11-26/4660264.html"
+    },
+    {
+      "id": "convoy-broker-cyber-incident-20261126",
+      "title": "康宏理财遭网络安全事件　暂停后勤系统与客户专页　私隐公署已展开循规审查",
+      "sourceTier": "media",
+      "themes": [
+        "cyber",
+        "hong-kong",
+        "firm"
+      ],
+      "publishedAt": "2026-11-26T21:34:00+08:00",
+      "score": 64,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=convoy-broker-cyber-incident-20261126",
+      "originalUrl": "https://headline4hk.com/article/20261126/stheadline/3641520"
+    },
+    {
+      "id": "insuranceasianews-msig-hk-kathy-mak-financial-lines-20261126",
+      "title": "MSIG 香港委任 Kathy Mak 为财务险高级经理　来自 Chubb [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "talent",
+        "people",
+        "underwriting"
+      ],
+      "publishedAt": "2026-11-26T12:12:00+08:00",
+      "score": 70,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasianews-msig-hk-kathy-mak-financial-lines-20261126",
+      "originalUrl": "https://insuranceasianews.com/msig-hong-kong-hires-kathy-mak-as-senior-manager-for-financial-lines/"
+    },
+    {
+      "id": "insuranceasianews-wangfuk-claims-74m-20261126",
+      "title": "宏福苑火灾一周年：相关保险索偿已逾 7,400 万美元　中国太平为承保人 [EN原文]",
+      "sourceTier": "pro",
+      "themes": [
+        "claims",
+        "catastrophe",
+        "hong-kong"
+      ],
+      "publishedAt": "2026-11-26T06:00:00+08:00",
+      "score": 72,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasianews-wangfuk-claims-74m-20261126",
+      "originalUrl": "https://insuranceasianews.com/hong-kongs-wang-fuk-court-fire-claims-top-us74m-a-year-on/"
+    },
+    {
+      "id": "insuranceasia-ia-conduct-complaints-h1-2026-20261126",
+      "title": "保监局上半年接获投诉 652 宗增 10%　点名代理流失率与「非保证利益」失实陈述 [EN原文]",
+      "sourceTier": "media",
+      "themes": [
+        "reg",
+        "compliance",
+        "distribution"
+      ],
+      "publishedAt": "2026-11-26T05:45:00+08:00",
+      "score": 68,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=insuranceasia-ia-conduct-complaints-h1-2026-20261126",
+      "originalUrl": "https://insuranceasia.com/insurance/news/hong-kong-insurance-complaints-rise-10-in-h1-2026"
+    },
+    {
+      "id": "icac-mpf-intermediary-jailed-40-months-20261126",
+      "title": "强积金中介人伪造「移居内地」证明助客提早提取 460 万　判囚 40 个月",
+      "sourceTier": "official",
+      "themes": [
+        "compliance",
+        "fraud",
+        "regulation"
+      ],
+      "publishedAt": "2026-11-26",
+      "score": 86,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=icac-mpf-intermediary-jailed-40-months-20261126",
+      "originalUrl": "https://icac.org.hk/tc/p/press/index_id_5062.html"
+    },
+    {
+      "id": "mpfa-full-portability-phase1-20261221-20261125",
+      "title": "首阶段强积金「全自由行」12 月 21 日实施　受托人本周起发通知书",
+      "sourceTier": "media",
+      "themes": [
+        "retirement",
+        "hong-kong",
+        "product"
+      ],
+      "publishedAt": "2026-11-25T18:29:00+08:00",
+      "score": 66,
+      "canonicalUrl": "https://hkmaoquanqingbao.com/#item=mpfa-full-portability-phase1-20261221-20261125",
+      "originalUrl": "https://hkcd.com/hkcdweb/content/2026/11/25/content_8787347.html"
+    },
     {
       "id": "tkww-family-office-tax-bill-3380-20261125",
       "title": "财库局：推动家办税务修例　单一家办逾 3,380 间、两年增 25%",
