@@ -126,7 +126,7 @@ const UI = {
     dl: "下载 PDF",
     demandLbl: "要做什么",
     roleFront: "前线", roleMid: "中后台", roleLead: "管理层", roleCross: "跨境",
-    foot: '全部文件为监管机构公开发布，本库仅做索引与导读。原始出处：<a href="https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html" target="_blank" rel="noopener">保险业监管局 — 监管通函</a> · <a href="https://www.ia.org.hk/en/legislative_framework/guidelines.html" target="_blank" rel="noopener">指引</a><br>回到 <a href="index.html">情报站首页</a> · <a href="tools.html">AI 工具情报</a>',
+    foot: '全部文件为监管机构公开发布，本库仅做索引与导读。原始出处：<a href="https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html" target="_blank" rel="noopener">保监局 — 监管通函</a> · <a href="https://www.ia.org.hk/en/legislative_framework/guidelines.html" target="_blank" rel="noopener">指引</a> · <a href="https://brdr.hkma.gov.hk/" target="_blank" rel="noopener">金管局 — 监管文件库</a> · <a href="https://www.pcpd.org.hk/tc_chi/" target="_blank" rel="noopener">私隐公署</a><br>回到 <a href="index.html">情报站首页</a> · <a href="tools.html">AI 工具情报</a>',
   },
   tc: {
     title: "監管文檔庫",
@@ -139,7 +139,7 @@ const UI = {
     dl: "下載 PDF",
     demandLbl: "要做什麼",
     roleFront: "前線", roleMid: "中後台", roleLead: "管理層", roleCross: "跨境",
-    foot: '全部文件為監管機構公開發布，本庫僅做索引與導讀。原始出處：<a href="https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html" target="_blank" rel="noopener">保險業監管局 — 監管通函</a> · <a href="https://www.ia.org.hk/en/legislative_framework/guidelines.html" target="_blank" rel="noopener">指引</a><br>回到 <a href="index.html">情報站首頁</a> · <a href="tools.html">AI 工具情報</a>',
+    foot: '全部文件為監管機構公開發布，本庫僅做索引與導讀。原始出處：<a href="https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/circulars_on_regulatory_matters_2026.html" target="_blank" rel="noopener">保監局 — 監管通函</a> · <a href="https://www.ia.org.hk/en/legislative_framework/guidelines.html" target="_blank" rel="noopener">指引</a> · <a href="https://brdr.hkma.gov.hk/" target="_blank" rel="noopener">金管局 — 監管文件庫</a> · <a href="https://www.pcpd.org.hk/tc_chi/" target="_blank" rel="noopener">私隱公署</a><br>回到 <a href="index.html">情報站首頁</a> · <a href="tools.html">AI 工具情報</a>',
   }
 };
 const U = UI[LANG] || UI.sc;
@@ -151,9 +151,15 @@ const TOPIC_NAMES = {
   ai: "AI 治理", illustration: "利益演示", risk: "风险管理", commission: "报酬",
   claims: "理赔", aml: "反洗钱", hni: "高净值", digital: "数字化", annuity: "年金",
   underwriting: "承保", reinsurance: "再保险", investment: "投资", group: "集团",
-  "cross-border": "跨境", authorization: "授权", corporate: "公司"
+  "cross-border": "跨境", authorization: "授权", corporate: "公司",
+  privacy: "个人资料", gba: "大湾区", onboarding: "开户与适当性"
 };
 const TYPE_NAMES = { circular: "通函", guideline: "指引" };
+const ORG_NAMES = {
+  sc: { ia: "保监局", hkma: "金管局", pcpd: "私隐公署", sfc: "证监会", mpfa: "积金局", iais: "IAIS" },
+  tc: { ia: "保監局", hkma: "金管局", pcpd: "私隱公署", sfc: "證監會", mpfa: "積金局", iais: "IAIS" }
+};
+const ORG = ORG_NAMES[LANG] || ORG_NAMES.sc;
 
 let DATA = null, state = { v: "scenario", q: "", filter: null };
 
@@ -169,7 +175,9 @@ function roles(r) {
 
 function card(d) {
   const sup = d.status === "superseded";
-  const refTxt = d.ref || (d.type === "circular" ? "通函" : "指引");
+  const org = ORG[d.org] || d.org;
+  const kind = TYPE_NAMES[d.type] || d.type;
+  const refTxt = d.ref ? `${org} · ${d.ref}` : `${org} · ${kind}`;
   const refCls = d.type === "guideline" ? "doc-ref gl" : "doc-ref";
   const statusTxt = sup ? (LANG === "tc" ? "已取代" : "已取代") : (LANG === "tc" ? "现行" : "现行");
   const statusCls = sup ? "st-sup" : "st-active";
@@ -280,8 +288,15 @@ function boot() {
   fetch("data/docs.json?v=" + Date.now()).then(r => r.json()).then(d => {
     DATA = d;
     const n = (d.docs || []).length;
+    const byOrg = {};
+    d.docs.forEach(x => byOrg[x.org] = (byOrg[x.org] || 0) + 1);
+    const orgBadges = Object.keys(byOrg)
+      .sort((a, b) => byOrg[b] - byOrg[a])
+      .map(o => `<span>${ORG[o] || o} ${byOrg[o]}</span>`).join("");
     document.getElementById("hBadges").innerHTML =
-      `<span>${U.badgeTotal(n)}</span><span>保监局 IA</span><span>通函 ${d.docs.filter(x => x.type === "circular").length}</span><span>指引 ${d.docs.filter(x => x.type === "guideline").length}</span>`;
+      `<span>${U.badgeTotal(n)}</span>${orgBadges}` +
+      `<span>通函 ${d.docs.filter(x => x.type === "circular").length}</span>` +
+      `<span>指引 ${d.docs.filter(x => x.type === "guideline").length}</span>`;
     const disc = d.meta && d.meta.disclaimer;
     document.getElementById("discBox").innerHTML = `<b>${LANG === "tc" ? "免責聲明" : "免责声明"}　</b>${T(disc)}`;
     render();

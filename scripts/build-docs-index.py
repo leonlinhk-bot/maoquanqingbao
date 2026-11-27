@@ -187,6 +187,40 @@ GUIDELINES = {
 }
 
 
+# ── 跨机构文档（HKMA / PCPD）—— 手工维护，补「高客与跨境」场景 ──
+# 这些源没有稳定的列表页可 diff（HKMA brdr 是 docId 系统、PCPD 站点改版过），
+# 所以按「已知文档」维护，新增时手工添一条。
+EXTERNAL_DOCS = [
+    dict(
+        org="pcpd", type="guideline", ref="跨境轉移指引", date="2014-12-01",
+        title_sc="保障个人资料：跨境资料转移指引（含建议合约条文范本）",
+        title_tc="保障個人資料：跨境資料轉移指引（含建議合約條文範本）",
+        demand="客户资料只要离开香港（含集团海外系统、云端、内地合作方），须先确认符合《私隐条例》第 33 条例外；实务上以书面同意＋建议合约条文范本为准，并保留跨境资料清单",
+        scenario=["hni-cross"], topics=["privacy", "cross-border", "compliance"],
+        halflife="long", roles=(2, 3, 3, 3),
+        url="https://www.pcpd.org.hk/tc_chi/resources_centre/publications/guidance/files/GN_crossborder_c.pdf",
+    ),
+    dict(
+        org="pcpd", type="guideline", ref="大灣區標準合同", date="2023-12-01",
+        title_sc="跨境资料转移指引：《粤港澳大湾区（内地、香港）个人信息跨境流动标准合同》",
+        title_tc="跨境資料轉移指引：《粵港澳大灣區（內地、香港）個人信息跨境流動標準合同》",
+        demand="客户资料转往大湾区内地城市时，可用《大湾区标准合同》替代逐份书面同意；须签署标准合同并完成合规备案与个人信息保护影响评估",
+        scenario=["hni-cross"], topics=["privacy", "cross-border", "gba"],
+        halflife="long", roles=(1, 3, 3, 3),
+        url="https://www.pcpd.org.hk/tc_chi/resources_centre/publications/files/standard_contract_gba.pdf",
+    ),
+    dict(
+        org="hkma", type="circular", ref="20260522-9-EN", date="2026-05-22",
+        title_sc="金管局通函：投资账户开户与客户关系维护的应采管控（含内地投资者额外措施）",
+        title_tc="金管局通函：投資帳戶開立與客戶關係維護的應採管控（含內地投資者額外措施）",
+        demand="内地客户开投资账户须做额外措施：核实资金来源、禁止代客开户、识别可疑或伪造文件；跨境理财通南向通客户沿用现有安排、不适用该附件",
+        scenario=["hni-cross"], topics=["onboarding", "cross-border", "aml"],
+        halflife="long", roles=(2, 2, 3, 3),
+        url="https://brdr.hkma.gov.hk/eng/doc-ldg/docId/getPdf/20260522-9-EN/20260522-9-EN.pdf",
+    ),
+]
+
+
 def norm(s):
     """把文件名/ref 归一化，便于匹配"""
     s = re.sub(r"\.pdf$", "", s, flags=re.I)
@@ -282,6 +316,27 @@ def main():
             "rolesImpact": dict(zip(["front", "midback", "lead", "cross"], roles)),
             "sourceUrl": d["pdf"],
             "attachments": d.get("attachments") or [],
+        })
+
+    # 跨机构文档（HKMA / PCPD）
+    for e in EXTERNAL_DOCS:
+        out.append({
+            "id": f"{e['org']}-{e['type']}-" + re.sub(r"[^a-z0-9]+", "-", e["ref"].lower()).strip("-"),
+            "org": e["org"],
+            "type": e["type"],
+            "ref": e["ref"],
+            "publishedAt": e["date"],
+            "title": {"sc": e["title_sc"], "tc": e["title_tc"]},
+            "demand": {"sc": e["demand"], "tc": tc(e["demand"])},
+            "scenario": e["scenario"],
+            "topics": e["topics"],
+            "halflife": e["halflife"],
+            "status": "active",
+            "replaces": None,
+            "supersededBy": None,
+            "rolesImpact": dict(zip(["front", "midback", "lead", "cross"], e["roles"])),
+            "sourceUrl": e["url"],
+            "attachments": [],
         })
 
     # 排序：场景内按日期倒序，指引排后面

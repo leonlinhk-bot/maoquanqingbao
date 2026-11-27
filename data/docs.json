@@ -1,7 +1,7 @@
 {
  "meta": {
   "updatedAt": "2026-11-27T18:00:00+08:00",
-  "total": 68,
+  "total": 71,
   "disclaimer": {
    "sc": "本库仅为公开监管文件的索引与导读，供专业参考，不构成法律或合规意见，也不构成任何销售或投资建议。文件内容以监管机构发布的原文为准；如导读与原文有出入，一律以原文为准。使用前请自行核对最新版本——监管文件会更新、取代或撤销，本库虽尽力标注状态，但无法保证实时。",
    "tc": "本庫僅為公開監管文件的索引與導讀，供專業參考，不構成法律或合規意見，也不構成任何銷售或投資建議。文件內容以監管機構發佈的原文為準；如導讀與原文有出入，一律以原文為準。使用前請自行核對最新版本——監管文件會更新、取代或撤銷，本庫雖盡力標註狀態，但無法保證實時。"
@@ -968,6 +968,41 @@
    "attachments": [
     "https://www.ia.org.hk/en/legislative_framework/circulars/reg_matters/files/Cir_dd_13.05.2026_Cross-sector_Reference_Checking_Arrangement_Between_the_Banking_and_Insurance_Sectors_Chi.pdf"
    ]
+  },
+  {
+   "id": "hkma-circular-20260522-9-en",
+   "org": "hkma",
+   "type": "circular",
+   "ref": "20260522-9-EN",
+   "publishedAt": "2026-05-22",
+   "title": {
+    "sc": "金管局通函：投资账户开户与客户关系维护的应采管控（含内地投资者额外措施）",
+    "tc": "金管局通函：投資帳戶開立與客戶關係維護的應採管控（含內地投資者額外措施）"
+   },
+   "demand": {
+    "sc": "内地客户开投资账户须做额外措施：核实资金来源、禁止代客开户、识别可疑或伪造文件；跨境理财通南向通客户沿用现有安排、不适用该附件",
+    "tc": "內地客户開投資賬户須做額外措施：核實資金來源、禁止代客開户、識別可疑或偽造文件；跨境理財通南向通客户沿用現有安排、不適用該附件"
+   },
+   "scenario": [
+    "hni-cross"
+   ],
+   "topics": [
+    "onboarding",
+    "cross-border",
+    "aml"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 2,
+    "midback": 2,
+    "lead": 3,
+    "cross": 3
+   },
+   "sourceUrl": "https://brdr.hkma.gov.hk/eng/doc-ldg/docId/getPdf/20260522-9-EN/20260522-9-EN.pdf",
+   "attachments": []
   },
   {
    "id": "ia-cir-cir-dd-29-05-2026",
@@ -2397,6 +2432,76 @@
     "cross": 0
    },
    "sourceUrl": "https://www.ia.org.hk/en/legislative_framework/files/GL9.pdf",
+   "attachments": []
+  },
+  {
+   "id": "pcpd-guideline-",
+   "org": "pcpd",
+   "type": "guideline",
+   "ref": "跨境轉移指引",
+   "publishedAt": "2014-12-01",
+   "title": {
+    "sc": "保障个人资料：跨境资料转移指引（含建议合约条文范本）",
+    "tc": "保障個人資料：跨境資料轉移指引（含建議合約條文範本）"
+   },
+   "demand": {
+    "sc": "客户资料只要离开香港（含集团海外系统、云端、内地合作方），须先确认符合《私隐条例》第 33 条例外；实务上以书面同意＋建议合约条文范本为准，并保留跨境资料清单",
+    "tc": "客户資料只要離開香港（含集團海外系統、雲端、內地合作方），須先確認符合《私隱條例》第 33 條例外；實務上以書面同意＋建議合約條文範本為準，並保留跨境資料清單"
+   },
+   "scenario": [
+    "hni-cross"
+   ],
+   "topics": [
+    "privacy",
+    "cross-border",
+    "compliance"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 2,
+    "midback": 3,
+    "lead": 3,
+    "cross": 3
+   },
+   "sourceUrl": "https://www.pcpd.org.hk/tc_chi/resources_centre/publications/guidance/files/GN_crossborder_c.pdf",
+   "attachments": []
+  },
+  {
+   "id": "pcpd-guideline-",
+   "org": "pcpd",
+   "type": "guideline",
+   "ref": "大灣區標準合同",
+   "publishedAt": "2023-12-01",
+   "title": {
+    "sc": "跨境资料转移指引：《粤港澳大湾区（内地、香港）个人信息跨境流动标准合同》",
+    "tc": "跨境資料轉移指引：《粵港澳大灣區（內地、香港）個人信息跨境流動標準合同》"
+   },
+   "demand": {
+    "sc": "客户资料转往大湾区内地城市时，可用《大湾区标准合同》替代逐份书面同意；须签署标准合同并完成合规备案与个人信息保护影响评估",
+    "tc": "客户資料轉往大灣區內地城市時，可用《大灣區標準合同》替代逐份書面同意；須簽署標準合同並完成合規備案與個人信息保護影響評估"
+   },
+   "scenario": [
+    "hni-cross"
+   ],
+   "topics": [
+    "privacy",
+    "cross-border",
+    "gba"
+   ],
+   "halflife": "long",
+   "status": "active",
+   "replaces": null,
+   "supersededBy": null,
+   "rolesImpact": {
+    "front": 1,
+    "midback": 3,
+    "lead": 3,
+    "cross": 3
+   },
+   "sourceUrl": "https://www.pcpd.org.hk/tc_chi/resources_centre/publications/files/standard_contract_gba.pdf",
    "attachments": []
   }
  ]
